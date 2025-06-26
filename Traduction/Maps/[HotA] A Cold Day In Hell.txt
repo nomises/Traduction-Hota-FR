@@ -1,9 +1,9 @@
 ===== Map name =====
-Un Jour Glacé en Enfer
+Un Jour Glacï¿½ en Enfer
 
 ===== Map description =====
-Tout s'est effondré en un clin d'oeil. Nous avons perdu l'effet de surprise. Nous n'avons plus de temps pour une nouvelle stratégie, tout ce que nous pouvons encore espérer, c'est survivre.
-
+Tout s'est effondrï¿½ en un clin d'oeil. Nous avons perdu l'effet de surprise. Nous n'avons plus de temps pour une nouvelle stratï¿½gie, tout ce que nous pouvons encore espï¿½rer, c'est survivre.
+ceci est un test de modification
 ===== Rumors =====
 
 ===== Timed events =====
@@ -27,7 +27,7 @@ Message:
 Timed events:
 
 Name:
-+ðåñ
++ï¿½ï¿½ï¿½
 Message:
 
 
