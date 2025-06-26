@@ -5,7 +5,7 @@
 
 ## HotA_lng.lod
 ### Traduire
-* SPTRAITS.txt
+* ~~SPTRAITS.txt~~
 * SSTRAITS.txt
 * TentColr.txt
 * xtrainfo.txt

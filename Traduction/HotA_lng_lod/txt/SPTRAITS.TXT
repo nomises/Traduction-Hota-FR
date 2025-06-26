@@ -5,812 +5,812 @@ Adventure Spells
 																																	
 Corne de Brume	Corne	1	 	x	 	 	8	7	7	7	0	50	50	75	100	3	5	5	5	3	5	5	3	3	10	10	20	20	"{Corne de Brume}
 
-Fait venir à votre Héros un bateau allié existant et inoccupé.
+Fait venir ï¿½ votre Hï¿½ros un bateau alliï¿½ existant et inoccupï¿½.
 
-Les chances de succès sont de 50%.
-"	"{Corne de Brume pour Novice}
+Les chances de succï¿½s sont de 60%.
+"	"{Valeur traduite}
 
-Fait venir à votre Héros un bateau allié existant et inoccupé.
+Fait venir ï¿½ votre Hï¿½ros un bateau alliï¿½ existant et inoccupï¿½.
 
-Les chances de succès sont de 50%.
+Les chances de succï¿½s sont de 50%.
 "	"{Corne de Brume pour Disciple}
 
-Fait venir à votre Héros un bateau allié existant et inoccupé. Si aucun bateau n'existe, un nouveau bateau est créé.
+Fait venir ï¿½ votre Hï¿½ros un bateau alliï¿½ existant et inoccupï¿½. Si aucun bateau n'existe, un nouveau bateau est crï¿½ï¿½.
 
-Les chances de succès sont de 75%.
-"	"{Corne de Brume pour Maître}
+Les chances de succï¿½s sont de 75%.
+"	"{Corne de Brume pour Maï¿½tre}
 
-Fait venir à votre Héros un bateau allié existant et inoccupé. Si aucun bateau n'existe, un nouveau bateau est créé."	 ADV_SPELL
+Fait venir ï¿½ votre Hï¿½ros un bateau alliï¿½ existant et inoccupï¿½. Si aucun bateau n'existe, un nouveau bateau est crï¿½ï¿½."	 ADV_SPELL
 Sabordage	Sabordage	2	 	x	 	 	8	6	6	6	0	50	50	75	100	6	4	4	4	4	4	4	4	4	1	1	1	1	"{Sabordage}
 
-Détruit un de vos bateaux présent dans votre champ de vision. À utiliser prudemment, les effets en sont permanents
+Dï¿½truit un de vos bateaux prï¿½sent dans votre champ de vision. ï¿½ utiliser prudemment, les effets en sont permanents
 
-Les chances de succès sont de 50%.
+Les chances de succï¿½s sont de 50%.
 "	"{Sabordage pour Novice}
 
-Détruit un de vos bateaux présent dans votre champ de vision. À utiliser prudemment, les effets en sont permanents.
-Les chances de succès sont de 50%.
+Dï¿½truit un de vos bateaux prï¿½sent dans votre champ de vision. ï¿½ utiliser prudemment, les effets en sont permanents.
+Les chances de succï¿½s sont de 50%.
 "	"{Sabordage pour Disciple}
 
-Détruit un de vos bateaux présent dans votre champ de vision. À utiliser prudemment, les effets en sont permanents.
-Les chances de succès sont de 75%."	"{Sabordage pour Maître}
+Dï¿½truit un de vos bateaux prï¿½sent dans votre champ de vision. ï¿½ utiliser prudemment, les effets en sont permanents.
+Les chances de succï¿½s sont de 75%."	"{Sabordage pour Maï¿½tre}
 
-Détruit un de vos bateaux présent dans votre champ de vision. À utiliser prudemment, les effets en sont permanents.
+Dï¿½truit un de vos bateaux prï¿½sent dans votre champ de vision. ï¿½ utiliser prudemment, les effets en sont permanents.
 "	 ADV_SPELL
 Divination	Divination	2	x	x	x	x	4	2	2	2	0	1	1	2	3	2	2	2	4	2	2	2	2	2	1	1	1	1	"{Divination}
 
-Indique les effectifs des monstres errants et précise s'ils sont prêts à rejoindre l'armée du Héros.
+Indique les effectifs des monstres errants et prï¿½cise s'ils sont prï¿½ts ï¿½ rejoindre l'armï¿½e du Hï¿½ros.
 "	"{Divination pour Novice}
 
-Indique les effectifs des monstres errants et précise s'ils sont prêts à rejoindre l'armée du Héros. 
+Indique les effectifs des monstres errants et prï¿½cise s'ils sont prï¿½ts ï¿½ rejoindre l'armï¿½e du Hï¿½ros. 
 "	"{Divination pour Disciple}
 
-Indique les effectifs des monstres errants et précise s'ils sont prêts à rejoindre l'armée du Héros. Les caractéristiques des héros ennemis sont précisées ainsi que les effectifs de leurs armées respectives."	"{Divination pour Maître}
+Indique les effectifs des monstres errants et prï¿½cise s'ils sont prï¿½ts ï¿½ rejoindre l'armï¿½e du Hï¿½ros. Les caractï¿½ristiques des hï¿½ros ennemis sont prï¿½cisï¿½es ainsi que les effectifs de leurs armï¿½es respectives."	"{Divination pour Maï¿½tre}
 
-Indique les effectifs des monstres errants et précise s'ils sont prêts à rejoindre l'armée du Héros. Les caractéristiques des héros ennemis sont précisées ainsi que les effectifs de leurs armées respectives. Vous obtenez également des informations sur les villes et garnisons ennemies.
+Indique les effectifs des monstres errants et prï¿½cise s'ils sont prï¿½ts ï¿½ rejoindre l'armï¿½e du Hï¿½ros. Les caractï¿½ristiques des hï¿½ros ennemis sont prï¿½cisï¿½es ainsi que les effectifs de leurs armï¿½es respectives. Vous obtenez ï¿½galement des informations sur les villes et garnisons ennemies.
 "	 ADV_SPELL
 Parole des Pierres	Par. des Pierres	1	x				2	1	1	1	0	0	0	0	0	3	3	3	3	3	3	3	3	3	1	1	1	1	"{Parole des Pierres}
 
-Révèle l'emplacement de toutes les ressources au lanceur de sort. 
+Rï¿½vï¿½le l'emplacement de toutes les ressources au lanceur de sort. 
 "	"{Parole des Pierres pour Novice}
 
-Révèle l'emplacement de toutes les ressources au lanceur de sort. 
+Rï¿½vï¿½le l'emplacement de toutes les ressources au lanceur de sort. 
 "	"{Parole des Pierres pour Disciple}
 
-Révèle l'emplacement de toutes les ressources et mines au lanceur de sort. 
-"	"{Parole des Pierres pour Maître}
+Rï¿½vï¿½le l'emplacement de toutes les ressources et mines au lanceur de sort. 
+"	"{Parole des Pierres pour Maï¿½tre}
 
-Révèle l'emplacement de toutes les ressources, mines et terrains au lanceur de sort. 
+Rï¿½vï¿½le l'emplacement de toutes les ressources, mines et terrains au lanceur de sort. 
 "	 ADV_SPELL
 Illusion	Illusion	2	 	 	 	x	4	2	2	2	0	0	0	0	0	2	2	2	4	2	2	2	0	2	1	1	1	1	"{Illusion}
 
-Fournit de fausses informations à l'ennemi.
+Fournit de fausses informations ï¿½ l'ennemi.
 "	"{Illusion pour Novice}
 
-Bien que les effectifs de vos troupes soient correctement signalés à l'ennemi, toutes vos unités ressemblent à votre créature la plus puissante."	"{Illusion pour Disciple}
+Bien que les effectifs de vos troupes soient correctement signalï¿½s ï¿½ l'ennemi, toutes vos unitï¿½s ressemblent ï¿½ votre crï¿½ature la plus puissante."	"{Illusion pour Disciple}
 
-Pour l'ennemi, toutes vos unités ressemblent à votre créature la plus puissante. Les effectifs indiqués sont de 0. "	"{Illusion pour Maître}
+Pour l'ennemi, toutes vos unitï¿½s ressemblent ï¿½ votre crï¿½ature la plus puissante. Les effectifs indiquï¿½s sont de 0. "	"{Illusion pour Maï¿½tre}
 
-Pour l'ennemi, toutes vos unités ressemblent à la créature la plus puissante que vous puissiez recruter dans votre ville de départ. Les effectifs indiqués sont de 0. "	 ADV_SPELL
+Pour l'ennemi, toutes vos unitï¿½s ressemblent ï¿½ la crï¿½ature la plus puissante que vous puissiez recruter dans votre ville de dï¿½part. Les effectifs indiquï¿½s sont de 0. "	 ADV_SPELL
 Parole des Vents	Par. des Vents	1				x	2	1	1	1	0	0	0	0	0	3	3	3	3	3	3	3	3	3	1	1	1	1	"{Parole des Vents}
 
-Révèle au lanceur de sorts où se trouvent les artéfacts à l'abandon. 
+Rï¿½vï¿½le au lanceur de sorts oï¿½ se trouvent les artï¿½facts ï¿½ l'abandon. 
 "	"{Parole des Vents pour Novice}
 
-Révèle au lanceur de sorts où se trouvent les artéfacts à l'abandon. 
+Rï¿½vï¿½le au lanceur de sorts oï¿½ se trouvent les artï¿½facts ï¿½ l'abandon. 
 "	"{Parole des Vents pour Disciple}
 
-Révèle au lanceur de sorts où se trouvent les artéfacts à l'abandon, ainsi que les héros ennemis. 
-"	"{Parole des Vents pour Maître}
+Rï¿½vï¿½le au lanceur de sorts oï¿½ se trouvent les artï¿½facts ï¿½ l'abandon, ainsi que les hï¿½ros ennemis. 
+"	"{Parole des Vents pour Maï¿½tre}
 
-Révèle au lanceur de sorts où se trouvent les artéfacts à l'abandon, ainsi que les héros et villes ennemis. 
+Rï¿½vï¿½le au lanceur de sorts oï¿½ se trouvent les artï¿½facts ï¿½ l'abandon, ainsi que les hï¿½ros et villes ennemis. 
 "	 ADV_SPELL
 Envol	Envol	5	 	 	 	x	20	15	15	15	0	60	60	80	100	0	16	16	16	16	12	0	0	13	30	30	40	50	"{Envol}
 
-Permet à votre armée de survoler les obstacles.
+Permet ï¿½ votre armï¿½e de survoler les obstacles.
 "	"{Envol pour Novice}
 
-Permet à votre armée de survoler les obstacles avec une pénalité de 40 % sur les points de mouvement du Héros."	"{Envol pour Disciple}
+Permet ï¿½ votre armï¿½e de survoler les obstacles avec une pï¿½nalitï¿½ de 40 % sur les points de mouvement du Hï¿½ros."	"{Envol pour Disciple}
 
-Permet à votre armée de survoler les obstacles avec une pénalité de 20 % sur les points de mouvement du Héros.
-"	"{Envol pour Maître}
+Permet ï¿½ votre armï¿½e de survoler les obstacles avec une pï¿½nalitï¿½ de 20 % sur les points de mouvement du Hï¿½ros.
+"	"{Envol pour Maï¿½tre}
 
-Permet à votre armée de survoler les obstacles sans pénalité de mouvement."	 ADV_SPELL
-Pont Céleste	Pont Céleste	4	 	x	 	 	12	8	8	8	0	60	60	80	100	10	10	10	10	10	10	0	0	10	15	15	20	25	"{Pont Céleste}
+Permet ï¿½ votre armï¿½e de survoler les obstacles sans pï¿½nalitï¿½ de mouvement."	 ADV_SPELL
+Pont Cï¿½leste	Pont Cï¿½leste	4	 	x	 	 	12	8	8	8	0	60	60	80	100	10	10	10	10	10	10	0	0	10	15	15	20	25	"{Pont Cï¿½leste}
 
-Permet à votre armée de traverser une étendue d'eau."	"{Pont Céleste pour Novice}
+Permet ï¿½ votre armï¿½e de traverser une ï¿½tendue d'eau."	"{Pont Cï¿½leste pour Novice}
 
-Permet à votre armée de traverser une étendue d'eau avec une pénalité de 40 % sur les points de mouvement du Héros."	"{Pont Céleste pour Disciple}
+Permet ï¿½ votre armï¿½e de traverser une ï¿½tendue d'eau avec une pï¿½nalitï¿½ de 40 % sur les points de mouvement du Hï¿½ros."	"{Pont Cï¿½leste pour Disciple}
 
-Permet à votre armée de traverser une étendue d'eau avec une pénalité de 20 % sur les points de mouvement du Héros."	"{Pont Céleste pour Maître}
+Permet ï¿½ votre armï¿½e de traverser une ï¿½tendue d'eau avec une pï¿½nalitï¿½ de 20 % sur les points de mouvement du Hï¿½ros."	"{Pont Cï¿½leste pour Maï¿½tre}
 
-Permet à votre armée de traverser une étendue d'eau sans pénalité de mouvement."	 ADV_SPELL
+Permet ï¿½ votre armï¿½e de traverser une ï¿½tendue d'eau sans pï¿½nalitï¿½ de mouvement."	 ADV_SPELL
 Portail Dimensionnel	Portail	5	 	 	 	x	25	20	20	20	0	1	2	3	4	0	20	14	16	16	16	0	0	13	30	30	40	50	"{Portail Dimensionnel}
 
-Une fois par jour, votre Héros peut se déplacer instantanément d'un emplacement à un autre, jusqu'à la limite de son champ de vision. 
+Une fois par jour, votre Hï¿½ros peut se dï¿½placer instantanï¿½ment d'un emplacement ï¿½ un autre, jusqu'ï¿½ la limite de son champ de vision. 
 "	"{Portail Dimensionnel pour Novice}
 
-Deux fois par jour, votre Héros peut se déplacer instantanément d'un emplacement à un autre, jusqu'à la limite de son champ de vision. Le déplacement coûte 300 points de mouvement. 
+Deux fois par jour, votre Hï¿½ros peut se dï¿½placer instantanï¿½ment d'un emplacement ï¿½ un autre, jusqu'ï¿½ la limite de son champ de vision. Le dï¿½placement coï¿½te 300 points de mouvement. 
 "	"{Portail Dimensionnel pour Disciple}
 
-Trois fois par jour, votre Héros peut se déplacer instantanément d'un emplacement à un autre, jusqu'à la limite de son champ de vision. Le déplacement coûte 300 points de mouvement. 
-"	"{Portail Dimensionnel pour Maître}
+Trois fois par jour, votre Hï¿½ros peut se dï¿½placer instantanï¿½ment d'un emplacement ï¿½ un autre, jusqu'ï¿½ la limite de son champ de vision. Le dï¿½placement coï¿½te 300 points de mouvement. 
+"	"{Portail Dimensionnel pour Maï¿½tre}
 
-Quatre fois par jour, votre Héros peut se déplacer instantanément d'un emplacement à un autre, jusqu'à la limite de son champ de vision. Le déplacement coûte 200 points de mouvement. 
+Quatre fois par jour, votre Hï¿½ros peut se dï¿½placer instantanï¿½ment d'un emplacement ï¿½ un autre, jusqu'ï¿½ la limite de son champ de vision. Le dï¿½placement coï¿½te 200 points de mouvement. 
 "	 ADV_SPELL
 Portail de Retour	Portail de Rt.	4	x	 	 	 	16	12	12	12	0	0	0	0	0	10	10	10	10	10	10	0	0	10	5	5	70	70	"{Portail de Retour}
 
-Téléporte votre Héros dans la ville alliée la plus proche. La ville doit être inoccupée."	"{Portail de Retour pour Novice}
+Tï¿½lï¿½porte votre Hï¿½ros dans la ville alliï¿½e la plus proche. La ville doit ï¿½tre inoccupï¿½e."	"{Portail de Retour pour Novice}
 
-Téléporte votre Héros dans la ville alliée la plus proche. La ville doit être inoccupée. Le déplacement coûte 300 points de mouvement."	"{Portail de Retour pour Disciple}
+Tï¿½lï¿½porte votre Hï¿½ros dans la ville alliï¿½e la plus proche. La ville doit ï¿½tre inoccupï¿½e. Le dï¿½placement coï¿½te 300 points de mouvement."	"{Portail de Retour pour Disciple}
 
-Téléporte votre Héros dans n'importe quelle ville alliée. La ville doit être inoccupée. Le déplacement coûte 300 points de mouvement."	"{Portail de Retour pour Maître}
+Tï¿½lï¿½porte votre Hï¿½ros dans n'importe quelle ville alliï¿½e. La ville doit ï¿½tre inoccupï¿½e. Le dï¿½placement coï¿½te 300 points de mouvement."	"{Portail de Retour pour Maï¿½tre}
 
-Téléporte votre Héros dans n'importe quelle ville alliée. La ville doit être inoccupée. Le déplacement coûte 200 points de mouvement."	 ADV_SPELL
+Tï¿½lï¿½porte votre Hï¿½ros dans n'importe quelle ville alliï¿½e. La ville doit ï¿½tre inoccupï¿½e. Le dï¿½placement coï¿½te 200 points de mouvement."	 ADV_SPELL
 																																	
 Combat Spells																																	
 																																	
 Sables Mouvants	Sables Mouv.	2	x	 	 	 	8	6	6	6	0	0	0	0	0	4	4	6	4	4	4	6	6	4	1	1	1	1	"{Sables Mouvants}
 
-Plusieurs hexagones aléatoirement choisis se transforment en sables mouvants. Seules les créatures qui combattent dans leur milieu naturel les détectent. Les troupes qui entrent dans un hexagone de sables mouvants sont bloquées pour le reste du tour."	"{Sables Mouvants pour Novice}
+Plusieurs hexagones alï¿½atoirement choisis se transforment en sables mouvants. Seules les crï¿½atures qui combattent dans leur milieu naturel les dï¿½tectent. Les troupes qui entrent dans un hexagone de sables mouvants sont bloquï¿½es pour le reste du tour."	"{Sables Mouvants pour Novice}
 
-Quatre hexagones aléatoirement choisis se transforment en sables mouvants. Seules les créatures qui combattent dans leur milieu naturel les détectent. Les troupes qui entrent dans un hexagone de sables mouvants sont bloquées pour le reste du tour."	"{Sables Mouvants pour Disciple}
+Quatre hexagones alï¿½atoirement choisis se transforment en sables mouvants. Seules les crï¿½atures qui combattent dans leur milieu naturel les dï¿½tectent. Les troupes qui entrent dans un hexagone de sables mouvants sont bloquï¿½es pour le reste du tour."	"{Sables Mouvants pour Disciple}
 
-Six hexagones aléatoirement choisis se transforment en sables mouvants. Seules les créatures qui combattent dans leur milieu naturel les détectent. Les troupes qui entrent dans un hexagone de sables mouvants sont bloquées pour le reste du tour."	"{Sables Mouvants pour Maître}
+Six hexagones alï¿½atoirement choisis se transforment en sables mouvants. Seules les crï¿½atures qui combattent dans leur milieu naturel les dï¿½tectent. Les troupes qui entrent dans un hexagone de sables mouvants sont bloquï¿½es pour le reste du tour."	"{Sables Mouvants pour Maï¿½tre}
 
-Huit hexagones aléatoirement choisis se transforment en sables mouvants. Seules les créatures qui combattent dans leur milieu naturel les détectent. Les troupes qui entrent dans un hexagone de sables mouvants sont bloquées pour le reste du tour."	 COMBAT_SPELL|LOCATION_TARGET
-Pièges	Pièges	3	 	 	x	 	18	15	15	15	10	25	25	50	100	8	8	8	6	8	12	8	2	4	1	1	1	1	"{Pièges}
+Huit hexagones alï¿½atoirement choisis se transforment en sables mouvants. Seules les crï¿½atures qui combattent dans leur milieu naturel les dï¿½tectent. Les troupes qui entrent dans un hexagone de sables mouvants sont bloquï¿½es pour le reste du tour."	 COMBAT_SPELL|LOCATION_TARGET
+Piï¿½ges	Piï¿½ges	3	 	 	x	 	18	15	15	15	10	25	25	50	100	8	8	8	6	8	12	8	2	4	1	1	1	1	"{Piï¿½ges}
 
-Des pièges sont placés sur plusieurs hexagones aléatoirement choisis. Seules les créatures qui combattent dans leur milieu naturel les détectent. Toute unité qui pénètre dans un hexagone piégé subit des dégâts."	"{Pièges pour Novice}
+Des piï¿½ges sont placï¿½s sur plusieurs hexagones alï¿½atoirement choisis. Seules les crï¿½atures qui combattent dans leur milieu naturel les dï¿½tectent. Toute unitï¿½ qui pï¿½nï¿½tre dans un hexagone piï¿½gï¿½ subit des dï¿½gï¿½ts."	"{Piï¿½ges pour Novice}
 
-Des pièges sont placés sur quatre hexagones aléatoirement choisis. Seules les créatures qui combattent dans leur milieu naturel les détectent. Toute unité qui pénètre dans un hexagone piégé subit des dégâts.
-(Magie x 10 + 25 points de dégâts)
-"	"{Pièges pour Disciple }
+Des piï¿½ges sont placï¿½s sur quatre hexagones alï¿½atoirement choisis. Seules les crï¿½atures qui combattent dans leur milieu naturel les dï¿½tectent. Toute unitï¿½ qui pï¿½nï¿½tre dans un hexagone piï¿½gï¿½ subit des dï¿½gï¿½ts.
+(Magie x 10 + 25 points de dï¿½gï¿½ts)
+"	"{Piï¿½ges pour Disciple }
 
-Des pièges sont placés sur six hexagones aléatoirement choisis. Seules les créatures qui combattent dans leur milieu naturel les détectent. Toute unité qui pénètre dans un hexagone piégé subit des dégâts. 
-(Magie x 10 + 50 points de dégâts)
-"	"{Pièges pour Maître}
+Des piï¿½ges sont placï¿½s sur six hexagones alï¿½atoirement choisis. Seules les crï¿½atures qui combattent dans leur milieu naturel les dï¿½tectent. Toute unitï¿½ qui pï¿½nï¿½tre dans un hexagone piï¿½gï¿½ subit des dï¿½gï¿½ts. 
+(Magie x 10 + 50 points de dï¿½gï¿½ts)
+"	"{Piï¿½ges pour Maï¿½tre}
 
-Des pièges sont placés sur huit hexagones aléatoirement choisis. Seules les créatures qui combattent dans leur milieu naturel les détectent. Toute unité qui pénètre dans un hexagone piégé subit des dégâts.
-(Magie x 10 + 100 points de dégâts)
+Des piï¿½ges sont placï¿½s sur huit hexagones alï¿½atoirement choisis. Seules les crï¿½atures qui combattent dans leur milieu naturel les dï¿½tectent. Toute unitï¿½ qui pï¿½nï¿½tre dans un hexagone piï¿½gï¿½ subit des dï¿½gï¿½ts.
+(Magie x 10 + 100 points de dï¿½gï¿½ts)
 "	 COMBAT_SPELL|LOCATION_TARGET
 Champ de Force	Ch. de Force	3	x	 	 	 	12	9	9	9	0	0	0	0	0	4	4	8	2	8	8	4	4	8	1	1	1	1	"{Champ de Force}
 
-Un champ de force empêchant tout déplacement sur deux hexagones est créé à l'emplacement indiqué."	"{Champ de Force pour Novice}
+Un champ de force empï¿½chant tout dï¿½placement sur deux hexagones est crï¿½ï¿½ ï¿½ l'emplacement indiquï¿½."	"{Champ de Force pour Novice}
 
-Un champ de force empêchant tout déplacement sur deux hexagones est créé à l'emplacement indiqué."	"{Champ de Force pour Disciple}
+Un champ de force empï¿½chant tout dï¿½placement sur deux hexagones est crï¿½ï¿½ ï¿½ l'emplacement indiquï¿½."	"{Champ de Force pour Disciple}
 
-Un champ de force empêchant tout déplacement sur trois hexagones est créé à l'emplacement indiqué."	"{Champ de Force pour Maître}
+Un champ de force empï¿½chant tout dï¿½placement sur trois hexagones est crï¿½ï¿½ ï¿½ l'emplacement indiquï¿½."	"{Champ de Force pour Maï¿½tre}
 
-Un champ de force empêchant tout déplacement sur trois hexagones est créé à l'emplacement indiqué."	 COMBAT_SPELL|LOCATION_TARGET
+Un champ de force empï¿½chant tout dï¿½placement sur trois hexagones est crï¿½ï¿½ ï¿½ l'emplacement indiquï¿½."	 COMBAT_SPELL|LOCATION_TARGET
 Mur de Flammes	M. de Flammes	2	 	 	x	 	8	6	6	6	10	10	10	20	50	4	4	4	12	4	4	4	4	8	1	1	1	1	"{Mur de Flammes}
 
-Un mur de flammes s'étend sur deux hexagones. Toute unité le traversant subit des dégâts."	"{Mur de Flammes pour Novice}
+Un mur de flammes s'ï¿½tend sur deux hexagones. Toute unitï¿½ le traversant subit des dï¿½gï¿½ts."	"{Mur de Flammes pour Novice}
 
-Un mur de flammes s'étend sur deux hexagones. Toute unité le traversant subit des dégâts.
-(Magie x 15 + 10 points de dégâts)
+Un mur de flammes s'ï¿½tend sur deux hexagones. Toute unitï¿½ le traversant subit des dï¿½gï¿½ts.
+(Magie x 15 + 10 points de dï¿½gï¿½ts)
 "	"{Mur de Flammes pour Disciple}
 
-Un mur de flammes s'étend sur trois hexagones. Toute unité le traversant subit des dégâts.
-(Magie x 15 + 20 points de dégâts)
-"	"{Mur de Flammes pour Maître}
+Un mur de flammes s'ï¿½tend sur trois hexagones. Toute unitï¿½ le traversant subit des dï¿½gï¿½ts.
+(Magie x 15 + 20 points de dï¿½gï¿½ts)
+"	"{Mur de Flammes pour Maï¿½tre}
 
-Un mur de flammes s'étend sur trois hexagones. Toute unité le traversant subit des dégâts.
-(Magie x 15 + 50 points de dégâts)
+Un mur de flammes s'ï¿½tend sur trois hexagones. Toute unitï¿½ le traversant subit des dï¿½gï¿½ts.
+(Magie x 15 + 50 points de dï¿½gï¿½ts)
 "	 COMBAT_SPELL|LOCATION_TARGET
-Séisme	Séisme	3	x	 	 	 	20	17	17	17	1	2	2	3	4	4	8	4	6	4	4	4	50	4	1	1	1	1	"{Séisme}
+Sï¿½isme	Sï¿½isme	3	x	 	 	 	20	17	17	17	1	2	2	3	4	4	8	4	6	4	4	4	50	4	1	1	1	1	"{Sï¿½isme}
 
-Lors d'un siège, inflige des dégâts à plusieurs éléments de fortifications choisis aléatoirement."	"{Séisme pour Novice}
+Lors d'un siï¿½ge, inflige des dï¿½gï¿½ts ï¿½ plusieurs ï¿½lï¿½ments de fortifications choisis alï¿½atoirement."	"{Sï¿½isme pour Novice}
 
-Lors d'un siège, inflige des dégâts à deux éléments de fortifications choisis aléatoirement."	"{{Séisme pour  Disciple}
+Lors d'un siï¿½ge, inflige des dï¿½gï¿½ts ï¿½ deux ï¿½lï¿½ments de fortifications choisis alï¿½atoirement."	"{{Sï¿½isme pour  Disciple}
 
-Lors d'un siège, inflige des dégâts à trois éléments de fortifications choisis aléatoirement."	"{Séisme pour Maître}
+Lors d'un siï¿½ge, inflige des dï¿½gï¿½ts ï¿½ trois ï¿½lï¿½ments de fortifications choisis alï¿½atoirement."	"{Sï¿½isme pour Maï¿½tre}
 
-Lors d'un siège, inflige des dégâts à quatre éléments de fortifications choisis aléatoirement."	 COMBAT_SPELL
-Flèche Magique	Flèche Mag.	1	x	x	x	x	5	4	4	4	10	10	10	20	30	30	30	30	30	30	30	30	30	30	10	10	10	10	"{Flèche Magique}
+Lors d'un siï¿½ge, inflige des dï¿½gï¿½ts ï¿½ quatre ï¿½lï¿½ments de fortifications choisis alï¿½atoirement."	 COMBAT_SPELL
+Flï¿½che Magique	Flï¿½che Mag.	1	x	x	x	x	5	4	4	4	10	10	10	20	30	30	30	30	30	30	30	30	30	30	10	10	10	10	"{Flï¿½che Magique}
 
-Les troupes visées subissent des dégâts."	"{Flèche Magique pour Novice}
+Les troupes visï¿½es subissent des dï¿½gï¿½ts."	"{Flï¿½che Magique pour Novice}
 
-Les troupes visées subissent des dégâts.
-(Magie x 10 + 10 points de dégâts)
-"	"{Flèche Magique pour Disciple}
+Les troupes visï¿½es subissent des dï¿½gï¿½ts.
+(Magie x 10 + 10 points de dï¿½gï¿½ts)
+"	"{Flï¿½che Magique pour Disciple}
 
-Les troupes visées subissent des dégâts.
-(Magie x 10 + 20 points de dégâts)
-"	"{Flèche Magique pour Maître}
+Les troupes visï¿½es subissent des dï¿½gï¿½ts.
+(Magie x 10 + 20 points de dï¿½gï¿½ts)
+"	"{Flï¿½che Magique pour Maï¿½tre}
 
-Les troupes visées subissent des dégâts.
-(Magie x 10 + 30 points de dégâts)
+Les troupes visï¿½es subissent des dï¿½gï¿½ts.
+(Magie x 10 + 30 points de dï¿½gï¿½ts)
 "	 COMBAT_SPELL|CREATURE_TARGET
-Éclair de Glace	Éclair de G.	2	 	x	 	 	8	6	6	6	20	10	10	20	50	50	50	6	0	6	6	4	50	25	20	20	20	20	"{Éclair de Glace}
+ï¿½clair de Glace	ï¿½clair de G.	2	 	x	 	 	8	6	6	6	20	10	10	20	50	50	50	6	0	6	6	4	50	25	20	20	20	20	"{ï¿½clair de Glace}
 
-Les troupes visées subissent des dégâts."	"{Éclair de Glace pour Novice}
+Les troupes visï¿½es subissent des dï¿½gï¿½ts."	"{ï¿½clair de Glace pour Novice}
 
-Les troupes visées subissent des dégâts.
-(Magie x 20 + 10 points de dégâts)
-"	"{Éclair de Glace pour Disciple}
+Les troupes visï¿½es subissent des dï¿½gï¿½ts.
+(Magie x 20 + 10 points de dï¿½gï¿½ts)
+"	"{ï¿½clair de Glace pour Disciple}
 
-Les troupes visées subissent des dégâts.
-(Magie x 20 + 20 points de dégâts)
-"	"{Éclair de Glace pour Maître}
+Les troupes visï¿½es subissent des dï¿½gï¿½ts.
+(Magie x 20 + 20 points de dï¿½gï¿½ts)
+"	"{ï¿½clair de Glace pour Maï¿½tre}
 
-Les troupes visées subissent des dégâts.
-(Magie x 20 + 50 points de dégâts)
+Les troupes visï¿½es subissent des dï¿½gï¿½ts.
+(Magie x 20 + 50 points de dï¿½gï¿½ts)
 "	 COMBAT_SPELL|CREATURE_TARGET
 Foudre	Foudre	2	 	 	 	x	10	8	8	8	25	10	10	20	50	4	4	50	20	6	50	50	4	25	25	25	25	25	"{Foudre}
 
-Les troupes visées subissent des dégâts."	"{Foudre pour Novice}
+Les troupes visï¿½es subissent des dï¿½gï¿½ts."	"{Foudre pour Novice}
 
-Les troupes visées subissent des dégâts.
-(Magie x 25 + 10 points de dégâts)
+Les troupes visï¿½es subissent des dï¿½gï¿½ts.
+(Magie x 25 + 10 points de dï¿½gï¿½ts)
 "	"{Foudre pour Disciple}
 
-Les troupes visées subissent des dégâts.
-(Magie x 25 + 20 points de dégâts)
-"	"{Foudre pour Maître}
+Les troupes visï¿½es subissent des dï¿½gï¿½ts.
+(Magie x 25 + 20 points de dï¿½gï¿½ts)
+"	"{Foudre pour Maï¿½tre}
 
-Les troupes visées subissent des dégâts.
-(Magie x 25 + 50 points de dégâts)
+Les troupes visï¿½es subissent des dï¿½gï¿½ts.
+(Magie x 25 + 50 points de dï¿½gï¿½ts)
 "	 COMBAT_SPELL|CREATURE_TARGET
 Implosion	Implosion	5	x	 	 	 	30	25	25	25	75	100	100	200	300	0	16	14	16	20	12	0	0	13	75	75	75	75	"{Implosion}
 
-Les troupes visées subissent des dégâts."	"{Implosion pour Novice}
+Les troupes visï¿½es subissent des dï¿½gï¿½ts."	"{Implosion pour Novice}
 
-Les troupes visées subissent des dégâts. 
-(Magie x 75 + 100 points de dégâts)
+Les troupes visï¿½es subissent des dï¿½gï¿½ts. 
+(Magie x 75 + 100 points de dï¿½gï¿½ts)
 "	"{Implosion pour Disciple}
 
-Les troupes visées subissent des dégâts.
-(Magie x 75 + 200 points de dégâts)
-"	"{Implosion pour Maître}
+Les troupes visï¿½es subissent des dï¿½gï¿½ts.
+(Magie x 75 + 200 points de dï¿½gï¿½ts)
+"	"{Implosion pour Maï¿½tre}
 
-Les troupes visées subissent des dégâts.
-(Magie x 75 + 300 points de dégâts)
+Les troupes visï¿½es subissent des dï¿½gï¿½ts.
+(Magie x 75 + 300 points de dï¿½gï¿½ts)
 "	 COMBAT_SPELL|CREATURE_TARGET
 Foudre Terrible	Foudre Terr.	4	 	 	 	x	24	20	20	20	40	25	25	50	100	10	10	10	10	10	10	0	0	10	75	75	75	75	"{Foudre Terrible}
 
-Un éclair frappe la cible, infligeant des dégâts. Il rebondit ensuite et frappe la troupe la plus proche infligeant moitié moins de dégâts et ainsi de suite jusqu'à ce que quatre unités aient été touchées."	"{Foudre Terrible pour Novice}
+Un ï¿½clair frappe la cible, infligeant des dï¿½gï¿½ts. Il rebondit ensuite et frappe la troupe la plus proche infligeant moitiï¿½ moins de dï¿½gï¿½ts et ainsi de suite jusqu'ï¿½ ce que quatre unitï¿½s aient ï¿½tï¿½ touchï¿½es."	"{Foudre Terrible pour Novice}
 
-Un éclair frappe la cible, infligeant des dégâts. Il rebondit ensuite et frappe la troupe la plus proche infligeant moitié moins de dégâts et ainsi de suite jusqu'à ce que quatre unités aient été touchées. (Magie x 40 + 25 points de dégâts)
+Un ï¿½clair frappe la cible, infligeant des dï¿½gï¿½ts. Il rebondit ensuite et frappe la troupe la plus proche infligeant moitiï¿½ moins de dï¿½gï¿½ts et ainsi de suite jusqu'ï¿½ ce que quatre unitï¿½s aient ï¿½tï¿½ touchï¿½es. (Magie x 40 + 25 points de dï¿½gï¿½ts)
 "	"{Foudre Terrible pour Disciple}
 
-Un éclair frappe la cible, infligeant des dégâts. Il rebondit ensuite et frappe la troupe la plus proche infligeant moitié moins de dégâts et ainsi de suite jusqu'à ce que cinq unités aient été touchées. (Magie x 40 + 50 points de dégâts)
-"	"{Foudre Terrible pour Maître}
+Un ï¿½clair frappe la cible, infligeant des dï¿½gï¿½ts. Il rebondit ensuite et frappe la troupe la plus proche infligeant moitiï¿½ moins de dï¿½gï¿½ts et ainsi de suite jusqu'ï¿½ ce que cinq unitï¿½s aient ï¿½tï¿½ touchï¿½es. (Magie x 40 + 50 points de dï¿½gï¿½ts)
+"	"{Foudre Terrible pour Maï¿½tre}
 
-Un éclair frappe la cible, infligeant des dégâts. Il rebondit ensuite et frappe la troupe la plus proche infligeant moitié moins de dégâts et ainsi de suite jusqu'à ce que cinq unités aient été touchées. (Magie x 40 + 100 points de dégâts)
+Un ï¿½clair frappe la cible, infligeant des dï¿½gï¿½ts. Il rebondit ensuite et frappe la troupe la plus proche infligeant moitiï¿½ moins de dï¿½gï¿½ts et ainsi de suite jusqu'ï¿½ ce que cinq unitï¿½s aient ï¿½tï¿½ touchï¿½es. (Magie x 40 + 100 points de dï¿½gï¿½ts)
 "	 COMBAT_SPELL|CREATURE_TARGET
 Anneau de Givre	Anneau de G.	3	 	x	 	 	12	9	9	9	10	15	15	30	60	16	16	16	0	12	12	12	4	12	12	12	12	12	"{Anneau de Givre}
 
-Toutes les unités dans les hexagones adjacents à l'hexagone cible subissent des dégâts."	"{Anneau de Givre pour Novice}
+Toutes les unitï¿½s dans les hexagones adjacents ï¿½ l'hexagone cible subissent des dï¿½gï¿½ts."	"{Anneau de Givre pour Novice}
 
-Toutes les unités dans les hexagones adjacents à l'hexagone cible subissent des dégâts.
-(Magie x 10 + 15 points de dégâts)
+Toutes les unitï¿½s dans les hexagones adjacents ï¿½ l'hexagone cible subissent des dï¿½gï¿½ts.
+(Magie x 10 + 15 points de dï¿½gï¿½ts)
 "	"{Anneau de Givre pour Disciple}
 
-Toutes les unités dans les hexagones adjacents à l'hexagone cible subissent des dégâts.
-(Magie x 10 + 30 points de dégâts)
-"	"{Anneau de Givre pour Maître}
+Toutes les unitï¿½s dans les hexagones adjacents ï¿½ l'hexagone cible subissent des dï¿½gï¿½ts.
+(Magie x 10 + 30 points de dï¿½gï¿½ts)
+"	"{Anneau de Givre pour Maï¿½tre}
 
-Toutes les unités dans les hexagones adjacents à l'hexagone cible subissent des dégâts.
-(Magie x 10 + 60 points de dégâts)
+Toutes les unitï¿½s dans les hexagones adjacents ï¿½ l'hexagone cible subissent des dï¿½gï¿½ts.
+(Magie x 10 + 60 points de dï¿½gï¿½ts)
 "	 COMBAT_SPELL|LOCATION_TARGET
 Boule de Feu	Boule de F.	3	 	 	x	 	15	12	12	12	10	15	15	30	60	8	8	8	50	12	16	12	2	12	15	15	15	15	"{Boule de Feu}
 
-Toutes les unités dans l'hexagone visé et les hexagones adjacents subissent des dégâts."	"{Boule de Feu pour Novice}
+Toutes les unitï¿½s dans l'hexagone visï¿½ et les hexagones adjacents subissent des dï¿½gï¿½ts."	"{Boule de Feu pour Novice}
 
-Toutes les unités dans l'hexagone visé et les hexagones adjacents subissent des dégâts.
-(Magie x 10 + 15 points de dégâts)
+Toutes les unitï¿½s dans l'hexagone visï¿½ et les hexagones adjacents subissent des dï¿½gï¿½ts.
+(Magie x 10 + 15 points de dï¿½gï¿½ts)
 "	"{Boule de Feu pour Disciple}
 
-Toutes les unités dans l'hexagone visé et les hexagones adjacents subissent des dégâts.
-(Magie x 10 + 30 points de dégâts)
-"	"{Boule de Feu pour Maître}
+Toutes les unitï¿½s dans l'hexagone visï¿½ et les hexagones adjacents subissent des dï¿½gï¿½ts.
+(Magie x 10 + 30 points de dï¿½gï¿½ts)
+"	"{Boule de Feu pour Maï¿½tre}
 
-Toutes les unités dans l'hexagone visé et les hexagones adjacents subissent des dégâts.
-(Magie x 10 + 60 points de dégâts)
+Toutes les unitï¿½s dans l'hexagone visï¿½ et les hexagones adjacents subissent des dï¿½gï¿½ts.
+(Magie x 10 + 60 points de dï¿½gï¿½ts)
 "	 COMBAT_SPELL|LOCATION_TARGET
 Brasier	Brasier	4	 	 	x	 	16	12	12	12	10	20	20	40	80	5	5	5	10	5	5	0	0	10	20	20	20	20	"{Brasier}
 
-Toutes les unités se trouvant dans un rayon de deux hexagones de l'hexagone visé subissent des dégâts."	"{Brasier pour Novice}
+Toutes les unitï¿½s se trouvant dans un rayon de deux hexagones de l'hexagone visï¿½ subissent des dï¿½gï¿½ts."	"{Brasier pour Novice}
 
-Toutes les unités se trouvant dans un rayon de deux hexagones de l'hexagone visé subissent des dégâts.
-(Magie x 10 + 20 points de dégâts)
+Toutes les unitï¿½s se trouvant dans un rayon de deux hexagones de l'hexagone visï¿½ subissent des dï¿½gï¿½ts.
+(Magie x 10 + 20 points de dï¿½gï¿½ts)
 "	"{Brasier pour Disciple}
 
-Toutes les unités se trouvant dans un rayon de deux hexagones de l'hexagone visé subissent des dégâts.
-(Magie x 10 + 40 points de dégâts)
-"	"{Brasier pour Maître}
+Toutes les unitï¿½s se trouvant dans un rayon de deux hexagones de l'hexagone visï¿½ subissent des dï¿½gï¿½ts.
+(Magie x 10 + 40 points de dï¿½gï¿½ts)
+"	"{Brasier pour Maï¿½tre}
 
-Toutes les unités se trouvant dans un rayon de deux hexagones de l'hexagone visé subissent des dégâts.
-(Magie x 10 + 80 points de dégâts)
+Toutes les unitï¿½s se trouvant dans un rayon de deux hexagones de l'hexagone visï¿½ subissent des dï¿½gï¿½ts.
+(Magie x 10 + 80 points de dï¿½gï¿½ts)
 "	 COMBAT_SPELL|LOCATION_TARGET
-Pluie de Météores	Pluie de M.	4	x	 	 	 	16	12	12	12	25	25	25	50	100	10	10	10	10	10	10	0	0	10	37	37	37	37	"{Pluie de Météores}
+Pluie de Mï¿½tï¿½ores	Pluie de M.	4	x	 	 	 	16	12	12	12	25	25	25	50	100	10	10	10	10	10	10	0	0	10	37	37	37	37	"{Pluie de Mï¿½tï¿½ores}
 
-S'abat sur les troupes de l'hexagone cible et celles des hexagones adjacents."	"{Pluie de Météores pour Novice}
-
-S'abat sur les troupes de l'hexagone cible et celles des hexagones adjacents.
-(Magie x 25 + 25 points de dégâts)
-"	"{Pluie de Météores pour Disciple}
+S'abat sur les troupes de l'hexagone cible et celles des hexagones adjacents."	"{Pluie de Mï¿½tï¿½ores pour Novice}
 
 S'abat sur les troupes de l'hexagone cible et celles des hexagones adjacents.
-(Magie x 25 + 50 points de dégâts)
-"	"{Pluie de Météores pour Maître}
+(Magie x 25 + 25 points de dï¿½gï¿½ts)
+"	"{Pluie de Mï¿½tï¿½ores pour Disciple}
+
+S'abat sur les troupes de l'hexagone cible et celles des hexagones adjacents.
+(Magie x 25 + 50 points de dï¿½gï¿½ts)
+"	"{Pluie de Mï¿½tï¿½ores pour Maï¿½tre}
 
 S'abat sur les troupes de l'hexagone cible et celles des hexagones adjacents. 
-(Magie x 25 + 100 points de dégâts)
+(Magie x 25 + 100 points de dï¿½gï¿½ts)
 "	 COMBAT_SPELL|LOCATION_TARGET
 Onde Mortelle	Onde Mort.	2	x	 	 	 	10	8	8	8	5	10	10	20	30	0	0	0	0	50	0	0	0	0	20	20	20	20	"{Onde Mortelle}
 
-S'abat sur toutes les créatures du champ de bataille, sauf sur les morts-vivants et les machines de guerre."	"{Onde Mortelle pour Novice}
+S'abat sur toutes les crï¿½atures du champ de bataille, sauf sur les morts-vivants et les machines de guerre."	"{Onde Mortelle pour Novice}
 
-S'abat sur toutes les créatures du champ de bataille, sauf sur les morts-vivants et les machines de guerre.
-(Magie x 5 + 10 points de dégâts)
+S'abat sur toutes les crï¿½atures du champ de bataille, sauf sur les morts-vivants et les machines de guerre.
+(Magie x 5 + 10 points de dï¿½gï¿½ts)
 "	"{Onde Mortelle pour Disciple}
 
-S'abat sur toutes les créatures du champ de bataille, sauf sur les morts-vivants et les machines de guerre.
-(Magie x 5 + 20 points de dégâts)
-"	"{Onde Mortelle pour Maître}
+S'abat sur toutes les crï¿½atures du champ de bataille, sauf sur les morts-vivants et les machines de guerre.
+(Magie x 5 + 20 points de dï¿½gï¿½ts)
+"	"{Onde Mortelle pour Maï¿½tre}
 
-S'abat sur toutes les créatures du champ de bataille, sauf sur les morts-vivants et les machines de guerre.
-(Magie x 5 + 30 points de dégâts)
+S'abat sur toutes les crï¿½atures du champ de bataille, sauf sur les morts-vivants et les machines de guerre.
+(Magie x 5 + 30 points de dï¿½gï¿½ts)
 "	 COMBAT_SPELL
-Nécrophage	Nécrophage	3	 	 	 	x	15	12	12	12	10	10	10	20	50	12	8	8	2	0	4	4	2	4	40	40	40	40	"{Nécrophage}
+Nï¿½crophage	Nï¿½crophage	3	 	 	 	x	15	12	12	12	10	10	10	20	50	12	8	8	2	0	4	4	2	4	40	40	40	40	"{Nï¿½crophage}
 
-Toutes les créatures mortes-vivantes du champ de bataille subissent des dégâts.
-"	"{Nécrophage pour Novice}
+Toutes les crï¿½atures mortes-vivantes du champ de bataille subissent des dï¿½gï¿½ts.
+"	"{Nï¿½crophage pour Novice}
 
-Toutes les créatures mortes-vivantes du champ de bataille subissent des dégâts.
-(Magie x 10 + 10 points de dégâts)
-"	"{Nécrophage pour Disciple}
+Toutes les crï¿½atures mortes-vivantes du champ de bataille subissent des dï¿½gï¿½ts.
+(Magie x 10 + 10 points de dï¿½gï¿½ts)
+"	"{Nï¿½crophage pour Disciple}
 
-Toutes les créatures mortes-vivantes du champ de bataille subissent des dégâts.
-(Magie x 10 + 20 points de dégâts)
-"	"{Nécrophage pour Maître}
+Toutes les crï¿½atures mortes-vivantes du champ de bataille subissent des dï¿½gï¿½ts.
+(Magie x 10 + 20 points de dï¿½gï¿½ts)
+"	"{Nï¿½crophage pour Maï¿½tre}
 
-Toutes les créatures mortes-vivantes du champ de bataille subissent des dégâts.
-(Magie x 10 + 50 points de dégâts)
+Toutes les crï¿½atures mortes-vivantes du champ de bataille subissent des dï¿½gï¿½ts.
+(Magie x 10 + 50 points de dï¿½gï¿½ts)
 "	 COMBAT_SPELL
 Armageddon	Armageddon	4	 	 	x	 	24	20	20	20	50	30	30	60	120	0	0	0	5	5	10	0	0	0	100	100	100	100	"{Armageddon}
 
 Une pluie de feu s'abat sur toutes les troupes. "	"{ Armageddon pour Novice}
 
 Une pluie de feu s'abat sur toutes les troupes.
-(Magie x 40 + 30 points de dégâts)
+(Magie x 40 + 30 points de dï¿½gï¿½ts)
 "	"{ Armageddon pour Disciple}
 
 Une pluie de feu s'abat sur toutes les troupes.
-(Magie x 40 + 60 points de dégâts)
-"	"{ Armageddon pour Maître}
+(Magie x 40 + 60 points de dï¿½gï¿½ts)
+"	"{ Armageddon pour Maï¿½tre}
 
 Une pluie de feu s'abat sur toutes les troupes.
-(Magie x 40 + 120 points de dégâts)
+(Magie x 40 + 120 points de dï¿½gï¿½ts)
 "	 COMBAT_SPELL
 Bouclier	Bouclier	1	x	 	 	 	5	4	4	4	0	85	85	70	70	10	3	5	3	10	5	5	5	5	10	10	20	20	"{Bouclier}
 
-Il protège et réduit les dégâts infligés lors des attaques au corps-à-corps. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Bouclier pour Novice}
+Il protï¿½ge et rï¿½duit les dï¿½gï¿½ts infligï¿½s lors des attaques au corps-ï¿½-corps. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Bouclier pour Novice}
 
-Il protège et réduit les dégâts infligés lors des attaques au corps-à-corps. La troupe visée ne subit que 85% des dégâts normalement infligés. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Bouclier pour Disciple}
+Il protï¿½ge et rï¿½duit les dï¿½gï¿½ts infligï¿½s lors des attaques au corps-ï¿½-corps. La troupe visï¿½e ne subit que 85% des dï¿½gï¿½ts normalement infligï¿½s. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Bouclier pour Disciple}
 
-Il protège et réduit les dégâts infligés lors des attaques au corps-à-corps. La troupe visée ne subit que 70% des dégâts normalement infligés. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Bouclier pour Maître}
+Il protï¿½ge et rï¿½duit les dï¿½gï¿½ts infligï¿½s lors des attaques au corps-ï¿½-corps. La troupe visï¿½e ne subit que 70% des dï¿½gï¿½ts normalement infligï¿½s. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Bouclier pour Maï¿½tre}
 
-Il protège et réduit les dégâts infligés lors des attaques au corps-à-corps. Toutes les unités alliées ne subissent que 70% des dégâts normalement infligés. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	 COMBAT_SPELL|CREATURE_TARGET_2
+Il protï¿½ge et rï¿½duit les dï¿½gï¿½ts infligï¿½s lors des attaques au corps-ï¿½-corps. Toutes les unitï¿½s alliï¿½es ne subissent que 70% des dï¿½gï¿½ts normalement infligï¿½s. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	 COMBAT_SPELL|CREATURE_TARGET_2
 Bouclier du Vent	Bouclier V.	3	 	 	 	x	12	9	9	9	0	75	75	50	50	4	8	8	2	4	4	8	4	4	20	20	50	50	"{Bouclier du Vent}
 
-Il protège et réduit les dégâts infligés lors des attaques à distance. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Bouclier du Vent pour Novice}
+Il protï¿½ge et rï¿½duit les dï¿½gï¿½ts infligï¿½s lors des attaques ï¿½ distance. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Bouclier du Vent pour Novice}
 
-Il protège et réduit les dégâts infligés lors des attaques à distance. La troupe visée ne subit que 75% des dégâts normalement infligés. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Bouclier du Vent pour Disciple}
+Il protï¿½ge et rï¿½duit les dï¿½gï¿½ts infligï¿½s lors des attaques ï¿½ distance. La troupe visï¿½e ne subit que 75% des dï¿½gï¿½ts normalement infligï¿½s. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Bouclier du Vent pour Disciple}
 
-Il protège et réduit les dégâts infligés lors des attaques à distance. La troupe visée ne subit que 50% des dégâts normalement infligés. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Bouclier du Vent pour Maître}
+Il protï¿½ge et rï¿½duit les dï¿½gï¿½ts infligï¿½s lors des attaques ï¿½ distance. La troupe visï¿½e ne subit que 50% des dï¿½gï¿½ts normalement infligï¿½s. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Bouclier du Vent pour Maï¿½tre}
 
-Il protège et réduit les dégâts infligés lors des attaques à distance. Toutes les unités alliées ne subissent que 50% des dégâts normalement infligés. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	 COMBAT_SPELL|CREATURE_TARGET_2
+Il protï¿½ge et rï¿½duit les dï¿½gï¿½ts infligï¿½s lors des attaques ï¿½ distance. Toutes les unitï¿½s alliï¿½es ne subissent que 50% des dï¿½gï¿½ts normalement infligï¿½s. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	 COMBAT_SPELL|CREATURE_TARGET_2
 Bouclier de Flammes	Bouclier F.	4	 	 	x	 	16	12	12	12	0	20	20	25	30	5	5	5	5	5	5	0	0	5	10	10	12	15	"{Bouclier de Flammes}
 
-Lorsque vous lancez ce sort sur une unité alliée, toute unité ennemie qui l'attaque au corps-à-corps subit des dégâts. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Bouclier de Flammes pour Novice}
+Lorsque vous lancez ce sort sur une unitï¿½ alliï¿½e, toute unitï¿½ ennemie qui l'attaque au corps-ï¿½-corps subit des dï¿½gï¿½ts. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Bouclier de Flammes pour Novice}
 
-Lorsque vous lancez ce sort sur une unité alliée, toute unité ennemie qui l'attaque au corps-à-corps subit 20% des dégâts qu'elle inflige. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Bouclier de Flammes pour Disciple}
+Lorsque vous lancez ce sort sur une unitï¿½ alliï¿½e, toute unitï¿½ ennemie qui l'attaque au corps-ï¿½-corps subit 20% des dï¿½gï¿½ts qu'elle inflige. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Bouclier de Flammes pour Disciple}
 
-Lorsque vous lancez ce sort sur une unité alliée, toute unité ennemie qui l'attaque au corps-à-corps subit 25% des dégâts qu'elle inflige. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Bouclier de Flammes pour Maître}
+Lorsque vous lancez ce sort sur une unitï¿½ alliï¿½e, toute unitï¿½ ennemie qui l'attaque au corps-ï¿½-corps subit 25% des dï¿½gï¿½ts qu'elle inflige. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Bouclier de Flammes pour Maï¿½tre}
 
-Lorsque vous lancez ce sort sur une unité alliée, toute unité ennemie qui l'attaque au corps-à-corps subit 30% des dégâts qu'elle inflige. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	 COMBAT_SPELL|CREATURE_TARGET
+Lorsque vous lancez ce sort sur une unitï¿½ alliï¿½e, toute unitï¿½ ennemie qui l'attaque au corps-ï¿½-corps subit 30% des dï¿½gï¿½ts qu'elle inflige. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	 COMBAT_SPELL|CREATURE_TARGET
 Prot. contre l'Air	Prot. contre Air	2		 	 	x	7	5	5	5	0	70	70	50	50	2	2	2	4	2	2	2	2	2	2	2	4	4	"{Protection contre l' Air}
 
-Elle réduit les dégâts infligés par les sorts de la magie de l'Air contre l'unité visée. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Protection contre l' Air pour Novice}
+Elle rï¿½duit les dï¿½gï¿½ts infligï¿½s par les sorts de la magie de l'Air contre l'unitï¿½ visï¿½e. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Protection contre l' Air pour Novice}
 
-Elle réduit les dégâts infligés, par les sorts de la magie de l'Air contre l'unité visée de 50%. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Protection contre l' Air pour Disciple}
+Elle rï¿½duit les dï¿½gï¿½ts infligï¿½s, par les sorts de la magie de l'Air contre l'unitï¿½ visï¿½e de 50%. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Protection contre l' Air pour Disciple}
 
-Elle réduit les dégâts infligés, par les sorts de la magie de l'Air contre l'unité visée de 75%. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Protection contre l' Air pour Maître}
+Elle rï¿½duit les dï¿½gï¿½ts infligï¿½s, par les sorts de la magie de l'Air contre l'unitï¿½ visï¿½e de 75%. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Protection contre l' Air pour Maï¿½tre}
 
-Elle réduit les dégâts infligés, par les sorts de la magie de l'Air contre toutes les unités alliées de 75%. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	 COMBAT_SPELL|CREATURE_TARGET_2
+Elle rï¿½duit les dï¿½gï¿½ts infligï¿½s, par les sorts de la magie de l'Air contre toutes les unitï¿½s alliï¿½es de 75%. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	 COMBAT_SPELL|CREATURE_TARGET_2
 Prot. contre le Feu	Prot. contre Feu	1	 		x	 	5	4	4	4	0	70	70	50	50	3	3	3	3	3	3	3	3	3	2	2	4	4	"{Protection contre le Feu}
 
-Elle réduit les dégâts infligés par les sorts de la magie du Feu contre l'unité visée. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Protection contre le Feu pour Novice}
+Elle rï¿½duit les dï¿½gï¿½ts infligï¿½s par les sorts de la magie du Feu contre l'unitï¿½ visï¿½e. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Protection contre le Feu pour Novice}
 
-Elle réduit les dégâts infligés par les sorts de la magie du Feu contre l'unité visée de 50%. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Protection contre le Feu pour Disciple}
+Elle rï¿½duit les dï¿½gï¿½ts infligï¿½s par les sorts de la magie du Feu contre l'unitï¿½ visï¿½e de 50%. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Protection contre le Feu pour Disciple}
 
-Elle réduit les dégâts infligés par les sorts de la magie du Feu contre l'unité visée de 75%. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Protection contre le Feu pour Maître}
+Elle rï¿½duit les dï¿½gï¿½ts infligï¿½s par les sorts de la magie du Feu contre l'unitï¿½ visï¿½e de 75%. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Protection contre le Feu pour Maï¿½tre}
 
-Elle réduit les dégâts infligés par les sorts de la magie du Feu contre toutes les unités alliées de 75%. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	 COMBAT_SPELL|CREATURE_TARGET_2
+Elle rï¿½duit les dï¿½gï¿½ts infligï¿½s par les sorts de la magie du Feu contre toutes les unitï¿½s alliï¿½es de 75%. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	 COMBAT_SPELL|CREATURE_TARGET_2
 Prot. contre l'Eau	Prot. contre Eau	1	 	x		 	5	4	4	4	0	70	70	50	50	3	3	3	3	3	3	3	3	3	2	2	4	4	"{Protection contre l'Eau}
 
-Elle réduit les dégâts infligés par les sorts de la magie de l'Eau contre l'unité visée. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Protection contre l'Eau pour Novice}
+Elle rï¿½duit les dï¿½gï¿½ts infligï¿½s par les sorts de la magie de l'Eau contre l'unitï¿½ visï¿½e. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Protection contre l'Eau pour Novice}
 
-Elle réduit les dégâts infligés par les sorts de la magie de l'Eau contre l'unité visée de 50%. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Protection contre l'Eau pour Disciple}
+Elle rï¿½duit les dï¿½gï¿½ts infligï¿½s par les sorts de la magie de l'Eau contre l'unitï¿½ visï¿½e de 50%. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Protection contre l'Eau pour Disciple}
 
-Elle réduit les dégâts infligés par les sorts de la magie de l'Eau contre l'unité visée de 75%. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Protection contre l'Eau pour Maître}
+Elle rï¿½duit les dï¿½gï¿½ts infligï¿½s par les sorts de la magie de l'Eau contre l'unitï¿½ visï¿½e de 75%. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Protection contre l'Eau pour Maï¿½tre}
 
-Elle réduit les dégâts infligés par les sorts de la magie de l'Eau contre toutes les unités alliées de 75%. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	 COMBAT_SPELL|CREATURE_TARGET_2
+Elle rï¿½duit les dï¿½gï¿½ts infligï¿½s par les sorts de la magie de l'Eau contre toutes les unitï¿½s alliï¿½es de 75%. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	 COMBAT_SPELL|CREATURE_TARGET_2
 Prot. contre la Terre	Prot. contre Terre	3	x	 	 		12	9	9	9	0	70	70	50	50	4	4	4	2	4	4	4	0	4	2	2	4	4	"{Protection contre la Terre}
 
-Elle réduit les dégâts infligés par les sorts de la magie de la Terre contre l'unité visée. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Protection contre la Terre pour Novice}
+Elle rï¿½duit les dï¿½gï¿½ts infligï¿½s par les sorts de la magie de la Terre contre l'unitï¿½ visï¿½e. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Protection contre la Terre pour Novice}
 
-Elle réduit les dégâts infligés par les sorts de la magie de la Terre contre l'unité visée de 50%. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Protection contre la Terre pour Disciple}
+Elle rï¿½duit les dï¿½gï¿½ts infligï¿½s par les sorts de la magie de la Terre contre l'unitï¿½ visï¿½e de 50%. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Protection contre la Terre pour Disciple}
 
-Elle réduit les dégâts infligés par les sorts de la magie de la Terre contre l'unité visée de 75%. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Protection contre la Terre pour Maître}
+Elle rï¿½duit les dï¿½gï¿½ts infligï¿½s par les sorts de la magie de la Terre contre l'unitï¿½ visï¿½e de 75%. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Protection contre la Terre pour Maï¿½tre}
 
-Elle réduit les dégâts infligés par les sorts de la magie de la Terre contre toutes les unités alliées de 75%. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	 COMBAT_SPELL|CREATURE_TARGET_2
+Elle rï¿½duit les dï¿½gï¿½ts infligï¿½s par les sorts de la magie de la Terre contre toutes les unitï¿½s alliï¿½es de 75%. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	 COMBAT_SPELL|CREATURE_TARGET_2
 Anti-Magie	Anti-Magie	3	x	 	 	 	15	12	12	12	0	4	4	5	6	12	8	8	4	8	8	12	10	12	10	10	15	20	"{Anti-Magie}
 
-La troupe visée ne peut pas être affectée par les sorts des niveaux 1 à 3 excepté Dissipation. Annule les sorts négatifs des niveaux 1 à 3 excepté Confusion. N'affecte pas les unités doubles créées avec le sort Clone. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros. 
+La troupe visï¿½e ne peut pas ï¿½tre affectï¿½e par les sorts des niveaux 1 ï¿½ 3 exceptï¿½ Dissipation. Annule les sorts nï¿½gatifs des niveaux 1 ï¿½ 3 exceptï¿½ Confusion. N'affecte pas les unitï¿½s doubles crï¿½ï¿½es avec le sort Clone. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros. 
 "	"{Anti-Magie pour Novice}
 
-La troupe visée ne peut pas être affectée par les sorts des niveaux 1 à 3 excepté Dissipation. Annule les sorts négatifs des niveaux 1 à 3 excepté Confusion. N'affecte pas les unités doubles créées avec le sort Clone. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros. 
+La troupe visï¿½e ne peut pas ï¿½tre affectï¿½e par les sorts des niveaux 1 ï¿½ 3 exceptï¿½ Dissipation. Annule les sorts nï¿½gatifs des niveaux 1 ï¿½ 3 exceptï¿½ Confusion. N'affecte pas les unitï¿½s doubles crï¿½ï¿½es avec le sort Clone. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros. 
 "	"{Anti-Magie pour Disciple}
 
-La troupe visée ne peut pas être affectée par les sorts des niveaux 1 à 4 excepté Dissipation. Annule les sorts négatifs des niveaux 1 à 4 excepté Confusion. N'affecte pas les unités doubles créées avec le sort Clone. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros. 
-"	"{ Anti-Magie pour Maître}
+La troupe visï¿½e ne peut pas ï¿½tre affectï¿½e par les sorts des niveaux 1 ï¿½ 4 exceptï¿½ Dissipation. Annule les sorts nï¿½gatifs des niveaux 1 ï¿½ 4 exceptï¿½ Confusion. N'affecte pas les unitï¿½s doubles crï¿½ï¿½es avec le sort Clone. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros. 
+"	"{ Anti-Magie pour Maï¿½tre}
 
-La troupe visée est immunisée contre tous les sorts excepté Dissipation. Annule tous les sorts négatifs excepté Confusion. N'affecte pas les unités doubles créées avec le sort Clone. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	 COMBAT_SPELL|CREATURE_TARGET
+La troupe visï¿½e est immunisï¿½e contre tous les sorts exceptï¿½ Dissipation. Annule tous les sorts nï¿½gatifs exceptï¿½ Confusion. N'affecte pas les unitï¿½s doubles crï¿½ï¿½es avec le sort Clone. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	 COMBAT_SPELL|CREATURE_TARGET
 Dissipation	Dissipation	1	 	x	 	 	5	4	4	4	0	0	0	0	0	10	10	10	10	10	10	10	10	10	3	3	3	3	"{Dissipation}
 
-Annule tous les sorts et effets négatifs lancés sur la troupe alliée visée, excepté Confusion et Poison paralysant. Ignore les immunités naturelles à la magie de l'unité cible."	"{Dissipation pour Novice}
+Annule tous les sorts et effets nï¿½gatifs lancï¿½s sur la troupe alliï¿½e visï¿½e, exceptï¿½ Confusion et Poison paralysant. Ignore les immunitï¿½s naturelles ï¿½ la magie de l'unitï¿½ cible."	"{Dissipation pour Novice}
 
-Annule tous les sorts et effets négatifs lancés sur la troupe alliée visée, excepté Confusion et Poison paralysant. Ignore les immunités naturelles à la magie de l'unité cible."	"{Dissipation pour Disciple}
+Annule tous les sorts et effets nï¿½gatifs lancï¿½s sur la troupe alliï¿½e visï¿½e, exceptï¿½ Confusion et Poison paralysant. Ignore les immunitï¿½s naturelles ï¿½ la magie de l'unitï¿½ cible."	"{Dissipation pour Disciple}
 
-Annule tous les sorts et effets négatifs lancés sur la troupe visée, alliée ou hostile, excepté Confusion et Poison paralysant. Ignore les immunités naturelles ainsi que les chances de résister à la magie de l'unité cible."	"{Dissipation pour Maître}
+Annule tous les sorts et effets nï¿½gatifs lancï¿½s sur la troupe visï¿½e, alliï¿½e ou hostile, exceptï¿½ Confusion et Poison paralysant. Ignore les immunitï¿½s naturelles ainsi que les chances de rï¿½sister ï¿½ la magie de l'unitï¿½ cible."	"{Dissipation pour Maï¿½tre}
 
-Annule tous les sorts et effets négatifs lancés sur le champ de bataille, excepté Confusion et Poison paralysant. Détruit tous les obstacles magiques. Ignore les immunités naturelles ainsi que les chances de résister à la magie de l'unité cible."	 COMBAT_SPELL|CREATURE_TARGET_1
-Réflexion	Réflexion	5	 	 	 	x	25	20	20	20	0	20	20	30	40	0	16	14	0	0	12	0	0	13	12	12	18	24	"{Réflexion}
+Annule tous les sorts et effets nï¿½gatifs lancï¿½s sur le champ de bataille, exceptï¿½ Confusion et Poison paralysant. Dï¿½truit tous les obstacles magiques. Ignore les immunitï¿½s naturelles ainsi que les chances de rï¿½sister ï¿½ la magie de l'unitï¿½ cible."	 COMBAT_SPELL|CREATURE_TARGET_1
+Rï¿½flexion	Rï¿½flexion	5	 	 	 	x	25	20	20	20	0	20	20	30	40	0	16	14	0	0	12	0	0	13	12	12	18	24	"{Rï¿½flexion}
 
-L'unité visée renvoie les sorts lancés par l'ennemi et ignore le sort Hypnose. Une partie des dégâts est ainsi renvoyée sur une unité ennemie aléatoirement choisie. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Réflexion pour Novice}
+L'unitï¿½ visï¿½e renvoie les sorts lancï¿½s par l'ennemi et ignore le sort Hypnose. Une partie des dï¿½gï¿½ts est ainsi renvoyï¿½e sur une unitï¿½ ennemie alï¿½atoirement choisie. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Rï¿½flexion pour Novice}
 
-L'unité visée renvoie les sorts lancés par l'ennemi et ignore le sort Hypnose. 20% des dégâts sont ainsi renvoyés sur une unité ennemie aléatoirement choisie. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Réflexion pour Disciple}
+L'unitï¿½ visï¿½e renvoie les sorts lancï¿½s par l'ennemi et ignore le sort Hypnose. 20% des dï¿½gï¿½ts sont ainsi renvoyï¿½s sur une unitï¿½ ennemie alï¿½atoirement choisie. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Rï¿½flexion pour Disciple}
 
-L'unité visée renvoie les sorts lancés par l'ennemi et ignore le sort Hypnose. 30% des dégâts sont ainsi renvoyés sur une unité ennemie aléatoirement choisie. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Réflexion pour Maître}
+L'unitï¿½ visï¿½e renvoie les sorts lancï¿½s par l'ennemi et ignore le sort Hypnose. 30% des dï¿½gï¿½ts sont ainsi renvoyï¿½s sur une unitï¿½ ennemie alï¿½atoirement choisie. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Rï¿½flexion pour Maï¿½tre}
 
-L'unité visée renvoie les sorts lancés par l'ennemi et ignore le sort Hypnose. 40% des dégâts sont ainsi renvoyés sur une unité ennemie aléatoirement choisie. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	 COMBAT_SPELL|CREATURE_TARGET
-Guérison	Guérison	1	 	x	 	 	6	5	5	5	5	10	10	20	30	10	10	5	5	0	5	5	10	5	4	4	4	4	"{Guérison}
+L'unitï¿½ visï¿½e renvoie les sorts lancï¿½s par l'ennemi et ignore le sort Hypnose. 40% des dï¿½gï¿½ts sont ainsi renvoyï¿½s sur une unitï¿½ ennemie alï¿½atoirement choisie. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	 COMBAT_SPELL|CREATURE_TARGET
+Guï¿½rison	Guï¿½rison	1	 	x	 	 	6	5	5	5	5	10	10	20	30	10	10	5	5	0	5	5	10	5	4	4	4	4	"{Guï¿½rison}
 
-Annule tous les effets négatifs des sorts lancés contre la troupe visée, excepté Confusion et Enchevêtrement. Restitue des points de vie, et restaure les points de vie perdus à cause du Poison.
-"	"{Guérison pour Novice}
+Annule tous les effets nï¿½gatifs des sorts lancï¿½s contre la troupe visï¿½e, exceptï¿½ Confusion et Enchevï¿½trement. Restitue des points de vie, et restaure les points de vie perdus ï¿½ cause du Poison.
+"	"{Guï¿½rison pour Novice}
 
-Annule tous les effets négatifs des sorts lancés contre la troupe visée, excepté Confusion et Enchevêtrement. Restitue des points de vie, et restaure les points de vie perdus à cause du Poison.
-(Magie x 5 + 10 points de vie)"	"{Guérison pour Disciple}
+Annule tous les effets nï¿½gatifs des sorts lancï¿½s contre la troupe visï¿½e, exceptï¿½ Confusion et Enchevï¿½trement. Restitue des points de vie, et restaure les points de vie perdus ï¿½ cause du Poison.
+(Magie x 5 + 10 points de vie)"	"{Guï¿½rison pour Disciple}
 
-Annule tous les effets négatifs des sorts lancés contre la troupe visée, excepté Confusion et Enchevêtrement. Restitue des points de vie, et restaure les points de vie perdus à cause du Poison.
+Annule tous les effets nï¿½gatifs des sorts lancï¿½s contre la troupe visï¿½e, exceptï¿½ Confusion et Enchevï¿½trement. Restitue des points de vie, et restaure les points de vie perdus ï¿½ cause du Poison.
 (Magie x 5 + 20 points de vie)
 
-"	"{Guérison pour Maître}
+"	"{Guï¿½rison pour Maï¿½tre}
 
-Annule tous les effets négatifs des sorts lancés contre la troupe visée, excepté Confusion et Enchevêtrement. Restitue des points de vie, et restaure les points de vie perdus à cause du Poison.
+Annule tous les effets nï¿½gatifs des sorts lancï¿½s contre la troupe visï¿½e, exceptï¿½ Confusion et Enchevï¿½trement. Restitue des points de vie, et restaure les points de vie perdus ï¿½ cause du Poison.
 (Magie x 5 + 30 points de vie)
 "	 COMBAT_SPELL|CREATURE_TARGET_1
-Résurrection	Résurrection	4	x	 	 	 	20	16	16	16	50	40	40	80	160	10	10	10	10	10	10	0	0	5	50	50	60	120	"{Résurrection}
+Rï¿½surrection	Rï¿½surrection	4	x	 	 	 	20	16	16	16	50	40	40	80	160	10	10	10	10	10	10	0	0	5	50	50	60	120	"{Rï¿½surrection}
 
-Le groupe cible voit ses points de vie restitués afin de ressusciter les créatures éliminées au combat."	"{Résurrection pour Novice}
+Le groupe cible voit ses points de vie restituï¿½s afin de ressusciter les crï¿½atures ï¿½liminï¿½es au combat."	"{Rï¿½surrection pour Novice}
 
-Le groupe cible voit ses points de vie restitués afin de ressusciter les créatures éliminées au combat.
+Le groupe cible voit ses points de vie restituï¿½s afin de ressusciter les crï¿½atures ï¿½liminï¿½es au combat.
 (Magie x 50 + 40 points de vie)
-"	"{Résurrection pour Disciple}
+"	"{Rï¿½surrection pour Disciple}
 
-Le groupe cible voit ses points de vie restitués afin de ressusciter les créatures éliminées au combat.
+Le groupe cible voit ses points de vie restituï¿½s afin de ressusciter les crï¿½atures ï¿½liminï¿½es au combat.
 (Magie x 50 + 80 points de vie)
-"	"{Résurrection pour Maître}
+"	"{Rï¿½surrection pour Maï¿½tre}
 
-Le groupe cible voit ses points de vie restitués afin de ressusciter les créatures éliminées au combat.
+Le groupe cible voit ses points de vie restituï¿½s afin de ressusciter les crï¿½atures ï¿½liminï¿½es au combat.
 (Magie x 50 + 160 points de vie)
 "	 COMBAT_SPELL|CREATURE_TARGET
 Animation des Morts	Ani. des Morts	3	x	 	 	 	15	12	12	12	50	30	30	60	160	0	0	0	0	16	0	0	0	0	60	60	60	120	"{Animation des Morts}
 
-Réanimation des créatures mortes-vivantes éliminées au cours du combat."	"{Animation des Morts pour Novice}
+Rï¿½animation des crï¿½atures mortes-vivantes ï¿½liminï¿½es au cours du combat."	"{Animation des Morts pour Novice}
 
-Réanimation des créatures mortes-vivantes éliminées au cours du combat.
+Rï¿½animation des crï¿½atures mortes-vivantes ï¿½liminï¿½es au cours du combat.
 (Magie x 50 + 30 points de vie)
 "	"{Animation des Morts pour Disciple}
 
-Réanimation des créatures mortes-vivantes éliminées au cours du combat.
+Rï¿½animation des crï¿½atures mortes-vivantes ï¿½liminï¿½es au cours du combat.
 (Magie x 50 + 60 points de vie)
-"	"{Animation des Morts pour Maître}
+"	"{Animation des Morts pour Maï¿½tre}
 
-Réanimation des créatures mortes-vivantes éliminées au cours du combat.
+Rï¿½animation des crï¿½atures mortes-vivantes ï¿½liminï¿½es au cours du combat.
 (Magie x 50 + 160 points de vie)
 "	 COMBAT_SPELL|CREATURE_TARGET
 Sacrifice	Sacrifice	5	 	 	x	 	25	20	20	20	1	3	3	6	10	0	0	0	20	16	12	0	0	0	1	1	1	1	"{Sacrifice}
 
-Sacrifice permet de détruire un groupe allié de créatures vivantes dans le but de ressusciter un autre groupe de créatures avec Résurrection."	"{Sacrifice pour Novice}
+Sacrifice permet de dï¿½truire un groupe alliï¿½ de crï¿½atures vivantes dans le but de ressusciter un autre groupe de crï¿½atures avec Rï¿½surrection."	"{Sacrifice pour Novice}
 
-Sacrifice permet de détruire un groupe allié de créatures vivantes dans le but de ressusciter un autre groupe de créatures avec Résurrection. La puissance de la résurrection est le résultat de la formule suivante : ((Magie + Santé de l'unité sacrifiée + 3) x Nombre de créatures sacrifiées) = Nombre de Points de Vie."	"{Sacrifice pour Disciple}
+Sacrifice permet de dï¿½truire un groupe alliï¿½ de crï¿½atures vivantes dans le but de ressusciter un autre groupe de crï¿½atures avec Rï¿½surrection. La puissance de la rï¿½surrection est le rï¿½sultat de la formule suivante : ((Magie + Santï¿½ de l'unitï¿½ sacrifiï¿½e + 3) x Nombre de crï¿½atures sacrifiï¿½es) = Nombre de Points de Vie."	"{Sacrifice pour Disciple}
 
-Sacrifice permet de détruire un groupe allié de créatures vivantes dans le but de ressusciter un autre groupe de créatures avec Résurrection. La puissance de la résurrection est le résultat de la formule suivante : ((Magie + Santé de l'unité sacrifiée + 6) x Nombre de créatures sacrifiées) = Nombre de Points de Vie."	"{Sacrifice pour Maître}
+Sacrifice permet de dï¿½truire un groupe alliï¿½ de crï¿½atures vivantes dans le but de ressusciter un autre groupe de crï¿½atures avec Rï¿½surrection. La puissance de la rï¿½surrection est le rï¿½sultat de la formule suivante : ((Magie + Santï¿½ de l'unitï¿½ sacrifiï¿½e + 6) x Nombre de crï¿½atures sacrifiï¿½es) = Nombre de Points de Vie."	"{Sacrifice pour Maï¿½tre}
 
-Sacrifice permet de détruire un groupe allié de créatures vivantes dans le but de ressusciter un autre groupe de créatures avec Résurrection. La puissance de la résurrection est le résultat de la formule suivante : ((Magie + Santé de l'unité sacrifiée + 10) x Nombre de créatures sacrifiées) = Nombre de Points de Vie."	 COMBAT_SPELL|CREATURE_TARGET
-Bénédiction	Bénédiction	1	 	x	 	 	5	4	4	4	0	0	0	1	1	10	5	5	0	0	3	3	5	5	10	10	11	11	"{Bénédiction}
+Sacrifice permet de dï¿½truire un groupe alliï¿½ de crï¿½atures vivantes dans le but de ressusciter un autre groupe de crï¿½atures avec Rï¿½surrection. La puissance de la rï¿½surrection est le rï¿½sultat de la formule suivante : ((Magie + Santï¿½ de l'unitï¿½ sacrifiï¿½e + 10) x Nombre de crï¿½atures sacrifiï¿½es) = Nombre de Points de Vie."	 COMBAT_SPELL|CREATURE_TARGET
+Bï¿½nï¿½diction	Bï¿½nï¿½diction	1	 	x	 	 	5	4	4	4	0	0	0	1	1	10	5	5	0	0	3	3	5	5	10	10	11	11	"{Bï¿½nï¿½diction}
 
-Chacune des créatures de la troupe visée inflige un maximum de dégâts lors de ses attaques. Annule Malédiction et n'affecte pas les morts-vivants. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Bénédiction pour Novice}
+Chacune des crï¿½atures de la troupe visï¿½e inflige un maximum de dï¿½gï¿½ts lors de ses attaques. Annule Malï¿½diction et n'affecte pas les morts-vivants. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Bï¿½nï¿½diction pour Novice}
 
-Chacune des créatures de la troupe visée inflige un maximum de dégâts lors de ses attaques. Annule Malédiction et n'affecte pas les morts-vivants. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Bénédiction pour Disciple}
+Chacune des crï¿½atures de la troupe visï¿½e inflige un maximum de dï¿½gï¿½ts lors de ses attaques. Annule Malï¿½diction et n'affecte pas les morts-vivants. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Bï¿½nï¿½diction pour Disciple}
 
-Chacune des créatures de la troupe visée inflige un maximum de dégâts + 1 point, lors de ses attaques. Annule Malédiction et n'affecte pas les morts-vivants. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Bénédiction pour Maître}
+Chacune des crï¿½atures de la troupe visï¿½e inflige un maximum de dï¿½gï¿½ts + 1 point, lors de ses attaques. Annule Malï¿½diction et n'affecte pas les morts-vivants. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Bï¿½nï¿½diction pour Maï¿½tre}
 
-Les créatures de toutes les troupes alliées infligent un maximum de dégâts + 1 point, lors de leurs attaques. Annule Malédiction et n'affecte pas les morts-vivants. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	 COMBAT_SPELL|CREATURE_TARGET_2
-Malédiction	Malédiction	1	 		x	 	6	5	5	5	0	0	0	1	1	0	0	3	5	10	5	0	0	0	10	10	11	11	"{Malédiction}
+Les crï¿½atures de toutes les troupes alliï¿½es infligent un maximum de dï¿½gï¿½ts + 1 point, lors de leurs attaques. Annule Malï¿½diction et n'affecte pas les morts-vivants. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	 COMBAT_SPELL|CREATURE_TARGET_2
+Malï¿½diction	Malï¿½diction	1	 		x	 	6	5	5	5	0	0	0	1	1	0	0	3	5	10	5	0	0	0	10	10	11	11	"{Malï¿½diction}
 
-La troupe visée n'inflige que le minimum de dégâts possibles lors de ses attaques. Annule Bénédiction et n'affecte pas les morts-vivants. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Malédiction pour Novice}
+La troupe visï¿½e n'inflige que le minimum de dï¿½gï¿½ts possibles lors de ses attaques. Annule Bï¿½nï¿½diction et n'affecte pas les morts-vivants. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Malï¿½diction pour Novice}
 
-La troupe visée n'inflige que le minimum de dégâts possibles lors de ses attaques. Annule Bénédiction et n'affecte pas les morts-vivants. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Malédiction pour Disciple}
+La troupe visï¿½e n'inflige que le minimum de dï¿½gï¿½ts possibles lors de ses attaques. Annule Bï¿½nï¿½diction et n'affecte pas les morts-vivants. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Malï¿½diction pour Disciple}
 
-La troupe visée n'inflige que le minimum de dégâts possibles -1 point, lors de ses attaques. Annule Bénédiction et n'affecte pas les morts-vivants. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Malédiction pour Maître}
+La troupe visï¿½e n'inflige que le minimum de dï¿½gï¿½ts possibles -1 point, lors de ses attaques. Annule Bï¿½nï¿½diction et n'affecte pas les morts-vivants. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Malï¿½diction pour Maï¿½tre}
 
-Toutes les troupes ennemies n'infligent que le minimum de dégâts possibles -1 point, lors de leurs attaques. Annule Bénédiction et n'affecte pas les morts-vivants. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	 COMBAT_SPELL|CREATURE_TARGET_2
+Toutes les troupes ennemies n'infligent que le minimum de dï¿½gï¿½ts possibles -1 point, lors de leurs attaques. Annule Bï¿½nï¿½diction et n'affecte pas les morts-vivants. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	 COMBAT_SPELL|CREATURE_TARGET_2
 Furie Sanguinaire	Furie S.	1	 	 	x	 	5	4	4	4	0	3	3	6	6	0	0	0	10	5	5	10	5	5	7	7	15	15	"{Furie Sanguinaire}
 
-La caractéristique d'Attaque de la troupe visée augmente lors des corps-à-corps. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Furie Sanguinaire pour Novice}
+La caractï¿½ristique d'Attaque de la troupe visï¿½e augmente lors des corps-ï¿½-corps. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Furie Sanguinaire pour Novice}
 
-La caractéristique d'Attaque de la troupe visée est augmentée de 3 points lors des corps-à-corps. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Furie Sanguinaire pour Disciple}
+La caractï¿½ristique d'Attaque de la troupe visï¿½e est augmentï¿½e de 3 points lors des corps-ï¿½-corps. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Furie Sanguinaire pour Disciple}
 
-La caractéristique d'Attaque de la troupe visée est augmentée de 6 points lors des corps-à-corps. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Furie Sanguinaire pour Maître}
+La caractï¿½ristique d'Attaque de la troupe visï¿½e est augmentï¿½e de 6 points lors des corps-ï¿½-corps. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Furie Sanguinaire pour Maï¿½tre}
 
-La caractéristique d'Attaque de toutes les unités alliées est augmentée de 6 points lors des corps-à-corps. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	 COMBAT_SPELL|CREATURE_TARGET_2
-Précision	Précision	2	 	 	 	x	8	6	6	6	0	3	3	6	6	6	6	4	8	2	6	4	4	2	7	7	15	15	"{Précision}
+La caractï¿½ristique d'Attaque de toutes les unitï¿½s alliï¿½es est augmentï¿½e de 6 points lors des corps-ï¿½-corps. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	 COMBAT_SPELL|CREATURE_TARGET_2
+Prï¿½cision	Prï¿½cision	2	 	 	 	x	8	6	6	6	0	3	3	6	6	6	6	4	8	2	6	4	4	2	7	7	15	15	"{Prï¿½cision}
 
-L'unité sur laquelle vous lancez ce sort voit sa caractéristique d'Attaque à distance augmentée. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Précision pour Novice}
+L'unitï¿½ sur laquelle vous lancez ce sort voit sa caractï¿½ristique d'Attaque ï¿½ distance augmentï¿½e. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Prï¿½cision pour Novice}
 
-L'unité sur laquelle vous lancez ce sort voit sa caractéristique d'Attaque à distance augmentée de 3 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Précision pour Disciple}
+L'unitï¿½ sur laquelle vous lancez ce sort voit sa caractï¿½ristique d'Attaque ï¿½ distance augmentï¿½e de 3 points. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Prï¿½cision pour Disciple}
 
-L'unité sur laquelle vous lancez ce sort voit sa caractéristique d'Attaque à distance augmentée de 6 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Précision pour Maître}
+L'unitï¿½ sur laquelle vous lancez ce sort voit sa caractï¿½ristique d'Attaque ï¿½ distance augmentï¿½e de 6 points. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Prï¿½cision pour Maï¿½tre}
 
-Toutes les unités alliées bénéficient d'une caractéristique d'Attaque à distance augmentée de 6 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros"	 COMBAT_SPELL|CREATURE_TARGET_2
+Toutes les unitï¿½s alliï¿½es bï¿½nï¿½ficient d'une caractï¿½ristique d'Attaque ï¿½ distance augmentï¿½e de 6 points. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros"	 COMBAT_SPELL|CREATURE_TARGET_2
 Faiblesse	Faiblesse	2	 	x	 	 	8	6	6	6	0	3	3	6	6	2	2	2	8	4	4	4	4	4	7	7	15	15	"{Faiblesse}
 
-La caractéristique d'Attaque de la troupe ennemie visée est réduite. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Faiblesse pour Novice}
+La caractï¿½ristique d'Attaque de la troupe ennemie visï¿½e est rï¿½duite. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Faiblesse pour Novice}
 
-La caractéristique d'Attaque de la troupe ennemie visée est réduite de 3 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Faiblesse pour Disciple}
+La caractï¿½ristique d'Attaque de la troupe ennemie visï¿½e est rï¿½duite de 3 points. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Faiblesse pour Disciple}
 
-La caractéristique d'Attaque de la troupe ennemie visée est réduite de 6 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Faiblesse pour Maître}
+La caractï¿½ristique d'Attaque de la troupe ennemie visï¿½e est rï¿½duite de 6 points. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Faiblesse pour Maï¿½tre}
 
-La caractéristique d'Attaque de toutes les troupes ennemies est réduite de 6 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	 COMBAT_SPELL|CREATURE_TARGET_2
+La caractï¿½ristique d'Attaque de toutes les troupes ennemies est rï¿½duite de 6 points. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	 COMBAT_SPELL|CREATURE_TARGET_2
 Carapace	Carapace	1	x	 	 	 	5	4	4	4	0	3	3	6	6	5	5	10	5	10	5	10	5	5	7	7	15	15	"{Carapace}
 
-La caractéristique de Défense de l'unité visée est augmentée. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Carapace pour Novice}
+La caractï¿½ristique de Dï¿½fense de l'unitï¿½ visï¿½e est augmentï¿½e. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Carapace pour Novice}
 
-La caractéristique de Défense de l'unité visée est augmentée de 3 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Carapace pour Disciple}
+La caractï¿½ristique de Dï¿½fense de l'unitï¿½ visï¿½e est augmentï¿½e de 3 points. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Carapace pour Disciple}
 
-La caractéristique de Défense de l'unité visée est augmentée de 6 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Carapace pour Maître}
+La caractï¿½ristique de Dï¿½fense de l'unitï¿½ visï¿½e est augmentï¿½e de 6 points. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Carapace pour Maï¿½tre}
 
-La caractéristique de Défense de toutes les unités alliées est augmentée de 6 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	 COMBAT_SPELL|CREATURE_TARGET_2
+La caractï¿½ristique de Dï¿½fense de toutes les unitï¿½s alliï¿½es est augmentï¿½e de 6 points. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	 COMBAT_SPELL|CREATURE_TARGET_2
 Confusion	Confusion	2	 	 	 	x	10	8	8	8	0	3	3	4	5	6	4	6	12	4	6	6	6	8	7	7	15	15	"{Confusion}
 
-La caractéristique de Défense de la troupe ennemie visée est réduite. Il est possible de lancer ce sort plusieurs fois sur la même unité, les effets se cumulant. La durée du sort Confusion est illimitée."	"{Confusion pour Novice}
+La caractï¿½ristique de Dï¿½fense de la troupe ennemie visï¿½e est rï¿½duite. Il est possible de lancer ce sort plusieurs fois sur la mï¿½me unitï¿½, les effets se cumulant. La durï¿½e du sort Confusion est illimitï¿½e."	"{Confusion pour Novice}
 
-La caractéristique de Défense de la troupe ennemie visée est réduite de 3 points. Il est possible de lancer ce sort plusieurs fois sur la même unité, les effets se cumulant. Les effets perdurent même après la mort et la résurrection d'une unité. La durée du sort Confusion est illimitée."	"{Confusion pour Disciple}
+La caractï¿½ristique de Dï¿½fense de la troupe ennemie visï¿½e est rï¿½duite de 3 points. Il est possible de lancer ce sort plusieurs fois sur la mï¿½me unitï¿½, les effets se cumulant. Les effets perdurent mï¿½me aprï¿½s la mort et la rï¿½surrection d'une unitï¿½. La durï¿½e du sort Confusion est illimitï¿½e."	"{Confusion pour Disciple}
 
-La caractéristique de Défense de la troupe ennemie visée est réduite de 4 points. Il est possible de lancer ce sort plusieurs fois sur la même unité, les effets se cumulant. Les effets perdurent même après la mort et la résurrection d'une unité. La durée du sort Confusion est illimitée."	"{Confusion pour Maître}
+La caractï¿½ristique de Dï¿½fense de la troupe ennemie visï¿½e est rï¿½duite de 4 points. Il est possible de lancer ce sort plusieurs fois sur la mï¿½me unitï¿½, les effets se cumulant. Les effets perdurent mï¿½me aprï¿½s la mort et la rï¿½surrection d'une unitï¿½. La durï¿½e du sort Confusion est illimitï¿½e."	"{Confusion pour Maï¿½tre}
 
-La caractéristique de Défense de la troupe ennemie visée est réduite de 5 points. Il est possible de lancer ce sort plusieurs fois sur la même unité, les effets se cumulant. Les effets perdurent même après la mort et la résurrection d'une unité. La durée du sort Confusion est illimitée."	 COMBAT_SPELL|CREATURE_TARGET_2
+La caractï¿½ristique de Dï¿½fense de la troupe ennemie visï¿½e est rï¿½duite de 5 points. Il est possible de lancer ce sort plusieurs fois sur la mï¿½me unitï¿½, les effets se cumulant. Les effets perdurent mï¿½me aprï¿½s la mort et la rï¿½surrection d'une unitï¿½. La durï¿½e du sort Confusion est illimitï¿½e."	 COMBAT_SPELL|CREATURE_TARGET_2
 Faveur Divine	Faveur	4	 	x	 	 	16	12	12	12	0	2	2	4	4	10	5	5	0	0	0	0	0	5	8	8	16	16	"{Faveur Divine}
 
-Les caractéristiques d'Attaque, de Défense et de vitesse de l'unité visée sont augmentées. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Faveur Divine pour Novice}
+Les caractï¿½ristiques d'Attaque, de Dï¿½fense et de vitesse de l'unitï¿½ visï¿½e sont augmentï¿½es. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Faveur Divine pour Novice}
 
-Les caractéristiques d'Attaque, de Défense et de vitesse de l'unité visée sont augmentées de 2 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Faveur Divine pour Disciple}
+Les caractï¿½ristiques d'Attaque, de Dï¿½fense et de vitesse de l'unitï¿½ visï¿½e sont augmentï¿½es de 2 points. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Faveur Divine pour Disciple}
 
-Les caractéristiques d'Attaque, de Défense et de vitesse de l'unité visée sont augmentées de 4 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Faveur Divine pour Maître}
+Les caractï¿½ristiques d'Attaque, de Dï¿½fense et de vitesse de l'unitï¿½ visï¿½e sont augmentï¿½es de 4 points. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Faveur Divine pour Maï¿½tre}
 
-Les caractéristiques d'Attaque, de Défense et de vitesse de toutes les unités alliées sont augmentées de 4 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	 COMBAT_SPELL|CREATURE_TARGET_2
-Félicité	Félicité	3	 	x	 	 	12	9	9	9	0	1	1	2	2	4	4	4	2	4	4	12	2	4	1	1	2	2	"{Félicité}
+Les caractï¿½ristiques d'Attaque, de Dï¿½fense et de vitesse de toutes les unitï¿½s alliï¿½es sont augmentï¿½es de 4 points. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	 COMBAT_SPELL|CREATURE_TARGET_2
+Fï¿½licitï¿½	Fï¿½licitï¿½	3	 	x	 	 	12	9	9	9	0	1	1	2	2	4	4	4	2	4	4	12	2	4	1	1	2	2	"{Fï¿½licitï¿½}
 
-Le Moral de l'unité visée est augmenté. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
-"	"{Félicité pour Novice}
+Le Moral de l'unitï¿½ visï¿½e est augmentï¿½. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros.
+"	"{Fï¿½licitï¿½ pour Novice}
 
-Le Moral de l'unité visée est augmenté de 1 point. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
-"	"{Félicité pour Disciple}
+Le Moral de l'unitï¿½ visï¿½e est augmentï¿½ de 1 point. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros.
+"	"{Fï¿½licitï¿½ pour Disciple}
 
-Le Moral de l'unité visée est augmenté de 2 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
-"	"{Félicité pour Maître}
+Le Moral de l'unitï¿½ visï¿½e est augmentï¿½ de 2 points. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros.
+"	"{Fï¿½licitï¿½ pour Maï¿½tre}
 
-Le Moral de toutes les unités alliées est augmenté de 2 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+Le Moral de toutes les unitï¿½s alliï¿½es est augmentï¿½ de 2 points. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros.
 "	 COMBAT_SPELL|CREATURE_TARGET_2|MIND_SPELL
 Chagrin	Chagrin	4	x	 	 	 	16	12	12	12	0	1	1	2	2	5	5	5	5	5	5	0	0	5	1	1	2	2	"{Chagrin}
 
-Le Moral de la troupe visée est réduit. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Chagrin pour Novice}
+Le Moral de la troupe visï¿½e est rï¿½duit. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Chagrin pour Novice}
 
-Le Moral de la troupe visée est réduit de 1 point. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Chagrin pour Disciple}
+Le Moral de la troupe visï¿½e est rï¿½duit de 1 point. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Chagrin pour Disciple}
 
-Le Moral de la troupe visée est réduit de 2 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Chagrin pour Maître}
+Le Moral de la troupe visï¿½e est rï¿½duit de 2 points. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Chagrin pour Maï¿½tre}
 
-Le Moral de toutes les troupes ennemies est réduit de 2 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	 COMBAT_SPELL|CREATURE_TARGET_2|MIND_SPELL
+Le Moral de toutes les troupes ennemies est rï¿½duit de 2 points. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	 COMBAT_SPELL|CREATURE_TARGET_2|MIND_SPELL
 Bonne Fortune	B. Fortune	2	 	 	 	x	7	5	5	5	0	1	1	2	2	4	6	4	4	2	2	4	4	2	1	1	2	2	"{Bonne Fortune}
 
-La Chance de l'unité visée est augmentée. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Bonne Fortune pour Novice}
+La Chance de l'unitï¿½ visï¿½e est augmentï¿½e. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Bonne Fortune pour Novice}
 
-La Chance de l'unité visée est augmentée de 1 point. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Bonne Fortune pour Disciple}
+La Chance de l'unitï¿½ visï¿½e est augmentï¿½e de 1 point. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Bonne Fortune pour Disciple}
 
-La Chance de l'unité visée est augmentée de 2 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Bonne Fortune pour Maître}
+La Chance de l'unitï¿½ visï¿½e est augmentï¿½e de 2 points. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Bonne Fortune pour Maï¿½tre}
 
-La Chance de toutes les unités alliées est augmentée de 2 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	 COMBAT_SPELL|CREATURE_TARGET_2
+La Chance de toutes les unitï¿½s alliï¿½es est augmentï¿½e de 2 points. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	 COMBAT_SPELL|CREATURE_TARGET_2
 Malchance	Malchance	3	 	 	x	 	12	9	9	9	0	1	1	2	2	4	4	4	6	8	4	4	2	4	1	1	2	2	"{Malchance}
 
-La Chance de la troupe visée est réduite. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Malchance pour Novice}
+La Chance de la troupe visï¿½e est rï¿½duite. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Malchance pour Novice}
 
-La Chance de la troupe visée est réduite de 1 point. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Malchance pour Disciple}
+La Chance de la troupe visï¿½e est rï¿½duite de 1 point. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Malchance pour Disciple}
 
-La Chance de la troupe visée est réduite de 2 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Malchance pour Maître}
+La Chance de la troupe visï¿½e est rï¿½duite de 2 points. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Malchance pour Maï¿½tre}
 
-La Chance de toutes les troupes ennemies est réduite de 2 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	 COMBAT_SPELL|CREATURE_TARGET_2
-Hâte	Hâte	1		 	 	x	6	5	5	5	0	3	3	5	5	5	10	5	5	5	10	5	10	10	5	5	10	10	"{Hâte}
+La Chance de toutes les troupes ennemies est rï¿½duite de 2 points. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	 COMBAT_SPELL|CREATURE_TARGET_2
+Hï¿½te	Hï¿½te	1		 	 	x	6	5	5	5	0	3	3	5	5	5	10	5	5	5	10	5	10	10	5	5	10	10	"{Hï¿½te}
 
-La vitesse de la troupe alliée visée est augmentée. Annule en même temps le sort Lenteur. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
-"	"{Hâte pour Novice}
+La vitesse de la troupe alliï¿½e visï¿½e est augmentï¿½e. Annule en mï¿½me temps le sort Lenteur. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros.
+"	"{Hï¿½te pour Novice}
 
-La troupe alliée visée se déplace de 3 hexagones supplémentaires par tour. Annule en même temps le sort Lenteur. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
-"	"{Hâte pour Disciple}
+La troupe alliï¿½e visï¿½e se dï¿½place de 3 hexagones supplï¿½mentaires par tour. Annule en mï¿½me temps le sort Lenteur. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros.
+"	"{Hï¿½te pour Disciple}
 
-La troupe alliée visée se déplace de 5 hexagones supplémentaires par tour. Annule en même temps le sort Lenteur. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
-"	"{Hâte pour Maître}
+La troupe alliï¿½e visï¿½e se dï¿½place de 5 hexagones supplï¿½mentaires par tour. Annule en mï¿½me temps le sort Lenteur. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros.
+"	"{Hï¿½te pour Maï¿½tre}
 
-Toutes les troupes alliées se déplacent de 5 hexagones supplémentaires par tour. Annule en même temps le sort Lenteur. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+Toutes les troupes alliï¿½es se dï¿½placent de 5 hexagones supplï¿½mentaires par tour. Annule en mï¿½me temps le sort Lenteur. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
 Lenteur	Lenteur	1	x	 	 	 	6	5	5	5	0	75	75	50	50	5	10	10	10	5	5	5	5	10	5	5	15	15	"{Lenteur}
 
-L'unité visée voit sa caractéristique de vitesse réduite. Annule en même temps le sort Hâte. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Lenteur pour Novice}
+L'unitï¿½ visï¿½e voit sa caractï¿½ristique de vitesse rï¿½duite. Annule en mï¿½me temps le sort Hï¿½te. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Lenteur pour Novice}
 
-Réduit la vitesse de l'unité visée par la formule (ancienne vitesse x 0.75). Annule en même temps le sort Hâte. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Lenteur pour Disciple}
+Rï¿½duit la vitesse de l'unitï¿½ visï¿½e par la formule (ancienne vitesse x 0.75). Annule en mï¿½me temps le sort Hï¿½te. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Lenteur pour Disciple}
 
-Réduit la vitesse de l'unité visée par la formule (ancienne vitesse x 0.50 + 1). Annule en même temps le sort Hâte. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Lenteur pour Maître}
+Rï¿½duit la vitesse de l'unitï¿½ visï¿½e par la formule (ancienne vitesse x 0.50 + 1). Annule en mï¿½me temps le sort Hï¿½te. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Lenteur pour Maï¿½tre}
 
-Réduit la vitesse des unités ennemies par la formule (ancienne vitesse x 0.50 + 1). Annule en même temps le sort Hâte. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	 COMBAT_SPELL|CREATURE_TARGET_2
+Rï¿½duit la vitesse des unitï¿½s ennemies par la formule (ancienne vitesse x 0.50 + 1). Annule en mï¿½me temps le sort Hï¿½te. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	 COMBAT_SPELL|CREATURE_TARGET_2
 Pourfendeur	Pourfendeur	4	 		x	 	16	12	12	12	0	8	8	8	8	5	5	5	5	5	5	0	0	5	1	1	1	1	"{Pourfendeur}
 
-L'unité visée voit sa caractéristique d'Attaque augmentée contre les créatures de Niveau 7. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Pourfendeur pour Novice}
+L'unitï¿½ visï¿½e voit sa caractï¿½ristique d'Attaque augmentï¿½e contre les crï¿½atures de Niveau 7. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Pourfendeur pour Novice}
 
-L'unité visée voit sa caractéristique d'Attaque augmentée de 8 points contre les Béhémoths, les Dragons, les Hydres, les Oiseaux de Feu, les Serpents de Mer et les Couatls. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Pourfendeur pour Disciple}
+L'unitï¿½ visï¿½e voit sa caractï¿½ristique d'Attaque augmentï¿½e de 8 points contre les Bï¿½hï¿½moths, les Dragons, les Hydres, les Oiseaux de Feu, les Serpents de Mer et les Couatls. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Pourfendeur pour Disciple}
 
-L'unité visée voit sa caractéristique d'Attaque augmentée de 8 points contre les Béhémoths, les Dragons, les Hydres, les Oiseaux de Feu, les Serpents de Mer, les Couatls, les Diables et les Anges. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Pourfendeur pour Maître}
+L'unitï¿½ visï¿½e voit sa caractï¿½ristique d'Attaque augmentï¿½e de 8 points contre les Bï¿½hï¿½moths, les Dragons, les Hydres, les Oiseaux de Feu, les Serpents de Mer, les Couatls, les Diables et les Anges. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Pourfendeur pour Maï¿½tre}
 
-L'unité visée voit sa caractéristique d'Attaque augmentée de 8 points contre les Béhémoths, les Dragons, les Hydres, les Oiseaux de Feu, les Serpents de Mer, les Couatls, les Diables, les Anges, les Démolisseurs et les Titans. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	 COMBAT_SPELL|CREATURE_TARGET
+L'unitï¿½ visï¿½e voit sa caractï¿½ristique d'Attaque augmentï¿½e de 8 points contre les Bï¿½hï¿½moths, les Dragons, les Hydres, les Oiseaux de Feu, les Serpents de Mer, les Couatls, les Diables, les Anges, les Dï¿½molisseurs et les Titans. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	 COMBAT_SPELL|CREATURE_TARGET
 Foudre de Guerre	Foudre de G.	4	 	 	x	 	16	12	12	12	0	100	100	150	200	5	5	5	5	5	5	0	0	5	10	10	20	30	"{Foudre de Guerre}
 
-La caractéristique Défense de l'unité cible est ajoutée à sa caractéristique d'Attaque. La défense de l'unité tombe alors à zéro."	"{Foudre de Guerre pour Novice}
+La caractï¿½ristique Dï¿½fense de l'unitï¿½ cible est ajoutï¿½e ï¿½ sa caractï¿½ristique d'Attaque. La dï¿½fense de l'unitï¿½ tombe alors ï¿½ zï¿½ro."	"{Foudre de Guerre pour Novice}
 
-La caractéristique Défense de l'unité cible est ajoutée à sa caractéristique d'Attaque. La défense de l'unité tombe alors à zéro. Le sort dure jusqu'au prochain tour de l'unité concernée."	"{Foudre de Guerre pour Disciple}
+La caractï¿½ristique Dï¿½fense de l'unitï¿½ cible est ajoutï¿½e ï¿½ sa caractï¿½ristique d'Attaque. La dï¿½fense de l'unitï¿½ tombe alors ï¿½ zï¿½ro. Le sort dure jusqu'au prochain tour de l'unitï¿½ concernï¿½e."	"{Foudre de Guerre pour Disciple}
 
-La caractéristique Défense de l'unité cible lorsqu'elle est ajoutée à sa caractéristique d'Attaque est 1.5 fois supérieure à sa valeur précédente. La défense de l'unité tombe alors à zéro. Le sort dure jusqu'au prochain tour de l'unité concernée."	"{Foudre de Guerre pour Maître}
+La caractï¿½ristique Dï¿½fense de l'unitï¿½ cible lorsqu'elle est ajoutï¿½e ï¿½ sa caractï¿½ristique d'Attaque est 1.5 fois supï¿½rieure ï¿½ sa valeur prï¿½cï¿½dente. La dï¿½fense de l'unitï¿½ tombe alors ï¿½ zï¿½ro. Le sort dure jusqu'au prochain tour de l'unitï¿½ concernï¿½e."	"{Foudre de Guerre pour Maï¿½tre}
 
-La caractéristique Défense de l'unité cible lorsqu'elle est ajoutée à sa caractéristique d'Attaque est 2 fois supérieure à sa valeur précédente. La défense de l'unité tombe alors à zéro. Le sort dure jusqu'au prochain tour de l'unité concernée."	 COMBAT_SPELL|CREATURE_TARGET|MIND_SPELL
-Éclair de Titan	Écl. de Titan	5				x	0	0	0	0	0	600	600	600	600	0	0	0	0	0	0	0	0	0	75	75	75	75	"{Éclair de Titan}
+La caractï¿½ristique Dï¿½fense de l'unitï¿½ cible lorsqu'elle est ajoutï¿½e ï¿½ sa caractï¿½ristique d'Attaque est 2 fois supï¿½rieure ï¿½ sa valeur prï¿½cï¿½dente. La dï¿½fense de l'unitï¿½ tombe alors ï¿½ zï¿½ro. Le sort dure jusqu'au prochain tour de l'unitï¿½ concernï¿½e."	 COMBAT_SPELL|CREATURE_TARGET|MIND_SPELL
+ï¿½clair de Titan	ï¿½cl. de Titan	5				x	0	0	0	0	0	600	600	600	600	0	0	0	0	0	0	0	0	0	75	75	75	75	"{ï¿½clair de Titan}
 
-Lorsque Tonnerre des Titans est lancé l'unité visée subit 600 points de dégâts, sans que cela coûte un seul point de magie."	"{Éclair de Titan}
+Lorsque Tonnerre des Titans est lancï¿½ l'unitï¿½ visï¿½e subit 600 points de dï¿½gï¿½ts, sans que cela coï¿½te un seul point de magie."	"{ï¿½clair de Titan}
 
-Lorsque Tonnerre des Titans est lancé l'unité visée subit 600 points de dégâts, sans que cela coûte un seul point de magie."	"{Eclair de Titan}
+Lorsque Tonnerre des Titans est lancï¿½ l'unitï¿½ visï¿½e subit 600 points de dï¿½gï¿½ts, sans que cela coï¿½te un seul point de magie."	"{Eclair de Titan}
 
-Lorsque Tonnerre des Titans est lancé l'unité visée subit 600 points de dégâts, sans que cela coûte un seul point de magie."	"{Éclair de Titan}
+Lorsque Tonnerre des Titans est lancï¿½ l'unitï¿½ visï¿½e subit 600 points de dï¿½gï¿½ts, sans que cela coï¿½te un seul point de magie."	"{ï¿½clair de Titan}
 
-Lorsque Tonnerre des Titans est lancé l'unité visée subit 600 points de dégâts, sans que cela coûte un seul point de magie."	
+Lorsque Tonnerre des Titans est lancï¿½ l'unitï¿½ visï¿½e subit 600 points de dï¿½gï¿½ts, sans que cela coï¿½te un seul point de magie."	
 Contre-Attaque	Contre-att.	4	 	 	 	x	24	20	20	20	0	1	1	2	2	5	10	5	5	5	5	0	0	5	20	20	30	30	"{Contre-Attaque}
 
-La troupe visée gagne immédiatement une riposte, et obtient une riposte supplémentaire au début de chaque tour. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Contre-Attaque pour Novice}
+La troupe visï¿½e gagne immï¿½diatement une riposte, et obtient une riposte supplï¿½mentaire au dï¿½but de chaque tour. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Contre-Attaque pour Novice}
 
-La troupe visée gagne immédiatement une riposte, et obtient une riposte supplémentaire au début de chaque tour. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Contre-Attaque pour Disciple}
+La troupe visï¿½e gagne immï¿½diatement une riposte, et obtient une riposte supplï¿½mentaire au dï¿½but de chaque tour. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Contre-Attaque pour Disciple}
 
-La troupe visée gagne immédiatement deux ripostes, et obtient deux ripostes supplémentaires au début de chaque tour. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Contre-Attaque pour Maître}
+La troupe visï¿½e gagne immï¿½diatement deux ripostes, et obtient deux ripostes supplï¿½mentaires au dï¿½but de chaque tour. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Contre-Attaque pour Maï¿½tre}
 
-Toutes les troupes alliées gagnent immédiatement deux ripostes, et obtiennent deux ripostes supplémentaires au début de chaque tour. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	 COMBAT_SPELL|CREATURE_TARGET_2
-Frénésie	Frénésie	4	 	 	x	 	20	16	16	16	0	0	0	1	2	5	5	5	5	10	5	0	0	5	60	60	60	60	"{Frénésie}
+Toutes les troupes alliï¿½es gagnent immï¿½diatement deux ripostes, et obtiennent deux ripostes supplï¿½mentaires au dï¿½but de chaque tour. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	 COMBAT_SPELL|CREATURE_TARGET_2
+Frï¿½nï¿½sie	Frï¿½nï¿½sie	4	 	 	x	 	20	16	16	16	0	0	0	1	2	5	5	5	5	10	5	0	0	5	60	60	60	60	"{Frï¿½nï¿½sie}
 
-La troupe visée attaque l'unité la plus proche, qu'elle soit alliée ou ennemie. S'il est actif, le sort Hypnose est annulé. La durée du sort est illimitée."	"{Frénésie pour Novice}
+La troupe visï¿½e attaque l'unitï¿½ la plus proche, qu'elle soit alliï¿½e ou ennemie. S'il est actif, le sort Hypnose est annulï¿½. La durï¿½e du sort est illimitï¿½e."	"{Frï¿½nï¿½sie pour Novice}
 
-La troupe visée attaque l'unité la plus proche, qu'elle soit alliée ou ennemie. S'il est actif, le sort Hypnose est annulé. La durée du sort est illimitée."	"{Frénésie pour Disciple}
+La troupe visï¿½e attaque l'unitï¿½ la plus proche, qu'elle soit alliï¿½e ou ennemie. S'il est actif, le sort Hypnose est annulï¿½. La durï¿½e du sort est illimitï¿½e."	"{Frï¿½nï¿½sie pour Disciple}
 
-La troupe visée ainsi que toutes les unités adjacentes attaquent les unités les plus proches, qu'elles soient alliées ou ennemies. S'il est actif, le sort Hypnose est annulé. La durée du sort est illimitée."	"{Frénésie pour Maître}
+La troupe visï¿½e ainsi que toutes les unitï¿½s adjacentes attaquent les unitï¿½s les plus proches, qu'elles soient alliï¿½es ou ennemies. S'il est actif, le sort Hypnose est annulï¿½. La durï¿½e du sort est illimitï¿½e."	"{Frï¿½nï¿½sie pour Maï¿½tre}
 
-La troupe visée ainsi que toutes les unités qui se trouvent à 1 et 2 hexagones de distance attaquent les unités les plus proches, qu'elles soient alliées ou ennemies. S'il est actif, le sort Hypnose est annulé. La durée du sort est illimitée."	 COMBAT_SPELL|CREATURE_TARGET|MIND_SPELL
+La troupe visï¿½e ainsi que toutes les unitï¿½s qui se trouvent ï¿½ 1 et 2 hexagones de distance attaquent les unitï¿½s les plus proches, qu'elles soient alliï¿½es ou ennemies. S'il est actif, le sort Hypnose est annulï¿½. La durï¿½e du sort est illimitï¿½e."	 COMBAT_SPELL|CREATURE_TARGET|MIND_SPELL
 Hypnose	Hypnose	3	 	 	 	x	18	15	15	15	25	10	10	20	50	4	4	8	6	0	8	4	4	12	25	25	50	100	"{Hypnose}
 
-La troupe visée dont le total des points de santé est inférieur à un certain plafond, tombe sous votre contrôle. S'il est actif, le sort Frénésie est annulé. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Hypnose pour Novice}
+La troupe visï¿½e dont le total des points de santï¿½ est infï¿½rieur ï¿½ un certain plafond, tombe sous votre contrï¿½le. S'il est actif, le sort Frï¿½nï¿½sie est annulï¿½. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Hypnose pour Novice}
 
-La troupe visée tombe temporairement sous votre contrôle si elle dispose de moins de (Magie x 25 + 10) points de vie. S'il est actif, le sort Frénésie est annulé. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Hypnose pour Disciple}
+La troupe visï¿½e tombe temporairement sous votre contrï¿½le si elle dispose de moins de (Magie x 25 + 10) points de vie. S'il est actif, le sort Frï¿½nï¿½sie est annulï¿½. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Hypnose pour Disciple}
 
-La troupe visée tombe temporairement sous votre contrôle si elle dispose de moins de (Magie x 25 + 20) points de vie. S'il est actif, le sort Frénésie est annulé. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Hypnose pour Maître}
+La troupe visï¿½e tombe temporairement sous votre contrï¿½le si elle dispose de moins de (Magie x 25 + 20) points de vie. S'il est actif, le sort Frï¿½nï¿½sie est annulï¿½. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Hypnose pour Maï¿½tre}
 
-La troupe visée tombe temporairement sous votre contrôle si elle dispose de moins de (Magie x 25 + 50) points de vie. S'il est actif, le sort Frénésie est annulé. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	 COMBAT_SPELL|CREATURE_TARGET|MIND_SPELL
+La troupe visï¿½e tombe temporairement sous votre contrï¿½le si elle dispose de moins de (Magie x 25 + 50) points de vie. S'il est actif, le sort Frï¿½nï¿½sie est annulï¿½. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	 COMBAT_SPELL|CREATURE_TARGET|MIND_SPELL
 Distraction	Distraction	3	 	x	 	 	12	9	9	9	0	0	0	0	0	8	8	4	4	4	4	4	4	8	1	1	1	1	"{Distraction}
 
-La moitié des créatures de la troupe visée oublient de tirer à distance. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Distraction pour Novice}
+La moitiï¿½ des crï¿½atures de la troupe visï¿½e oublient de tirer ï¿½ distance. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Distraction pour Novice}
 
-La moitié des créatures de la troupe visée oublient de tirer à distance. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Distraction pour Disciple}
+La moitiï¿½ des crï¿½atures de la troupe visï¿½e oublient de tirer ï¿½ distance. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Distraction pour Disciple}
 
-La troupe visée oublie de tirer à distance, et la moitié des créatures oublient également d'attaquer au corps-à-corps. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Distraction pour Maître}
+La troupe visï¿½e oublie de tirer ï¿½ distance, et la moitiï¿½ des crï¿½atures oublient ï¿½galement d'attaquer au corps-ï¿½-corps. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Distraction pour Maï¿½tre}
 
-Toutes les troupes ennemies qui attaquent à distance oublient de tirer, et la moitié des créatures oublient également d'attaquer au corps-à-corps. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	 COMBAT_SPELL|CREATURE_TARGET|MIND_SPELL
-Cécité	Cécité	2	 	 	x	 	10	8	8	8	0	50	50	25	0	4	6	2	12	4	4	4	6	8	50	50	50	50	"{Cécité}
+Toutes les troupes ennemies qui attaquent ï¿½ distance oublient de tirer, et la moitiï¿½ des crï¿½atures oublient ï¿½galement d'attaquer au corps-ï¿½-corps. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	 COMBAT_SPELL|CREATURE_TARGET|MIND_SPELL
+Cï¿½citï¿½	Cï¿½citï¿½	2	 	 	x	 	10	8	8	8	0	50	50	25	0	4	6	2	12	4	4	4	6	8	50	50	50	50	"{Cï¿½citï¿½}
 
-La troupe visée ne peut plus agir tant qu'elle n'est pas attaquée. N'affecte pas les morts-vivants. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Cécité pour Novice}
+La troupe visï¿½e ne peut plus agir tant qu'elle n'est pas attaquï¿½e. N'affecte pas les morts-vivants. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Cï¿½citï¿½ pour Novice}
 
-La troupe visée ne peut plus agir tant qu'elle n'est pas attaquée. Lors de sa première riposte, elle ne causera que la moitié des dégâts habituels. N'affecte pas les morts-vivants. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Cécité pour Disciple}
+La troupe visï¿½e ne peut plus agir tant qu'elle n'est pas attaquï¿½e. Lors de sa premiï¿½re riposte, elle ne causera que la moitiï¿½ des dï¿½gï¿½ts habituels. N'affecte pas les morts-vivants. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Cï¿½citï¿½ pour Disciple}
 
-La troupe visée ne peut plus agir tant qu'elle n'est pas attaquée. Lors de sa première riposte, elle ne causera que le quart des dégâts habituels. N'affecte pas les morts-vivants. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Cécité pour Maître}
+La troupe visï¿½e ne peut plus agir tant qu'elle n'est pas attaquï¿½e. Lors de sa premiï¿½re riposte, elle ne causera que le quart des dï¿½gï¿½ts habituels. N'affecte pas les morts-vivants. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Cï¿½citï¿½ pour Maï¿½tre}
 
-La troupe visée ne peut plus agir et n'est plus en mesure de riposter. N'affecte pas les morts-vivants. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	 COMBAT_SPELL|CREATURE_TARGET
-Téléportation	Téléportation	3	 	x	 	 	15	12	6	3	0	0	0	0	0	8	8	8	8	8	8	8	10	8	20	20	20	20	"{Téléportation}
+La troupe visï¿½e ne peut plus agir et n'est plus en mesure de riposter. N'affecte pas les morts-vivants. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	 COMBAT_SPELL|CREATURE_TARGET
+Tï¿½lï¿½portation	Tï¿½lï¿½portation	3	 	x	 	 	15	12	6	3	0	0	0	0	0	8	8	8	8	8	8	8	10	8	20	20	20	20	"{Tï¿½lï¿½portation}
 
-La troupe alliée visée est téléportée sur un hexagone inoccupé de votre choix. Annule l'effet négatif Enchevêtrement."	"{Téléportation pour Novice}
+La troupe alliï¿½e visï¿½e est tï¿½lï¿½portï¿½e sur un hexagone inoccupï¿½ de votre choix. Annule l'effet nï¿½gatif Enchevï¿½trement."	"{Tï¿½lï¿½portation pour Novice}
 
-La troupe alliée visée est téléportée sur un hexagone inoccupé de votre choix. Annule l'effet négatif Enchevêtrement. Une unité ne peut être téléportée derrière un mur d'enceinte ou des douves."	"{Téléportation pour Disciple}
+La troupe alliï¿½e visï¿½e est tï¿½lï¿½portï¿½e sur un hexagone inoccupï¿½ de votre choix. Annule l'effet nï¿½gatif Enchevï¿½trement. Une unitï¿½ ne peut ï¿½tre tï¿½lï¿½portï¿½e derriï¿½re un mur d'enceinte ou des douves."	"{Tï¿½lï¿½portation pour Disciple}
 
-La troupe alliée visée est téléportée sur un hexagone inoccupé de votre choix. Annule l'effet négatif Enchevêtrement. Une unité ne peut être téléportée derrière un mur d'enceinte."	"{Téléportation pour Maître}
+La troupe alliï¿½e visï¿½e est tï¿½lï¿½portï¿½e sur un hexagone inoccupï¿½ de votre choix. Annule l'effet nï¿½gatif Enchevï¿½trement. Une unitï¿½ ne peut ï¿½tre tï¿½lï¿½portï¿½e derriï¿½re un mur d'enceinte."	"{Tï¿½lï¿½portation pour Maï¿½tre}
 
-La troupe alliée visée est téléportée sur un hexagone inoccupé de votre choix. Annule l'effet négatif Enchevêtrement."	 COMBAT_SPELL|CREATURE_TARGET
+La troupe alliï¿½e visï¿½e est tï¿½lï¿½portï¿½e sur un hexagone inoccupï¿½ de votre choix. Annule l'effet nï¿½gatif Enchevï¿½trement."	 COMBAT_SPELL|CREATURE_TARGET
 Champ Libre	Champ Libre	2	 	x	 	 	7	5	5	5	0	0	0	0	0	4	4	6	4	4	4	4	4	4	1	1	1	1	"{Champ Libre}
 
 Supprime un obstacle non-magique du champ de bataille."	"{Champ Libre pour Novice}
 
 Supprime un obstacle non-magique du champ de bataille."	"{Champ Libre pour Disciple}
 
-Supprime un obstacle non-magique du champ de bataille ainsi que les Murs de Flammes."	"{Champ Libre pour Maître}
+Supprime un obstacle non-magique du champ de bataille ainsi que les Murs de Flammes."	"{Champ Libre pour Maï¿½tre}
 
 Supprime tous les obstacles du champ de bataille."	 COMBAT_SPELL|OBSTACLE_TARGET
 Clone	Clone	4	 	x	 	 	24	20	20	20	0	5	5	6	7	5	5	10	5	5	5	0	0	10	20	20	40	50	"{Clone}
 
-Crée une unité identique à l'unité visée. L'unité clonée peut attaquer, mais disparaît sitôt qu'elle subit le moindre dégât ou que l'unité originale est détruite. N'affecte pas les machines de guerre. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Clone pour Novice}
+Crï¿½e une unitï¿½ identique ï¿½ l'unitï¿½ visï¿½e. L'unitï¿½ clonï¿½e peut attaquer, mais disparaï¿½t sitï¿½t qu'elle subit le moindre dï¿½gï¿½t ou que l'unitï¿½ originale est dï¿½truite. N'affecte pas les machines de guerre. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros."	"{Clone pour Novice}
 
-Crée une unité identique à l'unité visée. L'unité clonée peut attaquer, mais disparaît sitôt qu'elle subit le moindre dégât ou que l'unité originale est détruite. N'affecte pas les machines de guerre. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+Crï¿½e une unitï¿½ identique ï¿½ l'unitï¿½ visï¿½e. L'unitï¿½ clonï¿½e peut attaquer, mais disparaï¿½t sitï¿½t qu'elle subit le moindre dï¿½gï¿½t ou que l'unitï¿½ originale est dï¿½truite. N'affecte pas les machines de guerre. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros.
 
-Clone agit sur les créatures des niveaux 1 à 5."	"{Clone pour Disciple}
+Clone agit sur les crï¿½atures des niveaux 1 ï¿½ 5."	"{Clone pour Disciple}
 
-Crée une unité identique à l'unité visée. L'unité clonée peut attaquer, mais disparaît sitôt qu'elle subit le moindre dégât ou que l'unité originale est détruite. N'affecte pas les machines de guerre. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+Crï¿½e une unitï¿½ identique ï¿½ l'unitï¿½ visï¿½e. L'unitï¿½ clonï¿½e peut attaquer, mais disparaï¿½t sitï¿½t qu'elle subit le moindre dï¿½gï¿½t ou que l'unitï¿½ originale est dï¿½truite. N'affecte pas les machines de guerre. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros.
 
-Clone agit sur les créatures des niveaux 1 à 6."	"{Clone pour Maître}
+Clone agit sur les crï¿½atures des niveaux 1 ï¿½ 6."	"{Clone pour Maï¿½tre}
 
-Crée une unité identique à l'unité visée. L'unité clonée peut attaquer, mais disparaît sitôt qu'elle subit le moindre dégât ou que l'unité originale est détruite. N'affecte pas les machines de guerre. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+Crï¿½e une unitï¿½ identique ï¿½ l'unitï¿½ visï¿½e. L'unitï¿½ clonï¿½e peut attaquer, mais disparaï¿½t sitï¿½t qu'elle subit le moindre dï¿½gï¿½t ou que l'unitï¿½ originale est dï¿½truite. N'affecte pas les machines de guerre. Le sort peut rester actif durant un nombre de tours ï¿½gal ï¿½ la Magie du Hï¿½ros.
 
-Clone agit sur les créatures des niveaux 1 à 7."	 COMBAT_SPELL|CREATURE_TARGET
-Élémentaires Feu	Élém. Feu	5			x		25	20	20	20	0	2	2	3	4	0	0	0	16	0	12	0	0	12	50	50	100	150	"{Élémentaires du Feu}
+Clone agit sur les crï¿½atures des niveaux 1 ï¿½ 7."	 COMBAT_SPELL|CREATURE_TARGET
+ï¿½lï¿½mentaires Feu	ï¿½lï¿½m. Feu	5			x		25	20	20	20	0	2	2	3	4	0	0	0	16	0	12	0	0	12	50	50	100	150	"{ï¿½lï¿½mentaires du Feu}
 
-Vous pouvez invoquer les forces Élémentaires du Feu."	"{Élémentaires du Feu pour Novice}
+Vous pouvez invoquer les forces ï¿½lï¿½mentaires du Feu."	"{ï¿½lï¿½mentaires du Feu pour Novice}
 
-Vous pouvez invoquer des Élémentaires du Feu (Magie x 2) à un emplacement aléatoire sur le champ de bataille.
-"	"{Élémentaires du Feu pour Disciple}
+Vous pouvez invoquer des ï¿½lï¿½mentaires du Feu (Magie x 2) ï¿½ un emplacement alï¿½atoire sur le champ de bataille.
+"	"{ï¿½lï¿½mentaires du Feu pour Disciple}
 
-Vous pouvez invoquer des Élémentaires du Feu (Magie x 2.5) à un emplacement aléatoire sur le champ de bataille.
-"	"{Élémentaires du Feu pour Maître}
+Vous pouvez invoquer des ï¿½lï¿½mentaires du Feu (Magie x 2.5) ï¿½ un emplacement alï¿½atoire sur le champ de bataille.
+"	"{ï¿½lï¿½mentaires du Feu pour Maï¿½tre}
 
-Vous pouvez invoquer des Élémentaires du Feu (Magie x 3) à un emplacement aléatoire sur le champ de bataille.
+Vous pouvez invoquer des ï¿½lï¿½mentaires du Feu (Magie x 3) ï¿½ un emplacement alï¿½atoire sur le champ de bataille.
 "	 COMBAT_SPELL
-Élémentaires Terre	Élém. Terre	5	x				25	20	20	20	0	2	2	3	4	0	16	14	16	16	12	0	0	12	50	50	100	150	"{Élémentaires de la Terre}
+ï¿½lï¿½mentaires Terre	ï¿½lï¿½m. Terre	5	x				25	20	20	20	0	2	2	3	4	0	16	14	16	16	12	0	0	12	50	50	100	150	"{ï¿½lï¿½mentaires de la Terre}
 
-Vous pouvez invoquer les forces Élémentaires de la Terre."	"{Élémentaires de la Terre pour Novice}
+Vous pouvez invoquer les forces ï¿½lï¿½mentaires de la Terre."	"{ï¿½lï¿½mentaires de la Terre pour Novice}
 
-Vous pouvez invoquer des Élémentaires de la Terre (Magie x 2) à un emplacement aléatoire sur le champ de bataille.
-"	"{Élémentaires de la Terre pour Disciple}
+Vous pouvez invoquer des ï¿½lï¿½mentaires de la Terre (Magie x 2) ï¿½ un emplacement alï¿½atoire sur le champ de bataille.
+"	"{ï¿½lï¿½mentaires de la Terre pour Disciple}
 
-Vous pouvez invoquer des Élémentaires de la Terre (Magie x 2.5) à un emplacement aléatoire sur le champ de bataille.
-"	"{Élémentaires de la Terre pour Maître}
+Vous pouvez invoquer des ï¿½lï¿½mentaires de la Terre (Magie x 2.5) ï¿½ un emplacement alï¿½atoire sur le champ de bataille.
+"	"{ï¿½lï¿½mentaires de la Terre pour Maï¿½tre}
 
-Vous pouvez invoquer des Élémentaires de la Terre (Magie x 3) à un emplacement aléatoire sur le champ de bataille.
+Vous pouvez invoquer des ï¿½lï¿½mentaires de la Terre (Magie x 3) ï¿½ un emplacement alï¿½atoire sur le champ de bataille.
 "	 COMBAT_SPELL
-Élémentaires Eau	Élém. Eau	5		x			25	20	20	20	0	2	2	3	4	0	16	14	0	0	12	0	0	12	50	50	100	150	"{Élémentaires de l'Eau}
+ï¿½lï¿½mentaires Eau	ï¿½lï¿½m. Eau	5		x			25	20	20	20	0	2	2	3	4	0	16	14	0	0	12	0	0	12	50	50	100	150	"{ï¿½lï¿½mentaires de l'Eau}
 
-Vous pouvez invoquer les forces Élémentaires de l'Eau."	"{Élémentaires de l'Eau pour Novice}
+Vous pouvez invoquer les forces ï¿½lï¿½mentaires de l'Eau."	"{ï¿½lï¿½mentaires de l'Eau pour Novice}
 
-Vous pouvez invoquer des Élémentaires de l'Eau (Magie x 2) à un emplacement aléatoire sur le champ de bataille.
-"	"{Élémentaires de l'Eau pour Disciple}
+Vous pouvez invoquer des ï¿½lï¿½mentaires de l'Eau (Magie x 2) ï¿½ un emplacement alï¿½atoire sur le champ de bataille.
+"	"{ï¿½lï¿½mentaires de l'Eau pour Disciple}
 
-Vous pouvez invoquer des Élémentaires de l'Eau (Magie x 3) à un emplacement aléatoire sur le champ de bataille.
-"	"{Élémentaires de l'Eau pour Maître}
+Vous pouvez invoquer des ï¿½lï¿½mentaires de l'Eau (Magie x 3) ï¿½ un emplacement alï¿½atoire sur le champ de bataille.
+"	"{ï¿½lï¿½mentaires de l'Eau pour Maï¿½tre}
 
-Vous pouvez invoquer des Élémentaires de l'Eau (Magie x 4) à un emplacement aléatoire sur le champ de bataille.
+Vous pouvez invoquer des ï¿½lï¿½mentaires de l'Eau (Magie x 4) ï¿½ un emplacement alï¿½atoire sur le champ de bataille.
 "	 COMBAT_SPELL
-Élémentaires Air	Élém. Air	5				x	25	20	20	20	0	2	2	3	4	0	0	14	0	16	0	0	0	12	50	50	100	150	"{Élémentaires de l'Air}
+ï¿½lï¿½mentaires Air	ï¿½lï¿½m. Air	5				x	25	20	20	20	0	2	2	3	4	0	0	14	0	16	0	0	0	12	50	50	100	150	"{ï¿½lï¿½mentaires de l'Air}
 
-Vous pouvez invoquer les forces Élémentaires de l'Air."	"{Élémentaires de l'Air pour Novice}
+Vous pouvez invoquer les forces ï¿½lï¿½mentaires de l'Air."	"{ï¿½lï¿½mentaires de l'Air pour Novice}
 
-Vous pouvez invoquer des Élémentaires de l'Air (Magie x 2) à un emplacement aléatoire sur le champ de bataille.
-"	"{Élémentaires de l'Air pour Disciple}
+Vous pouvez invoquer des ï¿½lï¿½mentaires de l'Air (Magie x 2) ï¿½ un emplacement alï¿½atoire sur le champ de bataille.
+"	"{ï¿½lï¿½mentaires de l'Air pour Disciple}
 
-Vous pouvez invoquer des Élémentaires de l'Air (Magie x 3) à un emplacement aléatoire sur le champ de bataille.
-"	"{Élémentaires de l'Air pour Maître}
+Vous pouvez invoquer des ï¿½lï¿½mentaires de l'Air (Magie x 3) ï¿½ un emplacement alï¿½atoire sur le champ de bataille.
+"	"{ï¿½lï¿½mentaires de l'Air pour Maï¿½tre}
 
-Vous pouvez invoquer des Élémentaires de l'Air (Magie x 4) à un emplacement aléatoire sur le champ de bataille.
+Vous pouvez invoquer des ï¿½lï¿½mentaires de l'Air (Magie x 4) ï¿½ un emplacement alï¿½atoire sur le champ de bataille.
 "	 COMBAT_SPELL
 																																	
 Creature Abilities																																	
 																																	
-Regard Pétrifiant	Regard Pétrifiant	3					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
+Regard Pï¿½trifiant	Regard Pï¿½trifiant	3					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
 Poison paralysant	Poison paralysant	0					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
-Enchevêtrement	Enchevêtrement	0					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
+Enchevï¿½trement	Enchevï¿½trement	0					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
 Contagion	Contagion	2					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
 Venin paralysant	Venin paralysant	4					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
 Vieillissement	Vieillissement	5					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
 Nuage Toxique	Nuage Toxique	0					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
 Foudre	Foudre	0					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
-Dissipation des sorts bénéfiques	Dissipation des sorts bénéfiques	0					0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1					
+Dissipation des sorts bï¿½nï¿½fiques	Dissipation des sorts bï¿½nï¿½fiques	0					0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1					
 Regard Mortel	Regard Mortel	0					0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1					
 Jet d'Acide	Jet d'Acide	0					0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1					
