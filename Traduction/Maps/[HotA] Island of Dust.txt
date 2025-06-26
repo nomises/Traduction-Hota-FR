@@ -1,0 +1,75 @@
+===== Map name =====
+L'île Cendreuse
+
+===== Map description =====
+Cette île gît dans les cendres depuis des siècles, du temps où les dragons ont dévasté les terres autour du cratère central. Plusieurs aventuriers sont arrivés sur cette terre autrefois magnifique. Ils devront faire preuve de courage s'ils veulent s'approprier le trésor des sables brûlants.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Jour 1
+Message:
+Voici la légendaire île Cendreuse, foyer de nombreuses générations de dragons.	Vous vous tenez sur son rivage, admirant le fort tout juste achevé, et qui servira de fondation pour vos glorieuses ambitions. 
+
+Name:
+Jour 1.1
+Message:
+Vous devrez être audacieux pour atteindre la tanière des dragons, revendiquer le trésor des cinq continents pour vous seul, et tremper votre lame dans du sang encore chaud.	Cependant, il y'a un problème : votre équipage a repéré trois autres navires se rapprochant de l'île. Qui que ce soit, ils doivent penser également au trésor...
+
+Name:
+Jour 2
+Message:
+Était-ce une mauvaise idée de se précipiter dans le désert tout de suite après le débarquement ? 	La côte est encore recouverte d'une épaisse jungle, malgré le désert central. Ces enclaves verdoyantes sont habitées par des bêtes effrayantes. Cela peut paraître étrange, mais elles semblent vouloir se joindre à vous pour renverser les dragons.
+
+Name:
+Jour 4
+Message:
+Les éclaireurs sont de retour du désert, mais pas tous. En fait, ceux qui sont revenus sont en piteux état, et ne pourront pas y retourner de sitôt.	La plupart sont couverts de brûlures ou ont été lacérés par des griffes de dragons... En plus ils reviennent avec des sinistres nouvelles.	Le désert est déjà envahi d'espions envoyés par les autres équipages que vous avez déjà repérés. Les dragons semblent avoir perdu de leur emprise, et de nouvelles fortifications ont été érigées sur les sables.	On dirait que les chasseurs de trésor vont d'abord devoir se chasser entre eux.
+
+===== Heroes =====
+
+===== Objects =====
+
+(75, 61, 0) ***Sign***
+Message:
+Pas si vite, ô Voyageur! Ce pourrait-être votre dernier point d'eau avant de vous aventurer dans le Désert.
+
+(26, 82, 0) ***Sign***
+Message:
+Pas si vite, ô Voyageur! Ce pourrait-être votre dernier point d'eau avant de vous aventurer dans le Désert.
+
+(73, 26, 0) ***Sign***
+Message:
+Pas si vite, ô Voyageur! Ce pourrait-être votre dernier point d'eau avant de vous aventurer dans le Désert.
+
+(34, 28, 0) ***Sign***
+Message:
+Pas si vite, ô Voyageur! Ce pourrait-être votre dernier point d'eau avant de vous aventurer dans le Désert.
+
+(76, 84, 0) ***Seer's Hut***
+Message:
+J'essaye de maîtriser le sort de Clonage, mais je n'arrive pas à trouver assez de volontaires pour mes essais.	Vous seriez bien agréables me ramener, disons 48 des Bandits qui ont leur tanière à l'ouest, je serai ravi de doubler leurs effectifs pour vous!
+J'ai pris un bateau hier et suis allé essayer mon sort sur cette sirène là-bas. Le résultat ... eh bien, je ne peux toujours pas doubler une créature vivante, mais je pense que les marins seront heureux de ce que j'ai accompli cette fois. Évidemment, je ferai beaucoup mieux après que vous m'ayez apporté 48 Bandits!
+Enfin, quelques sujets pour mes expériences! Je jure maintenant, au moment où il ne restera qu'un dernier Bandit, je repasserai chaque erreur, puis j'en ferai autant que je l'ai promis!
+
+(7, 87, 0) ***Seer's Hut***
+Message:
+J'essaye de maîtriser le sort de Clonage, mais je n'arrive pas à trouver assez de volontaires pour mes essais.	Vous seriez bien agréables me ramener, disons 18 des Trolls qui ont leur tanière au nord, je serai ravi de doubler leurs effectifs pour vous!
+Hier, je passais devant un moulin et j'ai décidé de tenter une expérience sur le coq du meunier. J'ai maintenant assez de têtes de poulet pour faire de la soupe pour le mois prochain! Évidemment, je ferai beaucoup mieux après que vous m'ayez apporté 18 Trolls!
+Enfin, quelques sujets pour mes expériences! Je jure maintenant, au moment où il ne restera qu'un dernier Troll, je repasserai chaque erreur, puis j'en ferai autant que je l'ai promis!
+
+(103, 65, 0) ***Seer's Hut***
+Message:
+J'essaye de maîtriser le sort de Clonage, mais je n'arrive pas à trouver assez de volontaires pour mes essais.	Vous seriez bien agréables me ramener, disons 24 des Satyres qui ont leur tanière au nord, je serai ravi de doubler leurs effectifs pour vous!
+Hier, j'ai expérimenté mon sort sur un cochon qui passait par là. Il a maintenant deux têtes et cinq pattes! Évidemment, je ferai beaucoup mieux quand vous m'aurez apporté 24 Satyres!
+Enfin quelques sujets pour mes expériences! Je vous jure maintenant, au moment où il ne restera qu'un dernier satyre, je repasserai chaque erreur, puis j'en ferai autant que je l'ai promis!
+
+(27, 9, 0) ***Seer's Hut***
+Message:
+J'essaye de maîtriser le sort de Clonage, mais je n'arrive pas à trouver assez de volontaires pour mes essais.	Vous seriez bien agréables me ramener, disons 48 des Sangliers qui ont leur tanière à l'est, je serai ravi de doubler leurs effectifs pour vous!
+Hier, j'ai essayé de cloner des cailloux que j'ai trouvés sur la plage ... disons que ce n'était pas une expérience réussie. Évidemment, je ferai beaucoup mieux après que vous m'ayez apporté 48 Sangliers!
+Enfin, quelques sujets pour mes expériences! Je jure maintenant, au moment où il ne restera qu'un dernier Sanglier, je repasserai chaque erreur, puis j'en ferai autant que je l'ai promis!
+
+===== End of file =====

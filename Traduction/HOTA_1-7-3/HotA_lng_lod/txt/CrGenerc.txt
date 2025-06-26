@@ -1,0 +1,14 @@
+Creature 1
+Creature 1 Upgrade
+Creature 2
+Creature 2 Upgrade
+Creature 3
+Creature 3 Upgrade
+Creature 4
+Creature 4 Upgrade
+Creature 5
+Creature 5 Upgrade
+Creature 6
+Creature 6 Upgrade
+Creature 7
+Creature 7 Upgrade

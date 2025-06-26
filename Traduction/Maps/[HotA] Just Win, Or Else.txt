@@ -1,0 +1,42 @@
+===== Map name =====
+Just Win, Or Else
+
+===== Map description =====
+All the fortresses have already been built up, all the mercenaries lured in with coin, and legendary treasures found. All that remains to do is rear up powerful heroes who will seize the opportunity and defeat the adversary, just as well-prepared though.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+day1
+Message:
+Onwards, to battle! There is nothing to wait for: everything is here for your victory! Just come and take it by force... or else. 
+
+===== Heroes =====
+
+===== Objects =====
+
+(18, 18, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Free
+Message:
+
+
+(19, 33, 0) ***Random Town***
+
+Timed events:
+
+Name:
+free
+Message:
+
+
+(18, 20, 0) ***Pandora's Box***
+Message:
+
+
+===== End of file =====

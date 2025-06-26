@@ -1,0 +1,61 @@
+===== Map name =====
+Seven Days
+
+===== Map description =====
+While you were away from home, your neighbour, the scheming dark elf Maghera, decided to take your lands. You must act quickly to gather your troops, build fortifications, and return home to fight the villain!
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+day 1
+Message:
+The couriers report: while Ziph was fighting the barbarian hordes, our neighbor Maghera started a war against us. Her troops are already attacking our borders. Our warriors will be able to hold off her offensive for a few days, but we need to hurry back to the castle before Maghera captures it!			
+
+Name:
+day 7
+Message:
+The courier arrived with news: Maghera has managed to penetrate our border fortifications and is only a day's march away from our castle!
+
+===== Heroes =====
+
+===== Objects =====
+
+(71, 7, 0) ***Mercenary***
+Name:
+Maghera
+
+(53, 5, 0) ***Event***
+Message:
+Nullification
+
+(68, 7, 0) ***Event***
+Message:
+Movement points
+
+(67, 7, 0) ***Event***
+Message:
+Army increase on Expert and Impossible
+
+(2, 51, 0) ***Halfling***
+Message:
+The warriors still loyal to you want to join your army!  
+
+(70, 44, 0) ***Mechanic***
+Message:
+The warriors still loyal to you want to join your army!  
+
+(70, 7, 0) ***Event***
+Message:
+More money on Expert and Impossible
+
+(33, 70, 0) ***Event***
+Message:
+Your warriors are encouraged and eager to move!
+
+(53, 6, 0) ***Event***
+Message:
+Movement points
+
+===== End of file =====

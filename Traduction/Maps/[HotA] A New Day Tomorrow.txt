@@ -1,0 +1,1400 @@
+===== Map name =====
+Demain est un Autre Jour
+
+===== Map description =====
+Chaque seigneur ici a une bonne raison pour faire la guerre. Il est illusoire d'en attendre de la pitié, et ces terres sont dangereuses et avares en ressources. Cependant, gardez à l'esprit qu'une défaite ne veut pas dire que tout est perdu. Demain est un autre jour.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+whoosh
+Message:
+
+
+Name:
+Tempestus 1
+Message:
+La Guerre. Certainement la calamité la plus dévastatrice pour un pays. Les seigneurs cherchent les raisons les plus futiles pour la déclarer. Ils veulent renforcer leur pouvoir, gagner plus de terres, restaurer leur dignité ou tout simplement vaincre l'ennui. Vous étiez du genre assoiffé de pouvoir, mais la guerre a eu raison de vous rapidement, ce qui finalement était un mal pour un bien. Un de vos vieux amis vous a aidé à vous installer ici, à Tempestus, avec l'espoir d'un nouveau départ. La Guerre. C'est votre nouvelle vie. Les batailles ne connaissent pas de fin ici, elles deviennent seulement plus cruelles après la mort d'un monarque. Les tempêtes ne s'arrêtent jamais. Vous avez eu la chance de prendre un bon départ et de vous installer sans que personne ne vous dérange, grâce aux relations de vos amis. Il serait sage d’envoyer des éclaireurs dans toutes les directions, car il est essentiel d’être préparé aux menaces qui se trament dans ces terres peu acceuillantes.
+
+Name:
+L'Ancien Domaine 1
+Message:
+Le concept de vaste empire a un défaut de taille. Il finit toujours par s'effondrer. Chaque enfant de l'Ancien Domaine est au courant des récents évènements, mais pas un seul homme instruit ne peut les expliquer. Une magie inconnue a fait apparaitre un certain nombre d'îles enneigées des profondeurs de la mer. Aujourd'hui, le continent est disloqué en une multitude d'îles. Dans ces conditions, difficile pour une armée d'être mobile, mais quoi qu'il en soit, la guerre éclata. Le Roi était reconnu comme un commandant courageux, mais peut-être trop pour garder ses troupes en vie. Ses conseillers, à l'origine en faveur du conflit, commencèrent à prôner la paix. Un traité fut signé, et les nouveaux territoires prirent le nom de Nouveau Domaine. Votre mission est de protéger les intérêts de l'Ancien Domaine, mais pour éviter un nouveau conflit global, vous devez agir seul. Votre pays a besoin de vous, mais il vous reniera en cas d'échec.
+
+Name:
+Le Nouveau Domaine 1
+Message:
+C'est drôle comme tout peut changer en un jour .Une petite gaffe d'un puissant sorcier a suffi pour arracher de grandes parcelles de votre ancienne patrie et les amener ici. La magie peut être une chose terrible en cas d'erreur, comme l'a appris ce sorcier et les milliers de personnes qui ont péri suite au désastre. Comme si cela ne suffisait pas, le roi d'un pays appelé le Domaine, voisin de ces parcelles arrachées, a déclaré la guerre aux nouveaux arrivants. Sans savoir si ceux-ci étaient pacifiques, il réagit instinctivement par la violence. Ce fût sa perte. La rumeur dit qu'il a fui le pays, et ses conseillers prétendent se réjouir du cessez-le-feu qui a suivi. N'espérez pas que cela dure. Vous devez vous établir rapidement, et les frontières du Nouveau Domaine ne devraient pas vous arrêter. Qui sait ce que vous trouverez si vous explorez un peu?
+
+Name:
+Le Domaine des Profondeurs 1
+Message:
+Il n'y avait que quelques mines et quelques campements dans cette région souterraine. Cependant, après l'arrivée des Silencieux, le pays a été changé en un clin d'oeil. Ils sont arrivés peu de temps après ceux du Nouveau Domaine. Ils ne sont pas très amicaux et leurs pouvoirs sont effrayants, mais ils nous ont beaucoup apporté en quelques mois. En fait, assez pour commencer à voir les choses en grand. Les nouveaux Seigneurs des Profondeurs inspiraient le respect et très peu réalisèrent que quelqu'un pouvait vivre sous le Domaine. Aujourd'hui, beaucoup ont l'espoir de voir se réaliser de grandes choses, y compris vous et votre rival, le seigneur voisin. Soyez prudent et intelligent dans l'utilisation de vos ressources!
+
+Name:
+Acropie 1
+Message:
+Ces terres ont été nommées d'après la ville d'Acropie qui se dressait ici. C'était le foyer de druides qui souhaitaient rendre le monde meilleur. Acropie fut réduite à un simple fort après que ses dirigeants eurent trahi la grande cité. Tempestus, le royaume voisin, a été rasé dans une catastrophe, et il n'a pas fallu longtemps avant que des pillards n'arrivent jusqu'ici. Le Sénat vota contre le plan de fortifier Acropie pour les repousser. Les pillards reçurent plutôt un tribut, et s'installèrent dans le voisinage. Il n'est guère surpenant qu'ils ait pillé la ville malgré tout, et les efforts des druides pour changer le monde furent ruinés. Vos ancêtres ont donné leur vie pour défendre leur terre, et c'est votre devoir aujourd'hui d'aider à sa reconstruction. Cette reconstruction attire les convoitises du seigneur voisin. Surement un rejeton de ces barbares qui rasèrent Acropie, qui complote désormais pour revendiquer la grande cité. Il serait sage d'agir avec prudence pour le moment.	
+
+Name:
+Tempestus, Acropie 2
+Message:
+Nos éclaireurs rapportent ceci: Vous ne devriez pas espérer un accueil chaleureux ici. Une ville abandonnée, autrefois renommée, était située au nord d'ici. Des marécages impénétrables occupent les terres au sud. Des mercenaires semblent pouvoir être recrutés dans cette zone.
+
+Name:
+Le Domaine 2
+Message:
+De rares nouvelles nous parviennent de nos éclaireurs.	Ils ont trouvé une ancienne cité à l'ouest, après avoir rencontré des difficultés. On dirait que seuls des mercenaires vivent là-bas actuellement. Le château au nord, siège de l'Ancien Domaine, est neutre pour le moment, mais cela ne durera probablement pas.
+
+Name:
+Lame Brisée
+Message:
+Les éclaireurs nous rapportent leur dernières observations:	Il y'a un conflit entre trois puissances au centre de la région, qui se battent pour trois forteresses, dont aucune n'est occupée par vos ennemis pour le moment. Vous devriez prendre en considération la possibilité d'exploiter les richesses de ces terres, mais vous devez rassembler une force considérable avant tout. Des pirates ont été repérés également aux alentours, ils ressemblent à ceux qui contrôlaient le continent auparavant. Des nids de Dragons-Fées ont également été vus, mais les monstres ne semblent plus alliés aux vieux loups de mer.	Lame Brisée, à l’ouest de Tempestus, est probablement le plus grand lieu d’intérêt. La guerre l'a profondément ravagée, mais certains luttent encore pour la contrôler. Sûrement pour contrôler les Dragons Azurs qui y vivent.
+
+Name:
+Agamonde, Ilyane's Fist
+Message:
+Nos derniers éclaireurs reviennent en piteux état.	Il y a de mystérieux portails dans la région, orange et violet, mais on ne peut que spéculer sur leurs destinations. 	Derrière le portail orange se dresserait Agamonde, abritant des chevaliers corrompus. Ce royaume, autrefois puissant, a presque été réduit à néant après que des nécromanciens et des pirates aient joints leurs forces pour l’attaquer. A cette période se tenait le Tournoi d'Agamonde, mais ses participants ne se pressèrent pas pour aider leur hôte. Le Tournoi a toujours lieu aujourd'hui, mais rares sont les participants d'Agamonde.	Le portail violet serait l'unique chemin pour aller au Poing d'Iliane. Une étrangère apporta au peuple du Donjon la prospérité, et cet endroit étrange porte aujourd'hui son nom. Chaque doigt du poing d'Ilyane est empli de trésors, mais de nombreuses épreuves attendent ceux qui les convoitent. Vous pourrez y choisir votre adversaire, comme au tournoi d’Agamonde.
+
+===== Heroes =====
+
+===== Objects =====
+
+(111, 35, 0) ***Random Town***
+
+Timed events:
+
+Name:
+whoosh
+Message:
+
+
+(148, 43, 0) ***Random Town***
+
+Timed events:
+
+Name:
+whoosh
+Message:
+
+
+(123, 49, 0) ***Seer's Hut***
+Message:
+Mon rêve est de chevaucher un vrai dragon! Honnêtement, les chevaux m'ennuient à mourir. Imaginez-moi, si beau, assis sur son dos, tout étincelant et cuivré... Ouais, j'en aimerais bien un de Cristal, c'est une bonne ou une mauvaise chose? Donc voilà le topo, je n'ai pas assez de Cristaux pour me le payer. Cela dit, je pars bientôt en voyage, et j'en aurai un! Rapportez moi les Cristaux manquants. Il y'a quelques Kraks Nains dans le voisinage, vous pouvez les cambrioler, peu m'importe.
+Ce n'est pas suffisnat, j'ai besoin d'au moins Cristaux. Du vent.
+Bientôt, très bientôt je chevaucherai mon dragon! Aucun roi ni aucun chevalier n'en a même rêvé! Prenez cela en échange, j'espère que ça vous sera utile.
+
+(136, 36, 0) ***Seer's Hut***
+Message:
+Je songe à réaliser une expérience, mais cette île désolée ne dispose pas de laboratoire pour me fournir en mercure, et j'ai utilisé toute mes réserves. Une petite chance que vous en ayez à échanger?
+Je songe à réaliser une expérience, mais cette île désolée ne dispose pas de laboratoire pour me fournir en mercure, et j'ai utilisé toute mes réserves. Une petite chance que vous en ayez à échanger?
+Enfin! Je me fiche d'où il peut bien provenir, prenez ça et allez-vous en!
+
+(46, 141, 0) ***Random Town***
+
+Timed events:
+
+Name:
+whoosh
+Message:
+
+
+(52, 146, 0) ***Random Town***
+
+Timed events:
+
+Name:
+whoosh
+Message:
+
+
+(62, 160, 0) ***Random Town***
+
+Timed events:
+
+Name:
+whoosh
+Message:
+
+
+(56, 158, 0) ***Seer's Hut***
+Message:
+S'il vous plaît, ne me demandez pas comment nous en sommes arrivés là. Ils pourraient tout aussi bien commencer à proposer des visites guidées. En fait, ce serait encore mieux que ce que nous avions à notre arrivée.	J'ai bien peur de devoir vous demander de l'aide. J'ai besoin de quelques cristaux de temps en temps pour mes recherches. Il n'a pas été difficile de les obtenir jusqu'à ce que l'eau sépare ma maison de leur source. Je ne veux pas aider les gnomes gourmands à devenir encore plus riches, en achetant chez eux. En auriez-vous peut-être quelques-uns à revendre?
+S'il vous plaît, ne me demandez pas comment nous en sommes arrivés là. Ils pourraient tout aussi bien commencer à proposer des visites guidées. En fait, ce serait encore mieux que ce que nous avions à notre arrivée.	J'ai bien peur de devoir vous demander de l'aide. J'ai besoin de quelques cristaux de temps en temps pour mes recherches. Il n'a pas été difficile de les obtenir jusqu'à ce que l'eau sépare ma maison de leur source. Je ne veux pas aider les gnomes gourmands à devenir encore plus riches, en achetant chez eux. En auriez-vous peut-être quelques-uns à revendre?
+Organiser des visites guidées ne me semble plus si mal. "La maison d'un étranger", "Un alchimiste d'en bas", "Une cabane de mystères" - cela ne semble-t-il pas cool?	Vous avez les cristaux, au fait?
+
+(52, 132, 0) ***Seer's Hut***
+Message:
+Mon atelier avait beaucoup de succès avant que ces vauriens, qui se font appeler New Extate, ne nous tombent dessus. J'étais un homme d'affaires autodidacte, et il n'y avait personne comme moi dans tout le pays! Maintenant que la guerre est à nos portes, il y a peu de demande pour mes gemmes, car de nouveaux artisans ont pris des parts de marché. Mon fils ne voit pas à long terme, et il exige que nous allions les expulser littéralement des affaires, mais je pense que nous pourrions commencer quelque chose de nouveau. J'ai une raison de penser que je réussirai aussi en alchimie. J'ai juste besoin d'un peu d'investissement pour commencer. Pourriez-vous aider?
+Mon atelier avait beaucoup de succès avant que ces vauriens, qui se font appeler New Extate, ne nous tombent dessus. J'étais un homme d'affaires autodidacte, et il n'y avait personne comme moi dans tout le pays! Maintenant que la guerre est à nos portes, il y a peu de demande pour mes gemmes, car de nouveaux artisans ont pris des parts de marché. Mon fils ne voit pas à long terme, et il exige que nous allions les expulser littéralement des affaires, mais je pense que nous pourrions commencer quelque chose de nouveau. J'ai une raison de penser que je réussirai aussi en alchimie. J'ai juste besoin d'un peu d'investissement pour commencer. Pourriez-vous aider?
+Cela fera l'affaire. On troque?
+
+(53, 155, 0) ***Sign***
+Message:
+La curiosité est un vilain défaut.
+
+(41, 161, 0) ***Seer's Hut***
+Message:
+Les temps sont durs depuis la rupture de notre continent. Ole Alfgend et moi nous occupions de l'Axe des Etoiles, quand un jour nous nous sommes réveillés pour voir la mer par notre fenêtre au lieu des montagnes habituelles. Nous avons eu la chance de survivre, mais mon ami n'avait pas l'air heureux. Il est devenu instable, puis il a attrapé son personnel et son animal de compagnie et s'est enfui. Je ne pouvais pas le suivre, mais j'ai entendu qu'Alfgeng vivait maintenant près de la rivière gelée à l'Est. Il est difficile d'y arriver, et le vieil homme est devenu fou après des semaines à parcourir les étendues gelées. Ces jours-ci, il voit tout le monde comme un démon et il est prêt à défendre son dernier ami. S'il vous plaît, mettez fin à la souffrance de mon ami et apportez-moi son pendentif. Je partagerai une partie de ma sagesse avec vous pour cela.
+C'est si difficile de trouver un mage fou de nos jours ? 	Peut-être celui qui s'occupe d'un coq près de la rivière gelée ?
+J'espère que mon ami me pardonnera de lui avoir fait ça. Je ne pense pas que vous puissiez nous ramener à notre point de départ, donc votre travail est terminé. Voulez-vous étudier maintenant ?
+
+(125, 45, 0) ***Event***
+Message:
+Vous venez à peine d'entrer dans le marais lorsque cette redoutable créature apparait devant vous. N'est-ce pas Ojzin du marais, la terreur locale? Pendant que vous envisagiez une attaque, la bête a déjà pris sa décision. Il approche, avide de proies et de babioles.
+
+(55, 162, 0) ***Event***
+Message:
+Vous ne passerez pas!
+
+(28, 26, 0) ***Prison***
+Name:
+Darios
+Biography:
+Darios n'a rien pu faire. Il était toujours trop tard.
+
+(157, 127, 0) ***Pandora's Box***
+Message:
+
+
+(163, 127, 0) ***Pandora's Box***
+Message:
+
+
+(156, 134, 0) ***Pandora's Box***
+Message:
+
+
+(155, 122, 0) ***Pandora's Box***
+Message:
+
+
+(159, 118, 0) ***Pandora's Box***
+Message:
+
+
+(144, 8, 0) ***Random Town***
+
+Timed events:
+
+Name:
+whoosh
+Message:
+
+
+(153, 86, 0) ***Random Town***
+
+Timed events:
+
+Name:
+whoosh
+Message:
+
+
+(132, 74, 0) ***Seer's Hut***
+Message:
+J'ai acheté cette cabane il n'y a peu. C'est un endroit calme et proche de mon travail. Quoi qu'il en soit, cela ne devait pas durer.. J'ai été pris en embuscade par des krackens lors d'un voyage en mer. Je n'avais sur moi que mon Emblème de la Connaissance. C'était mon prix pour mes réalisations scientifiques, et je l'aime beaucoup. Je ne pouvais pas m'attaquer aux krackens, et personne ne peut me remplacer à l'école des Trésoriers de toute façon. Si seulement quelqu'un pouvait le retrouver dans la partie ouest du lac et me le ramener ...
+J'ai acheté cette cabane il n'y a pas longtemps. C'est un endroit calme et proche de mon travail. Quoi qu'il en soit, cela ne devait pas durer.. J'ai été pris en embuscade par des krackens lors d'un voyage en mer. Je n'avais sur moi que mon Emblème de la Connaissance. C'était mon prix pour mes réalisations scientifiques, et je l'aime beaucoup. Je ne pouvais pas m'attaquer aux krackens, et personne ne peut me remplacer à l'école des Trésoriers de toute façon. Si seulement quelqu'un pouvait le retrouver dans la partie ouest du lac et me le ramener ...
+Oh super ! Laissez-moi vous montrez quelques trucs maintenant...
+
+(75, 101, 0) ***Random Town***
+
+Timed events:
+
+Name:
+whoosh
+Message:
+
+
+(159, 156, 0) ***Sign***
+Message:
+Bienvenue au tournoi d'Agamonde! Battez-vous pour le Roi* et mourez** pour lui!	* la présence du Roi n'est pas garantie	** mourir est optionnel
+
+(94, 84, 0) ***Random Town***
+
+Timed events:
+
+Name:
+whoosh
+Message:
+
+
+(153, 130, 0) ***Pandora's Box***
+Message:
+
+
+(149, 164, 0) ***Necropolis***
+Name:
+Agamonde
+
+Timed events:
+
+Name:
+whoosh
+Message:
+
+
+(161, 123, 0) ***Pandora's Box***
+Message:
+
+
+(95, 109, 0) ***Seer's Hut***
+Message:
+Je suis vieux et je ne mettrai probablement plus le pied dehors. Je ne dois pas divulguer les détails de la mission dont moi et les miens avons été chargés. Au temps jadis, ceux qui avaient quitté l'Ordre ont connu une mort rapide. Ceux qui ont fait les lois ont compris pourquoi il était si important de tout garder secret. Ils avaient probablement raison.	Mais je ne peux tout simplement pas résister. Ma vie qui est sur le point de se terminer a été pleine d'aventures, mais aussi de douleur et de solitude. Je ne sais pas comment vont mes frères, ni même à quoi ressemble le monde en dehors de ce trou infernal.	Je ne peux pas révéler mon secret à un passant lambda. A personne, en fait; mais il ne serait pas si grave de partager mes connaissances avec un vénérable guerrier, je suppose.
+Je suis vieux et je ne mettrai probablement plus le pied dehors. Je ne dois pas divulguer les détails de la mission dont moi et les miens avons été chargés. Au temps jadis, ceux qui avaient quitté l'Ordre ont connu une mort rapide. Ceux qui ont fait les lois ont compris pourquoi il était si important de tout garder secret. Ils avaient probablement raison.	Mais je ne peux tout simplement pas résister. Ma vie qui est sur le point de se terminer a été pleine d'aventures, mais aussi de douleur et de solitude. Je ne sais pas comment vont mes frères, ni même à quoi ressemble le monde en dehors de ce trou infernal.	Je ne peux pas révéler mon secret à un passant lambda. A personne, en fait; mais il ne serait pas si grave de partager mes connaissances avec un vénérable guerrier, je suppose.
+Notre Ordre, dont vous n'avez pas besoin de connaître le nom, n'est pas réservé qu'aux chevaliers et aux prêtres. Je dirais même qu'il n'y en a pas beaucoup parmi nous. L'Ordre a commencé ses opérations avant même que les humains ne soient importants.	Vous devez avoir entendu parler de démons possédant d'autres créatures, devenant les maîtres de leurs pensées et de leurs actions. Notre Ordre travaille donc à reconnaître les voix démoniaques. Notre peuple est derrière la plupart des rois ou des abbés, ce qui a contribué à éviter d'innombrables fois les guerres et les massacres.	Vous comprenez probablement maintenant combien il est important de garder cela secret. Les démons sont déjà conscients de nos talents, mais ils ne réalisent pas encore l'ampleur des opérations de notre Ordre. Cependant, ils ont déjà accompli beaucoup et ils peuvent déjà agir presque librement à un certain niveau.	Je ne sais pas exactement ce qu'ils recherchent ni où commencer à les chercher. Je vous prie seulement de rester vigilant sur votre chemin.	Cette relique vous aidera probablement dans vos voyages.
+
+(108, 165, 0) ***Rampart***
+
+Timed events:
+
+Name:
+whoosh
+Message:
+
+
+(124, 146, 0) ***Cove***
+
+Timed events:
+
+Name:
+whoosh
+Message:
+
+
+(71, 83, 0) ***Pandora's Box***
+Message:
+
+
+(71, 76, 0) ***Event***
+Message:
+
+
+(60, 77, 0) ***Event***
+Message:
+
+
+(56, 68, 0) ***Event***
+Message:
+
+
+(62, 79, 0) ***Event***
+Message:
+
+
+(67, 75, 0) ***Event***
+Message:
+
+
+(58, 73, 0) ***Event***
+Message:
+
+
+(63, 70, 0) ***Event***
+Message:
+
+
+(65, 73, 0) ***Pandora's Box***
+Message:
+
+
+(68, 77, 0) ***Event***
+Message:
+
+
+(65, 80, 0) ***Event***
+Message:
+
+
+(63, 74, 0) ***Event***
+Message:
+
+
+(67, 72, 0) ***Event***
+Message:
+
+
+(67, 79, 0) ***Pandora's Box***
+Message:
+
+
+(67, 82, 0) ***Event***
+Message:
+
+
+(70, 82, 0) ***Event***
+Message:
+
+
+(66, 83, 0) ***Pandora's Box***
+Message:
+
+
+(72, 85, 0) ***Pandora's Box***
+Message:
+
+
+(31, 114, 0) ***Seer's Hut***
+Message:
+Bienvenue à l'Hélice, ô étranger. Aimez-vous la forme de l'île? Eh bien, la nature est complexe, mais elle ne serait pas en mesure de faire quelque chose comme ça à elle seule. C'est nous, les mages mercenaires, nous avons coulé des parties de cette terre pour créer un bastion impénétrable pour les corsaires! Ceux qui voudraient saisir leur trésor devraient errer dans le désert pendant des jours ou se frayer un chemin sur l'eau à travers deux garnisons. Oui, nous étions brillants.	Maintenant, c'est terminé. Les pirates ont utilisé quelque chose de puissant et d'effrayant, mais ils ont perdu le contrôle et ont dû fuir l'île. Mes frères magi ont été encore moins chanceux, car ils sont condamnés à parcourir la terre, déformés, pendant d'innombrables âges. A moins que quelqu'un ne mette fin à leurs souffrances Trouvez-les au fond de l'Hélice. Je vous offrirai quelque chose pour vous rendre sage au-delà des mots si vous y parvenez. Vous pourriez peut-être couler des continents avec ça.
+Vous ne les avez pas encore trouvés? Allez, ont peut difficilement les louper. Is sont probablement près du fort où les corsaires entreposaient leur ravitaillement.
+Oui, je sens que mes frères ne souffrent plus. Ou pas. En tout cas je ne souffre plus, c'est certain. Tenez, et faites-y attention!
+
+(41, 106, 0) ***Seer's Hut***
+Message:
+Ce n'est pas très poli de faire irruption dans une maison et de réveiller son propriétaire. Fût un temps où je vous aurai tiré dessus. Ou je vous aurai transformé en loutre. D'une certaine manière, c'était toujours une loutre.	Eh bien, vous m'avez réveillé, pas tué, ce qui signifie probablement que vous n'êtes pas si mauvais. Du sangneuf pour le changement. Je suis fatigué des morts-vivants et des imbéciles qui perdent la tête après avoir vu les nouveaux habitants de l'île.	Avant l'arrivée des cavaliers, nous étions le fléau de la mer en lambeaux. Tout le monde a cherché notre amitié, car il était vain de nous combattre. Nous pouvions envoyer une force considérable de l'Hélice n'importe où et frapper n'importe qui. Nous construisions notre avenir pendant qu'un groupe d'idiots n'avait qu'un but en tête, la Lame brisée.	Tout a été perdu à cause de ce maudit Slynt. Son escadron a trouvé un vieux machinabab, mais ils n'avaient aucune idée de ce que c'était, et étaient assez stupides pour le ramener ici. Bientôt la mort volante est venue. Il est impossible de revenir en arrièreet je ne le demanderai pas. Juste une chose. Tuez le chien qui nous a condamnés. Je peux à peine respirer quand je me rappelle qu'il s'est échappé. Ma dernière balle est pour lui; ou pour moi-même, car je ne me vois pas sortir d'ici. Voulez-vous m'accorder ce dernier souhait? Tuez Slynt, et je vais vous donner ce qui m'a maintenu en vie pendant toutes ces années.
+Je ne pense pas que Slynt soit devenu plus malin. Essayez de le chercher dans le Nord.
+Oui, ça a été de bons moments pendant trente ou quarante ans, peut-être plus. Juste quelques mois de merde. Certains diront que c'était mon destin; mais je ne pense pas qu'il se préoccupe de mon cas. Nous construisons et détruisons nos vies de nos propres mains, puis nous nous frayions un chemin à travers les rangs ennemis et laissions les questions importantes aux érudits.	Enfin, pardonnez les délires d'un vieil imbécile. Ça suffit. Ce truc ne m'a pas donné envie de vivre, mais il m'a gardé en vie. Cela vous sera sûrement plu utile. Maintenant, partez, j'ai des choses à faire.
+
+(51, 104, 0) ***Seer's Hut***
+Message:
+L'Hélice a connu des jours meilleurs, c'est sûr. J'ai dirigé un laboratoire ici, ainsi qu'une forge. Un capitaine est venu une fois vers moi; et m'a dit qu'il voulait un canon en or. Il aimait le luxe, ça oui! Alors je lui ai doré un pistolet, et ce génie m'a fait sauter les doigts! J'ai dû lui en invoquer un en or massif. Bien sûr, les roues ne roulaient pas, ils ont dû le traîner tout les quatre jusqu'au navire. Après, ils ont réussi à prendre une ville, mais le canon ne pouvait tirer. Il m'aurait probablement coupé la main pour cela, mais sur le chemin du retour, il a fendu la coque du navire.	Qu'est ce que je fais ici? Eh bien, presque tout ceux de notre syndicat sont partis, mais ce n'est pas une bonne raison de cesser nos recherches. J'aurais attrapé ces créatures qui ont commencé à apparaître ici moi-même, mais elles semblent être magiques. Ils apparaissent soudainement, puis repartent comme ils sont venus. Mais j'ai entendu dire qu'ils pouvaient être des mercenaires envoyés par les donjons de l'est. Je ne sais pas pourquoi ils ont besoin d'or. Mais je n'en ai pas non plus besoin. Je m'en séparerai volontiers si vous faites ce travail délicat pour moi.
+Désolé, mais j'ai besoin d'au moins six têtes ... de euh ... d'individus! J'ai de grands projets pour eux.
+Oui, maintenant je vais découvrir qui ils sont et d'où ils viennent. Et sinon, bah au moins ça me tiendra occupé pendant un moment.
+
+(65, 13, 0) ***Seer's Hut***
+Message:
+Prosternez-vous imbécile! Vous ne manquez pas de tripes pour venir fouiner par ici! Mais tant pis, je vais vous donner une chance de vous racheter. Mes troupes ont tenté de prendre la Lame Brisée à plusieurs reprises. Apparemment, quelque chose d'important s'y trouve, mais je n'ai toujours pas compris quoi exactement! Je ne peux pas rentrer les mains vides. Voici votre mission: allez écraser ces maudites femmes qui ont transformé mes idiots de soldats en hachis. Inutile de revenir tant qu'elles sont encore là.
+Ne me prenez pas pour un imbécile, vous n'avez pas tué les Nagas à la Lame Brisée!
+Pendant votre absence, mes espions ont apporté des nouvelles. Il semble que la Lame Brisée soit un désert désolé et glacé où vivent de terribles dragons. Vous, bande de sauvages, n'êtes pas faciles à comprendre; et je dois comprendre mon ennemi. Très bien, votre travail est terminé. Prenez ceci et soyez content de ne pas avoir été transformé en brouillard puant.
+
+(51, 37, 0) ***Seer's Hut***
+Message:
+Bienvenue, installez-vous confortablement, mais pas pour longtemps. Je n'ai pas beaucoup de temps à perdre; nous sommes en guerre! Tout le monde veut reprendre nos terres à l'Est ces jours-ci! Mais la Lame Brisée est le symbole de ma race, qui d'autre conviendrait mieux pour ce travail? Mon ancêtre était un célèbre cavalier Pegase, il a coulé des armadas et écrasé des hordes d'un coup de lame, voilà qui il était! Son nom a été perdu au fil des siècles, malheureusement. Vous pouvez aider à rétablir la justice. Éloignez les cavaliers d'acier de la rivière et je vous donnerai quelque chose en récompense. Nous, les elfes, avons plein de reliques.	
+Bienvenue, installez-vous confortablement, mais pas pour longtemps. Je n'ai pas beaucoup de temps à perdre; nous sommes en guerre! Tout le monde veut reprendre nos terres à l'Est ces jours-ci! Mais la Lame Brisée est le symbole de ma race, qui d'autre conviendrait mieux pour ce travail? Mon ancêtre était un célèbre cavalier Pegase, il a coulé des armadas et écrasé des hordes d'un coup de lame, voilà qui il était! Son nom a été perdu au fil des siècles, malheureusement. Vous pouvez aider à rétablir la justice. Éloignez les cavaliers d'acier de la rivière et je vous donnerai quelque chose en récompense. Nous, les elfes, avons plein de reliques.
+Ce n'est que le premier pas vers la postérité. Je me demande parfois comment ont-ils réussi à écorcher ce pauvre dragon pour faire ce bouclier? Ca n'a pas dû simple ... probablement même vraiment difficile. Quoi qu'il en soit, j'espère que ces écailles vous serviront mieux qu'au dragon.
+
+(138, 9, 0) ***Quest Guard***
+Message:
+Il est difficile de croire que cette terre flétrie était autrefois un paradis commercial, n'est-ce pas? Maintenant, je suis le dernier à avoir une sorte d’entreprise ici; et il n'y a personne pour en hériter après mon départ. Un jour, un mercenaire étranger a détruit notre avenir. Je ne sais pas qui il était ni où il est allé après, ni s'il savait ce qu'il faisait. Mais je sais exactement qui l'a engagé. Lui et les siens errent près d'une mine abandonnée à l'ouest, transformée en ... autre chose. Leur vie puante est mon prix pour le passage.
+Il est difficile de croire que cette terre flétrie était autrefois un paradis commercial, n'est-ce pas? Maintenant, je suis le dernier à avoir une sorte d’entreprise ici; et il n'y a personne pour en hériter après mon départ. Un jour, un mercenaire étranger a détruit notre avenir. Je ne sais pas qui il était ni où il est allé après, ni s'il savait ce qu'il faisait. Mais je sais exactement qui l'a engagé. Lui et les siens errent près d'une mine abandonnée à l'ouest, transformée en ... autre chose. Leur vie puante est mon prix pour le passage.
+Je n'ai jamais pensé que je serais heureux que quelqu'un soit mort. Deux fois. Vous avez réussi, donc je pense que vous ne ferez pas pire avec mes poulets. Maintenant je peux y aller. J'ai entendu que des druides avaient transformé une île de rien du tout à l'ouest en une véritable merveille! Un voyageur peut y trouver du repos, et un guerrier, bonne fortune! Bien que ce dernier point soit à débattre.
+
+(129, 14, 0) ***Seer's Hut***
+Message:
+Ma famille a servi en tant qu'alchimistes royaux pendant des générations et nous n'avons jamais manqué de travail ou de matériel. Mais où puis-je aller maintenant? Esclave comme l'horrible apprenti de Harren? Si seulement vous pouviez ramasser quelques bricoles pour moi. Juste une bagatelle: 8 mesures de bois et de minerai, et 4 de soufre. Dépêchez-vous, je partagerai mes connaissances avec le premier qui m'aidera!
+Ma famille a servi en tant qu'alchimistes royaux pendant des générations et nous n'avons jamais manqué de travail ou de matériel. Mais où puis-je aller maintenant? Esclave comme l'horrible apprenti de Harren? Si seulement vous pouviez ramasser quelques bricoles pour moi. Juste une bagatelle: 8 mesures de bois et de minerai, et 4 de soufre. Dépêchez-vous, je partagerai mes connaissances avec le premier qui m'aidera!
+Oh, vous êtes fiable. Souhaitez-vous suspendre vos aventures pendant un moment? M'aider à avoir plus de matériel? Je n'ai besoin que de 42 ... Attendez, où allez-vous?!
+
+(121, 10, 0) ***Black Knight***
+Message:
+The oath is given!
+
+(150, 19, 0) ***Seer's Hut***
+Message:
+Vous pensez donc être assez fort pour surmonter toutes les épreuves? La magie a apporté de la puissance à notre terre, puis l'a détruite en quelques jours. Quelle erreur de penser que cela ne peut pas arriver chez soi. Évaluez judicieusement votre force, mais faites parfois confiance à votre intuition ... Oui, je ne suis qu'un autre vieil imbécile avec des histoires effrayantes, mais inutiles. Revenez quand vous serez prêt. Je vous dirai ce qui vous attend avant d'entrer dans les portails derrière ma cabane.
+Revenez après avoir atteint le niveau 5! Rien de moins!
+Vous avez fait vite. Rien n'est plus facile à trouver de nos jours qu'un ennemi. Cependant, il n'y en aura pas au-delà des portails. Vous arriverez là où les tournois ont lieu. Les armées, grandes et petites, résisteront au brave chercheur de fortune, mais la récompense en vaut la peine. Vous n'êtes pas assuré de survivre; vous pouvez battre les gardes puis être écrasé par un autre aventurier comme vous. Il y a aussi des villes là-bas. Le portail violet mène à l'endroit où habitent les minotaures, les dragons et autres gens des souterrains, et l'orange, aux ruines d'un ancien royaume humain, où seuls les zombies et les squelettes se dandinent maintenant.
+
+(20, 161, 0) ***Quest Guard***
+Message:
+Et qu'attendiez-vous d'une bande de pirates, qu'ils construiraient une garnison avec des hordes de gardes? Ils ont dressé une tour minable et m'ont laissé seul dedans. Un chien qui apprendrait à ramener les clés ne ferait pas pire. Ils sont partis pour l'Hélice, et je ne les ai plus jamais revus. Je pense que je suis ici depuis assez longtemps. Je vais partager ce que j'ai ici avec vous, pour un service. Les Effrits ont réveillé plusieurs volcans dans le nord de l'île, ce qui est mauvais pour mon entreprise. Ils devraient être chassés.
+Et qu'attendiez-vous d'une bande de pirates, qu'ils construiraient une garnison avec des hordes de gardes? Ils ont dressé une tour minable et m'ont laissé seul dedans. Un chien qui apprendrait à ramener les clés ne ferait pas pire. Ils sont partis pour l'Hélice, et je ne les ai plus jamais revus. Je pense que je suis ici depuis assez longtemps. Je vais partager ce que j'ai ici avec vous, pour un service. Les Effrits ont réveillé plusieurs volcans dans le nord de l'île, ce qui est mauvais pour mon entreprise. Ils devraient être chassés.
+Vous savez, je viens de comprendre que les Effrits sont en fait apparus après l'éruption. J'aurais dû te demander de disperser les maudits Troglodytes.
+
+(43, 39, 0) ***Seer's Hut***
+Message:
+J'étais chirurgien de guerre jusqu'à récemment. Il y avait toujours une réserve considérable d'ennemis et une plus encore de blessés. J'ai assisté à l'apogée d'Acropie, visité le Old Extate, alors qu'il s'appelait encore simplement l'Extate, et j'ai participé à la libération des Trois Forteresses. Je ne peux plus porter un arc ou une épée, et n'offrirai pas plus de guérison désormais. Tout cela à cause d'une créature qui draine la jeunesse de ses proies. Il y'en a dangereusement près d'ici. Naviguez vers le sud et apportez le repos aux morts-vivants!
+J'étais chirurgien de guerre jusqu'à récemment. Il y avait toujours une réserve considérable d'ennemis et une plus encore de blessés. J'ai assisté à l'apogée d'Acropie, visité le Old Extate, alors qu'il s'appelait encore simplement l'Extate, et j'ai participé à la libération des Trois Forteresses. Je ne peux plus porter un arc ou une épée, et n'offrirai pas plus de guérison désormais. Tout cela à cause d'une créature qui draine la jeunesse de ses proies. Il y'en a dangereusement près d'ici. Naviguez vers le sud et apportez le repos aux morts-vivants!
+Désormais, personne d'autre ne subira le même sort que moi. Mais pensez-y, personne ne m'entraîne plus en expédition militaire maintenant. Je suis libre d'aller n'importe où, et maintenant je peux rendre visite à un vieil ami, un humain qui a toujours été gentil avec tout le monde. Je ne l'ai pas vu depuis 130 ans. Oh, les humains ont tendance à ne pas vivre aussi longtemps, n'est-ce pas?	 Ceci ne m'a pas aidé, mais peut-être qu'elle vous sera utile.
+
+(30, 50, 0) ***Quest Guard***
+Message:
+Mon père est en train de mourir ... Après la tragédie d'Agamonde, il a été considéré comme désespérément malade et forcé de marcher en première vague. Il a survécu miraculeusement, et nous avons traversé la mer par la suite pour les eaux curatives de cette région. Mais la maladie ne reculera pas, car trop de temps s'est écoulé.	Ils disent qu'un chirurgien elfe de guerre sur l'île voisine possède une fiole de sang vital, qui était le dernier trophée du tournoi d'Agamonde. Vous aurez peut-être la chance d'en trouver un comme ça ailleurs. Si cela peut le guérir, je vous donnerai tout. S'il vous plaît, trouvez-le, et en attendant, j'essaierai de demander de l'aide aux moines du sud.
+Mon père est en train de mourir ... Après la tragédie d'Agamonde, il a été considéré comme désespérément malade et forcé de marcher en première vague. Il a survécu miraculeusement, et nous avons traversé la mer par la suite pour les eaux curatives de cette région. Mais la maladie ne reculera pas, car trop de temps s'est écoulé.	Ils disent qu'un chirurgien elfe de guerre sur l'île voisine possède une fiole de sang vital, qui était le dernier trophée du tournoi d'Agamonde. Vous aurez peut-être la chance d'en trouver un comme ça ailleurs. Si cela peut le guérir, je vous donnerai tout. S'il vous plaît, trouvez-le, et en attendant, j'essaierai de demander de l'aide aux moines du sud.
+Je suis heureux de vous voir vivant! Les orages nocturnes me font une peur bleue. Je ne mettrai jamais le pied sur un navire, ils ont l'air trop peu fiables.	Les moines ne pouvaient pas aider. J'espère que vous avez de meilleures nouvelles?
+
+(31, 50, 0) ***Pandora's Box***
+Message:
+Merci pour votre aide, mais la fiole n'a rien donné. Nous n'avons presque plus de temps...
+
+(32, 49, 0) ***Quest Guard***
+Message:
+Il n'est pas encore temps de désespérer. Un moine m'a dit que récemment les chevaliers sont allés dans les montagnes noires, enveloppés de brouillard. Vous pouvez les voir même d'ici. L'un des chevaliers avait le pendentif de vie, qui gardait la maladie à l'écart du propriétaire. Chacun d'entre eux est mort, et ils sont probablement tous morts-vivants maintenant. Le pendentif, selon le moine, a été perdu quelque part près d'un puits magique. Encore une fois, je dois vous demander de m'aider et en attendant, je chercherai des remèdes où je peux.
+Il n'est pas encore temps de désespérer. Un moine m'a dit que récemment les chevaliers sont allés dans les montagnes noires, enveloppés de brouillard. Vous pouvez les voir même d'ici. L'un des chevaliers avait le pendentif de vie, qui gardait la maladie à l'écart du propriétaire. Chacun d'entre eux est mort, et ils sont probablement tous morts-vivants maintenant. Le pendentif, selon le moine, a été perdu quelque part près d'un puits magique. Encore une fois, je dois vous demander de m'aider et en attendant, je chercherai des remèdes où je peux.
+Je suis redevable à vous et à vos soldats. Je n'ai jamais pensé que ça marcherait comme ça ...
+
+(33, 49, 0) ***Pandora's Box***
+Message:
+Malheureusement, ceci n'a pas aidé non plus, mais j'ai découvert quelque chose.
+
+(34, 49, 0) ***Quest Guard***
+Message:
+Donc, les deux remèdes n'ont pas été efficaces et mon père est au plus mal. Je suis allé à la Lame Brisée, qui a connu des moments difficiles. Beaucoup de seigneurs voisins se battent pour l'avoir, et pas seulement eux. Et le pirate dont nous avons besoin appartient à la bande responsable de la chute d'Agamonde!	Il se trouve que ce scélérat possède la chose qui pourrait être notre dernier espoir. Le pendentif de la mort est censé protéger non seulement les serviteurs des nécromanciens, mais il peut également maîtriser les maladies magiques. Si c'est vrai, alors nous pouvons essayer de guérir mon père. Mais vous devrez gagner la confiance de ces scélérats. Hâtez-vous, je vous en prie!
+Donc, les deux remèdes n'ont pas été efficaces et mon père est au plus mal. Je suis allé à la Lame Brisée, qui a connu des moments difficiles. Beaucoup de seigneurs voisins se battent pour l'avoir, et pas seulement eux. Et le pirate dont nous avons besoin appartient à la bande responsable de la chute d'Agamonde!	Il se trouve que ce scélérat possède la chose qui pourrait être notre dernier espoir. Le pendentif de la mort est censé protéger non seulement les serviteurs des nécromanciens, mais il peut également maîtriser les maladies magiques. Si c'est vrai, alors nous pouvons essayer de guérir mon père. Mais vous devrez gagner la confiance de ces scélérats. Hâtez-vous, je vous en prie!
+Il est trop tard pour essayer les pouvoirs du pendentif. Mon père est décédé. Si seulement nous avions pu l'aider plus tôt, si seulement notre ville n'avait pas été trahie, si ...
+
+(28, 63, 0) ***Event***
+Message:
+Vous rmarquez un pendentif brillant, en forme de croix, parmi les cadavres dans un coin discret. Ce doivent être les chevaliers qui se dirigeaient vers les Montagnes noires. Mais pourquoi une chose aussi précieuse a-t-elle été laissée par les meurtriers? Vous réalisez un peut trop tard: certains des morts étaient clairement plus frais que les autres. Vous n'êtes pas le premier à venir ici à la recherche de cette chose. Et maintenant, le piège a de nouveau fonctionné.
+
+(65, 40, 0) ***Seer's Hut***
+Message:
+Cela n'a pas dû être aisé d'arriver jusqu'ici. Rassurez-vous, vous ne seriez pas allés bien loin si tout devait être simple. Mais vous savez quoi, je pense que vous méritez une chance. Vous contribué à reprendre la Lame Brisée, notre patrie, après tout. La lame de l'un de nos frères, Iphith, a été brisée en deux au combat, mais cela ne l'a pas empêché d'abattre le porte-étendard ennemi! C'est ainsi que les deux îles ont obtenu leur nom, et maintenant elles veulent nous les enlever! Mais assez de bavardage. Vous pouvez prendre tout ce que vous voulez dans la boîte à côté du cartographe. Naturellement, tout a été remis volontairement par les propriétaires, au cas où quelqu'un le demanderait. Et peut-être que je peux vous donner quelques leçons si vous êtes un vrai aventurier, et pas une mauviette!
+Cela n'a pas dû être aisé d'arriver jusqu'ici. Rassurez-vous, vous ne seriez pas allés bien loin si tout devait être simple. Mais vous savez quoi, je pense que vous méritez une chance. Vous contribué à reprendre la Lame Brisée, notre patrie, après tout. La lame de l'un de nos frères, Iphith, a été brisée en deux au combat, mais cela ne l'a pas empêché d'abattre le porte-étendard ennemi! C'est ainsi que les deux îles ont obtenu leur nom, et maintenant elles veulent nous les enlever! Mais assez de bavardage. Vous pouvez prendre tout ce que vous voulez dans la boîte à côté du cartographe. Naturellement, tout a été remis volontairement par les propriétaires, au cas où quelqu'un le demanderait. Et peut-être que je peux vous donner quelques leçons si vous êtes un vrai aventurier, et pas une mauviette!
+Hé, vous êtes plutôt un dur à cuire après tout. Vous pourriez nous être utile. Puisque les gars m'ont accepté, ils iront aussi bien avec vous! Oui, je n'ai pas toujours été l'un d'eux. Avant, j'étais une personne respectée à Agamonde, mais j'étais endetté. Je ne voulais pas vendre ma maison, alors j'ai vendu mes serviteurs en esclavage. Seulement pour le bien de la famille, je le jure! Et puis ils m'ont jeté en prison, et le diable sait si je serais jamais sorti, si mes nouveaux amis n'étaient pas venus. Ils m'ont accueilli et je leur ai fourni des informations. La famille n'est-elle pas plus importante que tout le reste? Au fil du temps, mes connaissances se sont avérées utiles lors du siège d'autres villes, car je voyageais beaucoup. J'ai même été en charge de mon propre navire le temps venu. Maintenant, après avoir été blessé, je suis devenu conseiller. J'ai toujours pensé à ma famille, et c'est pourquoi j'ai échappé aux fous d'Agamonde! J'espère que nous nous reverrons, dur à cuire.
+
+(63, 42, 0) ***Quest Guard***
+Message:
+Les dragons féeriques ne sont pas faciles à apprivoiser, mais leur puissance et leur apparence innocente ont plus d'une fois sauvé des vies. Nous devons nous tourner vers nos anciens alliés, si nous voulons compter à nouveau. Obtenez un couple de ces bêtes pour notre armée.
+Les dragons féeriques ne sont pas faciles à apprivoiser, mais leur puissance et leur apparence innocente ont plus d'une fois sauvé des vies. Nous devons nous tourner vers nos anciens alliés, si nous voulons compter à nouveau. Obtenez un couple de ces bêtes pour notre armée.
+Vous ne prenez pas ça à la légère, on dirait. Voulez-vous entrer?
+
+(62, 43, 0) ***Quest Guard***
+Message:
+Nous voulons restaurer notre position dans ces régions, et vous, mon ami, vous aiderez les corsaires, n'est-ce pas? Nous ne pourrons pas reprendre l'île tant qu'il y aura des Titans autour. Le fait est qu'ils sortent rarement à l'air libre. Vous devez d'abord éliminer la garnison qui les protège, et elle regorge de leurs nouveaux alliés.
+Nous voulons restaurer notre position dans ces régions, et vous, mon ami, vous aiderez les corsaires, n'est-ce pas? Nous ne pourrons pas reprendre l'île tant qu'il y aura des Titans autour. Le fait est qu'ils sortent rarement à l'air libre. Vous devez d'abord éliminer la garnison qui les protège, et elle regorge de leurs nouveaux alliés.
+Eh bien, je ne m'attendais pas à ce que vous réussissiez. Vous avez passé ce test, souhaitez-vous passer le suivant?
+
+(67, 40, 0) ***Pandora's Box***
+Message:
+
+
+(30, 45, 0) ***Quest Guard***
+Message:
+Dites, mon ami, vous n'êtes pas fatigué de la guerre? La région vient de se remettre de deux d'affilée, et actuellement les seigneurs en ont commencé une autre. Bien sûr, vous ne ressemblez pas à l'un d'eux. Asseyez-vous et prenez un thé. J'adore le thé au jasmin, nous avions fût un temps un salon de thé avec mon neveu! Dans mon pays, pour une raison quelconque, tout le monde pense qu'éviter la guerre est un acte de faiblesse. Comme si nous avions accompli beaucoup en faisant le contraire. Je dois vous demander de mettre fin à cela - si vous avez suffisamment d'expérience, bien sûr. Etes-vous sûr d'être prêt?
+Dites, mon ami, vous n'êtes pas fatigué de la guerre? La région vient de se remettre de deux d'affilée, et actuellement les seigneurs en ont commencé une autre. Bien sûr, vous ne ressemblez pas à l'un d'eux. Asseyez-vous et prenez un thé. J'adore le thé au jasmin, nous avions fût un temps un salon de thé avec mon neveu! Dans mon pays, pour une raison quelconque, tout le monde pense qu'éviter la guerre est un acte de faiblesse. Comme si nous avions accompli beaucoup en faisant le contraire. Je dois vous demander de mettre fin à cela - si vous avez suffisamment d'expérience, bien sûr. Etes-vous sûr d'être prêt?
+Oui, bien sûr que vous le ferez! Maintenant, je suis convaincu. Assurez-vous de revenir pour plus de thé, si vous revenez!
+
+(12, 51, 0) ***Quest Guard***
+Message:
+Avez-vous déjà vu un revenant? Si non, et bien maintenant vous pourrez vous en vanter! J'ai été transpercé par une lance, pendu, on a vidé ma tête, fais sortir mes yeux de leurs orbites!	A chaque fois mon ami, un prêtre perpétuellement saoûl m'a ramené à la vie.	Mais il y'a un prix à payer : chaque fois j'oublie quelque chose d'important à propos de moi, une chose qui me donne la force de vivre et de me battre. J'ai déjà oublié la femme que j'aimais, mon foyer, même mon plat favori. 	Seules les affres de la guerre m'effraient plus. Comme mon allié, je veux que cela cesse rapidement. Mais je ne peux pas confier une telle tâche à une bleusaille, j'ai besoin d'une personne compétente.
+Avez-vous déjà vu un revenant? Si non, et bien maintenant vous pourrez vous en vanter! J'ai été transpercé par une lance, pendu, on a vidé ma tête, fais sortir mes yeux de leurs orbites!	A chaque fois mon ami, un prêtre perpétuellement saoûl m'a ramené à la vie.	Mais il y'a un prix à payer : chaque fois j'oublie quelque chose d'important à propos de moi, une chose qui me donne la force de vivre et de me battre. J'ai déjà oublié la femme que j'aimais, mon foyer, même mon plat favori. 	Seules les affres de la guerre m'effraient plus. Comme mon allié, je veux que cela cesse rapidement. Mais je ne peux pas confier une telle tâche à une bleusaille, j'ai besoin d'une personne compétente.
+Le sort en est jeté! Grâce à vous, la guerre sera plus courte. Mais rappelez-vous, tout le monde ne peux pas revenir à la vie.
+
+(12, 49, 0) ***Pandora's Box***
+Message:
+
+
+(30, 43, 0) ***Pandora's Box***
+Message:
+
+
+(13, 54, 0) ***Seer's Hut***
+Message:
+J'apprivoise les dragons depuis des siècles, il y a même eu un temps où ils étaient nos alliés. Et je le jure, les plus tenaces sont les Dragons Corrosifs. Pas l'Azur majestueux, ni le Noir épris des ténèbres. Je n'ai nourri ces parasites que de la meilleure viande, leur ai donné le repaire le plus confortable, et ils ont exprimé leur gratitude en salissant la cour, en mangeant mon gardien et en s'envolant! J'ai bien peur qu'ils préparent quelque chose de pire encore. Allez au sud et pacifiez-les, si vous le pouvez.
+J'apprivoise les dragons depuis des siècles, il y a même eu un temps où ils étaient nos alliés. Et je le jure, les plus tenaces sont les Dragons Corrosifs. Pas l'Azur majestueux, ni le Noir épris des ténèbres. Je n'ai nourri ces parasites que de la meilleure viande, leur ai donné le repaire le plus confortable, et ils ont exprimé leur gratitude en salissant la cour, en mangeant mon gardien et en s'envolant! J'ai bien peur qu'ils préparent quelque chose de pire encore. Allez au sud et pacifiez-les, si vous le pouvez.
+Je suis ravi de vus revoir vivant, et il ne vous manque pas un membre!	J'ai quelque chose pour vous. Ne me demandez pas où je l'ai récupéré.
+
+(16, 65, 0) ***Pandora's Box***
+Message:
+
+
+(128, 86, 0) ***Seer's Hut***
+Message:
+Avant, j'étais un explorateur reconnu, mais une blessure m'a obligé à m'installer ici. J'aurais préféré devoir m'installer dans l'Old Extate.	Trouvez les fichus Trolls vers l'est. Ils doivent chasser près des montagnes. Je vous donnerais ce qui ne m'est plus utile en échanges de leurs vies.
+Avant, j'étais un explorateur reconnu, mais une blessure m'a obligé à m'installer ici. J'aurais préféré devoir m'installer dans l'Old Extate.	Trouvez les fichus Trolls vers l'est. Ils doivent chasser près des montagnes. Je vous donnerais ce qui ne m'est plus utile en échanges de leurs vies.
+Enfin! Leurs miasmes nauséabonds ont disparu.
+
+(63, 109, 0) ***Seer's Hut***
+Message:
+J'ai été trahi! Nous explorions l'Hélice, quand j'ai été blessé! Nous avons vite compris qu'il n'y avait rien d'intéressant ici et nous nous sommes dirigés vers l'est, mais notre navire s'est échoué ici, et nous avons perdu la plus grandepartie de nos provisions. Ils ont décidé de m'abandonner ici. Les lâches, ils auraient au moins pu abréger mes souffrances! Mais qu'importe, je suis heureus qu'ils ne l'aient pas fait. J'ai appris avec joie qu'ils s'étaient perdus quelque part au nord, à la recherche d'un chantier naval. Ne répétez pas leur erreur, trouvez-les et tuez-les.
+J'ai été trahi! Nous explorions l'Hélice, quand j'ai été blessé! Nous avons vite compris qu'il n'y avait rien d'intéressant ici et nous nous sommes dirigés vers l'est, mais notre navire s'est échoué ici, et nous avons perdu la plus grandepartie de nos provisions. Ils ont décidé de m'abandonner ici. Les lâches, ils auraient au moins pu abréger mes souffrances! Mais qu'importe, je suis heureus qu'ils ne l'aient pas fait. J'ai appris avec joie qu'ils s'étaient perdus quelque part au nord, à la recherche d'un chantier naval. Ne répétez pas leur erreur, trouvez-les et tuez-les.
+Alors comment étaient-ils? J'espère que Lars s'est remis avec Mira après tout. Et Erik a dû perdre beaucoup de poids après avoir été bloqué pendant si longtemps. Pauvre Warg, il insistait toujours pour aller vers l'est, et il y avait en effet un chantier naval là, très proche, en fait. Un gars si intelligent. Merde, je suis heureux qu'ils soient morts. Êtes-vous prêt pour votre récompense?
+
+(22, 156, 0) ***Seer's Hut***
+Message:
+J'ai toujours dit de ne pas mettre tous les oeufs dans le même panier. Regardez ça maintenant. L'entrepôt brûle et je serai responsable des pertes. Le capitaine se met toujours en colère quand une de ses prises est perdue. Mais cela ne l'empêche pas d'en boire la majeure partie. Pourriez-vous m'aider à rattraper une partie de ce gâchis?
+J'ai bien peur que ce soit insuffisant. J'ai besoin de 3 de chaque. Pas besoin de bois ou de pierre, on en reçoit régulièrement.
+Enfin! Alors on fait affaire? J'ai quelque chose ici pour vous.
+
+(129, 69, 0) ***Seer's Hut***
+Message:
+J'ai défendu Agamonde des envahisseurs pendant de nombreuses années. Ils venaient de la mer et d'au-delà des portails, qui pulullent par ici. Nous menions deux guerres à la fois, mais nous ne pouvions pas gagner. Après la défaite, mes amis et moi sommes allés là d'où nous pensions que les envahisseurs venaient, mais il s'est avéré que seuls des trolls et des lézards puants y vivaient. Nous savons maintenant où prendre un nouveau départ, mais nous aurons besoin d'un peu de minerai et de bois, ainsi que de l'or. Nous n'oublierons jamais ceux qui ont contribué à notre campagne.
+J'ai défendu Agamonde des envahisseurs pendant de nombreuses années. Ils venaient de la mer et d'au-delà des portails, qui pulullent par ici. Nous menions deux guerres à la fois, mais nous ne pouvions pas gagner. Après la défaite, mes amis et moi sommes allés là d'où nous pensions que les envahisseurs venaient, mais il s'est avéré que seuls des trolls et des lézards puants y vivaient. Nous savons maintenant où prendre un nouveau départ, mais nous aurons besoin d'un peu de minerai et de bois, ainsi que de l'or. Nous n'oublierons jamais ceux qui ont contribué à notre campagne.
+Oui, ça fera l'affaire. Désolé, nous devons nous mettre au travail maintenant.
+
+(68, 99, 0) ***Seer's Hut***
+Message:
+Prosternez-vous, imbéciles! Vous êtes en présence de lord Amnis! J'ai été envoyé ici pour une mission capitale. Nous nous préparons pour une nouvelle guerre, et vous me paraissez moins idiots que les autres. Vous pourriez nous être utiles. Ou peut-être possédez-vous quelque chose d'utile pour la cause? Ou peut-être pouvez-vous simplement déguerpir?
+Prosternez-vous, imbéciles! Vous êtes en présence de lord Amnis! J'ai été envoyé ici pour une mission capitale. Nous nous préparons pour une nouvelle guerre, et vous me paraissez moins idiots que les autres. Vous pourriez nous être utiles. Ou peut-être possédez-vous quelque chose d'utile pour la cause? Ou peut-être pouvez-vous simplement déguerpir?
+C'est une telle corvée de traiter avec les gens comme vous. Pas étonnant que vos villes soient en train de brûler.
+
+(35, 48, 0) ***Pandora's Box***
+Message:
+Désolé, mais nous devons vous quitter maintenant. Voici ce qu'il reste de nos richesses. Prenez tout pour votre peine. Tous mes vœux vous accompagnent, mon ami.
+
+(21, 90, 0) ***Seer's Hut***
+Message:
+Ils disent qu'il n'y a pas de plus grand chagrin pour le parent que de voir la mort de ses enfants. Je dirais que c'est encore pire de les envoyer vous-même à leur mort. Nous sommes arrivés de l'ouest pour trouver le légendaire Graal. Cela aiderait énormément notre royaume. En commençant par les donjons du sud, où Bors et Letitia des Silencieux nous ont rejoints, nous nous sommes dirigés vers le nord jusqu'à ce que nous arrivions à cet endroit. L'obélisque caché au milieu d'un brouillard menaçant était notre objectif, il doit y avoir un indice important pour nos recherches. Je pensais qu'il n'y avait aucune raison d'avoir peur, car aucun esprit malin ne pouvait nous vaincre. Le premier à mourir fut le pauvre Percival. Instantanément, les créatures du brouillard l'ont entraîné, et nous sommes restés figés d'horreur. Amnis, qui n'a jamais insulté ou offensé un seul être de sa vie, s'est précipité à la rescousse de son frère. Cela nous a donné de la force. Le pauvre Bors poussa un cri en étant carbonisé, et ainsi il rompit son serment. Letitia, avec mon fils, a disparu dans le brouillard. Amnis a été découpé en deux sous mes yeux ... C'est une coutume dans mon pays d'obtenir la justice par tous les moyens. Et je vous la demande. Allez à l'obélisque dans le brouillard, ils devraient être quelque part à proximité.
+Ils disent qu'il n'y a pas de plus grand chagrin pour le parent que de voir la mort de ses enfants. Je dirais que c'est encore pire de les envoyer vous-même à leur mort. Nous sommes arrivés de l'ouest pour trouver le légendaire Graal. Cela aiderait énormément notre royaume. En commençant par les donjons du sud, où Bors et Letitia des Silencieux nous ont rejoints, nous nous sommes dirigés vers le nord jusqu'à ce que nous arrivions à cet endroit. L'obélisque caché au milieu d'un brouillard menaçant était notre objectif, il doit y avoir un indice important pour nos recherches. Je pensais qu'il n'y avait aucune raison d'avoir peur, car aucun esprit malin ne pouvait nous vaincre. Le premier à mourir fut le pauvre Percival. Instantanément, les créatures du brouillard l'ont entraîné, et nous sommes restés figés d'horreur. Amnis, qui n'a jamais insulté ou offensé un seul être de sa vie, s'est précipité à la rescousse de son frère. Cela nous a donné de la force. Le pauvre Bors poussa un cri en étant carbonisé, et ainsi il rompit son serment. Letitia, avec mon fils, a disparu dans le brouillard. Amnis a été découpé en deux sous mes yeux ... C'est une coutume dans mon pays d'obtenir la justice par tous les moyens. Et je vous la demande. Allez à l'obélisque dans le brouillard, ils devraient être quelque part à proximité.
+La sentence est exécutée. Je suppose que je me sentirai mieux maintenant. En récompense, je peux vous apprendre quelque chose.
+
+(23, 66, 0) ***Seer's Hut***
+Message:
+Je déteste les gens qui ne remboursent pas leurs dettes. Jamais aucun débiteur ne m'a échappé! En fait, un à réussi, mais il s'est échappé vers les Montagnes noires à l'est. J'ai entendu les zombies l'accueillir à bras ouverts, mais je ne suis pas satisfait de ce résultat. Je ne vous demanderai pas de chercher le l'imbécile dans le tas, car je ne suis pas encore devenu fou. Ce sera plus facile de supprimer tout le groupe, non?
+Je déteste les gens qui ne remboursent pas leurs dettes. Jamais aucun débiteur ne m'a échappé! En fait, un à réussi, mais il s'est échappé vers les Montagnes noires à l'est. J'ai entendu les zombies l'accueillir à bras ouverts, mais je ne suis pas satisfait de ce résultat. Je ne vous demanderai pas de chercher le l'imbécile dans le tas, car je ne suis pas encore devenu fou. Ce sera plus facile de supprimer tout le groupe, non?
+Très bien! Que souhaitez-vous en paiement?
+
+(109, 71, 0) ***Quest Guard***
+Message:
+Le panneau indique qu'il s'agit d'un avant-poste des Silencieux. Ils sont toujours aussi concis: il y a une pancarte en bois avec le prix d'entrée. Il y a aussi des drapeaux bleu clair et bleu foncé représentés.
+Le panneau indique qu'il s'agit d'un avant-poste des Silencieux. Ils sont toujours aussi concis: il y a une pancarte en bois avec le prix d'entrée. Il y a aussi des drapeaux bleu clair et bleu foncé représentés.
+Les gardes semblent asez satisfaits pour vous permettre de voir les maîtres des clés pour le prix indiqué. Êtes-vous prêt à payer?
+
+(86, 51, 0) ***Quest Guard***
+Message:
+Ces terres ne sont pas destinées à être divisées! Nous ferons revivre cette région un jour, et l'Extate sera notre point de départ. Nous serons heureux d'aider à renverser les seigneurs, mais pas gratuitement, évidemment.
+Ces terres ne sont pas destinées à être divisées! Nous ferons revivre cette région un jour, et l'Extate sera notre point de départ. Nous serons heureux d'aider à renverser les seigneurs, mais pas gratuitement, évidemment.
+Nous sommes heureux que vous ayez décidé de coopérer. Laissez votre volonté se plier!
+
+(108, 140, 0) ***Quest Guard***
+Message:
+Seule une âme prudente sera autorisée à voir les maîtres des clés. Seule une âme prudente ramenera les offrandes. Votre foi est-elle assez forte?
+Seule une âme prudente sera autorisée à voir les maîtres des clés. Seule une âme prudente ramenera les offrandes. Votre foi est-elle assez forte?
+C'est une joie de voir un être digne. Êtes-vous prêt à passer?
+
+(102, 133, 0) ***Quest Guard***
+Message:
+Alors que certains ont encore peur du mot même «guerre», je gagne de l'argent dessus. Mes anciennes relations m'ont transmis des informations intéressantes, et je serai prêt à les partager pour un prix modeste.
+Alors que certains ont encore peur du mot même «guerre», je gagne de l'argent dessus. Mes anciennes relations m'ont transmis des informations intéressantes, et je serai prêt à les partager pour un prix modeste.
+Un homme d'affaires avisé comme vous mettra certainement ces informations à profit. Êtes-vous prêt à payer?
+
+(3, 163, 0) ***Random Town***
+
+Timed events:
+
+Name:
+whoosh
+Message:
+
+
+(114, 89, 0) ***Random Town***
+
+Timed events:
+
+Name:
+whoosh
+Message:
+
+
+(101, 115, 0) ***Random Town***
+
+Timed events:
+
+Name:
+whoosh
+Message:
+
+
+(129, 104, 0) ***Pandora's Box***
+Message:
+
+
+(106, 150, 0) ***Pandora's Box***
+Message:
+
+
+(93, 51, 0) ***Pandora's Box***
+Message:
+
+
+(108, 108, 0) ***Pandora's Box***
+Message:
+
+
+(151, 153, 0) ***Seer's Hut***
+Message:
+Tout ce dont on parle ces jours-ci, ce sont des morts-vivants qui ont brisé la garde d'Agamonde et détruit la ville, mais personne ne mentionne les canailles qui ont aidé les nécromanciens. Un ancien noble seigneur accusé de traite des esclaves a été libéré par les pirates, puis il leur a parlé des portails près de la ville. Puis les pirates ont averti les morts-vivants. Ils n'auraient jamais pensé qu'après la fin de la ville, les sbires des nécromanciens provoqueraient la leur. Ceux qui n'ont pas pu s'échapper se sont naufragés quelque part sur la rive sud. Ce ne sera pas une juste rétribution, mais je suis toujours prêt à payer généreusement pour leur extermination.
+Tout ce dont on parle ces jours-ci, ce sont des morts-vivants qui ont brisé la garde d'Agamonde et détruit la ville, mais personne ne mentionne les canailles qui ont aidé les nécromanciens. Un ancien noble seigneur accusé de traite des esclaves a été libéré par les pirates, puis il leur a parlé des portails près de la ville. Puis les pirates ont averti les morts-vivants. Ils n'auraient jamais pensé qu'après la fin de la ville, les sbires des nécromanciens provoqueraient la leur. Ceux qui n'ont pas pu s'échapper se sont naufragés quelque part sur la rive sud. Ce ne sera pas une juste rétribution, mais je suis toujours prêt à payer généreusement pour leur extermination.
+J'espère que celui qui a trahi notre cité paiera pour ses crimes un jour.	Etes-vous prêts à recevoir votre récompense?
+
+(162, 155, 0) ***Seer's Hut***
+Message:
+Nous avions une chance de les arrêter. Il était encore possible d'arrêter la chute d'Agamonde. Un des messagers a atteint le tournoi, demandant à venir en aide à la ville. Bien sûr, la plupart des gardes étaient des mercenaires, mais il y avait des soldats réguliers d'Agamonde et d'autres qui seraient prêts à aider. Mais les moines qui contrôlaient la deuxième porte ne voulaient pas laisser passer le messager. "Si Agamonde est destinée à tomber, alors elle tombera", ont-ils déclaré. Maintenant, j'aimerais voir à quel point ils sont disposés à faire face à leur propre destin. Ils ont abandonné le tournoi et sont allés répandre leur sagesse ailleurs. Ne les laissez pas s'échapper.
+Nous avions une chance de les arrêter. Il était encore possible d'arrêter la chute d'Agamonde. Un des messagers a atteint le tournoi, demandant à venir en aide à la ville. Bien sûr, la plupart des gardes étaient des mercenaires, mais il y avait des soldats réguliers d'Agamonde et d'autres qui seraient prêts à aider. Mais les moines qui contrôlaient la deuxième porte ne voulaient pas laisser passer le messager. "Si Agamonde est destinée à tomber, alors elle tombera", ont-ils déclaré. Maintenant, j'aimerais voir à quel point ils sont disposés à faire face à leur propre destin. Ils ont abandonné le tournoi et sont allés répandre leur sagesse ailleurs. Ne les laissez pas s'échapper.
+Eh bien c'était leur destin je suppose. Et le vôtre est d'apprendre de nouvelles techniques de défense.
+
+(49, 101, 0) ***Pandora's Box***
+Message:
+
+
+(15, 68, 0) ***Pandora's Box***
+Message:
+
+
+(20, 67, 0) ***Pandora's Box***
+Message:
+
+
+(17, 70, 0) ***Pandora's Box***
+Message:
+
+
+(19, 68, 0) ***Pandora's Box***
+Message:
+
+
+(13, 71, 0) ***Pandora's Box***
+Message:
+
+
+(12, 71, 0) ***Pandora's Box***
+Message:
+
+
+(36, 55, 0) ***Pandora's Box***
+Message:
+
+
+(27, 59, 0) ***Pandora's Box***
+Message:
+
+
+(35, 56, 0) ***Pandora's Box***
+Message:
+
+
+(33, 58, 0) ***Pandora's Box***
+Message:
+
+
+(33, 55, 0) ***Pandora's Box***
+Message:
+
+
+(27, 58, 0) ***Pandora's Box***
+Message:
+
+
+(29, 66, 0) ***Pandora's Box***
+Message:
+
+
+(29, 80, 0) ***Pandora's Box***
+Message:
+
+
+(30, 74, 0) ***Pandora's Box***
+Message:
+
+
+(29, 71, 0) ***Pandora's Box***
+Message:
+
+
+(30, 79, 0) ***Pandora's Box***
+Message:
+
+
+(27, 68, 0) ***Pandora's Box***
+Message:
+
+
+(27, 73, 0) ***Pandora's Box***
+Message:
+
+
+(24, 86, 0) ***Pandora's Box***
+Message:
+
+
+(23, 85, 0) ***Pandora's Box***
+Message:
+
+
+(25, 76, 0) ***Pandora's Box***
+Message:
+
+
+(32, 87, 0) ***Pandora's Box***
+Message:
+
+
+(24, 90, 0) ***Pandora's Box***
+Message:
+
+
+(28, 92, 0) ***Pandora's Box***
+Message:
+
+
+(26, 91, 0) ***Pandora's Box***
+Message:
+
+
+(29, 91, 0) ***Pandora's Box***
+Message:
+
+
+(28, 88, 0) ***Pandora's Box***
+Message:
+
+
+(13, 101, 0) ***Pandora's Box***
+Message:
+
+
+(15, 90, 0) ***Pandora's Box***
+Message:
+
+
+(12, 93, 0) ***Pandora's Box***
+Message:
+
+
+(17, 97, 0) ***Pandora's Box***
+Message:
+
+
+(18, 101, 0) ***Pandora's Box***
+Message:
+
+
+(11, 96, 0) ***Pandora's Box***
+Message:
+
+
+(38, 107, 0) ***Pandora's Box***
+Message:
+
+
+(21, 11, 0) ***Sign***
+Message:
+Les généreux sont les bienvenus!	Les cupides, bon vent!
+
+(11, 54, 0) ***Pandora's Box***
+Message:
+
+
+(23, 45, 0) ***Pandora's Box***
+Message:
+
+
+(18, 51, 0) ***Pandora's Box***
+Message:
+
+
+(18, 50, 0) ***Pandora's Box***
+Message:
+
+
+(27, 49, 0) ***Pandora's Box***
+Message:
+
+
+(23, 46, 0) ***Pandora's Box***
+Message:
+
+
+(24, 50, 0) ***Pandora's Box***
+Message:
+
+
+(12, 53, 0) ***Pandora's Box***
+Message:
+
+
+(19, 51, 0) ***Pandora's Box***
+Message:
+
+
+(24, 48, 0) ***Pandora's Box***
+Message:
+
+
+(30, 47, 0) ***Pandora's Box***
+Message:
+
+
+(31, 46, 0) ***Pandora's Box***
+Message:
+
+
+(59, 67, 0) ***Event***
+Message:
+
+
+(68, 70, 0) ***Event***
+Message:
+
+
+(141, 78, 0) ***Pandora's Box***
+Message:
+
+
+(86, 108, 0) ***Seer's Hut***
+Message:
+Mon père avait raison de ne pas croire en moi. "Il sera beau, mais restera simplet!" disait-il. Lorsque le New Extate est tombé sur nous, j'ai eu peur de m'en approcher au début, mais mon père a dit que je n'étais qu'un lâche et m'a envoyé seul en éclaireur. On m'a attrappé, mais les gars étaient sympas. Ils m'ont appris de la magie de base. Au lieu d'informations, j'ai ramené de nouveaux amis. Ils ont été exécutés et on m'a dit de cesser mes âneries. Le New Extate est plein d'ennemis; j'ai eu la chance de ne pas être exécuté avec eux. Je suis reconnaissant envers mon père pour cela. La guerre a duré longtemps. Notre noble maison a perdu presque tous ses mercenaires, et mon père et moi avons évité la mort de justesse à plusieurs reprises. Nous avons réussi à atteindre le château. La trêve a énervé mon père. Il s'est rendu compte que je me précipitais maintenant auprès de nos voisins pour apprendre au lieu de m'entrainer pour devenir un guerrier. Après un certain temps, nous avons été obligés de quitter notre maison, mais nous n'avions pas de bateau. J'ai dû en invoquer un, et rapidement nous nous sommes installés ici. Chaque jour, je vais pêcher sur mon modeste bateau magique. Mon père grogne que je devrais plutôt créer une flotte pour écraser le New Extate, si j'étais vraiment aussi intelligent. Il a récemment entendu parler d'un endroit où les guerriers peuvent se rencontrer, le Cercle de l'Abondance. Il veut que j'aille là-bas et que je rapporte des primes. Mais je ne peux même pas m'occuper des Effrits qui gardent le portail qui y mène! Peut-être pourriez-vous m'aider? Et puis je me débrouillerai pour la suite.
+Mon père avait raison de ne pas croire en moi. "Il sera beau, mais restera simplet!" disait-il. Lorsque le New Extate est tombé sur nous, j'ai eu peur de m'en approcher au début, mais mon père a dit que je n'étais qu'un lâche et m'a envoyé seul en éclaireur. On m'a attrappé, mais les gars étaient sympas. Ils m'ont appris de la magie de base. Au lieu d'informations, j'ai ramené de nouveaux amis. Ils ont été exécutés et on m'a dit de cesser mes âneries. Le New Extate est plein d'ennemis; j'ai eu la chance de ne pas être exécuté avec eux. Je suis reconnaissant envers mon père pour cela. La guerre a duré longtemps. Notre noble maison a perdu presque tous ses mercenaires, et mon père et moi avons évité la mort de justesse à plusieurs reprises. Nous avons réussi à atteindre le château. La trêve a énervé mon père. Il s'est rendu compte que je me précipitais maintenant auprès de nos voisins pour apprendre au lieu de m'entrainer pour devenir un guerrier. Après un certain temps, nous avons été obligés de quitter notre maison, mais nous n'avions pas de bateau. J'ai dû en invoquer un, et rapidement nous nous sommes installés ici. Chaque jour, je vais pêcher sur mon modeste bateau magique. Mon père grogne que je devrais plutôt créer une flotte pour écraser le New Extate, si j'étais vraiment aussi intelligent. Il a récemment entendu parler d'un endroit où les guerriers peuvent se rencontrer, le Cercle de l'Abondance. Il veut que j'aille là-bas et que je rapporte des primes. Mais je ne peux même pas m'occuper des Effrits qui gardent le portail qui y mène! Peut-être pourriez-vous m'aider? Et puis je me débrouillerai pour la suite.
+Merci! Dommageque je ne sois pas aussi courageux que vous. J'espère que je trouverai quelque chose au Cercle de l'Abondance, à part la mort. En signe de ma gratitude, je vais vous enseigner ce j'ai déjà appris.
+
+(15, 167, 0) ***Seer's Hut***
+Message:
+Quelle est la place de la connaissance au sein de notre monde? Oh, je peux tout vous dire à ce sujet! Restez auprès d'un vieil homme solitaire pendant un moment, voyageur, ne vous précipitez pas. J'ai eu l'honneur de connaître l'ancien roi de l'Extate. C'était un homme digne, courageux au combat et spirituel. Tout a changé après l'arrivée soudaine des étrangers venus du froid. Qui étaient-ils? De quoi avaient-ils besoin ici? Les seigneurs de la cour ont décidé qu'ils pouvaient attaquer les conquérants. Mais ce n'était pas comme les gnolls et les troglodytes habituels. Ils ont attendu, sans agressivité. Le roi lui-même a mené les troupes contre nos nouveaux voisins à la recherche de réponses. Après une série de batailles, il est devenu clair que les nouveaux arrivants préféraient se battre avec la magie, et ils n'avaient pas beaucoup d'églises. Malgré les pertes, le roi a courageusement mené les troupes, mais à un moment donné, il s'est retrouvé seul. Durant sa captivité, il proposa des conditions de paix. Les Seigneurs de l'Extate ont accepté, mais le roi n'a jamais pardonné aux étrangers pour cette outrage. Êtes-vous prêt à apprendre la fin de cette histoire?
+Quelle est la place de la connaissance au sein de notre monde? Oh, je peux tout vous dire à ce sujet! Restez auprès d'un vieil homme solitaire pendant un moment, voyageur, ne vous précipitez pas. J'ai eu l'honneur de connaître l'ancien roi de l'Extate. C'était un homme digne, courageux au combat et spirituel. Tout a changé après l'arrivée soudaine des étrangers venus du froid. Qui étaient-ils? De quoi avaient-ils besoin ici? Les seigneurs de la cour ont décidé qu'ils pouvaient attaquer les conquérants. Mais ce n'était pas comme les gnolls et les troglodytes habituels. Ils ont attendu, sans agressivité. Le roi lui-même a mené les troupes contre nos nouveaux voisins à la recherche de réponses. Après une série de batailles, il est devenu clair que les nouveaux arrivants préféraient se battre avec la magie, et ils n'avaient pas beaucoup d'églises. Malgré les pertes, le roi a courageusement mené les troupes, mais à un moment donné, il s'est retrouvé seul. Durant sa captivité, il proposa des conditions de paix. Les Seigneurs de l'Extate ont accepté, mais le roi n'a jamais pardonné aux étrangers pour cette outrage. Êtes-vous prêt à apprendre la fin de cette histoire?
+Quelle est donc la place de la connaissance dans notre monde après tout? Maintenant, l'ancien roi de l'Extate est en exil. Quelle a été son erreur? Si ce n'est pas au courage ni à la spiritualité, alors à quoi doit aspirer un bon monarque? Je pense que la connaissance est ce qui lui manquait. Les gens du New Extate ne voulaient pas venir ici, ils ne voulaient pas la guerre. L'ignorance entraîna le roi dans la bataille. L'ignorance de la culture de son voisin a transformé un religieux en fanatique. L'ignorance a transformé un guerrier courageux en un idiot téméraire qui mené à la mort ses compagnons. Afin que vous évitiez les erreurs, je vous donnerai les connaissances nécessaires. Derrière les portails à proximité se trouvent des terres pour les plus courageux. Les tournois qui s'y déroulent nécessitent des participants d'une compétence sans précédent. De plus, ces terres sont maintenant également en guerre. Faites preuve de courage, mais aussi de prudence lorsque vous y marchez. Le portail orange vous enverra à Agamonde, l'ancienne forteresse,  le pourpre, au Poing d'Ilyane, qui est souterrain. Et le roi n'a jamais été revu après avoir quitté sa maison bien-aimée. Mais je suis sûr qu'il est vraiment désolé pour tout ce qu'il a fait.
+
+(114, 157, 0) ***Seer's Hut***
+Message:
+J'ai toujours préféré mener mes affaires honnêtement. Un prêté pour un rendu comme on dit. Il était également très important d'honorer les anciennes relations. Malheureusement, cette façon de gérer les choses se démode. Mon frère a été capturé par des démons qui combattaient notre allié à la Lame Brisée. Maintenant, au lieu de tenter de sauver les prisonniers, notre allié pleure pour plus d'aide. Je suis maintenant obligé de vous demander de sauver mon frère et nos hommes. Il est détenu quelque part sous une île volcanique, dans l'extrême nord.
+J'ai toujours préféré mener mes affaires honnêtement. Un prêté pour un rendu comme on dit. Il était également très important d'honorer les anciennes relations. Malheureusement, cette façon de gérer les choses se démode. Mon frère a été capturé par des démons qui combattaient notre allié à la Lame Brisée. Maintenant, au lieu de tenter de sauver les prisonniers, notre allié pleure pour plus d'aide. Je suis maintenant obligé de vous demander de sauver mon frère et nos hommes. Il est détenu quelque part sous une île volcanique, dans l'extrême nord.
+Je serai plus prudent dans le choix de mes amis à l'avenir. Je pense que ceci sera une récompense à la hauteur. Un prêté pour un rendu.
+
+(122, 158, 0) ***Pandora's Box***
+Message:
+
+
+(119, 159, 0) ***Pandora's Box***
+Message:
+
+
+(113, 158, 0) ***Pandora's Box***
+Message:
+
+
+(110, 93, 0) ***Pandora's Box***
+Message:
+
+
+(100, 125, 0) ***Pandora's Box***
+Message:
+
+
+(130, 96, 0) ***Pandora's Box***
+Message:
+
+
+(92, 91, 0) ***Pandora's Box***
+Message:
+
+
+(95, 70, 0) ***Pandora's Box***
+Message:
+
+
+(108, 94, 0) ***Pandora's Box***
+Message:
+
+
+(102, 126, 0) ***Pandora's Box***
+Message:
+
+
+(97, 74, 0) ***Pandora's Box***
+Message:
+
+
+(125, 89, 0) ***Pandora's Box***
+Message:
+
+
+(103, 105, 0) ***Pandora's Box***
+Message:
+
+
+(121, 106, 0) ***Pandora's Box***
+Message:
+
+
+(99, 96, 0) ***Pandora's Box***
+Message:
+
+
+(123, 102, 0) ***Pandora's Box***
+Message:
+
+
+(85, 77, 0) ***Pandora's Box***
+Message:
+
+
+(111, 79, 0) ***Pandora's Box***
+Message:
+
+
+(56, 79, 0) ***Pandora's Box***
+Message:
+
+
+(68, 50, 0) ***Pandora's Box***
+Message:
+
+
+(60, 58, 0) ***Pandora's Box***
+Message:
+
+
+(179, 94, 0) ***Pandora's Box***
+Message:
+
+
+(1, 97, 0) ***Pandora's Box***
+Message:
+
+
+(10, 82, 0) ***Pandora's Box***
+Message:
+
+
+(173, 121, 0) ***Pandora's Box***
+Message:
+
+
+(153, 113, 0) ***Pandora's Box***
+Message:
+
+
+(164, 114, 0) ***Pandora's Box***
+Message:
+
+
+(39, 66, 0) ***Pandora's Box***
+Message:
+
+
+(179, 151, 0) ***Pandora's Box***
+Message:
+
+
+(169, 136, 0) ***Pandora's Box***
+Message:
+
+
+(0, 62, 0) ***Pandora's Box***
+Message:
+
+
+(18, 59, 0) ***Pandora's Box***
+Message:
+
+
+(41, 45, 0) ***Pandora's Box***
+Message:
+
+
+(56, 40, 0) ***Pandora's Box***
+Message:
+
+
+(71, 34, 0) ***Pandora's Box***
+Message:
+
+
+(3, 37, 0) ***Pandora's Box***
+Message:
+
+
+(12, 17, 0) ***Pandora's Box***
+Message:
+
+
+(4, 3, 0) ***Pandora's Box***
+Message:
+
+
+(29, 3, 0) ***Pandora's Box***
+Message:
+
+
+(51, 4, 0) ***Pandora's Box***
+Message:
+
+
+(70, 2, 0) ***Pandora's Box***
+Message:
+
+
+(43, 26, 0) ***Pandora's Box***
+Message:
+
+
+(66, 18, 0) ***Pandora's Box***
+Message:
+
+
+(110, 178, 0) ***Pandora's Box***
+Message:
+
+
+(124, 176, 0) ***Pandora's Box***
+Message:
+
+
+(165, 179, 0) ***Pandora's Box***
+Message:
+
+
+(138, 149, 0) ***Pandora's Box***
+Message:
+
+
+(130, 157, 0) ***Pandora's Box***
+Message:
+
+
+(142, 140, 0) ***Pandora's Box***
+Message:
+
+
+(140, 130, 0) ***Pandora's Box***
+Message:
+
+
+(144, 176, 0) ***Pandora's Box***
+Message:
+
+
+(177, 169, 0) ***Pandora's Box***
+Message:
+
+
+(82, 67, 0) ***Cove***
+
+Timed events:
+
+Name:
+whoosh
+Message:
+
+
+(129, 42, 0) ***Random Town***
+
+Timed events:
+
+Name:
+whoosh
+Message:
+
+
+(118, 117, 0) ***Pandora's Box***
+Message:
+
+
+(116, 120, 0) ***Pandora's Box***
+Message:
+
+
+(117, 118, 0) ***Pandora's Box***
+Message:
+
+
+(120, 116, 0) ***Pandora's Box***
+Message:
+
+
+(160, 152, 0) ***Seer's Hut***
+Message:
+Ce n'était pas une bonne année. D'abord, j'ai dû m'endetter après que certains ont commencé à fabriquer des canons à côté de ma forge; c'était la nouvelle chose en vogue à l'époque. Puis j'ai eu une mauvaise récolte. Et enfin, un gang de pirates et de morts est venu ravager notre belle ville portuaire, tuant tous mes amis. Eh bien, au moins je n'ai plus de dettes maintenant. Je suis très préoccupé par ma forge maintenant. Il y a un tas de zombies qui se dandinent autour, et je dois récupérer mes outils là-bas avant de pouvoir prendre un nouveau départ! Le tournoi peut attendre, allez vous charger des zombies d'abord.
+Ce n'était pas une bonne année. D'abord, j'ai dû m'endetter après que certains ont commencé à fabriquer des canons à côté de ma forge; c'était la nouvelle chose en vogue à l'époque. Puis j'ai eu une mauvaise récolte. Et enfin, un gang de pirates et de morts est venu ravager notre belle ville portuaire, tuant tous mes amis. Eh bien, au moins je n'ai plus de dettes maintenant. Je suis très préoccupé par ma forge maintenant. Il y a un tas de zombies qui se dandinent autour, et je dois récupérer mes outils là-bas avant de pouvoir prendre un nouveau départ! Le tournoi peut attendre, allez vous charger des zombies d'abord.
+Vous pouvez maintenant retourner à vos affaires, et puis j'ai une affaire à monter. Mais si j'ai à nouveau des ennuis, vous viendrez m'aider, n'est-ce pas?
+
+(139, 31, 0) ***Seer's Hut***
+Message:
+Après qu'une calamité ai frappé notre ville, j'ai été nommé sentinelle sur un rocher à proximité. Ce n'était pas une tâche difficile, mais j'ai réussi à échouer. Cette bête, Ojzin, est venue du marais et m'a fait fuir de ma cachette! Éloignez-le pour que je puisse continuer mon service, et pour prouver que vous l'avez fait, apportez ma statuette de Guetteur qu'il a transformé en jouet. Avec un peu de chance, il ne s'est pas passé grand-chose depuis mon départ; c'est un endroit calme.
+Vous ne l'avez pas encore trouvé espèce d'imbécile? Il se cache dans le marais près des rochers.
+Oui, j'ai entendu parler de vos exploits. J'allais justement engager un griffon pour épandre une concoction magique sur le monstre depuis les cieux. J'espère que cela n'a pas été trop ardu pour vous? Je peux partager quelques connaissances avec vous, mais ne vous attendez à rien de plus.
+
+(139, 35, 0) ***Sign***
+Message:
+Il vaut mieux ne pas se créer d'ennemi.
+
+(42, 89, 0) ***Seer's Hut***
+Message:
+Entrez, marin, et n'enlevez pas vos bottes. J'ai une offre pour vous. J'ai attrapé ces étranges oiseaux il y a quelques jours. Ils ont des calamars sur le visage, et ils sont assez répugnants dans l'ensemble. Ils ne mangent pas de céréales, ils sifflent toute la journée et je ne peux pas dormir tant qu'ils sont ici. Je n'ai pas encore trouvé d'utilité pour eux! Envisageriez-vous de m'échanger quelque chose pour m'en débarasser?
+Entrez, marin, et n'enlevez pas vos bottes. J'ai une offre pour vous. J'ai attrapé ces étranges oiseaux il y a quelques jours. Ils ont des calamars sur le visage, et ils sont assez répugnants dans l'ensemble. Ils ne mangent pas de céréales, ils sifflent toute la journée et je ne peux pas dormir tant qu'ils sont ici. Je n'ai pas encore trouvé d'utilité pour eux! Envisageriez-vous de m'échanger quelque chose pour m'en débarasser?
+Vous allez probablement leur trouver un meilleur usage. Une race étrange, je n'ai jamais rien vu de tel auparavant.
+
+(161, 87, 0) ***Seer's Hut***
+Message:
+Dites, mortel, pouvez-vous être sûr que votre volonté est la vôtre et seulement la vôtre? Entendez-vous la voix de notre maître comme nous? Vous avez une occasion unique de jeter un oeil au côté secret de votre esprit. Une couchette, un cours et un repas vous coûteront 2000 pièces d'or, mais c'est un maigre prix à payer ... Attendez! Ne partez pas! Souhaitez-vous au moins acheter nos animaux de compagnie? Écoutez, vous n'avez pas besoin de les nourrir et ils peuvent se faire de nouveaux amis au combat! C'est un super prix pour ces talentueux serviteurs du Maître!
+Dites, mortel, pouvez-vous être sûr que votre volonté est la vôtre et seulement la vôtre? Entendez-vous la voix de notre maître comme nous? Vous avez une occasion unique de jeter un oeil au côté secret de votre esprit. Une couchette, un cours et un repas vous coûteront 2000 pièces d'or, mais c'est un maigre prix à payer ... Attendez! Ne partez pas! Souhaitez-vous au moins acheter nos animaux de compagnie? Écoutez, vous n'avez pas besoin de les nourrir et ils peuvent se faire de nouveaux amis au combat! C'est un super prix pour ces talentueux serviteurs du Maître!
+Alors vous acceptez le marché? Dommage que vous partiez. Nous aurions été ravis de vous acceuillir à l'Ecole Cachée des Abysses. Pouvez-vous au moins donnez ces brochures à vos amis?
+
+(134, 47, 1) ***Random Town***
+
+Timed events:
+
+Name:
+whoosh
+Message:
+
+
+(105, 47, 1) ***Seer's Hut***
+Message:
+Un fichu charlatan acropien m'a vendu un lézard inutile! "Ce merveilleux basilic peut renifler des cristaux à un mile de distance et vous conduire au gisement!" Maudit boniment! Jusqu'à présent, nous n'avons trouvé qu'un démon mort, deux lapins et une partie d'une pompe à vapeur. Une inspection est prévue dans mon usine, et mon assistante sera licenciée si une pénurie de cristal est mise à jour! Pouvez-vous nous en procurer?
+Un fichu charlatan acropien m'a vendu un lézard inutile! "Ce merveilleux basilic peut renifler des cristaux à un mile de distance et vous conduire au gisement!" Maudit boniment! Jusqu'à présent, nous n'avons trouvé qu'un démon mort, deux lapins et une partie d'une pompe à vapeur. Une inspection est prévue dans mon usine, et mon assistante sera licenciée si une pénurie de cristal est mise à jour! Pouvez-vous nous en procurer?
+A la bonne heure! Prêt pour l'échange?
+
+(152, 23, 1) ***Seer's Hut***
+Message:
+Salutations. Vous avez trouvé cet endroit, ce qui signifie que vous êtes digne de connaître son histoire. Ma famille gardait cette terre autrefois magnifique depuis des générations, mais après l'arrivée des étrangers de la surface, elle est devenue ce que vous voyez maintenant. Hélas, je n'ai pas pu empêcher la décadence à moi seul, mais vous pourriez devenir mon allié, n'est-ce pas? Les parasites ont été vus récemment près de la désolation acropienne. Il est le responsable de tout ce que vous voyez ici. Arrêtez-le et apportez-moi le bijou qu'il porte tout le temps. Ensuite, nous restaurerons cette terre.	
+Ne vous inquiétez pas, la vermine va bientôt rencontrer son destin. Il doit se cacher quelque part près d'Acropie.
+Maintenant, nous avons de l'espoir, aussi mince soit-il. Je vais vous apprendre quelques-uns de mes trucs maintenant.
+
+(149, 34, 1) ***Seer's Hut***
+Message:
+La tâche va être ardue. Mes frères druides travaillent depuis longtemps à la restauration de l'écosystème de cet endroit. C'était un paradis sur terre! Une puissante cité souterraine vivant en harmonie avec la nature, avez-vous déjà vu une telle chose? Sûrement pas, et je le prouverai bientôt. J'ai besoin de matériel pour une expérience. Je n'espère pas que cela mènera à une percée, mais je n'abandonne pas. Les avez-vous?
+La tâche va être ardue. Mes frères druides travaillent depuis longtemps à la restauration de l'écosystème de cet endroit. C'était un paradis sur terre! Une puissante cité souterraine vivant en harmonie avec la nature, avez-vous déjà vu une telle chose? Sûrement pas, et je le prouverai bientôt. J'ai besoin de matériel pour une expérience. Je n'espère pas que cela mènera à une percée, mais je n'abandonne pas. Les avez-vous?
+Ceux qui ont empoisonné cet endroit paieront un jour. Et je vais vous rémunérer à la hauteur de votre geste! Voulez-vous toujours faire affaire?
+
+(50, 169, 1) ***Random Town***
+
+Timed events:
+
+Name:
+whoosh
+Message:
+
+
+(64, 147, 1) ***Seer's Hut***
+Message:
+Les Silencieux qui vient ici ne peuvent vous inviter à entrer, selon la tradition. Ils vous montrent un panneau à la place, où il est inscrit: "5 de mercure contre 5 gemmes". Ce ne sont peut-être pas les plus accueuillants, mais ils sont toujours équitables. Allez-vous remplir la commande?
+Les Silencieux qui vient ici ne peuvent vous inviter à entrer, selon la tradition. Ils vous montrent un panneau à la place, où il est inscrit: "5 de mercure contre 5 gemmes". Ce ne sont peut-être pas les plus accueuillants, mais ils sont toujours équitables. Allez-vous remplir la commande?
+L'un des Silencieux a préparé un panneau qui dit "merci". Ils semblent avoir ce qu'il faut. Êtes-vous prêt à faire un échange?
+
+(138, 24, 1) ***Event***
+Message:
+Vous avez eu tort de venir ici. Acropie ne peut pas être sauvée. Vous auriez dû saisir votre chance de prendre le pouvoir pendant que vous le pouviez. Désolé, mais l'ordre de ma maîtresse sera exécuté.
+
+(53, 148, 1) ***Sign***
+Message:
+Ce n'est pas si terrible ici.
+
+(29, 144, 1) ***Seer's Hut***
+Message:
+Imaginez, tout le chaos que vous voyez était un modeste donjon avec trois villages. Puis ces Silencieux sont venus et ont commencé leurs expériences! Ce sont sûrement les manigances du New Extate! Avant, nous vivions heureux et maintenant regardez toutes ces immenses villes aux clairières scintillantes. Ce serait bien si ils disaient au moins bonjour, mais non, ils ont fait voeu de silence! Et ils ont aussi volé ma clientèle! Vous pouvez trouver les cristaux que je vendais comme une denrée rare partout maintenant! Chaque imbécile en a maintenant. Peut-être en avez-vous aussi?
+Imaginez, tout le chaos que vous voyez était un modeste donjon avec trois villages. Puis ces Silencieux sont venus et ont commencé leurs expériences! Ce sont sûrement les manigances du New Extate! Avant, nous vivions heureux et maintenant regardez toutes ces immenses villes aux clairières scintillantes. Ce serait bien si ils disaient au moins bonjour, mais non, ils ont fait voeu de silence! Et ils ont aussi volé ma clientèle! Vous pouvez trouver les cristaux que je vendais comme une denrée rare partout maintenant! Chaque imbécile en a maintenant. Peut-être en avez-vous aussi?
+Avez-vous vu la rivière qu'ils ont créée près du cimetière?! Aucun respect pour les défunts. Avez-vous apporté les cristaux, au fait?
+
+(30, 136, 1) ***Seer's Hut***
+Message:
+Personne n'entre dans ce bâtiment, car il appartient aux Silencieux, qui protègent bien leurs secrets. Ils ne connaissent pas la langue locale, et leur moyen de conversation est essentiellement basé sur les signes avec des pictogrammes. Ils semblent vouloir que vous alliez près d'une crypte à l'est, mais ils vous avertissent que tout peut y arriver. Les habitants vous ont dit qu'il y avait une figurine quelconque près d'une montagne couverte par le nouveau champ magique. Tout ceux qui ont essayé de le prendre a disparu immédiatement, et les Silencieux veulent savoir pourquoi cela se produit.	
+Personne n'entre dans ce bâtiment, car il appartient aux Silencieux, qui protègent bien leurs secrets. Ils ne connaissent pas la langue locale, et leur moyen de conversation est essentiellement basé sur les signes avec des pictogrammes. Ils semblent vouloir que vous alliez près d'une crypte à l'est, mais ils vous avertissent que tout peut y arriver. Les habitants vous ont dit qu'il y avait une figurine quelconque près d'une montagne couverte par le nouveau champ magique. Tout ceux qui ont essayé de le prendre a disparu immédiatement, et les Silencieux veulent savoir pourquoi cela se produit.
+Les Silencieux hochent la tête avec approbation, vous montrant un signe qui dit "apprendre". On dirait que vous serez récompensé par de nouvelles connaissances.
+
+(43, 137, 1) ***Event***
+Message:
+Cet endroit est pétri d'énergie magique. Même les montagnes ne peuvent pas la retenir. Un peu plus loin, quelques guerriers malchanceux sont morts. On dirait que cette énergie s'est matérialisée dans une créature qui ne sait pas quoi faire du surplus. Et maintenant tu es là.
+
+(121, 30, 1) ***Random Town***
+
+Timed events:
+
+Name:
+whoosh
+Message:
+
+
+(65, 127, 1) ***Random Town***
+
+Timed events:
+
+Name:
+whoosh
+Message:
+
+
+(93, 95, 1) ***Seer's Hut***
+Message:
+Salut, voyageur. Quoi? Dois-je parler comme un idiot juste parce que je suis un ogre? Écoutez, j'organise des combats publics. J'ai commencé par des combats de coqs, et maintenant Titans, Diables, Hydres et Dragons se battent dans mon arène! Malheureusement, la guerre a ravagé mon entreprise. J'ai maintenant désespérément besoin de combattants. Si vous en trouviez pour moi, je vous donnerais mes assistants; ce sont de terribles combattants.
+Je suis sûr que vous pouvez trouver les combattants dont j'ai besoin ici. Regardez bien autour de vous.
+Splendide! Je peux maintenant développer mon entreprise. Je n'ai plus besoin de ces mercenaires, vous pouvez les prendre.
+
+(77, 78, 1) ***Seer's Hut***
+Message:
+Je ne m'attendais pas à rencontrer quelqu'un ici. Je suis un délégué de la Cour suprême de Highcastle pour une mission importante. Il y a une chose infernale terrorisant nos armées et qui parvient à s'échapper indemne à chaque fois. Il y a un serviteur nécromant tuant des paysans et ramenant leurs corps à ses maîtres; et enfin, les pirates ont apporté un énorme wyrm et ravagent les côtes. On m'a ordonné de traduire ces bêtes devant la Cour, mais on ne m'a pas donné une armée appropriée pour accomplir cette tâche. Écoutez, la Cour ne va pas fera pas la différence si c'est exactement le même wyrm, n'est-ce pas? Ramenez-moi représentant un de chacune de ces engeances, puis ce sera l'affaire des juges. Je vous donnerai les troupes que j'ai ici, puis je les déclarerai tuées au combat.	
+Avez-vous déjà trouvé nos délinquants? Ou quelqu'un exactement comme eux?
+La justice prévaudra toujours! Vraiment, rien n'est plus fort que la loi!
+
+(83, 78, 1) ***Seer's Hut***
+Message:
+Eh bien, vous êtes déjà là, vous pouvez aussi bien entrer. Un de plus pour le Cercle de l'Abondance. Oui, c'est comme ça qu'on l'appelait à l'époque. Les mines fumaient et soufflaient, mes copains Nighons et moi percevions des impôts "volontaires". Un jour de paiement,  les paysans n'avaient rien d'autre à la bouche que "un dragon a pris notre soufre". Oui, c'est vrai, comme s'il n'y avait jamais eu de dragon aussi intelligent. Quoi qu'il en soit, je donnais à la bête des herbes hypnotiques, et en attendant, des harpies venaient récupérer nos biens ... Eh bien, j'avais toujours un gourdin pour ces situations ... euh, où en étais-je? Je vous le dis, vous êtes stupide de fouiller ici, à la recherche de ces hydres et béhémoths. La connaissance est le vrai pouvoir! J'aurais aimé rencontrer quelqu'un d'aussi bon que moi, alors j'aurai partagé avec lui mes astuces. Par exemple, quand un dragon vient et vole vos affaires, que faites-vous? Mes copains et moi venions le reprendre à la bête stupide. J'étais responsable de la sécurité, cela signifie que je devais endormir le dragon pendant que les autres prenaient leurs affaires volées. Et j'avais aussi une masse, juste au cas où. Ces dragons ne sont pas si intelligents.
+Vous ne serez probablement pas capables decomprendre ma sagesse. Eh bien, je peux vous dire comment endormir un dragon à la place. Ces bêtes ne sont pas si intelligentes!
+Très bien, enfin, quelqu'un à qui je peux apprendre à endormir les dragons! Ils ne sont pas si intelligents, vous savez. Oh, prenez cette masse aussi, juste au cas où.
+
+(176, 175, 1) ***Prison***
+Name:
+Wanda
+Biography:
+Le père de Wanda était effrayé par les talents surprenants de sa fille. À tel point qu'il l'a enfermée dans une prison sur une île peu fréquentée. On dit qu'elle est capable de réduire le monde en cendres uniquement par la pensée, et de manière totalement involontaire.
+
+(33, 6, 1) ***Pandora's Box***
+Message:
+
+
+(37, 19, 1) ***Pandora's Box***
+Message:
+
+
+(30, 21, 1) ***Pandora's Box***
+Message:
+
+
+(42, 21, 1) ***Pandora's Box***
+Message:
+
+
+(164, 83, 1) ***Castle***
+
+Timed events:
+
+Name:
+whoosh
+Message:
+
+
+(173, 151, 1) ***Random Monster 4***
+Message:
+Ne me demandez même pas pourquoi nous gardons ce fichu phare.
+
+(44, 7, 1) ***Pandora's Box***
+Message:
+
+
+(43, 12, 1) ***Pandora's Box***
+Message:
+
+
+(33, 42, 1) ***Dungeon***
+
+Timed events:
+
+Name:
+whoosh
+Message:
+
+
+(86, 24, 1) ***Inferno***
+
+Timed events:
+
+Name:
+whoosh
+Message:
+
+
+(33, 83, 1) ***Seer's Hut***
+Message:
+Notre clan vit ici depuis de nombreux hivers. Des humains viennent construire ici leur petite maison. Ils prennent notre mine et notre plage. Maintenant, le dragon du froid arrive et ne s'en ira pas si nous ne le faisons pas partir. Aidez le clan, ou nous sommes perdus!
+Notre clan vit ici depuis de nombreux hivers. Des humains viennent construire ici leur petite maison. Ils prennent notre mine et notre plage. Maintenant, le dragon du froid arrive et ne s'en ira pas si nous ne le faisons pas partir. Aidez le clan, ou nous sommes perdus!
+Vous avez tué tout le clan?! L'humain n'a pas compris, tu ne comprends pas! Prenez la couronne sainte, inutile maintenant. Allez!
+
+(23, 95, 1) ***Seer's Hut***
+Message:
+Salut, voyageur. Vous devez avoir déjà rencontré le fléau de ce village. Les barbares du nord. J'ai été envoyé ici pour une mission importante. Nous rendrons la rivière impraticable et les isoleront. Ils ne pourront pas s'enfuir, puis ils mourront de faim! Une mine est un petit prix à payer pour notre sécurité. Le seul problème est leurs énormes oiseaux qui patrouillent près du lac et de la rivière nuit et jour. Aidez-nous à nous en débarrasser.
+Etrange que vous n'ayez pas encore trouvé les oiseaux. Ils doivent être quelque part autour de la rivière ou du lac.
+Je peux maintenant finaliser le rituel et mettre fin à cette menace. Vous avez bien servi notre terre et voici votre récompense bien méritée. Nous espérons vous revoir bientôt! 
+
+(40, 9, 1) ***Pandora's Box***
+Message:
+
+
+(101, 87, 1) ***Seer's Hut***
+Message:
+C'est toujours agréable de voir de nouvelles têtes. Pourriez-vous aider un vieux nécromancien? J'ai vraiment besoin d'un dragon Nighon, il doit y en avoir alentour. Je n'ai aucune idée de pourquoi ils ont besoin de leurs ailes s'ils vivent sous terre. Ensuite, je veux un gros lézard maladroit. Enfin, un joli dragon vert. Pourquoi? J'adore caractéristiques, voilà pourquoi. Une récompense? Vous pouvez prendre mes animaux de compagnie à la place, je ne les utilise plus beaucoup. Marché conclu?
+Non, imbécile! Un vert, un rouge et un lézard, rien de moins, rien de plus!
+Si beaux, si forts! Quel merveilleux matériel. Prenez mes animaux de compagnie, comme convenu.
+
+(133, 19, 1) ***Sign***
+Message:
+Les manigances sont notre style de vie.
+
+(134, 3, 1) ***Random Town***
+
+Timed events:
+
+Name:
+whoosh
+Message:
+
+
+(68, 100, 1) ***Random Town***
+
+Timed events:
+
+Name:
+whoosh
+Message:
+
+
+(119, 168, 1) ***Random Town***
+
+Timed events:
+
+Name:
+whoosh
+Message:
+
+
+(67, 26, 1) ***Pandora's Box***
+Message:
+
+
+(73, 16, 1) ***Pandora's Box***
+Message:
+
+
+(79, 23, 1) ***Pandora's Box***
+Message:
+
+
+(82, 32, 1) ***Seer's Hut***
+Message:
+Prosternez-vous, imbécile! Je vous charge d'une mission importante pour moi. Un de mes idiots d'officiers était en mission de reconnaissance entre Agamonde et l'Extate, et les elfes l'ont attrapé. Il vaut mieux ne divulguer aucune information classifiée avant de le faire sortir de là; et vous avez intérêt à réussir. Rompez.
+Prosternez-vous, imbécile! Je vous charge d'une mission importante pour moi. Un de mes idiots d'officiers était en mission de reconnaissance entre Agamonde et l'Extate, et les elfes l'ont attrapé. Il vaut mieux ne divulguer aucune information classifiée avant de le faire sortir de là; et vous avez intérêt à réussir. Rompez.
+Bon travail, vous n'êtes pas aussi inutile que mes subalternes sans cervelle. Voici votre récompense.
+
+(37, 42, 1) ***Seer's Hut***
+Message:
+Chaque seigneur de la surface essaie de comprendre ce que nous avons créé ces jours-ci. Le tournoi au poing d'Ilyane était destiné à forger de nouvelles alliances, mais à la place, nous n'avons ramassé que des idiots cupides. Ils ont perdu l'armée à cause de leur négligence; maintenant ils reviennent avec de nouvelles forces, mais maintenant ils sont nos ennemis. Pourquoi s'embêter à maintenir la paix avec les démons? Parfois, nous avons même des gens qui viennent pour venger ceux qui sont venus pour venger quelqu'un eux-mêmes. Je me demande si cela finira jamais. Empêcher ce genre de choses est mon travail. Récemment, un guerrier a à peine réussi à vaincre la garde de Littlefinger, notre première garnison. De son armée, seule une escouade de djinns a survécu. Ils réfléchissent à de nouveaux plans. Ils ne prévoient peut-être rien de mal, mais je dois suivre les instructions. Débarrassez-vous d'eux et je m'occuperai de la récompense.
+Chaque seigneur de la surface essaie de comprendre ce que nous avons créé ces jours-ci. Le tournoi au poing d'Ilyane était destiné à forger de nouvelles alliances, mais à la place, nous n'avons ramassé que des idiots cupides. Ils ont perdu l'armée à cause de leur négligence; maintenant ils reviennent avec de nouvelles forces, mais maintenant ils sont nos ennemis. Pourquoi s'embêter à maintenir la paix avec les démons? Parfois, nous avons même des gens qui viennent pour venger ceux qui sont venus pour venger quelqu'un eux-mêmes. Je me demande si cela finira jamais. Empêcher ce genre de choses est mon travail. Récemment, un guerrier a à peine réussi à vaincre la garde de Littlefinger, notre première garnison. De son armée, seule une escouade de djinns a survécu. Ils réfléchissent à de nouveaux plans. Ils ne prévoient peut-être rien de mal, mais je dois suivre les instructions. Débarrassez-vous d'eux et je m'occuperai de la récompense.
+Merci de votre aide. Si quelqu'un vous demande, je ne vous ai jamais donné cette armure.
+
+(28, 45, 1) ***Seer's Hut***
+Message:
+Les commandants du poing d'Ilyane ont désigné un héraut pour se débarrasser des étrangers qui pulullent dans le sud. Il a considéré qu'il était indigne de se salir les mains dans une affaire pareille, et il a transmis l'ordre à mon mentor qui, à son tour, m'a chargé de l'affaire. Maintenant, je vous demande une faveur, mon ami. Je vais en supprimer beaucoup, mais les licornes avec leur maudite résistance vont ignorer mes sorts. De toute évidence, vous pouvez également recruter quelqu'un pour le faire à votre place.
+Les commandants du poing d'Ilyane ont désigné un héraut pour se débarrasser des étrangers qui pulullent dans le sud. Il a considéré qu'il était indigne de se salir les mains dans une affaire pareille, et il a transmis l'ordre à mon mentor qui, à son tour, m'a chargé de l'affaire. Maintenant, je vous demande une faveur, mon ami. Je vais en supprimer beaucoup, mais les licornes avec leur maudite résistance vont ignorer mes sorts. De toute évidence, vous pouvez également recruter quelqu'un pour le faire à votre place.
+Vous comprenez probablement qui obtiendra la pleine récompense de nos exploits. Ne vous inquiétez pas. J'ai quelque chose ici exprès pour vous.
+
+(171, 86, 1) ***Silver Pegasus***
+Message:
+Le gouverneur du coin négocie avec les elfes. Selon lui, il n'y a pas de quoi s'inquiéter. Les étrangers prennent sa défense, mais ils n'arrêteront pas la justice du peuple.
+
+(152, 90, 1) ***Seer's Hut***
+Message:
+Nous avons juré de protéger notre terre, mais nous ne pouvons plus résister au mal qui se cache ici. Les gens stupides croient que le sudiste qui nous gouverne maintenant est un homme intelligent et juste. Quelle justice dans le fait que sa garde soit mieux payée que quiconque? Ne sommes-nous pas tous des soldats de notre patrie? Toutes ces entreprises qu'il a fondées ici, ce n'est que de la poudre aux yeux. Très bientôt, il massacrera tout le monde dans la nuit, quand il n'aura plus besoin de nous. Aujourd'hui, vous avez la possibilité de rétablir la justice. Il négocie avec les longues oreilles vers l'ouest. Il y a beaucoup moins de gardes à la chapelle qu'au château. Ne manquez pas cette chance!
+Nous avons juré de protéger notre terre, mais nous ne pouvons plus résister au mal qui se cache ici. Les gens stupides croient que le sudiste qui nous gouverne maintenant est un homme intelligent et juste. Quelle justice dans le fait que sa garde soit mieux payée que quiconque? Ne sommes-nous pas tous des soldats de notre patrie? Toutes ces entreprises qu'il a fondées ici, ce n'est que de la poudre aux yeux. Très bientôt, il massacrera tout le monde dans la nuit, quand il n'aura plus besoin de nous. Aujourd'hui, vous avez la possibilité de rétablir la justice. Il négocie avec les longues oreilles vers l'ouest. Il y a beaucoup moins de gardes à la chapelle qu'au château. Ne manquez pas cette chance!
+Nous nous remettrons des catastrophes qu'il nous a infligées en temps voulu. Nous avons juré de protéger la terre, et désormais nous protégerons aussi la justice ici! J'en fais le serment!
+
+(9, 111, 1) ***Seer's Hut***
+Message:
+Ces jours-ci, tout le monde est préoccupé par les orques au nord de l'île. "Détruisez-les, chassez-les!" c'est tout ce que vous entendez. Jusqu'à récemment, ils étaient nos seuls voisins avec mon ami. Ces "sauvages assoiffés de sang" étaient heureux d'aider dans mon jardin pour une somme modique, ils apportaient également de délicieux fruits du sud. Et maintenant, après l'arrivée du "peuple civilisé", je ne reçois que ce que les paysans peuvent récolter, et personne ne veut aider "celle qui aime les orques". Malheureusement, mon ami m'a également quitté, mais il a promis de me rendre visite. Que vous demanderais-je, voyageur? Votre compagnie suffit. Parlez-moi de vous, de votre maison, des merveilles que vous avez rencontrées au cours de vos voyages. Je vais peut-être aussi vous dire quelque chose d'utile.
+Ces jours-ci, tout le monde est préoccupé par les orques au nord de l'île. "Détruisez-les, chassez-les!" c'est tout ce que vous entendez. Jusqu'à récemment, ils étaient nos seuls voisins avec mon ami. Ces "sauvages assoiffés de sang" étaient heureux d'aider dans mon jardin pour une somme modique, ils apportaient également de délicieux fruits du sud. Et maintenant, après l'arrivée du "peuple civilisé", je ne reçois que ce que les paysans peuvent récolter, et personne ne veut aider "celle qui aime les orques". Malheureusement, mon ami m'a également quitté, mais il a promis de me rendre visite. Que vous demanderais-je, voyageur? Votre compagnie suffit. Parlez-moi de vous, de votre maison, des merveilles que vous avez rencontrées au cours de vos voyages. Je vais peut-être aussi vous dire quelque chose d'utile.
+Merci pour les souvenirs glorieux! Si jamais vous rencontrez mon ami vers l'ouest, dites-lui qu'il est toujours le bienvenu ici! Tout comme vous!
+
+(128, 81, 1) ***Quest Guard***
+Message:
+Les Silencieux gardant l'endroit sont concis comme toujours. Le panneau indique: "Niveau 15: réussite. Niveau <15: incapable de gérer le flux d'énergie, pas de réussite!" A en juger par le chaos qui règne, c'est une condition raisonnable.
+Les Silencieux gardant l'endroit sont concis comme toujours. Le panneau indique: "Niveau 15: réussite. Niveau <15: incapable de gérer le flux d'énergie, pas de réussite!" A en juger par le chaos qui règne, c'est une condition raisonnable.
+Les gardes vous ont examiné et ont admis que vous avez atteint le niveau 15. Voulez-vous passer par maintenant?
+
+(138, 101, 1) ***Quest Guard***
+Message:
+Les Silencieux gardant l'endroit sont concis comme toujours. Le panneau indique: "Niveau 15: réussite. Niveau <15: incapable de gérer le flux d'énergie, pas de réussite!" A en juger par le chaos qui règne, c'est une condition raisonnable.
+Les Silencieux gardant l'endroit sont concis comme toujours. Le panneau indique: "Niveau 15: réussite. Niveau <15: incapable de gérer le flux d'énergie, pas de réussite!" A en juger par le chaos qui règne, c'est une condition raisonnable.
+Les gardes vous ont examiné et ont admis que vous avez atteint le niveau 15. Voulez-vous passer par maintenant?
+
+(140, 29, 1) ***Random Town***
+Name:
+Acropia
+
+Timed events:
+
+Name:
+whoosh
+Message:
+
+
+(47, 147, 1) ***Random Town***
+
+Timed events:
+
+Name:
+whoosh
+Message:
+
+
+===== End of file =====

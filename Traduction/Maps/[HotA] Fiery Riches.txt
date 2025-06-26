@@ -1,0 +1,459 @@
+===== Map name =====
+Richesse Ardente
+
+===== Map description =====
+Récemment, un homme vous a parlé d'un pays connu pour ses richesses extraordinaires. Sans hésiter, vous décidez de vous y rendre, comptant y trouver l'or et la gloire. Cependant, vous et trois autres seigneurs avez été devancés par des chevaliers adorateurs des démons. Parviendrez-vous à vos fins ?
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Player - Start
+Message:
+Le rapport de vos éclaireurs indique que l'ordre des chevaliers qui contrôle ces terres, soutient secrètement des démons cachés dans les tunnels et souterrains les plus proches. Grâce à des fonds considérables, ils sont en mesure de payer des mercenaires dont la mission première est de patrouiller dans les environs de leurs terres. Lorsqu'ils auront vent de votre arrivée, ils déclencheront alors les hostilités. Vous devez vous préparer à leur arrivée dès que possible, afin de vous occuper de l'ordre des chevaliers et leurs richesses.		
+
+Name:
+Blue AI - Bonus sulfur
+Message:
+
+
+Name:
+Green Player - Start
+Message:
+
+
+Name:
+Orange Player - Start
+Message:
+
+
+Name:
+Purple Player - Start
+Message:
+
+
+Name:
+Teal Player - Start
+Message:
+
+
+Name:
+AI - Bonus gold
+Message:
+
+
+===== Heroes =====
+
+===== Objects =====
+
+(34, 62, 0) ***Castle***
+Name:
+Ascartha
+
+Timed events:
+
+Name:
+Blue AI - No sulfur
+Message:
+
+
+Name:
+Blue AI - Bonus
+Message:
+
+
+(95, 10, 0) ***Rampart***
+Name:
+Arc-Loire
+
+Timed events:
+
+Name:
+Teal AI - Start
+Message:
+
+
+Name:
+Teal AI - Bonus
+Message:
+
+
+(61, 5, 0) ***Rampart***
+Name:
+Selymerra
+
+(103, 80, 0) ***Necropolis***
+Name:
+Mephecht
+
+Timed events:
+
+Name:
+Purple AI - Upg. Vampires
+Message:
+
+
+(90, 104, 0) ***Necropolis***
+Name:
+Arachnamenta
+
+Timed events:
+
+Name:
+Purple AI - Start
+Message:
+
+
+Name:
+Purple AI - Bonus
+Message:
+
+
+Name:
+Purple AI - Upg. Vampires
+Message:
+
+
+(63, 48, 0) ***Castle***
+Name:
+Samarinya
+
+(34, 101, 0) ***Dungeon***
+Name:
+Azerith
+
+(26, 82, 0) ***Fortress***
+Name:
+Ashcreef
+
+Timed events:
+
+Name:
+Pink AI - Bonus
+Message:
+
+
+(61, 90, 0) ***Fortress***
+Name:
+Amberia
+
+Timed events:
+
+Name:
+Pink AI - Bonus
+Message:
+
+
+(95, 54, 0) ***Castle***
+Name:
+Carintha
+
+Timed events:
+
+Name:
+Build Shipyard
+Message:
+
+
+(2, 62, 0) ***Cove***
+Name:
+Berthlyre
+
+(28, 29, 0) ***Sign***
+Message:
+izhbdykh
+
+(73, 73, 0) ***Sign***
+Message:
+Plantation de mandragores. Ne pas toucher !
+
+(54, 3, 0) ***Pandora's Box***
+Message:
+
+
+(46, 94, 0) ***Pandora's Box***
+Message:
+
+
+(85, 74, 0) ***Pandora's Box***
+Message:
+
+
+(11, 81, 0) ***Sign***
+Message:
+Khalyr ven intar!
+
+(34, 63, 0) ***Event***
+Message:
+En apercevant vos troupes, un prêtre du coin a commencé à invoquer un sort dans une langue inconnue, après quoi d'énormes nuages de fumée et de cendres sont apparus derrière la ville. Quoi qu'il en soit, vous devez vous préparer au pire.
+
+(57, 32, 0) ***Pandora's Box***
+Message:
+
+
+(60, 34, 0) ***Sign***
+Message:
+Ne faites jamais confiance à des nains. Ils sont prêts à faire n'importe quoi pour voler n'importe qui. Parfois, ils menacent de libérer des dragons.
+
+(87, 59, 0) ***Pandora's Box***
+Message:
+
+
+(56, 39, 0) ***Pandora's Box***
+Message:
+
+
+(67, 75, 0) ***Castle***
+Name:
+Meliothar
+
+(99, 46, 0) ***Event***
+Message:
+
+
+(23, 4, 0) ***Stronghold***
+Name:
+Waregar
+
+Timed events:
+
+Name:
+Tan AI - Bonus
+Message:
+
+
+Name:
+Tan AI - No crystals
+Message:
+
+
+(43, 38, 0) ***Stronghold***
+Name:
+Thabyr
+
+Timed events:
+
+Name:
+Tan AI - Bonus
+Message:
+
+
+(25, 87, 0) ***Event***
+Message:
+
+
+(22, 89, 0) ***Event***
+Message:
+
+
+(72, 49, 0) ***Pandora's Box***
+Message:
+
+
+(58, 75, 0) ***Event***
+Message:
+
+
+(2, 40, 0) ***Event***
+Message:
+
+
+(90, 18, 0) ***Event***
+Message:
+
+
+(93, 106, 0) ***Event***
+Message:
+
+
+(78, 107, 0) ***Event***
+Message:
+
+
+(5, 32, 0) ***Event***
+Message:
+
+
+(75, 15, 0) ***Event***
+Message:
+
+
+(8, 42, 0) ***Cove***
+Name:
+Hallcrest
+
+Timed events:
+
+Name:
+Green AI - Start
+Message:
+
+
+Name:
+Green AI - Bonus
+Message:
+
+
+(40, 13, 0) ***Event***
+Message:
+
+
+(49, 37, 0) ***Event***
+Message:
+
+
+(98, 79, 0) ***Event***
+Message:
+
+
+(87, 106, 0) ***Event***
+Message:
+{Do not lose!}
+
+(95, 12, 0) ***Event***
+Message:
+{Do not lose!}
+
+(4, 45, 0) ***Event***
+Message:
+{Ne perdez pas !}
+
+(46, 44, 0) ***Event***
+Message:
+
+
+(22, 94, 1) ***Dungeon***
+Name:
+Requierra
+
+Timed events:
+
+Name:
+Orange AI - Start
+Message:
+
+
+Name:
+Orange AI - Bonus
+Message:
+
+
+(49, 48, 1) ***Conflux***
+Name:
+Rosarium
+
+(76, 69, 1) ***Inferno***
+Name:
+Ignira
+
+Timed events:
+
+Name:
+Red AI - Bonus
+Message:
+
+
+(2, 64, 1) ***Inferno***
+Name:
+Harefyre
+
+Timed events:
+
+Name:
+Red AI - Bonus
+Message:
+
+
+(20, 86, 1) ***Pandora's Box***
+Message:
+
+
+(107, 93, 1) ***Pandora's Box***
+Message:
+
+
+(49, 95, 1) ***Inferno***
+Name:
+Halfamare
+
+Timed events:
+
+Name:
+Blue AI - Bonus
+Message:
+
+
+(26, 66, 1) ***Event***
+Message:
+
+
+(19, 50, 1) ***Event***
+Message:
+
+
+(3, 66, 1) ***Event***
+Message:
+
+
+(9, 35, 1) ***Pandora's Box***
+Message:
+
+
+(1, 1, 1) ***Event***
+Message:
+
+
+(4, 1, 1) ***Event***
+Message:
+
+
+(25, 96, 1) ***Event***
+Message:
+
+
+(25, 99, 1) ***Event***
+Message:
+
+
+(15, 5, 1) ***Event***
+Message:
+
+
+(10, 5, 1) ***Event***
+Message:
+
+
+(22, 97, 1) ***Event***
+Message:
+{Do not lose!}
+
+(1, 9, 1) ***Event***
+Message:
+
+
+(4, 9, 1) ***Event***
+Message:
+
+
+(1, 7, 1) ***Event***
+Message:
+
+
+(4, 7, 1) ***Event***
+Message:
+
+
+(1, 3, 1) ***Event***
+Message:
+
+
+(4, 3, 1) ***Event***
+Message:
+
+
+(14, 0, 1) ***Pandora's Box***
+Message:
+
+
+===== End of file =====

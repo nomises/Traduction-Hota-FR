@@ -1,0 +1,965 @@
+===== Map name =====
+Le Diable est dans les Détails
+
+===== Map description =====
+Au cours des derniers siècles, cette terre a été divisée entre six nations coexistant en paix. Alors que les rumeurs sur les monstres des profondeurs ont commencé à se répandre, il est devenu évident que le monde ne resterait pas sans réagir.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+help start
+Message:
+Un petit coup de pouce.
+
+Name:
+Jour 1 - Message de bienvenue
+Message:
+Cette terre a bien servi votre royaume et fournira suffisamment de ressources pour étendre vos frontières. Le vieux prophète disait : "Les régions septentrionales sont riches, mais aussi dangereuses
+
+Name:
+Jour 1 - Message de bienvenue
+Message:
+Cette terre a bien servi votre royaume et fournira suffisamment de ressources pour étendre vos frontières. Le vieux prophète disait : "Les régions septentrionales sont riches, mais aussi dangereuses".
+
+Name:
+Jour 3
+Message:
+Le vieux prophète vous a parlé de l'île mythique qui est considérée comme le centre de tout. Il y a des siècles, c'était une arène où les dieux se battaient. Elle est censé être remplie de trésors.
+
+Name:
+Aide
+Message:
+Aide...!
+
+Name:
+Jour 21
+Message:
+Le vieux prophète vous a raconté l'histoire d'un ancien passage qui s'est effondré il y a des siècles. Les rumeurs disent que les forces du mal ont construit un portail pour sortir des profondeurs.
+
+Name:
+Sangliers 1
+Message:
+La chasse au sanglier est lancée ? Un de vos éclaireurs rapporte que des sangliers ont été aperçus près d'une rivière pas très loin de votre château.
+
+Name:
+Sangliers 2
+Message:
+La chasse au sanglier est lancée ? Un de vos éclaireurs rapporte que des sangliers ont été vus tout près de la fontaine de jouvence.
+
+Name:
+Sangliers 3
+Message:
+La chasse au sanglier est lancée ? Un de vos éclaireurs rapporte que des sangliers ont été vus près des ruines au nord de votre château.
+
+Name:
+Sangliers 4
+Message:
+La chasse au sanglier est lancée ? Un de vos éclaireurs signale que des sangliers ont été aperçus à l'ouest du moulin à vent.
+
+Name:
+Sangliers 5
+Message:
+La chasse au sanglier est lancée ? Un de vos éclaireurs rapporte que des sangliers ont été aperçus près du puits local.
+
+Name:
+Sangliers 6
+Message:
+La chasse au sanglier est lancée ? Un de vos éclaireurs signale que des sangliers ont été aperçus près des écuries.
+
+Name:
+Jour 30
+Message:
+Un ancien sanctuaire se trouve sur l'île centrale. On dit que les runes qui s'y trouvent peuvent vous apprendre à vous téléporter d'un endroit à l'autre.
+
+Name:
+Jour 35
+Message:
+Vous avez entendu parler d'une rumeur selon laquelle des mages vivant sur l'île centrale auraient trouvé un moyen de ranimer un mort. Ce n'est pas possible, n'est-ce pas ?
+
+Name:
+Jour 60 - Plus d'or
+Message:
+
+
+Name:
+Jour 61
+Message:
+Le vieux prophète vous a parlé de la légendaire Corne des Abysses. Cet artefact extrêmement puissant pourrait être la clé permettant de vaincre les monstres maléfiques qui pullulent dans le monde. Pour invoquer l'artefact, il faut rassembler une immense armée de krackens, et les amener au sorcier fou pour qu'il procède au rituel d'invocation.
+
+Name:
+extra mins
+Message:
+
+
+Name:
+Jour 120
+Message:
+Les légions de l'enfer sont innombrables. Vos éclaireurs rapportent qu'ils n'ont jamais vu autant de démons sortir des enfers.
+
+===== Heroes =====
+
+===== Objects =====
+
+(42, 38, 0) ***Castle***
+
+Timed events:
+
+Name:
+units & build
+Message:
+
+
+Name:
+units
+Message:
+
+
+(120, 34, 0) ***Tower***
+
+Timed events:
+
+Name:
+units & build
+Message:
+
+
+Name:
+units
+Message:
+
+
+(211, 226, 0) ***Fortress***
+
+Timed events:
+
+Name:
+units & build
+Message:
+
+
+Name:
+units
+Message:
+
+
+(124, 224, 0) ***Stronghold***
+
+Timed events:
+
+Name:
+units & build
+Message:
+
+
+Name:
+units
+Message:
+
+
+(43, 224, 0) ***Cove***
+
+Timed events:
+
+Name:
+units & build
+Message:
+
+
+Name:
+units
+Message:
+
+
+(54, 178, 0) ***Cove***
+
+Timed events:
+
+Name:
+units
+Message:
+
+
+(126, 180, 0) ***Stronghold***
+
+Timed events:
+
+Name:
+units
+Message:
+
+
+(238, 199, 0) ***Seer's Hut***
+Message:
+Bienvenue à la banque d'affaires Gold Brothers. Nous proposons des rendements élevés à ceux qui sont prêts à investir.
+Oh là là, ce n'est pas assez. J'ai besoin d'au moins 10000 pièces d'or. Je ne gagnerai rien, si vous en apportez moins.
+Enfin ! Tiens, donnez-moi les 10000 pièces d'or et vous verrez comment on gagne vraiment de l'argent.
+
+(204, 179, 0) ***Fortress***
+
+Timed events:
+
+Name:
+units
+Message:
+
+
+(208, 74, 0) ***Rampart***
+
+Timed events:
+
+Name:
+units
+Message:
+
+
+(129, 73, 0) ***Tower***
+
+Timed events:
+
+Name:
+units
+Message:
+
+
+(54, 75, 0) ***Castle***
+
+Timed events:
+
+Name:
+units
+Message:
+
+
+(36, 88, 0) ***Seer's Hut***
+Message:
+Je cherche un moyen de créer la parfaite machine de guerre, mais je manque de ressources pour faire tourner mon atelier. Si vous pouviez m'apporter 20 unités de bois, 20 de mercure, 20 de pierres, 20 de soufre, 20 de cristaux, 20 de gemmes et 20000 pièces d'or, je vous en serais très reconnaissant.
+
+(231, 98, 0) ***Seer's Hut***
+Message:
+Bienvenue dans la taverne la plus célèbre de cette mer. De nombreux voyageurs et marchands nous rendent visite tous les jours. Le dernier n'a pas été très poli, et nous lui avons demandé de nous laisser quelque chose en réparation du désordre qu'il a causé. Si vous me donnez un peu d'or, je le partagerai volontiers avec vous.
+
+(240, 50, 0) ***Seer's Hut***
+Message:
+Bienvenue à la banque d'affaires Gold Brothers. Nous proposons des rendements élevés à ceux qui sont prêts à investir.
+Oh là là, ce n'est pas assez. J'ai besoin d'au moins 10000 pièces d'or. Je ne gagnerai rien, si vous en apportez moins.
+Enfin ! Qu'à cela ne tienne, donnez-moi les 10000 pièces d'or, et vous verrez comment on gagne vraiment de l'argent.
+
+(9, 49, 0) ***Seer's Hut***
+Message:
+Bienvenue à la banque d'affaires Gold Brothers. Nous proposons des rendements élevés à ceux qui sont prêts à investir.
+Oh là là, ce n'est pas assez. J'ai besoin d'au moins 10000 pièces d'or. Je ne gagnerai rien, si vous en apportez moins.
+Enfin ! Qu'à cela ne tienne, donnez-moi les 10000 pièces d'or, et vous verrez comment on gagne vraiment de l'argent.
+
+(9, 194, 0) ***Seer's Hut***
+Message:
+Bienvenue à la banque d'affaires Gold Brothers. Nous proposons des rendements élevés à ceux qui sont prêts à investir.
+Oh là là, ce n'est pas assez. J'ai besoin d'au moins 10000 pièces d'or. Je ne gagnerai rien, si vous en apportez moins.
+Enfin ! Qu'à cela ne tienne, donnez-moi les 10000 pièces d'or, et vous verrez comment on gagne vraiment de l'argent.
+
+(158, 202, 0) ***Seer's Hut***
+Message:
+Bienvenue à la banque d'affaires Gold Brothers. Nous proposons des rendements élevés à ceux qui sont prêts à investir.
+Oh là là, ce n'est pas assez. J'ai besoin d'au moins 10000 pièces d'or. Je ne gagnerai rien, si vous en apportez moins.
+Enfin ! Qu'à cela ne tienne, donnez-moi les 10000 pièces d'or, et vous verrez comment on gagne vraiment de l'argent.
+
+(158, 153, 0) ***Seer's Hut***
+Message:
+Bienvenue dans la taverne la plus célèbre de cette mer. De nombreux voyageurs et marchands nous rendent visite tous les jours. Le dernier n'a pas été très poli, et nous lui avons demandé de nous laisser quelque chose en réparation du désordre qu'il a causé. Si vous me donnez un peu d'or, je le partagerai volontiers avec vous.
+
+(87, 173, 0) ***Seer's Hut***
+Message:
+Bienvenue dans la taverne la plus célèbre de cette mer. De nombreux voyageurs et marchands nous rendent visite tous les jours. Le dernier n'a pas été très poli, et nous lui avons demandé de nous laisser quelque chose en réparation du désordre qu'il a causé. Si vous me donnez un peu d'or, je le partagerai volontiers avec vous.
+
+(30, 91, 0) ***Seer's Hut***
+Message:
+Bienvenue dans la taverne la plus célèbre de cette mer. De nombreux voyageurs et marchands nous rendent visite tous les jours. Le dernier n'a pas été très poli, et nous lui avons demandé de nous laisser quelque chose en réparation du désordre qu'il a causé. Si vous me donnez un peu d'or, je le partagerai volontiers avec vous.
+
+(117, 93, 0) ***Seer's Hut***
+Message:
+Bienvenue dans la taverne la plus célèbre de cette mer. De nombreux voyageurs et marchands nous rendent visite tous les jours. Le dernier n'a pas été très poli, et nous lui avons demandé de nous laisser quelque chose en réparation du désordre qu'il a causé. Si vous me donnez un peu d'or, je le partagerai volontiers avec vous.
+
+(251, 195, 0) ***Prison***
+Name:
+Adrienne
+
+(236, 60, 0) ***Troll***
+Message:
+Ces dragons sont à moi !
+
+(93, 163, 0) ***Conflux***
+
+Timed events:
+
+Name:
+units comp
+Message:
+
+
+(227, 75, 0) ***Seer's Hut***
+Message:
+Je cherche un moyen de créer la parfaite machine de guerre, mais je manque de ressources pour faire tourner mon atelier. Si vous pouviez m'apporter 20 unités de bois, 20 de mercure, 20 de pierres, 20 de soufre, 20 de cristaux, 20 de gemmes et 20000 pièces d'or, je vous en serais très reconnaissant.
+
+(176, 62, 0) ***Seer's Hut***
+Message:
+Je cherche un moyen de créer la parfaite machine de guerre, mais je manque de ressources pour faire tourner mon atelier. Si vous pouviez m'apporter 20 unités de bois, 20 de mercure, 20 de pierres, 20 de soufre, 20 de cristaux, 20 de gemmes et 20000 pièces d'or, je vous en serais très reconnaissant.
+
+(232, 171, 0) ***Seer's Hut***
+Message:
+Je cherche un moyen de créer la parfaite machine de guerre, mais je manque de ressources pour faire tourner mon atelier. Si vous pouviez m'apporter 20 unités de bois, 20 de mercure, 20 de pierres, 20 de soufre, 20 de cristaux, 20 de gemmes et 20000 pièces d'or, je vous en serais très reconnaissant.
+
+(159, 162, 0) ***Seer's Hut***
+Message:
+Je cherche un moyen de créer la parfaite machine de guerre, mais je manque de ressources pour faire tourner mon atelier. Si vous pouviez m'apporter 20 unités de bois, 20 de mercure, 20 de pierres, 20 de soufre, 20 de cristaux, 20 de gemmes et 20000 pièces d'or, je vous en serais très reconnaissant.
+
+(30, 161, 0) ***Seer's Hut***
+Message:
+Je cherche un moyen de créer la parfaite machine de guerre, mais je manque de ressources pour faire tourner mon atelier. Si vous pouviez m'apporter 20 unités de bois, 20 de mercure, 20 de pierres, 20 de soufre, 20 de cristaux, 20 de gemmes et 20000 pièces d'or, je vous en serais très reconnaissant.
+
+(66, 104, 0) ***Castle***
+
+Timed events:
+
+Name:
+units
+Message:
+
+
+(156, 90, 0) ***Tower***
+
+Timed events:
+
+Name:
+units
+Message:
+
+
+(217, 97, 0) ***Rampart***
+
+Timed events:
+
+Name:
+units
+Message:
+
+
+(202, 147, 0) ***Fortress***
+
+Timed events:
+
+Name:
+units
+Message:
+
+
+(122, 154, 0) ***Stronghold***
+
+Timed events:
+
+Name:
+units
+Message:
+
+
+(52, 153, 0) ***Cove***
+
+Timed events:
+
+Name:
+units
+Message:
+
+
+(239, 44, 0) ***Seer's Hut***
+Message:
+Les Liches menacent la région ouest de ce pays. Si vous avez les moyens de les vaincre, je vous enseignerai le sort "Lenteur".
+Ne vous découragez pas. Vaincre les Liches est une tâche difficile, mais vous y parviendrez.
+Enfin, vous avez terrassé les Liches et le pays est à nouveau sûr. Êtes-vous prêt à recevoir votre récompense ?
+
+(111, 5, 0) ***Conflux***
+
+Timed events:
+
+Name:
+Units
+Message:
+
+
+(241, 7, 0) ***Conflux***
+
+Timed events:
+
+Name:
+Units
+Message:
+
+
+(247, 245, 0) ***Conflux***
+
+Timed events:
+
+Name:
+Units
+Message:
+
+
+(98, 247, 0) ***Conflux***
+
+Timed events:
+
+Name:
+Units
+Message:
+
+
+(10, 244, 0) ***Conflux***
+
+Timed events:
+
+Name:
+Units
+Message:
+
+
+(2, 14, 0) ***Conflux***
+
+Timed events:
+
+Name:
+Units
+Message:
+
+
+(131, 128, 0) ***Seer's Hut***
+Message:
+Le chaos n'est pas loin... Vous entendez ce bruit ? C'est le hurlement des morts... Vous feriez mieux de revenir très vite.
+Le chaos n'est pas loin... Vous entendez ce bruit ? C'est le hurlement des morts... Vous feriez mieux de revenir très vite.
+Enfin, vous obtenez votre précieuse récompense.
+
+(180, 162, 0) ***Conflux***
+
+Timed events:
+
+Name:
+units comp
+Message:
+
+
+(207, 123, 0) ***Conflux***
+
+Timed events:
+
+Name:
+units comp
+Message:
+
+
+(183, 87, 0) ***Conflux***
+
+Timed events:
+
+Name:
+units comp
+Message:
+
+
+(90, 84, 0) ***Conflux***
+
+Timed events:
+
+Name:
+units comp
+Message:
+
+
+(53, 126, 0) ***Conflux***
+
+Timed events:
+
+Name:
+units comp
+Message:
+
+
+(10, 125, 0) ***Seer's Hut***
+Message:
+Une partie de ma famille a été massacrée il y a de nombreuses années par un nécromancien maléfique. Ramène-moi ma famille et je t'apprendrai le sort "Frénésie".
+Pas de chance dans la recherche de mes ancêtres ?
+Enfin, ma famille est en partie à nouveau réunie. Frères, ressuscitons ensemble !
+
+(60, 38, 0) ***Seer's Hut***
+Message:
+Je suis le représentant d'un empereur habitant un pays lointain. Récemment, ses armées ont connu des temps difficiles. Si vous pouviez me ramener 100 braves paysans, je vous rétribuerai comme il se doit.
+Vous n'avez pas réussi à trouver les 100 paysans ? Dépêchez-vous, l'empire ne va pas bien du tout.
+Voilà enfin les 100 paysans dont a besoin l'empereur. Tenez voilà votre or. Sont-ils prêts à partir ?
+Je suis le représentant d'un empereur habitant un pays lointain. Récemment, ses armées ont connu des temps difficiles.Si vous pouviez me ramener 6 Trolls, je vous rétribuerai comme il se doit.
+Vous n'avez pas réussi à trouver les 6 Trolls? Dépêchez-vous, l'empire ne va pas bien du tout.
+Voilà enfin les 6 Trolls dont a besoin l'empereur. Tenez voilà votre récompense. Sont-ils prêts à partir ?
+Je suis le représentant d'un empereur habitant un pays lointain. Récemment, ses armées ont connu des temps difficiles. Si vous pouviez me ramener 8 Satyres, Je vous apprendrai quelque chose d'important.
+Vous n'avez pas réussi à trouver les 8 Satyres ? Dépêchez-vous, l'empire ne va pas bien du tout.
+Voilà enfin les 8 Satyres dont a besoin l'empereur. Asseyez-vous, je vais vous donner une leçon.
+Je suis le représentant d'un empereur habitant un pays lointain. Récemment, ses armées ont connu des temps difficiles. Si vous pouviez me ramener 4 Wyvernes, je vous rétribuerai comme il se doit.
+Vous n'avez pas réussi à trouver les 4 Wyvernes? Dépêchez-vous, l'empire ne va pas bien du tout.
+Voilà enfin les 4 Wyvernes dont a besoin l'empereur. Tenez voilà votre or. Sont-ils prêts à partir ?
+La guerre n'est pas terminée. Revenez plus tard pour un nouveau point de la situation.
+La guerre n'est pas terminée. Revenez plus tard pour un nouveau point de la situation.
+Hourra ! L'empereur a gagné la guerre ! Pour vous remercier de votre aide, il vous envoie deux de ses plus puissantes créatures.
+
+(194, 31, 0) ***Seer's Hut***
+Message:
+Je suis le représentant d'un empereur habitant un pays lointain. Récemment, ses armées ont connu des temps difficiles. Si vous pouviez me ramener 100 braves paysans, je vous rétribuerai comme il se doit.
+Vous n'avez pas réussi à trouver les 100 paysans ? Dépêchez-vous, l'empire ne va pas bien du tout.
+Voilà enfin les 100 paysans dont a besoin l'empereur. Tenez voilà votre or. Sont-ils prêts à partir ?
+Je suis le représentant d'un empereur habitant un pays lointain. Récemment, ses armées ont connu des temps difficiles.Si vous pouviez me ramener 6 Trolls, je vous rétribuerai comme il se doit.
+Vous n'avez pas réussi à trouver les 6 Trolls? Dépêchez-vous, l'empire ne va pas bien du tout.
+Voilà enfin les 6 Trolls dont a besoin l'empereur  Tenez voilà votre récompense. Sont-ils prêts à partir ?
+Je suis le représentant d'un empereur habitant un pays lointain. Récemment, ses armées ont connu des temps difficiles. Si vous pouviez me ramener 8 Satyres, Je vous apprendrai quelque chose d'important.
+Vous n'avez pas réussi à trouver les 8 Satyres ? Dépêchez-vous, l'empire ne va pas bien du tout.
+Voilà enfin les 8 Satyres dont a besoin l'empereur. Asseyez-vous, je vais vous donner une leçon.
+Je suis le représentant d'un empereur habitant un pays lointain. Récemment, ses armées ont connu des temps difficiles. Si vous pouviez me ramener 4 Wyvernes, je vous rétribuerai comme il se doit.
+Vous n'avez pas réussi à trouver les 4 Wyvernes? Dépêchez-vous, l'empire ne va pas bien du tout.
+Voilà enfin les 4 Wyvernes dont a besoin l'empereur. Tenez voilà votre or. Sont-ils prêts à partir ?
+La guerre n'est pas terminée. Revenez plus tard pour un nouveau point de la situation.
+La guerre n'est pas terminée. Revenez plus tard pour un nouveau point de la situation.
+Hourra ! L'empereur a gagné la guerre ! Pour vous remercier de votre aide, il vous envoie deux de ses plus puissantes créatures.
+
+(58, 214, 0) ***Seer's Hut***
+Message:
+Je suis le représentant d'un empereur habitant un pays lointain. Récemment, ses armées ont connu des temps difficiles. Si vous pouviez me ramener 100 braves paysans, je vous rétribuerai comme il se doit.
+Vous n'avez pas réussi à trouver les 100 paysans ? Dépêchez-vous, l'empire ne va pas bien du tout.
+Voilà enfin les 100 paysans dont a besoin l'empereur. Tenez voilà votre or. Sont-ils prêts à partir ?
+Je suis le représentant d'un empereur habitant un pays lointain. Récemment, ses armées ont connu des temps difficiles.Si vous pouviez me ramener 6 Trolls, je vous rétribuerai comme il se doit.
+Vous n'avez pas réussi à trouver les 6 Trolls? Dépêchez-vous, l'empire ne va pas bien du tout.
+Voilà enfin les 6 Trolls dont a besoin l'empereur  Tenez voilà votre récompense. Sont-ils prêts à partir ?
+Je suis le représentant d'un empereur habitant un pays lointain. Récemment, ses armées ont connu des temps difficiles. Si vous pouviez me ramener 8 Satyres, Je vous apprendrai quelque chose d'important.
+Vous n'avez pas réussi à trouver les 8 Satyres ? Dépêchez-vous, l'empire ne va pas bien du tout.
+Voilà enfin les 8 Satyres dont a besoin l'empereur. Asseyez-vous, je vais vous donner une leçon.
+Je suis le représentant d'un empereur habitant un pays lointain. Récemment, ses armées ont connu des temps difficiles. Si vous pouviez me ramener 4 Wyvernes, je vous rétribuerai comme il se doit.
+Vous n'avez pas réussi à trouver les 4 Wyvernes? Dépêchez-vous, l'empire ne va pas bien du tout.
+Voilà enfin les 4 Wyvernes dont a besoin l'empereur. Tenez voilà votre or. Sont-ils prêts à partir ?
+La guerre n'est pas terminée. Revenez plus tard pour un nouveau point de la situation.
+La guerre n'est pas terminée. Revenez plus tard pour un nouveau point de la situation.
+Hourra ! L'empereur a gagné la guerre ! Pour vous remercier de votre aide, il vous envoie deux de ses plus puissantes créatures.
+
+(142, 216, 0) ***Seer's Hut***
+Message:
+Je suis le représentant d'un empereur habitant un pays lointain. Récemment, ses armées ont connu des temps difficiles. Si vous pouviez me ramener 100 braves paysans, je vous rétribuerai comme il se doit.
+Vous n'avez pas réussi à trouver les 100 paysans ? Dépêchez-vous, l'empire ne va pas bien du tout.
+Voilà enfin les 100 paysans dont a besoin l'empereur. Tenez voilà votre or. Sont-ils prêts à partir ?
+Je suis le représentant d'un empereur habitant un pays lointain. Récemment, ses armées ont connu des temps difficiles.Si vous pouviez me ramener 6 Trolls, je vous rétribuerai comme il se doit.
+Vous n'avez pas réussi à trouver les 6 Trolls? Dépêchez-vous, l'empire ne va pas bien du tout.
+Voilà enfin les 6 Trolls dont a besoin l'empereur  Tenez voilà votre récompense. Sont-ils prêts à partir ?
+Je suis le représentant d'un empereur habitant un pays lointain. Récemment, ses armées ont connu des temps difficiles. Si vous pouviez me ramener 8 Satyres, Je vous apprendrai quelque chose d'important.
+Vous n'avez pas réussi à trouver les 8 Satyres ? Dépêchez-vous, l'empire ne va pas bien du tout.
+Voilà enfin les 8 Satyres dont a besoin l'empereur. Asseyez-vous, je vais vous donner une leçon.
+Je suis le représentant d'un empereur habitant un pays lointain. Récemment, ses armées ont connu des temps difficiles. Si vous pouviez me ramener 4 Wyvernes, je vous rétribuerai comme il se doit.
+Vous n'avez pas réussi à trouver les 4 Wyvernes? Dépêchez-vous, l'empire ne va pas bien du tout.
+Voilà enfin les 4 Wyvernes dont a besoin l'empereur. Tenez voilà votre or. Sont-ils prêts à partir ?
+La guerre n'est pas terminée. Revenez plus tard pour un nouveau point de la situation.
+La guerre n'est pas terminée. Revenez plus tard pour un nouveau point de la situation.
+Hourra ! L'empereur a gagné la guerre ! Pour vous remercier de votre aide, il vous envoie deux de ses plus puissantes créatures.
+
+(190, 217, 0) ***Seer's Hut***
+Message:
+Je suis le représentant d'un empereur habitant un pays lointain. Récemment, ses armées ont connu des temps difficiles. Si vous pouviez me ramener 100 braves paysans, je vous rétribuerai comme il se doit.
+Vous n'avez pas réussi à trouver les 100 paysans ? Dépêchez-vous, l'empire ne va pas bien du tout.
+Voilà enfin les 100 paysans dont a besoin l'empereur. Tenez voilà votre or. Sont-ils prêts à partir ?
+Je suis le représentant d'un empereur habitant un pays lointain. Récemment, ses armées ont connu des temps difficiles.Si vous pouviez me ramener 6 Trolls, je vous rétribuerai comme il se doit.
+Vous n'avez pas réussi à trouver les 6 Trolls? Dépêchez-vous, l'empire ne va pas bien du tout.
+Voilà enfin les 6 Trolls dont a besoin l'empereur  Tenez voilà votre récompense. Sont-ils prêts à partir ?
+Je suis le représentant d'un empereur habitant un pays lointain. Récemment, ses armées ont connu des temps difficiles. Si vous pouviez me ramener 8 Satyres, Je vous apprendrai quelque chose d'important.
+Vous n'avez pas réussi à trouver les 8 Satyres ? Dépêchez-vous, l'empire ne va pas bien du tout.
+Voilà enfin les 8 Satyres dont a besoin l'empereur. Asseyez-vous, je vais vous donner une leçon.
+Je suis le représentant d'un empereur habitant un pays lointain. Récemment, ses armées ont connu des temps difficiles. Si vous pouviez me ramener 4 Wyvernes, je vous rétribuerai comme il se doit.
+Vous n'avez pas réussi à trouver les 4 Wyvernes? Dépêchez-vous, l'empire ne va pas bien du tout.
+Voilà enfin les 4 Wyvernes dont a besoin l'empereur. Tenez voilà votre or. Sont-ils prêts à partir ?
+La guerre n'est pas terminée. Revenez plus tard pour un nouveau point de la situation.
+La guerre n'est pas terminée. Revenez plus tard pour un nouveau point de la situation.
+Hourra ! L'empereur a gagné la guerre ! Pour vous remercier de votre aide, il vous envoie deux de ses plus puissantes créatures.
+
+(28, 193, 0) ***Seer's Hut***
+Message:
+Les Liches menacent la région occidentale de ce pays. Si vous avez les moyens de les vaincre, je vous enseignerai le sort "Lenteur".
+Ne vous découragez pas. Vaincre les Liches est une tâche difficile, mais vous y parviendrez.
+Enfin, vous avez terrassé les Liches et le pays est à nouveau sûr. Êtes-vous prêt à recevoir votre récompense ?
+
+(168, 203, 0) ***Seer's Hut***
+Message:
+Les Liches menacent la région sud de ce pays. Si vous avez les moyens de les vaincre, je vous enseignerai le sort "Lenteur".
+Ne vous découragez pas. Vaincre les Liches est une tâche difficile, mais vous y parviendrez.
+Enfin, vous avez terrassé les Liches et le pays est à nouveau sûr. Êtes-vous prêt à recevoir votre récompense ?
+
+(245, 194, 0) ***Seer's Hut***
+Message:
+Les Liches menacent la région sud de ce pays. Si vous avez les moyens de les vaincre, je vous enseignerai le sort "Lenteur".
+Ne vous découragez pas. Vaincre les Liches est une tâche difficile, mais vous y parviendrez.
+Enfin, vous avez terrassé les Liches et le pays est à nouveau sûr. Êtes-vous prêt à recevoir votre récompense ?
+
+(150, 55, 0) ***Seer's Hut***
+Message:
+Les Liches menacent la région nord-ouest de ce pays. Si vous avez les moyens de les vaincre, je vous enseignerai le sort "Lenteur".
+Ne vous découragez pas. Vaincre les Liches est une tâche difficile, mais vous y parviendrez.
+Enfin, vous avez terrassé les Liches et le pays est à nouveau sûr. Êtes-vous prêt à recevoir votre récompense ?
+
+(81, 43, 0) ***Seer's Hut***
+Message:
+Les Liches menacent la région nord de ce pays. Si vous avez les moyens de les vaincre, je vous enseignerai le sort "Lenteur".
+Ne vous découragez pas. Vaincre les Liches est une tâche difficile, mais vous y parviendrez.
+Enfin, vous avez terrassé les Liches et le pays est à nouveau sûr. Êtes-vous prêt à recevoir votre récompense ?
+
+(226, 152, 0) ***Seer's Hut***
+Message:
+Bienvenue dans la taverne la plus célèbre de cette mer. De nombreux voyageurs et marchands nous rendent visite tous les jours. Le dernier n'a pas été très poli, et nous lui avons demandé de nous laisser quelque chose en réparation du désordre qu'il a causé. Si vous me donnez un peu d'or, je le partagerai volontiers avec vous.
+
+(210, 31, 0) ***Rampart***
+
+Timed events:
+
+Name:
+units & build
+Message:
+
+
+Name:
+units
+Message:
+
+
+(240, 121, 0) ***Seer's Hut***
+Message:
+Une partie de ma famille a été massacrée il y a de nombreuses années par un nécromancien maléfique. Ramène-moi ma famille et je t'apprendrai le sort "Clone".
+Pas de chance dans la recherche de mes ancêtres ?
+Enfin, ma famille est en partie à nouveau réunie. Frères, ressuscitons ensemble !
+
+(159, 25, 0) ***Seer's Hut***
+Message:
+Bienvenue à la banque d'affaires Gold Brothers. Nous proposons des rendements élevés à ceux qui sont prêts à investir.
+Oh là là, ce n'est pas assez. J'ai besoin d'au moins 10000 pièces d'or. Je ne gagnerai rien, si vous en apportez moins.
+Enfin ! Qu'à cela ne tienne, donnez-moi les 10000 pièces d'or, et vous verrez comment on gagne vraiment de l'argent.
+
+(106, 21, 0) ***Seer's Hut***
+Message:
+Je suis le représentant d'un empereur habitant un pays lointain. Récemment, ses armées ont connu des temps difficiles. Si vous pouviez me ramener 100 braves paysans, je vous rétribuerai comme il se doit.
+Vous n'avez pas réussi à trouver les 100 paysans ? Dépêchez-vous, l'empire ne va pas bien du tout.
+Voilà enfin les 100 paysans dont a besoin l'empereur. Tenez voilà votre or. Sont-ils prêts à partir ?
+Je suis le représentant d'un empereur habitant un pays lointain. Récemment, ses armées ont connu des temps difficiles.Si vous pouviez me ramener 6 Trolls, je vous rétribuerai comme il se doit.
+Vous n'avez pas réussi à trouver les 6 Trolls? Dépêchez-vous, l'empire ne va pas bien du tout.
+Voilà enfin les 6 Trolls dont a besoin l'empereur  Tenez voilà votre récompense. Sont-ils prêts à partir ?
+Je suis le représentant d'un empereur habitant un pays lointain. Récemment, ses armées ont connu des temps difficiles. Si vous pouviez me ramener 8 Satyres, Je vous apprendrai quelque chose d'important.
+Vous n'avez pas réussi à trouver les 8 Satyres ? Dépêchez-vous, l'empire ne va pas bien du tout.
+Voilà enfin les 8 Satyres dont a besoin l'empereur. Asseyez-vous, je vais vous donner une leçon.
+Je suis le représentant d'un empereur habitant un pays lointain. Récemment, ses armées ont connu des temps difficiles. Si vous pouviez me ramener 4 Wyvernes, je vous rétribuerai comme il se doit.
+Vous n'avez pas réussi à trouver les 4 Wyvernes? Dépêchez-vous, l'empire ne va pas bien du tout.
+Voilà enfin les 4 Wyvernes dont a besoin l'empereur. Tenez voilà votre or. Sont-ils prêts à partir ?
+La guerre n'est pas terminée. Revenez plus tard pour un nouveau point de la situation.
+La guerre n'est pas terminée. Revenez plus tard pour un nouveau point de la situation.
+Hourra ! L'empereur a gagné la guerre ! Pour vous remercier de votre aide, il vous envoie deux de ses plus puissantes créatures.
+
+(125, 124, 1) ***Event***
+Message:
+ENFER !!!
+
+(59, 15, 1) ***Seer's Hut***
+Message:
+Ce que j'ai est réservé à Sir Mullich. Je ne le donnerai à personne d'autre. Il a été emprisonné et je me suis promis de garder sa part.
+Vous n'êtes pas Sir Mullich.
+Enfin ! C'est vous, Sir Mullich. Voici ce que j'ai pour vous. Acceptez-vous ?
+
+(136, 12, 1) ***Seer's Hut***
+Message:
+Ce que j'ai est réservé à Dracon. Je ne le donnerai à personne d'autre. Il a été emprisonné et je me suis promis de garder sa part.
+Vous n'êtes pas Dracon.
+Enfin ! C'est vous, Dracon. Voici ce que j'ai pour vous. Acceptez-vous ?
+
+(216, 12, 1) ***Seer's Hut***
+Message:
+Ce que j'ai est réservé à Kyrre. Je ne le donnerai à personne d'autre. Elle a été emprisonnée et je me suis promis de garder sa part.
+Vous n'êtes pas Kyrre.
+Enfin ! C'est vous, Kyrre. Voici ce que j'ai pour vous. Acceptez-vous ?
+
+(39, 226, 1) ***Seer's Hut***
+Message:
+Ce que j'ai est réservé à Bidley. Je ne le donnerai à personne d'autre. Il a été emprisonné et je me suis promis de garder sa part.
+Vous n'êtes pas Bidley.
+Enfin ! C'est vous, Bidley. Voici ce que j'ai pour vous. Acceptez-vous ?
+
+(157, 232, 1) ***Seer's Hut***
+Message:
+Ce que j'ai est réservé à Kilgor. Je ne le donnerai à personne d'autre. Il a été emprisonné et je me suis promis de garder sa part.
+Vous n'êtes pas Kilgor.
+Enfin ! C'est vous, Kilgor. Voici ce que j'ai pour vous. Acceptez-vous ?
+
+(227, 226, 1) ***Seer's Hut***
+Message:
+Ce que j'ai est réservé à Adrienne. Je ne le donnerai à personne d'autre. Elle a été emprisonnée et je me suis promis de garder sa part.
+Vous n'êtes pas Adrienne.
+Enfin ! C'est vous, Adrienne. Voici ce que j'ai pour vous. Acceptez-vous ?
+
+(88, 42, 1) ***Seer's Hut***
+Message:
+Les temps sont durs sous terre... Si je pouvais avoir de la main d'œuvre, je pourrais facilement développer mon activité. Pouvez-vous m'aider à recruter des hommes qui n'ont pas peur de travailler ? Je vous donnerai volontiers quelques-uns de ces monstres paresseux qui vivent dans les environs.
+Je vois que vous rencontrez des difficultés pour trouver les 500 paysans et les 8 sangliers. Dépêchez-vous, cette aide est vitale pour la pérennité de mon entreprise.
+Vous voilà enfin avec les 500 paysans et les 8 sangliers qui vont sauver mon affaire. Voici quelques-uns de ces monstres inutiles.
+
+(108, 120, 1) ***Necromancer***
+Name:
+Death
+
+(126, 109, 1) ***Necromancer***
+Name:
+Doom
+
+(140, 135, 1) ***Necromancer***
+Name:
+Extinction
+
+(109, 139, 1) ***Necropolis***
+
+Timed events:
+
+Name:
+units
+Message:
+
+
+Name:
+extra units - late
+Message:
+
+
+Name:
+money
+Message:
+
+
+(157, 57, 1) ***Seer's Hut***
+Message:
+Les temps sont durs sous terre... Si je pouvais avoir de la main d'œuvre, je pourrais facilement développer mon activité. Pouvez-vous m'aider à recruter des hommes qui n'ont pas peur de travailler ? Je vous donnerai volontiers quelques-uns de ces monstres paresseux qui vivent dans les environs.
+Je vois que vous rencontrez des difficultés pour trouver les 500 paysans et les 8 sangliers. Dépêchez-vous, cette aide est vitale pour la pérennité de mon entreprise.
+Vous voilà enfin avec les 500 paysans et les 8 sangliers qui vont sauver mon affaire. Voici quelques-uns de ces monstres inutiles.
+
+(225, 42, 1) ***Seer's Hut***
+Message:
+Les temps sont durs sous terre... Si je pouvais avoir de la main d'œuvre, je pourrais facilement développer mon activité. Pouvez-vous m'aider à recruter des hommes qui n'ont pas peur de travailler ? Je vous donnerai volontiers quelques-uns de ces monstres paresseux qui vivent dans les environs.
+Je vois que vous rencontrez des difficultés pour trouver les 500 paysans et les 8 sangliers. Dépêchez-vous, cette aide est vitale pour la pérennité de mon entreprise.
+Vous voilà enfin avec les 500 paysans et les 8 sangliers qui vont sauver mon affaire. Voici quelques-uns de ces monstres inutiles.
+
+(219, 184, 1) ***Seer's Hut***
+Message:
+Les temps sont durs sous terre... Si je pouvais avoir de la main d'œuvre, je pourrais facilement développer mon activité. Pouvez-vous m'aider à recruter des hommes qui n'ont pas peur de travailler ? Je vous donnerai volontiers quelques-uns de ces monstres paresseux qui vivent dans les environs.
+Je vois que vous rencontrez des difficultés pour trouver les 500 paysans et les 8 sangliers. Dépêchez-vous, cette aide est vitale pour la pérennité de mon entreprise.
+Vous voilà enfin avec les 500 paysans et les 8 sangliers qui vont sauver mon affaire. Voici quelques-uns de ces monstres inutiles.
+
+(166, 200, 1) ***Seer's Hut***
+Message:
+Les temps sont durs sous terre... Si je pouvais avoir de la main d'œuvre, je pourrais facilement développer mon activité. Pouvez-vous m'aider à recruter des hommes qui n'ont pas peur de travailler ? Je vous donnerai volontiers quelques-uns de ces monstres paresseux qui vivent dans les environs.
+Je vois que vous rencontrez des difficultés pour trouver les 500 paysans et les 8 sangliers. Dépêchez-vous, cette aide est vitale pour la pérennité de mon entreprise.
+Vous voilà enfin avec les 500 paysans et les 8 sangliers qui vont sauver mon affaire. Voici quelques-uns de ces monstres inutiles.
+
+(77, 194, 1) ***Seer's Hut***
+Message:
+Les temps sont durs sous terre... Si je pouvais avoir de la main d'œuvre, je pourrais facilement développer mon activité. Pouvez-vous m'aider à recruter des hommes qui n'ont pas peur de travailler ? Je vous donnerai volontiers quelques-uns de ces monstres paresseux qui vivent dans les environs.
+Je vois que vous rencontrez des difficultés pour trouver les 500 paysans et les 8 sangliers. Dépêchez-vous, cette aide est vitale pour la pérennité de mon entreprise.
+Vous voilà enfin avec les 500 paysans et les 8 sangliers qui vont sauver mon affaire. Voici quelques-uns de ces monstres inutiles.
+
+(104, 120, 1) ***Necropolis***
+
+Timed events:
+
+Name:
+units
+Message:
+
+
+Name:
+extra units - late
+Message:
+
+
+(126, 106, 1) ***Necropolis***
+
+Timed events:
+
+Name:
+units
+Message:
+
+
+Name:
+extra units - late
+Message:
+
+
+(149, 120, 1) ***Necropolis***
+
+Timed events:
+
+Name:
+units
+Message:
+
+
+Name:
+extra units - late
+Message:
+
+
+Name:
+extra money
+Message:
+
+
+(143, 139, 1) ***Necropolis***
+
+Timed events:
+
+Name:
+units
+Message:
+
+
+Name:
+extra units - late
+Message:
+
+
+(130, 48, 1) ***Dungeon***
+
+Timed events:
+
+Name:
+units extra
+Message:
+
+
+(124, 202, 1) ***Inferno***
+
+Timed events:
+
+Name:
+units
+Message:
+
+
+(111, 133, 1) ***Necromancer***
+Name:
+Darkness
+
+(187, 46, 1) ***Inferno***
+
+Timed events:
+
+Name:
+units
+Message:
+
+
+(230, 230, 1) ***Random Monster 6***
+Message:
+Cet ancien portail a été construit par un archimage, célèbre pour ses plaisanteries. Personne ne sait où il mène, et personne n'en est jamais revenu. 		Avant que vous ne vous en rendiez compte, les monstres vous attaquent !
+
+(142, 236, 1) ***Random Monster 6***
+Message:
+Cet ancien portail a été construit par un archimage, célèbre pour ses plaisanteries. Personne ne sait où il mène, et personne n'en est jamais revenu. 		Avant que vous ne vous en rendiez compte, les monstres vous attaquent !
+
+(37, 235, 1) ***Random Monster 6***
+Message:
+Cet ancien portail a été construit par un archimage, célèbre pour ses plaisanteries. Personne ne sait où il mène, et personne n'en est jamais revenu. 		Avant que vous ne vous en rendiez compte, les monstres vous attaquent !
+
+(61, 12, 1) ***Random Monster 6***
+Message:
+Cet ancien portail a été construit par un archimage, célèbre pour ses plaisanteries. Personne ne sait où il mène, et personne n'en est jamais revenu. 		Avant que vous ne vous en rendiez compte, les monstres vous attaquent !
+
+(153, 10, 1) ***Random Monster 6***
+Message:
+Cet ancien portail a été construit par un archimage, célèbre pour ses plaisanteries. Personne ne sait où il mène, et personne n'en est jamais revenu. 		Avant que vous ne vous en rendiez compte, les monstres vous attaquent !
+
+(42, 239, 1) ***Quest Guard***
+Message:
+Bonjour, aventurier. Tu veux acheter quelque chose ?
+C'est à vous !
+
+(213, 7, 1) ***Random Monster 6***
+Message:
+Cet ancien portail a été construit par un archimage, célèbre pour ses plaisanteries. Personne ne sait où il mène, et personne n'en est jamais revenu. 		Avant que vous ne vous en rendiez compte, les monstres vous attaquent !
+
+(109, 175, 1) ***Prison***
+Name:
+Sorrow
+
+(148, 172, 1) ***Prison***
+Name:
+Fatality
+
+(116, 91, 1) ***Prison***
+Name:
+Plague
+
+(144, 247, 1) ***Quest Guard***
+Message:
+Bonjour, aventurier. Tu veux acheter quelque chose ?
+C'est à vous !
+
+(236, 228, 1) ***Quest Guard***
+Message:
+Bonjour, aventurier. Tu veux acheter quelque chose ?
+C'est à vous !
+
+(216, 7, 1) ***Quest Guard***
+Message:
+Bonjour, aventurier. Tu veux acheter quelque chose ?
+C'est à vous !
+
+(158, 10, 1) ***Quest Guard***
+Message:
+Bonjour, aventurier. Tu veux acheter quelque chose ?
+C'est à vous !
+
+(43, 10, 1) ***Quest Guard***
+Message:
+Bonjour, aventurier. Tu veux acheter quelque chose ?
+C'est à vous !
+
+(110, 120, 1) ***Necromancer***
+Name:
+Grave
+
+(100, 62, 1) ***Inferno***
+
+Timed events:
+
+Name:
+units
+Message:
+
+
+Name:
+day 1 - units
+Message:
+
+
+(194, 189, 1) ***Dungeon***
+
+Timed events:
+
+Name:
+units extra
+Message:
+
+
+Name:
+Day 1 - units
+Message:
+
+
+(101, 189, 1) ***Dungeon***
+
+Timed events:
+
+Name:
+units extra
+Message:
+
+
+===== End of file =====

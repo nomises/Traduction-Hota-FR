@@ -1,0 +1,414 @@
+===== Map name =====
+Val Map 12.0
+
+===== Map description =====
+Sur ces vastes terres remplies de richesse chaque peuple a pour objectif de dominer les autres pour devenir le maitre de ce royaume. Sachant que chacun d'eux a des priorités différentes et des objectifs personnels pour trouver la route du pouvoir et de la victoire....                 Bonne chance...
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+La Forteresse
+Message:
+Il y a fort longtemps, les lézards ont régné sur le monde et contruit la plus redoutable des places fortes en son centre. Mais leur peuple a décliné. Leur capitale a été abandonnée après leur défaite contre les morts et les démons. Ils ont trouvé refuge dans la partie nord-ouest du monde. Vous avez pour mission de récupérer au plus vite cette capitale avant de restaurer votre domination totale.
+
+Name:
+L'enfer
+Message:
+Bienvenue en enfer ! La vraie purification de ce monde passera par le feu et la folie. Les autres devront être réduits en cendres. Votre objectif principal est d'assujettir ce monde.	Votre objectif secondaire est de récupérer l'artéfact légendaire devant la cité de la renaissance pour faire pencher la balance en votre faveur (150 archanges vous feront face). Cette puissance démoniaque sera d'une aide précieuse pour réaliser votre objectif final.
+
+Name:
+Roi barbare
+Message:
+Le déclin des lézards a permis la reconstitution de votre royaume, au sud est du monde connu. Mais vous ne comptez certainement pas vous arrêter là ! Votre but est de devenir l'unique tyran de ces terres, de dominer les autres peuples par la force brute et d'écraser vos ennemis.	Pour parvenir à ce but, vous devrez réaliser plusieurs quêtes dont la plus difficile consistera à acquerir un objet légendaire du côté des rivages nordiques destiné à réduire à l'impuissance les peuples usant de leurs pouvoirs magiques pour compenser la faiblesse criarde de leurs forces armées. Pour cela, seul il vous faudra obtenir un laisser-passer en plein territoire des lézards. Seul Kilgore pourra emprunter les passages secrets à proximité du territoire des lézards, s'il a acquis des pouvoirs suffisants (Niveau 25 et Attaque 60).
+
+Name:
+Magiciens
+Message:
+Libérés de la tyrannie des lézards, les magiciens ont pu restaurer leur puissance sur ce monde. Mais vous ne comptez pas vous arrêter là ! Pour devenir la puissance dominante, vous devrez réaliser une quête cruciale : libérer Solmyr de sa prison, le plus puissant d'entre vous. Vous pourrez ensuite rassembler le Pendentif d'Isolation, le Globe des Vents, la Cuirasse des Titans et le Globe de Vulnérabilité, qui se trouvent à la surface juste au sud du passage souterain à l'est de la carte pour atteindre un niveau de puissance qui vous permettra de dominer les autres peuples.
+
+Name:
+Elfes
+Message:
+Il y a bien longtemps, la chute du roi lézard a permis la résurgence du peuple des Elfes, dans la partie sud-ouest du monde. Il est maintenant temps pour vous d'assoir votre domination sur le reste du monde.	Pour cela, vous devrez vous assurer de l'alliance des Phénix dont le domaine est situé juste au nord du votre. Mais la porte conduisant à leur royaume vous est pour l'instant hermétiquement fermée. On dit que la clef se situe quelque part dans les territoires de vos pires ennemis, les suppôts de l'Enfer. 
+
+Name:
+Mort-vivant
+Message:
+Après la défaite du peuple des lézards, dans ces souterrains ténébreux a pu renaitre un royaume des morts. Mais cela ne peut lui suffire car la mort, universelle, doit régner partout. Personne ne peut lui échapper.	Votre but consiste à établir votre domination à l'ensemble de ce monde. Pour y parvenir, vous devrez constituer une armée si gigantesque qu'aucune force, de quelque nature qu'elle soit, ne puisse vous arrêter. Patience ! Le temps est votre allié. L'accomplissement d'une certaine quête tout au nord, sur une île, à la surface, vous aidera à réaliser cet objectif suprême, et à semer le désespoir dans le cœur de vos ennemis à la seule vue de hordes infinies.
+
+Name:
+Seigneur dragon
+Message:
+Le peuple des Dragons, contant des histoires fantastiques et des contes pour enfants, se réveille. Il se trouve qu'avec cette dernière guerre, les secousses sismiques déclenchées par tout ces cataclysmes, ont reveillé le plus ancien des Dragons - Drake Mutare. Partez en quête d'artéfacts d'une puissance inégalée comme les Globes des Pierres et des Flammes ainsi que la panoplie légendaire du dieu dragon (au nord à la surface sur une île), qui vous permettront une nouvelle fois de dominer le monde. Une position que vous n'auriez jamais dû quitter si vous n'aviez pas décidé de faire une sieste pendant quelques centaines d'années. Ravagez tout et apprenez à ces mortels insolents pourquoi les dragons sont autant craints dans les anciennes légendes.
+
+Name:
+Pirate
+Message:
+La mer est votre domaine. Récupérez le Bicorne d'Amiral pour contrôler toutes les étendues marines comme si Poséidon vous avait prêté son Trident. Les lézards en déclin ne sont plus un obstacle à votre résurgence. Recherchez la Poule d'Or  et la Corne des Abysses qui se trouvent proche du territoire des elfes, proche de l'île où se trouve une demeure d'Anges. À partir de là, pillez sans vergogne toutes les ressources de ce monde et assurez votre domination sur les autres peuples.		
+
+Name:
+La Forteresse
+Message:
+Vous étiez les maitres de ce monde mais des catastrophes naturelles ont laissé votre peuple dans le dénuement le plus total. Toutefois des vestiges de votre puissance passée subsistent. Les éclaireurs que vous aviez envoyés à la recherche de votre ancienne capitale ont découvert quelques trésors laissés par vos ancêtres. Cette bonne fortune tombe à pic car un serment vous interdit de construire une capitale. Seule votre ancienne cité vous permettra d'en posséder une. Elle est la clé de la restauration de votre ancienne puissance.
+
+Name:
+Evil demons and Devils
+Message:
+Vos succubes ont charmé un convoi de marchands naïfs. Après avoir recupéré leurs armes, elles ont ordonné à leurs corps inertes de ramener ces ressources précieuses jusqu'à votre château pour vous les offrir comme un présent, témoignage de leur servitude car tout puissant seigneur démon se doit d'inspirer la peur et le respect.
+
+Name:
+Roi Barbare
+Message:
+Vos éclaireurs gobelins sont partis selon vos ordres pour suivre un convoi d'elfes dans les forêts des highlands. Cela vous a coûté quelques réserves d'or.
+
+Name:
+Pirates
+Message:
+Vous avez envoyé vos pirates accoster un navire de marchandises. Cette opération vous coûte quelques réserves d'or.
+
+Name:
+Les quêtes secondaires
+Message:
+Cela concerne tous les peuples. Les tentes permettent de réaliser votre quête ultime, différentes selon les peuples. Parfois en visiter une suffit, parfois il est nécessaire d'en visiter plusieurs.	Bonne chance
+
+Name:
+Roi barbare 
+Message:
+Pour votre quête principale, récupérez les tentes Marron et Bleu. Progressez jusqu'au niveau 25 et atteignez 60 en attaque pour avoir une chance d'accéder à l'Orbe d'Anti-Magie.
+
+Name:
+Les nains ont décidé de faire grève !!!
+Message:
+Les nains sont tous à la taverne. Personne ne sera livré à temps.
+
+Name:
+Evil demons and Devils
+Message:
+Vos succubes ont préparé un rituel sombre. Elles ont sacrifié quelques esclaves capturés récemment. Elles ont utilisé des gemmes et des cristaux pour pratiquer des expériences sur leurs pauvres âmes.	Que cela vous apporte-t-il ? Rien ! absolument rien ! mais ce fut un plaisir d'entendre leur agonie alors qu'ils se retrouvaient pris au piège à jamais dans de petites pierres si brillantes, une prison dont même la mort ne peut libérer d'une agonie éternelle. Célebrons la souffrance des mortel... ahahah !	
+
+Name:
+Morc l'orc pillard
+Message:
+Les orcs sont-ils des voleurs ?	Un chef orc s'en est pris à vos marchands qui transportaient de l'or. 	Vos gardes l'ont pris en chasse mais très vite il a disparu dans une nappe de brouillard.	Est-ce là une technique d'orc ?
+
+Name:
+Selim en enfer
+Message:
+Vos démons ont intercepté un groupe d'orcs. Ils les ont tués puis les ont dévorés, mais l'un d'eux s'est précipité dans un banc de brume et y a disparu.	S'est-il échappé cet avorton, cette caricature d'être vivant ? Vous récupérez l'or sur les restes des cadavres.
+
+Name:
+Roi Barbare
+Message:
+Votre groupe de gobelins est de retour. Ils ont bien accompli leur mission en tuant et détroussant le convoi d'elfes qu'ils avaient suivi dans la forêt.	Quelques gobelins sont morts mais le butin est important.                                                                         
+
+Name:
+Elfes
+Message:
+Malédiction ! Une troupe d'orcs égarés dans notre royaume a attaqué un convoi de marchandises en route vers notre château et s'est emparé de son précieux chargement !
+
+Name:
+De petites termites
+Message:
+Ces saloperies de termites se sont attaqués à votre bois.
+
+Name:
+Pirate
+Message:
+Quel malheur ! Vous avez perdu un navire et toutes ses marchandises englouties par un terrible Kracken.
+
+Name:
+Magiciens
+Message:
+Un groupe de magiciens a utilisé plusieurs ressources pour leur expérience alchimique. C'est un échec total ! Ils ont juste tout fait exploser au cours de leur expérience.
+
+Name:
+Roi Barbare
+Message:
+Les nains ont bloqué leurs mines car il détestent les gobelins et les orcs.
+
+Name:
+la fête du nain bleu
+Message:
+Sautez, dansez, buvez ! C'est la tournée des nains.
+
+Name:
+Seigneur dragons
+Message:
+Vos dragons sont avares de ressources.
+
+Name:
+Pirate
+Message:
+Vos hommes sont de retour, les bras couverts de richesses.
+
+Name:
+Roi Barbare
+Message:
+Vous avez participé à un tournoi de combat sans magie et vous l'avez remporté. À vous la récompense !
+
+Name:
+Evil demons and devils
+Message:
+Vos succubes ont intercepté un convoi de mercure. Certains soldats hypnotisés vous ont ramené leurs ressources comme les esclaves qu'ils sont, pendant que les autres vivent leurs derniers instants en charmante compagnie.
+
+Name:
+Magiciens
+Message:
+Vos magiciens ont encore mené leurs expériences alchimiques mais cette fois un miracle s'est accompli. Le plomb s'est transformé en or. 
+
+Name:
+Elfes
+Message:
+Vous croisez une fée des bois. Elle danse autour de vous et vous incite à la suivre. Elle s'amuse avec vous pendant des heures sans que vous puissiez l'attraper. Au moment où vous aboutissez dans une clairière oubliée de tous, vous découvrez un inestimable trésor.
+
+Name:
+Oups
+Message:
+Les magiciens on fait une expérience alchimique qui a mal tourné. Une pluie ensorcelée s'abat sur tout votre territoire transmutant vos ressources précieuses en vulgaires cailloux.
+
+Name:
+Necromanciens
+Message:
+Un groupe de vos vampires, après avoir tendu une embuscade à un convoi et s'être nourris de leur sang, a récupéré un stock de ressources qui vous sera certainement précieux.
+
+Name:
+Magiciens
+Message:
+Vos magiciens ont reussi avec brio la transmutation d'un étron en pierre précieuse !
+
+Name:
+Morc et Grumsh
+Message:
+Ces deux orcs, accompagnés de plusieurs compères, ont monté une embuscade à vos marchands. C'est une véritable catastrophe. Vos réserves d'or en ont pris un sacré coup !	Vous feriez bien d'ordonner à vos gardes de moins rêvasser.
+
+Name:
+Evil demons and Devils
+Message:
+Un groupe de pillards orcs a pénétré fourbement sur vos terres. La plupart d'entre eux n'on pas résisté face aux démons mais l'un d'entre eux, le dénommé Morc le rusé a échappé à vos  hordes. Cette misérable caricature d'insecte vous a détroussé de quelques trésors que vos fidèles démons transportaient. Vous envoyez vos démons le trouver afin de l'asservir aux enfers.
+
+Name:
+Invasion de termites
+Message:
+C'est terrible ! Ces maudits termites ont dévoré toute la réserve de bois.
+
+Name:
+Pirate
+Message:
+Vos gardes vous ont rapporté avoir vu plusieurs orcs dans un campement proche de votre cité.
+
+Name:
+Pirate
+Message:
+Grumsh a été aperçu dans la place du marché de votre cité.
+
+Name:
+Pirate
+Message:
+Grumsh et plusieurs autres orcs ont brutalisé un de vos transporteurs de marchandises. Ils ont disparu, dupant habilement les gardes.
+
+Name:
+Pirate
+Message:
+Vos gardes ont repéré un groupe d'orcs et les ont tués. Malheureusement leurs chef Grumsh a réussi à prendre la fuite et n'est pas parti les mains vides.	Une bonne nouvelle cependant, les orcs ont été chassés de votre capitale.
+
+Name:
+Necromanciens
+Message:
+De l'or offert par vos fidèles.
+
+Name:
+Pirate
+Message:
+Tous à la taverne ! Vos hommes ont trouvé un merveilleux trésor au fond des mers, lors d'une expédition d'exploration.
+
+Name:
+Roi Barbare
+Message:
+Morc s'est infiltré dans vos appartements personnels. Kilgor, vous vous êtes fait détrousser ! Rattrapez ce voleur et traquez-le !
+
+Name:
+Evil demons and Devils
+Message:
+Un groupe de pillards orcs a pénétré fourbement sur vos terres. La plupart d'entre eux n'ont pas résisté face aux démons mais l'un d'entre eux, le dénommé Morc le rusé a échappé à vos  hordes. Cette misérable caricature d'insecte vous a détroussé de quelques trésors que vos fidèles démons transportaient. Vous envoyez vos démons le trouver afin de l'asservir aux enfers.	
+
+Name:
+Magiciens
+Message:
+Vos gardes vous ont rapporté avoir vu plusieurs orcs dans un campement proche de votre cité.
+
+Name:
+Magiciens
+Message:
+Morc a été aperçu sur la place du marché de votre cité.
+
+Name:
+Magiciens
+Message:
+Morc et plusieurs autres orcs ont brutalisé un de vos transporteurs de marchandises. Ils ont disparu, dupant habilement les gardes.
+
+Name:
+Magiciens
+Message:
+Vos garde ont repéré un groupe d'orcs et les ont tués. Malheureusement leurs chef Morc a réussi à prendre la fuite et il n'est pas parti les mains vides.	Vous avez chassé les orcs de votre capitale.
+
+Name:
+L'or des nains
+Message:
+C'est le nouvel an nain. L'or jaillit des puits ! Quelle merveille !
+
+Name:
+la fin des temps
+Message:
+Suite à l'invocation d'un rituel démoniaque, les succubes ont déclenché un cataclysme en enfer : une brume maudite qui fait fondre l'or. Cette brume se répand à une telle vitesse qu'il est impossible d'y échapper...	(cet événement n'affecte pas les ordinateurs)
+
+===== Heroes =====
+
+===== Objects =====
+
+(21, 45, 0) ***Sign***
+Message:
+Portail pour la Forteresse sacrée des anciens Mayas.	                             Attention !!!  aller simple
+
+(83, 88, 0) ***Sign***
+Message:
+La grande Forteresse imprenable se dresse devant vous. Fuyez idiot ! Les dieux ont construit cet endroit.
+
+(86, 110, 0) ***Crystal Dragon***
+Message:
+Vous avez trouvé le nid des Dragons de Cristal. Furieux de votre présence, ils vous attaquent.
+
+(101, 84, 0) ***Faerie Dragon***
+Message:
+Vous avez trouvé le nid des Dragons Féeriques. Furieux de votre présence, ils vous attaquent.
+
+(0, 81, 0) ***Seer's Hut***
+Message:
+Pas de chance de trouver les 50 Archanges ? Ils deviendront des démons. Ah ah ah !
+
+(90, 87, 0) ***Sign***
+Message:
+Gandalf ici.
+
+(88, 70, 0) ***Azure Dragon***
+Message:
+Vous avez trouvé le nid des Dragons d'Azur. Furieux de votre présence, ils vous attaquent.
+
+(65, 85, 0) ***Rust Dragon***
+Message:
+Vous avez trouvé le nid des Dragons Corrosifs. Furieux de votre présence, ils vous attaquent.
+
+(81, 85, 0) ***Prison***
+Name:
+Gandalf
+Biography:
+Gandalf le puissant magicien s'est joint à vous.
+
+(178, 124, 0) ***Sign***
+Message:
+Le Globe se trouve tout au nord en plein centre après une série d'épreuves.
+
+(67, 80, 0) ***Seer's Hut***
+Message:
+Il parait que d'anciens vampires, de la précédente guerre, guettent l'insurrection des morts pour les rejoindre à la moindre occasion.
+
+(175, 174, 1) ***Necropolis***
+
+Timed events:
+
+Name:
+Necromanciens
+Message:
+L'armée des morts se lève dans votre cité. 
+
+Name:
+Necromanciens
+Message:
+Les liches prospèrent dans votre cité.
+
+Name:
+Necromanciens
+Message:
+Vos Liches ont découvert un cimetière de Dragons.
+
+Name:
+Necromanciens
+Message:
+L'heure des ombres.
+
+Name:
+Necromanciens
+Message:
+Zombie !!!
+
+Name:
+Necromanciens
+Message:
+Une partie de l'or de l'ancien Roi Liche vient d'être retrouvé.
+
+(5, 93, 1) ***Event***
+Message:
+
+
+(27, 91, 1) ***Event***
+Message:
+
+
+(21, 52, 1) ***Peasant***
+Message:
+Les paysans vous font face pour défendre leur vie.
+
+(133, 18, 1) ***Sign***
+Message:
+Fuck
+
+(85, 102, 1) ***Event***
+Message:
+
+
+(85, 105, 1) ***Sign***
+Message:
+Livre de l'Air dans la tempête de sable.	Attention !!!	Vallée des Dragons.
+
+(128, 99, 1) ***Seer's Hut***
+Message:
+Je recherche un moyen de transformer les métaux de base en or, mais je manque de matériaux pour mon atelier.  Si vous pouviez m'apporter 99999 pièces d'or, je vous en serais très reconnaissant.Vous aurez beaucoup de mana. 
+
+(62, 85, 1) ***Seer's Hut***
+Message:
+Sacrifie tes 100 Archidiables pour obtenir un artéfact (antique).	La source du mal elle-même... le secret des Krackens.
+
+(145, 85, 1) ***Seer's Hut***
+Message:
+Il y a longtemps, de puissants sorciers étaient capables de créer des artéfacts magiques, mais le temps nous a fait oublier comment fabriquer de nouveaux objets.  J'aimerais apprendre ces techniques moi-même. J’ai d'abord besoin d'un de ces artéfacts pour voir comment cela a été fait.  Si vous pouviez m'apporter la Corne des Abysses, vous seriez bien récompensé.               Portail de ville ici.
+
+(3, 90, 1) ***Spell Scroll***
+Message:
+Votre quête pour dominer les autres prend forme. La puissance magique ruissèle entre vos mains. Un puissant parchemin y apparait...
+
+(159, 125, 1) ***Sign***
+Message:
+Les Champions sont à côté du château principal des magiciens.
+
+(154, 112, 1) ***Sign***
+Message:
+La quête principale des morts est à la surface au nord du deuxième château des démons sur une petite île boueuse.
+
+(26, 112, 1) ***Sign***
+Message:
+La tente Violette se trouve à la surface, au nord du 2ème château des démons, à l'est de la sortie des forteresses sur une île avec une belle pelouse.
+
+(174, 57, 1) ***Sign***
+Message:
+La quête des magiciens se trouve à la surface au sud de la sortie se trouvant à l'est.
+
+(108, 145, 1) ***Gold***
+Message:
+Ces trésors sont à vous. Levez une armée !
+
+(30, 44, 1) ***Gold***
+Message:
+Il est temps pour les morts de régner en maitre. Reprenez toutes ces vies qui vous appartiennent.
+
+===== End of file =====

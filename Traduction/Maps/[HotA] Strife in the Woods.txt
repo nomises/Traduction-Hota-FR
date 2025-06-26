@@ -1,0 +1,103 @@
+===== Map name =====
+Strife in the Woods
+
+===== Map description =====
+The alliance between the lords was very unstable. The knights, barbarians, and swamp dwellers were all waiting for the right moment to break the treaty and benefit as much as possible from this loathsome deed. When wizards settled in the hills, the balance was disrupted, and the alliance crumbled. P
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Старт
+Message:
+For a while, you have been a part of an alliance between knights, elves, barbarians, artificers, pirates, and swamp dwellers. Recently, some arrogant wizards arrived, and they are already making your life muserable. Their intrigues have shattered the already fragile alliance, and now they are trying to extort money from you. You are fed up with this situation and are determined to wipe out both your former allies and the racketeering wizards.
+
+Name:
+Маги выманивают деньги - Неудача
+Message:
+The wizards came to you and demanded gold, citing an alleged obligation once taken by your ancestor to pay for the use of magic. However, as soon as your guardsmen drew their swords, the wizards retreated towards the exit. Before they left, your men took everything they had on them, including the gold they had earlier coerced out of other lords. The money went into your own coffers.
+
+Name:
+Помощь компу
+Message:
+
+
+Name:
+Маги выманивают деньги
+Message:
+The wizards returned, but this time they came protected by golems. Seems as though they are learning from their mistakes...		You had to yield some gold to them.
+
+Name:
+Золото у магов
+Message:
+
+
+===== Heroes =====
+
+===== Objects =====
+
+(39, 10, 0) ***Stronghold***
+
+Timed events:
+
+Name:
+Стройка компу
+Message:
+
+
+(53, 44, 0) ***Castle***
+
+Timed events:
+
+Name:
+Стройка компу
+Message:
+
+
+(42, 25, 0) ***Tower***
+
+Timed events:
+
+Name:
+Стройка компу
+Message:
+
+
+(55, 24, 0) ***Fortress***
+
+Timed events:
+
+Name:
+Стройка компу
+Message:
+
+
+(41, 69, 0) ***Cove***
+
+Timed events:
+
+Name:
+Стройка компу
+Message:
+
+
+(5, 29, 0) ***Rampart***
+
+Timed events:
+
+Name:
+Стройка компу
+Message:
+
+
+(7, 68, 0) ***Factory***
+
+Timed events:
+
+Name:
+Стройка компу
+Message:
+
+
+===== End of file =====

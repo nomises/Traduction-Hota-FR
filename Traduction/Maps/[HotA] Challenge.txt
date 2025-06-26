@@ -1,0 +1,35 @@
+===== Map name =====
+Le Défi
+
+===== Map description =====
+L'extraction des ressources précieuses a été suspendue lors de  l'invasion des Kreegans. Quatre seigneurs, désireux de mettre leur destin à l'épreuve, se préparent à se battre pour leur patrie afin de lui restituer sa gloire d'antan.
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Heroes =====
+
+===== Objects =====
+
+(44, 34, 0) ***Sign***
+Message:
+Cette petite pousse sera un grand arbre un jour...
+
+(19, 17, 1) ***Sign***
+Message:
+Caverne de la connaissance		Grotte du Dragon d'Azur	
+
+(5, 7, 1) ***Pandora's Box***
+Message:
+
+
+(32, 25, 1) ***Genie***
+Message:
+Vous avez sorti une vieille bouteille de l'eau. Après l'avoir frottée, des nuages de fumée magique sont apparus et un groupe de génies s'est matérialisé sur le pont.
+
+(26, 28, 1) ***Genie***
+Message:
+Vous avez sorti une vieille bouteille de l'eau. Après l'avoir frottée, des nuages de fumée magique sont apparus et un groupe de génies s'est matérialisé sur le pont.
+
+===== End of file =====

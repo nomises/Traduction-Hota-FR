@@ -1,0 +1,23 @@
+===== Map name =====
+Le Royaume d'En-Haut
+
+===== Map description =====
+Fuyant la poursuite des gardes Nighons, vous trouvez une grotte bien cachée. Des Nix vivent ici et, sans grand enthousiasme, ils ont accepté de vous abriter. Ils ont également laissé entendre clairement que quelque part près d'ici, il y avait une issue.
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Heroes =====
+
+===== Objects =====
+
+(12, 14, 1) ***Sign***
+Message:
+Accès au Royaume d'En-Haut
+
+(27, 26, 1) ***Event***
+Message:
+Retourner au bateau n'est pas si simple - les harpies qui vous poursuivent sont déjà là.
+
+===== End of file =====

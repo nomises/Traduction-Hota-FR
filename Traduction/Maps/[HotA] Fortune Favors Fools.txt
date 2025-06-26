@@ -1,0 +1,82 @@
+===== Map name =====
+La Chance Sourit aux Audacieux
+
+===== Map description =====
+Vous n'avez jamais été à la hauteur pour votre père. Pour le fils aîné, c'est malheureux. Incapable d'accepter que son héritier soit un imbécile bon à rien, votre père a négocié un rendez-vous pour vous. Ce domaine vous sera destiné, si vous "ne gâchez pas tout". Cela ne semble pas très difficile...
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Heroes =====
+
+===== Objects =====
+
+(21, 36, 0) ***Conflux***
+
+Timed events:
+
+Name:
+Bonus
+Message:
+Vous n'avez aucune idée d'où proviennent toutes ces choses et tous ces hommes. Ceci dit, le gardien du donjon, un vieux mage ridé, évite par tous les moyens de vous regarder dans les yeux.
+
+(7, 66, 0) ***Fortress***
+
+Timed events:
+
+Name:
+Bonus
+Message:
+Vos soldats affirment avoir mis à sac une ville ennemie pour en tirer certains profits. Cela semble plausible, sauf qu'ils n'ont pas perdu un seul homme et qu'au contraire, ils sont revenus plus nombreux. Mais bon...
+
+(67, 8, 0) ***Necropolis***
+
+Timed events:
+
+Name:
+Bonus
+Message:
+Le chef des nécromanciens de la ville annonce qu'il a découvert un moyen de ressusciter davantage de morts tout en économisant de l'argent. Quelle chance n'est-ce pas ?
+
+(3, 16, 0) ***Conflux***
+
+Timed events:
+
+Name:
+Bonus
+Message:
+Vous n'avez aucune idée d'où proviennent toutes ces choses et tous ces hommes. Ceci dit, le gardien du donjon, un vieux mage ridé, évite par tous les moyens de vous regarder dans les yeux.
+
+(32, 4, 0) ***Castle***
+
+Timed events:
+
+Name:
+Bonus
+Message:
+Un seigneur voisin vous rend visite, affirmant qu'il a une dette à rembourser. Vous ne vous souvenez pas lui avoir prêté quoi que ce soit, mais il serait trop bête de refuser de l'argent et des troupes gratuites.
+
+(60, 38, 0) ***Castle***
+
+Timed events:
+
+Name:
+Bonus
+Message:
+Un seigneur voisin vous rend visite, affirmant qu'il a une dette à rembourser. Vous ne vous souvenez pas lui avoir prêté quoi que ce soit, mais il serait trop bête de refuser de l'argent et des troupes gratuites.
+
+(48, 67, 0) ***Rampart***
+
+Timed events:
+
+Name:
+Bonus
+Message:
+Un lutin rencontré lors de votre promenade matinale insiste pour que vous acceptiez son objet secret, et disparaît avant que vous ne puissiez ouvrir le pot en question. Celui-ci est rempli de pièces de monnaie fraîchement frappées et de bijoux scintillants. Quelle bonne petite créature ! Mais ce n'est pas tout car vous rencontrez le même jour des bénévoles sur le chemin du retour. Quelle journée !		
+
+(33, 23, 0) ***Pandora's Box***
+Message:
+"Les mamans ne sont pas toujours gentilles, mais papa l'est, lui. Tiens, des amis pour toi." Signé : D.
+
+===== End of file =====

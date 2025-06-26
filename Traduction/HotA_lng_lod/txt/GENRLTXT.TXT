@@ -1,0 +1,889 @@
+Miscellaneous and Unorganized Game Text
+Impossible d'ajouter le gestionnaire !
+%s ne peut plus acquérir d'expérience au cours de ce scénario.
+"{Niveau %d}
+
+{Niveau suivant :} %d
+{Expérience :} %d"
+%d/Jour
+ou
+%s a perdu le combat !
+"%s, vous avez perdu votre dernière ville. Si vous ne reprenez pas le contrôle d'une ville dans un délai d'une semaine, vous serez éliminé."
+"%s, vos héros abandonnent votre cause, vous êtes banni de ces terres."
+"Les héros du %s abandonnent sa cause, il est banni de ces terres."
+"Impossible d'enregistrer la partie sous ""%s""."
+Erreur à l'ouverture du fichier %s !
+NOUVELLE PARTIE
+Êtes-vous certain de vouloir renvoyer cette troupe ?
+Tour de %s.
+Erreur à la réception des données. Réessayer ?
+%s, %s
+Recruter
+Il n'y a pas de place dans la garnison pour ces créatures.
+Vous disposez déjà de %d héros sous vos ordres.
+Ce héros est dépourvu d'armée. Un héros doit avoir une armée avant de sortir braver les dangers du monde.
+Qualité des Vidéos
+Cet objet ne peut être échangé.
+Êtes-vous certain de vouloir renvoyer ce héros ?
+Sélectionnez la cible à atteindre.
+Impossible d'atteindre la destination choisie.
+Téléportez-vous ici.
+Lancer %s
+Lancer %s sur %s
+Êtes-vous certain de vouloir battre en retraite ?
+Vous n'avez pas assez d'Or !
+Vous avez pris un artéfact à l'ennemi !
+Aucun
+"%s déclare :
+
+""J'accepte votre reddition et vous laisse partir, vous et vos troupes, en échange de %d pièces d'or."""
+Leur moral élevé permet aux %s d'agir à nouveau.
+Leur moral désastreux empêche les %s d'agir ce tour-ci.
+Faites de la place dans votre armée pour les %s.
+"Attaquer les %s (dégâts %s)"
+"Tirer sur les %s (1 tir restant, dégâts %s)"
+Description de la Campagne :
+Action des %s.
+Nom de la partie
+Nom du joueur
+créature
+créatures
+La malchance affecte les %s
+La chance favorable inspire les %s
+Trésor
+%s, %s subit une attaque !
+Ville
+Héros
+Écran de Ville
+Impossible de construire un autre bateau.
+Requiert:
+<SYSTEME>: 
+"{Carte du Monde}
+
+Ceci est une vue générale de la carte. Cliquez dans cette fenêtre pour centrer la fenêtre de jeu sur le point indiqué. Vous pouvez également faire glisser le rectangle pour faire défiler la carte."
+"Au moins l'un de vos héros peut encore se déplacer. Souhaitez-vous terminer votre tour ?"
+"Creuser prend une journée complète, attendez demain et recommencez."
+Votre Héros n'a plus assez de place pour transporter un autre artéfact.
+"Félicitations ! Après de longues heures de fouilles, votre héros a découvert l'artéfact :"
+"Rien ici. Il faudra creuser ailleurs."
+Essayez plutôt sur la terre ferme !
+Territoire inexploré !
+Mois
+Semaine
+Jour
+Cliquez sur vos ennemis avec le bouton droit de la souris pour obtenir des informations à leur sujet.
+ping=%dms
+"Êtes-vous sûr de vouloir redémarrer la partie ?
+(Votre partie en cours sera perdue)"
+"Êtes-vous sûr de vouloir charger une nouvelle partie ?
+(Votre partie en cours sera perdue)"
+Êtes-vous sûr de vouloir quitter la partie ?
+Vous ne pouvez utiliser un portail dimensionnel pour vous déplacer de la terre ferme vers la mer et vice versa.
+Choisissez un bonus :
+ping
+ping de %s...
+ping général...
+Score
+SAUVEGARDE AUTOMATIQUE
+{Héros de Départ}
+{Spécialité du Héros}
+{Créatures Associées}
+{Type de Ville}
+Erreur de chargement. Réessayer ?
+Vous devez au moins être deux joueurs pour lancer une partie multijoueur. Vérifiez les options avancées ou sélectionnez une nouvelle carte.
+{Artéfact}
+{Pièces d'Or}
+{Ressources}
+{Bonus Aléatoire}
+500-1000
+L'Armageddon inflige %d points de dégâts.
+5-10 bois / 5-10 Pierres
+Un Artéfact choisi aléatoirement est placé dans l'inventaire du héros.
+La Confusion réduit la Défense de %d points.
+"Au début de la partie, vous disposerez de 500 à 1000 pièces d'Or supplémentaires."
+"Au début de la partie, vous disposerez de 5 à 10 unités de Bois et de Pierres supplémentaires."
+"Votre bonus de départ sera aléatoirement de l'Or, des Ressources supplémentaires ou un Artéfact."
+Vous avez été éliminé de la partie !
+"Félicitations ! 
+Votre score sera enregistré au Panthéon. 
+
+Entrez votre nom."
+Essayez une nouvelle recherche sur un terrain dégagé.
+Envoi des données
+Réception des données
+Chaos.mp2
+{Héros Aléatoire}
+Votre héros de départ est choisi aléatoirement parmi ceux qui sont associés à votre type de ville.
+{Ville Aléatoire}
+Votre ville de départ est déterminée aléatoirement parmi les onze types existants.
+%s se rend et obtient son sauf-conduit pour %d pièces d'Or.
+"Le CD-ROM de Heroes III: %s est introuvable ! 
+
+%s requiert la présence du CD pour les scénarios en solitaire, les campagnes et pour héberger une partie multijoueur.	
+
+Si vous souhaitez rejoindre une partie multijoueur, le CD-ROM n'est pas indispensable. 
+
+Si vous souhaitez participer à un scénario en solitaire ou commencer une campagne, quittez le jeu puis relancez %s, après avoir inséré le CD dans votre lecteur."
+Sauvegarde Automatique...
+PLYREXIT
+"{Fenêtre d'Informations}
+
+Cette fenêtre vous donne des informations sur vos héros ou votre royaume et la date du jour. Cliquez sur la fenêtre pour passer d'une information à l'autre."
+Frontière
+%s absorbe %d points de magie.
+Les %s absorbent %d points de magie.
+Impossible de trouver le répertoire de Heroes III. Il est nécessaire de réinstaller le programme.
+Impossible de trouver les fichiers de Heroes III. Il est nécessaire de réinstaller le programme.
+"Mes braves héros, nos ennemis sont vaincus et leurs châteaux ne sont plus que ruines. La grande campagne est désormais terminée... quant à moi je suis désormais l'unique Grand Roi ! 
+
+Notre victoire est intervenue après %d jours !"
+%d %s est réssuscité !
+%d %s sont réssuscités !
+%d %s meurent de la terreur inspirée par les %s.
+%s meurt de la terreur inspirée par les %s.
+"Votre %s choisit de se défendre,
+et gagne +%d en défense."
+"Vos %s choisissent de se défendre,
+et gagnent +%d en défense."
+%s exp.
+La ville la plus proche est occupée. Échec du sort !
+Aucune ville ne peut être atteinte. Échec du sort !
+Votre héros est trop fatigué pour lancer ce sort aujourd'hui. Réessayez demain.
+Seuls les héros en visite peuvent utiliser le Passage Funeste.
+Pour lancer un sort, vous devez sélectionner un héros.
+Votre héro a déjà lancé un sort durant ce tour.
+Acceptez-vous de sauver l'armée de %s pour un coût de %d pièces d'Or ?
+Impossible d'initialiser les périphériques d'entrée - possibilité de conflits avec la souris ou le clavier.
+Impossible d'initialiser le son.
+Impossible d'initialiser la souris.
+Impossible d'initialiser la fenêtre - possibilité d'erreur mémoire ou d'erreur disque.
+"%s a trouvé un chantier naval abandonné. Malheureusement, les accès sont fermés et il est impossible de construire un bateau ici."
+Échec du sort ! Votre héros doit se trouver sur la terre ferme pour jeter ce sort.
+"Les %s décident d'attendre un moment plus propice pour agir."
+"Un(e) %s décide d'attendre un moment plus propice pour agir."
+"%s, Niveau %d %s"
+"%s qui a beaucoup étudié la magie"
+apprend 
+ et 
+ de %s
+résiste
+résistent
+"Adepte des arts noirs de la nécromancie, votre héros est à même de relever %d ennemis morts sous la forme de %s dont il s'attache les services."
+"Adepte des arts noirs de la nécromancie, votre héros est à même de relever un ennemi mort sous la forme de %s dont il s'attache les services."
+enseigne 
+ à %s
+"{Points de Magie}
+
+Les Points de Magie sont indispensables pour lancer des sorts. Le nombre maximal de Points de Magie est égal à 10 fois la caractéristique de Savoir du Héros. Lors d'événements spéciaux ou en des endroits bien précis, un héros peut avoir en réserve plus de points de magie qu'en temps normal."
+Le son digital n'est pas une option autorisée sur ce système.
+Baliste
+Votre besace est pleine.
+"Hélas, votre besace est bien trop petite pour contenir %s."
+"
+
+L'artéfact %s est détruit."
+"
+
+%s a %d en Attaque et inflige de %d à %d points de dégâts."
+Voir les informations sur les tours.
+Je peux vous offrir %d %s de %s pour %d %s de %s.
+Marché
+Comptoir Commercial
+unités
+unité
+Vous avez fait une affaire. Je ne gagne pratiquement rien dans la transaction. Êtes-vous intéressé par une autre de mes marchandises ?
+"Voici les ressources actuellement en stock et disponibles dans notre marché. Si vous voulez procéder à un échange, cliquez sur vos ressources puis sélectionnez ce que vous souhaitez obtenir ou acheter."
+n/a
+Je peux donner %s au joueur %s.
+Y a-t-il d'autres ressources dont vous souhaitez vous débarrasser ?
+"Si vous souhaitez offrir certaines de vos ressources à un autre joueur, cliquez sur la ressource que vous voulez envoyer et sélectionnez ensuite le bénéficiaire."
+Disponible à la vente ou à l'échange
+Joueurs
+%s protège le %s
+%s ne peut être lancé que sur des créatures ennemies.
+1er niveau
+2ème niveau
+3ème niveau
+4ème niveau
+5ème niveau
+%s ne peut être lancé que sur des créatures alliées
+"Entrez l'adresse IP de l'hôte.
+(i.e. 220.415.119.223)"
+%s ne peut être utilisé sur les %s.
+Les %s sont immunisés contre le sort %s.
+Pas assez de place ici pour y déplacer les %s.
+Un Séisme ne vous apportera rien s'il n'y a pas de fortifications à endommager.
+Votre héros dispose déjà de %d troupes et ne peut en accueillir d'autres pour l'instant.
+"Attaque
+Défense
+Magie
+Savoir."
+Ce sort n'affecte personne !
+"Le sort %s inflige %d points de dégâts 
+à tous les morts-vivants."
+"L'Onde Mortelle inflige %d points de dégâts 
+à toutes les créatures vivantes."
+Échec du sort Clone !
+%s %s le sort !
+Attaque
+Défense
+Le sort d'Envol n'est pas assez puissant pour affecter un bateau.
+Vitesse
+Créatures/Sem
+%s lance %s sur les %s.
+%s lance '%s'.
+Joueur %s
+Munitions
+Dégâts
+Capital Santé
+Votre temps est écoulé. Passage au tour suivant.
+Gardé par 
+"
+Votre Héros a appris %s %s."
+"
+Votre héros peut apprendre l'une des Compétences suivantes :
+%s %s ou %s %s."
+"{Points de Magie}
+
+%s dispose actuellement de %d points de magie sur un maximum de %d. Le nombre maximal de points de magie est égal à 10 fois le Savoir du héros. Certains événements spéciaux vous permettront parfois de disposer de points de magie supplémentaires."
+"Pour être lancé, ce sort requiert %d points de magie. Votre Héros dispose de %d points de magie et ne peut lancer ce sort."
+"Pour entraîner correctement vos troupes, vous devez toujours avoir des réserves en Or et Ressources. Souhaitez-vous procéder à l'amélioration ?"
+%s a découvert le plus d'obélisques.
+%s a découvert le plus d'artéfacts.
+%s a l'armée la plus puissante.
+%s a la plus grande réserve d'Or.
+L'artéfact suprême peut être trouvé %s.
+"Pour jeter des sorts, votre héros doit acheter un livre de sorts pour 500 pièces d'or. Malheureusement, vous semblez être à court de trésorerie pour le moment."
+"Pour jeter des sorts, votre héros doit acheter un livre de sorts pour 500 pièces d'or. Souhaitez-vous acheter un livre de sorts ?"
+"%s est de niveau %d, %s 
+avec %d artéfacts."
+"Après un généreux pourboire, l'aubergiste vous murmure : 
+%s"
+Disponible : 
+Classement 
+Tous les bâtiments requis pour cette construction ont déjà été achetés
+Attaquer les %s
+"Grâce à la compétence Mimétisme, %s apprend %s."
+Pas assez de mémoire.
+Impossible de construire un autre bâtiment aujourd'hui.
+Perte de %s '%s'.
+Perte du héros '%s'.
+"Vous n'avez pas gagné avant le mois %d, semaine %d, jour %d."
+Perte de tous vos héros et toutes vos villes.
+Prise de %s '%s'.
+Mise en déroute du héros '%s'.
+Trouver le Graal.
+Trouver l'artéfact %s.
+Accumuler %d %s.
+ Vous pouvez également défaire tous les héros et prendre toutes les villes de vos ennemis.
+Défaire tous les héros et prendre toutes les villes de vos ennemis.
+Vous et vos alliés 
+Vous et votre allié 
+ et 
+Vous
+L'alliance ennemie de 
+l'ennemi - 
+"{Expérience}
+
+L'expérience permet à vos héros de gagner des niveaux supplémentaires, ce qui améliore leurs caractéristiques et leurs compétences."
+"{Ressources}
+
+Il y a sept ressources dans le monde d'Erathia. Elles sont utilisées pour construire les bâtiments dans les villes, acheter des troupes et recruter des héros. L'Or est la plus commune et la plus utilisée de ces ressources. Le Bois et la Pierre sont utilisés pour la construction des bâtiments. Les Gemmes, le Mercure, le Soufre et les Cristaux sont des ressources magiques utilisées lorsque vous recrutez les créatures ou que vous construisez les bâtiments les plus puissants."
+Ces créatures sont disposées à rejoindre votre armée !
+"Toutes ces créatures veulent rejoindre votre armée...
+
+contre quelques %d pièces d'Or."
+Ces faibles créatures fuiront probablement devant votre armée.
+Je crains fort que ces créatures ne soient prêtes au combat.
+La recherche du Graal est vaine. Votre héros ne pourrait pas le transporter même s'il le trouvait - car sa besace est pleine.
+Impossible d'accéder au lecteur de CD-ROM. Sans la présence du CD-ROM d'Heroes vous ne pourrez jouer qu'en tant qu'invité d'une partie multi-joueur.
+"Félicitations ! Vous avez pris %s, et la victoire est à vous !"
+"L'ennemi a pris %s, et revendique la victoire !"
+La ville de %s est tombée - tout est perdu !
+Félicitations ! Vous avez réussi à défaire %s. La victoire est à vous !
+"Votre héros, %s, a été vaincu - votre quête s'achève !"
+"Hélas, vous êtes à court de temps. Tout est perdu..."
+Revenu Journalier
+Scinder les %s
+Annuler
+Artéfacts
+Équipé
+Tricheur !!!
+Divers
+Dans la besace
+Le Graal est enterré %s de ces terres.
+Le Graal est enterré %s, dans les souterrains.
+"Créature
+Bonus"
+"Créatures
+Disponibles"
+Je peux vous offrir l'objet %s pour %d %s de %s.
+Je peux vous offrir %d %s de %s pour votre %s.
+Je peux vous offrir %d %s de %s pour %d %s.
+Ressources du Royaume
+Artéfacts de %s
+Créatures de %s
+Seuls les héros en visite peuvent utiliser %s.
+Construire un(e) %s
+Il n'y a plus de place dans la garnison.
+Félicitations ! Vous avez plus de %d %s dans vos armées. Vos ennemis n'ont d'autre choix que de se rendre !
+L'ennemi a accumulé plus de %d %s. Vous devez admettre votre défaite !
+Félicitations ! Vous avez accumulé %d %s. La victoire vous revient !
+L'ennemi a accumulé %d %s. La victoire lui revient !
+"Félicitations ! Vous avez trouvé le %s, et pouvez revendiquer la victoire !"
+"L'ennemi a trouvé le %s, et revendique la victoire !"
+"Félicitations ! Vous avez procédé à l'amélioration de votre ville avec succès, et pouvez revendiquer la victoire !"
+"Vos ennemis ont procédé à l'amélioration de leur ville, et revendiquent la victoire !"
+"Félicitations ! Vous avez construit un bâtiment en l'honneur du Graal, et pouvez revendiquer la victoire !"
+"L'ennemi a construit un bâtiment en l'honneur du Graal, et revendique la victoire !"
+"Félicitations ! Vous avez accompli votre quête en terrassant la créature et pouvez revendiquer votre victoire! !"
+"Vos ennemis vous ont devancé et ont terrassé la créature avant vous. Ils revendiquent la victoire !"
+Félicitations ! Votre drapeau flotte au-dessus de chaque demeure de créatures. La victoire est à vous !
+Le drapeau de l'ennemi flotte au-dessus de chaque demeure de créatures. La victoire est à lui !
+Félicitations ! Votre drapeau flotte au-dessus de chaque mine. La victoire est à vous !
+Le drapeau de l'ennemi flotte au-dessus de chaque mine. La victoire est à lui !
+"Félicitations ! Vous avez atteint votre destination avec votre cargaison intacte, et pouvez revendiquer la victoire !"
+L'ennemi a livré la précieuse cargaison intacte, et revendique la victoire !
+Déplacer les %s ici.
+Faire voler %s jusqu'ici.
+"Tirer sur les %s (%d Tirs restants, dégâts %s)"
+Voir les informations sur %s.
+Plus de Munitions !
+Ressusciter les %s.
+Réanimer les %s en tant que Démons.
+Lancer un sort sur les %s.
+L'ennemi vient de se rendre !
+L'ennemi s'est enfui !
+Une glorieuse victoire !
+"
+
+Pour ses hauts faits d'armes, %s reçoit %d points d'expérience."
+"%s se rend à l'ennemi, et part couvert de honte."
+%s n'a pas été à la hauteur et a préféré fuir le combat.
+"Vos forces subissent une défaite importante, et %s abandonne votre cause."
+"Vos forces se rendent à l'ennemi, et partent couvertes de honte."
+Vos troupes fuient lâchement le champ de bataille.
+Votre armée subit une lourde défaite.
+La catapulte doit être équipée.
+Cette créature a déjà été améliorée.
+Vous ne pouvez pas vous permettre de promouvoir cette créature.
+Toutes les créatures ont déjà été améliorées.
+Vous ne pouvez pas vous permettre de promouvoir toutes vos créatures.
+ville fortifiée
+Améliorer les %s.
+Construire le Saint Graal à %s.
+Construire le Saint Graal.
+Vaincre le monstre %s qui se trouve dans la région %s de la carte.
+Recruter %d %s dans les armées de votre royaume.
+Contrôler toutes les Demeures de Créatures.
+Contrôler toutes les Mines.
+Rapporter l'objet %s à %s.
+Il n'y a plus assez de place dans votre besace.
+En attente des autres joueurs....
+"Désolé, vous avez été déconnecté."
+Vous n'avez pas les moyens d'acheter un bateau.
+(Fouille Possible)
+Un des joueurs triche !
+Un des joueurs est passé en mode Debug !
+%s est déjà à bord d'un bateau.
+Il n'y a plus d'emplacement pour un bateau.
+Il n'y a aucun bateau à appeler.
+"%s a tenté d'appeler un bateau, mais a échoué."
+"%s a tenté de saborder un bateau, mais a échoué."
+%s n'est pas assez compétant pour relancer ce sort aujourd'hui.
+"%s, Niveau %d"
+Les Chaînes de Gladiateur empêchent %s de fuir !
+Les Chaînes de Gladiateur empêchent %s de se rendre !
+Niveau %d, %s
+"
+Inflige %d points de dégâts."
+Libre
+N/A
+Coût
+%s, le Voyant
+ (Recherche l'objet %s)
+Marché Noir
+%s enregistrement réussi.
+Tour de %s.
+(Visité)
+(Non visité)
+(Déjà appris)
+(Apprend %s)
+(Apprend %s)
+(Déjà appris)
+%s vous fait un don.
+%s apprécierait un don de %s.
+%s apprécierait de recevoir quelques ressources.
+%s draine %d points de vie aux %s.
+%s drainent %d points de vie aux %s.
+"
+ et l'un d'eux est réanimé."
+"
+ et %d d'entre eux sont réanimés."
+%s infligent deux fois plus de dégâts.
+Les %s infligent deux fois plus de dégâts.
+Un éclair frappe les %s !
+"Plein de rage, %s inflige 50%% de dégâts supplémentaires aux %s."
+"Plein de rage, les %s infligent 50%% de dégâts supplémentaires aux %s."
+"Les blessures du %s se referment."
+"Les blessures des %s se referment."
+"{Phase tactique}
+
+Lors de cette phase, un héros supérieurement compétent en Tactique peut déployer ses troupes avant le début du combat."
+%s draine des points de magie à %s.
+Les %s drainent des points de magie à %s.
+Les sentinelles
+%s inflige %d points de dégâts.
+Les %s infligent %d points de dégâts.
+"
+Un(e) %s meurt."
+"
+%d %s meurent."
+Att.
+Déf.
+Magie
+Savoir
+Moral
+Chance
+Dégâts
+Pts de Magie
+Santé
+Santé
+Alliés
+Ennemis
+Options de Combat
+Vitesse d'Animation
+Volume de la Musique
+Volume des Effets Sonores
+Options de Combat auto.
+Informations Créatures
+Créatures
+Sorts		  
+Catapulte		  
+Dispensaire		
+Toutes les Informations		
+Sorts Uniquement		
+Voir les Hexagones	
+Limite de Déplacement		
+Ombre du Curseur		
+Pertes		
+Attaquant		
+Défenseur		
+Vainqueur		
+Perdant	
+Début d'un nouveau tour.		
+"%s s’aperçoit que les chances sont contre lui. 
+
+Voulez-vous battre en retraite ?"		
+"%s soigne les %s 
+leur enlevant %d points de dégâts."		
+Le joueur dont c'était le tour a quitté la partie ! Son tour va être joué par l'ordinateur.
+Les autres joueurs ont quitté la partie. Vous êtes vainqueur !
+Voir les Caractéristiques du Héros
+Voir les Caractéristiques du Héros ennemi
+Soigner les %s.
+"{Objet Magique}
+
+À quelques distances, vous discernez un artéfact ancien. Malheureusement, il est gardé par %s %s. Souhaitez-vous combattre les %s afin de récupérer l'objet ?"
+"À votre grand désarroi, l'objet : %s est gardé par %s %s.
+
+Voulez-vous affronter les gardiens ?"
+"Il n'y a aucun %s ici pour l'instant.
+"
+"%d %s rejoignent votre armée.
+"
+"Il y a bien longtemps, cette cité abritait des Dragons et leur fabuleux trésor, mais aujourd'hui le vent siffle à travers ces immenses couloirs vides."
+"Les %s apprécieraient de se joindre à votre héros, mais constatent que votre armée est au complet."
+artéfact
+artéfacts
+de chaque ressource
+garnison
+ Format de carte ancienne
+"Désolé, un joueur a quitté le jeu pendant la transmission. Au revoir !"
+Améliorer toutes les Créatures
+Rang
+Joueur
+Carte
+Jours
+"
+Tricheur! +maximum"
+"Temps 
+Total"
+"Score 
+de Base"
+"Niveau de Difficulté"
+"Score 
+Définitif"
++1 Niveau
+"
+
+***Aide de la ligne de commande***
+
+/S0 - coupe le son et la musique
+/I0 - passer l'introduction
+
+Exemple :
+
+HEROES3 /S0 /I0
+
+Démarre Heroes III sans son et sans introduction.
+"
+%s a gagné un niveau.
+%s a atteint le Niveau %d - (%s)
+"HOTSEAT 
+Entrez les noms des joueurs :"
+Échec de l'initialisation de la connexion modem. Réessayez.
+Jeu par Modem
+Échec de l'initialisation de la connexion série. Réessayez.
+Jeu par Câble Série
+Échec de la création d'un jeu par câble série. Réessayez.
+Ma Partie
+Mot de Passe :
+Pas de partie trouvée sur l'ordinateur hôte.
+"Désolé, il s'est produit une erreur à la connexion. Réessayez."
+Impossible de trouver la partie. Réessayez.
+Mot de passe incorrect !
+Échec de l'initialisation de la connexion TCP/IP. Réessayez.
+"Votre adresse IP : 
+%s"
+Échec de l'initialisation de la connexion IPX. Réessayez.
+Mot de Passe (Optionnel) :
+Impossible de trouver cette adresse IP !
+Puzzle Map
+Amener %s à %s.
+Disponible
+Coût Total
+Il s'est produit une erreur lors de la connexion à l'hôte. Réessayez.
+Ordinateur
+%s a quitté la partie.
+Vous êtes maintenant l'hôte !
+Passage de niveau d'un héros contrôlé par un autre joueur…
+Un joueur contrôlé par l'ordinateur attaque un joueur humain. En attente de la fin du combat…
+murmurer
+murmurer à
+Expérience requise pour atteindre le prochain niveau.
+Expérience Totale
+Sacrifier les artéfacts.
+Placez des objets sur l'Autel.
+Autel de Sacrifice
+"Pour sacrifier des créatures, placer vos unités sur l'Autel et cliquez sur Sacrifier."
+Sélectionner %s
+Ce sacrifice n'est pas possible.
+Cet emplacement vous montre la créature sélectionnée.
+Sacrifier %s
+Réceptacle
+Ossuaire
+Placez des créatures dans l'Ossuaire pour en faire des Squelettes
+Les créatures dans l'Ossuaire deviendront des Squelettes.
+Les %s vont devenir des %s.
+Votre %s est déjà un Squelette.
+Vos %s sont déjà des Squelettes.
+Difficulté de Jeu 
+"%s existe. 
+
+Écraser ?"
+Difficulté Map :
+Nom du Scénario :
+Description du Scénario :
+Conditions de Victoire :
+Conditions de Défaite :
+Humain
+Afficher les Scénarios Disponibles
+Afficher les Options Avancées
+Lecture des fichiers de Cartes
+Fichier corrompu
+Il y a un problème avec les données de ce fichier. Il est inutilisable par Heroes III.
+Pour mettre à jour la version de ce fichier, chargez-le dans l'Éditeur de Scénarios puis sauvegardez-le.
+Cette carte n'est pas jouable. Veuillez corriger le problème à partir de l'éditeur de carte d'Heroes III avant de jouer.
+Vide
+Anonyme
+Réception des descriptifs de scénarios de l'hôte…
+Taille des Cartes
+S
+M
+L
+XL
+Options Avancées
+"Choisissez un nom, un handicap et les options de départ de chaque joueur."
+"Nom du Joueur
+Handicap"
+"Départ
+Ville"
+"Départ
+Héros"
+"Départ
+Bonus"
+Durée Maximale d'un Tour
+Aléatoire
+Aucun
+"Désolé, l'hôte a lancé la partie sans que vous y soyez admis."
+%s est entré dans la partie.
+%s a quitté la partie.
+Un joueur inconnu a quitté la partie.
+%s est le nouvel hôte.
+Il n'y a aucune carte à jouer.
+Vous devez vous choisir une position avant de commencer la partie.
+Cacher Forum
+Voir Forum
+L'hôte s'apprête à lancer la partie…
+Impossible d'ouvrir le fichier - Video.vid
+Erreur de Fichier Vidéo !
+%s empêche %s de lancer des sorts de niveau 3 ou supérieur.
+Les vents tournoyants des terres maudites sapent votre énergie mystique. Vous ne pouvez pas lancer de sorts supérieurs au niveau 1.
+"Comme %s a déjà appelé des %s, aucun type d'élémentaires ne viendra en aide à %s."
+son
+son
+%s déclame les incantations, mais elles semblent ne pas avoir d'effet.
+Choisissez une troupe à ressusciter.
+Choisissez une troupe à sacrifier.
+%s résiste à %d points de dégâts.
+Les %s résistent à %d points de dégâts.
+%s subis %d de dégâts supplémentaires.
+Les %s subissent %d de dégâts supplémentaires.
+Ressusciter les %s
+Sacrifier les %s
+Retirer cet obstacle
+"%s sent la morsure du temps et perd %d points de vie."
+"Les %s sentent la morsure du temps et perdent %d points de vie."
+Soudainement %s, ne se sent vraiment pas bien.
+Soudainement, les %s ne se sentent vraiment pas bien.
+Tous les sorts bénéfiques affectant les %s sont dissipés.
+Les %s ne voient plus rien.
+Les %s semblent ne rien pouvoir faire correctement.
+%s a été changé(e) en pierre.
+Les %s ont été changé(e)s en pierre.
+Les %s sont pris dans les racines.
+%s se tord de douleur alors que le poison court dans ses veines.
+Les %s se tordent de douleur alors que le poison court dans leurs veines.
+Paralysie de %s.
+Paralysie des %s.
+%s lance %s
+Les %s lancent %s
+ sur les %s.
+Options
+Vitesse des Héros
+Vitesse des Ennemis
+Défilement de l'Écran (scroll)
+Afficher les Itinéraires
+Rappel de Fin de Tour
+Combats Instantanés
+Sous-Titres
+Contour des Bâtiments
+Livre de Sorts Animés
+"Êtes-vous sûr de vouloir annuler la partie ?
+(Toute partie non sauvegardée sera perdue)"
+Comme vous approchez de la Nuée Mystique votre corps se recharge en énergie. Le nombre de vos Points de Magie vient d'être doublé.
+"Le palefrenier approche avec un superbe cheval entraîné pour la guerre. ""Ce coursier vous aidera à vous déplacer plus rapidement. Hélas, son endurance est déclinante à cause de votre équipement, et vous devrez changer de monture chaque début de semaine."""
+Vous étudiez les hiéroglyphes gravés sur le Mur du Savoir afin de mieux comprendre les mystères des différentes magies. (+1 en Savoir)
+L'Ordre du Feu vous enseigne une nouvelle méthode pour concentrer vos pouvoirs magiques.
+(+1 en Magie)
+Une visite à l'Académie Militaire vous permet d'acquérir de nouvelles compétences.
+(+1000 points Experience)
+Le temps passé au Valhalla vous permet d'apprendre des techniques de combat plus efficaces. (+1 en Attaque)
+"Vous vous enfermez dans la Cage des Privations avec quelques guerriers de valeurs qui vous apprennent à mieux résister à la douleur.
+(+1 en Défense)"
+%s a construit : %s.
+%d %s supplémentaires recrutables dans la ville de %s.
+Croissance par semaine des %s.
+Chaque semaine, le nombre total de la créature %s augmente de +%d.
+"
+
+Croissance de base +%d"
+"
+Demeures Externes %+d"
+Salle du Conseil
+Sortie de la Guilde des Mages
+Garnison
+Construire %s
+Ne pas construire %s
+Souhaitez-vous faire de cette ville l'écrin permanent du Graal ?
+Construire un Bateau
+Ne pas construire un Bateau
+Sortie
+Fortifications
+Université
+"L'écho des pas de votre héros résonne à travers les couloirs de l'Université. Le préposé vous explique quels sont les enseignements que peut recevoir votre héros."
+Votre héros connait déjà cette compétence.
+Votre héros ne peut pas apprendre cette compétence.
+Votre héros ne peut plus apprendre de compétences.
+%s %s coûtera %d pièces d'Or.
+"Avec un léger sourire et un froncement de sourcils, le préposé vous prévient, ""Les cours pour devenir %s en %s coûtent %d pièces d'Or."""
+Acheter %s
+"Durée %s : %d tours."
+Carte
+Ville
+Héros
+Artéfact
+Téléporteur
+Portail Magique
+Mine
+Ressource
+Bois
+Mercure
+Pierre
+Soufre
+Cristaux	
+Gemmes	
+Or	
+Il vous reste une seconde pour jouer votre tour.
+Il vous reste %d secondes avant la fin de votre tour.	
+Il vous reste une minute avant la fin de votre tour.	
+Il vous reste %0.1f minutes avant la fin de votre tour.	
+Le joueur actuel est...	
+"%s a trouvé l'objet %s et revendique la victoire !"	
+"Les %s ont trouvé l'objet %s et revendiquent la victoire !"	
+%s a plus de %d %s. Vous devez admettre votre défaite !	
+%s ont plus de %d %s. Vous devez admettre votre défaite !	
+"%s a plus de %d %s et revendique la victoire !"	
+%s ont plus de %d %s. La victoire est à eux !	
+Félicitations ! %s a trouvé l'objet %s. Votre équipe remporte la victoire !	
+Félicitations ! La ville de %s a été améliorée avec succès. Votre équipe remporte la victoire !	
+"La ville de %s a été améliorée avec succès, et il revendique la victoire !"	
+Les villes de %s ont été améliorées avec succès. La victoire est à eux !	
+Félicitations ! %s a construit un bâtiment en l'honneur du Graal. Votre équipe remporte la victoire !	
+"%s a construit un bâtiment en l'honneur du Graal et il revendique la victoire !"	
+%s ont construit un bâtiment en l'honneur du Graal. La victoire est à eux !	
+Félicitations ! %s a accompli votre quête en terrassant la créature. Votre équipe remporte la victoire !	
+"%s vous a devancé en terrassant la créature de votre quête et il revendique la victoire !"	
+%s vous ont devancé en terrassant la créature de votre quête. La victoire est à eux !	
+Le drapeau de %s flotte au-dessus de toutes les demeures de créatures. La victoire est à eux !	
+Le drapeau de %s flotte au-dessus de toutes les demeures de créatures. La victoire est à eux !	
+Le drapeau de %s flotte au-dessus de toutes les Mines. La victoire est à eux !	
+Le drapeau de %s flotte au-dessus de toutes les Mines. La victoire est à eux !	
+Félicitations ! %s a atteint sa destination avec son précieux chargement. Votre équipe remporte la victoire !	
+"%s a atteint sa destination avec son précieux chargement et revendique la victoire !"	
+%s ont ramené le précieux chargement intact. La victoire est à eux !	
+"Désolé, l'hôte a quitté la partie. Vous devez insérer le CD-ROM pour accueillir une partie."	
+Voir les parties sauvegardées
+Équipe %d
+{Organisation des équipes}
+Récupération après l'éjection d'un joueur... Veuillez patienter...
+Félicitations ! Tous les ennemis ont été vaincus ! La victoire est à vous !
+"Tous vos héros ont été vaincus, et vous êtes banni de ces terres !"
+Information sur le scénario
+Appuyez sur ESC pour annuler le mode solo.
+Erreur d'ouverture du fichier *.snd.
+Erreur de fichier son !
+"Désolé, votre version #%s est incompatible avec la version #%s de l'hôte. Vous ne pouvez vous joindre à la partie."
+"Effacer les scores fera disparaître toute trace de vos accomplissements passés. 
+
+Êtes-vous certain de vouloir effacer les Scores ?"
+"
+%s est détruit."
+Vaincre le monstre %s qui est dans la région %s des souterrains.
+%s n'ont pas réussi à terminer leur quête dans le temps imparti. Ils ont perdu.
+%s a perdu le héros %s. Votre quête est terminée.
+Souhaitez-vous continuer une partie enregistrée ?
+Campagne
+"En racontant la légende du Graal aux habitants, vos paroles se heurtent à l'incrédulité générale. Cette ville ne fait pas preuve d'assez de foi. Vous devez chercher une ville plus méritante pour le Graal."
+Pas de sort actif
+%s invoque %d %s.
+"Votre
+Classement"
+Le bassin n'a encore rien produit.
+Cette semaine, le bassin a produit %d %s.
+"Durée %s : %s."
+jusqu'à ce que l'agresseur bouge
+jusqu'à la prochaine attaque
+jusqu'à la fin du combat
+"%s porte %s, une très ancienne relique qui empêche toute magie d'être utilisée."
+Cette garnison a subi un envoûtement si puissant qu'il interdit à quiconque de faire appel à la magie.
+"Il n'y a pas de partie à charger.
+
+Peut-être désiriez-vous commencer une partie. Pour ce faire, retournez au Menu Principal et choisissez Nouvelle Partie."
+Choisissez une destination
+Êtes-vous sûr de vouloir effacer %s ?
+"Au début de la partie, 3 à 6 Cristaux sont ajoutés à la réserve de ressources du Royaume."
+"Au début de la partie, 3 à 6 Gemmes sont ajoutées à la réserve de ressources du Royaume."
+"Au début de la partie, 3 à 6 Mercure sont ajoutés à la réserve de ressources du Royaume."
+"Au début de la partie, 3 à 6 Soufre sont ajoutés à la réserve de ressources du Royaume."
+3-6 Cristaux
+3-6 Gemmes
+3-6 Mercure
+3-6 Soufre
+Votre %s a épuisé ses Points de Magie.
+Vos %s ont épuisé leurs Points de Magie.
+Les terres maudites rendent la pratique de la magie impossible, excepté pour les sorts de niveau 1.
+Une aura anti-magie bloque tous les sorts lancés dans cette garnison.
+%s empêche le lancement des sorts.
+Impossible d'invoquer des %s à partir des cadavres de morts-vivants.
+%s mort(e) n'a pas une force vitale suffisante pour invoquer %s.
+Les %s mort(e)s n'ont pas une force vitale suffisante pour invoquer %s.
+Seuls les vivants peuvent être ressuscités.
+%s n'est pas assez puissant pour ressusciter un %s.
+Les %s ne sont pas assez puissants pour ressusciter un %s.
+"{Espace Disque Insuffisant}
+
+Heroes III requiert au moins 5 Mo d'espace libre sur le disque. 
+
+Veuillez vérifier que vous avez bien 5 Mo d'espace libre avant de lancer le jeu."
+"{Espace Disque Insuffisant}
+
+Heroes III requiert au moins 1 Mo d'espace libre sur le disque pour enregistrer une partie.
+
+ Pour supprimer une partie déjà sauvegardée, sélectionnez-la et pressez les touches CTRL-SUPPR. 
+
+Pour libérer de l'espace manuellement, pressez les touches ALT-TAB pour retourner sur Windows."
+Laissez des gardes
+%s se fige sous l'effet de la peur.
+Les %s se figent sous l'effet de la peur.
+Ce sort n'aura aucun effet.
+"Enfin, vous avez le dernier objet nécessaire à la fabrication de l'Épée. Bientôt, vous ferez trembler le monde."
+%s : tous les sorts sont disponibles.
+Commencer avec %s
+Commencer avec un parchemin contenant le sort %s
+Commencer avec %d %s
+Commencer avec %s %s
+Commencer avec des héros de type : %s
+Commencer avec un héros aléatoire
+Bois et Pierre
+"Soufre, Mercure, Cristaux, et Gemmes"
+Format de %s incorrect
+Choisir une campagne Armageddon's Blade
+Choisir une campagne Restoration of Erathia
+Choisir une campagne personnalisée
+Retour au Menu Principal
+La peur provoquée par les %s immobilise : %s.
+"Présence du CD Heroes III : %s dans le lecteur. 
+
+Pour jouer à Heroes III: %s, insérez le CD de l'extension. 
+
+Pour rejoindre une partie multijoueur hébergée par un autre joueur, vous n'avez pas besoin du CD et vous pouvez continuer. 
+
+Si vous désirez jouer seul, quittez cette application et insérez le CD de
+
+ %s, avant de relancer %s."
+L'hôte génère une carte aléatoire...
+Sort annulé
+Vous possédez tous les éléments nécessaires à l'assemblage de l'artéfact suivant : %s. Souhaitez-vous assembler cet artéfact ?
+Souhaitez-vous désassembler cet artéfact ?
+Sélectionnez une campagne Shadow of Death.
+Enchanteresse
+Yog a renoncé à la magie sous toutes ses formes. Ses connaissances du combat et de la tactique devront lui suffire pour avancer sur le chemin de la vie.
+"Félicitations, vous avez pris aux frères barbares les trois objets dont vous aviez besoin."
+Configuration aléatoire de la Carte
+Choisissez les options de création d'une Carte aléatoire
+Carte aléatoire
+Jouer une carte aléatoire
+"Le fichier ""tutorial.tut"" de la carte d'initiation est manquant. Vous ne pouvez pas commencer l'initiation sans ce fichier."
+Pour jouer avec la sauvegarde choisie, tous les joueurs doivent lancer %s. Certains des joueurs connectés ne peuvent pas jouer avec cette sauvegarde.
+Pour jouer sur la carte choisie, tous les joueurs doivent lancer %s. Certains des joueurs connectés ne peuvent pas jouer sur cette carte.
+Armageddon's Blade
+The Shadow of Death
+Les énergies magiques des sorts d'un niveau supérieur à 1 sont absorbées par les terres maudites.
+Carte aléatoire créée !
+Impossible de créer Random_Map.H3M dans le dossier Data.
+Erreur lors de l'écriture de la carte aléatoire sur le disque.
+La carte correspondant à vos critères n'a pu être créée.
+Taille de Carte
+Joueurs Humains ou Ordinateur
+Equipes Humaines ou Ordinateur
+Joueurs Humains uniquement
+Joueurs Ordinateur uniquement
+Masse océanique
+Force des monstres
+Carte Aléatoire
+Création de la Carte
+Seul Gelu peut transporter l'Épée de l'Apocalypse.
+The Restoration of Erathia
+Félicitations, vous avez récupéré les trois artéfacts.

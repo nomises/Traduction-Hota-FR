@@ -1,0 +1,45 @@
+Hero Window
+Attaque
+Défense
+Magie
+Savoir
+{Spécialité}
+{Expérience}
+{Points Magie}
+Livre des Quêtes
+"Renvoyer
+Héros"
+Overview Window
+Or par Jour:
+Shipyard Window
+Construire un Bateau
+Coût:
+Thieves Guild Window
+1er
+2ème
+3ème
+4ème
+5ème
+6ème
+7ème
+8ème
+Nombre de Villes
+Nombre de Héros
+Or
+Bois & Pierres
+Mercure, Soufre, Cristaux & Gemmes
+Obélisques Découverts
+Artéfacts
+Puissance Militaire
+Revenus
+Meilleur Héros
+Personnalité
+Meilleure Créature
+Tavern Window
+Taverne
+Héros Disponibles
+Town Gate Window
+Passage Funeste
+Choisissez une ville de destination
+Blacksmith Window
+Coût:

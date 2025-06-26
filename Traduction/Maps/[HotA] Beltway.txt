@@ -1,0 +1,93 @@
+===== Map name =====
+Beltway
+
+===== Map description =====
+The enchanted lake and the valley it lies in were surrounded by mountains and impenetrable forests. Now, the armies of three lords who live on the lake's shores are advancing through the new clearings. If they are not stopped, they will seize the lands that are up for the taking.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Start
+Message:
+The path leading from the Lake Valley has become passable. Now we can conquer the surrounding lands... But things are not that simple. If the way is open for you, then it is equally open for your neighbors, the two lords. This means you'll have to fight for the right to conquer. The assistant you hired is ready to move out.
+
+Name:
+Start - Underground
+Message:
+While the lords on the surface are busy fighting among themselves, it's time to seize the caves beneath the lake and move to the surface. These gapers will be surprised when your army appears before them...
+
+Name:
+Underground Lord
+Message:
+A scout has arrived. He reports that someone has activated the portals leading to the dungeons. It seems that another lord has taken up residence there, and he would not mind a piece of your fight, only to claim all the resources for himself.
+
+Name:
+Computer Help
+Message:
+
+
+===== Heroes =====
+
+===== Objects =====
+
+(36, 25, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Стройка
+Message:
+
+
+(13, 71, 0) ***Ocean Bottle***
+Message:
+Beware the edge of the world!
+
+(12, 0, 0) ***Ocean Bottle***
+Message:
+Look around!
+
+(3, 18, 0) ***Seer's Hut***
+Message:
+Among the evil-doers and ruthless scoundrels who command pirate frigates, there is one upstanding fellow, Bidley by name. I am an old man, and before heading out on my last voyage, I would like to see him.
+You are not Bidley. I haven't seen that rascal in a long time, and I want to give him my last firm handshake. However, if he doesn't come here soon, I'll have to keep the gift I prepared for him and sail away.
+Bidley! My old friend! So many years, so many storms since our last meeting! Remember how our united fleet had gotten surrounded? Few survived that mess... Anyway, let's get down to business. During one of my voyages, I came across the magic-imbued Golden Bow. I won't need it where I'm going, while you'll surely find it useful. It doesn't matter that it's a bow and has nothing to do with cannons or pistols. When I held it in my hands, my crew would hit any target square from hundreds of yards away, knocking tricorns off some very highly esteemed captains. Well, now it's time to have some rum and reminisce about the old days!
+
+(10, 66, 0) ***Event***
+Message:
+It seems a treasure is buried here!
+
+(46, 41, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Стройка
+Message:
+
+
+(24, 43, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Стройка
+Message:
+
+
+(7, 28, 0) ***Event***
+Message:
+The lid of a chest is sticking out of the sand. It seems that someone wanted to bury some treasure here but got stopped halfway...
+
+(36, 34, 1) ***Random Town***
+
+Timed events:
+
+Name:
+Стройка
+Message:
+
+
+===== End of file =====

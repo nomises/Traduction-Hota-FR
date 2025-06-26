@@ -1,0 +1,424 @@
+"Vous entrez dans l'arène et affrontez une meute de lions. Vous parvenez à les vaincre sous les hurlements de la foule. Impressionné par votre courage, le vieil entraîneur de gladiateurs accepte de vous aider à améliorer une de vos compétences."
+"Les gardes de l'arène vous empêchent d'entrer. "Vous avez déjà vaincu nos meilleurs fauves. Vous n'avez plus rien à faire ici."""
+"Vous ne pouvez pas ramasser cet artéfact car vous êtes déjà trop chargé !"
+"{Artéfact}
+
+Vous avez découvert l'humble demeure d'un vieil ermite. Il vous explique qu'il offrira l'artéfact : %s, au premier sage qu'il rencontrera."
+"{Artéfact}
+
+Vous découvrez les quartiers spartiates d'un soldat à la retraite. Le soldat vous déclare être prêt à offrir cet artéfact (%s) au premier véritable meneur d'hommes qu'il rencontrera."
+"{Artéfact}
+
+Un lutin vous propose l'objet : %s en échange de 2000 pièces d'or. Désirez-vous acheter cet artéfact ?"
+"{Artéfact}
+
+Un lutin vous propose l'objet : %s en échange de 2500 pièces d'or et de 3 %s. Désirez-vous acheter cet artéfact ?"
+"{Artéfact}
+
+Un lutin vous propose l'objet : %s en échange de 2500 pièces d'or et de 5 %s. Désirez-vous acheter cet artéfact ?"
+"Victorieux, vous emportez votre prix : %s."
+"{Artéfact}
+
+Vous dénichez un ancien artéfact. Lorsque vous vous en approchez, une meute de Cerbères surgit et vous attaque. Il vous faudra combattre pour gagner ce trésor."
+"{Artéfact}
+
+Vous découvrez un ancien artéfact dans une clairière. Malheureusement, il est gardé par : %s. Êtes-vous prêt à combattre pour cet artéfact ?"
+"Courageux mais pas téméraire, vous décidez d'éviter le combat aujourd'hui."
+"Vous tentez de payer le lutin, mais vous réalisez que vous ne possédez pas ce qu'il réclame. Le lutin tape du pied et vous ignore."
+"Vexé par votre refus de son offre, qu'il estime généreuse, le lutin tape du pied et vous ignore."
+Désirez-vous ouvrir la boîte ?
+"Vous regardez à l'intérieur. Soulagé, vous découvrez que la boîte est vide."
+Il fallait vous en douter - Vous êtes attaqué !
+"Un garde s'approche de votre cheval. ""Bienvenue... On m'a prévenu de votre arrivée. Désirez-vous passer maintenant ?"""
+"Personne ne m'a informé de votre venue, dit le Garde. ""Je ne peux pas vous laisser passer. Essayez d'abord de trouver la Tente du Maître des Clefs."""
+"L'occupant de la Tente du Maître des Clefs semble heureux de vous voir. ""Ah, enfin quelqu'un de méritant"", dit-il. ""Je vais immédiatement faire prévenir le Garde afin qu'il vous accorde le droit de passage."""
+"L'occupant de la Tente du Maître des Clefs vous reconnaît lorsque vous approchez. ""J'ai déjà informé les personnes concernées de votre venue"", dit-il. ""Partez à présent."""
+"{Bouée}
+
+Vos hommes repèrent une bouée de navigation, ce qui confirme que vous êtes sur la bonne route. Leur moral s'en voit amélioré."
+"{Bouée}
+
+Vos hommes repèrent une bouée de navigation, ce qui confirme que vous êtes sur la bonne route."
+"{Feu de Camp}
+
+Lors d'un raid sur un camp ennemi, vous découvrez une cache secrète remplie de trésors."
+"Vous avez déjà vu toutes mes cartes ! Je ne peux rien faire de plus pour vous."
+Vous découvrez un vieux pêcheur en possession des cartes marines les plus détaillées que vous ayez jamais vues. Désirez-vous acheter une collection de cartes pour 10000 pièces d'Or ?
+Vous découvrez un cartographe qui vend des cartes du pays à 10000 pièces d'Or chacune. Désirez-vous acheter une de ses cartes ?
+Vous découvrez un vieux mineur nain qui a conservé quelques cartes de l'époque où il travaillait dans les souterrains. Il est prêt à vous vendre une carte des tunnels pour 10000 pièces d'Or. Êtes-vous intéressé ?
+"Mes cartes coûtent 10000 pièces d'Or, mais vous semblez loin d'en posséder autant. Arrêtez donc de me faire perdre mon temps."
+"{Lac des Cygnes}
+
+Les contes pour enfants prétendent que les Cygnes écarlates portent bonheur. Vous décidez de passer le reste de la journée ici."
+"{Lac des Cygnes}
+
+Les contes pour enfants prétendent que les Cygnes écarlates portent bonheur. Cependant, vous êtes encore sous l'effet de votre dernière visite ici. Vous décidez donc de passer votre chemin."
+"{Voile de Ténèbres}
+
+Vous touchez le Voile de Ténèbres et le paysage autour de vous est soudain plongé dans un brouillard que seuls vos yeux sont capables de pénétrer."
+Vous avez découvert un(e) %s. Désirez-vous attaquer les gardiens ?
+"Vous avez découvert ce qui doit être un(e) %s, depuis longtemps déserté."
+"Après avoir vaincu les %s, vous découvrez : %s."
+"{%s}
+
+Désirez-vous recruter des %s ?"
+"{%s}
+
+Désirez-vous recruter des %s, %s, %s, ou %s ?"
+"{Squelette}
+
+Vous découvrez les restes d'un aventurier malchanceux. En fouillant au milieu des os éparpillés, vous trouvez : "
+"{Squelette}
+
+Vous découvrez les restes d'un aventurier malchanceux. Vous ne trouvez rien d'intéressant dans les restes du malheureux."
+"{Tour de Marletto}
+
+Les soldats vivant dans la tour vous enseignent quelques parades défensives."
+"{Tour de Marletto}
+
+""Je suis désolé sire,"" vous dit le chef des soldats, ""mais nous vous avons déjà appris tout ce que nous savions."""
+"{Bateau Abandonné}
+
+La coque d'un bateau pirate craque et grince sur les rochers. Désirez-vous fouiller le navire ?"
+Après avoir vaincu les Élémentaires de l'Eau, vous passez plusieurs heures à fouiller les débris, mais vous ne trouvez rien. Le moral de vos troupes s'en trouve ébranlé.
+Après avoir vaincu les Élémentaires de l'Eau, vous passez plusieurs heures à fouiller les débris. Vous parvenez à découvrir quelque chose !
+"{%s}
+
+Le camp est désert. Vous devriez peut-être réessayer la semaine prochaine."
+%s
+"{Terres Désolées}
+
+Si vous voyez ce message, vous avez découvert un BUG."
+"{Terres Désolées}
+
+Vous voici devant les Terres Désolées, un lieu interdit aux simples mortels. Désirez-vous vous y aventurer et défier les Dragons qui y vivent ?"
+"L'étrange œil vous scrute lorsque vous approchez. Après quelques instants, il recommence à examiner les environs. Vous avez l'impression que quelqu'un, ou quelque chose, utilise cet œil pour espionner depuis un lieu éloigné."
+"{Cercle des Fées}
+
+Vous pénétrez dans un Cercle des Fées. Votre armée sera plus chanceuse au cours de la prochaine bataille."
+"{Cercle des Fées}
+
+Vous pénétrez dans un Cercle des Fées. Mais la magie agissant en ces lieux s'est dissipée."
+"{Débris}
+
+Vous fouillez les débris, mais vous ne trouvez rien."
+"{Débris}
+
+Vous fouillez les débris et vous récupérez un peu de Bois."
+"{Épave}
+
+Vous fouillez les débris. Vous trouvez une certaine quantité de Bois et d'Or."
+"{Épave}
+
+Vous fouillez les débris. Vous trouvez une certaine quantité de Bois et d'Or."
+"{Fontaine des Espérances}
+
+En buvant l'eau douce et amère, vous vous sentez soudain porté par la chance."
+"{Fontaine des Espérances}
+
+Vous buvez abondamment de l'eau de la fontaine, mais rien ne se produit."
+"{Fontaine de Jouvence}
+
+Vous buvez l'eau de la fontaine et vous vous sentez rajeunir ! Sensible à votre nouvelle vigueur, votre armée retrouve le moral. Vous pourrez parcourir une plus grande distance lors de vos déplacements, jusqu'à la prochaine bataille."
+"{Fontaine de Jouvence}
+
+Vous buvez l'eau de la fontaine, mais rien ne se produit."
+"{Jardin de Révélation}
+
+Un moine assis au milieu d'un jardin vous invite à méditer à ses côtés. Après un certain temps, vous atteignez l'illumination."
+"{Jardin de Révélation}
+
+Vous pénétrez dans le jardin et le moine vous reconnait : ""Mon enfant, la bénédiction de la connaissance n'est accordée qu'une seule fois dans la vie d'une personne."""
+Vous entrez dans la hutte délabrée d'un magicien. Ce dernier vous parle de différents lieux susceptibles de vous aider dans votre quête.
+"{Totem de Chance}
+
+Vous avez découvert une ancienne statue de pierre. Elle est sensée porter bonheur à celui qui l'embrasse. La pierre est vraiment très froide."
+"{Totem de Chance}
+
+Vous avez découvert une ancienne idole de pierre. Elle est sensée apporter le bonheur et la joie, mais les cieux vous sont déjà favorables. Elle ne pourra rien faire de plus pour vous."
+"{Cache}
+
+Vous avez découvert une cache. En fouillant un peu, vous y découvrez des ressources."
+"{Cache}
+
+Cette cache a été abandonnée depuis longtemps. Il n'y a plus rien d'intéressant par ici."
+"{Bibliothèque d'Illumination}
+
+Le gardien vous laisse entrer dans la Bibliothèque. Les quelque temps que vous y passez vous permettent de mieux appréhender le monde."
+"{Bibliothèque d'Illumination}
+
+En vous reconnaissant, le gardien refuse de vous laisser entrer. ""Vous ne pouvez visiter la Bibliothèque qu'une seule fois,"" dit-il."
+"{Bibliothèque d'Illumination}
+
+Le gardien ouvre la porte et vous dévisage. ""Vous n'êtes ni assez célèbre, ni assez diplomate pour être admis dans la Bibliothèque,"" vous lance-t-il. ""Revenez lorsque vous en serez digne."""
+"{Phare}
+
+Ce phare est désormais sous votre contrôle. Vos navires se déplaceront plus rapidement à chaque tour."
+"Cette structure est apparemment un portail de transit, mais il semble hors service."
+"{Conservatoire de Magie}
+
+L'air est saturé de magie dans cette école des arts mystiques. Un responsable accepte de vous inscrire pour 1000 pièces d'or. Vous aurez la possibilité de parfaire vos connaissances ou d'apprendre à mieux concentrer vos pouvoirs."
+"{Conservatoire de Magie}
+
+Un vieux magicien surgit de nulle part vous aborde. ""Maître, nous ne pouvons plus rien vous apprendre. Vous savez déjà tout ce qu'il est bon de savoir"""
+"{Conservatoire de Magie}
+
+L'air est saturé de magie dans cette école des arts mystiques. Un responsable vous informe qu'il est en mesure de vous inscrire, mais malheureusement vous ne disposez pas des 1000 pièces d'or qu'il exige en retour."
+"{Source Enchantée}
+
+Une bonne goulée de cette eau remplit votre corps d'énergie magique ! Vous disposez à présent du double de votre réserve normale de points de magie."
+"{Source Enchantée}
+
+La source met une semaine à se régénérer, et quelqu'un est déjà passé cette semaine."
+"{Source Enchantée}
+
+En temps normal, une bonne goulée de cette eau fait doubler vos points de Magie, mais vous êtes déjà au maximum."
+"{Puits Enchanté}
+
+L'eau de ce puits vous permet de récupérer tous vos points de magie."
+"{Puits Enchanté}
+
+Vous abreuver une seconde fois à l'eau fraîche de ce puits, ne vous rendra pas plus fort."
+"{Puits Enchanté}
+
+L'eau de ce puits permet de récupérer vos points de magie, mais vous êtes déjà au maximum."
+"{Camp de Mercenaires}
+
+Vous passez à proximité d'un camp de mercenaires, en train de s'entraîner au combat. Ils vous accueillent et vous invitent à venir vous entraîner avec eux."
+"{Camp de Mercenaires}
+
+Vous passez à proximité d'un camp de mercenaires, en train de s'entraîner au combat. ""Vous êtes déjà bien plus doué que nous,"" vous dit le capitaine des mercenaires. ""Que pourrions-nous vous apprendre de plus ?"""
+"{Sirène}
+
+La Sirène vous invite à revenir plus tard pour recevoir à nouveau sa bénédiction."
+"{Sirène}
+
+La beauté surnaturelle de la Sirène vous émeut profondément. Vous oubliez vos problèmes pour savourer cet instant magique. Les charmes de la Sirène augmentent votre chance pour le prochain combat."
+Vous découvrez une mine abandonnée. La mine semble infestée de Troglodytes. Désirez-vous tout de même y entrer ?
+Vous avez éliminé les Troglodytes. Cette mine tombe sous votre contrôle.
+"{Recrues}
+
+Un groupe de %s en quête de gloire souhaite se joindre à vous. Acceptez-vous leur offre ?"
+"Insultées par votre refus, les créatures vous attaquent !"
+"Vos arguments ont convaincu les %s qui proposent de se joindre à votre armée pour la somme de %d pièces d'Or. Acceptez-vous leur offre ?"
+"Les créatures sont convaincues par vos arguments diplomatiques et vous font une offre : 
+
+"
+%d des %s rejoindront votre armée pour la somme de %d pièces d'Or. Acceptez-vous leur offre ?
+"Votre puissance a impressionné les %s, qui se dispersent. Souhaitez-vous les poursuivre et les attaquer ?"
+"{Jardin Mystique}
+
+Une charmante musique vous attire dans un petit jardin où vous découvrez un lutin en train de danser joyeusement. Vous parvenez à le capturer. En échange de sa liberté, il vous guide jusqu'à un petit coffret rempli d'objets précieux."
+"{Jardin Mystique}
+
+Une charmante musique vous attire dans un petit jardin où vous découvrez un lutin en train de danser joyeusement. Vous tentez de le capturer. Mais son agilité lui permet de s'échapper."
+"{Oasis}
+
+L'eau de l'oasis est rafraîchissante, mais ne semble pas avoir d'autre propriété. Il en serait peut-être différemment après une bataille ?"
+"{Oasis}
+
+L'eau de cette oasis redonne des forces et remonte le moral de vos troupes. Vous pourrez voyager un peu plus loin aujourd'hui."
+"{Obélisque}
+
+Vous découvrez un obélisque sculpté dans une pierre étrange. Tandis que vous le regardez, une inscription apparaît soudain à sa surface. Cette inscription ressemble à un morceau d'une ancienne carte. Vous recopiez rapidement le dessin, et l'inscription disparaît comme par enchantement."
+"{Obélisque}
+
+Vous êtes déjà passé par ici."
+"{Arbre Observatoire}
+
+Du haut de l'observatoire, vous parvenez à contempler de lointaines régions."
+"{Pilier de Feu}
+
+Vous découvrez un étrange pilier enduit d'une matière inflammable. La lumière qu'il produit lorsque vous l'allumez suffit à éclairer une large zone autour de lui."
+"{Roue de Puissance}
+
+Vous rencontrez plusieurs des meilleurs astrologues du pays réunis autour d'une Roue de Puissance. Heureux d'avoir un peu de compagnie, ils vous apprennent à utiliser le soleil, la lune et les étoiles pour améliorer votre capacité à lancer des sorts."
+"{Roue de Puissance}
+
+Vous rencontrez plusieurs des meilleurs astrologues du pays réunis autour d'une Roue de Puissance. Vous discutez un peu avec eux, mais vous réalisez rapidement qu'ils ne pourront rien vous apprendre de plus."
+"Dans un accès de bravoure, vous vous infiltrez dans la geôle locale pour libérer le héros qui y était prisonnier. Ce dernier jure fidélité à votre cause."
+"Vous disposez déjà de huit héros. Le prisonnier devra malheureusement se languir et agoniser dans sa cellule pendant bien des jours encore."
+Les geôliers vous expliquent que le héros emprisonné ici a déjà été libéré par un autre aventurier.
+"Vous découvrez la pyramide d'un ancien grand pharaon. Il serait tentant de l'explorer, mais de nombreuses histoires parlent de malédictions et de terribles gardiens. Oserez-vous y pénétrer ?"
+"Après avoir vaincu les monstres, vous déchiffrez d'anciens hiéroglyphes sur le mur, révélant le secret du sort - "
+Vous découvrez la pyramide d'un ancien grand pharaon. Une rapide exploration vous révèle qu'elle est totalement vide.
+"  Malheureusement, votre sagesse ne vous permet pas de comprendre le sort. Il vous est donc impossible de l'apprendre."
+"  Malheureusement, vous ne possédez pas de Livre de Sorts pour prendre note de ce sortilège."
+"{Drapeau de Ralliement}
+
+Vous ralliez vos troupes autour de ce drapeau."
+"{Drapeau de Ralliement}
+
+Vous ralliez vos troupes autour de ce drapeau, ce qui leur redonne de la force et la volonté de combattre. Vous vous sentez capable de voyager encore plus loin aujourd'hui."
+"{%s}
+
+Désirez-vous recruter des troupes (%s) ?"
+Vous trouvez une quantité de %s.
+Vous pénétrez dans le sanctuaire et ressentez immédiatement un profond soulagement. Vous sentez qu'ici, vous êtes en sécurité.
+"Vous apercevez soudain une lumière blanche à moitié transparente, de laquelle émerge un mystique un grimoire à la main. Il accepte de vous enseigner ce qu'il sait avant de disparaître."
+"{Coffre}
+
+Après avoir passé plusieurs heures à tenter de récupérer le coffre, vous découvrez en l'ouvrant qu'il est totalement vide."
+"{Coffre}
+
+Après avoir passé plusieurs heures à tenter de récupérer le coffre, vous découvrez à l'intérieur 1000 pièces d'Or et le %s."
+"{Coffre}
+
+Après avoir passé plusieurs heures à tenter de récupérer le coffre en mer, vous découvrez 1500 pièces d'Or à l'intérieur."
+"{Crypte}
+
+Vous tentez d'approcher de la crypte des anciens guerriers. Désirez-vous fouiller les tombes ?"
+Après avoir vaincu les gardiens, vous passez plusieurs heures à fouiller les tombes pour rien. Le moral de votre armée s'en trouve ébranlé.
+Après avoir vaincu les gardiens, vous fouillez les tombes et découvrez quelque chose !
+"{Épave}
+
+Un bateau pirate s'est échoué sur les rochers. Désirez-vous fouiller le navire ?"
+Après avoir vaincu les Harpies, vous passez plusieurs heures à fouiller les débris, mais vous ne trouvez rien. Le moral de votre armée s'en trouve ébranlé.
+Après avoir vaincu les Harpies, vous fouillez les débris et vous découvrez quelque chose !
+"{Naufragé}
+
+Vous avez sauvé un naufragé d'une mort certaine. Reconnaissant, il vous récompense en vous offrant l'artéfact : %s."
+"{Naufragé}
+
+Vous avez sauvé un naufragé d'une mort certaine. Reconnaissant, il déclare : ""Je vous aurais bien offert un artéfact pour vous remercier, mais vous êtes déjà beaucoup trop chargé."""
+"{Autel d'Incantation Magique}
+
+Vous découvrez un petit autel entretenu par un groupe d'acolytes. En échange de votre protection, ils acceptent de vous enseigner un sort relativement simple : "
+"{Autel de Gestuelle Magique}
+
+Vous découvrez un superbe autel entretenu par un groupe de moines rondelets. En échange de votre protection, ils acceptent de vous enseigner un sort : "
+"{Autel de Pensée Magique}
+
+Vous découvrez un autel resplendissant entretenu par un groupe de grands prêtres. En échange de votre protection, ils acceptent de vous enseigner un sort puissant : "
+"  Malheureusement, votre sagesse ne vous permet pas de comprendre le sort. Il vous est donc impossible de l'apprendre."
+"  Malheureusement, vous ne possédez pas de Livre de Sorts pour prendre note de ce sortilège."
+"Un chant surnaturel émane des Sirènes perchées sur les rochers. Beaucoup de vos hommes tombent sous le charme et plongent dans l'eau vers une mort certaine. Cette aventure vous rend plus sage et vous gagnez %d points d'expérience."
+Vous ordonnez à vos hommes de se boucher les oreilles avec de la cire avant qu'ils ne soient ensorcelés par le chant des Sirènes.
+"Lorsque les sirènes se mettent à chanter, votre armée entraînée et déterminée parvient à surmonter l'envie de plonger dans l'océan."
+Vous découvrez un parchemin sur lequel est inscrit le sort %s. Vous le rangez précieusement dans votre sac.
+"{Écuries}
+
+Vous avez déjà visité les écuries cette semaine."
+"{Écuries}
+
+Le Palefrenier vous propose d'équiper vos hommes de chevaux, ce qui augmentera leur mobilité jusqu'à la fin de la semaine."
+"{Écuries}
+
+Le Palefrenier vous propose d'équiper vos hommes de chevaux, ce qui augmentera leur mobilité jusqu'à la fin de la semaine. De plus, tous vos Cavaliers se transforment en Champions."
+"{Écuries}
+
+Le Palefrenier vous propose d'équiper vos hommes de chevaux, ce qui augmentera leur mobilité jusqu'à la fin de la semaine. De plus, tous vos Cavaliers se transforment en Champions."
+"{Temple}
+
+Une visite et une prière dans le Temple remontent le moral de vos troupes."
+"{Temple}
+
+Il n'est pas utile de prier plusieurs fois avant la bataille. Revenez un autre jour."
+"{Repaire de Voleurs}
+
+En fouillant les environs, vous découvrez un Repaire de Voleurs. Une de vos vieilles connaissances vous raconte tout ce qu'elle a appris depuis votre dernière rencontre."
+"{Obélisque de Connaissance}
+
+Une pierre se met à tournoyer lorsque vous approchez de ce pilier. En la regardant, vous découvrez avec stupéfaction les réponses à des questions que vous vous posiez depuis des années. La pierre finit par s'immobiliser, mais vous savez déjà que vous avez beaucoup appris."
+"{Obélisque de Connaissance}
+
+Vous approchez du pilier espérant en apprendre un peu plus, mais les pierres alentours restent inertes."
+"{Coffre au Trésor}
+
+Après avoir exploré la région, vous découvrez un coffre caché contenant l'artéfact '%s'."
+"{Coffre au Trésor}
+
+Après avoir exploré la région, vous découvrez un trésor caché. Vous pouvez garder l'Or ou le distribuer aux paysans de la région en échange d'expérience. Que choisissez-vous ?"
+"{Arbre de la Connaissance}
+
+À votre approche, l'arbre ouvre les yeux en souriant. ""Quel plaisir de vous revoir, mon élève. J'ose espérer que mes enseignements vous ont été utiles."""
+"{Arbre de la Connaissance}
+
+À votre approche, l'arbre ouvre les yeux en souriant. ""Ah, un aventurier ! Je serais heureux de vous enseigner quelques-unes des choses importantes que j'ai apprises au fil des âges."""
+"{Arbre de la Connaissance}
+
+À votre approche, l'arbre ouvre les yeux en souriant. ""Ah, un aventurier ! Je serais heureux de vous enseigner quelques-unes des choses importantes que j'ai apprises au fil des âges en échange de 2000 pièces d'or."" (Enterrez-les près de mes racines.)"
+"{Arbre de la Connaissance}
+
+Des larmes perlent aux coins des yeux de l'arbre. ""J'ai besoin de 2000 pièces d'or,"" murmure-t-il. ""Revenez lorsque vous pourrez me payer."""
+"{Arbre de la Connaissance}
+
+À votre approche, l'arbre ouvre les yeux en souriant. ""Ah, un aventurier ! Je serais heureux de vous enseigner quelques-unes des choses importantes que j'ai apprises au fil des âges en échange de 10 gemmes."" (Enterrez-les près de mes racines.) "
+"{Arbre de la Connaissance}
+
+Des larmes perlent aux coins des yeux de l'arbre. ""J'ai besoin de 10 gemmes,"" murmure-t-il. ""Revenez lorsque vous pourrez me payer."""
+Une énorme pile de gravats vous bloque le passage. Vous partez, découragé.
+"{Chariot}
+
+Vous découvrez un vieux chariot abandonné à la hâte par un marchand. A l'intérieur, vous découvrez une partie des marchandises encore intactes."
+"{Chariot}
+
+Vous découvrez un vieux chariot abandonné à la hâte par un marchand. A l'intérieur, vous découvrez '%s'."
+"{Chariot}
+
+Vous découvrez un vieux chariot abandonné à la hâte par un marchand. Malheureusement, le chariot ne contient plus rien d'intéressant."
+"{Manufacture d'Armes}
+
+Désirez-vous acheter des Machines de Guerre ?"
+"{Académie Militaire}
+
+Le robuste instructeur de cette école de guerre grogne lorsque vous passez. Mais en échange de 1000 pièces d'or, il est prêt à vous enseigner une nouvelle compétence d'attaque ou de défense."
+"{Académie Militaire}
+
+L'instructeur éclate de rire lorsque vous lui demandez de vous enseigner autre chose. ""Vous pourriez enseigner ici !"" vous répond-il."
+"{Académie Militaire}
+
+Le robuste instructeur de cette école de guerre grogne lorsque vous passez. Il pourrait vous enseigner de nouvelles tactiques de combat, mais cela vous coûterait 1000 pièces d'or. Malheureusement, vous ne disposez pas d'une telle somme."
+Vous avez découvert la tombe d'un guerrier. Désirez-vous fouiller la tombe ?
+"Vos hommes entrent dans la tombe à contre-cœur et découvrent cet artéfact %s. Mais cet acte peu glorieux a sapé le moral de vos troupes."
+"Vos hommes entrent dans la tombe à contre-cœur et n'y trouvent rien d'intéressant. Mais cet acte peu glorieux a sapé le moral de vos troupes."
+"{Moulin à Eau}
+
+Le gardien du moulin vous annonce : ""Mon seigneur, j'ai travaillé dur pour vous fournir cet Or. Revenez la semaine prochaine et vous en aurez davantage."""
+"{Moulin à Eau}
+
+Le gardien du moulin vous annonce : 
+""Je suis navré mon seigneur, je n'ai pas d'Or actuellement pour vous. Revenez me voir la semaine prochaine."""
+"{Abreuvoir}
+
+En buvant au point d'eau, vos troupes retrouvent leur énergie et leur moral. Vous pourrez voyager un peu plus longtemps aujourd'hui."
+"{Abreuvoir}
+
+L'eau est rafraîchissante mais n'a pas d'autre vertu. Peut-être devriez-vous revenir après une bataille."
+"{Tourbillon}
+
+Un tourbillon engloutit votre navire. Certains de vos hommes tombés par-dessus bord, ont été emportés par des Serpents de Mer monstrueux."
+"{Moulin à Vent}
+
+Le gardien du moulin vous annonce : ""Je suis navré mon seigneur, je n'ai pas de ressources actuellement pour vous. Revenez me voir la semaine prochaine."""
+"{Moulin à Vent}
+
+Le gardien du moulin vous annonce : ""Mon seigneur, j'ai travaillé dur pour vous fournir ces ressources. Revenez la semaine prochaine et vous en aurez davantage."""
+"{Cabane de la Sorcière}
+
+Une vieille sorcière vivant dans une étrange hutte vous salue et décide de vous enseigner la compétence : %s."
+"{Cabane de la Sorcière}
+
+Vous approchez de l'étrange hutte et vous apercevez à l'intérieur une sorcière plongée dans un livre traitant de la compétence %s. Elle se tourne soudain et vous parle : ""Vous connaissez déjà ce que je pourrais vous enseigner. Fichez-moi la paix !"""
+"{Cabane de la Sorcière}
+
+Vous approchez de l'étrange hutte et vous apercevez à l'intérieur une sorcière plongée dans un livre traitant de la compétence %s. Elle se tourne soudain et s'adresse à vous. ""Ha !"" s'écrie-t-elle. ""Il ne me viendrait pas à l'idée d'enseigner de nouveaux tours à quelqu'un d'aussi noble et sage que vous."" Vous repartez troublé, en ayant tout de même vaguement l'impression de vous être fait insulter..."
+"  Malheureusement, vous connaissez déjà ce sort, et ils ne pourront rien vous apprendre de plus."
+%s apprend quelque chose.
+%s perd de l'énergie magique.
+%s gagne de l'énergie magique.
+%s est démoralisé.
+Le moral de %s augmente.
+La chance de %s semble disparaître.
+%s est en veine.
+%s a perdu un trésor.
+%s a trouvé un trésor.
+%s apprend un sort.
+Un %s rejoint l'armée de %s.
+Des %s ont rejoint l'armée de %s.
+"Apparemment, le propriétaire a laissé des gardes derrière lui. Voulez-vous les combattre ?"
+%s apprend des sorts.
+"C'est un chantier naval abandonné. Malheureusement, il est impossible d'y construire un bateau : les voies maritimes sont bloquées."
+"{Cabane de la Sorcière}
+
+Vous approchez de la hutte mais il semble qu'elle ait été désertée depuis quelque temps."

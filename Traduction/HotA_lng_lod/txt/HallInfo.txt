@@ -1,0 +1,10 @@
+Vous ne pouvez construire qu'une seule Capitale.
+Cette ville ne se trouve pas au bord de l'eau.
+Ce bâtiment ne peut pas être construit dans cette ville.
+Il manque un étage à la Guilde des Mages.
+%s a déjà été construit.
+Impossible de construire %s.
+Vous n'avez pas les moyens de construire %s.
+Bâtir %s.
+Quitter la Salle du Conseil.
+Choix des Bâtiments à Construire.

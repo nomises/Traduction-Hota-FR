@@ -1,0 +1,54 @@
+===== Map name =====
+L'île des Griffes
+
+===== Map description =====
+Une légende raconte que lorsque Dieu a créé le monde, il a touché une partie de la surface de la mer avec la paume de sa main. C'est ainsi qu'est née l'île des Griffes, qui est devenue par la suite le centre d'attraction de différents cultes. 
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+intro1
+Message:
+Vous êtes parvenu jusqu'à l'île depuis le continent. Vous apprenez très vite que l'île aurait pu devenir un refuge pour toutes sortes d'illuminés, d'hérétiques et d'escrocs, jusqu'à ce qu'un événement incroyable se produise. À la suite d'événements improbables, quatre sectes qui s'affrontaient ont réussi à trouver un terrain d'entente et à s'unir. Ensemble, ils constituent une menace qu'il faut prendre en considération.		
+
+Name:
+intro2
+Message:
+Notre propre culte l'affirme : Dieu n'a jamais effleuré les eaux de ce monde. Cette île est le résultat de différentes combinaisons de la nature, ou peut-être même une ruse du Diable, mais ce n'est certainement pas une création divine. Vous êtes donc autorisé à chasser tous les êtres malfaisants de cette maudite terre, faisant ainsi d'une pierre deux coups : servir à la fois votre église et votre souverain.		
+
+Name:
+AI resources daily
+Message:
+
+
+===== Heroes =====
+
+===== Objects =====
+
+(5, 26, 0) ***Random Town***
+Name:
+Minimus
+
+(9, 9, 0) ***Random Town***
+Name:
+Ring
+
+(36, 4, 0) ***Random Town***
+Name:
+Pointer
+
+(21, 4, 0) ***Random Town***
+Name:
+Middle
+
+(37, 67, 0) ***Gold***
+Message:
+Vous étiez sur le point de toucher les pièces d'or qui gisaient près de la route, mais des farfadets ont surgi des buissons les plus proches. "Hé, c'est notre or !", vous crie le plus laid d'entre eux.
+
+(36, 49, 0) ***Random Town***
+Name:
+Palm
+
+===== End of file =====

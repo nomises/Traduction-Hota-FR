@@ -1,0 +1,181 @@
+		
+Wall Section	Hit Points (max is 3, only walls, towers, the gate, and the main building are used, unused must be 0)	
+Castle		
+Pont-Levis	0	
+Corde du Pont-Levis	0	
+Douves	0	
+Bord des Douves	0	
+Mur Arrière	0	
+Tour Supérieure	2	
+Mur Supérieur	2	
+Contrefort Supérieur	0	
+Mur Moyen-Haut	2	
+Portail	2	
+Mur Moyen-Bas	2	
+Contrefort Inférieur	0	
+Mur Inférieur	2	
+Tour Inférieure	2	
+Donjon	2	
+Couv Donjon	0	
+Couv Tour Sup	0	
+Couv Tour Inf	0	
+
+Rampart		
+Pont-Levis	0	
+Corde du Pont-Levis	0	
+Douves	0	
+Bord des Douves	0	
+Mur Arrière	0	
+Tour Supérieure	2	
+Mur Supérieur	2	
+Contrefort Supérieur	0	
+Mur Moyen-Haut	2	
+Portail	2	
+Mur Moyen-Bas	2	
+Contrefort Inférieur	0	
+Mur Inférieur	2	
+Tour Inférieure	2	
+Donjon	2	
+Couv Donjon	0	
+Couv Tour Sup	0	
+Couv Tour Inf	0	
+
+Tower		
+Pont-Levis	0	
+Corde du Pont-Levis	0	
+Douves	0	
+Bord des Douves	0	
+Mur Arrière	0	
+Tour Supérieure	2	
+Mur Supérieur	2	
+Contrefort Supérieur	0	
+Mur Moyen-Haut	2	
+Portail	2	
+Mur Moyen-Bas	2	
+Contrefort Inférieur	0	
+Mur Inférieur	2	
+Tour Inférieure	2	
+Donjon	2	
+Couv Donjon	0	
+Couv Tour Sup	0	
+Couv Tour Inf	0	
+
+Inferno		
+Pont-Levis	0	
+Corde du Pont-Levis	0
+Douves	0
+Bord des Douves	0
+Mur Arrière	0
+Tour Supérieure	2
+Mur Supérieur	2
+Contrefort Supérieur	0
+Mur Moyen-Haut	2
+Portail	2
+Mur Moyen-Bas	2
+Contrefort Inférieur	0
+Mur Inférieur	2
+Tour Inférieure	2
+Donjon	2
+Couv Donjon	0
+Couv Tour Sup	0
+Couv Tour Inf	0	
+
+Necropolis		
+Pont-Levis	0	
+Corde du Pont-Levis	0	
+Douves	0	
+Bord des Douves	0	
+Mur Arrière	0	
+Tour Supérieure	2	
+Mur Supérieur	2	
+Contrefort Supérieur	0	
+Mur Moyen-Haut	2	
+Portail	2	
+Mur Moyen-Bas	2	
+Contrefort Inférieur	0	
+Mur Inférieur	2	
+Tour Inférieure	2	
+Donjon	2	
+Couv Donjon	0	
+Couv Tour Sup	0	
+Couv Tour Inf	0	
+
+Dungeon		
+Pont-Levis	0	
+Corde du Pont-Levis	0	
+Douves	0	
+Bord des Douves	0	
+Mur Arrière	0	
+Tour Supérieure	2	
+Mur Supérieur	2	
+Contrefort Supérieur	0	
+Mur Moyen-Haut	2	
+Portail	2	
+Mur Moyen-Bas	2	
+Contrefort Inférieur	0	
+Mur Inférieur	2	
+Tour Inférieure	2	
+Donjon	2	
+Couv Donjon	0	
+Couv Tour Sup	0	
+Couv Tour Inf	0	
+
+Stronghold		
+Pont-Levis	0	
+Corde du Pont-Levis	0	
+Douves	0	
+Bord des Douves	0	
+Mur Arrière	0	
+Tour Supérieure	2	
+Mur Supérieur	2	
+Contrefort Supérieur	0	
+Mur Moyen-Haut	2	
+Portail	2	
+Mur Moyen-Bas	2	
+Contrefort Inférieur	0	
+Mur Inférieur	2	
+Tour Inférieure	2	
+Donjon	2	
+Couv Donjon	0	
+Couv Tour Sup	0	
+Couv Tour Inf	0	
+
+Fortress		
+Pont-Levis	0	
+Corde du Pont-Levis	0
+Douves	0
+Bord des Douves	0
+Mur Arrière	0
+Tour Supérieure	2
+Mur Supérieur	2
+Contrefort Supérieur	0
+Mur Moyen-Haut	2
+Portail	2
+Mur Moyen-Bas	2
+Contrefort Inférieur	0
+Mur Inférieur	2
+Tour Inférieure	2
+Donjon	2
+Couv Donjon	0
+Couv Tour Sup	0
+Couv Tour Inf	0	
+
+Conflux		
+Pont-Levis	0	
+Chaîne du Pont-Levis	0	
+Douves	0	
+Bord des Douves	0	
+Mur Arrière	0	
+Tour Supérieure	2	
+Mur Supérieur	2	
+Contrefort Supérieur	0	
+Mur Moyen-Haut	2	
+Portail	2	
+Mur Moyen-Bas	2	
+Contrefort Inférieur	0	
+Mur Inférieur	2	
+Tour Inférieure	2
+Donjon	2
+Couv Donjon	0
+Couv Tour Sup	0
+Couv Tour Inf	0

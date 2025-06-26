@@ -1,0 +1,198 @@
+	Description		
+Name	Basic	Advanced	Expert
+Pathfinding	"{Basic Pathfinding}
+
+Basic Pathfinding reduces the movement penalty for rough terrain, reducing the cost of moving by 25% to a minimum cost of 95%."	"{Advanced Pathfinding}
+
+Advanced Pathfinding reduces the movement penalty for rough terrain, reducing the cost of moving by 50% to a minimum cost of 90%."	"{Expert Pathfinding}
+
+Expert Pathfinding removes the movement penalty for rough terrain, reducing the cost of moving by 75% to a minimum cost of 85%."
+Archery	"{Basic Archery}
+
+Basic Archery increases the damage done by range attacking creatures by 10%."	"{Advanced Archery}
+
+Advanced Archery increases the damage done by range attacking creatures by 25%."	"{Expert Archery}
+
+Expert Archery increases the damage done by range attacking creatures by 50%."
+Logistics	"{Basic Logistics}
+
+Basic Logistics increases your hero's movement points over land by 5%."	"{Advanced Logistics}
+
+Advanced Logistics increases your hero's movement points over land by 10%."	"{Expert Logistics}
+
+Expert Logistics increases your hero's movement points over land by 20%."
+Scouting	"{Basic Scouting}
+
+Basic Scouting allows your hero to see 1 square further into the shroud."	"{Advanced Scouting}
+
+Advanced Scouting allows your hero to see 3 squares further into the shroud."	"{Expert Scouting}
+
+Expert Scouting allows your hero to see 5 squares further into the shroud."
+Diplomacy	"{Basic Diplomacy}
+
+Basic Diplomacy allows you to negotiate with monsters who are weaker than your group, and reduces the cost of surrendering by 20%."	"{Advanced Diplomacy}
+
+Advanced Diplomacy allows you to negotiate with monsters who are weaker than your group, and reduces the cost of surrendering by 40%."	"{Expert Diplomacy}
+
+Expert Diplomacy allows you to negotiate with monsters who are weaker than your group, and reduces the cost of surrendering by 60%."
+Navigation	"{Basic Navigation}
+
+Basic Navigation increases your hero's movement points at sea by 50%."	"{Advanced Navigation}
+
+Advanced Navigation doubles your hero's movement points at sea."	"{Expert Navigation}
+
+Expert Navigation increases your hero's movement points at sea by 150%."
+Leadership	"{Basic Leadership}
+
+Basic Leadership increases your hero's troops' morale by 1."	"{Advanced Leadership}
+
+Advanced Leadership increases your hero's troops' morale by 2."	"{Expert Leadership}
+
+Expert Leadership increases your hero's troops' morale by 3."
+Wisdom	"{Basic Wisdom}
+
+Basic Wisdom allows your hero to learn third level spells."	"{Advanced Wisdom}
+
+Advanced Wisdom allows your hero to learn fourth level spells."	"{Expert Wisdom}
+
+Expert Wisdom allows your hero to learn fifth level spells."
+Mysticism	"{Basic Mysticism}
+
+Basic Mysticism allows the hero to regenerate 10% of their maximum spell points per day, with a minimum of 5 spell points regenerated per day."	"{Advanced Mysticism}
+
+Advanced Mysticism allows the hero to regenerate 20% of their maximum spell points per day, with a minimum of 10 spell points regenerated per day."	"{Expert Mysticism}
+
+Expert Mysticism allows the hero to regenerate 30% of their maximum spell points per day, with a minimum of 15 spell points regenerated per day."
+Luck	"{Basic Luck}
+
+Basic Luck increases your hero's luck by 1."	"{Advanced Luck}
+
+Advanced Luck increases your hero's luck by 2."	"{Expert Luck}
+
+Expert Luck increases your hero's luck by 3."
+Ballistics	"{Basic Ballistics}
+
+Basic Ballistics gives the hero control of the Catapult. The Catapult has an increased chance to hit fortifications. The Catapult cannot be dealt more than 40% of its Health as Damage from any single attack."	"{Advanced Ballistics}
+
+Advanced Ballistics gives the hero control of the Catapult. The Catapult has an increased chance to hit fortifications, and shoots twice. The Catapult cannot be dealt more than 40% of its Health as Damage from any single attack."	"{Expert Ballistics}
+
+Expert Ballistics gives the hero control of the Catapult. The Catapult precisely hits fortifications at maximum Damage, and shoots twice. The Catapult cannot be dealt more than 40% of its Health as Damage from any single attack."
+Eagle Eye	"{Basic Eagle Eye}
+
+Basic Eagle Eye allows the hero to view an enemy hero’s level 1–3 spells in combat. It gives the hero a 10% chance to learn any level 1–3 spell from the enemy hero at the start of combat and 100% chance of learning it as soon as the spell is used by enemy in combat. It negates one level of an enemy hero’s Eagle Eye skill."	"{Advanced Eagle Eye}
+
+Advanced Eagle Eye allows the hero to view an enemy hero’s level 1–4 spells in combat. It gives the hero a 20% chance to learn any level 1–4 spell from the enemy hero at the start of combat and 100% chance of learning it as soon as the spell is used by enemy in combat. It negates two levels of an enemy hero’s Eagle Eye skill."	"{Expert Eagle Eye}
+
+Expert Eagle Eye allows the hero to view an enemy hero’s spells in combat. It gives the hero a 30% chance to learn any spell from the enemy hero at the start of combat and 100% chance of learning it as soon as the spell is used by enemy in combat. It negates an enemy hero’s Eagle Eye skill."
+Necromancy	"{Basic Necromancy}
+
+Basic Necromancy allows 5% of the creatures killed in combat to be brought back from the dead as Skeletons."	"{Advanced Necromancy}
+
+Advanced Necromancy allows 10% of the creatures killed in combat to be brought back from the dead as Skeletons."	"{Expert Necromancy}
+
+Expert Necromancy allows 15% of the creatures killed in combat to be brought back from the dead as Skeletons."
+Estates	"{Basic Estates}
+
+With Estates, a hero contributes 250 gold per day to your cause."	"{Advanced Estates}
+
+With Estates, a hero contributes 500 gold per day to your cause."	"{Expert Estates}
+
+With Estates, a hero contributes 1000 gold per day to your cause."
+Fire Magic	"{Basic Fire Magic}
+
+Basic Fire Magic allows your hero to cast Fire spells at reduced cost."	"{Advanced Fire Magic}
+
+Advanced Fire Magic allows your hero to cast Fire spells at reduced cost and increased effectiveness."	"{Expert Fire Magic}
+
+Expert Fire Magic allows your hero to cast Fire spells at reduced cost and maximum effectiveness."
+Air Magic	"{Basic Air Magic}
+
+Basic Air Magic allows your hero to cast Air spells at reduced cost."	"{Advanced Air Magic}
+
+Advanced Air Magic allows your hero to cast Air spells at reduced cost and increased effectiveness."	"{Expert Air Magic}
+
+Expert Air Magic allows your hero to cast Air spells at reduced cost and maximum effectiveness."
+Water Magic	"{Basic Water Magic}
+
+Basic Water Magic allows your hero to cast Water spells at reduced cost."	"{Advanced Water Magic}
+
+Advanced Water Magic allows your hero to cast Water spells at reduced cost and increased effectiveness."	"{Expert Water Magic}
+
+Expert Water Magic allows your hero to cast Water spells at reduced cost and maximum effectiveness."
+Earth Magic	"{Basic Earth Magic}
+
+Basic Earth Magic allows your hero to cast Earth spells at reduced cost."	"{Advanced Earth Magic}
+
+Advanced Earth Magic allows your hero to cast Earth spells at reduced cost and increased effectiveness."	"{Expert Earth Magic}
+
+Expert Earth Magic allows your hero to cast Earth spells at reduced cost and maximum effectiveness."
+Scholar	"{Basic Scholar}
+
+Basic Scholar allows heroes to teach each other 1st and 2nd level spells, effectively trading spells between spell books."	"{Advanced Scholar}
+
+Advanced Scholar allows heroes to teach each other any spell up to 3rd level, effectively trading spells between spell books."	"{Expert Scholar}
+
+Expert Scholar allows heroes to teach each other any spell up to 4th level, effectively trading spells between spell books."
+Tactics	"{Basic Tactics}
+
+Basic Tactics allows the hero to rearrange their troops within 3 hex rows of the commanding hero before combat. It negates one level of an enemy hero’s Tactics skill."	"{Advanced Tactics}
+
+Advanced Tactics allows the hero to rearrange their troops within 5 hex rows of the commanding hero before combat. It negates two levels of an enemy hero’s Tactics skill."	"{Expert Tactics}
+
+Expert Tactics allows the hero to rearrange their troops within 7 hex rows of the commanding hero before combat. It negates an enemy hero’s Tactics skill."
+Artillery	"{Basic Artillery}
+
+Basic Artillery gives the hero control of the Ballista, Arrow Towers, and the Cannon. The Ballista has a 50% chance to inflict +100% base Damage. The Cannon has an increased chance to hit fortifications. The Ballista and the Cannon cannot be dealt more than 40% of their Health as Damage from any single attack."	"{Advanced Artillery}
+
+Advanced Artillery gives the hero control of the Ballista, Arrow Towers, and the Cannon. The Ballista shoots twice and has a 75% chance to inflict +100% base Damage. The Cannon has an increased chance to hit fortifications and inflicts +100% base Damage to creatures. The Ballista and the Cannon cannot be dealt more than 40% of their Health as Damage from any single attack."	"{Expert Artillery}
+
+Expert Artillery gives the hero control of the Ballista, Arrow Towers, and the Cannon. The Ballista shoots twice and inflicts +100% base Damage. The Cannon precisely hits fortifications at maximum Damage and inflicts +200% base Damage to creatures. The Ballista and the Cannon cannot be dealt more than 40% of their Health as Damage from any single attack."
+Learning	"{Basic Learning}
+
+Basic Learning increases the hero’s earned experience points by 20% and grants them an additional level upon learning the skill."	"{Advanced Learning}
+
+Advanced Learning increases the hero’s earned experience points by 40% and grants them an additional level upon improving the skill."	"{Expert Learning}
+
+Expert Learning increases the hero’s earned experience points by 60% and grants them an additional level upon improving the skill."
+Offense	"{Basic Offense}
+
+Basic Offense increases all hand-to-hand damage inflicted by the hero's troops by 10%."	"{Advanced Offense}
+
+Advanced Offense increases all hand-to-hand damage inflicted by the hero's troops by 20%."	"{Expert Offense}
+
+Expert Offense increases all hand-to-hand damage inflicted by the hero's troops by 30%."
+Armorer	"{Basic Armorer}
+
+Basic Armorer reduces all damage inflicted by enemy troops against the hero's troops by 5%."	"{Advanced Armorer}
+
+Advanced Armorer reduces all damage inflicted by enemy troops against the hero's troops by 10%."	"{Expert Armorer}
+
+Expert Armorer reduces all damage inflicted by enemy troops against the hero's troops by 15%."
+Intelligence	"{Basic Intelligence}
+
+Basic Intelligence increases a hero's normal maximum spell points by 20%."	"{Advanced Intelligence}
+
+Advanced Intelligence increases a hero's normal maximum spell points by 35%."	"{Expert Intelligence}
+
+Expert Intelligence increases a hero's normal maximum spell points by 50%."
+Sorcery	"{Basic Sorcery}
+
+Basic Sorcery causes a hero's spells to inflict an additional 10% damage in combat."	"{Advanced Sorcery}
+
+Advanced Sorcery causes a hero's spells to inflict an additional 20% damage in combat."	"{Expert Sorcery}
+
+Expert Sorcery causes a hero's spells to inflict an additional 30% damage in combat."
+Resistance	"{Basic Resistance}
+
+Basic Resistance increases your chance to resist a hostile spell by 5%."	"{Advanced Resistance}
+
+Advanced Resistance increases your chance to resist a hostile spell by 10%."	"{Expert Resistance}
+
+Expert Resistance increases your chance to resist a hostile spell by 20%."
+First Aid	"{Basic First Aid}
+
+Basic First Aid gives the hero control of the First Aid Tent. The First Aid Tent heals the first unit in a stack for 40–50 points of Damage and grants all allied creatures +5% Health. The First Aid Tent cannot be dealt more than 40% of its Health as Damage from any single attack."	"{Advanced First Aid}
+
+Advanced First Aid gives the hero control of the First Aid Tent. The First Aid Tent heals the first unit in a stack for 60–75 points of Damage and grants all allied creatures +10% Health. The First Aid Tent cannot be dealt more than 40% of its Health as Damage from any single attack."	"{Expert First Aid}
+
+Expert First Aid gives the hero control of the First Aid Tent. The First Aid Tent heals the first unit in a stack for 80–100 points of Damage and grants all allied creatures +15% Health. The First Aid Tent cannot be dealt more than 40% of its Health as Damage from any single attack."

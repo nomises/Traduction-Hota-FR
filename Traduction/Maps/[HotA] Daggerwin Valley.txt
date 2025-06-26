@@ -1,0 +1,211 @@
+===== Map name =====
+La Vallée de Daggerwin
+
+===== Map description =====
+La vallée longeant la rivière Daggerwin est connue depuis toujours pour ses grandes richesses. Son corridor est la seule route commerciale vers le vieux continent. En prendre le contrôle vous permettra de renforcer votre pouvoir.
+
+===== Rumors =====
+
+Name:
+Tavern1
+Text:
+Conseil du jour : surprenez et essayez de ne pas vous laisser surprendre par les autres !
+
+Name:
+Tavern
+Text:
+Conseil du jour : celui qui manie l'épée a raison.
+
+Name:
+PogloskiGraal1
+Text:
+Un vieux marin prétend savoir où les dieux ont dissimulé le Graal. Comme s'il était possible que quelqu'un ait pu être dans la confidence des dieux.
+
+Name:
+PogloskiGraal2
+Text:
+Allez, vous ne croyez tout de même pas à ces bêtises sur le Graal, n'est-ce pas ?.. Ah, zut. Vous êtes tous pareils, vous les aventuriers. Dès qu'on vous parle d'un trésor perdu, d'un légendaire tas de ferraille ou d'un sac rempli de bibelots, vos yeux s'enflamment....
+
+Name:
+PogloskiGraal3
+Text:
+Vous voulez "vraiment" savoir ce que cet imbécile a dit après sa dixième gervoise ? Eh bien voici : loin dans le Nord-Est... ou peut-être à l'Ouest... et quoi qu'on en dise, quelque part dans les mers du Nord, se trouve une île mystérieuse...
+
+Name:
+Tavern2
+Text:
+Conseil du jour : n'attendez pas grand-chose de la vie, et vous obtiendrez toujours plus que ce que vous pouvez espérer.
+
+Name:
+Tavern3
+Text:
+Conseil du jour : un lion ne fera jamais joujou avec un coyote.
+
+Name:
+Tavern4
+Text:
+Sages paroles du jour : ne jamais laver les cornichons avec du lait.
+
+Name:
+PogloskiGraal4
+Text:
+À propos de l'île supposée abriter le trésor, le fameux marin ne sais pas exactement où elle se trouve, ni à quoi elle ressemble, mais il est catégorique : il y est allé. Mon sentiment sur la vie de cet homme, c'est qu'elle doit ressembler maintenant à une passoire. 
+
+Name:
+PogloskiGraal5
+Text:
+Pour trouver une île qui n'existe pas il faut aller en enfer... 
+
+Name:
+Tavern5
+Text:
+Conseil du jour : quand on part, on ne revient pas toujours. Quand on vient, on ne pense généralement pas à repartir.
+
+Name:
+Tavern6
+Text:
+Sages paroles du jour : une bonne épouse est toujours aux côtés de son homme dans les moments difficiles. Une mauvaise épouse est toujours avec son homme en période difficile.
+
+Name:
+Tavern7
+Text:
+Dicton du jour : ce qui ne vous tue pas vous rend moins attentif.
+
+Name:
+Tavern8
+Text:
+Sages paroles du jour : lorsque vous avez envie d'éternuer, mieux vaut retirer les doigts de votre nez.
+
+Name:
+smokilazur
+Text:
+Un trappeur m'a dit d'éviter les terres du Nord. Les dragons d'azur s'y reposent soi-disant.
+
+===== Timed events =====
+
+Name:
+Help to the comp
+Message:
+
+
+===== Heroes =====
+
+===== Objects =====
+
+(176, 9, 0) ***Random Town***
+
+Timed events:
+
+Name:
+buildings to the comp
+Message:
+
+
+Name:
+Units to the comp
+Message:
+
+
+(95, 167, 0) ***Gold***
+Message:
+Des dragons gardent ce trésor. Voulez-vous les combattre ?	Gardes : 7 Dragons Noirs	Trésor : 10000 pièces d'or
+
+(173, 18, 0) ***Gold***
+Message:
+Des dragons gardent ce trésor. Voulez-vous les combattre ?	Gardes : 7 Dragons Noirs	Trésor : 10000 pièces d'or
+
+(11, 95, 0) ***Gold***
+Message:
+Des dragons gardent ce trésor. Voulez-vous les combattre ?	Gardes : 7 Dragons Noirs	Trésor : 10000 pièces d'or
+
+(28, 68, 0) ***Gold***
+Message:
+Des dragons gardent ce trésor. Voulez-vous les combattre ?	Gardes : 7 Dragons Noirs	Trésor : 10000 pièces d'or
+
+(99, 51, 0) ***Pandora's Box***
+Message:
+
+
+(103, 50, 0) ***Pandora's Box***
+Message:
+
+
+(120, 101, 0) ***Pandora's Box***
+Message:
+
+
+(25, 66, 0) ***Random Town***
+
+Timed events:
+
+Name:
+buildings to the comp
+Message:
+
+
+Name:
+Units to the comp
+Message:
+
+
+(10, 92, 0) ***Random Town***
+
+Timed events:
+
+Name:
+buildings to the comp
+Message:
+
+
+Name:
+Units to the comp
+Message:
+
+
+(97, 163, 0) ***Random Town***
+
+Timed events:
+
+Name:
+buildings to the comp
+Message:
+
+
+Name:
+Units to the comp
+Message:
+
+
+(8, 74, 0) ***Pandora's Box***
+Message:
+
+
+(179, 54, 0) ***Pandora's Box***
+Message:
+
+
+(75, 179, 0) ***Pandora's Box***
+Message:
+
+
+(108, 96, 0) ***Shackles of War***
+Message:
+!
+
+(53, 9, 0) ***Pandora's Box***
+Message:
+
+
+(72, 133, 0) ***Pandora's Box***
+Message:
+
+
+(142, 160, 0) ***Pandora's Box***
+Message:
+
+
+(143, 125, 0) ***Pandora's Box***
+Message:
+
+
+===== End of file =====

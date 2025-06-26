@@ -1,0 +1,333 @@
+===== Map name =====
+Heritage of the Ancients
+
+===== Map description =====
+An ancient tomb was found in faraway lands. Who knows what treasures and knowledge it holds? Alas, to your great dismay, your enemy has already learned about your plans to explore it…
+
+===== Rumors =====
+
+Name:
+1
+Text:
+The Tomb is guarded by genies and efreet. Don’t mess with them!
+
+Name:
+2
+Text:
+Last time I was in the Tomb, I couldn't get out the same way I got in.
+
+Name:
+3
+Text:
+Don’t listen to what people say! It’s pretty easy to get out of the Tomb!
+
+Name:
+4
+Text:
+Once, travelling to the Tomb, I ran into a weird hovering eye. I barely escaped with my life!
+
+Name:
+5
+Text:
+They say that basilisks moved to the Tomb through the portals and settled there.
+
+===== Timed events =====
+
+Name:
+Ñèíèé - ñàìîöâåòû
+Message:
+
+
+Name:
+Day 1 - Rampart
+Message:
+It took you a while to set up an outpost so far from your lands. Unfortunately, your actions did not go unnoticed. Soon, the ruler of a neighboring principality, your old enemy, arrived here too. This time, he hired an elementalist, who is equally eager to find out what secrets the tomb holds. However, you did not waste time either, enlisting the support of your old allies, the elves, who have long borne a grudge against your opponent.
+
+Name:
+Day 1 - Conflux
+Message:
+It took you a while to set up an outpost so far from your lands. Unfortunately, your actions did not go unnoticed. Soon, the ruler of a neighboring principality, your old enemy, arrived here too. This time, he enlisted the support of the elves, who have long borne a grudge against you for cutting down their forests. It seems that this lord is equally eager to find out what secrets the tomb holds. But you did not waste time either, meeting an experienced elementalist on the way, who offered his services to you. They say these sorcerers are capable of summoning an entire army!
+
+Name:
+Day 1 - Tower
+Message:
+Knowledge, power... What does this tomb have in store? We do not know, but who other than wizards from the University of the Four Elements can possibly unravel its secrets? It has been a long time since we had a chance to study the legacy of such ancient times. 	However, rumor has it that we are not the only ones who have learned of the Tomb's existence. The greedy rulers of neighboring lands woud never miss an opportunity to get their hands on treasures and new magic knowledge. Their troops will probably appear here soon, so we sent gargoyle messengers to them.
+
+Name:
+Day 6 (not Tower)
+Message:
+It seems that you and your enemy are not the only ones who know about the Tomb. A gargoyle flew into our camp today. Of course, the creature was shot on the spot, but it carried a message in its paws. 	A wizard, who introduced himself as a representative of some University, reported that he and his “colleagues” knew about both the Tomb and your plans. He warned about the dangers allegedly lurking in the Tomb and hinted that you had no business being there. 	Without saying a word, you tear up the letter and return to your men to give new orders.
+
+Name:
+ÈÈ - áîíóñ
+Message:
+
+
+Name:
+Day 9 (Tower)
+Message:
+The gargoyles we sent with messages never returned, so we assume the worst; the rulers must have decided not only to settle their old scores, but also dared challenge us, ignoring our warning. So much the worse for them.
+
+===== Heroes =====
+
+===== Objects =====
+
+(2, 11, 0) ***Quest Guard***
+Message:
+You can hire Pixies here, but they demand 3500 gold.
+The Pixies are not ready to join your ranks for less than 3500 gold.
+Do you want to hire the Pixies?
+
+(27, 34, 0) ***Quest Guard***
+Message:
+Elf mercenaries take stand here. To hire them for your host, you’ll have to pay them 5000 gold. They also have a decent armor enchanted to repel magic.
+The Elves are not ready to join your ranks for less than 5000 gold.
+Do you want to hire the Elves and get the anti-magic armor?
+
+(11, 2, 0) ***Quest Guard***
+Message:
+There is a nexus of magic energy here; you could use it to create a portal to the Plane of Water and summon water elementals. However, you’ll have to pay 6000 gold for the ingredients needed for the ritual.
+You can’t afford the ritual yet.
+Do you want to conduct the ritual and create a portal to the Plane of Water?
+
+(15, 11, 0) ***Pandora's Box***
+Message:
+1-30	3-10	4-5
+
+(21, 35, 0) ***Pandora's Box***
+Message:
+
+
+(16, 21, 0) ***Seer's Hut***
+Message:
+I’m but a lowly merchant, but not so long ago I came by a thing of great magic power. The vagabond who brought it to me said he had found it in the Tomb and had barely escaped with it, being chased by some odd monsters. I don't know if this is true, but the item is of no use to me. I would be happy to offer it to you for mere 15 gems.
+No, I wouldn’t sell this for less than 15 gems. In different conditions, it could command a much higher price.
+Great, here it is.	Do you want to buy the magic armor from the merchant?
+
+(2, 25, 0) ***Quest Guard***
+Message:
+Magi mercenaries take stand here. To hire them for your army, you’ll have to pay them 5000 gold.
+The Magi are not ready to join your ranks for less than 5000 gold.
+Do you want to hire the Magi?
+
+(24, 23, 0) ***Pandora's Box***
+Message:
+1-30	3-10	4-5
+
+(14, 21, 0) ***Pandora's Box***
+Message:
+1-30	3-10	4-5
+
+(8, 24, 0) ***Pandora's Box***
+Message:
+
+
+(0, 31, 0) ***Event***
+Message:
+ÈÈ - Ìèíóñ ñêîğîñòü
+
+(3, 26, 0) ***Event***
+Message:
+ÈÈ - Ìèíóñ ñêîğîñòü
+
+(15, 20, 0) ***Event***
+Message:
+ÈÈ - Ìèíóñ ñêîğîñòü
+
+(30, 26, 0) ***Event***
+Message:
+ÈÈ - Ìèíóñ ñêîğîñòü
+
+(5, 8, 0) ***Event***
+Message:
+ÈÈ - Ìèíóñ ñêîğîñòü
+
+(19, 25, 0) ***Seer's Hut***
+Message:
+I arrived here as a representative of the Circle of Druids. I want to study the creatures who settled down in the Tomb; who knows how a habitat like this influenced them? Bring me enough creatures so I could do research, and I will give you a magic scroll that would allow you to travel over water as easily as over land.
+No, I need more creatures for my research. Return when you have enough of them.
+Never thought I would have to study mummies like a filthy necromancer! Well, lore carries a price. I haven’t forgotten about your reward; take it.	Do you want to take the magic scroll from a druid?
+
+(2, 12, 1) ***Seer's Hut***
+Message:
+You come to the door of a building. It bears a writing: «Training area. To increase your attack skills, sacrifice 5 crystals and 5 gems».
+Nothing will happen until you bring a sufficient amount of resources.
+You place the resources in front of the door. It opens, and you enter. Leaving, you remember nothing, but it seems you became more skilled in attack.
+You come to the door of a building. It bears a writing: «Training area. To increase your defence skills, sacrifice 5 crystals and 5 gems».
+Nothing would happen until you bring a sufficient amount of resources.
+You place the resources in front of the door. It opens, and you enter. Leaving, you remember nothing, but it seems you became more skilled in defence.
+
+(33, 12, 1) ***Seer's Hut***
+Message:
+You come to the door of a building. It bears a writing: «Training area. To increase your spell power, sacrifice 5 sulfur and 5 mercury».
+Nothing will happen until you bring a sufficient amount of resources.
+You place the resources in front of the door. It opens, and you enter. Leaving, you remember nothing, but it seems you became more skilled in spellcasting.
+You come to the door of a building. It bears a writing: «Training area. To increase your knowledge, sacrifice 5 sulfur and 5 mercury».
+Nothing will happen until you bring a sufficient amount of resources.
+You place the resources in front of the door. It opens, and you enter. Leaving, you remember nothing, but it seems your head is filled with new knowledge.
+
+(15, 29, 1) ***Pandora's Box***
+Message:
+1-70	2-40	1-70
+
+(33, 18, 1) ***Pandora's Box***
+Message:
+?-50	?-20	?-10
+
+(24, 3, 1) ***Pandora's Box***
+Message:
+3-15	4-10	3-15
+
+(28, 20, 1) ***Pandora's Box***
+Message:
+7-1	7-7	7-1
+
+(29, 31, 1) ***Pandora's Box***
+Message:
+3-20	5-5	1-35
+
+(16, 19, 1) ***Pandora's Box***
+Message:
+5-1	5-1	2-100	5-1	5-1
+
+(26, 26, 1) ***Pandora's Box***
+Message:
+4-30	4-30	4-30
+
+(9, 26, 1) ***Pandora's Box***
+Message:
+
+
+(20, 8, 1) ***Pandora's Box***
+Message:
+6-4	7-1	6-4
+
+(31, 2, 1) ***Pandora's Box***
+Message:
+2-40	2-40	2-40
+
+(4, 2, 1) ***Pandora's Box***
+Message:
+3-33	3-33	3-33
+
+(24, 12, 1) ***Pandora's Box***
+Message:
+2-50	2-50	2-30
+
+(19, 25, 1) ***Pandora's Box***
+Message:
+4-50
+
+(6, 31, 1) ***Pandora's Box***
+Message:
+3-20	5-5	1-35
+
+(30, 30, 1) ***Pandora's Box***
+Message:
+4-12	4-14	4-14	4-7
+
+(5, 30, 1) ***Pandora's Box***
+Message:
+4-12	4-15	4-15	4-10
+
+(31, 24, 1) ***Event***
+Message:
+ÈÈ - áîíóñ
+
+(20, 29, 1) ***Pandora's Box***
+Message:
+1-70	2-40	1-70
+
+(19, 19, 1) ***Pandora's Box***
+Message:
+5-1	5-1	1-150	5-1	5-1
+
+(11, 3, 1) ***Pandora's Box***
+Message:
+2-30	5-7	2-30
+
+(11, 12, 1) ***Pandora's Box***
+Message:
+2-30	2-50	2-50
+
+(15, 8, 1) ***Pandora's Box***
+Message:
+6-4	7-1	6-4
+
+(2, 18, 1) ***Pandora's Box***
+Message:
+?-50	?-20	?-10
+
+(7, 20, 1) ***Pandora's Box***
+Message:
+7-1	7-7	7-1
+
+(16, 25, 1) ***Pandora's Box***
+Message:
+4-50
+
+(28, 30, 1) ***Seer's Hut***
+Message:
+You enter the building and find something resembling an altar; it is adorned with the images of a clover, a deck of cards and a figurine of a bird. The writing on the altar says: «To gain access to the vault, bring what brings luck».
+You lay your hand upon the altar. A metallic voice says: «Keys not found. Access to vault denied».
+You lay the items upon the altar. A screech is heard, the items disappear, and a secret niche opens in the altar. Inside, you find a crown.
+
+(7, 30, 1) ***Seer's Hut***
+Message:
+You enter the building and find something resembling an altar; it is adorned with the images of a badge, a crest and a glyph. The writing on the altar says: «To gain access to the vault, bring what fills the hearts of warriors with courage».
+You lay your hand upon the altar. A metallic voice says: «Keys not found. Access to vault denied.».
+You lay the items upon the altar. A screech is heard, the items disappear, and a secret niche opens in the altar. Inside, you find a set of armor.
+
+(23, 31, 1) ***Event***
+Message:
+ÈÈ - áîíóñ
+
+(12, 31, 1) ***Event***
+Message:
+ÈÈ - áîíóñ
+
+(4, 24, 1) ***Event***
+Message:
+ÈÈ - áîíóñ
+
+(13, 27, 1) ***Event***
+Message:
+ÈÈ - áîíóñ
+
+(22, 27, 1) ***Event***
+Message:
+ÈÈ - áîíóñ
+
+(33, 15, 1) ***Event***
+Message:
+ÈÈ - áîíóñ
+
+(20, 20, 1) ***Event***
+Message:
+ÈÈ - áîíóñ
+
+(15, 20, 1) ***Event***
+Message:
+ÈÈ - áîíóñ
+
+(22, 11, 1) ***Event***
+Message:
+ÈÈ - áîíóñ
+
+(31, 6, 1) ***Event***
+Message:
+ÈÈ - áîíóñ
+
+(2, 15, 1) ***Event***
+Message:
+ÈÈ - áîíóñ
+
+(13, 11, 1) ***Event***
+Message:
+ÈÈ - áîíóñ
+
+(4, 6, 1) ***Event***
+Message:
+ÈÈ - áîíóñ
+
+===== End of file =====

@@ -1,0 +1,44 @@
+===== Map name =====
+Par l'Épée et le Feu
+
+===== Map description =====
+Il arriva un jour où même une éclaireuse aussi légendaire que Kyrre ne parvint pas à sortir du labyrinthe forestier. Pour ne rien arranger, les bois étaient parsemés de pièges et d'énigmes. Vu que les elfes ne peuvent se résoudre à blesser les arbres, elle devra trancher et brûler quelqu'un d'autre.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+- all res
+Message:
+Vous n'avez ni or ni ressources.
+
+===== Heroes =====
+
+===== Objects =====
+
+(22, 9, 0) ***Pandora's Box***
+Message:
+
+
+(12, 6, 0) ***Pandora's Box***
+Message:
+
+
+(24, 15, 0) ***Pandora's Box***
+Message:
+
+
+(1, 24, 0) ***Pandora's Box***
+Message:
+
+
+(32, 20, 0) ***Pandora's Box***
+Message:
+
+
+(10, 2, 0) ***Marksman***
+Message:
+Pas de Pixies au-delà de cette ligne.
+
+===== End of file =====

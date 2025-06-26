@@ -1,0 +1,169 @@
+Note: Do not change the headings in this file, they are used to detect problems
+General
+Éditeur de campagne de Heroes of Might and Magic(tm) III - Horn of the Abyss
+© 2000 The 3DO Company. Tous droits réservés. 3DO, Heroes of Might and Magic, Shadow of Death, New World Computing et leurs logos respectifs sont des marques/services déposés par The 3DO Company aux Etats-Unis et dans les autres pays. New World Computing est une filiale de The 3DO Company.
+Version %s
+Fichiers Campagne Heroes 3 (*.h3c)
+Campagne Heroes 3
+Votre affichage doit être configuré en couleurs 16-bit pour utiliser l'Éditeur de Campagne
+Version Debug
+Version Commerciale
+OK
+À propos de l'Éditeur de Campagne
+Joueur %d (%s)
+Ville aléatoire
+"""%s"" est non valide ou corrompu.  Impossible de l'importer."
+"""%s"" est injouable.  Impossible de l'importer."
+"La version de ""%s"" est non valide.  Impossible de l'importer."
+"La version de ""%s"" est trop ancienne.  Impossible de l'importer."
+"Version du fichier de campagne non valide ! 
+
+Version du fichier = %d
+Version actuelle = %d"
+Fichier de campagne non valide ou corrompu !
+"%s existe déjà.
+Voulez-vous le remplacer ?"
+Propriétés...
+Héros le Plus Puissant
+Héros Créé
+et
+Héros Aléatoire
+(Aucun)
+Facile
+Normal
+Difficile
+Expert
+Impossible
+"Fichiers Scénario Heroes 3 (*.h3m)
+.h3m"
+Prologue
+a un &prologue
+Épilogue
+a un ép&ilogue
+Propriétés du Scénario
+Sort : %s
+Donner %s à %s
+Fabriquer : %s dans la Ville Principale
+Recevoir %d %s
+Annuler
+Aide
+"Fichiers texte (*.txt)
+.txt"
+"Impossible d'importer ""%s""."
+"Importation de ""%s"" effectué."
+Nom
+Description
+Texte bouton droit
+Prologue
+Épilogue
+Campaign Properties Dialog
+Propriétés de la Campagne
+Carte :
+&Nom :
+&Description
+Difficulté du scénario définissable par l'&utilisateur
+&Thème musical :
+Version de la Campagne
+&Armageddon's Blade
+The &Shadow of Death
+Edit Hero Crossover Option Dialog
+Éditer les Options Récupération de Héros
+&Scénario précédent :
+&Position du joueur :
+Edit Starting Bonus Type Dialog
+Éditer le Bonus de Départ
+Choisir un type de bonus :
+&Sort
+&Créature
+&Bâtiment
+Artéfac&t
+Parch&emin de sort
+Carac&téristique
+C&ompétence secondaire
+&Ressource
+Destinataire :
+Artéfact :
+Type de Créature :
+Quantité :
+Bâtiment :
+Sort :
+Attaque :
+Défense :
+Magie :
+Savoir :
+Compétence :
+Niveau de maîtrise :
+Type de ressource :
+Edit Starting Hero Option Dialog
+Editer les Options du Héros de Départ
+Identité du &héros :
+&Position du Joueur :
+New Campaign Dialog
+Nouvelle Campagne
+&Carte de la campagne :
+Version de la Campagne
+&Armageddon's Blade
+The &Shadow of Death
+Scenario Properties Crossover Page
+Options de Récupération
+Les héros récupérés conservent :
+&Expérience
+&Caractéristiques
+C&ompétences
+&Sorts
+Artéfact&s
+Types de &créatures :
+&Toutes
+A&ucune
+Artéfacts récupérés :
+Scenario Properties General Page
+Général
+Nom de la région :
+&Couleur de la région :
+Nom du scénario :
+Fichier de la carte
+&Importer...
+&Actualiser...
+&Exporter...
+&Retirer
+&Difficulté par défaut :
+Conditions &préalables :
+Texte d'aide de la ré&gion :
+Scenario Properties Prologue Page
+&Animation :
+M&usique :
+&Message :
+Scenario Properties Starting Options Page
+Options de Départ
+Les options de départ sont :
+Options du &bonus de départ
+Options de récup&ération de héros
+Options du &héros de départ
+&Position du joueur
+&Options du bonus de départ
+&Ajouter...
+&Éditer...
+&Retirer
+Scénario précédent
+Héros
+Main Menu Text
+&Fichier
+&Edition	
+&Aide	
+File Menu	
+&Nouveau…	Ctrl+N
+&Ouvrir…	Ctrl+O
+&Enregistrer	Ctrl+S
+En&registrer sous…	
+Ex&porter texte...	
+&Importer texte...	
+&Actualiser les cartes de scénario	Ctrl+R
+E&xporter les cartes de scénario	Ctrl+E
+Fichiers récents	
+&Quitter	
+Edit Menu	
+Propriétés de la &campagne…	Ctrl+Entrée
+Propriétés du &scénario…	Entrée
+Help Menu
+&Sujets de l'Aide
+&À propos de l'Éditeur de Campagne…

@@ -1,0 +1,20 @@
+===== Map name =====
+Gambit
+
+===== Map description =====
+Ces terres inhospitalières sont aussi riches en ressources et artéfacts qu'en ennemis. Partez à la conquête des îles les plus proches, voguez sur les mers ou tentez de vaincre les gardes du mystérieux portail. Quoi qu'il en soit, soyez prêt pour la guerre.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Oops...
+Message:
+
+
+===== Heroes =====
+
+===== Objects =====
+
+===== End of file =====

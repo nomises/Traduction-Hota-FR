@@ -1,0 +1,23 @@
+===== Map name =====
+Captif
+
+===== Map description =====
+C'est une catastrophe ! La nuit dernière un de vos vaisseaux a été attaqué. Le capitaine du navire à été capturé, et la cargaison perdue... 	Il ne vous reste plus qu'à libérer ce pauvre gars et à retrouver vos marchandises.
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Heroes =====
+
+===== Objects =====
+
+(16, 30, 1) ***Sign***
+Message:
+Catacombes
+
+(13, 4, 1) ***Event***
+Message:
+On dirait que les Kreegans ont laissé de solides gardiens ici...
+
+===== End of file =====

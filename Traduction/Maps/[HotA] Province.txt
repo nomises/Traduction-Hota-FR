@@ -1,0 +1,24 @@
+===== Map name =====
+Province
+
+===== Map description =====
+À cause du manque de ressources, cette petite province est au cœur d'une guerre entre quatre seigneurs. La terre est stérile et n'a aucune valeur pour eux, mais pas un seul ne fera marche arrière. C'est probablement une question de principe maintenant.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Introduction
+Message:
+Ces terres désolées sont ravagées par la guerre et ne vous permettront pas de conserver une grande armée. Il est préférable d'attendre que vos adversaires s'affaiblissent, puis de tenter de porter le coup fatal.
+
+===== Heroes =====
+
+===== Objects =====
+
+(22, 12, 0) ***Sign***
+Message:
+
+
+===== End of file =====

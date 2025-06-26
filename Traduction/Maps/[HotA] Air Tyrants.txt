@@ -1,0 +1,47 @@
+===== Map name =====
+Air Tyrants
+
+===== Map description =====
+For years, your country has been attacked by air pirates. There were no means of defense against air attacks, so you were forced to go underground. But enough time has passed to gather strength and repel the air invaders.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+day1
+Message:
+For decades, air pirates had been terrorizing the surface world. They descended from above the clouds in their airships, robbing and killing anyone they could find. Centuries ago, your defenseless people fled to the only safe place they could find—the underground caves where the airships could not reach them. 
+
+Name:
+day1.1
+Message:
+Over the long years spent underground, your people have not only survived but also built up enough strength to return to the surface and fight the air tyrants. The time has come to leave the caves and face the world once again!
+
+Name:
+day5
+Message:
+You put your ear to the cold stone and heard loud humming and a babble of voices. After returning to the camp and studying the maps of the dungeons, you came to the only possible conclusion: there were other people in your neighborhood, separated from you by impenetrable earth.
+
+Name:
+Day7
+Message:
+Who are those mysterious strangers in the nearby caves? Perhaps they too are survivors, a part of your people who also escaped underground but were unable to reunite with you. However, their culture and worldview may have changed a great deal over the centuries. It is not clear yet whether they will become your allies in the fight against the air pirates or try to claim the surface and the caves for themselves.
+
+===== Heroes =====
+
+===== Objects =====
+
+(5, 34, 0) ***Event***
+Message:
+Here it was, the Surface! You saw what you had only heard about in the stories of old people who had once lived under the sun. There was, however, no sign of the air pirates. It seemed that no human had set foot in these parts for many years; the wrecked airships and gnawed-upon skeletons had gotten overgrown with vegetation. Had the foe you feared so disappeared from this world? It no longer mattered whether they had been struck by illness or by strife. Now, you were only worried about the prospect of encountering the inhabitants of other caves 
+
+(6, 5, 0) ***Event***
+Message:
+Here it was, the Surface! You saw what you had only heard about in the stories of old people who had once lived under the sun. There was, however, no sign of the air pirates. It seemed that no human had set foot in these parts for many years; the wrecked airships and gnawed-upon skeletons had gotten overgrown with vegetation. Had the foe you feared so disappeared from this world? It no longer mattered whether they had been struck by illness or by strife. Now, you were only worried about the prospect of encountering the inhabitants of other caves. If they were looking for a good fight, just like you, they would get one.
+
+(24, 9, 1) ***Event***
+Message:
+It seems that in ancient times, another group from the surface tried to flee to this cave in a bid to save their lives. However, the cave was too small for them to survive for long, and in the end, all the new dwellers died.
+
+===== End of file =====

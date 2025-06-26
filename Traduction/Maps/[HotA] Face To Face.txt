@@ -1,0 +1,15 @@
+===== Map name =====
+Face à Face
+
+===== Map description =====
+Il n'y a rien de mieux que de départager le plus fort au cours d'un duel équitable. Et c'est encore mieux s'il y'a un conflit entre les deux rivaux.
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Heroes =====
+
+===== Objects =====
+
+===== End of file =====

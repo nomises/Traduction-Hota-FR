@@ -1,0 +1,88 @@
+===== Map name =====
+Prenez Garde aux Démons
+
+===== Map description =====
+On vous a confié une mission de première importance: explorer les territoires vierges encore non cartographiés. Quels périls attendent l'aventurier sur ces terres pleines de dangers et de mystères ?
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+L'arrivée
+Message:
+Cela fait quelques semaines depuis que vous avez laissé derrière vous la dernière île habitée et prit le large. Vous voyez enfin à l'horizon ce qui ressemble à une terre inconnue.
+
+Name:
+Éclaireurs
+Message:
+Vos éclaireurs ont repéré un château au nord-est... La mauvaise nouvelle est qu'il semble occupé par des nécromanciens.
+
+Name:
+Nec and dem
+Message:
+Les indigènes n'arrêtent pas de dir que les nécromanciens du nord ont pactisé avec les démons... Il se dit que bientôt les créatures des profondeurs auront accompli leur rituel et seront capables d'envahir les terres en surface!
+
+Name:
+Histoire
+Message:
+Les locaux m'ont raconté la légende d'un ancien héros, ils m'ont également parlé d'un vieux fou qui vit au bord d'une rivière.
+
+Name:
+Captif
+Message:
+J'ai pensé à cette légende à propos d'un ancien héros... Peut-être que le libérer nous donnera une chance de survie face aux démons.
+
+Name:
+Help
+Message:
+Ce matin,  nous avons affretté un petit navire et renvoyé des gens au port duquel nous sommes partis pour cette expédition. J'espère qu'ils rentreront sans problème et qu'ils pourront raconter les horreurs perpétrées ici. Ils devraient également demander des renforts. Si tout se déroule comme prévu, la flotte devrait être là dans deux jours.
+
+Name:
+La fin
+Message:
+Nous touchons presque au but ! Nos Sorcières disent que la flotte est à quatre jours d'ici.
+
+===== Heroes =====
+
+===== Objects =====
+
+(12, 31, 0) ***Seer's Hut***
+Message:
+Étranger! Connaissez-vous l'ancienne légende de ces lieux? Il y a longtemps, les terribles démons des enfers ont attrapé un grand héros antique et l'ont emprisonné dans une forteresse imprenable. Au fil des années, les vagues de l'océan ont balayé les zones côtières de l'île ... Depuis, la forteresse, devenue un tombeau pour l'ancien guerrier, était dominée par l'école de l'eau. Voyez-vous cette lame? La légende dit qu'un prisonnier du tombeau pourra la prendre et traduire les démons en justice!
+Avez-vous vu le tombeau qui dort au fond de la mer, étranger?
+Il est de retour! Louez les dieux!
+
+(1, 27, 0) ***Prison***
+Name:
+Dagon
+Biography:
+???
+
+(34, 31, 0) ***Sign***
+Message:
+Chenil
+
+(5, 27, 0) ***Ocean Bottle***
+Message:
+"Méfiez-vous des démons du monde souterrain..."
+
+(3, 30, 1) ***Inferno***
+
+Timed events:
+
+Name:
+õàëÿâà
+Message:
+
+
+(6, 3, 1) ***Inferno***
+
+Timed events:
+
+Name:
+õàëÿâà
+Message:
+
+
+===== End of file =====

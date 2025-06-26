@@ -1,0 +1,206 @@
+===== Map name =====
+Pénurie de Talents
+
+===== Map description =====
+Les actions de Sir Mullich ont fait long feu. Le lendemain d'un nouvel accès de rage, il se réveilla dans un château vide. Son peuple a fait ses bagages et est parti au cœur de la nuit, juste au moment où Mullich a reçu l'ordre de lutter contre la peste de la maison royale.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+01 - Confiscation de ressources
+Message:
+Mullich était encore plus enragé que d'habitude. Les soldats en fuite ont pris tout ce qu'ils pouvaient emporter. Il ne restait plus personne dans le château. Les valets de chambre, les écuries, les forgerons, la femme de ménage centenaire, presque tout le monde a décampé. Seul restait David l'écuyer, que Mullich avait fait attacher à un poteau la veille, après avoir surpris ce dernier en train de voler un jambon dans le garde-manger. Le gamin n'était pas au bout de ses peines, car Mullich allait dorénavant passer ses nerfs sur lui.
+
+===== Heroes =====
+
+===== Objects =====
+
+(27, 9, 0) ***Quest Guard***
+Message:
+Le droit de passage s'élève à 10 Cristaux, pas moins.
+Vous n'avez pas 10 cristaux à revendre? Dommage! Et vous osez vous prétendre chevalier!
+Laissez les cristaux et partez. Je m'épuise tout seul à force de rester ici.
+
+(50, 10, 0) ***Seer's Hut***
+Message:
+Vos tireurs peuvent se reconvertir en infanterie lourde ici.
+Pas de tireurs dans votre armée ? Quel genre d'armée est-ce ?
+Allons-nous commencer notre pratique de l'épée ?
+
+(49, 10, 0) ***Event***
+Message:
+Tout juste quand Mullich pensait que c'était assez de morts-vivants pour ce soir...
+
+(58, 16, 0) ***Seer's Hut***
+Message:
+Souhaitez-vous connaître le secret pour être naturellement solide? Vous n'aurez même plus besoin de cette bague, que je vais réclamer comme paiement...
+La Bague de Constance. C'est un joli bijou en or. Continuez vos recherches.
+Remettez-moi l'anneau et je donnerai à vos gars un bon exercice.
+
+(46, 2, 0) ***Event***
+Message:
+Les tribulations de la journée ont permis à Mullich de faire de nouvelles connaissances.
+
+(27, 23, 0) ***Event***
+Message:
+Les tribulations de la journée ont permis à Mullich de faire de nouvelles connaissances.
+
+(6, 3, 0) ***Castle***
+Name:
+City
+
+(16, 26, 0) ***Seer's Hut***
+Message:
+Vous avez finalement décidé de donner à vos hommes quelque chose de plus impressionnant que des bâtons et des haches ? Vous êtes au bon endroit alors...
+Avez-vous égaré votre hallebardier ?
+Allons-nous entamer la reconversion ?
+
+(27, 2, 0) ***Seer's Hut***
+Message:
+Si vous voulez augmenter votre cadence de tir, vous devrez faire deux fois plus de travail...
+Avez-vous égaré votre arbalétrier ?
+Prêt à vous salir les mains, petit ?
+
+(44, 22, 0) ***Quest Guard***
+Message:
+Hé, c'est encore moi. Ce sera 10 Gemmes cette fois.
+Vous n'avez pas 10 Gemmes à revendre ? Dommage ! Et vous osez vous prétendre chevalier !
+On se reverra...
+
+(51, 2, 0) ***Seer's Hut***
+Message:
+Nous aidons les anciens réprouvés à se réinsérer et à trouver un chemin droit dans la vie. Si vous en rencontrez un, amenez-le ici.
+Où est le Bandit ?
+Saviez-vous que votre voyou était un elfe ? Nous allons lui donner un arc, il s'en tirera bien.
+
+(9, 44, 0) ***Seer's Hut***
+Message:
+Rejoignez notre programme de remise en forme! Nous proposons des épées plus légères, une armure plus solide et des casques plus agréables...!
+Nous ne délivrerons pas d'armement à un idiot lambda. Apportez un épéiste expérimenté.
+Voici votre nouvel équipement, veuillez signer ici. Cela signifie également que vous devez vous présenter immédiatement si une croisade est lancée.
+
+(37, 5, 0) ***Event***
+Message:
+Les tribulations de la journée ont permis à Mullich de faire de nouvelles connaissances.
+
+(1, 35, 0) ***Event***
+Message:
+Les tribulations de la journée ont permis à Mullich de faire de nouvelles connaissances.
+
+(12, 38, 0) ***Event***
+Message:
+Les tribulations de la journée ont permis à Mullich de faire de nouvelles connaissances.
+
+(12, 34, 0) ***Quest Guard***
+Message:
+Nous pouvons prendre vos déchets inutiles. Eh bien, vous pourriez l'appeler inutile, mais nous espérons bien le réutiliser. Voici ce que nous recherchons :
+Un heaume, un bouclier, une cuirasse et une écharpe. Souhaitez-vous que je vous écrive une liste ?
+Avez-vous tout compris ? Oh génial, jetez tout ici! Vous devez être épuisé après avoir transporté une telle pile de fatras.
+
+(13, 33, 0) ***Event***
+Message:
+Oh regardez, n'est-ce pas l'ancienne équipe de Mullich ? Il ne leur a pas fallu longtemps pour perdre pied sans un bon commandement, et il semble qu'ils espèrent récupérer leurs places auprès de leur ancien commandant.
+
+(50, 17, 0) ***Event***
+Message:
+Un voleur que Mullich a surpris en train de rôder autour de sa bourse vide a été forcé de rejoindre la cause du chevalier. La seule autre option étant l'exécution immédiate.
+
+(28, 10, 0) ***Event***
+Message:
+Les tribulations de la journée ont permis à Mullich de faire de nouvelles connaissances.
+
+(44, 44, 0) ***Seer's Hut***
+Message:
+Nous sommes un ordre reigieux militaire. Votre paladin serait-il intéressé pour nous rejoindre ?
+N'y a-t-il personne qui veuille emprunter le chemin monastique ?
+Voici une belle soutane pour notre nouveau frère !
+
+(33, 5, 0) ***Event***
+Message:
+Une charge électrique firent se lever les cheveux de Mullich. Il sentit une forte chaleur envahir tout son crâne.
+
+(9, 53, 0) ***Event***
+Message:
+Oh, c'est mignon ! Ces dragons ont rendez-vous ici. Dommage qu'ils n'aiment vraiment pas les regards indiscrets.
+
+(2, 49, 0) ***Seer's Hut***
+Message:
+Je crois que j'ai trouvé un moyen de bénir les hommes qui n'ont pas de capacités magiques innées. Je veux réaliser et expérimenter, mais je crains de ne pas avoir de sujet approprié. Avez-vous un elfe à revendre ? Je ne le casserai pas, je vous le promets !
+Un elfe ! J'ai besoin d'un elfe !
+J'espère que ça ne dérange pas votre elfe de participer à mon expérience. La chose est... il y'a un effet secondaire plutôt inhabituel.
+
+(10, 52, 0) ***Seer's Hut***
+Message:
+Soutanes bleues à la mode et clous magiques! Pour le clergé distingué uniquement.
+Nous ne servons que le clergé.
+Allez-y, voici vos nouveaux vêtements. Essayez simplement de vous abstenir de mettre des clous à l'intérieur, voulez-vous ?
+
+(43, 8, 0) ***Seer's Hut***
+Message:
+Une Hache du Centaure ? Pourquoi avez-vous besoin de ce morceau de fer ? Remettez-le moi et je vous donnerai quelque chose de joli en échange.
+C'est une hache. Gros et plutôt lourd. Ramenez-moi ça.
+Et bien voilà ! On échange ?
+
+(32, 9, 0) ***Seer's Hut***
+Message:
+Un homme sage m'a dit qu'une certaine corde, retirée de son arc, peut vous aider à tirer beaucoup mieux.
+C'est votre choix...
+Alors on la retire ?
+
+(33, 60, 0) ***Seer's Hut***
+Message:
+Vous vous demandez comment notre arbre peut être indemne au milieu d'une mer de flammes ? Eh bien, nous sommes maîtres de l'élément de l'eau, et le feu ne peut pas nous toucher. Voulez-vous apprendre cette astuce ? Apportez-nous une Féticheuse.
+Seule une sorcière peut maîtriser nos magies complexes.
+Voilà notre fille ! Êtes-vous prête a avoir une promotion ?
+
+(38, 54, 0) ***Event***
+Message:
+Cet autel est gardé finalement. Aux armes !
+
+(40, 45, 0) ***Quest Guard***
+Message:
+Je suis un collectionneur intéressé par les raretés fabriquées dans le style "Empire du cimetière". J'ai entendu dire qu'il y avait plusieurs choses comme ça dans ces régions. Pourriez-vous me les apporter ?
+Crânes, os, décomposition et désespoir. Voilà tout ce que je recherche.
+Oh, soyez béni ! Ma collection est maintenant complète ! Souhaitez-vous passer ?
+
+(36, 56, 0) ***Event***
+Message:
+Les tribulations de la journée ont permis à Mullich de faire de nouvelles connaissances.
+
+(26, 34, 0) ***Event***
+Message:
+Les tribulations de la journée ont permis à Mullich de faire de nouvelles connaissances.
+
+(33, 61, 0) ***Event***
+Message:
+Avec le recul, il était stupide d'espérer que quelqu'un puisse traverser une mer de flammes comme celle-ci. Eh bien, voilà.
+
+(19, 39, 1) ***Event***
+Message:
+Les tribulations de la journée ont permis à Mullich de faire de nouvelles connaissances.
+
+(14, 33, 1) ***Seer's Hut***
+Message:
+J'ai été banni dans le monde souterrain il y a de nombreuses années, après avoir vaincu le prince lors d'un concours de tir à l'arc. J'étais vraiment bon, et j'aimerais transmettre ce qui reste de mon talent à un elfe plus jeune.
+Dépêchez-vous, apportez-moi un elfe ! Je ne vais pas durer éternellement !
+Enfin ! Tiens, prends mon arc et mon armure, et mets une flèche pour moi dans le ventre du prince bâtard si jamais tu le rencontres.
+
+(36, 28, 1) ***Quest Guard***
+Message:
+Vous pouvez apprendre à tirer avec une grande précision ici.
+Vous pouvez apprendre à tirer avec une grande précision ici. Choisissez sagement !
+Voulez-vous apprendre à bien tirer ?
+
+(35, 32, 1) ***Quest Guard***
+Message:
+Vous pouvez apprendre à marcher deux fois plus vite ici.
+Vous pouvez apprendre à marcher deux fois plus vite ici. Choisissez sagement !
+Voulez-vous apprendre à marcher vite ?
+
+(34, 30, 1) ***Sign***
+Message:
+Vous pouvez apprendre à bien tirer ou à marcher vite ici, mais pas les deux.
+
+===== End of file =====

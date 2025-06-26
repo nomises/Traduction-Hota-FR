@@ -1,0 +1,183 @@
+===== Map name =====
+Filato
+
+===== Map description =====
+L'un des quartiers généraux d'Erathia sur l'île de Filato était le fourre-tout des contrebandiers jusqu'à ce que toute une armée d'Élémentaires l'envahisse. Aujourd'hui, le chaos y règne et personne ne sait ce qui s'y passe vraiment. Heureusement, Bidley est passé à côté de l'île peu de temps après.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Ressources
+Message:
+
+
+Name:
+L'arrivée à Filato
+Message:
+Débarquer sur les rives de Filato me perturbe un peu, car je ne sais rien de ce qui se passe sur cette foutue île. Pourquoi me semble-t-il que je vais le regretter ? Peut-être est-ce toutes les histoires obscures s'y rapportant qui m'effraient ? Pourtant, je sens la curiosité m'envahir, je suis tenté de m'enfoncer dans cette mystérieuse jungle infranchissable. Bon, puisque je suis là, je vais tenter d'éclaircir tout ça.		
+
+Name:
+L'arrivée à Filato 2
+Message:
+Mon équipage a décidé de rester sur le navire. Ces vauriens ont peur de tout même de leur ombre. Bon, je vais me passer d'eux, étant donné que des Erathiens m'ont rejoint. Et ils se posent la même question que moi : que se passe-t-il sur cette foutue île ? On fera la lumière plus tard et on se tirera d'ici. Reste à savoir si ma curiosité sera satisfaite à temps.
+
+Name:
+Préparatifs
+Message:
+Il est étrange que les Erathiens n'essaient même pas de prendre la ville de Seviheart. Se peut-il que la "Grande Erathia" ait peur d'une bande d'Élémentaires ? Mais qui sait, ces derniers sont peut-être beaucoup plus nombreux que je ne le pensais.
+
+Name:
+Préparatifs 2
+Message:
+Il y a longtemps, de nombreux villages nighons se trouvaient enfouis sous cette île, et on en est sûrs à cause de la présence de petits tunnels. Peut-être que les Erathiens s'en serviront pour attaquer Seviheart.
+
+===== Heroes =====
+
+===== Objects =====
+
+(33, 21, 0) ***Castle***
+Name:
+Crawley
+
+(3, 5, 0) ***Event***
+Message:
+
+
+(19, 34, 0) ***Quest Guard***
+Message:
+Vous n'avez pas oublié d'apporter les Chaînes de Gladiateur au voyant, n'est-ce pas ?
+
+(16, 34, 0) ***Event***
+Message:
+
+
+(8, 32, 0) ***Seer's Hut***
+Message:
+Je ne possède qu'une seule gemme, mais si vous me donner en échange une ou deux babioles, je vous la donnerai.
+Oh ! Épée Flamboyante et Capuche du Vampire, c'est exactement ce qu'il me faut. Voici la récompense que je vous ai promis. Voulez-vous faire l'échange ?
+
+(25, 12, 0) ***Sign***
+Message:
+Accepter des babioles et offrir des {gemmes} à la place.
+
+(13, 3, 0) ***Event***
+Message:
+Qu'est-ce que les mages ont bien pu oublier ici ? Ils ne sont certainement pas là pour boire du thé. Tout est possible, et rien ne les empêche de se préparer au combat.
+
+(1, 13, 0) ***Sign***
+Message:
+Virtheguest gat
+
+(3, 2, 0) ***Event***
+Message:
+Ces griffons ne pouvaient pas faire de mal, mais quelles autres créatures devront nous encore affronter ? Donc il vaut mieux pour moi, {ne pas perdre un seul un archer}.
+
+(14, 14, 0) ***Castle***
+Name:
+Seviheart
+
+(3, 17, 0) ***Event***
+Message:
+N'essayez même pas d'arrêter Christian, sinon vous n'irez pas plus loin !
+
+(21, 19, 0) ***Event***
+Message:
+
+
+(21, 17, 0) ***Event***
+Message:
+De nombreux citoyens évitaient les Conjureurs et ils étaient maintenant prêts pour aider à libérer la ville.
+
+(16, 15, 0) ***Event***
+Message:
+
+
+(1, 7, 0) ***Seer's Hut***
+Message:
+C'est simple, si vous arrivez à vaincre les nains de l'est, vous obtiendrez des archers.
+Voilà pour vous.
+
+(8, 4, 0) ***Event***
+Message:
+
+
+(9, 4, 0) ***Quest Guard***
+Message:
+Vous n'avez pas pu perdre le Pendentif, n'est-ce pas ?
+Vous n'avez pas pu perdre le Pendentif, n'est-ce pas ?
+D'accord, vous pouvez passer, mais rappelez-vous que vous n'êtes même pas un archer.
+
+(3, 19, 0) ***Event***
+Message:
+{Supprimez TOUTES les unités qui ne sont pas mortes dans les batailles précédentes}
+
+(19, 28, 0) ***Event***
+Message:
+Débarrassez-vous de votre ancienne armée !
+
+(6, 23, 1) ***Event***
+Message:
+Croyez-moi, cela vous servira !
+
+(30, 2, 1) ***Pandora's Box***
+Message:
+
+
+(31, 29, 1) ***Castle***
+
+Timed events:
+
+Name:
+ìèíóñ ðåñû
+Message:
+
+
+(31, 31, 1) ***Event***
+Message:
+Le vert est mort !
+
+(2, 33, 1) ***Pandora's Box***
+Message:
+Se détendre et se relaxer.
+
+(8, 24, 1) ***Event***
+Message:
+  - Manfred ? Qu'est-ce que tu fais ici ?"	  	  - J'ai été pris dans le piège des Conjureurs. Tu sais que notre confrérie ne sauvera jamais personne si tu ne promets aucune récompense. J'ai déjà songé que j'allais finir mes jours dans cette putain de prison, et si vous ne me libérez pas, c'est sûr."	   	  - "Je vais le faire, mais j'ai besoin de votre aide."	   	  - "Je vous aiderai autant que vous voudrez, mais libérez-moi. Vous ne pouvez pas imaginer à quel point j'en ai marre d'être assis à ne rien faire."		
+
+(28, 29, 1) ***Event***
+Message:
+Comme prévu, les Erathiens ont utilisé les vieilles méthodes des Nighons et y ont établi leur quartier général, se créant ainsi une bonne base arrière. Mais leur assaut a échoué, et il ne reste plus qu'à vaincre les restes de leur armée (oui, les restes).
+
+(23, 32, 1) ***Pandora's Box***
+Message:
+
+
+(15, 24, 1) ***Pandora's Box***
+Message:
+
+
+(3, 34, 1) ***Quest Guard***
+Message:
+Une fois la ville de Seviheart sécurisée, vous pourrez passer.
+Les gardes se méfient toujours d'Edric, ils ne vous laisseront donc pas passer.
+Il ne reste plus qu'à franchir le portail au fond du tunnel.
+
+(34, 13, 1) ***Sulfur***
+Message:
+À quoi sert ce soufre ?
+
+(23, 4, 1) ***Halberdier***
+Message:
+Manfred doit maintenant aider Bidley à fouiller les souterrains. Mais la marine Erathienne est en approche, donc Bidley doit s'activer pour renforcer les défenses de Seviheart. Lorsque Bidley sera prêt à défendre la ville, Manfred pourra se mettre en route.
+
+(27, 4, 1) ***Event***
+Message:
+
+
+(26, 4, 1) ***Pikeman***
+Message:
+Bidley peut maintenant engager une petite équipe pour défendre Seviheart.
+
+===== End of file =====

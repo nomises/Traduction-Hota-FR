@@ -1,0 +1,27 @@
+===== Map name =====
+Quand les Mers étaient Hautes
+
+===== Map description =====
+À l'avenir, l'archipel des Avalanches ne sera qu'une partie d'une immense péninsule. Pour le moment, la péninsule ne fait que saillir de l'eau, révélant une flotte de navires coulés, qui, naturellement, attirent des chasseurs de trésors de toutes races et de toutes couleurs.
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Heroes =====
+
+===== Objects =====
+
+(69, 90, 0) ***Pandora's Box***
+Message:
+
+
+(53, 64, 0) ***Pandora's Box***
+Message:
+
+
+(85, 57, 0) ***Pandora's Box***
+Message:
+
+
+===== End of file =====

@@ -1,0 +1,70 @@
+Region Name	Campaign Name	Scenario Name	Map Area Name
+"{Southport}
+
+Queen Catherine has departed to elicit military support from King Gavin Magnus of Bracada. Other generals are fanning through the region. Establish a base of operations, rally local militia, determine the extent of the Nighon occupation, and find their invasion route."	Good1	G1a	Map Area 1
+"{Angelgate}
+
+Reports of Angels near the town of Fair Feather deserve our investigation. If the rumors are true, then we must ensure the safety of this town, and perhaps convince the Angels to ally with us."	Good1	G1b	Map Area 2
+"{Griffin Cliff}
+
+The region of Griffin Cliff, the annual breeding grounds from which nearly all of Erathia's Griffin population comes from, is currently under the control of the combined Nighon and Kreegan forces. Generations ago, the Griffins were key to building Erathia, and today they are key to reclaiming it."	Good1	G1c	Map Area 3
+"{Battlestead}
+
+The first step in our fight to free Erathia is to liberate the capital of Steadwick from Nighon occupation. This will not be an easy task, as the Dungeon Overlords have blocked the mountain passes leading into the Steadwick Valley."	Good2	G2a	Map Area 1
+"{Eeofol}
+
+A letter from Lucifer Kreegan III, Lord High Commander of Eeofol, arrives at the palace for Queen Catherine. In it he claims that he holds a captive, Catherine's husband, Roland Ironfist of Enroth, and that only a one million gold ransom can save him."	Good2	G2b	Map Area 2
+"{Marshland & Hillbridge}
+
+An ambassador from Bracada brings a message from his leader, Gavin Magnus, offering aid in reclaiming Western Erathia from the marauding Tatalian and Krewlish forces. It is time to remind your neighbors of where their borders belong."	Good2	G2c	Map Area 3
+"{Grainrich & Firecoast}
+
+We now know how Erathia fell to Nighon and Eeofol. They literally tunneled their way under the Nighon Straits, breaking into the Dwarven Tunnels along Erathia's coast. We must now force them to use the tunnels again - this time as an escape route as we drive them from Erathia's lands forever!"	Good2	G2d	Map Area 4
+"{Marshland}
+
+You are offered a mercenary contract with King Tralossk of Tatalia, who once and for all wishes for his nation to be made up of something more than just swampland. With Erathia distracted, he has decided that now is the time to expand Tatalia's borders."	Neutral1	N1a	Map Area 1
+"{Minewell}
+
+Duke Winston Boragus, leader of Krewlod, has offered you a mercenary contract which will require you to make a series of raids into Erathian territory. The plan is to plunder enough gold to allow the armies of Krewlod to purchase what it would need for... other things."	Neutral1	N1b	Map Area 2
+"{Hillbridge}
+
+Both King Tralossk of Tatalia and Duke Boragus of Krewlod are seeking your services. Both nations are poised to claim the last strip of land between their countries. Ironically, this land has little value. You must decide which nation to serve. The choice is yours alone."	Neutral1	N1c	Map Area 3
+"{Forestlow}
+
+A Necromancer is attempting to reach an Erathian outpost with proof of who killed King Gryphonheart. He is currently safe, but his way is blocked by undead loyal to their new King. You must escort him on the last leg of the journey."	Good3	G3a	Map Area 1
+"{Emerald Hills to Woodgrove}
+
+You command the combined armies of Erathia, AvLee, and Bracada, plus the Necromancers that have chosen to fight with you against King Gryphonheart. The undead presence is strong, but you must prevail!"	Good3	G3b	Map Area 2
+"{Marble Garden}
+
+This is the final battle. Our presence has already begun to restore life to the land, but we must destroy this last fortress of death that King Gryphonheart has retreated to. It is time to return the dead to their graves."	Good3	G3c	Map Area 3
+"{Rionpoint}
+
+Before Erathia has a chance to call upon the elves of AvLee for assistance, we have decided to strike at the heart of AvLee's strength - the Gold Dragon Queen. By eliminating the elves' strongest ally, they will be unable to lend aid to Erathia."	Evil1	E1a	Map Area 1
+"{Grainrich}
+
+Our forces will cover most of the distance to the Erathian capitol by using underground tunnels. To maintain the element of surprise, you must attack any Erathian settlement you find. Use the vast network of caves in this area to accomplish this goal."	Evil1	E1b	Map Area 2
+"{Battlestead}
+
+Assault the Erathian capital of Steadwick. This won't be easy, as the capital is easily and well defended. To make matters worse, the force led by Queen Catherine is on the move. We must capture Steadwick before she arrives!"	Evil1	E1c	Map Area 3
+"{Marble Garden}
+
+King Gryphonheart, the man who banished us from Erathia, is dead. The Nighon and Eeofol invasion has given us the gift of death. At last we can build our armies and invade Erathia ourselves. First, however, we need a tactician. You must find the tomb of King Gryphonheart."	Evil2	E2a	Map Area 1
+"{Emerald Hills}
+
+We have found a perfect area along Erathia's border from which we can harvest enough creatures for our armies without attracting much notice from the Erathian Military. Build an army, but be quick - we need those troops immediately."	Evil2	E2b	Map Area 2
+"{Strongwillow & Woodgrove}
+
+A rogue Death Knight does not wish to take part in the glory that will be our invasion of Erathia. He believes that by remaining out of the fighting, his lands will be spared from any counterattack by the Erathians. It is time we taught him a small lesson regarding obedience."	Evil2	E2c	Map Area 3
+"{Forestbury}
+
+The time has come. The lich King Gryphonheart has chosen this as the moment of attack. Forces from across Deyja will pour into Erathia and overwhelm them. The point of your attack was chosen by King Gryphonheart himself. You have vowed not to fail."	Evil2	E2d	Map Area 4
+"{Cloverfield}
+
+Before we can declare our independence we will need a symbol. That symbol is the Grail, which was lost in this area centuries ago. We must find it, or our plan will dissolve even before we can set it in motion. You have but three months to locate the Grail."	Secret1	S1a	Map Area 1
+"{Forestdale}
+
+The journey to Welnin has not been easy, but it is the last leg of the journey that will be the most difficult. The Ranger, Ryland, has the Grail, and must elude the forces loyal to Erathia and AvLee to reach Welnin. Once there, he must order the construction of a permanent home for the Grail."	Secret1	S1b	Map Area 2
+"{Mosswood}
+
+The Grail has reached Welnin, but now we must build this city into a capital. Armies from Erathia and AvLee shall attack us from all directions. Soon we shall prove that the Contested Lands are theirs no more!"	Secret1	S1c	Map Area 3

@@ -1,0 +1,67 @@
+===== Map name =====
+Le Grand Désert
+
+===== Map description =====
+À une certaine époque ces terres étaient prospères, jusqu'à ce qu'un alchimiste fou ne les réduisent en un tas de cendres suite à une expérience malheureuse. Les seigneurs survivants tentent maintenant de prendre le contrôle de ces terres étranges, mais encore pleines de trésors. Vous devez agir.
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Heroes =====
+
+===== Objects =====
+
+(49, 1, 0) ***Ocean Bottle***
+Message:
+Pourquoi voulez-vous cette bouteille ? Il n'y a rien dedans. Puisque je suis entre vos mains de toute façon, sachez que le Graal est sous terre.
+
+(2, 23, 0) ***Event***
+Message:
+Les morts sortent de leurs tombes et vous attaquent.
+
+(56, 21, 0) ***Pandora's Box***
+Message:
+
+
+(17, 55, 0) ***Dwarf***
+Message:
+Dégagez de là ! C'est notre trésor !
+
+(19, 56, 0) ***Battle Dwarf***
+Message:
+Vous êtes déjà mort !
+
+(7, 19, 0) ***Sign***
+Message:
+Lieu d'inhumation.
+
+(55, 59, 0) ***Sign***
+Message:
+PROMOTION ! Avis à tous les imbéciles ! Le 30 février, une réduction de 100% sur TOUTES les compétences. À ne surtout pas manquer !
+
+(2, 7, 1) ***Zealot***
+Message:
+Que la lumière soit toujours sur votre chemin !
+
+(20, 57, 1) ***Sign***
+Message:
+Logement possible de l'Archange.
+
+(18, 64, 1) ***Sign***
+Message:
+Ici vit un célèbre magicien et amuseur de cartes, également sorcier et prestidigitateur.
+
+(42, 29, 1) ***Pandora's Box***
+Message:
+Vous êtes sûr ?
+
+(30, 67, 1) ***Sign***
+Message:
+Dangur ! Sortez d'ici !
+
+(32, 67, 1) ***Event***
+Message:
+Tu vas regretter d'être né !
+
+===== End of file =====

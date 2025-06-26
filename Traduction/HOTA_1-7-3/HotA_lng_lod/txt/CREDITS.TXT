@@ -1,0 +1,496 @@
+Credits
+"{In memory of Docent Picolan}
+{HotA project founder,}
+{coordinator,}
+{composer,}
+{artist}
+
+{HotA project contributors:}
+{(in alphabetical order)}
+
+{Agar} 
+3D artist, concept artist
+{Alex-ander}
+2D/3D artist,
+Cove graphics
+{Balkron}
+2D/3D artist
+{baratorch}
+code, map editor, lobby,
+simultaneous turns,
+HD-mod compatibility
+{crackedmind}
+code, hosting
+{deferatto}
+2D/3D artist,
+scenarios, tester
+{diavolschina}
+concept artist
+{Dmitriy Gravchenko}
+3D artist,
+Factory creatures
+{Don_ko}
+2D/3D artist, scenarios,
+story, writer
+{DrSlash}
+2D/3D artist, story,
+lobby moderator
+{Entuser}
+code, Cove code
+{Fatalist}
+scenarios,
+campaign scenarios,
+translator, editor
+{FCst1}
+scenario tester,
+video editor
+{gotthit}
+code
+{Gruk}
+code,
+template editor
+{Hapuga}
+translator, editor
+{Heetch}
+music, mastering,
+sound design
+{Игорь Кудра}
+lead tester,
+task organizer
+{IQUARE}
+code, scenarios,
+parameter settings,
+tester, writer,
+translator
+{Klejnot Nilu}
+lobby moderator
+{Lampik_MURArt}
+concept artist
+{Maestro}
+cutscenes
+{Mantiss}
+tester, writer, PR
+{Morn}
+hero portraits
+{Mugais}
+story, scenarios,
+writer
+{nosferatu}
+2D artist
+{nik312}
+balance, translator,
+tester, PR
+{parovozovoz}
+scenarios, tester,
+lobby moderator
+{Raistlin}
+code, translator,
+writer
+{Rusha}
+2D artist
+{Sav}
+coordinator,
+lead programmer,
+documentation,
+balance, PR
+{Sirius}
+scenarios,
+campaign scenarios
+{Spartak}
+tester, hosting
+{Starseeker}
+editor, translator,
+writer
+{tarren}
+code, video editing
+{Tevye}
+lead editor,
+translator,
+story, writer, PR
+{Vade Parvis}
+2D artist, ideas, PR
+{void_17}
+code
+{weakref}
+code, writer
+{Wic}
+balance, tester,
+RMG templates
+{XEL}
+lore, story, writer
+{yoggi}
+2D/3D artist
+
+{Special thanks to:}
+
+{DF2 forum}
+and its Administration 
+{Erolast}
+for website design
+{LivingAnarchy}
+for Facebook group handling,
+tournament and testing (2019)
+organization
+{CzileraInzyniera}
+for testing (2023, 2024)
+organization
+{Xocenk}
+for testing (2023)
+organization
+{maugli}
+for testing (2024)
+organization
+{WiZarDX_576} and {igrik}
+for code-related help
+{magoth}
+for help with
+video playback support
+{SaintDark}
+for launcher-related help
+{Sar} и {d0s}
+for help in shaping
+the Cove concept
+{sergroj}
+for software
+and map editor-related help
+{AKuHAK}
+for text editing
+{Denis Goncharuk}
+for hosting
+{olexn}
+for installer-related help
+{Станислав Гординский}
+for translations
+{Nestor}
+for testing
+and campaign fixes
+{Orzie}
+for sounds
+{Enchanter Phoenix}, {Peace},
+{Quick-Sighted Dog},
+{Markon Phoenix},
+{Ivan Dnistryan},
+{Nice Pictures}
+for 3D cutscenes
+{SoVa}
+for 2D/3D art and writing
+{Алексей Палько},
+{Виталий Олейник}
+for battlefield backgrounds
+{Сергей Капустин}
+for writing
+{Роман Куприянов}
+for hero portraits and cutscenes
+{Yekaterina Dmitrova}
+for cutscene sounds
+{Paul Anthony Romero}
+for Factory campaign main theme
+{Maigret}
+for Factory town theme
+and campaign themes
+{Alina Besanidou},
+{Василий Синичкин}
+for cutscene concept art
+
+Scenario and template makers:
+{Riug74}, {Чапай}, {Manolo},
+{molski}, {koget}, {Veracruz},
+{Begrezen}, {Ignus}
+
+Voice actors (ru):
+{Наталья Мерц},
+{Андрей Богатырёв},
+{Виктор Потапешкин},
+{Наталья Белкина},
+{Михаил Марков},
+{Наталья Рагулина}
+
+2019 testers:
+{Chleb}, {Ignus},
+{LivingAnarchy},
+{maestro}, {Machberet},
+{Szopa666}, {Ravciozo}
+
+2023 testers:
+{CzileraInzyniera},
+{DarkPepego}, {Gongwazy},
+{Flisiu}, {Йорик},
+{Machberet}, {maugli},
+{Mont}, {Niechcic},
+{Scherban Vlad}, {Spinaonic}, 
+{Voidek}, {Xocenk},
+{Zuuzel}
+
+2024 testers:
+{CzileraInzyniera},
+{DarkPepego}, {Flisiu},
+{Green Hell}, {Йорик},
+{Krzynsztof}, {Machberet},
+{maugli}, {Redwhait},
+{Scherban Vlad}, {Spinaonic}, 
+{Voidek}, {ZomberR},
+{Zuuzel}
+
+and to the entire
+Heroes community
+for staying active
+and providing their support
+
+{Past project contributors:}
+
+{Arseny}
+balance, scenarios
+{ArtisanDen}
+artist
+{Astaroth}
+artist
+{Axolotl}
+3D artist
+{borisloff}
+3D artist
+{Black Phantom}
+in-game resources
+{Darkmoon}
+translator
+{Д'якон}
+code
+{exx}
+3D artist
+{feanor}
+code
+{<Fenix>}
+scenarios
+{fiorin}
+3D artist
+{gamdev}
+tester
+{hippocamus}
+honorary contributor,
+tester, lobby moderator
+{Kastore}
+PR, story
+{Lan'Rey}
+scenarios
+{major}
+code
+{Миханик}
+code
+{pokrik1}
+artist
+{potmdehex}
+code
+{Qed'Maen}
+documentation,
+translator
+{Quick-Sighted Dog}
+3D artist
+{SAG}
+balance
+{Серёга-JET}
+editor, tester
+{Silver}
+story
+{Vaflya}
+balance
+{VizitOr}
+code
+{VSeleznv}
+code
+{you}
+code
+{Yulyasha}
+lobby moderator
+{Zenofex}
+tester
+
+
+
+
+{New World Computing}
+{(original game developers):}
+
+
+{Created By:}
+Jon Van Caneghem
+
+
+
+{Executive Producer:}
+Mark Caldwell
+
+
+
+{Producer:}
+Jeff Blattner
+
+
+
+{Director:}
+David Mullich
+
+
+{Associate Director:}
+Christian Vanover
+
+
+{Designers:}
+Jennifer Bullard
+Gregory Fulton
+Jon Van Caneghem
+
+
+{Lead Programmers:}
+John Bolton
+David Richey
+
+
+{Programmers:}
+Mark Caldwell
+John Krause
+Jeff Leggett
+George Ruof
+Gus Smedstad
+
+
+{Lead Artists:}
+Joseph McGuffin
+Phelan Sykes
+
+
+{Artists:}
+George Almond
+Jeff Bigman
+Fernando Castillo
+Rebecca Christel
+Brian DeMetz
+John E. Gibson IV
+Louis Henderson
+Edward Hudson
+Tracy Iwata
+Steve Jasper
+Brian Kemper
+April Lee
+Bonita Long-Hemsath
+Adam McCarthy
+Kurt McKeever
+Nowa Morisaku
+Kenneth Thomson, Jr.
+Tony Rizo
+Bill Stoneham
+Julia Ulano
+Steve Wasaff
+Scott White
+Charles Zilm
+
+
+{Asset Coordinator:}
+Jack Russell
+
+
+{Level Designers:}
+Benjamin Bent
+Dave Botan
+Ryan Den
+Walter Johnson
+Marcus Pregent
+Christian Vanover
+Lisa Whitman
+Mike Wolf
+
+
+{Music Producer:}
+Rob King
+
+
+{Town Themes:}
+Paul Romero
+
+
+{Music:}
+Paul Romero
+Rob King
+Steve Baca
+
+
+{Sound Design:}
+Rob King
+Steve Baca
+Chuck Russom
+
+
+{Voice Production:}
+Rob King
+Green Street Studios
+South Pasadena, Ca.
+
+
+{Voice Talent:}
+Catherine Battistone
+Aric Devone
+Mari Devon
+Richard Epcar
+Danny Fehsenfeld
+Lex Lang
+Wendee Lee
+Laird Macintosh
+Sy Prescott
+Mike Sorich
+Dan Woren
+
+
+{Lead Tester:}
+Karl Drown
+
+
+{Testers:}
+Jesse Anacleto
+Mary Ellen Babson
+Devin Chapman
+William Choulos
+John Cloud
+Gavan Cook
+Karl Fischer
+Ernie Gallardo
+Benjamin Goldhammer
+Rich Holmes
+Yoshiyuki Maeda
+Lance Page
+Bryce Verdier
+Eric Williamson
+Sean Wyman
+Thomas Zeliff
+
+
+{Special Thanks:}
+Cyberlore Studios
+Hypnotix
+Equinoxe
+Rad Game Tools
+Sonic Foundry
+Sound Forge
+Soundscape
+Riki Corredera
+John Machin
+Scott McDaniel
+Michele Mitchel
+John Slowsky
+
+
+{Webmaster:}
+Joshua “Guthwulf” Milligan
+
+
+{Web Artist:}
+Aaron Castro
+
+
+{Web Programmers:}
+Robert Belknap
+Peter Hillier
+
+
+{Visit us on the Web:}
+www.3do.com
+
+"
+Copyright 2000, The 3DO Company. All Rights Reserved. 3DO, Heroes, Heroes of Might and Magic, New World Computing, The Shadow of Death, and their respective logos are trademarks and/or service marks of The 3DO Company in the U.S. and other Countries. All other trademarks belong to their respective owners. New World Computing is a division of The 3DO Company.

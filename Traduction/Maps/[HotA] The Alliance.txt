@@ -1,0 +1,45 @@
+===== Map name =====
+L'Alliance
+
+===== Map description =====
+Une guerre terrible qui oppose l'Occident et l'Orient est en cours. Vous et vos alliés devez détruire l'ennemi à tout prix.
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Heroes =====
+
+===== Objects =====
+
+(85, 96, 0) ***Random Monster 4***
+Message:
+Vous devez nous vaincre avant de pouvoir libérer le prisonnier.
+
+(114, 82, 1) ***Event***
+Message:
+Vous faites face à l'entrée du tombeau. Des zombies se lèvent et vous attaquent.
+
+(105, 58, 1) ***Minotaur King***
+Message:
+Bienvenue dans mon labyrinthe ! Vous allez y passer une grande partie de votre vie.
+
+(94, 69, 1) ***Minotaur***
+Message:
+Vous pouvez embrasser mes fesses poilues !
+
+(90, 53, 1) ***Minotaur***
+Message:
+Vous allez goûter à ma puissante hache !
+
+(63, 52, 1) ***Minotaur King***
+Message:
+Votre mort sera rapide !
+
+(36, 115, 1) ***Seer's Hut***
+Message:
+Je collectionne des animaux uniques pour mon zoo. J'ai beaucoup de créatures différentes, mais je n'ai toujours pas de Dragon de Cristal. Il y'a un de leurs nids au nord d'ici. Ramenez-moi en un, et je vous récompenserai.	
+Je collectionne des animaux uniques pour mon zoo. J'ai beaucoup de créatures différentes, mais je n'ai toujours pas de Dragon de Cristal. Il y'a un de leurs nids au nord d'ici. Ramenez-moi en un, et je vous récompenserai.
+Ouah! C'est exactement ce dont j'avais besoin. Comme je l'ai déjà dit, il y a beaucoup de créatures dans mon zoo. Parmi celles-ci figurent des Dragons Féeriques. Ils se reproduisent très bien, et je peux vous en donner quelques-uns en échange d'un Dragon de cristal.
+
+===== End of file =====

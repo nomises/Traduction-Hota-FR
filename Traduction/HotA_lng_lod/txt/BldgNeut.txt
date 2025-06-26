@@ -1,0 +1,29 @@
+Guilde des Mages Niveau 1	Une visite à la Guilde des Mages, permet au héros de s'instruire et d'apprendre les sorts de Niveau 1.
+Guilde des Mages Niveau 2	Une visite à la Guilde des Mages, permet au héros de s'instruire et d'apprendre les sorts de Niveau 2.
+Guilde des Mages Niveau 3	Une visite à la Guilde des Mages, permet au héros de s'instruire et d'apprendre les sorts de Niveau 3.
+Guilde des Mages Niveau 4	Une visite à la Guilde des Mages, permet au héros de s'instruire et d'apprendre les sorts de Niveau 4.
+Guilde des Mages Niveau 5	Une visite à la Guilde des Mages, permet au héros de s'instruire et d'apprendre les sorts de Niveau 5.
+Taverne	Grâce à la Taverne, le moral des troupes qui défendent la ville augmente d'un point.
+Chantier Naval	Le Chantier Naval vous permet d'acheter des bateaux.
+Fort	Le Fort permet à la ville de disposer d'une enceinte de protection.
+Citadelle	La Citadelle engendre une croissance de la population de 50% et consolide les fortifications de la ville.
+Bastille	Une Bastille améliore les défenses de la ville grâce à deux nouvelles tourelles. La croissance de la population double.
+Village	La Salle du Conseil du Village permet de construire divers bâtiments. Un Village vous rapporte 500 pièces d'Or par jour.
+Ville	La Salle du Conseil de la Ville permet de construire divers bâtiments. Une Ville vous rapporte 1000 pièces d'Or par jour.
+Cité	La Salle du Conseil de la Cité permet de construire divers bâtiments. Une Cité vous rapporte 2000 pièces d'Or par jour.
+Capitale	Une Capitale vous rapporte 4000 pièces d'Or par jour.
+Marché	Le Marché vous permet d'échanger des ressources. Plus vous contrôlez de Marchés et plus les taux d'échange sont intéressants.
+	
+Forge	La Forge fournit des %s à vos héros.
+Douves	Les Douves ralentissent les troupes qui assiègent la ville. Les unités qui y tombent, terminent leur tour et deviennent plus vulnérables.
+Chantier et Bateau	Le Chantier Naval vous permet d'acheter des bateaux.
+Forge	La Forge fournit des Balistes à vos héros.
+Forge	La Forge fournit des Dispensaires à vos héros.
+Forge	La Forge fournit des Chariots à vos héros.
+Forge	La Forge fournit des Chariots à vos héros.
+Forge	La Forge fournit des Dispensaires à vos héros.
+Forge	La Forge fournit des Balistes à vos héros.
+Forge	La Forge fournit des Chariots à vos héros.
+Forge	La Forge fournit des Dispensaires à vos héros.
+Forge	La Forge fournit des Balistes à vos héros.
+Forge	La Forge fournit des Machines de Guerre à vos héros.

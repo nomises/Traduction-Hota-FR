@@ -1,0 +1,126 @@
+===== Map name =====
+Paradise Lost
+
+===== Map description =====
+Once upon a time, there was a magical city in this beautiful valley. However, a terrible cataclysm made it disappear under the water. After the disaster, many people tried to locate it and understand what caused the calamity, but their efforts were in vain. But surely you will succeed, won't you?
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+- ресы у врагов
+Message:
+
+
+Name:
++ 3к врагам
+Message:
+
+
+===== Heroes =====
+
+===== Objects =====
+
+(64, 43, 0) ***Fortress***
+
+Timed events:
+
+Name:
+ИИ - бонус
+Message:
+
+
+(63, 71, 0) ***Pandora's Box***
+Message:
+
+
+(11, 30, 0) ***Stronghold***
+
+Timed events:
+
+Name:
+ИИ - бонус
+Message:
+
+
+(63, 33, 0) ***Ocean Bottle***
+Message:
+I keep ancient knowledge in my head, but not everyone will be able to make use of it.
+
+(65, 29, 0) ***Pandora's Box***
+Message:
+
+
+(11, 10, 0) ***Cove***
+
+Timed events:
+
+Name:
+ИИ - бонус
+Message:
+
+
+(69, 7, 0) ***Tower***
+
+Timed events:
+
+Name:
+ИИ - бонус
+Message:
+
+
+(19, 70, 0) ***Efreeti***
+Message:
+Burn them all!
+
+(56, 50, 0) ***Sign***
+Message:
+Beware the quicksand!
+
+(13, 11, 0) ***Event***
+Message:
+ИИ - бонус сложности
+
+(68, 9, 0) ***Event***
+Message:
+ИИ - бонус сложности
+
+(65, 45, 0) ***Event***
+Message:
+ИИ - бонус сложности
+
+(15, 57, 0) ***Event***
+Message:
+ИИ - бонус сложности
+
+(12, 31, 0) ***Event***
+Message:
+ИИ - бонус сложности
+
+(1, 17, 0) ***Pandora's Box***
+Message:
+
+
+(17, 55, 0) ***Factory***
+
+Timed events:
+
+Name:
+ИИ - бонус
+Message:
+
+
+(66, 33, 1) ***Armageddon's Blade***
+Message:
+You weren't thinking you'd just come here and take this blade, were you?
+
+(49, 23, 1) ***Sign***
+Message:
+Welcome to heaven!
+
+(3, 43, 1) ***Pandora's Box***
+Message:
+
+
+===== End of file =====

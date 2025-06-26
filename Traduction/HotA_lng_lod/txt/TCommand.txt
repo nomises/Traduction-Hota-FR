@@ -1,0 +1,36 @@
+Séparer l'armée %s
+Vous ne pouvez combiner la dernière armée de votre héros
+Combiner les armées %s
+Séparer l'armée
+Voir %s
+Vous ne pouvez déplacer votre dernière armée dans la garnison
+Déplacer %s
+Échanger %s avec %s
+Quitter la ville
+Vous ne pouvez déplacer des héros alliés dans la garnison.
+Vue d'ensemble du Royaume
+Vide
+Sélectionner %s (en garnison)
+Héros
+Guilde des Mages
+Guilde des Voleurs
+Taverne
+Chantier Naval
+Fortifications
+Forge
+Village
+Recruter %s
+Ville
+Cité
+Capitale
+
+Marché
+Entrepôt
+Fort
+Citadelle
+Avant d'invoquer des créatures provenant d'une demeure autonome, elle doit être contrôlée.
+Acheté : %s
+Sélectionner %s (en visite)
+Sélectionner %s (créatures)
+Sélectionner %s (armée du Héros)
+%s (impossible de supprimer)

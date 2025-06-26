@@ -1,0 +1,129 @@
+===== Map name =====
+En Défense
+
+===== Map description =====
+Des villages locaux ont eu vent d'une menace venant de la mer. Des pirates sont en chemin pour piller ces terres. L'armée érathienne est très loin d'ici, et les villageois sont livrés à eux-mêmes.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Help for AI
+Message:
+En voilà un peu.
+
+Name:
+Commencement
+Message:
+Un groupe de pêcheurs est arrivé de Galantier. Ils ont couru comme si le diable lui-même était à leurs trousses pour délivrer d'inquiétantes nouvelles :	Ils ont vu un groupe de pirates allumer des feux sur une île voisine. Cela n'augure rien de bon. On dirait que ces scélérats prévoient de nous attaquer.	Et le problème est que l'armée d'Erathia est en marche loin d'ici, laissant seulement quelques gardes pour nous protéger. Pas de chance pour ceux qui habitent ici. Quoi qu'il en soit, nous n'avons pas le temps de fuir, et l'armée mettra trop de temps pour venir nous sauver. 	Il semble donc que nous n'avons d'autre choix que de protéger nous-mêmes nos terres de ces indésirables.
+
+Name:
+Fort Bullden
+Message:
+Nous devons prendre le contrôle de Fort Bullden. Il sera facile d'y faire quelques réparations, mais d'après quelques locaux, le fort est actuellement occupé par des brigands. Nous devrions nous en occuper et nous préparer à faire face aux pirates là-bas, même s'il serait préférable de les attaquer les premiers.
+
+Name:
+Dulvein et Galantier
+Message:
+Les colonies restantes, à savoir Dulvein et Galantier, ne sont toujours pas au courant de la présence de pirates. Nous devrions y aller, rassembler la milice et nous préparer au pire. Il serait utile d'eriger des murs et des remparts là-bas, mais nous aurons besoin de grandes quantités de bois et de pierres pour cela. Nous devons agir, et vite !
+
+===== Heroes =====
+
+===== Objects =====
+
+(15, 67, 0) ***Castle***
+Name:
+Ourt-Delph
+
+(55, 66, 0) ***Castle***
+Name:
+Kersan
+
+(38, 4, 0) ***Cove***
+Name:
+Deansaur
+
+(11, 17, 0) ***Cove***
+Name:
+Gaulvein
+
+(34, 49, 0) ***Castle***
+Name:
+Fort Bullden
+
+(64, 41, 0) ***Castle***
+Name:
+Galantier
+
+(5, 41, 0) ***Castle***
+Name:
+Dulvein
+
+(36, 67, 0) ***Sign***
+Message:
+Erathia, vers le sud
+
+(50, 18, 0) ***Event***
+Message:
+
+
+(40, 63, 0) ***Event***
+Message:
+Cet endroit empeste la mort...
+
+(33, 51, 0) ***Sign***
+Message:
+Fort Bullden - Erathia
+
+(11, 58, 0) ***Seer's Hut***
+Message:
+J'ai entendu parler de vos ennuis. Il se trouve que j'en ai aussi. Ma Bague des Joailliers a été prise par des voleurs et vendue à un prix assez élevé aux titans du rivage. Je comprends que vous avez la menace pirate sur les bras, mais je peux vous offrir un prix décent pour la bague. Je forme des enchanteurs ici, et 25 de mes élèves seraient impatients de vous aider.
+Un marché est un marché! Pas de Bague des Joailliers, pas d'armée d'Enchanteurs pour vous!
+Oh, j'ai presque perdu espoir de revoir un jour mon trésor! Comme nous l'avons convenu, 25 de mes étudiants sont prêts à passer sous votre bannière. Je vous assure, ils s'avéreront beaucoup plus utiles que cette bague.
+
+(27, 53, 0) ***Sign***
+Message:
+Auberge de la Senteur du Trèfle
+
+(56, 42, 0) ***Seer's Hut***
+Message:
+Un groupe de Dragons Verts s'est installé près d'ici. Ils sont une menace pour tout le monde, pas seulement pour le voyageur isolé. Je n'ai pas vraiment de quoi vous payer, mais je peux partager mon expérience.	Cela peut être utile pour votre guerre contre les pirates.
+Les Dragons Verts sont toujours là.
+Je ne peux pas croire que vous ayez réussi! Bien que je n'ai pas à en douter depuis que vous avez amené les têtes de ces bêtes. Eh bien, un accord est un accord, je suppose? Installez-vous confortablement et je vous dirai tout ce que vous devez savoir.
+
+(17, 37, 0) ***Orb of Driving Rain***
+Message:
+Une horde de créatures à la queue de poisson et à la peau glacée est rassemblée autour d'une espèce d'orbe. Si vous le souhaitez, vous pouvez les combattre pour l'obtenir.
+
+(55, 2, 0) ***Pandora's Box***
+Message:
+
+
+(8, 6, 0) ***Pandora's Box***
+Message:
+
+
+(27, 5, 0) ***Pandora's Box***
+Message:
+
+
+(63, 8, 0) ***Cove***
+Name:
+Porkwell
+
+(37, 40, 1) ***Dungeon***
+Name:
+Shaque-fael
+
+(44, 39, 1) ***Seer's Hut***
+Message:
+Salutations, étranger! Pensez-vous que vous pourriez m'aider? Je mène une expérience très importante, mais une petit détail m'échappe: j'ai besoin de 60 soufre pour la terminer, et je n'en ai pas actuellement. Je vais perdre tous les progrès que j'ai réalisés si je ne les comprends pas, et vite! Pourriez-vous me fournir ces ressources? Je vous assure que cela ne restera pas sans récompense. Je n'ai pas assez d'argent pour payer cela, mais j'ai un article qui pourrait vous être utile.
+Mais ce n'est pas assez!
+Eh bien! Vous avez vraiment répondu à ma requête! Je ne peux exprimer ma joie avec des mots! Maintentant l'expérience peut continuer sans contretemps. Je n'ai aucun regret à me séparer d'une relique pour ça. Cette épée ramasse la poussière depuis trop longtemps dans mon coffre. Elle est à vous!
+
+(32, 39, 1) ***Golden Bow***
+Message:
+Vous observez une petite voûte, ressemblant à un temple ouvert, à l'intérieur de laquelle flotte le légendaire Arc de Midas. Cependant, il est gardé par des chevaliers redoutables. Souhaitez-vous vous battre pour ce magnifique artefact ?
+
+===== End of file =====

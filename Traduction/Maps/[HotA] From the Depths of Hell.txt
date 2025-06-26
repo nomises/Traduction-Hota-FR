@@ -1,0 +1,281 @@
+===== Map name =====
+Depuis les Fosses de l'Enfer
+
+===== Map description =====
+Les habitants de l'île ont été réveillés par un tremblement de terre. Un portail menant aux fosses des Enfers est apparu au milieu de l'île. Est-ce que Kuttans et son peuple vont résister face aux démons et réussir à fermer le portail ?
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+[Comp] Keep resources at 0
+Message:
+
+
+Name:
+[Player] Start message, 0 resources at start
+Message:
+Un tremblement de terre à tiré du sommeil tous les habitants de Camp Kuttans. Les gens pouvaient voir un sombre nuage volcanique s'élever depuis les montagnes au centre de l'île. Un portail issu tout droit des Enfers y est apparu, quelques imps en étaient déjà sortis, annonçant aux insulaires que de nombreux démons attendent d'être invoqués dans le but d'éradiquer les humains de la surface de l'île. Le premier démon arrivera à la fin de la semaine. Allez-vous, Mage de bataille Kuttans, résister à leurs attaques féroces, et protéger votre peuple?		Comme votre peuple n'a jamais connu la cruauté et la terreur au cours de la guerre, il n'a jamais jugé utile d'accumuler des ressources en cas de siège.	Il vous faudra donc commencer à résister sans ressources aucune, et vous devrez rassemblez ce dont vous aurez besoin vous-même.
+
+Name:
+[Player] Start message (defense)
+Message:
+Votre priorité devrait être de fortifier vorte cité. Camp Kuttans est à ce jour trop vulnérable en cas de siège. Pour cela, vous devriez partir à la recherche de matériaux de construction. Certains vous informent qu'il y'a une scierie abandonnée à un jour de la cité, qui est infestée de gnolls désormais.	A l'ouest se trouve une hutte de pierres, gardée par de sauvages gobelins chevaucheurs de sangliers.		Si les ressources que vous trouvez là-bas sont insuffisantes, vous devriez explorer un peu plus aux alentours. Vous connaissez également un camp d'excellents archers à l'ouest de l'île, qui pourraient être très utiles pour combattre les démons.
+
+Name:
+[Player] Wood, ore, gold
+Message:
+Un groupe de citoyens a rassemblé ces ressources pour la protection de la cité.
+
+Name:
+[Player] Red final warning
+Message:
+Les habitants de la cité sont tous terrifiés par ce qui va arriver ce soir. Vous essayez de leur remonter le moral, mais au fond de vous vous doutez vraiment, tous vos efforts seront-ils suffisants ?
+
+Name:
+[Red] Activate
+Message:
+
+
+Name:
+[Tan] Wake up blue
+Message:
+
+
+Name:
+[Player] Demon message
+Message:
+Vous avez défendu avec succès votre cité contre la première attaque des démons. Avant d'asséner le coup fatal à Ignatius, celui-ci rit et dit:	"Vous pouvez me tuer, mais vous n'aurez pas une chance face à mes successeurs ! Mon mentor, Fiona, affame en ce moment même ses molosses pour les rendre plus féroces que jamais. Ils festoieront avec ta dépouille, celles de ta famille et celles de tout ton pathéthique peuple."
+
+Name:
+[Player] 2nd week message
+Message:
+Bien que vous ayez protégé les votres et tué le premier démon, vos pertes furent nombreuses. Les gens sont épuisés par la bataille de la nuit dernière, mais vous ressentez que leurs espoirs de survie sont plus forts qu'avant la bataille.
+
+Name:
+[Player] Wood, ore, gold
+Message:
+Un groupe de citoyens a rassemblé ces ressources pour la protection de la cité.
+
+Name:
+[Blue] Activate
+Message:
+
+
+Name:
+[Green] Wake up Tan
+Message:
+
+
+Name:
+[Player] Demon message
+Message:
+Comme la dernière fois, la démonne Fiona vous délivre son dernier message avant que vous ne lui rendiez votre jugement:	"Mon armée était peu être insuffisante pour percer vos défenses, mais attendez la semaine prochaine que ma maîtresse, Marius, arrive avec ses forces. Elle à réussi a croiser ses démons avec des ogres, son armée est puissante et féroce à un point que vous ne pouvez imaginer."
+
+Name:
+[Player] Wood, ore, gold
+Message:
+Un groupe de citoyens a rassemblé ces ressources pour la protection de la cité.
+
+Name:
+[Tan] Activate
+Message:
+
+
+Name:
+[Orange] Wake up Green
+Message:
+
+
+Name:
+[Player] Demon message
+Message:
+Alors que vous célébrez votre victoire, vous faites ployer sur ses genoux la prisonnière démonne Marius, et lui laissez une chance de parler. Ses derniers mots furent:	"Pathétiques humains qui se terrent dans leurs pathétiques châteaux. Mes forces n'auront pas suffi pour submerger vos fortifications, mes attendez encore une semaine que mes soeurs viennent. Nymus détruira vos murs d'enceinte et vos tours, puis chargera dans votre cour avec ses bêtes gargantuesques et vous démembrera avant que vous n'ayez pu réagir."
+
+Name:
+[Player] Nix?
+Message:
+Vos éclaireurs vous rapportent avoir vu d'étranges créatures reptiliennes dans les eaux peu profondes le long des côtes. Serait-ce des Nix ? Quelles sont leurs intentions ?
+
+Name:
+[Green] Activate
+Message:
+
+
+Name:
+[Purple] Wake up Orange
+Message:
+
+
+Name:
+[Player] Demon message
+Message:
+Les énormes béhémoths n'étaient pas assez fort pour venir à bout de vos défenses. Voici le dernier message de Nymus :	"Mes forces ont failli ! Célébrez votre victoire, car ce sera votre dernière semaine à vivre. Mon successeur maîtrise des stratégies moins directes et moins brutales que les miennes, mais j'ai toujours envié ses pouvoirs magiques. Solmyr, le démon à la peau bleue, utilisera sa magie au mieux pour vous éradiquer.
+
+Name:
+[Player] Resources
+Message:
+Un groupe de citoyens a rassemblé ces ressources pour la protection de la cité.
+
+Name:
+[Orange] Activate
+Message:
+
+
+Name:
+[Pink] Wake up Purple
+Message:
+
+
+Name:
+[Player] Demon message
+Message:
+Solmyr, le démon à la peau bleue, n'était pas aussi bavard que les démons précédents. Tout ce qu'il a dit fut :	"Peu importe si vous défaites mon successeurs la semaine prochaine. Dans deux semaines, notre Grand Seigneur Démon rejoindra la surface. Sa puissance ne peut être comparée à aucune force humaine et ses troupes écraseront en nombre tous les êtres vivant à la surface de cette île.	Vous devrez vous aventurer dans les profondeurs des Enfers et détruire l'autel de l'Enfer pour sceller le portail de cette île."
+
+Name:
+More resources
+Message:
+Un groupe de citoyens a rassemblé ces ressources pour la protection de la cité.
+
+Name:
+[Purple] Activate
+Message:
+
+
+Name:
+[Player] Demon message
+Message:
+Octavia, la dernière des sept démons, avant de mourir, vous dit ceci :	"Je suis le dernier démon que vous vaincrez. La semaine prochaine, une armée innombrable foulera ces terres, puis pillera et rasera tout ce qui vous est cher. Vous n'avez aucune chance en bataille rangée, même cachés derrière vos murs. Mon âme est liée à l'autel de l'Enfer, et ma mort va ouvrir le portail vers les profondeurs, donc si vous souhaitez mourir plus tôt, vous pouvez y aller et atteindre le chateau du démon. Si vous réussissez, ce dont je doute, vous pourrez tenter d'arrêter le Seigneur Démon. Si vous échouez, votre âme errera dans les labyrinthes infinis des Enfers pour l'éternité."
+
+Name:
+[Player] Go for the portal
+Message:
+Le portail vers les Enfers est OUVERT ! Vous avez SEPT JOURS pour détruire l'autel dans les profondeurs des Enfers et ainsi détruire le portail avant que le Seigneur Démon soit invoqué et que tout espoir soit perdu.
+
+Name:
+[Player] Reminder - 3 days
+Message:
+Il reste moins de trois jours avant que le Seigneur Démon n'arrive. Si vous n'avez pas rassemblé toutes vos troupes pour marcher vers le portail derrière le volcan, vous devriez vous y diriger dès maintenant.
+
+Name:
+[Pink] Activate
+Message:
+
+
+Name:
+[Pink] Wood
+Message:
+
+
+===== Heroes =====
+
+===== Objects =====
+
+(24, 19, 0) ***Cove***
+Name:
+Camp Kuttans
+
+Visiting Battle Mage:
+Name:
+Kuttans
+Biography:
+Kuttans
+
+Timed events:
+
+Name:
+Shack
+Message:
+Les habitants de la ville ont construit un lieu pour rassembler tous les jeunes gens, et leur donner une véritable formation au combat.
+
+Name:
+Blacksmith
+Message:
+Les habitants de la ville ont construit une Forge.
+
+Name:
+Cité,et renforts
+Message:
+Votre peuple a transformé la Ville en Cité. En voyant vos victoires, d'autres volontaires s'engagent pour aller combattre les démons.
+
+Name:
+Fortin
+Message:
+Des Nix sont remontés des eaux à la surface. Ils vous prouvent leur loyauté et sont prêts à se battre jusqu'à la mort !
+
+Name:
+Upg. Fortin
+Message:
+Les Nix se sont entraînés ces derniers jours, et ils sont maintenant plus prêts que jamais à combattre.
+
+Name:
+Plus de renforts
+Message:
+Les habitants de l'île sont de plus en plus nombreux à venir s'entraîner afin de repousser les démons vers les terres.
+
+Name:
+Frigate
+Message:
+Les pirates sont prêts à se battre contre les démons.
+
+Name:
+Capital, plus de renforts
+Message:
+En voyant vos succès incroyables contre les démons, de nombreuses personnes se présentent spontanément devant l'entrée de Camp Kuttans. Elles demandent à ce qu'on les forme au combat afin de renforcer les défenses de la ville.		La ville est maintenant si grande que les habitants ont construit une Capitale.
+
+Name:
+Renforts de Nix
+Message:
+D'autres guerriers Nix sont remontés à la surface et ont rejoint les forces de votre cité.
+
+Name:
+Nouveaux renforts
+Message:
+Des gens venues d'autres parties de l'île, veulent aussi défendre Camp Kuttans.
+
+(10, 26, 0) ***Quest Guard***
+Message:
+Impossible de traverser la rivière à cause de l'effondrement du pont. Il faudrait 12 pièces de bois pour réparer, et ainsi pouvoir traverser la rivière.
+Vous avez besoin de 12 pièces de bois pour réparer le pont.
+Voulez-vous réparer le pont pour 12 pièces de bois ?
+
+(12, 11, 0) ***Quest Guard***
+Message:
+Vous vous tenez près d'un portail menant aux profondeurs de l'enfer. Malheureusement, il est fermé hermétiquement. Peut-être que si vous vainquiez tous les démons envahisseurs, il s'ouvrirait.
+Vous vous tenez près d'un portail menant aux profondeurs de l'enfer. Malheureusement, il est fermé hermétiquement. Peut-être que si vous vainquiez tous les démons envahisseurs, il s'ouvrirait.
+Le portail pour les abysses infernales est à nouveau opérationnel. Voulez-vous le traverser?
+
+(13, 11, 0) ***Event***
+Message:
+Vous êtes pris en embuscade par des forces démoniaques avant d'entrer dans le portail.
+
+(25, 9, 1) ***Inferno***
+Name:
+Hells Depths
+
+Visiting Heretic:
+Name:
+Demon Lord
+
+(16, 35, 1) ***Demoniac***
+Name:
+Solmyr
+
+(24, 15, 1) ***Event***
+Message:
+Des douzaines d'esprits tourmentés s'approchent. Étonnement, au lieu d'être hostiles, ils vous demande une chance de prendre part à la bataille pour le salut de leurs âmes.
+
+(23, 13, 1) ***Wight***
+Message:
+The lost souls are looking for a strong leader to fight on his side. Will you allow them to join you?
+
+(25, 11, 1) ***Wraith***
+Message:
+"Let us fight with you against the demons! We have been waiting for ages for such a moment to come!"
+
+(24, 35, 1) ***Demoniac***
+Name:
+Demon Lord
+
+===== End of file =====

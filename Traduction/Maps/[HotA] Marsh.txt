@@ -1,0 +1,25 @@
+===== Map name =====
+Les Marais
+
+===== Map description =====
+Les routes sont propres et sûres, mais celui qui osera s'en écarter pour aller dans les fourrés sombres, celui-là gagnera en richesse et en puissance.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Jour 1
+Message:
+Les habitants de ces terres abandonnées vivent dans une peur constante. Quiconque ose se détourner de la large route pour aller dans les fourrés ne revient pas... chaque jour, quelques personnes disparaissent dans le marais. Quelqu'un a dit que c'était le fait d'un esprit malin. D'autres accusent les animaux de la forêt, mais personne ne connaît la vérité.
+
+Name:
+Jour 1 cont
+Message:
+Il est temps que cette situation cesse une fois pour toutes. Pour réussir, résolvez le conflit avec les trois autres seigneurs qui règnent sur ces marais. La négociation diplomatique a abouti à une impasse. Aucun diplomate n'est revenu de la mission. De plus, aucun représentant d'autres seigneurs ne vous a rendu visite. Ils ont peut-être péri aux mains d'un esprit vicieux dans le marais... Ou peut-être que les armées ennemies marchent déjà vers vous, prêtes pour une attaque sournoise. Dans ce cas, nous devons les devancer.
+
+===== Heroes =====
+
+===== Objects =====
+
+===== End of file =====

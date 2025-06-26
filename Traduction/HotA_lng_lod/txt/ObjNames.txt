@@ -1,0 +1,232 @@
+Rien
+	
+Autel du Sacrifice	
+Point d'Ancrage	
+Arène	
+Artéfact	
+Boîte de Pandore	
+Marché Noir	
+Bateau	
+Poste Frontière
+Tente du Maître des Clefs	
+Bouée	
+Feu de Camp	
+Cartographe	
+Lac des Cygnes	
+Voile des Ténèbres	
+Banque de Créatures
+Demeure 1
+Demeure 2
+Demeure 3
+Demeure 4
+Terre Maudite
+Squelette
+Tour de Marletto
+Bateau Abandonné
+Terres Désolées
+Événement
+Oeil du Magicien
+Cercle des Fées
+Débris
+Fontaine des Espérances
+Fontaine de Jouvence
+Jardin de Révélation
+Garnison
+Héros
+Fort des Braves
+Graal
+Hutte du Magicien
+Totem de Chance
+Cache
+
+Bibliothèque d'Illumination
+Phare
+Portail Magique (Entrée)
+Portail Magique (Sortie)
+Portail Magique
+Plaines Magiques
+Conservatoire de Magie
+Source Enchantée
+Puits Enchanté
+Marché du Temps
+Camp de Mercenaires
+Sirène
+Mine
+Monstre
+Jardin Mystique
+Oasis
+Obélisque
+Arbre Observatoire
+Bouteille à la mer
+Pilier de Feu
+Roue de Puissance
+Prison
+Pyramide
+Drapeau de Ralliement
+Artéfact aléatoire
+Artéfact aléatoire Niv.1
+Artéfact aléatoire Niv.2
+Artéfact aléatoire Niv.3
+Artéfact aléatoire Niv.4
+Héros Aléatoire
+Monstre Aléatoire
+Monstre Aléatoire 1
+Monstre Aléatoire 2
+Monstre Aléatoire 3
+Monstre Aléatoire 4
+Ressource Aléatoire
+Ville Aléatoire
+Camp de Réfugiés
+Ressource
+Sanctuaire
+Érudit
+Coffre
+Hutte du Voyant
+Crypte
+Épave
+Naufragé
+Chantier Naval
+Autel d'Incantation Magique
+Autel de Gestuelle Magique
+Autel de Pensée Magique
+Panneau
+Sirènes
+Rouleau
+Écuries
+Taverne
+Temple
+Repaire de Voleurs
+Ville
+Comptoir Commercial
+Obélisque de Connaissance
+Coffre au Trésor
+Arbre de la Connaissance
+Portail Souterrain
+Université
+Chariot
+Manufacture d'Armes
+Académie Militaire
+Tombe du Guerrier
+Moulin à Eau
+Abreuvoir
+Tourbillon
+Moulin à Vent
+Cabane de la Sorcière
+Broussaille
+Buisson
+Cactus
+Canyon
+Cratère
+Végétation Morte
+Fleurs
+Lac Gelé
+Haie
+Colline
+Trou
+Varech
+Lac
+Coulée de Lave
+Lac de Lave	
+Champignons	
+Tronc
+Mandragore	
+Mousse	
+Monticule	
+Montagne	
+Chênes	
+Affleurement	
+Pins	
+Plante	
+	
+	
+	
+	
+Delta de Rivière	
+	
+	
+	
+Rocher	
+Dune	
+Fosse de Sable	
+Arbuste
+Crâne	
+Stalagmite	
+Souche
+Fosse de Goudron
+Arbres	
+Vigne	
+Conduit Volcanique	
+Volcan	
+Saules	
+Yucca
+Récif
+Monstre Aléatoire 5
+Monstre Aléatoire 6
+Monstre Aléatoire 7
+Broussaille
+Buisson
+Cactus
+Canyon
+Cratère
+Végétation Morte
+Fleurs
+Lac Gelé
+Haie
+Colline
+Trou
+Varech
+Lac
+Coulée de Lave
+Lac de Lave
+Champignons
+Rondin
+Mandragore
+Mousse
+Monticule
+Montagne
+Chênes
+Affleurement
+Pins
+Plante
+Delta de Rivière
+Roche
+Dune de Sable
+Trou
+Arbuste
+Crâne
+Stalagmite
+Souche
+Fosse de Goudron
+Arbres
+Vigne
+Conduit Volcanique
+Volcan
+Saule
+Yucca
+Récif
+Colline du Désert
+Colline de Terre
+Colline Verte
+Colline Rocheuse
+Roche Souterraine
+Feuillage des Marais
+Poste Frontière
+Marché aux Esclaves
+Héros Crossover
+Gardien de Quête
+Demeure Aléatoire
+
+
+Garnison
+Mine
+Comptoir Commercial
+Champ de Trèfles
+Terre Maudite
+Brouillard Maléfique
+Vents Favorables
+Champ Ardent
+Terre Sacrée
+Mare Claire
+Nuées Magiques
+Plaines Magiques
+Terre Rocheuse

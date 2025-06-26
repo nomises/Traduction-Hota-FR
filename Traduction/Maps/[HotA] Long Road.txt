@@ -1,0 +1,65 @@
+===== Map name =====
+Longue Route
+
+===== Map description =====
+Une lutte acharnée entre deux rois dure depuis des décennies. Tout ça parce qu'une seule route relie les capitales des deux royaumes, et les villages passent de mains en mains. Mais récemment, des espions ont été découverts au-delà de votre ligne de défense. Sont-ils passés par une voie secrète ?   
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Premier jour
+Message:
+Vous vous êtes mis à réfléchir : "Comment les espions de l'ennemi ont-ils pu franchir notre ligne de défense ?" 	Ils n'ont sûrement pas pu se faufiler entre vos garnisons fortifiées, car depuis des siècles que votre royaume existe, toutes les villes connues sont reliées entre elles par une seule route, tel des perles suspendues à un fil.
+
+Name:
+Premier jour - 2ème partie
+Message:
+Vous avez entendu dire que ces terres furent autrefois le territoire d'un ancien pays, dont les habitants connaissaient un secret permettant de se déplacer sur de très longues distances. Cependant, ce savoir semble s'être évaporé au fil du temps, et même vos meilleurs sorciers n'ont pas réussi à percer le mystère de ces étonnants voyages. Peut-être qu'une partie de ce savoir a été préservé quelque part au cœur de ces campagnes ruinées par la guerre, mais probablement pas dans votre capitale.
+
+===== Heroes =====
+
+===== Objects =====
+
+(16, 22, 0) ***Sign***
+Message:
+Ce passage ne s'ouvrira qu'à ceux qui maîtrisent les anciens secrets de la lumière et des ténèbres. 
+
+(18, 1, 0) ***Event***
+Message:
+Au-delà de cette garnison vous entrez dans les terres convoitées, là où les batailles sont particulièrement violentes. Par ici la route est en mauvais état, à cause de multiples gravats qui ont remplacé quelque part le joli pavé de la capitale, et fini par détériorer passablement le sol.  
+
+(34, 18, 0) ***Event***
+Message:
+Un sentier abrupt s'arrête à l'entrée d'un bosquet marécageux. Mais même là, apparait une sorte de route : un ruisseau tourbillonne et se faufile dans les broussailles et la tourbière épaisse, créant ainsi un chemin difficile mais sûr pour les étrangers.  
+
+(3, 33, 0) ***Event***
+Message:
+Un obélisque mystique, construit ici bien avant l'apparition du premier royaume, sépare la route en deux. Nous pourrions laisser nos querelles derrière nous, et chaque royaume posséderait alors son propre côté de la route. Mais comment faire pour rester équitable ?
+
+(34, 34, 0) ***Event***
+Message:
+Il semble que vous ayez trouvé la racine du mal. Derrière les monstres semble émaner depuis ces ruines une lumière brillante et magique. Se peut-il que les routes et les carrefours oubliés soient de nouveau praticables, et que votre ennemi les utilise déjà pleinement ?
+
+(19, 19, 1) ***Sign***
+Message:
+Ce passage ne s'ouvrira qu'à ceux qui maîtrisent les anciens secrets de la lumière et des ténèbres. 
+
+(3, 34, 1) ***Event***
+Message:
+Il semble que vous ayez trouvé la racine du mal. Derrière les monstres semble émaner depuis ces ruines une lumière brillante et magique. Se peut-il que les routes et les carrefours oubliés soient de nouveau praticables, et que votre ennemi les utilise déjà pleinement ?
+
+(32, 33, 1) ***Event***
+Message:
+Un obélisque mystique, construit ici bien avant l'apparition du premier royaume, sépare la route en deux. Nous pourrions laisser nos querelles derrière nous, et chaque royaume posséderait alors son propre côté de la route. Mais comment faire pour rester équitable ?
+
+(1, 28, 1) ***Event***
+Message:
+Un sentier abrupt s'arrête à l'entrée d'un bosquet marécageux. Mais même là, apparait une sorte de route : un ruisseau tourbillonne et se faufile dans les broussailles et la tourbière épaisse, créant ainsi un chemin difficile mais sûr pour les étrangers.  
+
+(14, 1, 1) ***Event***
+Message:
+Au-delà de cette garnison vous entrez dans les terres convoitées, là où les batailles sont particulièrement violentes. Par ici la route est en mauvais état, à cause de multiples gravats qui ont remplacé quelque part le joli pavé de la capitale, et fini par détériorer passablement le sol.  
+
+===== End of file =====

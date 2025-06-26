@@ -1,0 +1,608 @@
+===== Map name =====
+Carnaval des Abysses
+
+===== Map description =====
+Le dernier voyage a tourné au désastre pour Mephala. Son navire a été emporté par une violente tempête dans une direction inconnue, et s'est échoué sur des rivages qui semblaient désolés. Mais très vite, elle s'est retrouvée au centre d'une fête sanglante...
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Player - Start 1
+Message:
+Les épaves des navires et les paysages déserts étaient les seules choses que l'on pouvait voir depuis le rivage après la catastrophe. Les survivants étaient constamment sur les nerfs, effrayés qu'ils étaient par un silence post-apocalyptique. Il n'y avait ni oiseau, ni reptile, ni aucun autre être vivant, et seul le murmure presque inaudible d'une rivière se faisait entendre. Même le vent n'apportait aucun réconfort, tellement l'air était imprégné d'une odeur de fumées, tandis que des nuages de poussière et de cendres se dissipaient lentement autour d'eux.
+
+Name:
+Player - Start 2
+Message:
+Peu après l'inventaire de ce qui reste de vos provisions, des navires arborant des drapeaux rouges sont apparus à l'horizon. L'un des plus petits navires s'est amarré, et un groupe de démons qui se trouvaient à son bord a débarqué avant de se disperser dans différentes directions. Comme il ne reste que quelques membres de votre équipage, il est inutile d'affronter les démons maintenant. Vous devez d'abord trouver un abri ou un fort afin de préparer votre défense. Il faudra aussi rassembler tout ce qui pourra vous être utile.
+
+Name:
+AI - No gems
+Message:
+
+
+Name:
+AI Start - No resourses
+Message:
+
+
+Name:
+Player - Start 3
+Message:
+Une bande de démons est sur vos traces, et vous n'avez donc plus de temps à perdre. Il ne vous reste plus qu'à courir, tout en maintenant une certaine distance avec eux. De cette façon vous aurez toujours accès aux ressources non récoltées à l'avenir.
+
+Name:
+Player - 1
+Message:
+Chaque année, les démons qui vivent sur ces terres partent chasser diverses créatures vivant dans les souterrains ou les marécages, et reviennent chargés de ressources. Durant la chasse, ils se crée une concurrence et différents clans se forment allant jusqu'à s'entretuer pour des trophés qu'ils ne veulent pas partager. Mais dans la taverne locale, on raconte que cette fois-ci, les proies vont devenir chasseurs. Ces créatures pourchassées depuis si longtemps, ont élu des chefs et accepté de les suivre quoi qu'il en coûte.		
+
+Name:
+Player - 2
+Message:
+Il ne reste plus que quelques semaines avant le début du Carnaval des Abysses, ce qui signifie que le chaos s'abattra bientôt sur ces terres. Chaque camp tentera alors de vaincre l'autre, et vous semblez être pris au milieu de ces événements. Vous ne pouvez pas quitter ce pays si facilement, car les navires des démons patrouillent en mer, et ils sont de plus soutenus par les unités au sol. Vous devez soit vous accaparer les centres de production locaux, soit les apprivoiser.		
+
+Name:
+Player - 3
+Message:
+À en juger par les mouvements qui se produisent non loin d'ici, le Carnaval des Abysses a déjà commencé. Il faut vous préparer au combat. Les attaques risquent d'être de plus en plus fréquentes, et vous devez donc être prêts à toute éventualité, y compris la fuite. On dit que les seigneurs des souterrains projètent de commencer les attaques dans une semaine. Peut-être qu'il serait judicieux de les frapper avant qu'ils ne fassent quoi que ce soit ?		
+
+Name:
+AI - Bonus Gold
+Message:
+
+
+Name:
+Player - Time (431)
+Message:
+Vos éclaireurs vous informent continuellement sur l'état des forces punitives des démons. Pour eux, ils seront là dans un mois. Que ce soit vrai ou non, vous devez de toute façon hâter vos préparatifs...
+
+Name:
+Player - The end is near (531)
+Message:
+Les principales forces des démons sont déjà arrivées, et il ne vous reste presque plus de temps. Toutefois, rien n'est encore perdu...
+
+===== Heroes =====
+
+===== Objects =====
+
+(34, 12, 0) ***Inferno***
+Name:
+Alucard
+
+Timed events:
+
+Name:
+Player - Town Hall
+Message:
+
+
+Name:
+Red AI - No Ore
+Message:
+
+
+(30, 8, 0) ***Sign***
+Message:
+Dead end
+
+(57, 34, 0) ***Inferno***
+Name:
+Graphyor
+
+Timed events:
+
+Name:
+Red AI - Start
+Message:
+
+
+Name:
+Red AI - Upgrades
+Message:
+
+
+Name:
+Red AI - Build Tavern + Bonus (317)
+Message:
+
+
+Name:
+Red AI - Bonus gold
+Message:
+
+
+(17, 33, 0) ***Inferno***
+Name:
+Agy-Talto
+
+Timed events:
+
+Name:
+Orange AI - Start
+Message:
+
+
+(7, 57, 0) ***Inferno***
+Name:
+Agnyrto
+
+Timed events:
+
+Name:
+Orange AI - Start
+Message:
+
+
+Name:
+Orange AI - Bonus 2
+Message:
+
+
+Name:
+Orange AI - Bonus 3 (411)
+Message:
+
+
+(51, 65, 0) ***Fortress***
+Name:
+Quentamore
+
+Timed events:
+
+Name:
+Purple AI - Shipyard + Bonus (243)
+Message:
+
+
+Name:
+Purple AI - Bonus
+Message:
+
+
+(50, 8, 0) ***Lizard Warrior***
+Message:
+Ce sont nos objets de valeur, sortez d'ici !
+
+(51, 12, 0) ***Quest Guard***
+Message:
+Débarassez-vous des poursuivants et vous pourrez passer. Mais ne restez pas longtemps, car de toute façon cet endroit vous sera très utile.
+Débarassez-vous des poursuivants et vous pourrez passer.
+Vous pouvez passer.
+
+(45, 10, 0) ***Pandora's Box***
+Message:
+
+
+(32, 17, 0) ***Quest Guard***
+Message:
+Vous pouvez ouvrir la voie vers le lac de feu et avoir accès à certaines ressources.
+Vous pouvez ouvrir la voie vers le lac de feu et avoir accès à certaines ressources.
+Vous pouvez passer.
+
+(65, 16, 0) ***Seer's Hut***
+Message:
+Je vous donnerai mes secrets d'attaque contre rémunération.
+Je vous donnerai mes secrets d'attaque contre rémunération.
+C'est parti !
+Moyennant un supplément, vous pouvez engager en plus mes meilleurs archers.
+Moyennant un supplément, vous pouvez engager en plus mes meilleurs archers.
+Les archers sont prêts !
+Apportez-moi un sac comme celui-là, je l'échangerai contre l'Escarcelle de Prospérité.
+Apportez-moi un sac comme celui-là, je l'échangerai contre l'Escarcelle de Prospérité.
+Voilà le sac.
+J'ai aussi une armure qui réduit la puissance des sorts lancés contre vous. Je peux vous la vendre à un prix raisonnable.
+L'armure magique vous attend toujours.
+C'est un plaisir de faire affaire avec vous. Ah oui, avant que j'oublie, je connais un gars à l'ouest d'ici sur la péninsule voisine, qui expérimente différentes choses et ne refuserait pas de vous aider. Je pense qu'il peut vous proposer quelque chose de valable afin de résister à la magie démoniaque.
+
+(71, 12, 0) ***Pandora's Box***
+Message:
+
+
+(17, 23, 0) ***Pandora's Box***
+Message:
+
+
+(18, 22, 0) ***Quest Guard***
+Message:
+Pour le prix de 4 unités de soufre, pierre, bois et 2100 pièces d'or, je peux vous fournir 18 pirates.
+Pour le prix de 4 unités de soufre, pierre, bois et 2100 pièces d'or, je peux vous fournir 18 pirates.
+Je ne fait pas de crédit. Vous acceptez mes conditions ?
+
+(17, 22, 0) ***Pirate***
+Message:
+Cherchez notre peuple dans les grottes sous-marines, il se joindra à vous pour un prix raisonnable.
+
+(46, 25, 0) ***Pandora's Box***
+Message:
+
+
+(15, 27, 0) ***Seer's Hut***
+Message:
+Seriez-vous intéressé par la transformation de l'énergie de l'eau en énergie du feu ? Quelqu'un que je connais sera certainement intéressé par les résultats.
+Seriez-vous intéressé par la transformation de l'énergie de l'eau en énergie du feu ? Quelqu'un que je connais sera certainement intéressé par les résultats.
+Prêt pour la transformation ?
+Je vous remercie de m'avoir permis de mener à bien cette expérience.
+Je vous remercie de m'avoir permis de mener à bien cette expérience.
+En guise de récompense supplémentaire, je peux vous apprendre quelques tours de magie.
+Si vous voulez devenir plus puissant, j'ai une tâche difficile à vous confier.
+Apportez-moi cette cape et je vous apprendrai quelques secrets pour le combat.
+Je ne pensais pas que vous réussiriez aussi vite. Eh bien, commençons l'entraînement !
+
+(24, 55, 0) ***Seer's Hut***
+Message:
+Apportez-moi un dragon corrosif, et je vous donnerai un des secret de la vie artificielle.
+Apportez-moi un dragon corrosif, et je vous donnerai un des secret de la vie artificielle.
+C'est fragile, ne le laissez pas tomber !
+
+(39, 6, 0) ***Seer's Hut***
+Message:
+J'échangerai ce pendentif contre un autre de votre choix.
+J'échangerai ce pendentif contre un autre de votre choix.
+Il est à vous.
+J'échangerai ce pendentif contre un autre de votre choix.
+J'échangerai ce pendentif contre un autre de votre choix.
+Il est à vous.
+J'échangerai ce pendentif contre un autre de votre choix.
+J'échangerai ce pendentif contre un autre de votre choix.
+Il est à vous.
+J'échangerai ce pendentif contre un autre de votre choix.
+J'échangerai ce pendentif contre un autre de votre choix.
+Il est à vous.
+
+(58, 27, 0) ***Seer's Hut***
+Message:
+Je n'accorde mon aide qu'à ceux qui la méritent !
+Je n'accorde mon aide qu'à ceux qui la méritent !
+À présent vous serez plus endurant.
+J'ai également quelques observations à faire sur la magie de l'eau. Amenez-moi votre meilleur magicien !
+J'ai également quelques observations à faire sur la magie de l'eau. Amenez-moi votre meilleur magicien !
+Je pense que ceci vous intéressera.
+Merci de m'avoir écouté. Vous méritez vraiment plus !
+Merci de m'avoir écouté. Vous méritez vraiment plus !
+Voici votre récompense. Et sachez qu'à l'ouest, ils peuvent vous offrir davantage...
+
+(31, 8, 0) ***Pendant of Death***
+Message:
+Il y a surement quelqu'un quelque part prêt à payer un bon prix pour un pendentif aussi ancien. On dit que sur la côte voisine, il existe un marché d'antiquités diverses. C'est peut-être là que vous devrez vous rendre.
+
+(50, 51, 0) ***Pandora's Box***
+Message:
+
+
+(26, 27, 0) ***Quest Guard***
+Message:
+Notre marché n'est vraiment pas réservé à tout le monde, et vous ne pourrez passer qu'après avoir payé.
+Notre marché n'est vraiment pas réservé à tout le monde, et vous ne pourrez passer qu'après avoir payé.
+Vous n'avez pas de fausses pierres précieuses, vous pouvez passer.
+
+(49, 69, 0) ***Event***
+Message:
+
+
+(54, 35, 0) ***Pandora's Box***
+Message:
+
+
+(49, 3, 0) ***Event***
+Message:
+Purple AI - Bonus
+
+(21, 21, 0) ***Quest Guard***
+Message:
+Si vous avez du bois, il y aura un bateau pour vous.
+Si vous avez du bois, il y aura un bateau pour vous.
+Avez vous amassé assez de bois ?
+
+(26, 13, 0) ***Quest Guard***
+Message:
+Ce n'est pas encore le bon moment.
+Ce n'est pas encore le bon moment.
+La voie est libre.
+
+(6, 31, 0) ***Sign***
+Message:
+Tout aide est la bienvenue. J'offre une cape aux qualités inhabituelles en guise de récompense.
+
+(7, 30, 0) ***Seer's Hut***
+Message:
+J'ai entendu dire que vous combattiez les démons de la région, et qu'ils maîtrisaient de puissantes magies. Est-ce que c'est vrai ? Eh bien, j'ai en ma possession le Manteau d'Abjuration, et je suis prêt à vous le donner si vous accomplissez trois tâches pour moi. D'abord j'ai besoin d'une certaine quantité de ressources pour mener à bien mes expériences de magie. Ce sera votre première tâche. Je vous parlerai des autres quêtes plus tard.		
+Ne nous faites pas perdre notre temps.
+C'est très bien. Passons à la deuxième quête.
+Je ne veux plus qu'on m'embête, c'est pourquoi vous devez me trouver de bons gardiens, et de préférence des gardiens de la région.
+Je ne veux plus qu'on m'embête, c'est pourquoi vous devez me trouver de bons gardiens, et de préférence des gardiens de la région.
+C'est parfait ! Alors, passons à la dernière tâche.
+Je n'ai plus besoin de ce manteau, il ne fait que m'empêcher de progresser. Par contre, je ne dirais pas non à l'armure qui permet d'atténuer les effets de la magie.
+Le succès est pour bientôt ?
+J'espère que vous n'êtes pas fâché par mes extravagantes demandes. Mais les affaires sont les affaires. Maintenant, le manteau est à vous.
+
+(43, 13, 0) ***Quest Guard***
+Message:
+Écraser les poursuivants et vous pourrez passer. 
+Écraser les poursuivants et vous pourrez passer. 
+Bienvenue à vous !
+
+(8, 27, 0) ***Event***
+Message:
+Orange AI - Bonus art
+
+(0, 14, 0) ***Event***
+Message:
+Orange AI - Bonus art
+
+(8, 2, 0) ***Event***
+Message:
+
+
+(27, 3, 0) ***Event***
+Message:
+
+
+(50, 28, 0) ***Event***
+Message:
+Red AI - Bonus
+
+(38, 2, 0) ***Event***
+Message:
+La cabane a l'air abandonnée, mais il est peut être utile d'y jeter un coup d'oeil, vous apprendrez peut-être quelque chose d'important...
+
+(3, 34, 0) ***Event***
+Message:
+Orange AI - Bonus
+
+(22, 29, 0) ***Event***
+Message:
+Orange AI - Bonus
+
+(67, 3, 0) ***Event***
+Message:
+Orange AI - Bonus
+
+(26, 26, 0) ***Seer's Hut***
+Message:
+En observant les objets entreposés, vous êtes surpris par le nombre de bibelots et d'artefacts disponibles, mais aucun n'est digne d'intérêt à vos yeux. Ayant déjà abandonné, vous vous dirigez vers la sortie, mais vous apercevez alors un magnifique collier en forme de dauphin sur l'étalage le plus proche de la sortie.
+En observant les objets entreposés, vous êtes surpris par le nombre de bibelots et d'artefacts disponibles, mais aucun n'est digne d'intérêt à vos yeux. Ayant déjà abandonné, vous vous dirigez vers la sortie, mais vous apercevez alors un magnifique collier en forme de dauphin sur l'étalage le plus proche de la sortie.
+Prenez votre objet !
+
+(25, 2, 1) ***Pandora's Box***
+Message:
+
+
+(56, 13, 1) ***Quest Guard***
+Message:
+Les pirates des environs se feront un plaisir de vous aider moyennant finances.
+Les pirates des environs se feront un plaisir de vous aider moyennant finances.
+L'or est notre moteur.
+
+(26, 4, 1) ***Quest Guard***
+Message:
+En face du monolithe se tient une étrange silhouette qui murmure inlassablement quelque chose d'insaisissable. Lorsque vous vous rapprochez, elle n'émet plus aucun bruit, puis elle recommence à murmurer, et à présent vous êtes en mesure de comprendre chaque mot : "Quiconque doit passer doit nous offrir une petite partie de ce qu'il a acquis..."
+En face du monolithe se tient une étrange silhouette qui murmure inlassablement quelque chose d'insaisissable. Lorsque vous vous rapprochez, elle n'émet plus aucun bruit, puis elle recommence à murmurer, et à présent vous êtes en mesure de comprendre chaque mot : "Quiconque doit passer doit nous offrir une petite partie de ce qu'il a acquis..."
+Une fois le portail entrouvert, la silhouette disparait, laissant derrière elle un message sur une page partiellement brûlée : "L'heure du Carnaval approche, et peu de gens seront enclin à vous aider... Mais pour quelques pierres précieuses, vous pourrez obtenir ce dont vous avez besoin auprès des habitants..."
+
+(18, 59, 1) ***Seer's Hut***
+Message:
+J'ai en ma possession l'objet Flèches Angéliques, et je suis prêt à vous le céder contre un prix raisonnable. 
+J'ai en ma possession l'objet Flèches Angéliques, et je suis prêt à vous le céder contre un prix raisonnable. 
+Vous l'avez gagné, comme promis.
+
+(39, 31, 1) ***Dungeon***
+Name:
+Darnhad
+
+Timed events:
+
+Name:
+Purple AI - Start
+Message:
+
+
+Name:
+Pink AI - Tavern + Bonus (242) - Critical
+Message:
+
+
+Name:
+Pink AI - Bonus gold
+Message:
+
+
+(29, 28, 1) ***Pandora's Box***
+Message:
+
+
+(30, 29, 1) ***Quest Guard***
+Message:
+Pour 18 gemmes, vous pouvez obtenir 4 béhémoths et un parchemin avec le sort hâte. Mais ce n'est pas si simple.
+Pour 18 gemmes, vous pouvez obtenir 4 béhémoths et un parchemin avec le sort hâte. Mais ce n'est pas si simple.
+Les gardes vous laisseront passer contre 18 pierres précieuses. Voulez-vous payer le droit de passage ?
+
+(53, 25, 1) ***Pandora's Box***
+Message:
+
+
+(44, 33, 1) ***Quest Guard***
+Message:
+Achevez-le !
+
+(36, 15, 1) ***Magog***
+Message:
+Notre seigneur vous réduira en cendres !
+
+(1, 57, 1) ***Pandora's Box***
+Message:
+
+
+(27, 64, 1) ***Event***
+Message:
+ILS SONT SUR LES ARBRES !
+
+(51, 54, 1) ***Quest Guard***
+Message:
+Réservé aux élus !
+Réservé aux élus !
+La barrière est levée.
+
+(58, 43, 1) ***Seer's Hut***
+Message:
+Waah ! Se pourrait-il que quelqu'un à la recherche de vraies armes, et non de camelote, se soit adressé à moi ? Vous êtes au bon endroit, mais malheureusement j'ai perdu mes instruments depuis longtemps. Toutefois, si vous m'apportez les ressources nécessaires à la construction d'un nouvel atelier, je pourrai reprendre mon travail et fournir des armes de premier choix à certains de vos guerriers. Par exemple, vos béhémoths seront imbattables au combat, et vos ennemis s'enfuiront rien qu'en les apercevant. Alors, qu'en dites-vous ?		
+Je vois que vous hésitez encore. Mais si vous changez d'avis, vous savez où me trouver.
+Voilà un atelier qui fait rêver, mon frère l'apprécierait vraiment. Parce que lui aussi est une sorte de forgeron, mais d'un autre genre. Il fait des expériences sur les monstres marins tout en étudiant leur comportement. Allez à sa rencontre, ses services pourraient vous être utiles. Bon, assez parlé, et commençons !
+Dites-le, et je rendrai vos béhémoths imbattables.
+Dites-le, et je rendrai vos béhémoths imbattables.
+C'est parti !
+
+(71, 28, 1) ***Pandora's Box***
+Message:
+
+
+(11, 25, 1) ***Spell Scroll***
+Message:
+Le parchemin est dans un état de conservation remarquable et semble avoir été utilisé récemment. Peut-être que son propriétaire est encore en vie et qu'il vit dans les environs ?
+
+(63, 1, 1) ***Quest Guard***
+Message:
+Pour 8 gemmes, je vous accorderai le sort Lenteur.
+Bienvenue, voici votre récompense.
+
+(52, 3, 1) ***Pandora's Box***
+Message:
+
+
+(42, 34, 1) ***Event***
+Message:
+Embuscade !
+
+(1, 65, 1) ***Event***
+Message:
+
+
+(47, 52, 1) ***Seer's Hut***
+Message:
+Pour un bon prix, je peux améliorer tous les serpents de mer que vous amènerez ici.
+Pour un bon prix, je peux améliorer tous les serpents de mer que vous amènerez ici.
+Donnez-moi ma récompense et commençons.
+Demandez-les ici pour qu'ils soient mis à niveau.
+Demandez-les ici pour qu'ils soient mis à niveau.
+Et voici !
+Une réduction pour un client fiable.
+Une réduction pour un client fiable.
+Donnez-moi ma récompense et commençons !
+
+(5, 64, 1) ***Event***
+Message:
+
+
+(21, 35, 1) ***Pandora's Box***
+Message:
+
+
+(71, 69, 1) ***Pandora's Box***
+Message:
+
+
+(1, 68, 1) ***Quest Gate***
+Message:
+Une fois que l'on connaît la douleur... ou peut-être pas.
+Ou peut-être pas
+
+(0, 69, 1) ***Pandora's Box***
+Message:
+Daath !
+
+(45, 53, 1) ***Ocean Bottle***
+Message:
+
+
+(42, 28, 1) ***Event***
+Message:
+Pink AI - Bonus
+
+(10, 38, 1) ***Event***
+Message:
+Purple AI - Bonus
+
+(0, 3, 1) ***Event***
+Message:
+Purple AI - Bonus
+
+(61, 60, 1) ***Quest Guard***
+Message:
+Pourquoi pas ?
+Pourquoi pas ?
+Laissez vous tenter !
+
+(3, 0, 1) ***Quest Guard***
+Message:
+Un lieu intéressant...
+Un lieu intéressant...
+La porte est ouverte.
+
+(58, 16, 1) ***Quest Guard***
+Message:
+Les pirates des environs se feront un plaisir de vous aider moyennant finances.The local pirates will be glad to help you for a fee.
+Les pirates des environs se feront un plaisir de vous aider moyennant finances.
+L'or est notre motivation.
+
+(54, 2, 1) ***Sign***
+Message:
+Dans les chambres souterraines, ne nourrissez pas les monstres !
+
+(13, 63, 1) ***Event***
+Message:
+Orange AI - Bonus
+
+(57, 42, 1) ***Sign***
+Message:
+
+
+(47, 18, 1) ***Event***
+Message:
+Orange AI - Bonus
+
+(51, 39, 1) ***Event***
+Message:
+Orange AI - Bonus
+
+(33, 27, 1) ***Event***
+Message:
+Orange AI - Bonus
+
+(39, 20, 1) ***Ocean Bottle***
+Message:
+
+
+(50, 31, 1) ***Ocean Bottle***
+Message:
+
+
+(6, 7, 1) ***Quest Guard***
+Message:
+À peu de frais, vous pouvez reconstruire le Basilisk Pit.
+À peu de frais, vous pouvez reconstruire le Basilisk Pit.
+C'est fait !
+
+(16, 16, 1) ***Quest Guard***
+Message:
+Les elfes du coin sont prêts à nous aider si nous reconstruisons leurs fermes.
+Les elfes du coin sont prêts à nous aider si nous reconstruisons leurs fermes.
+C'est fait !
+
+(19, 17, 1) ***Quest Guard***
+Message:
+Les elfes du coin sont prêts à nous aider si nous reconstruisons leurs fermes.
+Les elfes du coin sont prêts à nous aider si nous reconstruisons leurs fermes.
+C'est fait !
+
+(15, 36, 1) ***Quest Guard***
+Message:
+Clé nécessaire.
+Clé toujours nécessaire.
+La voie est libre.
+
+(55, 51, 1) ***Ocean Bottle***
+Message:
+
+
+===== End of file =====

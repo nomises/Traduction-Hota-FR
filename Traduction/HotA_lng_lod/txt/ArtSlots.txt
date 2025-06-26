@@ -1,0 +1,19 @@
+Tête
+Épaules
+Cou
+Main droite
+Main gauche
+Torse
+Anneau droit
+Anneau gauche
+Pieds
+Divers 1
+Divers 2
+Divers 3
+Divers 4
+M. de Guerre 1
+M. de Guerre 2
+M. de Guerre 3
+M. de Guerre 4
+Livre de sorts
+Divers 5

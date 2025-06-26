@@ -1,0 +1,375 @@
+Note: Do not change the headings in this file, they are used to detect problems
+gStatDesc
+"{Attaque}
+
+La caractéristique d'Attaque du héros s'ajoute à celle des troupes qu'il commande et elles peuvent ainsi infliger des dégâts plus importants."
+"{Défense}
+
+La caractéristique de Défense du héros s'ajoute à celle des troupes qu'il commande et elles peuvent ainsi résister plus longtemps aux assauts ennemis."
+"{Magie}
+
+La caractéristique de Magie détermine la durée et l'efficacité des sorts lancés par le héros."
+"{Savoir}
+
+La caractéristique de Savoir détermine le potentiel de points de Magie d'un héros. En règle générale, un héros peut disposer de 10 points de Magie par point de Savoir."
+gLuckText
+Catastrophique
+Déplorable
+Médiocre
+Neutre
+Convenable
+Satisfaisante
+Excellente
+gMoraleText
+Catastrophique
+Déplorable
+Médiocre
+Neutre
+Convenable
+Satisfaisant
+Excellent
+gOwnedByColor
+Contrôlé par le joueur Rouge.
+Contrôlé par le joueur Bleu.
+Contrôlé par le joueur Marron.
+Contrôlé par le joueur Vert.
+Contrôlé par le joueur Orange.
+Contrôlé par le joueur Violet.
+Contrôlé par le joueur Turquoise.
+Contrôlé par le joueur Rose.
+gMonthNames
+du Grillon
+de la Fourmi
+de la Coccinelle
+de l'Araignée
+du Papillon
+du Bourdon
+de la Sauterelle
+de la Libellule
+du Frelon
+du Scarabée
+gWeekNames
+de l'Ecureuil
+du Loup
+du Castor
+du Blaireau
+du Raton laveur
+de l'Aigle
+de la Belette
+du Corbeau
+de la Mangouste
+de l'Ours
+de l'Oryctérope
+du Lézard
+de la Tortue
+du Hérisson
+du Condor
+cLuckInfo
+"{Chance Favorable}
+
+Vos troupes bénéficient parfois d'une chance favorable au cours d'un combat. Elles infligent alors des dégâts doubles."
+"{Chance Neutre}
+
+Portées par une chance neutre, vos armées ne subissent ni chance, ni malchance particulière au combat."
+"{Malchance}
+
+La malchance affecte parfois vos troupes. Celles-ci infligent des dégâts réduits de moitié lors d'un combat."
+"%s
+
+
+{Modificateurs de Chance :}"
+"
+Oeil de Tranquillité +1"
+"
+Trèfle à Quatre Feuille +1"
+"
+Cartes du Destin +1"
+"
+Oiseau Porte-Bonheur +1"
+"
+Lac des Cygnes visité +2"
+"
+Totem de Chance visité +1"
+"
+Fontaine des Espérances visitée %s"
+"
+Pyramide visitée -2"
+"
+Cercle des Fées visité +1"
+"
+Sirène visitée +1"
+"
+Drapeau de Ralliement visité +1"
+"
+Novice en Chance +1"
+"
+Disciple en Chance +2"
+"
+Maître en Chance +3"
+"
+Aucun"
+"
+-%d - Temporaire jusqu'au prochain combat"
+"
++%d - Temporaire jusqu'au prochain combat"
+"
+Pendentif du Courage +3"
+"
+La Chance est sans effet sur les Terres Maudites"
+"
+%s annule toute chance"
+"
+Créatures d'alignement neutre sur un Champ de Trèfles +2"
+cMoraleInfo
+"{Moral Elevé}
+
+Un moral élevé permet parfois à vos troupes de disposer d'actions supplémentaires sur un tour de combat."
+"{Moral Neutre}
+
+Lors des combats, un moral neutre ne permet pas à vos troupes de bénéficier d'actions supplémentaires, mais elles ne risquent pas de perdre leur tour."
+"{Moral Désastreux}
+
+À cause d'un moral désastreux, vos troupes perdent parfois leurs moyens sur un tour de combat."
+"%s
+
+
+{Modificateurs de Moral :}"
+"
+Oeil de Tranquillité +1"
+"
+Médaille du Courage +1"
+"
+Croix du Mérite +1"
+"
+Glyphe d'Honneur +1"
+"
+Totem de Chance visité +1"
+"
+Bouée visitée +1"
+"
+Oasis visité +1"
+"
+Temple visité +1"
+"
+Temple visité un dimanche +2"
+"
+Crypte visitée -1"
+"
+Épave visitée -1"
+"
+Abreuvoir visité +1"
+"
+Bateau Abandonné visité -1"
+"
+Drapeau de Ralliement visité +1"
+"
+Fontaine de Jouvence visitée +1"
+"
+Tombe du Guerrier visité -3"
+"
+Novice en Charisme +1"
+"
+Disciple en Charisme +2"
+"
+Maître en Charisme +3"
+"
+Aucun"
+"
+-%d - Temporaire jusqu'au prochain combat"
+"
++%d - Temporaire jusqu'au prochain combat"
+"
+Pendentif du Courage +3"
+"
+Le Moral reste sans effets sur les Terres Maudites"
+"
+Non affecté par le moral"
+"
+Troupes de %d alignements %d"
+"
+Toutes les troupes de même alignement +1"
+"
+Présence de morts-vivants -1"
+"
+Vos %s sont bénis +1"
+"
+Les %s vous répugnent -1"
+"
+Moral positif annulé par les %s"
+"Le moral des 
+%s est toujours positif"
+"
+Sorts %+d"
+"
+Armée dans son environnement naturel +1"
+"
+Créatures d'alignement bon sur une Terre Sacrée +1"
+"
+Créatures d'alignement mauvais sur une Terre Sacrée -1"
+"
+Créatures d'alignement mauvais dans le Brouillard Maléfique +1"
+"
+Créatures d'alignement bon dans le Brouillard Maléfique -1"
+cNewTurn
+%s, il ne vous reste que %d jours pour prendre d'assaut une ville ou vous serez banni de ces terres.
+%s, emparez-vous d'une ville aujourd'hui ou vous serez banni de ces terres.
+"Les astrologues proclament le mois %s. 
+
+La population augmente dans toutes les demeures."
+"Les astrologues proclament le mois %s. 
+
+La population de %s double ! 
+
+La population augmente dans toutes les demeures."
+"Les astrologues proclament le mois de la PESTE ! 
+
+Toutes les populations sont divisées par deux."
+"Les astrologues proclament la semaine %s. 
+
+La population augmente dans toutes les demeures."
+"Les astrologues proclament la semaine %s. 
+
+Croissance de %s de +5.
+
+ La population augmente dans toutes les demeures."
+"Les astrologues proclament la semaine %s. 
+
+Croissance de %s +%d. 
+Croissance de %s +%d.
+
+ La population augmente dans toutes les demeures."
+cMapSize
+Petite
+Moyenne
+Grande
+Très Grande
+cDifficulty
+Facile
+Normal
+Difficile
+Expert
+Impossible
+cDirections
+au nord
+au nord-est
+à l'est
+au sud-est
+au sud
+au sud-ouest
+à l'ouest
+au nord-ouest
+au centre
+cRumourTerrainDescriptions
+dans la poussière.
+sous une dune dans le désert.
+au cœur d'une plaine herbeuse.
+dans la neige.
+au cœur d'un marais boueux.
+sur une terre dévastée.
+dans une caverne souterraine.
+emprisonné dans la lave.
+dans les profondeurs de l'océan.
+sous un rocher.
+cPersonality
+Guerrier
+Bâtisseur
+Explorateur
+Humain
+gArmySizeNames
+Quelques
+Quelques
+quelques
+Plusieurs
+Plusieurs
+plusieurs
+Groupe
+Un groupe de
+un groupe de
+Beaucoup
+Beaucoup de
+beaucoup de
+Horde
+Une horde de
+une horde de
+Foule
+Une foule de
+une foule de
+Nuée
+Une nuée de
+une nuée de
+Multitude
+Une multitude de
+une multitude de
+Légion
+Une légion de
+une légion de
+const_wise_tree_price_text
+ (+1 niveau)
+ (+1 niveau pour 2000 pièces d'Or)
+ (+1 niveau pour 10 gemmes)
+HumanCPU
+"Humain 
+ou ORD"
+Humain
+ORD
+HandiText
+Aucun Handicap
+Léger Handicap
+Sérieux Handicap
+AGRText
+Artéfact
+Or
+Ressource
+gTownTypeNames
+Neutre
+Château
+Rempart
+Tour
+Hadès
+Nécropole
+Donjon
+Bastion
+Forteresse
+Conflux
+NewLoadSave
+Choisir un Scénario
+Charger une Partie
+Enregistrer une Partie
+Army Speed Names
+0 hex/tour
+1 hex/tour
+2 hex/tour
+3 hex/tour
+4 hex/tour
+5 hex/tour
+6 hex/tour
+7 hex/tour
+8 hex/tour
+9 hex/tour
+10 hex/tour
+11 hex/tour
+12 hex/tour
+13 hex/tour
+14 hex/tour
+15 hex/tour
+16 hex/tour
+17 hex/tour
+18 hex/tour
+19 hex/tour
+20 hex/tour
+Town Size Names
+Village
+Ville
+Cité
+Capitale
+Moat Names
+Douve
+Haie de ronces
+Champ de mines
+Lave
+Pieux en os
+Huile bouillante
+Mur d'épieux
+Goudron bouillonnant
+Douve
+Insert all data before this line. Do not alter or delete this line.

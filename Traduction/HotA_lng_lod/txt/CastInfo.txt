@@ -1,0 +1,7 @@
+Attaque
+Défense
+Dégâts par Attaque
+Points de Vie
+Vitesse
+Créatures/Sem.
+Quitter %s

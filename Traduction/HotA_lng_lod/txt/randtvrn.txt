@@ -1,0 +1,356 @@
+"Un Dragon Noir peut paraître plus fort qu'un Titan, mais un Titan aura bien du mal à vaincre un Archange sans aide."
+"Un sage a dit un jour, ""Ne partagez pas votre sagesse avec n'importe qui."""
+Le cygne rouge écarlate nage dans un petit lac.
+Le sang est plus épais que l'eau.
+"Les Lutins et les Familiers manquent de force, mais ils compensent cette faiblesse par leur grand nombre."
+Être soi-même glorifie sa propre image.
+Le voile des ténèbres peut aider à échapper à ses ennemis.
+Trouvez le Graal - il est plus puissant que vous ne l'imaginez.
+"Trouvez un bon cartographe. Bien que leurs cartes soient onéreuses, elles sont d'une grande précision."
+Méfiez-vous des démons Kreegans qui font des cadeaux.
+Protégez toujours vos tireurs à distance durant les combats.
+Parfois la meilleure manière d'éviter une défaite est de ne pas engager le combat !
+Attaquez les points faibles de l'ennemi.
+Connaissez-vous l'histoire de la grenouille qui rêvait d'être roi... et dont le souhait a été exaucé ?
+Un magicien a récemment découvert un charme capable de faire voler toute une armée !
+Le chaos est de meilleur conseil pour un suzerain.
+On dit qu'aucune défense ne parvient à résister à l'attaque d'un Béhémoth Royal.
+Ne soyez jamais impliqué dans une guerre terrestre à Erathia.
+"Les Troglodytes n'ont pas d'yeux, mais ils se défendent aussi bien que s'ils y voyaient vraiment."
+"N'ignorez jamais une porte souterraine, de peur qu'un ennemi invisible ne vous prenne par surprise."
+"Seuls les Dragons du Rempart sont bons. Les Dragons Noirs viennent des cavernes de Nighon et les Dragons de la Nécropole sont des créations maléfiques du Nécromancien."
+Aujourd'hui est hier et demain.
+Un voyageur m'a dit que les poings d'acier d'Erathia ne seront pas récompensés au ciel.
+"Une fois que vous maîtrisez une école de magie, la plupart des sorts individuels agiront sur un groupe d'alliés ou d'ennemis - et parfois les deux !"
+"En traverssant le désert, trouvez une oasis, pour rendre votre voyage plus agréable."
+"Trouvez les Pierres d'Apprentissage dispersées partout sur la terre. Vous n'apprendrez qu'une chose à la fois, mais au final vous apprendrez beaucoup."
+"Confiez dans les nombres, et spécialement s'ils sont des milliers !"
+Souvenez-vous que les Dragons Noirs sont insensibles à la Magie - que seule une grande force peut les vaincre.
+"Les sorts de rapidité et de lenteur peuvent être avantageux lors d'un combat, et particulièrement à des niveaux élevés de compétence."
+Utilisez le feu au combat tout en étant protégé contre lui.
+L'eau ne peut être nocive pour ceux qui maîtrise cet élément.
+L'air ne peut faire de mal à celui qui maîtrise cet élément.
+La terre ne peut nuire à celui qui en maîtrise ses éléments.
+L'université peut nous enseigner beaucoup de choses...  pour un juste prix.
+Les Archanges sont les plus puissantes créatures du Château.
+Les Dragons d'Or sont les plus puissantes créatures du Rempart.
+Les Titans sont les plus puissantes créatures de la Tour.
+Les Archidiables sont les plus puissantes créatures de l'Hadès.
+Les Dragons Fantômes sont les plus puissantes créatures de la Nécropole.
+Les Dragons Noirs sont les plus puissantes créatures du Donjon.
+Les Béhémoths Royaux sont les plus puissantes créatures du Bastion.
+Les Pyrohydres sont les plus puissantes créatures de la Forteresse.
+"Muni du sort approprié, vous pouvez saborder vos bateaux pour qu'ils ne tombent pas aux mains de l'ennemi.  Les bateaux sont utiles, surtout pour un aller simple !"
+Rien de ce qui se passe n'est pareil à mes anguilles d'Erathia cuites au four.  Non ?  Et que diriez-vous d'un pâté en croute de Pégase ?
+"Hey, je ne suis pas au courant de rumeurs, parce que les gens comme vous ne viennent pas les partager avec moi !"
+"À cette période de l'année, les eaux autour de l'île de Vori gèlent."
+Vori est une nation indépendante.
+J'ai entendu dire que les Elfes de Vori ont la peau blanche comme la neige.
+Saviez-vous que les Elfes d'AvLee sont les descendants des Elfes de Vori ?
+Les villes pourvues d'une Citadelle accueillent plus de troupes qu'un simple Fort.
+J'ai entendu dire que dans les Tours on échange des artéfacts.
+Savez-vous que dans le Bastion on procède à l'échange de créatures ?
+Il paraît que certains héros peuvent se déplacer entre les enfers instantanément.
+Au Repaire de Voleurs ils sont amis avec tout le monde et personne.
+Tout Château pourvu de la Confrérie de l'Épée résiste davantage lors d'un siège.
+J'ai entendu dire que les habitants du Château vont construire un Colosse pour honorer le héros qui leur rapportera le Saint Graal.
+J'ai entendu dire que les habitants du Rempart vont construire un Gardien des Esprits pour honorer le héros qui leur rapportera le Saint Graal.
+J'ai entendu dire que les habitants de la Tour vont construire une Nef des Cieux pour honorer le héros qui leur rapportera le Saint Graal.
+J'ai entendu dire que les habitants de l'Hadès vont construire un Titan de Feu pour honorer le héros qui leur rapportera le Saint Graal.
+J'ai entendu dire que les habitants de la Nécropole vont construire une Prison des Âmes pour honorer le héros qui leur rapportera le Saint Graal.
+J'ai entendu dire que les habitants du Donjon vont construire un Gardien de la Terre pour honorer le héros qui leur rapportera le Saint Graal.
+J'ai entendu dire que les habitants du Bastion vont construire un Monument des Seigneurs pour honorer le héros qui leur rapportera le Saint Graal.
+J'ai entendu dire que les habitants de la Forteresse vont construire le Népanthes pour honorer le héros qui leur rapportera le Saint Graal.
+Les chevaux d'Erathia sont les plus rapides sur terre.
+Les Grands Arbalétriers d'Erathia peuvent tirer deux flèches quand un simple Arbalétrier ne peut en tirer qu'une.
+Formés dans les cours royales, les Griffons sont de redoutables défenseurs.
+Les Paladins d'Erathia peuvent porter deux coups quand les Spadassins ne peuvent frapper qu'une fois.
+Saviez-vous que... les Zélotes ne seraient que pure énergie.
+Laissez vos Champions foncer sur vos ennemis.  Vous serez contents du résultat.  Plus ils sont loin et meilleurs ils sont.
+Les Anges sentent leur force décupler quand ils affrontent des Diables.
+"Dans la chaleur de la bataille, j'ai vu de mes yeux un Archange rendre la vie à ses camarades morts au combat."
+"On dit qu'un seul Ange peut remonter le moral de toute une armée, si celle-ci ne vient pas de la Nécropole."
+J'ai vu une fois un Nain résister à un sort très puissant.
+Il parait que les Grands Elfes d'AvLee sont plus forts que les tireurs d'élite d'Erathia.
+Les Pégases affaiblissent les jeteurs de sorts ennemis.
+Les racines des Soldats Sylvaniens bloquent l'adversaire sur place.
+"Si vous voulez une meilleur protection magique, battez-vous aux côtés d'une Licorne."
+"Bien que plus vulnérable à la magie que les Dragons d'Or, les Dragons Verts sont immunisés contre la plupart des sorts."
+"Les Dragons d'Or résistent à plus de sorts que les Dragons Verts, mais pas autant que les Dragons Noirs."
+"Les Familiers ennemis soustraient votre mana lors du combat, pour la restituer à leur Commandant."
+"Les Magogs lancent des boules de feu, brûlant tout ennemi à portée de leur champ d'action."
+Il est impossible de riposter après une attaque de Cerbères.
+Une fois j'ai vu un Seigneur des Abîmes ressusciter des alliés tombés au combat.
+"Maîtrisant l'élément du feu, un Effrit ne peut être affecté par les sorts de la Magie du Feu."
+S'ils sont attaqués par des Djinns, les Effrit redoublent de fureur.
+Les Sultans Effrit sont naturellement protégés par un bouclier de feu.
+En présence des Diables le facteur chance est désactivé.
+"Lorsqu'un Diable se déplace, il le fait sur un autre plan dimensionnel, avant de revenir dans notre monde."
+Il est impossible de riposter après l'attaque d'un Diable.
+"Quand il s'attaque à un Ange, le Diable est sous l'emprise d'une grande colère."
+Évitez de toucher les Zombies.  Ou vous pourriez tomber gravement malade.
+"Les Revenants et les Spectres sont des esprits immondes.  Si vous ne les tuez pas rapidement, ils se régénèrent."
+Les Spectres puisent leur force dans l'énergie magique.  La mana baisse en leur présence.
+Il paraît que les Fantômes d'Enroth sont plus dangereux que les Revenants et les Spectres d'Erathia.
+"Sur les champs de bataille, la troupe qui frappe la première, est avantagée."
+"Sur le champ de bataille, la rapidité est vitale, et la vie vous rend plus rapide."
+J'ai vu des Seigneurs Vampires renaître en s'abreuvant du sang de leurs ennemis tombés au combat.
+Face à l'assaut effrayant des Vampires, on reste paralysé par la peur et incapable de riposter.
+Après l'attaque d'un Liche, les victimes de ce dernier meurent sans recevoir aucune blessure extérieure.
+L'attaque d'un Chevalier Noir peut maudire un ennemi.
+Les Chevaliers de l'Effroi sont des guerriers puissants capables de couper en deux leur ennemi.
+"Sur le champ de bataille, les Dragons Squelettes et les Dragons Fantômes font mal à l'ennemi en provoquant la frayeur dans leur cœur."
+"Les Dragons Fantômes se nourrissent de la vitalité de la jeunesse.  Attention, la vieillesse peut être instantanée."
+Les Golems n'ont pas d'esprit.
+Les Golems sont animés par un pouvoir magique inconnu des simples mortels.
+"Du fait qu'ils sont des créatures animées, les Golems sont très résistants à la magie."
+Il est probable que les Archimages sont une aide précieuse au moment de jeter un sort.
+Le rayon magique des Archimages est plus précis que les flèches des Archers.
+Les Effrits sont les ennemis naturels des Djinns.
+Plein de haine, les Djinns voient leur puissance s'accroître lorsqu'ils attaquent des Effrits.
+Les Génies sont capables de jeter des sorts.
+"Lors d'une attaque de Nagas il est difficile de riposter."
+Les Nagas manient l'épée avec une grande précision.
+Seuls les Anges et les Archanges sont plus doués au maniement de l'épée que les Nagas.
+C'est une erreur que de sous-estimer l'intelligence d'un Géant ou d'un Titan.  Leurs esprits ne peuvent être possédés.
+Les Titans sont les ennemis les plus farouches des Dragons Noirs.
+Les Dresseurs de Loups sont des créatures rapides.  Ils frappent deux fois avant que vous ne puissiez vous défendre.
+L'Ogre Mage est un monstre terrifiant.  Ils motivent leurs alliés comme personne.
+On dit que les Rocks Foudroyants font tomber la foudre du ciel.
+"Si vous voulez prendre une ville, faites-vous accompagner de plusieurs Cyclopes.  Les roches qu'ils lancent font tomber les murs plus vite qu'une catapulte."
+Peu ont survécu suite à l'assaut d'un Béhémoth.  Certains jours il n'y a aucune défense contre eux.
+"C'est parce que les Troglodytes n'ont pas d'yeux, qu'il est impossible de leur jeter le sort Cécité."
+"Bien des armées sont tombées sous les attaques plongeantes des Harpies, sans aucun dommage pour ces dernières."
+Les Harpies Sinistres portent des attaques fulgurantes et retournent à leur place sans possibilité de riposte.
+"Les Yeux Maléfiques sont des monstres très confiants.  Même encerclés, ils ne perdent jamais leur sang-froid."
+Beaucoup d'armées craignent les attaques pétrifiantes de la Méduse.  Mais ce qu'il faut craindre le plus, ce sont leurs flèches d'or.
+"Quelles que soit les circonstances, le Minotaure se complait au combat en faisant gicler le sang de ses ennemis."
+Il se dit que le puissant venin du Scorpicore est capable de paralyser un Golem.
+Aucun sort au monde n'a jamais pu nuire à un Dragon Noir.
+On dit que l'Orbe de la Vulnérabilité peut humilier un Dragon Noir.
+"Pendant les batailles, les Dragons Noirs sont toujours à la recherche de Titans à combattre."
+"Il est difficile de comprendre pourquoi, mais une Guêpe-Dragon est capable d'annuler un sort."
+La très puissante Gorgone n'est pas bien connue.  Si vous voulez survivre ne la regardez pas dans les yeux.
+Prenez-garde au poison du Monarque Wyverne. Sinon vous y perdrez la santé plus vite que vous n'arriverez à vous envoler.
+Il n'y a pas de riposte possible lorsque l'Hydre vous attaque.
+"Si vous voulez progresser rapidement, visiter les Académies Militaires et les Moines Savants."
+On pense que les Magiciens sont en mesure de créer un Vortex de mana afin de doubler leurs points de magie.
+"Grâce au Portail d'Invocation, le Seigneur d'un Donjon peut recruter des créatures d'une demeure extérieure à la ville."
+La Forteresse dispose d'un bâtiment capable d'augmenter de deux points l'attaque du héros. Il s'agit de l'Obélisque Sanglante.
+"Après une journée passée dans la ville du Seigneur de Guerre, vous saurez mieux vous défendre."
+"En prenant d'assaut l'Hadès, vous verrez l'Orage Maléfique.  Prenez garde, leur lanceur de sort se nourrit de son pouvoir."
+On dit que les enfers sont reliés entre eux par des portails dimensionnels.  Les gens simples les appellent portes de villes.
+"Si votre héros recherche plus de puissance, visitez l'Ordre du Feu disponible dans l'Hadès."
+Un Voile de Ténèbres couvre tout le royaume des Nécromanciens.
+Les prisonniers de guerre envoyés dans une Nécropole sont changés en Squelettes, et rejoignent les armées de morts-vivants des Nécromanciens et des Chevaliers Noirs.
+Certains pensent que chaque Nécropole possède un 'Nécrolyte' pour aider ses héros à ressusciter les morts.
+Le Jardin Mystique est encore plus rare que le Moulin à Vent.  Vous ne savez jamais quelles ressources précieuses vous allez y trouver.
+Le Rempart accueille la Fontaine des Espérances et accroit le bonus chance du héros qui défend la ville.
+"La ville du Rempart vous permet d'avoir plus d'or, en construisant la Corne d'Abondance."
+Un certain nombre de Bastions sont pourvus d'un Échappatoire qui permet au héros de battre en retraite.
+Le héros qui visite le Valhalla dans un Bastion devient un guerrier plus expérimenté.
+"Si vous voulez étancher votre soif de connaissance, visitez le Mur du Savoir qui se trouve à l'intérieur de la Tour."
+"Lors d'un combat sur les Terres Maudites, les héros sont sur un pied d'égalité."
+"Sur les plaines magiques, même l'homme commun peut jeter des sorts comme le plus grand des magiciens."
+On raconte que les Serpents de Mer se sont réveillés, et qu'ils ont délaissé les profondeurs pour s'aventurer sur la terre. Ils écrasent tout sur leur passage.
+Les Haspids sont les créatures les plus puissantes de la Crique.
+Un Pirate un jour a essayé de me convaincre qu'il connaissait la formule d'une poudre secrète, capable de propulser des boulets de canon géants d'une simple étincelle !
+Il se murmure que le Repaire de Voleurs coopère secrètement avec des Pirates.
+Il parait qu'on aperçoit mieux les étoiles depuis les villes maritimes.
+Le Nix a une excellente armure.
+Un Pirate qui gravit les échelons jusqu'à devenir Corsaire, peut espérer mieux !
+Les navires noirs peuvent être échangés près des rivages de la Crique.
+Au fin fond des océans se cacherait un mystérieux objet qui donnerait un pouvoir immense au premier qui le découvrirait.
+Le cygne rouge écarlate nage dans un petit lac.
+Le sang est plus épais que l'eau.
+"Les Lutins et les Familiers manquent de force, mais ils compensent cette faiblesse par leur grand nombre."
+Être soi-même glorifie sa propre image.
+Le voile des ténèbres peut aider à échapper à ses ennemis.
+Trouvez le Graal - il est plus puissant que vous ne l'imaginez.
+"Trouvez un bon cartographe.  Bien que leurs cartes soient onéreuses, elles sont d'une grande précision."
+Méfiez-vous des démons Kreegans qui font des cadeaux.
+Protégez toujours vos tireurs à distance durant les combats.
+Parfois la meilleure manière d'éviter une défaite est de ne pas engager le combat !
+Attaquez les points faibles de l'ennemi.
+Connaissez-vous l'histoire de la grenouille qui rêvait d'être roi... et dont le souhait a été exaucé ?
+Un magicien a récemment découvert un charme capable de faire voler toute une armée !
+Le chaos est de meilleur conseil pour un suzerain.
+On dit qu'aucune défense ne parvient à résister à l'attaque d'un Béhémoth Royal.
+Ne soyez jamais impliqué dans une guerre terrestre à Erathia.
+"Les Troglodytes n'ont pas d'yeux, mais ils se défendent aussi bien que s'ils y voyaient vraiment."
+"N'ignorez jamais une porte souterraine, de peur qu'un ennemi invisible ne vous prenne par surprise."
+"Seuls les Dragons du Rempart sont bons. Les Dragons Noirs viennent des cavernes de Nighon et les Dragons de la Nécropole sont des créations maléfiques du Nécromancien."
+Aujourd'hui est hier et demain.
+Un voyageur m'a dit que les poings d'acier d'Erathia ne seront pas récompensés au ciel.
+"Une fois que vous maîtrisez une école de magie, la plupart des sorts individuels agiront sur un groupe d'alliés ou d'ennemis - et parfois les deux !"
+"En traversant le désert, trouvez une oasis, pour rendre votre voyage plus agréable."
+"Trouvez les Pierres d'Apprentissage dispersées partout sur la terre. Vous n'apprendrez qu'une chose à la fois, mais au final vous apprendrez beaucoup."
+"Confiez dans les nombres, et spécialement s'ils sont des milliers !"
+Souvenez-vous que les Dragons Noirs sont insensibles à la Magie - que seule une grande force peut les vaincre.
+"Les sorts de rapidité et de lenteur peuvent être avantageux lors d'un combat, et particulièrement à des niveaux élevés de compétence."
+Utilisez le feu au combat tout en étant protégé contre lui.
+L'eau ne peut être nocive pour ceux qui maîtrise cet élément.
+L'air ne peut faire de mal à celui qui maîtrise cet élément.
+La terre ne peut nuire à celui qui en maîtrise ses éléments.
+L'université peut nous enseigner beaucoup de choses...  pour un juste prix.
+Les Archanges sont les plus puissantes créatures du Château.
+Les Dragons d'Or sont les plus puissantes créatures du Rempart.
+Les Titans sont les plus puissantes créatures de la Tour.
+Les Archidiables sont les plus puissantes créatures de l'Hadès.
+Les Dragons Fantômes sont les plus puissantes créatures de la Nécropole.
+Les Dragons Noirs sont les plus puissantes créatures du Donjon.
+Les Béhémoths Royaux sont les plus puissantes créatures du Bastion.
+Les Pyrohydres sont les plus puissantes créatures de la Forteresse.
+"Muni du sort approprié, vous pouvez saborder vos bateaux pour qu'ils ne tombent pas aux mains de l'ennemi.  Les bateaux sont utiles, surtout pour un aller simple !"
+Rien de ce qui se passe n'est pareil à mes anguilles d'Erathia cuites au four.  Non?  Et que diriez-vous d'un pâté en croute de Pégase ?
+"Hey, je ne suis pas au courant de rumeurs, parce que les gens comme vous ne viennent pas les partager avec moi !"
+"À cette période de l'année, les eaux autour de l'île de Vori gèlent."
+Vori est une nation indépendante.
+J'ai entendu dire que les Elfes de Vori ont la peau blanche comme la neige.
+Saviez-vous que les Elfes d'AvLee sont les descendants des Elfes de Vori ?
+Les villes pourvues d'une Citadelle accueillent plus de troupes qu'un simple Fort.
+J'ai entendu dire que dans les Tours on échange des artéfacts.
+Savez-vous que dans le Bastion on procède à l'échange de créatures ?
+Il paraît que certains héros peuvent se déplacer entre les enfers instantanément.
+Au Repaire de Voleurs ils sont amis avec tout le monde et personne.
+Tout Château pourvu de la Confrérie de l'Epée résiste davantage lors d'un siège.
+J'ai entendu dire que les habitants du Château ont construit un Colosse pour honorer le héros qui leur rapportera le Saint Graal.
+J'ai entendu dire que les habitants du Rempart ont construit un Gardien des Esprits pour honorer le héros qui leur rapportera le Saint Graal.
+J'ai entendu dire que les habitants de la Tour ont construit une Nef des Cieux pour honorer le héros qui leur rapportera le Saint Graal.
+J'ai entendu dire que les habitants de l'Hadès ont construit un Titan de Feu pour honorer le héros qui leur rapportera le Saint Graal.
+J'ai entendu dire que les habitants de la Nécropole ont construit une Prison des Âmes pour honorer le héros qui leur rapportera le Saint Graal.
+J'ai entendu dire que les habitants du Donjon ont construit un Gardien de la Terre pour honorer le héros qui leur rapportera le Saint Graal.
+J'ai entendu dire que les habitants du Bastion ont construit un Monument des Seigneurs pour honorer le héros qui leur rapportera le Saint Graal.
+J'ai entendu dire que les habitants de la Forteresse ont construit le Nepanthes pour honorer le héros qui leur rapportera le Saint Graal.
+Les chevaux d'Erathia sont les plus rapides sur terre.
+Les Grands Arbalétriers d'Erathia peuvent tirer deux flèches quand un simple Arbalétrier ne peut en tirer qu'une.
+Formés dans les cours royales, les Griffons sont de redoutables défenseurs.
+Les Paladins d'Erathia peuvent porter deux coups quand les Spadassins ne peuvent frapper qu'une fois.
+Saviez-vous que... les Zélotes ne seraient que pure énergie.
+Laissez vos Champions foncer sur vos ennemis.  Vous serez contents du résultat.  Plus ils sont loins et meilleurs ils sont.
+Les Anges sentent leurs force décupler quand ils affrontent des Diables.
+"Dans la chaleur de la bataille, j'ai vu de mes yeux un Archange rendre la vie à ses camarades morts au combat."
+"On dit qu'un seul Ange peut remonter le moral de toute une armée, si celle-ci ne vient pas de la Nécropole."
+J'ai vu une fois un Nain résister à un sort très puissant.
+Il parait que les Grands Elfes d'AvLee sont plus forts que les tireurs d'élite d'Erathia.
+Les Pégases affaiblissent les jeteurs de sorts ennemis.
+Les racines des Soldats Sylvaniens bloquent l'adversaire sur place.
+"Si vous voulez une meilleure protection magique, battez-vous aux côtés d'une Licorne."
+"Bien que plus vulnérables à la magie que les Dragons d'Or, les Dragons Verts sont immunisés contre la plupart des sorts."
+"Les Dragons d'Or résistent à plus de sorts que les Dragons Verts, mais pas autant que les Dragons Noirs."
+"Les Familiers ennemis soustraient votre mana lors du combat, pour la restituer à leur Commandant."
+"Les Magogs lancent des boules de feu, brûlant tout ennemi à portée de leur champ d'action."
+Il est impossible de riposter après une attaque de Cerbères.
+Une fois j'ai vu un Seigneur des Abîmes ressusciter des alliés tombés au combat.
+"Maîtrisant l'élément du feu, un Effrit ne peut être affecté par les sorts de la Magie du Feu."
+S'ils sont attaqués par des Djinns, les Effrit redoublent de fureur.
+Les Sultans Effrit sont naturellement protégés par un bouclier de feu
+On raconte que les Serpents de Mer se sont réveillés, et qu'ils ont délaissé les profondeurs pour s'aventurer sur la terre. Ils écrasent tout sur leur passage.
+Les Haspids sont les créatures les plus puissantes de la Baie.
+Un Pirate un jour a essayé de me convaincre qu'il connaissait la formule d'une poudre secrète, capable de propulser des boulets de canon géants d'une simple étincelle !
+Il se murmure que le Repaire de Voleurs coopère secrètement avec des Pirates.
+Il parait qu'on aperçoit mieux les étoiles depuis les villes maritimes.
+Le Nix a une excellente armure.
+Un Pirate qui gravit les échellons jusqu'à devenir Corsair, peut espérer mieux !
+Les navires noirs peuvent être échangés près des rivages de la Baie.
+Au fin fond des océans se cacherait un mystérieux objet qui donnerait un pouvoir immense au premier qui le découvrirait.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

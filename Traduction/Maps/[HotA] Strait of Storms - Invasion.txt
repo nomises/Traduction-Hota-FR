@@ -1,0 +1,25 @@
+===== Map name =====
+Le Détroit des Orages - Guerre
+
+===== Map description =====
+La paix précaire dans le détroit a été rompue par l'invasion des Seigneurs Élémentaires. Ils ont créé un portail au cœur de la mer. Et même si vous avez renforcé les abords du monolithe, l'ennemi n'a pas battu en retraite.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Nouvelles
+Message:
+Vous avez pris conscience que ces Conjureurs ne venaient pas seuls. Ils ont recruté des orcs, des gobelins et d'autres étrangers, afin qu'ils fassent tout le sale boulot pour eux.
+
+Name:
+Attrappé
+Message:
+Des pirates ont attaqué vos navires !
+
+===== Heroes =====
+
+===== Objects =====
+
+===== End of file =====

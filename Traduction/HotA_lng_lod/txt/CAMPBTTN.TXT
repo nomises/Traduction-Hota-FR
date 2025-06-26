@@ -1,0 +1,203 @@
+Campaign Choice Button Right Click
+"{Dispensaire}
+
+Votre Héros est doté d'un Dispensaire"
+"{Lanciers}
+
+14 Lanciers sont ajoutés à l'armée de votre Héros"
+"{Ressources Rares}
+
+Les réserves de vos ressources sont augmentées de +5 unités de Mercure, Soufre, Cristaux et Gemmes"
+"{Ange}
+
+1 Ange est ajouté à l'armée de votre Héros"
+"{Zélotes}
+
+3 Zélotes sont ajoutés à l'armée de votre Héros"
+"{Parchemin de Sort}
+
+Votre Héros reçoit un Parchemin contenant le sort Faveur Divine"
+"{Arc de Midas}
+
+L'Arc de Midas permet à vos troupes de tirer sans pénalités quel que soit la distance ou les obstacles"
+"{Bouclier Cœur de Lion}
+
+Le Bouclier Cœur de Lion améliore de +4 points les quatre caractéristiques de votre Héros"
+"{Sac de Prospérité}
+
+Le Sac de Prospérité vous procure un revenu supplémentaire de 1000 pièces d'Or par jour"
+"{Or}
+
+Vous commencez la partie avec 10000 pièces d'Or supplémentaires"
+"{Archanges}
+
+Vous commencez la partie avec 2 Archanges
+(en garnison dans une ville)"
+"{Titans}
+
+Vous commencez la partie avec 2 Titans
+(en garnison dans une ville)"
+"{Parchemin de Sort}
+
+Votre Héros reçoit un Parchemin contenant le sort Protection Contre le Feu"
+"{Parchemin de Sort}
+
+Votre Héros reçoit un Parchemin contenant le sort Éclair de Glace"
+"{Parchemin de Sort}
+
+Votre Héros reçoit un Parchemin contenant le sort Précision"
+"{Maître en Ravitaillement}
+
+Votre Héros est Maître en Ravitaillement"
+"{Bouclier des Seigneurs Nains}
+
+Le Bouclier des Seigneurs Nains améliore de +2 points les caractéristiques d'Attaque et de Défense du Héros"
+"{Hache du Centaure}
+
+La Hache du Centaure améliore de +2 points la caractéristiques d'Attaque du Héros"
+"{Maître en Navigation}
+
+Votre Héros est Maître en Navigation"
+"{Trois Guildes des Mages Niveau 1}
+
+Une Guilde des Mages Niveau 1 est construite dans vos trois villes de départ"
+"{Une Guilde des Mages Niveau 3}
+
+Une Guilde des Mages Niveau 3 est construite dans votre ville principale"
+"{Bottes de Sept Lieues}
+
+Les Bottes de Sept Lieues augmentent de +400 points de mouvement le potentiel de déplacement du héros sur la terre"
+"{Novice en Ravitaillement}
+
+Votre Héros est Novice en Ravitaillement"
+"{Or}
+
+Vous commencez la partie avec 2500 pièces d'Or supplémentaires"
+"{Griffons Royaux}
+
+Vous commencez la partie avec 35 Griffons Royaux
+(en garnison dans une ville)"
+"{Golems de Pierre}
+
+Vous commencez la partie avec 35 Golems de Pierre
+(en garnison dans une ville)"
+"{Grands Elfes}
+
+Vous commencez la partie avec 35 Grands Elfes
+(en garnison dans une ville)"
+"{Heaume de l'Illumination}
+
+Le Heaume de l'Illumination améliore de +6 points les quatre caractéristiques de votre Héros"
+"{Traité de la Terre}
+
+Ce volumineux traité contient tous les sorts de la Magie de la Terre"
+"{Chapeau des Sages}
+
+En portant ce chapeau, un héros peut apprendre et lancer les sorts des 5 niveaux"
+"{Parchemin de Sort}
+
+Votre Héros reçoit un Parchemin contenant le sort Pourfendeur"
+"{Armure Miraculeuse}
+
+l'Armure Miraculeuse améliore de +1 point les quatre caractéristiques de votre Héros"
+"{Diablotins}
+
+100 Diablotins sont ajoutés à l'armée de votre Héros"
+"{Souche Maudite}
+
+Une Souche Maudite est construite dans votre ville de départ (demeure des Yeux Maléfiques)"
+"{Guilde des Mages Niveau 1}
+
+Une Guilde des Mages Niveau 1 est construite dans votre ville de départ"
+"{Académie Militaire}
+
+une Académie Militaire est construite dans votre ville de départ (+1000 points d'expérience, une fois par héros)"
+"{Héros de Eeofol}
+
+Commencer avec les héros utilisés lors du scénario ""Un Plan Diabolique"""
+"{Héros de Nighon}
+
+Commencer avec les héros utilisés lors du scénario ""Dans les Entrailles de la Terre"""
+"{Parchemin de Sort}
+
+Votre Héros reçoit un Parchemin contenant le sort Onde Mortelle"
+"{Chevalier Noir}
+
+1 Chevalier Noir est ajouté à l'armée de votre Héros"
+"{Ossuaire}
+
+un Ossuaire est construit dans votre ville de départ (transforme des créatures en squelettes)"
+"{Capuche du Vampire}
+
+La Capuche du Vampire améliore de 5% la compétence de Nécromancie"
+"{Nécrolyte}
+
+Un Nécrolyte est construit dans votre ville de départ (améliore de 5% la compétence de Nécromancie de vos héros)"
+"{Catacombes}
+
+Des Catacombes sont construites dans votre ville de départ (augmente la production de Squelettes)"
+"{Pendentif de Mort}
+
+Le Pendentif de Mort immunise vos troupes contre le sort Nécrophage"
+"{Parchemin de Sort}
+
+Votre Héros reçoit un Parchemin contenant le sort Protection Contre la Terre"
+"{Zombies}
+
+25 Zombies sont ajoutés à l'armée de votre Héros"
+"{Parchemin de Sort}
+
+Votre Héros reçoit un Parchemin contenant le sort Onde Mortelle"
+"{Bottes du Passeur}
+
+Les Bottes du Passeur améliorent de 7,5% la compétence de Nécromancie"
+"{Dragons Fantômes}
+
+3 Dragons Fantômes sont ajoutés à l'armée de votre Héros"
+[substitute hero right-click info here]
+[substitute hero right-click info here]
+"{Héros des Forteresses}
+
+Votre Héros est choisi aléatoirement parmi ceux des Forteresses (Belluaire ou Sorcière)"
+"{Rocks Foudroyants}
+
+3 Rocks Foudroyants sont ajoutés à l'armée de votre Héros"
+"{Rois Cyclopes}
+
+2 Rois Cyclopes sont ajoutés à l'armée de votre Héros"
+"{Béhémoth Royal}
+
+1 Béhémoth Royal est ajouté à l'armée de votre Héros"
+"{Choisir Tatalia}
+
+Vous choisissez de vous battre pour Tatalia avec les héros du scénario ""Les Régions Frontalières"""
+"{Choisir Krewlod}
+
+Vous choisissez de vous battre pour Krewlod avec les héros du scénario ""La Ruée vers l'Or"""
+"{Bottes de Sept Lieues}
+
+Les Bottes de Sept Lieues augmentent de +400 points de mouvement le potentiel de déplacement du héros sur la terre"
+"{Or}
+
+Vous commencez la partie avec 5000 pièces d'Or supplémentaires"
+"{Pégases}
+
+4 Pégases sont ajoutés à l'armée de votre Héros"
+"{Guilde des Mages Niveau 3}
+
+Une Guilde des Mages Niveau 3 est construite dans votre ville de départ"
+"{Or}
+
+Vous commencez la partie avec 5000 pièces d'Or supplémentaires"
+"{Soldats Sylvaniens}
+
+3 Soldats Sylvaniens sont ajoutés à l'armée de votre Héros"
+"{Soldats Sylvaniens}
+
+3 Soldats Sylvaniens sont ajoutés à l'armée de votre Héros"
+"{Gardes Sylvaniens}
+
+6 Gardes Sylvaniens sont ajoutés à l'armée de votre Héros"
+"{Bois}
+
+Vos réserves de ressources sont augmentées de 12 Bois"

@@ -1,0 +1,1887 @@
+===== Map name =====
+Les Celtes Goïdels - Donjon
+
+===== Map description =====
+Vous êtes à la tête d'une branche des Celtes Goïdels d'Irlande, et vous devez repousser l'invasion des Cimbres venus de la Bretagne armoricaine. Vous devez oublier pour l' instant les différents qui vous opposent aux autres Celtes Goïdels du pays, tout en sachant qu'ils sont eux aussi vos ennemis.
+
+===== Rumors =====
+
+Name:
+Informations sur Les Celtes Goïdels
+Text:
+Créateur de la carte :   Al  RODRIGUES                                                      Origine :   Toulouse / FRANCE                                                                      Adresse E-mail :   al.rodrigues@libertysurf.fr                                                 
+
+Name:
+La culture goïdélique
+Text:
+"Savez-vous que l'autre pays goïdélique est l'Ecosse."
+
+Name:
+L'épée de l'Apocalypse
+Text:
+"Les Cimbres auraient en leur possession une épée au pouvoir dévastateur." 
+
+Name:
+La chevalerie des Fénians
+Text:
+"Les Fénians ont le devoir de maintenir l'ordre en Irlande. Miach et Môrna font parti de cette confrérie."
+
+Name:
+Le Graal
+Text:
+"On dit que le Graal serait perdu au nord du pays de Taran le Celte Cimbre."
+
+Name:
+Légendes celtiques
+Text:
+"Par delà les mers lointaines, il existe des nains, des fées, et d'autres animaux monstrueux."
+
+Name:
+L'Ulster
+Text:
+"Il paraît que l'Ulster est un beau pays."
+
+Name:
+La terre de la jeunesse
+Text:
+"Les Cimbres se sont emparés de Tir Nan Og la terre bienfaitrice de nos ancêtres."
+
+Name:
+Les terres maudites
+Text:
+"Les terres où les Cimbres ont répandu le sang de nos frères sont devenues des terres maudites pour longtemps."
+
+Name:
+Le sanctuaire druidique
+Text:
+"La ville d'Enez Sizun est le sanctuaire principal des druides d'Irlande."
+
+Name:
+Le livre de Cian
+Text:
+"Le puissant magicien Cian aurait caché en Irlande son livre de magie qui contient plusieurs sorts inconnus des magiciens d'aujourd'hui."
+
+Name:
+Le culte des arbres
+Text:
+"Mes parents me répétaient souvent que les eaux fécondent les forêts. Et que c'est pour ça qu'ils adoraient les arbres et les bois."
+
+Name:
+Le monstre de Noves
+Text:
+"La légende du monstre de Noves est toujours présente parmi nos peurs chroniques."
+
+Name:
+Le plus puissant des Cimbre
+Text:
+"Un Cimbre passé dans notre camp affirme que Medyr le chef des Celtes Cimbres du pays des fées, est le plus redoutable combattant qui soit."
+
+Name:
+Les druides Cimbres
+Text:
+"On raconte que les druides ennemis n'accomplissent aucun rite sacré sans feuilles de chêne."
+
+Name:
+Les génies
+Text:
+"En Irlande nous aimons beaucoup les génies protecteurs des rochers et des eaux."
+
+Name:
+Les fontaines miraculeuses
+Text:
+"Savez-vous qu'il existe d'autres sanctuaires qu'Enez Sizun en Irlande ? Il y a une centaine de fontaines miraculeuses où se rendent régulièrement les Celtes Goïdels en pèlerinage."
+
+Name:
+Le sculpteur Goïbus
+Text:
+"C'est à Erinn que vit Goïbus, le célèbre sculpteur de menhirs."
+
+Name:
+Au sujet de Brân Ab Llyr
+Text:
+"Connaissez-vous Brân Ab Llyr le redoutable héros ? Eh bien sachez que c'est un remarquable musicien et qu'il s'est proclamé protecteur des bardes."
+
+Name:
+La ville d'Annoeth
+Text:
+"Vous devriez visiter un jour la ville d'Annoeth, car c'est la plus fantastique construction des Celtes Goïdels. Elle a été construite entièrement à partir d'os humains."
+
+Name:
+Manannan Mac Llyr
+Text:
+"Manannan Mac Llyr, roi de l'île de Man, avait paraît-il, trois jambes."
+
+Name:
+Sépulture de Manannan
+Text:
+"La tombe de Manannan Mac Llyr se trouve près de la ville de Carrowmore."
+
+Name:
+Dépouille mortelle de Brân Ab Llyr
+Text:
+"C'est à côté de Tallaght que l'on peut voir la tombe de Brân Ab Llyr."
+
+Name:
+Demeures souterraines
+Text:
+"En Irlande il existe tout un tas de magnifiques demeures souterraines, que des monticules signalent au regard des humains."
+
+Name:
+Cûchullain
+Text:
+"La chaleur que le corps de Cûchullain dégage fait bouillir l'eau et fondre les neiges."
+
+Name:
+Le folklore breton
+Text:
+"Vous ne savez pas j'en suis sûr, que les nains, les fées, et autres génies des eaux, sont originaires de la presqu'île armoricaine."
+
+Name:
+Le savant de Sucellus
+Text:
+"Près de la ville de Sucellus habite un homme qui peut nous enseigner beaucoup de choses."
+
+Name:
+Le savant de Machavair
+Text:
+"Près de la ville de Machavair habite un homme qui peut nous enseigner beaucoup de choses."
+
+Name:
+Gantien
+Text:
+"Le magicien Gantien est prisonnier près de la ville de Fianna."
+
+Name:
+Le Guivido
+Text:
+"Les Dragons Azur aiment beaucoup voler au-dessus du fleuve Guivido."
+
+===== Timed events =====
+
+Name:
+Historique des Celtes Goïdels
+Message:
+Vous êtes les Celtes Goïdels et vous maîtrisez l'art délicat et difficile de la magie avec un autre groupe de Celtes Goïdels qui sont vos ennemis depuis toujours. Mais aujourd'hui une nouvelle menace venu de Bretagne armoricaine plane au-dessus de l'Irlande. Il s'agit des Celtes Cimbres un peuple très divisé aux multiples clans, qui n'a qu'une envie et un but, s'emparer de vos pouvoirs magiques dont ils ont tant entendu parler. Préparez-vous à la guerre ! Mais attention, bien que leurs connaissances en matière de magie soit très pauvres, les Celtes Cimbres n'ont pas leur égal lorsqu'il s'agit de combattre à mains nues.
+
+Name:
+Progression de l'invasion Cimbre
+Message:
+"Les Celtes Cimbres ont déjà envahis deux des quatre royaumes d'Irlande, et ils sont aux portes du royaume de Leinster. Vous devez réagir vite, vous organiser, et repousser l'envahisseur Cimbre hors d'Irlande."
+
+Name:
+Les enchanteurs révolutionnaires
+Message:
+"Le cercle de Myrddin est une communauté d'enchanteurs prônant la médecine des plantes comme la seule alternative aux maladies, rejetant ainsi le pouvoir divin de la nature de leurs ancêtres. Tous les jours ils viennent protester devant les villes principales de Munster : Lugdunum et Brannovices, et cela afin que tous leurs frères Celtes arrêtent d'adorer les eaux et les forêts. Ils manifestent tant et si bien qu'ils sont devenus une menace pour l'équilibre du royaume."	
+
+Name:
+L'esprit ancêstral
+Message:
+"Chaque Celte Goïdel possède en permanence auprès de lui son esprit protecteur qui le guide et le conseille. Ne soyez donc pas surpris si vous entendez une voix vous parler tout au long de vos aventures."
+
+Name:
+Les tours de magie
+Message:
+"Rappelez-vous que sur le plan de la magie vous êtes considérablement en avance sur vos ennemis les Celtes Cimbres. Ne les laissez-pas vous prendre vos tours de magie, car si cela devait arriver, vous n'auriez plus aucun avantage sur eux."
+
+Name:
+L'entretien des plaines magiques
+Message:
+"L'entretien des villes dans les plaines magiques revient très cher, et chaque fois que vous entrez ou sortez de la ville, l'administrateur de la cité vous arrête et vous fait payer des impôts."
+
+Name:
+Légendes celtiques 1
+Message:
+Légendes celtiques		"Brân Ab Llyr est un géant énorme, si grand que nul palais ou vaisseau ne peut l'abriter. Il franchit à gué la mer d'Irlande pour combattre et défaire un roi et ses chevaliers. Etendu en travers d'un fleuve, son corps sert de pont à une armée entière. Et grâce à son chaudron magique, il a le pouvoir de ressusciter les morts."
+
+Name:
+Profits des Celtes Cimbres
+Message:
+Profits des Celtes Cimbres
+
+Name:
+Tribut
+Message:
+"Vous apprenez grâce à l'un de vos espions, que certains Celtes Goïdels puissant d'Irlande, versent un tribut à leurs ennemis afin que ces derniers épargnent leurs vies."
+
+Name:
+Les messages du cercle de Myrddin
+Message:
+"Les revendications du cercle de Myrddin sont gravées en lettres rouges sur la plupart des panneaux d'Irlande."
+
+Name:
+Tir Nan Og
+Message:
+"Tir Nan Og : terre de la jeunesse. Là, les siècles sont des minutes ; ceux qui y habitent ne vieillissent plus ; les prés sont couverts de fleurs éternelles ; et de l'hydromel emplit le lit des fleuves. Festins et batailles sont les passe-temps favoris : les guerriers mangent et boivent mets et breuvages féeriques ; et ils ont pour compagne des femmes d'une beauté ravissante."
+
+Name:
+Scandale à Munster
+Message:
+"Le tristement célèbre Cercle de Myrddin par ses actions révolutionnaires met gravement en danger nos armées et le peuple de Munster. Leur dernier méfait qui nous a été rapporté aujourd'hui même, nous apprend qu'ils séquestrent une armée toute entière de Féticheuses." 
+
+Name:
+L'ours de Noves
+Message:
+"Les mères des jeunes Celtes Goïdels racontent toutes la même histoire à leur fils dès qu'il est en âge de comprendre : le monstre de Noves est un ours énorme qui est assis sur ses pattes de derrière ; de ses mâchoires il broie des membres humains, et chacune de ses pattes de devant repose sur une tête humaine."
+
+Name:
+Légendes celtiques 2
+Message:
+Légendes celtiques 		"Brân Ab Llyr est aussi le roi des régions infernales, il s'y bat pour défendre ses trésors magiques contre tous ceux qui voudraient les lui ravir. Blessé par une flèche empoisonnée, il ordonne qu'on lui tranche la tête, afin d'abréger ses souffrances."
+
+Name:
+Prospérité des Celtes Cimbres
+Message:
+Prospérité des Celtes Cimbres
+
+Name:
+Le peuple est effrayé
+Message:
+"La peur s'est installée durablement en Irlande, et d'autres grands hommes viennent d'accepter de payer eux aussi un tribut aux Celtes Cimbres."
+
+Name:
+Le gui
+Message:
+"Les druides croient que la présence du gui révèle celle du dieu sur l'arbre qui le porte. Ils le cueillent en grande cérémonie. Après avoir sacrifié deux taureaux blancs, un prêtre, vêtu d'une robe blanche, monte dans l'arbre et coupe avec une faucille d'or le gui, que l'on recueille dans un drap blanc."
+
+Name:
+Les chants de victoire
+Message:
+"Le jour où les chants de victoire se seront éteints avec les lèvres qui les répétaient, cela voudra dire qu'il n'y aura plus de traces des Celtes Goïdels en Irlande."
+
+Name:
+Légendes celtiques 3
+Message:
+Légendes celtiques 		"Manannan Mac Llyr, est un magicien redoutable. Il porte un casque flamboyant ; sa cuirasse est invulnérable ; son épée tue du premier coup ; et il possède un manteau qui le rend invisible."
+
+Name:
+Angus
+Message:
+"Les baisers d'Angus deviennent autant d'oiseaux qui modulent des chants d'amour, et la musique qu'il joue entraîne sur ses pas tous ceux qui l'entendent."
+
+Name:
+Apogée de l'économie Cimbre
+Message:
+Apogée de l'économie Cimbre
+
+Name:
+La victoire économique des Celtes Cimbres
+Message:
+"L'un de vos espions vous informe que presque tous les commerçants qui traitaient avec vous, feront des affaires avec les Cimbres dorénavant."
+
+Name:
+Les fées
+Message:
+"Les femmes fées des croyances populaires, se manifestent aux vivants dans la réalité concrète et dans les rêves. Elles sont en relations constantes avec les chefs et les guerriers ; elles participent à leurs banquets, prennent part à leurs jeux et combattent même à leurs côtés, armées de boucliers blancs et de lances bleuâtres."
+
+Name:
+Essoufflement du cercle de Myrddin
+Message:
+"Le mouvement du cercle de Myrddin semble aujourd'hui avoir perdu de sa force. Les partisans de cette confrérie sont de plus en plus rares."
+
+Name:
+Légendes celtiques 4
+Message:
+Légendes celtiques		"Manannan Mac Llyr bien que magicien est d'une grande force physique. A terre, son coursier fend l'espace ; en mer, sa barque, sans voile ni avirons, se rend droit où le veut son maître."
+
+Name:
+Décors romantiques
+Message:
+"L'Irlande des Celtes Goïdels est très étrange et mystérieuse. Elle est remplie de vallées que hantent les fantômes, de montagnes éclairées par la lune, de torrents coulant sur des rochers, et de grands feux dans les brouillards du soir."
+
+Name:
+Action d'éclat
+Message:
+"Vos espions ont réussi la nuit dernière à entrer dans une ville ennemi pour s'emparer d'une partie des trésors qui s'y trouvaient. Le roi les a tous élevés au rang de chevalier ce matin-même."
+
+Name:
+Les magiciens d'Irlande
+Message:
+"Dans les quatre royaumes d'Irlande, un puissant magicien qui est détenteur d'une grande science, est aussi important que le roi."
+
+Name:
+Légendes celtiques 5
+Message:
+Légendes celtiques		"Situé au-delà des mers, il existe un pays de rêves qui n'est qu'une petite partie du monde des dieux. C'est au-delà est à ce point autre qu'il est non-temporel. Un humain qui y parviendrait, y passerait des siècles de vie paradisiaque qui lui semblerait des jours. Mais si, désireux de retourner d'où il vient, l'humain remettait pied à terre ; alors, sous le poids du temps qu'il retrouverait, il tomberait en poussière."
+
+Name:
+Sacrifices
+Message:
+"Les Celtes Goïdels pratiquent le culte des eaux depuis que leurs ancêtres se sont établis en Irlande. Ils adorent les fleuves, les fontaines et les sources. Après la bataille ils ont l'habitude d'immoler tous leurs ennemis qu'ils soient morts ou encore en vie. Et cela, afin de rendre un hommage à leurs dieux."
+
+Name:
+Les ragots des vieilles femmes
+Message:
+"Les vieilles femmes celtes d'Irlande tiennent de leurs mères des histoires étonnantes à propos de fées, de sylphes, de gnomes, de feux follets, de farfadets et de loups-garous, qu'elles transmettent à leurs petits enfants."
+
+Name:
+Dévastation du pays
+Message:
+"Les Celtes Cimbres ont causé la ruine du royaume. Nos régions ont été dévastées par ces brutes sanguinaires, et il faudra beaucoup de temps pour tout reconstruire et relancer notre économie."
+
+===== Heroes =====
+
+===== Objects =====
+
+(78, 31, 0) ***Tower***
+Name:
+Erinn
+
+(7, 4, 0) ***Tower***
+Name:
+Lugdunum
+
+Visiting Wizard:
+Name:
+Miach
+
+(57, 31, 0) ***Quest Guard***
+Message:
+"Que me veux-tu étranger ? Quoi ? Tu veux passer ! Ha ha ha... ha ha... tu me fais rire mon gars. Tu ne passeras que si tu me rapportes le Globe de Vulnérabilité. Et comme j'ai passé des années à le chercher sans le trouver, je crains fort de ne jamais te laisser passer."
+"Comment ? Encore toi ! Et sans le Globe de Vulnérabilité ! Allez vas-t'en, tu me fatigues. Et ne reviens plus jamais ici sans cet objet magique."
+"Non, je le crois pas ! Tu as trouvé le Globe de Vulnérabilité ! Je te félicite mon gars. Tu as gagné le droit de passer à présent."
+
+(75, 17, 0) ***Stronghold***
+Name:
+Leherennus
+
+Timed events:
+
+Name:
+Maison de Béhémoths
+Message:
+Construction de demeure de Béhémoths achevée
+
+(34, 12, 0) ***Stronghold***
+Name:
+Nemausus
+
+Timed events:
+
+Name:
+Maison de Béhémoths
+Message:
+Construction de demeure de Béhémoths achevée
+
+(48, 22, 0) ***Stronghold***
+Name:
+Arbois
+
+Timed events:
+
+Name:
+Maison de Béhémoths
+Message:
+Construction de demeure de Béhémoths achevée
+
+(38, 3, 0) ***Stronghold***
+Name:
+Garrus Deus
+
+Timed events:
+
+Name:
+Maison de Béhémoths
+Message:
+Construction de demeure de Béhémoths achevée
+
+(62, 5, 0) ***Stronghold***
+Name:
+Rigisamos
+
+Timed events:
+
+Name:
+Maison de Béhémoths
+Message:
+Construction de demeure de Béhémoths achevée
+
+(57, 14, 0) ***Stronghold***
+Name:
+Annoeth
+
+Visiting Barbarian:
+Name:
+Medyr
+
+(50, 10, 0) ***Stronghold***
+Name:
+Taurisci
+
+Timed events:
+
+Name:
+Maison de Béhémoths
+Message:
+Construction de demeure de Béhémoths achevée
+
+(51, 97, 0) ***Rampart***
+Name:
+Tarvisium
+
+Visiting Ranger:
+Name:
+Robur
+
+(50, 77, 0) ***Rampart***
+Name:
+Moytura
+
+Timed events:
+
+Name:
+Maison de Dragons d'Or
+Message:
+Construction de demeure de Dragons d'Or achevée
+
+(61, 81, 0) ***Rampart***
+Name:
+Sligo
+
+Timed events:
+
+Name:
+Maison de Dragons d'Or 
+Message:
+Construction de demeure de Dragons d'Or achevée
+
+(43, 88, 0) ***Rampart***
+Name:
+Tara
+
+Timed events:
+
+Name:
+Maison de Dragons d'Or
+Message:
+Construction de demeure de Dragons d'Or achevée
+
+(86, 22, 0) ***Quest Guard***
+Message:
+"Frère chevalier, voilà quelques semaines que j'ai décidé de fermer ce poste frontière pour protester contre les enchanteurs de Brannovices. Je ne rouvrirai ce poste frontière qu'à la condition qu'on mette fin aux agissements honteux du cercle de Myrddin."
+"Je vous ai déjà averti que je ne laisserai passer personne tant que les membres du cercle de Myrddin manifesteront près de Brannovices."
+"Enfin et grâce à vous chevalier, les enchanteurs de Brannovices ont été vaincus. Tout le monde aura le droit de passer à nouveau par ici."
+
+(35, 22, 0) ***Dungeon***
+Name:
+Sidhe
+
+(19, 26, 0) ***Conflux***
+Name:
+Gavra
+
+(13, 66, 0) ***Tower***
+Name:
+Kildare
+
+(98, 77, 0) ***Dungeon***
+Name:
+Bolg
+
+(37, 103, 0) ***Rampart***
+Name:
+Vosgus
+
+Timed events:
+
+Name:
+Maison de Dragons d'Or
+Message:
+Construction de demeure de Dragons d'Or achevée
+
+(43, 56, 0) ***Conflux***
+Name:
+Argetlam
+
+(76, 60, 0) ***Conflux***
+Name:
+Ludgate
+
+(14, 97, 0) ***Dungeon***
+Name:
+Tallaght
+
+(76, 101, 0) ***Tower***
+Name:
+Carrowmore
+
+(88, 27, 0) ***Conflux***
+Name:
+Fâl
+
+(97, 5, 0) ***Quest Guard***
+Message:
+"Je ne peux pas vous laisser explorer la caverne de l'ours blanc, car vous n'avez pas l'expérience necessaire pour passer. Revenez quand vous aurez atteint le niveau d'expérience 12."
+"Vous n'avez pas encore suffisamment d'expérience pour espérer passer. Mais je suis certain que dans peu de temps vous aurez atteint le niveau d'expérience 12."
+"Vous êtes assez fort maintenant pour vous engager dans la caverne de l'ours blanc. Chevalier, bonne chance !"
+
+(0, 4, 0) ***Quest Guard***
+Message:
+"Je ne peux pas vous laisser explorer la caverne de la chauve-souris, car vous n'avez pas l'expérience necessaire pour passer. Revenez quand vous aurez atteint le niveau d'expérience 10."
+"Vous n'avez pas encore suffisamment d'expérience pour espérer passer. Mais je suis certain que dans peu de temps vous aurez atteint le niveau d'expérience 10."
+"Vous êtes assez fort maintenant pour vous engager dans la caverne de la chauve-souris. Chevalier, bonne chance !"
+
+(75, 66, 0) ***Quest Guard***
+Message:
+"Je m'appelle Zygg et je suis guetteur. Le roi m'a chargé de le prévenir dès que les Celtes Cimbres seront en vu. J'ai ordre de ne laisser passer personne tant que les émeutiers de Ludgate continueront de manifester dans le royaume."
+"Les enchanteurs de Ludgate sont toujours actifs et deviennent de plus en plus violents. Je vous en prie, mettez fin à leurs agissements."
+"Il n'y a plus d'émeutes dans la région grâce à vous. Je signalerais au roi votre loyauté envers lui et ses sujets. Attention car à partir d'ici, vous ne pourrez plus compter que sur vous-même."
+
+(96, 64, 0) ***Quest Guard***
+Message:
+"Je m'appelle Wonbuzi et je suis guetteur. Le roi m'a chargé de le prévenir dès que les Celtes Cimbres seront en vu. J'ai ordre de ne laisser passer personne tant que les émeutiers de Ludgate continueront de manifester dans le royaume."
+"Les enchanteurs de Ludgate sont toujours actifs et deviennent de plus en plus violents. Je vous en prie, mettez fin à leurs agissements."
+"Il n'y a plus d'émeutes dans la région grâce à vous. Je signalerais au roi votre loyauté envers lui et ses sujets. Attention car à partir d'ici, vous ne pourrez plus compter que sur vous-même."
+
+(4, 43, 0) ***Seer's Hut***
+Message:
+"Que viens-tu faire dans ces régions désertes étranger ? Est-tu perdu ? J'ai une mission à te confier si tu es d'accord. Retrouve pour moi l'Emblème du Faussaire et je te récompenserais."
+"Je suis heureux de te revoir étranger. Mais je constate que tu n'a pas encore trouvé l'Emblème du Faussaire. Courage, je sais que tu y arrivera."
+"Te revoilà enfin étranger. Merci d'avoir accompli cette mission délicate pour moi. Maintenant, voilà pour toi."
+
+(37, 4, 0) ***Prison***
+Name:
+Esus
+
+(7, 5, 0) ***Warlock***
+Name:
+Sualtam
+
+(6, 8, 0) ***Warlock***
+Name:
+Aïffé
+
+(9, 6, 0) ***Wizard***
+Name:
+Diancecht
+
+(48, 100, 0) ***Druid***
+Name:
+Buxenus
+
+(52, 98, 0) ***Druid***
+Name:
+Ardvina
+
+(49, 93, 0) ***Ranger***
+Name:
+Fagus
+
+(53, 94, 0) ***Druid***
+Name:
+Sex Arbores
+
+(53, 102, 0) ***Druid***
+Name:
+Abellio
+
+(56, 18, 0) ***Barbarian***
+Name:
+Epona
+
+(58, 22, 0) ***Battle Mage***
+Name:
+Math
+
+(53, 18, 0) ***Barbarian***
+Name:
+Lifechair
+
+(59, 20, 0) ***Barbarian***
+Name:
+Morrigu
+
+(6, 101, 0) ***Quest Guard***
+Message:
+"Si vous souhaitez passer, rapportez-moi la Bague des Joailliers, et vous aurez accès à la tente qui vous ouvrira les portes de Doltander."
+"Peut-être avez-vous oublié chevalier quelle était la quête que je vous avais confié. Trouvez la Bague des Joailliers et vous pourrez passer."
+"Je vous remercie de m'avoir rapporter cette Bague. Vous pouvez passer à présent."
+
+(48, 97, 0) ***Ranger***
+Name:
+Apfel
+
+(74, 104, 0) ***Quest Guard***
+Message:
+"Si vous souhaitez passer, rapportez-moi l'Anneau Sulfureux, et vous aurez accès à la tente qui vous ouvrira les portes d'Enez Sizun." 
+"Peut-être avez-vous oublié chevalier quelle était la quête que je vous avais confié. Trouvez l'Anneau Sulfureux et vous pourrez passer."
+"Je vous remercie de m'avoir rapporter cet Anneau. Vous pouvez passer à présent."
+
+(5, 28, 0) ***Sign***
+Message:
+Pays de Munster ouest
+
+(105, 28, 0) ***Sign***
+Message:
+Pays de Munster est
+
+(38, 27, 0) ***Sign***
+Message:
+Pays de Munster ouest
+
+(73, 32, 0) ***Sign***
+Message:
+Pays de Munster est
+
+(56, 57, 0) ***Sign***
+Message:
+Pays de Leinster ouest
+
+(4, 61, 0) ***Sign***
+Message:
+Pays de Leinster ouest
+
+(9, 101, 0) ***Sign***
+Message:
+Pays de Leinster ouest
+
+(66, 57, 0) ***Sign***
+Message:
+Pays de Leinster est
+
+(101, 74, 0) ***Sign***
+Message:
+Pays de Leinster est
+
+(74, 97, 0) ***Sign***
+Message:
+Pays de Leinster est
+
+(49, 79, 0) ***Sign***
+Message:
+Pays des Bardes
+
+(59, 100, 0) ***Sign***
+Message:
+Pays des Bardes
+
+(54, 4, 0) ***Sign***
+Message:
+Autrefois pays des Fées
+
+(49, 24, 0) ***Sign***
+Message:
+Autrefois pays des Fées
+
+(6, 16, 0) ***Seer's Hut***
+Message:
+"Arianrod est née à Lugdunum voilà 32 ans. Un jour il a choisi de trahir les siens pour rallier la cause des Celtes Cimbres. Le roi offre une très grosse somme d'argent au chevalier qui tuera Arianrod, le traître de Lugdunum."
+"Le roi renouvelle sa confiance en vous. Il sait que vous êtes capable de tuer le traître Arianrod."
+"Arianrod est mort, vive le roi ! Voici votre récompense brave chevalier."
+
+(103, 19, 0) ***Seer's Hut***
+Message:
+"Taran est née à Brannovices voilà 20 ans. Un jour il a choisi de trahir les siens pour rallier la cause des Celtes Cimbres. Le roi offre une très grosse somme d'argent au chevalier qui tuera Taran, le traître de Brannovices."
+"Le roi renouvelle sa confiance en vous. Il sait que vous êtes capable de tuer le traître Taran."
+"Taran est mort, vive le roi ! Voici votre récompense brave chevalier."
+
+(44, 100, 0) ***Ranger***
+Name:
+Devona
+
+(57, 16, 0) ***Battle Mage***
+Name:
+Manawyddan
+
+(20, 6, 0) ***Sign***
+Message:
+Entrée du monastère de Lugdunum
+
+(87, 3, 0) ***Sign***
+Message:
+Entrée du monastère de Brannovices
+
+(5, 7, 0) ***Sign***
+Message:
+"Nous voulons les mêmes droits que les mages de guerre et les magiciens."		signé :  Le cercle de Myrddin
+
+(93, 58, 0) ***Event***
+Message:
+"Après le combat, les 2 Dragons Azur reviennent à la vie et rejoignent les rangs de votre armée."
+
+(93, 106, 0) ***Orb of Vulnerability***
+Message:
+Une centaine de Golems d'Or surveillent le Globe de Vulnérabilité. Allez-vous les provoquer ?
+
+(21, 106, 0) ***Orb of Vulnerability***
+Message:
+Une soixantaine de Golems d'Or surveillent le Globe de Vulnérabilité. Allez-vous les provoquer ?
+
+(74, 103, 0) ***Event***
+Message:
+"Souviens-toi qu'en ouvrant ce passage et en accédant à la tente marron, tu mets en péril ta ville d'Enez Sizun qui se trouve en plein territoire ennemi."
+
+(55, 58, 0) ***Ring of Infinite Gems***
+Message:
+Près de deux cent Bandits gardent jalousement cette Bague magique avec fierté. Voulez-vous les attaquer pour leur prendre leur bien ?
+
+(65, 60, 0) ***Eversmoking Ring of Sulfur***
+Message:
+Près de deux cent bandits gardent jalousement cet Anneau magique avec fierté. Voulez-vous les attaquer pour leur prendre leur bien ?
+
+(92, 33, 0) ***Sign***
+Message:
+"Nous voulons l'ordre et la justice des hommes pour tous."		signé :  Le cercle de Myrddin
+
+(12, 30, 0) ***Sign***
+Message:
+"Développons davantage la pêche et nous n'aurons plus faim."		signé :  Le cercle de Myrddin
+
+(56, 61, 0) ***Enchanter***
+Message:
+"Les enchanteurs du cercle de Myrddin vous provoquent en vous accusant de félonie. Cette fois vous trouvez qu'ils ont dépassé les bornes et vous les attaquez."
+
+(69, 57, 0) ***Enchanter***
+Message:
+"Les enchanteurs du cercle de Myrddin vous provoquent en vous accusant de félonie. Cette fois vous trouvez qu'ils ont dépassé les bornes et vous les attaquez."
+
+(104, 40, 0) ***Sign***
+Message:
+"Nous réclamons le droit de faire parti du conseil royal, au même titre que les mages de guerre et les magiciens."		signé :  Le cercle de Myrddin
+
+(54, 46, 0) ***Sign***
+Message:
+"Donnez-nous des armes !"		signé :  Le cercle de Myrddin
+
+(90, 76, 0) ***Quest Guard***
+Message:
+"Je suis le gardien du tombeau d'un des anciens roi de Leinster. Si vous voulez rendre un dernier hommage à ce roi, il vous faudra vous débarasser des enchanteurs du cercle de Myrddin qui manifestent au nord de la ville de Bolg. Ces révolutionnaires troublent le sommeil de notre bon roi."
+"Les troubles persistent près de la ville de Kildare et personne n'a tenté d'arrêter les manifestants. Si vous voulez passer, faîtes quelque chose."
+"Vous avez rétabli l'ordre chevalier et notre bon roi qui dort d'un sommeil paisible vous remercie. Passez maintenant."
+
+(89, 77, 0) ***Boots of Polarity***
+Message:
+Une centaine d'Archers d'Elite veillent sur les Bottes de leur ancien roi. Allez-vous prendre les Bottes d'un mort ?
+
+(14, 70, 0) ***Enchanter***
+Message:
+"Les membres du cercle de Myrddin vous interdisent de passer tout en vous traitant de lâche. Vous n'hésitez pas un instant, et vous vous jetez sur eux."
+
+(98, 66, 0) ***Enchanter***
+Message:
+"Les membres du cercle de Myrddin vous interdisent de passer tout en vous traitant de lâche. Vous n'hésitez pas un instant, et vous vous jetez sur eux."
+
+(40, 56, 0) ***Sign***
+Message:
+"Enlevons leurs chaînes au Lutins, et traitons les comme des êtres humains."		signé :  Le cercle de Myrddin
+
+(85, 62, 0) ***Sign***
+Message:
+"Nous voulons plus de subventions de la part du conseil royal, afin de former plus de jeunes enchanteurs."		signé :  Le cercle de Myrddin
+
+(79, 62, 0) ***Seer's Hut***
+Message:
+"Avis de recherche à l'encontre de Fergus le chevalier de la mort résident au pays de l'Ulster. Une récompense de 50000 pièces d'or sera offerte à qui ramènera la tête du dit Fergus ; lequel s'est montré coupable de nombreux meurtres et viols sur des Celtes Goïdels."
+"Nous vous rappelons que 50000 pièces d'or seront offertes à qui ramènera la tête de Fergus le chevalier de la mort."
+"Félicitations ! Vous avez débarassé l'Irlande d'un homme cruel et sans pitié. Pour votre action nous sommes heureux de vous offrir cette somme d'argent."
+
+(17, 66, 0) ***Sign***
+Message:
+"Rassemblons toutes les richesses du pays, et distribuons-les en parts égales à tout le monde."		signé :  Le cercle de Myrddin
+
+(84, 80, 0) ***Sign***
+Message:
+"Eliminons les gens de plus de cinquante ans afin de dynamiser notre société agonisante."		signé :  Le cercle de Myrddin
+
+(75, 65, 0) ***Event***
+Message:
+"Attention ! En ouvrant ce passage, vous invitez l'envahisseur Cimbre à entrer dans votre royaume."
+
+(96, 63, 0) ***Event***
+Message:
+"Attention ! En ouvrant ce passage, vous invitez l'envahisseur Cimbre à entrer dans votre royaume."
+
+(1, 31, 0) ***Sea Captain's Hat***
+Message:
+Une cinquantaine d'Elémentaires de Tempête volent autour du Calot de Marin. Souhaitez-vous les attaquer ?
+
+(102, 29, 0) ***Necklace of Ocean Guidance***
+Message:
+Près d'une centaine d'Elémentaires de Tempête volent autour du Collier des Dauphins. Souhaitez-vous les attaquer ?
+
+(104, 27, 0) ***Event***
+Message:
+"Mon intuition me suggère de prendre le Collier des Dauphins. Il pourrait t'être utile plus tard."
+
+(51, 36, 0) ***Random Relic***
+Message:
+Une cinquantaine de Champions défendent cet objet magique. Voulez-vous combattre ?
+
+(94, 18, 0) ***Random Relic***
+Message:
+Cinq Dragons Féerique apparaissent pour défendre cet artefact. Allez-vous vous battre ?
+
+(19, 7, 0) ***Random Relic***
+Message:
+Deux Dragons Féeriques apparaissent pour défendre cet artefact. Allez-vous vous battre ?
+
+(42, 60, 0) ***Seer's Hut***
+Message:
+"Avis de recherche à l'encontre de Dwyn le belluaire résident au pays de l'Ulster. Une récompense de 50000 pièces d'or sera offerte à qui ramènera la tête du dit Dwyn ; lequel s'est montré coupable de nombreux meurtres et viols sur des Celtes Goïdels."
+"Nous vous rappelons que 50000 pièces d'or seront offertes à qui ramènera la tête de Dwyn le belluaire."
+"Félicitations ! Vous avez débarassé l'Irlande d'un homme cruel et sans pitié. Pour votre action nous sommes heureux de vous offrir cette somme d'argent."
+
+(34, 64, 0) ***Sign***
+Message:
+"Abolissons la pendaison et le bûcher."		signé :  Le cercle de Myrddin
+
+(82, 70, 0) ***Sign***
+Message:
+"Après la mort dans l'autre monde, seuls les enchanteurs et ceux qui les ont soutenus auront une douce vie."		signé :  Le cercle de Myrddin
+
+(16, 95, 0) ***Enchanter***
+Message:
+"Tandis que vous essayez de disperser les partisans du cercle de Myrddin, ces derniers brûlent l'étendard du royaume de Munster. Votre sang ne fait qu'un tour et vous les attaquer."
+
+(78, 102, 0) ***Enchanter***
+Message:
+"Tandis que vous essayez de disperser les partisans du cercle de Myrddin, ces derniers brûlent l'étendard du royaume de Munster. Votre sang ne fait qu'un tour et vous les attaquer."
+
+(99, 103, 0) ***Quest Guard***
+Message:
+"Je suis professeur de magie à Carrowmore et aussi gardien de cette tour. Je suis navré mais je ne pourrais vous laisser passer que quand vous aurez atteint 14 en puissance. A bientôt chevalier."
+"Je vous reconnais chevalier, mais je constate que vous n'avez pas encore atteint 14 en puissance. Revenez me voir plus tard."
+"Ah ! Je suis content de rencontrer un homme de grande expérience comme vous chevalier. Vous pouvez passer si vous le désirez."
+
+(99, 102, 0) ***Quest Guard***
+Message:
+"Bonjour étranger ! Cette taverne m'appartient mais elle est fermée. Et elle restera fermer tant que les membres du cercle de Myrddin manifesteront près de Carrowmore. Si vous pouviez faire quelque chose pour les chasser de la région, nous vous en serions très reconnaissant."
+"Nous sommes désolés mais la taverne est toujours fermée, suite aux désordres causés par les irresponsables membres du cercle de Myrddin. Les habitants de Carrowmore ont manifestés aujourd'hui pour protester contre les agissements honteux des enchanteurs."
+"Maintenant que vous avez vaincu les enchanteurs de Myrddin mon ami, vous pouvez venir étancher votre soif dans ma taverne."
+
+(68, 95, 0) ***Sign***
+Message:
+"Les femmes ne seront jamais admises dans le cercle de Myrddin."		signé :  Le cercle de Myrddin
+
+(16, 92, 0) ***Sign***
+Message:
+"Renversons les rois qui sont en place, et remplaçons-les par des sages."		signé :  Le cercle de Myrddin
+
+(35, 75, 0) ***Sign***
+Message:
+"Nous lançons un appel aux jeunes Celtes Goïdels d'Irlande. Rejoignez notre mouvement."		signé :  Le cercle de Myrddin
+
+(87, 22, 0) ***Event***
+Message:
+"Ce chemin te conduira hors du royaume de Munster."
+
+(52, 58, 0) ***Sign***
+Message:
+Province d'Argetlam
+
+(69, 61, 0) ***Sign***
+Message:
+Province de Ludgate
+
+(21, 73, 0) ***Sign***
+Message:
+Province de Kildare
+
+(18, 96, 0) ***Sign***
+Message:
+Province de Tallaght
+
+(88, 72, 0) ***Sign***
+Message:
+Province de Bolg
+
+(90, 92, 0) ***Sign***
+Message:
+Province de Carrowmore
+
+(50, 99, 0) ***Sign***
+Message:
+"L'argent fait le bonheur des Enchanteurs."		signé :  Le cercle de Myrddin
+
+(79, 16, 0) ***Sign***
+Message:
+"La connaissance est réservée à nos esprits supérieurs."		signé :  Le cercle de Myrddin
+
+(37, 10, 0) ***Sign***
+Message:
+"Les animaux sauvages sont comme les Enchanteurs, forts et épanouis."		signé :  Le cercle de Myrddin
+
+(51, 12, 0) ***Sign***
+Message:
+"Supprimons toutes les traditions de notre peuple, car elles sont un frein à notre développement intellectuel."		signé :  Le cercle de Myrddin
+
+(11, 37, 0) ***Ocean Bottle***
+Message:
+Fleuve Bovarène
+
+(100, 44, 0) ***Ocean Bottle***
+Message:
+Fleuve Bovarène
+
+(57, 8, 0) ***Battle Mage***
+Name:
+Kerridwen
+
+(54, 26, 0) ***Battle Mage***
+Name:
+Yspaddaden
+
+(97, 6, 0) ***Event***
+Message:
+"Ce chemin peux te conduire très rapidement dans les territoires occupés par l'ennemi."
+
+(104, 5, 0) ***Dungeon***
+Name:
+Brannovices
+
+Visiting Warlock:
+Name:
+Angus
+
+(103, 7, 0) ***Warlock***
+Name:
+Goll
+
+(104, 6, 0) ***Wizard***
+Name:
+Cormac
+
+(105, 9, 0) ***Wizard***
+Name:
+Môrna
+
+(6, 38, 0) ***Sign***
+Message:
+"Nous voulons être payer comme les mages de guerre et les magiciens."		signé :  Le cercle de Myrddin
+
+(3, 8, 0) ***Enchanter***
+Message:
+"Vous tentez de calmer les manifestants du cercle de Myrddin, mais ces derniers ne veulent rien entendre et dans la confusion une bagarre générale éclate."
+
+(8, 51, 0) ***Random Major Artifact***
+Message:
+Une vingtaine d'Archers d'Elite protègent cet artefact. Que voulez-vous faire ?
+
+(100, 36, 0) ***Seer's Hut***
+Message:
+"J'ai l'impression que tu t'es égaré mon ami. Eh bien ! Si tu t'ennuies, tu pourrais chercher pour moi les Bottes du Passeur. Rapporte-les-moi et je te ferais progresser."
+"Comment-vas-tu mon ami ? As-tu cherché les Bottes du Passeur pour moi ? N'oublies-pas que tu auras une belle récompense."
+"Bravo mon ami ! Tu me rapportes enfin les Bottes du Passeur. Approche que je t'instruise."
+
+(68, 32, 0) ***Event***
+Message:
+"Cette tente t'ouvrira les portes d'autres royaumes."
+
+(71, 59, 0) ***Event***
+Message:
+"Si un jour les Cimbres envahissent le pays voisin de Leinster, ils apprendront très vite des sorts de magie élémentaires."
+
+(16, 103, 0) ***Quest Guard***
+Message:
+"Je suis professeur de magie à Tallaght et aussi gardien de cette tour. Je suis navré mais je ne pourrais vous laisser passer que quand vous aurez atteint 10 en puissance. A bientôt chevalier !"
+"Je vous reconnais chevalier, mais je constate que vous n'avez pas encore atteint 10 en puissance. Revenez me voir plus tard."
+"Ah ! Je suis content de rencontrer un homme de grande expérience comme vous chevalier. Vous pouvez passer si vous le désirez."
+
+(100, 10, 0) ***Enchanter***
+Message:
+"Vous tentez de calmer les manifestants du cercle de Myrddin, mais ces derniers ne veulent rien entendre et dans la confusion une bagarre générale éclate."
+
+(57, 40, 0) ***Event***
+Message:
+Vous continuez d'avancer malgré l'avertissement de la sirène. Soudain, plusieurs monstres marins se glissent à bord et vous attaquent.
+
+(57, 41, 0) ***Event***
+Message:
+Vous apercevez une sirène assise sur un rocher. Elle vous laisse approcher, mais vous prévient que les eaux de ce canal sont infestées de serpents de mer.
+
+(105, 13, 0) ***Sign***
+Message:
+"Nous voulons un partage équitable de la nourriture dans le royaume. Certains Celtes n'ont pas de quoi manger."		signé :  Le cercle de Myrddin
+
+(107, 97, 0) ***Enchanter***
+Message:
+Vous tentez encore une fois de raisonner les enchanteurs du Cercle de Myrddin. Pour toute réponse vous n'entendez qu'une pluie d'insultes. Vous décidez de les attaquer une fois de plus.
+
+(104, 106, 0) ***Event***
+Message:
+Devant la Tour Lumineuse se tient le gardien de l'école de Magie. Vous lui demandez s'il sait où sont retenues les Féticheuses.		"Je ne suis pas sûr messire, répond-il. Mais si les Enchanteurs ne les ont pas fait disparaître, elles sont probablement enfermées dans la caverne."
+
+(89, 8, 0) ***Pandora's Box***
+Message:
+Un vieux Shaman vous conseille vivement de vous emparer de l'Arc Elfique, et surtout, de le conserver précieusement avec vous quoi qu'il arrive.		Près de 150 Elfes gardent l'Arc Elfique, symbole de leur race. Que voulez-vous faire ? 
+
+(64, 90, 0) ***Ocean Bottle***
+Message:
+
+
+(39, 86, 0) ***Prison***
+Name:
+Balor
+
+(102, 94, 0) ***Sign***
+Message:
+Ecole de Magie d'Alcystère
+
+(98, 97, 0) ***Sign***
+Message:
+"Rendons-nous aux Celtes Cimbres et le sang ne coulera plus."		signé :  Le cercle de Myrddin
+
+(104, 96, 0) ***Event***
+Message:
+Un emissaire du Roi chargé de trouver un accord avec les manifestants vient à votre rencontre.		 "Mon seigneur, les membres du Cercle de Myrddin retiennent de force les Féticheuses de Brannovices  dans cette école de Magie. Si vous les libérez, leur puissante armée sera à vos ordres.  La caverne d'Alcystère vous fournira ensuite chaque premier jour de la semaine les nouvelles magiciennes du pays."
+
+(88, 28, 0) ***Event***
+Message:
+Juste après votre victoire contre les monstres qui terrorisaient les habitants de Fâl, l'administrateur du village vous reçoit avec les honneurs.		"Soyez béni chevalier. Voici 5 Oiseaux de Feu que nous avions caché dans l'espoir de sauver cette espèce menacée. Faites en sorte qu'ils se reproduisent en grand nombre pour la renommée de Fâl et pour le roi."
+
+(19, 27, 0) ***Event***
+Message:
+Juste après votre victoire contre les monstres qui terrorisaient les habitants de Gavra, l'administrateur du village vous reçoit avec les honneurs.		"Soyez béni chevalier. Voici 5 Oiseaux de Feu que nous avions caché dans l'espoir de sauver cette espèce menacée. Faites en sorte qu'ils se reproduisent en grand nombre pour la renommée de Gavra et pour le roi."
+
+(27, 23, 0) ***Seer's Hut***
+Message:
+Vous entrez dans la Hutte de Palfagor, l'un des plus célèbres magicien de Munster. A ses côtés se tiennent 8 Titans impressionnants. 		"Tu sembles épuisé chevalier, et pourtant la guerre avec les Cimbres ne fait que commencer. Mais je peux te venir en aide. Que dirais-tu d'avoir à ton service ces 8 Titans ? Il te suffit pour cela de me fournir un certain nombre de ressources, dont j'ai grand besoin pour poursuivre mes recherches."
+"Oh là chevalier, tu ne t'es toujours pas décidé ? Je sais que les ressources sont rares, mais je ne baisserais pas mon prix. Mes 8 Titans sont prêts à te rejoindre."
+"Je savais que tu m'apporterais les précieuses ressources que je demandais. Va servir notre cause, et bonne chance."
+
+(82, 23, 0) ***Seer's Hut***
+Message:
+Vous entrez dans la Hutte de Baltix, l'un des plus célèbres magicien de Munster. A ses côtés se tiennent 8 Dragons Noirs impressionnants. 		"Tu sembles épuisé chevalier, et pourtant la guerre avec les Cimbres ne fait que commencer. Mais je peux te venir en aide. Que dirais-tu d'avoir à ton service ces 8 Dragons Noirs ? Il te suffit pour cela de me fournir un certain nombre de ressources, dont j'ai grand besoin pour poursuivre mes recherches."
+"Oh là chevalier, tu ne t'es toujours pas décidé ? Je sais que les ressources sont rares, mais je ne baisserais pas mon prix. Mes 8 Dragons Noirs sont prêts à te rejoindre."
+"Je savais que tu m'apporterais les précieuses ressources que je demandais. Va servir notre cause, et bonne chance."
+
+(84, 58, 0) ***Seer's Hut***
+Message:
+Bonjour l'ami. Je m'appele Octo, et je possède un breuvage capable de te rendre beaucoup plus fort. Mais je me fais vieux et je ne me sens plus en sécurité à Leinster. J'aurais besoin d'un Dragon Noir pour me protéger. C'est bien peu de chose en échange de ce que tu gagnes.
+Tu n'es toujours pas décidé à accepter ma proposition ? Un Dragon Noir c'est tout ce que je demande, même très vieux. Peu importe, du moment qu'il me soit fidèle et me protège. 
+Enfin, un chevalier qui pense aux anciens. Tiens, bois ce breuvage. Et merci pour le Dragon Noir.
+
+(86, 3, 0) ***Quest Guard***
+Message:
+"Bonjour chevalier ! Je suis Fabricien, magicien à la retraite et gardien du temple de Brannovices. Je suis désolé, mais je ne peux laisser passer que les chevaliers qui feront don d'un Dragon Azur aux moines du monastère."
+"Est-ce que vous revenez avec un Dragon Azur chevalier ? Non ? Alors je ne peux pas vous laisser passer."
+"Ah c'est vous chevalier ! Vous nous ramenez enfin un Dragon Azur. Passez, les moines seront ravis de vous recevoir."
+
+(65, 18, 0) ***Event***
+Message:
+Soudain, une horrible sorcière apparait devant vous. Elle vous jette un flacon que vous ne pouvez éviter, et qui se brise au contact de votre armure.
+
+(56, 3, 0) ***Event***
+Message:
+Alors que vous chevauchez à bonne allure, une armée de morts-vivants émerge des entrailles de la terre. Vous ne pouvez éviter le combat.
+
+(17, 23, 1) ***Inferno***
+Name:
+Caer Lûdd
+
+Visiting Demoniac:
+Name:
+Arianrod
+
+(39, 20, 1) ***Inferno***
+Name:
+Tir Nan Og
+
+Timed events:
+
+Name:
+Maison d'Archidiables
+Message:
+Construction de demeure d'Archidiables achevée
+
+(73, 75, 1) ***Necropolis***
+Name:
+Fork
+
+Timed events:
+
+Name:
+Maison de Dragons Fantômes
+Message:
+Construction de demeure de Dragons Fantômes achevée
+
+(92, 86, 1) ***Necropolis***
+Name:
+Noves
+
+Timed events:
+
+Name:
+Maison de Dragons Fantômes
+Message:
+Construction de demeure de Dragons Fantômes achevée
+
+(82, 98, 1) ***Necropolis***
+Name:
+Mag Mel
+
+Visiting Death Knight:
+Name:
+Fergus
+
+(44, 4, 1) ***Tower***
+Name:
+Enez Sizun
+
+(58, 4, 1) ***Dungeon***
+Name:
+Doltander
+
+Visiting Warlock:
+Name:
+Agthor
+
+(23, 76, 1) ***Fortress***
+Name:
+Machavair
+
+Timed events:
+
+Name:
+Maison de Pyrohydres
+Message:
+Construction de demeure de Pyrohydres achevée
+
+(12, 100, 1) ***Fortress***
+Name:
+Amergin
+
+Timed events:
+
+Name:
+Maison de Pyrohydres
+Message:
+Construction de demeure de Pyrohydres achevée
+
+(5, 85, 1) ***Fortress***
+Name:
+Conchobar
+
+Visiting Beastmaster:
+Name:
+Dwyn
+
+(9, 65, 1) ***Fortress***
+Name:
+Tène
+
+Timed events:
+
+Name:
+Maison de Pyrohydres
+Message:
+Construction de demeure de Pyrohydres achevée
+
+(86, 26, 1) ***Castle***
+Name:
+Ventry
+
+Timed events:
+
+Name:
+Maison d'Archanges
+Message:
+Construction de demeure d'Archanges achevée
+
+(68, 4, 1) ***Castle***
+Name:
+Niève
+
+Timed events:
+
+Name:
+Maison d'Archanges
+Message:
+Construction de demeure d'Archanges achevée
+
+(81, 9, 1) ***Castle***
+Name:
+Cnucha
+
+Visiting Knight:
+Name:
+Taran
+
+(50, 8, 1) ***Quest Guard***
+Message:
+"Bonjour ami chevalier... Comment... vas-tu... ? Comme tu... peux le voir... je suis un très... vieil homme... Je ne survis que... parce que... je mange de la soupe... de Dragon... Azur... que je prépare moi-même... Trouve-moi... trois Dragons Azur... et je t'offrirai la plus... fabuleuse épée qui soit."
+"Bonjour... mon ami... Il me faut toujours... 3 Dragons... Azur... Mon offre tient...  toujours... Tu pourras même manger... de la... soupe avec moi... Et une fois que tu... auras l'Epée de l'Apocalypse... tu seras... invincible !"
+"Oh... merci mon bon... chevalier... Je vais tout de suite... préparer... une bonne... soupe... Tu peux... t'emparer... de l'Epée à présent."
+
+(42, 77, 1) ***Quest Guard***
+Message:
+"Je suis un ancien marin à la retraite et j'ai perdu un jour un objet auquel je tenais particulièrement. Si vous retrouvez pour moi le Collier des Dauphins, je vous laisserais entrer dans la ville de Mayo."
+"Toutes les richesses de Mayo seront à vous, si vous retrouvez le Collier des Dauphins pour moi. Cherchez encore."
+"Vous avez retrouvé mon Collier des Dauphins ? Donnez-le moi et vous pourrez passer."
+
+(46, 77, 1) ***Quest Guard***
+Message:
+"Nous sommes plusieurs chevaliers à la retraite qui avons décidé de nous installer sur ces plaines magiques. Désolé mais nous ne pouvons laisser passer un chevalier qui a moins de 22 en puissance. Partez acquérir l'expérience qui vous manque, puis revenez nous voir."
+"Oui... Vous êtes beaucoup plus fort que la dernière fois que nous vous avons vu, mais pas encore assez. Vous devez atteindre 22 en puissance pour espérer passer de l'autre côté de ce poste de garde."
+"Aujourd'hui, vous êtes sans aucun doute l'un des chevaliers les plus fort en magie d'Irlande. Vous pouvez passer sir chevalier."
+
+(48, 79, 1) ***Quest Guard***
+Message:
+"Je suis un ancien marin à la retraite et j'ai perdu un jour un objet auquel je tenais particulièrement. Si vous retrouvez pour moi le Calot de Marin, je vous laisserais entrer dans la ville d'Indech."
+"Toutes les richesses d'Indech seront à vous, si vous retrouvez le Calot de Marin pour moi. Cherchez encore."
+"Vous avez retrouvé mon Calot de Marin ? Donnez-le moi et vous pourrez passer."
+
+(42, 72, 1) ***Dungeon***
+Name:
+Mayo
+
+(51, 74, 1) ***Tower***
+Name:
+Indech
+
+(47, 72, 1) ***Pandora's Box***
+Message:
+Une vingtaine de Titans gardent cette cuirasse, symbole de leur puissance. Voulez-vous tenter votre chance contre les Titans ?
+
+(20, 25, 1) ***Demoniac***
+Name:
+Cernunnos
+
+(18, 24, 1) ***Heretic***
+Name:
+Trikaranos
+
+(13, 27, 1) ***Heretic***
+Name:
+Grannus
+
+(23, 22, 1) ***Demoniac***
+Name:
+Cybèle
+
+(22, 23, 1) ***Heretic***
+Name:
+Dé Danann
+
+(18, 29, 1) ***Demoniac***
+Name:
+Fand
+
+(82, 12, 1) ***Knight***
+Name:
+Nantosuelta
+
+(80, 10, 1) ***Cleric***
+Name:
+Silvanus
+
+(77, 9, 1) ***Knight***
+Name:
+Ailill
+
+(82, 15, 1) ***Cleric***
+Name:
+Caturix
+
+(85, 16, 1) ***Cleric***
+Name:
+Rosmerta
+
+(6, 86, 1) ***Witch***
+Name:
+Medrawt
+
+(85, 93, 1) ***Death Knight***
+Name:
+Cûchullain
+
+(88, 100, 1) ***Death Knight***
+Name:
+Brandegore
+
+(79, 98, 1) ***Death Knight***
+Name:
+Milé
+
+(83, 99, 1) ***Necromancer***
+Name:
+Sérapis
+
+(85, 96, 1) ***Necromancer***
+Name:
+Pwyll
+
+(79, 96, 1) ***Necromancer***
+Name:
+Scathach
+
+(29, 5, 1) ***Inferno***
+Name:
+Kerridwen
+
+Timed events:
+
+Name:
+Maison d'Archidiables
+Message:
+Construction de demeure d'Archidiables achevée
+
+(33, 15, 1) ***Prison***
+Name:
+Conlach
+
+(73, 8, 1) ***Knight***
+Name:
+Sirona
+
+(78, 23, 1) ***Prison***
+Name:
+Nemsus
+
+(7, 81, 1) ***Prison***
+Name:
+Némon
+
+(9, 84, 1) ***Beastmaster***
+Name:
+Gwalchaved
+
+(6, 97, 1) ***Witch***
+Name:
+Lug
+
+(45, 92, 1) ***Prison***
+Name:
+Tarvos
+
+(96, 70, 1) ***Necropolis***
+Name:
+Sucellus
+
+Timed events:
+
+Name:
+Maison de Dragons Fantômes
+Message:
+Construction de demeure de Dragons Fantômes achevée
+
+(99, 93, 1) ***Prison***
+Name:
+Mac Cumhail
+
+(52, 37, 1) ***Prison***
+Name:
+Gwyn Ab Nudd
+
+(60, 63, 1) ***Seer's Hut***
+Message:
+"Bonjour chevalier ! J'ai besoin de toute urgence de 1000 unités de bois, 1000 unités de pierre, 730 unités de mercure, 730 unités de cristaux, 730 unités de gemmes, et 730 unités de souffre. Je suis alchimiste et je passe mon temps à tenter de créer de nouveaux matériaux. Je sais que les Trolls qui se trouvent en face de la plage possèdent de grandes richesses."
+"Vous n'apportez-pas suffisamment de ressources chevalier. Je vous rappelle que j'ai besoin de 1000 unités de bois, 1000 unités de pierre, 730 unités de mercure, 730 unités de cristaux, 730 unités de gemmes, et 730 unités de souffre."
+"Ah enfin ! Donnez-moi vite ces ressources dont j'ai tant besoin, et prenez ces Dragons Azur ils sont pour vous."
+
+(5, 9, 1) ***Prison***
+Name:
+Ferdiad
+
+(101, 4, 1) ***Prison***
+Name:
+Ogmé
+
+(82, 68, 1) ***Sign***
+Message:
+Pays de l'Ulster de l'est
+
+(29, 71, 1) ***Sign***
+Message:
+Pays de l'Ulster de l'ouest
+
+(48, 103, 1) ***Sign***
+Message:
+Pays de l'Ulster de l'est
+
+(8, 8, 1) ***Sign***
+Message:
+Extrémité occidentale de Munster
+
+(95, 9, 1) ***Sign***
+Message:
+Extrémité orientale de Munster
+
+(27, 42, 1) ***Sign***
+Message:
+Pays de Connaught ouest
+
+(42, 18, 1) ***Sign***
+Message:
+Pays de Connaught ouest
+
+(38, 6, 1) ***Sign***
+Message:
+Pays de Connaught ouest
+
+(89, 24, 1) ***Sign***
+Message:
+Pays de Connaught est
+
+(69, 8, 1) ***Sign***
+Message:
+Pays de Connaught est
+
+(98, 54, 1) ***Sign***
+Message:
+Pays des Morts
+
+(5, 53, 1) ***Sign***
+Message:
+Pays des Morts
+
+(61, 24, 1) ***Sign***
+Message:
+Pays des Fénians
+
+(49, 89, 1) ***Tome of Earth Magic***
+Message:
+A peine avez-vous touché le livre de Cian, que près de deux cent gardiens de la terre se matérialisent devant vous. Que voulez-vous faire ? 
+
+(49, 90, 1) ***Quest Guard***
+Message:
+"Bonjour étranger ! Je sais pourquoi vous êtes ici et je sais ce que vous pensez. Vous espérez que je vais vous donner ce que vous voulez sans rien vous demander en retour. Mais au pays d'Ossian on a rien sans rien. Apportez-moi 10 de vos merveilleux Phénix, et vous aurez ce que vous voulez."
+"Je ne vois aucun Phénix avec vous étranger. Repassez-donc me voir dans quelques jours."
+"Vous m'avez ramener enfin les Phénix que j'attendais. Allez, vous avez l'autorisation de passer."
+
+(52, 4, 1) ***Pandora's Box***
+Message:
+"Le magicien Cian nous a confié cette Epée avant de mourir. Et nous la défendrons jusqu'à la mort s'il le faut, parce qu'il a sauvé la vie à tous les habitants de Fianna."
+
+(50, 4, 1) ***Prison***
+Name:
+Gantien
+
+(71, 21, 1) ***Prison***
+Name:
+Géryon
+
+(15, 28, 1) ***Heretic***
+Name:
+Gwydion
+
+(75, 9, 1) ***Cleric***
+Name:
+Dunatès
+
+(58, 30, 1) ***Quest Guard***
+Message:
+"Bonjour étranger ! Je m'appelle Oygus, et je suis le trésorier des Celtes Cimbres de cette région. Je ne laisserais passer personne tant que je n'aurais pas reçu 60 unités de bois, 60 unités de pierre, 30 unités de mercure, 30 unités de cristaux, 30 unités de gemmes, 30 unités de souffre, et 70000 pièces d'or."
+"La taxe dont vous devez vous acquitter pour entrer dans ce pays est de 60 unités de bois, 60 unités de pierre, 30 unités de mercure, 30 unités de cristaux, 30 unités de gemmes, 30 unités de souffre, et 70000 pièces d'or."
+"Je vois qu'aujourd'hui vous avez de quoi régler la taxe qu'on vous réclame ici. Voulez-vous la payer et passer ?"
+
+(66, 51, 1) ***Quest Guard***
+Message:
+"Etranger, soit le bienvenu dans ma tour. Je demande à tous les chevaliers de passage de me rapporter les Bottes du Tigre. Mais jusqu'ici, aucun d'eux n'est revenu me voir."
+"Les Bottes du Tigre restent introuvables n'est-ce pas ? J'ai entendu dire qu'elles se trouvaient peut-être près de Bolg."
+"Les Bottes du Tigre sont enfin à moi ! Si tu veux, tu peux passer maintenant."
+
+(64, 50, 1) ***Emblem of Cognizance***
+Message:
+Une douzaine d'Archidiables protègent cet artefact. Voulez-vous les attaquer ?
+
+(45, 7, 1) ***Event***
+Message:
+L'administrateur d'Enez Sizun réclame ses impôts !
+
+(56, 7, 1) ***Event***
+Message:
+L'administrateur de Doltander réclame ses impôts !
+
+(42, 76, 1) ***Event***
+Message:
+L'administrateur de Mayo réclame ses impôts !
+
+(49, 79, 1) ***Event***
+Message:
+L'administrateur d'Indech réclame ses impôts !
+
+(77, 58, 1) ***Quest Guard***
+Message:
+"Vous voulez sans doute connaître le mot de passe qu'on tient secret à l'intérieur de cette tente rouge. Rien de plus facile, il vous suffit de m'apporter un Dragon Féerique."
+"Vous n'aurez pas le mot de passe tant que je n'aurais pas un Dragon Féerique. Repartez !"
+"Enfin vous êtes de retour avec le Dragon Féerique que je vous avais demandé. A présent, vous pouvez vous rendre à l'intérieur de la tente pour connaître le mot de passe."
+
+(36, 63, 1) ***Quest Guard***
+Message:
+"Vous voulez sans doute connaître le mot de passe qu'on tient secret à l'intérieur de cette tente rouge. Rien de plus facile, il vous suffit de m'apporter un Dragon Féerique."
+"Vous n'aurez pas le mot de passe tant que je n'aurais pas un Dragon Féerique. Repartez !"
+"Enfin vous êtes de retour avec le Dragon Féerique que je vous avais demandé. A présent, vous pouvez vous rendre à l'intérieur de la tente pour connaître le mot de passe."
+
+(35, 62, 1) ***Event***
+Message:
+"Saches qu'en ouvrant ce passage, tu risques de donner un avantage important à l'ennemi, si toutefois celui-ci parvient à ouvrir la porte rouge avant toi."
+
+(77, 59, 1) ***Event***
+Message:
+"Saches qu'en ouvrant ce passage, tu risques de donner un avantage important à l'ennemi, si toutefois celui-ci parvient à ouvrir la porte rouge avant toi."
+
+(53, 76, 1) ***Enchanter***
+Message:
+"Les enchanteurs continuent de vous insulter tout en vous jetant des pierres. Cette fois vous trouvez que c'en est trop, et vous foncez sur eux en les traitant de mauviettes."
+
+(39, 74, 1) ***Enchanter***
+Message:
+"Les enchanteurs continuent de vous insulter tout en vous jetant des pierres. Cette fois vous trouvez que c'en est trop, et vous foncez sur eux en les traitant de femmelettes."
+
+(32, 97, 1) ***Quest Guard***
+Message:
+"Les membres du cercle de Myrddin ont pris en otage la ville de Mayo et ils réclament une pension pour les enchanteurs à la retraite. Débarassez-nous de ces dangereux extrémistes avant qu'il ne soit trop tard, et je vous offrirai une Couronne."
+"Les enchanteurs de l'ordre de Myrddin sont toujours là. Les Mayorins ne supportent plus d'être séquestrés ainsi. Faîtes quelque chose pour eux."
+"Les habitants de Mayo vous remercient d'avoir chasser les fauteurs de troubles du cercle de Myrddin. Je vous avais promis une Couronne, la voici."
+
+(31, 82, 1) ***Crown of Dragontooth***
+Message:
+Environ deux cent Grands Arbalétriers protègent cette Couronne. Voulez-vous les affronter ?
+
+(31, 83, 1) ***Quest Guard***
+Message:
+"Les membres du cercle de Myrddin ont pris en otage la ville d'Indech et ils réclament une pension pour les enchanteurs à la retraite. Débarassez-nous de ces dangereux extrémistes avant qu'il ne soit trop tard, et je vous offrirai une Couronne."
+"Les enchanteurs de l'ordre de Myrddin sont toujours là. Les Indechois ne supportent plus d'être séquestrés ainsi. Faîtes quelque chose pour eux."
+"Les habitants d'Indech vous remercient d'avoir chasser les fauteurs de troubles du cercle de Myrddin. Je vous avais promis une Couronne, la voici."
+
+(36, 79, 1) ***Sign***
+Message:
+"Arrêtons de manger du boeuf et du cochon, car ces habitudes alimentaires affectent notre moral."		signé :  Le cercle de Myrddin
+
+(40, 95, 1) ***Sign***
+Message:
+"Jusqu'à quand accepterons-nous d'être dominer par une poignée de magiciens et de mages de guerre."		signé :  Le cercle de Myrddin
+
+(31, 96, 1) ***Crown of Dragontooth***
+Message:
+Environ deux cent Grands Arbalétriers protègent cette Couronne. Voulez-vous les affronter ?
+
+(71, 11, 1) ***Quest Guard***
+Message:
+"Je suis Afnès le plus fameux alchimiste de Connaught et je te souhaite la bienvenue dans mon laboratoire. J'ai en ma possession un objet fabuleux ; le Saint Graal. Je suis disposé à te le donner, à condition que tu me ramènes 3 Dragons Corrosifs. J'en ai besoin pour continuer à fabriquer du souffre."
+"Je te rappelle chevalier que j'ai besoin de 3 Dragons Corrosifs pour fabriquer du souffre. Rapportes-les-moi car sinon, tu ne mérites pas de recevoir le Saint Graal."
+"Enfin ce que j'attendais. Maintenant creuse derrière mon laboratoire, et tu découvrira le Saint Graal."
+
+(57, 16, 1) ***Sign***
+Message:
+Le magicien Gantien et un groupe d'Enchanteurs opposés au cercle de Myrddin sont retenus prisonniers pas loin d'ici.
+
+(59, 63, 1) ***Sign***
+Message:
+Entrée du pays d'Ossian
+
+(57, 33, 1) ***Sign***
+Message:
+Entrée du pays des Fénians
+
+(14, 53, 1) ***Sign***
+Message:
+Au nord :  pays de Connaught	Au sud :  pays d'Ulster
+
+(95, 55, 1) ***Sign***
+Message:
+Au nord :  pays de Connaught	Au sud :  pays d'Ulster
+
+(54, 59, 1) ***Sign***
+Message:
+Au nord :  pays de Connaught et pays des Fénians	Au sud :  pays d'Ulster et pays d'Ossian
+
+(18, 44, 1) ***Sign***
+Message:
+"Nous voulons payer moins d'impôts."		signé :  Le cercle de Myrddin
+
+(27, 33, 1) ***Sign***
+Message:
+"Nous voulons des carottes et des salades pour nos chevaux."		signé :  Le cercle de Myrddin
+
+(41, 45, 1) ***Sign***
+Message:
+"Développons les arts de la peinture et de la sculpture."		signé :  Le cercle de Myrddin
+
+(53, 39, 1) ***Sign***
+Message:
+"Nous voulons que des Enchanteurs soient membres du conseil royal."		signé :  Le cercle de Myrddin
+
+(78, 42, 1) ***Sign***
+Message:
+"Nous devons produire plus de fruits et de légumes pour supprimer la famine."		signé :  Le cercle de Myrddin
+
+(102, 55, 1) ***Event***
+Message:
+Venus tout droit de sous la terre, des Zombis au regard sans expression et haletants, se jetent sur vous.
+
+(4, 51, 1) ***Event***
+Message:
+Venus tout droit de sous la terre, des Zombis au regard sans expression et haletants, se jetent sur vous.
+
+(29, 58, 1) ***Event***
+Message:
+Des Grandes Liches émergent de sous la terre, et vous attaquent en poussant des cris à peine audibles.
+
+(81, 61, 1) ***Event***
+Message:
+Des Grandes Liches émergent de sous la terre, et vous attaquent en poussant des cris à peine audibles.
+
+(55, 60, 1) ***Event***
+Message:
+Les ossements qui jonchent le sol s'envolent devant vous, puis s'assemblent pour former des Dragons Squelettes.
+
+(92, 44, 1) ***Sign***
+Message:
+"Supprimons les écoles classiques et remplaçons-les par des écoles de magie."		signé :  Le cercle de Myrddin
+
+(9, 100, 1) ***Sign***
+Message:
+Pays de l'Ulster de l'ouest
+
+(60, 82, 1) ***Event***
+Message:
+Vous naviguez toutes voiles dehors et vous vous reposez à bord de votre bateau, quand soudain descendant du ciel à toute vitesse, des Dragons Azur vous attaquent.
+
+(59, 94, 1) ***Troll***
+Message:
+Après ce combat extraordinaire les Trolls s'adressent à vous :		"D'un côté nous sommes admiratifs devant le courage dont vous venez de faire preuve, et d'un autre côté nous vous détestons parce que vous êtes beau et nous non. Donc, préparez-vous à mourir."
+
+(59, 95, 1) ***Angel Wings***
+Message:
+Douze Anges gardiens veillent sur ces ailes. Voulez-vous les combattre ?
+
+(57, 92, 1) ***Quest Guard***
+Message:
+"Je suis un vieux Troll comme vous pouvez le voir cher aventurier. Je ne peux pas vous laisser passer tant que vous ne m'aurez pas apporter l'Arc Elfique, arme symbolique de nos ennemis mortels les Elfes."
+"L'Arc Elfique cher aventurier. C'est l'arme que je veux et pas une autre."
+"Vous avez avec vous l'Arc Elfique. Donnez-le moi cher aventurier, et je vous laisserais passer."
+
+(31, 101, 1) ***Event***
+Message:
+Inquiet vous scrutez le ciel et soudain vous entendez derrière vous un battement d'ailes impressionnant. Vous vous retournez pour faire face à une attaque de Dragons Azur.
+
+(51, 11, 1) ***Event***
+Message:
+Le ciel est sombre et menaçant et le vent souffle violemment. Vous pressentez un grand danger tout autour de vous. Vous apercevez tout à coup de grands oiseaux sombres descendre des hautes montagnes enneigées. Ils se rapprochent, et c'est alors que vous constatez avec effroi que ce sont des Dragons Corrosifs.
+
+(58, 18, 1) ***Event***
+Message:
+"Fais très attention ! Je flaire l'odeur de répugnants Dragons."
+
+(89, 83, 1) ***Sign***
+Message:
+"Vivons autrement en nous débarassant de ces fripes que nous portons sur le dos. Vivons tout nus."		signé :  Le cercle de Myrddin
+
+(9, 79, 1) ***Sign***
+Message:
+"Arrêtons de faire nos besoins urgents au bord des lacs et des rivières. Battons-nous pour avoir des eaux propres."		signé :  Le cercle de Myrddin
+
+(30, 17, 1) ***Sign***
+Message:
+"Gracions tous les criminels qui sont en prison."		signé :  Le cercle de Myrddin
+
+(79, 19, 1) ***Sign***
+Message:
+"Lisons et relisons les recommandations que notre maître Myrddyn a écrit dans ses 160 ouvrages."		signé :  Le cercle de Myrddin
+
+(24, 17, 1) ***Quest Guard***
+Message:
+"Mon bon chevalier, je vous en prie, sauvez les habitants de la ville de Tir Nan Og, car ils sont en danger. Les Enchanteurs du cercle de Myrddin commettent des violences sur ces gens. Tuez-les et vous aurez mon Bouclier."
+"Plusieurs habitants de Tir Nan Og ont succombés encore aujourd'hui. Mon bon chevalier, détruisez les Enchanteurs du cercle de Myrddin."
+"Merci mon bon chevalier d'avoir débarasser le monde de ces maudits Enchanteurs. Mon Bouclier est à vous."
+
+(79, 17, 1) ***Quest Guard***
+Message:
+"Mon bon chevalier, je vous en prie, sauvez les habitants de la ville de Ventry, car ils sont en danger. Les Enchanteurs du cercle de Myrddin commettent des violences sur ces gens. Tuez-les et vous aurez mon Bouclier."
+"Plusieurs habitants de Ventry ont succombés encore aujourd'hui. Mon bon chevalier, détruisez les Enchanteurs du cercle de Myrddin."
+"Merci mon bon chevalier d'avoir débarasser le monde de ces maudits Enchanteurs. Mon Bouclier est à vous."
+
+(82, 24, 1) ***Enchanter***
+Message:
+"Les membres du cercle de Myrddyn sont en train de frapper les habitants innocents de Ventry. Ecoeuré par ces violences gratuites, vous n'hésitez pas à les attaquer."
+
+(41, 18, 1) ***Enchanter***
+Message:
+"Les membres du cercle de Myrddin sont en train de frapper les habitants innocents de Tir Nan Og. Ecoeuré par ces violences gratuites, vous n'hésitez pas à les attaquer."
+
+(24, 18, 1) ***Lion's Shield of Courage***
+Message:
+Une centaine de Scorpicores surveillent ce Bouclier. Voulez-vous les affronter ?
+
+(63, 42, 1) ***Sign***
+Message:
+Pays de Connaught est
+
+(21, 82, 1) ***Quest Guard***
+Message:
+"Je te salue étranger ! Je suis un guerrier et je voudrais bien commander mon armée ; alors, si tu pouvais me ramener 20 Elémentaires de Magie, je serais parfaitement heureux. Mon ami qui se trouve dans cette hutte là derrière, t'apprendrais des choses en échange de ces troupes."
+"Tu ne m'a pas encore ramener les 20 Elémentaires de Magie que je t'ai demandé. Repars les chercher."
+"Ah ! Je suis content, je vais enfin pouvoir commander à mon armée. Je te laisse passer à présent."
+
+(99, 69, 1) ***Quest Guard***
+Message:
+"Je te salue étranger ! Je suis un guerrier et je voudrais bien commander mon armée ; alors, si tu pouvais me ramener 20 Elémentaires de Magie, je serais parfaitement heureux. Mon ami qui se trouve dans cette hutte là derrière, t'apprendrais des choses en échange de ces troupes."
+"Tu ne m'a pas encore ramener les 20 Elémentaires de Magie que je t'ai demandé. Repars les chercher."
+"Ah ! Je suis content, je vais enfin pouvoir commander à mon armée. Je te laisse passer à présent."
+
+(79, 92, 1) ***Necromancer***
+Name:
+Rhiannon
+
+(73, 81, 1) ***Sign***
+Message:
+"Développons l'industrie du bois en rasant les forêts."		signé : Le cercle de Myrddin
+
+(10, 66, 1) ***Sign***
+Message:
+"Nous voulons que n'importe quel jeune ait les moyens de se payer un char."		signé :  Le cercle de Myrddin
+
+(14, 93, 1) ***Sign***
+Message:
+"Fumons tous du Moyoc, c'est excellent pour la santé."		signé :  Le cercle de Myrddin
+
+(75, 101, 1) ***Sign***
+Message:
+"La fin du monde est proche."		signé :  Le cercle de Myrddin
+
+(27, 6, 1) ***Sign***
+Message:
+"Les Enchanteurs sont les seuls à être véritablement instruits."		signé :  Le cercle de Myrddin
+
+(12, 28, 1) ***Sign***
+Message:
+"Nous voulons rendre le port de la robe obligatoire pour tous."		signé :  Le cercle de Myrddin
+
+(93, 27, 1) ***Sign***
+Message:
+"Lisez la Gazette des Enchanteurs pour vous tenir au courant de l'actualité irlandaise."		signé :  Le cercle de Myrddin
+
+(66, 5, 1) ***Sign***
+Message:
+"Libérez nos frères qui sont en prison."		signé :  Le cercle de Myrddin
+
+(52, 18, 1) ***Sign***
+Message:
+"Comme le vent qui devance la pluie, les Enchanteurs devancent le reste du monde."		signé :  Le cercle de Myrddin
+
+(27, 57, 1) ***Sign***
+Message:
+"La fortune sans amour vaut mieux que la pauvreté avec de l'amour."		signé :  Le cercle de Myrddin
+
+(82, 60, 1) ***Sign***
+Message:
+"L'écriture nous est réservée à nous les êtres supérieurs."		signé :  Le cercle de Myrddin
+
+(16, 81, 1) ***Event***
+Message:
+"La personne qui vit dans cette hutte peut t'apprendre beaucoup de choses."
+
+(29, 13, 1) ***Event***
+Message:
+Une vingtaine d'Archidiables apparaissent au milieu du chemin et vous attaque.
+
+(64, 71, 1) ***Ocean Bottle***
+Message:
+Fleuve Guivido
+
+(26, 102, 1) ***Ocean Bottle***
+Message:
+Fleuve Guivido
+
+(18, 8, 1) ***Ocean Bottle***
+Message:
+Fleuve Naïkan
+
+(2, 42, 1) ***Ocean Bottle***
+Message:
+Fleuve Naïkan
+
+(88, 8, 1) ***Ocean Bottle***
+Message:
+Fleuve Tondaros
+
+(104, 43, 1) ***Ocean Bottle***
+Message:
+Fleuve Tondaros
+
+(13, 56, 1) ***Event***
+Message:
+"Reste vigilant tant que tu seras dans les terres maudites."
+
+(91, 59, 1) ***Event***
+Message:
+"Reste vigilant tant que tu seras dans les terres maudites."
+
+(59, 29, 1) ***Event***
+Message:
+"Attention ! Tu entres dans le pays des Fénians. Le danger est tout le temps présent par ici."
+
+(63, 100, 1) ***Sign***
+Message:
+Créateur de la carte : Hakas	Testeurs : Hakas, Gildar		Version : Hota 1.3.5
+
+(33, 49, 1) ***Random Relic***
+Message:
+2 Archidiables gardent cet objet. Allez-vous attaquer ?
+
+(91, 78, 1) ***Event***
+Message:
+"La personne qui vit dans la hutte au nord peut t'enseigner beaucoup de choses."
+
+(61, 75, 1) ***Event***
+Message:
+"Les Dragons ont l'habitude de venir ici prendre du poisson pour se nourrir. Si j'étais toi je me méfierai, ou je ferais demi-tour pour aller me ravitailler en troupes."
+
+(50, 7, 1) ***Event***
+Message:
+"Le vieil homme ne t'a pas tout dit, mais j'ai réussi à lire dans son esprit. L'Epée de l'Apocalypse est protégée par près de 16000 Paysans et Hobbits."
+
+(80, 15, 1) ***Lion's Shield of Courage***
+Message:
+Une centaine de Scorpicores surveillent ce Bouclier. Voulez-vous les affronter ?
+
+(83, 21, 1) ***Event***
+Message:
+Une vingtaine d'Archanges apparaissent au milieu du chemin et vous attaque.
+
+(53, 99, 1) ***Quest Guard***
+Message:
+"Bonjour ! Je suis un ermite qui s'est retiré à l'écart de toute civilisation. Si tu atteint 28 en puissance, je t'apprendrai un sort." 
+"Tu dois encore progresser mon ami, car tu n'as pas encore 28 en puissance."
+"Félicitations. Je suis heureux de t'apprendre ce puissant sortilège."
+
+(40, 90, 1) ***Sign***
+Message:
+Pays d'Ossian
+
+(57, 93, 1) ***Event***
+Message:
+Pendant que vous êtes occupé à débarquer sur la plage, vous ne voyez pas venir des Dragons Azur de derrière les montagnes.
+
+(40, 86, 1) ***Navigator***
+Name:
+McGohan
+
+(7, 92, 1) ***Beastmaster***
+Name:
+Bress
+
+(34, 98, 1) ***Captain***
+Name:
+Dora
+
+(28, 99, 1) ***Sign***
+Message:
+Plage d'Ossian
+
+(106, 107, 1) ***Sea Witch***
+Message:
+Enfin, vous êtes venu nous libérer. Les Féticheuses de Brannovices attendent vos ordres messire.
+
+(61, 90, 1) ***Captain***
+Name:
+Falckner
+
+(74, 37, 1) ***Sign***
+Message:
+"Un jour, nous serons maîtres de l'Irlande."		signé :  Le cercle de Myrddin
+
+(17, 2, 1) ***Pirate***
+Message:
+"Vous n'aurez jamais le trésor de Barbe Rousse. Et encore moins notre Mine d'Or."
+
+(86, 3, 1) ***Pirate***
+Message:
+"Vous n'aurez jamais le trésor de Barbe Rousse. Et encore moins notre Mine d'Or."
+
+(51, 98, 1) ***Event***
+Message:
+Subitement, vous entendez des cris rauques derrière vous, que vous n'avez aucun mal à reconnaître.
+
+===== End of file =====

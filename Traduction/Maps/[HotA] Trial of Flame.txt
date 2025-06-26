@@ -1,0 +1,103 @@
+===== Map name =====
+L'Épreuve de la Flamme
+
+===== Map description =====
+Manfred, un magicien débutant est sur le point de passer son premier test - l'épreuve de la flamme. Explorez le désert rude et imprévisible et détruisez ses habitants en deux mois.	
+
+===== Rumors =====
+
+Name:
+1
+Text:
+Soyez-prêt à faire face à des imprévus
+
+Name:
+2
+Text:
+Gagner... Vous ne gagnerez pas...
+
+Name:
+3
+Text:
+Il fait chaud aujourd'hui!
+
+===== Timed events =====
+
+Name:
+Commencement
+Message:
+Je m'appelle Manfred, je suis l'un des meilleurs mages du feu. Du moins, j'essaye de le devenir. Je viens d'un peuple de nomades qui n'ont jamais eu de maison. J'ai dû quitter ma tribu pour apprendre la magie.		Cependant, les légendes de mon peuple parlent du légendaire Désert de Feu, où aucun soldat n'a osé aller. Là-bas, la terre elle-même transpire de chaleur et des créatures ardentes s'infiltrent à travers le tissu de l'espace dans notre monde. Si je peux conquérir le Désert de Feu, je gagnerai l'expertise en magie du feu. Mais si j'hésite, la terre me tuera de son souffle. D'après mes calculs, je ne peux survivre dans cet enfer pendant plus de deux mois.
+
+Name:
+arrivée
+Message:
+C'est ici... Soleil brûlant, sable... La chaleur est partout.	Je ne vais pas survivre longtemps ici, il faut trouver un abri ombrageux...
+
+Name:
+crique
+Message:
+Aujourd'hui, j'ai rencontré la première personne vivante dans ce désert. Un nomade, qui m'a indiqué où se trouvait une ancienne colonie de gobelins. Elle serait située à l'est près de l'oasis.	Bonne nouvelle !
+
+Name:
+Jour 8
+Message:
+Le principal défi pour moi est de m'adapter au désert. Apparemment, les créatures du Plan de Feu provoquent de fortes perturbations de l'espace. Je dois les détruire ou soumettre leur volonté. L'espace se calmera et le flux d'énergie reviendra à la normale.
+
+Name:
+Jour 12
+Message:
+J'ai réalisé que dans cet enfer, nous devons préserver non seulement l'eau, mais aussi les gens. Non pas que beaucoup d'âmes courageuses osent entrer dans ces terres...
+
+Name:
+Jour 28
+Message:
+Je dois me dépêcher. Chaque jour, il devient de plus en plus difficile pour moi de me protéger du désèchement.
+
+Name:
+Jour 53
+Message:
+Ce matin, je saignais du nez et mes yeux deviennent moins réceptifs, tout devient flou. Nous devons nous dépêcher, mes pouvoirs sont presque épuisés.
+
+===== Heroes =====
+
+===== Objects =====
+
+(22, 4, 0) ***Sign***
+Message:
+Oasis de Virnala 
+
+(33, 34, 0) ***Arch Devil***
+Message:
+De puissants démons de feu me barrent la route. Leur destruction est l'une des étapes clés de mon voyage.
+
+(25, 8, 0) ***Nomad***
+Message:
+Surprenant, je n'aurais jamais pensé qu'une si grande tribu de nomades puisse vivre dans un endroit aussi hostile.
+
+(30, 2, 0) ***Sea Dog***
+Message:
+Il semble qu'un groupe de pirates ait complètement perdu la tête, et soit prêt à tuer n'importe quel voyageur non pas pour de l'or, mais pour quelques gouttes d'eau.
+
+(20, 23, 0) ***Skeleton Warrior***
+Message:
+Je vois des centaines et des centaines d'os qui gisent sur le sable. Il a dû y avoir une bataille ici. Quelque chose bouge par ici... Une Armée de Morts se lève, encerclant mon escouade.
+
+(2, 8, 0) ***Mummy***
+Message:
+Des momies, condamnées à ressusciter. J'avais lu des écrits à leur sujet, mais je n'avais jamais rencontré une de ces créatures.
+
+(18, 19, 0) ***Firebird***
+Message:
+J'ai ressenti de puissantes émissions d'énergie magique, comme si le soleil lui-même essayait de descendre sur moi pour me caresser. Alors que nous n'étions pas très loin d'un sommet, des phénix sont descendus sur nous depuis le ciel.
+
+(21, 15, 0) ***Seer's Hut***
+Message:
+Un élémentaire de feu intelligent vit ici. Il est venu ici pour trouver son familier, un phénix.
+L'élementaire a laissé entendre qu'il pourrait me récompenser généreusement, si je trouve son familier.
+En signe de gratitude, l'élémentaire est prêt à me donner une collection de parchemins du Plan du Feu. Ces parchemins contiennent des connaissances occultes.
+
+(13, 30, 0) ***Fire Elemental***
+Message:
+Les voici ! L'incarnation d'un feu pur. Des créatures étonnantes...
+
+===== End of file =====

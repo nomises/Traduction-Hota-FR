@@ -1,0 +1,10 @@
+Terre
+Désert
+Prairie
+Neige
+Marais
+Rocailleux
+Souterrain
+Lave
+Océan
+Rocher

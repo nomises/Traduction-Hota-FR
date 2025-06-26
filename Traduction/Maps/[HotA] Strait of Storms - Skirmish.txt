@@ -1,0 +1,15 @@
+===== Map name =====
+Le Détroit des Orages - Duel
+
+===== Map description =====
+Le Détroit des Tempêtes est un point stratégique important dans ces régions. Écrasez votre rival de l'autre côté et prenez le contrôle total du détroit.
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Heroes =====
+
+===== Objects =====
+
+===== End of file =====

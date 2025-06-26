@@ -1,0 +1,123 @@
+Note: Do nAt change the headings in this file, they are used to detect problems	
+Status Bar Message	Tool Tip
+For Help, press F1	
+Create a new map	New Map [Ctrl+N]
+Open an existing map	Open Map [Ctrl+O]
+Save the current map	Save Map [Ctrl+S]
+Save the current map with a new name	Save Map As
+Display program information, version number and copyright	About
+Quit the map editor	Exit
+List Help topics	Help Topics
+Display help for current task or command	Help
+Open this map	
+Copy the selected object and put it on the Clipboard	Copy [Ctrl+C]
+Cut the selected object and put it on the Clipboard	Cut [Ctrl+X]
+Find a specified type of object	
+Insert Clipboard contents	Paste [Ctrl+V]
+Undo the last action	Undo [Ctrl+Z]
+Redo the previously undone action	Redo [Shift+Ctrl+Z]
+Change the window size	
+Change the window position	
+Reduce the window to an icon	
+Enlarge the window to full size	
+Close the window	
+Restore the window to normal size	
+View the underground map	Underground [Ctrl+U]
+Display the passability of the objects on the map	Passability [Ctrl+P]
+Place terrain	Terrain Tool
+Place rivers	River Tool
+Place roads	Road Tool
+Erase objects	Eraser
+Place dirt objects	Dirt Objects [Q]
+Place sand objects	Sand Objects [W]
+Place grass objects	Grass Objects [E]
+Place snow objects	Snow Objects [R]
+Place swamp objects	Swamp Objects [T]
+Place rough objects	Rough Objects [Y]
+Place subterranean objects	Subterranean Objects [U]
+Place lava objects	Lava Objects [I]
+Place water objects	Water Objects [
+Place towns	Towns [S]
+Place monsters	Monsters [D]
+Place heroes	Heroes [F]
+Place artifacts	Artifacts [G]
+Place treasures	Treasures [H]
+Animate the objects on the map	
+Modify map specifications	
+Select the 1x1-tile terrain brush	1x1-Tile Brush [Z]
+Select the 2x2-tile terrain brush	2x2-Tile Brush [X]
+Select the 4x4-tile terrain brush	4x4-Tile Brush [C]
+Select the terrain area brush	Area Brush [V]
+Select the dirt terrain type	Dirt [1]
+Select the sand terrain type	Sand [2]
+Select the grass terrain type	Grass [3]
+Select the snow terrain type	Snow [4]
+Select the swamp terrain type	Swamp [5]
+Select the rough terrain type	Rough [6]
+Select the subterranean terrain type	Subterranean [7]
+Select the lava terrain type	Lava [8]
+Select the water terrain type	Water [-]
+Select the clear river type	Clear Rivers [Alt+1]
+Select the icy river type	Icy Rivers [Alt+2]
+Select the muddy river type	Muddy Rivers [Alt+3]
+Select the lava river type	Lava Rivers [Alt+4]
+Select the gravel road type	Gravel Roads [Shift+2]
+Select the cobblestone road type	Cobblestone Roads [Shift+3]
+Select the 1x1-tile eraser brush	1x1-Tile Brush [Shift+Z]
+Select the 2x2-tile eraser brush	2x2-Tile Brush [Shift+X]
+Select the 4x4-tile eraser brush	4x4-Tile Brush [Shift+C]
+Select the eraser area brush	Area Brush [Shift+V]
+Select no player	
+Select the %s player	
+Select the dirt road type	Dirt Roads [Shift+1]
+Select the rock terrain type	Rock [=]
+Delete the selected object	Delete
+Display the properties of the selected object	Properties
+Display the tile grid	Grid
+Place miscellaneous active objects	Miscellaneous Active Objects [A]
+Select the 1x1-tile brush	1x1-Tile Brush
+Select the 2x2-tile brush	2x2-Tile Brush
+Select the 4x4-tile brush	4x4-Tile Brush
+Select the area brush	Area Brush
+Check the map for potential problems	Validate Map [M]
+Animate the map terrain	
+Modify the application options	
+Export the text from the current map to a text file	
+Import the text from a text file into the current map	
+Describe the currently selected object	
+Find the next object of the last specified type	
+Find the previous object of the last specified type	
+Zoom out the view of the map	Zoom Out
+Zoom in the view of the map	Zoom In
+Show or hide the toolbar	Toggle Toolbar
+Show or hide the status bar	Toggle Status Bar
+Show or hide the mode bar	Toggle Mode Bar
+Automatically place obstacles	Obstacle Tool
+Select the 1x1-tile solid brush	1x1-Tile Solid Brush [Shift+Q]
+Select the 2x2-tile solid brush	2x2-Tile Solid Brush [Shift+W]
+Select the 4x4-tile solid brush	4x4-Tile Solid Brush [Shift+E]
+Select the solid area brush	Solid Area Brush [Shift+R]
+Select the 1x1-tile fuzzy brush	1x1-Tile Fuzzy Brush [Shift+Alt+Q]
+Select the 2x2-tile fuzzy brush	2x2-Tile Fuzzy Brush [Shift+Alt+W]
+Select the 4x4-tile fuzzy brush	4x4-Tile Fuzzy Brush [Shift+Alt+E]
+Select the fuzzy area brush	Fuzzy Area Brush [Shift+Alt+R]
+Select the 1x1-tile solid eraser	1x1-Tile Solid Eraser [Shift+A]
+Select the 2x2-tile solid eraser	2x2-Tile Solid Eraser [Shift+S]
+Select the 4x4-tile solid eraser	4x4-Tile Solid Eraser [Shift+D]
+Select the solid area eraser	Solid Area Eraser [Shift+F]
+Select the 1x1-tile fuzzy eraser	1x1-Tile Fuzzy Eraser [Shift+Alt+A]
+Select the 2x2-tile fuzzy eraser	2x2-Tile Fuzzy Eraser [Shift+Alt+S]
+Select the 4x4-tile fuzzy eraser	4x4-Tile Fuzzy Eraser [Shift+Alt+D]
+Select the fuzzy area eraser	Fuzzy Area Eraser [Shift+Alt+F]
+Place obstacles in marked areas	Place Obstacles [Shift+O]
+Select the river eraser	River Eraser [Alt+5]
+Select the road eraser	Road Eraser [Shift+4]
+Select the highlands terrain type	Highlands [9]
+Place highland objects	Highland Objects [O]
+Select the wasteland terrain type	Wasteland [0]
+Place wasteland objects	Wasteland Objects [P]
+Place creature generators	Creature Generators [J]
+Place teleporters	Teleporters [K]
+Place Garrisons, Border Guards, and Tents	Garrisons, Border Guards, and Tents [L]
+Place magical terrain	Magical Terrain [;]
+Place miscellaneous decorations	Miscellaneous decorations ]

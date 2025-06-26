@@ -1,0 +1,8 @@
+Vous n'avez pas les moyens de recruter un Héros
+Impossible. Vous avez déjà %d Héros.
+Impossible. Vous avez déjà un Héros dans cette ville.
+Recruter %s, %s
+Sélectionner %s
+Guilde des Voleurs
+Prix du Recrutement
+Quitter la Taverne

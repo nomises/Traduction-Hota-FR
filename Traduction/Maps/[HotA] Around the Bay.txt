@@ -1,0 +1,20 @@
+===== Map name =====
+Autour de la Baie
+
+===== Map description =====
+Sur cette île pittoresque en forme de fer à cheval, vous devrez affronter vos trois voisins dans une bataille classique. 
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Premier jour
+Message:
+Vous accueillez l'aube debout sur le balcon de la plus haute tour de votre château. Pendant un temps, vous admirez le panorama qui s'offrent à vous depuis les hauteurs : les pics montagneux, les pointes d'épicéas, et les silhouettes de quelques forts lointains. Tout cela se noie dans un épais brouillard matinal. Vos adversaires se cachent quelque part dans cette obscurité argentée. Une nouvelle journée commence, et vous respirez l'air frais en émettant un doux bruit. Cette atmosphère annonce un jour de combat.
+
+===== Heroes =====
+
+===== Objects =====
+
+===== End of file =====

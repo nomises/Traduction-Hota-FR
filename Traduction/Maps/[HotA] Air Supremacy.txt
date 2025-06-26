@@ -1,0 +1,57 @@
+===== Map name =====
+Suprématie Aérienne
+
+===== Map description =====
+Les dirigeables offrent de nouvelles perspectives pour le commerce, mais aussi pour la guerre. Certaines côtes lointaines, inaccessibles jusqu'à présent, attendent déjà leurs premiers pionniers. Mais une armada de navires volants ne vient-elle pas dans votre direction par delà les montagnes ? 
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Premier jour
+Message:
+Sans grand intérêt, vous parcourez la lettre d'invitation d'une entreprise qu'un messager vous a remis. On y assure que certains marchands décrivent de façon imagée comment leurs navires "volent dans les airs", et pourquoi cela change radicalement les règles économiques. Ces commerçants vous promettent la prospérité si vous acceptez d'investir dans leur entreprise. "Quelle absurdité ! Comment un bateau pourrait-il voler ? Seul un enfant abusé par un magicien dans une foire pourrait croire une telle histoire. Pour qui me prennent-ils ?"	Sur ces mots, vous froissez la lettre et vous la jetez par terre.	
+
+Name:
+Deuxième jour
+Message:
+Dans votre entourage, on ne parle que de bateaux volants appelés aussi dirigeables. La nouvelle selon laquelle des gens se faisant appeler "artificiers" emmènent faire un tour dans le ciel ceux qui le souhaitent, s'est répandue très vite. Involontairement, vous vous dites : "et si des fous construisaient vraiment des vaisseaux volants" ? Jusque là, la sécurité de votre territoire était dû en partie au fait qu'aucun navire ne pouvait approcher de vos côtes. Mais que se passerait-il si l'ennemi naviguait jusqu'à la côte, puis réussissait à faire passer leurs navires par dessus les falaises abruptes ?
+
+Name:
+Premier rêve
+Message:
+Vous dormez et vous êtes pris dans un cauchemar. Vous y apercevez d'abord un ciel clair, puis des silhouettes effrayantes apparaissent petit à petit et se mettent à flotter doucement derrière l'horizon. Des griffons, des manticores, des dragons, et même des créatures qui par nature ne peuvent pas voler. Vous vous rapprochez, et vous pouvez les voir plus précisément, avec effroi car vous vous rendez compte qu'il ne s'agit pas de monstres, mais de quelque chose de bien plus dégoûtant : d'interminables sphères déchiquetées remplies d'air chaud, qui ne ressemblaient à des monstres qu'en raison de leurs formes et de leurs couleurs. Soudain elles remplissent le ciel, vous encerclant étroitement. Elles se mettent à vous étouffer. Vous ne pouvez plus respirer, vous êtes pris au piège de tous côtés par ces monstres pneumatiques. Vous vous réveillez brusquement avec un gémissement.		
+
+Name:
+Troisième jour
+Message:
+Remis de votre cauchemar, vous comprenez que ce maudit rêve vous a peut-être évité de commettre une grave erreur. La veille, vous vous étiez endormi en pensant à rassembler votre armée afin de détruire les arsenaux des navires volants. Tout redeviendrait alors comme avant, et vos troubles se dissiperaient. Mais si ces "Bertram et Frederick" détiennent le secret de la fabrication des dirigeables, comment être sûr que personne d'autre ne le connaît ? Peut-être les navires volants de l'ennemi s'approchent-ils sournoisement de votre paisible pays depuis leurs lointaines et inaccessibles contrées, en ce moment même ? Vous frissonnez, et pendant un certain temps, vous regardez avec attention les nuages qui se déplacent dans le ciel.
+
+Name:
+Deuxième rêve
+Message:
+Vous êtes encore en train de rêver. Vous vous tenez sur le pont d'un dirigeable qui traversse les nuages à une vitesse vertigineuse. Tout ce qui vous entoure semble vous hurler dessus, tout en se balançant dans tous les sens. Les constructions autour de vous semblent tellement bancales qu'elle risquent de se désintégrer à chaque seconde. Des centaines de mètres de vide se trouvent sous vos pieds. Au-dessus, un noir profond parsemé d'étoiles, et quelque part encore plus haut, une petite sphère réfléchissante, la seule chose qui puisse encore sauver le vaisseau du fracas. Enfin, lorsque vous atteignez une certaine altitude, la sphère s'effrite et vous tombez...		
+
+Name:
+Septième jour
+Message:
+La conquête de nouvelles terres est l'affaire des braves. Pour conquérir le ciel, il faut être encore plus audacieux. Un roi ne peut pas être un lâche. Vous songez que le moment venu, sans montrer le moindre signe de peur, vous monterez sur le pont d'un dirigeable. Celui-ci vous fera voler plus haut que les tours de vos châteaux, et peut-être même que les sommets enneigés des montagnes. Saurez-vous vous envoler et être victorieux, ou vous écraserez-vous sur terre, pour goûter à la défaite ? 
+
+===== Heroes =====
+
+===== Objects =====
+
+(37, 70, 0) ***Random Town***
+Name:
+Skypoint
+
+(8, 40, 0) ***Sign***
+Message:
+Les dirigeables de la société "Bertram and Frederick" offrent de nouvelles perspectives. Vous nous trouverez sur la côte nord-est.
+
+(62, 31, 0) ***Sign***
+Message:
+Les dirigeables de la société "Bertram and Frederick" offrent de nouvelles perspectives. Vous nous trouverez sur la côte nord-est.
+
+===== End of file =====

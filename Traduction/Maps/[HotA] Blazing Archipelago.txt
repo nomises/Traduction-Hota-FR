@@ -1,0 +1,39 @@
+===== Map name =====
+L'Archipel Flamboyant
+
+===== Map description =====
+Une chaleur assomante, le manque de ressources et la menace constante d'une attaque des créatures marines font de ces îles un endroit vraiment oublié des dieux. Qu'est-ce qui peut bien y attirer les aventuriers ?
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Premier jour
+Message:
+Vous avez établi votre campement sur une grande île au large. Vos éclaireurs rapportent que vos rivaux ont fait de même. Une ancienne carte au trésor a été apportée dans la soirée au camp; la seule raison pour laquelle vous êtes venu à cet endroit ...
+
+Name:
+Deuxième jour
+Message:
+Bien. Il est temps de passer aux choses sérieuses et de déchiffrer cette carte, pour trouver ces merveilleux trésors...
+
+Name:
+Quatrième jour
+Message:
+Vous avez presque déchiffré l'ancienne carte. Bientôt le trésor sera à vous !
+
+Name:
+Septième jour
+Message:
+L'heure est venue ! Si l'on en croit la carte, le trésor se trouve sur l'île au centre de l'archipel.
+
+===== Heroes =====
+
+===== Objects =====
+
+(61, 84, 0) ***Event***
+Message:
+
+
+===== End of file =====

@@ -1,0 +1,134 @@
+===== Map name =====
+Key to Victory: The Second Key
+
+===== Map description =====
+The decisive battle had just died down. A fleeing enemy is trapped in the mountains, with slim chances to mount a counterattack. Your position is nigh invulnerable: you only need to go and put an end to this long war. 
+
+===== Rumors =====
+
+Name:
+Angel
+Text:
+It is said that the Angelic Alliance was destroyed during the war. Some also claim that the great artifact can yet be recreated if its lost parts are found. 
+
+Name:
+Angel 1
+Text:
+In the backyard of an Alchemist's Lab...
+
+Name:
+Angel 2
+Text:
+Under a tall dead tree...
+
+Name:
+Angel 3
+Text:
+At the bottom of a pit flooded with the waters of the great lakes...
+
+Name:
+Angel 4
+Text:
+The leprechaun keeps a keen eye on his real treasure...
+
+Name:
+Angel 5
+Text:
+Under a cart at an old sawmill...
+
+Name:
+Angel 6
+Text:
+Unseen, it rests among the flowers planted by the students at the magic school...
+
+===== Timed events =====
+
+Name:
+day1
+Message:
+Your enemy runs! Your enemy is terrified! Amid this chaos, your court's loyal sages managed to erect barriers along the entire contact line, encircling the remnants of the enemy host. Nowhere to run, nowhere to hide. 
+
+Name:
+day12
+Message:
+Muster a powerful army and decide for yourself when to pass through the barriers for the final battle. Stand to horse!
+
+Name:
+day2
+Message:
+Your scouts report: some crucial mines with valuable resources are still held by the enemy. The scoundrel used summoning magic; the mines are now guarded by elementals. Still, you are going to need resources, and you can scarce allow the enemy's heroes, even summoned ones, to nose around your rear! While the risk of sabotage has been mitigated by the newly erected barriers, to defeat the elemental heroes remains your task to tackle. 
+
+Name:
+day5
+Message:
+Your sentries have brought unexpected news. Anticipating his imminent downfall, your enemy has built his own barriers; only his own troops can pass through them. It seems as though you are now to find a new key to victory. 
+
+===== Heroes =====
+
+===== Objects =====
+
+(67, 56, 0) ***Sign***
+Message:
+Unlock the gates at your own risk! Once opened, they will no longer protect you from the enemy. 
+
+(25, 35, 0) ***Sign***
+Message:
+Beyond these gates lie lands where no one can guarantee your safety. However, as long as you are on this side, you have nothing to fear.
+
+(5, 14, 0) ***Sign***
+Message:
+Unlock the gates at your own risk! Once opened, they will no longer protect you from the enemy. 
+
+(71, 55, 0) ***Event***
+Message:
+Your eye catches the faint swaying of the air, distorting the outlines of grass blades on the ground. As you get closer, you realize that there is an invisible casket in front of you. With some sweat, you manage to unravel the casket's secret and find the Helm of Heavenly Enlightenment inside. 
+
+(22, 50, 0) ***Event***
+Message:
+You're strolling along the forest's edge, pretending to hunt for mushrooms, but the leprechaun seems to have caught on to your presence. He narrows his eyes, and his dance becomes slower: he is prepared to pounce at you at any moment. As luck would have it, the telltale glint reveals the location of the leprechaun's treasure. Before the green prankster can reach you, you snatch a Celestial Necklace of Bliss out of a small stash. 
+
+(8, 48, 0) ***Legs of Legion***
+Message:
+Back in the day, mercenaries from all over the world would flock to these lands to join the mighty Legion's hosts. Even after his death, the monument to him kept stirring admiration in the hearts of both young soldiers and seasoned veterans. Today, however, only the base and legs of the great monument remain. Could you can find a way to restore the Statue of Legion?
+
+(26, 70, 0) ***Event***
+Message:
+The tall grass around the old cart hints at its long disuse. You carefully examine the cart: it misses one wheel, and a metal object props up its front axle. It is not without effort that you extract it: to your infinite surprise, it turns out to be the Lion's Shield of Courage. 
+
+(40, 55, 0) ***Sign***
+Message:
+Beyond these gates lie lands where no one can guarantee your safety. However, as long as you are on this side, you have nothing to fear.
+
+(0, 31, 0) ***Event***
+Message:
+Under the withered roots of a dead tree, you find the Sandals of the Saint.
+
+(0, 9, 0) ***Event***
+Message:
+All the stolen wealth lies behind the magic portal. Even after losing several battles in a row, your enemy is still eager to fight for this treasure. 
+
+(30, 39, 0) ***Event***
+Message:
+You feel around the bottom of a fetid puddle and find a hilt. Grabbing it, you pull out the Sword of Judgement, untouched by either rust or reeking scum. 
+
+(11, 21, 0) ***Event***
+Message:
+In the backyard of an Alchemist's Lab, you notice the Armor of Wonder. After a brief chat with the lab's bewildered owner, puzzled as to how the enchanted breastplate wound up on his property, you take it. 
+
+(18, 71, 0) ***Event***
+Message:
+The Oracle is ready to show you some interesting places nearby. He bows and waves you into the hut. 
+
+(16, 61, 0) ***Event***
+Message:
+Barriers protect these parts from the enemy. His troops will not be able to set foot on this sacred land! If you want to venture beyond the barriers yourself, however, you will have to find the Light Blue Keymaster's Tent first. 
+
+(35, 32, 0) ***Sign***
+Message:
+Remember: by commanding your Border Guards to stand down, you will open the way not only for yourself, but also for your enemies!
+
+(6, 64, 0) ***Event***
+Message:
+There's an ambush ahead! Luckily, your scouts noticed the Sharpshooters hiding in the trees. There aren't too many of them, but forewarned means armed!
+
+===== End of file =====

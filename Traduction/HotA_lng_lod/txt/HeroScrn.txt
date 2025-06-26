@@ -1,0 +1,33 @@
+Ouvrir Livre des Quêtes
+Afficher Infos %s
+Caractéristiques des Héros
+Afficher Infos Moral Favorable
+Afficher Infos Moral Neutre
+Afficher Infos Moral Désastreux
+Afficher Infos Bonne Chance
+Afficher Infos Chance Neutre
+Afficher Infos Malchance
+Afficher Infos Expérience
+Sélectionner %s
+Vide
+Déplacer %s
+Échanger %s avec %s
+Afficher Sorts
+Afficher Infos sur %s
+Renvoyer %s, %s
+Quitter la Fiche du Héros
+Fiche du Héros
+Combiner %s
+Diviser %s
+Voir Infos %s %s
+Afficher Infos Points de Magie
+Formation de Combat 'Dispersée'
+Formation de Combat 'Groupée'
+Désactiver Formation Tactique
+Activer Formation Tactique
+Afficher Infos Spécialité du Héros
+Cliquez sur ce bouton pour renvoyer le Héros
+Choisissez une formation de combat 'Dispersée' pour que vos troupes soient espacées les unes des autres au début du combat.
+Choisissez une formation de combat 'Groupée' pour que vos troupes soient regroupées les unes à côté des autres au début du combat.
+Activez Formation Tactique pour déployer vos troupes avant un combat (si votre Héros dispose de la compétence Tactique).
+Cliquez sur ce bouton pour créer deux troupes de créatures.

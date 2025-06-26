@@ -1,0 +1,129 @@
+===== Map name =====
+Ruée vers l'Or
+
+===== Map description =====
+Le trésor est vide et les mines se tarissent. En ces temps difficiles, le roi vous envoie à la frontière de trois pays, là où se trouvent sur une île rocheuse des mines d'or encore inexploitées. Prenez les quatre mines avant les héros des autres royaumes, ou avant la date limite dans deux mois.
+
+===== Rumors =====
+
+Name:
+Factory 1 
+Text:
+La rumeur veut que cette terre sèche et âcre soit devenu le refuge des Halflings après qu'ils aient quitté Eeofol, suite à une invasion de démons tombés du ciel.
+
+Name:
+Factory 2 
+Text:
+Sous le soleil brûlant des prairies... Une montagne étincelante s'est dressée et a marché vers moi. Puis elle s'est changée en volcan et a expulsé de la fumée noire, tandis qu'au sommet, un œil est apparu.
+
+Name:
+Factory 3
+Text:
+On dit que ces terres désolées et rocailleuses grouillent de pyromanes, et que des forgerons compétents leur fabriquent des bâtons cracheurs de feu.
+
+Name:
+Factory 4
+Text:
+Avez-vous déjà rencontré un homme lugubre vêtu d'une cape noire et armé d'un grand bâton en fer ? Bien sûr que non, sinon vous ne seriez pas assis ici en train d'écouter ces absurdités.
+
+Name:
+Factory 5
+Text:
+Je jure sur tout ce que jai de sacré que lorsque je travaillais comme prospecteur, j'ai souvent senti la terre bouger sous mes pieds. On raconte que des vers géants vivent sous ces terres.
+
+===== Timed events =====
+
+Name:
+Intro
+Message:
+Sur ordre du roi, vous vous êtes rendu jusqu'à la frontière des trois royaumes. Vous devez prendre le contrôle des mines d'or de l'île la plus disputée. Grâce au peu de ressources que vous avez apporté avec vous, vous avez pu bâtir une forteresse afin de poursuivre vos activités sur place. Il est temps de seller votre fidèle coursier.
+
+Name:
+intro 2
+Message:
+Si vous ne prenez pas les mines d'or dans les deux mois, ou pire encore, si les mines passent sous le contrôle d'autres royaumes, votre tête tombera à coup sûr. Le bourreau du roi se chargera de vous afin de calmer les ardeurs des paysans affamés, et cela même si votre royaume cours à sa perte. 
+
+Name:
+Day 3 AI
+Message:
+
+
+Name:
+Day 3 
+Message:
+La situation s'avère être encore pire que prévu. Vous apprenez qu'il n'y a pas de mines exploitables sur ces terres, et que par conséquent, vous allez devoir vous débrouiller autrement. Vous devrez compter davantage sur la ruse des éclaireurs et sur leur habilité. À ce propos, vos éclaireurs vous disent qu'à la place des scieries et des carrières peu rentables, on peut trouver en cherchant bien des chariots plein de ressources. Ce serait bien d'en récupérer certains.		
+
+Name:
+Day 8 repeat
+Message:
+Un messager est arrivé de la capitale. La situation au cœur du royaume s'aggrave de jour en jour. Si l'on ne trouve pas d'urgence un moyen de renflouer le trésor, les émeutes provoquées par la faim ainsi que des rébellions sont inévitables. Tous les premiers jours de la semaine, vous devrez donc verser au royaume une partie de votre trésor, même si vous en avez besoin dans le cadre de votre mission. 		
+
+Name:
+Day 10 rumors
+Message:
+Un de vos éclaireurs vous informe que l'île rocheuse regorge de toutes sortes de sorciers et d'alchimistes. Peut-être leurs secrets vous aideront-ils à résoudre vos problèmes financiers. 
+
+Name:
+Day 28
+Message:
+La moitié du temps qui vous a été imparti s'est déjà écoulée. Il serait bon de se dépêcher afin de s'emparer de ces mines d'or. 
+
+Name:
+Day 50 Reminder
+Message:
+Vous êtes à moins d'une semaine de l'échéance. Des messagers arrivent chaque jour avec des demandes de plus en plus pressantes - malgré sa main tremblante, vous reconnaissez l'écriture du roi. 
+
+Name:
+Day 52
+Message:
+Selon certaines informations, la famine a entrainé un soulèvement dans la capitale. Le Roi vous a envoyé une description saisissante du bourreau aiguisant sa hache, et des frissons ont alors parcouru votre corps des pieds à la tête. 
+
+Name:
+Day 56 - Miracle
+Message:
+C'est le dernier jour. Seul un miracle ou un coup parfaitement maîtrisé peut encore vous sauver, vous et votre royaume. 
+
+===== Heroes =====
+
+===== Objects =====
+
+(3, 5, 0) ***Random Town***
+
+Timed events:
+
+Name:
+silo
+Message:
+Face à la situation difficile des gisements de minerais dans la région, le roi a lancé une procédure spéciale pour construire un entrepôt dans votre ville, dans lequel nous stockerons des ressources tous les jours.
+
+(68, 7, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Day 4
+Message:
+Face à la situation difficile des gisements de minerais dans la région, le roi a lancé une procédure spéciale pour construire un entrepôt dans votre ville, dans lequel nous stockerons des ressources tous les jours.
+
+(33, 63, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Day 4
+Message:
+Face à la situation difficile des gisements de minerais dans la région, le roi a lancé une procédure spéciale pour construire un entrepôt dans votre ville, dans lequel nous stockerons des ressources tous les jours.
+
+(54, 50, 0) ***Ocean Bottle***
+Message:
+
+
+(15, 31, 0) ***Ocean Bottle***
+Message:
+
+
+(34, 37, 0) ***Sign***
+Message:
+Transformer les minéraux en or. Nous travaillons tous les jours. Visitez notre magasin : prenez au nord sur la route et ensuite à gauche.
+
+===== End of file =====

@@ -1,0 +1,85 @@
+===== Map name =====
+L'Utopie des Pirates
+
+===== Map description =====
+Le trésor de la légendaire Reine des pirates est enterré sur une île. Partez à sa recherche !
+
+===== Rumors =====
+
+Name:
+1
+Text:
+J'ai entendu dire qu'il y a beaucoup d'ermites sur les îles qui s'ennuient sans civilisation.
+
+Name:
+2
+Text:
+Connaissiez-vous une belle légende racontant l'amour de l'hiver à un prince inconnu? D'après celle-ci, il serait emprisonné loin au sud dans le royaume des glaces anciennes.
+
+===== Timed events =====
+
+===== Heroes =====
+
+===== Objects =====
+
+(97, 93, 0) ***Crystal***
+Message:
+Quelle aubaine.
+
+(102, 131, 0) ***Sign***
+Message:
+La voie vers le plan de l'air est fermée. Peut-être pouvez-vous la trouver.
+
+(111, 105, 0) ***Pandora's Box***
+Message:
+
+
+(14, 132, 0) ***Tower***
+Name:
+An ice cliff
+
+(12, 138, 0) ***Event***
+Message:
+Un palais de glace légendaire se dresse juste devant vous. Il y a des siècles y vivait un prince qui rejetait l'amour de la déesse de l'hiver, et pour cela, elle l'a transformé, lui et tous ses biens, en glace morte. Le prince peut être libéré par ceux qui sont assez courageux et plutôt intelligents.
+
+(13, 134, 0) ***Event***
+Message:
+Une fois que vous êtes près du palais de glace, les blocs de glace, qui ont dû recouvrir le palais pendant des siècles, ont commencé à fondre...
+
+(18, 138, 0) ***Prison***
+Name:
+Prince
+Biography:
+Autrefois captif de la déesse de l'hiver. Aujourd'hui libéré par un héros courageux.
+
+(118, 133, 0) ***Sign***
+Message:
+Terre en friche.
+
+(93, 143, 0) ***Event***
+Message:
+Vos soldats pensent que vous êtes fou.
+
+(116, 96, 0) ***Seer's Hut***
+Message:
+Voulez-vous embaucher un groupe de voyous patibulaires mais au bon coeur?	
+Pas d'or - pas d'aide.	
+Qu'en dites-vous Monseigneur?
+
+(84, 35, 0) ***Pandora's Box***
+Message:
+
+
+(143, 143, 0) ***Event***
+Message:
+Vous la voulez ? Venez donc la prendre.
+
+(40, 143, 0) ***Event***
+Message:
+Votre équipe pense sérieusement à la rébellion.
+
+(126, 136, 0) ***Event***
+Message:
+Vous pouvez à peine lire quelques lettres parmi des mots indistincts. On dirait que c'est une sorte de poème...
+
+===== End of file =====

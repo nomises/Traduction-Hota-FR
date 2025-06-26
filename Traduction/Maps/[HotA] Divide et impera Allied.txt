@@ -1,0 +1,31 @@
+===== Map name =====
+Divide et Impera ! (Alliés)
+
+===== Map description =====
+Ils disent que les dirigeants des provinces voisines ne vous font pas confiance... Et qu'en plus, ceux-ci rêvent de récupérer une partie de vos terres. Bien entendu, cette question ne pourra pas être résolue par des moyens diplomatiques et l'attaque sera votre meilleure défense.
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Heroes =====
+
+===== Objects =====
+
+(32, 103, 1) ***Event***
+Message:
+Cette garnison a été crée ici il y a longtemps, à l'époque de la politique d'isolement. Curieusement, les gardes sont toujours là. Ce ne devrait pas être un problème pour vous, bien sûr.
+
+(102, 11, 1) ***Event***
+Message:
+Cette garnison a été crée ici il y a longtemps, à l'époque de la politique d'isolement. Curieusement, les gardes sont toujours là. Ce ne devrait pas être un problème pour vous, bien sûr.
+
+(97, 55, 1) ***Event***
+Message:
+Cette garnison a été crée ici il y a longtemps, à l'époque de la politique d'isolement. Curieusement, les gardes sont toujours là. Ce ne devrait pas être un problème pour vous, bien sûr.
+
+(10, 40, 1) ***Event***
+Message:
+Cette garnison a été crée ici il y a longtemps, à l'époque de la politique d'isolement. Curieusement, les gardes sont toujours là. Ce ne devrait pas être un problème pour vous, bien sûr.
+
+===== End of file =====

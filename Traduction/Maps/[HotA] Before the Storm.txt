@@ -1,0 +1,19 @@
+===== Map name =====
+Le Calme avant la Tempête
+
+===== Map description =====
+Ces huit royaumes ont maintenu la paix de nombreuses années durant, mais une si petite cage ne peut contenir des fauves éternellement. Quelqu'un sera la prochaine proie, et vous serez au milieu des fauves.
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Heroes =====
+
+===== Objects =====
+
+(53, 47, 0) ***Pandora's Box***
+Message:
+
+
+===== End of file =====

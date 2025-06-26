@@ -1,0 +1,61 @@
+===== Map name =====
+Terre Brûlée
+
+===== Map description =====
+L'éruption d'un volcan vous oblige à arrêter l'extraction des ressources sur l'île. Les mines se sont effondrées, ont brûlé ou ont été submergées de lave bouillante. La seule source d'approvisionnement restante sont les entrepôts. Apparemment, un seigneur voisin les surveille également.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Ruines
+Message:
+La terre autrefois fertile est en ruine. Les mines se sont effondrées après une éruption sur l'île. Notre seul espoir réside dans les entrepôts. Les marchandises qui s'y sont accumulées nous aideront à retrouver nos forces.	Le problème, comme toujours, ne vient pas seul : ce qui n'a pas été détruit par la lave a été pillé par des pirates et des vautours. De plus, le seigneur contre lequel vous avez lutté pendant des années a décidé de frapper votre armée affaiblie, espérant ainsi s'emparer de toute l'île. La négociation n'est pas une option. Vous devez vous préparer pour la bataille.
+
+Name:
+Garnison
+Message:
+L'argent restant a été dépensé pour payer des voleurs pour occuper votre lointaine garnison. Peut-être qu'ils nous éviteront les tracas des invités inattendus pendant un certain temps.
+
+Name:
+Ressources
+Message:
+Ressources.
+
+Name:
+Ressources 2
+Message:
+Plus de Ressources.
+
+Name:
+Donjon
+Message:
+La rumeur veut que certaines mines des donjons auraient pu tenir plus longtemps.
+
+Name:
+Mines
+Message:
+Les travailleurs survivants ont eu le temps de nettoyer les décombres. Certaines des ressources extraites ont été récupérées.
+
+===== Heroes =====
+
+===== Objects =====
+
+(35, 34, 0) ***Event***
+Message:
+Comme s'il ne suffisait pas aux pirates de piller l'île, ils ont également repris les restes d'un village.			Ce n'est pas la meilleure idée que d'installer un camp près du volcan en éruption, mais ces gars-là semblent ne pas s'en soucier.	
+
+(67, 27, 0) ***Ocean Bottle***
+Message:
+Vous avez repêché une bouteille à la mer, mais vous n'avez trouvé qu'un excellent rhum à l'intérieur. Celui-ci est réservée au pirate qui l'a perdu.
+
+(51, 15, 1) ***Pandora's Box***
+Message:
+
+
+(17, 51, 1) ***Pandora's Box***
+Message:
+
+
+===== End of file =====

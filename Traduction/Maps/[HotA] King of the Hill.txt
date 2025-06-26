@@ -1,0 +1,39 @@
+===== Map name =====
+Le Roi de la Colline
+
+===== Map description =====
+La haine de huit seigneurs, tel un volcan, est sur le point de se transformer en une guerre sanglante. Il va bientôt faire chaud.	
+
+===== Rumors =====
+
+Name:
+Panique
+Text:
+Peu importe qui gagnera. Le volcan peut entrer en éruption à tout moment et le flux de lave en fusion détruira à la fois les gagnants et les perdants.	
+
+Name:
+Panique 2
+Text:
+Nous allons tous mourir !
+
+===== Timed events =====
+
+Name:
+Début
+Message:
+Vous tremblez. Soit à cause de la colère, soit à cause du séisme. Ces sept scélérats, ces salauds. Ils paieront ! Votre vengeance sera comme une tempête de feu. C'est avec ces pensées que vous avez ordonné au porte-étendard de hisser vos couleurs. La marche a commencé. Une lueur écarlate est apparue au loin au sommet de la montagne.	
+
+Name:
+Début 2
+Message:
+La lueur s'est densifiée à l'horizon. De plus, l'air s'est empli de petites particules de cendres. Le puissant volcan est en éruption, et les châteaux de vos ennemis se dressent à ses pieds. La légende raconte que tout au fond, il y a une ville en son cœur. Celui qui contrôle cette ville pourra contrôler la puissance du volcan. Vous souriez en laissez entrevoir vos dents jaunies à vos camarades, et vous éperonnez les flancs de votre monture.	
+
+===== Heroes =====
+
+===== Objects =====
+
+(17, 18, 1) ***Inferno***
+Name:
+Heart
+
+===== End of file =====

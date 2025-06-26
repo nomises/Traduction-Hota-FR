@@ -1,0 +1,24 @@
+"{Scierie}
+
+Vous avez pris le contrôle d'une Scierie. Elle produit 2 unités de Bois par jour."
+"{Laboratoire d'Alchimie}
+
+Vous avez pris le contrôle d'un Laboratoire d'Alchimie. Il produit 1 unité de Mercure par jour."
+"{Carrière}
+
+Vous avez pris le contrôle d'une Carrière. Elle produit 2 unités de Pierres par jour."
+"{Mine de Soufre}
+
+Vous avez pris le contrôle d'une Mine de Soufre. Elle produit 1 unité de Soufre par jour."
+"{Mine de Cristaux}
+
+Vous avez pris le contrôle d'une Mine de Cristaux. Elle produit 1 unité de Cristal par jour."
+"{Gisement de Gemmes}
+
+Vous avez pris le contrôle d'un Gisement de Gemmes. Il produit 1 unité de Gemmes par jour."
+"{Mine d'Or}
+
+Vous avez pris le contrôle d'une Mine d'Or. Elle produit 1000 pièces d'Or par jour."
+"{Mine Abandonnée}
+
+Vous avez pris le contrôle d'une Mine Abandonnée. Elle produit 1000 pièces d'Or par jour."

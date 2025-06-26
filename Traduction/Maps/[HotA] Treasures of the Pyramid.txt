@@ -1,0 +1,131 @@
+===== Map name =====
+Treasures of the Pyramid
+
+===== Map description =====
+The secrets hidden in the Great Pyramid of the Pharaohs are waiting! Cross the desert, venture into the underground halls and retrieve the great treasure lost in the scorching sands—that is, if you are unfazed by competition and tall tales about the Pharaohs' curse. 
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+day1
+Message:
+You have arrived here on an archaeological expedition. Unfortunately, three of your competitors have also turned up in these parts: they also seem to want to profit from the treasures hidden in the pyramid. Whoever can not only retrieve the treasure first, but also build the Temple of the Grail, will win this race! However, there is another way: you could simply eliminate the competitors and assert your right to these lands. What will you choose?
+
+Name:
+day1-2
+Message:
+Scorching desert sands and gloomy tunnels of the tombs are waiting for you! 
+
+Name:
+day 10
+Message:
+Additional funding for your expedition has arrived. 
+
+Name:
+day 20
+Message:
+Your sponsor doesn't seem to be doing very well. Your expedition's funding was halved. 
+
+Name:
+day 30
+Message:
+Today you received a report: the fresh financing your company received from the employer is hardly more than pocket change. You seem to be on your own now. However, this means you won't have to share the treasure with anyone either! 
+
+Name:
+day37
+Message:
+Things aren't easy without external funding: reluctantly, you allocate money to solve the problems that have piled up over the past week. 
+
+===== Heroes =====
+
+===== Objects =====
+
+(70, 56, 0) ***Seer's Hut***
+Message:
+The Pendants of Life... are keys. Keys to authority, power, and strength. Don't let my unsightly appearance scare you away; don't leave! Bring me a Pendant of Life so I can release the essence contained in it and share some of its hidden power with you.  
+The Pendant! Where is the Pendant of Life? You do not bear any... I can tell it by smell. Come back with the Pendant, and we will share the power it holds!
+Finally! All the power of the Pharaohs, contained in this small trifle... In mine... In our hands. Do you feel the power rushing through our bodies? Bring me as many Pendants as you can find, and we will enjoy this wonderful feeling together, again and again.  
+
+(16, 9, 0) ***Seer's Hut***
+Message:
+The Pendants of Life... are keys. Keys to authority, power, and strength. Don't let my unsightly appearance scare you away; don't leave! Bring me a Pendant of Life so I can release the essence contained in it and share some of its hidden power with you.  
+The Pendant! Where is the Pendant of Life? You do not bear any... I can tell it by smell. Come back with the Pendant, and we will share the power it holds!
+Finally! All the power of the Pharaohs, contained in this small trifle... In mine... In our hands. Do you feel the power rushing through our bodies? Bring me as many Pendants as you can find, and we will enjoy this wonderful feeling together, again and again.  
+
+(8, 5, 0) ***Seer's Hut***
+Message:
+I represent the Archaeologists' Guild. Our organization is very keen on the relics of bygone times. We are now looking for symbols of the power once wielded by the Pharaohs who built the Great Pyramid in this desert. If you happen to find the Ankh, or as it is called in these parts, the Pendant of Life, I will pay you handsomely. For each one you bring, that is! 
+Didn't find a single Pendant of Life? The Great Pyramid is still waiting for its explorers. 
+Finally! Priceless evidence of the Pharaonic era! Give it to me, and keep the reward. I'll pay you more if you bring me another Pendant of Life. 
+
+(0, 64, 0) ***Seer's Hut***
+Message:
+I represent the Archaeologists' Guild. Our organization is very keen on the relics of bygone times. We are now looking for symbols of the power once wielded by the Pharaohs who built the Great Pyramid in this desert. If you happen to find the Ankh, or as it is called in these parts, the Pendant of Life, I will pay you handsomely. For each one you bring, that is! 
+Didn't find a single Pendant of Life? The Great Pyramid is still waiting for its explorers. 
+Finally! Priceless evidence of the Pharaonic era! Give it to me, and keep the reward. I'll pay you more if you bring me another Pendant of Life. 
+
+(58, 13, 0) ***Seer's Hut***
+Message:
+I represent the Archaeologists' Guild. Our organization is very keen on the relics of bygone times. We are now looking for symbols of the power once wielded by the Pharaohs who built the Great Pyramid in this desert. If you happen to find the Ankh, or as it is called in these parts, the Pendant of Life, I will pay you handsomely. For each one you bring, that is! 
+Didn't find a single Pendant of Life? The Great Pyramid is still waiting for its explorers. 
+Finally! Priceless evidence of the Pharaonic era! Give it to me, and keep the reward. I'll pay you more if you bring me another Pendant of Life. 
+
+(59, 71, 0) ***Seer's Hut***
+Message:
+I represent the Archaeologists' Guild. Our organization is very keen on the relics of bygone times. We are now looking for symbols of the power once wielded by the Pharaohs who built the Great Pyramid in this desert. If you happen to find the Ankh, or as it is called in these parts, the Pendant of Life, I will pay you handsomely. For each one you bring, that is! 
+Didn't find a single Pendant of Life? The Great Pyramid is still waiting for its explorers. 
+Finally! Priceless evidence of the Pharaonic era! Give it to me, and keep the reward. I'll pay you more if you bring me another Pendant of Life. 
+
+(18, 69, 0) ***Seer's Hut***
+Message:
+The Pendants of Life... are keys. Keys to authority, power, and strength. Don't let my unsightly appearance scare you away; don't leave! Bring me a Pendant of Life so I can release the essence contained in it and share some of its hidden power with you.  
+The Pendant! Where is the Pendant of Life? You do not bear any... I can tell it by smell. Come back with the Pendant, and we will share the power it holds!
+Finally! All the power of the Pharaohs, contained in this small trifle... In mine... In our hands. Do you feel the power rushing through our bodies? Bring me as many Pendants as you can find, and we will enjoy this wonderful feeling together, again and again.  
+
+(52, 1, 0) ***Seer's Hut***
+Message:
+The Pendants of Life... are keys. Keys to authority, power, and strength. Don't let my unsightly appearance scare you away; don't leave! Bring me a Pendant of Life so I can release the essence contained in it and share some of its hidden power with you.  
+The Pendant! Where is the Pendant of Life? You do not bear any... I can tell it by smell. Come back with the Pendant, and we will share the power it holds!
+Finally! All the power of the Pharaohs, contained in this small trifle... In mine... In our hands. Do you feel the power rushing through our bodies? Bring me as many Pendants as you can find, and we will enjoy this wonderful feeling together, again and again.  
+
+(34, 2, 1) ***Seer's Hut***
+Message:
+Halt, you mortal! How dare you desecrate my master's tomb?.. Or maybe, you are not one of those who come to the pyramid, seeking only to destroy and plunder. Help me protect this abode of eternal afterlife. Bring me the Pendant of Life, brimming with power, and I will give you 50 exceptional mummy warriors. The more Pendants you can bring, the bigger will be the army waiting for you...
+You... just like everyone else... you're a dirty little thief! Prove me wrong: bring me the Pendant of Life! Protect the tomb! 
+A covenant is a covenant. I will now release the energy of the Pendant: watch as your new allies emerge from their sarcophagi. But remember this: I will bring an unimaginable curse upon you and your entire kin if you make my warriors plunder and destroy! 
+
+(8, 6, 1) ***Event***
+Message:
+You can feel the curse of the Pharaohs enveloping you from head to toe.
+
+(9, 6, 1) ***Event***
+Message:
+You can feel the curse of the Pharaohs enveloping you from head to toe.
+
+(64, 6, 1) ***Event***
+Message:
+You can feel the curse of the Pharaohs enveloping you from head to toe.
+
+(63, 6, 1) ***Event***
+Message:
+You can feel the curse of the Pharaohs enveloping you from head to toe.
+
+(63, 66, 1) ***Event***
+Message:
+You can feel the curse of the Pharaohs enveloping you from head to toe.
+
+(65, 66, 1) ***Event***
+Message:
+You can feel the curse of the Pharaohs enveloping you from head to toe.
+
+(7, 66, 1) ***Event***
+Message:
+You can feel the curse of the Pharaohs enveloping you from head to toe.
+
+(9, 66, 1) ***Event***
+Message:
+You can feel the curse of the Pharaohs enveloping you from head to toe.
+
+===== End of file =====

@@ -1,0 +1,23 @@
+===== Map name =====
+Terra Incognita
+
+===== Map description =====
+Vous avez récupéré une très vieille carte. Elle indique l'emplacement d'une ville remplie de richesses incalculables... Éliminez la concurrence et trouvez le trésor en premier.
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Heroes =====
+
+===== Objects =====
+
+(6, 15, 1) ***Sign***
+Message:
+Passage Secret !
+
+(7, 15, 1) ***Event***
+Message:
+Sans aucun doute, ce tunnel devrait nous conduire à l'endroit exact où se trouve la ville.
+
+===== End of file =====

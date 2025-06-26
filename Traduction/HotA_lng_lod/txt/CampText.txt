@@ -1,0 +1,172 @@
+//Campaign Map Names
+Longue Vie à la Reine
+Libération
+Hommage au Père
+Donjons et Démons
+Vive le Roi
+Malheur au Vaincu
+Graines de Discorde
+Bracada
+Iles
+Krewlod
+Nighon
+Tatalia
+Armageddon
+La Corne des Abysses
+La Naissance d'un Barbare
+Sous le Pavillon du Jolly Roger
+Terreur sur les Mers
+L'Ascension du Nécromancien
+Alliance Maudite
+Le Spectre du Pouvoir
+
+
+//Good 1 Map Region Names
+Baie Tranquille
+Passe des Anges
+Falaise des Griffons
+
+
+//Good 2 Map Region Names
+Juste Conflit
+Terres de Glace
+Les Tourbières et Grandes Collines
+Abondance et Côte Ardente
+
+
+//Good 3 Map Region Names
+Bois Profond
+C. d'Emeraude, H. Saule, Chênaie, B. Brulé
+Jardin de Marbre
+
+
+//Evil 1 Map Region Names
+Pointe de Rion
+Abondance
+Juste Conflit
+Côte Ardente
+Baie Tranquille
+Passe des Anges
+Falaise des Griffons
+
+
+//Evil 2 Map Region Names
+Le Jardin de Marbre
+Les Collines d'Emeraude
+Hauts Saules et Chênaie
+Bois Béni, Bois Brulé et Bois Profond
+
+
+//Neutral 1 Map Region Names
+Les Tourbières
+Le Creusot
+Grandes Collines
+
+
+//Secret 1 Map Region Names
+Carré de Trèfle
+Bois Moussu
+Val des Bois
+
+
+// Bracada Map Region Names
+Bracada A
+Bracada B
+Bracada C
+Bracada D
+
+
+// Islands Map Region Names
+Iles A
+Iles B
+Iles C
+Iles D
+
+
+// Krewlod Map Region Names
+Krewlod A
+Krewlod B
+Krewlod C
+Krewlod D
+
+
+// Nighon Map Region Names
+Nighon A
+Nighon B
+Nighon C
+Nighon D
+
+
+// Tatalia Map Region Names
+Tatalia A
+Tatalia B
+Tatalia C
+
+
+// Armageddon Map Region Names
+Armageddon A
+Armageddon B
+Armageddon C
+Armageddon D
+Armageddon E
+Armageddon F
+Armageddon G
+Armageddon H
+
+
+// Hack and Slash Region Names
+Tranche et Taille A
+Tranche et Taille B
+Tranche et Taille C
+Tranche et Taille D
+
+
+// Birth of a Barbarian Region Names
+La Naissance d'un Barbare A
+La Naissance d'un Barbare B
+La Naissance d'un Barbare C
+La Naissance d'un Barbare D
+La Naissance d'un Barbare E
+
+
+// New Beginning Region Names
+Nouveau Départ A
+Nouveau Départ B
+Nouveau Départ C
+Nouveau Départ D
+
+
+// Elixir of Life Region Names
+Elixir de Vie A
+Elixir de Vie B
+Elixir de Vie C
+Elixir de Vie D
+
+
+// Rise of the Necromancer Region Names
+L'Ascension du Nécromancien A
+L'Ascension du Nécromancien B
+L'Ascension du Nécromancien C
+L'Ascension du Nécromancien D
+
+
+// Unholy Alliance Region Names
+Alliance Maudite A
+Alliance Maudite B
+Alliance Maudite C
+Alliance Maudite D
+Alliance Maudite E
+Alliance Maudite F
+Alliance Maudite G
+Alliance Maudite H
+Alliance Maudite I
+Alliance Maudite J
+Alliance Maudite K
+Alliance Maudite L
+
+
+// Specter of Power Region Names
+Le Spectre du Pouvoir A
+Le Spectre du Pouvoir B
+Le Spectre du Pouvoir C
+Le Spectre du Pouvoir D

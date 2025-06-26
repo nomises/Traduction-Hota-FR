@@ -1,0 +1,91 @@
+===== Map name =====
+Les Jours Glorieux
+
+===== Map description =====
+Les seigneurs de plusieurs de ces îles sont en guerre. Devenez le plus puissant d'entre eux et forcez vos voisins à reconnaitre votre suprématie.
+
+===== Rumors =====
+
+Name:
+Bière 1
+Text:
+Ahh, bordel! De la bonne bière!
+
+Name:
+Bière 2
+Text:
+Je bois de la bière quand j'ai une bonne raison pour...
+
+Name:
+Bonne journée
+Text:
+Aujourd'hui est une bonne journée!
+
+Name:
+Iles
+Text:
+Il y'a beaucoup d'îles par ici.
+
+Name:
+Jolly Roger
+Text:
+TOUT LE MONDE SE RALLIE AU JOLLY ROGER!!!  ARRGHH!
+
+Name:
+Chance
+Text:
+Vous pourriez avoir de la chance par ici.
+
+Name:
+Mines
+Text:
+Cherchez les mines Uribiennes.
+
+Name:
+Rivière souterraine
+Text:
+Une énorme rivière souterraine coule du nord au sud.
+
+===== Timed events =====
+
+Name:
+Commencement
+Message:
+Des terres riches et des îles s'étendent à vos pieds. Vos rivaux vivent sur les plus grandes d'entre elles. Rejoignez les par la mer ou trouvez un tunnel, avant qu'ils ne vous trouvent les premiers.
+
+Name:
+biens1
+Message:
+Commercer avec des royaumes lointains rapporte beaucoup.
+
+Name:
+biens2
+Message:
+Commercer avec des royaumes lointains rapporte beaucoup.
+
+Name:
+biens3
+Message:
+Commercer avec des royaumes lointains rapporte beaucoup.
+
+===== Heroes =====
+
+===== Objects =====
+
+(69, 17, 1) ***Sign***
+Message:
+Cache secrète
+
+(88, 78, 1) ***Sign***
+Message:
+Mines Uribiques droit devant!
+
+(88, 82, 1) ***Event***
+Message:
+Vous avez trouvé les riches mines Uribiques !
+
+(71, 15, 1) ***Pandora's Box***
+Message:
+
+
+===== End of file =====

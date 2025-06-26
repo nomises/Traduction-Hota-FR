@@ -1,0 +1,346 @@
+===== Map name =====
+Headhunting
+
+===== Map description =====
+You are undoubtedly in trouble if, carrying a valuable artifact, you find yourself surrounded by mercenary bands, and even more so if you have but a handful of troops to protect you. However, there is always a chance.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Player - 1-1
+Message:
+   Not so long ago, you were enjoying a peaceful life in your manor, but it all changed after a risky venture. Now, following a series of unfortunate events, you have only one chance left to bring those days back. This chance lies in using a valuable artifact called the Sphere of Permanence to escape through a portal that leads to another continent. You had to steal this artifact from the imperial sorcerers. The bounty put on your head is exorbitant. Not only the imperial troops and mercenaries are yearning for it, but also the best enchanters and druids. You are within an inch of your life, as hordes of mercenaries have taken control of these lands and are preparing their assault. The portal that could save you is still far off, and precious few of your companions are still standing: some were killed, others captured. Trapped at the edge of the world, you decide to fight your chasers.
+
+Name:
+AI - Bonus gems
+Message:
+
+
+Name:
+Player Altera - Start
+Message:
+You have some stocks left...
+
+Name:
+Player 3-1
+Message:
+Your scouts report that the mercenary bands can't agree on a truce, so they will hinder each other. Perhaps you can bribe some of them. Now you also have information about the status of all local shipyards.
+
+Name:
+Player 7-1
+Message:
+You've found a source of magical energy emanating from underground. This aura must mark the ritual site in the underground town of Eaglyre. Unfortunately, your enemies had found the portal first and sealed it with a multi-component key. To get the key, you'll need to "politely" ask them for its parts.
+
+===== Heroes =====
+
+===== Objects =====
+
+(26, 29, 0) ***Elementalist***
+Name:
+Altera
+Biography:
+Altera was an up-and-coming imperial mage of fire. One day, her luck ran out. After failing to complete a mission, she was accused of working for the enemy. Now, Altera must flee from her pursuers and hope to find a place to hide, as the Empire is very harsh on traitors.
+
+(61, 6, 0) ***Rampart***
+
+Timed events:
+
+Name:
+Pink AI - Bonus
+Message:
+
+
+Name:
+Pink AI - Start
+Message:
+
+
+Name:
+Pink AI - Big bonus
+Message:
+
+
+(17, 57, 0) ***Fortress***
+
+Timed events:
+
+Name:
+Green AI - Bonus
+Message:
+
+
+Name:
+Green AI - Start
+Message:
+
+
+Name:
+Green AI - Big bonus
+Message:
+
+
+(13, 8, 0) ***Stronghold***
+
+Timed events:
+
+Name:
+Purple AI - Bonus
+Message:
+
+
+Name:
+Purple AI - Start
+Message:
+
+
+Name:
+Purple AI - Big bonus
+Message:
+
+
+(28, 37, 0) ***Pandora's Box***
+Message:
+
+
+(55, 66, 0) ***Cove***
+
+Timed events:
+
+Name:
+Orange AI - Bonus
+Message:
+
+
+Name:
+Orange AI - Start
+Message:
+
+
+Name:
+Orange AI - Big bonus
+Message:
+
+
+(32, 58, 0) ***Pandora's Box***
+Message:
+
+
+(19, 47, 0) ***Event***
+Message:
+Enchanters!
+
+(37, 29, 0) ***Pandora's Box***
+Message:
+
+
+(11, 43, 0) ***Event***
+Message:
+Enchanters! 
+
+(8, 39, 0) ***Event***
+Message:
+Enchanters!
+
+(21, 41, 0) ***Event***
+Message:
+Enchanters!
+
+(4, 47, 0) ***Event***
+Message:
+Enchanters! 
+
+(16, 24, 0) ***Event***
+Message:
+Enchanters!
+
+(12, 49, 0) ***Event***
+Message:
+Enchanters! 
+
+(4, 41, 0) ***Event***
+Message:
+Enchanters! 
+
+(6, 33, 0) ***Event***
+Message:
+Enchanters!
+
+(10, 28, 0) ***Event***
+Message:
+Enchanters!
+
+(49, 13, 0) ***Event***
+Message:
+
+
+(6, 5, 0) ***Event***
+Message:
+
+
+(28, 66, 0) ***Event***
+Message:
+
+
+(45, 55, 0) ***Event***
+Message:
+
+
+(6, 29, 0) ***Event***
+Message:
+
+
+(9, 51, 0) ***Event***
+Message:
+
+
+(26, 55, 0) ***Event***
+Message:
+
+
+(26, 53, 0) ***Event***
+Message:
+
+
+(52, 68, 0) ***Event***
+Message:
+
+
+(65, 28, 0) ***Event***
+Message:
+
+
+(21, 38, 0) ***Event***
+Message:
+Beware! Local druids are surely just waiting for you to step beyond the anti-magic gates.
+
+(68, 0, 1) ***Seer's Hut***
+Message:
+I have something, but for Altera only, and no one else.
+
+(5, 39, 1) ***Pandora's Box***
+Message:
+
+
+(50, 59, 1) ***Pandora's Box***
+Message:
+
+
+(28, 41, 1) ***Pandora's Box***
+Message:
+
+
+(18, 14, 1) ***Quest Guard***
+Message:
+Here, you can set up a {raid} on one of your enemies: {orange, green or purple}, for a fee. To do this, open the way to the portal of the desired color. But remember: mercenaries want gold, and even after the raid, you may have to face them in battle.
+Here, you can set up a {raid} on one of your enemies: {orange, green or purple}, for a fee. To do this, open the way to the portal of the desired color. But remember: mercenaries want gold, and even after the raid, you may have to face them in battle.
+
+(18, 24, 1) ***Quest Guard***
+Message:
+Here, you can set up a {raid} on one of your enemies: {orange, green or purple}, for a fee. To do this, open the way to the portal of the desired color. But remember: mercenaries want gold, and even after the raid, you may have to face them in battle.
+Here, you can set up a {raid} on one of your enemies: {orange, green or purple}, for a fee. To do this, open the way to the portal of the desired color. But remember: mercenaries want gold, and even after the raid, you may have to face them in battle.
+
+(11, 24, 1) ***Quest Guard***
+Message:
+Here, you can set up a {raid} on one of your enemies: {orange, green or purple}, for a fee. To do this, open the way to the portal of the desired color. But remember: mercenaries want gold, and even after the raid, you may have to face them in battle.
+Here, you can set up a {raid} on one of your enemies: {orange, green or purple}, for a fee. To do this, open the way to the portal of the desired color. But remember: mercenaries want gold, and even after the raid, you may have to face them in battle.
+
+(11, 14, 1) ***Quest Guard***
+Message:
+Here, you can set up a {raid} on one of your enemies: {orange, green or purple}, for a fee. To do this, open the way to the portal of the desired color. But remember: mercenaries want gold, and even after the raid, you may have to face them in battle.
+Here, you can set up a {raid} on one of your enemies: {orange, green or purple}, for a fee. To do this, open the way to the portal of the desired color. But remember: mercenaries want gold, and even after the raid, you may have to face them in battle.
+
+(28, 1, 1) ***Pandora's Box***
+Message:
+
+
+(0, 1, 1) ***Pandora's Box***
+Message:
+
+
+(18, 1, 1) ***Pandora's Box***
+Message:
+
+
+(8, 1, 1) ***Pandora's Box***
+Message:
+
+
+(27, 22, 1) ***Event***
+Message:
+
+
+(26, 12, 1) ***Event***
+Message:
+
+
+(3, 12, 1) ***Event***
+Message:
+
+
+(2, 22, 1) ***Event***
+Message:
+
+
+(27, 32, 1) ***Pandora's Box***
+Message:
+
+
+(45, 57, 1) ***Pandora's Box***
+Message:
+
+
+(39, 65, 1) ***Pandora's Box***
+Message:
+
+
+(5, 0, 1) ***Event***
+Message:
+
+
+(68, 43, 1) ***Dungeon***
+Name:
+Eaglyre
+
+(37, 0, 1) ***Fortress***
+Name:
+LetMeFly
+
+(69, 27, 1) ***Pandora's Box***
+Message:
+Fairy box
+
+(22, 22, 1) ***Event***
+Message:
+
+
+(8, 12, 1) ***Event***
+Message:
+
+
+(21, 12, 1) ***Event***
+Message:
+
+
+(7, 22, 1) ***Event***
+Message:
+
+
+(0, 3, 1) ***Spell Scroll***
+Message:
+sibasa
+
+(13, 17, 1) ***Sign***
+Message:
+Raiding anywhere at any time for your money.
+
+(66, 46, 1) ***Warlock***
+Name:
+Ardare
+
+(40, 22, 1) ***Pandora's Box***
+Message:
+
+
+===== End of file =====

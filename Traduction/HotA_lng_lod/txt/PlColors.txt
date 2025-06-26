@@ -1,0 +1,8 @@
+rouge
+bleu
+marron
+vert
+orange
+violet
+turquoise
+rose

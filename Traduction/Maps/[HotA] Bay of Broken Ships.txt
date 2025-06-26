@@ -1,0 +1,15 @@
+===== Map name =====
+La Baie des Naufragés
+
+===== Map description =====
+Une légende raconte qu'une récompense attend celui qui permettra aux âmes torturées des marins de trouver le repos éternel. Beaucoup n'y croient pas et évitent ce lieu maudit, mais vous n'en faites pas partie...
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Heroes =====
+
+===== Objects =====
+
+===== End of file =====

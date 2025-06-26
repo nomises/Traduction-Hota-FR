@@ -1,0 +1,140 @@
+Salle des Gardes	La Salle des Gardes permet de recruter des Lanciers.
+Archerie	L'Archerie permet de recruter des Arbalétriers.
+Tour des Griffons	La Tour des Griffons permet de recruter des Griffons.
+Caserne	La Caserne permet de recruter des Spadassins.
+Monastère	Le Monastère permet de recruter des Moines.
+Lice	La Lice permet de recruter des Cavaliers.
+Arche Céleste	L'Arche Céleste permet de recruter des Anges.
+Salle des Gardes Sup.	La Salle des Gardes améliorée permet de recruter des Hallebardiers.
+Archerie Sup.	L'Archerie améliorée permet de recruter des Grands Arbalétriers.
+Tour des Griffons Sup.	La Tour des Griffons améliorée permet de recruter des Griffons Royaux.
+Caserne Sup.	La Caserne améliorée permet de recruter des Paladins.
+Monastère Sup.	Le Monastère amélioré permet de recruter des Zélotes.
+Lice Sup.	La Lice améliorée permet de recruter des Champions.
+Arche Céleste Sup.	L'Arche Céleste améliorée permet de recruter des Archanges.
+Écurie des Centaures	L'Écurie des Centaures permet de recruter des Centaures.
+Chaumière des Nains	La Chaumière des Nains permet de recruter des Nains.
+Gîte Sylvain	Le Gîte Sylvain permet de recruter des Elfes Sylvains.
+Source Enchantée	La Source Enchantée permet de recruter des Pégases.
+Dôme Sylvanien	Le Dôme Sylvanien permet de recruter des Gardes Sylvaniens.
+Clairière de Pureté	La Clairière de Pureté permet de recruter des Licornes.
+Falaises Dentelées	Les Falaises Dentelées permettent de recruter des Dragons Verts.
+Écurie des Centaures Sup.	L'Écurie des Centaures améliorée permet de recruter des Capitaines Centaures.
+Chaumière des Nains Sup.	La Chaumière des Nains améliorée permet de recruter des Guerriers Nains.
+Gîte Sylvain Sup.	Le Gîte Sylvain amélioré permet de recruter des Grands Elfes.
+Source Enchantée Sup.	La Source Enchantée améliorée permet de recruter des Pégases d'Argent.
+Dôme Sylvanien Sup.	Le Dôme Sylvanien amélioré permet de recruter des Soldats Sylvaniens.
+Clairière de Pureté Sup.	La Clairière de Pureté améliorée permet de recruter des Licornes de Guerre.
+Falaises Dentelées Sup.	Les Falaises Dentelées améliorées permettent de recruter des Dragons d'Or.
+Horlogerie	L'Horlogerie permet de recruter des Lutins.
+Fronton	Le Fronton permet de recruter des Gargouilles.
+Machinerie des Golems	La Machinerie des Golems permet de recruter des Golems de Pierre.
+Tour des Mages	La Tour des Mages permet de recruter des Mages.
+Autel des Souhaits	L'Autel des Souhaits permet de recruter des Djinns.
+Pavillon d'Or	Le Pavillon d'Or permet de recruter des Nagas.
+Temple des Nuages	Le Temple des Nuages permet de recruter des Géants.
+Horlogerie Sup.	L'Horlogerie améliorée permet de recruter des Maîtres Lutins.
+Fronton Sup.	Le Fronton amélioré permet de recruter des Gargouilles d'Obsidienne.
+Machinerie des Golems Sup.	La Machinerie des Golems améliorée permet de recruter des Golems de Fer.
+Tour des Mages Sup.	La Tour des Mages améliorée permet de recruter des Archimages.
+Autel des Souhaits Sup.	L'Autel des Souhaits amélioré permet de recruter des Génies.
+Pavillon d'Or Sup.	Le Pavillon d'Or amélioré permet de recruter des Reines Nagas.
+Temple des Nuages Sup.	Le Temple des Nuages amélioré permet de recruter des Titans.
+Faille des Diablotins	La Faille des Diablotins permet de recruter des Diablotins.
+Antre des Péchés	L'Antre des Péchés permet de recruter des Gogs.
+Chenil	Le Chenil permet de recruter des Chiens de l'Enfer.
+Porte des Enfers	La Porte des Enfers permet de recruter des Démons.
+Abîmes	Les Abîmes permettent de recruter des Servants des Abîmes.
+Lac de Feu	Le Lac de Feu permet de recruter des Effrits.
+Palais Fantôme	Le Palais Fantôme permet de recruter des Diables.
+Faille des Diablotins Sup.	La Faille des Diablotins améliorée permet de recruter des Familiers.
+Antre des Péchés Sup.	L'Antre des Péchés améliorée permet de recruter des Magogs.
+Chenil Sup.	Le Chenil amélioré permet de recruter des Cerbères.
+Porte des Enfers Sup.	La Porte des Enfers améliorée permet de recruter des Démons Cornus.
+Abîmes Sup.	Les Abîmes améliorés permettent de recruter des Seigneurs des Abîmes.
+Lac de Feu Sup.	Le Lac de Feu amélioré permet de recruter des Sultans Effrits.
+Palais Fantôme Sup.	Le Palais Fantôme amélioré permet de recruter des Archidiables.
+Temple Maudit	Le Temple Maudit permet de recruter des Squelettes.
+Tombeaux	Les Tombeaux permettent de recruter des Trépassés.
+Puits des Âmes	Le Puits des Âmes permet de recruter des Revenants.
+Crypte	La Crypte permet de recruter des Vampires.
+Mausolée	Le Mausolée permet de recruter des Liches.
+Antichambre des Ténèbres	L'Antichambre des Ténèbres permet de recruter des Chevaliers Noirs.
+Cimetière des Dragons	Le Cimetière des Dragons permet de recruter des Dragons Squelettes.
+Temple Maudit Sup.	Le Temple Maudit amélioré permet de recruter des Guerriers Squelettes.
+Tombeaux Sup.	Les Tombeaux améliorés permettent de recruter des Zombies.
+Puit des Âmes Sup.	Le Puit des Âmes amélioré permet de recruter des Spectres.
+Crypte Sup.	La Crypte améliorée permet de recruter des Seigneurs Vampires.
+Mausolée Sup.	Le Mausolée amélioré permet de recruter des Grandes Liches.
+Antichambre des Ténèbres Sup.	L'Antichambre des Ténèbres améliorée permet de recruter des Chevaliers de l'Effroi.
+Cimetière des Dragons Sup.	Le Cimetière des Dragons amélioré permet de recruter des Dragons Fantômes.
+Caverne	La Caverne permet de recruter des Troglodytes.
+Nid de Harpies	Le Nid de Harpies permet de recruter des Harpies.
+Souche Maudite	La Souche Maudite permet de recruter des Yeux Maléfiques.
+Chapelle des Murmures	La Chapelle des Murmures permet de recruter des Méduses.
+Dédale	Le Dédale permet de recruter des Minotaures.
+Repaire des Manticores	Le Repaire des Manticores permet de recruter des Manticores.
+Antre des Dragons	L'Antre des Dragons permet de recruter des Dragons Rouges.
+Caverne Sup.	La Caverne améliorée permet de recruter des Troglodytes Infernaux.
+Nid de Harpies Sup.	Le Nid de Harpies amélioré permet de recruter des Harpies Sinistres.
+Souche Maudite Sup.	La Souche Maudite améliorée permet de recruter des Yeux Démoniaques.
+Chapelle des Murmures Sup.	La Chapelle des Murmures améliorée permet de recruter des Reines Méduses.
+Dédale Sup.	Le Dédale amélioré permet de recruter des Rois Minotaures.
+Repaire des Manticores Sup.	Le Repaire des Manticore amélioré permet de recruter des Scorpicores.
+Antre des Dragons Sup.	L'Antre des Dragons permet de recruter des Dragons Noirs.
+Caserne des Gobelins	La Caserne des Gobelins permet de recruter des Gobelins.
+Louveterie	La Louveterie permet de recruter des Dresseurs de Loups.
+Tour des Orcs	La Tour des Orcs permet de recruter des Orcs.
+Fort des Ogres	Le Fort des Ogres permet de recruter des Ogres.
+Falaise des Rocks	La Falaise des Rocks permet de recruter des Rocks.
+Grotte des Cyclopes	La Grotte des Cyclopes permet de recruter des Cyclopes.
+Antre des Béhémoths	L'Antre des Béhémoths permet de recruter des Béhémoths.
+Caserne des Gobelins Sup.	La Caserne des Gobelins améliorée permet de recruter des Hobgobelins.
+Louveterie Sup.	La Louveterie améliorée permet de recruter des Pillards.
+Tour des Orcs Sup.	La Tour des Orcs améliorée permet de recruter des Chefs Orcs.
+Fort des Ogres Sup.	Le Fort des Ogres amélioré permet de recruter des Ogres Mages.
+Falaise des Rocks Sup.	La Falaise des Rocks améliorée permet de recruter des Rocks Foudroyants.
+Grotte des Cyclopes Sup.	La Grotte des Cyclopes améliorée permet de recruter des Rois Cyclopes.
+Antre des Béhémoths Sup.	L'Antre des Béhémoths améliorée permet de recruter des Béhémoths Royaux.
+Hutte des Gnolls	La Hutte des Gnolls permet de recruter des Gnolls.
+Tanière des Lézards	La Tanière des Lézards permet de recruter des Hommes Lézards.
+Essaim des Guêpes	L'Essaim des Guêpes permet de recruter des Guêpes Serpents.
+Fosse des Basilics	La Fosse des Basilics permet de recruter des Basilics.
+Antre des Gorgones	L'Antre des Gorgones permet de recruter des Gorgones.
+Nid de Wyvernes	Le Nid de Wyvernes permet de recruter des Wyvernes.
+Bourbier des Hydres	Le Bourbier des Hydres permet de recruter des Hydres.
+Hutte des Gnolls Sup.	La Hutte des Gnolls améliorée permet de recruter des Gnolls Maraudeurs.
+Tanière des Lézards Sup.	La Tanière des Lézards améliorée permet de recruter des Guerriers Lézards.
+Essaim des Guêpes Sup.	L'Essaim des Guêpes amélioré permet de recruter des Guêpes Dragons.
+Fosse des Basilics Sup.	La Fosse des Basilics améliorée permet de recruter des Grands Basilics.
+Antre des Gorgones Sup.	L'Antre des Gorgones améliorée permet de recruter des Grandes Gorgones.
+Nid de Wyvernes Sup.	Le Nid de Wyvernes amélioré permet de recruter des Monarques Wyvernes.
+Bourbier des Hydres Sup.	Le Bourbier des Hydres amélioré permet de recruter des Pyrohydres.
+Lanterne Magique	La Lanterne Magique permet de recruter des Pixies.
+Autel de l'Air	L'Autel de l'Air permet de recruter des Élémentaires de l'Air.
+Autel de l'Eau	L'Autel de l'Eau permet de recruter des Élémentaires de l'Eau.
+Autel du Feu	L'Autel du Feu permet de recruter des Élémentaires du Feu.
+Autel de la Terre	L'Autel de la Terre permet de recruter des Élémentaires de la Terre.
+Autel de l'Esprit	L'Autel de l'Esprit permet de recruter des Élémentaires de l'Esprit.
+Fournaise	La Fournaise permet de recruter des Oiseaux de Feu.
+Lanterne Magique Sup.	La Lanterne Magique améliorée permet de recruter des Fées.
+Autel de l'Air Sup.	L'Autel de l'Air amélioré permet de recruter des Élémentaires de Tempête.
+Autel de l'Eau Sup.	L'Autel de l'Eau amélioré permet de recruter des Élémentaires de Glace.
+Autel du Feu Sup.	L'Autel du Feu amélioré permet de recruter des Élémentaires d'Energie.
+Autel de la Terre Sup.	L'Autel de la Terre amélioré permet de recruter des Élémentaires de Magma.
+Autel de l'Esprit Sup.	L'Autel de l'Esprit amélioré permet de recruter des Élémentaires de Magie.
+Fournaise Sup.	La Fournaise améliorée permet de recruter des Phénix.
+Demeure Niveau 1	Vous permet de recruter des créatures de Niveau 1.
+Demeure Niveau 2	Vous permet de recruter des créatures de Niveau 2.
+Demeure Niveau 3	Vous permet de recruter des créatures de Niveau 3.
+Demeure Niveau 4	Vous permet de recruter des créatures de Niveau 4.
+Demeure Niveau 5	Vous permet de recruter des créatures de Niveau 5.
+Demeure Niveau 6	Vous permet de recruter des créatures de Niveau 6.
+Demeure Niveau 7	Vous permet de recruter des créatures de Niveau 7.
+Demeure Niveau 1 Aml.	Vous permet de recruter des créatures de Niveau 1 améliorées.
+Demeure Niveau 2 Aml.	Vous permet de recruter des créatures de Niveau 2 améliorées.
+Demeure Niveau 3 Aml.	Vous permet de recruter des créatures de Niveau 3 améliorées.
+Demeure Niveau 4 Aml.	Vous permet de recruter des créatures de Niveau 4 améliorées.
+Demeure Niveau 5 Aml.	Vous permet de recruter des créatures de Niveau 5 améliorées.
+Demeure Niveau 6 Aml.	Vous permet de recruter des créatures de Niveau 6 améliorées.
+Demeure Niveau 7 Aml.	Vous permet de recruter des créatures de Niveau 7 améliorées.

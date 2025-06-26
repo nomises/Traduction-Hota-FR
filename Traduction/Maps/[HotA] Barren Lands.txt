@@ -1,0 +1,300 @@
+===== Map name =====
+Landes Stériles
+
+===== Map description =====
+Les seigneurs locaux revinrent aux landes stériles après avoir défait le Nécromancien. La victoire fut ardue. Mais après sa mort le Nécromancien maudit les alliés qui devinrent ennemis. Dorénavant ils combattent entre eux.
+
+===== Rumors =====
+
+Name:
+Les Chevaliers de l'Effroi
+Text:
+Il paraît que tuer des Chevaliers de l'Effroi rapporte beaucoup. Cependant, je n'ai pas vérifié.
+
+Name:
+La Nécropole
+Text:
+Il paraît que la Cage des Ames a été faite dans la Nécropole.
+
+Name:
+La lame d'Armageddon 1
+Text:
+Il paraît que la lame d'Armageddon existe.
+
+Name:
+La lame d'armageddon 2
+Text:
+Il se dit que le Nécromancien a caché la lame d'Armageddon et laissé des légions de soldats pour la garder.
+
+Name:
+La lame d'Armageddon 3
+Text:
+J'ai entendu dire que la lame d'Armageddon était cachée dans une boîte de Pandore.
+
+Name:
+Au sujet des rumeurs
+Text:
+Beaucoup de rumeurs courent. Vous ne devez pas les croire toutes.
+
+Name:
+Le Graal
+Text:
+Il paraît que vous pouvez devenir riche si vous creusez dans un marais.
+
+Name:
+Le Nécromancien 2
+Text:
+Certains disent que le Nécromancien n'était pas diabolique. Il ressucitait les morts.
+
+Name:
+Livre de Feu
+Text:
+Il y'a des rumeurs pour dire qu'il reste seulement un Livre des Eléments, le Livre de Feu. Il peut être bénéfique de le chercher.
+
+Name:
+Fiole
+Text:
+Il paraît que la Fiole de Sang de Dragon peut être facilement retrouvée, et que personne ne la garde. J'ai entendu dire qu'elle se trouvait sur une île dans le nord.
+
+Name:
+Dracoliches
+Text:
+Certaines personnes affirment se souvenir des Dracoliches, mais je pense qu'ils délirent.
+
+Name:
+Marcher sur l'eau
+Text:
+Des pêcheurs locaux auraient vu un héros marcher sur l'eau. Je ne sais pas si vous y croyez, mais il n'y a pas eu de tel miracle dans ce royaume depuis l'aube des temps.
+
+Name:
+Utopie
+Text:
+Certains disent que le Nécromancien a rendu son plus puissant artefact invisible et qu'il l'aurait caché près d'une Utopie des Dragons.
+
+Name:
+A propos du héros
+Text:
+Il paraît que le Drac Mutare a été vu pour la dernière fois dans une grotte inondée.
+
+Name:
+Le Nécromancien
+Text:
+Certains disent que le Nécromancien a laissé quantité de richesses après sa mort.
+
+===== Timed events =====
+
+Name:
+Vous êtes ruiné
+Message:
+Soudain tout votre argent se transforme en sable et s'écoule entre vos doigts.
+
+Name:
+Vous ne pouvez pas rester dans la pauvreté
+Message:
+Le peuple vous donne quelques ressources pour que vous puissiez au moins construire un fort.
+
+Name:
+AI help
+Message:
+
+
+===== Heroes =====
+
+===== Objects =====
+
+(6, 5, 0) ***Sign***
+Message:
+Péninsule du marais
+
+(33, 5, 0) ***Pandora's Box***
+Message:
+
+
+(64, 146, 0) ***Pandora's Box***
+Message:
+
+
+(150, 181, 0) ***Sign***
+Message:
+Terres arables
+
+(5, 205, 0) ***Pandora's Box***
+Message:
+
+
+(174, 198, 0) ***Seer's Hut***
+Message:
+Oui, je suis le héros qui peut marcher sur l'eau. Et si vous voulez, je peux vous apprendre à le faire mais ça coûte cher. J'ai besoin d'une bonne armée pour errer à nouveau. Je n'accepte que les Dragons d'Azur. Je pense que vous ne refuserez pas de m'aider et que vous me rapporterez 6 Dragons d'Azur.
+Je n'ai pas besoin de guerriers mais de Dragons d'Azur. Ou vous n'apprendrez pas à marcher sur l'eau.
+Vous avez trouvé 6 Dragons d'Azur! Bien, je vais partir à la conquête de cités, et vous pourrez essayer de marcher sur l'eau.
+
+(106, 187, 0) ***Ocean Bottle***
+Message:
+J'aurais dû donner un coup de pied à ce charlatan, et ne pas écouter ces contes à dormir debout à propos d'un trésor.
+
+(194, 141, 0) ***Pandora's Box***
+Message:
+
+
+(215, 167, 0) ***Seer's Hut***
+Message:
+Nous sommes des adeptes du culte des Titans. Nous avons besoin de 5 Dragons Noirs pour le sacrifice. Si vous nous aidez, nous améliorerons vos talents d'attaque.
+C'est si difficile de trouver 5 Dragons Noirs pour un sacrifice? Dépêchez-vous, le rituel repose sur vous.
+Enfin, 5 Dragons Noirs! Comme promis, nous allons améliorez vos compétences d'attaque.
+
+(63, 114, 0) ***Event***
+Message:
+Vous vous rapprochez de votre but. La Lame d'Armageddon est dans une de ces boîtes de Pandore.
+
+(67, 121, 0) ***Pandora's Box***
+Message:
+Êtes-vous sûr que la Lame d'Armageddon est dans cette boîte?
+
+(63, 117, 0) ***Pandora's Box***
+Message:
+Êtes-vous sûr que la Lame d'Armageddon est dans cette boîte?
+
+(27, 180, 0) ***Seer's Hut***
+Message:
+Nous sommes des bûcherons locaux et nous avons un bon de commande pour 1000 bois. Nous avons déjà coupé près de la moitié lorsque nous avons soudain trouvé l'Arbre de la Connaissance. Nous avons essayé de le couper à plusieurs reprises mais rien n'y fait. Beaucoup d'entre nous sont morts dans cette maudite forêt. Nous n'y retournerons pas. Si vous nous aidez à obtenir les 576 bois dont nous avons besoin, nous vous fournirons de bons guerriers.
+C'est insuffisant, j'ai besoin de 576 bois ou ma commande ne sera pas honorée.
+Enfin! J'espère que vous avez rasé cette maudite forêt. Bien, donnez-moi les 576 bois et je vais vous donner quelque chose.
+
+(119, 1, 0) ***Pandora's Box***
+Message:
+
+
+(83, 4, 0) ***Seer's Hut***
+Message:
+C'est très simple : Un peu d'or contre un sort.
+Pas d'or, pas de sort.
+Donnez-moi les 7500 pièces d'Or et je vous apprend le sort!
+
+(145, 72, 0) ***Sign***
+Message:
+L'inscription est illisible
+
+(142, 76, 0) ***Pandora's Box***
+Message:
+
+
+(119, 16, 0) ***Pandora's Box***
+Message:
+
+
+(189, 123, 0) ***Pandora's Box***
+Message:
+
+
+(96, 60, 0) ***Pandora's Box***
+Message:
+
+
+(99, 131, 0) ***Sign***
+Message:
+Île des élémentaux
+
+(136, 115, 0) ***Sign***
+Message:
+Île des élémentaux
+
+(148, 101, 0) ***Seer's Hut***
+Message:
+Nous voulons trouver un grand héros avec une compétence d'attaque de 23 ou plus.
+Avez-vous vu un grand héros? Il doit avoir une compétence d'attaque de 23 ou plus. Si vous le trouvez, faites-lui savoir que nous l'attendons.
+Nous avons toujours rêvé de rencontrer un grand héros tel que vous. Pouvons-nous nous joindre à vos forces?
+
+(27, 16, 0) ***Pandora's Box***
+Message:
+
+
+(68, 104, 0) ***Seer's Hut***
+Message:
+Nous cherchons un héros talentueux pour conquérir de nouvelles terres sous son commandement. Un héros de niveau 20 ou plus peut nous prendre dans son armée.
+Enfin! Un héros talentueux! Sous son commandement nous ferons fortune!
+
+(49, 96, 0) ***Pandora's Box***
+Message:
+
+
+(8, 115, 0) ***Pandora's Box***
+Message:
+
+
+(183, 199, 0) ***Pandora's Box***
+Message:
+
+
+(160, 49, 0) ***Pandora's Box***
+Message:
+
+
+(208, 80, 0) ***Pandora's Box***
+Message:
+
+
+(18, 151, 0) ***Pandora's Box***
+Message:
+
+
+(106, 164, 0) ***Pandora's Box***
+Message:
+
+
+(204, 214, 0) ***Pandora's Box***
+Message:
+
+
+(91, 202, 0) ***Pandora's Box***
+Message:
+
+
+(198, 102, 0) ***Pandora's Box***
+Message:
+
+
+(53, 186, 0) ***Pandora's Box***
+Message:
+
+
+(59, 118, 0) ***Pandora's Box***
+Message:
+Êtes-vous sûr que la Lame d'Armageddon est dans cette boîte?
+
+(66, 118, 0) ***Pandora's Box***
+Message:
+Êtes-vous sûr que la Lame d'Armageddon est dans cette boîte?
+
+(117, 98, 1) ***Seer's Hut***
+Message:
+Si vous défaites les Chevaliers de l'Effroi qui défendent la Tente Noire, vous aurez beaucoup d'expérience.
+Ne désespérez pas! C'est difficile de battre des Chevaliers de l'Effroi. Et encore plus dur de les trouver.
+Finalement les Chevaliers de l'Effroi ont été vaincus. Êtes-vous prêt à recevoir votre récompense?
+
+(62, 72, 1) ***Event***
+Message:
+
+
+(98, 112, 1) ***Sign***
+Message:
+Île du Nécromancien
+
+(139, 101, 1) ***Sign***
+Message:
+Île du Nécromancien
+
+(72, 21, 1) ***Sign***
+Message:
+Monde Perdu
+
+(141, 124, 1) ***Sign***
+Message:
+Île du Nécromancien
+
+(20, 191, 1) ***Seer's Hut***
+Message:
+Nous sommes des momies sans repos recluses dans cet endroit hanté. Nous attendons un héros capable de nous libérer. Vous nous libérerez si vous prouvez qu'au moins 1 momie vous à servi.
+Jusqu'à ce que vous prouviez que des momies vont ont servi, nous ne nous joindrons pas à vous.
+Vous êtes notre maître. Nous acceptez-vous dans vos rangs?
+
+===== End of file =====

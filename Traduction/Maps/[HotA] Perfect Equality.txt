@@ -1,0 +1,39 @@
+===== Map name =====
+Égalité Parfaite
+
+===== Map description =====
+L'intrigue est aussi vieille que le monde : un roi mourant a demandé à ses quatre fils que l'un d'eux devienne son successeur après un combat loyal. Le royaume est grand, et le roi a pu donner une parcelle de terre équitable à chaque fils, afin qu'aucun d'eux n'ait un avantage sur les autres.
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Heroes =====
+
+===== Objects =====
+
+(14, 61, 0) ***Seer's Hut***
+Message:
+Vous arrivez dans une petite habitation, construite directement dans un vieil arbre mais toujours assez fort. A la fenêtre du bas, une faible lumière brûle - apparemment le chandelier est le seul moyen d'éclairer la maison. Pendant que vous rassembliez vos idées avant de venir frapper à la porte ou non, elle s'est ouverte d'elle-même et un vieil homme est sorti.		Un vieux guerrier habite ici. Il sera prêt à vous apprendre quelques trucs, mais vous devez en être digne. Revenez quand vous avez au moins 32 d'Attaque et 14 de Défense.
+Le vieil homme refuse de vous parler tant que vous ne serez pas assez fort.
+Le vieil homme paraît excité et fier de vous. Il vous récompense avec son savoir.
+
+(52, 39, 0) ***Seer's Hut***
+Message:
+Vous entrez dans une petite maison, qui semble être une bibliothèque. Vous prenez au hasard un livre sur l'étagère, mais vous ne comprenez pas les étranges écrits qu'il contient. Peut-être que 32 de Savoir et que 14 de Magie vous accordera la connaissance contenue dans ces pages.
+Vous savez qu'à l'heure actuelle, la bibliothèque est une perte de temps. Vous avez besoin de plus de Savoir et de Magie.
+Vous venez dans la bibliothèque et vous comprenez enfin de quoi parlent les livres. Vous apprenez beaucoup en peu de temps ici.
+
+(31, 16, 0) ***Seer's Hut***
+Message:
+Vous remarquez une petite maison à l'orée de la forêt. Vous décidez de vérifier ce qu'il y a à l'intérieur. Vous rencontrez un mage, qui est prêt à vous accorder un grand pouvoir si vous avez 32 de Magie et 14 de Savoir.
+Vous essayez d'ouvrir à nouveau la porte, mais vous voyez les numéros 32 et 14 y apparaître. Vous repartez.
+Vous êtes assez puissant et le mage vous accorde une partie de son pouvoir.
+
+(50, 22, 0) ***Seer's Hut***
+Message:
+À quelques pas de la maison, une flèche touche le sol sous vos pieds.		"Défense - 32 points et Attaque - 14 points. N'osez pas vous rapprocher sans ces statistiques."
+Vous évitez la petite maison, car vous savez que vous n'êtes pas encore prêt.
+Vous approchez de la maison, sachant que vous êtes prêt. A l'intérieur, un homme vous accueille. Il offre ses talents pour vous former aux arts de la Défense.
+
+===== End of file =====

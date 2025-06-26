@@ -1,0 +1,112 @@
+Phare	Chaque phare sous votre contrôle augmente le potentiel de mouvement de vos bateaux.	
+Donjon des Griffons	Le Donjon des Griffons permet de recruter 3 Griffons supplémentaires chaque semaine.	
+Donjon des Griffons	Le Donjon des Griffons permet de recruter 3 Griffons Royaux supplémentaires chaque semaine.	
+Chantier Naval	Le Chantier Naval vous permet d'acheter des bateaux.	
+Écuries	Les Écuries fournissent des chevaux aux héros, ce qui augmente leur potentiel de mouvement pendant une semaine.	
+Confrérie de l'Épée	"Cette amélioration de la Taverne augmente de 2 points le Moral des troupes postées dans la ville."	
+		
+		
+		
+Colosse	"Le Colosse permet de recruter 50% de créatures en plus chaque semaine et fournit à votre royaume 5000 pièces d'Or supplémentaires par jour. De plus, le Moral de tous vos héros et alliés augmente de 2 points."	
+Entrepôt	Cette amélioration du Marché fournit des ressources supplémentaires : +1 unité de Bois et de Pierre par jour.	
+Bassin Mystique	Chaque début de semaine, le Bassin Mystique fournit au Rempart entre 1 et 4 unités d'une ressource aléatoire.	
+Guilde des Mineurs	La Guilde des Mineurs permet de recruter 4 Nains supplémentaires chaque semaine.	
+Guilde des Mineurs	La Guilde des Mineurs permet de recruter 4 Guerriers Nains supplémentaires chaque semaine.	
+		
+Fontaine des Espérances	La Fontaine des Espérances fait bénéficier tous les héros qui défendent la ville d'un bonus Chance de +2 lors d'un siège.	
+Corne d'Abondance	La Corne d'Abondance fait fructifier vos ressources en Or. Chaque début de semaine 10% de votre capital est ajouté à vos ressources en Or.	
+		
+Pépinière	La Pépinière permet de recruter 2 Gardes Sylvaniens supplémentaires chaque semaine.	
+Pépinière	La Pépinière permet de recruter 2 Soldats Sylvaniens supplémentaires chaque semaine.	
+Gardien des Esprits	"Le Gardien des Esprits permet de recruter 50% de créatures en plus chaque semaine et fournit à votre royaume 5000 pièces d'Or supplémentaires par jour. De plus, la Chance de tous vos héros et alliés augmente de 2 points."	
+Entrepôt	Cette amélioration du Marché fournit des ressources supplémentaires : +1 unité de Cristal par jour.	
+Échoppe	"En échange de quelques ressources, l'Échoppe vous permet d'acquérir des Objets Magiques ou des Artéfacts."	
+Atelier de Sculpture	L'Atelier de Sculpture permet de recruter 4 Gargouilles supplémentaires chaque semaine.	
+Atelier de Sculpture	L'Atelier de Sculpture permet de recruter 4 Gargouilles d'Obsidienne supplémentaires chaque semaine.	
+		
+Observatoire	L'Observatoire permet de lever le Brouillard de Guerre dans un rayon de 20 cases autour de la ville.	
+Bibliothèque	La Bibliothèque permet au héros d'apprendre un sort supplémentaire par niveau dans la Guilde des Mages.	
+Mur du Savoir	Le Mur du Savoir donne aux héros qui visitent la ville +1 point de Savoir.	
+		
+		
+Nef des Cieux	"La Nef des Cieux permet de recruter 50% de créatures en plus chaque semaine et fournit à votre royaume 5000 pièces d'Or supplémentaires par jour. De plus, l'intégralité de la carte du monde est dévoilée, et le héros qui défend la ville reçoit 150 points de Magie supplémentaires, qui lui sont retirés lorsqu'il quitte la ville."	
+Entrepôt	Cette amélioration du Marché fournit des ressources supplémentaires : +1 unité de Gemmes par jour.	
+		
+Fontaine des Hybrides	La Fontaine des Hybrides permet de recruter 8 Diablotins supplémentaires chaque semaine.	
+Fontaine des Hybrides	La Fontaine des Hybrides permet de recruter 8 Familiers supplémentaires chaque semaine.	
+		
+Orage Maléfique	L'Orage Maléfique fait bénéficier tous les héros qui défendent la ville d'un bonus de +2 en Magie lors d'un siège.
+Passage Funeste	Permet de voyager instantanément vers d'autres villes Hadès inoccupées et dotées d'un Passage Funeste.	
+Ordre du Feu	L'Ordre du Feu augmente de 1 point la caractéristique Magie des héros qui se rendent dans la ville.	
+Geôles	Les Geôles permettent de recruter 3 Chiens de l'Enfer supplémentaires chaque semaine.	
+Geôles	Les Geôles permettent de recruter 3 Cerbères supplémentaires chaque semaine.	
+Titan de Feu	La présence du Titan de Feu permet de recruter 50% de créatures en plus chaque semaine et fournit à votre royaume 5000 pièces d'Or supplémentaires par jour. De plus, toutes les semaines sont désormais consacrées aux Diablotins.	
+Entrepôt	Cette amélioration du Marché fournit des ressources supplémentaires : +1 unité de Mercure par jour.	
+Voile des Ténèbres	Le Voile des Ténèbres permet à votre ville de disparaître sous un brouillard de guerre permanent.	
+Catacombes	Les Catacombes permettent de recruter 6 Squelettes supplémentaires chaque semaine.	
+Catacombes	Les Catacombes permettent de recruter 6 Guerriers Squelettes supplémentaires chaque semaine.	
+Chantier Naval	Le Chantier Naval vous permet d'acheter des bateaux.	
+Nécrolyte	Le Nécrolyte octroie un bonus de 10% en Nécromancie à tous vos héros spécialisés dans cette compétence.	
+Ossuaire	L'Ossuaire permet de transformer des créatures en Squelettes.	
+		
+		
+		
+Prison des Âmes	"La présence de la Prison des Âmes permet de recruter 50% de créatures en plus chaque semaine et fournit à votre royaume 5000 pièces d'Or supplémentaires par jour. De plus, un bonus de 20% en Nécromancie est donné à tous les héros qui possèdent cette compétence."	
+Entrepôt	Cette amélioration du Marché fournit des ressources supplémentaires : +1 unité de Bois et de Pierre par jour.	
+Échoppe	"L'Échoppe vous permet d'acheter des Objets Magiques ou des Artéfacts pour un prix dérisoire."	
+Champignonnière	La Champignonnière permet de recruter 7 Troglodytes supplémentaires chaque semaine.	
+Champignonnière	La Champignonnière permet de recruter 7 Troglodytes Infernaux supplémentaires chaque semaine.	
+		
+Nuée Mystique	La Nuée Mystique double temporairement les points de Magie des héros en visite dans la ville.	
+Portail d'Invocation	"Le Portail d'Invocation permet de recruter des créatures provenant d'une demeure que vous contrôlez à l'extérieur de la ville."	
+Académie Militaire	L'Académie Militaire instruit les héros de passage, qui reçoivent chacun +1000 points d'expérience.	
+		
+		
+Gardien de la Terre	"La présence du Gardien de la Terre permet de recruter 50% de créatures en plus chaque semaine et fournit à votre royaume 5000 pièces d'Or supplémentaires par jour. Lors d'un siège, le héros qui défend la ville voit sa caractéristique en Magie augmentée de 12 points."	
+Entrepôt	Cette amélioration du Marché fournit des ressources supplémentaires : +1 unité de Soufre par jour.	
+Échappatoire	L'Échappatoire permet au héros en garnison de fuir lors d'un siège.	
+Cantine	La Cantine permet de recruter 8 Gobelins supplémentaires chaque semaine.	
+Cantine	La Cantine permet de recruter 8 Hobgobelins supplémentaires chaque semaine.	
+		
+Marché aux Esclaves	Le Marché aux Esclaves permet d'échanger des créatures contre des ressources.	
+Forge de Guerre	Cette amélioration de la Forge fournit aux héros des Balistes.	
+Valhalla	Le Valhalla augmente de +1 point la caractéristique Attaque des héros qui visitent la ville.	
+		
+		
+Monument des Seigneurs	"La présence du Monument des Seigneurs permet de recruter 50% de créatures en plus chaque semaine et fournit à votre royaume 5000 pièces d'Or supplémentaires par jour. Lors d'un siège, le héros qui défend la ville voit sa caractéristique Attaque augmentée de +20."	
+Entrepôt	Cette amélioration du Marché fournit des ressources supplémentaires : +1 unité de Bois et de Pierre par jour.	
+Cage des Privations	La Cage des Privations augmente de +1 la caractéristique Défense des héros qui visitent la ville.	
+Quartiers des Capitaines	Les Quartiers des Capitaines permettent de recruter 6 Gnolls supplémentaires chaque semaine.	
+Quartiers des Capitaines	Les Quartiers des Capitaines permettent de recruter 6 Gnolls Maraudeurs supplémentaires chaque semaine.	
+Chantier Naval	Le Chantier Naval vous permet d'acheter des bateaux.	
+Glyphes d'Effroi	Les Glyphes d'Effroi fait bénéficier tous les héros qui défendent la ville d'un bonus Attaque de +2 lors d'un siège.
+Obélisque Sanglant	L'Obélisque Sanglant fait bénéficier tous les héros qui défendent la ville d'un bonus Défense de +2 lors d'un siège.
+		
+		
+		
+Népenthes	"La présence du Népenthes permet de recruter 50% de créatures en plus chaque semaine et fournit à votre royaume 5000 pièces d'Or supplémentaires par jour. Lors d'un siège, le héros qui défend la ville voit ses caractéristiques Attaque et Défense augmentées de +10."	
+Entrepôt	Cette amélioration du Marché fournit des ressources supplémentaires : +1 unité de Bois et de Pierre par jour.	
+Échoppe	"L'Échoppe vous permet d'acheter des Objets Magiques ou des Artéfacts pour un prix dérisoire."	
+Jardin Enchanté	Le Jardin Enchanté permet de recruter 10 Pixies supplémentaires chaque semaine.	
+Jardin Enchanté	Le Jardin Enchanté permet de recruter 10 Fées supplémentaires chaque semaine.		
+Chantier Naval	Le Chantier Naval vous permet d'acheter des bateaux.	
+Université de Magie	"Dans l'Université de Magie, vos héros peuvent apprendre les compétences de toutes les formes de Magie."	
+		
+		
+		
+		
+Aurore Boréale	"La présence de l'Aurore Boréale permet de recruter 50% de créatures en plus chaque semaine et fournit à votre royaume 5000 pièces d'Or supplémentaires par jour. De plus, la Guilde des Mages met à disposition tous les Sorts disponibles et connus."	
+Entrepôt	Cette amélioration du Marché fournit des ressources supplémentaires : +1 unité de Mercure par jour.	
+Échoppe	"L'Échoppe vous permet d'acheter des Objets Magiques ou des Artéfacts pour un prix dérisoire."	
+Horde de Créatures Niv 1	Ce bâtiment augmente la production de Créatures de Niveau 1.	
+Horde de Créatures Niv 2	Ce bâtiment augmente la production de Créatures de Niveau 2.	
+Chantier Naval	Le Chantier Naval vous permet d'acheter des bateaux.	
+		
+		
+Horde de Créatures Niv 3	Ce bâtiment augmente la production de Créatures de Niveau 3.	
+Horde de Créatures Niv 4	Ce bâtiment augmente la production de Créatures de Niveau 4.	
+Horde de Créatures Niv 5	Ce bâtiment augmente la production de Créatures de Niveau 5.	
+Graal	"La présence du Graal permet de recruter 50% de créatures en plus chaque semaine et fournit à votre royaume 5000 pièces d'Or supplémentaires par jour. De plus, un bonus unique supplémentaire est alloué pour chaque type de ville."	
+Entrepôt	L'Entrepôt ajoute chaque jour des ressources à vos réserves.
+
+	

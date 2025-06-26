@@ -1,0 +1,26 @@
+Hero/Stats
+Skills
+Artifacts
+Town
+Garrison Hero
+Visiting Hero
+"{View Heroes}
+
+View the heroes currently under your command."
+"{View Towns}
+
+View the towns you control."
+"{Equipped}
+
+Displays the artifacts that the hero currently has equipped."
+"{Miscellaneous}
+
+Displays items which are in effect but do not need to be equipped."
+"{Backpack}
+
+Displays items that are currently in the hero's backpack."
+View Heroes
+View Towns
+View Equipped Artifacts
+View Miscellaneous Items
+View Hero's Backpack

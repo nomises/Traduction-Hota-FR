@@ -1,0 +1,317 @@
+===== Map name =====
+The Cataclysm
+
+===== Map description =====
+There have been disturbing reports from the southern swamp lands, where wizards rule, about a magical cataclysm. You are aware that this disaster could spread to your territory any moment now, so the sooner you stop the mad wizards, the better.
+
+===== Rumors =====
+
+Name:
+Rumor 1
+Text:
+Nix tribes fight for the swamp dwellers. 
+
+Name:
+Rumor 2
+Text:
+They say the current leader of the pirates has hired arquebusiers from overseas.
+
+Name:
+Rumor 3
+Text:
+The artificers created a vehicle able to fly underground!
+
+Name:
+Rumor 4
+Text:
+They say the southern wizards practice necromancy openly. Liches were seen many times in their armies.
+
+Name:
+Rumor 5
+Text:
+Southern wizards have been using thunderbirds for a long time. They summon them for experiments and to guard their towers.
+
+Name:
+Rumor 6
+Text:
+A southern wizard has hired elves to guard the mountain passages. They are said to be excellent shots.
+
+Name:
+Rumor 7
+Text:
+Faerie dragons are long-time allies of the wizards.
+
+Name:
+Rumor 8
+Text:
+Not so long ago, the wizards found a way to make golems of pure steel.
+
+Name:
+Rumor 9
+Text:
+They say that only hydras and serpent flies survived the glaciation of the swamps.
+
+===== Timed events =====
+
+Name:
+Pink - Res Control
+Message:
+
+
+Name:
+Blue - Bonus
+Message:
+
+
+Name:
+Purple - Res control
+Message:
+
+
+Name:
+Day 1
+Message:
+The past few years have been relatively peaceful. Occasionally, you had to fight off attacks from pirates and savages, but there was little else to worry about. However, a few days ago, alarming news started coming from the south. First, a messenger arrived, reporting odd activity of lizardmen in the swamps. Then, a whole fleet of pirates arrived from the other side of the strait. Contrary to their habit, this time the pirates weren't interested in plundering coastal villages. They seemed to be fleeing in terror from something or someone. Several sea dogs got captured, but they were so scared you couldn't coerce any information out of them. Yesterday, a traveler from the southern lands visited you. He brought frightening news: a magical cataclysm had broken out in the land of wizards in the south. Now there are icy plains interspersed with patches of surviving vegetation where swamps used to be. The wanderer doesn't know why the wizards have done this, but one thing is clear: if they are not stopped now, the cataclysm will soon devour your pirate neighbors. And then, the storm of ice will reach you.
+
+Name:
+Day 8
+Message:
+The scouts have discovered a town of the dead deep in the caves beneath our lands, ruled by a necromancer. The undead are not aggressive (at least they haven't appeared on the surface in years), but it's good that we know about this town now. Who knows when its dwellers may come in handy!
+
+Name:
+Day 16
+Message:
+Something intriguing has come to light. It seems that in the realm of wizards, there is a portal leading to a place where magical energy is concentrated. Perhaps this is where they draw the power they need to maintain the magical anomalies.
+
+Name:
+Day 27
+Message:
+Our scout, sent to the pirate lands a while ago, has returned with news. Some pirate sorcerers have recently returned to their fortress. It seems that they have been studying water magic in the distant lands of the hydromancers, and they have found a way to transport their troops across water without the use of ships!
+
+Name:
+Day 83
+Message:
+For the past few months, the wizards have been closely observing our actions. Now it seems they intend to march their forces north and strike first. The question is whether we will be ready.
+
+===== Heroes =====
+
+===== Objects =====
+
+(4, 39, 0) ***Fortress***
+
+Timed events:
+
+Name:
+Blue - Citadel
+Message:
+
+
+Name:
+Blue - Castle
+Message:
+
+
+(72, 41, 0) ***Cove***
+
+Timed events:
+
+Name:
+Pink - Citadel
+Message:
+
+
+Name:
+Pink - Castle
+Message:
+
+
+(103, 52, 0) ***Cove***
+
+Timed events:
+
+Name:
+Pink - Citadel
+Message:
+
+
+Name:
+Pink - Castle
+Message:
+
+
+(88, 101, 0) ***Tower***
+Name:
+Irythill
+
+(46, 87, 0) ***Tower***
+Name:
+Arywell
+
+(17, 95, 0) ***Tower***
+Name:
+Ymmalith
+
+(40, 88, 0) ***Pandora's Box***
+Message:
+
+
+(37, 107, 0) ***Pandora's Box***
+Message:
+
+
+(21, 43, 0) ***Pandora's Box***
+Message:
+
+
+(9, 47, 0) ***Pandora's Box***
+Message:
+
+
+(65, 30, 0) ***Pandora's Box***
+Message:
+
+
+(31, 9, 0) ***Quest Guard***
+Message:
+This elven homestead was almost destroyed after an attack by creatures from the swamps. The elves intend to rebuild it, but they need 20 wood and 20 ore. 	
+This elven homestead was almost destroyed after an attack by creatures from the swamps. The elves intend to rebuild it, but they need 20 wood and 20 ore. 
+Do you want to rebuild the homestead?
+
+(57, 96, 0) ***Pandora's Box***
+Message:
+
+
+(35, 96, 0) ***Pandora's Box***
+Message:
+
+
+(26, 106, 0) ***Pandora's Box***
+Message:
+
+
+(91, 1, 0) ***Pandora's Box***
+Message:
+
+
+(10, 91, 0) ***Pandora's Box***
+Message:
+
+
+(51, 107, 0) ***Pandora's Box***
+Message:
+
+
+(47, 26, 0) ***Sign***
+Message:
+Take a rest
+
+(65, 1, 0) ***Pandora's Box***
+Message:
+
+
+(56, 5, 0) ***Pandora's Box***
+Message:
+
+
+(72, 0, 0) ***Pandora's Box***
+Message:
+
+
+(2, 32, 0) ***Pandora's Box***
+Message:
+
+
+(49, 38, 0) ***Pandora's Box***
+Message:
+
+
+(95, 40, 0) ***Pandora's Box***
+Message:
+
+
+(42, 43, 0) ***Event***
+Message:
+AI bonus nixes
+
+(95, 43, 0) ***Event***
+Message:
+AI gunslingers
+
+(106, 64, 0) ***Pandora's Box***
+Message:
+
+
+(0, 71, 0) ***Pandora's Box***
+Message:
+
+
+(51, 50, 0) ***Fortress***
+
+Timed events:
+
+Name:
+Blue - Citadel+Hydras
+Message:
+
+
+Name:
+Blue - Castle
+Message:
+
+
+(26, 75, 0) ***Pandora's Box***
+Message:
+
+
+(55, 0, 0) ***Pandora's Box***
+Message:
+
+
+(63, 6, 0) ***Pandora's Box***
+Message:
+
+
+(17, 30, 0) ***Pandora's Box***
+Message:
+
+
+(57, 82, 1) ***Conflux***
+Name:
+Noxtella
+
+(48, 16, 1) ***Necropolis***
+Name:
+Abyss
+
+Visiting Necromancer:
+Name:
+Ardym
+
+Timed events:
+
+Name:
+Pink - Vampires
+Message:
+
+
+(83, 58, 1) ***Pandora's Box***
+Message:
+
+
+(88, 56, 1) ***Pandora's Box***
+Message:
+
+
+(87, 61, 1) ***Pandora's Box***
+Message:
+
+
+(67, 7, 1) ***Pandora's Box***
+Message:
+
+
+(51, 26, 1) ***Pandora's Box***
+Message:
+
+
+===== End of file =====

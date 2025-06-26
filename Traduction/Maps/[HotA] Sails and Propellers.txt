@@ -1,0 +1,20 @@
+===== Map name =====
+Sails and Propellers
+
+===== Map description =====
+In search of the legendary Horn of the Abyss, you will have to conquer land, sea and air. Harder still should it prove to conquer three other lords who cherish the same dream. 
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+day1
+Message:
+Remember: whoever owns the sea owns all. Whoever owns the Horn of the Abyss also owns the sea. Now here's a paradox: to claim the Horn of the Abyss, you will first have to conquer the elements! 
+
+===== Heroes =====
+
+===== Objects =====
+
+===== End of file =====
