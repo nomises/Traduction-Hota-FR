@@ -1,26 +1,26 @@
-Caractéristiques des Héros 
-Compétences et Artéfacts                                                
-Artéfacts
+CaractÃ©ristiques des HÃ©ros 
+CompÃ©tences et ArtÃ©facts                                                
+ArtÃ©facts
 Villes
-Héros en Garnison
-Héros en Visite
-"{Liste des Héros}
+HÃ©ros en Garnison
+HÃ©ros en Visite
+"{Liste des HÃ©ros}
 
-Affiche la liste des Héros sous vos ordres."
+Affiche la liste des HÃ©ros sous vos ordres."
 "{Liste des Villes}
 
-Affiche la liste des Villes sous votre contrôle."
+Affiche la liste des Villes sous votre contrÃ´le."
 "{Equipement}
 
-Affiche les Artéfacts dont le Héros s'est équipé."
+Affiche les ArtÃ©facts dont le HÃ©ros s'est Ã©quipÃ©."
 "{Divers}
 
-Affiche les Artéfacts actifs sans qu'il soit nécessaire que le Héros les porte."
+Affiche les ArtÃ©facts actifs sans qu'il soit nÃ©cessaire que le HÃ©ros les porte."
 "{Besace}
 
-Affiche les Artéfacts qui sont actuellement dans la besace du Héros."
-Liste des Héros
+Affiche les ArtÃ©facts qui sont actuellement dans la besace du HÃ©ros."
+Liste des HÃ©ros
 Liste des Villes
-Équipement
+Ã‰quipement
 Divers
 Besace

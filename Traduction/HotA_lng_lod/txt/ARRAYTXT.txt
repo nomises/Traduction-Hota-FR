@@ -2,52 +2,52 @@ Note: Do not change the headings in this file, they are used to detect problems
 gStatDesc
 "{Attaque}
 
-La caractéristique d'Attaque du héros s'ajoute à celle des troupes qu'il commande et elles peuvent ainsi infliger des dégâts plus importants."
-"{Défense}
+La caractÃ©ristique d'Attaque du hÃ©ros s'ajoute Ã  celle des troupes qu'il commande et elles peuvent ainsi infliger des dÃ©gÃ¢ts plus importants."
+"{DÃ©fense}
 
-La caractéristique de Défense du héros s'ajoute à celle des troupes qu'il commande et elles peuvent ainsi résister plus longtemps aux assauts ennemis."
+La caractÃ©ristique de DÃ©fense du hÃ©ros s'ajoute Ã  celle des troupes qu'il commande et elles peuvent ainsi rÃ©sister plus longtemps aux assauts ennemis."
 "{Magie}
 
-La caractéristique de Magie détermine la durée et l'efficacité des sorts lancés par le héros."
+La caractÃ©ristique de Magie dÃ©termine la durÃ©e et l'efficacitÃ© des sorts lancÃ©s par le hÃ©ros."
 "{Savoir}
 
-La caractéristique de Savoir détermine le potentiel de points de Magie d'un héros. En règle générale, un héros peut disposer de 10 points de Magie par point de Savoir."
+La caractÃ©ristique de Savoir dÃ©termine le potentiel de points de Magie d'un hÃ©ros. En rÃ¨gle gÃ©nÃ©rale, un hÃ©ros peut disposer de 10 points de Magie par point de Savoir."
 gLuckText
 Catastrophique
-Déplorable
-Médiocre
+DÃ©plorable
+MÃ©diocre
 Neutre
 Convenable
 Satisfaisante
 Excellente
 gMoraleText
 Catastrophique
-Déplorable
-Médiocre
+DÃ©plorable
+MÃ©diocre
 Neutre
 Convenable
 Satisfaisant
 Excellent
 gOwnedByColor
-Contrôlé par le joueur Rouge.
-Contrôlé par le joueur Bleu.
-Contrôlé par le joueur Marron.
-Contrôlé par le joueur Vert.
-Contrôlé par le joueur Orange.
-Contrôlé par le joueur Violet.
-Contrôlé par le joueur Turquoise.
-Contrôlé par le joueur Rose.
+ContrÃ´lÃ© par le joueur Rouge.
+ContrÃ´lÃ© par le joueur Bleu.
+ContrÃ´lÃ© par le joueur Marron.
+ContrÃ´lÃ© par le joueur Vert.
+ContrÃ´lÃ© par le joueur Orange.
+ContrÃ´lÃ© par le joueur Violet.
+ContrÃ´lÃ© par le joueur Turquoise.
+ContrÃ´lÃ© par le joueur Rose.
 gMonthNames
 du Grillon
 de la Fourmi
 de la Coccinelle
-de l'Araignée
+de l'AraignÃ©e
 du Papillon
 du Bourdon
 de la Sauterelle
 de la Libellule
 du Frelon
-du Scarabée
+du ScarabÃ©e
 gWeekNames
 de l'Ecureuil
 du Loup
@@ -59,53 +59,53 @@ de la Belette
 du Corbeau
 de la Mangouste
 de l'Ours
-de l'Oryctérope
-du Lézard
+de l'OryctÃ©rope
+du LÃ©zard
 de la Tortue
-du Hérisson
+du HÃ©risson
 du Condor
 cLuckInfo
 "{Chance Favorable}
 
-Vos troupes bénéficient parfois d'une chance favorable au cours d'un combat. Elles infligent alors des dégâts doubles."
+Vos troupes bÃ©nÃ©ficient parfois d'une chance favorable au cours d'un combat. Elles infligent alors des dÃ©gÃ¢ts doubles."
 "{Chance Neutre}
 
-Portées par une chance neutre, vos armées ne subissent ni chance, ni malchance particulière au combat."
+PortÃ©es par une chance neutre, vos armÃ©es ne subissent ni chance, ni malchance particuliÃ¨re au combat."
 "{Malchance}
 
-La malchance affecte parfois vos troupes. Celles-ci infligent des dégâts réduits de moitié lors d'un combat."
+La malchance affecte parfois vos troupes. Celles-ci infligent des dÃ©gÃ¢ts rÃ©duits de moitiÃ© lors d'un combat."
 "%s
 
 
 {Modificateurs de Chance :}"
 "
-Oeil de Tranquillité +1"
+Oeil de TranquillitÃ© +1"
 "
-Trèfle à Quatre Feuille +1"
+TrÃ¨fle Ã  Quatre Feuille +1"
 "
 Cartes du Destin +1"
 "
 Oiseau Porte-Bonheur +1"
 "
-Lac des Cygnes visité +2"
+Lac des Cygnes visitÃ© +2"
 "
-Totem de Chance visité +1"
+Totem de Chance visitÃ© +1"
 "
-Fontaine des Espérances visitée %s"
+Fontaine des EspÃ©rances visitÃ©e %s"
 "
-Pyramide visitée -2"
+Pyramide visitÃ©e -2"
 "
-Cercle des Fées visité +1"
+Cercle des FÃ©es visitÃ© +1"
 "
-Sirène visitée +1"
+SirÃ¨ne visitÃ©e +1"
 "
-Drapeau de Ralliement visité +1"
+Drapeau de Ralliement visitÃ© +1"
 "
 Novice en Chance +1"
 "
 Disciple en Chance +2"
 "
-Maître en Chance +3"
+MaÃ®tre en Chance +3"
 "
 Aucun"
 "
@@ -119,59 +119,59 @@ La Chance est sans effet sur les Terres Maudites"
 "
 %s annule toute chance"
 "
-Créatures d'alignement neutre sur un Champ de Trèfles +2"
+CrÃ©atures d'alignement neutre sur un Champ de TrÃ¨fles +2"
 cMoraleInfo
-"{Moral Elevé}
+"{Moral ElevÃ©}
 
-Un moral élevé permet parfois à vos troupes de disposer d'actions supplémentaires sur un tour de combat."
+Un moral Ã©levÃ© permet parfois Ã  vos troupes de disposer d'actions supplÃ©mentaires sur un tour de combat."
 "{Moral Neutre}
 
-Lors des combats, un moral neutre ne permet pas à vos troupes de bénéficier d'actions supplémentaires, mais elles ne risquent pas de perdre leur tour."
-"{Moral Désastreux}
+Lors des combats, un moral neutre ne permet pas Ã  vos troupes de bÃ©nÃ©ficier d'actions supplÃ©mentaires, mais elles ne risquent pas de perdre leur tour."
+"{Moral DÃ©sastreux}
 
-À cause d'un moral désastreux, vos troupes perdent parfois leurs moyens sur un tour de combat."
+Ã€ cause d'un moral dÃ©sastreux, vos troupes perdent parfois leurs moyens sur un tour de combat."
 "%s
 
 
 {Modificateurs de Moral :}"
 "
-Oeil de Tranquillité +1"
+Oeil de TranquillitÃ© +1"
 "
-Médaille du Courage +1"
+MÃ©daille du Courage +1"
 "
-Croix du Mérite +1"
+Croix du MÃ©rite +1"
 "
 Glyphe d'Honneur +1"
 "
-Totem de Chance visité +1"
+Totem de Chance visitÃ© +1"
 "
-Bouée visitée +1"
+BouÃ©e visitÃ©e +1"
 "
-Oasis visité +1"
+Oasis visitÃ© +1"
 "
-Temple visité +1"
+Temple visitÃ© +1"
 "
-Temple visité un dimanche +2"
+Temple visitÃ© un dimanche +2"
 "
-Crypte visitée -1"
+Crypte visitÃ©e -1"
 "
-Épave visitée -1"
+Ã‰pave visitÃ©e -1"
 "
-Abreuvoir visité +1"
+Abreuvoir visitÃ© +1"
 "
-Bateau Abandonné visité -1"
+Bateau AbandonnÃ© visitÃ© -1"
 "
-Drapeau de Ralliement visité +1"
+Drapeau de Ralliement visitÃ© +1"
 "
-Fontaine de Jouvence visitée +1"
+Fontaine de Jouvence visitÃ©e +1"
 "
-Tombe du Guerrier visité -3"
+Tombe du Guerrier visitÃ© -3"
 "
 Novice en Charisme +1"
 "
 Disciple en Charisme +2"
 "
-Maître en Charisme +3"
+MaÃ®tre en Charisme +3"
 "
 Aucun"
 "
@@ -183,33 +183,33 @@ Pendentif du Courage +3"
 "
 Le Moral reste sans effets sur les Terres Maudites"
 "
-Non affecté par le moral"
+Non affectÃ© par le moral"
 "
 Troupes de %d alignements %d"
 "
-Toutes les troupes de même alignement +1"
+Toutes les troupes de mÃªme alignement +1"
 "
-Présence de morts-vivants -1"
+PrÃ©sence de morts-vivants -1"
 "
-Vos %s sont bénis +1"
+Vos %s sont bÃ©nis +1"
 "
-Les %s vous répugnent -1"
+Les %s vous rÃ©pugnent -1"
 "
-Moral positif annulé par les %s"
+Moral positif annulÃ© par les %s"
 "Le moral des 
 %s est toujours positif"
 "
 Sorts %+d"
 "
-Armée dans son environnement naturel +1"
+ArmÃ©e dans son environnement naturel +1"
 "
-Créatures d'alignement bon sur une Terre Sacrée +1"
+CrÃ©atures d'alignement bon sur une Terre SacrÃ©e +1"
 "
-Créatures d'alignement mauvais sur une Terre Sacrée -1"
+CrÃ©atures d'alignement mauvais sur une Terre SacrÃ©e -1"
 "
-Créatures d'alignement mauvais dans le Brouillard Maléfique +1"
+CrÃ©atures d'alignement mauvais dans le Brouillard MalÃ©fique +1"
 "
-Créatures d'alignement bon dans le Brouillard Maléfique -1"
+CrÃ©atures d'alignement bon dans le Brouillard MalÃ©fique -1"
 cNewTurn
 %s, il ne vous reste que %d jours pour prendre d'assaut une ville ou vous serez banni de ces terres.
 %s, emparez-vous d'une ville aujourd'hui ou vous serez banni de ces terres.
@@ -223,7 +223,7 @@ La population de %s double !
 La population augmente dans toutes les demeures."
 "Les astrologues proclament le mois de la PESTE ! 
 
-Toutes les populations sont divisées par deux."
+Toutes les populations sont divisÃ©es par deux."
 "Les astrologues proclament la semaine %s. 
 
 La population augmente dans toutes les demeures."
@@ -242,7 +242,7 @@ cMapSize
 Petite
 Moyenne
 Grande
-Très Grande
+TrÃ¨s Grande
 cDifficulty
 Facile
 Normal
@@ -252,27 +252,27 @@ Impossible
 cDirections
 au nord
 au nord-est
-à l'est
+Ã  l'est
 au sud-est
 au sud
 au sud-ouest
-à l'ouest
+Ã  l'ouest
 au nord-ouest
 au centre
 cRumourTerrainDescriptions
-dans la poussière.
-sous une dune dans le désert.
-au cœur d'une plaine herbeuse.
+dans la poussiÃ¨re.
+sous une dune dans le dÃ©sert.
+au cÅ“ur d'une plaine herbeuse.
 dans la neige.
-au cœur d'un marais boueux.
-sur une terre dévastée.
+au cÅ“ur d'un marais boueux.
+sur une terre dÃ©vastÃ©e.
 dans une caverne souterraine.
-emprisonné dans la lave.
-dans les profondeurs de l'océan.
+emprisonnÃ© dans la lave.
+dans les profondeurs de l'ocÃ©an.
 sous un rocher.
 cPersonality
 Guerrier
-Bâtisseur
+BÃ¢tisseur
 Explorateur
 Humain
 gArmySizeNames
@@ -294,18 +294,18 @@ une horde de
 Foule
 Une foule de
 une foule de
-Nuée
-Une nuée de
-une nuée de
+NuÃ©e
+Une nuÃ©e de
+une nuÃ©e de
 Multitude
 Une multitude de
 une multitude de
-Légion
-Une légion de
-une légion de
+LÃ©gion
+Une lÃ©gion de
+une lÃ©gion de
 const_wise_tree_price_text
  (+1 niveau)
- (+1 niveau pour 2000 pièces d'Or)
+ (+1 niveau pour 2000 piÃ¨ces d'Or)
  (+1 niveau pour 10 gemmes)
 HumanCPU
 "Humain 
@@ -314,25 +314,25 @@ Humain
 ORD
 HandiText
 Aucun Handicap
-Léger Handicap
-Sérieux Handicap
+LÃ©ger Handicap
+SÃ©rieux Handicap
 AGRText
-Artéfact
+ArtÃ©fact
 Or
 Ressource
 gTownTypeNames
 Neutre
-Château
+ChÃ¢teau
 Rempart
 Tour
-Hadès
-Nécropole
+HadÃ¨s
+NÃ©cropole
 Donjon
 Bastion
 Forteresse
 Conflux
 NewLoadSave
-Choisir un Scénario
+Choisir un ScÃ©nario
 Charger une Partie
 Enregistrer une Partie
 Army Speed Names
@@ -360,7 +360,7 @@ Army Speed Names
 Town Size Names
 Village
 Ville
-Cité
+CitÃ©
 Capitale
 Moat Names
 Douve
@@ -369,7 +369,7 @@ Champ de mines
 Lave
 Pieux en os
 Huile bouillante
-Mur d'épieux
+Mur d'Ã©pieux
 Goudron bouillonnant
 Douve
 Insert all data before this line. Do not alter or delete this line.

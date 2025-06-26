@@ -1,104 +1,104 @@
 Name		Cost															Damage				Adv. Map			
 Singular	Plural	Wood	Mercury	Ore	Sulfur	Crystal	Gems	Gold	Fight Value	AI Value	Growth	Horde Growth	Hit Points	Speed	Attack	Defense	Low	High	Shots	Spells	Low	High	Ability Text	Attributes (Reference only, do not change these values)
-Lancier	Lanciers	0	0	0	0	0	0	60	100	80	14	0	10	4	4	5	1	3	0	0	20	50	Invulnérable au Bonus de charge.	0
-Hallebardier	Hallebardiers	0	0	0	0	0	0	75	115	115	14	0	10	5	6	5	2	3	0	0	20	30	Invulnérable au Bonus de charge.	0
-Arbalétrier	Arbalétriers	0	0	0	0	0	0	100	115	126	9	0	10	4	6	3	2	3	12	0	16	30	Tirs.	SHOOTING_ARMY
-Grand Arbalétrier	Grands Arbalétriers	0	0	0	0	0	0	150	115	184	9	0	10	6	6	3	2	3	24	0	16	25	Deux Tirs par action.	const_two_attacks | SHOOTING_ARMY
+Lancier	Lanciers	0	0	0	0	0	0	60	100	80	14	0	10	4	4	5	1	3	0	0	20	50	InvulnÃ©rable au Bonus de charge.	0
+Hallebardier	Hallebardiers	0	0	0	0	0	0	75	115	115	14	0	10	5	6	5	2	3	0	0	20	30	InvulnÃ©rable au Bonus de charge.	0
+ArbalÃ©trier	ArbalÃ©triers	0	0	0	0	0	0	100	115	126	9	0	10	4	6	3	2	3	12	0	16	30	Tirs.	SHOOTING_ARMY
+Grand ArbalÃ©trier	Grands ArbalÃ©triers	0	0	0	0	0	0	150	115	184	9	0	10	6	6	3	2	3	24	0	16	25	Deux Tirs par action.	const_two_attacks | SHOOTING_ARMY
 Griffon	Griffons	0	0	0	0	0	0	200	324	351	7	3	25	6	8	8	3	6	0	0	12	25	Vol. Double riposte.	DOUBLE_WIDE | FLYING_ARMY
-Griffon Royal	Griffons Royaux	0	0	0	0	0	0	240	364	448	7	3	25	9	9	9	3	6	0	0	12	20	Vol. Ripostes illimitées.	DOUBLE_WIDE|FLYING_ARMY
+Griffon Royal	Griffons Royaux	0	0	0	0	0	0	240	364	448	7	3	25	9	9	9	3	6	0	0	12	20	Vol. Ripostes illimitÃ©es.	DOUBLE_WIDE|FLYING_ARMY
 Spadassin	Spadassins	0	0	0	0	0	0	300	445	445	4	0	35	5	10	12	6	9	0	0	10	20		0
 Paladin	Paladins	0	0	0	0	0	0	400	588	588	4	0	35	6	12	12	7	10	0	0	10	16	Double Frappe.	const_two_attacks
-Moine	Moines	0	0	0	0	0	0	400	485	582	3	0	30	5	12	7	10	12	12	0	8	16	Attaque à distance.	SHOOTING_ARMY
-Zélote	Zélotes	0	0	0	0	0	0	450	500	750	3	0	30	7	12	10	10	12	24	0	8	12	Attaque à distance. Pas de pénalités de mêlée.	SHOOTING_ARMY | const_no_melee_penalty
+Moine	Moines	0	0	0	0	0	0	400	485	582	3	0	30	5	12	7	10	12	12	0	8	16	Attaque Ã  distance.	SHOOTING_ARMY
+ZÃ©lote	ZÃ©lotes	0	0	0	0	0	0	450	500	750	3	0	30	7	12	10	10	12	24	0	8	12	Attaque Ã  distance. Pas de pÃ©nalitÃ©s de mÃªlÃ©e.	SHOOTING_ARMY | const_no_melee_penalty
 Cavalier	Cavaliers	0	0	0	0	0	0	1000	1668	1946	2	0	100	7	15	15	15	25	0	0	5	12	Bonus de charge.	DOUBLE_WIDE | const_jousting
 Champion	Champions	0	0	0	0	0	0	1200	1800	2100	2	0	100	9	16	16	20	25	0	0	5	10	Bonus de charge.	DOUBLE_WIDE | const_jousting
 Ange	Anges	0	0	0	0	0	1	3000	3585	5019	1	0	200	12	20	20	50	50	0	0	4	10	Vol. Haine des Diables. +1 de Moral.	FLYING_ARMY | const_raises_morale | KING_2
-Archange	Archanges	0	0	0	0	0	3	5000	6033	8776	1	0	250	18	30	30	50	50	0	1	3	8	Vol. Haine des Diables. +1 de Moral. Résurrection d'alliés (100 points de vie par Archange).	DOUBLE_WIDE | FLYING_ARMY | const_raises_morale | KING_2
+Archange	Archanges	0	0	0	0	0	3	5000	6033	8776	1	0	250	18	30	30	50	50	0	1	3	8	Vol. Haine des Diables. +1 de Moral. RÃ©surrection d'alliÃ©s (100 points de vie par Archange).	DOUBLE_WIDE | FLYING_ARMY | const_raises_morale | KING_2
 																								
 																								
 																								
 Centaure	Centaures	0	0	0	0	0	0	70	100	100	14	0	8	6	5	3	2	3	0	0	20	50		DOUBLE_WIDE
 Capitaine Centaure	Capitaines Centaures	0	0	0	0	0	0	90	115	138	14	0	10	8	6	3	2	3	0	0	20	30		DOUBLE_WIDE
-Nain	Nains	0	0	0	0	0	0	120	194	138	8	4	20	3	6	7	2	4	0	0	16	30	20% de chance de résister à la magie.	0
-Guerrier Nain	Guerriers Nains	0	0	0	0	0	0	150	209	209	8	4	20	5	7	7	2	4	0	0	16	25	40% de chance de résister à la magie.	0
+Nain	Nains	0	0	0	0	0	0	120	194	138	8	4	20	3	6	7	2	4	0	0	16	30	20% de chance de rÃ©sister Ã  la magie.	0
+Guerrier Nain	Guerriers Nains	0	0	0	0	0	0	150	209	209	8	4	20	5	7	7	2	4	0	0	16	25	40% de chance de rÃ©sister Ã  la magie.	0
 Elfe Sylvain	Elfes Sylvains	0	0	0	0	0	0	200	195	234	7	0	15	6	9	5	3	5	24	0	12	25	Tirs.	SHOOTING_ARMY
 Grand Elfe	Grands Elfes	0	0	0	0	0	0	225	195	331	7	0	15	7	9	5	3	5	24	0	12	20	Deux Tirs par action.	SHOOTING_ARMY | const_two_attacks
-Pégase	Pégase	0	0	0	0	0	0	250	407	518	5	0	30	8	9	8	5	9	0	0	10	20	Vol. Étouffe la magie. L'ennemi dépense 2 points de Magie supplémentaires par sort.	DOUBLE_WIDE | FLYING_ARMY
-Pégase d'Argent	Pégases d'Argent	0	0	0	0	0	0	275	418	532	5	0	30	12	9	10	5	9	0	0	10	16	Vol. Étouffe la magie. L'ennemi dépense 2 points de Magie supplémentaires par sort.	DOUBLE_WIDE | FLYING_ARMY
-Garde Sylvanien	Gardes Sylvaniens	0	0	0	0	0	0	350	690	517	3	2	55	3	9	12	10	14	0	0	8	16	Enchevêtrement des ennemis sur place.	0
-Soldat Sylvanien	Soldats Sylvaniens	0	0	0	0	0	0	425	765	803	3	2	65	4	9	12	10	14	0	0	8	12	Enchevêtrement des ennemis sur place.	0
-Licorne	Licornes	0	0	0	0	0	0	850	1548	1806	2	0	90	7	15	14	18	22	0	0	5	12	Les unités proches ont 20% de chance de résister à la magie. Attaque aveuglante.	DOUBLE_WIDE
-Licorne de Guerre	Licornes de Guerre	0	0	0	0	0	0	950	1740	2030	2	0	110	9	15	14	18	22	0	0	5	10	Les unités proches ont 20% de chance de résister à la magie. Attaque aveuglante.	DOUBLE_WIDE
-Dragon Vert	Dragons Verts	0	0	0	0	1	0	2400	3654	4872	1	0	180	10	18	18	40	50	0	0	4	10	Vol. Attaque par souffle. Immunité aux sorts niveaux 1-3.	DOUBLE_WIDE | FLYING_ARMY | KING_1
-Dragon d'Or	Dragons d'Or	0	0	0	0	2	0	4000	6220	8613	1	0	250	16	27	27	40	50	0	0	3	8	Vol. Attaque par souffle. Immunité aux sorts niveaux 1-4.	DOUBLE_WIDE | FLYING_ARMY | KING_1
+PÃ©gase	PÃ©gase	0	0	0	0	0	0	250	407	518	5	0	30	8	9	8	5	9	0	0	10	20	Vol. Ã‰touffe la magie. L'ennemi dÃ©pense 2 points de Magie supplÃ©mentaires par sort.	DOUBLE_WIDE | FLYING_ARMY
+PÃ©gase d'Argent	PÃ©gases d'Argent	0	0	0	0	0	0	275	418	532	5	0	30	12	9	10	5	9	0	0	10	16	Vol. Ã‰touffe la magie. L'ennemi dÃ©pense 2 points de Magie supplÃ©mentaires par sort.	DOUBLE_WIDE | FLYING_ARMY
+Garde Sylvanien	Gardes Sylvaniens	0	0	0	0	0	0	350	690	517	3	2	55	3	9	12	10	14	0	0	8	16	EnchevÃªtrement des ennemis sur place.	0
+Soldat Sylvanien	Soldats Sylvaniens	0	0	0	0	0	0	425	765	803	3	2	65	4	9	12	10	14	0	0	8	12	EnchevÃªtrement des ennemis sur place.	0
+Licorne	Licornes	0	0	0	0	0	0	850	1548	1806	2	0	90	7	15	14	18	22	0	0	5	12	Les unitÃ©s proches ont 20% de chance de rÃ©sister Ã  la magie. Attaque aveuglante.	DOUBLE_WIDE
+Licorne de Guerre	Licornes de Guerre	0	0	0	0	0	0	950	1740	2030	2	0	110	9	15	14	18	22	0	0	5	10	Les unitÃ©s proches ont 20% de chance de rÃ©sister Ã  la magie. Attaque aveuglante.	DOUBLE_WIDE
+Dragon Vert	Dragons Verts	0	0	0	0	1	0	2400	3654	4872	1	0	180	10	18	18	40	50	0	0	4	10	Vol. Attaque par souffle. ImmunitÃ© aux sorts niveaux 1-3.	DOUBLE_WIDE | FLYING_ARMY | KING_1
+Dragon d'Or	Dragons d'Or	0	0	0	0	2	0	4000	6220	8613	1	0	250	16	27	27	40	50	0	0	3	8	Vol. Attaque par souffle. ImmunitÃ© aux sorts niveaux 1-4.	DOUBLE_WIDE | FLYING_ARMY | KING_1
 																								
 																								
 																								
 Lutin	Lutins	0	0	0	0	0	0	30	55	44	16	0	4	4	3	3	1	2	0	0	20	50		0
-Maître Lutin	Maîtres Lutins	0	0	0	0	0	0	40	55	66	16	0	4	5	4	4	1	2	8	0	20	30	Attaque à distance.	SHOOTING_ARMY
+MaÃ®tre Lutin	MaÃ®tres Lutins	0	0	0	0	0	0	40	55	66	16	0	4	5	4	4	1	2	8	0	20	30	Attaque Ã  distance.	SHOOTING_ARMY
 Gargouille	Gargouilles	0	0	0	0	0	0	130	150	165	9	4	16	6	6	6	2	3	0	0	16	30	Vol. Exsanguination.	FLYING_ARMY
 Gargouille d'Obsidienne	Gargouilles d'Obsidienne	0	0	0	0	0	0	160	155	201	9	4	16	9	7	7	2	3	0	0	16	25	Vol. Exsanguination.	FLYING_ARMY
-Golem de Pierre	Golems de Pierre	0	0	0	0	0	0	150	339	250	6	0	30	3	7	10	4	5	0	0	12	25	Les dommages causés par les sorts aux Golems de Pierre sont réduits de 50%.	0
-Golem de Fer	Golems de Fer	0	0	0	0	0	0	200	412	412	6	0	35	5	9	10	4	5	0	0	12	20	Les dommages causés par les sorts aux Golems de Fer sont réduits de 75%.	0
-Mage	Mages	0	0	0	0	0	0	350	418	570	4	0	25	5	11	8	7	9	24	0	10	20	Attaque à distance. Pas de pénalités de barrière. Pas de pénalités de mêlée. Le héros dépense 2 points de Magie en moins par sort.	SHOOTING_ARMY | const_no_melee_penalty
-Archimage	Archimages	0	0	0	0	0	0	450	467	680	4	0	30	7	12	9	7	9	24	0	10	16	Attaque à distance. Pas de pénalités de barrière. Pas de pénalités de mêlée. Le héros dépense 2 points de Magie en moins par sort.	SHOOTING_ARMY | const_no_melee_penalty | const_no_wall_penalty
+Golem de Pierre	Golems de Pierre	0	0	0	0	0	0	150	339	250	6	0	30	3	7	10	4	5	0	0	12	25	Les dommages causÃ©s par les sorts aux Golems de Pierre sont rÃ©duits de 50%.	0
+Golem de Fer	Golems de Fer	0	0	0	0	0	0	200	412	412	6	0	35	5	9	10	4	5	0	0	12	20	Les dommages causÃ©s par les sorts aux Golems de Fer sont rÃ©duits de 75%.	0
+Mage	Mages	0	0	0	0	0	0	350	418	570	4	0	25	5	11	8	7	9	24	0	10	20	Attaque Ã  distance. Pas de pÃ©nalitÃ©s de barriÃ¨re. Pas de pÃ©nalitÃ©s de mÃªlÃ©e. Le hÃ©ros dÃ©pense 2 points de Magie en moins par sort.	SHOOTING_ARMY | const_no_melee_penalty
+Archimage	Archimages	0	0	0	0	0	0	450	467	680	4	0	30	7	12	9	7	9	24	0	10	16	Attaque Ã  distance. Pas de pÃ©nalitÃ©s de barriÃ¨re. Pas de pÃ©nalitÃ©s de mÃªlÃ©e. Le hÃ©ros dÃ©pense 2 points de Magie en moins par sort.	SHOOTING_ARMY | const_no_melee_penalty | const_no_wall_penalty
 Djinn	Djinns	0	0	0	0	0	0	550	680	884	3	0	40	7	12	12	13	16	0	0	8	16	Vol. Haine des Effrits.	FLYING_ARMY
-Génie	Génies	0	0	0	0	0	0	600	748	942	3	0	40	11	12	12	13	16	0	3	8	12	Vol. Haine des Effrits. Lancement de sorts bénéfiques aléatoires.	FLYING_ARMY
+GÃ©nie	GÃ©nies	0	0	0	0	0	0	600	748	942	3	0	40	11	12	12	13	16	0	3	8	12	Vol. Haine des Effrits. Lancement de sorts bÃ©nÃ©fiques alÃ©atoires.	FLYING_ARMY
 Naga	Nagas	0	0	0	0	0	0	1100	2016	1814	2	0	110	5	16	13	20	20	0	0	5	12	Pas de riposte des ennemis.	DOUBLE_WIDE
 Reine Naga	Reines Nagas	0	0	0	0	0	0	1600	2485	2840	2	0	110	7	16	13	30	30	0	0	5	10	Pas de riposte des ennemis.	DOUBLE_WIDE
-Géant	Géants	0	0	0	0	0	1	2000	3146	3718	1	0	150	7	19	16	40	60	0	0	4	10	Immunité aux sorts qui affectent l'esprit.	KING_3
-Titan	Titans	0	0	0	0	0	2	5000	5000	7500	1	0	300	11	24	24	40	60	24	0	3	8	Attaque à distance. Pas de pénalités de mêlée. Immunité aux sorts qui affectent l'esprit. Haine des Dragons Noirs.	SHOOTING_ARMY | const_no_melee_penalty | KING_3
+GÃ©ant	GÃ©ants	0	0	0	0	0	1	2000	3146	3718	1	0	150	7	19	16	40	60	0	0	4	10	ImmunitÃ© aux sorts qui affectent l'esprit.	KING_3
+Titan	Titans	0	0	0	0	0	2	5000	5000	7500	1	0	300	11	24	24	40	60	24	0	3	8	Attaque Ã  distance. Pas de pÃ©nalitÃ©s de mÃªlÃ©e. ImmunitÃ© aux sorts qui affectent l'esprit. Haine des Dragons Noirs.	SHOOTING_ARMY | const_no_melee_penalty | KING_3
                                    																								
 																								
 																								
 Diablotin	Diablotins	0	0	0	0	0	0	50	50	50	15	8	4	5	2	3	1	2	0	0	20	50		0
 Familier	Familiers	0	0	0	0	0	0	60	60	60	15	8	4	7	4	4	1	2	0	0	20	30	Capteur de magie.	0
-Gog	Gogs	0	0	0	0	0	0	125	145	159	8	0	13	4	6	4	2	4	12	0	16	30	Attaque à distance.	SHOOTING_ARMY
-Magog	Magogs	0	0	0	0	0	0	175	210	240	8	0	13	6	7	4	2	4	24	0	16	25	Attaque à distance par Boule de Feu.	SHOOTING_ARMY
+Gog	Gogs	0	0	0	0	0	0	125	145	159	8	0	13	4	6	4	2	4	12	0	16	30	Attaque Ã  distance.	SHOOTING_ARMY
+Magog	Magogs	0	0	0	0	0	0	175	210	240	8	0	13	6	7	4	2	4	24	0	16	25	Attaque Ã  distance par Boule de Feu.	SHOOTING_ARMY
 Chien de l'Enfer	Chiens de l'Enfer	0	0	0	0	0	0	200	275	357	5	3	25	7	10	6	2	7	0	0	12	25		DOUBLE_WIDE | FLYING_ARMY
-Cerbère	Cerbères	0	0	0	0	0	0	250	308	392	5	3	25	8	10	8	2	7	0	0	12	20	Attaque sur 3 hexagones. Pas de riposte des ennemis.	DOUBLE_WIDE | FLYING_ARMY
-Démon	Démons	0	0	0	0	0	0	250	445	445	4	0	35	5	10	10	7	9	0	0	10	20		0
-Démon Cornu	Démons Cornus	0	0	0	0	0	0	270	480	480	4	0	40	6	10	10	7	9	0	0	10	16		0
-Servant des Abîmes	Servants des Abîmes	0	0	0	0	0	0	500	765	765	3	0	45	6	13	13	13	17	0	0	8	16		0
-Seigneur des Abîmes	Seigneurs des Abîmes	0	0	0	0	0	0	700	1071	1224	3	0	45	7	13	13	13	17	0	1	8	12	Transformation des alliés morts en Démons (50 points de vie par Seigneur des Abîmes).	0
-Effrit	Effrits	0	0	0	0	0	0	900	1413	1670	2	0	90	9	16	12	16	24	0	0	5	12	Vol. Immunité au Feu. Haine des Djinns et des Génies.	0
-Sultan Effrit	Sultans Effrits	0	0	0	0	0	0	1100	1802	2343	2	0	90	13	16	14	16	24	0	0	5	10	Vol. Bouclier de Flammes. Immunité au Feu. Haine des Djinns et des Génies.	0
-Diable	Diables	0	1	0	0	0	0	2700	3759	5101	1	0	160	11	19	21	30	40	0	0	4	10	Téléportation. Chance ennemie -1. Pas de riposte des ennemis. Haine des Anges.	FLYING_ARMY | KING_2
-Archidiable	Archidiables	0	2	0	0	0	0	4500	5243	7115	1	0	200	17	26	28	30	40	0	0	3	8	Téléportation. Chance ennemie -2. Pas de riposte des ennemis. Haine des Anges.	FLYING_ARMY | KING_2
+CerbÃ¨re	CerbÃ¨res	0	0	0	0	0	0	250	308	392	5	3	25	8	10	8	2	7	0	0	12	20	Attaque sur 3 hexagones. Pas de riposte des ennemis.	DOUBLE_WIDE | FLYING_ARMY
+DÃ©mon	DÃ©mons	0	0	0	0	0	0	250	445	445	4	0	35	5	10	10	7	9	0	0	10	20		0
+DÃ©mon Cornu	DÃ©mons Cornus	0	0	0	0	0	0	270	480	480	4	0	40	6	10	10	7	9	0	0	10	16		0
+Servant des AbÃ®mes	Servants des AbÃ®mes	0	0	0	0	0	0	500	765	765	3	0	45	6	13	13	13	17	0	0	8	16		0
+Seigneur des AbÃ®mes	Seigneurs des AbÃ®mes	0	0	0	0	0	0	700	1071	1224	3	0	45	7	13	13	13	17	0	1	8	12	Transformation des alliÃ©s morts en DÃ©mons (50 points de vie par Seigneur des AbÃ®mes).	0
+Effrit	Effrits	0	0	0	0	0	0	900	1413	1670	2	0	90	9	16	12	16	24	0	0	5	12	Vol. ImmunitÃ© au Feu. Haine des Djinns et des GÃ©nies.	0
+Sultan Effrit	Sultans Effrits	0	0	0	0	0	0	1100	1802	2343	2	0	90	13	16	14	16	24	0	0	5	10	Vol. Bouclier de Flammes. ImmunitÃ© au Feu. Haine des Djinns et des GÃ©nies.	0
+Diable	Diables	0	1	0	0	0	0	2700	3759	5101	1	0	160	11	19	21	30	40	0	0	4	10	TÃ©lÃ©portation. Chance ennemie -1. Pas de riposte des ennemis. Haine des Anges.	FLYING_ARMY | KING_2
+Archidiable	Archidiables	0	2	0	0	0	0	4500	5243	7115	1	0	200	17	26	28	30	40	0	0	3	8	TÃ©lÃ©portation. Chance ennemie -2. Pas de riposte des ennemis. Haine des Anges.	FLYING_ARMY | KING_2
 																								
 																								
 																								
 Squelette	Squelettes	0	0	0	0	0	0	60	75	60	12	6	6	4	5	4	1	3	0	0	20	50	Morts-vivants.	IS_UNDEAD
 Guerrier Squelette	Guerriers Squelettes	0	0	0	0	0	0	70	85	85	12	6	6	5	6	6	1	3	0	0	20	30	Morts-vivants.	IS_UNDEAD
-Trépassé	Trépassés	0	0	0	0	0	0	100	140	98	8	0	15	3	5	5	2	3	0	0	16	30	Morts-vivants.	IS_UNDEAD
+TrÃ©passÃ©	TrÃ©passÃ©s	0	0	0	0	0	0	100	140	98	8	0	15	3	5	5	2	3	0	0	16	30	Morts-vivants.	IS_UNDEAD
 Zombie	Zombies	0	0	0	0	0	0	125	160	128	8	0	20	4	5	5	2	3	0	0	16	25	Morts-vivants. Contagion.	IS_UNDEAD
-Revenant	Revenants	0	0	0	0	0	0	200	231	252	7	0	18	5	7	7	3	5	0	0	12	25	Morts-vivants. Vol. Régénération.	FLYING_ARMY | IS_UNDEAD
-Spectre	Spectres	0	0	0	0	0	0	230	252	315	7	0	18	7	7	7	3	5	0	0	12	20	Morts-vivants. Vol. Régénération. Drainage de mana (points de magie).	FLYING_ARMY | IS_UNDEAD
+Revenant	Revenants	0	0	0	0	0	0	200	231	252	7	0	18	5	7	7	3	5	0	0	12	25	Morts-vivants. Vol. RÃ©gÃ©nÃ©ration.	FLYING_ARMY | IS_UNDEAD
+Spectre	Spectres	0	0	0	0	0	0	230	252	315	7	0	18	7	7	7	3	5	0	0	12	20	Morts-vivants. Vol. RÃ©gÃ©nÃ©ration. Drainage de mana (points de magie).	FLYING_ARMY | IS_UNDEAD
 Vampire	Vampires	0	0	0	0	0	0	360	518	555	4	0	30	6	10	9	5	8	0	0	10	20	Morts-vivants. Vol. Pas de riposte des ennemis.	FLYING_ARMY | IS_UNDEAD
-Seigneur Vampire	Seigneurs Vampires	0	0	0	0	0	0	500	652	783	4	0	40	9	10	10	5	8	0	0	10	16	Morts-vivants. Vol. Pas de riposte des ennemis. Drainage d'énergie (points de vie).	FLYING_ARMY | IS_UNDEAD
-Liche	Liches	0	0	0	0	0	0	550	742	848	3	0	30	6	13	10	11	13	12	0	8	16	Morts-vivants. Attaque à distance par Nuage Toxique.	SHOOTING_ARMY | IS_UNDEAD
-Grande Liche	Grandes Liches	0	0	0	0	0	0	600	889	1079	3	0	40	7	13	10	11	15	24	0	8	12	Morts-vivants. Attaque à distance par Nuage Toxique.	SHOOTING_ARMY | IS_UNDEAD
-Chevalier Noir	Chevaliers Noirs	0	0	0	0	0	0	1200	1753	2087	2	0	120	7	16	16	15	30	0	0	5	12	Morts-vivants. Malédiction.	DOUBLE_WIDE | IS_UNDEAD
-Chevalier de l'Effroi	Chevaliers de l'Effroi	0	0	0	0	0	0	1500	2029	2382	2	0	120	9	18	18	15	30	0	0	5	10	Morts-vivants. Malédiction. Attaque par coup de grâce.	DOUBLE_WIDE | IS_UNDEAD
+Seigneur Vampire	Seigneurs Vampires	0	0	0	0	0	0	500	652	783	4	0	40	9	10	10	5	8	0	0	10	16	Morts-vivants. Vol. Pas de riposte des ennemis. Drainage d'Ã©nergie (points de vie).	FLYING_ARMY | IS_UNDEAD
+Liche	Liches	0	0	0	0	0	0	550	742	848	3	0	30	6	13	10	11	13	12	0	8	16	Morts-vivants. Attaque Ã  distance par Nuage Toxique.	SHOOTING_ARMY | IS_UNDEAD
+Grande Liche	Grandes Liches	0	0	0	0	0	0	600	889	1079	3	0	40	7	13	10	11	15	24	0	8	12	Morts-vivants. Attaque Ã  distance par Nuage Toxique.	SHOOTING_ARMY | IS_UNDEAD
+Chevalier Noir	Chevaliers Noirs	0	0	0	0	0	0	1200	1753	2087	2	0	120	7	16	16	15	30	0	0	5	12	Morts-vivants. MalÃ©diction.	DOUBLE_WIDE | IS_UNDEAD
+Chevalier de l'Effroi	Chevaliers de l'Effroi	0	0	0	0	0	0	1500	2029	2382	2	0	120	9	18	18	15	30	0	0	5	10	Morts-vivants. MalÃ©diction. Attaque par coup de grÃ¢ce.	DOUBLE_WIDE | IS_UNDEAD
 Dragon Squelette	Dragons Squelettes	0	0	0	0	0	0	1800	2420	3388	1	0	150	9	17	15	25	50	0	0	4	10	Morts-vivants. Vol. Moral ennemi -1.	DOUBLE_WIDE | IS_UNDEAD | const_lowers_morale | FLYING_ARMY | KING_1
-Dragon Fantôme	Dragons Fantômes	0	1	0	0	0	0	3000	3346	4919	1	0	200	14	19	17	25	50	0	0	3	8	Morts-vivants. Vol. Moral ennemi -1. Vieillissement des ennemis.	DOUBLE_WIDE | IS_UNDEAD | const_lowers_morale | FLYING_ARMY | KING_1
+Dragon FantÃ´me	Dragons FantÃ´mes	0	1	0	0	0	0	3000	3346	4919	1	0	200	14	19	17	25	50	0	0	3	8	Morts-vivants. Vol. Moral ennemi -1. Vieillissement des ennemis.	DOUBLE_WIDE | IS_UNDEAD | const_lowers_morale | FLYING_ARMY | KING_1
 																								
 																								
 																								
-Troglodyte	Troglodytes	0	0	0	0	0	0	50	73	59	14	7	5	4	4	3	1	3	0	0	20	50	Immunité à la Cécité et Regard Pétrifiant.	0
-Troglodyte Infernal	Troglodytes Infernaux	0	0	0	0	0	0	65	84	84	14	7	6	5	5	4	1	3	0	0	20	30	Immunité à la Cécité et Regard Pétrifiant.	0
-Harpie	Harpies	0	0	0	0	0	0	130	140	154	8	0	14	6	6	5	1	4	0	0	16	30	Vol. Retour après l'attaque.	FLYING_ARMY
-Harpie Sinistre	Harpies Sinistres	0	0	0	0	0	0	170	196	238	8	0	14	9	6	6	1	4	0	0	16	25	Vol. Retour après l'attaque. Pas de riposte des ennemis.	FLYING_ARMY
-Oeil Maléfique	Yeux Maléfiques	0	0	0	0	0	0	250	240	336	7	0	22	5	9	7	3	5	12	0	12	25	Attaque à distance. Pas de pénalités de mêlée.	SHOOTING_ARMY | const_no_melee_penalty
-Oeil Démoniaque	Yeux Démoniaques	0	0	0	0	0	0	280	245	367	7	0	22	7	10	8	3	5	24	0	12	20	Attaque à distance. Pas de pénalités de mêlée.	SHOOTING_ARMY | const_no_melee_penalty
-Méduse	Méduses	0	0	0	0	0	0	300	379	517	4	0	25	5	9	9	6	8	4	0	10	20	Tirs. Pas de pénalités de mêlée. Regard Pétrifiant.	DOUBLE_WIDE | SHOOTING_ARMY | const_no_melee_penalty
-Reine Méduse	Reines Méduses	0	0	0	0	0	0	330	423	577	4	0	30	6	10	10	6	8	8	0	10	16	Tirs. Pas de pénalités de mêlée. Regard Pétrifiant.	DOUBLE_WIDE | SHOOTING_ARMY | const_no_melee_penalty
+Troglodyte	Troglodytes	0	0	0	0	0	0	50	73	59	14	7	5	4	4	3	1	3	0	0	20	50	ImmunitÃ© Ã  la CÃ©citÃ© et Regard PÃ©trifiant.	0
+Troglodyte Infernal	Troglodytes Infernaux	0	0	0	0	0	0	65	84	84	14	7	6	5	5	4	1	3	0	0	20	30	ImmunitÃ© Ã  la CÃ©citÃ© et Regard PÃ©trifiant.	0
+Harpie	Harpies	0	0	0	0	0	0	130	140	154	8	0	14	6	6	5	1	4	0	0	16	30	Vol. Retour aprÃ¨s l'attaque.	FLYING_ARMY
+Harpie Sinistre	Harpies Sinistres	0	0	0	0	0	0	170	196	238	8	0	14	9	6	6	1	4	0	0	16	25	Vol. Retour aprÃ¨s l'attaque. Pas de riposte des ennemis.	FLYING_ARMY
+Oeil MalÃ©fique	Yeux MalÃ©fiques	0	0	0	0	0	0	250	240	336	7	0	22	5	9	7	3	5	12	0	12	25	Attaque Ã  distance. Pas de pÃ©nalitÃ©s de mÃªlÃ©e.	SHOOTING_ARMY | const_no_melee_penalty
+Oeil DÃ©moniaque	Yeux DÃ©moniaques	0	0	0	0	0	0	280	245	367	7	0	22	7	10	8	3	5	24	0	12	20	Attaque Ã  distance. Pas de pÃ©nalitÃ©s de mÃªlÃ©e.	SHOOTING_ARMY | const_no_melee_penalty
+MÃ©duse	MÃ©duses	0	0	0	0	0	0	300	379	517	4	0	25	5	9	9	6	8	4	0	10	20	Tirs. Pas de pÃ©nalitÃ©s de mÃªlÃ©e. Regard PÃ©trifiant.	DOUBLE_WIDE | SHOOTING_ARMY | const_no_melee_penalty
+Reine MÃ©duse	Reines MÃ©duses	0	0	0	0	0	0	330	423	577	4	0	30	6	10	10	6	8	8	0	10	16	Tirs. Pas de pÃ©nalitÃ©s de mÃªlÃ©e. Regard PÃ©trifiant.	DOUBLE_WIDE | SHOOTING_ARMY | const_no_melee_penalty
 Minotaure	Minotaures	0	0	0	0	0	0	500	835	835	3	0	50	6	14	12	12	20	0	0	8	16	Bon moral.	0
 Roi Minotaure	Rois Minotaures	0	0	0	0	0	0	575	890	1068	3	0	50	8	15	15	12	20	0	0	8	12	Bon moral.	0
 Manticore	Manticores	0	0	0	0	0	0	850	1215	1547	2	0	80	7	15	13	14	20	0	0	5	12	Vol.	DOUBLE_WIDE | FLYING_ARMY
 Scorpicore	Scorpicores	0	0	0	0	0	0	1050	1248	1685	2	0	80	11	16	14	14	20	0	0	5	10	Vol. Venin paralysant.	DOUBLE_WIDE | FLYING_ARMY
-Dragon Rouge	Dragons Rouges	0	0	0	1	0	0	2500	3762	5003	1	0	180	11	19	19	40	50	0	0	4	10	Vol. Attaque par souffle. Immunité aux sorts niveaux 1-3.	DOUBLE_WIDE | FLYING_ARMY | KING_1
-Dragon Noir	Dragons Noirs	0	0	0	2	0	0	4000	6783	8721	1	0	300	15	25	25	40	50	0	0	3	8	Vol. Attaque par souffle. Immunité totale à la magie. Haine des Titans.	DOUBLE_WIDE | FLYING_ARMY | KING_1
+Dragon Rouge	Dragons Rouges	0	0	0	1	0	0	2500	3762	5003	1	0	180	11	19	19	40	50	0	0	4	10	Vol. Attaque par souffle. ImmunitÃ© aux sorts niveaux 1-3.	DOUBLE_WIDE | FLYING_ARMY | KING_1
+Dragon Noir	Dragons Noirs	0	0	0	2	0	0	4000	6783	8721	1	0	300	15	25	25	40	50	0	0	3	8	Vol. Attaque par souffle. ImmunitÃ© totale Ã  la magie. Haine des Titans.	DOUBLE_WIDE | FLYING_ARMY | KING_1
 																								
 																								
 																								
@@ -106,29 +106,29 @@ Gobelin	Gobelins	0	0	0	0	0	0	40	60	60	15	8	5	5	4	2	1	2	0	0	20	50		0
 Hobgobelin	Hobgobelins	0	0	0	0	0	0	50	65	78	15	8	5	7	5	3	1	2	0	0	20	30		0
 Dresseur de Loups	Dresseurs de Loups	0	0	0	0	0	0	100	130	130	9	0	10	6	7	5	2	4	0	0	16	30		DOUBLE_WIDE
 Pillard	Pillards	0	0	0	0	0	0	140	174	203	9	0	10	8	8	5	3	4	0	0	16	25	Double Frappe.	DOUBLE_WIDE
-Orc	Orcs	0	0	0	0	0	0	150	175	192	7	0	15	4	8	4	2	5	12	0	12	25	Attaque à distance.	SHOOTING_ARMY
-Chef Orc	Chefs Orcs	0	0	0	0	0	0	165	200	240	7	0	20	5	8	4	2	5	24	0	12	20	Attaque à distance.	SHOOTING_ARMY
+Orc	Orcs	0	0	0	0	0	0	150	175	192	7	0	15	4	8	4	2	5	12	0	12	25	Attaque Ã  distance.	SHOOTING_ARMY
+Chef Orc	Chefs Orcs	0	0	0	0	0	0	165	200	240	7	0	20	5	8	4	2	5	24	0	12	20	Attaque Ã  distance.	SHOOTING_ARMY
 Ogre	Ogres	0	0	0	0	0	0	300	520	416	4	0	40	4	13	7	6	12	0	0	10	20		0
 Ogre Mage	Ogres Mages	0	0	0	0	0	0	400	672	672	4	0	60	5	13	7	6	12	0	3	10	16	Lancement de Furie Sanguinaire.	0
 Rock	Rocks	0	0	0	0	0	0	600	790	1027	3	0	60	7	13	11	11	15	0	0	8	16	Vol.	FLYING_ARMY | DOUBLE_WIDE
 Rock Foudroyant	Rocks Foudroyants	0	0	0	0	0	0	700	869	1106	3	0	60	11	13	11	11	15	0	0	8	12	Vol. Attaque de Foudre.	FLYING_ARMY | DOUBLE_WIDE
-Cyclope	Cyclopes	0	0	0	0	0	0	750	1055	1266	2	0	70	6	15	12	16	20	16	0	5	12	Attaque à distance. Pilonnage des fortifications (niveau Novice).	SHOOTING_ARMY | CATAPULT
-Roi Cyclope	Rois Cyclopes	0	0	0	0	0	0	1100	1110	1544	2	0	70	8	17	13	16	20	24	0	5	10	Attaque à distance. Pilonnage des fortifications (niveau Disciple).	SHOOTING_ARMY | CATAPULT
-Béhémoth	Béhémoths	0	0	0	0	0	0	1500	3162	3162	1	0	160	6	17	17	30	50	0	0	4	10	Ignore 40% de la défense des ennemies.	DOUBLE_WIDE | KING_1
-Béhémoth Royal	Béhémoths Royaux	0	0	0	0	1	0	3000	5397	6168	1	0	300	9	19	19	30	50	0	0	3	8	Ignore 80% de la défense des ennemies.	DOUBLE_WIDE | KING_1
+Cyclope	Cyclopes	0	0	0	0	0	0	750	1055	1266	2	0	70	6	15	12	16	20	16	0	5	12	Attaque Ã  distance. Pilonnage des fortifications (niveau Novice).	SHOOTING_ARMY | CATAPULT
+Roi Cyclope	Rois Cyclopes	0	0	0	0	0	0	1100	1110	1544	2	0	70	8	17	13	16	20	24	0	5	10	Attaque Ã  distance. Pilonnage des fortifications (niveau Disciple).	SHOOTING_ARMY | CATAPULT
+BÃ©hÃ©moth	BÃ©hÃ©moths	0	0	0	0	0	0	1500	3162	3162	1	0	160	6	17	17	30	50	0	0	4	10	Ignore 40% de la dÃ©fense des ennemies.	DOUBLE_WIDE | KING_1
+BÃ©hÃ©moth Royal	BÃ©hÃ©moths Royaux	0	0	0	0	1	0	3000	5397	6168	1	0	300	9	19	19	30	50	0	0	3	8	Ignore 80% de la dÃ©fense des ennemies.	DOUBLE_WIDE | KING_1
 																								
 																								
 																								
 Gnoll	Gnolls	0	0	0	0	0	0	50	70	56	12	6	6	4	3	5	2	3	0	0	20	50		0
 Gnoll Maraudeur	Gnolls Maraudeurs	0	0	0	0	0	0	70	90	90	12	6	6	5	4	6	2	3	0	0	20	30		0
-Homme Lézard	Hommes Lézards	0	0	0	0	0	0	110	137	151	9	0	14	4	5	6	2	3	12	0	16	30	Tirs. 	SHOOTING_ARMY
-Guerrier Lézard	Guerriers Lézards	0	0	0	0	0	0	140	174	209	9	0	15	5	6	8	2	5	24	0	16	25	Tirs. 	SHOOTING_ARMY
+Homme LÃ©zard	Hommes LÃ©zards	0	0	0	0	0	0	110	137	151	9	0	14	4	5	6	2	3	12	0	16	30	Tirs. 	SHOOTING_ARMY
+Guerrier LÃ©zard	Guerriers LÃ©zards	0	0	0	0	0	0	140	174	209	9	0	15	5	6	8	2	5	24	0	16	25	Tirs. 	SHOOTING_ARMY
 Gorgone	Gorgones	0	0	0	0	0	0	525	890	890	3	0	70	5	10	14	12	16	0	0	8	16		DOUBLE_WIDE
 Grande Gorgone	Grandes Gorgones	0	0	0	0	0	0	600	1028	1028	3	0	70	6	11	16	12	16	0	0	8	12	Regard Mortel.	DOUBLE_WIDE
-Guêpe Serpent	Guêpes Serpents	0	0	0	0	0	0	220	215	268	8	0	20	9	7	9	2	5	0	0	12	25	Vol. Dissipation des sorts bénéfiques.	FLYING_ARMY
-Guêpe Dragon	Guêpes Dragons	0	0	0	0	0	0	240	250	312	8	0	20	13	8	10	2	5	0	0	12	20	Vol. Dissipation des sorts bénéfiques. Affaiblit les ennemis.	FLYING_ARMY
-Basilic	Basilics	0	0	0	0	0	0	325	506	552	4	0	35	5	11	11	6	10	0	0	10	20	Regard Pétrifiant.	DOUBLE_WIDE
-Grand Basilic	Grands Basilics	0	0	0	0	0	0	400	561	714	4	0	40	7	12	12	6	10	0	0	10	16	Regard Pétrifiant.	DOUBLE_WIDE
+GuÃªpe Serpent	GuÃªpes Serpents	0	0	0	0	0	0	220	215	268	8	0	20	9	7	9	2	5	0	0	12	25	Vol. Dissipation des sorts bÃ©nÃ©fiques.	FLYING_ARMY
+GuÃªpe Dragon	GuÃªpes Dragons	0	0	0	0	0	0	240	250	312	8	0	20	13	8	10	2	5	0	0	12	20	Vol. Dissipation des sorts bÃ©nÃ©fiques. Affaiblit les ennemis.	FLYING_ARMY
+Basilic	Basilics	0	0	0	0	0	0	325	506	552	4	0	35	5	11	11	6	10	0	0	10	20	Regard PÃ©trifiant.	DOUBLE_WIDE
+Grand Basilic	Grands Basilics	0	0	0	0	0	0	400	561	714	4	0	40	7	12	12	6	10	0	0	10	16	Regard PÃ©trifiant.	DOUBLE_WIDE
 Wyverne	Wyvernes	0	0	0	0	0	0	800	1050	1350	2	0	70	7	14	14	14	18	0	0	5	12	Vol.	DOUBLE_WIDE | FLYING_ARMY
 Monarque Wyverne	Monarques Wyvernes	0	0	0	0	0	0	1100	1181	1518	2	0	70	11	14	14	18	22	0	0	5	10	Vol. Poison paralysant.	DOUBLE_WIDE | FLYING_ARMY
 Hydre	Hydres	0	0	0	0	0	0	2200	4120	4120	1	0	175	5	16	18	25	45	0	0	4	10	Attaque tous les ennemis adjacents. Pas de riposte des ennemis.	DOUBLE_WIDE | KING_1
@@ -136,50 +136,50 @@ Pyrohydre	Pyrohydres	0	0	0	1	0	0	3500	5272	5931	1	0	250	7	18	20	25	45	0	0	3	8	At
 																								
 																								
 																								
-Élémentaire de l'Air	Élémentaires de l'Air	0	0	0	0	0	0	250	324	356	6	0	25	7	9	9	2	8	0	0	8	12	Élémentaire. Immunité à Pluie de Météores. Vulnérable à Foudre et Armageddon. +100% de dégâts contre les Élémentaires de la Terre.	0
-Élémentaire de la Terre	Élémentaires de la Terre	0	0	0	0	0	0	400	415	330	4	0	40	4	10	10	4	8	0	0	16	30	Élémentaire. Immunité à Foudre et Armageddon. Vulnérable à Pluie de Météores. +100% de dégâts contre les Élémentaires de l'Air.	0
-Élémentaire du Feu	Élémentaires du Feu	0	0	0	0	0	0	350	345	345	5	0	35	6	10	8	4	6	0	0	10	20	Élémentaire. Vol. Immunité au Feu. Vulnérable à la Glace. +100% de dégâts contre les Élémentaires de l'Eau.	0
-Élémentaire de l'Eau	Élémentaires de l'Eau	0	0	0	0	0	0	300	315	315	6	0	30	5	8	10	3	7	0	0	12	25	Immunité à la Glace. Vulnérable à Boule de Feu, Brasier et Armageddon. +100% de dégâts contre les Élémentaires du Feu.	0
-Golem d'Or	Golems d'Or	0	0	0	0	0	0	500	600	600	3	0	50	5	11	12	8	10	0	0	10	16	Golem. Les dommages causés par les sorts sont réduits de 85%.	0
-Golem de Diamant	Golems de Diamant	0	0	0	0	0	0	750	775	775	2	0	60	5	13	12	10	14	0	0	8	12	Golem. Les dommages causés par les sorts sont réduits de 95%.	0
+Ã‰lÃ©mentaire de l'Air	Ã‰lÃ©mentaires de l'Air	0	0	0	0	0	0	250	324	356	6	0	25	7	9	9	2	8	0	0	8	12	Ã‰lÃ©mentaire. ImmunitÃ© Ã  Pluie de MÃ©tÃ©ores. VulnÃ©rable Ã  Foudre et Armageddon. +100% de dÃ©gÃ¢ts contre les Ã‰lÃ©mentaires de la Terre.	0
+Ã‰lÃ©mentaire de la Terre	Ã‰lÃ©mentaires de la Terre	0	0	0	0	0	0	400	415	330	4	0	40	4	10	10	4	8	0	0	16	30	Ã‰lÃ©mentaire. ImmunitÃ© Ã  Foudre et Armageddon. VulnÃ©rable Ã  Pluie de MÃ©tÃ©ores. +100% de dÃ©gÃ¢ts contre les Ã‰lÃ©mentaires de l'Air.	0
+Ã‰lÃ©mentaire du Feu	Ã‰lÃ©mentaires du Feu	0	0	0	0	0	0	350	345	345	5	0	35	6	10	8	4	6	0	0	10	20	Ã‰lÃ©mentaire. Vol. ImmunitÃ© au Feu. VulnÃ©rable Ã  la Glace. +100% de dÃ©gÃ¢ts contre les Ã‰lÃ©mentaires de l'Eau.	0
+Ã‰lÃ©mentaire de l'Eau	Ã‰lÃ©mentaires de l'Eau	0	0	0	0	0	0	300	315	315	6	0	30	5	8	10	3	7	0	0	12	25	ImmunitÃ© Ã  la Glace. VulnÃ©rable Ã  Boule de Feu, Brasier et Armageddon. +100% de dÃ©gÃ¢ts contre les Ã‰lÃ©mentaires du Feu.	0
+Golem d'Or	Golems d'Or	0	0	0	0	0	0	500	600	600	3	0	50	5	11	12	8	10	0	0	10	16	Golem. Les dommages causÃ©s par les sorts sont rÃ©duits de 85%.	0
+Golem de Diamant	Golems de Diamant	0	0	0	0	0	0	750	775	775	2	0	60	5	13	12	10	14	0	0	8	12	Golem. Les dommages causÃ©s par les sorts sont rÃ©duits de 95%.	0
 																								
 																								
 																								
 Pixie	Pixies	0	0	0	0	0	0	25	40	55	20	10	3	7	2	2	1	2	0	0	20	50	Vol.	FLYING_ARMY
-Fée	Fées	0	0	0	0	0	0	30	70	95	20	10	3	9	2	2	1	3	0	0	20	30	Vol. Pas de riposte des ennemis.	FLYING_ARMY | const_free_attack
-Élémentaire de l'Esprit	Élémentaires de l'Esprit	0	0	0	0	0	0	950	1431	1669	2	0	75	7	15	13	10	20	0	0	5	12	Élémentaire. Attaque tous les ennemis adjacents. Pas de riposte des ennemis. -50% de dégâts contre les créatures immunisées à un sort de l'esprit.	IMMUNE_TO_MIND_SPELLS | DOUBLE_WIDE | const_free_attack | MULTI_HEADED
-Élémentaire de Magie	Élémentaires de Magie	0	0	0	0	0	0	1200	1724	2012	2	0	80	9	15	13	15	25	0	0	5	10	Élémentaire. Attaque tous les ennemis adjacents. Immunité aux sorts. -50% de dégâts contre les créatures immunisées à un sort de l'esprit.	IMMUNE_TO_MIND_SPELLS | DOUBLE_WIDE | const_free_attack | MULTI_HEADED
+FÃ©e	FÃ©es	0	0	0	0	0	0	30	70	95	20	10	3	9	2	2	1	3	0	0	20	30	Vol. Pas de riposte des ennemis.	FLYING_ARMY | const_free_attack
+Ã‰lÃ©mentaire de l'Esprit	Ã‰lÃ©mentaires de l'Esprit	0	0	0	0	0	0	950	1431	1669	2	0	75	7	15	13	10	20	0	0	5	12	Ã‰lÃ©mentaire. Attaque tous les ennemis adjacents. Pas de riposte des ennemis. -50% de dÃ©gÃ¢ts contre les crÃ©atures immunisÃ©es Ã  un sort de l'esprit.	IMMUNE_TO_MIND_SPELLS | DOUBLE_WIDE | const_free_attack | MULTI_HEADED
+Ã‰lÃ©mentaire de Magie	Ã‰lÃ©mentaires de Magie	0	0	0	0	0	0	1200	1724	2012	2	0	80	9	15	13	15	25	0	0	5	10	Ã‰lÃ©mentaire. Attaque tous les ennemis adjacents. ImmunitÃ© aux sorts. -50% de dÃ©gÃ¢ts contre les crÃ©atures immunisÃ©es Ã  un sort de l'esprit.	IMMUNE_TO_MIND_SPELLS | DOUBLE_WIDE | const_free_attack | MULTI_HEADED
 NOT USED (1)	NOT USED (1)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		
-Élémentaire de Glace	Élémentaires de Glace	0	0	0	0	0	0	375	315	380	6	0	30	6	8	10	3	7	24	3	12	20	Immunité à la Glace. Vulnérable à Boule de Feu, Brasier et Armageddon. +100% de dégâts vs les Élém. du Feu. Prot. contre sorts de l'Eau.	IMMUNE_TO_MIND_SPELLS | SHOOTING_ARMY
+Ã‰lÃ©mentaire de Glace	Ã‰lÃ©mentaires de Glace	0	0	0	0	0	0	375	315	380	6	0	30	6	8	10	3	7	24	3	12	20	ImmunitÃ© Ã  la Glace. VulnÃ©rable Ã  Boule de Feu, Brasier et Armageddon. +100% de dÃ©gÃ¢ts vs les Ã‰lÃ©m. du Feu. Prot. contre sorts de l'Eau.	IMMUNE_TO_MIND_SPELLS | SHOOTING_ARMY
 NOT USED (2) 	NOT USED (2)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		
-Élémentaire de Magma	Élémentaires de Magma	0	0	0	0	0	0	500	490	490	4	0	40	6	11	11	6	10	0	3	16	25	Immunité à Foudre et Armageddon. Vulnérable à Pluie de Météores. +100% de dégâts contre les Élém. de l'Air. Prot. contre sorts de la Terre.	IMMUNE_TO_MIND_SPELLS
+Ã‰lÃ©mentaire de Magma	Ã‰lÃ©mentaires de Magma	0	0	0	0	0	0	500	490	490	4	0	40	6	11	11	6	10	0	3	16	25	ImmunitÃ© Ã  Foudre et Armageddon. VulnÃ©rable Ã  Pluie de MÃ©tÃ©ores. +100% de dÃ©gÃ¢ts contre les Ã‰lÃ©m. de l'Air. Prot. contre sorts de la Terre.	IMMUNE_TO_MIND_SPELLS
 NOT USED (3)	NOT USED (3)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		
-Élémentaire de Tempête	Élémentaires de Tempête	0	0	0	0	0	0	275	324	486	6	0	25	8	9	9	2	8	24	3	6	12	Immunité à Pluie de Météores. Vulnérable à Foudre et Armageddon. +100% de dégâts vs les Élém. de la Terre. Prot. contre sorts de l'Air.	IMMUNE_TO_MIND_SPELLS | SHOOTING_ARMY
+Ã‰lÃ©mentaire de TempÃªte	Ã‰lÃ©mentaires de TempÃªte	0	0	0	0	0	0	275	324	486	6	0	25	8	9	9	2	8	24	3	6	12	ImmunitÃ© Ã  Pluie de MÃ©tÃ©ores. VulnÃ©rable Ã  Foudre et Armageddon. +100% de dÃ©gÃ¢ts vs les Ã‰lÃ©m. de la Terre. Prot. contre sorts de l'Air.	IMMUNE_TO_MIND_SPELLS | SHOOTING_ARMY
 NOT USED (4)	NOT USED (4)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		
-Élémentaire d'Energie	Élémentaires d'Energie	0	0	0	0	0	0	400	360	470	5	0	35	8	12	8	4	6	0	3	10	16	Vol. Immunité au Feu. Vulnérable à la Glace. +100% de dégâts contre les Élémentaires de l'Eau. Protection contre sorts du Feu.	IMMUNE_TO_MIND_SPELLS | IMMUNE_TO_FIRE_SPELLS | FLYING_ARMY
-Oiseau de Feu	Oiseaux de Feu	0	0	0	0	0	0	2000	3097	4336	1	0	150	15	18	18	30	40	0	0	4	10	Vol. Attaque par souffle. Dégâts des sorts de la Magie du Feu réduits de 50%.	DOUBLE_WIDE | FLYING_ARMY | KING_1 | HAS_EXTENDED_ATTACK
-Phénix	Phénix	0	1	0	0	0	0	3000	4929	6721	1	0	200	21	21	18	30	40	0	1	3	8	Vol. Attaque par souffle. Immunité aux sorts de la Magie du Feu. Renaissance.	IMMUNE_TO_FIRE_SPELLS | DOUBLE_WIDE | FLYING_ARMY | KING_1 | HAS_EXTENDED_ATTACK
+Ã‰lÃ©mentaire d'Energie	Ã‰lÃ©mentaires d'Energie	0	0	0	0	0	0	400	360	470	5	0	35	8	12	8	4	6	0	3	10	16	Vol. ImmunitÃ© au Feu. VulnÃ©rable Ã  la Glace. +100% de dÃ©gÃ¢ts contre les Ã‰lÃ©mentaires de l'Eau. Protection contre sorts du Feu.	IMMUNE_TO_MIND_SPELLS | IMMUNE_TO_FIRE_SPELLS | FLYING_ARMY
+Oiseau de Feu	Oiseaux de Feu	0	0	0	0	0	0	2000	3097	4336	1	0	150	15	18	18	30	40	0	0	4	10	Vol. Attaque par souffle. DÃ©gÃ¢ts des sorts de la Magie du Feu rÃ©duits de 50%.	DOUBLE_WIDE | FLYING_ARMY | KING_1 | HAS_EXTENDED_ATTACK
+PhÃ©nix	PhÃ©nix	0	1	0	0	0	0	3000	4929	6721	1	0	200	21	21	18	30	40	0	1	3	8	Vol. Attaque par souffle. ImmunitÃ© aux sorts de la Magie du Feu. Renaissance.	IMMUNE_TO_FIRE_SPELLS | DOUBLE_WIDE | FLYING_ARMY | KING_1 | HAS_EXTENDED_ATTACK
 																								
 																								
 																								
-Dragon d'Azur	Dragons d'Azur	0	20	0	0	0	0	30000	56315	78845	1	0	1000	19	50	50	70	80	0	0	1	3	Vol. Terreur. Attaque par souffle. Immunité aux sorts niveaux 1-3.	DOUBLE_WIDE | FLYING_ARMY | KING_1
-Dragon de Cristal	Dragons de Cristal	0	0	0	0	10	0	20000	30260	39338	1	0	800	16	40	40	60	75	0	0	1	3	Production de Cristaux. 20% de chance de résister à la magie.	DOUBLE_WIDE | FLYING_ARMY | KING_1
-Dragon Féerique	Dragons Féeriques	0	0	0	0	0	8	10000	16317	30501	1	0	500	15	20	20	20	30	0	5	1	3	Vol. Lancement de sorts offensifs. Protection par miroir magique.	DOUBLE_WIDE | FLYING_ARMY | KING_1
+Dragon d'Azur	Dragons d'Azur	0	20	0	0	0	0	30000	56315	78845	1	0	1000	19	50	50	70	80	0	0	1	3	Vol. Terreur. Attaque par souffle. ImmunitÃ© aux sorts niveaux 1-3.	DOUBLE_WIDE | FLYING_ARMY | KING_1
+Dragon de Cristal	Dragons de Cristal	0	0	0	0	10	0	20000	30260	39338	1	0	800	16	40	40	60	75	0	0	1	3	Production de Cristaux. 20% de chance de rÃ©sister Ã  la magie.	DOUBLE_WIDE | FLYING_ARMY | KING_1
+Dragon FÃ©erique	Dragons FÃ©eriques	0	0	0	0	0	8	10000	16317	30501	1	0	500	15	20	20	20	30	0	5	1	3	Vol. Lancement de sorts offensifs. Protection par miroir magique.	DOUBLE_WIDE | FLYING_ARMY | KING_1
 Dragon Corrosif	Dragons Corrosifs	0	0	0	14	0	0	15000	24030	26433	1	0	750	17	30	30	50	50	0	0	1	3	Vol. Attaque par souffle. Crache de l'acide.	DOUBLE_WIDE | FLYING_ARMY | KING_1
-Enchanteur	Enchanteurs	0	0	0	0	0	0	750	805	1210	2	0	30	9	17	12	14	14	32	0	5	12	Attaque à distance. Pas de pénalités de barrière. Pas de pénalités de mêlée. Lancement de sorts sur différents groupes de créatures.	SHOOTING_ARMY | const_no_melee_penalty
-Archer d'Élite	Archers d'Élite	0	0	0	0	0	0	400	415	585	4	0	15	9	12	10	8	10	32	0	10	16	Tirs. Pas de malus au tir ou de pénalités de barrière.	SHOOTING_ARMY
+Enchanteur	Enchanteurs	0	0	0	0	0	0	750	805	1210	2	0	30	9	17	12	14	14	32	0	5	12	Attaque Ã  distance. Pas de pÃ©nalitÃ©s de barriÃ¨re. Pas de pÃ©nalitÃ©s de mÃªlÃ©e. Lancement de sorts sur diffÃ©rents groupes de crÃ©atures.	SHOOTING_ARMY | const_no_melee_penalty
+Archer d'Ã‰lite	Archers d'Ã‰lite	0	0	0	0	0	0	400	415	585	4	0	15	9	12	10	8	10	32	0	10	16	Tirs. Pas de malus au tir ou de pÃ©nalitÃ©s de barriÃ¨re.	SHOOTING_ARMY
 Hobbit	Hobbits	0	0	0	0	0	0	40	60	75	15	0	4	5	4	2	1	3	24	0	20	50	Tirs. Bonus de Chance.	SHOOTING_ARMY
 Paysan	Paysans	0	0	0	0	0	0	10	15	15	25	0	1	3	1	1	1	1	0	0	20	50		
 Sanglier	Sangliers	0	0	0	0	0	0	150	145	145	8	0	15	6	6	5	2	3	0	0	16	30		
-Momie	Momies	0	0	0	0	0	0	300	270	270	7	0	30	5	7	7	3	5	0	0	12	25	Morts-vivants. Malédiction.	
-Nomade	Nomades	0	0	0	0	0	0	200	285	345	7	0	30	7	9	8	2	6	0	0	12	25	Marcheurs du désert.	
+Momie	Momies	0	0	0	0	0	0	300	270	270	7	0	30	5	7	7	3	5	0	0	12	25	Morts-vivants. MalÃ©diction.	
+Nomade	Nomades	0	0	0	0	0	0	200	285	345	7	0	30	7	9	8	2	6	0	0	12	25	Marcheurs du dÃ©sert.	
 Bandit	Bandits	0	0	0	0	0	0	100	135	135	8	0	10	6	8	3	2	4	0	0	16	30	Espionnage.	
-Troll	Trolls	0	0	0	0	0	0	500	1024	1024	3	0	40	7	14	7	10	15	0	0	8	12	Régénération.	
+Troll	Trolls	0	0	0	0	0	0	500	1024	1024	3	0	40	7	14	7	10	15	0	0	8	12	RÃ©gÃ©nÃ©ration.	
 																								
 																								
 																								
 Catapulte	Catapultes	0	0	0	0	0	0	1	10	500	0	0	1000	0	10	10	0	0	24	0	0	0	Machine de guerre. Pilonnage des fortifications infligeant 0-2 dommages.	DOUBLE_WIDE | SHOOTING_ARMY | CATAPULT | SIEGE_WEAPON
 Baliste	Balistes	0	0	0	0	0	0	1500	650	600	0	0	250	0	10	10	2	3	24	0	0	0	Machine de guerre. Tirs.	DOUBLE_WIDE | SHOOTING_ARMY | SIEGE_WEAPON
 Dispensaire	Dispensaires	0	0	0	0	0	0	750	10	300	0	0	75	0	0	0	0	0	0	0	0	0	Machine de guerre. Soigne les troupes pour 20-25 points de vie.	DOUBLE_WIDE | SIEGE_WEAPON
-Chariot	Chariots	0	0	0	0	0	0	1000	5	400	0	0	100	0	0	5	0	0	0	0	0	0	Munitions illimitées pour les attaques à distance.	SIEGE_WEAPON
-Sentinelle	Sentinelles	0	0	0	0	0	0	1000	5	400	0	0	100	0	10	5	2	4	99	0	0	0	Tirs. Pas de malus au tir. Pas de pénalités de barrière. Munitions illimitées. Ignore les défenses de la cible.	SIEGE_WEAPON
+Chariot	Chariots	0	0	0	0	0	0	1000	5	400	0	0	100	0	0	5	0	0	0	0	0	0	Munitions illimitÃ©es pour les attaques Ã  distance.	SIEGE_WEAPON
+Sentinelle	Sentinelles	0	0	0	0	0	0	1000	5	400	0	0	100	0	10	5	2	4	99	0	0	0	Tirs. Pas de malus au tir. Pas de pÃ©nalitÃ©s de barriÃ¨re. Munitions illimitÃ©es. Ignore les dÃ©fenses de la cible.	SIEGE_WEAPON

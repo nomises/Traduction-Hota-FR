@@ -2,130 +2,130 @@
 Name	Cost	Spell Book	War Machine 4	War Machine 3	War Machine 2	War Machine 1	Misc 5	Misc 4	Misc 3	Misc 2	Misc 1	Feet	Left Ring	Right Ring	Torso	Left Hand	Right Hand	Neck	Shoulders	Head	Class (S,T,N,J,R)	Description
 Livre des Sorts	0	x	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Livre des Sorts}
 
-Cliquez sur le Livre des Sorts pour afficher la liste des sorts que connaît votre Héros."
+Cliquez sur le Livre des Sorts pour afficher la liste des sorts que connaÃ®t votre HÃ©ros."
 Rouleau	2500	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	S	"{Rouleau}
 
-Ce parchemin décrit un sort qui est ajouté au Livre des Sorts."
+Ce parchemin dÃ©crit un sort qui est ajoutÃ© au Livre des Sorts."
 Graal	0	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Graal}
 
-Amenez le Graal dans l'une de vos villes et bâtissez un monument en son honneur. Vous en tirerez des avantages considérables."
+Amenez le Graal dans l'une de vos villes et bÃ¢tissez un monument en son honneur. Vous en tirerez des avantages considÃ©rables."
 Catapulte	1000	 	x	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Catapulte}
 
-Au cours d'un siège, la catapulte permet de détruire les fortifications de l'ennemi."
+Au cours d'un siÃ¨ge, la catapulte permet de dÃ©truire les fortifications de l'ennemi."
 Baliste	2500	 	 	 	 	x		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Baliste}
 
 Au cours d'un combat, cette machine de guerre soutient vos troupes contre celles de l'ennemi."
 Chariot	1000	 	 	 	x	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Chariot}
 
-Lorsque vous disposez d'un chariot, vos troupes dotées d'armes de jet ne sont jamais à court de munitions."
+Lorsque vous disposez d'un chariot, vos troupes dotÃ©es d'armes de jet ne sont jamais Ã  court de munitions."
 Dispensaire	750	 	 	x	 	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Dispensaire}
 
-Lors d'un combat, le Dispensaire permet de soigner la première créature d'une troupe qui a subi des dégâts lors d'une attaque."
+Lors d'un combat, le Dispensaire permet de soigner la premiÃ¨re crÃ©ature d'une troupe qui a subi des dÃ©gÃ¢ts lors d'une attaque."
 Hache du Centaure	2000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	T	"{Hache du Centaure}
 
-Le maniement de cette hache améliore votre caractéristique d'Attaque +2"
+Le maniement de cette hache amÃ©liore votre caractÃ©ristique d'Attaque +2"
 Lame Noire	3000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	N	"{Lame Noire}
 
-Le maniement de cette épée améliore votre caractéristique d'Attaque +3"
-Fléau des Gnolls	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	N	"{Fléau des Gnolls}
+Le maniement de cette Ã©pÃ©e amÃ©liore votre caractÃ©ristique d'Attaque +3"
+FlÃ©au des Gnolls	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	N	"{FlÃ©au des Gnolls}
 
-Le maniement de ce fléau d'armes améliore votre caractéristique d'Attaque +4"
+Le maniement de ce flÃ©au d'armes amÃ©liore votre caractÃ©ristique d'Attaque +4"
 Gourdin Massacreur	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	J	"{Gourdin Massacreur}
 
-Le maniement de ce gourdin améliore votre caractéristique d'Attaque +5"
-Épée Flamboyante	6000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	J	"{Épée Flamboyante}
+Le maniement de ce gourdin amÃ©liore votre caractÃ©ristique d'Attaque +5"
+Ã‰pÃ©e Flamboyante	6000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	J	"{Ã‰pÃ©e Flamboyante}
 
-Le maniement de cette épée améliore votre caractéristique d'Attaque +6"
+Le maniement de cette Ã©pÃ©e amÃ©liore votre caractÃ©ristique d'Attaque +6"
 Glaive des Titans	10000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	R	"{Glaive des Titans}
 
-Le maniement de ce glaive améliore votre caractéristique d'Attaque +12, mais réduit votre caractéristique de Défense -3"
+Le maniement de ce glaive amÃ©liore votre caractÃ©ristique d'Attaque +12, mais rÃ©duit votre caractÃ©ristique de DÃ©fense -3"
 Bouclier des Seigneurs Nains	2000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	T	"{Bouclier des Seigneurs Nains}
 
-Le maniement de ce bouclier améliore votre caractéristique de Défense +2"
-Écu des Ténèbres	3000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	N	"{Écu des Ténèbres}
+Le maniement de ce bouclier amÃ©liore votre caractÃ©ristique de DÃ©fense +2"
+Ã‰cu des TÃ©nÃ¨bres	3000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	N	"{Ã‰cu des TÃ©nÃ¨bres}
 
-Le maniement de cet écu améliore votre caractéristique de Défense +3"
+Le maniement de cet Ã©cu amÃ©liore votre caractÃ©ristique de DÃ©fense +3"
 Rondache du Roi Gnoll	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	N	"{Rondache du Roi Gnoll}
 
-Le maniement de cette rondache améliore votre caractéristique de Défense +4"
-Targe de la Dévastation	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	J	"{Targe de la Dévastation}
+Le maniement de cette rondache amÃ©liore votre caractÃ©ristique de DÃ©fense +4"
+Targe de la DÃ©vastation	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	J	"{Targe de la DÃ©vastation}
 
-Le maniement de cette targe améliore votre caractéristique de Défense +5"
-Bouclier des Damnés	6000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	J	"{Bouclier des Damnés}
+Le maniement de cette targe amÃ©liore votre caractÃ©ristique de DÃ©fense +5"
+Bouclier des DamnÃ©s	6000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	J	"{Bouclier des DamnÃ©s}
 
-Le maniement de ce bouclier améliore votre caractéristique de Défense +6"
+Le maniement de ce bouclier amÃ©liore votre caractÃ©ristique de DÃ©fense +6"
 Bouclier Sentinelle	10000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	R	"{Bouclier Sentinelle}
 
-Le maniement de ce bouclier améliore votre caractéristique de Défense +12, mais réduit votre caractéristique d'Attaque -3"
-Heaume de la Licorne Immaculée	1000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	T	"{Heaume de la Licorne Immaculée}
+Le maniement de ce bouclier amÃ©liore votre caractÃ©ristique de DÃ©fense +12, mais rÃ©duit votre caractÃ©ristique d'Attaque -3"
+Heaume de la Licorne ImmaculÃ©e	1000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	T	"{Heaume de la Licorne ImmaculÃ©e}
 
-Le port de ce heaume augmente votre caractéristique de Savoir +1"
+Le port de ce heaume augmente votre caractÃ©ristique de Savoir +1"
 Casque Noir	3000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	T	"{Casque Noir}
 
-Le port de ce casque augmente votre caractéristique de Savoir +2"
+Le port de ce casque augmente votre caractÃ©ristique de Savoir +2"
 Heaume du Chaos	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	N	"{Heaume du Chaos}
 
-Le port de ce heaume augmente votre caractéristique de Savoir +3"
-Couronne Suprême	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	N	"{Couronne Suprême}
+Le port de ce heaume augmente votre caractÃ©ristique de Savoir +3"
+Couronne SuprÃªme	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	N	"{Couronne SuprÃªme}
 
-Le port de cette couronne augmente votre caractéristique de Savoir +4"
+Le port de cette couronne augmente votre caractÃ©ristique de Savoir +4"
 Casque Ouragan	6000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	J	"{Casque Ouragan}
 
-Le port de ce casque augmente votre caractéristique de Savoir +5"
+Le port de ce casque augmente votre caractÃ©ristique de Savoir +5"
 Heaume Spirituel	10000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	R	"{Heaume Spirituel}
 
-Le port de ce heaume augmente votre caractéristique de Savoir +10, mais réduit votre caractéristique de Magie -2"
-Cuirasse du Chêne Sacré	1000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	T	"{Cuirasse du Chêne Sacré}
+Le port de ce heaume augmente votre caractÃ©ristique de Savoir +10, mais rÃ©duit votre caractÃ©ristique de Magie -2"
+Cuirasse du ChÃªne SacrÃ©	1000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	T	"{Cuirasse du ChÃªne SacrÃ©}
 
-L'usage de cette cuirasse augmente votre caractéristique de Magie +1"
+L'usage de cette cuirasse augmente votre caractÃ©ristique de Magie +1"
 Plastron Macabre	3000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	N	"{Plastron Macabre}
 
-L'usage de ce plastron augmente votre caractéristique de Magie +2"
+L'usage de ce plastron augmente votre caractÃ©ristique de Magie +2"
 Carapace de Basilic	4000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	N	"{Carapace de Basilic}
 
-L'usage de cette carapace augmente votre caractéristique de Magie +3"
+L'usage de cette carapace augmente votre caractÃ©ristique de Magie +3"
 Vareuse du Roi Cyclope	5000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	J	"{Vareuse du Roi Cyclope}
 
-L'usage de cette vareuse augmente votre caractéristique de Magie +4"
+L'usage de cette vareuse augmente votre caractÃ©ristique de Magie +4"
 Plastron Vulcain	6000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	J	"{Plastron Vulcain}
 
-L'usage de ce plastron augmente votre caractéristique de Magie +5"
+L'usage de ce plastron augmente votre caractÃ©ristique de Magie +5"
 Cuirasse des Titans	10000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	R	"{Cuirasse des Titans}
 
-L'usage de cette cuirasse augmente votre caractéristique de Magie +10, mais réduit votre caractéristique de Savoir -2"
+L'usage de cette cuirasse augmente votre caractÃ©ristique de Magie +10, mais rÃ©duit votre caractÃ©ristique de Savoir -2"
 Armure Miraculeuse	4000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	N	"{Armure Miraculeuse}
 
-L'usage de cette armure augmente vos quatre caractéristiques +1"
-Sandales Sacrées	8000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	R	"{Sandales Sacrées}
+L'usage de cette armure augmente vos quatre caractÃ©ristiques +1"
+Sandales SacrÃ©es	8000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	R	"{Sandales SacrÃ©es}
 
-Le port de ces sandales améliorent vos quatre caractéristiques +2"
-Collier de Béatitude	12000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	R	"{Collier de Béatitude}
+Le port de ces sandales amÃ©liorent vos quatre caractÃ©ristiques +2"
+Collier de BÃ©atitude	12000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	R	"{Collier de BÃ©atitude}
 
-Ce collier augmente vos quatre caractéristiques +3"
-Bouclier Cœur de Lion	16000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	R	"{Bouclier Cœur de Lion}
+Ce collier augmente vos quatre caractÃ©ristiques +3"
+Bouclier CÅ“ur de Lion	16000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	R	"{Bouclier CÅ“ur de Lion}
 
-Le maniement de ce bouclier augmente vos quatre caractéristiques +4"
-Épée de Justice	20000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	R	"{Épée de Justice}
+Le maniement de ce bouclier augmente vos quatre caractÃ©ristiques +4"
+Ã‰pÃ©e de Justice	20000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	R	"{Ã‰pÃ©e de Justice}
 
-Le maniement de cette épée augmente vos quatre caractéristiques +5"
+Le maniement de cette Ã©pÃ©e augmente vos quatre caractÃ©ristiques +5"
 Heaume de l'Illumination	24000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	R	"{Heaume de l'Illumination}
 
-Le port de ce heaume augmente vos quatre caractéristiques +6"
+Le port de ce heaume augmente vos quatre caractÃ©ristiques +6"
 Oeil du Dragon Calme	2000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	T	"{Oeil du Dragon Calme}
 
-Cet anneau améliore vos caractéristiques d'Attaque et de Défense +1"
+Cet anneau amÃ©liore vos caractÃ©ristiques d'Attaque et de DÃ©fense +1"
 Lame Ardente	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	N	"{Lame Ardente}
 
-Le maniement de cette épée améliore vos caractéristiques d'Attaque et de Défense +2"
+Le maniement de cette Ã©pÃ©e amÃ©liore vos caractÃ©ristiques d'Attaque et de DÃ©fense +2"
 Bouclier Dragon	6000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	J	"{Bouclier Dragon}
 
-Le maniement de ce bouclier améliore vos caractéristiques d'Attaque et de Défense +3"
+Le maniement de ce bouclier amÃ©liore vos caractÃ©ristiques d'Attaque et de DÃ©fense +3"
 Armure Dragon	8000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	R	"{Armure Dragon}
 
-L'usage de cette armure améliore vos caractéristiques d'Attaque et de Défense +4"
-Jambières Dragon	2000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	T	"{Jambières Dragon}
+L'usage de cette armure amÃ©liore vos caractÃ©ristiques d'Attaque et de DÃ©fense +4"
+JambiÃ¨res Dragon	2000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	T	"{JambiÃ¨res Dragon}
 
-Le port de ces jambières augmente votre Magie et votre Savoir +1"
+Le port de ces jambiÃ¨res augmente votre Magie et votre Savoir +1"
 Tabard Dragon	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	N	"{Tabard Dragon}
 
 L'usage de ce tabard augmente votre Magie et votre Savoir +2"
@@ -135,154 +135,154 @@ Ce collier augmente votre Magie et votre Savoir +3"
 Couronne Croc de Dragon	8000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	R	"{Couronne Croc de Dragon}
 
 Le port de cette couronne augmente votre Magie et votre Savoir +4"
-Oeil de Tranquillité	2000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	T	"{Oeil de Tranquillité}
+Oeil de TranquillitÃ©	2000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	T	"{Oeil de TranquillitÃ©}
 
 Cet anneau augmente votre Chance et votre Moral +1"
-Trèfle à Quatre Feuilles	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Trèfle à Quatre Feuilles}
+TrÃ¨fle Ã  Quatre Feuilles	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{TrÃ¨fle Ã  Quatre Feuilles}
 
-Le Trèfle à 4 Feuilles augmente votre Chance +1"
+Le TrÃ¨fle Ã  4 Feuilles augmente votre Chance +1"
 Cartes du Destin	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Cartes du Destin}
 
 Ces cartes augmentent votre Chance +1"
 Oiseau Porte-Bonheur	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Oiseau Porte-Bonheur}
 
 Cette figurine augmente votre Chance +1"
-Médaille du Courage	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Médaille du Courage}
+MÃ©daille du Courage	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{MÃ©daille du Courage}
 
-Cette médaille augmente votre Moral +1"
-Croix du Mérite	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Croix du Mérite}
+Cette mÃ©daille augmente votre Moral +1"
+Croix du MÃ©rite	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Croix du MÃ©rite}
 
 Cette croix augmente votre Moral +1"
 Glyphe d'Honneur	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Glyphe d'Honneur}
 
-Cet objet améliore votre Moral +1"
+Cet objet amÃ©liore votre Moral +1"
 Lunette	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Lunette}
 
 Cette lunette accroit votre champ de vision +1"
 Longue-Vue	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Longue-Vue}
 
-Cette longue-vue accroît votre champ de vision +1"
+Cette longue-vue accroÃ®t votre champ de vision +1"
 Amulette du Fossoyeur	2000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Amulette du Fossoyeur}
 
-Cette amulette accroît de 2,5% votre puissance en Nécromancie."
+Cette amulette accroÃ®t de 2,5% votre puissance en NÃ©cromancie."
 Capuche du Vampire	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	N	"{Capuche du Vampire}
 
-Cette capuche accroît de 5% votre puissance en Nécromancie."
+Cette capuche accroÃ®t de 5% votre puissance en NÃ©cromancie."
 Bottes du Passeur	6000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	J	"{Bottes du Passeur}
 
-Ces bottes améliorent votre puissance en Nécromancie de 7,5%."
+Ces bottes amÃ©liorent votre puissance en NÃ©cromancie de 7,5%."
 Talisman de Turbulence	2000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Talisman de Turbulence}
 
-Ce talisman augmente vos chances de résister à un Sort hostile de 5% durant les combats."
+Ce talisman augmente vos chances de rÃ©sister Ã  un Sort hostile de 5% durant les combats."
 Cape d'Harmonie	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	J	"{Cape d'Harmonie}
 
-Cette cape augmente vos chances de résister à un Sort hostile de 10% durant les combats."
+Cette cape augmente vos chances de rÃ©sister Ã  un Sort hostile de 10% durant les combats."
 Bottes du Tigre	6000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	R	"{Bottes du Tigre}
 
-Ces bottes augmentent vos chances de résister à un Sort hostile de 15% durant les combats."
+Ces bottes augmentent vos chances de rÃ©sister Ã  un Sort hostile de 15% durant les combats."
 Arc Elfique	2000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Arc Elfique}
 
-Cet arc magique améliore votre compétence en Archerie de 5%."
-Corde Immaculée	4000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Corde Immaculée}
+Cet arc magique amÃ©liore votre compÃ©tence en Archerie de 5%."
+Corde ImmaculÃ©e	4000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Corde ImmaculÃ©e}
 
-Cette corde magique améliore votre compétence en Archerie de 10%."
-Flèches Angéliques	6000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Flèches Angéliques}
+Cette corde magique amÃ©liore votre compÃ©tence en Archerie de 10%."
+FlÃ¨ches AngÃ©liques	6000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{FlÃ¨ches AngÃ©liques}
 
-Ces flèches magiques améliorent votre compétence en Archerie de 15%."
+Ces flÃ¨ches magiques amÃ©liorent votre compÃ©tence en Archerie de 15%."
 Oiseau Moqueur	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Oiseau Moqueur}
 
-Cette figurine accroît votre compétence de Mimétisme de 5%."
+Cette figurine accroÃ®t votre compÃ©tence de MimÃ©tisme de 5%."
 Guetteur	2000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Guetteur}
 
-Cette figurine accroît votre compétence de Mimétisme de 10%."
-Emblème du Faussaire	3000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Emblème du Faussaire}
+Cette figurine accroÃ®t votre compÃ©tence de MimÃ©tisme de 10%."
+EmblÃ¨me du Faussaire	3000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{EmblÃ¨me du Faussaire}
 
-Cet objet accroît votre compétence de Mimétisme de 15%."
-Médaille de Dignité	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Médaille de Dignité}
+Cet objet accroÃ®t votre compÃ©tence de MimÃ©tisme de 15%."
+MÃ©daille de DignitÃ©	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{MÃ©daille de DignitÃ©}
 
-Cette médaille réduit le coût d'une reddition de 10%."
+Cette mÃ©daille rÃ©duit le coÃ»t d'une reddition de 10%."
 Anneau de Diplomatie	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	J	"{Anneau de Diplomatie}
 
-Cet anneau réduit le coût d'une reddition de 10%."
-Écharpe d'Ambassadeur	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	J	"{Écharpe d'Ambassadeur}
+Cet anneau rÃ©duit le coÃ»t d'une reddition de 10%."
+Ã‰charpe d'Ambassadeur	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	J	"{Ã‰charpe d'Ambassadeur}
 
-Cette écharpe réduit le coût d'une reddition de 10%."
+Cette Ã©charpe rÃ©duit le coÃ»t d'une reddition de 10%."
 Anneau du Voyageur	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	J	"{Anneau du Voyageur}
 
 Cet anneau augmente la vitesse de vos troupes lors des combats +1"
-Gants Équestres	3000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	N	"{Gants Équestres}
+Gants Ã‰questres	3000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	N	"{Gants Ã‰questres}
 
-Le port des gants accroît la mobilité de votre héros sur le terrain de +200 points de mouvement."
+Le port des gants accroÃ®t la mobilitÃ© de votre hÃ©ros sur le terrain de +200 points de mouvement."
 Collier des Dauphins	10000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Collier des Dauphins}
 
-Le port de ce collier accroît la mobilité de votre héros en Mer de +1000 points de mouvement."
+Le port de ce collier accroÃ®t la mobilitÃ© de votre hÃ©ros en Mer de +1000 points de mouvement."
 Ailes d'Ange	20000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	R	"{Ailes d'Ange}
 
 Les ailes vous permettent de voler par-dessus les obstacles."
 Amulette de Mana	500	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Amulette de Mana}
 
-Cette amulette vous permet de récupérer 1 point de magie par jour."
+Cette amulette vous permet de rÃ©cupÃ©rer 1 point de magie par jour."
 Talisman de Mana	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Talisman de Mana}
 
-Ce talisman vous permet de récupérer 2 points de magie par jour."
+Ce talisman vous permet de rÃ©cupÃ©rer 2 points de magie par jour."
 Globe Mystique de Mana	1500	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Globe Mystique de Mana}
 
-Ce globe vous permet de récupérer 3 points de magie par jour."
+Ce globe vous permet de rÃ©cupÃ©rer 3 points de magie par jour."
 Collier de Constance	500	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Collier de Constance}
 
-Ce collier prolonge la durée de tous vos sorts de 1 tour."
+Ce collier prolonge la durÃ©e de tous vos sorts de 1 tour."
 Bague de Constance	1000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	T	"{Bague de Constance}
 
-Cet anneau prolonge la durée de tous vos sorts de 2 tours."
+Cet anneau prolonge la durÃ©e de tous vos sorts de 2 tours."
 Cape de Constance	1500	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	T	"{Cape de Constance}
 
-Cette cape prolonge la durée de tous vos sorts de 3 tours."
+Cette cape prolonge la durÃ©e de tous vos sorts de 3 tours."
 Globe des Vents	6000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Globe des Vents}
 
-Ce globe permet au héros d'infliger 50% de dégâts supplémentaires grâce aux sorts de la Magie de l'air."
+Ce globe permet au hÃ©ros d'infliger 50% de dÃ©gÃ¢ts supplÃ©mentaires grÃ¢ce aux sorts de la Magie de l'air."
 Globe des Pierres	6000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Globe des Pierres}
 
-Ce globe permet au héros d'infliger 50% de dégâts supplémentaires grâce aux sorts de la Magie de la terre."
+Ce globe permet au hÃ©ros d'infliger 50% de dÃ©gÃ¢ts supplÃ©mentaires grÃ¢ce aux sorts de la Magie de la terre."
 Globe des Flammes	6000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Globe des Flammes}
 
-Ce globe permet au héros d'infliger 50% de dégâts supplémentaires grâce aux sorts de la Magie du feu."
+Ce globe permet au hÃ©ros d'infliger 50% de dÃ©gÃ¢ts supplÃ©mentaires grÃ¢ce aux sorts de la Magie du feu."
 Globe des Flots	6000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Globe des Flots}
 
-Ce globe permet au héros d'infliger 50% de dégâts supplémentaires grâce aux sorts de la Magie de l'eau."
+Ce globe permet au hÃ©ros d'infliger 50% de dÃ©gÃ¢ts supplÃ©mentaires grÃ¢ce aux sorts de la Magie de l'eau."
 Manteau d'Abjuration	8000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	J	"{Manteau d'Abjuration}
 
-Lorsque votre héros porte ce manteau, ni lui ni ses ennemis ne peuvent lancer des sorts de niveau 3 et supérieurs au cours d'un combat."
+Lorsque votre hÃ©ros porte ce manteau, ni lui ni ses ennemis ne peuvent lancer des sorts de niveau 3 et supÃ©rieurs au cours d'un combat."
 Esprit d'Oppression	2000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Esprit d'Oppression}
 
-Les bonus de Moral des deux camps sont annulés lors des combats."
+Les bonus de Moral des deux camps sont annulÃ©s lors des combats."
 Sablier Diabolique	2000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Sablier Diabolique}
 
-Les bonus de Chance des deux camps sont annulés lors des combats."
-Traité de la Magie du Feu	20000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Traité de la Magie du Feu}
+Les bonus de Chance des deux camps sont annulÃ©s lors des combats."
+TraitÃ© de la Magie du Feu	20000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{TraitÃ© de la Magie du Feu}
 
-Cet imposant traité de magie contient tous les sorts de l'école du Feu. Vous devez être équipé de ce traité pour lancer les sorts qu'il décrit."
-Traité de la Magie de l'Air	20000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Traité de la Magie de l'Air}
+Cet imposant traitÃ© de magie contient tous les sorts de l'Ã©cole du Feu. Vous devez Ãªtre Ã©quipÃ© de ce traitÃ© pour lancer les sorts qu'il dÃ©crit."
+TraitÃ© de la Magie de l'Air	20000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{TraitÃ© de la Magie de l'Air}
 
-Cet imposant traité de magie contient tous les sorts de l'école de l'Air. Vous devez être équipé de ce traité pour lancer les sorts qu'il décrit."
-Traité de la Magie de l'Eau	20000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Traité de la Magie de l'Eau}
+Cet imposant traitÃ© de magie contient tous les sorts de l'Ã©cole de l'Air. Vous devez Ãªtre Ã©quipÃ© de ce traitÃ© pour lancer les sorts qu'il dÃ©crit."
+TraitÃ© de la Magie de l'Eau	20000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{TraitÃ© de la Magie de l'Eau}
 
-Cet imposant traité de magie contient tous les sorts de l'école de l'Eau. Vous devez être équipé de ce traité pour lancer les sorts qu'il décrit."
-Traité de la Magie de la Terre	20000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Traité de la Magie de la Terre}
+Cet imposant traitÃ© de magie contient tous les sorts de l'Ã©cole de l'Eau. Vous devez Ãªtre Ã©quipÃ© de ce traitÃ© pour lancer les sorts qu'il dÃ©crit."
+TraitÃ© de la Magie de la Terre	20000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{TraitÃ© de la Magie de la Terre}
 
-Cet imposant traité de magie contient tous les sorts de l'école de la Terre. Vous devez être équipé de ce traité pour lancer les sorts qu'il décrit."
-Bottes de Lévitation	10000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	R	"{Bottes de Lévitation}
+Cet imposant traitÃ© de magie contient tous les sorts de l'Ã©cole de la Terre. Vous devez Ãªtre Ã©quipÃ© de ce traitÃ© pour lancer les sorts qu'il dÃ©crit."
+Bottes de LÃ©vitation	10000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	R	"{Bottes de LÃ©vitation}
 
-Lorsque votre héros porte ces bottes, il peut traverser à cheval de grandes étendues d'eau."
+Lorsque votre hÃ©ros porte ces bottes, il peut traverser Ã  cheval de grandes Ã©tendues d'eau."
 Arc de Midas	8000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Arc de Midas}
 
-Cet arc annule toutes les pénalités relatives aux distances et aux obstacles qui s'appliquent normalement à vos troupes dotées d'armes de jet."
-Sphère d'Immanence	7500	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Sphère d'Immanence}
+Cet arc annule toutes les pÃ©nalitÃ©s relatives aux distances et aux obstacles qui s'appliquent normalement Ã  vos troupes dotÃ©es d'armes de jet."
+SphÃ¨re d'Immanence	7500	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{SphÃ¨re d'Immanence}
 
-Cette sphère immunise vos troupes contre le sort Dissipation de la magie."
-Globe de Vulnérabilité	25000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Globe de Vulnérabilité}
+Cette sphÃ¨re immunise vos troupes contre le sort Dissipation de la magie."
+Globe de VulnÃ©rabilitÃ©	25000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Globe de VulnÃ©rabilitÃ©}
 
-Ce globe neutralise la résistance et l'immunité naturelle à la magie de toutes les créatures. Certains sorts de par leurs particularités annulent les effets du globe, tout comme les créatures immunisées par certains artéfacts."
-Anneau de Vitalité	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	T	"{Anneau de Vitalité}
+Ce globe neutralise la rÃ©sistance et l'immunitÃ© naturelle Ã  la magie de toutes les crÃ©atures. Certains sorts de par leurs particularitÃ©s annulent les effets du globe, tout comme les crÃ©atures immunisÃ©es par certains artÃ©facts."
+Anneau de VitalitÃ©	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	T	"{Anneau de VitalitÃ©}
 
 Cet anneau augmente les points de vie de toutes vos troupes de +1"
 Anneau de Vie	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	N	"{Anneau de Vie}
@@ -291,31 +291,31 @@ Cet anneau augmente les points de vie de toutes vos troupes de +1"
 Fiole de Vie	10000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Fiole de Vie}
 
 Cette fiole augmente les points de vie de toutes vos troupes de +2"
-Collier d'Agilité	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Collier d'Agilité}
+Collier d'AgilitÃ©	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Collier d'AgilitÃ©}
 
 Ce collier augmente la vitesse de vos troupes lors des combats +1"
 Bottes de Sept Lieues	6000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	N	"{Bottes de Sept Lieues}
 
-Ces bottes augmentent le potentiel de mouvement du héros sur le terrain de +400 points."
-Cape de Vélocité	10000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	J	"{Cape de Vélocité}
+Ces bottes augmentent le potentiel de mouvement du hÃ©ros sur le terrain de +400 points."
+Cape de VÃ©locitÃ©	10000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	J	"{Cape de VÃ©locitÃ©}
 
 Cette cape augmente la vitesse de vos troupes lors des combats +2"
 Pendentif de Flegme	1000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Pendentif de Flegme}
 
-Ce pendentif immunise vos troupes contre le sort Frénésie."
-Troisième Oeil	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Troisième Oeil}
+Ce pendentif immunise vos troupes contre le sort FrÃ©nÃ©sie."
+TroisiÃ¨me Oeil	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{TroisiÃ¨me Oeil}
 
-Ce pendentif immunise vos troupes contre le sort Cécité."
-Pendentif de Pureté	1000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Pendentif de Pureté}
+Ce pendentif immunise vos troupes contre le sort CÃ©citÃ©."
+Pendentif de PuretÃ©	1000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Pendentif de PuretÃ©}
 
-Ce pendentif immunise vos troupes contre le sort Malédiction."
+Ce pendentif immunise vos troupes contre le sort MalÃ©diction."
 Pendentif de Vie	2500	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Pendentif de Vie}
 
 Ce pendentif immunise vos troupes contre le sort Onde Mortelle."
 Pendentif de Mort	2500	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Pendentif de Mort}
 
-Ce pendentif immunise vos troupes contre le sort Nécrophage."
-Pendentif de Volonté	1000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Pendentif de Volonté}
+Ce pendentif immunise vos troupes contre le sort NÃ©crophage."
+Pendentif de VolontÃ©	1000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Pendentif de VolontÃ©}
 
 Ce pendentif immunise vos troupes contre le sort Hypnose."
 Pendentif d'Isolation	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Pendentif d'Isolation}
@@ -326,106 +326,106 @@ Pendentif du Souvenir	3000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Pendentif du
 Ce pendentif immunise vos troupes contre le sort Distraction."
 Pendentif du Courage	7000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Pendentif du Courage}
 
-Ce pendentif augmente la Chance et le Moral des troupes du héros +3."
+Ce pendentif augmente la Chance et le Moral des troupes du hÃ©ros +3."
 Cape Cristalline	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	J	"{Cape Cristalline}
 
-Lorsque votre héros porte cette cape la production quotidienne de Cristaux augmente de +1 unité."
+Lorsque votre hÃ©ros porte cette cape la production quotidienne de Cristaux augmente de +1 unitÃ©."
 Bague des Joailliers	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	J	"{Bague des Joailliers}
 
-Lorsque votre héros porte cette bague la production quotidienne de Gemmes augmente de +1 unité."
+Lorsque votre hÃ©ros porte cette bague la production quotidienne de Gemmes augmente de +1 unitÃ©."
 Flacon Mercurien	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 		 	 	J	"{Flacon Mercurien}
 
-Lorsque votre héros est équipé de ce flacon la production quotidienne de Mercure augmente de +1 unité."
-Chariot des Bâtisseurs	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Chariot des Bâtisseurs}
+Lorsque votre hÃ©ros est Ã©quipÃ© de ce flacon la production quotidienne de Mercure augmente de +1 unitÃ©."
+Chariot des BÃ¢tisseurs	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Chariot des BÃ¢tisseurs}
 
-Lorsque votre héros est équipé de ce chariot la production quotidienne de Pierres augmente de +1 unité."
+Lorsque votre hÃ©ros est Ã©quipÃ© de ce chariot la production quotidienne de Pierres augmente de +1 unitÃ©."
 Anneau Sulfureux	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	J	"{Anneau Sulfureux}
 
-Lorsque votre héros porte cet anneau la production quotidienne de Soufre augmente de +1 unité."
+Lorsque votre hÃ©ros porte cet anneau la production quotidienne de Soufre augmente de +1 unitÃ©."
 Chariot des Charpentiers	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Chariot des Charpentiers}
 
-Lorsque votre héros est équipé de ce chariot la production quotidienne de Bois augmente de +1 unité."
-Sac de Prospérité	10000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Sac de Prospérité}
+Lorsque votre hÃ©ros est Ã©quipÃ© de ce chariot la production quotidienne de Bois augmente de +1 unitÃ©."
+Sac de ProspÃ©ritÃ©	10000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Sac de ProspÃ©ritÃ©}
 
-Lorsque votre héros est équipé du Sac de Prospérité, vous disposez d'un revenu supplémentaire de 1000 pièces d'Or par jour."
-Escarcelle de Prospérité	7500	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Escarcelle de Prospérité}
+Lorsque votre hÃ©ros est Ã©quipÃ© du Sac de ProspÃ©ritÃ©, vous disposez d'un revenu supplÃ©mentaire de 1000 piÃ¨ces d'Or par jour."
+Escarcelle de ProspÃ©ritÃ©	7500	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Escarcelle de ProspÃ©ritÃ©}
 
-Lorsque votre héros est équipé de l'Escarcelle de Prospérité, vous disposez d'un revenu supplémentaire de 750 pièces d'Or par jour."
-Bourse de Prospérité	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Bourse de Prospérité}
+Lorsque votre hÃ©ros est Ã©quipÃ© de l'Escarcelle de ProspÃ©ritÃ©, vous disposez d'un revenu supplÃ©mentaire de 750 piÃ¨ces d'Or par jour."
+Bourse de ProspÃ©ritÃ©	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Bourse de ProspÃ©ritÃ©}
 
-Lorsque votre héros est équipé de la Bourse de Prospérité, vous disposez d'un revenu supplémentaire de 500 pièces d'Or par jour."
-Jambes de Légion	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Jambes de Légion}
+Lorsque votre hÃ©ros est Ã©quipÃ© de la Bourse de ProspÃ©ritÃ©, vous disposez d'un revenu supplÃ©mentaire de 500 piÃ¨ces d'Or par jour."
+Jambes de LÃ©gion	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Jambes de LÃ©gion}
 
-Lorsque le héros équipé de cet objet se trouve dans une ville, 5 créatures supplémentaires de 2ème niveau sont disponibles chaque semaine."
-Bassin de Légion	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Bassin de Légion}
+Lorsque le hÃ©ros Ã©quipÃ© de cet objet se trouve dans une ville, 5 crÃ©atures supplÃ©mentaires de 2Ã¨me niveau sont disponibles chaque semaine."
+Bassin de LÃ©gion	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Bassin de LÃ©gion}
 
-Lorsque le héros équipé de cet objet se trouve dans une ville, 4 créatures supplémentaires de 3ème niveau sont disponibles chaque semaine."
-Torse de Légion	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Torse de Légion}
+Lorsque le hÃ©ros Ã©quipÃ© de cet objet se trouve dans une ville, 4 crÃ©atures supplÃ©mentaires de 3Ã¨me niveau sont disponibles chaque semaine."
+Torse de LÃ©gion	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Torse de LÃ©gion}
 
-Lorsque le héros équipé de cet objet se trouve dans une ville, 3 créatures supplémentaires de 4ème niveau sont disponibles chaque semaine."
-Bras de Légion	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Bras de Légion}
+Lorsque le hÃ©ros Ã©quipÃ© de cet objet se trouve dans une ville, 3 crÃ©atures supplÃ©mentaires de 4Ã¨me niveau sont disponibles chaque semaine."
+Bras de LÃ©gion	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Bras de LÃ©gion}
 
-Lorsque le héros équipé de cet objet se trouve dans une ville, 2 créatures supplémentaires de 5ème niveau sont disponibles chaque semaine."
-Buste de Légion	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Buste de Légion}
+Lorsque le hÃ©ros Ã©quipÃ© de cet objet se trouve dans une ville, 2 crÃ©atures supplÃ©mentaires de 5Ã¨me niveau sont disponibles chaque semaine."
+Buste de LÃ©gion	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Buste de LÃ©gion}
 
-Lorsque le héros équipé de cet objet se trouve dans une ville, 1 créature supplémentaire de 6ème niveau est disponible chaque semaine."
+Lorsque le hÃ©ros Ã©quipÃ© de cet objet se trouve dans une ville, 1 crÃ©ature supplÃ©mentaire de 6Ã¨me niveau est disponible chaque semaine."
 Calot de Marin	15000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	R	"{Calot de Marin}
 
-Ce calot augmente le potentiel de mouvement du héros en mer de 500 points, permet d'appeler ou de saborder un bateau, et le protège des tourbillons."
+Ce calot augmente le potentiel de mouvement du hÃ©ros en mer de 500 points, permet d'appeler ou de saborder un bateau, et le protÃ¨ge des tourbillons."
 Chapeau des Sages	30000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	R	"{Chapeau des Sages}
 
-Ce chapeau confère au héros qui le porte le pouvoir de lancer tous les sorts de 5ème niveau."
-Chaînes de Gladiateur	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 			 	 	 	J	"{Chaînes de Gladiateur}
+Ce chapeau confÃ¨re au hÃ©ros qui le porte le pouvoir de lancer tous les sorts de 5Ã¨me niveau."
+ChaÃ®nes de Gladiateur	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 			 	 	 	J	"{ChaÃ®nes de Gladiateur}
 
-Lorsqu'un héros est équipé de ces chaînes, ni lui ni son adversaire ne peuvent abandonner le combat, que ce soit en se rendant ou en proposant une reddition."
+Lorsqu'un hÃ©ros est Ã©quipÃ© de ces chaÃ®nes, ni lui ni son adversaire ne peuvent abandonner le combat, que ce soit en se rendant ou en proposant une reddition."
 Globe d'Inhibition	20000	 	 	 	 	 	x	x	x	x	x		 	 	 	 	 	 	 	 	R	"{Globe d'Inhibition}
 
-Ce puissant globe empêche que des sorts soient utilisés lors des combats."
+Ce puissant globe empÃªche que des sorts soient utilisÃ©s lors des combats."
 Fiole de Sang de Dragon	20000						x	x	x	x	x										R	"{Fiole de Sang de Dragon}
 
-Lorsque votre héros est équipé de cette fiole, tous les dragons sous vos ordres reçoivent un bonus de +5 en attaque et en défense."
-Épée de l'Apocalypse	50000																x				R	"{Épée de l'Apocalypse}
+Lorsque votre hÃ©ros est Ã©quipÃ© de cette fiole, tous les dragons sous vos ordres reÃ§oivent un bonus de +5 en attaque et en dÃ©fense."
+Ã‰pÃ©e de l'Apocalypse	50000																x				R	"{Ã‰pÃ©e de l'Apocalypse}
 
-Cette épée améliore les quatre caractéristiques du héros qui en fait usage : + 3 en Attaque, + 3 en Défense, + 3 en Magie, et + 6 en Savoir. Elle lui permet également de disposer du sort Armageddon au niveau Maître dans le livre de sorts, et toutes ses troupes sont immunisées à ce même sort."
-Alliance Angélique																	x				R	"{Alliance Angélique}
+Cette Ã©pÃ©e amÃ©liore les quatre caractÃ©ristiques du hÃ©ros qui en fait usage : + 3 en Attaque, + 3 en DÃ©fense, + 3 en Magie, et + 6 en Savoir. Elle lui permet Ã©galement de disposer du sort Armageddon au niveau MaÃ®tre dans le livre de sorts, et toutes ses troupes sont immunisÃ©es Ã  ce mÃªme sort."
+Alliance AngÃ©lique																	x				R	"{Alliance AngÃ©lique}
 
-Permet aux unités du Rempart, de la Tour, de la Forteresse, du Bastion, du Château, de la Crique et du Conflux, d'être mélangées dans une armée sans perte de moral. Lance le sort Faveur Divine au niveau Maître automatiquement au début des combats."
+Permet aux unitÃ©s du Rempart, de la Tour, de la Forteresse, du Bastion, du ChÃ¢teau, de la Crique et du Conflux, d'Ãªtre mÃ©langÃ©es dans une armÃ©e sans perte de moral. Lance le sort Faveur Divine au niveau MaÃ®tre automatiquement au dÃ©but des combats."
 Cape du Roi des Morts																			x		R	"{Cape du Roi des Morts}
 
-15% des créatures tuées au cours d'un combat sont ressuscitées en tant que Squelettes. Si le héros possède la compétence Nécromancie, ces 15% sont ajoutés à la compétence et le niveau de cette dernière détermine le type de créatures qui pourront être invoquées. 
+15% des crÃ©atures tuÃ©es au cours d'un combat sont ressuscitÃ©es en tant que Squelettes. Si le hÃ©ros possÃ¨de la compÃ©tence NÃ©cromancie, ces 15% sont ajoutÃ©s Ã  la compÃ©tence et le niveau de cette derniÃ¨re dÃ©termine le type de crÃ©atures qui pourront Ãªtre invoquÃ©es. 
 Novice : Zombies. 
 Disciple : Revenants. 
-Maître : Liches."
-Élixir de Vie							x	x	x	x	x										R	"{Élixir de Vie}
+MaÃ®tre : Liches."
+Ã‰lixir de Vie							x	x	x	x	x										R	"{Ã‰lixir de Vie}
 
-Toutes les créatures du héros voient leurs points de vie augmenter de 25% et acquièrent une capacité de régénération à hauteur de 50 points de vie par tour. Ne fonctionne pas sur les morts-vivants et les unités ressuscitées."
-Armure des Damnés															x						R	"{Armure des Damnés}
+Toutes les crÃ©atures du hÃ©ros voient leurs points de vie augmenter de 25% et acquiÃ¨rent une capacitÃ© de rÃ©gÃ©nÃ©ration Ã  hauteur de 50 points de vie par tour. Ne fonctionne pas sur les morts-vivants et les unitÃ©s ressuscitÃ©es."
+Armure des DamnÃ©s															x						R	"{Armure des DamnÃ©s}
 
-Au début d'un combat, toutes les unités ennemies sont affectées par les sorts suivants pendant 50 tours : Lenteur, Malédiction, Faiblesse et Malchance."
-Statue de Légion							x	x	x	x	x										R	"{Statue de Légion}
+Au dÃ©but d'un combat, toutes les unitÃ©s ennemies sont affectÃ©es par les sorts suivants pendant 50 tours : Lenteur, MalÃ©diction, Faiblesse et Malchance."
+Statue de LÃ©gion							x	x	x	x	x										R	"{Statue de LÃ©gion}
 
-La production brute de créatures dans toutes les villes augmente de 50%. (Ne sont pas pris en compte les bâtiments extérieurs et autres bonus)"
+La production brute de crÃ©atures dans toutes les villes augmente de 50%. (Ne sont pas pris en compte les bÃ¢timents extÃ©rieurs et autres bonus)"
 Mandat du Prime Dragon															x						R	"{Mandat du Prime Dragon}
 
-Cet objet améliore de +6 les quatre caractéristiques du héros. Toutes ses troupes sont immunisées aux sorts de niveau 1 à 4, excepté Dissipation."
+Cet objet amÃ©liore de +6 les quatre caractÃ©ristiques du hÃ©ros. Toutes ses troupes sont immunisÃ©es aux sorts de niveau 1 Ã  4, exceptÃ© Dissipation."
 Tonnerre des Titans																	x				R	"{Tonnerre des Titans}
 
-Le héros gagne la capacité de lancer le sort Éclair de Titan à volonté sans dépenser un seul point de magie, infligeant à chaque fois 600 points de dégâts à l'ennemi. Si votre héros n'en a pas encore, un livre de sort est ajouté définitivement à son inventaire."
+Le hÃ©ros gagne la capacitÃ© de lancer le sort Ã‰clair de Titan Ã  volontÃ© sans dÃ©penser un seul point de magie, infligeant Ã  chaque fois 600 points de dÃ©gÃ¢ts Ã  l'ennemi. Si votre hÃ©ros n'en a pas encore, un livre de sort est ajoutÃ© dÃ©finitivement Ã  son inventaire."
 Bicorne d'Amiral																				x	R	"{Bicorne d'Amiral}
 
-L'embarquement et le débarquement ne coûte pas de points de mouvement. La Bicorne d'Amiral répartit les points de mouvement en fonction du potentiel du héros sur terre et sur mer."
-Arc d'Archer d'Élite							x	x	x	x	x						 				R	"{Arc d'Archer d'Élite}
+L'embarquement et le dÃ©barquement ne coÃ»te pas de points de mouvement. La Bicorne d'Amiral rÃ©partit les points de mouvement en fonction du potentiel du hÃ©ros sur terre et sur mer."
+Arc d'Archer d'Ã‰lite							x	x	x	x	x						 				R	"{Arc d'Archer d'Ã‰lite}
 
-Les unités qui attaquent à distance peuvent tirer même au contact de l'ennemi ou par-dessus celui-ci. Les pénalités de tir à longue portée et par-dessus un obstacle sont annulées."
+Les unitÃ©s qui attaquent Ã  distance peuvent tirer mÃªme au contact de l'ennemi ou par-dessus celui-ci. Les pÃ©nalitÃ©s de tir Ã  longue portÃ©e et par-dessus un obstacle sont annulÃ©es."
 Puits de Mana							x	x	x	x	x										R	"{Puits de Mana}
 
-Le héros équipé de cet objet récupère tous ses points de magie chaque jour."
+Le hÃ©ros Ã©quipÃ© de cet objet rÃ©cupÃ¨re tous ses points de magie chaque jour."
 Anneau des Mages													x	x							R	"{Anneau des Mages}
 
-Cet anneau ajoute 50 tours à la durée de vos sorts."
-Manne Céleste							x	x	x	x	x										R	"{Manne Céleste}
+Cet anneau ajoute 50 tours Ã  la durÃ©e de vos sorts."
+Manne CÃ©leste							x	x	x	x	x										R	"{Manne CÃ©leste}
 
-Cet objet génère chaque jour 4 unités de ressources précieuses."
+Cet objet gÃ©nÃ¨re chaque jour 4 unitÃ©s de ressources prÃ©cieuses."
 Diplomat's Cloak																			x		R	"{Diplomat's Cloak}
 
 This is a kick-ass artifact."

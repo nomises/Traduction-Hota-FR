@@ -1,24 +1,24 @@
 Note: Do not change the headings in this file, they are used to detect problems	
 Status Bar Message	Tool Tip
 Pour l'Aide, appuyez sur F1	
-Crée une nouvelle campagne	Nouvelle campagne
+CrÃ©e une nouvelle campagne	Nouvelle campagne
 Ouvre une campagne existante	Ouvrir campagne
-Enregistre la campagne en cours d'édition	Enregistrer campagne
-Enregistre la campagne en cours d'édition avec un nouveau nom	Enregistrer campagne sous
-Affiche les informations sur le programme, numéro de version et copyright	À propos
-Quitte l'éditeur de campagnes	Quitter
+Enregistre la campagne en cours d'Ã©dition	Enregistrer campagne
+Enregistre la campagne en cours d'Ã©dition avec un nouveau nom	Enregistrer campagne sous
+Affiche les informations sur le programme, numÃ©ro de version et copyright	Ã€ propos
+Quitte l'Ã©diteur de campagnes	Quitter
 Liste des sujets de l'Aide	Sujets de l'Aide
-Affiche une aide sur la commande ou la tâche en cours	Aide
+Affiche une aide sur la commande ou la tÃ¢che en cours	Aide
 Ouvrir cette campagne	
-Change la taille de la fenêtre	
-Change la position de la fenêtre	
-Réduit la fenêtre en icone	
-Agrandit la fenêtre à la taille de l'écran	
-Ferme la fenêtre	
-Restaure la taille normale de la fenêtre	
-Actualise tous les scénarios de la campagne en cours	
-Exporte tous les scénarios de la campagne en cours	
-Change les propriétés de la campagne	Propriétés campagne
-Change les propriétés du scénario	Propriétés scénario
+Change la taille de la fenÃªtre	
+Change la position de la fenÃªtre	
+RÃ©duit la fenÃªtre en icone	
+Agrandit la fenÃªtre Ã  la taille de l'Ã©cran	
+Ferme la fenÃªtre	
+Restaure la taille normale de la fenÃªtre	
+Actualise tous les scÃ©narios de la campagne en cours	
+Exporte tous les scÃ©narios de la campagne en cours	
+Change les propriÃ©tÃ©s de la campagne	PropriÃ©tÃ©s campagne
+Change les propriÃ©tÃ©s du scÃ©nario	PropriÃ©tÃ©s scÃ©nario
 Exporte le texte de la campagne vers un fichier texte	
 Importe le texte d'un fichier texte dans la campagne	

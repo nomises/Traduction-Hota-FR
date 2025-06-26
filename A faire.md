@@ -1,4 +1,5 @@
 # Fichier a traduire (a comparé avec les fichiers de la 1.7.3)
+
 ## Hota.dat
 ### Vérifier que le fichier est ok
 * HotA.txt

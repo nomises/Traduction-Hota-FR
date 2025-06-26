@@ -1,34 +1,34 @@
 Campaign Choice Button Right Click
 "{Dispensaire}
 
-Votre Héros est doté d'un Dispensaire"
+Votre HÃ©ros est dotÃ© d'un Dispensaire"
 "{Lanciers}
 
-14 Lanciers sont ajoutés à l'armée de votre Héros"
+14 Lanciers sont ajoutÃ©s Ã  l'armÃ©e de votre HÃ©ros"
 "{Ressources Rares}
 
-Les réserves de vos ressources sont augmentées de +5 unités de Mercure, Soufre, Cristaux et Gemmes"
+Les rÃ©serves de vos ressources sont augmentÃ©es de +5 unitÃ©s de Mercure, Soufre, Cristaux et Gemmes"
 "{Ange}
 
-1 Ange est ajouté à l'armée de votre Héros"
-"{Zélotes}
+1 Ange est ajoutÃ© Ã  l'armÃ©e de votre HÃ©ros"
+"{ZÃ©lotes}
 
-3 Zélotes sont ajoutés à l'armée de votre Héros"
+3 ZÃ©lotes sont ajoutÃ©s Ã  l'armÃ©e de votre HÃ©ros"
 "{Parchemin de Sort}
 
-Votre Héros reçoit un Parchemin contenant le sort Faveur Divine"
+Votre HÃ©ros reÃ§oit un Parchemin contenant le sort Faveur Divine"
 "{Arc de Midas}
 
-L'Arc de Midas permet à vos troupes de tirer sans pénalités quel que soit la distance ou les obstacles"
-"{Bouclier Cœur de Lion}
+L'Arc de Midas permet Ã  vos troupes de tirer sans pÃ©nalitÃ©s quel que soit la distance ou les obstacles"
+"{Bouclier CÅ“ur de Lion}
 
-Le Bouclier Cœur de Lion améliore de +4 points les quatre caractéristiques de votre Héros"
-"{Sac de Prospérité}
+Le Bouclier CÅ“ur de Lion amÃ©liore de +4 points les quatre caractÃ©ristiques de votre HÃ©ros"
+"{Sac de ProspÃ©ritÃ©}
 
-Le Sac de Prospérité vous procure un revenu supplémentaire de 1000 pièces d'Or par jour"
+Le Sac de ProspÃ©ritÃ© vous procure un revenu supplÃ©mentaire de 1000 piÃ¨ces d'Or par jour"
 "{Or}
 
-Vous commencez la partie avec 10000 pièces d'Or supplémentaires"
+Vous commencez la partie avec 10000 piÃ¨ces d'Or supplÃ©mentaires"
 "{Archanges}
 
 Vous commencez la partie avec 2 Archanges
@@ -39,40 +39,40 @@ Vous commencez la partie avec 2 Titans
 (en garnison dans une ville)"
 "{Parchemin de Sort}
 
-Votre Héros reçoit un Parchemin contenant le sort Protection Contre le Feu"
+Votre HÃ©ros reÃ§oit un Parchemin contenant le sort Protection Contre le Feu"
 "{Parchemin de Sort}
 
-Votre Héros reçoit un Parchemin contenant le sort Éclair de Glace"
+Votre HÃ©ros reÃ§oit un Parchemin contenant le sort Ã‰clair de Glace"
 "{Parchemin de Sort}
 
-Votre Héros reçoit un Parchemin contenant le sort Précision"
-"{Maître en Ravitaillement}
+Votre HÃ©ros reÃ§oit un Parchemin contenant le sort PrÃ©cision"
+"{MaÃ®tre en Ravitaillement}
 
-Votre Héros est Maître en Ravitaillement"
+Votre HÃ©ros est MaÃ®tre en Ravitaillement"
 "{Bouclier des Seigneurs Nains}
 
-Le Bouclier des Seigneurs Nains améliore de +2 points les caractéristiques d'Attaque et de Défense du Héros"
+Le Bouclier des Seigneurs Nains amÃ©liore de +2 points les caractÃ©ristiques d'Attaque et de DÃ©fense du HÃ©ros"
 "{Hache du Centaure}
 
-La Hache du Centaure améliore de +2 points la caractéristiques d'Attaque du Héros"
-"{Maître en Navigation}
+La Hache du Centaure amÃ©liore de +2 points la caractÃ©ristiques d'Attaque du HÃ©ros"
+"{MaÃ®tre en Navigation}
 
-Votre Héros est Maître en Navigation"
+Votre HÃ©ros est MaÃ®tre en Navigation"
 "{Trois Guildes des Mages Niveau 1}
 
-Une Guilde des Mages Niveau 1 est construite dans vos trois villes de départ"
+Une Guilde des Mages Niveau 1 est construite dans vos trois villes de dÃ©part"
 "{Une Guilde des Mages Niveau 3}
 
 Une Guilde des Mages Niveau 3 est construite dans votre ville principale"
 "{Bottes de Sept Lieues}
 
-Les Bottes de Sept Lieues augmentent de +400 points de mouvement le potentiel de déplacement du héros sur la terre"
+Les Bottes de Sept Lieues augmentent de +400 points de mouvement le potentiel de dÃ©placement du hÃ©ros sur la terre"
 "{Novice en Ravitaillement}
 
-Votre Héros est Novice en Ravitaillement"
+Votre HÃ©ros est Novice en Ravitaillement"
 "{Or}
 
-Vous commencez la partie avec 2500 pièces d'Or supplémentaires"
+Vous commencez la partie avec 2500 piÃ¨ces d'Or supplÃ©mentaires"
 "{Griffons Royaux}
 
 Vous commencez la partie avec 35 Griffons Royaux
@@ -87,117 +87,117 @@ Vous commencez la partie avec 35 Grands Elfes
 (en garnison dans une ville)"
 "{Heaume de l'Illumination}
 
-Le Heaume de l'Illumination améliore de +6 points les quatre caractéristiques de votre Héros"
-"{Traité de la Terre}
+Le Heaume de l'Illumination amÃ©liore de +6 points les quatre caractÃ©ristiques de votre HÃ©ros"
+"{TraitÃ© de la Terre}
 
-Ce volumineux traité contient tous les sorts de la Magie de la Terre"
+Ce volumineux traitÃ© contient tous les sorts de la Magie de la Terre"
 "{Chapeau des Sages}
 
-En portant ce chapeau, un héros peut apprendre et lancer les sorts des 5 niveaux"
+En portant ce chapeau, un hÃ©ros peut apprendre et lancer les sorts des 5 niveaux"
 "{Parchemin de Sort}
 
-Votre Héros reçoit un Parchemin contenant le sort Pourfendeur"
+Votre HÃ©ros reÃ§oit un Parchemin contenant le sort Pourfendeur"
 "{Armure Miraculeuse}
 
-l'Armure Miraculeuse améliore de +1 point les quatre caractéristiques de votre Héros"
+l'Armure Miraculeuse amÃ©liore de +1 point les quatre caractÃ©ristiques de votre HÃ©ros"
 "{Diablotins}
 
-100 Diablotins sont ajoutés à l'armée de votre Héros"
+100 Diablotins sont ajoutÃ©s Ã  l'armÃ©e de votre HÃ©ros"
 "{Souche Maudite}
 
-Une Souche Maudite est construite dans votre ville de départ (demeure des Yeux Maléfiques)"
+Une Souche Maudite est construite dans votre ville de dÃ©part (demeure des Yeux MalÃ©fiques)"
 "{Guilde des Mages Niveau 1}
 
-Une Guilde des Mages Niveau 1 est construite dans votre ville de départ"
-"{Académie Militaire}
+Une Guilde des Mages Niveau 1 est construite dans votre ville de dÃ©part"
+"{AcadÃ©mie Militaire}
 
-une Académie Militaire est construite dans votre ville de départ (+1000 points d'expérience, une fois par héros)"
-"{Héros de Eeofol}
+une AcadÃ©mie Militaire est construite dans votre ville de dÃ©part (+1000 points d'expÃ©rience, une fois par hÃ©ros)"
+"{HÃ©ros de Eeofol}
 
-Commencer avec les héros utilisés lors du scénario ""Un Plan Diabolique"""
-"{Héros de Nighon}
+Commencer avec les hÃ©ros utilisÃ©s lors du scÃ©nario ""Un Plan Diabolique"""
+"{HÃ©ros de Nighon}
 
-Commencer avec les héros utilisés lors du scénario ""Dans les Entrailles de la Terre"""
+Commencer avec les hÃ©ros utilisÃ©s lors du scÃ©nario ""Dans les Entrailles de la Terre"""
 "{Parchemin de Sort}
 
-Votre Héros reçoit un Parchemin contenant le sort Onde Mortelle"
+Votre HÃ©ros reÃ§oit un Parchemin contenant le sort Onde Mortelle"
 "{Chevalier Noir}
 
-1 Chevalier Noir est ajouté à l'armée de votre Héros"
+1 Chevalier Noir est ajoutÃ© Ã  l'armÃ©e de votre HÃ©ros"
 "{Ossuaire}
 
-un Ossuaire est construit dans votre ville de départ (transforme des créatures en squelettes)"
+un Ossuaire est construit dans votre ville de dÃ©part (transforme des crÃ©atures en squelettes)"
 "{Capuche du Vampire}
 
-La Capuche du Vampire améliore de 5% la compétence de Nécromancie"
-"{Nécrolyte}
+La Capuche du Vampire amÃ©liore de 5% la compÃ©tence de NÃ©cromancie"
+"{NÃ©crolyte}
 
-Un Nécrolyte est construit dans votre ville de départ (améliore de 5% la compétence de Nécromancie de vos héros)"
+Un NÃ©crolyte est construit dans votre ville de dÃ©part (amÃ©liore de 5% la compÃ©tence de NÃ©cromancie de vos hÃ©ros)"
 "{Catacombes}
 
-Des Catacombes sont construites dans votre ville de départ (augmente la production de Squelettes)"
+Des Catacombes sont construites dans votre ville de dÃ©part (augmente la production de Squelettes)"
 "{Pendentif de Mort}
 
-Le Pendentif de Mort immunise vos troupes contre le sort Nécrophage"
+Le Pendentif de Mort immunise vos troupes contre le sort NÃ©crophage"
 "{Parchemin de Sort}
 
-Votre Héros reçoit un Parchemin contenant le sort Protection Contre la Terre"
+Votre HÃ©ros reÃ§oit un Parchemin contenant le sort Protection Contre la Terre"
 "{Zombies}
 
-25 Zombies sont ajoutés à l'armée de votre Héros"
+25 Zombies sont ajoutÃ©s Ã  l'armÃ©e de votre HÃ©ros"
 "{Parchemin de Sort}
 
-Votre Héros reçoit un Parchemin contenant le sort Onde Mortelle"
+Votre HÃ©ros reÃ§oit un Parchemin contenant le sort Onde Mortelle"
 "{Bottes du Passeur}
 
-Les Bottes du Passeur améliorent de 7,5% la compétence de Nécromancie"
-"{Dragons Fantômes}
+Les Bottes du Passeur amÃ©liorent de 7,5% la compÃ©tence de NÃ©cromancie"
+"{Dragons FantÃ´mes}
 
-3 Dragons Fantômes sont ajoutés à l'armée de votre Héros"
+3 Dragons FantÃ´mes sont ajoutÃ©s Ã  l'armÃ©e de votre HÃ©ros"
 [substitute hero right-click info here]
 [substitute hero right-click info here]
-"{Héros des Forteresses}
+"{HÃ©ros des Forteresses}
 
-Votre Héros est choisi aléatoirement parmi ceux des Forteresses (Belluaire ou Sorcière)"
+Votre HÃ©ros est choisi alÃ©atoirement parmi ceux des Forteresses (Belluaire ou SorciÃ¨re)"
 "{Rocks Foudroyants}
 
-3 Rocks Foudroyants sont ajoutés à l'armée de votre Héros"
+3 Rocks Foudroyants sont ajoutÃ©s Ã  l'armÃ©e de votre HÃ©ros"
 "{Rois Cyclopes}
 
-2 Rois Cyclopes sont ajoutés à l'armée de votre Héros"
-"{Béhémoth Royal}
+2 Rois Cyclopes sont ajoutÃ©s Ã  l'armÃ©e de votre HÃ©ros"
+"{BÃ©hÃ©moth Royal}
 
-1 Béhémoth Royal est ajouté à l'armée de votre Héros"
+1 BÃ©hÃ©moth Royal est ajoutÃ© Ã  l'armÃ©e de votre HÃ©ros"
 "{Choisir Tatalia}
 
-Vous choisissez de vous battre pour Tatalia avec les héros du scénario ""Les Régions Frontalières"""
+Vous choisissez de vous battre pour Tatalia avec les hÃ©ros du scÃ©nario ""Les RÃ©gions FrontaliÃ¨res"""
 "{Choisir Krewlod}
 
-Vous choisissez de vous battre pour Krewlod avec les héros du scénario ""La Ruée vers l'Or"""
+Vous choisissez de vous battre pour Krewlod avec les hÃ©ros du scÃ©nario ""La RuÃ©e vers l'Or"""
 "{Bottes de Sept Lieues}
 
-Les Bottes de Sept Lieues augmentent de +400 points de mouvement le potentiel de déplacement du héros sur la terre"
+Les Bottes de Sept Lieues augmentent de +400 points de mouvement le potentiel de dÃ©placement du hÃ©ros sur la terre"
 "{Or}
 
-Vous commencez la partie avec 5000 pièces d'Or supplémentaires"
-"{Pégases}
+Vous commencez la partie avec 5000 piÃ¨ces d'Or supplÃ©mentaires"
+"{PÃ©gases}
 
-4 Pégases sont ajoutés à l'armée de votre Héros"
+4 PÃ©gases sont ajoutÃ©s Ã  l'armÃ©e de votre HÃ©ros"
 "{Guilde des Mages Niveau 3}
 
-Une Guilde des Mages Niveau 3 est construite dans votre ville de départ"
+Une Guilde des Mages Niveau 3 est construite dans votre ville de dÃ©part"
 "{Or}
 
-Vous commencez la partie avec 5000 pièces d'Or supplémentaires"
+Vous commencez la partie avec 5000 piÃ¨ces d'Or supplÃ©mentaires"
 "{Soldats Sylvaniens}
 
-3 Soldats Sylvaniens sont ajoutés à l'armée de votre Héros"
+3 Soldats Sylvaniens sont ajoutÃ©s Ã  l'armÃ©e de votre HÃ©ros"
 "{Soldats Sylvaniens}
 
-3 Soldats Sylvaniens sont ajoutés à l'armée de votre Héros"
+3 Soldats Sylvaniens sont ajoutÃ©s Ã  l'armÃ©e de votre HÃ©ros"
 "{Gardes Sylvaniens}
 
-6 Gardes Sylvaniens sont ajoutés à l'armée de votre Héros"
+6 Gardes Sylvaniens sont ajoutÃ©s Ã  l'armÃ©e de votre HÃ©ros"
 "{Bois}
 
-Vos réserves de ressources sont augmentées de 12 Bois"
+Vos rÃ©serves de ressources sont augmentÃ©es de 12 Bois"

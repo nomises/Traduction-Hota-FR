@@ -1,123 +1,123 @@
 Note: Do not change the headings in this file, they are used to detect problems	
 Status Bar Message	Tool Tip
 Pour obtenir de l'aide, tapez F1	
-Créer une nouvelle carte	Nouvelle carte [Ctrl+N]
+CrÃ©er une nouvelle carte	Nouvelle carte [Ctrl+N]
 Ouvrir une carte existante	Ouvrir une carte [Ctrl+O]
 Sauvegarder la carte actuelle	Sauvegarder la carte [Ctrl+S]
 Sauvegarder la carte actuelle sous un nouveau nom	Sauvegarder sous...
-"Afficher des informations sur le programme, le numéro de version et le copyright"	À propos
-Quitter l'éditeur de carte	Quitter
+"Afficher des informations sur le programme, le numÃ©ro de version et le copyright"	Ã€ propos
+Quitter l'Ã©diteur de carte	Quitter
 Lister les rubriques d'aide	Rubriques d'aide
-Afficher l'aide de l'activité ou de la commande actuelle	Aide
+Afficher l'aide de l'activitÃ© ou de la commande actuelle	Aide
 Ouvrir cette carte	
-Copier l'objet sélectionné et le mettre dans le presse-papier	Copier
-Couper l'objet sélectionné et le mettre dans le presse-papier	Couper
-Trouver un type d'objet spécifique	
-Insérer le contenu du presse-papier	Coller
-Annuler la dernière action	Annuler [Ctrl+Z]
-Rétablir l'action précédemment annulée	Rétablir [Shift+Ctrl+Z]
-Changer la taille de la fenêtre	
-Changer la position de la fenêtre	
-Réduire la fenêtre	
-Élargir la fenêtre	
-Fermer la fenêtre	
-Restaurer la taille normale de la fenêtre	
+Copier l'objet sÃ©lectionnÃ© et le mettre dans le presse-papier	Copier
+Couper l'objet sÃ©lectionnÃ© et le mettre dans le presse-papier	Couper
+Trouver un type d'objet spÃ©cifique	
+InsÃ©rer le contenu du presse-papier	Coller
+Annuler la derniÃ¨re action	Annuler [Ctrl+Z]
+RÃ©tablir l'action prÃ©cÃ©demment annulÃ©e	RÃ©tablir [Shift+Ctrl+Z]
+Changer la taille de la fenÃªtre	
+Changer la position de la fenÃªtre	
+RÃ©duire la fenÃªtre	
+Ã‰largir la fenÃªtre	
+Fermer la fenÃªtre	
+Restaurer la taille normale de la fenÃªtre	
 Voir la carte souterraine	Souterrain [Ctrl+U]
-Indiquer si les objets sont franchissables	Carte d'accessibilité
+Indiquer si les objets sont franchissables	Carte d'accessibilitÃ©
 Placer du terrain	Outil de Terrain
-Placer des rivières	Outil de Rivière
+Placer des riviÃ¨res	Outil de RiviÃ¨re
 Placer des routes	Outil de Route
 Effacer des objets	Gomme
 Placer des objets de type Terre	Objets Terre [Q]
-Placer des objets de type Désert	Objets Désert [W]
+Placer des objets de type DÃ©sert	Objets DÃ©sert [W]
 Placer des objets de type Prairie	Objets Prairie [E]
 Placer des objets de type Neige	Objets Neige [R]
 Placer des objets de type Marais	Objets Marais [T]
 Placer des objets de type Rocailleux	Objets Rocailleux [Y]
 Placer des objets de type Souterrain	Objets Souterrain [U]
 Placer des objets de type Lave	Objets Lave [I]
-Placer des objets de type Océan	Objets Océan []]
+Placer des objets de type OcÃ©an	Objets OcÃ©an []]
 Placer des villes	Villes [S]
 Placer des monstres	Monstres [D]
-Placer des héros	Héros [F]
-Placer des artéfacts	Artéfacts [G]
-Placer des trésors	Trésors [H]
+Placer des hÃ©ros	HÃ©ros [F]
+Placer des artÃ©facts	ArtÃ©facts [G]
+Placer des trÃ©sors	TrÃ©sors [H]
 Animer les objets de la carte	
-Modifier les spécifications de la carte	
-Sélectionner le pinceau de taille 1x1	Pinceau de 1x1 [Z]
-Sélectionner le pinceau de taille 2x2	Pinceau de 2x2 [X]
-Sélectionner le pinceau de taille 4x4	Pinceau de 4x4 [C]
+Modifier les spÃ©cifications de la carte	
+SÃ©lectionner le pinceau de taille 1x1	Pinceau de 1x1 [Z]
+SÃ©lectionner le pinceau de taille 2x2	Pinceau de 2x2 [X]
+SÃ©lectionner le pinceau de taille 4x4	Pinceau de 4x4 [C]
 Selectionner la brosse de remplissage	Brosse de remplissage [V]
-Sélectionner le terrain de type Terre	Terre [1]
-Sélectionner le terrain de type Désert	Désert [2]
-Sélectionner le terrain de type Prairie	Prairie [3]
-Sélectionner le terrain de type Neige	Neige [4]
-Sélectionner le terrain de type Marais	Marais [5]
-Sélectionner le terrain de type Rocailleux	Rocailleux [6]
-Sélectionner le terrain de type Souterrain	Souterrain [7]
-Sélectionner le terrain de type Lave	Lave [8]
-Sélectionner le terrain de type Océan	Océan
-Sélectionner la rivière claire	Rivières claires [Alt+1]
-Sélectionner la rivière gelée	Rivières gelées [Alt+2]
-Sélectionner la rivière boueuse	Rivières boueuses [Alt+3]
-Sélectionner la rivière de lave	Rivières de lave [Alt+4]
-Sélectionner la route de gravier	Routes de gravier [Shift+2]
-Sélectionner la route de pavés	Routes de pavés [Shift+3]
-Sélectionner la gomme de 1x1	Pinceau de 1x1 [Shift+Z]
-Sélectionner la gomme de 2x2	Pinceau de 2x2 [Shift+X]
-Sélectionner la gomme de 4x4	Pinceau de 4x4 [Shift+C]
+SÃ©lectionner le terrain de type Terre	Terre [1]
+SÃ©lectionner le terrain de type DÃ©sert	DÃ©sert [2]
+SÃ©lectionner le terrain de type Prairie	Prairie [3]
+SÃ©lectionner le terrain de type Neige	Neige [4]
+SÃ©lectionner le terrain de type Marais	Marais [5]
+SÃ©lectionner le terrain de type Rocailleux	Rocailleux [6]
+SÃ©lectionner le terrain de type Souterrain	Souterrain [7]
+SÃ©lectionner le terrain de type Lave	Lave [8]
+SÃ©lectionner le terrain de type OcÃ©an	OcÃ©an
+SÃ©lectionner la riviÃ¨re claire	RiviÃ¨res claires [Alt+1]
+SÃ©lectionner la riviÃ¨re gelÃ©e	RiviÃ¨res gelÃ©es [Alt+2]
+SÃ©lectionner la riviÃ¨re boueuse	RiviÃ¨res boueuses [Alt+3]
+SÃ©lectionner la riviÃ¨re de lave	RiviÃ¨res de lave [Alt+4]
+SÃ©lectionner la route de gravier	Routes de gravier [Shift+2]
+SÃ©lectionner la route de pavÃ©s	Routes de pavÃ©s [Shift+3]
+SÃ©lectionner la gomme de 1x1	Pinceau de 1x1 [Shift+Z]
+SÃ©lectionner la gomme de 2x2	Pinceau de 2x2 [Shift+X]
+SÃ©lectionner la gomme de 4x4	Pinceau de 4x4 [Shift+C]
 Selectionner la gomme de remplissage	Brosse de remplissage [Shift+V]
-Ne pas sélectionner de joueur	
-Sélectionner le joueur %s	
-Sélectionner la route de terre	Routes de terre [Shift+1]
-Sélectionner le terrain de type Parois	Parois [+]
-Supprimer l'objet sélectionné	Supprimer
-Afficher les propriétés de l'objet sélectionné	Propriétés
+Ne pas sÃ©lectionner de joueur	
+SÃ©lectionner le joueur %s	
+SÃ©lectionner la route de terre	Routes de terre [Shift+1]
+SÃ©lectionner le terrain de type Parois	Parois [+]
+Supprimer l'objet sÃ©lectionnÃ©	Supprimer
+Afficher les propriÃ©tÃ©s de l'objet sÃ©lectionnÃ©	PropriÃ©tÃ©s
 Afficher la grille de cases	Grille
 Placer les objets tous terrains	Objets tous Terrains [A]
-Sélectionner le pinceau de 1x1	Pinceau de 1x1 
-Sélectionner le pinceau de 2x2	Pinceau de 2x2 
-Sélectionner le pinceau de 4x4	Pinceau de 4x4 
+SÃ©lectionner le pinceau de 1x1	Pinceau de 1x1 
+SÃ©lectionner le pinceau de 2x2	Pinceau de 2x2 
+SÃ©lectionner le pinceau de 4x4	Pinceau de 4x4 
 Selectionner la brosse de remplissage	Brosse de remplissage
-Chercher d'éventuels problèmes avec la carte	Valider la carte [M]
+Chercher d'Ã©ventuels problÃ¨mes avec la carte	Valider la carte [M]
 Animer le terrain de la carte	
 Modifier les options de l'application	
 Exporter le texte de la carte actuelle vers un fichier texte	
 Importer le texte d'un fichier texte vers la carte actuelle	
-Décrire l'objet actuellement sélectionné	
-Trouver l'objet suivant du dernier type spécifié	
-Trouver l'objet précédent du dernier type spécifié	
-Faire un zoom arrière sur la carte	Zoom arrière
+DÃ©crire l'objet actuellement sÃ©lectionnÃ©	
+Trouver l'objet suivant du dernier type spÃ©cifiÃ©	
+Trouver l'objet prÃ©cÃ©dent du dernier type spÃ©cifiÃ©	
+Faire un zoom arriÃ¨re sur la carte	Zoom arriÃ¨re
 Faire un zoom avant sur la carte	Zoom avant
-Afficher ou cacher la barre d'outils	Activer / Désactiver la barre d'outils
-Afficher ou cacher la barre d'état	Activer / Désactiver la barre d'état
-Afficher ou cacher la barre de mode	Activer / Désactiver la barre de mode
+Afficher ou cacher la barre d'outils	Activer / DÃ©sactiver la barre d'outils
+Afficher ou cacher la barre d'Ã©tat	Activer / DÃ©sactiver la barre d'Ã©tat
+Afficher ou cacher la barre de mode	Activer / DÃ©sactiver la barre de mode
 Placer les obstacles automatiquement	Outil Obstacles
-Sélectionner la brosse solide 1x1	Brosse Solide 1x1 [Shift+Q]
-Sélectionner la brosse solide 2x2	Brosse Solide 2x2 [Shift+W]
-Sélectionner la brosse solide 4x4	Brosse Solide 4x4 [Shift+E]
-Sélectionner la brosse solide de remplissage	Brosse Solide de remplissage [Shift+R]
-Sélectionner la brosse floue 1x1	Brosse Floue 1x1 [Shift+Alt+Q]
-Sélectionner la brosse floue 2x2	Brosse Floue 2x2 [Shift+Alt+W]
-Sélectionner la brosse floue 4x4	Brosse Floue 4x4 [Shift+Alt+E]
-Sélectionner la brosse floue de remplissage	Brosse Floue de remplissage [Shift+Alt+R]
-Sélectionner la gomme solide 1x1	Gomme Solide 1x1 [Shift+A]
-Sélectionner la gomme solide 2x2	Gomme Solide 2x2 [Shift+S]
-Sélectionner la gomme solide 4x4	Gomme Solide 4x4 [Shift+D]
-Sélectionner la gomme solide de remplissage	Gomme Solide de remplissage [Shift+F]
-Sélectionner la gomme floue 1x1	Gomme Floue 1x1 [Shift+Alt+A]
-Sélectionner la gomme floue 2x2	Gomme Floue 2x2 [Shift+Alt+S]
-Sélectionner la gomme floue 4x4	Gomme Floue 4x4 [Shift+Alt+D]
-Sélectionner la gomme floue de remplissage	Gomme Floue de remplissage [Shift+Alt+F]
+SÃ©lectionner la brosse solide 1x1	Brosse Solide 1x1 [Shift+Q]
+SÃ©lectionner la brosse solide 2x2	Brosse Solide 2x2 [Shift+W]
+SÃ©lectionner la brosse solide 4x4	Brosse Solide 4x4 [Shift+E]
+SÃ©lectionner la brosse solide de remplissage	Brosse Solide de remplissage [Shift+R]
+SÃ©lectionner la brosse floue 1x1	Brosse Floue 1x1 [Shift+Alt+Q]
+SÃ©lectionner la brosse floue 2x2	Brosse Floue 2x2 [Shift+Alt+W]
+SÃ©lectionner la brosse floue 4x4	Brosse Floue 4x4 [Shift+Alt+E]
+SÃ©lectionner la brosse floue de remplissage	Brosse Floue de remplissage [Shift+Alt+R]
+SÃ©lectionner la gomme solide 1x1	Gomme Solide 1x1 [Shift+A]
+SÃ©lectionner la gomme solide 2x2	Gomme Solide 2x2 [Shift+S]
+SÃ©lectionner la gomme solide 4x4	Gomme Solide 4x4 [Shift+D]
+SÃ©lectionner la gomme solide de remplissage	Gomme Solide de remplissage [Shift+F]
+SÃ©lectionner la gomme floue 1x1	Gomme Floue 1x1 [Shift+Alt+A]
+SÃ©lectionner la gomme floue 2x2	Gomme Floue 2x2 [Shift+Alt+S]
+SÃ©lectionner la gomme floue 4x4	Gomme Floue 4x4 [Shift+Alt+D]
+SÃ©lectionner la gomme floue de remplissage	Gomme Floue de remplissage [Shift+Alt+F]
 Placer les &Obstacles	Placer les &Obstacles [Shift+O]
-Sélectionner la Gomme à Rivière	Gomme à Rivière [Alt+5]
-Sélectionner la Gomme à Route	Gomme à Route [Shift+4]
-Sélectionner le terrain de type Plateau	Plateau [9]
+SÃ©lectionner la Gomme Ã  RiviÃ¨re	Gomme Ã  RiviÃ¨re [Alt+5]
+SÃ©lectionner la Gomme Ã  Route	Gomme Ã  Route [Shift+4]
+SÃ©lectionner le terrain de type Plateau	Plateau [9]
 Placer des objets de type Plateau	Objets Plateau [O]
-Sélectionner le terrain de type Aride	Aride [0]
+SÃ©lectionner le terrain de type Aride	Aride [0]
 Placer des objets de type Aride	Objets Aride [P]
-Placer les Demeures des Créatures	Demeures des Créatures [J]
+Placer les Demeures des CrÃ©atures	Demeures des CrÃ©atures [J]
 Placer les Portails Magiques	Portails Magiques [K]
-Placer les Garnisons, Gardes Frontières-Quêtes, et Tentes	Garnisons, Gardes Frontières-Quêtes, et Tentes [L]
+Placer les Garnisons, Gardes FrontiÃ¨res-QuÃªtes, et Tentes	Garnisons, Gardes FrontiÃ¨res-QuÃªtes, et Tentes [L]
 Placer les Terrains Magiques	Terrains Magiques [$]
-Placer les Objets Décorations	Objets Décorations [^]
+Placer les Objets DÃ©corations	Objets DÃ©corations [^]

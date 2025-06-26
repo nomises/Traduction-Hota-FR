@@ -59,7 +59,7 @@ translator, editor
 {Heetch}
 music, mastering,
 sound design
-{Игорь Кудра}
+{РРіРѕСЂСЊ РљСѓРґСЂР°}
 lead tester,
 task organizer
 {IQUARE}
@@ -152,7 +152,7 @@ for help with
 video playback support
 {SaintDark}
 for launcher-related help
-{Sar} и {d0s}
+{Sar} Рё {d0s}
 for help in shaping
 the Cove concept
 {sergroj}
@@ -164,7 +164,7 @@ for text editing
 for hosting
 {olexn}
 for installer-related help
-{Станислав Гординский}
+{РЎС‚Р°РЅРёСЃР»Р°РІ Р“РѕСЂРґРёРЅСЃРєРёР№}
 for translations
 {Nestor}
 for testing
@@ -179,12 +179,12 @@ for sounds
 for 3D cutscenes
 {SoVa}
 for 2D/3D art and writing
-{Алексей Палько},
-{Виталий Олейник}
+{РђР»РµРєСЃРµР№ РџР°Р»СЊРєРѕ},
+{Р’РёС‚Р°Р»РёР№ РћР»РµР№РЅРёРє}
 for battlefield backgrounds
-{Сергей Капустин}
+{РЎРµСЂРіРµР№ РљР°РїСѓСЃС‚РёРЅ}
 for writing
-{Роман Куприянов}
+{Р РѕРјР°РЅ РљСѓРїСЂРёСЏРЅРѕРІ}
 for hero portraits and cutscenes
 {Yekaterina Dmitrova}
 for cutscene sounds
@@ -194,21 +194,21 @@ for Factory campaign main theme
 for Factory town theme
 and campaign themes
 {Alina Besanidou},
-{Василий Синичкин}
+{Р’Р°СЃРёР»РёР№ РЎРёРЅРёС‡РєРёРЅ}
 for cutscene concept art
 
 Scenario and template makers:
-{Riug74}, {Чапай}, {Manolo},
+{Riug74}, {Р§Р°РїР°Р№}, {Manolo},
 {molski}, {koget}, {Veracruz},
 {Begrezen}, {Ignus}
 
 Voice actors (ru):
-{Наталья Мерц},
-{Андрей Богатырёв},
-{Виктор Потапешкин},
-{Наталья Белкина},
-{Михаил Марков},
-{Наталья Рагулина}
+{РќР°С‚Р°Р»СЊСЏ РњРµСЂС†},
+{РђРЅРґСЂРµР№ Р‘РѕРіР°С‚С‹СЂС‘РІ},
+{Р’РёРєС‚РѕСЂ РџРѕС‚Р°РїРµС€РєРёРЅ},
+{РќР°С‚Р°Р»СЊСЏ Р‘РµР»РєРёРЅР°},
+{РњРёС…Р°РёР» РњР°СЂРєРѕРІ},
+{РќР°С‚Р°Р»СЊСЏ Р Р°РіСѓР»РёРЅР°}
 2019 testers:
 {Chleb}, {Ignus},
 {LivingAnarchy},
@@ -218,7 +218,7 @@ Voice actors (ru):
 2023 testers:
 {CzileraInzyniera},
 {DarkPepego}, {Gongwazy},
-{Flisiu}, {Йорик},
+{Flisiu}, {Р™РѕСЂРёРє},
 {Machberet}, {maugli},
 {Mont}, {Niechcic},
 {Scherban Vlad}, {Spinaonic}, 
@@ -228,7 +228,7 @@ Voice actors (ru):
 2024 testers:
 {CzileraInzyniera},
 {DarkPepego}, {Flisiu},
-{Green Hell}, {Йорик},
+{Green Hell}, {Р™РѕСЂРёРє},
 {Krzynsztof}, {Machberet},
 {maugli}, {Redwhait},
 {Scherban Vlad}, {Spinaonic}, 
@@ -257,7 +257,7 @@ artist
 in-game resources
 {Darkmoon}
 translator
-{Д'якон}
+{Р”'СЏРєРѕРЅ}
 code
 {exx}
 3D artist
@@ -278,7 +278,7 @@ PR, story
 scenarios
 {major}
 code
-{Миханик}
+{РњРёС…Р°РЅРёРє}
 code
 {pokrik1}
 artist
@@ -291,7 +291,7 @@ translator
 3D artist
 {SAG}
 balance
-{Серёга-JET}
+{РЎРµСЂС‘РіР°-JET}
 editor, tester
 {Silver}
 story
@@ -482,7 +482,7 @@ John Slowsky
 
 
 {Webmaster:}
-Joshua “Guthwulf” Milligan
+Joshua вЂњGuthwulfвЂќ Milligan
 
 
 {Web Artist:}

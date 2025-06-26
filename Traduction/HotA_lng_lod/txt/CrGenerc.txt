@@ -1,14 +1,14 @@
-Créature 1
-Créature 1 Aml.
-Créature 2
-Créature 2 Aml.
-Créature 3
-Créature 3 Aml.
-Créature 4
-Créature 4 Aml.
-Créature 5
-Créature 5 Aml.
-Créature 6
-Créature 6 Aml.
-Créature 7
-Créature 7 Aml.
+CrÃ©ature 1
+CrÃ©ature 1 Aml.
+CrÃ©ature 2
+CrÃ©ature 2 Aml.
+CrÃ©ature 3
+CrÃ©ature 3 Aml.
+CrÃ©ature 4
+CrÃ©ature 4 Aml.
+CrÃ©ature 5
+CrÃ©ature 5 Aml.
+CrÃ©ature 6
+CrÃ©ature 6 Aml.
+CrÃ©ature 7
+CrÃ©ature 7 Aml.

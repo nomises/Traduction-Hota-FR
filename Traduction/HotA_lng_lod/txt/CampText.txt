@@ -1,8 +1,8 @@
 //Campaign Map Names
-Longue Vie à la Reine
-Libération
-Hommage au Père
-Donjons et Démons
+Longue Vie Ã  la Reine
+LibÃ©ration
+Hommage au PÃ¨re
+Donjons et DÃ©mons
 Vive le Roi
 Malheur au Vaincu
 Graines de Discorde
@@ -16,7 +16,7 @@ La Corne des Abysses
 La Naissance d'un Barbare
 Sous le Pavillon du Jolly Roger
 Terreur sur les Mers
-L'Ascension du Nécromancien
+L'Ascension du NÃ©cromancien
 Alliance Maudite
 Le Spectre du Pouvoir
 
@@ -30,13 +30,13 @@ Falaise des Griffons
 //Good 2 Map Region Names
 Juste Conflit
 Terres de Glace
-Les Tourbières et Grandes Collines
-Abondance et Côte Ardente
+Les TourbiÃ¨res et Grandes Collines
+Abondance et CÃ´te Ardente
 
 
 //Good 3 Map Region Names
 Bois Profond
-C. d'Emeraude, H. Saule, Chênaie, B. Brulé
+C. d'Emeraude, H. Saule, ChÃªnaie, B. BrulÃ©
 Jardin de Marbre
 
 
@@ -44,7 +44,7 @@ Jardin de Marbre
 Pointe de Rion
 Abondance
 Juste Conflit
-Côte Ardente
+CÃ´te Ardente
 Baie Tranquille
 Passe des Anges
 Falaise des Griffons
@@ -53,18 +53,18 @@ Falaise des Griffons
 //Evil 2 Map Region Names
 Le Jardin de Marbre
 Les Collines d'Emeraude
-Hauts Saules et Chênaie
-Bois Béni, Bois Brulé et Bois Profond
+Hauts Saules et ChÃªnaie
+Bois BÃ©ni, Bois BrulÃ© et Bois Profond
 
 
 //Neutral 1 Map Region Names
-Les Tourbières
+Les TourbiÃ¨res
 Le Creusot
 Grandes Collines
 
 
 //Secret 1 Map Region Names
-Carré de Trèfle
+CarrÃ© de TrÃ¨fle
 Bois Moussu
 Val des Bois
 
@@ -130,10 +130,10 @@ La Naissance d'un Barbare E
 
 
 // New Beginning Region Names
-Nouveau Départ A
-Nouveau Départ B
-Nouveau Départ C
-Nouveau Départ D
+Nouveau DÃ©part A
+Nouveau DÃ©part B
+Nouveau DÃ©part C
+Nouveau DÃ©part D
 
 
 // Elixir of Life Region Names
@@ -144,10 +144,10 @@ Elixir de Vie D
 
 
 // Rise of the Necromancer Region Names
-L'Ascension du Nécromancien A
-L'Ascension du Nécromancien B
-L'Ascension du Nécromancien C
-L'Ascension du Nécromancien D
+L'Ascension du NÃ©cromancien A
+L'Ascension du NÃ©cromancien B
+L'Ascension du NÃ©cromancien C
+L'Ascension du NÃ©cromancien D
 
 
 // Unholy Alliance Region Names

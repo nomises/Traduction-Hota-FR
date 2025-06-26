@@ -1,8 +1,8 @@
-Vous n'avez pas les moyens de recruter un HÈros
-Impossible. Vous avez dÈj‡ %d HÈros.
-Impossible. Vous avez dÈj‡ un HÈros dans cette ville.
+Vous n'avez pas les moyens de recruter un H√©ros
+Impossible. Vous avez d√©j√† %d H√©ros.
+Impossible. Vous avez d√©j√† un H√©ros dans cette ville.
 Recruter %s, %s
-SÈlectionner %s
+S√©lectionner %s
 Guilde des Voleurs
 Prix du Recrutement
 Quitter la Taverne

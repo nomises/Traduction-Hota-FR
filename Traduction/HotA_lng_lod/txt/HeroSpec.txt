@@ -1,471 +1,471 @@
 Bonus	Bonus
 (short)	(long)	Right Click Text
-Archerie	Bonus de Compétence Secondaire : Archerie	{Archerie}
+Archerie	Bonus de CompÃ©tence Secondaire : Archerie	{Archerie}
 
-Reçoit un bonus de 5% par niveau au pourcentage d'Archerie.
-Arbalétriers	Bonus de Créature : Arbalétriers	{Arbalétriers et Grands Arbalétriers}
+ReÃ§oit un bonus de 5% par niveau au pourcentage d'Archerie.
+ArbalÃ©triers	Bonus de CrÃ©ature : ArbalÃ©triers	{ArbalÃ©triers et Grands ArbalÃ©triers}
 
-Les Arbalétriers et les Grands Arbalétriers gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 2 niveaux sont atteints.
-Griffons	Bonus de Créature : Griffons	{Griffons et Griffons Royaux}
+Les ArbalÃ©triers et les Grands ArbalÃ©triers gagnent +1 en vitesse, et reÃ§oivent un bonus en Attaque-DÃ©fense de 5% Ã  chaque fois que 2 niveaux sont atteints.
+Griffons	Bonus de CrÃ©ature : Griffons	{Griffons et Griffons Royaux}
 
-Les Griffons et les Griffons Royaux gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 3 niveaux sont atteints.
-Navigation	Bonus de Compétence Secondaire : Navigation	{Navigation}
+Les Griffons et les Griffons Royaux gagnent +1 en vitesse, et reÃ§oivent un bonus en Attaque-DÃ©fense de 5% Ã  chaque fois que 3 niveaux sont atteints.
+Navigation	Bonus de CompÃ©tence Secondaire : Navigation	{Navigation}
 
-Reçoit un bonus de 5% par niveau au pourcentage de Navigation.
-Fermage	Bonus de Compétence Secondaire : Fermage	{Fermage}
+ReÃ§oit un bonus de 5% par niveau au pourcentage de Navigation.
+Fermage	Bonus de CompÃ©tence Secondaire : Fermage	{Fermage}
 
-Reçoit un bonus de 5% par niveau au pourcentage de Fermage.
-Spadassin	Bonus de Créature : Spadassin	{Spadassins et Paladins}
+ReÃ§oit un bonus de 5% par niveau au pourcentage de Fermage.
+Spadassin	Bonus de CrÃ©ature : Spadassin	{Spadassins et Paladins}
 
-Les Spadassins et les Paladins gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 4 niveaux sont atteints.
+Les Spadassins et les Paladins gagnent +1 en vitesse, et reÃ§oivent un bonus en Attaque-DÃ©fense de 5% Ã  chaque fois que 4 niveaux sont atteints.
 Baliste	Bonus d'Artillerie : Baliste	{Baliste}
 
-La Baliste reçoit un bonus en Attaque-Défense de 5% à chaque fois que 5 niveaux sont atteints.
-Cavaliers	Bonus de Créature : Cavaliers	{Cavaliers et Champions}
+La Baliste reÃ§oit un bonus en Attaque-DÃ©fense de 5% Ã  chaque fois que 5 niveaux sont atteints.
+Cavaliers	Bonus de CrÃ©ature : Cavaliers	{Cavaliers et Champions}
 
-Les Cavaliers et les Champions gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 6 niveaux sont atteints.
-Médecine	Bonus de Compétence Secondaire : Médecine	{Médecine}
+Les Cavaliers et les Champions gagnent +1 en vitesse, et reÃ§oivent un bonus en Attaque-DÃ©fense de 5% Ã  chaque fois que 6 niveaux sont atteints.
+MÃ©decine	Bonus de CompÃ©tence Secondaire : MÃ©decine	{MÃ©decine}
 
-Reçoit un bonus de 5% par niveau au pourcentage de Médecine.
-Bénédiction	Bonus de Sort : Bénédiction	{Bénédiction}
+ReÃ§oit un bonus de 5% par niveau au pourcentage de MÃ©decine.
+BÃ©nÃ©diction	Bonus de Sort : BÃ©nÃ©diction	{BÃ©nÃ©diction}
 
-La puissance du sort Bénédiction augmente de 3% à chaque niveau atteint par le héros. Plus la cible est faible, plus le bonus est important.
+La puissance du sort BÃ©nÃ©diction augmente de 3% Ã  chaque niveau atteint par le hÃ©ros. Plus la cible est faible, plus le bonus est important.
 Faiblesse	Bonus de Sort : Faiblesse	{Faiblesse}
 
-La puissance du sort Faiblesse augmente de +1(x) sur les unités de Niv.5/6, de +2(x) sur les unités de Niv.3/4, et de +3(x) sur les unités de Niv.1/2.
+La puissance du sort Faiblesse augmente de +1(x) sur les unitÃ©s de Niv.5/6, de +2(x) sur les unitÃ©s de Niv.3/4, et de +3(x) sur les unitÃ©s de Niv.1/2.
 Anneau de Givre	Bonus de Sort : Anneau de Givre	{Anneau de Givre}
 
-La puissance du sort Anneau de Givre augmente de 3% à chaque niveau atteint par le héros. Plus la cible est faible, plus le bonus est important.
-Moines	Bonus de Créature :  Moines	{Moines et Zélotes}
+La puissance du sort Anneau de Givre augmente de 3% Ã  chaque niveau atteint par le hÃ©ros. Plus la cible est faible, plus le bonus est important.
+Moines	Bonus de CrÃ©ature :  Moines	{Moines et ZÃ©lotes}
 
-Les Moines et les Zélotes gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 5 niveaux sont atteints.
-Mimétisme	Bonus de Compétence Secondaire : Mimétisme	{Mimétisme}
+Les Moines et les ZÃ©lotes gagnent +1 en vitesse, et reÃ§oivent un bonus en Attaque-DÃ©fense de 5% Ã  chaque fois que 5 niveaux sont atteints.
+MimÃ©tisme	Bonus de CompÃ©tence Secondaire : MimÃ©tisme	{MimÃ©tisme}
 
-Reçoit un bonus de 5% par niveau au pourcentage de Mimétisme.
+ReÃ§oit un bonus de 5% par niveau au pourcentage de MimÃ©tisme.
 Faveur Divine	Bonus de Sort : Faveur Divine	{Faveur Divine}
 
-La puissance du sort Faveur Divine augmente de +1(x) sur les unités de Niv.5/6, de +2(x) sur les unités de Niv.3/4, et de +3(x) sur les unités de Niv.1/2.
+La puissance du sort Faveur Divine augmente de +1(x) sur les unitÃ©s de Niv.5/6, de +2(x) sur les unitÃ©s de Niv.3/4, et de +3(x) sur les unitÃ©s de Niv.1/2.
 +350 Or	 +350 Or par jour	{+350 Or par jour}
 
-Augmente les revenus du royaume de 350 pièces d'Or par jour.
-Armurerie	Bonus de Compétence Secondaire : Armurerie	{Armurerie}
+Augmente les revenus du royaume de 350 piÃ¨ces d'Or par jour.
+Armurerie	Bonus de CompÃ©tence Secondaire : Armurerie	{Armurerie}
 
-Reçoit un bonus de 5% par niveau au pourcentage d'Armurerie.
-Nains	Bonus de Créature : Nains	{Nains et Guerriers Nains}
+ReÃ§oit un bonus de 5% par niveau au pourcentage d'Armurerie.
+Nains	Bonus de CrÃ©ature : Nains	{Nains et Guerriers Nains}
 
-Les Nains et les Guerriers Nains gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 2 niveaux sont atteints.
+Les Nains et les Guerriers Nains gagnent +1 en vitesse, et reÃ§oivent un bonus en Attaque-DÃ©fense de 5% Ã  chaque fois que 2 niveaux sont atteints.
 +350 Or	 +350 Or par jour	{+350 Or par jour}
 
-Augmente les revenus du royaume de 350 pièces d'Or par jour.
-Sylvaniens	Bonus de Créature : Sylvaniens	{Gardes Sylvaniens et Soldats Sylvaniens}
+Augmente les revenus du royaume de 350 piÃ¨ces d'Or par jour.
+Sylvaniens	Bonus de CrÃ©ature : Sylvaniens	{Gardes Sylvaniens et Soldats Sylvaniens}
 
-Les Gardes Sylvaniens et les Soldats Sylvaniens gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 5 niveaux sont atteints.
-Résistance	Bonus de Compétence Secondaire : Résistance	{Résistance}
+Les Gardes Sylvaniens et les Soldats Sylvaniens gagnent +1 en vitesse, et reÃ§oivent un bonus en Attaque-DÃ©fense de 5% Ã  chaque fois que 5 niveaux sont atteints.
+RÃ©sistance	Bonus de CompÃ©tence Secondaire : RÃ©sistance	{RÃ©sistance}
 
-Reçoit un bonus de 5% par niveau au pourcentage de Résistance.
-Elfes	Bonus de Créature :  Elfes	{Elfes Sylvains et Grands Elfes}
+ReÃ§oit un bonus de 5% par niveau au pourcentage de RÃ©sistance.
+Elfes	Bonus de CrÃ©ature :  Elfes	{Elfes Sylvains et Grands Elfes}
 
-Les Elfes Sylvains et les Grands Elfes gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 3 niveaux sont atteints.
-Licornes	Bonus de Créature : Licornes	{Licornes et Licornes de Guerre}
+Les Elfes Sylvains et les Grands Elfes gagnent +1 en vitesse, et reÃ§oivent un bonus en Attaque-DÃ©fense de 5% Ã  chaque fois que 3 niveaux sont atteints.
+Licornes	Bonus de CrÃ©ature : Licornes	{Licornes et Licornes de Guerre}
 
-Les Licornes et les Licornes de Guerre gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 6 niveaux sont atteints.
-Ravitaillement	Bonus de Compétence Secondaire : Ravitaillement	{Ravitaillement}
+Les Licornes et les Licornes de Guerre gagnent +1 en vitesse, et reÃ§oivent un bonus en Attaque-DÃ©fense de 5% Ã  chaque fois que 6 niveaux sont atteints.
+Ravitaillement	Bonus de CompÃ©tence Secondaire : Ravitaillement	{Ravitaillement}
 
-Reçoit un bonus de 5% par niveau au pourcentage de Ravitaillement.
+ReÃ§oit un bonus de 5% par niveau au pourcentage de Ravitaillement.
 Pourfendeur	Bonus de Sort : Pourfendeur	{Pourfendeur}
 
-La puissance du sort Pourfendeur augmente de +1(x) sur les unités de Niv.4, de +2(x) sur les unités de Niv.3, de +3(x) sur les unités de Niv.2, et de +4(x) sur les unités de Niv.1.
-Guérison	Bonus de Sort : Guérison	{Guérison}
+La puissance du sort Pourfendeur augmente de +1(x) sur les unitÃ©s de Niv.4, de +2(x) sur les unitÃ©s de Niv.3, de +3(x) sur les unitÃ©s de Niv.2, et de +4(x) sur les unitÃ©s de Niv.1.
+GuÃ©rison	Bonus de Sort : GuÃ©rison	{GuÃ©rison}
 
-La puissance du sort Guérison augmente de 3% à chaque niveau atteint par le héros. Plus la cible est faible, plus le bonus est important.
-Intelligence	Bonus de Compétence Secondaire : Intelligence	{Intelligence}
+La puissance du sort GuÃ©rison augmente de 3% Ã  chaque niveau atteint par le hÃ©ros. Plus la cible est faible, plus le bonus est important.
+Intelligence	Bonus de CompÃ©tence Secondaire : Intelligence	{Intelligence}
 
-Reçoit un bonus de 5% par niveau au pourcentage d'Intelligence.
-Médecine	Bonus de Compétence Secondaire : Médecine	{Médecine}
+ReÃ§oit un bonus de 5% par niveau au pourcentage d'Intelligence.
+MÃ©decine	Bonus de CompÃ©tence Secondaire : MÃ©decine	{MÃ©decine}
 
-Reçoit un bonus de 5% par niveau au pourcentage de Médecine.
-Mimétisme	Bonus de Compétence Secondaire : Mimétisme	{Mimétisme}
+ReÃ§oit un bonus de 5% par niveau au pourcentage de MÃ©decine.
+MimÃ©tisme	Bonus de CompÃ©tence Secondaire : MimÃ©tisme	{MimÃ©tisme}
 
-Reçoit un bonus de 5% par niveau au pourcentage de Mimétisme.
+ReÃ§oit un bonus de 5% par niveau au pourcentage de MimÃ©tisme.
 Bonne Fortune	Bonus de Sort : Bonne Fortune	{Bonne Fortune}
 
-Les unités bénéficiant du sort Bonne Fortune voient leur Chance augmentée de +3.
-Éclair de Glace	Bonus de Sort : Éclair de Glace	{Éclair de Glace}
+Les unitÃ©s bÃ©nÃ©ficiant du sort Bonne Fortune voient leur Chance augmentÃ©e de +3.
+Ã‰clair de Glace	Bonus de Sort : Ã‰clair de Glace	{Ã‰clair de Glace}
 
-La puissance du sort Éclair de Glace augmente de 3% à chaque niveau atteint par le héros. Plus la cible est faible, plus le bonus est important.
-Pégases	Bonus de Créature : Pégases	{Pégases et Pégases d'Argent}
+La puissance du sort Ã‰clair de Glace augmente de 3% Ã  chaque niveau atteint par le hÃ©ros. Plus la cible est faible, plus le bonus est important.
+PÃ©gases	Bonus de CrÃ©ature : PÃ©gases	{PÃ©gases et PÃ©gases d'Argent}
 
-Les Pégases et les Pégases d'Argent gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 4 niveaux sont atteints.
-Gargouilles	Bonus de Créature : Gargouilles	{Gargouilles et Gargouilles d'Obsidienne}
+Les PÃ©gases et les PÃ©gases d'Argent gagnent +1 en vitesse, et reÃ§oivent un bonus en Attaque-DÃ©fense de 5% Ã  chaque fois que 4 niveaux sont atteints.
+Gargouilles	Bonus de CrÃ©ature : Gargouilles	{Gargouilles et Gargouilles d'Obsidienne}
 
-Les Gargouilles et les Gargouilles d'Obsidienne gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 2 niveaux sont atteints.
-Djinns	Bonus de Créature : Djinns	{Djinns et Génies}
+Les Gargouilles et les Gargouilles d'Obsidienne gagnent +1 en vitesse, et reÃ§oivent un bonus en Attaque-DÃ©fense de 5% Ã  chaque fois que 2 niveaux sont atteints.
+Djinns	Bonus de CrÃ©ature : Djinns	{Djinns et GÃ©nies}
 
-Les Djinns et les Génies gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 5 niveaux sont atteints.
-Golems	Bonus de Créature : Golems	{Golems de Pierre et Golems de Fer}
+Les Djinns et les GÃ©nies gagnent +1 en vitesse, et reÃ§oivent un bonus en Attaque-DÃ©fense de 5% Ã  chaque fois que 5 niveaux sont atteints.
+Golems	Bonus de CrÃ©ature : Golems	{Golems de Pierre et Golems de Fer}
 
-Les Golems de Pierre et les Golems de Fer gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 3 niveaux sont atteints.
-Armurerie	Bonus de Compétence Secondaire : Armurerie	{Armurerie}
+Les Golems de Pierre et les Golems de Fer gagnent +1 en vitesse, et reÃ§oivent un bonus en Attaque-DÃ©fense de 5% Ã  chaque fois que 3 niveaux sont atteints.
+Armurerie	Bonus de CompÃ©tence Secondaire : Armurerie	{Armurerie}
 
-Reçoit un bonus de 5% par niveau au pourcentage d'Armurerie.
+ReÃ§oit un bonus de 5% par niveau au pourcentage d'Armurerie.
 Baliste	Bonus d'Artillerie : Baliste	{Baliste}
 
-La Baliste reçoit un bonus en Attaque-Défense de 5% à chaque fois que 5 niveaux sont atteints.
-Nagas	Bonus de Créature : Nagas	{Nagas et Reines Nagas}
+La Baliste reÃ§oit un bonus en Attaque-DÃ©fense de 5% Ã  chaque fois que 5 niveaux sont atteints.
+Nagas	Bonus de CrÃ©ature : Nagas	{Nagas et Reines Nagas}
 
-Les Nagas et les Reines Nagas gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 6 niveaux sont atteints.
+Les Nagas et les Reines Nagas gagnent +1 en vitesse, et reÃ§oivent un bonus en Attaque-DÃ©fense de 5% Ã  chaque fois que 6 niveaux sont atteints.
 +1 Mercure	 +1 Mercure par jour	{+1 Mercure par jour}
 
-Augmente la production de Mercure du royaume de +1 unité par jour.
-Djinns	Bonus de Créature : Djinns	{Djinns et Génies}
+Augmente la production de Mercure du royaume de +1 unitÃ© par jour.
+Djinns	Bonus de CrÃ©ature : Djinns	{Djinns et GÃ©nies}
 
-Les Djinns et les Génies gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 5 niveaux sont atteints.
+Les Djinns et les GÃ©nies gagnent +1 en vitesse, et reÃ§oivent un bonus en Attaque-DÃ©fense de 5% Ã  chaque fois que 5 niveaux sont atteints.
 Hypnose	Bonus de Sort : Hypnose	{Hypnose}
 
-La puissance du sort Hypnose augmente de 3% à chaque niveau atteint par le héros. Plus la cible est faible, plus le bonus est important.
-Mysticisme	Bonus de Compétence Secondaire : Mysticisme	{Mysticisme}
+La puissance du sort Hypnose augmente de 3% Ã  chaque niveau atteint par le hÃ©ros. Plus la cible est faible, plus le bonus est important.
+Mysticisme	Bonus de CompÃ©tence Secondaire : Mysticisme	{Mysticisme}
 
-Reçoit un bonus de 5% par niveau au pourcentage de Mysticisme.
-Mimétisme	Bonus de Compétence Secondaire : Mimétisme	{Mimétisme}
+ReÃ§oit un bonus de 5% par niveau au pourcentage de Mysticisme.
+MimÃ©tisme	Bonus de CompÃ©tence Secondaire : MimÃ©tisme	{MimÃ©tisme}
 
-Reçoit un bonus de 5% par niveau au pourcentage de Mimétisme.
+ReÃ§oit un bonus de 5% par niveau au pourcentage de MimÃ©tisme.
 Bonne Fortune	Bonus de Sort : Bonne Fortune	{Bonne Fortune}
 
-Les unités bénéficiant du sort Bonne Fortune voient leur Chance augmentée de +3.
-Mages	Bonus de Créature :  Mages	{Mages et Archimages}
+Les unitÃ©s bÃ©nÃ©ficiant du sort Bonne Fortune voient leur Chance augmentÃ©e de +3.
+Mages	Bonus de CrÃ©ature :  Mages	{Mages et Archimages}
 
-Les Mages et les Archimages gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 4 niveaux sont atteints.
+Les Mages et les Archimages gagnent +1 en vitesse, et reÃ§oivent un bonus en Attaque-DÃ©fense de 5% Ã  chaque fois que 4 niveaux sont atteints.
 Foudre Terrible	Bonus de Sort : Foudre Terrible	{Foudre Terrible}
 
-La puissance du sort Foudre Terrible augmente de 3% à chaque niveau atteint par le héros. Plus la cible est faible, plus le bonus est important.
-Hâte	Bonus de Sort : Hâte	{Hâte}
+La puissance du sort Foudre Terrible augmente de 3% Ã  chaque niveau atteint par le hÃ©ros. Plus la cible est faible, plus le bonus est important.
+HÃ¢te	Bonus de Sort : HÃ¢te	{HÃ¢te}
 
-La puissance du sort Hâte augmente de +1(x) la vitesse des unités de Niv.5/6, de +2(x) celle des unités de Niv.3/4, et de +3(x) celle des unités de Niv.1/2.
+La puissance du sort HÃ¢te augmente de +1(x) la vitesse des unitÃ©s de Niv.5/6, de +2(x) celle des unitÃ©s de Niv.3/4, et de +3(x) celle des unitÃ©s de Niv.1/2.
 +350 Or	 +350 Or par jour	{+350 Or par jour}
 
-Augmente les revenus du royaume de 350 pièces d'Or par jour.
-Chiens de l'Enfer	Bonus de Créature :  Chiens de l'Enfer	{Chiens de l'Enfer et Cerbères}
+Augmente les revenus du royaume de 350 piÃ¨ces d'Or par jour.
+Chiens de l'Enfer	Bonus de CrÃ©ature :  Chiens de l'Enfer	{Chiens de l'Enfer et CerbÃ¨res}
 
-Les Chiens de l'Enfer et les Cerbères gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 3 niveaux sont atteints.
-Effrits	Bonus de Créature : Effrits	{Effrits et Sultans Effrits}
+Les Chiens de l'Enfer et les CerbÃ¨res gagnent +1 en vitesse, et reÃ§oivent un bonus en Attaque-DÃ©fense de 5% Ã  chaque fois que 3 niveaux sont atteints.
+Effrits	Bonus de CrÃ©ature : Effrits	{Effrits et Sultans Effrits}
 
-Les Effrits et les Sultans Effrits gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 6 niveaux sont atteints.
-Démons	Bonus de Créature : Démons	{Démons et Démons Cornus}
+Les Effrits et les Sultans Effrits gagnent +1 en vitesse, et reÃ§oivent un bonus en Attaque-DÃ©fense de 5% Ã  chaque fois que 6 niveaux sont atteints.
+DÃ©mons	Bonus de CrÃ©ature : DÃ©mons	{DÃ©mons et DÃ©mons Cornus}
 
-Les Démons et les Démons Cornus gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 4 niveaux sont atteints.
-Diablotins	Bonus de Créature : Diablotins	{Diablotins et Familiers}
+Les DÃ©mons et les DÃ©mons Cornus gagnent +1 en vitesse, et reÃ§oivent un bonus en Attaque-DÃ©fense de 5% Ã  chaque fois que 4 niveaux sont atteints.
+Diablotins	Bonus de CrÃ©ature : Diablotins	{Diablotins et Familiers}
 
-Les Diablotins et les Familiers gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque niveau après le 1er.
+Les Diablotins et les Familiers gagnent +1 en vitesse, et reÃ§oivent un bonus en Attaque-DÃ©fense de 5% Ã  chaque niveau aprÃ¨s le 1er.
 +350 Or	 +350 Or par jour	{+350 Or par jour}
 
-Augmente les revenus du royaume de 350 pièces d'Or par jour.
-Gogs	Bonus de Créature :  Gogs	{Gogs et Magogs}
+Augmente les revenus du royaume de 350 piÃ¨ces d'Or par jour.
+Gogs	Bonus de CrÃ©ature :  Gogs	{Gogs et Magogs}
 
-Les Gogs et les Magogs gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 2 niveaux sont atteints.
+Les Gogs et les Magogs gagnent +1 en vitesse, et reÃ§oivent un bonus en Attaque-DÃ©fense de 5% Ã  chaque fois que 2 niveaux sont atteints.
 Baliste	Bonus d'Artillerie : Baliste	{Baliste}
 
-La Baliste reçoit un bonus en Attaque-Défense de 5% à chaque fois que 5 niveaux sont atteints.
-Servants des Abîmes	Bonus de Créature : Servants des Abîmes	{Servants des Abîmes et Seigneurs des Abîmes}
+La Baliste reÃ§oit un bonus en Attaque-DÃ©fense de 5% Ã  chaque fois que 5 niveaux sont atteints.
+Servants des AbÃ®mes	Bonus de CrÃ©ature : Servants des AbÃ®mes	{Servants des AbÃ®mes et Seigneurs des AbÃ®mes}
 
-Les Servants des Abîmes et les Seigneurs des Abîmes gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 5 niveaux sont atteints.
-Intelligence	Bonus de Compétence Secondaire : Intelligence	{Intelligence}
+Les Servants des AbÃ®mes et les Seigneurs des AbÃ®mes gagnent +1 en vitesse, et reÃ§oivent un bonus en Attaque-DÃ©fense de 5% Ã  chaque fois que 5 niveaux sont atteints.
+Intelligence	Bonus de CompÃ©tence Secondaire : Intelligence	{Intelligence}
 
-Reçoit un bonus de 5% par niveau au pourcentage d'Intelligence.
+ReÃ§oit un bonus de 5% par niveau au pourcentage d'Intelligence.
 Brasier	Bonus de Sort : Brasier	{Brasier}
 
-La puissance du sort Brasier augmente de 3% à chaque niveau atteint par le héros. Plus la cible est faible, plus le bonus est important.
-Mysticisme	Bonus de Compétence Secondaire : Mysticisme	{Mysticisme}
+La puissance du sort Brasier augmente de 3% Ã  chaque niveau atteint par le hÃ©ros. Plus la cible est faible, plus le bonus est important.
+Mysticisme	Bonus de CompÃ©tence Secondaire : Mysticisme	{Mysticisme}
 
-Reçoit un bonus de 5% par niveau au pourcentage de Mysticisme.
+ReÃ§oit un bonus de 5% par niveau au pourcentage de Mysticisme.
 Faiblesse	Bonus de Sort : Faiblesse	{Faiblesse}
 
-La puissance du sort Faiblesse augmente de +1(x) sur les unités de Niv.5/6, de +2(x) sur les unités de Niv.3/4, et de +3(x) sur les unités de Niv.1/2.
+La puissance du sort Faiblesse augmente de +1(x) sur les unitÃ©s de Niv.5/6, de +2(x) sur les unitÃ©s de Niv.3/4, et de +3(x) sur les unitÃ©s de Niv.1/2.
 +1 Soufre	 +1 Soufre par jour	{+1 Soufre par jour}
 
-Augmente la production de Soufre du royaume de +1 unité par jour.
+Augmente la production de Soufre du royaume de +1 unitÃ© par jour.
 Furie Sanguinaire	Bonus de Sort : Furie Sanguinaire	{Furie Sanguinaire}
 
-La puissance du sort Furie Sanguinaire augmente de +1(x) sur les unités de Niv.5/6, de +2(x) sur les unités de Niv.3/4, et de +3(x) sur les unités de Niv.1/2.
-Sorcellerie	Bonus de Compétence Secondaire : Sorcellerie	{Sorcellerie}
+La puissance du sort Furie Sanguinaire augmente de +1(x) sur les unitÃ©s de Niv.5/6, de +2(x) sur les unitÃ©s de Niv.3/4, et de +3(x) sur les unitÃ©s de Niv.1/2.
+Sorcellerie	Bonus de CompÃ©tence Secondaire : Sorcellerie	{Sorcellerie}
 
-Reçoit un bonus de 5% par niveau au pourcentage de Sorcellerie.
+ReÃ§oit un bonus de 5% par niveau au pourcentage de Sorcellerie.
 Boule de Feu	Bonus de Sort : Boule de Feu	{Boule de Feu}
 
-La puissance du sort Boule de Feu augmente de 3% à chaque niveau atteint par le héros. Plus la cible est faible, plus le bonus est important.
-Trépassés	Bonus de Créature : Trépassés	{Trépassés et Zombies}
+La puissance du sort Boule de Feu augmente de 3% Ã  chaque niveau atteint par le hÃ©ros. Plus la cible est faible, plus le bonus est important.
+TrÃ©passÃ©s	Bonus de CrÃ©ature : TrÃ©passÃ©s	{TrÃ©passÃ©s et Zombies}
 
-Les Trépassés et les Zombies gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 2 niveaux sont atteints.
-Vampires	Bonus de Créature : Vampires	{Vampires et Seigneurs Vampires}
+Les TrÃ©passÃ©s et les Zombies gagnent +1 en vitesse, et reÃ§oivent un bonus en Attaque-DÃ©fense de 5% Ã  chaque fois que 2 niveaux sont atteints.
+Vampires	Bonus de CrÃ©ature : Vampires	{Vampires et Seigneurs Vampires}
 
-Les Vampires et les Seigneurs Vampires gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 4 niveaux sont atteints.
-Liches	Bonus de Créature :  Liches	{Liches et Grandes Liches}
+Les Vampires et les Seigneurs Vampires gagnent +1 en vitesse, et reÃ§oivent un bonus en Attaque-DÃ©fense de 5% Ã  chaque fois que 4 niveaux sont atteints.
+Liches	Bonus de CrÃ©ature :  Liches	{Liches et Grandes Liches}
 
-Les Liches et les Grandes Liches gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 5 niveaux sont atteints.
-Revenants	Bonus de Créature :  Revenants	{Revenants et Spectres}
+Les Liches et les Grandes Liches gagnent +1 en vitesse, et reÃ§oivent un bonus en Attaque-DÃ©fense de 5% Ã  chaque fois que 5 niveaux sont atteints.
+Revenants	Bonus de CrÃ©ature :  Revenants	{Revenants et Spectres}
 
-Les Revenants et les Spectres gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 3 niveaux sont atteints.
-Chevaliers Noirs	Bonus de Créature :  Chevaliers Noirs	{Chevaliers Noirs et Chevaliers de l'Effroi}
+Les Revenants et les Spectres gagnent +1 en vitesse, et reÃ§oivent un bonus en Attaque-DÃ©fense de 5% Ã  chaque fois que 3 niveaux sont atteints.
+Chevaliers Noirs	Bonus de CrÃ©ature :  Chevaliers Noirs	{Chevaliers Noirs et Chevaliers de l'Effroi}
 
-Les Chevaliers Noirs et les Chevaliers de l'Effroi gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 6 niveaux sont atteints.
-Nécromancie	Bonus de Compétence Secondaire : Nécromancie	{Nécromancie}
+Les Chevaliers Noirs et les Chevaliers de l'Effroi gagnent +1 en vitesse, et reÃ§oivent un bonus en Attaque-DÃ©fense de 5% Ã  chaque fois que 6 niveaux sont atteints.
+NÃ©cromancie	Bonus de CompÃ©tence Secondaire : NÃ©cromancie	{NÃ©cromancie}
 
-Reçoit un bonus de 5% par niveau au pourcentage de Nécromancie.
+ReÃ§oit un bonus de 5% par niveau au pourcentage de NÃ©cromancie.
 +350 Or	 +350 Or par jour	{+350 Or par jour}
 
-Augmente les revenus du royaume de 350 pièces d'Or par jour.
-Squelettes	Bonus de Créature : Squelettes	{Squelettes et Guerriers Squelettes}
+Augmente les revenus du royaume de 350 piÃ¨ces d'Or par jour.
+Squelettes	Bonus de CrÃ©ature : Squelettes	{Squelettes et Guerriers Squelettes}
 
-Les Squelettes et les Guerriers Squelettes gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque niveau après le 1er.
+Les Squelettes et les Guerriers Squelettes gagnent +1 en vitesse, et reÃ§oivent un bonus en Attaque-DÃ©fense de 5% Ã  chaque niveau aprÃ¨s le 1er.
 Onde Mortelle	Bonus de Sort : Onde Mortelle	{Onde Mortelle}
 
-La puissance du sort Onde Mortelle augmente de 3% à chaque niveau atteint par le héros. Plus la cible est faible, plus le bonus est important.
-Pluie Météores	Bonus de Sort : Pluie de Météores	{Pluie de Météores}
+La puissance du sort Onde Mortelle augmente de 3% Ã  chaque niveau atteint par le hÃ©ros. Plus la cible est faible, plus le bonus est important.
+Pluie MÃ©tÃ©ores	Bonus de Sort : Pluie de MÃ©tÃ©ores	{Pluie de MÃ©tÃ©ores}
 
-La puissance du sort Pluie de Météores augmente de 3% à chaque niveau atteint par le héros. Plus la cible est faible, plus le bonus est important.
-Sorcellerie	Bonus de Compétence Secondaire : Sorcellerie	{Sorcellerie}
+La puissance du sort Pluie de MÃ©tÃ©ores augmente de 3% Ã  chaque niveau atteint par le hÃ©ros. Plus la cible est faible, plus le bonus est important.
+Sorcellerie	Bonus de CompÃ©tence Secondaire : Sorcellerie	{Sorcellerie}
 
-Reçoit un bonus de 5% par niveau au pourcentage de Sorcellerie.
-Mimétisme	Bonus de Compétence Secondaire : Mimétisme	{Mimétisme}
+ReÃ§oit un bonus de 5% par niveau au pourcentage de Sorcellerie.
+MimÃ©tisme	Bonus de CompÃ©tence Secondaire : MimÃ©tisme	{MimÃ©tisme}
 
-Reçoit un bonus de 5% par niveau au pourcentage de Mimétisme.
+ReÃ§oit un bonus de 5% par niveau au pourcentage de MimÃ©tisme.
 Anim. des Morts	Bonus de Sort : Animation des Morts	{Animation des Morts}
 
-La puissance du sort Animation des Morts augmente de 3% à chaque niveau atteint par le héros. Plus la cible est faible, plus le bonus est important.
+La puissance du sort Animation des Morts augmente de 3% Ã  chaque niveau atteint par le hÃ©ros. Plus la cible est faible, plus le bonus est important.
 Carapace	Bonus de Sort : Carapace	{Carapace}
 
-La puissance du sort Carapace augmente de +1(x) sur les unités de Niv.5/6, de +2(x) sur les unités de Niv.3/4, et de +3(x) sur les unités de Niv.1/2.
-Nécromancie	Bonus de Compétence Secondaire : Nécromancie	{Nécromancie}
+La puissance du sort Carapace augmente de +1(x) sur les unitÃ©s de Niv.5/6, de +2(x) sur les unitÃ©s de Niv.3/4, et de +3(x) sur les unitÃ©s de Niv.1/2.
+NÃ©cromancie	Bonus de CompÃ©tence Secondaire : NÃ©cromancie	{NÃ©cromancie}
 
-Reçoit un bonus de 5% par niveau au pourcentage de Nécromancie.
+ReÃ§oit un bonus de 5% par niveau au pourcentage de NÃ©cromancie.
 +350 Or	 +350 Or par jour	{+350 Or par jour}
 
-Augmente les revenus du royaume de 350 pièces d'Or par jour.
-Harpies	Bonus de Créature :  Harpies	{Harpies et Harpies Sinistres}
+Augmente les revenus du royaume de 350 piÃ¨ces d'Or par jour.
+Harpies	Bonus de CrÃ©ature :  Harpies	{Harpies et Harpies Sinistres}
 
-Les Harpies et les Harpies Sinistres gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 2 niveaux sont atteints.
+Les Harpies et les Harpies Sinistres gagnent +1 en vitesse, et reÃ§oivent un bonus en Attaque-DÃ©fense de 5% Ã  chaque fois que 2 niveaux sont atteints.
 Baliste	Bonus d'Artillerie : Baliste	{Baliste}
 
-La Baliste reçoit un bonus en Attaque-Défense de 5% à chaque fois que 5 niveaux sont atteints.
-Minotaures	Bonus de Créature : Minotaures	{Minotaures et Rois Minotaures}
+La Baliste reÃ§oit un bonus en Attaque-DÃ©fense de 5% Ã  chaque fois que 5 niveaux sont atteints.
+Minotaures	Bonus de CrÃ©ature : Minotaures	{Minotaures et Rois Minotaures}
 
-Les Minotaures et les Rois Minotaures gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 5 niveaux sont atteints.
-Yeux Maléfiques	Bonus de Créature : Yeux Maléfiques	{Yeux Maléfiques et Yeux Démoniaques}
+Les Minotaures et les Rois Minotaures gagnent +1 en vitesse, et reÃ§oivent un bonus en Attaque-DÃ©fense de 5% Ã  chaque fois que 5 niveaux sont atteints.
+Yeux MalÃ©fiques	Bonus de CrÃ©ature : Yeux MalÃ©fiques	{Yeux MalÃ©fiques et Yeux DÃ©moniaques}
 
-Les Yeux Maléfiques et les Yeux Démoniaques gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 3 niveaux sont atteints.
+Les Yeux MalÃ©fiques et les Yeux DÃ©moniaques gagnent +1 en vitesse, et reÃ§oivent un bonus en Attaque-DÃ©fense de 5% Ã  chaque fois que 3 niveaux sont atteints.
 +350 Or	 +350 Or par jour	{+350 Or par jour}
 
-Augmente les revenus du royaume de 350 pièces d'Or par jour.
-Ravitaillement	Bonus de Compétence Secondaire : Ravitaillement	{Ravitaillement}
+Augmente les revenus du royaume de 350 piÃ¨ces d'Or par jour.
+Ravitaillement	Bonus de CompÃ©tence Secondaire : Ravitaillement	{Ravitaillement}
 
-Reçoit un bonus de 5% par niveau au pourcentage de Ravitaillement.
-Manticores	Bonus de Créature : Manticores	{Manticores et Scorpicores}
+ReÃ§oit un bonus de 5% par niveau au pourcentage de Ravitaillement.
+Manticores	Bonus de CrÃ©ature : Manticores	{Manticores et Scorpicores}
 
-Les Manticores et les Scorpicores gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 6 niveaux sont atteints.
-Troglodytes	Bonus de Créature : Troglodytes	{Troglodytes et Troglodytes Infernaux}
+Les Manticores et les Scorpicores gagnent +1 en vitesse, et reÃ§oivent un bonus en Attaque-DÃ©fense de 5% Ã  chaque fois que 6 niveaux sont atteints.
+Troglodytes	Bonus de CrÃ©ature : Troglodytes	{Troglodytes et Troglodytes Infernaux}
 
-Les Troglodytes et les Troglodytes Infernaux gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque niveau après le 1er.
-Résurrection	Bonus de Sort : Résurrection	{Résurrection}
+Les Troglodytes et les Troglodytes Infernaux gagnent +1 en vitesse, et reÃ§oivent un bonus en Attaque-DÃ©fense de 5% Ã  chaque niveau aprÃ¨s le 1er.
+RÃ©surrection	Bonus de Sort : RÃ©surrection	{RÃ©surrection}
 
-La puissance du sort Résurrection augmente de 3% à chaque niveau atteint par le héros. Plus la cible est faible, plus le bonus est important.
-Mysticisme	Bonus de Compétence Secondaire : Mysticisme	{Mysticisme}
+La puissance du sort RÃ©surrection augmente de 3% Ã  chaque niveau atteint par le hÃ©ros. Plus la cible est faible, plus le bonus est important.
+Mysticisme	Bonus de CompÃ©tence Secondaire : Mysticisme	{Mysticisme}
 
-Reçoit un bonus de 5% par niveau au pourcentage de Mysticisme.
-Sorcellerie	Bonus de Compétence Secondaire : Sorcellerie	{Sorcellerie}
+ReÃ§oit un bonus de 5% par niveau au pourcentage de Mysticisme.
+Sorcellerie	Bonus de CompÃ©tence Secondaire : Sorcellerie	{Sorcellerie}
 
-Reçoit un bonus de 5% par niveau au pourcentage de Sorcellerie.
-Résurrection	Bonus de Sort: Résurrection	{Résurrection}
+ReÃ§oit un bonus de 5% par niveau au pourcentage de Sorcellerie.
+RÃ©surrection	Bonus de Sort: RÃ©surrection	{RÃ©surrection}
 
-La puissance du sort Résurrection augmente de 3% à chaque niveau atteint par le héros. Plus la cible est faible, plus le bonus est important.
-Mimétisme	Bonus de Compétence Secondaire : Mimétisme	{Mimétisme}
+La puissance du sort RÃ©surrection augmente de 3% Ã  chaque niveau atteint par le hÃ©ros. Plus la cible est faible, plus le bonus est important.
+MimÃ©tisme	Bonus de CompÃ©tence Secondaire : MimÃ©tisme	{MimÃ©tisme}
 
-Reçoit un bonus de 5% par niveau au pourcentage de Mimétisme.
-Pluie de Météores	Bonus de Sort : Pluie de Météores	{Pluie de Météores}
+ReÃ§oit un bonus de 5% par niveau au pourcentage de MimÃ©tisme.
+Pluie de MÃ©tÃ©ores	Bonus de Sort : Pluie de MÃ©tÃ©ores	{Pluie de MÃ©tÃ©ores}
 
-La puissance du sort Pluie de Météores augmente de 3% à chaque niveau atteint par le héros. Plus la cible est faible, plus le bonus est important.
+La puissance du sort Pluie de MÃ©tÃ©ores augmente de 3% Ã  chaque niveau atteint par le hÃ©ros. Plus la cible est faible, plus le bonus est important.
 +1 Cristal	 +1 Cristal par jour	{+1 Cristal par jour}
 
-Augmente la production de Cristaux du royaume de +1 unité par jour.
+Augmente la production de Cristaux du royaume de +1 unitÃ© par jour.
 Carapace	Bonus de Sort : Carapace	{Carapace}
 
-La puissance du sort Carapace augmente de +1(x) sur les unités de Niv.5/6, de +2(x) sur les unités de Niv.3/4, et de +3(x) sur les unités de Niv.1/2.
-Cyclopes	Bonus de Créature : Cyclopes	{Cyclopes et Rois Cyclopes}
+La puissance du sort Carapace augmente de +1(x) sur les unitÃ©s de Niv.5/6, de +2(x) sur les unitÃ©s de Niv.3/4, et de +3(x) sur les unitÃ©s de Niv.1/2.
+Cyclopes	Bonus de CrÃ©ature : Cyclopes	{Cyclopes et Rois Cyclopes}
 
-Les Cyclopes et les Rois Cyclopes gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 6 niveaux sont atteints.
+Les Cyclopes et les Rois Cyclopes gagnent +1 en vitesse, et reÃ§oivent un bonus en Attaque-DÃ©fense de 5% Ã  chaque fois que 6 niveaux sont atteints.
 Baliste	Bonus d'Artillerie : Baliste	{Baliste}
 
-La Baliste reçoit un bonus en Attaque-Défense de 5% à chaque fois que 5 niveaux sont atteints.
-Orcs	Bonus de Créature :  Orcs	{Orcs et Chefs Orcs}
+La Baliste reÃ§oit un bonus en Attaque-DÃ©fense de 5% Ã  chaque fois que 5 niveaux sont atteints.
+Orcs	Bonus de CrÃ©ature :  Orcs	{Orcs et Chefs Orcs}
 
-Les Orcs et les Chefs Orcs gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 3 niveaux sont atteints.
-Rocks	Bonus de Créature : Rocks	{Rocks et Rocks Foudroyants}
+Les Orcs et les Chefs Orcs gagnent +1 en vitesse, et reÃ§oivent un bonus en Attaque-DÃ©fense de 5% Ã  chaque fois que 3 niveaux sont atteints.
+Rocks	Bonus de CrÃ©ature : Rocks	{Rocks et Rocks Foudroyants}
 
-Les Rocks et les Rocks Foudroyants gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 5 niveaux sont atteints.
-Gobelins	Bonus de Créature : Gobelins	{Gobelins et Hobgobelins}
+Les Rocks et les Rocks Foudroyants gagnent +1 en vitesse, et reÃ§oivent un bonus en Attaque-DÃ©fense de 5% Ã  chaque fois que 5 niveaux sont atteints.
+Gobelins	Bonus de CrÃ©ature : Gobelins	{Gobelins et Hobgobelins}
 
-Les Gobelins et les Hobgobelins gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque niveau après le 1er.
-Ogres	Bonus de Créature :  Ogres	{Ogres et Ogres Mages}
+Les Gobelins et les Hobgobelins gagnent +1 en vitesse, et reÃ§oivent un bonus en Attaque-DÃ©fense de 5% Ã  chaque niveau aprÃ¨s le 1er.
+Ogres	Bonus de CrÃ©ature :  Ogres	{Ogres et Ogres Mages}
 
-Les Ogres et les Ogres Mages gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 4 niveaux sont atteints.
-Adresse	Bonus de Compétence Secondaire : Adresse	{Adresse}
+Les Ogres et les Ogres Mages gagnent +1 en vitesse, et reÃ§oivent un bonus en Attaque-DÃ©fense de 5% Ã  chaque fois que 4 niveaux sont atteints.
+Adresse	Bonus de CompÃ©tence Secondaire : Adresse	{Adresse}
 
-Reçoit un bonus de 5% par niveau au pourcentage d'Adresse.
-Dresseurs de Loups	Bonus de Créature : Dresseurs de Loups	{Dresseurs de Loups et Pillards}
+ReÃ§oit un bonus de 5% par niveau au pourcentage d'Adresse.
+Dresseurs de Loups	Bonus de CrÃ©ature : Dresseurs de Loups	{Dresseurs de Loups et Pillards}
 
-Les Dresseurs de Loups et les Pillards gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 2 niveaux sont atteints.
-Sorcellerie	Bonus de Compétence Secondaire : Sorcellerie	{Sorcellerie}
+Les Dresseurs de Loups et les Pillards gagnent +1 en vitesse, et reÃ§oivent un bonus en Attaque-DÃ©fense de 5% Ã  chaque fois que 2 niveaux sont atteints.
+Sorcellerie	Bonus de CompÃ©tence Secondaire : Sorcellerie	{Sorcellerie}
 
-Reçoit un bonus de 5% par niveau au pourcentage de Sorcellerie.
-Ogres	Bonus de Créature :  Ogres	{Ogres et Ogres Mages}
+ReÃ§oit un bonus de 5% par niveau au pourcentage de Sorcellerie.
+Ogres	Bonus de CrÃ©ature :  Ogres	{Ogres et Ogres Mages}
 
-Les Ogres et les Ogres Mages gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 4 niveaux sont atteints.
-Ravitaillement	Bonus de Compétence Secondaire : Ravitaillement	{Ravitaillement}
+Les Ogres et les Ogres Mages gagnent +1 en vitesse, et reÃ§oivent un bonus en Attaque-DÃ©fense de 5% Ã  chaque fois que 4 niveaux sont atteints.
+Ravitaillement	Bonus de CompÃ©tence Secondaire : Ravitaillement	{Ravitaillement}
 
-Reçoit un bonus de 5% par niveau au pourcentage de Ravitaillement.
-Hâte	Bonus de Sort : Hâte	{Hâte}
+ReÃ§oit un bonus de 5% par niveau au pourcentage de Ravitaillement.
+HÃ¢te	Bonus de Sort : HÃ¢te	{HÃ¢te}
 
-La puissance du sort Hâte augmente de +1(x) la vitesse des unités de Niv.5/6, de +2(x) celle des unités de Niv.3/4, et de +3(x) celle des unités de Niv.1/2.
-Précision	Bonus de Sort : Précision	{Précision}
+La puissance du sort HÃ¢te augmente de +1(x) la vitesse des unitÃ©s de Niv.5/6, de +2(x) celle des unitÃ©s de Niv.3/4, et de +3(x) celle des unitÃ©s de Niv.1/2.
+PrÃ©cision	Bonus de Sort : PrÃ©cision	{PrÃ©cision}
 
-La puissance du sort Précision augmente de +1(x) sur les unités de Niv.5/6, de +2(x) sur les unités de Niv.3/4, et de +3(x) sur les unités de Niv.1/2.
-Adresse	Bonus de Compétence Secondaire : Adresse	{Adresse}
+La puissance du sort PrÃ©cision augmente de +1(x) sur les unitÃ©s de Niv.5/6, de +2(x) sur les unitÃ©s de Niv.3/4, et de +3(x) sur les unitÃ©s de Niv.1/2.
+Adresse	Bonus de CompÃ©tence Secondaire : Adresse	{Adresse}
 
-Reçoit un bonus de 5% par niveau au pourcentage d'Adresse.
-Mimétisme	Bonus de Compétence Secondaire : Mimétisme	{Mimétisme}
+ReÃ§oit un bonus de 5% par niveau au pourcentage d'Adresse.
+MimÃ©tisme	Bonus de CompÃ©tence Secondaire : MimÃ©tisme	{MimÃ©tisme}
 
-Reçoit un bonus de 5% par niveau au pourcentage de Mimétisme.
+ReÃ§oit un bonus de 5% par niveau au pourcentage de MimÃ©tisme.
 +1 Gemme	 +1 Gemme par jour	{+1 Gemme par jour}
 
-Augmente la production de Gemmes du royaume de +1 unité par jour.
-Basilics	Bonus de Créature : Basilics	{Basilics et Grands Basilics}
+Augmente la production de Gemmes du royaume de +1 unitÃ© par jour.
+Basilics	Bonus de CrÃ©ature : Basilics	{Basilics et Grands Basilics}
 
-Les Basilics et les Grands Basilics gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 4 niveaux sont atteints.
-Gnolls	Bonus de Créature : Gnolls	{Gnolls et Gnolls Maraudeurs}
+Les Basilics et les Grands Basilics gagnent +1 en vitesse, et reÃ§oivent un bonus en Attaque-DÃ©fense de 5% Ã  chaque fois que 4 niveaux sont atteints.
+Gnolls	Bonus de CrÃ©ature : Gnolls	{Gnolls et Gnolls Maraudeurs}
 
-Les Gnolls et les Gnolls Maraudeurs gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque niveau après le 1er.
-Hommes-Lézards	Bonus de Créature :  Hommes-Lézards	{Hommes Lézards et Guerriers Lézards}
+Les Gnolls et les Gnolls Maraudeurs gagnent +1 en vitesse, et reÃ§oivent un bonus en Attaque-DÃ©fense de 5% Ã  chaque niveau aprÃ¨s le 1er.
+Hommes-LÃ©zards	Bonus de CrÃ©ature :  Hommes-LÃ©zards	{Hommes LÃ©zards et Guerriers LÃ©zards}
 
-Les Hommes Lézards et les Guerriers Lézards gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 2 niveaux sont atteints.
-Armurerie	Bonus de Compétence Secondaire : Armurerie	{Armurerie}
+Les Hommes LÃ©zards et les Guerriers LÃ©zards gagnent +1 en vitesse, et reÃ§oivent un bonus en Attaque-DÃ©fense de 5% Ã  chaque fois que 2 niveaux sont atteints.
+Armurerie	Bonus de CompÃ©tence Secondaire : Armurerie	{Armurerie}
 
-Reçoit un bonus de 5% par niveau au pourcentage d'Armurerie.
-Gorgones	Bonus de Créature : Gorgones	{Gorgones et Grandes Gorgones}
+ReÃ§oit un bonus de 5% par niveau au pourcentage d'Armurerie.
+Gorgones	Bonus de CrÃ©ature : Gorgones	{Gorgones et Grandes Gorgones}
 
-Les Gorgones et les Grandes Gorgones gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 5 niveaux sont atteints.
-Guêpes Serpents	Bonus de Créature : Guêpes Serpents	{Guêpes Serpents et Guêpes Dragons}
+Les Gorgones et les Grandes Gorgones gagnent +1 en vitesse, et reÃ§oivent un bonus en Attaque-DÃ©fense de 5% Ã  chaque fois que 5 niveaux sont atteints.
+GuÃªpes Serpents	Bonus de CrÃ©ature : GuÃªpes Serpents	{GuÃªpes Serpents et GuÃªpes Dragons}
 
-Les Guêpes Serpents et les Guêpes Dragons reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 3 niveaux sont atteints.
+Les GuÃªpes Serpents et les GuÃªpes Dragons reÃ§oivent un bonus en Attaque-DÃ©fense de 5% Ã  chaque fois que 3 niveaux sont atteints.
 Baliste	Bonus d'Artillerie : Baliste	{Baliste}
 
-La Baliste reçoit un bonus en Attaque-Défense de 5% à chaque fois que 5 niveaux sont atteints.
-Wyvernes	Bonus de Créature : Wyvernes	{Wyvernes et Monarques Wyvernes}
+La Baliste reÃ§oit un bonus en Attaque-DÃ©fense de 5% Ã  chaque fois que 5 niveaux sont atteints.
+Wyvernes	Bonus de CrÃ©ature : Wyvernes	{Wyvernes et Monarques Wyvernes}
 
-Les Wyvernes et les Monarques Wyvernes gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 6 niveaux sont atteints.
+Les Wyvernes et les Monarques Wyvernes gagnent +1 en vitesse, et reÃ§oivent un bonus en Attaque-DÃ©fense de 5% Ã  chaque fois que 6 niveaux sont atteints.
 Faiblesse	Bonus de Sort : Faiblesse	{Faiblesse}
 
-La puissance du sort Faiblesse augmente de +1(x) sur les unités de Niv.5/6, de +2(x) sur les unités de Niv.3/4, et de +3(x) sur les unités de Niv.1/2.
-Mysticisme	Bonus de Compétence Secondaire : Mysticisme	{Mysticisme}
+La puissance du sort Faiblesse augmente de +1(x) sur les unitÃ©s de Niv.5/6, de +2(x) sur les unitÃ©s de Niv.3/4, et de +3(x) sur les unitÃ©s de Niv.1/2.
+Mysticisme	Bonus de CompÃ©tence Secondaire : Mysticisme	{Mysticisme}
 
-Reçoit un bonus de 5% par niveau au pourcentage de Mysticisme.
-Navigation	Bonus de Compétence Secondaire : Navigation	{Navigation}
+ReÃ§oit un bonus de 5% par niveau au pourcentage de Mysticisme.
+Navigation	Bonus de CompÃ©tence Secondaire : Navigation	{Navigation}
 
-Reçoit un bonus de 5% par niveau au pourcentage de Navigation.
-Médecine	Bonus de Compétence Secondaire : Médecine	{Médecine}
+ReÃ§oit un bonus de 5% par niveau au pourcentage de Navigation.
+MÃ©decine	Bonus de CompÃ©tence Secondaire : MÃ©decine	{MÃ©decine}
 
-Reçoit un bonus de 5% par niveau au pourcentage de Médecine.
+ReÃ§oit un bonus de 5% par niveau au pourcentage de MÃ©decine.
 Carapace	Bonus de Sort : Carapace	{Carapace}
 
-La puissance du sort Carapace augmente de +1(x) sur les unités de Niv.5/6, de +2(x) sur les unités de Niv.3/4, et de +3(x) sur les unités de Niv.1/2.
-Sorcellerie	Bonus de Compétence Secondaire : Sorcellerie	{Sorcellerie}
+La puissance du sort Carapace augmente de +1(x) sur les unitÃ©s de Niv.5/6, de +2(x) sur les unitÃ©s de Niv.3/4, et de +3(x) sur les unitÃ©s de Niv.1/2.
+Sorcellerie	Bonus de CompÃ©tence Secondaire : Sorcellerie	{Sorcellerie}
 
-Reçoit un bonus de 5% par niveau au pourcentage de Sorcellerie.
-Intelligence	Bonus de Compétence Secondaire : Intelligence	{Intelligence}
+ReÃ§oit un bonus de 5% par niveau au pourcentage de Sorcellerie.
+Intelligence	Bonus de CompÃ©tence Secondaire : Intelligence	{Intelligence}
 
-Reçoit un bonus de 5% par niveau au pourcentage d'Intelligence.
-Mimétisme	Bonus de Compétence Secondaire : Mimétisme	{Mimétisme}
+ReÃ§oit un bonus de 5% par niveau au pourcentage d'Intelligence.
+MimÃ©tisme	Bonus de CompÃ©tence Secondaire : MimÃ©tisme	{MimÃ©tisme}
 
-Reçoit un bonus de 5% par niveau au pourcentage de Mimétisme.
-Éle. de l'Esprit	Bonus de Créatures : Élémentaires de l'Esprit	{Élémentaires de l'Esprit et Élémentaires de Magie}
+ReÃ§oit un bonus de 5% par niveau au pourcentage de MimÃ©tisme.
+Ã‰le. de l'Esprit	Bonus de CrÃ©atures : Ã‰lÃ©mentaires de l'Esprit	{Ã‰lÃ©mentaires de l'Esprit et Ã‰lÃ©mentaires de Magie}
 
-Les Élémentaires de l'Esprit et les Élémentaires de Magie gagnent +3 en Attaque et +3 en Défense.
-Éle. de la Terre	Bonus de Créatures : Élémentaires de la Terre	{Élémentaires de la Terre et Élémentaires de Magma}
+Les Ã‰lÃ©mentaires de l'Esprit et les Ã‰lÃ©mentaires de Magie gagnent +3 en Attaque et +3 en DÃ©fense.
+Ã‰le. de la Terre	Bonus de CrÃ©atures : Ã‰lÃ©mentaires de la Terre	{Ã‰lÃ©mentaires de la Terre et Ã‰lÃ©mentaires de Magma}
 
-Les Élémentaires de la Terre et les Élémentaires de Magma gagnent +2 en Attaque, +1 en Défense, et +5 aux Dommages infligés.
-Éle. du Feu	Bonus de Créatures : Élémentaires du Feu	{Élémentaires du Feu et Élémentaires d'Energie}
+Les Ã‰lÃ©mentaires de la Terre et les Ã‰lÃ©mentaires de Magma gagnent +2 en Attaque, +1 en DÃ©fense, et +5 aux Dommages infligÃ©s.
+Ã‰le. du Feu	Bonus de CrÃ©atures : Ã‰lÃ©mentaires du Feu	{Ã‰lÃ©mentaires du Feu et Ã‰lÃ©mentaires d'Energie}
 
-Les Élémentaires du Feu et les Élémentaires d'Energie gagnent +1 en Attaque, +2 en Défense, et +2 aux Dommages infligés.
-Éle. de l'Eau	Bonus de Créatures : Élémentaires de l'Eau	{Élémentaires de l'Eau et Élémentaires de Glace}
+Les Ã‰lÃ©mentaires du Feu et les Ã‰lÃ©mentaires d'Energie gagnent +1 en Attaque, +2 en DÃ©fense, et +2 aux Dommages infligÃ©s.
+Ã‰le. de l'Eau	Bonus de CrÃ©atures : Ã‰lÃ©mentaires de l'Eau	{Ã‰lÃ©mentaires de l'Eau et Ã‰lÃ©mentaires de Glace}
 
-Les Élémentaires de l'Eau et les Élémentaires de Glace gagnent +2 en Attaque.
-Éle. de l'Esprit	Bonus de Créatures : Élémentaires de l'Esprit	{Élémentaires de l'Esprit et Élémentaires de Magie}
+Les Ã‰lÃ©mentaires de l'Eau et les Ã‰lÃ©mentaires de Glace gagnent +2 en Attaque.
+Ã‰le. de l'Esprit	Bonus de CrÃ©atures : Ã‰lÃ©mentaires de l'Esprit	{Ã‰lÃ©mentaires de l'Esprit et Ã‰lÃ©mentaires de Magie}
 
-Les Élémentaires de l'Esprit et les Élémentaires de Magie gagnent +3 en Attaque et +3 en Défense.
-Éle. de la Terre	Bonus de Créatures : Élémentaires de la Terre	{Élémentaires de la Terre et Élémentaires de Magma}
+Les Ã‰lÃ©mentaires de l'Esprit et les Ã‰lÃ©mentaires de Magie gagnent +3 en Attaque et +3 en DÃ©fense.
+Ã‰le. de la Terre	Bonus de CrÃ©atures : Ã‰lÃ©mentaires de la Terre	{Ã‰lÃ©mentaires de la Terre et Ã‰lÃ©mentaires de Magma}
 
-Les Élémentaires de la Terre et les Élémentaires de Magma gagnent +2 en Attaque, +1 en Défense, et +5 aux Dommages infligés.
-Éle. du Feu	Bonus de Créatures : Élémentaires du Feu	{Élémentaires du Feu et Élémentaires d'Energie}
+Les Ã‰lÃ©mentaires de la Terre et les Ã‰lÃ©mentaires de Magma gagnent +2 en Attaque, +1 en DÃ©fense, et +5 aux Dommages infligÃ©s.
+Ã‰le. du Feu	Bonus de CrÃ©atures : Ã‰lÃ©mentaires du Feu	{Ã‰lÃ©mentaires du Feu et Ã‰lÃ©mentaires d'Energie}
 
-Les Élémentaires du Feu et les Élémentaires d'Energie gagnent +1 en Attaque, +2 en Défense, et +2 aux Dommages infligés.
-Éle. de l'Eau	Bonus de Créatures : Élémentaires de l'Eau	{Élémentaires de l'Eau et Élémentaires de Glace}
+Les Ã‰lÃ©mentaires du Feu et les Ã‰lÃ©mentaires d'Energie gagnent +1 en Attaque, +2 en DÃ©fense, et +2 aux Dommages infligÃ©s.
+Ã‰le. de l'Eau	Bonus de CrÃ©atures : Ã‰lÃ©mentaires de l'Eau	{Ã‰lÃ©mentaires de l'Eau et Ã‰lÃ©mentaires de Glace}
 
-Les Élémentaires de l'Eau et les Élémentaires de Glace gagnent +2 en Attaque.
+Les Ã‰lÃ©mentaires de l'Eau et les Ã‰lÃ©mentaires de Glace gagnent +2 en Attaque.
 Mur de Flammes	Bonus de Sort : Mur de Flammes	{Mur de Flammes}
 
-Les Dégâts causés par le Mur de Flammes sont augmentés de 25%.
-Hâte	Bonus de Sort : Hâte	{Hâte}
+Les DÃ©gÃ¢ts causÃ©s par le Mur de Flammes sont augmentÃ©s de 25%.
+HÃ¢te	Bonus de Sort : HÃ¢te	{HÃ¢te}
 
-La puissance du sort Hâte augmente de +1(x) la vitesse des unités de Niv.5/6, de +2(x) celle des unités de Niv.3/4, et de +3(x) celle des unités de Niv.1/2.
-Flèche Magique	Bonus de Sort : Flèche Magique	{Flèche Magique}
+La puissance du sort HÃ¢te augmente de +1(x) la vitesse des unitÃ©s de Niv.5/6, de +2(x) celle des unitÃ©s de Niv.3/4, et de +3(x) celle des unitÃ©s de Niv.1/2.
+FlÃ¨che Magique	Bonus de Sort : FlÃ¨che Magique	{FlÃ¨che Magique}
 
-Les Dégâts causés par les Flèches Magiques sont augmentés de 50%.
+Les DÃ©gÃ¢ts causÃ©s par les FlÃ¨ches Magiques sont augmentÃ©s de 50%.
 Carapace	Bonus de Sort : Carapace	{Carapace}
 
-La puissance du sort Carapace augmente de +1(x) sur les unités de Niv.5/6, de +2(x) sur les unités de Niv.3/4, et de +3(x) sur les unités de Niv.1/2.
+La puissance du sort Carapace augmente de +1(x) sur les unitÃ©s de Niv.5/6, de +2(x) sur les unitÃ©s de Niv.3/4, et de +3(x) sur les unitÃ©s de Niv.1/2.
 Furie Sanguinaire	Bonus de Sort : Furie Sanguinaire	{Furie Sanguinaire}
 
-La puissance du sort Furie Sanguinaire augmente de +1(x) sur les unités de Niv.5/6, de +2(x) sur les unités de Niv.3/4, et de +3(x) sur les unités de Niv.1/2.
+La puissance du sort Furie Sanguinaire augmente de +1(x) sur les unitÃ©s de Niv.5/6, de +2(x) sur les unitÃ©s de Niv.3/4, et de +3(x) sur les unitÃ©s de Niv.1/2.
 Confusion	Bonus de Sort : Confusion	{Confusion}
 
 Lance le sort Confusion avec un bonus de +2.
 +350 Or	+350 Or par jour	{+350 Or par jour}
 
-Augmente les revenus du royaume de 350 pièces d'Or par jour.
+Augmente les revenus du royaume de 350 piÃ¨ces d'Or par jour.
 +350 Or	+350 Or par jour	{+350 Or par jour}
 
-Augmente les revenus du royaume de 350 pièces d'Or par jour.
-Vitesse	Bonus de Créatures : Vitesse	{Vitesse}
+Augmente les revenus du royaume de 350 piÃ¨ces d'Or par jour.
+Vitesse	Bonus de CrÃ©atures : Vitesse	{Vitesse}
 
-La Vitesse de toutes les créatures est augmentée de +2.
-Magie du Feu	Bonus de Compétence Secondaire : Maître Magie du Feu	{Maître Magie du Feu}
+La Vitesse de toutes les crÃ©atures est augmentÃ©e de +2.
+Magie du Feu	Bonus de CompÃ©tence Secondaire : MaÃ®tre Magie du Feu	{MaÃ®tre Magie du Feu}
 
-Commence avec la compétence Magie du Feu au niveau Maître.
-Spadassins	Bonus de Créatures : Spadassins	{Spadassins et Paladins}
+Commence avec la compÃ©tence Magie du Feu au niveau MaÃ®tre.
+Spadassins	Bonus de CrÃ©atures : Spadassins	{Spadassins et Paladins}
 
-Les Spadassins et les Paladins gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 4 niveaux sont atteints.
-Enchanteurs	Bonus de Créatures : Enchanteurs	{Enchanteurs}
+Les Spadassins et les Paladins gagnent +1 en vitesse, et reÃ§oivent un bonus en Attaque-DÃ©fense de 5% Ã  chaque fois que 4 niveaux sont atteints.
+Enchanteurs	Bonus de CrÃ©atures : Enchanteurs	{Enchanteurs}
 
-Peut transformer les Moines et les Zélotes, ainsi que les Mages et les Archimages en Enchanteurs.
-Archers d'Élite	Bonus de Créatures : Archers d'Élite	{Archers d'Élite}
+Peut transformer les Moines et les ZÃ©lotes, ainsi que les Mages et les Archimages en Enchanteurs.
+Archers d'Ã‰lite	Bonus de CrÃ©atures : Archers d'Ã‰lite	{Archers d'Ã‰lite}
 
-Peut transformer les Arbalétriers et les Grands Arbalétriers, ainsi que les Elfes Sylvains et les Grands Elfes en Archers d’Élite.
-Béhémoths	Bonus de Créatures : Béhémoths	{Béhémoths et Béhémoths Royaux}
+Peut transformer les ArbalÃ©triers et les Grands ArbalÃ©triers, ainsi que les Elfes Sylvains et les Grands Elfes en Archers dâ€™Ã‰lite.
+BÃ©hÃ©moths	Bonus de CrÃ©atures : BÃ©hÃ©moths	{BÃ©hÃ©moths et BÃ©hÃ©moths Royaux}
 
-Les Béhémoths et les Béhémoths Royaux gagnent +5 en Attaque, +5 en Défense, et +10 aux Dommages infligés.
-Chevaliers Noirs	Bonus de Créatures : Chevaliers Noirs	{Chevaliers Noirs et Chevaliers de l'Effroi}
+Les BÃ©hÃ©moths et les BÃ©hÃ©moths Royaux gagnent +5 en Attaque, +5 en DÃ©fense, et +10 aux Dommages infligÃ©s.
+Chevaliers Noirs	Bonus de CrÃ©atures : Chevaliers Noirs	{Chevaliers Noirs et Chevaliers de l'Effroi}
 
-Les Chevaliers Noirs et les Chevaliers de l'Effroi gagnent +5 en Attaque, +5 en Défense, et +10 aux Dommages infligés.
-Dragons	Bonus de Créatures : Dragons	{Dragons}
+Les Chevaliers Noirs et les Chevaliers de l'Effroi gagnent +5 en Attaque, +5 en DÃ©fense, et +10 aux Dommages infligÃ©s.
+Dragons	Bonus de CrÃ©atures : Dragons	{Dragons}
 
-Tous les dragons gagnent +5 en Attaque et +5 en Défense.
-Spadassins	Bonus de Créatures : Spadassins	{Spadassins et Paladins}
+Tous les dragons gagnent +5 en Attaque et +5 en DÃ©fense.
+Spadassins	Bonus de CrÃ©atures : Spadassins	{Spadassins et Paladins}
 
-Les Spadassins et les Paladins gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 4 niveaux sont atteints.
-Dragons	Bonus de Créatures : Dragons	{Dragons}
+Les Spadassins et les Paladins gagnent +1 en vitesse, et reÃ§oivent un bonus en Attaque-DÃ©fense de 5% Ã  chaque fois que 4 niveaux sont atteints.
+Dragons	Bonus de CrÃ©atures : Dragons	{Dragons}
 
-Tous les dragons gagnent +5 en Attaque et +5 en Défense.
-Ogres	Bonus de Créatures : Ogres	{Ogres et Ogres Mages}
+Tous les dragons gagnent +5 en Attaque et +5 en DÃ©fense.
+Ogres	Bonus de CrÃ©atures : Ogres	{Ogres et Ogres Mages}
 
-Les Ogres et les Ogres Mages gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 4 niveaux sont atteints.
-Diables	Bonus de Créatures : Diables	{Diables et Archidiables}
+Les Ogres et les Ogres Mages gagnent +1 en vitesse, et reÃ§oivent un bonus en Attaque-DÃ©fense de 5% Ã  chaque fois que 4 niveaux sont atteints.
+Diables	Bonus de CrÃ©atures : Diables	{Diables et Archidiables}
 
-Les Diables et les Archidiables gagnent +4 en Attaque, +2 en Défense et +1 en Vitesse.
+Les Diables et les Archidiables gagnent +4 en Attaque, +2 en DÃ©fense et +1 en Vitesse.
 		 

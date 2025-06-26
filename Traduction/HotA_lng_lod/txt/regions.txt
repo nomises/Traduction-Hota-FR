@@ -1,70 +1,70 @@
 Region Name	Campaign Name	Scenario Name	Map Area Name
 "{Southport}
 
-La Reine Catherine est partie afin de porter assistance au Roi Gavin Magnus de Bracada. D'autres généraux sévissent dans la région. Établissez une base d'opérations, ralliez une milice locale, déterminez l'étendue de l'occupation des Nighon et découvrez leur itinéraire d'invasion."	Good1	G1a	Map Area 1
+La Reine Catherine est partie afin de porter assistance au Roi Gavin Magnus de Bracada. D'autres gÃ©nÃ©raux sÃ©vissent dans la rÃ©gion. Ã‰tablissez une base d'opÃ©rations, ralliez une milice locale, dÃ©terminez l'Ã©tendue de l'occupation des Nighon et dÃ©couvrez leur itinÃ©raire d'invasion."	Good1	G1a	Map Area 1
 "{Angelgate}
 
-Des Anges ont été signalés près de la ville de Fair Feather. Si les rumeurs s'avèrent fondées, nous devons assurer la sécurité de cette ville et peut-être convaincre les Anges de rallier notre cause."	Good1	G1b	Map Area 2
+Des Anges ont Ã©tÃ© signalÃ©s prÃ¨s de la ville de Fair Feather. Si les rumeurs s'avÃ¨rent fondÃ©es, nous devons assurer la sÃ©curitÃ© de cette ville et peut-Ãªtre convaincre les Anges de rallier notre cause."	Good1	G1b	Map Area 2
 "{Griffin Cliff}
 
-La région de Griffin Cliff, le lieu de nidification où se rassemblent pratiquement tous les Griffons d'Erathia, est actuellement occupée par les forces alliées des Nighon et des Kreegan. Il y a de nombreuses générations de cela, les Griffons ont permis l'édification d'Erathia. Peut-être permettront-ils aujourd'hui de la reprendre."	Good1	G1c	Map Area 3
+La rÃ©gion de Griffin Cliff, le lieu de nidification oÃ¹ se rassemblent pratiquement tous les Griffons d'Erathia, est actuellement occupÃ©e par les forces alliÃ©es des Nighon et des Kreegan. Il y a de nombreuses gÃ©nÃ©rations de cela, les Griffons ont permis l'Ã©dification d'Erathia. Peut-Ãªtre permettront-ils aujourd'hui de la reprendre."	Good1	G1c	Map Area 3
 "{Battlestead}
 
-La première étape de notre combat pour libérer Erathia sera d'arracher Steadwick des griffes des Nighon. La tâche ne sera pas facile, car les Seigneurs des Donjons ont bloqué les passes dans la montagne menant à la Vallée de Steadwick."	Good2	G2a	Map Area 1
+La premiÃ¨re Ã©tape de notre combat pour libÃ©rer Erathia sera d'arracher Steadwick des griffes des Nighon. La tÃ¢che ne sera pas facile, car les Seigneurs des Donjons ont bloquÃ© les passes dans la montagne menant Ã  la VallÃ©e de Steadwick."	Good2	G2a	Map Area 1
 "{Eeofol}
 
-Une lettre de Lucifer Kreegan III, Haut Seigneur Commandant d'Eeofol, arrive au palais à l'attention de la Reine Catherine. Dans cette lettre, il prétend détenir un prisonnier : le mari de Catherine, Roland Ironfist d'Enroth. Il réclame une rançon d'un million de pièces d'or en échange de sa vie."	Good2	G2b	Map Area 2
+Une lettre de Lucifer Kreegan III, Haut Seigneur Commandant d'Eeofol, arrive au palais Ã  l'attention de la Reine Catherine. Dans cette lettre, il prÃ©tend dÃ©tenir un prisonnier : le mari de Catherine, Roland Ironfist d'Enroth. Il rÃ©clame une ranÃ§on d'un million de piÃ¨ces d'or en Ã©change de sa vie."	Good2	G2b	Map Area 2
 "{Marshland & Hillbridge}
 
-Un ambassadeur de Bracada apporte un message de son chef, Gavin Magnus, qui propose son assistance afin de reprendre l'Ouest d'Erathia aux forces des Tatalian et des Krewlish. Il est temps de rappeler à vos voisins l'emplacement de leurs frontières."	Good2	G2c	Map Area 3
+Un ambassadeur de Bracada apporte un message de son chef, Gavin Magnus, qui propose son assistance afin de reprendre l'Ouest d'Erathia aux forces des Tatalian et des Krewlish. Il est temps de rappeler Ã  vos voisins l'emplacement de leurs frontiÃ¨res."	Good2	G2c	Map Area 3
 "{Grainrich & Firecoast}
 
-Nous savons à présent comment Erathia est tombée entre les mains des Nighon et des Eeofol. Ces derniers ont tout simplement creusé un tunnel sous le Détroit Nighon, afin de s'infiltrer dans les Tunnels des Nains de la côte d'Erathia. Nous allons les forcer à réutiliser ces tunnels, mais cette fois pour s'échapper lorsque nous les chasserons définitivement d'Erathia!"	Good2	G2d	Map Area 4
+Nous savons Ã  prÃ©sent comment Erathia est tombÃ©e entre les mains des Nighon et des Eeofol. Ces derniers ont tout simplement creusÃ© un tunnel sous le DÃ©troit Nighon, afin de s'infiltrer dans les Tunnels des Nains de la cÃ´te d'Erathia. Nous allons les forcer Ã  rÃ©utiliser ces tunnels, mais cette fois pour s'Ã©chapper lorsque nous les chasserons dÃ©finitivement d'Erathia!"	Good2	G2d	Map Area 4
 "{Marshland}
 
-Le Roi Tralossk de Tatalia vous propose un contrat de mercenaire. Il désire que sa nation soit constituée d'autre chose que de marécages. Profitant des événements qui ont récemment perturbés Erathia, il a décidé qu'il était grand temps d'étendre les frontières de Tatalia."	Neutral1	N1a	Map Area 1
+Le Roi Tralossk de Tatalia vous propose un contrat de mercenaire. Il dÃ©sire que sa nation soit constituÃ©e d'autre chose que de marÃ©cages. Profitant des Ã©vÃ©nements qui ont rÃ©cemment perturbÃ©s Erathia, il a dÃ©cidÃ© qu'il Ã©tait grand temps d'Ã©tendre les frontiÃ¨res de Tatalia."	Neutral1	N1a	Map Area 1
 "{Minewell}
 
-Le Duc Winston Boragus, dirigeant de Krewlod, vous a offert un contrat de mercenaire qui nécessitera que vous accomplissiez un certain nombre de raids dans les territoires d'Erathia. L'objectif est de réussir à amasser suffisamment d'or pour permettre aux armées de Krewlod d'acheter ce dont elles auront besoin pour... faire d'autres choses."	Neutral1	N1b	Map Area 2
+Le Duc Winston Boragus, dirigeant de Krewlod, vous a offert un contrat de mercenaire qui nÃ©cessitera que vous accomplissiez un certain nombre de raids dans les territoires d'Erathia. L'objectif est de rÃ©ussir Ã  amasser suffisamment d'or pour permettre aux armÃ©es de Krewlod d'acheter ce dont elles auront besoin pour... faire d'autres choses."	Neutral1	N1b	Map Area 2
 "{Hillbridge}
 
-Le Roi Tralossk de Tatalia et le Duc Boragus de Krewlod ont tous les deux fait appel à vos services. Les deux nations ont l'intention de réclamer la dernière bande de terre qui sépare leurs pays. Ironiquement, cette terre n'a pas une très grande valeur. Vous allez devoir choisir votre camp. Et personne ne pourra faire ce choix pour vous."	Neutral1	N1c	Map Area 3
+Le Roi Tralossk de Tatalia et le Duc Boragus de Krewlod ont tous les deux fait appel Ã  vos services. Les deux nations ont l'intention de rÃ©clamer la derniÃ¨re bande de terre qui sÃ©pare leurs pays. Ironiquement, cette terre n'a pas une trÃ¨s grande valeur. Vous allez devoir choisir votre camp. Et personne ne pourra faire ce choix pour vous."	Neutral1	N1c	Map Area 3
 "{Forestlow}
 
-Un Nécromancien tente de rejoindre un avant-poste d'Erathia avec une preuve permettant d'identifier l'assassin du Roi Gryphonheart. Il est pour l'instant en sécurité, mais des Non-morts loyaux envers leur nouveau roi lui bloquent la route. Vous devez l'escorter pendant la dernière partie de son voyage."	Good3	G3a	Map Area 1
+Un NÃ©cromancien tente de rejoindre un avant-poste d'Erathia avec une preuve permettant d'identifier l'assassin du Roi Gryphonheart. Il est pour l'instant en sÃ©curitÃ©, mais des Non-morts loyaux envers leur nouveau roi lui bloquent la route. Vous devez l'escorter pendant la derniÃ¨re partie de son voyage."	Good3	G3a	Map Area 1
 "{Emerald Hills to Woodgrove}
 
-Vous prenez le contrôle des armées alliées d'Erathia, d'AvLee et de Bracada, ainsi que des quelques Nécromanciens ayant choisi de s'élever contre le Roi Gryphonheart. Les mort-vivants sont nombreux, mais vous vaincrez!"	Good3	G3b	Map Area 2
+Vous prenez le contrÃ´le des armÃ©es alliÃ©es d'Erathia, d'AvLee et de Bracada, ainsi que des quelques NÃ©cromanciens ayant choisi de s'Ã©lever contre le Roi Gryphonheart. Les mort-vivants sont nombreux, mais vous vaincrez!"	Good3	G3b	Map Area 2
 "{Marble Garden}
 
-C'est la bataille finale. Notre présence a déjà commencé à rendre vie à la terre, mais nous devons détruire la dernière forteresse de la mort dans laquelle le Roi Gryphonheart s'est replié. Il est grand temps pour les morts de retourner dans leur tombe."	Good3	G3c	Map Area 3
+C'est la bataille finale. Notre prÃ©sence a dÃ©jÃ  commencÃ© Ã  rendre vie Ã  la terre, mais nous devons dÃ©truire la derniÃ¨re forteresse de la mort dans laquelle le Roi Gryphonheart s'est repliÃ©. Il est grand temps pour les morts de retourner dans leur tombe."	Good3	G3c	Map Area 3
 "{Rionpoint}
 
-Avant qu'Erathia n'ait une chance d'appeler à l'aide les elfes d'AvLee, nous avons décidé de frapper le cœur de la force d'AvLee : la Reine Dragon d'Or. En éliminant le plus puissant allié des elfes, ils seront incapables d'aider Erathia."	Evil1	E1a	Map Area 1
+Avant qu'Erathia n'ait une chance d'appeler Ã  l'aide les elfes d'AvLee, nous avons dÃ©cidÃ© de frapper le cÅ“ur de la force d'AvLee : la Reine Dragon d'Or. En Ã©liminant le plus puissant alliÃ© des elfes, ils seront incapables d'aider Erathia."	Evil1	E1a	Map Area 1
 "{Grainrich}
 
-Nos forces couvriront la majeure partie du trajet les séparant de la capitale d'Erathia en traversant des tunnels souterrains. Afin de conserver l'élément de surprise, vous devrez attaquer toutes les installations d'Erathia que vous croiserez. Utilisez le vaste réseau de cavernes de cette région pour atteindre votre but."	Evil1	E1b	Map Area 2
+Nos forces couvriront la majeure partie du trajet les sÃ©parant de la capitale d'Erathia en traversant des tunnels souterrains. Afin de conserver l'Ã©lÃ©ment de surprise, vous devrez attaquer toutes les installations d'Erathia que vous croiserez. Utilisez le vaste rÃ©seau de cavernes de cette rÃ©gion pour atteindre votre but."	Evil1	E1b	Map Area 2
 "{Battlestead}
 
-Attaquez la capitale d'Erathia, Steadwick. La lutte sera rude, car la capitale est bien défendue. Pour corser les choses, les forces de la Reine Catherine sont en route. Nous devons capturer Steadwick avant son arrivée!"	Evil1	E1c	Map Area 3
+Attaquez la capitale d'Erathia, Steadwick. La lutte sera rude, car la capitale est bien dÃ©fendue. Pour corser les choses, les forces de la Reine Catherine sont en route. Nous devons capturer Steadwick avant son arrivÃ©e!"	Evil1	E1c	Map Area 3
 "{Marble Garden}
 
-Le Roi Gryphonheart, l'homme qui nous avait bannis d'Erathia, est mort. L'invasion des Nighon et des Eeofol nous a offert le don de la mort. Nous allons pouvoir lever nos armées et envahir Erathia nous-mêmes. Mais nous allons avoir besoin d'un tacticien. Vous devez trouver la tombe du Roi Gryphonheart."	Evil2	E2a	Map Area 1
+Le Roi Gryphonheart, l'homme qui nous avait bannis d'Erathia, est mort. L'invasion des Nighon et des Eeofol nous a offert le don de la mort. Nous allons pouvoir lever nos armÃ©es et envahir Erathia nous-mÃªmes. Mais nous allons avoir besoin d'un tacticien. Vous devez trouver la tombe du Roi Gryphonheart."	Evil2	E2a	Map Area 1
 "{Emerald Hills}
 
-Nous avons trouvé l'endroit idéal en bordure d'Erathia pour rassembler suffisamment de créatures pour nos armées sans attirer l'attention des Militaires d'Erathia. Levez une armée, mais soyez rapide. Nous avons cruellement besoin de troupes."	Evil2	E2b	Map Area 2
+Nous avons trouvÃ© l'endroit idÃ©al en bordure d'Erathia pour rassembler suffisamment de crÃ©atures pour nos armÃ©es sans attirer l'attention des Militaires d'Erathia. Levez une armÃ©e, mais soyez rapide. Nous avons cruellement besoin de troupes."	Evil2	E2b	Map Area 2
 "{Strongwillow & Woodgrove}
 
-Un Chevalier de la Mort rebelle refuse de participer à la glorieuse invasion d'Erathia. Il pense que ses terres seront épargnées par les Erathiens s'il reste neutre dans ce conflit. Il est grand temps de lui apprendre à obéir."	Evil2	E2c	Map Area 3
+Un Chevalier de la Mort rebelle refuse de participer Ã  la glorieuse invasion d'Erathia. Il pense que ses terres seront Ã©pargnÃ©es par les Erathiens s'il reste neutre dans ce conflit. Il est grand temps de lui apprendre Ã  obÃ©ir."	Evil2	E2c	Map Area 3
 "{Forestbury}
 
-L'heure est venue. Le Roi Gryphonheart a décidé qu'il était temps d'attaquer. Les armées de Deyja vont fondre sur Erathia. Le lieu de notre attaque a été choisi par le Roi Gryphonheart lui-même. Vous avez fait vœu de ne pas échouer."	Evil2	E2d	Map Area 4
+L'heure est venue. Le Roi Gryphonheart a dÃ©cidÃ© qu'il Ã©tait temps d'attaquer. Les armÃ©es de Deyja vont fondre sur Erathia. Le lieu de notre attaque a Ã©tÃ© choisi par le Roi Gryphonheart lui-mÃªme. Vous avez fait vÅ“u de ne pas Ã©chouer."	Evil2	E2d	Map Area 4
 "{Cloverfield}
 
-Avant de pouvoir déclarer notre indépendance, nous aurons besoin d'un symbole. Ce symbole est le Graal, perdu dans cette région il y a plusieurs siècles. Nous devons le retrouver, ou bien notre mouvement disparaîtra avant d'avoir eu le temps d'exister. Vous avez six semaines pour localiser le Graal."	Secret1	S1a	Map Area 1
+Avant de pouvoir dÃ©clarer notre indÃ©pendance, nous aurons besoin d'un symbole. Ce symbole est le Graal, perdu dans cette rÃ©gion il y a plusieurs siÃ¨cles. Nous devons le retrouver, ou bien notre mouvement disparaÃ®tra avant d'avoir eu le temps d'exister. Vous avez six semaines pour localiser le Graal."	Secret1	S1a	Map Area 1
 "{Forestdale}
 
-Le voyage à Welnin n'a pas été de tout repos, mais les derniers pas seront les plus difficiles. Ryland détient le Graal et doit échapper aux forces d'Erathia et d'AvLee et atteindre Welnin."	Secret1	S1b	Map Area 2
+Le voyage Ã  Welnin n'a pas Ã©tÃ© de tout repos, mais les derniers pas seront les plus difficiles. Ryland dÃ©tient le Graal et doit Ã©chapper aux forces d'Erathia et d'AvLee et atteindre Welnin."	Secret1	S1b	Map Area 2
 "{Mosswood}
 
-Le Graal est à Welnin, et nous devons maintenant faire de cette cité une capitale. Les armées d'Erathia et d'AvLee vont nous attaquer de toutes parts. Nous leur prouverons bientôt que ces terres ne leur appartiennent plus !"	Secret1	S1c	Map Area 3
+Le Graal est Ã  Welnin, et nous devons maintenant faire de cette citÃ© une capitale. Les armÃ©es d'Erathia et d'AvLee vont nous attaquer de toutes parts. Nous leur prouverons bientÃ´t que ces terres ne leur appartiennent plus !"	Secret1	S1c	Map Area 3

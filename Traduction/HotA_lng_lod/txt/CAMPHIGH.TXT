@@ -1,24 +1,24 @@
 Rank	Player	Land	Days	Score
 1	Sandro	La Mort ou la Vie	75	200
-2	Astral	La Clé de la Victoire	100	190
+2	Astral	La ClÃ© de la Victoire	100	190
 3	Oris	Un Pied dans la Tombe	125	180
-4	Lord Haart	Le Chevalier des Ténèbres	150	170
-5	Alamar	Les Frères Ennemis	175	160
+4	Lord Haart	Le Chevalier des TÃ©nÃ¨bres	150	170
+5	Alamar	Les FrÃ¨res Ennemis	175	160
 6	Styg	L'Archipel des Pirates	200	150
 7	Yog	La Grande Invasion	250	140
 8	Ajit	Les Cinq Cercles	500	130
-9	Iona	Le Mandat Céleste	750	120
-10	Tazar	Mythe et Légende	1000	100
-11	Votre Nom	Jouez un Scénario	2000	1
+9	Iona	Le Mandat CÃ©leste	750	120
+10	Tazar	Mythe et LÃ©gende	1000	100
+11	Votre Nom	Jouez un ScÃ©nario	2000	1
 Rank	Player	Campaign	Days	
-1	Fafner	Hommage au Père	500	1000
+1	Fafner	Hommage au PÃ¨re	500	1000
 2	Gretchin	Vive le Roi	550	875
 3	Gundula	Malheur au Vaincu	600	750
-4	Drakon	Libération	650	625
-5	Ingham	Donjons et Démons	700	500
-6	Tamika	Longue Vie à la Reine	750	375
+4	Drakon	LibÃ©ration	650	625
+5	Ingham	Donjons et DÃ©mons	700	500
+6	Tamika	Longue Vie Ã  la Reine	750	375
 7	Nymus	Graines de Discorde	800	250
-8	Malcom	Libération	850	225
+8	Malcom	LibÃ©ration	850	225
 9	Sorsha	Graines de Discorde	900	200
 10	Zydar	Vive le Roi	1000	150
 11	Votre Nom	Jouez une Campagne	2000	1

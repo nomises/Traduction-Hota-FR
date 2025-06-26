@@ -1,14 +1,14 @@
 Vaincre tous les Ennemis
-Trouver un Artéfact
-Recruter des Créatures
+Trouver un ArtÃ©fact
+Recruter des CrÃ©atures
 Accumuler des Ressources
-Améliorer une Ville
-Bâtir un Saint Graal
-Vaincre un Héros
+AmÃ©liorer une Ville
+BÃ¢tir un Saint Graal
+Vaincre un HÃ©ros
 S'Emparer d'une Ville
 Vaincre un Monstre
-Contrôler toutes les Demeures
-Contrôler toutes les Mines
-Apporter un Artéfact
-Éliminer tous les monstres errants
-Survivre jusqu'à une date donnée
+ContrÃ´ler toutes les Demeures
+ContrÃ´ler toutes les Mines
+Apporter un ArtÃ©fact
+Ã‰liminer tous les monstres errants
+Survivre jusqu'Ã  une date donnÃ©e

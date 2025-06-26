@@ -1,9 +1,9 @@
 Interdiction d'Entrer
-Entrée Interdite
-Accès Interdit
-Réservé aux Membres
-Rester à l'Écart
-Entrez à vos propres risques
+EntrÃ©e Interdite
+AccÃ¨s Interdit
+RÃ©servÃ© aux Membres
+Rester Ã  l'Ã‰cart
+Entrez Ã  vos propres risques
 Danger
 La fin est proche
 Attention aux Dragons !
@@ -16,11 +16,11 @@ Campement - 10 lieues
 Respectez les lieux
 Interdit aux Morts-Vivants
 Interdit aux Vivants
-Entrée - 2 pièces d'Or
-Arrêt Autorisé
+EntrÃ©e - 2 piÃ¨ces d'Or
+ArrÃªt AutorisÃ©
 Table d'Orientation
 Trajet de Nuit Interdit
-Traversée de Cerfs
+TraversÃ©e de Cerfs
 Ralentissez
 90 minutes d'attente
 Passez votre chemin

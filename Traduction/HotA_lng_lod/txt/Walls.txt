@@ -5,16 +5,16 @@ Pont-Levis	0
 Corde du Pont-Levis	0	
 Douves	0	
 Bord des Douves	0	
-Mur Arrière	0	
-Tour Supérieure	2	
-Mur Supérieur	2	
-Contrefort Supérieur	0	
+Mur ArriÃ¨re	0	
+Tour SupÃ©rieure	2	
+Mur SupÃ©rieur	2	
+Contrefort SupÃ©rieur	0	
 Mur Moyen-Haut	2	
 Portail	2	
 Mur Moyen-Bas	2	
-Contrefort Inférieur	0	
-Mur Inférieur	2	
-Tour Inférieure	2	
+Contrefort InfÃ©rieur	0	
+Mur InfÃ©rieur	2	
+Tour InfÃ©rieure	2	
 Donjon	2	
 Couv Donjon	0	
 Couv Tour Sup	0	
@@ -25,16 +25,16 @@ Pont-Levis	0
 Corde du Pont-Levis	0	
 Douves	0	
 Bord des Douves	0	
-Mur Arrière	0	
-Tour Supérieure	2	
-Mur Supérieur	2	
-Contrefort Supérieur	0	
+Mur ArriÃ¨re	0	
+Tour SupÃ©rieure	2	
+Mur SupÃ©rieur	2	
+Contrefort SupÃ©rieur	0	
 Mur Moyen-Haut	2	
 Portail	2	
 Mur Moyen-Bas	2	
-Contrefort Inférieur	0	
-Mur Inférieur	2	
-Tour Inférieure	2	
+Contrefort InfÃ©rieur	0	
+Mur InfÃ©rieur	2	
+Tour InfÃ©rieure	2	
 Donjon	2	
 Couv Donjon	0	
 Couv Tour Sup	0	
@@ -45,16 +45,16 @@ Pont-Levis	0
 Corde du Pont-Levis	0	
 Douves	0	
 Bord des Douves	0	
-Mur Arrière	0	
-Tour Supérieure	2	
-Mur Supérieur	2	
-Contrefort Supérieur	0	
+Mur ArriÃ¨re	0	
+Tour SupÃ©rieure	2	
+Mur SupÃ©rieur	2	
+Contrefort SupÃ©rieur	0	
 Mur Moyen-Haut	2	
 Portail	2	
 Mur Moyen-Bas	2	
-Contrefort Inférieur	0	
-Mur Inférieur	2	
-Tour Inférieure	2	
+Contrefort InfÃ©rieur	0	
+Mur InfÃ©rieur	2	
+Tour InfÃ©rieure	2	
 Donjon	2	
 Couv Donjon	0	
 Couv Tour Sup	0	
@@ -65,16 +65,16 @@ Pont-Levis	0
 Corde du Pont-Levis	0
 Douves	0
 Bord des Douves	0
-Mur Arrière	0
-Tour Supérieure	2
-Mur Supérieur	2
-Contrefort Supérieur	0
+Mur ArriÃ¨re	0
+Tour SupÃ©rieure	2
+Mur SupÃ©rieur	2
+Contrefort SupÃ©rieur	0
 Mur Moyen-Haut	2
 Portail	2
 Mur Moyen-Bas	2
-Contrefort Inférieur	0
-Mur Inférieur	2
-Tour Inférieure	2
+Contrefort InfÃ©rieur	0
+Mur InfÃ©rieur	2
+Tour InfÃ©rieure	2
 Donjon	2
 Couv Donjon	0
 Couv Tour Sup	0
@@ -85,16 +85,16 @@ Pont-Levis	0
 Corde du Pont-Levis	0	
 Douves	0	
 Bord des Douves	0	
-Mur Arrière	0	
-Tour Supérieure	2	
-Mur Supérieur	2	
-Contrefort Supérieur	0	
+Mur ArriÃ¨re	0	
+Tour SupÃ©rieure	2	
+Mur SupÃ©rieur	2	
+Contrefort SupÃ©rieur	0	
 Mur Moyen-Haut	2	
 Portail	2	
 Mur Moyen-Bas	2	
-Contrefort Inférieur	0	
-Mur Inférieur	2	
-Tour Inférieure	2	
+Contrefort InfÃ©rieur	0	
+Mur InfÃ©rieur	2	
+Tour InfÃ©rieure	2	
 Donjon	2	
 Couv Donjon	0	
 Couv Tour Sup	0	
@@ -105,16 +105,16 @@ Pont-Levis	0
 Corde du Pont-Levis	0	
 Douves	0	
 Bord des Douves	0	
-Mur Arrière	0	
-Tour Supérieure	2	
-Mur Supérieur	2	
-Contrefort Supérieur	0	
+Mur ArriÃ¨re	0	
+Tour SupÃ©rieure	2	
+Mur SupÃ©rieur	2	
+Contrefort SupÃ©rieur	0	
 Mur Moyen-Haut	2	
 Portail	2	
 Mur Moyen-Bas	2	
-Contrefort Inférieur	0	
-Mur Inférieur	2	
-Tour Inférieure	2	
+Contrefort InfÃ©rieur	0	
+Mur InfÃ©rieur	2	
+Tour InfÃ©rieure	2	
 Donjon	2	
 Couv Donjon	0	
 Couv Tour Sup	0	
@@ -125,16 +125,16 @@ Pont-Levis	0
 Corde du Pont-Levis	0	
 Douves	0	
 Bord des Douves	0	
-Mur Arrière	0	
-Tour Supérieure	2	
-Mur Supérieur	2	
-Contrefort Supérieur	0	
+Mur ArriÃ¨re	0	
+Tour SupÃ©rieure	2	
+Mur SupÃ©rieur	2	
+Contrefort SupÃ©rieur	0	
 Mur Moyen-Haut	2	
 Portail	2	
 Mur Moyen-Bas	2	
-Contrefort Inférieur	0	
-Mur Inférieur	2	
-Tour Inférieure	2	
+Contrefort InfÃ©rieur	0	
+Mur InfÃ©rieur	2	
+Tour InfÃ©rieure	2	
 Donjon	2	
 Couv Donjon	0	
 Couv Tour Sup	0	
@@ -145,16 +145,16 @@ Pont-Levis	0
 Corde du Pont-Levis	0
 Douves	0
 Bord des Douves	0
-Mur Arrière	0
-Tour Supérieure	2
-Mur Supérieur	2
-Contrefort Supérieur	0
+Mur ArriÃ¨re	0
+Tour SupÃ©rieure	2
+Mur SupÃ©rieur	2
+Contrefort SupÃ©rieur	0
 Mur Moyen-Haut	2
 Portail	2
 Mur Moyen-Bas	2
-Contrefort Inférieur	0
-Mur Inférieur	2
-Tour Inférieure	2
+Contrefort InfÃ©rieur	0
+Mur InfÃ©rieur	2
+Tour InfÃ©rieure	2
 Donjon	2
 Couv Donjon	0
 Couv Tour Sup	0
@@ -162,19 +162,19 @@ Couv Tour Inf	0
 
 Conflux		
 Pont-Levis	0	
-Chaîne du Pont-Levis	0	
+ChaÃ®ne du Pont-Levis	0	
 Douves	0	
 Bord des Douves	0	
-Mur Arrière	0	
-Tour Supérieure	2	
-Mur Supérieur	2	
-Contrefort Supérieur	0	
+Mur ArriÃ¨re	0	
+Tour SupÃ©rieure	2	
+Mur SupÃ©rieur	2	
+Contrefort SupÃ©rieur	0	
 Mur Moyen-Haut	2	
 Portail	2	
 Mur Moyen-Bas	2	
-Contrefort Inférieur	0	
-Mur Inférieur	2	
-Tour Inférieure	2
+Contrefort InfÃ©rieur	0	
+Mur InfÃ©rieur	2	
+Tour InfÃ©rieure	2
 Donjon	2
 Couv Donjon	0
 Couv Tour Sup	0
