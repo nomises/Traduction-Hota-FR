@@ -41,7 +41,7 @@ Ce projet vise à traduire en français l’extension Horn of the Abyss (HotA) p
     - Assurez-vous qu'il y a un fichier anglais lorsqu'il n'est pas déjà présent.
     - Passez votre traduction dans un correcteur, style **Antidote** ou **[IA](https://www.zerogpt.com/grammar-checker)**.
 
-# Comment faire
+# Comment faire ?
 
 ## GitHub
 
