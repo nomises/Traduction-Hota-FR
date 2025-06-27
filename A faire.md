@@ -68,6 +68,49 @@
 * vcdesc.txt
 * Walls.txt
 
+## h3c (campagne)
+### Traduire
+* H1Roger.h3c
+	* Mission 1
+	* Mission 2
+	* mission 3
+* H2Terror.h3c
+	* Mission 1
+	* Mission 2
+	* mission 3
+    * mission 4
+    * mission 5
+    * mission 6
+* H3Horn.h3c
+	* Mission 1
+	* Mission 2
+	* mission 3
+    * mission 4
+* H4Fact.h3c
+	* Mission 1
+	* Mission 2
+	* mission 3
+    * mission 4
+    * mission 5
+    * mission 6
+    * mission 7
+    * mission 8
+* H5AllIn.h3c
+	* Mission 1
+	* Mission 2
+	* mission 3
+    * mission 4
+    * mission 5
+
+# Bonus
+## Campaign editor
+### Traduction 
+* cmp_en.ts
+
+## Rmg Template Editor
+### Traduction
+* en.ts
+
 ## Maps
 ### Traduire
 * Air Tyrants.txt
@@ -146,46 +189,3 @@
 * Ville'de'Porte.txt
 * When Seas Were Deeper.txt
 * With Sword and Fire.txt
-
-## h3c (campagne)
-### Traduire
-* H1Roger.h3c
-	* Mission 1
-	* Mission 2
-	* mission 3
-* H2Terror.h3c
-	* Mission 1
-	* Mission 2
-	* mission 3
-    * mission 4
-    * mission 5
-    * mission 6
-* H3Horn.h3c
-	* Mission 1
-	* Mission 2
-	* mission 3
-    * mission 4
-* H4Fact.h3c
-	* Mission 1
-	* Mission 2
-	* mission 3
-    * mission 4
-    * mission 5
-    * mission 6
-    * mission 7
-    * mission 8
-* H5AllIn.h3c
-	* Mission 1
-	* Mission 2
-	* mission 3
-    * mission 4
-    * mission 5
-
-# Bonus
-## Campaign editor
-### Traduction 
-* cmp_en.ts
-
-## Rmg Template Editor
-### Traduction
-* en.ts
