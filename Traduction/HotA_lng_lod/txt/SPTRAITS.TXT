@@ -39,39 +39,43 @@ Détruit un de vos bateaux présent dans votre champ de vision. À utiliser prud
 "	 ADV_SPELL
 Divination	Divination	2	x	x	x	x	4	2	2	2	0	1	1	2	3	2	2	2	4	2	2	2	2	2	1	1	1	1	"{Divination}
 
-Indique les effectifs des monstres errants et précise s'ils sont prêts à rejoindre l'armée du Héros.
+Indique les effectifs des monstres errants et précise s'ils sont prêts à rejoindre l'armée du Héros. La portée est équivalant a la magie ou trois, selon le plus grand. Valide pour 1 tour.
 "	"{Divination pour Novice}
 
-Indique les effectifs des monstres errants et précise s'ils sont prêts à rejoindre l'armée du Héros. 
+Indique les effectifs des monstres errants et précise s'ils sont prêts à rejoindre l'armée du Héros. La portée est équivalant a la magie ou trois, selon le plus grand. Valide pour 1 tour.
 "	"{Divination pour Disciple}
 
-Indique les effectifs des monstres errants et précise s'ils sont prêts à rejoindre l'armée du Héros. Les caractéristiques des héros ennemis sont précisées ainsi que les effectifs de leurs armées respectives."	"{Divination pour Maître}
+Indique les effectifs des monstres errants et précise s'ils sont prêts à rejoindre l'armée du Héros. Les caractéristiques des héros ennemis sont précisées ainsi que les effectifs de leurs armées respectives. La portée est équivalant a la magie x 2 ou trois, selon le plus grand. Valide pour 1 tour.
+"	"{Divination pour Maître}
 
 Indique les effectifs des monstres errants et précise s'ils sont prêts à rejoindre l'armée du Héros. Les caractéristiques des héros ennemis sont précisées ainsi que les effectifs de leurs armées respectives. Vous obtenez également des informations sur les villes et garnisons ennemies.
 "	 ADV_SPELL
 Parole des Pierres	Par. des Pierres	1	x				2	1	1	1	0	0	0	0	0	3	3	3	3	3	3	3	3	3	1	1	1	1	"{Parole des Pierres}
 
-Révèle l'emplacement de toutes les ressources au lanceur de sort. 
+Révèle l'emplacement de toutes les ressources au lanceur de sort. Après avoir été lancé, l'information peut être vue a nouveau avec la carte jusqu'a la fin du tour.
 "	"{Parole des Pierres pour Novice}
 
-Révèle l'emplacement de toutes les ressources au lanceur de sort. 
+Révèle l'emplacement de toutes les ressources au lanceur de sort. Après avoir été lancé, l'information peut être vue a nouveau avec la carte jusqu'a la fin du tour.
 "	"{Parole des Pierres pour Disciple}
 
-Révèle l'emplacement de toutes les ressources et mines au lanceur de sort. 
+Révèle l'emplacement de toutes les ressources et mines au lanceur de sort. Après avoir été lancé, l'information peut être vue a nouveau avec la carte jusqu'a la fin du tour.
 "	"{Parole des Pierres pour Maître}
 
 Révèle l'emplacement de toutes les ressources, mines et terrains au lanceur de sort. 
 "	 ADV_SPELL
 Illusion	Illusion	2	 	 	 	x	4	2	2	2	0	0	0	0	0	2	2	2	4	2	2	2	0	2	1	1	1	1	"{Illusion}
 
-Fournit de fausses informations à l'ennemi.
+Bien que les effectifs de vos troupes soient correctement signalés à l'ennemi, toutes vos unités ressemblent à votre créature la plus puissante. Les effectifs indiqués sont inchangé.
 "	"{Illusion pour Novice}
 
-Bien que les effectifs de vos troupes soient correctement signalés à l'ennemi, toutes vos unités ressemblent à votre créature la plus puissante."	"{Illusion pour Disciple}
+Bien que les effectifs de vos troupes soient correctement signalés à l'ennemi, toutes vos unités ressemblent à votre créature la plus puissante. Les effectifs indiqués sont inchangé.
+"	"{Illusion pour Disciple}
 
-Pour l'ennemi, toutes vos unités ressemblent à votre créature la plus puissante. Les effectifs indiqués sont de 0. "	"{Illusion pour Maître}
+Pour l'ennemi, toutes vos unités ressemblent à votre créature la plus puissante. Les effectifs indiqués sont de 0. 
+"	"{Illusion pour Maître}
 
-Pour l'ennemi, toutes vos unités ressemblent à la créature la plus puissante que vous puissiez recruter dans votre ville de départ. Les effectifs indiqués sont de 0. "	 ADV_SPELL
+Pour l'ennemi, toutes vos unités ressemblent à la créature la plus puissante que vous puissiez recruter dans votre ville de départ. Les effectifs indiqués sont de 0. 
+"	 ADV_SPELL
 Parole des Vents	Par. des Vents	1				x	2	1	1	1	0	0	0	0	0	3	3	3	3	3	3	3	3	3	1	1	1	1	"{Parole des Vents}
 
 Révèle au lanceur de sorts où se trouvent les artéfacts à l'abandon. 
