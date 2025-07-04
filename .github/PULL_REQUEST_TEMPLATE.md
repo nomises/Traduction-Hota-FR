@@ -11,5 +11,9 @@
 - [ ] Glossaire mis à jour si besoin  
 - [ ] Ajout du fichier anglais si besoin  
 - [ ] Le nom de la pull request est le même nom que le fichier traduit  
+- [ ] Un correcteur a été passé
+
+### Chemin du fichier de comparaison
+`Chemin du fichier`
 
 ## Commentaires a ajouté
