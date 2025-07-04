@@ -566,110 +566,150 @@ Les créatures de toutes les troupes alliées infligent un maximum de dégâts +
 "	 COMBAT_SPELL|CREATURE_TARGET_2
 Malédiction	Malédiction	1	 		x	 	6	5	5	5	0	0	0	1	1	0	0	3	5	10	5	0	0	0	10	10	11	11	"{Malédiction}
 
-La troupe visée n'inflige que le minimum de dégâts possibles lors de ses attaques. Annule Bénédiction et n'affecte pas les morts-vivants. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Malédiction pour Novice}
+La troupe visée n'inflige que le minimum de dégâts possibles lors de ses attaques. Annule Bénédiction et n'affecte pas les morts-vivants. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	"{Malédiction pour Novice}
 
-La troupe visée n'inflige que le minimum de dégâts possibles lors de ses attaques. Annule Bénédiction et n'affecte pas les morts-vivants. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Malédiction pour Disciple}
+La troupe visée n'inflige que le minimum de dégâts possibles lors de ses attaques. Annule Bénédiction et n'affecte pas les morts-vivants. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	"{Malédiction pour Disciple}
 
-La troupe visée n'inflige que le minimum de dégâts possibles -1 point, lors de ses attaques. Annule Bénédiction et n'affecte pas les morts-vivants. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Malédiction pour Maître}
+La troupe visée n'inflige que le minimum de dégâts possibles -1 point, lors de ses attaques. Annule Bénédiction et n'affecte pas les morts-vivants. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	"{Malédiction pour Maître}
 
-Toutes les troupes ennemies n'infligent que le minimum de dégâts possibles -1 point, lors de leurs attaques. Annule Bénédiction et n'affecte pas les morts-vivants. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	 COMBAT_SPELL|CREATURE_TARGET_2
+Toutes les troupes ennemies n'infligent que le minimum de dégâts possibles -1 point, lors de leurs attaques. Annule Bénédiction et n'affecte pas les morts-vivants. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
 Furie Sanguinaire	Furie S.	1	 	 	x	 	5	4	4	4	0	3	3	6	6	0	0	0	10	5	5	10	5	5	7	7	15	15	"{Furie Sanguinaire}
 
-La caractéristique d'Attaque de la troupe visée augmente lors des corps-à-corps. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Furie Sanguinaire pour Novice}
+La caractéristique d'Attaque de la troupe visée est augmentée de 3 points lors des corps-à-corps. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	"{Furie Sanguinaire pour Novice}
 
-La caractéristique d'Attaque de la troupe visée est augmentée de 3 points lors des corps-à-corps. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Furie Sanguinaire pour Disciple}
+La caractéristique d'Attaque de la troupe visée est augmentée de 3 points lors des corps-à-corps. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	"{Furie Sanguinaire pour Disciple}
 
-La caractéristique d'Attaque de la troupe visée est augmentée de 6 points lors des corps-à-corps. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Furie Sanguinaire pour Maître}
+La caractéristique d'Attaque de la troupe visée est augmentée de 6 points lors des corps-à-corps. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	"{Furie Sanguinaire pour Maître}
 
-La caractéristique d'Attaque de toutes les unités alliées est augmentée de 6 points lors des corps-à-corps. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	 COMBAT_SPELL|CREATURE_TARGET_2
+La caractéristique d'Attaque de toutes les unités alliées est augmentée de 6 points lors des corps-à-corps. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
 Précision	Précision	2	 	 	 	x	8	6	6	6	0	3	3	6	6	6	6	4	8	2	6	4	4	2	7	7	15	15	"{Précision}
 
-L'unité sur laquelle vous lancez ce sort voit sa caractéristique d'Attaque à distance augmentée. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Précision pour Novice}
+L'unité sur laquelle vous lancez ce sort voit sa caractéristique d'Attaque à distance augmentée de 3 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	"{Précision pour Novice}
 
-L'unité sur laquelle vous lancez ce sort voit sa caractéristique d'Attaque à distance augmentée de 3 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Précision pour Disciple}
+L'unité sur laquelle vous lancez ce sort voit sa caractéristique d'Attaque à distance augmentée de 3 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	"{Précision pour Disciple}
 
-L'unité sur laquelle vous lancez ce sort voit sa caractéristique d'Attaque à distance augmentée de 6 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Précision pour Maître}
+L'unité sur laquelle vous lancez ce sort voit sa caractéristique d'Attaque à distance augmentée de 6 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	"{Précision pour Maître}
 
-Toutes les unités alliées bénéficient d'une caractéristique d'Attaque à distance augmentée de 6 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros"	 COMBAT_SPELL|CREATURE_TARGET_2
+Toutes les unités alliées bénéficient d'une caractéristique d'Attaque à distance augmentée de 6 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros
+"	 COMBAT_SPELL|CREATURE_TARGET_2
 Faiblesse	Faiblesse	2	 	x	 	 	8	6	6	6	0	3	3	6	6	2	2	2	8	4	4	4	4	4	7	7	15	15	"{Faiblesse}
 
-La caractéristique d'Attaque de la troupe ennemie visée est réduite. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Faiblesse pour Novice}
+La caractéristique d'Attaque de la troupe ennemie visée est réduite de 3 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	"{Faiblesse pour Novice}
 
-La caractéristique d'Attaque de la troupe ennemie visée est réduite de 3 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Faiblesse pour Disciple}
+La caractéristique d'Attaque de la troupe ennemie visée est réduite de 3 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	"{Faiblesse pour Disciple}
 
-La caractéristique d'Attaque de la troupe ennemie visée est réduite de 6 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Faiblesse pour Maître}
+La caractéristique d'Attaque de la troupe ennemie visée est réduite de 6 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	"{Faiblesse pour Maître}
 
-La caractéristique d'Attaque de toutes les troupes ennemies est réduite de 6 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	 COMBAT_SPELL|CREATURE_TARGET_2
+La caractéristique d'Attaque de toutes les troupes ennemies est réduite de 6 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
 Carapace	Carapace	1	x	 	 	 	5	4	4	4	0	3	3	6	6	5	5	10	5	10	5	10	5	5	7	7	15	15	"{Carapace}
 
-La caractéristique de Défense de l'unité visée est augmentée. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Carapace pour Novice}
+La caractéristique de Défense de l'unité visée est augmentée de 3 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	"{Carapace pour Novice}
 
-La caractéristique de Défense de l'unité visée est augmentée de 3 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Carapace pour Disciple}
+La caractéristique de Défense de l'unité visée est augmentée de 3 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	"{Carapace pour Disciple}
 
-La caractéristique de Défense de l'unité visée est augmentée de 6 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Carapace pour Maître}
+La caractéristique de Défense de l'unité visée est augmentée de 6 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	"{Carapace pour Maître}
 
-La caractéristique de Défense de toutes les unités alliées est augmentée de 6 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	 COMBAT_SPELL|CREATURE_TARGET_2
+La caractéristique de Défense de toutes les unités alliées est augmentée de 6 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
 Confusion	Confusion	2	 	 	 	x	10	8	8	8	0	3	3	4	5	6	4	6	12	4	6	6	6	8	7	7	15	15	"{Confusion}
 
-La caractéristique de Défense de la troupe ennemie visée est réduite. Il est possible de lancer ce sort plusieurs fois sur la même unité, les effets se cumulant. La durée du sort Confusion est illimitée."	"{Confusion pour Novice}
+La caractéristique de Défense de la troupe ennemie visée est réduite de 3 points. Il est possible de lancer ce sort plusieurs fois sur la même unité, les effets se cumulent. Les effets perdurent même après la mort et la résurrection d'une unité. La durée du sort Confusion est illimitée.
+"	"{Confusion pour Novice}
 
-La caractéristique de Défense de la troupe ennemie visée est réduite de 3 points. Il est possible de lancer ce sort plusieurs fois sur la même unité, les effets se cumulant. Les effets perdurent même après la mort et la résurrection d'une unité. La durée du sort Confusion est illimitée."	"{Confusion pour Disciple}
+La caractéristique de Défense de la troupe ennemie visée est réduite de 3 points. Il est possible de lancer ce sort plusieurs fois sur la même unité, les effets se cumulent. Les effets perdurent même après la mort et la résurrection d'une unité. La durée du sort Confusion est illimitée.
+"	"{Confusion pour Disciple}
 
-La caractéristique de Défense de la troupe ennemie visée est réduite de 4 points. Il est possible de lancer ce sort plusieurs fois sur la même unité, les effets se cumulant. Les effets perdurent même après la mort et la résurrection d'une unité. La durée du sort Confusion est illimitée."	"{Confusion pour Maître}
+La caractéristique de Défense de la troupe ennemie visée est réduite de 4 points. Il est possible de lancer ce sort plusieurs fois sur la même unité, les effets se cumulent. Les effets perdurent même après la mort et la résurrection d'une unité. La durée du sort Confusion est illimitée.
+"	"{Confusion pour Maître}
 
-La caractéristique de Défense de la troupe ennemie visée est réduite de 5 points. Il est possible de lancer ce sort plusieurs fois sur la même unité, les effets se cumulant. Les effets perdurent même après la mort et la résurrection d'une unité. La durée du sort Confusion est illimitée."	 COMBAT_SPELL|CREATURE_TARGET_2
+La caractéristique de Défense de la troupe ennemie visée est réduite de 5 points. Il est possible de lancer ce sort plusieurs fois sur la même unité, les effets se cumulent. Les effets perdurent même après la mort et la résurrection d'une unité. La durée du sort Confusion est illimitée.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
 Faveur Divine	Faveur	4	 	x	 	 	16	12	12	12	0	2	2	4	4	10	5	5	0	0	0	0	0	5	8	8	16	16	"{Faveur Divine}
 
-Les caractéristiques d'Attaque, de Défense et de vitesse de l'unité visée sont augmentées. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Faveur Divine pour Novice}
+Les caractéristiques d'Attaque, de Défense et de vitesse de la troupe visée sont augmentées de 2 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	"{Faveur Divine pour Novice}
 
-Les caractéristiques d'Attaque, de Défense et de vitesse de l'unité visée sont augmentées de 2 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Faveur Divine pour Disciple}
+Les caractéristiques d'Attaque, de Défense et de vitesse de la troupe visée sont augmentées de 2 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	"{Faveur Divine pour Disciple}
 
-Les caractéristiques d'Attaque, de Défense et de vitesse de l'unité visée sont augmentées de 4 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Faveur Divine pour Maître}
+Les caractéristiques d'Attaque, de Défense et de vitesse de la troupe visée sont augmentées de 4 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	"{Faveur Divine pour Maître}
 
-Les caractéristiques d'Attaque, de Défense et de vitesse de toutes les unités alliées sont augmentées de 4 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	 COMBAT_SPELL|CREATURE_TARGET_2
+Les caractéristiques d'Attaque, de Défense et de vitesse de toutes les troupes alliées sont augmentées de 4 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
 Félicité	Félicité	3	 	x	 	 	12	9	9	9	0	1	1	2	2	4	4	4	2	4	4	12	2	4	1	1	2	2	"{Félicité}
 
-Le Moral de l'unité visée est augmenté. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+Le Moral de la troupe visée est augmenté de 1 point. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
 "	"{Félicité pour Novice}
 
-Le Moral de l'unité visée est augmenté de 1 point. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+Le Moral de la troupe visée est augmenté de 1 point. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
 "	"{Félicité pour Disciple}
 
-Le Moral de l'unité visée est augmenté de 2 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+Le Moral de la troupe visée est augmenté de 2 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
 "	"{Félicité pour Maître}
 
-Le Moral de toutes les unités alliées est augmenté de 2 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+Le Moral de toutes les troupes alliées est augmenté de 2 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
 "	 COMBAT_SPELL|CREATURE_TARGET_2|MIND_SPELL
 Chagrin	Chagrin	4	x	 	 	 	16	12	12	12	0	1	1	2	2	5	5	5	5	5	5	0	0	5	1	1	2	2	"{Chagrin}
 
-Le Moral de la troupe visée est réduit. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Chagrin pour Novice}
+Le Moral de la troupe visée est réduit. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	"{Chagrin pour Novice}
 
-Le Moral de la troupe visée est réduit de 1 point. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Chagrin pour Disciple}
+Le Moral de la troupe visée est réduit de 1 point. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	"{Chagrin pour Disciple}
 
-Le Moral de la troupe visée est réduit de 2 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Chagrin pour Maître}
+Le Moral de la troupe visée est réduit de 2 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	"{Chagrin pour Maître}
 
-Le Moral de toutes les troupes ennemies est réduit de 2 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	 COMBAT_SPELL|CREATURE_TARGET_2|MIND_SPELL
+Le Moral de toutes les troupes ennemies est réduit de 2 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	 COMBAT_SPELL|CREATURE_TARGET_2|MIND_SPELL
 Bonne Fortune	B. Fortune	2	 	 	 	x	7	5	5	5	0	1	1	2	2	4	6	4	4	2	2	4	4	2	1	1	2	2	"{Bonne Fortune}
 
-La Chance de l'unité visée est augmentée. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Bonne Fortune pour Novice}
+La Chance de la troupe visée est augmentée de 1 point. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	"{Bonne Fortune pour Novice}
 
-La Chance de l'unité visée est augmentée de 1 point. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Bonne Fortune pour Disciple}
+La Chance de la troupe visée est augmentée de 1 point. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	"{Bonne Fortune pour Disciple}
 
-La Chance de l'unité visée est augmentée de 2 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Bonne Fortune pour Maître}
+La Chance de la troupe visée est augmentée de 2 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	"{Bonne Fortune pour Maître}
 
-La Chance de toutes les unités alliées est augmentée de 2 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	 COMBAT_SPELL|CREATURE_TARGET_2
+La Chance de toutes les troupes alliées est augmentée de 2 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
 Malchance	Malchance	3	 	 	x	 	12	9	9	9	0	1	1	2	2	4	4	4	6	8	4	4	2	4	1	1	2	2	"{Malchance}
 
-La Chance de la troupe visée est réduite. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Malchance pour Novice}
+La Chance de la troupe visée est réduite de 1 point. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	"{Malchance pour Novice}
 
-La Chance de la troupe visée est réduite de 1 point. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Malchance pour Disciple}
+La Chance de la troupe visée est réduite de 1 point. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	"{Malchance pour Disciple}
 
-La Chance de la troupe visée est réduite de 2 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Malchance pour Maître}
+La Chance de la troupe visée est réduite de 2 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	"{Malchance pour Maître}
 
-La Chance de toutes les troupes ennemies est réduite de 2 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	 COMBAT_SPELL|CREATURE_TARGET_2
+La Chance de toutes les troupes ennemies est réduite de 2 points. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
 Hâte	Hâte	1		 	 	x	6	5	5	5	0	3	3	5	5	5	10	5	5	5	10	5	10	10	5	5	10	10	"{Hâte}
 
-La vitesse de la troupe alliée visée est augmentée. Annule en même temps le sort Lenteur. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+La troupe alliée visée se déplace de 3 hexagones supplémentaires par tour. Annule en même temps le sort Lenteur. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
 "	"{Hâte pour Novice}
 
 La troupe alliée visée se déplace de 3 hexagones supplémentaires par tour. Annule en même temps le sort Lenteur. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
@@ -682,121 +722,178 @@ Toutes les troupes alliées se déplacent de 5 hexagones supplémentaires par to
 "	 COMBAT_SPELL|CREATURE_TARGET_2
 Lenteur	Lenteur	1	x	 	 	 	6	5	5	5	0	75	75	50	50	5	10	10	10	5	5	5	5	10	5	5	15	15	"{Lenteur}
 
-L'unité visée voit sa caractéristique de vitesse réduite. Annule en même temps le sort Hâte. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Lenteur pour Novice}
+Réduit la vitesse de l'unité visée par la formule (ancienne vitesse x 0.75). Annule en même temps le sort Hâte. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	"{Lenteur pour Novice}
 
-Réduit la vitesse de l'unité visée par la formule (ancienne vitesse x 0.75). Annule en même temps le sort Hâte. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Lenteur pour Disciple}
+Réduit la vitesse de l'unité visée par la formule (ancienne vitesse x 0.75). Annule en même temps le sort Hâte. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	"{Lenteur pour Disciple}
 
-Réduit la vitesse de l'unité visée par la formule (ancienne vitesse x 0.50 + 1). Annule en même temps le sort Hâte. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Lenteur pour Maître}
+Réduit la vitesse de l'unité visée par la formule (ancienne vitesse x 0.50 + 1). Annule en même temps le sort Hâte. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	"{Lenteur pour Maître}
 
-Réduit la vitesse des unités ennemies par la formule (ancienne vitesse x 0.50 + 1). Annule en même temps le sort Hâte. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	 COMBAT_SPELL|CREATURE_TARGET_2
+Réduit la vitesse des unités ennemies par la formule (ancienne vitesse x 0.50 + 1). Annule en même temps le sort Hâte. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
 Pourfendeur	Pourfendeur	4	 		x	 	16	12	12	12	0	8	8	8	8	5	5	5	5	5	5	0	0	5	1	1	1	1	"{Pourfendeur}
 
-L'unité visée voit sa caractéristique d'Attaque augmentée contre les créatures de Niveau 7. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Pourfendeur pour Novice}
+L'unité visée voit sa caractéristique d'Attaque augmentée de 8 points contre les Béhémoths, les Dragons, les Hydres, les Oiseaux de Feu, les Serpents de Mer et les Couatls. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	"{Pourfendeur pour Novice}
 
-L'unité visée voit sa caractéristique d'Attaque augmentée de 8 points contre les Béhémoths, les Dragons, les Hydres, les Oiseaux de Feu, les Serpents de Mer et les Couatls. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Pourfendeur pour Disciple}
+L'unité visée voit sa caractéristique d'Attaque augmentée de 8 points contre les Béhémoths, les Dragons, les Hydres, les Oiseaux de Feu, les Serpents de Mer et les Couatls. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	"{Pourfendeur pour Disciple}
 
-L'unité visée voit sa caractéristique d'Attaque augmentée de 8 points contre les Béhémoths, les Dragons, les Hydres, les Oiseaux de Feu, les Serpents de Mer, les Couatls, les Diables et les Anges. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Pourfendeur pour Maître}
+L'unité visée voit sa caractéristique d'Attaque augmentée de 8 points contre les Béhémoths, les Dragons, les Hydres, les Oiseaux de Feu, les Serpents de Mer, les Couatls, les Diables et les Anges. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	"{Pourfendeur pour Maître}
 
-L'unité visée voit sa caractéristique d'Attaque augmentée de 8 points contre les Béhémoths, les Dragons, les Hydres, les Oiseaux de Feu, les Serpents de Mer, les Couatls, les Diables, les Anges, les Démolisseurs et les Titans. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	 COMBAT_SPELL|CREATURE_TARGET
+L'unité visée voit sa caractéristique d'Attaque augmentée de 8 points contre les Béhémoths, les Dragons, les Hydres, les Oiseaux de Feu, les Serpents de Mer, les Couatls, les Diables, les Anges, les Démolisseurs et les Titans. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	 COMBAT_SPELL|CREATURE_TARGET
 Foudre de Guerre	Foudre de G.	4	 	 	x	 	16	12	12	12	0	100	100	150	200	5	5	5	5	5	5	0	0	5	10	10	20	30	"{Foudre de Guerre}
 
-La caractéristique Défense de l'unité cible est ajoutée à sa caractéristique d'Attaque. La défense de l'unité tombe alors à zéro."	"{Foudre de Guerre pour Novice}
+La caractéristique Défense de la troupe cible est ajoutée à sa caractéristique d'Attaque. La défense de l'unité tombe alors à zéro. Le sort dure jusqu'au prochain tour de l'unité concernée.
+"	"{Foudre de Guerre pour Novice}
 
-La caractéristique Défense de l'unité cible est ajoutée à sa caractéristique d'Attaque. La défense de l'unité tombe alors à zéro. Le sort dure jusqu'au prochain tour de l'unité concernée."	"{Foudre de Guerre pour Disciple}
+La caractéristique Défense de la troupe cible est ajoutée à sa caractéristique d'Attaque. La défense de l'unité tombe alors à zéro. Le sort dure jusqu'au prochain tour de l'unité concernée.
+"	"{Foudre de Guerre pour Disciple}
 
-La caractéristique Défense de l'unité cible lorsqu'elle est ajoutée à sa caractéristique d'Attaque est 1.5 fois supérieure à sa valeur précédente. La défense de l'unité tombe alors à zéro. Le sort dure jusqu'au prochain tour de l'unité concernée."	"{Foudre de Guerre pour Maître}
+La caractéristique Défense de la troupe cible lorsqu'elle est ajoutée à sa caractéristique d'Attaque est 1.5 fois supérieure à sa valeur précédente. La défense de l'unité tombe alors à zéro. Le sort dure jusqu'au prochain tour de l'unité concernée.
+"	"{Foudre de Guerre pour Maître}
 
-La caractéristique Défense de l'unité cible lorsqu'elle est ajoutée à sa caractéristique d'Attaque est 2 fois supérieure à sa valeur précédente. La défense de l'unité tombe alors à zéro. Le sort dure jusqu'au prochain tour de l'unité concernée."	 COMBAT_SPELL|CREATURE_TARGET|MIND_SPELL
+La caractéristique Défense de la troupe cible lorsqu'elle est ajoutée à sa caractéristique d'Attaque est 2 fois supérieure à sa valeur précédente. La défense de l'unité tombe alors à zéro. Le sort dure jusqu'au prochain tour de l'unité concernée.
+"	 COMBAT_SPELL|CREATURE_TARGET|MIND_SPELL
 Éclair de Titan	Écl. de Titan	5				x	0	0	0	0	0	600	600	600	600	0	0	0	0	0	0	0	0	0	75	75	75	75	"{Éclair de Titan}
 
-Lorsque Tonnerre des Titans est lancé l'unité visée subit 600 points de dégâts, sans que cela coûte un seul point de magie."	"{Éclair de Titan}
+Lorsque Tonnerre des Titans est lancé, la troupe visée subit 600 points de dégâts, sans que cela coûte un seul point de magie.
+"	"{Éclair de Titan}
 
-Lorsque Tonnerre des Titans est lancé l'unité visée subit 600 points de dégâts, sans que cela coûte un seul point de magie."	"{Eclair de Titan}
+Lorsque Tonnerre des Titans est lancé, la troupe visée subit 600 points de dégâts, sans que cela coûte un seul point de magie.
+"	"{Eclair de Titan}
 
-Lorsque Tonnerre des Titans est lancé l'unité visée subit 600 points de dégâts, sans que cela coûte un seul point de magie."	"{Éclair de Titan}
+Lorsque Tonnerre des Titans est lancé, la troupe visée subit 600 points de dégâts, sans que cela coûte un seul point de magie.
+"	"{Éclair de Titan}
 
-Lorsque Tonnerre des Titans est lancé l'unité visée subit 600 points de dégâts, sans que cela coûte un seul point de magie."	
+Lorsque Tonnerre des Titans est lancé, la troupe visée subit 600 points de dégâts, sans que cela coûte un seul point de magie.
+"
 Contre-Attaque	Contre-att.	4	 	 	 	x	24	20	20	20	0	1	1	2	2	5	10	5	5	5	5	0	0	5	20	20	30	30	"{Contre-Attaque}
 
-La troupe visée gagne immédiatement une riposte, et obtient une riposte supplémentaire au début de chaque tour. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Contre-Attaque pour Novice}
+La troupe visée gagne immédiatement une riposte, et obtient une riposte supplémentaire au début de chaque tour. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	"{Contre-Attaque pour Novice}
 
-La troupe visée gagne immédiatement une riposte, et obtient une riposte supplémentaire au début de chaque tour. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Contre-Attaque pour Disciple}
+La troupe visée gagne immédiatement une riposte, et obtient une riposte supplémentaire au début de chaque tour. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	"{Contre-Attaque pour Disciple}
 
-La troupe visée gagne immédiatement deux ripostes, et obtient deux ripostes supplémentaires au début de chaque tour. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Contre-Attaque pour Maître}
+La troupe visée gagne immédiatement deux ripostes, et obtient deux ripostes supplémentaires au début de chaque tour. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	"{Contre-Attaque pour Maître}
 
-Toutes les troupes alliées gagnent immédiatement deux ripostes, et obtiennent deux ripostes supplémentaires au début de chaque tour. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	 COMBAT_SPELL|CREATURE_TARGET_2
+Toutes les troupes alliées gagnent immédiatement deux ripostes, et obtiennent deux ripostes supplémentaires au début de chaque tour. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
 Frénésie	Frénésie	4	 	 	x	 	20	16	16	16	0	0	0	1	2	5	5	5	5	10	5	0	0	5	60	60	60	60	"{Frénésie}
 
-La troupe visée attaque l'unité la plus proche, qu'elle soit alliée ou ennemie. S'il est actif, le sort Hypnose est annulé. La durée du sort est illimitée."	"{Frénésie pour Novice}
+La troupe visée attaque l'unité la plus proche, qu'elle soit alliée ou ennemie. S'il est actif, le sort Hypnose est annulé. La durée du sort est illimitée.
+"	"{Frénésie pour Novice}
 
-La troupe visée attaque l'unité la plus proche, qu'elle soit alliée ou ennemie. S'il est actif, le sort Hypnose est annulé. La durée du sort est illimitée."	"{Frénésie pour Disciple}
+La troupe visée attaque l'unité la plus proche, qu'elle soit alliée ou ennemie. S'il est actif, le sort Hypnose est annulé. La durée du sort est illimitée.
+"	"{Frénésie pour Disciple}
 
-La troupe visée ainsi que toutes les unités adjacentes attaquent les unités les plus proches, qu'elles soient alliées ou ennemies. S'il est actif, le sort Hypnose est annulé. La durée du sort est illimitée."	"{Frénésie pour Maître}
+La troupe visée ainsi que toutes les unités adjacentes attaquent les unités les plus proches, qu'elles soient alliées ou ennemies. S'il est actif, le sort Hypnose est annulé. La durée du sort est illimitée.
+"	"{Frénésie pour Maître}
 
-La troupe visée ainsi que toutes les unités qui se trouvent à 1 et 2 hexagones de distance attaquent les unités les plus proches, qu'elles soient alliées ou ennemies. S'il est actif, le sort Hypnose est annulé. La durée du sort est illimitée."	 COMBAT_SPELL|CREATURE_TARGET|MIND_SPELL
+La troupe visée ainsi que toutes les unités qui se trouvent à 1 et 2 hexagones de distance attaquent les unités les plus proches, qu'elles soient alliées ou ennemies. S'il est actif, le sort Hypnose est annulé. La durée du sort est illimitée.
+"	 COMBAT_SPELL|CREATURE_TARGET|MIND_SPELL
 Hypnose	Hypnose	3	 	 	 	x	18	15	15	15	25	10	10	20	50	4	4	8	6	0	8	4	4	12	25	25	50	100	"{Hypnose}
 
-La troupe visée dont le total des points de santé est inférieur à un certain plafond, tombe sous votre contrôle. S'il est actif, le sort Frénésie est annulé. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Hypnose pour Novice}
+La troupe visée tombe temporairement sous votre contrôle si elle dispose de moins de (Magie x 25 + 10) points de vie. S'il est actif, le sort Frénésie est annulé. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	"{Hypnose pour Novice}
 
-La troupe visée tombe temporairement sous votre contrôle si elle dispose de moins de (Magie x 25 + 10) points de vie. S'il est actif, le sort Frénésie est annulé. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Hypnose pour Disciple}
+La troupe visée tombe temporairement sous votre contrôle si elle dispose de moins de (Magie x 25 + 10) points de vie. S'il est actif, le sort Frénésie est annulé. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	"{Hypnose pour Disciple}
 
-La troupe visée tombe temporairement sous votre contrôle si elle dispose de moins de (Magie x 25 + 20) points de vie. S'il est actif, le sort Frénésie est annulé. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Hypnose pour Maître}
+La troupe visée tombe temporairement sous votre contrôle si elle dispose de moins de (Magie x 25 + 20) points de vie. S'il est actif, le sort Frénésie est annulé. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	"{Hypnose pour Maître}
 
-La troupe visée tombe temporairement sous votre contrôle si elle dispose de moins de (Magie x 25 + 50) points de vie. S'il est actif, le sort Frénésie est annulé. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	 COMBAT_SPELL|CREATURE_TARGET|MIND_SPELL
+La troupe visée tombe temporairement sous votre contrôle si elle dispose de moins de (Magie x 25 + 50) points de vie. S'il est actif, le sort Frénésie est annulé. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	 COMBAT_SPELL|CREATURE_TARGET|MIND_SPELL
 Distraction	Distraction	3	 	x	 	 	12	9	9	9	0	0	0	0	0	8	8	4	4	4	4	4	4	8	1	1	1	1	"{Distraction}
 
-La moitié des créatures de la troupe visée oublient de tirer à distance. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Distraction pour Novice}
+La moitié des créatures de la troupe visée oublient de tirer à distance. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	"{Distraction pour Novice}
 
-La moitié des créatures de la troupe visée oublient de tirer à distance. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Distraction pour Disciple}
+La moitié des créatures de la troupe visée oublient de tirer à distance. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	"{Distraction pour Disciple}
 
-La troupe visée oublie de tirer à distance, et la moitié des créatures oublient également d'attaquer au corps-à-corps. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Distraction pour Maître}
+La troupe visée oublie de tirer à distance, et la moitié des créatures oublient également d'attaquer au corps-à-corps. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	"{Distraction pour Maître}
 
-Toutes les troupes ennemies qui attaquent à distance oublient de tirer, et la moitié des créatures oublient également d'attaquer au corps-à-corps. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	 COMBAT_SPELL|CREATURE_TARGET|MIND_SPELL
+Toutes les troupes ennemies qui attaquent à distance oublient de tirer, et la moitié des créatures oublient également d'attaquer au corps-à-corps. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	 COMBAT_SPELL|CREATURE_TARGET|MIND_SPELL
 Cécité	Cécité	2	 	 	x	 	10	8	8	8	0	50	50	25	0	4	6	2	12	4	4	4	6	8	50	50	50	50	"{Cécité}
 
-La troupe visée ne peut plus agir tant qu'elle n'est pas attaquée. N'affecte pas les morts-vivants. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Cécité pour Novice}
+La troupe visée ne peut plus agir tant qu'elle n'est pas attaquée. Lors de sa première riposte, elle ne causera que la moitié des dégâts habituels. N'affecte pas les morts-vivants. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	"{Cécité pour Novice}
 
-La troupe visée ne peut plus agir tant qu'elle n'est pas attaquée. Lors de sa première riposte, elle ne causera que la moitié des dégâts habituels. N'affecte pas les morts-vivants. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Cécité pour Disciple}
+La troupe visée ne peut plus agir tant qu'elle n'est pas attaquée. Lors de sa première riposte, elle ne causera que la moitié des dégâts habituels. N'affecte pas les morts-vivants. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	"{Cécité pour Disciple}
 
-La troupe visée ne peut plus agir tant qu'elle n'est pas attaquée. Lors de sa première riposte, elle ne causera que le quart des dégâts habituels. N'affecte pas les morts-vivants. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Cécité pour Maître}
+La troupe visée ne peut plus agir tant qu'elle n'est pas attaquée. Lors de sa première riposte, elle ne causera que le quart des dégâts habituels. N'affecte pas les morts-vivants. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	"{Cécité pour Maître}
 
-La troupe visée ne peut plus agir et n'est plus en mesure de riposter. N'affecte pas les morts-vivants. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	 COMBAT_SPELL|CREATURE_TARGET
+La troupe visée ne peut plus agir et n'est plus en mesure de riposter. N'affecte pas les morts-vivants. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+"	 COMBAT_SPELL|CREATURE_TARGET
 Téléportation	Téléportation	3	 	x	 	 	15	12	6	3	0	0	0	0	0	8	8	8	8	8	8	8	10	8	20	20	20	20	"{Téléportation}
 
-La troupe alliée visée est téléportée sur un hexagone inoccupé de votre choix. Annule l'effet négatif Enchevêtrement."	"{Téléportation pour Novice}
+La troupe alliée visée est téléportée sur un hexagone inoccupé de votre choix. Annule l'effet négatif Enchevêtrement.
 
-La troupe alliée visée est téléportée sur un hexagone inoccupé de votre choix. Annule l'effet négatif Enchevêtrement. Une unité ne peut être téléportée derrière un mur d'enceinte ou des douves."	"{Téléportation pour Disciple}
+Une unité ne peut être téléportée derrière un mur d'enceinte ou des douves.
+"	"{Téléportation pour Novice}
 
-La troupe alliée visée est téléportée sur un hexagone inoccupé de votre choix. Annule l'effet négatif Enchevêtrement. Une unité ne peut être téléportée derrière un mur d'enceinte."	"{Téléportation pour Maître}
+La troupe alliée visée est téléportée sur un hexagone inoccupé de votre choix. Annule l'effet négatif Enchevêtrement. 
 
-La troupe alliée visée est téléportée sur un hexagone inoccupé de votre choix. Annule l'effet négatif Enchevêtrement."	 COMBAT_SPELL|CREATURE_TARGET
+Une unité ne peut être téléportée derrière un mur d'enceinte ou des douves.
+"	"{Téléportation pour Disciple}
+
+La troupe alliée visée est téléportée sur un hexagone inoccupé de votre choix. Annule l'effet négatif Enchevêtrement. 
+
+Une unité ne peut être téléportée derrière un mur d'enceinte.
+"	"{Téléportation pour Maître}
+
+La troupe alliée visée est téléportée sur un hexagone inoccupé de votre choix. Annule l'effet négatif Enchevêtrement.
+"	 COMBAT_SPELL|CREATURE_TARGET
 Champ Libre	Champ Libre	2	 	x	 	 	7	5	5	5	0	0	0	0	0	4	4	6	4	4	4	4	4	4	1	1	1	1	"{Champ Libre}
 
-Supprime un obstacle non-magique du champ de bataille."	"{Champ Libre pour Novice}
+Supprime un obstacle non-magique (abres, roches, etc.) du champ de bataille.
+"	"{Champ Libre pour Novice}
 
-Supprime un obstacle non-magique du champ de bataille."	"{Champ Libre pour Disciple}
+Supprime un obstacle non-magique (abres, roches, etc.) du champ de bataille.
+"	"{Champ Libre pour Disciple}
 
-Supprime un obstacle non-magique du champ de bataille ainsi que les Murs de Flammes."	"{Champ Libre pour Maître}
+Supprime un obstacle non-magique (abres, roches, etc.) du champ de bataille ainsi que les Murs de Flammes.
+"	"{Champ Libre pour Maître}
 
-Supprime tous les obstacles du champ de bataille."	 COMBAT_SPELL|OBSTACLE_TARGET
+Supprime tous les obstacles du champ de bataille.
+"	 COMBAT_SPELL|OBSTACLE_TARGET
 Clone	Clone	4	 	x	 	 	24	20	20	20	0	5	5	6	7	5	5	10	5	5	5	0	0	10	20	20	40	50	"{Clone}
 
-Crée une unité identique à l'unité visée. L'unité clonée peut attaquer, mais disparaît sitôt qu'elle subit le moindre dégât ou que l'unité originale est détruite. N'affecte pas les machines de guerre. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros."	"{Clone pour Novice}
+Crée une unité identique à l'unité visée. L'unité clonée peut attaquer, mais disparaît sitôt qu'elle subit le moindre dégât ou que l'unité originale est détruite. Chaque troupe ne peut avoir qu'un clone actif. N'affecte pas les machines de guerre. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
 
-Crée une unité identique à l'unité visée. L'unité clonée peut attaquer, mais disparaît sitôt qu'elle subit le moindre dégât ou que l'unité originale est détruite. N'affecte pas les machines de guerre. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
-
-Clone agit sur les créatures des niveaux 1 à 5."	"{Clone pour Disciple}
+Clone agit sur les créatures des niveaux 1 à 5.
+"	"{Clone pour Novice}
 
-Crée une unité identique à l'unité visée. L'unité clonée peut attaquer, mais disparaît sitôt qu'elle subit le moindre dégât ou que l'unité originale est détruite. N'affecte pas les machines de guerre. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
-
-Clone agit sur les créatures des niveaux 1 à 6."	"{Clone pour Maître}
+Crée une unité identique à l'unité visée. L'unité clonée peut attaquer, mais disparaît sitôt qu'elle subit le moindre dégât ou que l'unité originale est détruite. Chaque troupe ne peut avoir qu'un clone actif. N'affecte pas les machines de guerre. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
 
-Crée une unité identique à l'unité visée. L'unité clonée peut attaquer, mais disparaît sitôt qu'elle subit le moindre dégât ou que l'unité originale est détruite. N'affecte pas les machines de guerre. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
-
-Clone agit sur les créatures des niveaux 1 à 7."	 COMBAT_SPELL|CREATURE_TARGET
+Clone agit sur les créatures des niveaux 1 à 5.
+"	"{Clone pour Disciple}
+
+Crée une unité identique à l'unité visée. L'unité clonée peut attaquer, mais disparaît sitôt qu'elle subit le moindre dégât ou que l'unité originale est détruite. Chaque troupe ne peut avoir qu'un clone actif. N'affecte pas les machines de guerre. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+
+Clone agit sur les créatures des niveaux 1 à 6.
+"	"{Clone pour Maître}
+
+Crée une unité identique à l'unité visée. L'unité clonée peut attaquer, mais disparaît sitôt qu'elle subit le moindre dégât ou que l'unité originale est détruite. Chaque troupe ne peut avoir qu'un clone actif. N'affecte pas les machines de guerre. Le sort peut rester actif durant un nombre de tours égal à la Magie du Héros.
+
+Clone agit sur les créatures des niveaux 1 à 7.
+"	 COMBAT_SPELL|CREATURE_TARGET
 Élémentaires Feu	Élém. Feu	5			x		25	20	20	20	0	2	2	3	4	0	0	0	16	0	12	0	0	12	50	50	100	150	"{Élémentaires du Feu}
 
-Vous pouvez invoquer les forces Élémentaires du Feu."	"{Élémentaires du Feu pour Novice}
+Vous pouvez invoquer des Élémentaires du Feu (Magie x 2) à un emplacement aléatoire sur le champ de bataille.
+"	"{Élémentaires du Feu pour Novice}
 
 Vous pouvez invoquer des Élémentaires du Feu (Magie x 2) à un emplacement aléatoire sur le champ de bataille.
 "	"{Élémentaires du Feu pour Disciple}
@@ -808,7 +905,8 @@ Vous pouvez invoquer des Élémentaires du Feu (Magie x 3) à un emplacement al�
 "	 COMBAT_SPELL
 Élémentaires Terre	Élém. Terre	5	x				25	20	20	20	0	2	2	3	4	0	16	14	16	16	12	0	0	12	50	50	100	150	"{Élémentaires de la Terre}
 
-Vous pouvez invoquer les forces Élémentaires de la Terre."	"{Élémentaires de la Terre pour Novice}
+Vous pouvez invoquer des Élémentaires de la Terre (Magie x 2) à un emplacement aléatoire sur le champ de bataille.
+"	"{Élémentaires de la Terre pour Novice}
 
 Vous pouvez invoquer des Élémentaires de la Terre (Magie x 2) à un emplacement aléatoire sur le champ de bataille.
 "	"{Élémentaires de la Terre pour Disciple}
@@ -820,7 +918,8 @@ Vous pouvez invoquer des Élémentaires de la Terre (Magie x 3) à un emplacemen
 "	 COMBAT_SPELL
 Élémentaires Eau	Élém. Eau	5		x			25	20	20	20	0	2	2	3	4	0	16	14	0	0	12	0	0	12	50	50	100	150	"{Élémentaires de l'Eau}
 
-Vous pouvez invoquer les forces Élémentaires de l'Eau."	"{Élémentaires de l'Eau pour Novice}
+Vous pouvez invoquer des Élémentaires de l'Eau (Magie x 2) à un emplacement aléatoire sur le champ de bataille.
+"	"{Élémentaires de l'Eau pour Novice}
 
 Vous pouvez invoquer des Élémentaires de l'Eau (Magie x 2) à un emplacement aléatoire sur le champ de bataille.
 "	"{Élémentaires de l'Eau pour Disciple}
@@ -832,7 +931,8 @@ Vous pouvez invoquer des Élémentaires de l'Eau (Magie x 4) à un emplacement a
 "	 COMBAT_SPELL
 Élémentaires Air	Élém. Air	5				x	25	20	20	20	0	2	2	3	4	0	0	14	0	16	0	0	0	12	50	50	100	150	"{Élémentaires de l'Air}
 
-Vous pouvez invoquer les forces Élémentaires de l'Air."	"{Élémentaires de l'Air pour Novice}
+Vous pouvez invoquer des Élémentaires de l'Air (Magie x 2) à un emplacement aléatoire sur le champ de bataille.
+"	"{Élémentaires de l'Air pour Novice}
 
 Vous pouvez invoquer des Élémentaires de l'Air (Magie x 2) à un emplacement aléatoire sur le champ de bataille.
 "	"{Élémentaires de l'Air pour Disciple}
