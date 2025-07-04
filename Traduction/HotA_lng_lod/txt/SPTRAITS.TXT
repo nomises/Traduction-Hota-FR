@@ -43,16 +43,16 @@ Détruit un de vos bateaux présent dans votre champ de vision. À utiliser prud
 "	 ADV_SPELL
 Divination	Divination	2	x	x	x	x	4	2	2	2	0	1	1	2	3	2	2	2	4	2	2	2	2	2	1	1	1	1	"{Divination}
 
-Indique les effectifs des monstres errants et précise s'ils sont prêts à rejoindre l'armée du Héros. La portée est équivalant a la magie ou trois, selon le plus grand. Valide pour 1 tour.
+Indique les effectifs des monstres errants et précise s'ils sont prêts à rejoindre l'armée du Héros. La portée est équivalente à la magie ou trois, selon le plus élevé. Valide pour 1 tour.
 "	"{Divination pour Novice}
 
-Indique les effectifs des monstres errants et précise s'ils sont prêts à rejoindre l'armée du Héros. La portée est équivalant a la magie ou trois, selon le plus grand. Valide pour 1 tour.
+Indique les effectifs des monstres errants et précise s'ils sont prêts à rejoindre l'armée du Héros. La portée est équivalante à la magie ou trois, selon le plus élevé. Valide pour 1 tour.
 "	"{Divination pour Disciple}
 
-Indique les effectifs des monstres errants et précise s'ils sont prêts à rejoindre l'armée du Héros. Les caractéristiques des héros ennemis sont précisées ainsi que les effectifs de leurs armées respectives. La portée est équivalant a la magie x 2 ou trois, selon le plus grand. Valide pour 1 tour.
+Indique les effectifs des monstres errants et précise s'ils sont prêts à rejoindre l'armée du Héros. Les caractéristiques des héros ennemis sont précisées ainsi que les effectifs de leurs armées respectives. La portée est équivalante à (magie x 2) ou trois, selon le plus élevé. Valide pour 1 tour.
 "	"{Divination pour Maître}
 
-Indique les effectifs des monstres errants et précise s'ils sont prêts à rejoindre l'armée du Héros. Les caractéristiques des héros ennemis sont précisées ainsi que les effectifs de leurs armées respectives. Vous obtenez également des informations sur les villes et garnisons ennemies.
+Indique les effectifs des monstres errants et précise s'ils sont prêts à rejoindre l'armée du Héros. Les caractéristiques des héros ennemis sont précisées ainsi que les effectifs de leurs armées respectives. Vous obtenez également des informations sur les villes et garnisons ennemies. La portée est équivalante à (magie x 3) ou trois, selon le plus élevé. Valide pour 1 tour.
 "	 ADV_SPELL
 Parole des Pierres	Par. des Pierres	1	x				2	1	1	1	0	0	0	0	0	3	3	3	3	3	3	3	3	3	1	1	1	1	"{Parole des Pierres}
 
@@ -69,10 +69,10 @@ Révèle l'emplacement de toutes les ressources, mines et terrains au lanceur de
 "	 ADV_SPELL
 Illusion	Illusion	2	 	 	 	x	4	2	2	2	0	0	0	0	0	2	2	2	4	2	2	2	0	2	1	1	1	1	"{Illusion}
 
-Bien que les effectifs de vos troupes soient correctement signalés à l'ennemi, toutes vos unités ressemblent à votre créature la plus puissante. Les effectifs indiqués sont inchangé.
+Bien que les effectifs de vos troupes soient correctement signalés à l'ennemi, toutes vos unités ressemblent à votre créature la plus puissante. Les effectifs indiqués sont inchangés.
 "	"{Illusion pour Novice}
 
-Bien que les effectifs de vos troupes soient correctement signalés à l'ennemi, toutes vos unités ressemblent à votre créature la plus puissante. Les effectifs indiqués sont inchangé.
+Bien que les effectifs de vos troupes soient correctement signalés à l'ennemi, toutes vos unités ressemblent à votre créature la plus puissante. Les effectifs indiqués sont inchangés.
 "	"{Illusion pour Disciple}
 
 Pour l'ennemi, toutes vos unités ressemblent à votre créature la plus puissante. Les effectifs indiqués sont de 0. 
@@ -95,16 +95,16 @@ Révèle au lanceur de sorts où se trouvent les artéfacts à l'abandon, ainsi 
 "	 ADV_SPELL
 Envol	Envol	5	 	 	 	x	20	15	15	15	0	60	60	80	100	0	16	16	16	16	12	0	0	13	30	30	40	50	"{Envol}
 
-Permet à votre armée de survoler les obstacles avec une pénalité de 40 % sur les points de mouvement du Héros. Valide pour 1 tour. Le Héros doit atterir a la fin de son tour.
+Permet à votre armée de survoler les obstacles avec une pénalité de 40 % sur les points de mouvement du Héros. Valide pour 1 tour. Le Héros doit atterrir a la fin de son tour.
 "	"{Envol pour Novice}
 
-Permet à votre armée de survoler les obstacles avec une pénalité de 40 % sur les points de mouvement du Héros. Valide pour 1 tour. Le Héros doit atterir a la fin de son tour.
+Permet à votre armée de survoler les obstacles avec une pénalité de 40 % sur les points de mouvement du Héros. Valide pour 1 tour. Le Héros doit atterrir a la fin de son tour.
 "	"{Envol pour Disciple}
 
-Permet à votre armée de survoler les obstacles avec une pénalité de 20 % sur les points de mouvement du Héros. Valide pour 1 tour. Le Héros doit atterir a la fin de son tour.
+Permet à votre armée de survoler les obstacles avec une pénalité de 20 % sur les points de mouvement du Héros. Valide pour 1 tour. Le Héros doit atterrir a la fin de son tour.
 "	"{Envol pour Maître}
 
-Permet à votre armée de survoler les obstacles sans pénalité de mouvement. Valide pour 1 tour. Le Héros doit atterir a la fin de son tour.
+Permet à votre armée de survoler les obstacles sans pénalité de mouvement. Valide pour 1 tour. Le Héros doit atterrir a la fin de son tour.
 "	 ADV_SPELL
 Pont Céleste	Pont Céleste	4	 	x	 	 	12	8	8	8	0	60	60	80	100	10	10	10	10	10	10	0	0	10	15	15	20	25	"{Pont Céleste}
 
@@ -150,29 +150,29 @@ Combat Spells
 																																	
 Sables Mouvants	Sables Mouv.	2	x	 	 	 	8	6	6	6	0	0	0	0	0	4	4	6	4	4	4	6	6	4	1	1	1	1	"{Sables Mouvants}
 
-Quatre hexagones aléatoirement choisis se transforment en sables mouvants. Seules les créatures qui combattent dans leur milieu naturel les détectent. Les troupes qui entrent dans un hexagone de sables mouvants sont bloquées pour le reste du tour. Les Sables Mouvants ont une durée illimité.
+Quatre hexagones aléatoirement choisis se transforment en sables mouvants. Seules les créatures qui combattent dans leur milieu naturel les détectent. Les troupes qui entrent dans un hexagone de sables mouvants sont bloquées pour le reste du tour. Les Sables Mouvants ont une durée illimitée.
 "	"{Sables Mouvants pour Novice}
 
-Quatre hexagones aléatoirement choisis se transforment en sables mouvants. Seules les créatures qui combattent dans leur milieu naturel les détectent. Les troupes qui entrent dans un hexagone de sables mouvants sont bloquées pour le reste du tour. Les Sables Mouvants ont une durée illimité.
+Quatre hexagones aléatoirement choisis se transforment en sables mouvants. Seules les créatures qui combattent dans leur milieu naturel les détectent. Les troupes qui entrent dans un hexagone de sables mouvants sont bloquées pour le reste du tour. Les Sables Mouvants ont une durée illimitée.
 "	"{Sables Mouvants pour Disciple}
 
-Six hexagones aléatoirement choisis se transforment en sables mouvants. Seules les créatures qui combattent dans leur milieu naturel les détectent. Les troupes qui entrent dans un hexagone de sables mouvants sont bloquées pour le reste du tour. Les Sables Mouvants ont une durée illimité.
+Six hexagones aléatoirement choisis se transforment en sables mouvants. Seules les créatures qui combattent dans leur milieu naturel les détectent. Les troupes qui entrent dans un hexagone de sables mouvants sont bloquées pour le reste du tour. Les Sables Mouvants ont une durée illimitée.
 "	"{Sables Mouvants pour Maître}
 
-Huit hexagones aléatoirement choisis se transforment en sables mouvants. Seules les créatures qui combattent dans leur milieu naturel les détectent. Les troupes qui entrent dans un hexagone de sables mouvants sont bloquées pour le reste du tour. Les Sables Mouvants ont une durée illimité.
+Huit hexagones aléatoirement choisis se transforment en sables mouvants. Seules les créatures qui combattent dans leur milieu naturel les détectent. Les troupes qui entrent dans un hexagone de sables mouvants sont bloquées pour le reste du tour. Les Sables Mouvants ont une durée illimitée.
 "	 COMBAT_SPELL|LOCATION_TARGET
 Pièges	Pièges	3	 	 	x	 	18	15	15	15	10	25	25	50	100	8	8	8	6	8	12	8	2	4	1	1	1	1	"{Pièges}
 
-Des pièges sont placés sur quatre hexagones aléatoirement choisis. Seules les créatures qui combattent dans leur milieu naturel les détectent. Toute unité qui pénètre dans un hexagone piégé subis (Magie x 10 + 25) points de dégâts. Si les Pièges ne sont pas déclanché elles ont une durée illimité.
+Des pièges sont placés sur quatre hexagones aléatoirement choisis. Seules les créatures qui combattent dans leur milieu naturel les détectent. Toute unité qui pénètre dans un hexagone piégé subit (Magie x 10 + 25) points de dégâts. Si les Pièges ne sont pas déclenchés, ils ont une durée illimitée.
 "	"{Pièges pour Novice}
 
-Des pièges sont placés sur quatre hexagones aléatoirement choisis. Seules les créatures qui combattent dans leur milieu naturel les détectent. Toute unité qui pénètre dans un hexagone piégé subis (Magie x 10 + 25) points de dégâts. Si les Pièges ne sont pas déclanché elles ont une durée illimité.
+Des pièges sont placés sur quatre hexagones aléatoirement choisis. Seules les créatures qui combattent dans leur milieu naturel les détectent. Toute unité qui pénètre dans un hexagone piégé sut (Magie x 10 + 25) points de dégâts. Si les Pièges ne sont pas déclenchés, ils ont une durée illimitée.
 "	"{Pièges pour Disciple }
 
-Des pièges sont placés sur six hexagones aléatoirement choisis. Seules les créatures qui combattent dans leur milieu naturel les détectent. Toute unité qui pénètre dans un hexagone piégé subis (Magie x 10 + 50) points de dégâts. Si les Pièges ne sont pas déclanché elles ont une durée illimité.
+Des pièges sont placés sur six hexagones aléatoirement choisis. Seules les créatures qui combattent dans leur milieu naturel les détectent. Toute unité qui pénètre dans un hexagone piégé subit (Magie x 10 + 50) points de dégâts. Si les Pièges ne sont pas déclenchés, ils ont une durée illimitée.
 "	"{Pièges pour Maître}
 
-Des pièges sont placés sur huit hexagones aléatoirement choisis. Seules les créatures qui combattent dans leur milieu naturel les détectent. Toute unité qui pénètre dans un hexagone piégé subis (Magie x 10 + 100) points de dégâts. Si les Pièges ne sont pas déclanché elles ont une durée illimité.
+Des pièges sont placés sur huit hexagones aléatoirement choisis. Seules les créatures qui combattent dans leur milieu naturel les détectent. Toute unité qui pénètre dans un hexagone piégé subit (Magie x 10 + 100) points de dégâts. Si les Pièges ne sont pas déclenchés, ils ont une durée illimitée.
 "	 COMBAT_SPELL|LOCATION_TARGET
 Champ de Force	Ch. de Force	3	x	 	 	 	12	9	9	9	0	0	0	0	0	4	4	8	2	8	8	4	4	8	1	1	1	1	"{Champ de Force}
 
@@ -254,16 +254,16 @@ Les troupes visées subissent des dégâts. Inflige (Magie x 25 + 50) points de 
 "	 COMBAT_SPELL|CREATURE_TARGET
 Implosion	Implosion	5	x	 	 	 	30	25	25	25	75	100	100	200	300	0	16	14	16	20	12	0	0	13	75	75	75	75	"{Implosion}
 
-Les troupes visées subissent des dégâts. Inflige (Magie x 75 + 100) points de dégâts. Ne peut pas être lancé sur les machines de guerres.
+Les troupes visées subissent des dégâts. Inflige (Magie x 75 + 100) points de dégâts. Ne peut pas être lancé sur les machines de guerre.
 "	"{Implosion pour Novice}
 
-Les troupes visées subissent des dégâts. Inflige (Magie x 75 + 100) points de dégâts. Ne peut pas être lancé sur les machines de guerres.
+Les troupes visées subissent des dégâts. Inflige (Magie x 75 + 100) points de dégâts. Ne peut pas être lancé sur les machines de guerre.
 "	"{Implosion pour Disciple}
 
-Les troupes visées subissent des dégâts. Inflige (Magie x 75 + 200) points de dégâts. Ne peut pas être lancé sur les machines de guerres.
+Les troupes visées subissent des dégâts. Inflige (Magie x 75 + 200) points de dégâts. Ne peut pas être lancé sur les machines de guerre.
 "	"{Implosion pour Maître}
 
-Les troupes visées subissent des dégâts. Inflige (Magie x 100 + 300) points de dégâts. Ne peut pas être lancé sur les machines de guerres.
+Les troupes visées subissent des dégâts. Inflige (Magie x 100 + 300) points de dégâts. Ne peut pas être lancé sur les machines de guerre.
 "	 COMBAT_SPELL|CREATURE_TARGET
 Foudre Terrible	Foudre Terr.	4	 	 	 	x	24	20	20	20	40	25	25	50	100	10	10	10	10	10	10	0	0	10	75	75	75	75	"{Foudre Terrible}
 
@@ -280,68 +280,68 @@ Un éclair frappe la cible, infligeant des dégâts. Il rebondit ensuite et frap
 "	 COMBAT_SPELL|CREATURE_TARGET
 Anneau de Givre	Anneau de G.	3	 	x	 	 	12	9	9	9	10	15	15	30	60	16	16	16	0	12	12	12	4	12	12	12	12	12	"{Anneau de Givre}
 
-Toutes les unités dans les hexagones adjacents à l'hexagone cible subissent des dégâts. Chaque troupes subit (Magie x 10 + 15) points de dégâts. L'hexagone ciblé n'est pas affecté.
+Toutes les unités dans les hexagones adjacents à l'hexagone cible subissent des dégâts. Chaque troupe subit (Magie x 10 + 15) points de dégâts. L'hexagone ciblé n'est pas affecté.
 "	"{Anneau de Givre pour Novice}
 
-Toutes les unités dans les hexagones adjacents à l'hexagone cible subissent des dégâts. Chaque troupes subit (Magie x 10 + 15) points de dégâts. L'hexagone ciblé n'est pas affecté.
+Toutes les unités dans les hexagones adjacents à l'hexagone cible subissent des dégâts. Chaque troupe subit (Magie x 10 + 15) points de dégâts. L'hexagone ciblé n'est pas affecté.
 "	"{Anneau de Givre pour Disciple}
 
-Toutes les unités dans les hexagones adjacents à l'hexagone cible subissent des dégâts. Chaque troupes subit (Magie x 10 + 30) points de dégâts. L'hexagone ciblé n'est pas affecté.
+Toutes les unités dans les hexagones adjacents à l'hexagone cible subissent des dégâts. Chaque troupe subit (Magie x 10 + 30) points de dégâts. L'hexagone ciblé n'est pas affecté.
 "	"{Anneau de Givre pour Maître}
 
-Toutes les unités dans les hexagones adjacents à l'hexagone cible subissent des dégâts. Chaque troupes subit (Magie x 10 + 60) points de dégâts. L'hexagone ciblé n'est pas affecté.
+Toutes les unités dans les hexagones adjacents à l'hexagone cible subissent des dégâts. Chaque troupe subit (Magie x 10 + 60) points de dégâts. L'hexagone ciblé n'est pas affecté.
 "	 COMBAT_SPELL|LOCATION_TARGET
 Boule de Feu	Boule de F.	3	 	 	x	 	15	12	12	12	10	15	15	30	60	8	8	8	50	12	16	12	2	12	15	15	15	15	"{Boule de Feu}
 
-Toutes les unités dans l'hexagone visé et les hexagones adjacents subissent des dégâts. Chaque troupes subit (Magie x 10 + 15) points de dégâts.
+Toutes les unités dans l'hexagone visé et les hexagones adjacents subissent des dégâts. Chaque troupe subit (Magie x 10 + 15) points de dégâts.
 "	"{Boule de Feu pour Novice}
 
-Toutes les unités dans l'hexagone visé et les hexagones adjacents subissent des dégâts. Chaque troupes subit (Magie x 10 + 15) points de dégâts.
+Toutes les unités dans l'hexagone visé et les hexagones adjacents subissent des dégâts. Chaque troupe subit (Magie x 10 + 15) points de dégâts.
 "	"{Boule de Feu pour Disciple}
 
-Toutes les unités dans l'hexagone visé et les hexagones adjacents subissent des dégâts. Chaque troupes subit (Magie x 10 + 30) points de dégâts.
+Toutes les unités dans l'hexagone visé et les hexagones adjacents subissent des dégâts. Chaque troupe subit (Magie x 10 + 30) points de dégâts.
 "	"{Boule de Feu pour Maître}
 
-Toutes les unités dans l'hexagone visé et les hexagones adjacents subissent des dégâts. Chaque troupes subit (Magie x 10 + 60) points de dégâts.
+Toutes les unités dans l'hexagone visé et les hexagones adjacents subissent des dégâts. Chaque troupe subit (Magie x 10 + 60) points de dégâts.
 "	 COMBAT_SPELL|LOCATION_TARGET
 Brasier	Brasier	4	 	 	x	 	16	12	12	12	10	20	20	40	80	5	5	5	10	5	5	0	0	10	20	20	20	20	"{Brasier}
 
-Toutes les unités se trouvant dans un rayon de deux hexagones de l'hexagone visé subissent des dégâts. Chaque troupes subit (Magie x 10 + 20) points de dégâts.
+Toutes les unités se trouvant dans un rayon de deux hexagones de l'hexagone visé subissent des dégâts. Chaque troupe subit (Magie x 10 + 20) points de dégâts.
 "	"{Brasier pour Novice}
 
-Toutes les unités se trouvant dans un rayon de deux hexagones de l'hexagone visé subissent des dégâts. Chaque troupes subit (Magie x 10 + 20) points de dégâts.
+Toutes les unités se trouvant dans un rayon de deux hexagones de l'hexagone visé subissent des dégâts. Chaque troupe subit (Magie x 10 + 20) points de dégâts.
 "	"{Brasier pour Disciple}
 
-Toutes les unités se trouvant dans un rayon de deux hexagones de l'hexagone visé subissent des dégâts. Chaque troupes subit (Magie x 10 + 40) points de dégâts.
+Toutes les unités se trouvant dans un rayon de deux hexagones de l'hexagone visé subissent des dégâts. Chaque troupe subit (Magie x 10 + 40) points de dégâts.
 "	"{Brasier pour Maître}
 
-Toutes les unités se trouvant dans un rayon de deux hexagones de l'hexagone visé subissent des dégâts. Chaque troupes subit (Magie x 10 + 80) points de dégâts.
+Toutes les unités se trouvant dans un rayon de deux hexagones de l'hexagone visé subissent des dégâts. Chaque troupe subit (Magie x 10 + 80) points de dégâts.
 "	 COMBAT_SPELL|LOCATION_TARGET
 Pluie de Météores	Pluie de M.	4	x	 	 	 	16	12	12	12	25	25	25	50	100	10	10	10	10	10	10	0	0	10	37	37	37	37	"{Pluie de Météores}
 
-S'abat sur les troupes de l'hexagone cible et celles des hexagones adjacents. Chaque troupes subit (Magie x 25 + 25) points de dégâts.
+S'abat sur les troupes de l'hexagone cible et celles des hexagones adjacents. Chaque troupe subit (Magie x 25 + 25) points de dégâts.
 "	"{Pluie de Météores pour Novice}
 
-S'abat sur les troupes de l'hexagone cible et celles des hexagones adjacents. Chaque troupes subit (Magie x 25 + 25) points de dégâts.
+S'abat sur les troupes de l'hexagone cible et celles des hexagones adjacents. Chaque troupe subit (Magie x 25 + 25) points de dégâts.
 "	"{Pluie de Météores pour Disciple}
 
-S'abat sur les troupes de l'hexagone cible et celles des hexagones adjacents. Chaque troupes subit (Magie x 25 + 50) points de dégâts.
+S'abat sur les troupes de l'hexagone cible et celles des hexagones adjacents. Chaque troupe subit (Magie x 25 + 50) points de dégâts.
 "	"{Pluie de Météores pour Maître}
 
-S'abat sur les troupes de l'hexagone cible et celles des hexagones adjacents. Chaque troupes subit (Magie x 25 + 100) points de dégâts.
+S'abat sur les troupes de l'hexagone cible et celles des hexagones adjacents. Chaque troupe subit (Magie x 25 + 100) points de dégâts.
 "	 COMBAT_SPELL|LOCATION_TARGET
 Onde Mortelle	Onde Mort.	2	x	 	 	 	10	8	8	8	5	10	10	20	30	0	0	0	0	50	0	0	0	0	20	20	20	20	"{Onde Mortelle}
 
-S'abat sur toutes les créatures du champ de bataille, sauf sur les morts-vivants et les machines de guerre. Chaque troupes subit (Magie x 5 + 10) points de dégâts.
+S'abat sur toutes les créatures du champ de bataille, sauf sur les morts-vivants et les machines de guerre. Chaque troupe subit (Magie x 5 + 10) points de dégâts.
 "	"{Onde Mortelle pour Novice}
 
-S'abat sur toutes les créatures du champ de bataille, sauf sur les morts-vivants et les machines de guerre. Chaque troupes subit (Magie x 5 + 10) points de dégâts.
+S'abat sur toutes les créatures du champ de bataille, sauf sur les morts-vivants et les machines de guerre. Chaque troupe subit (Magie x 5 + 10) points de dégâts.
 "	"{Onde Mortelle pour Disciple}
 
-S'abat sur toutes les créatures du champ de bataille, sauf sur les morts-vivants et les machines de guerre. Chaque troupes subit (Magie x 5 + 20) points de dégâts.
+S'abat sur toutes les créatures du champ de bataille, sauf sur les morts-vivants et les machines de guerre. Chaque troupe subit (Magie x 5 + 20) points de dégâts.
 "	"{Onde Mortelle pour Maître}
 
-S'abat sur toutes les créatures du champ de bataille, sauf sur les morts-vivants et les machines de guerre. Chaque troupes subit (Magie x 5 + 30) points de dégâts.
+S'abat sur toutes les créatures du champ de bataille, sauf sur les morts-vivants et les machines de guerre. Chaque troupe subit (Magie x 5 + 30) points de dégâts.
 "	 COMBAT_SPELL
 Nécrophage	Nécrophage	3	 	 	 	x	15	12	12	12	10	10	10	20	50	12	8	8	2	0	4	4	2	4	40	40	40	40	"{Nécrophage}
 
@@ -514,29 +514,29 @@ Annule tous les effets négatifs des sorts lancés contre la troupe visée, exce
 "	 COMBAT_SPELL|CREATURE_TARGET_1
 Résurrection	Résurrection	4	x	 	 	 	20	16	16	16	50	40	40	80	160	10	10	10	10	10	10	0	0	5	50	50	60	120	"{Résurrection}
 
-La troupe sélectionné se vois restitués (Magie x 50 + 40) points de vie afin de ressusciter les créatures éliminées pour la durée du combat.
+La troupe sélectionnée se voit restituée (Magie x 50 + 40) points de vie afin de ressusciter les créatures éliminées pour la durée du combat.
 "	"{Résurrection pour Novice}
 
-La troupe sélectionné se vois restitués (Magie x 50 + 40) points de vie afin de ressusciter les créatures éliminées pour la durée du combat.
+La troupe sélectionnée se voit restituée (Magie x 50 + 40) points de vie afin de ressusciter les créatures éliminées pour la durée du combat.
 "	"{Résurrection pour Disciple}
 
-La troupe sélectionné se vois restitués (Magie x 50 + 80) points de vie afin de ressusciter les créatures éliminées de façon permanente.
+La troupe sélectionnée se voit restituée (Magie x 50 + 80) points de vie afin de ressusciter les créatures éliminées de façon permanente.
 "	"{Résurrection pour Maître}
 
-La troupe sélectionné se vois restitués (Magie x 50 + 160) points de vie afin de ressusciter les créatures éliminées pour la durée du combat.
+La troupe sélectionnée se voit restituée (Magie x 50 + 160) points de vie afin de ressusciter les créatures éliminées pour la durée du combat.
 "	 COMBAT_SPELL|CREATURE_TARGET
 Animation des Morts	Ani. des Morts	3	x	 	 	 	15	12	12	12	50	30	30	60	160	0	0	0	0	16	0	0	0	0	60	60	60	120	"{Animation des Morts}
 
-Réanimation de la troupe morte-vivante sélectioné de (Magie x 50 + 30) points de vie éliminées au cours du combat.
+Réanimation de la troupe morte-vivante sélectionée de (Magie x 50 + 30) points de vie éliminés au cours du combat.
 "	"{Animation des Morts pour Novice}
 
-Réanimation de la troupe morte-vivante sélectioné de (Magie x 50 + 30) points de vie éliminées au cours du combat.
+Réanimation de la troupe morte-vivante sélectionée de (Magie x 50 + 30) points de vie éliminés au cours du combat.
 "	"{Animation des Morts pour Disciple}
 
-Réanimation de la troupe morte-vivante sélectioné de (Magie x 50 + 60) points de vie éliminées au cours du combat.
+Réanimation de la troupe morte-vivante sélectionée de (Magie x 50 + 60) points de vie éliminés au cours du combat.
 "	"{Animation des Morts pour Maître}
 
-Réanimation de la troupe morte-vivante sélectioné de (Magie x 50 + 160) points de vie éliminées au cours du combat.
+Réanimation de la troupe morte-vivante sélectionée de (Magie x 50 + 160) points de vie éliminés au cours du combat.
 "	 COMBAT_SPELL|CREATURE_TARGET
 Sacrifice	Sacrifice	5	 	 	x	 	25	20	20	20	1	3	3	6	10	0	0	0	20	16	12	0	0	0	1	1	1	1	"{Sacrifice}
 
