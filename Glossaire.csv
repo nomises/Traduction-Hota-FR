@@ -2,3 +2,26 @@
 Basic;Novice
 Advanced;Disciple
 Expert;Maître
+Poison;Poison paralysant
+Bind;Enchevêtrement
+Disease;Contagion
+Paralyze;Venin paralysant
+Age;Vieillissement
+Death Cloud;Nuage Toxique
+Attack;Attaque
+Defense;Défense
+Spell Power;Magie
+Knowledge;Savoir
+group;effectifs
+Dirt;Terre
+Sand;Désert
+Grass;Prairie
+Snow;Neige
+Swamp;Marais
+Rough;Rocailleux
+Subterranean;Souterrain
+Lava;Lave
+Water;Océan
+Rock;Rocher
+hex;hexagone
+unit;troupe
