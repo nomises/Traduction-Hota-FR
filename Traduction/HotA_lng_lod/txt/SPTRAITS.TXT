@@ -95,16 +95,16 @@ Révèle au lanceur de sorts où se trouvent les artéfacts à l'abandon, ainsi 
 "	 ADV_SPELL
 Envol	Envol	5	 	 	 	x	20	15	15	15	0	60	60	80	100	0	16	16	16	16	12	0	0	13	30	30	40	50	"{Envol}
 
-Permet à votre armée de survoler les obstacles avec une pénalité de 40 % sur les points de mouvement du Héros. Valide pour 1 tour. Le Héros doit atterrir a la fin de son tour.
+Permet à votre armée de survoler les obstacles avec une pénalité de 40 % sur les points de mouvement du Héros. Valide pour 1 tour. Le Héros doit atterrir à la fin de son tour.
 "	"{Envol pour Novice}
 
-Permet à votre armée de survoler les obstacles avec une pénalité de 40 % sur les points de mouvement du Héros. Valide pour 1 tour. Le Héros doit atterrir a la fin de son tour.
+Permet à votre armée de survoler les obstacles avec une pénalité de 40 % sur les points de mouvement du Héros. Valide pour 1 tour. Le Héros doit atterrir à la fin de son tour.
 "	"{Envol pour Disciple}
 
-Permet à votre armée de survoler les obstacles avec une pénalité de 20 % sur les points de mouvement du Héros. Valide pour 1 tour. Le Héros doit atterrir a la fin de son tour.
+Permet à votre armée de survoler les obstacles avec une pénalité de 20 % sur les points de mouvement du Héros. Valide pour 1 tour. Le Héros doit atterrir à la fin de son tour.
 "	"{Envol pour Maître}
 
-Permet à votre armée de survoler les obstacles sans pénalité de mouvement. Valide pour 1 tour. Le Héros doit atterrir a la fin de son tour.
+Permet à votre armée de survoler les obstacles sans pénalité de mouvement. Valide pour 1 tour. Le Héros doit atterrir à la fin de son tour.
 "	 ADV_SPELL
 Pont Céleste	Pont Céleste	4	 	x	 	 	12	8	8	8	0	60	60	80	100	10	10	10	10	10	10	0	0	10	15	15	20	25	"{Pont Céleste}
 
@@ -514,16 +514,16 @@ Annule tous les effets négatifs des sorts lancés contre la troupe visée, exce
 "	 COMBAT_SPELL|CREATURE_TARGET_1
 Résurrection	Résurrection	4	x	 	 	 	20	16	16	16	50	40	40	80	160	10	10	10	10	10	10	0	0	5	50	50	60	120	"{Résurrection}
 
-La troupe sélectionnée se voit restituée (Magie x 50 + 40) points de vie afin de ressusciter les créatures éliminées pour la durée du combat.
+La troupe sélectionnée se voit restituer (Magie x 50 + 40) points de vie afin de ressusciter les créatures éliminées pour la durée du combat.
 "	"{Résurrection pour Novice}
 
-La troupe sélectionnée se voit restituée (Magie x 50 + 40) points de vie afin de ressusciter les créatures éliminées pour la durée du combat.
+La troupe sélectionnée se voit restituer (Magie x 50 + 40) points de vie afin de ressusciter les créatures éliminées pour la durée du combat.
 "	"{Résurrection pour Disciple}
 
-La troupe sélectionnée se voit restituée (Magie x 50 + 80) points de vie afin de ressusciter les créatures éliminées de façon permanente.
+La troupe sélectionnée se voit restituer (Magie x 50 + 80) points de vie afin de ressusciter les créatures éliminées de façon permanente.
 "	"{Résurrection pour Maître}
 
-La troupe sélectionnée se voit restituée (Magie x 50 + 160) points de vie afin de ressusciter les créatures éliminées pour la durée du combat.
+La troupe sélectionnée se voit restituer (Magie x 50 + 160) points de vie afin de ressusciter les créatures éliminées pour la durée du combat.
 "	 COMBAT_SPELL|CREATURE_TARGET
 Animation des Morts	Ani. des Morts	3	x	 	 	 	15	12	12	12	50	30	30	60	160	0	0	0	0	16	0	0	0	0	60	60	60	120	"{Animation des Morts}
 
