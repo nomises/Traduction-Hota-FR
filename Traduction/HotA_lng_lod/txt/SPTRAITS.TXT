@@ -56,16 +56,16 @@ Indique les effectifs des monstres errants et précise s'ils sont prêts à rejo
 "	 ADV_SPELL
 Parole des Pierres	Par. des Pierres	1	x				2	1	1	1	0	0	0	0	0	3	3	3	3	3	3	3	3	3	1	1	1	1	"{Parole des Pierres}
 
-Révèle l'emplacement de toutes les ressources au lanceur de sort. L'information peut être vue a nouveau avec la carte jusqu'a la fin du tour.
+Révèle l'emplacement de toutes les ressources au lanceur de sort. L'information peut être vue à nouveau sur la carte jusqu'à la fin du tour.
 "	"{Parole des Pierres pour Novice}
 
-Révèle l'emplacement de toutes les ressources au lanceur de sort. L'information peut être vue a nouveau avec la carte jusqu'a la fin du tour.
+Révèle l'emplacement de toutes les ressources au lanceur de sort. L'information peut être vue à nouveau sur la carte jusqu'à la fin du tour.
 "	"{Parole des Pierres pour Disciple}
 
-Révèle l'emplacement de toutes les ressources et mines au lanceur de sort. L'information peut être vue a nouveau avec la carte jusqu'a la fin du tour.
+Révèle l'emplacement de toutes les ressources et mines au lanceur de sort. L'information peut être vue à nouveau sur la carte jusqu'à la fin du tour.
 "	"{Parole des Pierres pour Maître}
 
-Révèle l'emplacement de toutes les ressources, mines et terrains au lanceur de sort. 
+Révèle l'emplacement de toutes les ressources, mines et terrains au lanceur de sort. L'information peut être vue à nouveau sur la carte jusqu'à la fin du tour.
 "	 ADV_SPELL
 Illusion	Illusion	2	 	 	 	x	4	2	2	2	0	0	0	0	0	2	2	2	4	2	2	2	0	2	1	1	1	1	"{Illusion}
 
@@ -82,29 +82,29 @@ Pour l'ennemi, toutes vos unités ressemblent à la créature la plus puissante 
 "	 ADV_SPELL
 Parole des Vents	Par. des Vents	1				x	2	1	1	1	0	0	0	0	0	3	3	3	3	3	3	3	3	3	1	1	1	1	"{Parole des Vents}
 
-Révèle au lanceur de sorts où se trouvent les artéfacts à l'abandon. L'information peut être vue a nouveau avec la carte jusqu'a la fin du tour.
+Révèle au lanceur de sorts où se trouvent les artéfacts à l'abandon. L'information peut être vue à nouveau sur la carte jusqu'à la fin du tour.
 "	"{Parole des Vents pour Novice}
 
-Révèle au lanceur de sorts où se trouvent les artéfacts à l'abandon. L'information peut être vue a nouveau avec la carte jusqu'a la fin du tour.
+Révèle au lanceur de sorts où se trouvent les artéfacts à l'abandon. L'information peut être vue à nouveau sur la carte jusqu'à la fin du tour.
 "	"{Parole des Vents pour Disciple}
 
-Révèle au lanceur de sorts où se trouvent les artéfacts à l'abandon, ainsi que les héros ennemis. L'information peut être vue a nouveau avec la carte jusqu'a la fin du tour.
+Révèle au lanceur de sorts où se trouvent les artéfacts à l'abandon, ainsi que les héros ennemis. L'information peut être vue à nouveau sur la carte jusqu'à la fin du tour.
 "	"{Parole des Vents pour Maître}
 
-Révèle au lanceur de sorts où se trouvent les artéfacts à l'abandon, ainsi que les héros et villes ennemis. L'information peut être vue a nouveau avec la carte jusqu'a la fin du tour.
+Révèle au lanceur de sorts où se trouvent les artéfacts à l'abandon, ainsi que les héros et villes ennemis. L'information peut être vue à nouveau sur la carte jusqu'à la fin du tour.
 "	 ADV_SPELL
 Envol	Envol	5	 	 	 	x	20	15	15	15	0	60	60	80	100	0	16	16	16	16	12	0	0	13	30	30	40	50	"{Envol}
 
-Permet à votre armée de survoler les obstacles avec une pénalité de 40 % sur les points de mouvement du Héros. Valide pour 1 tour. Le Héros doit atterrir à la fin de son tour.
+Permet à votre armée de survoler les obstacles avec une pénalité de 40 % sur les points de mouvement du Héros. Valide pour 1 tour. Le Héros doit atterrir avant la fin de son tour.
 "	"{Envol pour Novice}
 
-Permet à votre armée de survoler les obstacles avec une pénalité de 40 % sur les points de mouvement du Héros. Valide pour 1 tour. Le Héros doit atterrir à la fin de son tour.
+Permet à votre armée de survoler les obstacles avec une pénalité de 40 % sur les points de mouvement du Héros. Valide pour 1 tour. Le Héros doit atterrir avant la fin de son tour.
 "	"{Envol pour Disciple}
 
-Permet à votre armée de survoler les obstacles avec une pénalité de 20 % sur les points de mouvement du Héros. Valide pour 1 tour. Le Héros doit atterrir à la fin de son tour.
+Permet à votre armée de survoler les obstacles avec une pénalité de 20 % sur les points de mouvement du Héros. Valide pour 1 tour. Le Héros doit atterrir avant la fin de son tour.
 "	"{Envol pour Maître}
 
-Permet à votre armée de survoler les obstacles sans pénalité de mouvement. Valide pour 1 tour. Le Héros doit atterrir à la fin de son tour.
+Permet à votre armée de survoler les obstacles sans pénalité de mouvement. Valide pour 1 tour. Le Héros doit atterrir avant la fin de son tour.
 "	 ADV_SPELL
 Pont Céleste	Pont Céleste	4	 	x	 	 	12	8	8	8	0	60	60	80	100	10	10	10	10	10	10	0	0	10	15	15	20	25	"{Pont Céleste}
 
@@ -267,16 +267,16 @@ Les troupes visées subissent des dégâts. Inflige (Magie x 100 + 300) points d
 "	 COMBAT_SPELL|CREATURE_TARGET
 Foudre Terrible	Foudre Terr.	4	 	 	 	x	24	20	20	20	40	25	25	50	100	10	10	10	10	10	10	0	0	10	75	75	75	75	"{Foudre Terrible}
 
-Un éclair frappe la cible, infligeant des dégâts. Il rebondit ensuite et frappe la troupe la plus proche infligeant moitié moins de dégâts et ainsi de suite jusqu'à ce que quatre unités aient été touchées. (Magie x 40 + 25 points de dégâts).
+Un éclair frappe la cible, infligeant des dégâts. Il rebondit ensuite et frappe la troupe la plus proche infligeant moitié moins de dégâts et ainsi de suite jusqu'à ce que quatre troupes aient été touchées. (Magie x 40 + 25 points de dégâts).
 "	"{Foudre Terrible pour Novice}
 
-Un éclair frappe la cible, infligeant des dégâts. Il rebondit ensuite et frappe la troupe la plus proche infligeant moitié moins de dégâts et ainsi de suite jusqu'à ce que quatre unités aient été touchées. (Magie x 40 + 25 points de dégâts).
+Un éclair frappe la cible, infligeant des dégâts. Il rebondit ensuite et frappe la troupe la plus proche infligeant moitié moins de dégâts et ainsi de suite jusqu'à ce que quatre troupes aient été touchées. (Magie x 40 + 25 points de dégâts).
 "	"{Foudre Terrible pour Disciple}
 
-Un éclair frappe la cible, infligeant des dégâts. Il rebondit ensuite et frappe la troupe la plus proche infligeant moitié moins de dégâts et ainsi de suite jusqu'à ce que cinq unités aient été touchées. (Magie x 40 + 50 points de dégâts).
+Un éclair frappe la cible, infligeant des dégâts. Il rebondit ensuite et frappe la troupe la plus proche infligeant moitié moins de dégâts et ainsi de suite jusqu'à ce que cinq troupes aient été touchées. (Magie x 40 + 50 points de dégâts).
 "	"{Foudre Terrible pour Maître}
 
-Un éclair frappe la cible, infligeant des dégâts. Il rebondit ensuite et frappe la troupe la plus proche infligeant moitié moins de dégâts et ainsi de suite jusqu'à ce que cinq unités aient été touchées. (Magie x 40 + 100 points de dégâts).
+Un éclair frappe la cible, infligeant des dégâts. Il rebondit ensuite et frappe la troupe la plus proche infligeant moitié moins de dégâts et ainsi de suite jusqu'à ce que cinq troupes aient été touchées. (Magie x 40 + 100 points de dégâts).
 "	 COMBAT_SPELL|CREATURE_TARGET
 Anneau de Givre	Anneau de G.	3	 	x	 	 	12	9	9	9	10	15	15	30	60	16	16	16	0	12	12	12	4	12	12	12	12	12	"{Anneau de Givre}
 
@@ -858,13 +858,13 @@ La troupe alliée visée est téléportée sur un hexagone inoccupé de votre ch
 "	 COMBAT_SPELL|CREATURE_TARGET
 Champ Libre	Champ Libre	2	 	x	 	 	7	5	5	5	0	0	0	0	0	4	4	6	4	4	4	4	4	4	1	1	1	1	"{Champ Libre}
 
-Supprime un obstacle non-magique (abres, roches, etc.) du champ de bataille.
+Supprime un obstacle non-magique (abre, rocher, etc.) du champ de bataille.
 "	"{Champ Libre pour Novice}
 
-Supprime un obstacle non-magique (abres, roches, etc.) du champ de bataille.
+Supprime un obstacle non-magique (abre, rocher, etc.) du champ de bataille.
 "	"{Champ Libre pour Disciple}
 
-Supprime un obstacle non-magique (abres, roches, etc.) du champ de bataille ainsi que les Murs de Flammes.
+Supprime un obstacle non-magique (abre, rocher, etc.) du champ de bataille ainsi que les Murs de Flammes.
 "	"{Champ Libre pour Maître}
 
 Supprime tous les obstacles du champ de bataille.
@@ -892,64 +892,64 @@ Clone agit sur les créatures des niveaux 1 à 7.
 "	 COMBAT_SPELL|CREATURE_TARGET
 Élémentaires Feu	Élém. Feu	5			x		25	20	20	20	0	2	2	3	4	0	0	0	16	0	12	0	0	12	50	50	100	150	"{Élémentaires du Feu}
 
-Vous pouvez invoquer des Élémentaires du Feu (Magie x 2) à un emplacement aléatoire sur le champ de bataille.
+Vous pouvez invoquer des Élémentaires du Feu (Magie x 2) sur un emplacement aléatoire du champ de bataille.
 "	"{Élémentaires du Feu pour Novice}
 
-Vous pouvez invoquer des Élémentaires du Feu (Magie x 2) à un emplacement aléatoire sur le champ de bataille.
+Vous pouvez invoquer des Élémentaires du Feu (Magie x 2) sur un emplacement aléatoire du champ de bataille.
 "	"{Élémentaires du Feu pour Disciple}
 
-Vous pouvez invoquer des Élémentaires du Feu (Magie x 2.5) à un emplacement aléatoire sur le champ de bataille.
+Vous pouvez invoquer des Élémentaires du Feu (Magie x 2.5) sur un emplacement aléatoire du champ de bataille.
 "	"{Élémentaires du Feu pour Maître}
 
-Vous pouvez invoquer des Élémentaires du Feu (Magie x 3) à un emplacement aléatoire sur le champ de bataille.
+Vous pouvez invoquer des Élémentaires du Feu (Magie x 3) sur un emplacement aléatoire du champ de bataille.
 "	 COMBAT_SPELL
 Élémentaires Terre	Élém. Terre	5	x				25	20	20	20	0	2	2	3	4	0	16	14	16	16	12	0	0	12	50	50	100	150	"{Élémentaires de la Terre}
 
-Vous pouvez invoquer des Élémentaires de la Terre (Magie x 2) à un emplacement aléatoire sur le champ de bataille.
+Vous pouvez invoquer des Élémentaires de la Terre (Magie x 2) sur un emplacement aléatoire du champ de bataille.
 "	"{Élémentaires de la Terre pour Novice}
 
-Vous pouvez invoquer des Élémentaires de la Terre (Magie x 2) à un emplacement aléatoire sur le champ de bataille.
+Vous pouvez invoquer des Élémentaires de la Terre (Magie x 2) sur un emplacement aléatoire du champ de bataille.
 "	"{Élémentaires de la Terre pour Disciple}
 
-Vous pouvez invoquer des Élémentaires de la Terre (Magie x 2.5) à un emplacement aléatoire sur le champ de bataille.
+Vous pouvez invoquer des Élémentaires de la Terre (Magie x 2.5) sur un emplacement aléatoire du champ de bataille.
 "	"{Élémentaires de la Terre pour Maître}
 
-Vous pouvez invoquer des Élémentaires de la Terre (Magie x 3) à un emplacement aléatoire sur le champ de bataille.
+Vous pouvez invoquer des Élémentaires de la Terre (Magie x 3) sur un emplacement aléatoire du champ de bataille.
 "	 COMBAT_SPELL
 Élémentaires Eau	Élém. Eau	5		x			25	20	20	20	0	2	2	3	4	0	16	14	0	0	12	0	0	12	50	50	100	150	"{Élémentaires de l'Eau}
 
-Vous pouvez invoquer des Élémentaires de l'Eau (Magie x 2) à un emplacement aléatoire sur le champ de bataille.
+Vous pouvez invoquer des Élémentaires de l'Eau (Magie x 2) sur un emplacement aléatoire du champ de bataille.
 "	"{Élémentaires de l'Eau pour Novice}
 
-Vous pouvez invoquer des Élémentaires de l'Eau (Magie x 2) à un emplacement aléatoire sur le champ de bataille.
+Vous pouvez invoquer des Élémentaires de l'Eau (Magie x 2) sur un emplacement aléatoire du champ de bataille.
 "	"{Élémentaires de l'Eau pour Disciple}
 
-Vous pouvez invoquer des Élémentaires de l'Eau (Magie x 3) à un emplacement aléatoire sur le champ de bataille.
+Vous pouvez invoquer des Élémentaires de l'Eau (Magie x 3) sur un emplacement aléatoire du champ de bataille.
 "	"{Élémentaires de l'Eau pour Maître}
 
-Vous pouvez invoquer des Élémentaires de l'Eau (Magie x 4) à un emplacement aléatoire sur le champ de bataille.
+Vous pouvez invoquer des Élémentaires de l'Eau (Magie x 4) sur un emplacement aléatoire du champ de bataille.
 "	 COMBAT_SPELL
 Élémentaires Air	Élém. Air	5				x	25	20	20	20	0	2	2	3	4	0	0	14	0	16	0	0	0	12	50	50	100	150	"{Élémentaires de l'Air}
 
-Vous pouvez invoquer des Élémentaires de l'Air (Magie x 2) à un emplacement aléatoire sur le champ de bataille.
+Vous pouvez invoquer des Élémentaires de l'Air (Magie x 2) sur un emplacement aléatoire du champ de bataille.
 "	"{Élémentaires de l'Air pour Novice}
 
-Vous pouvez invoquer des Élémentaires de l'Air (Magie x 2) à un emplacement aléatoire sur le champ de bataille.
+Vous pouvez invoquer des Élémentaires de l'Air (Magie x 2) sur un emplacement aléatoire du champ de bataille.
 "	"{Élémentaires de l'Air pour Disciple}
 
-Vous pouvez invoquer des Élémentaires de l'Air (Magie x 3) à un emplacement aléatoire sur le champ de bataille.
+Vous pouvez invoquer des Élémentaires de l'Air (Magie x 3) sur un emplacement aléatoire du champ de bataille.
 "	"{Élémentaires de l'Air pour Maître}
 
-Vous pouvez invoquer des Élémentaires de l'Air (Magie x 4) à un emplacement aléatoire sur le champ de bataille.
+Vous pouvez invoquer des Élémentaires de l'Air (Magie x 4) sur un emplacement aléatoire du champ de bataille.
 "	 COMBAT_SPELL
 																																	
 Creature Abilities																																	
 																																	
 Regard Pétrifiant	Regard Pétrifiant	3					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
-Poison paralysant	Poison paralysant	0					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
+Poison Paralysant	Poison Paralysant	0					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
 Enchevêtrement	Enchevêtrement	0					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
 Contagion	Contagion	2					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
-Venin paralysant	Venin paralysant	4					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
+Venin Paralysant	Venin Paralysant	4					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
 Vieillissement	Vieillissement	5					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
 Nuage Toxique	Nuage Toxique	0					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
 Foudre	Foudre	0					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
