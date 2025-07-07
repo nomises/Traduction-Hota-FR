@@ -71,18 +71,18 @@ La chance du Héros est augmentée de 2 points."	"{Maître en Chance}
 La chance du Héros est augmentée de 3 points."
 Ballistique	"{Novice en Balistique}
 
-Le Héros dirige le tir de la catapulte. La catapulte a plus de chance de toucher les murs des châteaux. La catapulte de ne peut pas perdre plus de 40% de ses points de vie en recevant une attaque."	"{Disciple en Balistique}
+Le Héros dirige le tir de la Catapulte. La Catapulte a plus de chance de toucher les murs des châteaux. La Catapulte de ne peut pas perdre plus de 40% de ses points de vie en recevant une attaque."	"{Disciple en Balistique}
 
-Le Héros dirige deux tirs de catapulte par tour. La catapulte a plus de chance de toucher les murs des châteaux. La catapulte de ne peut pas perdre plus de 40% de ses points de vie en recevant une attaque."	"{Maître en Balistique}
+Le Héros dirige deux tirs de Catapulte par tour. La Catapulte a plus de chance de toucher les murs des châteaux. La Catapulte de ne peut pas perdre plus de 40% de ses points de vie en recevant une attaque."	"{Maître en Balistique}
 
-Le Héros dirige deux tirs de catapulte par tour. La catapulte touche avec précision les murs des châteaux infligeant le maximum de dommages. La catapulte de ne peut pas perdre plus de 40% de ses points de vie en recevant une attaque."
+Le Héros dirige deux tirs de Catapulte par tour. La Catapulte touche avec précision les murs des châteaux infligeant le maximum de dommages. La Catapulte de ne peut pas perdre plus de 40% de ses points de vie en recevant une attaque."
 Mimétisme	"{Novice en Mimétisme}
 
-Permet au héros de voir les sorts de niveau 1 à 3 d'un héros ennemi en combat. Il donne au héros 10% de chances d'apprendre n'importe quel sort de niveau 1-3 du héros ennemi au début du combat et 100% de chances de l'apprendre dès que le sort est utilisé par l'ennemi en combat. Annule un niveau de Mimétisme du héros ennemi."	"{Disciple en Mimétisme}
+Permet au Héros de voir les sorts de niveau 1 à 3 d'un Héros ennemi en combat. Il donne au Héros 10% de chances d'apprendre n'importe quel sort de niveau 1-3 du Héros ennemi au début du combat et 100% de chances de l'apprendre dès que le sort est utilisé par l'ennemi en combat. Annule un niveau de Mimétisme du Héros ennemi."	"{Disciple en Mimétisme}
 
-Permet au héros de voir les sorts de niveau 1 à 4 d'un héros ennemi en combat. Il donne au héros 20% de chances d'apprendre n'importe quel sort de niveau 1-4 du héros ennemi au début du combat et 100% de chances de l'apprendre dès que le sort est utilisé par l'ennemi en combat. Annule deux niveaux de Mimétisme du héros ennemi."	"{Maître en Mimétisme}
+Permet au Héros de voir les sorts de niveau 1 à 4 d'un Héros ennemi en combat. Il donne au Héros 20% de chances d'apprendre n'importe quel sort de niveau 1-4 du Héros ennemi au début du combat et 100% de chances de l'apprendre dès que le sort est utilisé par l'ennemi en combat. Annule deux niveaux de Mimétisme du Héros ennemi."	"{Maître en Mimétisme}
 
-Permet au héros de voir tous les sorts d'un héros ennemi en combat. Il donne au héros 30% de chances d'apprendre n'importe quel sort du héros ennemi au début du combat et 100% de chances de l'apprendre dès que le sort est utilisé par l'ennemi en combat. Annule complètement le Mimétisme du héros ennemi."
+Permet au Héros de voir tous les sorts d'un Héros ennemi en combat. Il donne au Héros 30% de chances d'apprendre n'importe quel sort du Héros ennemi au début du combat et 100% de chances de l'apprendre dès que le sort est utilisé par l'ennemi en combat. Annule complètement le Mimétisme du Héros ennemi."
 Nécromancie	"{Novice en Nécromancie}
 
 5% des créatures éliminées lors d'un combat rejoignent les rangs du Héros sous la forme de Squelettes."	"{Disciple en Nécromancie}
@@ -134,18 +134,18 @@ Lorsque le Héros rencontre un Héros allié, il apprend les sorts de niveau 1, 
 Lorsque le Héros rencontre un Héros allié, il apprend les sorts de niveau 1, 2, 3 et 4 qu'il ne connaissait pas et inversement. Le livre des sorts du Héros est mis à jour."
 Tactique	"{Novice en Tactique}
 
-Le Héros peut déployer ses troupes dans les trois premières colonnes d'hexagones avant un combat. Annule un niveau de Tactique du héros ennemi."	"{Disciple en Tactique}
+Le Héros peut déployer ses troupes dans les trois premières colonnes d'hexagones avant un combat. Annule un niveau de Tactique du Héros ennemi."	"{Disciple en Tactique}
 
-Le Héros peut déployer ses troupes dans les cinq premières colonnes d'hexagones avant un combat. Annule deux niveaux de Tactique du héros ennemi."	"{Maître en Tactique}
+Le Héros peut déployer ses troupes dans les cinq premières colonnes d'hexagones avant un combat. Annule deux niveaux de Tactique du Héros ennemi."	"{Maître en Tactique}
 
-Le Héros peut déployer ses troupes dans les sept premières colonnes d'hexagones avant un combat. Annule complètement la Tactique du héros ennemi."
+Le Héros peut déployer ses troupes dans les sept premières colonnes d'hexagones avant un combat. Annule complètement la Tactique du Héros ennemi."
 Artillerie	"{Novice en Artillerie}
 
-Le Héros dirige les tirs de la Baliste, du Canon, et des Tours fortifiées. Chacun des tirs a 50% de chances d'infliger le double des dégâts. Le Canon cause en plus des dommages collatéraux aux fortifications. Le canon et la baliste ne peuvent pas perdre plus de 40% de leurs points de vie en recevant une attaque."	"{Disciple en Artillerie}
+Le Héros dirige les tirs de la Baliste, du Canon, et des Tours fortifiées. Chacun des tirs a 50% de chances d'infliger le double des dégâts. Le Canon cause en plus des dommages collatéraux aux fortifications. Le Canon et la Baliste ne peuvent pas perdre plus de 40% de leurs points de vie en recevant une attaque."	"{Disciple en Artillerie}
 
-Le Héros dirige les tirs de la Baliste, du Canon, et des Tours fortifiées. Chacun des tirs a 75% de chances d'infliger le double des dégâts. La Baliste tire 2 fois. Le Canon inflige le double des dégâts et cause en plus des dommages collatéraux aux fortifications. Le canon et la baliste ne peuvent pas perdre plus de 40% de leurs points de vie en recevant une attaque."	"{Maître en Artillerie}
+Le Héros dirige les tirs de la Baliste, du Canon, et des Tours fortifiées. Chacun des tirs a 75% de chances d'infliger le double des dégâts. La Baliste tire 2 fois. Le Canon inflige le double des dégâts et cause en plus des dommages collatéraux aux fortifications. Le Canon et la Baliste ne peuvent pas perdre plus de 40% de leurs points de vie en recevant une attaque."	"{Maître en Artillerie}
 
-Le Héros dirige les tirs de la Baliste, du Canon, et des Tours fortifiées. La Baliste tire 2 fois et inflige le double des dégâts. Le Canon inflige le triple des dégâts et cause un maximum de dommages collatéraux aux fortifications. Le canon et la baliste ne peuvent pas perdre plus de 40% de leurs points de vie en recevant une attaque."
+Le Héros dirige les tirs de la Baliste, du Canon, et des Tours fortifiées. La Baliste tire 2 fois et inflige le double des dégâts. Le Canon inflige le triple des dégâts et cause un maximum de dommages collatéraux aux fortifications. Le Canon et la Baliste ne peuvent pas perdre plus de 40% de leurs points de vie en recevant une attaque."
 Apprentissage	"{Novice en Apprentissage}
 
 Le Héros gagne 5% de points d'expérience supplémentaire."	"{Disciple en Apprentissage}
