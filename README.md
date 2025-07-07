@@ -34,8 +34,9 @@ Ce projet vise à traduire en français l’extension Horn of the Abyss (HotA) p
 2. Choisissez un fichier dans `A faire.md` qui n'est pas actuellement en cours de traduction.
 3. Créez une branche avec le nom du fichier à traduire.
 > Ex : SPTRAITS.txt
-4. Respectez la structure des fichiers et la cohérence des traductions. (**N'hésitez pas à consulter le `Glossaire.csv` et à ajouter des mots si vous les jugez pertinents**)
-5. Avant de faire votre pull request :
+4. Vérifier le fichier `Guide de traduction` pour connaitre les standards.
+5. Respectez la structure des fichiers et la cohérence des traductions. (**N'hésitez pas à consulter le `Glossaire.csv` et à ajouter des mots si vous les jugez pertinents**)
+6. Avant de faire votre pull request :
     - Barrez le fichier fait dans `A faire.md`.
     > Ex : ~~SPTRAITS.txt~~
     - Assurez-vous qu'il y a un fichier anglais lorsqu'il n'est pas déjà présent.
