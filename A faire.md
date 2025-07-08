@@ -12,7 +12,7 @@
 * xtrainfo.txt
 
 ### Vérifier
-* advevent.txt
+* ~~advevent.txt~~
 * ARRAYTXT.txt
 * artevent.txt
 * artraits.txt
