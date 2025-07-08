@@ -46,13 +46,13 @@ Divination	Divination	2	x	x	x	x	4	2	2	2	0	1	1	2	3	2	2	2	4	2	2	2	2	2	1	1	1	1	"{Di
 Indique les effectifs des monstres errants et précise s'ils sont prêts à rejoindre l'armée du Héros. La portée est équivalente à la magie ou trois, selon le plus élevé. Valide pour 1 tour.
 "	"{Divination pour Novice}
 
-Indique les effectifs des monstres errants et précise s'ils sont prêts à rejoindre l'armée du Héros. La portée est équivalante à la magie ou trois, selon le plus élevé. Valide pour 1 tour.
+Indique les effectifs des monstres errants et précise s'ils sont prêts à rejoindre l'armée du Héros. La portée est équivalente à la magie ou trois, selon le plus élevé. Valide pour 1 tour.
 "	"{Divination pour Disciple}
 
-Indique les effectifs des monstres errants et précise s'ils sont prêts à rejoindre l'armée du Héros. Les caractéristiques des héros ennemis sont précisées ainsi que les effectifs de leurs armées respectives. La portée est équivalante à (magie x 2) ou trois, selon le plus élevé. Valide pour 1 tour.
+Indique les effectifs des monstres errants et précise s'ils sont prêts à rejoindre l'armée du Héros. Les caractéristiques des héros ennemis sont précisées ainsi que les effectifs de leurs armées respectives. La portée est équivalente à (magie x 2) ou trois, selon le plus élevé. Valide pour 1 tour.
 "	"{Divination pour Maître}
 
-Indique les effectifs des monstres errants et précise s'ils sont prêts à rejoindre l'armée du Héros. Les caractéristiques des héros ennemis sont précisées ainsi que les effectifs de leurs armées respectives. Vous obtenez également des informations sur les villes et garnisons ennemies. La portée est équivalante à (magie x 3) ou trois, selon le plus élevé. Valide pour 1 tour.
+Indique les effectifs des monstres errants et précise s'ils sont prêts à rejoindre l'armée du Héros. Les caractéristiques des héros ennemis sont précisées ainsi que les effectifs de leurs armées respectives. Vous obtenez également des informations sur les villes et garnisons ennemies. La portée est équivalente à (magie x 3) ou trois, selon le plus élevé. Valide pour 1 tour.
 "	 ADV_SPELL
 Parole des Pierres	Par. des Pierres	1	x				2	1	1	1	0	0	0	0	0	3	3	3	3	3	3	3	3	3	1	1	1	1	"{Parole des Pierres}
 
