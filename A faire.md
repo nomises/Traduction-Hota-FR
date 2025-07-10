@@ -16,7 +16,7 @@
 * ARRAYTXT.txt
 * artevent.txt
 * artraits.txt
-* ArtSlots.txt
+* ~~ArtSlots.txt~~
 * BldgNeut.txt
 * BldgSpec.txt
 * CAMPBTTN.TXT
