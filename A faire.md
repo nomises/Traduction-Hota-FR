@@ -19,7 +19,7 @@
 * ~~ArtSlots.txt~~
 * BldgNeut.txt
 * BldgSpec.txt
-* CAMPBTTN.TXT
+* ~~CAMPBTTN.TXT~~
 * CAMPDIAG.TXT
 * CAMPHIGH.TXT
 * CampText.txt
