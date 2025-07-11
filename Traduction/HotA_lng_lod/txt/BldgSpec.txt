@@ -47,7 +47,7 @@ Catacombes	Les Catacombes permettent de recruter + 6 Squelettes supplémentaires
 Catacombes	Les Catacombes permettent de recruter + 6 Guerriers Squelettes supplémentaires chaque semaine.	
 Chantier Naval	Le Chantier Naval vous permet d'acheter des bateaux.	
 Nécrolyte	Le Nécrolyte octroie un bonus de 5% en Nécromancie à tous vos héros spécialisés dans cette compétence.	
-Ossuaire	L'Ossuaire permet de transformer des créatures en Squelettes.	
+Ossuaire	L'Ossuaire permet de transformer des créatures en Squelettes. les Dragons, les Hydres, les Serpents de Mer et les Couatls sont transformer en Dragon Squelettes.	
 		
 		
 		
