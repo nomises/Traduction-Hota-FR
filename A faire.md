@@ -30,7 +30,7 @@
 * ~~CrGen1.txt~~
 * ~~CrGen4.txt~~
 * ~~CrGenerc.txt~~
-* CRTRAITS.TXT
+* ~~CRTRAITS.TXT~~
 * Dwelling.txt
 * EDITOR.TXT
 * EDITRCMD.TXT
