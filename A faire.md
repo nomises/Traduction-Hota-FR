@@ -36,7 +36,7 @@
 * ~~EDITRCMD.TXT~~
 * ~~Garrison.txt~~
 * GENRLTXT.TXT
-* HallInfo.txt
+* ~~HallInfo.txt~~
 * HCTRAITS.TXT
 * Help.txt
 * HeroBios.txt
