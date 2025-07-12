@@ -34,7 +34,7 @@
 * ~~Dwelling.txt~~
 * ~~EDITOR.TXT~~
 * ~~EDITRCMD.TXT~~
-* Garrison.txt
+* ~~Garrison.txt~~
 * GENRLTXT.TXT
 * HallInfo.txt
 * HCTRAITS.TXT
