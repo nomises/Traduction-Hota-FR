@@ -33,7 +33,7 @@
 * ~~CRTRAITS.TXT~~
 * ~~Dwelling.txt~~
 * ~~EDITOR.TXT~~
-* EDITRCMD.TXT
+* ~~EDITRCMD.TXT~~
 * Garrison.txt
 * GENRLTXT.TXT
 * HallInfo.txt
