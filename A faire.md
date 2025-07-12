@@ -32,7 +32,7 @@
 * ~~CrGenerc.txt~~
 * ~~CRTRAITS.TXT~~
 * ~~Dwelling.txt~~
-* EDITOR.TXT
+* ~~EDITOR.TXT~~
 * EDITRCMD.TXT
 * Garrison.txt
 * GENRLTXT.TXT
