@@ -29,7 +29,7 @@
 * ~~CrBanks.txt~~
 * ~~CrGen1.txt~~
 * ~~CrGen4.txt~~
-* CrGenerc.txt
+* ~~CrGenerc.txt~~
 * CRTRAITS.TXT
 * Dwelling.txt
 * EDITOR.TXT
