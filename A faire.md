@@ -25,7 +25,7 @@
 * ~~CampText.txt~~
 * ~~CastInfo.txt~~
 * ~~CmpEdCmd.txt~~
-* CmpEditr.txt
+* ~~CmpEditr.txt~~
 * CrBanks.txt
 * CREDITS.TXT
 * CrGen1.txt
