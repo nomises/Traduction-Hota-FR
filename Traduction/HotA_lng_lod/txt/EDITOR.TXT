@@ -867,33 +867,33 @@ Ou&tils
 &Joueur	
 &Aide	
 File Menu	
-&Nouveau...	Ctrl+N
-&Ouvrir...	Ctrl+O
-&Enregistrer	Ctrl+S
+&Nouveau...	[Ctrl+N]
+&Ouvrir...	[Ctrl+O]
+&Enregistrer	[Ctrl+S]
 Enregistrer &sous...	
 &Exporter le texte...	
 &Importer le texte...	
 Fichier récent	
 Q&uitter	
 Edit Menu	
-&Annuler	Ctrl+Z
-&Rétablir	Ctrl+Y
-Co&uper	Ctrl+X
-&Copier	Ctrl+C
-&Coller	Ctrl+V
-&Supprimer	Suppr
-&Rechercher...	Ctrl+F
-S&uivant	F3
-Pré&cédent	Ctrl+F3
-Pr&opriétés...	Enter
+&Annuler	[Ctrl+Z]
+&Rétablir	[Shift+Ctrl+Z]
+Co&uper	[Ctrl+X]
+&Copier	[Ctrl+C]
+&Coller	[Ctrl+V]
+&Supprimer	[Suppr]
+&Rechercher...	[Ctrl+F]
+S&uivant	[F3]
+Pré&cédent	[Ctrl+F3]
+Pr&opriétés...	[Enter]
 View Menu	
 Zoom &Avant
 Zoom &Arrière	
-&Souterrain	Ctrl+U
-&Grille	Ctrl+G
-&Accessibilité	Ctrl+P
-Animation des &Objets	Ctrl+A
-A&nimation du Terrain	Ctrl+T
+&Souterrain	[Ctrl+U]
+&Grille	[Ctrl+G]
+&Accessibilité	[Ctrl+P]
+Animation des &Objets	[Ctrl+A]
+A&nimation du Terrain	[Ctrl+T]
 &Barre d'outils	
 &Barre de mode	
 &Barre d'état	
@@ -903,15 +903,15 @@ Tools Menu
 R&oute	
 &Gomme	
 O&bjets	
-Caractéristiques de la &Carte...	Ctrl+Enter
-&Valider la Carte	Shift+V
+Caractéristiques de la &Carte...	[Ctrl+Enter]
+&Valider la Carte	[M]
 O&ptions...	
 Obstacles	
 Tools|Terrain Menu	
-&1x1	
-&2x2
-&4x4
-&Remplissage
+&1x1	[Z]
+&2x2    [X]
+&4x4    [C]
+&Remplissage    [V]
 &Terre [1]
 &Désert [2]
 &Prairie [3]
@@ -920,24 +920,24 @@ Mara&is [5]
 &Rocailleux [6]
 S&outerrain [7]
 &Lave [8]
-&Océan
-P&arois [+]
+&Océan  [-]
+P&arois [=]
 Tools|Rivers Menu
-&Claire
-&Gelée
-&Boueuse
-&Lave
-&Gomme
+&Claire [Alt+1]
+&Gelée  [Alt+2]
+&Boueuse    [Alt+3]
+&Lave   [Alt+4]
+&Gomme  [Alt+5]
 Tools|Roads Menu
-&Terre
-&Graviers
-&Pavés
-&Gomme
+&Terre	[Shift+1]
+&Graviers   [Shift+2]
+&Pavés  [Shift+3]
+&Gomme  [Shift+4]
 Tools|Erase Menu
-&1x1
-&2x2
-&4x4
-&Remplissage
+&1x1    [Shift+Z]
+&2x2    [Shift+X]
+&4x4    [Shift+C]
+&Remplissage    [Shift+V]
 Tools|Objects Menu
 &Objets Terre [Q]
 &Objets Désert [W]
@@ -955,15 +955,15 @@ O&bjets Souterrain [U]
 Arté&facts [G]	
 Tr&ésors [H]	
 Player Menu	
-&Aucun	Ctrl+0
-Joueur &1 (%s)	Ctrl+1
-Joueur &2 (%s)	Ctrl+2
-Joueur &3 (%s)	Ctrl+3
-Joueur &4 (%s)	Ctrl+4
-Joueur &5 (%s)	Ctrl+5
-Joueur &6 (%s)	Ctrl+6
-Joueur &7 (%s)	Ctrl+7
-Joueur &8 (%s)	Ctrl+8
+&Aucun	[Ctrl+0]
+Joueur &1 (%s)	[Ctrl+1]
+Joueur &2 (%s)	[Ctrl+2]
+Joueur &3 (%s)	[Ctrl+3]
+Joueur &4 (%s)	[Ctrl+4]
+Joueur &5 (%s)	[Ctrl+5]
+Joueur &6 (%s)	[Ctrl+6]
+Joueur &7 (%s)	[Ctrl+7]
+Joueur &8 (%s)	[Ctrl+8]
 Help Menu	
 &Fichier d'Aide	
 &À propos de l'éditeur de Carte...	
@@ -981,20 +981,20 @@ Pré&cédent
 Pr&opriétés...
 Placer les O&bstacles
 Tools|Erase Menu
-1x1 Brosse Solide
-2x2 Brosse Solide
-4x4 Brosse Solide
-Brosse Solide de remplissage
-1x1 Brosse Floue
-2x2 Brosse Floue
-4x4 Brosse Floue
-Brosse Floue de remplissage
-1x1 Gomme Solide	
-2x2 Gomme Solide	
-4x4 Gomme Solide	
-Gomme Solide de remplissage	
-1x1 Gomme Floue	
-2x2 Gomme Floue		
-4x4 Gomme Floue		
-Gomme Floue de remplissage	
-Placer les &Obstacles	Shift+O
+1x1 Brosse Solide   [Shift+Q]
+2x2 Brosse Solide   [Shift+W]
+4x4 Brosse Solide   [Shift+E]
+Brosse Solide de remplissage    [Shift+R]
+1x1 Brosse Floue    [Shift+Alt+Q]
+2x2 Brosse Floue    [Shift+Alt+W]
+4x4 Brosse Floue    [Shift+Alt+E]
+Brosse Floue de remplissage [Shift+Alt+R]
+1x1 Gomme Solide	[Shift+A]
+2x2 Gomme Solide	[Shift+S]
+4x4 Gomme Solide	[Shift+D]
+Gomme Solide de remplissage [Shift+F]
+1x1 Gomme Floue [Shift+Alt+A]
+2x2 Gomme Floue		[Shift+Alt+S]
+4x4 Gomme Floue		[Shift+Alt+D]
+Gomme Floue de remplissage	[Shift+Alt+F]
+Placer les &Obstacles	[Shift+O]
