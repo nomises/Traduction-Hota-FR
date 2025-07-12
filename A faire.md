@@ -21,7 +21,7 @@
 * BldgSpec.txt
 * ~~CAMPBTTN.TXT~~
 * ~~CAMPDIAG.TXT~~
-* CAMPHIGH.TXT
+* ~~CAMPHIGH.TXT~~
 * CampText.txt
 * CastInfo.txt
 * CmpEdCmd.txt
