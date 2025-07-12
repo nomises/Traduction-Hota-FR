@@ -31,7 +31,7 @@
 * ~~CrGen4.txt~~
 * ~~CrGenerc.txt~~
 * ~~CRTRAITS.TXT~~
-* Dwelling.txt
+* ~~Dwelling.txt~~
 * EDITOR.TXT
 * EDITRCMD.TXT
 * Garrison.txt
