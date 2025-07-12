@@ -20,7 +20,7 @@
 * BldgNeut.txt
 * BldgSpec.txt
 * ~~CAMPBTTN.TXT~~
-* CAMPDIAG.TXT
+* ~~CAMPDIAG.TXT~~
 * CAMPHIGH.TXT
 * CampText.txt
 * CastInfo.txt
