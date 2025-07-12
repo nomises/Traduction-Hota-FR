@@ -27,7 +27,6 @@
 * ~~CmpEdCmd.txt~~
 * ~~CmpEditr.txt~~
 * ~~CrBanks.txt~~
-* CREDITS.TXT
 * CrGen1.txt
 * CrGen4.txt
 * CrGenerc.txt
@@ -189,3 +188,6 @@
 * Ville'de'Porte.txt
 * When Seas Were Deeper.txt
 * With Sword and Fire.txt
+
+### Crédit
+* HotA_lng.lod/CREDITS.TXT
