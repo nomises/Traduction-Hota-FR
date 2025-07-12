@@ -24,7 +24,7 @@
 * ~~CAMPHIGH.TXT~~
 * ~~CampText.txt~~
 * ~~CastInfo.txt~~
-* CmpEdCmd.txt
+* ~~CmpEdCmd.txt~~
 * CmpEditr.txt
 * CrBanks.txt
 * CREDITS.TXT
