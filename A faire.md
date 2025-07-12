@@ -26,7 +26,7 @@
 * ~~CastInfo.txt~~
 * ~~CmpEdCmd.txt~~
 * ~~CmpEditr.txt~~
-* CrBanks.txt
+* ~~CrBanks.txt~~
 * CREDITS.TXT
 * CrGen1.txt
 * CrGen4.txt
