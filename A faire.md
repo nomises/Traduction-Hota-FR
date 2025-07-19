@@ -40,7 +40,7 @@
 * HCTRAITS.TXT
 * Help.txt
 * HeroBios.txt
-* HeroScrn.txt
+* ~~HeroScrn.txt~~
 * HeroSpec.txt
 * HOTRAITS.TXT
 * JKTEXT.TXT
