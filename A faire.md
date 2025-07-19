@@ -42,7 +42,7 @@
 * HeroBios.txt
 * HeroScrn.txt
 * HeroSpec.txt
-* HOTRAITS.TXT
+* ~~HOTRAITS.TXT~~
 * JKTEXT.TXT
 * lcdesc.txt
 * MINEEVNT.TXT
