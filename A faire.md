@@ -43,7 +43,7 @@
 * ~~HeroScrn.txt~~
 * HeroSpec.txt
 * ~~HOTRAITS.TXT~~
-* JKTEXT.TXT
+* ~~JKTEXT.TXT~~
 * lcdesc.txt
 * MINEEVNT.TXT
 * MineName.txt
