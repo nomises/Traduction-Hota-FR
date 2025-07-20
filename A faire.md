@@ -38,7 +38,7 @@
 * GENRLTXT.TXT
 * ~~HallInfo.txt~~
 * HCTRAITS.TXT
-* Help.txt
+* ~~Help.txt~~
 * HeroBios.txt
 * ~~HeroScrn.txt~~
 * HeroSpec.txt
