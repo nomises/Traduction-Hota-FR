@@ -17,7 +17,7 @@ Afficher les Crédits du jeu."
 
 Retour à Windows."																						
 																							
-New Game	New Game																						
+Nouvelle Partie	Nouvelle Partie																						
 	"{Scénario}
 
 Participer à un Scénario isolé."																						
@@ -44,19 +44,24 @@ Description Title	Afficher les objectifs du scénario
 Description text	Afficher des Informations sur le Scénario																						
 EASY 	"{Facile}
 
-Le Joueur commence la partie avec davantage de ressources et l'Ordinateur ne représente pas une grande menace."																						
+Le Joueur commence la partie avec davantage de ressources et l'Ordinateur ne représente pas une grande menace.
+Multiplicateur de points de victoire : 80%."																						
 NORMAL 	"{Normal}
 
-Le Joueur commence la partie avec quelques ressources supplémentaires et l'Ordinateur représente une menace à prendre en compte."																						
+Le Joueur commence la partie avec quelques ressources supplémentaires et l'Ordinateur représente une menace à prendre en compte.
+Multiplicateur de points de victoire : 100%."																						
 HARD 	"{Difficile}
 
-Le Joueur et l'Ordinateur disposent des mêmes ressources en début de partie et l'Ordinateur représente une menace sérieuse."																						
+Le Joueur et l'Ordinateur disposent des mêmes ressources en début de partie et l'Ordinateur représente une menace sérieuse.
+Multiplicateur de points de victoire : 130%."																						
 EXPERT 	"{Expert}
 
-Le Joueur commence la partie avec moins de ressources et l'Ordinateur représente une menace importante."																						
+Le Joueur commence la partie avec moins de ressources et l'Ordinateur représente une menace importante.
+Multiplicateur de points de victoire : 160%."																						
 IMPOSSIBLE 	"{Impossible}
 
-Le Joueur commence la partie sans aucunes ressources et l'Ordinateur représente une menace importante."																						
+Le Joueur commence la partie sans aucunes ressources et l'Ordinateur représente une menace importante.
+Multiplicateur de points de victoire : 200%."																						
 ALLY_FLAG1 	La Couleur que vous défendez																						
 ALLY_FLAG2 	Cette Couleur est défendue par un Allié																						
 ALLY_FLAG3 	Cette Couleur est défendue par un Allié																						
@@ -301,7 +306,7 @@ Par défaut, la Durée Maximale d'un Tour est 'Illimitée'.
 "																						
 STARTING_TOWN_HEADER_ID,	"{Ville de Départ}
 
-Chacun des joueurs peut commencer ou pas la partie avec une ville. Le choix d'une ville peut être Aléatoire, ou il peut s'agir d'un Château, d'une Tour, d'un Rempart, d'un Donjon, d'une Forteresse, d'un Bastion, d'une Nécropole, d'un Hadès, d'un Conflux, d'une Crique ou d'une Manufacture.
+Chacun des joueurs peut commencer ou pas la partie avec une ville. Le choix d'une ville peut être Aléatoire, ou il peut s'agir d'un Château, d'une Tour, d'un Rempart, d'un Donjon, d'une Forteresse, d'un Bastion, d'une Nécropole, d'un Hadès.
 
 Si vous ne commencez pas la partie avec une ville, ce paramètre peut servir à déterminer l'alignement de votre Héros de départ.
 "																						
@@ -313,13 +318,13 @@ Si vous ne commencez pas la partie avec une ville, ce paramètre peut servir à 
 "																						
 STARTING_HERO_HEADER_ID,	"{Héros de Départ}
 
-Chacun des joueurs peut commencer ou pas la partie avec un Héros. Dans certains cas, cette option n'est pas accessible. Lorsque cette option est proposée, vous pouvez choisir votre Héros parmi les vingt-deux classes de Héros du jeu. Si une Ville de Départ est choisie, vous pourrez choisir parmi plusieurs Héros différents.
+Chacun des joueurs peut commencer ou pas la partie avec un Héros. Dans certains cas, cette option n'est pas accessible. Lorsque cette option est proposée, vous pouvez choisir votre Héros parmi les 16 classes de Héros du jeu. Si une Ville de Départ est choisie, vous pourrez choisir parmi plusieurs Héros différents.
 
 Pour afficher le nom du Héros, sa classe et sa spécialité, cliquez avec le bouton droit de la souris sur son portrait.
 "																						
 STARTING_BONUS_HEADER_ID,	"{Bonus de Départ}
 
-Si un Bonus de Départ est proposé, vous avez le choix entre un Artéfact, de l'Or (500 ou 1000 pièces d'Or), ou des Ressources supplémentaires (entre 5 et 10 unités de Bois ou de Pierres).
+Si un Bonus de Départ est proposé, vous avez le choix entre un Artéfact aléatoire, 500 ou 1000 pièces d'Or, ou entre 5 et 10 unités de Bois et de Pierres.
 "																						
 																							
 Multiplayer Selection	Multiplayer Selection																						
@@ -369,7 +374,9 @@ Annuler	Retour au Menu Précédent
 																							
 Adventure Map Window																							
 Carte du Monde	Il s'agit d'une représentation à échelle réduite de la carte du scénario. Cliquez sur un point de la Carte du Monde pour centrer l'Écran d'Aventure sur ce lieu. Vous pouvez également tirer-déplacer le rectangle rouge pour faire défiler l'Écran d'Aventure.																						
-Fenêtre d'État	SELECTION WINDOW																						
+Fenêtre d'État	{Fenêtre d'État}
+
+Cette fenêtre vous donne des informations sur vos héros ou votre royaume et la date du jour. Cliquez sur la fenêtre pour passer d'une informations à l'autre.
 Royaume	"{Royaume}
 
 Afficher une liste des Villes et des Héros sous votre contrôle."																						
@@ -650,13 +657,13 @@ Points de Vie Restants	Points de vie encore à disposition de la 1ère créature
 Vitesse	Vitesse des créatures de la troupe.																						
 Moral	Moral des créatures de la troupe.																						
 Chance	Chance des créatures de la troupe.																					
-Sorts	Sorts agissant sur l'unité.																					
-Renvoyer	"{Renvoyer Unité}
+Sorts	Sorts agissant sur la troupe.																					
+Renvoyer	"{Renvoyer Troupe}
 
 Renvoyer la troupe sélectionnée."																						
-Améliorer Unité	"{Améliorer Unité}
+Améliorer Troupe	"{Améliorer Troupe}
 
-Améliorer l'unité sélectionnée."																						
+Améliorer la troupe sélectionnée."																						
 OK	"{OK}
 
 Retour à la fenêtre précédente."																						
@@ -751,16 +758,16 @@ Hommage au Père	Hommage au Père
 Donjons et Démons	Donjons et Démons		
 Vive le Roi	Vive le Roi		
 Graines de Discorde	Graines de Discorde		
-Armageddon's Blade	Armageddon's Blade		
+Armageddon	Armageddon		
 Sang de Dragon	Sang de Dragon		
 Pourfendeur de Dragon	Pourfendeur de Dragon		
 La Fête de la Vie	La Fête de la Vie		
 Une Obstination Hardie	Une Obstination Hardie		
 Jouer avec le Feu	Jouer avec le Feu		
-La Corne des Abysses	La Corne des Abysses		
+Tranche et Taille	Tranche et Taille		
 La Naissance d'un Barbare	La Naissance d'un Barbare		
-Sous le Pavillon du Jolly Roger	Sous le Pavillon du Jolly Roger		
-Terreur sur les Mers	Terreur sur les Mers																						
+Nouveau Départ	Nouveau Départ		
+Elixir de Vie	Elixir de Vie																						
 L'Ascension du Nécromancien	L'Ascension du Nécromancien																						
 Alliance Maudite	Alliance Maudite																						
 Le Spectre du Pouvoir	Le Spectre du Pouvoir																						
@@ -784,10 +791,10 @@ Nom de la Partie
 Indiquez l'adresse IP																							
 																							
 Sacrifice Window	Sacrifice Window																						
-Quitter (aucun sacrifice ne sera effectué)	Annuler le Sacrifice.																						
+Quitter (aucun sacrifice ne sera effectué)	Annuler le Sacrifice.	Tous les Artéfacts vous seront retournés.																						
 Artéfact Équipé																							
 Placer les artéfacts de la besace sur l'Autel	Les artéfacts contenus dans la besace du Héros sont placés sur l'Autel.																						
-Placer tous les artéfacts sur l'Autel	Tous les artéfacts du Héros sont placés sur l'Autel.																						
+Placez tous les artéfacts sur l'Autel	Tous les artéfacts du Héros sont placés sur l'Autel, équipé ainsi que dans la besace.																						
 Sacrifier des Créatures	Choisir de sacrifier des Créatures. Réservé aux Héros Neutres et Mauvais.																						
 Nombre de Créatures / Expérience																							
 Créatures Sélectionnées																							
