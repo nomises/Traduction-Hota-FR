@@ -39,7 +39,7 @@
 * ~~HallInfo.txt~~
 * HCTRAITS.TXT
 * Help.txt
-* HeroBios.txt
+* ~~HeroBios.txt~~
 * ~~HeroScrn.txt~~
 * HeroSpec.txt
 * ~~HOTRAITS.TXT~~
