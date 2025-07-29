@@ -42,7 +42,7 @@
 * ~~Help.txt~~
 * ~~HeroBios.txt~~
 * ~~HeroScrn.txt~~
-* HeroSpec.txt
+* ~~HeroSpec.txt~~
 * ~~HOTRAITS.TXT~~
 * ~~JKTEXT.TXT~~
 * ~~lcdesc.txt~~
