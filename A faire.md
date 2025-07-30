@@ -51,7 +51,7 @@
 * ~~ObjNames.txt~~
 * ~~Overview.txt~~
 * ~~PlColors.txt~~
-* PriSkill.txt
+* ~~PriSkill.txt~~
 * randsign.txt
 * randtvrn.txt
 * regions.txt
