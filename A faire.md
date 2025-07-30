@@ -44,7 +44,7 @@
 * HeroSpec.txt
 * ~~HOTRAITS.TXT~~
 * ~~JKTEXT.TXT~~
-* lcdesc.txt
+* ~~lcdesc.txt~~
 * MINEEVNT.TXT
 * MineName.txt
 * Monolith.txt
