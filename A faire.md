@@ -53,7 +53,7 @@
 * ~~PlColors.txt~~
 * ~~PriSkill.txt~~
 * ~~randsign.txt~~
-* randtvrn.txt
+* ~~randtvrn.txt~~
 * regions.txt
 * RESTYPES.TXT
 * SeerHut.txt
