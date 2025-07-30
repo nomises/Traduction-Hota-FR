@@ -55,7 +55,7 @@
 * ~~randsign.txt~~
 * randtvrn.txt
 * ~~regions.txt~~
-* RESTYPES.TXT
+* ~~RESTYPES.TXT~~
 * SeerHut.txt
 * SkillLev.txt
 * TCommand.txt
