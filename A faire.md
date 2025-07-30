@@ -50,7 +50,7 @@
 * ~~Monolith.txt~~
 * ~~ObjNames.txt~~
 * ~~Overview.txt~~
-* PlColors.txt
+* ~~PlColors.txt~~
 * PriSkill.txt
 * randsign.txt
 * randtvrn.txt
