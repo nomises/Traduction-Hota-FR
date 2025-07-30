@@ -57,7 +57,7 @@
 * ~~regions.txt~~
 * ~~RESTYPES.TXT~~
 * SeerHut.txt
-* SkillLev.txt
+* ~~SkillLev.txt~~
 * TCommand.txt
 * TERRNAME.txt
 * TownName.txt
