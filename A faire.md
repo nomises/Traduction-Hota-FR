@@ -48,7 +48,7 @@
 * ~~MINEEVNT.TXT~~
 * ~~MineName.txt~~
 * ~~Monolith.txt~~
-* ObjNames.txt
+* ~~ObjNames.txt~~
 * Overview.txt
 * PlColors.txt
 * PriSkill.txt
