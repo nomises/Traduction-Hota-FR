@@ -52,7 +52,7 @@
 * ~~Overview.txt~~
 * ~~PlColors.txt~~
 * ~~PriSkill.txt~~
-* randsign.txt
+* ~~randsign.txt~~
 * randtvrn.txt
 * regions.txt
 * RESTYPES.TXT
