@@ -47,7 +47,7 @@
 * ~~lcdesc.txt~~
 * ~~MINEEVNT.TXT~~
 * ~~MineName.txt~~
-* Monolith.txt
+* ~~Monolith.txt~~
 * ObjNames.txt
 * Overview.txt
 * PlColors.txt
