@@ -46,7 +46,7 @@
 * ~~JKTEXT.TXT~~
 * ~~lcdesc.txt~~
 * ~~MINEEVNT.TXT~~
-* MineName.txt
+* ~~MineName.txt~~
 * Monolith.txt
 * ObjNames.txt
 * Overview.txt
