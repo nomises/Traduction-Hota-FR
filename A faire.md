@@ -54,7 +54,7 @@
 * ~~PriSkill.txt~~
 * ~~randsign.txt~~
 * randtvrn.txt
-* regions.txt
+* ~~regions.txt~~
 * RESTYPES.TXT
 * SeerHut.txt
 * SkillLev.txt
