@@ -60,7 +60,7 @@
 * ~~SkillLev.txt~~
 * ~~TCommand.txt~~
 * ~~TERRNAME.txt~~
-* TownName.txt
+* ~~TownName.txt~~
 * TownType.txt
 * turndur.txt
 * TvrnInfo.txt
