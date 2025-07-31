@@ -65,7 +65,7 @@
 * ~~turndur.txt~~
 * ~~TvrnInfo.txt~~
 * ~~vcdesc.txt~~
-* Walls.txt
+* ~~Walls.txt~~
 
 ## h3c (campagne)
 ### Traduire
