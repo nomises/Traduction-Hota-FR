@@ -7,7 +7,7 @@ Votre Héros est doté d'un Dispensaire"
 14 Lanciers sont ajoutés à l'armée de votre Héros"
 "{Ressources Rares}
 
-Les réserves de vos ressources sont augmentées de +5 unités de Mercure, Soufre, Cristaux et Gemmes"
+Les réserves de vos ressources sont augmentées de + 5 unités de Mercure, Soufre, Cristaux et Gemmes"
 "{Ange}
 
 1 Ange est ajouté à l'armée de votre Héros"
@@ -22,7 +22,7 @@ Votre Héros reçoit un Parchemin contenant le sort Faveur Divine"
 L'Arc de Midas permet à vos troupes de tirer sans pénalités quel que soit la distance ou les obstacles"
 "{Bouclier Cœur de Lion}
 
-Le Bouclier Cœur de Lion améliore de +4 points les quatre caractéristiques de votre Héros"
+Le Bouclier Cœur de Lion améliore de + 4 points les quatre caractéristiques de votre Héros"
 "{Sac de Prospérité}
 
 Le Sac de Prospérité vous procure un revenu supplémentaire de 1000 pièces d'Or par jour"
@@ -51,10 +51,10 @@ Votre Héros reçoit un Parchemin contenant le sort Précision"
 Votre Héros est Maître en Ravitaillement"
 "{Bouclier des Seigneurs Nains}
 
-Le Bouclier des Seigneurs Nains améliore de +2 points les caractéristiques d'Attaque et de Défense du Héros"
+Le Bouclier des Seigneurs Nains améliore de + 2 points les caractéristiques d'Attaque et de Défense du Héros"
 "{Hache du Centaure}
 
-La Hache du Centaure améliore de +2 points la caractéristiques d'Attaque du Héros"
+La Hache du Centaure améliore de + 2 points la caractéristiques d'Attaque du Héros"
 "{Maître en Navigation}
 
 Votre Héros est Maître en Navigation"
@@ -66,7 +66,7 @@ Une Guilde des Mages Niveau 1 est construite dans vos trois villes de départ"
 Une Guilde des Mages Niveau 3 est construite dans votre ville principale"
 "{Bottes de Sept Lieues}
 
-Les Bottes de Sept Lieues augmentent de +400 points de mouvement le potentiel de déplacement du héros sur la terre"
+Les Bottes de Sept Lieues augmentent de + 400 points de mouvement le potentiel de déplacement du héros sur la terre"
 "{Novice en Ravitaillement}
 
 Votre Héros est Novice en Ravitaillement"
@@ -87,7 +87,7 @@ Vous commencez la partie avec 35 Grands Elfes
 (en garnison dans une ville)"
 "{Heaume de l'Illumination}
 
-Le Heaume de l'Illumination améliore de +6 points les quatre caractéristiques de votre Héros"
+Le Heaume de l'Illumination améliore de + 6 points les quatre caractéristiques de votre Héros"
 "{Traité de la Terre}
 
 Ce volumineux traité contient tous les sorts de la Magie de la Terre"
@@ -99,7 +99,7 @@ En portant ce chapeau, un héros peut apprendre et lancer les sorts des 5 niveau
 Votre Héros reçoit un Parchemin contenant le sort Pourfendeur"
 "{Armure Miraculeuse}
 
-l'Armure Miraculeuse améliore de +1 point les quatre caractéristiques de votre Héros"
+l'Armure Miraculeuse améliore de + 1 point les quatre caractéristiques de votre Héros"
 "{Diablotins}
 
 100 Diablotins sont ajoutés à l'armée de votre Héros"
@@ -111,7 +111,7 @@ Une Souche Maudite est construite dans votre ville de départ (demeure des Yeux 
 Une Guilde des Mages Niveau 1 est construite dans votre ville de départ"
 "{Académie Militaire}
 
-une Académie Militaire est construite dans votre ville de départ (+1000 points d'expérience, une fois par héros)"
+une Académie Militaire est construite dans votre ville de départ (+ 1000 points d'expérience, une fois par héros)"
 "{Héros de Eeofol}
 
 Commencer avec les héros utilisés lors du scénario ""Un Plan Diabolique"""
@@ -176,7 +176,7 @@ Vous choisissez de vous battre pour Tatalia avec les héros du scénario ""Les R
 Vous choisissez de vous battre pour Krewlod avec les héros du scénario ""La Ruée vers l'Or"""
 "{Bottes de Sept Lieues}
 
-Les Bottes de Sept Lieues augmentent de +400 points de mouvement le potentiel de déplacement du héros sur la terre"
+Les Bottes de Sept Lieues augmentent de + 400 points de mouvement le potentiel de déplacement du héros sur la terre"
 "{Or}
 
 Vous commencez la partie avec 5000 pièces d'Or supplémentaires"
@@ -200,4 +200,4 @@ Vous commencez la partie avec 5000 pièces d'Or supplémentaires"
 6 Gardes Sylvaniens sont ajoutés à l'armée de votre Héros"
 "{Bois}
 
-Vos réserves de ressources sont augmentées de 12 Bois"
+Vos réserves de ressources sont augmentées de + 12 Bois"
