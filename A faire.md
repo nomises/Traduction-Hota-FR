@@ -64,7 +64,7 @@
 * ~~TownType.txt~~
 * ~~turndur.txt~~
 * ~~TvrnInfo.txt~~
-* vcdesc.txt
+* ~~vcdesc.txt~~
 * Walls.txt
 
 ## h3c (campagne)
