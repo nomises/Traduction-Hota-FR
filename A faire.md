@@ -61,7 +61,7 @@
 * ~~TCommand.txt~~
 * ~~TERRNAME.txt~~
 * ~~TownName.txt~~
-* TownType.txt
+* ~~TownType.txt~~
 * turndur.txt
 * TvrnInfo.txt
 * vcdesc.txt
