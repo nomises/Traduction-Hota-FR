@@ -2,7 +2,7 @@
 
 ## Hota.dat
 ### Vérifier que le fichier est ok
-* HotA.txt
+* ~~HotA.txt~~
 
 ## HotA_lng.lod
 ### Traduire
