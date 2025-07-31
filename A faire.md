@@ -63,7 +63,7 @@
 * ~~TownName.txt~~
 * ~~TownType.txt~~
 * ~~turndur.txt~~
-* TvrnInfo.txt
+* ~~TvrnInfo.txt~~
 * vcdesc.txt
 * Walls.txt
 
