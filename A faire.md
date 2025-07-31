@@ -59,7 +59,7 @@
 * SeerHut.txt
 * ~~SkillLev.txt~~
 * ~~TCommand.txt~~
-* TERRNAME.txt
+* ~~TERRNAME.txt~~
 * TownName.txt
 * TownType.txt
 * turndur.txt
