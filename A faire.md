@@ -9,7 +9,7 @@
 * ~~SPTRAITS.txt~~
 * SSTRAITS.txt
 * TentColr.txt
-* xtrainfo.txt
+* ~~xtrainfo.txt~~
 
 ### Vérifier
 * advevent.txt
