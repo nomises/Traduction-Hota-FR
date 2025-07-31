@@ -4,4 +4,12 @@
 `Protection from Air` devient `Protection contre l'Air` et non `Protection contre l'air`.
 
 - Lorsqu'on a ajoute ou retire un nombre, il faut inclure le signe `+` ou `-` dans la phrase.  
-`increases the morale by +2.` devient `augmente le Moral de + 2` et non `augmente de 2 points le Moral`
+`increases the morale by +2.` devient `augmente le Moral de +2` et non `augmente de 2 points le Moral`
+
+- Les signes `+` et `-` doivent être collés au nombre auquel ils sont reliés.  
+`+3 Cerbères`
+
+- Il faut différencier l'orsqu'on parle du *level* d'un héros et le *level* d'une créature.  
+On parle d'un `niveau` pour les héros et d'un `rang` l'orsqu'on parle des crétures.
+
+- Pour tous les textes s'adressant au joueur, il faut toujours utiliser le `vous`.  
