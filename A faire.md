@@ -69,10 +69,10 @@
 
 ## h3c (campagne)
 ### Traduire
-* H1Roger.h3c
-	* Mission 1
-	* Mission 2
-	* mission 3
+* ~~H1Roger.h3c~~
+	* ~~Mission 1~~
+	* ~~Mission 2~~
+	* ~~Mission 3~~
 * H2Terror.h3c
 	* Mission 1
 	* Mission 2
