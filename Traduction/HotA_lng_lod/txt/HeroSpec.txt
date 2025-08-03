@@ -20,7 +20,7 @@ Spadassin	Bonus de Créature : Spadassin	{Spadassins et Paladins}
 Les Spadassins et les Paladins gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 4 niveaux sont atteints.
 Baliste	Bonus d'Artillerie : Baliste	{Baliste}
 
-La Baliste reçoit un bonus en Attaque-Défense de 30% à chaque fois que 5 niveaux sont atteints.
+La Baliste reçoit un bonus en Attaque-Défense de 30% tous les 5 niveaux.
 Cavaliers	Bonus de Créature : Cavaliers	{Cavaliers et Champions}
 
 Les Cavaliers et les Champions gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 6 niveaux sont atteints.
@@ -29,13 +29,13 @@ Médecine	Bonus de Compétence Secondaire : Médecine	{Médecine}
 Reçoit un bonus de 5% par niveau au pourcentage de Médecine.
 Bénédiction	Bonus de Sort : Bénédiction	{Bénédiction}
 
-Augmente les Dégâts de la Troupe affectée par Bénédiction de 10 % pour chaque niveaux n atteint par le héros, où n est le niveau de la créature sélectionnée.
+Augmente les Dégâts de la Troupe affectée par Bénédiction de 10 % tous les N niveaux atteints par le héros, où N est le rang de la créature sélectionnée.
 Faiblesse	Bonus de Sort : Faiblesse	{Faiblesse}
 
-Lance Faiblesse avec effet augmenté de + 4 pour les créatures de niveau 1-2, de + 6 pour les créatures de niveau 3-4, de + 8 pour les créatures de niveau 5-6 et de + 10 pour les créatures de niveau 7.
+Lance Faiblesse avec un effet augmenté de +4 pour les créatures de rang 1-2, de +6 pour les créatures de rang 3-4, de +8 pour les créatures de rang 5-6 et de +10 pour les créatures de rang 7.
 Anneau de Givre	Bonus de Sort : Anneau de Givre	{Anneau de Givre}
 
-Lance Anneau de Givre avec des dégâts augmentés de 10 % pour chaque niveaux n du héros, où n est le niveau de la créature ciblée.
+Lance Anneau de Givre avec des dégâts augmentés de 10 % pour chaque niveau N du héros, où N est le rang de la créature ciblée.
 Moines	Bonus de Créature :  Moines	{Moines et Zélotes}
 
 Les Moines et les Zélotes gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 5 niveaux sont atteints.
@@ -44,7 +44,7 @@ Mimétisme	Bonus de Compétence Secondaire : Mimétisme	{Mimétisme}
 Reçoit un bonus de 5% par niveau au pourcentage de Mimétisme.
 Faveur Divine	Bonus de Sort : Faveur Divine	{Faveur Divine}
 
-Lance Faveur Divine avec effet augmenté de + 3 pour les créatures de niveau 1-4, de + 2 pour les créatures de niveau 5-6, et de + 1 pour les créatures de niveau 7.
+Lance Faveur Divine avec un effet augmenté de +3 pour les créatures de rang 1-4, de +2 pour les créatures de rang 5-6, et de +1 pour les créatures de rang 7.
 +350 Or	 +350 Or par jour	{+350 Or par jour}
 
 Augmente les revenus du royaume de 350 pièces d'Or par jour.
@@ -74,10 +74,10 @@ Ravitaillement	Bonus de Compétence Secondaire : Ravitaillement	{Ravitaillement}
 Reçoit un bonus de 5% par niveau au pourcentage de Ravitaillement.
 Pourfendeur	Bonus de Sort : Pourfendeur	{Pourfendeur}
 
-Lance Pourfendeur avec effet augmenté de + 20 pour les créatures de niveau 1-2, de + 16 pour les créatures de niveau 3-4, de + 12 pour les créatures de niveau 5-6 et de + 8 pour les créatures de niveau 7.
+Lance Pourfendeur avec un effet augmenté de +20 pour les créatures de rang 1-2, de +16 pour les créatures de rang 3-4, de +12 pour les créatures de rang 5-6 et de +8 pour les créatures de rang 7.
 Guérison	Bonus de Sort : Guérison	{Guérison}
 
-Lance Guérison avec effet augmenté de 10 % pour chaque niveau (8 - n) atteint par le héros, où n est le niveau de la créature sélectionnée.
+Lance Guérison avec un effet augmenté de 10 % pour chaque niveau (8 - N) atteint par le héros, où N est le rang de la créature sélectionnée.
 Intelligence	Bonus de Compétence Secondaire : Intelligence	{Intelligence}
 
 Reçoit un bonus de 5% par niveau au pourcentage d'Intelligence.
@@ -92,7 +92,7 @@ Bonne Fortune	Bonus de Sort : Bonne Fortune	{Bonne Fortune}
 Les Troupes bénéficiant du sort Bonne Fortune voient leur Chance augmentée de +3.
 Éclair de Glace	Bonus de Sort : Éclair de Glace	{Éclair de Glace}
 
-Lance Éclair de Glace avec des dégâts augmentés de 10 % pour chaque niveaux n du héros, où n est le niveau de la créature ciblée.
+Lance Éclair de Glace avec des dégâts augmentés de 10 % pour chaque niveaux N du héros, où N est le rang de la créature ciblée.
 Pégases	Bonus de Créature : Pégases	{Pégases et Pégases d'Argent}
 
 Les Pégases et les Pégases d'Argent gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 4 niveaux sont atteints.
@@ -110,7 +110,7 @@ Armurerie	Bonus de Compétence Secondaire : Armurerie	{Armurerie}
 Reçoit un bonus de 5% par niveau au pourcentage d'Armurerie.
 Baliste	Bonus d'Artillerie : Baliste	{Baliste}
 
-La Baliste reçoit un bonus en Attaque-Défense de 30% à chaque fois que 5 niveaux sont atteints.
+La Baliste reçoit un bonus en Attaque-Défense de 30% tous les 5 niveaux.
 Nagas	Bonus de Créature : Nagas	{Nagas et Reines Nagas}
 
 Les Nagas et les Reines Nagas gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 6 niveaux sont atteints.
@@ -122,7 +122,7 @@ Djinns	Bonus de Créature : Djinns	{Djinns et Génies}
 Les Djinns et les Génies gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 5 niveaux sont atteints.
 Hypnose	Bonus de Sort : Hypnose	{Hypnose}
 
-Lance Hypnose avec son effet augmentés de 10 % pour chaque niveaux n du héros, où n est le niveau de la créature ciblée.
+Lance Hypnose avec son effet augmentés de 10 % tous les N niveaux du héros, où N est le rang de la créature ciblée.
 Mysticisme	Bonus de Compétence Secondaire : Mysticisme	{Mysticisme}
 
 Reçoit un bonus de 5% par niveau au pourcentage de Mysticisme.
@@ -137,10 +137,10 @@ Mages	Bonus de Créature :  Mages	{Mages et Archimages}
 Les Mages et les Archimages gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 4 niveaux sont atteints.
 Foudre Terrible	Bonus de Sort : Foudre Terrible	{Foudre Terrible}
 
-Lance Foudre Terrible avec des dégâts augmentés de 5 % pour chaque niveaux n du héros, où n est le niveau de la créature ciblée.
+Lance Foudre Terrible avec des dégâts augmentés de 5 % tous les N niveaux du héros, où N est le rang de la créature ciblée.
 Hâte	Bonus de Sort : Hâte	{Hâte}
 
-Lance Hâte avec effet augmenté de + 3 pour les créatures de niveau 1-4, de + 2 pour les créatures de niveau 5-6, et de + 1 pour les créatures de niveau 7.
+Lance Hâte avec un effet augmenté de +3 pour les créatures de rang 1-4, de +2 pour les créatures de rang 5-6, et de +1 pour les créatures de rang 7.
 +350 Or	 +350 Or par jour	{+350 Or par jour}
 
 Augmente les revenus du royaume de 350 pièces d'Or par jour.
@@ -155,7 +155,7 @@ Démons	Bonus de Créature : Démons	{Démons et Démons Cornus}
 Les Démons et les Démons Cornus gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 4 niveaux sont atteints.
 Diablotins	Bonus de Créature : Diablotins	{Diablotins et Familiers}
 
-Les Diablotins et les Familiers gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 10% à chaque niveau après le 1er.
+Les Diablotins et les Familiers gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 10% à chaque niveau.
 +350 Or	 +350 Or par jour	{+350 Or par jour}
 
 Augmente les revenus du royaume de 350 pièces d'Or par jour.
@@ -164,7 +164,7 @@ Gogs	Bonus de Créature :  Gogs	{Gogs et Magogs}
 Les Gogs et les Magogs gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 2 niveaux sont atteints.
 Baliste	Bonus d'Artillerie : Baliste	{Baliste}
 
-La Baliste reçoit un bonus en Attaque-Défense de 30% à chaque fois que 5 niveaux sont atteints.
+La Baliste reçoit un bonus en Attaque-Défense de 30% tous les 5 niveaux.
 Servants des Abîmes	Bonus de Créature : Servants des Abîmes	{Servants des Abîmes et Seigneurs des Abîmes}
 
 Les Servants des Abîmes et les Seigneurs des Abîmes gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 5 niveaux sont atteints.
@@ -173,25 +173,25 @@ Intelligence	Bonus de Compétence Secondaire : Intelligence	{Intelligence}
 Reçoit un bonus de 5% par niveau au pourcentage d'Intelligence.
 Brasier	Bonus de Sort : Brasier	{Brasier}
 
-Lance Brasier avec des dégâts augmentés de 10 % pour chaque niveaux n du héros, où n est le niveau de la créature ciblée.
+Lance Brasier avec des dégâts augmentés de 10 % tous les N niveaux du héros, où N est le rang de la créature ciblée.
 Mysticisme	Bonus de Compétence Secondaire : Mysticisme	{Mysticisme}
 
 Reçoit un bonus de 5% par niveau au pourcentage de Mysticisme.
 Faiblesse	Bonus de Sort : Faiblesse	{Faiblesse}
 
-Lance Faiblesse avec effet augmenté de + 4 pour les créatures de niveau 1-2, de + 6 pour les créatures de niveau 3-4, de + 8 pour les créatures de niveau 5-6 et de + 10 pour les créatures de niveau 7.
+Lance Faiblesse avec un effet augmenté de +4 pour les créatures de rang 1-2, de +6 pour les créatures de rang 3-4, de +8 pour les créatures de rang 5-6 et de +10 pour les créatures de rang 7.
 +1 Soufre	 +1 Soufre par jour	{+1 Soufre par jour}
 
 Augmente la production de Soufre du royaume de +1 unité par jour.
 Furie Sanguinaire	Bonus de Sort : Furie Sanguinaire	{Furie Sanguinaire}
 
-Lance Furie Sanguinaire avec effet augmenté de + 10 pour les créatures de niveau 1-2, de + 8 pour les créatures de niveau 3-4, de + 6 pour les créatures de niveau 5-6 et de + 4 pour les créatures de niveau 7.
+Lance Furie Sanguinaire avec un effet augmenté de +10 pour les créatures de rang 1-2, de +8 pour les créatures de rang 3-4, de +6 pour les créatures de rang 5-6 et de +4 pour les créatures de rang 7.
 Sorcellerie	Bonus de Compétence Secondaire : Sorcellerie	{Sorcellerie}
 
 Reçoit un bonus de 5% par niveau au pourcentage de Sorcellerie.
 Boule de Feu	Bonus de Sort : Boule de Feu	{Boule de Feu}
 
-Lance Boule de Feu avec des dégâts augmentés de 10 % pour chaque niveaux n du héros, où n est le niveau de la créature ciblée.
+Lance Boule de Feu avec des dégâts augmentés de 10 % tous les N niveaux du héros, où N est le rang de la créature ciblée.
 Trépassés	Bonus de Créature : Trépassés	{Trépassés et Zombies}
 
 Les Trépassés et les Zombies gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 2 niveaux sont atteints.
@@ -215,13 +215,13 @@ Reçoit un bonus de 5% par niveau au pourcentage de Nécromancie.
 Augmente les revenus du royaume de 350 pièces d'Or par jour.
 Squelettes	Bonus de Créature : Squelettes	{Squelettes et Guerriers Squelettes}
 
-Les Squelettes et les Guerriers Squelettes gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 10% à chaque niveau après le 1er.
+Les Squelettes et les Guerriers Squelettes gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 10% à chaque niveau.
 Onde Mortelle	Bonus de Sort : Onde Mortelle	{Onde Mortelle}
 
-Lance Onde Mortelle avec des dégâts augmentés de 10 % pour chaque niveaux n du héros, où n est le niveau de la créature ciblée.
+Lance Onde Mortelle avec des dégâts augmentés de 10 % tous les N niveaux du héros, où N est le rang de la créature ciblée.
 Pluie Météores	Bonus de Sort : Pluie de Météores	{Pluie de Météores}
 
-Lance Pluie Météores avec des dégâts augmentés de 5 % pour chaque niveaux n du héros, où n est le niveau de la créature ciblée.
+Lance Pluie Météores avec des dégâts augmentés de 5 % tous les N niveaux du héros, où N est le rang de la créature ciblée.
 Sorcellerie	Bonus de Compétence Secondaire : Sorcellerie	{Sorcellerie}
 
 Reçoit un bonus de 5% par niveau au pourcentage de Sorcellerie.
@@ -230,10 +230,10 @@ Mimétisme	Bonus de Compétence Secondaire : Mimétisme	{Mimétisme}
 Reçoit un bonus de 5% par niveau au pourcentage de Mimétisme.
 Anim. des Morts	Bonus de Sort : Animation des Morts	{Animation des Morts}
 
-Lance Animation des Morts avec son effet augmentés de 5 % pour chaque niveaux n du héros, où n est le niveau de la créature ciblée.
+Lance Animation des Morts avec son effet augmentés de 5 % tous les N niveaux du héros, où N est le rang de la créature ciblée.
 Carapace	Bonus de Sort : Carapace	{Carapace}
 
-Lance Carapace avec effet augmenté de + 10 pour les créatures de niveau 1-2, de + 8 pour les créatures de niveau 3-4, de + 6 pour les créatures de niveau 5-6 et de + 4 pour les créatures de niveau 7.
+Lance Carapace avec effet augmenté de +10 pour les créatures de rang 1-2, de +8 pour les créatures de rang 3-4, de +6 pour les créatures de rang 5-6 et de +4 pour les créatures de rang 7.
 Nécromancie	Bonus de Compétence Secondaire : Nécromancie	{Nécromancie}
 
 Reçoit un bonus de 5% par niveau au pourcentage de Nécromancie.
@@ -245,7 +245,7 @@ Harpies	Bonus de Créature :  Harpies	{Harpies et Harpies Sinistres}
 Les Harpies et les Harpies Sinistres gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 2 niveaux sont atteints.
 Baliste	Bonus d'Artillerie : Baliste	{Baliste}
 
-La Baliste reçoit un bonus en Attaque-Défense de 30% à chaque fois que 5 niveaux sont atteints.
+La Baliste reçoit un bonus en Attaque-Défense de 30% tous les 5 niveaux.
 Minotaures	Bonus de Créature : Minotaures	{Minotaures et Rois Minotaures}
 
 Les Minotaures et les Rois Minotaures gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 5 niveaux sont atteints.
@@ -263,10 +263,10 @@ Manticores	Bonus de Créature : Manticores	{Manticores et Scorpicores}
 Les Manticores et les Scorpicores gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 6 niveaux sont atteints.
 Troglodytes	Bonus de Créature : Troglodytes	{Troglodytes et Troglodytes Infernaux}
 
-Les Troglodytes et les Troglodytes Infernaux gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 10% à chaque niveau après le 1er.
+Les Troglodytes et les Troglodytes Infernaux gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 10% à chaque niveau.
 Résurrection	Bonus de Sort : Résurrection	{Résurrection}
 
-Lance Résurrection avec son effet augmentés de 5% pour chaque niveaux n du héros, où n est le niveau de la créature ciblée.
+Lance Résurrection avec son effet augmentés de 5% tous les N niveaux du héros, où N est le rang de la créature ciblée.
 Mysticisme	Bonus de Compétence Secondaire : Mysticisme	{Mysticisme}
 
 Reçoit un bonus de 5% par niveau au pourcentage de Mysticisme.
@@ -275,25 +275,25 @@ Sorcellerie	Bonus de Compétence Secondaire : Sorcellerie	{Sorcellerie}
 Reçoit un bonus de 5% par niveau au pourcentage de Sorcellerie.
 Résurrection	Bonus de Sort: Résurrection	{Résurrection}
 
-Lance Résurrection avec son effet augmentés de 5% pour chaque niveaux n du héros, où n est le niveau de la créature ciblée.
+Lance Résurrection avec son effet augmentés de 5% tous les N niveaux du héros, où N est le rang de la créature ciblée.
 Mimétisme	Bonus de Compétence Secondaire : Mimétisme	{Mimétisme}
 
 Reçoit un bonus de 5% par niveau au pourcentage de Mimétisme.
 Pluie de Météores	Bonus de Sort : Pluie de Météores	{Pluie de Météores}
 
-Lance Pluie Météores avec des dégâts augmentés de 5 % pour chaque niveaux n du héros, où n est le niveau de la créature ciblée.
+Lance Pluie Météores avec des dégâts augmentés de 5 % tous les N niveaux du héros, où N est le rang de la créature ciblée.
 +1 Cristal	 +1 Cristal par jour	{+1 Cristal par jour}
 
 Augmente la production de Cristaux du royaume de +1 unité par jour.
 Carapace	Bonus de Sort : Carapace	{Carapace}
 
-Lance Carapace avec effet augmenté de + 10 pour les créatures de niveau 1-2, de + 8 pour les créatures de niveau 3-4, de + 6 pour les créatures de niveau 5-6 et de + 4 pour les créatures de niveau 7.
+Lance Carapace avec effet augmenté de +10 pour les créatures de rang 1-2, de +8 pour les créatures de rang 3-4, de +6 pour les créatures de rang 5-6 et de +4 pour les créatures de rang 7.
 Cyclopes	Bonus de Créature : Cyclopes	{Cyclopes et Rois Cyclopes}
 
 Les Cyclopes et les Rois Cyclopes gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 6 niveaux sont atteints.
 Baliste	Bonus d'Artillerie : Baliste	{Baliste}
 
-La Baliste reçoit un bonus en Attaque-Défense de 30% à chaque fois que 5 niveaux sont atteints.
+La Baliste reçoit un bonus en Attaque-Défense de 30% tous les 5 niveaux.
 Orcs	Bonus de Créature :  Orcs	{Orcs et Chefs Orcs}
 
 Les Orcs et les Chefs Orcs gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 3 niveaux sont atteints.
@@ -302,7 +302,7 @@ Rocks	Bonus de Créature : Rocks	{Rocks et Rocks Foudroyants}
 Les Rocks et les Rocks Foudroyants gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 5 niveaux sont atteints.
 Gobelins	Bonus de Créature : Gobelins	{Gobelins et Hobgobelins}
 
-Les Gobelins et les Hobgobelins gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 10% à chaque niveau après le 1er.
+Les Gobelins et les Hobgobelins gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 10% à chaque rang.
 Ogres	Bonus de Créature :  Ogres	{Ogres et Ogres Mages}
 
 Les Ogres et les Ogres Mages gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 4 niveaux sont atteints.
@@ -323,10 +323,10 @@ Ravitaillement	Bonus de Compétence Secondaire : Ravitaillement	{Ravitaillement}
 Reçoit un bonus de 5% par niveau au pourcentage de Ravitaillement.
 Hâte	Bonus de Sort : Hâte	{Hâte}
 
-Lance Hâte avec effet augmenté de + 3 pour les créatures de niveau 1-4, de + 2 pour les créatures de niveau 5-6, et de + 1 pour les créatures de niveau 7.
+Lance Hâte avec un effet augmenté de +3 pour les créatures de rang 1-4, de +2 pour les créatures de rang 5-6, et de +1 pour les créatures de rang 7.
 Précision	Bonus de Sort : Précision	{Précision}
 
-Lance Précision avec effet augmenté de + 10 pour les créatures de niveau 1-2, de + 8 pour les créatures de niveau 3-4, de + 6 pour les créatures de niveau 5-6 et de + 4 pour les créatures de niveau 7.
+Lance Précision avec un effet augmenté de +10 pour les créatures de rang 1-2, de +8 pour les créatures de rang 3-4, de +6 pour les créatures de rang 5-6 et de +4 pour les créatures de rang 7.
 Adresse	Bonus de Compétence Secondaire : Adresse	{Adresse}
 
 Reçoit un bonus de 5% par niveau au pourcentage d'Adresse.
@@ -341,7 +341,7 @@ Basilics	Bonus de Créature : Basilics	{Basilics et Grands Basilics}
 Les Basilics et les Grands Basilics gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 4 niveaux sont atteints.
 Gnolls	Bonus de Créature : Gnolls	{Gnolls et Gnolls Maraudeurs}
 
-Les Gnolls et les Gnolls Maraudeurs gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 10% à chaque niveau après le 1er.
+Les Gnolls et les Gnolls Maraudeurs gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 10% à chaque rang après le 1er.
 Hommes-Lézards	Bonus de Créature :  Hommes-Lézards	{Hommes Lézards et Guerriers Lézards}
 
 Les Hommes Lézards et les Guerriers Lézards gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 2 niveaux sont atteints.
@@ -356,13 +356,13 @@ Guêpes Serpents	Bonus de Créature : Guêpes Serpents	{Guêpes Serpents et Guê
 Les Guêpes Serpents et les Guêpes Dragons reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 3 niveaux sont atteints.
 Baliste	Bonus d'Artillerie : Baliste	{Baliste}
 
-La Baliste reçoit un bonus en Attaque-Défense de 30% à chaque fois que 5 niveaux sont atteints.
+La Baliste reçoit un bonus en Attaque-Défense de 30% tous les 5 niveaux.
 Wyvernes	Bonus de Créature : Wyvernes	{Wyvernes et Monarques Wyvernes}
 
 Les Wyvernes et les Monarques Wyvernes gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 6 niveaux sont atteints.
 Faiblesse	Bonus de Sort : Faiblesse	{Faiblesse}
 
-Lance Faiblesse avec effet augmenté de + 4 pour les créatures de niveau 1-2, de + 6 pour les créatures de niveau 3-4, de + 8 pour les créatures de niveau 5-6 et de + 10 pour les créatures de niveau 7.
+Lance Faiblesse avec un effet augmenté de +4 pour les créatures de rang 1-2, de +6 pour les créatures de rang 3-4, de +8 pour les créatures de rang 5-6 et de +10 pour les créatures de rang 7.
 Mysticisme	Bonus de Compétence Secondaire : Mysticisme	{Mysticisme}
 
 Reçoit un bonus de 5% par niveau au pourcentage de Mysticisme.
@@ -374,7 +374,7 @@ Médecine	Bonus de Compétence Secondaire : Médecine	{Médecine}
 Reçoit un bonus de 5% par niveau au pourcentage de Médecine.
 Carapace	Bonus de Sort : Carapace	{Carapace}
 
-Lance Carapace avec effet augmenté de + 10 pour les créatures de niveau 1-2, de + 8 pour les créatures de niveau 3-4, de + 6 pour les créatures de niveau 5-6 et de + 4 pour les créatures de niveau 7.
+Lance Carapace avec effet augmenté de +10 pour les créatures de rang 1-2, de +8 pour les créatures de rang 3-4, de +6 pour les créatures de rang 5-6 et de +4 pour les créatures de rang 7.
 Sorcellerie	Bonus de Compétence Secondaire : Sorcellerie	{Sorcellerie}
 
 Reçoit un bonus de 5% par niveau au pourcentage de Sorcellerie.
@@ -413,16 +413,16 @@ Mur de Flammes	Bonus de Sort : Mur de Flammes	{Mur de Flammes}
 Les Dégâts causés par le Mur de Flammes sont augmentés de 25%.
 Hâte	Bonus de Sort : Hâte	{Hâte}
 
-Lance Hâte avec effet augmenté de + 3 pour les créatures de niveau 1-4, de + 2 pour les créatures de niveau 5-6, et de + 1 pour les créatures de niveau 7.
+Lance Hâte avec un effet augmenté de +3 pour les créatures de rang 1-4, de +2 pour les créatures de rang 5-6, et de +1 pour les créatures de rang 7.
 Flèche Magique	Bonus de Sort : Flèche Magique	{Flèche Magique}
 
 Les Dégâts causés par les Flèches Magiques sont augmentés de 50%.
 Carapace	Bonus de Sort : Carapace	{Carapace}
 
-Lance Carapace avec effet augmenté de + 10 pour les créatures de niveau 1-2, de + 8 pour les créatures de niveau 3-4, de + 6 pour les créatures de niveau 5-6 et de + 4 pour les créatures de niveau 7.
+Lance Carapace avec effet augmenté de +10 pour les créatures de rang 1-2, de +8 pour les créatures de rang 3-4, de +6 pour les créatures de rang 5-6 et de +4 pour les créatures de rang 7.
 Furie Sanguinaire	Bonus de Sort : Furie Sanguinaire	{Furie Sanguinaire}
 
-Lance Furie Sanguinaire avec effet augmenté de + 10 pour les créatures de niveau 1-2, de + 8 pour les créatures de niveau 3-4, de + 6 pour les créatures de niveau 5-6 et de + 4 pour les créatures de niveau 7.
+Lance Furie Sanguinaire avec un effet augmenté de +10 pour les créatures de rang 1-2, de +8 pour les créatures de rang 3-4, de +6 pour les créatures de rang 5-6 et de +4 pour les créatures de rang 7.
 Confusion	Bonus de Sort : Confusion	{Confusion}
 
 Lance le sort Confusion avec un bonus de +10.
