@@ -794,7 +794,7 @@ Sacrifice Window	Sacrifice Window
 Quitter (aucun sacrifice ne sera effectué)	Annuler le Sacrifice.	Tous les Artéfacts vous seront retournés.																						
 Artéfact Équipé																							
 Placer les artéfacts de la besace sur l'Autel	Les artéfacts contenus dans la besace du Héros sont placés sur l'Autel.																						
-Placez tous les artéfacts sur l'Autel	Tous les artéfacts du Héros sont placés sur l'Autel, équipé ainsi que dans la besace.																						
+Placer tous les artéfacts sur l'Autel	Tous les artéfacts du Héros sont placés sur l'Autel, qu'ils soient équipés ou dans la besace.																					
 Sacrifier des Créatures	Choisir de sacrifier des Créatures. Réservé aux Héros Neutres et Mauvais.																						
 Nombre de Créatures / Expérience																							
 Créatures Sélectionnées																							
