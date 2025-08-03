@@ -1,4 +1,4 @@
-Texte divers et varié. 
+Textes divers et variés. 
 Impossible d'ajouter le gestionnaire !
 %s ne peut plus acquérir d'expérience au cours de ce scénario.
 "{Niveau %d}
@@ -183,7 +183,7 @@ Votre besace est pleine.
 "L'artéfact %s est détruit."
 "{%s}
 %s a %d en Attaque et inflige de %d à %d points de dégâts.
-Ignore la d�fense ennemie"
+Ignore la défense ennemie"
 Voir les informations sur les tours.
 Je peux vous offrir %d %s de %s pour %d %s de %s.
 Marché
