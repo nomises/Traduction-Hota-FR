@@ -25,6 +25,10 @@ Water;Océan
 Rock;Rocher
 hex;hexagone
 unit;troupe
+Treasure Artifact;Artefact Précieux
+Minor Artifact;Artefact Mineure
+Major Artifact;Artefact Majeur
+Relic;Relique
 Nymph;Nymphe
 Nymphs;Nymphes
 Oceanid;Océanide
@@ -45,7 +49,7 @@ Halfling Grenadier;Hobbit Grenadier
 Mechanic;Mécanicien
 Engineer;Ingénieur
 Armadillo;Armadillo
-Bellwether Armadillo;Armadillos Royal
+Bellwether Armadillo;Armadillo Royal
 Automaton;Automate
 Sentinel Automaton;Automate Sentinelle
 Sandworm;Ver des Sables
