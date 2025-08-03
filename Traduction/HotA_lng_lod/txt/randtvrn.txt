@@ -1,4 +1,4 @@
-"Un Dragon Noir peut paraître plus fort qu'un Titan, mais un Titan aura bien du mal à vaincre un Archange sans aide."
+"Un Dragon Noir peut paraître plus fort qu'un Titan, surtout qu'un Titan aura bien du mal à vaincre un Archange sans aide."
 "Un sage a dit un jour, ""Ne partagez pas votre sagesse avec n'importe qui."""
 Le cygne rouge écarlate nage dans un petit lac.
 Le sang est plus épais que l'eau.
@@ -19,7 +19,7 @@ Ne soyez jamais impliqué dans une guerre terrestre à Erathia.
 "Les Troglodytes n'ont pas d'yeux, mais ils se défendent aussi bien que s'ils y voyaient vraiment."
 "N'ignorez jamais une porte souterraine, de peur qu'un ennemi invisible ne vous prenne par surprise."
 "Seuls les Dragons du Rempart sont bons. Les Dragons Noirs viennent des cavernes de Nighon et les Dragons de la Nécropole sont des créations maléfiques du Nécromancien."
-Aujourd'hui est le hier de demain.
+Aujourd'hui est le lendemain d'hier.
 Un voyageur m'a dit que les poings d'acier d'Erathia ne seront pas récompensés au ciel.
 "Une fois que vous maîtrisez une école de magie, la plupart des sorts individuels agiront sur un groupe d'alliés ou d'ennemis - et parfois les deux !"
 "En traverssant le désert, trouvez une oasis, pour rendre votre voyage plus agréable."
@@ -47,11 +47,11 @@ Rien de ce qui se passe n'est pareil à mes anguilles d'Erathia cuites au four. 
 Vori est une nation indépendante.
 J'ai entendu dire que les Elfes de Vori ont la peau blanche comme la neige.
 Saviez-vous que les Elfes d'AvLee sont les descendants des Elfes de Vori ?
-Les villes pourvues d'une Citadelle accueillent plus de troupes qu'un simple Fort.
+Les villes pourvues d'une Citadelle accueillent plus de troupes qu'avec un simple Fort.
 J'ai entendu dire que dans les Tours on échange des artéfacts.
-Savez-vous que dans le Bastion on procède à l'échange de créatures ?
+Savez-vous que dans le Bastion on fait du troc de créatures ?
 Il paraît que certains héros peuvent se déplacer entre les enfers instantanément.
-Au Repaire de Voleurs ils sont amis avec tout le monde et personne.
+Au Repaire de Voleurs ils sont amis avec tout le monde et personne à la fois.
 Tout Château pourvu de la Confrérie de l'Épée résiste davantage lors d'un siège.
 J'ai entendu dire que les habitants du Château vont construire un Colosse pour honorer le héros qui leur rapportera le Saint Graal.
 J'ai entendu dire que les habitants du Rempart vont construire un Gardien des Esprits pour honorer le héros qui leur rapportera le Saint Graal.
@@ -152,14 +152,14 @@ Le héros qui visite le Valhalla dans un Bastion devient un guerrier plus expér
 "Si vous voulez étancher votre soif de connaissance, visitez le Mur du Savoir qui se trouve à l'intérieur de la Tour."
 "Lors d'un combat sur les Terres Maudites, les héros sont sur un pied d'égalité."
 "Sur les plaines magiques, même l'homme commun peut jeter des sorts comme le plus grand des magiciens."
-J'ai entendu dire que les habitants du Château ont construit un Colosse pour honorer le héros qui leur rapportera le Saint Graal.
+J'ai entendu dire que les habitants du Château construiront un Colosse pour honorer le héros qui leur rapportera le Saint Graal.
 Tout Château pourvu de la Confrérie de l'Epée résiste davantage lors d'un siège.
-Au Repaire de Voleurs ils sont amis avec tout le monde et personne.
+Au Repaire de Voleurs ils sont amis avec tout le monde et personne à la fois.
 Il paraît que certains héros peuvent se déplacer entre les enfers instantanément.
-Savez-vous que dans le Bastion on procède à l'échange de créatures ?
+Savez-vous que dans le Bastion on fait du troc de créatures ?
 J'ai entendu dire que dans les Tours on échange des artéfacts.
-Les villes pourvues d'une Citadelle accueillent plus de troupes qu'un simple Fort.
-"Un Dragon Noir peut paraître plus fort qu'un Titan, mais un Titan aura bien du mal à vaincre un Archange sans aide."
+Les villes pourvues d'une Citadelle accueillent plus de troupes qu'avec un simple Fort.
+"Un Dragon Noir peut paraître plus fort qu'un Titan, surtout qu'un Titan aura bien du mal à vaincre un Archange sans aide."
 Un homme sage a dit un jour : "Ne partagez votre sagesse avec personne."
 Le cygne rouge écarlate nage dans un petit lac.
 Le sang est plus épais que l'eau.
@@ -208,13 +208,13 @@ Rien de ce qui se passe n'est pareil à mes anguilles d'Erathia cuites au four. 
 Vori est une nation indépendante.
 J'ai entendu dire que les Elfes de Vori ont la peau blanche comme la neige.
 Saviez-vous que les Elfes d'AvLee sont les descendants des Elfes de Vori ?
-Les villes pourvues d'une Citadelle accueillent plus de troupes qu'un simple Fort.
+Les villes pourvues d'une Citadelle accueillent plus de troupes qu'avec un simple Fort.
 J'ai entendu dire que dans les Tours on échange des artéfacts.
-Savez-vous que dans le Bastion on procède à l'échange de créatures ?
+Savez-vous que dans le Bastion on fait du troc de créatures ?
 Il paraît que certains héros peuvent se déplacer entre les enfers instantanément.
-Au Repaire de Voleurs ils sont amis avec tout le monde et personne.
+Au Repaire de Voleurs ils sont amis avec tout le monde et personne à la fois.
 Tout Château pourvu de la Confrérie de l'Epée résiste davantage lors d'un siège.
-J'ai entendu dire que les habitants du Château ont construit un Colosse pour honorer le héros qui leur rapportera le Saint Graal.
+J'ai entendu dire que les habitants du Château construiront un Colosse pour honorer le héros qui leur rapportera le Saint Graal.
 J'ai entendu dire que les habitants du Rempart ont construit un Gardien des Esprits pour honorer le héros qui leur rapportera le Saint Graal.
 J'ai entendu dire que les habitants de la Tour ont construit une Nef des Cieux pour honorer le héros qui leur rapportera le Saint Graal.
 J'ai entendu dire que les habitants de l'Hadès ont construit un Titan de Feu pour honorer le héros qui leur rapportera le Saint Graal.
@@ -246,12 +246,12 @@ Une fois j'ai vu un Seigneur des Abîmes ressusciter des alliés tombés au comb
 S'ils sont attaqués par des Djinns, les Effrit redoublent de fureur.
 Les Sultans Effrit sont naturellement protégés par un bouclier de feu
 En présence des Diables le facteur chance est désactivé.
-"Un Dragon Noir peut paraître plus fort qu'un Titan, mais un Titan aura bien du mal à vaincre un Archange sans aide."
+"Un Dragon Noir peut paraître plus fort qu'un Titan, surtout qu'un Titan aura bien du mal à vaincre un Archange sans aide."
 Un homme sage a dit un jour : "Ne partagez votre sagesse avec personne."
 Le cygne rouge écarlate nage dans un petit lac.
 Le sang est plus épais que l'eau.
 "Les Lutins et les Familiers manquent de force, mais ils compensent cette faiblesse par leur grand nombre."
-Sois fidèle à toi-même.
+Soyez fidèles à vous-mêmes.
 Le voile des ténèbres peut aider à échapper à ses ennemis.
 Trouvez le Graal - il est plus puissant que vous ne l'imaginez.
 
