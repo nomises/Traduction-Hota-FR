@@ -3669,6 +3669,50 @@ Si toutes les cellules destin�es � la construction sont occup�es, le joueu
 Pr�sent au niveau de difficult�
 # 168
 Propri�t�s de la Carte"
+# 169
+Apply to neutral towns
+# 170
+Combination artifacts
+# 171
+Artifacts that can be assembled and disassembled
+# 172
+Allow coming of leveled heroes to tavern
+# 173
+Pawn
+# 174
+Knight
+# 175
+Rook
+# 176
+Queen
+# 177
+King
+# 178
+Difficulty Level
+# 179
+&Pawn
+# 180
+&Knight
+# 181
+&Rook
+# 182
+&Queen
+# 183
+Kin&g
+# 184
+Miscellaneous
+# 185
+Horn of the Abyss v%d.%d.%d
+# 186
+Forbid launch in newer versions
+# 187
+This map was made for an older version of HotA %d.%d.%d, and the author of the map restricted its launch in newer versions of HotA. You can edit this map, but its HotA version will be updated to %d.%d.%d, and in this version the map may become unplayable.
+# 188
+Map version will be updated and it will be impossible to open the map in older versions of HotA map editor. Do you really want to save the map?
+# 189
+You can't place more than 64500 objects on the map.
+# 190
+Save changes to %s? The map version will be updated and it will be impossible to open the map in older versions of HotA map editor."
 Text 8: ""
 Has FilS: "false"
 Vals count: "4"
@@ -3747,16 +3791,6 @@ Le March� Noir propose des Art�facts � la vente. (avec la m�me efficacit
 ""Bateau
 Permet aux h�ros de se d�placer sur les mers.""
 
-9
--1
-""Poste Fronti�re
-Le h�ros doit obtenir un laissez-passer � la Tente du Ma�tre des Clefs de m�me couleur pour franchir le Poste.""
-
-10
--1
-""Tente du Ma�tre des Clefs
-Passage obligatoire avant de pouvoir franchir le Poste Fronti�re de m�me couleur.""
-
 11
 -1
 ""Bou�e
@@ -3810,8 +3844,7 @@ Sur ce terrain les effets de la Chance et du Moral sont annul�s.""
 - 30% de chances d'affronter 40 �l�mentaires de l'Eau contre 4000 pi�ces d'Or et 1 Art�fact.
 - 10% de chances d'affronter 60 �l�mentaires de l'Eau contre 6000 pi�ces d'Or et 1 Art�fact.
 
--1 de Moral si le h�ros visite le Bateau Abandonn� lorsque celui-ci est vide.
-( Optimisable )""
+-1 de Moral si le h�ros visite le Bateau Abandonn� lorsque celui-ci est vide.( Optimisable )""
 
 25
 -1
@@ -3819,8 +3852,7 @@ Sur ce terrain les effets de la Chance et du Moral sont annul�s.""
 - 30% de chances d'affronter 8 Dragons Verts, 5 Dragons Rouges, 2 Dragons d'Or et 1 Dragon Noir contre 20000 pi�ces d'Or et 4 Art�facts.
 - 30% de chances d'affronter 8 Dragons Verts, 6 Dragons Rouges, 3 Dragons d'Or et 2 Dragons Noirs contre 30000 pi�ces d'Or et 4 Art�facts.
 - 30% de chances d'affronter 8 Dragons Verts, 6 Dragons Rouges, 4 Dragons d'Or et 3 Dragons Noirs contre 40000 pi�ces d'Or et 4 Art�facts.
-- 10% de chances d'affronter 8 Dragons Verts, 7 Dragons Rouges, 6 Dragons d'Or et 5 Dragons Noirs contre 50000 pi�ces d'Or et 4 Art�facts.
-( Optimisable )""
+- 10% de chances d'affronter 8 Dragons Verts, 7 Dragons Rouges, 6 Dragons d'Or et 5 Dragons Noirs contre 50000 pi�ces d'Or et 4 Art�facts.""
 
 26
 -1
@@ -3901,21 +3933,6 @@ Permet � un h�ros d'exp�rience de gagner +2 points en Attaque, D�fense, 
 -1
 ""Phare
 � chaque Phare que vous contr�lez, +500 points de mouvement pour vos bateaux.""
-
-43
--1
-""Monolithe / Portail (Entr�e)
-Passage sans retour vers un endroit pr�cis du monde.""
-
-44
--1
-""Monolithe / Portail (Sortie)
-Point d'arriv�e apr�s le franchissement d'un Monolithe ou un Portail � sens unique.""
-
-45
--1
-""Monolithe / Portail 2 Sens
-T�l�porte un h�ros aux endroits o� se trouvent d'autres Monolithes ou Portails identiques � celui-ci.""
 
 46
 -1
@@ -4122,8 +4139,7 @@ L'objet de la Qu�te doit �tre pr�cis�.""
 - 30% de chances d'affronter 20 Squelettes, 20 Tr�pass�s, 10 Revenants et 5 Vampires contre 2500 pi�ces d'Or et 1 Art�fact.
 - 10% de chances d'affronter 20 Squelettes, 20 Tr�pass�s, 10 Revenants et 10 Vampires contre 5000 pi�ces d'Or et 1 Art�fact.
 
--1 de Moral si le h�ros p�n�tre dans la Crypte une fois que celle-ci est d�serte.
-( Optimisable )""
+-1 de Moral si le h�ros p�n�tre dans la Crypte une fois que celle-ci est d�serte.""
 
 85
 -1
@@ -4133,8 +4149,7 @@ L'objet de la Qu�te doit �tre pr�cis�.""
 - 30% de chances d'affronter 25 Revenants contre 4000 pi�ces d'Or et 1 Art�fact.
 - 10% de chances d'affronter 50 Revenants contre 5000 pi�ces d'Or et 1 Art�fact.
 
--1 de Moral si le h�ros visite l'Epave une fois que celle-ci est d�serte.
-( Optimisable )""
+-1 de Moral si le h�ros visite l'Epave une fois que celle-ci est d�serte.""
 
 86
 -1
@@ -4747,11 +4762,6 @@ Paysage.""
 -1
 ""Feuillage des Marais
 Paysage.""
-
-212
--1
-""Poste Fronti�re
-Le h�ros doit obtenir un laissez-passer � la Tente du Ma�tre des Clefs de la m�me couleur pour franchir le Poste Fronti�re. Une fois que le h�ros est pass� de l'autre c�t�, le Poste Fronti�re ne dispara�t pas.""
 
 213
 -1
@@ -5582,7 +5592,9 @@ Art�facts requis pour cr�er l'Alliance Magique :
 130
 ""Cape du Roi des Morts
 Si le h�ros ne poss�de pas la comp�tence N�cromancie, la Cape du Roi des Morts r�animera 15% des ennemis morts en tant que Squelettes. En plus des propri�t�s de ses composants, cet art�fact octroie au h�ros qui a d�j� la comp�tence N�cromancie le pouvoir de r�ssusciter diverses cr�atures. Le niveau de comp�tence d�termine le type de cr�atures invoqu�es.  
-Des Zombies si le h�ros est Novice, des Revenants s'il est Disciple, et des Liches s'il est Ma�tre en N�cromancie. (Emplacement : �paules)
+Novice: Zombies
+Disciple: Revenants
+Maitre: Liches
 Art�facts requis pour cr�er la Cape du Roi des Morts :
 - Amulette du Fossoyeur
 - Capuche du Vampire
@@ -5688,6 +5700,86 @@ Art�facts requis pour cr�er la Manne C�leste :
 - Cape Cristalline
 - Anneau Sulfureux""
 
+9
+0
+""Border Guard: Light Blue
+Usually placed at choke points, a hero must visit a Keymaster's tent of the associated color for the password.""
+
+9
+1
+""Border Guard: Green
+Usually placed at choke points, a hero must visit a Keymaster's tent of the associated color for the password.""
+
+9
+2
+""Border Guard: Red
+Usually placed at choke points, a hero must visit a Keymaster's tent of the associated color for the password.""
+
+9
+3
+""Border Guard: Blue
+Usually placed at choke points, a hero must visit a Keymaster's tent of the associated color for the password.""
+
+9
+4
+""Border Guard: Tan
+Usually placed at choke points, a hero must visit a Keymaster's tent of the associated color for the password.""
+
+9
+5
+""Border Guard: Purple
+Usually placed at choke points, a hero must visit a Keymaster's tent of the associated color for the password.""
+
+9
+6
+""Border Guard: White
+Usually placed at choke points, a hero must visit a Keymaster's tent of the associated color for the password.""
+
+9
+7
+""Border Guard: Black
+Usually placed at choke points, a hero must visit a Keymaster's tent of the associated color for the password.""
+
+10
+0
+""Keymaster's Tent: Light Blue
+For a hero to pass a Border Guard, the hero must visit the Keymaster's tent of the associated color.""
+
+10
+1
+""Keymaster's Tent: Green
+For a hero to pass a Border Guard, the hero must visit the Keymaster's tent of the associated color.""
+
+10
+2
+""Keymaster's Tent: Red
+For a hero to pass a Border Guard, the hero must visit the Keymaster's tent of the associated color.""
+
+10
+3
+""Keymaster's Tent: Blue
+For a hero to pass a Border Guard, the hero must visit the Keymaster's tent of the associated color.""
+
+10
+4
+""Keymaster's Tent: Tan
+For a hero to pass a Border Guard, the hero must visit the Keymaster's tent of the associated color.""
+
+10
+5
+""Keymaster's Tent: Purple
+For a hero to pass a Border Guard, the hero must visit the Keymaster's tent of the associated color.""
+
+10
+6
+""Keymaster's Tent: White
+For a hero to pass a Border Guard, the hero must visit the Keymaster's tent of the associated color.""
+
+10
+7
+""Keymaster's Tent: Black
+For a hero to pass a Border Guard, the hero must visit the Keymaster's tent of the associated color.""
+
 16
 0
 ""R�serve Cyclope
@@ -5748,8 +5840,7 @@ Art�facts requis pour cr�er la Manne C�leste :
 - 30% de chances d'affronter 30 Gu�pes Dragons et voir 4 Wyvernes rejoindre vos rangs.
 - 30% de chances d'affronter 45 Gu�pes Dragons et voir 6 Wyvernes rejoindre vos rangs.
 - 30% de chances d'affronter 60 Gu�pes Dragons et voir 8 Wyvernes rejoindre vos rangs.
-- 10% de chances d'affronter 90 Gu�pes Dragons et voir 12 Wyvernes rejoindre vos rangs.
-( Optimisable )""
+- 10% de chances d'affronter 90 Gu�pes Dragons et voir 12 Wyvernes rejoindre vos rangs.""
 
 17
 0
@@ -6261,6 +6352,251 @@ H�ros de Combat du Conflux.""
 17
 ""Conjureur 
 H�ros de Magie du Conflux.""
+
+43
+0
+""Blue Monolith One Way Entrance
+Teleports hero one-way to a specific map location.""
+
+43
+1
+""Pink Monolith One Way Entrance
+Teleports hero one-way to a specific map location.""
+
+43
+2
+""Orange Monolith One Way Entrance
+Teleports hero one-way to a specific map location.""
+
+43
+3
+""Yellow Monolith One Way Entrance
+Teleports hero one-way to a specific map location.""
+
+43
+4
+""Purple Portal One Way Entrance
+Teleports hero one-way to a specific map location.""
+
+43
+5
+""Orange Portal One Way Entrance
+Teleports hero one-way to a specific map location.""
+
+43
+6
+""Red Portal One Way Entrance
+Teleports hero one-way to a specific map location.""
+
+43
+7
+""Cyan Portal One Way Entrance
+Teleports hero one-way to a specific map location.""
+
+43
+8
+""Turquoise Monolith One Way Entrance
+Teleports hero one-way to a specific map location.""
+
+43
+9
+""Violet Monolith One Way Entrance
+Teleports hero one-way to a specific map location.""
+
+43
+10
+""Chartreuse Monolith One Way Entrance
+Teleports hero one-way to a specific map location.""
+
+43
+11
+""White Monolith One Way Entrance
+Teleports hero one-way to a specific map location.""
+
+44
+0
+""Blue Monolith One Way Exit
+Exit point for a hero teleporting through a Monolith One Way Entrance.""
+
+44
+1
+""Pink Monolith One Way Exit
+Exit point for a hero teleporting through a Monolith One Way Entrance.""
+
+44
+2
+""Orange Monolith One Way Exit
+Exit point for a hero teleporting through a Monolith One Way Entrance.""
+
+44
+3
+""Yellow Monolith One Way Exit
+Exit point for a hero teleporting through a Monolith One Way Entrance.""
+
+44
+4
+""Purple Portal One Way Exit
+Exit point for a hero teleporting through a Portal One Way Entrance.""
+
+44
+5
+""Orange Portal One Way Exit
+Exit point for a hero teleporting through a Portal One Way Entrance.""
+
+44
+6
+""Red Portal One Way Exit
+Exit point for a hero teleporting through a Portal One Way Entrance.""
+
+44
+7
+""Cyan Portal One Way Exit
+Exit point for a hero teleporting through a Portal One Way Entrance.""
+
+44
+8
+""Turquoise Monolith One Way Exit
+Exit point for a hero teleporting through a Monolyth One Way Entrance.""
+
+44
+9
+""Violet Monolith One Way Exit
+Exit point for a hero teleporting through a Monolyth One Way Entrance.""
+
+44
+10
+""Chartreuse Monolith One Way Exit
+Exit point for a hero teleporting through a Monolyth One Way Entrance.""
+
+44
+11
+""White Monolith One Way Exit
+Exit point for a hero teleporting through a Monolyth One Way Entrance.""
+
+45
+0
+""Green Two Way Monolith
+Teleports a hero to another Two Way Monolith, with the ability to return to the gate of origin.""
+
+45
+1
+""Brown Two Way Monolith
+Teleports a hero to another Two Way Monolith, with the ability to return to the gate of origin.""
+
+45
+2
+""Violet Two Way Monolith
+Teleports a hero to another Two Way Monolith, with the ability to return to the gate of origin.""
+
+45
+3
+""Orange Two Way Monolith
+Teleports a hero to another Two Way Monolith, with the ability to return to the gate of origin.""
+
+45
+9
+""Pink Two Way Monolith
+Teleports a hero to another Two Way Monolith, with the ability to return to the gate of origin.""
+
+45
+10
+""Turquoise Two Way Monolith
+Teleports a hero to another Two Way Monolith, with the ability to return to the gate of origin.""
+
+45
+11
+""Yellow Two Way Monolith
+Teleports a hero to another Two Way Monolith, with the ability to return to the gate of origin.""
+
+45
+12
+""Black Two Way Monolith
+Teleports a hero to another Two Way Monolith, with the ability to return to the gate of origin.""
+
+45
+17
+""Blue Two Way Monolith
+Teleports a hero to another Two Way Monolith, with the ability to return to the gate of origin.""
+
+45
+18
+""Red Two Way Monolith
+Teleports a hero to another Two Way Monolith, with the ability to return to the gate of origin.""
+
+45
+4
+""Green Two Way Portal
+Teleports a hero to another Two Way Portal, with the ability to return to the gate of origin.""
+
+45
+5
+""Yellow Two Way Portal
+Teleports a hero to another Two Way Portal, with the ability to return to the gate of origin.""
+
+45
+6
+""Red Two Way Portal
+Teleports a hero to another Two Way Portal, with the ability to return to the gate of origin.""
+
+45
+7
+""Cyan Two Way Portal
+Teleports a hero to another Two Way Portal, with the ability to return to the gate of origin.""
+
+45
+13
+""Chartreuse Two Way Portal
+Teleports a hero to another Two Way Portal, with the ability to return to the gate of origin.""
+
+45
+14
+""Turquoise Two Way Portal
+Teleports a hero to another Two Way Portal, with the ability to return to the gate of origin.""
+
+45
+15
+""Violet Two Way Portal
+Teleports a hero to another Two Way Portal, with the ability to return to the gate of origin.""
+
+45
+16
+""Orange Two Way Portal
+Teleports a hero to another Two Way Portal, with the ability to return to the gate of origin.""
+
+45
+19
+""Pink Two Way Portal
+Teleports a hero to another Two Way Portal, with the ability to return to the gate of origin.""
+
+45
+20
+""Blue Two Way Portal
+Teleports a hero to another Two Way Portal, with the ability to return to the gate of origin.""
+
+45
+8
+""White Two Way Sea Portal
+Teleports a hero to another Two Way Sea Portal, with the ability to return to the gate of origin.""
+
+45
+21
+""Red Two Way Sea Portal
+Teleports a hero to another Two Way Sea Portal, with the ability to return to the gate of origin.""
+
+45
+22
+""Blue Two Way Sea Portal
+Teleports a hero to another Two Way Sea Portal, with the ability to return to the gate of origin.""
+
+45
+23
+""Chartreuse Two Way Sea Portal
+Teleports a hero to another Two Way Sea Portal, with the ability to return to the gate of origin.""
+
+45
+24
+""Yellow Two Way Sea Portal
+Teleports a hero to another Two Way Sea Portal, with the ability to return to the gate of origin.""
 
 53
 0
@@ -7233,6 +7569,46 @@ Ville du Conflux""
 ""Manufacture d'Armes
 Permet d'acheter les Machines de Guerre : Baliste, Dispensaire et Chariot.""
 
+212
+0
+""Border Gate: Light Blue
+Usually placed at choke points, a hero must visit the keymaster of the associated color in order to get the password.  Each player must visit the keymaster, as the Border Gate will not disappear after the first player visits it.""
+
+212
+1
+""Border Gate: Green
+Usually placed at choke points, a hero must visit the keymaster of the associated color in order to get the password.  Each player must visit the keymaster, as the Border Gate will not disappear after the first player visits it.""
+
+212
+2
+""Border Gate: Red
+Usually placed at choke points, a hero must visit the keymaster of the associated color in order to get the password.  Each player must visit the keymaster, as the Border Gate will not disappear after the first player visits it.""
+
+212
+3
+""Border Gate: Blue
+Usually placed at choke points, a hero must visit the keymaster of the associated color in order to get the password.  Each player must visit the keymaster, as the Border Gate will not disappear after the first player visits it.""
+
+212
+4
+""Border Gate: Tan
+Usually placed at choke points, a hero must visit the keymaster of the associated color in order to get the password.  Each player must visit the keymaster, as the Border Gate will not disappear after the first player visits it.""
+
+212
+5
+""Border Gate: Purple
+Usually placed at choke points, a hero must visit the keymaster of the associated color in order to get the password.  Each player must visit the keymaster, as the Border Gate will not disappear after the first player visits it.""
+
+212
+6
+""Border Gate: White
+Usually placed at choke points, a hero must visit the keymaster of the associated color in order to get the password.  Each player must visit the keymaster, as the Border Gate will not disappear after the first player visits it.""
+
+212
+7
+""Border Gate: Black
+Usually placed at choke points, a hero must visit the keymaster of the associated color in order to get the password.  Each player must visit the keymaster, as the Border Gate will not disappear after the first player visits it.""
+
 217
 0
 ""Demeure Al�atoire de Niv.1
@@ -7523,8 +7899,7 @@ Navire capable de voler au dessus des terres et des mers.""
 - 30% de chances d'affronter 50 Yeux Mal�fiques contre 3000 pi�ces d'Or et 1 Art�fact.
 - 30% de chances d'affronter 75 Yeux Mal�fiques contre 5000 pi�ces d'Or et 1 Art�fact.
 - 30% de chances d'affronter 100 Yeux Mal�fiques contre 6000 pi�ces d'Or et 1 Art�fact.
-- 10% de chances d'affronter 150 Yeux Mal�fiques contre 9000 pi�ces d'Or et 1 Art�fact.
-( Optimisable )""
+- 10% de chances d'affronter 150 Yeux Mal�fiques contre 9000 pi�ces d'Or et 1 Art�fact.""
 
 16
 22
@@ -7532,8 +7907,7 @@ Navire capable de voler au dessus des terres et des mers.""
 - 30% de chances d'affronter 8 Hydres, 6 Serpents de Mer, 3 Pyrohydres et 2 Haspids contre 10000 pi�ces d'Or et 4 Art�facts.
 - 30% de chances d'affronter 8 Hydres, 7 Serpents de Mer, 4 Pyrohydres et 3 Haspids contre 15000 pi�ces d'Or et 4 Art�facts.
 - 30% de chances d'affronter 8 Hydres, 7 Serpents de Mer, 5 Pyrohydres et 4 Haspids contre 20000 pi�ces d'Or et 4 Art�facts.
-- 10% de chances d'affronter 10 Hydres, 9 Serpents de Mer, 6 Pyrohydres et 5 Haspids contre 30000 pi�ces d'Or et 4 Art�facts.
-( Optimisable )""
+- 10% de chances d'affronter 10 Hydres, 9 Serpents de Mer, 6 Pyrohydres et 5 Haspids contre 30000 pi�ces d'Or et 4 Art�facts.""
 
 16
 23
@@ -7541,8 +7915,7 @@ Navire capable de voler au dessus des terres et des mers.""
 - 30% de chances d'affronter 20 Pirates + 20 Corsaires et voir 1 Serpent de Mer rejoindre vos rangs.
 - 30% de chances d'affronter 40 Pirates + 40 Corsaires et voir 2 Serpents de Mer rejoindre vos rangs.
 - 30% de chances d'affronter 60 Pirates + 60 Corsaires et voir 3 Serpents de Mer rejoindre vos rangs.
-- 10% de chances d'affronter 80 Pirates + 80 Corsaires et voir 4 Serpents de Mer rejoindre vos rangs.
-( Optimisable )""
+- 10% de chances d'affronter 80 Pirates + 80 Corsaires et voir 4 Serpents de Mer rejoindre vos rangs.""
 
 16
 24
@@ -7550,8 +7923,7 @@ Navire capable de voler au dessus des terres et des mers.""
 - 30% de chances d'affronter 40 Seigneurs Vampires contre 2500 pi�ces d'Or, +2 unit�s de Cristaux, de Soufre, de Mercure, de Gemmes, et 1 Art�fact.
 - 30% de chances d'affronter 60 Seigneurs Vampires contre 5000 pi�ces d'Or, +3 unit�s de Cristaux, de Soufre, de Mercure, de Gemmes, et 1 Art�fact.
 - 30% de chances d'affronter 80 Seigneurs Vampires contre 7500 pi�ces d'Or, +4 unit�s de Cristaux, de Soufre, de Mercure, de Gemmes, et 1 Art�fact.
-- 10% de chances d'affronter 100 Seigneurs Vampires contre 10000 pi�ces d'Or, +5 unit�s de Cristaux, de Soufre, de Mercure, de Gemmes, et 1 Art�fact.
-( Optimisable )""
+- 10% de chances d'affronter 100 Seigneurs Vampires contre 10000 pi�ces d'Or, +5 unit�s de Cristaux, de Soufre, de Mercure, de Gemmes, et 1 Art�fact.""
 
 16
 25
@@ -7559,8 +7931,7 @@ Navire capable de voler au dessus des terres et des mers.""
 - 30% de chances d'affronter 16 Basilics contre 3000 pi�ces d'Or.
 - 30% de chances d'affronter 24 Basilics contre 4500 pi�ces d'Or.
 - 30% de chances d'affronter 32 Basilics contre 6000 pi�ces d'Or.
-- 10% de chances d'affronter 48 Basilics contre 9000 pi�ces d'Or.
-( Optimisable )""
+- 10% de chances d'affronter 48 Basilics contre 9000 pi�ces d'Or.""
 
 16
 26
@@ -7568,8 +7939,7 @@ Navire capable de voler au dessus des terres et des mers.""
 - 30% de chances d'affronter 35 �l�mentaires du Feu et voir 1 Oiseau de Feu rejoindre vos rangs.
 - 30% de chances d'affronter 70 �l�mentaires du Feu et voir 2 Oiseaux de Feu rejoindre vos rangs.
 - 30% de chances d'affronter 105 �l�mentaires du Feu et voir 3 Oiseaux de Feu rejoindre vos rangs.
-- 10% de chances d'affronter 140 �l�mentaires du Feu et voir 4 Oiseaux de Feu rejoindre vos rangs.
-( Optimisable )""
+- 10% de chances d'affronter 140 �l�mentaires du Feu et voir 4 Oiseaux de Feu rejoindre vos rangs.""
 
 16
 27
@@ -7577,8 +7947,7 @@ Navire capable de voler au dessus des terres et des mers.""
 - 30% de chances d'affronter 1 Dragon Vert contre 2000 pi�ces d'Or et 1 Art�fact.
 - 30% de chances d'affronter 1 Dragon Rouge contre 2250 pi�ces d'Or et 1 Art�fact.
 - 30% de chances d'affronter 1 Dragon d'Or contre 3500 pi�ces d'Or et 1 Art�fact.
-- 10% de chances d'affronter 1 Dragon Noir contre 3750 pi�ces d'Or et 1 Art�fact.
-( Optimisable )""
+- 10% de chances d'affronter 1 Dragon Noir contre 3750 pi�ces d'Or et 1 Art�fact.""
 
 16
 28
@@ -7586,16 +7955,14 @@ Navire capable de voler au dessus des terres et des mers.""
 - 30% de chances d'affronter 35 Archimages et voir 3 Enchanteurs rejoindre vos rangs.
 - 30% de chances d'affronter 50 Archimages et voir 6 Enchanteurs rejoindre vos rangs.
 - 30% de chances d'affronter 65 Archimages et voir 9 Enchanteurs rejoindre vos rangs.
-- 10% de chances d'affronter 80 Archimages et voir 12 Enchanteurs rejoindre vos rangs.
-( Optimisable )""
+- 10% de chances d'affronter 80 Archimages et voir 12 Enchanteurs rejoindre vos rangs.""
 
 16
 29
 ""Cimeti�re
 Affronter 90 Zombies pour gagner 2500 pi�ces d'Or et 1 Art�fact.
 
--1 de Moral si le h�ros visite le Cimeti�re une fois que celui-ci est d�sert.
-( Optimisable )""
+-1 de Moral si le h�ros visite le Cimeti�re une fois que celui-ci est d�sert.""
 
 16
 30
@@ -7603,8 +7970,7 @@ Affronter 90 Zombies pour gagner 2500 pi�ces d'Or et 1 Art�fact.
 - 30% de chances d'affronter 25 Golems d'Acier et voir 1 G�ant rejoindre vos rangs.
 - 30% de chances d'affronter 50 Golems d'Acier et voir 2 G�ants rejoindre vos rangs.
 - 30% de chances d'affronter 75 Golems d'Acier et voir 3 G�ants rejoindre vos rangs.
-- 10% de chances d'affronter 100 Golems d'Acier et voir 4 G�ants rejoindre vos rangs.
-( Optimisable )""
+- 10% de chances d'affronter 100 Golems d'Acier et voir 4 G�ants rejoindre vos rangs.""
 
 16
 31
@@ -7612,8 +7978,7 @@ Affronter 90 Zombies pour gagner 2500 pi�ces d'Or et 1 Art�fact.
 - 30% de chances d'affronter 50 Pillards et voir 4 Cyclopes rejoindre vos rangs.
 - 30% de chances d'affronter 75 Pillards et voir 6 Cyclopes rejoindre vos rangs.
 - 30% de chances d'affronter 100 Pillards et voir 8 Cyclopes rejoindre vos rangs.
-- 10% de chances d'affronter 150 Pillards et voir 12 Cyclopes rejoindre vos rangs.
-( Optimisable )""
+- 10% de chances d'affronter 150 Pillards et voir 12 Cyclopes rejoindre vos rangs.""
 
 16
 32
@@ -7623,8 +7988,7 @@ Affronter 90 Zombies pour gagner 2500 pi�ces d'Or et 1 Art�fact.
 - 30% de chances d'affronter 40 Squelettes, 20 Guerriers Squelettes, 7 Revenants, 7 Spectres, et 2 Grandes Liches contre 3000 pi�ces d'Or. Et le champ de vision est �tendu � 12 cases.
 - 10% de chances d'affronter 50 Squelettes, 20 Guerriers Squelettes, 9 Revenants, 9 Spectres, et 3 Grandes Liches contre 4000 pi�ces d'Or. Et le champ de vision est �tendu � 12 cases.
 
-Si les Ruines ont d�j� �t� visit�es, le champ de vision est tout de m�me �tendu � 12 cases.
-( Optimisable )""
+Si les Ruines ont d�j� �t� visit�es, le champ de vision est tout de m�me �tendu � 12 cases.)""
 
 17
 91
@@ -7989,7 +8353,6 @@ Un h�ros sp�cifique vous rejoint gratuitement.""
 1
 ""Chantier A�ronaval
 Permet de construire des dirigeables.""
-
 
 88
 3
@@ -9433,7 +9796,10 @@ HPL212.pcx
 HPL213.pcx
 HPL214.pcx
 HPL215.pcx
-HPL216.pcx"
+HPL216.pcx
+HPL217.pcx
+HPL218.pcx
+HPL219.pcx"
 Text 8: "HPLP01s.pcx
 HPLP02s.pcx
 HPLP03s.pcx
@@ -9495,11 +9861,14 @@ HPS212.pcx
 HPS213.pcx
 HPS214.pcx
 HPS215.pcx
-HPS216.pcx"
+HPS216.pcx
+HPS217.pcx
+HPS218.pcx
+HPS219.pcx"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
-Val 1: "62"
+Val 1: "65"
 Val 2: "0"
 Val 3: "0"
 ------------------------------------------------
@@ -9913,12 +10282,15 @@ Text 8: "11 # x
 
 # Campaign select dialog
 0 # ""Allies"" text x shift"
+
+# Cutscenes
+475 # Video subtitles period"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
-Val 1: "0"
-Val 2: "0"
-Val 3: "0"
+Val 1: "1"
+Val 2: "7"
+Val 3: "3"
 ------------------------------------------------
 
 ------------------------------------------------
@@ -10608,7 +10980,7 @@ BoCvhal4.pcx
 BoCvmark.pcx
 BoCvsmrk.pcx
 BoCvsmth.pcx
-BoCvPWSH.pcx
+BoCvgmg1.pcx
 BoCvSA1P.pcx
 BoCvSA2P.pcx
 BoCvboat.pcx
@@ -14557,6 +14929,330 @@ Val 3: "0"
 ------------------------------------------------
 
 ------------------------------------------------
+Name: "sobst130"
+Path: ""
+Texts count: "9"
+Text 0: ""
+Text 1: "ob_ex01n.d32"
+Text 2: "# Exp Shop (normal 1)"
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: "0 # terrs msk
+0 # spec terrs msk
+1 # height
+2 # width
+1 # hexes count
+0 # draw under all (0 - no, 1 -yes)"
+Text 8: "# hexes shifts
+1"
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "sobst131"
+Path: ""
+Texts count: "9"
+Text 0: ""
+Text 1: "ob_ex02n.d32"
+Text 2: "# Exp Shop (normal 2)"
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: "0 # terrs msk
+0 # spec terrs msk
+1 # height
+2 # width
+1 # hexes count
+0 # draw under all (0 - no, 1 -yes)"
+Text 8: "# hexes shifts
+1"
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "sobst132"
+Path: ""
+Texts count: "9"
+Text 0: ""
+Text 1: "ob_ex03n.d32"
+Text 2: "# Exp Shop (normal 3)"
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: "0 # terrs msk
+0 # spec terrs msk
+1 # height
+2 # width
+1 # hexes count
+0 # draw under all (0 - no, 1 -yes)"
+Text 8: "# hexes shifts
+1"
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "sobst133"
+Path: ""
+Texts count: "9"
+Text 0: ""
+Text 1: "ob_ex01s.d32"
+Text 2: "# Exp Shop (snow 1)"
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: "0 # terrs msk
+0 # spec terrs msk
+1 # height
+2 # width
+1 # hexes count
+0 # draw under all (0 - no, 1 -yes)"
+Text 8: "# hexes shifts
+1"
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "sobst134"
+Path: ""
+Texts count: "9"
+Text 0: ""
+Text 1: "ob_ex02s.d32"
+Text 2: "# Exp Shop (snow 2)"
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: "0 # terrs msk
+0 # spec terrs msk
+1 # height
+2 # width
+1 # hexes count
+0 # draw under all (0 - no, 1 -yes)"
+Text 8: "# hexes shifts
+1"
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "sobst135"
+Path: ""
+Texts count: "9"
+Text 0: ""
+Text 1: "ob_ex03s.d32"
+Text 2: "# Exp Shop (snow 3)"
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: "0 # terrs msk
+0 # spec terrs msk
+1 # height
+2 # width
+1 # hexes count
+0 # draw under all (0 - no, 1 -yes)"
+Text 8: "# hexes shifts
+1"
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "sobst136"
+Path: ""
+Texts count: "9"
+Text 0: ""
+Text 1: "ob_ex01l.d32"
+Text 2: "# Exp Shop (lava 1)"
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: "0 # terrs msk
+0 # spec terrs msk
+1 # height
+2 # width
+1 # hexes count
+0 # draw under all (0 - no, 1 -yes)"
+Text 8: "# hexes shifts
+1"
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "sobst137"
+Path: ""
+Texts count: "9"
+Text 0: ""
+Text 1: "ob_ex02l.d32"
+Text 2: "# Exp Shop (lava 2)"
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: "0 # terrs msk
+0 # spec terrs msk
+1 # height
+2 # width
+1 # hexes count
+0 # draw under all (0 - no, 1 -yes)"
+Text 8: "# hexes shifts
+1"
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "sobst138"
+Path: ""
+Texts count: "9"
+Text 0: ""
+Text 1: "ob_ex03l.d32"
+Text 2: "# Exp Shop (lava 3)"
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: "0 # terrs msk
+0 # spec terrs msk
+1 # height
+2 # width
+1 # hexes count
+0 # draw under all (0 - no, 1 -yes)"
+Text 8: "# hexes shifts
+1"
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "sobst139"
+Path: ""
+Texts count: "9"
+Text 0: ""
+Text 1: "ob_ex01w.d32"
+Text 2: "# Exp Shop (wasteland 1)"
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: "0 # terrs msk
+0 # spec terrs msk
+1 # height
+2 # width
+1 # hexes count
+0 # draw under all (0 - no, 1 -yes)"
+Text 8: "# hexes shifts
+1"
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "sobst140"
+Path: ""
+Texts count: "9"
+Text 0: ""
+Text 1: "ob_ex02w.d32"
+Text 2: "# Exp Shop (wasteland 2)"
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: "0 # terrs msk
+0 # spec terrs msk
+1 # height
+2 # width
+1 # hexes count
+0 # draw under all (0 - no, 1 -yes)"
+Text 8: "# hexes shifts
+1"
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "sobst141"
+Path: ""
+Texts count: "9"
+Text 0: ""
+Text 1: "ob_ex03w.d32"
+Text 2: "# Exp Shop (wasteland 3)"
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: "0 # terrs msk
+0 # spec terrs msk
+1 # height
+2 # width
+1 # hexes count
+0 # draw under all (0 - no, 1 -yes)"
+Text 8: "# hexes shifts
+1"
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
 Name: "banim87"
 Path: ""
 Texts count: "9"
@@ -14763,6 +15459,27 @@ Vals count: "4"
 Val 0: "0"
 Val 1: "1"
 Val 2: "1"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "banim97"
+Path: ""
+Texts count: "9"
+Text 0: ""
+Text 1: "CSPeagl.def"
+Text 2: "EagleEye"
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: ""
+Text 8: ""
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "1"
+Val 2: "0"
 Val 3: "0"
 ------------------------------------------------
 
@@ -16935,6 +17652,61 @@ Val 3: "0"
 ------------------------------------------------
 
 ------------------------------------------------
+Name: "campmap25"
+Path: ""
+Texts count: "9"
+Text 0: "All In"
+Text 1: "BgAllIn.pcx"
+Text 2: ""
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: ""
+Text 8: "# Campaign type (0 - region map, 1 - generated region map)
+1
+# Region count
+5
+# Region coords
+71 61
+34 247
+212 36
+256 418
+26 419
+# Map 1
+All In A
+C4Amask.pcx
+C4Abord.pcx
+C4Aalph.pcx
+# Map 2
+All In B
+C4Bmask.pcx
+C4Bbord.pcx
+C4Balph.pcx
+# Map 3
+All In C
+C4Cmask.pcx
+C4Cbord.pcx
+C4Calph.pcx
+# Map 4
+All In D
+C4Dmask.pcx
+C4Dbord.pcx
+C4Dalph.pcx
+# Map 5
+All In E
+C4Emask.pcx
+C4Ebord.pcx
+C4Ealph.pcx"
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
 Name: "cmpbackground0"
 Path: ""
 Texts count: "9"
@@ -17108,7 +17880,13 @@ CslFF2.pcx
 CslFG1.pcx
 CslFG2.pcx
 CslFH1.pcx
-CslFH2.pcx"
+CslFH2.pcx
+CslAll1.pcx
+CslAll2.pcx
+CslAll3.pcx
+CslAll4.pcx
+CslAll5.pcx
+CslAll6.pcx"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -17142,7 +17920,14 @@ HotACampTheme05
 HotACampTheme06
 HotACampTheme07
 HotACampTheme08
-HotACampTheme09"
+HotACampTheme09
+DargemCampaignTheme
+DargemIntro1
+DargemIntro2
+DargemIntro3
+DargemIntro4
+DargemIntro5
+DargemOutro5"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -18406,6 +19191,237 @@ Val 3: "0"
 ------------------------------------------------
 
 ------------------------------------------------
+Name: "video179"
+Path: ""
+Texts count: "9"
+Text 0: ""
+Text 1: "# All In 1"
+Text 2: "Allin1"
+Text 3: ""
+Text 4: "AllIn_a"
+Text 5: ""
+Text 6: ""
+Text 7: "# Has bink file (3 � only bik)
+3
+# Loop fade in
+0
+# Fade out
+0
+# Preload start video
+0
+# Unknown
+0
+0
+# Shift Y by 100 px (0 - no, 1 - yes)
+1"
+Text 8: ""
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "video180"
+Path: ""
+Texts count: "9"
+Text 0: ""
+Text 1: "# All In 2"
+Text 2: "Allin2"
+Text 3: ""
+Text 4: "AllIn_b"
+Text 5: ""
+Text 6: ""
+Text 7: "# Has bink file (3 � only bik)
+3
+# Loop fade in
+0
+# Fade out
+0
+# Preload start video
+0
+# Unknown
+0
+0
+# Shift Y by 100 px (0 - no, 1 - yes)
+1"
+Text 8: ""
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "video181"
+Path: ""
+Texts count: "9"
+Text 0: ""
+Text 1: "# All In 3"
+Text 2: "Allin3"
+Text 3: ""
+Text 4: "AllIn_c"
+Text 5: ""
+Text 6: ""
+Text 7: "# Has bink file (3 � only bik)
+3
+# Loop fade in
+0
+# Fade out
+0
+# Preload start video
+0
+# Unknown
+0
+0
+# Shift Y by 100 px (0 - no, 1 - yes)
+1"
+Text 8: ""
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "video182"
+Path: ""
+Texts count: "9"
+Text 0: ""
+Text 1: "# All In 4"
+Text 2: "Allin4"
+Text 3: ""
+Text 4: "AllIn_d"
+Text 5: ""
+Text 6: ""
+Text 7: "# Has bink file (3 � only bik)
+3
+# Loop fade in
+0
+# Fade out
+0
+# Preload start video
+0
+# Unknown
+0
+0
+# Shift Y by 100 px (0 - no, 1 - yes)
+1"
+Text 8: ""
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "video183"
+Path: ""
+Texts count: "9"
+Text 0: ""
+Text 1: "# All In 5"
+Text 2: "Allin5A"
+Text 3: ""
+Text 4: "AllIn_e"
+Text 5: ""
+Text 6: ""
+Text 7: "# Has bink file (3 � only bik)
+3
+# Loop fade in
+0
+# Fade out
+0
+# Preload start video
+0
+# Unknown
+0
+0
+# Shift Y by 100 px (0 - no, 1 - yes)
+1"
+Text 8: ""
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "video184"
+Path: ""
+Texts count: "9"
+Text 0: ""
+Text 1: "# All In Epilogue"
+Text 2: "Allin5B"
+Text 3: ""
+Text 4: "AllIn_epilogue"
+Text 5: ""
+Text 6: ""
+Text 7: "# Has bink file (3 � only bik)
+3
+# Loop fade in
+0
+# Fade out
+0
+# Preload start video
+0
+# Unknown
+0
+0
+# Shift Y by 100 px (0 - no, 1 - yes)
+1"
+Text 8: ""
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "video185"
+Path: ""
+Texts count: "9"
+Text 0: ""
+Text 1: "# All In - Minivideo"
+Text 2: "mvallin"
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: "# Has bink file (3 � only bik)
+3
+# Loop fade in
+0
+# Fade out
+0
+# Preload start video
+1
+# Unknown
+0
+0
+# Shift Y by 100 px (0 - no, 1 - yes)
+0"
+Text 8: ""
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
 Name: "campvideoindex0"
 Path: ""
 Texts count: "9"
@@ -18417,7 +19433,7 @@ Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: "# Index count
-38
+45
 # Indices
 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 0 0 0 0 161 162 163 164 165 166 167 168 169 170 171 172 173 174 175 176 177 178"
 Text 8: ""
@@ -18478,7 +19494,13 @@ Factory6B
 Factory7A
 Factory7B
 Factory8A
-Factory8B"
+Factory8B
+ALLIN1
+ALLIN2
+ALLIN3
+ALLIN4
+ALLIN5
+ALLIN6"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -18583,6 +19605,680 @@ Text 8: "# Slot
 0
 # Video
 160"
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "campaign24"
+Path: ""
+Texts count: "9"
+Text 0: ""
+Text 1: "H5AllIn.h3c"
+Text 2: "All In"
+Text 3: "campal1.pcx"
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: ""
+Text 8: "# Slot
+4
+# Preconditions
+0
+# Video
+185"
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "event_system0"
+Path: ""
+Texts count: "9"
+Text 0: "# Action Names
+Sequence of actions
+Condition (If / Then / Else If...)
+Set variable by condition
+Modify variable
+Resources
+Remove current object
+Message with reward
+Quest action
+Creatures
+Artifact
+Build town structure
+Set quest hint/quest log text
+Question
+Condition (If / Then / Else)
+Add creatures to hire
+Spell
+Experience
+Spell points
+Movement points
+Primary skills
+Secondary skills
+Luck
+Morale
+Combat
+Execute event
+War machine
+Spellbook
+Disable event
+Cycle
+Show message"
+Text 1: "# Action Descriptions
+Sequence of actions
+Condition (If / Then / Else If...)
+Save expression result to """"%s"""" variable
+%s variable """"%s""""
+Modify resources
+Remove current object
+Message with reward: """"%s""""
+Quest action
+Give/take creatures
+Give/take artifact
+Build %s
+Set log entry / quest hint
+Question: """"%s""""
+Condition (If / Then / Else)
+Increase count of creatures in Level %d dwelling by %d
+Give %s spell
+Give %d experience
+Modify spell points
+Modify movement points
+Give %s %s
+Set %s level to %s
+%s luck by %d
+%s morale by %d
+Fight with 
+Execute event: %s
+Give/take war machine
+Give/take spellbook
+Disable event
+For each integer from %s to %s incl. (record to %s)
+Show message: """"%s""""
+"
+Text 2: "# Boolean Expression Names
+Boolean value
+And
+Or
+Less Than
+Greater Than
+Equal
+Not
+Hero has artifact
+Greater Than or Equal
+Less Than or Equal
+Not Equal
+Hero belongs to certain player
+Has certain hero
+Hero belongs to certain class
+Monster is defeated by player
+Hero is defeated by player
+Hero has secondary skill
+Player is defeated
+Town is controlled by player
+Player is human
+Player's alignment
+Town is neutral"
+Text 3: "# Boolean Expression Descriptions
+Boolean value
+(And)
+(Or)
+Less Than
+Greater Than
+Equal
+(Not)
+Hero has %s
+Greater Than or Equal
+Less Than or Equal
+Not Equal
+Current player is %s
+Current hero is %s
+Hero's class is %s
+Defeat %s
+Defeat hero %s
+%s is defeated
+%s is defeated
+%s must control %s
+%s is human
+Starting town type of %s is %s
+Current town is neutral"
+Text 4: "# Integer Expression Names
+Integer value
+Variable value
+Negative value
+Add
+Subtract
+Resource
+Multiply
+Divide
+Modulo
+Creature count
+Current difficulty level
+Difficulty level
+Current date
+Hero's current experience
+Hero's current level
+Primary skill
+Random number
+Artifact count"
+Text 5: "# Integer Expression Descriptions
+Integer value
+Value of variable %s
+(Negative value)
+(Add)
+(Subtract)
+%s's amount of %s
+(Multiply)
+(Divide)
+(Modulo)
+Count of %s in hero's army
+Current difficulty level
+Difficulty level (%s)
+Current date
+Hero's current experience
+Hero's current level
+Level of primary skill %s
+Random number (%d � %d)
+Count of %s artifacts"
+Text 6: "Resources (+)
+Artifact
+Spell
+Player flag
+Luck
+Morale
+Experience
+Secondary skill
+Creatures
+Primary skill
+Spell points
+Movement points
+Gold (+, small image)
+Resources (-)
+Resources (Per day)
+Spell scroll
++1 Level
+Creatures (Simple)
+Resources (Simple)
+Primary skill (+)
+Gold (-, small image)
+Gold (Small image)
+Gold (Per day, small image)"
+Text 7: ""
+Text 8: "# 0
+Error: In event %s has happened division by zero. Further operation of event can be incorrect.
+# 1
+Map Error: Current event contains too many actions (maximum is %d). Sequence will not be executed further.
+# 2
+%s has found a war machine.
+# 3
+%s has found a spell book.
+# 4
+ nothing
+# 5
+Complete Quest For Object
+# 6
+Message with reward: ""%s...""
+# 7
+Show message: ""%s...""
+# 8
+%s %d %s to garrison
+# 9
+%s spellbook
+# 10
+Question: ""%s...""
+# 11
+movement points
+# 12
+spell points
+# 13
+experience
+# 14
+Increase
+# 15
+Decrease
+# 16
+Increase count of creatures in Level %d dwelling
+# 17
+Increase count of creatures in Level 7b dwelling by %d
+# 18
+Increase count of creatures in Level 7b dwelling
+# 19
+Combat (disabled)
+# 20
+ and 
+# 21
+Execute Event (Nothing)
+# 22
+(Expression)
+# 23
+True
+# 24
+False
+# 25
+Hero has %s scroll
+# 26
+Hero %s belongs to %s
+# 27
+Defeat hero (no hero)
+# 28
+Defeat monster (no monster)
+# 29
+Defeat random hero
+# 30
+Control town (no town)
+# 31
+Count of %s in garrison
+# 32
+Count of %s scrolls
+# 33
+***Event Texts***
+# 34
+Extended Events
+# 35
+NewEvent
+# 36
+NewVariable
+# 37
+E&vent system		Ctrl+E
+# 38
+Variable Name:
+# 39
+Save in campaign
+# 40
+Initial value
+# 41
+Import from previous maps
+# 42
+Undo
+# 43
+Redo
+# 44
+Add
+# 45
+Insert If-Then Branch
+# 46
+Remove
+# 47
+Remove All
+# 48
+Up
+# 49
+Down
+# 50
+Event Name:
+# 51
+Event System
+# 52
+Hero Events
+# 53
+Player Events
+# 54
+Town Events
+# 55
+Quest Events
+# 56
+Variables
+# 57
+Event Type
+# 58
+Duplicate
+# 59
+Event
+# 60
+New Event Name
+# 61
+New Variable Name
+# 62
+New Image
+# 63
+Type
+# 64
+Subtype
+# 65
+Images:
+# 66
+Variable:
+# 67
+Show with message
+# 68
+Add/Remove Expression
+# 69
+Add
+# 70
+Subtract
+# 71
+Set
+# 72
+Remove
+# 73
+Edit
+# 74
+Message:
+# 75
+Additional Experience:
+# 76
+Image show type:
+# 77
+Show """"Or"""" text between images
+# 78
+No images in message
+# 79
+Selection images (can't exit)
+# 80
+Selection images (can exit)
+# 81
+Specify images
+# 82
+New
+# 83
+Rename
+# 84
+True:
+# 85
+False:
+# 86
+Proposal
+# 87
+Progress
+# 88
+Completion
+# 89
+Restart after all quest actions finished
+# 90
+Player color:
+# 91
+Class:
+# 92
+Personality:
+# 93
+Location:
+# 94
+Monster:
+# 95
+Defeating player:
+# 96
+Hero:
+# 97
+No hero
+# 98
+Level:
+# 99
+Skill:
+# 100
+Player:
+# 101
+Town type:
+# 102
+Town:
+# 103
+First:
+# 104
+Second:
+# 105
+From:
+# 106
+To:
+# 107
+Variable (read-only)
+# 108
+Quest object hint
+# 109
+Quest object log entry
+# 110
+Secondary Skill:
+# 111
+Primary Skill:
+# 112
+Creature Level
+# 113
+Level %d
+# 114
+Level 7b
+# 115
+[Variable: %s]
+# 116
+%s %s (small)
+# 117
+-%s %s (small)
+# 118
+%s %s per day (small)
+# 119
+%s %s per day
+# 120
++1 Level
+# 121
+Luck (+%d)
+# 122
+Luck (%d)
+# 123
+Morale (+%d)
+# 124
+Morale (%d)
+# 125
+Experience (%s)
+# 126
+Spellpoints (%s)
+# 127
+Movement points (%s)
+# 128
+Gold (%s) - small image
+# 129
+Building
+# 130
+Player %d
+# 131
+Current army
+# 132
+Anywhere for Current player
+# 133
+Anywhere for Player %d
+# 134
+Expression
+# 135
+Value: %s
+# 136
+Slot %d: %s
+# 137
+Min: %s
+# 138
+Max: %s
+# 139
+First: %s
+# 140
+Second: %s
+# 141
+True: %s
+# 142
+False: %s
+# 143
+Then...
+# 144
+Else...
+# 145
+Yes/First
+# 146
+No/Second
+# 147
+Cancel
+# 148
+Sequence
+# 149
+Completion
+# 150
+Rewards
+# 151
+Variable is already used in event """"%s"""", can't be removed.
+# 152
+Building - %s
+# 153
+There's already an entry with such name
+# 154
+%s (read-only)
+# 155
+No monster
+# 156
+No town
+# 157
+Give
+# 158
+Take
+# 159
+Current player
+# 160
+Any player
+# 161
+War machine:
+# 162
+New event
+# 163
+New variable
+# 164
+Artifact:
+# 165
+If...
+# 166
+Else If...
+# 167
+Script
+# 168
+Use unique copy of event
+# 169
+Create New
+# 170
+Edit...
+# 171
+Create Copy...
+# 172
+Do you really want to delete all events? You won't be able to restore them!
+# 173
+
+Do you really want to delete this event? You won't be able to restore it!
+# 174
+Extended Event
+# 175
+Resource:
+# 176
+Event is already used in event """"%s"""", can't be removed.
+# 177
+Some events are used in events %s, can't be removed.
+# 178
+Some events are used in variables %s, can't be removed.
+# 179
+Minimum:
+# 180
+Maximum:
+# 181
+Event:
+# 182
+Movement points:
+# 183
+Spell points:
+# 184
+Type:
+# 185
+Quantity:
+# 186
+Difficulty level:"
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "eventsys_extra0"
+Path: ""
+Texts count: "9"
+Text 0: ""
+Text 1: ""
+Text 2: ""
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: "# Long Action Name Descriptions
+Sequence
+Conditional Statement. More If-Then branches can be added with \Add Branch\ option.
+Record value of boolean expression to variable depending on result
+Change value of variable
+Modify player's resources
+Remove current object (Event Quest Guard or Pandora's Box) or complete current quest
+Message and sequence of reward actions shown as images in message
+Quest action with completion question. Until quest is completed further actions will not be executed
+Give or take creatures
+Give or take artifact
+Construct a town building
+Set quest log entry and hint of quest object for current quest
+Asks question with different actions for different responses
+Simple Conditional Statement
+Increase amount of creatures available for hire
+Give spell to hero
+Give experience to hero
+Modify amount of spell points
+Modify amount of movement points
+Give primary skills
+Give secondary skills
+Modify luck
+Modify morale
+Combat with specified monster stacks
+Execute different event. Recursion is impossible.
+Give or take war machine
+Give or take spellbook
+Disable current event and stop event execution
+Cycle of repeating sequence
+Show message with specified images"
+Text 7: "# Long BoolExpr Name Descriptions
+True or false
+Logical """"And""""
+Logical """"Or""""
+First value is less than second value
+First value is greater than second value
+First value is equal to second value
+Value of other boolean expression is false
+Hero has certain artifact or war machine
+First value is greater than or equal to second value
+First value is less than or equal to second value
+First value is not equal to second value
+Current player is certain player
+Search for specific hero is successful
+Current hero class is certain class
+Specific monster is defeated by certain player
+Specific hero is defeated by certain hero
+Current hero has secondary skill of specific level
+Specific player is defeated
+Specific town is controlled by certain player
+Current player is human
+Current player's starting town type is certain town type
+Current town is neutral"
+Text 8: "Integer value
+Numeric variable
+Negative value of expression
+Addition
+Subtraction
+Current player's resource amount
+Multiplication
+Division
+Modulo division
+Creature count in current army
+Current difficulty level
+Specific difficulty level
+Current date
+Current hero's experience
+Current hero's level
+Value of primary skill of current hero
+Random number from X to Y inclusively
+Artifact count in hero's inventory"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
