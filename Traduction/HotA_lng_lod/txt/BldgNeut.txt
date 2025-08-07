@@ -3,7 +3,7 @@ Guilde des Mages Niveau 2	Une visite à la Guilde des Mages, permet au héros de
 Guilde des Mages Niveau 3	Une visite à la Guilde des Mages, permet au héros de s'instruire et d'apprendre les sorts de Niveau 3.
 Guilde des Mages Niveau 4	Une visite à la Guilde des Mages, permet au héros de s'instruire et d'apprendre les sorts de Niveau 4.
 Guilde des Mages Niveau 5	Une visite à la Guilde des Mages, permet au héros de s'instruire et d'apprendre les sorts de Niveau 5.
-Taverne	Grâce à la Taverne, le moral des troupes qui défendent la ville augmente d'un point.
+Taverne	La Taverne permet de recruter des Héros, entendre les dernières rumeurs et visiter la guilde des voleurs. Grâce à la Taverne, le moral des troupes qui défendent la ville augmente d'un point.
 Chantier Naval	Le Chantier Naval vous permet d'acheter des bateaux.
 Fort	Le Fort permet à la ville de disposer d'une enceinte de protection.
 Citadelle	La Citadelle engendre une croissance de la population de 50% et consolide les fortifications de la ville.

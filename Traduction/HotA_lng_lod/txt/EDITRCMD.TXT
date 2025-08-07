@@ -1,6 +1,6 @@
 Note: Do not change the headings in this file, they are used to detect problems	
 Status Bar Message	Tool Tip
-Pour obtenir de l'aide, tapez F1	
+Pour obtenir de l'aide, tapez [F1]	
 Créer une nouvelle carte	Nouvelle carte [Ctrl+N]
 Ouvrir une carte existante	Ouvrir une carte [Ctrl+O]
 Sauvegarder la carte actuelle	Sauvegarder la carte [Ctrl+S]
@@ -10,10 +10,10 @@ Quitter l'éditeur de carte	Quitter
 Lister les rubriques d'aide	Rubriques d'aide
 Afficher l'aide de l'activité ou de la commande actuelle	Aide
 Ouvrir cette carte	
-Copier l'objet sélectionné et le mettre dans le presse-papier	Copier
-Couper l'objet sélectionné et le mettre dans le presse-papier	Couper
+Copier l'objet sélectionné et le mettre dans le presse-papier	Copier  [Ctrl+C]
+Couper l'objet sélectionné et le mettre dans le presse-papier	Couper  [Ctrl+X]
 Trouver un type d'objet spécifique	
-Insérer le contenu du presse-papier	Coller
+Insérer le contenu du presse-papier	Coller  [Ctrl+V]
 Annuler la dernière action	Annuler [Ctrl+Z]
 Rétablir l'action précédemment annulée	Rétablir [Shift+Ctrl+Z]
 Changer la taille de la fenêtre	
@@ -23,7 +23,7 @@ Réduire la fenêtre
 Fermer la fenêtre	
 Restaurer la taille normale de la fenêtre	
 Voir la carte souterraine	Souterrain [Ctrl+U]
-Indiquer si les objets sont franchissables	Carte d'accessibilité
+Indiquer si les objets sont franchissables	Carte d'accessibilité   [Ctrl+P]
 Placer du terrain	Outil de Terrain
 Placer des rivières	Outil de Rivière
 Placer des routes	Outil de Route
@@ -36,7 +36,7 @@ Placer des objets de type Marais	Objets Marais [T]
 Placer des objets de type Rocailleux	Objets Rocailleux [Y]
 Placer des objets de type Souterrain	Objets Souterrain [U]
 Placer des objets de type Lave	Objets Lave [I]
-Placer des objets de type Océan	Objets Océan []]
+Placer des objets de type Océan	Objets Océan [[]
 Placer des villes	Villes [S]
 Placer des monstres	Monstres [D]
 Placer des héros	Héros [F]
@@ -56,7 +56,7 @@ Sélectionner le terrain de type Marais	Marais [5]
 Sélectionner le terrain de type Rocailleux	Rocailleux [6]
 Sélectionner le terrain de type Souterrain	Souterrain [7]
 Sélectionner le terrain de type Lave	Lave [8]
-Sélectionner le terrain de type Océan	Océan
+Sélectionner le terrain de type Océan	Océan   [-]
 Sélectionner la rivière claire	Rivières claires [Alt+1]
 Sélectionner la rivière gelée	Rivières gelées [Alt+2]
 Sélectionner la rivière boueuse	Rivières boueuses [Alt+3]
@@ -70,7 +70,7 @@ Selectionner la gomme de remplissage	Brosse de remplissage [Shift+V]
 Ne pas sélectionner de joueur	
 Sélectionner le joueur %s	
 Sélectionner la route de terre	Routes de terre [Shift+1]
-Sélectionner le terrain de type Parois	Parois [+]
+Sélectionner le terrain de type Parois	Parois [=]
 Supprimer l'objet sélectionné	Supprimer
 Afficher les propriétés de l'objet sélectionné	Propriétés
 Afficher la grille de cases	Grille
@@ -119,5 +119,5 @@ Placer des objets de type Aride	Objets Aride [P]
 Placer les Demeures des Créatures	Demeures des Créatures [J]
 Placer les Portails Magiques	Portails Magiques [K]
 Placer les Garnisons, Gardes Frontières-Quêtes, et Tentes	Garnisons, Gardes Frontières-Quêtes, et Tentes [L]
-Placer les Terrains Magiques	Terrains Magiques [$]
-Placer les Objets Décorations	Objets Décorations [^]
+Placer les Terrains Magiques	Terrains Magiques [;]
+Placer les Objets Décorations	Objets Décorations []]
