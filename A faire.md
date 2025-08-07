@@ -38,7 +38,7 @@
 * ~~Garrison.txt~~
 * GENRLTXT.TXT
 * ~~HallInfo.txt~~
-* HCTRAITS.TXT
+* ~~HCTRAITS.TXT~~
 * Help.txt
 * ~~HeroBios.txt~~
 * ~~HeroScrn.txt~~
