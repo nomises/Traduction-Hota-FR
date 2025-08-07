@@ -8,7 +8,8 @@
 ### Traduire
 * ~~SSTRAITS.txt~~
 * ~~SPTRAITS.txt~~
-* TentColr.txt
+* SSTRAITS.txt
+* ~~TentColr.txt~~
 * ~~xtrainfo.txt~~
 
 ### Vérifier
