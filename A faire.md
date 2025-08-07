@@ -14,7 +14,7 @@
 
 ### Vérifier
 * advevent.txt
-* ARRAYTXT.txt
+* ~~ARRAYTXT.txt~~
 * ~~artevent.txt~~
 * artraits.txt
 * ~~ArtSlots.txt~~
