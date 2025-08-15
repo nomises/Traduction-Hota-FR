@@ -23,6 +23,8 @@ Subterranean;Souterrain
 Lava;Lave
 Water;Océan
 Rock;Rocher
+Highlands;Plateau
+Wasteland;Aride
 hex;hexagone
 unit;troupe
 Treasure Artifact;Artefact Précieux
@@ -60,3 +62,6 @@ Couatl;Couatl
 Crimson Couatl;Couatl de guerre
 Dreadnought;Démolisseur
 Juggernaut;Juggernaut
+Keymaster's Tent;Tente du Maître des Clefs
+Border Gate;Poste Frontière
+Border Guard;Garde
