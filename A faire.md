@@ -6,18 +6,19 @@
 
 ## HotA_lng.lod
 ### Traduire
+* ~~SSTRAITS.txt~~
 * ~~SPTRAITS.txt~~
 * SSTRAITS.txt
-* TentColr.txt
+* ~~TentColr.txt~~
 * ~~xtrainfo.txt~~
 
 ### Vérifier
 * advevent.txt
-* ARRAYTXT.txt
+* ~~ARRAYTXT.txt~~
 * ~~artevent.txt~~
 * artraits.txt
 * ~~ArtSlots.txt~~
-* BldgNeut.txt
+* ~~BldgNeut.txt~~
 * BldgSpec.txt
 * ~~CAMPBTTN.TXT~~
 * ~~CAMPDIAG.TXT~~
@@ -37,7 +38,7 @@
 * ~~Garrison.txt~~
 * GENRLTXT.TXT
 * ~~HallInfo.txt~~
-* HCTRAITS.TXT
+* ~~HCTRAITS.TXT~~
 * Help.txt
 * ~~HeroBios.txt~~
 * ~~HeroScrn.txt~~
@@ -65,7 +66,7 @@
 * ~~turndur.txt~~
 * ~~TvrnInfo.txt~~
 * ~~vcdesc.txt~~
-* Walls.txt
+* ~~Walls.txt~~
 
 ## h3c (campagne)
 ### Traduire
