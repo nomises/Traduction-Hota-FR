@@ -2439,9 +2439,9 @@ Acheter %s
 #44
 Quitter l'Acadï¿½mie
 #45
-Un esprit vient, appelï¿½ par la Corne. Un Kracken rejoint %s.
+Un esprit vient, appelï¿½ par la Corne. Un Fangarm rejoint %s.
 #46
-Des esprits viennent, appelï¿½s par la Corne. %d Krackens rejoignent %s.
+Des esprits viennent, appelï¿½s par la Corne. %d Fangarms rejoignent %s.
 #47
 Points de Magie - Limite Maximum
 #48
@@ -7565,77 +7565,77 @@ Permet d'acheter les Machines de Guerre : Baliste, Dispensaire et Chariot.""
 
 212
 0
-""Poste Frontière: Bleu pâle
-Généralement placé aux points d'étranglement, un Héros doit rendre visite au Maître des Clefs de la couleur correspondante pour obtenir le mot de passe. Chaque joueur doit rendre visite au Maître des Clefs, car le Poste Frontière ne disparaîtra pas après la visite du premier joueur.""
+""Poste Frontiï¿½re: Bleu pï¿½le
+Gï¿½nï¿½ralement placï¿½ aux points d'ï¿½tranglement, un Hï¿½ros doit rendre visite au Maï¿½tre des Clefs de la couleur correspondante pour obtenir le mot de passe. Chaque joueur doit rendre visite au Maï¿½tre des Clefs, car le Poste Frontiï¿½re ne disparaï¿½tra pas aprï¿½s la visite du premier joueur.""
 212
 1
-""Poste Frontière: Vert
-Généralement placé aux points d'étranglement, un Héros doit rendre visite au Maître des Clefs de la couleur correspondante pour obtenir le mot de passe. Chaque joueur doit rendre visite au Maître des Clefs, car le Poste Frontière ne disparaîtra pas après la visite du premier joueur.""
+""Poste Frontiï¿½re: Vert
+Gï¿½nï¿½ralement placï¿½ aux points d'ï¿½tranglement, un Hï¿½ros doit rendre visite au Maï¿½tre des Clefs de la couleur correspondante pour obtenir le mot de passe. Chaque joueur doit rendre visite au Maï¿½tre des Clefs, car le Poste Frontiï¿½re ne disparaï¿½tra pas aprï¿½s la visite du premier joueur.""
 
 212
 2
-""Poste Frontière: Rouge
-Généralement placé aux points d'étranglement, un Héros doit rendre visite au Maître des Clefs de la couleur correspondante pour obtenir le mot de passe. Chaque joueur doit rendre visite au Maître des Clefs, car le Poste Frontière ne disparaîtra pas après la visite du premier joueur.""
+""Poste Frontiï¿½re: Rouge
+Gï¿½nï¿½ralement placï¿½ aux points d'ï¿½tranglement, un Hï¿½ros doit rendre visite au Maï¿½tre des Clefs de la couleur correspondante pour obtenir le mot de passe. Chaque joueur doit rendre visite au Maï¿½tre des Clefs, car le Poste Frontiï¿½re ne disparaï¿½tra pas aprï¿½s la visite du premier joueur.""
 
 212
 3
-""Poste Frontière: Bleu
-Généralement placé aux points d'étranglement, un Héros doit rendre visite au Maître des Clefs de la couleur correspondante pour obtenir le mot de passe. Chaque joueur doit rendre visite au Maître des Clefs, car le Poste Frontière ne disparaîtra pas après la visite du premier joueur.""
+""Poste Frontiï¿½re: Bleu
+Gï¿½nï¿½ralement placï¿½ aux points d'ï¿½tranglement, un Hï¿½ros doit rendre visite au Maï¿½tre des Clefs de la couleur correspondante pour obtenir le mot de passe. Chaque joueur doit rendre visite au Maï¿½tre des Clefs, car le Poste Frontiï¿½re ne disparaï¿½tra pas aprï¿½s la visite du premier joueur.""
 
 212
 4
-""Poste Frontière: Marron
-Généralement placé aux points d'étranglement, un Héros doit rendre visite au Maître des Clefs de la couleur correspondante pour obtenir le mot de passe. Chaque joueur doit rendre visite au Maître des Clefs, car le Poste Frontière ne disparaîtra pas après la visite du premier joueur.""
+""Poste Frontiï¿½re: Marron
+Gï¿½nï¿½ralement placï¿½ aux points d'ï¿½tranglement, un Hï¿½ros doit rendre visite au Maï¿½tre des Clefs de la couleur correspondante pour obtenir le mot de passe. Chaque joueur doit rendre visite au Maï¿½tre des Clefs, car le Poste Frontiï¿½re ne disparaï¿½tra pas aprï¿½s la visite du premier joueur.""
 
 212
 5
-""Poste Frontière: Violet
-Généralement placé aux points d'étranglement, un Héros doit rendre visite au Maître des Clefs de la couleur correspondante pour obtenir le mot de passe. Chaque joueur doit rendre visite au Maître des Clefs, car le Poste Frontière ne disparaîtra pas après la visite du premier joueur.""
+""Poste Frontiï¿½re: Violet
+Gï¿½nï¿½ralement placï¿½ aux points d'ï¿½tranglement, un Hï¿½ros doit rendre visite au Maï¿½tre des Clefs de la couleur correspondante pour obtenir le mot de passe. Chaque joueur doit rendre visite au Maï¿½tre des Clefs, car le Poste Frontiï¿½re ne disparaï¿½tra pas aprï¿½s la visite du premier joueur.""
 
 212
 6
-""Poste Frontière: Blanc
-Généralement placé aux points d'étranglement, un Héros doit rendre visite au Maître des Clefs de la couleur correspondante pour obtenir le mot de passe. Chaque joueur doit rendre visite au Maître des Clefs, car le Poste Frontière ne disparaîtra pas après la visite du premier joueur.""
+""Poste Frontiï¿½re: Blanc
+Gï¿½nï¿½ralement placï¿½ aux points d'ï¿½tranglement, un Hï¿½ros doit rendre visite au Maï¿½tre des Clefs de la couleur correspondante pour obtenir le mot de passe. Chaque joueur doit rendre visite au Maï¿½tre des Clefs, car le Poste Frontiï¿½re ne disparaï¿½tra pas aprï¿½s la visite du premier joueur.""
 
 212
 7
-""Poste Frontière: Noir
-Généralement placé aux points d'étranglement, un Héros doit rendre visite au Maître des Clefs de la couleur correspondante pour obtenir le mot de passe. Chaque joueur doit rendre visite au Maître des Clefs, car le Poste Frontière ne disparaîtra pas après la visite du premier joueur.""
+""Poste Frontiï¿½re: Noir
+Gï¿½nï¿½ralement placï¿½ aux points d'ï¿½tranglement, un Hï¿½ros doit rendre visite au Maï¿½tre des Clefs de la couleur correspondante pour obtenir le mot de passe. Chaque joueur doit rendre visite au Maï¿½tre des Clefs, car le Poste Frontiï¿½re ne disparaï¿½tra pas aprï¿½s la visite du premier joueur.""
 
 217
 0
-""Demeure Aléatoire de rang 1
-Demeure aléatoire de Créature de rang 1.""
+""Demeure Alï¿½atoire de rang 1
+Demeure alï¿½atoire de Crï¿½ature de rang 1.""
 
 217
 1
-""Demeure Aléatoire de rang 2
-Demeure aléatoire de Créature de rang 2.""
+""Demeure Alï¿½atoire de rang 2
+Demeure alï¿½atoire de Crï¿½ature de rang 2.""
 
 217
 2
-""Demeure Aléatoire de rang 3
-Demeure aléatoire de Créature de rang 3.""
+""Demeure Alï¿½atoire de rang 3
+Demeure alï¿½atoire de Crï¿½ature de rang 3.""
 
 217
 3
-""Demeure Aléatoire de rang 4
-Demeure aléatoire de Créature de rang 4.""
+""Demeure Alï¿½atoire de rang 4
+Demeure alï¿½atoire de Crï¿½ature de rang 4.""
 
 217
 4
-""Demeure Aléatoire de rang 5
-Demeure aléatoire de Créature de rang 5.""
+""Demeure Alï¿½atoire de rang 5
+Demeure alï¿½atoire de Crï¿½ature de rang 5.""
 
 217
 5
-""Demeure Aléatoire de rang 6
-Demeure aléatoire de Créature de rang 6.""
+""Demeure Alï¿½atoire de rang 6
+Demeure alï¿½atoire de Crï¿½ature de rang 6.""
 
 217
 6
-""Demeure Aléatoire de rang 7
-Demeure aléatoire de Créature de rang 7.""
+""Demeure Alï¿½atoire de rang 7
+Demeure alï¿½atoire de Crï¿½ature de rang 7.""
 
 218
 0
@@ -7739,7 +7739,7 @@ Dï¿½faire 100 Ã  200 Troglodytes pour restaurer la mine et relancer sa productio
 5
 141
 ""Tunique du Sage
-Cet Artï¿½fact permet de fuir le combat et réduit le coût de la Reddition de 30% et rend possible une Reddition mï¿½me quand le HÃ©ros affronte des monstres errants ou dï¿½fend une ville. Il est ï¿½galement possible de fuir en attaquant et lanï¿½ant un sort au premier tour d'un combat. Le Repaire et la Guilde des Voleurs font croire Ã  l'ennemi que vous ï¿½tes 3 fois plus fort que vous ne l'ï¿½tes rï¿½ellement. (Emplacement : ï¿½paules)
+Cet Artï¿½fact permet de fuir le combat et rï¿½duit le coï¿½t de la Reddition de 30% et rend possible une Reddition mï¿½me quand le HÃ©ros affronte des monstres errants ou dï¿½fend une ville. Il est ï¿½galement possible de fuir en attaquant et lanï¿½ant un sort au premier tour d'un combat. Le Repaire et la Guilde des Voleurs font croire Ã  l'ennemi que vous ï¿½tes 3 fois plus fort que vous ne l'ï¿½tes rï¿½ellement. (Emplacement : ï¿½paules)
 Artï¿½facts requis pour crï¿½er la Tunique du Sage :
 - Anneau de Diplomatie
 - Mï¿½daille de Dignitï¿½
@@ -7757,7 +7757,7 @@ Artï¿½facts requis pour crï¿½er le Pendentif de Rï¿½flexion :
 5
 143
 ""Tomahawk des Ogres
-En plus des propriï¿½tï¿½s de ses composants le Tomahawk des Ogres donne +5 Attaque, +5 Défense, +4 Magie et +4 Savoir, les sorts Hï¿½te, Furie Sanguinaire, Bouclier de Flammes, et Contre-Attaque, sont lancï¿½s automatiquement au niveau expert sur les armï¿½es alliï¿½es au dï¿½but des combats - 50 tours. (Emplacement : Main Droite)
+En plus des propriï¿½tï¿½s de ses composants le Tomahawk des Ogres donne +5 Attaque, +5 Dï¿½fense, +4 Magie et +4 Savoir, les sorts Hï¿½te, Furie Sanguinaire, Bouclier de Flammes, et Contre-Attaque, sont lancï¿½s automatiquement au niveau expert sur les armï¿½es alliï¿½es au dï¿½but des combats - 50 tours. (Emplacement : Main Droite)
 Artï¿½facts requis pour crï¿½er le Tomahawk des Ogres :
 - Couronne Suprï¿½me
 - Gourdin Massacreur
@@ -7797,13 +7797,13 @@ Annule les pï¿½nalitï¿½s de mouvement sur les terrains difficiles. (Emplacement 
 5
 152
 ""Runes d'Imminence
-Type : Précieux
+Type : Prï¿½cieux
 Fait baisser la Chance de l'ennemi -1 (Emplacement : Divers)""
 
 5
 153
 ""Sabot des Enfers
-Type : Précieux
+Type : Prï¿½cieux
 Fait baisser la Chance de l'ennemi -1 (Emplacement : Divers)""
 
 5
@@ -7821,7 +7821,7 @@ Fait baisser le Moral de l'ennemi -1 (Emplacement : Divers)""
 5
 156
 ""Bague de Privation
-Type : Précieux
+Type : Prï¿½cieux
 Fait baisser le Moral de l'ennemi -1 (Emplacement : Anneau)""
 
 5
@@ -7855,7 +7855,7 @@ Artï¿½facts requis pour crï¿½er la Poule d'Or :
 161
 ""Corne des Abysses
 Type : Relique
-Lorsqu'au cours d'un combat un groupe de crÃ©atures est dï¿½fait, il est aussitï¿½t remplacï¿½ par des Krackens qui rejoignent les rangs du HÃ©ros possï¿½dant la Corne des Abysses. Le total de leurs points de vie est alors ï¿½gal Ã  la moitiï¿½ du total des points de vie des unitÃ©s du groupe ï¿½liminï¿½, et le nombre de Krackens invoquï¿½s ne peut excï¿½der le nombre total des crÃ©atures qui composaient le groupe en question.""
+Lorsqu'au cours d'un combat un groupe de crÃ©atures est dï¿½fait, il est aussitï¿½t remplacï¿½ par des Fangarms qui rejoignent les rangs du HÃ©ros possï¿½dant la Corne des Abysses. Le total de leurs points de vie est alors ï¿½gal Ã  la moitiï¿½ du total des points de vie des unitÃ©s du groupe ï¿½liminï¿½, et le nombre de Fangarms invoquï¿½s ne peut excï¿½der le nombre total des crÃ©atures qui composaient le groupe en question.""
 
 5
 162
@@ -7879,7 +7879,7 @@ Cet objet fait baisser la caractï¿½ristique Magie des HÃ©ros ennemis de 25% pend
 165
 ""Veilleur de Consciences
 Type : Relique
-Immunitï¿½ totale contre les sorts de l'esprit. L'effet peut être contré avec le Globe de Vulnérabilité""
+Immunitï¿½ totale contre les sorts de l'esprit. L'effet peut ï¿½tre contrï¿½ avec le Globe de Vulnï¿½rabilitï¿½""
 
 8
 100
@@ -7897,7 +7897,7 @@ Navire capable de voler au dessus des terres et des mers.""
 16
 22
 ""Temple de la Mer
-- 30% de chances d'affronter 8 Hydres, 6 Serpents de Mer, 3 Pyrohydres et 2 Haspids contre 10000 piÃ¨ces d'Or et 2 Artefact Précieux, 1 Artefact Mineure et 1 Relique.
+- 30% de chances d'affronter 8 Hydres, 6 Serpents de Mer, 3 Pyrohydres et 2 Haspids contre 10000 piÃ¨ces d'Or et 2 Artefact Prï¿½cieux, 1 Artefact Mineure et 1 Relique.
 - 30% de chances d'affronter 8 Hydres, 7 Serpents de Mer, 4 Pyrohydres et 3 Haspids contre 15000 piÃ¨ces d'Or et 1 Treasure Artifact, 1 Minor Artifacts, 1 Artefact Majeur et 1 Relique.
 - 30% de chances d'affronter 8 Hydres, 7 Serpents de Mer, 5 Pyrohydres et 4 Haspids contre 20000 piÃ¨ces d'Or et 1 Artefact Mineure, 2 Major Artifacts et 1 Relique.
 - 10% de chances d'affronter 10 Hydres, 9 Serpents de Mer, 6 Pyrohydres et 5 Haspids contre 30000 piÃ¨ces d'Or et 2 Major Artifacts et 2 Relique.""
@@ -8011,7 +8011,7 @@ Demeure du Drac.""
 17
 96
 ""Tour Lumineuse
-Demeure de la Sorcière des mers.""
+Demeure de la Sorciï¿½re des mers.""
 
 17
 97
@@ -8036,7 +8036,7 @@ Demeure du Satyre.""
 17
 101
 ""Ziggurat
-Demeure du Kracken.""
+Demeure du Fangarm.""
 
 17
 102
@@ -8131,206 +8131,206 @@ Indique l'emplacement exact de la bataille finale sur une carte Mode Arï¿½ne. Le
 54
 151
 ""Flibustier
-Créature rang 3 +Sup. - Crique
-Quantité : 12-20""
+Crï¿½ature rang 3 +Sup. - Crique
+Quantitï¿½ : 12-20""
 
 54
 153
 ""Nymphe
-Créature rang 1 - Crique
-Quantité : 20-50""
+Crï¿½ature rang 1 - Crique
+Quantitï¿½ : 20-50""
 
 54
 154
-""Océanide
-Créature rang 1 Sup. - Crique
-Quantité : 20-30""
+""Ocï¿½anide
+Crï¿½ature rang 1 Sup. - Crique
+Quantitï¿½ : 20-30""
 
 54
 155
 ""Matelot
-Créature rang 2 - Crique
-Quantité : 16-30""
+Crï¿½ature rang 2 - Crique
+Quantitï¿½ : 16-30""
 
 54
 156
 ""Marin
-Créature rang 2 Sup. - Crique
-Quantité : 16-25""
+Crï¿½ature rang 2 Sup. - Crique
+Quantitï¿½ : 16-25""
 
 54
 157
 ""Pirate
-Créature rang 3 - Crique
-Quantité : 12-25""
+Crï¿½ature rang 3 - Crique
+Quantitï¿½ : 12-25""
 
 54
 158
 ""Corsaire
-Créature rang 3 Sup. - Crique
-Quantité : 12-20""
+Crï¿½ature rang 3 Sup. - Crique
+Quantitï¿½ : 12-20""
 
 54
 159
 ""Drac
-Créature rang 4 - Crique
-Quantité : 10-20""
+Crï¿½ature rang 4 - Crique
+Quantitï¿½ : 10-20""
 
 54
 160
 ""Drac Mordorï¿½
-Créature rang 4 Sup. - Crique
-Quantité : 10-16""
+Crï¿½ature rang 4 Sup. - Crique
+Quantitï¿½ : 10-16""
 
 54
 161
-""Sorcière des mers
-Créature rang 5 - Crique
-Quantité : 8-16""
+""Sorciï¿½re des mers
+Crï¿½ature rang 5 - Crique
+Quantitï¿½ : 8-16""
 
 54
 162
 ""Ensorceleuse
-Créature rang 5 Sup. - Crique
-Quantité : 8-12""
+Crï¿½ature rang 5 Sup. - Crique
+Quantitï¿½ : 8-12""
 
 54
 163
 ""Nix
-Créature rang 6 - Crique
-Quantité : 5-12""
+Crï¿½ature rang 6 - Crique
+Quantitï¿½ : 5-12""
 
 54
 164
 ""Soldat Nix
-Créature rang 6 Sup. - Crique
-Quantité : 5-10""
+Crï¿½ature rang 6 Sup. - Crique
+Quantitï¿½ : 5-10""
 
 54
 165
 ""Serpent de Mer
-Créature rang 7 - Crique
-Quantité : 4-10""
+Crï¿½ature rang 7 - Crique
+Quantitï¿½ : 4-10""
 
 54
 166
 ""Haspid
-Créature rang 7 Sup. - Crique
-Quantité : 3-8""
+Crï¿½ature rang 7 Sup. - Crique
+Quantitï¿½ : 3-8""
 
 54
 167
 ""Satyre
-Créature rang 4 - Neutre
-Quantité : 10-20""
+Crï¿½ature rang 4 - Neutre
+Quantitï¿½ : 10-20""
 
 54
 168
-""Kracken
-Créature rang 5 - Neutre
-Quantité : 8-16""
+""Fangarm
+Crï¿½ature rang 5 - Neutre
+Quantitï¿½ : 8-16""
 
 54
 169
 ""Leprechaun
-Créature rang 2 - Neutre
-Quantité : 16-25""
+Crï¿½ature rang 2 - Neutre
+Quantitï¿½ : 16-25""
 
 54
 170
 ""Golem d'Acier
-Créature rang 4 - Neutre
-Quantité : 10-16""
+Crï¿½ature rang 4 - Neutre
+Quantitï¿½ : 10-16""
 
 54
 171
 ""Grenadier
-Créature rang 1 Sup. - Manufacture
-Quantité : 20-30.""
+Crï¿½ature rang 1 Sup. - Manufacture
+Quantitï¿½ : 20-30.""
 
 54
 172
 ""Mï¿½canicien
-Créature rang 2 - Manufacture
-Quantité : 16-30.""
+Crï¿½ature rang 2 - Manufacture
+Quantitï¿½ : 16-30.""
 
 54
 173
 ""Ingï¿½nieur
-Créature rang 2 Sup. - Manufacture
-Quantité : 16-25.""
+Crï¿½ature rang 2 Sup. - Manufacture
+Quantitï¿½ : 16-25.""
 
 54
 174
 ""Armadillo
-Créature rang 3 - Manufacture
-Quantité : 12-25.""
+Crï¿½ature rang 3 - Manufacture
+Quantitï¿½ : 12-25.""
 
 54
 175
 ""Armadillo Royal
-Créature rang 3 Sup. - Manufacture
-Quantité : 12-20.""
+Crï¿½ature rang 3 Sup. - Manufacture
+Quantitï¿½ : 12-20.""
 
 54
 176
 ""Automate
-Créature rang 4 - Manufacture
-Quantité : 10-20.""
+Crï¿½ature rang 4 - Manufacture
+Quantitï¿½ : 10-20.""
 
 54
 177
 ""Automate Sentinelle
-Créature rang 4 Sup. - Manufacture
-Quantité : 10-16.""
+Crï¿½ature rang 4 Sup. - Manufacture
+Quantitï¿½ : 10-16.""
 
 54
 178
 ""Ver des Sables
-Créature rang 5 - Manufacture
-Quantité : 8-16.""
+Crï¿½ature rang 5 - Manufacture
+Quantitï¿½ : 8-16.""
 
 54
 179
 ""Olgoi-Khorkhoi
-Créature rang 5 Sup. - Manufacture
-Quantité : 8-12.""
+Crï¿½ature rang 5 Sup. - Manufacture
+Quantitï¿½ : 8-12.""
 
 54
 180
 ""Pistolero
-Créature rang 6 - Manufacture
-Quantité : 5-12.""
+Crï¿½ature rang 6 - Manufacture
+Quantitï¿½ : 5-12.""
 
 54
 181
 ""Chasseur de Prime
-Créature rang 6 Sup. - Manufacture
-Quantité : 5-10.""
+Crï¿½ature rang 6 Sup. - Manufacture
+Quantitï¿½ : 5-10.""
 
 54
 182
 ""Couatl
-Créature rang 7 - Manufacture
-Quantité : 4-10.""
+Crï¿½ature rang 7 - Manufacture
+Quantitï¿½ : 4-10.""
 
 54
 183
 ""Couatl de guerre
-Créature rang 7 Sup. - Manufacture
-Quantité : 3-8.""
+Crï¿½ature rang 7 Sup. - Manufacture
+Quantitï¿½ : 3-8.""
 
 54
 184
 ""Dï¿½molisseur
-Créature rang 7 - Manufacture
-Quantité : 4-10.""
+Crï¿½ature rang 7 - Manufacture
+Quantitï¿½ : 4-10.""
 
 54
 185
 ""Juggernaut
-Créature rang 7 Sup. - Manufacture
-Quantité : 3-8.""
+Crï¿½ature rang 7 Sup. - Manufacture
+Quantitï¿½ : 3-8.""
 
 58
 1
@@ -8770,7 +8770,7 @@ Le HÃ©ros doit accomplir une QuÃªte pour passer ce Poste de contrï¿½le. La QuÃªt
 212
 1001
 ""Sï¿½pulture
-Creuser Ã  cet endroit permet d'obtenir 1500-4000 piÃ¨ces d'Or et 1 Artefact Précieux ou Mineure. Ã  cause de la profanation des lieux, -3 de Moral jusqu'Ã  la prochaine bataille.""
+Creuser Ã  cet endroit permet d'obtenir 1500-4000 piÃ¨ces d'Or et 1 Artefact Prï¿½cieux ou Mineure. Ã  cause de la profanation des lieux, -3 de Moral jusqu'Ã  la prochaine bataille.""
 
 218
 9
@@ -8802,10 +8802,10 @@ Text 3: "Nombre d'unitÃ©s disponibles :"
 Text 4: "Enrï¿½ler les unitÃ©s :"
 Text 5: "Autel de Magie Mystï¿½re"
 Text 6: "(Enseigne un sort de Niv.4)"
-Text 7: "# Objets supplémentaires pour le RMG
+Text 7: "# Objets supplï¿½mentaires pour le RMG
 # Type Subtype Value Density Max_map Max_zone
 
-213 0 100 50 -1 -1 # Guilde indépendante
+213 0 100 50 -1 -1 # Guilde indï¿½pendante
 
 # Crbanks
 16 21 2500 100 -1 -1 # Sanctuaire des ï¿½mes
@@ -8863,7 +8863,7 @@ Text 7: "# Objets supplémentaires pour le RMG
 "
 Text 8: "{Autel de Magie Mystï¿½re}
 
-Vous dï¿½couvrez un Autel admirable gardï¿½ par un groupe d'ascï¿½tes. En ï¿½change de votre protection, ils acceptent de vous enseigner un puissant sortilège - "
+Vous dï¿½couvrez un Autel admirable gardï¿½ par un groupe d'ascï¿½tes. En ï¿½change de votre protection, ils acceptent de vous enseigner un puissant sortilï¿½ge - "
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -9617,16 +9617,16 @@ Text 5: ""
 Text 6: ""
 Text 7: "1.00	1.00	0.50	1.00	44	-63	79	-55	27	-46	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	4	Canon
 1.00	0.90	1.00	1.00	38	-93	45	-64	21	-35	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	6	Flibustier
-1.00	1.00	1.00	1.00	38	-65	36	-59	21	-50	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	7	Tour Électrique
+1.00	1.00	1.00	1.00	38	-65	36	-59	21	-50	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	7	Tour ï¿½lectrique
 1.00	1.00	1.00	1.00	10	-70	10	-70	10	-70	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	0	Nymphe
-1.00	1.00	1.00	1.00	10	-70	10	-70	10	-70	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	0	Océanide
+1.00	1.00	1.00	1.00	10	-70	10	-70	10	-70	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	0	Ocï¿½anide
 1.00	0.87	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Matelot
 1.00	0.87	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Marin
 1.00	0.90	1.00	1.00	38	-93	45	-64	21	-35	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	6	Pirate
 1.00	0.90	1.00	1.00	38	-93	45	-64	21	-35	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	6	Corsaire
 1.00	0.72	1.00	0.80	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Drac
-1.00	0.72	1.00	0.80	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Drac Mordoré
-1.00	1.00	1.00	1.00	41	-72	54	-75	29	-14	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	9	Sorcière des mers
+1.00	0.72	1.00	0.80	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Drac Mordorï¿½
+1.00	1.00	1.00	1.00	41	-72	54	-75	29	-14	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	9	Sorciï¿½re des mers
 1.00	1.00	1.00	1.00	41	-72	54	-75	29	-14	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	8	Ensorceleuse
 1.00	1.07	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Nix
 1.00	1.07	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Soldat Nix
@@ -9637,8 +9637,8 @@ Text 7: "1.00	1.00	0.50	1.00	44	-63	79	-55	27	-46	90.0	72.0	45.0	27.0	0.0	-27.0	
 1.00	1.20	2.50	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Leprechaun
 1.00	1.20	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Golem d'acier
 1.00	1.40	1.50	1.00	32	-77	36	-36	18	-55	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	10	Hobbit Grenadier
-1.00	1.15	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Mécanicien
-1.00	1.15	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Ingénieur
+1.00	1.15	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Mï¿½canicien
+1.00	1.15	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Ingï¿½nieur
 1.00	1.30	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Armadillo
 1.00	1.30	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Armadillo Royal
 1.00	1.10	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Automate
@@ -9649,7 +9649,7 @@ Text 7: "1.00	1.00	0.50	1.00	44	-63	79	-55	27	-46	90.0	72.0	45.0	27.0	0.0	-27.0	
 1.00	1.80	1.50	1.00	38	-85	46	-70	21	-60	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	7	Chasseur de Prime
 1.00	1.00	0.50	1.30	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Couatl
 1.00	1.00	2.50	1.30	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Couatl de guerre
-1.00	1.85	1.75	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Démolisseur
+1.00	1.85	1.75	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Dï¿½molisseur
 1.00	1.85	1.75	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Juggernaut
 "
 Text 8: ""
@@ -9913,40 +9913,40 @@ CmBkHlMt0.pcx
 CmBkWstP.pcx
 CmBkWstP.pcx
 CmBkWstP.pcx"
-Text 8: "terre végétation morte
+Text 8: "terre vï¿½gï¿½tation morte
 terre collines
 terre plantes
-sable végétation morte
+sable vï¿½gï¿½tation morte
 sable collines
 sable plantes
-herbe végétation morte
+herbe vï¿½gï¿½tation morte
 herbe collines
 herbe plantes
-neige végétation morte
+neige vï¿½gï¿½tation morte
 neige collines
 neige plantes
-marais végétation morte
+marais vï¿½gï¿½tation morte
 marais collines
 marais plantes
-rocailleux végétation morte
+rocailleux vï¿½gï¿½tation morte
 rocailleux collines
 rocailleux plantes
-souterrain végétation morte
+souterrain vï¿½gï¿½tation morte
 souterrain collines
 souterrain plantes
-lave végétation morte
+lave vï¿½gï¿½tation morte
 lave collines
 lave plantes
-océan végétation morte
-océan collines
-océan plantes
-rocher végétation morte
+ocï¿½an vï¿½gï¿½tation morte
+ocï¿½an collines
+ocï¿½an plantes
+rocher vï¿½gï¿½tation morte
 rocher collines
 rocher plantes
-plateau végétation morte
+plateau vï¿½gï¿½tation morte
 plateau collines
 plateau plantes
-Aride végétation morte
+Aride vï¿½gï¿½tation morte
 Aride collines
 Aride plantes"
 Has FilS: "false"
@@ -10004,40 +10004,40 @@ CmBkHlMt0.pcx
 CmBkWstP.pcx
 CmBkWstP.pcx
 CmBkWstP.pcx"
-Text 8: "terre végétation morte Souterrain
+Text 8: "terre vï¿½gï¿½tation morte Souterrain
 terre collines Souterrain
 terre plantes Souterrain
-sable végétation morte Souterrain
+sable vï¿½gï¿½tation morte Souterrain
 sable collines Souterrain
 sable plantes Souterrain
-herbe végétation morte Souterrain
+herbe vï¿½gï¿½tation morte Souterrain
 herbe collines Souterrain
 herbe plantes Souterrain
-neige végétation morte Souterrain
+neige vï¿½gï¿½tation morte Souterrain
 neige collines Souterrain
 neige plantes Souterrain
-marais végétation morte Souterrain
+marais vï¿½gï¿½tation morte Souterrain
 marais collines Souterrain
 marais plantes Souterrain
-rocailleux végétation morte Souterrain
+rocailleux vï¿½gï¿½tation morte Souterrain
 rocailleux collines Souterrain
 rocailleux plantes Souterrain
-Souterrain végétation morte Souterrain
+Souterrain vï¿½gï¿½tation morte Souterrain
 Souterrain collines Souterrain
 Souterrain plantes Souterrain
-lave végétation morte Souterrain
+lave vï¿½gï¿½tation morte Souterrain
 lave collines Souterrain
 lave plantes Souterrain
-océan végétation morte Souterrain
-océan collines Souterrain
-océan plantes Souterrain
-rocher végétation morte Souterrain
+ocï¿½an vï¿½gï¿½tation morte Souterrain
+ocï¿½an collines Souterrain
+ocï¿½an plantes Souterrain
+rocher vï¿½gï¿½tation morte Souterrain
 rocher collines Souterrain
 rocher plantes Souterrain
-plateau végétation morte Souterrain
+plateau vï¿½gï¿½tation morte Souterrain
 plateau collines Souterrain
 plateau plantes Souterrain
-Aride végétation morte Souterrain
+Aride vï¿½gï¿½tation morte Souterrain
 Aride collines Souterrain
 Aride plantes Souterrain"
 Has FilS: "false"
@@ -10196,14 +10196,14 @@ Val 3: "0"
 Name: "borderguard0"
 Path: ""
 Texts count: "9"
-Text 0: "Tente du Maître des Clefs"
-Text 1: "Poste Frontière"
+Text 0: "Tente du Maï¿½tre des Clefs"
+Text 1: "Poste Frontiï¿½re"
 Text 2: "Garde"
 Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
-Text 7: "Bleu pâle
+Text 7: "Bleu pï¿½le
 Green
 Red
 Blue
@@ -10211,7 +10211,7 @@ Tan
 Purple
 White
 Black"
-Text 8: "Bleu pâle
+Text 8: "Bleu pï¿½le
 Green
 Red
 Blue
@@ -10365,8 +10365,8 @@ J'ai entendu dire que les habitants des Criques invoqueraient un Firmament en l'
 
 On dit que les Nymphes peuvent se dï¿½placer malgrï¿½ tous les obstacles.
 On dit que les Nymphes peuvent se dï¿½placer malgrï¿½ tous les obstacles.
-La magie de la glace ne peut pas atteindre les Océanides.
-La magie de la glace ne peut pas atteindre les Océanides.
+La magie de la glace ne peut pas atteindre les Ocï¿½anides.
+La magie de la glace ne peut pas atteindre les Ocï¿½anides.
 Le Corsaire n'est pas le dernier niveau d'ï¿½volution d'un pirate.
 Le Corsaire n'est pas le dernier niveau d'ï¿½volution d'un pirate.
 Les Flibustiers sont des tireurs hors pair. Ils peuvent tuer un dragon d'un seul coup.
@@ -10511,100 +10511,100 @@ Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: ""
-Text 8: "Error window title:
-Town/Terrain Type Generation Error
+Text 8: "Titre de la fenêtre en erreur:
+Erreur de Génération de Type Ville/Terrain
 
-Error window text: 
-Errors related to Town Rules / Terrain Rules of RMG template occured:
+Texte de la fenêtre en erreur:
+Des erreurs liées aux règles de la Ville/Terrain du modèle RMG se sont produites :
 
-Neutral town text:
-neutral town %1
 
-Player towns text:
-player towns
+Texte de la Ville neutre :
+Ville neutre %1
 
-Zone faction text:
-zone faction
+Texte des Villes appartenant à des joueurs :
+Villes des joueurs
+
+Texte de la Faction de zone :
+Faction de zone
 
 InvalidZoneId:
-In zone %1: there is condition on zone %2, but zone %2 does not exist.
+Dans la zone %1 : il y a une condition sur la zone %2, mais la zone %2 n'existe pas.
 
 InvalidNeutralTownId:
-In zone %1: there is condition on neutral town %2 of zone %3, but this town does not exist.
+Dans la zone %1 : il y a une condition sur la Ville neutre %2 de la zone %3, mais cette Ville n'existe pas.
 
 NoPlayerTownInZone:
-In zone %1: there is a condtion on player towns of zone %2, but zone %2 does not have player towns.
+Dans la zone %1 : il y a une condition sur les Villes des joueurs de la zone %2, mais la zone %2 n'a pas de Villes appartenant à un des joueurs.
 
 NoNeutralTownInZone:
-In zone %1: there is a condtion on neutral towns of zone %2, but zone %2 does not have neutral towns.
+Dans la zone %1 : il y a une condition sur les Villes neutres de la zone %2, mais la zone %2 n'a pas de Villes neutres.
 
 NoTownInZone:
-In zone %1: there is a condtion on towns of zone %2, but zone %2 does not have towns.
+Dans la zone %1 : il y a une condition sur les Villes de la zone %2, mais la zone %2 n'a pas de Villes.
 
 NoSolutionExists:
-Some towns/castles and/or terrains cannot meet all the constraints set in Town Type and/or Terrain Type rules. Try removing some constraints.
+Certaines Villes/châteaux et/ou terrains ne peuvent pas respecter toutes les contraintes définies dans les règles de Type de Ville et/ou de Type de Terrain. Essayez de supprimer certaines contraintes.
 
 SolutionCheckFailed:
-An internal error occured.
-Type solver has returned an invalid solution. It is likely to be a programing error.
-Please report to HotA Crew.
+Une erreur interne s'est produite.
+Le solveur de Type a renvoyé une solution non valide. Il s'agit probablement d'une erreur de programmation.
+Veuillez signaler le problème à l'équipe HotA.
 
 SyntaxErrorInToken:
-In zone %1: invalid town type rule or terrain type rule token: ""%2""
+Dans la zone %1 : règle de Type de Ville ou jeton de règle de Type de Terrain non valide : ""%2""
 
 Timeout:
-Generation of Town and Terrain types is taking an abnormally long time (more than %1 seconds).
-This may happen when Town and/or Terrain type rules are such that there are very few valid solutions, in comparison with the total number of all possible type combinations.
-Please try removing some contraints.
+La génération des types Ville et Terrain prend un temps anormalement long (plus de %1 secondes).
+Ceci peut se produire lorsque les règles des types Ville et/ou Terrain sont configurées qu'il y ait très peu de solutions valides par rapport au nombre total de combinaisons de types possibles.
+Veuillez essayer de supprimer certaines contraintes.
 
 IncompatibleTownTokens:
-Incompatible town type rules: one rule states that %2 of zone %1 and %4 of zone %3 should have similar type, but another rule states the opposite.
+Règles de Type de Ville incompatibles : une règle stipule que %2 de la zone %1 et %4 de la zone %3 doivent avoir un Type similaire, mais une autre règle stipule le contraire.
 
 IncompatibleTownTerrainTokens:
-One town or terrain rule states that %2 of zone %1 should match terrain of zone %3, but another rules states the opposite.
+Une règle de Ville ou de Terrain stipule que %2 de la zone %1 doit correspondre au Terrain de la zone %3, mais une autre règle stipule le contraire.
 
 IncompatibleTerrainTokens:
-Incompatible terrain type rules: one rule states that terrain of zone %1 and terrain of zone %2 should have similar type, but another rule states the opposite.
+Règles de Type de Terrain incompatibles : une règle stipule que le Terrain de la zone %1 et le Terrain de la zone %2 doivent avoir un Type similaire, mais une autre règle stipule le contraire.
 
 ProgramingError:
-An unexpected error has occured. It is likely to be a programing error.
-Please report to HotA Crew.
-Error occured at line %1 of file %2
+Une erreur inattendue s'est produite. Il s'agit probablement d'une erreur de programmation. Veuillez la signaler à l'équipe HotA.
+Une erreur s'est produite à la ligne %1 du fichier %2.
 
 ViolatesAllTownsSameType:
-Zone %1 has the option ""All towns have same type"", but at least one town type rule violates this option.
+La zone %1 a l'option ""Toutes les Villes ont le même Type"", mais au moins une règle de Type de Ville viole cette option.
 
 ViolatesTerrainMatchTown:
-Zone %1 has the option ""Terrain: Match to Town"", but at least one town type or terrain type rule violates this option.
+La zone %1 a l'option ""Terrain : Correspondre à la Ville"", mais au moins une règle de Type de Ville ou de Type de Terrain viole cette option.
 
 ViolatesForceNeutralFaction:
-In zone %1: there is a rule that affects faction of zone %2, but zone %2 has the option ""Zone Faction: Force Neutral"", which is not compatible with faction rules.
+Dans la zone %1 : il existe une règle qui affecte la Faction de la zone %2, mais la zone %2 a l'option ""Faction de zone : Force neutre"", qui n'est pas compatible avec les règles de Faction.
 
 ReferenceToDensityTown:
-In Zone %1, there is a town type or terrain type rule with a condition on neutral town %2 of zone %3, but this town may not always exist, because it can only be generated via ""town density"" mechanism.
-Due to technical restrictions, random map generator cannot handle this situation properly. As a result, some town and/or terrain type rules may not be satisfied.
+Dans la zone %1, il existe une règle de Type de Ville ou de Terrain avec une condition sur la Ville neutre %2 de la zone %3, mais cette Ville n'existe pas toujours, car elle ne peut être générée que par le mécanisme de ""densité de Ville"".
+En raison de restrictions techniques, le générateur de cartes aléatoires ne peut pas gérer correctement cette situation. Le résultat est que certaines règles de Type de Ville et/ou de Terrain peuvent ne pas être respectées.
 
 SameTownTypePatternZoneTargetsItself:
-Zone %1 refers to itself in a ""same type pattern"" condition.
-This condition will be ignored.
+La zone %1 se réfère à elle-même dans une condition ""modèle auto-référé"".
+Cette condition sera ignorée.
 
 TownRelatedToItself:
-In zone %1: %2 self-referencing in town type rule %3.
+Dans la zone %1 : %2 auto-réfère dans la règle de Type de Ville %3.
 
 TerrainRelatedToItself:
-In zone %1, terrain type rule ""%2"": a terrain has a condition on itself.
+Dans la zone %1, règle de Type de Terrain ""%2"" : un Terrain a une condition auto-référé.
 
 ZoneFactionRelatedToItself:
-In zone %1, zone faction has a condition on itself.
+Dans la zone %1, la Faction de zone a une condition sur auto-référé.
 
 NoTownTypeAllowed:
-In zone %1, %2: no allowed town types to pick from.
+Dans la zone %1, %2 : aucun Type de Ville n'est possible à choisir.
 
 NoTerrainAllowed:
-In zone %1: there are no allowed terrain types to pick from.
+Dans la zone %1 : aucun Type de Terrain n'est autorisé parmi ceux disponibles.
 
 NoFactionTypeAllowed:
-Zone %1 has no allowed faction types to pick from.
+La zone %1 n'a aucun Type de Faction autorisé parmi ceux disponibles.
 "
 Has FilS: "false"
 Vals count: "4"
@@ -12911,7 +12911,7 @@ Text 5: ""
 Text 6: ""
 Text 7: "{Pendentif de Rï¿½flexion}
 
-En plus des propriï¿½tï¿½s de ses composants, ce Pendentif augmente vos chances de rï¿½sister Ã  un Sort hostile de 20%."
+En plus des propriï¿½tï¿½s de ses composants, ce Pendentif augmente vos chances de rï¿½sister Ã  un Sort hostile de 50%."
 Text 8: "0 # cost
 3 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - ballista, 11 - ammo cart, 12 - first aid tent, 13 - catapult, 14 - spell book)
 16 # type (1 - none, 2 - prÃ©cieux, 4 - mineure, 8 - majeur, 16 - relique)
@@ -13438,7 +13438,7 @@ Text 5: ""
 Text 6: ""
 Text 7: "{Corne des Abysses}
 
-Lorsqu'au cours d'un combat un groupe de crÃ©atures est dï¿½fait, il est aussitï¿½t remplacï¿½ par des Krackens qui rejoignent les rangs du HÃ©ros possï¿½dant la Corne des Abysses. Le total de leurs points de vie est alors ï¿½gal Ã  la moitiï¿½ du total des points de vie des unitÃ©s du groupe ï¿½liminï¿½, et le nombre de Krackens invoquï¿½s ne peut excï¿½der le nombre total des crÃ©atures qui composaient le groupe en question."
+Lorsqu'au cours d'un combat un groupe de crÃ©atures est dï¿½fait, il est aussitï¿½t remplacï¿½ par des Fangarms qui rejoignent les rangs du HÃ©ros possï¿½dant la Corne des Abysses. Le total de leurs points de vie est alors ï¿½gal Ã  la moitiï¿½ du total des points de vie des unitÃ©s du groupe ï¿½liminï¿½, et le nombre de Fangarms invoquï¿½s ne peut excï¿½der le nombre total des crÃ©atures qui composaient le groupe en question."
 Text 8: "50000 # cost
 9 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - ballista, 11 - ammo cart, 12 - first aid tent, 13 - catapult, 14 - spell book)
 16 # type (1 - none, 2 - prÃ©cieux, 4 - mineure, 8 - majeur, 16 - relique)
@@ -16159,7 +16159,7 @@ Val 3: "0"
 Name: "campmap0"
 Path: ""
 Texts count: "9"
-Text 0: "Long live the Queen"
+Text 0: "Longue Vie à la Reine"
 Text 1: "G1_bg.pcx"
 Text 2: ""
 Text 3: ""
@@ -16176,17 +16176,17 @@ Text 8: "# Campaign type (0 - region map, 1 - generated region map)
 138 310
 45 163
 # Map 1
-Southport
+Baie Tranquille
 G1A_enR.pcx G1A_enB.pcx G1A_enN.pcx G1A_enG.pcx G1A_enO.pcx G1A_enV.pcx G1A_enT.pcx G1A_enP.pcx
 G1A_seR.pcx G1A_seB.pcx G1A_seN.pcx G1A_seG.pcx G1A_seO.pcx G1A_seV.pcx G1A_seT.pcx G1A_seP.pcx
 G1A_coR.pcx G1A_coB.pcx G1A_coN.pcx G1A_coG.pcx G1A_coO.pcx G1A_coV.pcx G1A_coT.pcx G1A_coP.pcx
 # Map 2
-Angel Gate
+Passe des Anges
 G1B_enR.pcx G1B_enB.pcx G1B_enN.pcx G1B_enG.pcx G1B_enO.pcx G1B_enV.pcx G1B_enT.pcx G1B_enP.pcx
 G1B_seR.pcx G1B_seB.pcx G1B_seN.pcx G1B_seG.pcx G1B_seO.pcx G1B_seV.pcx G1B_seT.pcx G1B_seP.pcx
 G1B_coR.pcx G1B_coB.pcx G1B_coN.pcx G1B_coG.pcx G1B_coO.pcx G1B_coV.pcx G1B_coT.pcx G1B_coP.pcx
 # Map 3
-Gryphon Cliff
+Falaise des Griffons
 G1C_enR.pcx G1C_enB.pcx G1C_enN.pcx G1C_enG.pcx G1C_enO.pcx G1C_enV.pcx G1C_enT.pcx G1C_enP.pcx
 G1C_seR.pcx G1C_seB.pcx G1C_seN.pcx G1C_seG.pcx G1C_seO.pcx G1C_seV.pcx G1C_seT.pcx G1C_seP.pcx
 G1C_coR.pcx G1C_coB.pcx G1C_coN.pcx G1C_coG.pcx G1C_coO.pcx G1C_coV.pcx G1C_coT.pcx G1C_coP.pcx"
@@ -16202,7 +16202,7 @@ Val 3: "0"
 Name: "campmap1"
 Path: ""
 Texts count: "9"
-Text 0: "Liberation"
+Text 0: "Libération"
 Text 1: "G2_bg.pcx"
 Text 2: ""
 Text 3: ""
@@ -16220,22 +16220,22 @@ Text 8: "# Campaign type (0 - region map, 1 - generated region map)
 55 378
 152 126
 # Map 1
-Battlestead
+Juste Conflit
 G2A_enR.pcx G2A_enB.pcx G2A_enN.pcx G2A_enG.pcx G2A_enO.pcx G2A_enV.pcx G2A_enT.pcx G2A_enP.pcx
 G2A_seR.pcx G2A_seB.pcx G2A_seN.pcx G2A_seG.pcx G2A_seO.pcx G2A_seV.pcx G2A_seT.pcx G2A_seP.pcx
 G2A_coR.pcx G2A_coB.pcx G2A_coN.pcx G2A_coG.pcx G2A_coO.pcx G2A_coV.pcx G2A_coT.pcx G2A_coP.pcx
 # Map 2
-Frostland
+Terres de Glace
 G2B_enR.pcx G2B_enB.pcx G2B_enN.pcx G2B_enG.pcx G2B_enO.pcx G2B_enV.pcx G2B_enT.pcx G2B_enP.pcx
 G2B_seR.pcx G2B_seB.pcx G2B_seN.pcx G2B_seG.pcx G2B_seO.pcx G2B_seV.pcx G2B_seT.pcx G2B_seP.pcx
 G2B_coR.pcx G2B_coB.pcx G2B_coN.pcx G2B_coG.pcx G2B_coO.pcx G2B_coV.pcx G2B_coT.pcx G2B_coP.pcx
 # Map 3
-Marshland and Hillbridge
+Les Tourbières et Grandes Collines
 G2C_enR.pcx G2C_enB.pcx G2C_enN.pcx G2C_enG.pcx G2C_enO.pcx G2C_enV.pcx G2C_enT.pcx G2C_enP.pcx
 G2C_seR.pcx G2C_seB.pcx G2C_seN.pcx G2C_seG.pcx G2C_seO.pcx G2C_seV.pcx G2C_seT.pcx G2C_seP.pcx
 G2C_coR.pcx G2C_coB.pcx G2C_coN.pcx G2C_coG.pcx G2C_coO.pcx G2C_coV.pcx G2C_coT.pcx G2C_coP.pcx
 # Map 4
-Grainrich and Firecoast
+Abondance et Côte Ardente
 G2D_enR.pcx G2D_enB.pcx G2D_enN.pcx G2D_enG.pcx G2D_enO.pcx G2D_enV.pcx G2D_enT.pcx G2D_enP.pcx
 G2D_seR.pcx G2D_seB.pcx G2D_seN.pcx G2D_seG.pcx G2D_seO.pcx G2D_seV.pcx G2D_seT.pcx G2D_seP.pcx
 G2D_coR.pcx G2D_coB.pcx G2D_coN.pcx G2D_coG.pcx G2D_coO.pcx G2D_coV.pcx G2D_coT.pcx G2D_coP.pcx"
@@ -16251,7 +16251,7 @@ Val 3: "0"
 Name: "campmap2"
 Path: ""
 Texts count: "9"
-Text 0: "Song for the Father"
+Text 0: "Hommage au Père"
 Text 1: "G3_bg.pcx"
 Text 2: ""
 Text 3: ""
@@ -16268,17 +16268,17 @@ Text 8: "# Campaign type (0 - region map, 1 - generated region map)
 61 147
 132 202
 # Map 1
-Forestlow
+Bois Profond
 G3A_enR.pcx G3A_enB.pcx G3A_enN.pcx G3A_enG.pcx G3A_enO.pcx G3A_enV.pcx G3A_enT.pcx G3A_enP.pcx
 G3A_seR.pcx G3A_seB.pcx G3A_seN.pcx G3A_seG.pcx G3A_seO.pcx G3A_seV.pcx G3A_seT.pcx G3A_seP.pcx
 G3A_coR.pcx G3A_coB.pcx G3A_coN.pcx G3A_coG.pcx G3A_coO.pcx G3A_coV.pcx G3A_coT.pcx G3A_coP.pcx
 # Map 2
-E.hills, S.willow, W.grove, F.bury
+C. d'Emeraude, H. Saule, Chênaie, B. Brulé
 G3B_enR.pcx G3B_enB.pcx G3B_enN.pcx G3B_enG.pcx G3B_enO.pcx G3B_enV.pcx G3B_enT.pcx G3B_enP.pcx
 G3B_seR.pcx G3B_seB.pcx G3B_seN.pcx G3B_seG.pcx G3B_seO.pcx G3B_seV.pcx G3B_seT.pcx G3B_seP.pcx
 G3B_coR.pcx G3B_coB.pcx G3B_coN.pcx G3B_coG.pcx G3B_coO.pcx G3B_coV.pcx G3B_coT.pcx G3B_coP.pcx
 # Map 3
-Marble Garden
+Jardin de Marbre
 G3C_enR.pcx G3C_enB.pcx G3C_enN.pcx G3C_enG.pcx G3C_enO.pcx G3C_enV.pcx G3C_enT.pcx G3C_enP.pcx
 G3C_seR.pcx G3C_seB.pcx G3C_seN.pcx G3C_seG.pcx G3C_seO.pcx G3C_seV.pcx G3C_seT.pcx G3C_seP.pcx
 G3C_coR.pcx G3C_coB.pcx G3C_coN.pcx G3C_coG.pcx G3C_coO.pcx G3C_coV.pcx G3C_coT.pcx G3C_coP.pcx"
@@ -16294,7 +16294,7 @@ Val 3: "0"
 Name: "campmap3"
 Path: ""
 Texts count: "9"
-Text 0: "Dungeons and Devils"
+Text 0: "Donjons et Démons"
 Text 1: "E1_bg.pcx"
 Text 2: ""
 Text 3: ""
@@ -16315,37 +16315,37 @@ Text 8: "# Campaign type (0 - region map, 1 - generated region map)
 138 310
 45 163
 # Map 1
-Rionpoint
+Pointe de Rion
 E1A_enR.pcx E1A_enB.pcx E1A_enN.pcx E1A_enG.pcx E1A_enO.pcx E1A_enV.pcx E1A_enT.pcx E1A_enP.pcx
 E1A_seR.pcx E1A_seB.pcx E1A_seN.pcx E1A_seG.pcx E1A_seO.pcx E1A_seV.pcx E1A_seT.pcx E1A_seP.pcx
 E1A_coR.pcx E1A_coB.pcx E1A_coN.pcx E1A_coG.pcx E1A_coO.pcx E1A_coV.pcx E1A_coT.pcx E1A_coP.pcx
 # Map 2
-Grainrich
+Abondance
 E1B_enR.pcx E1B_enB.pcx E1B_enN.pcx E1B_enG.pcx E1B_enO.pcx E1B_enV.pcx E1B_enT.pcx E1B_enP.pcx
 E1B_seR.pcx E1B_seB.pcx E1B_seN.pcx E1B_seG.pcx E1B_seO.pcx E1B_seV.pcx E1B_seT.pcx E1B_seP.pcx
 E1B_coR.pcx E1B_coB.pcx E1B_coN.pcx E1B_coG.pcx E1B_coO.pcx E1B_coV.pcx E1B_coT.pcx E1B_coP.pcx
 # Map 3
-Battlestead
+Juste Conflit
 E1C_enR.pcx E1C_enB.pcx E1C_enN.pcx E1C_enG.pcx E1C_enO.pcx E1C_enV.pcx E1C_enT.pcx E1C_enP.pcx
 E1C_seR.pcx E1C_seB.pcx E1C_seN.pcx E1C_seG.pcx E1C_seO.pcx E1C_seV.pcx E1C_seT.pcx E1C_seP.pcx
 E1C_coR.pcx E1C_coB.pcx E1C_coN.pcx E1C_coG.pcx E1C_coO.pcx E1C_coV.pcx E1C_coT.pcx E1C_coP.pcx
 # Map 4
-Firecoast
+Côte Ardente
 E1P1_enR.pcx E1P1_enB.pcx E1P1_enN.pcx E1P1_enG.pcx E1P1_enO.pcx E1P1_enV.pcx E1P1_enT.pcx E1P1_enP.pcx
 E1P1_seR.pcx E1P1_seB.pcx E1P1_seN.pcx E1P1_seG.pcx E1P1_seO.pcx E1P1_seV.pcx E1P1_seT.pcx E1P1_seP.pcx
 E1P1_coR.pcx E1P1_coB.pcx E1P1_coN.pcx E1P1_coG.pcx E1P1_coO.pcx E1P1_coV.pcx E1P1_coT.pcx E1P1_coP.pcx
 # Map 5
-Southport
+Baie Tranquille
 E1P2_enR.pcx E1P2_enB.pcx E1P2_enN.pcx E1P2_enG.pcx E1P2_enO.pcx E1P2_enV.pcx E1P2_enT.pcx E1P2_enP.pcx
 E1P2_seR.pcx E1P2_seB.pcx E1P2_seN.pcx E1P2_seG.pcx E1P2_seO.pcx E1P2_seV.pcx E1P2_seT.pcx E1P2_seP.pcx
 E1P2_coR.pcx E1P2_coB.pcx E1P2_coN.pcx E1P2_coG.pcx E1P2_coO.pcx E1P2_coV.pcx E1P2_coT.pcx E1P2_coP.pcx
 # Map 6
-Angel Gate
+Passe des Anges
 E1P3_enR.pcx E1P3_enB.pcx E1P3_enN.pcx E1P3_enG.pcx E1P3_enO.pcx E1P3_enV.pcx E1P3_enT.pcx E1P3_enP.pcx
 E1P3_seR.pcx E1P3_seB.pcx E1P3_seN.pcx E1P3_seG.pcx E1P3_seO.pcx E1P3_seV.pcx E1P3_seT.pcx E1P3_seP.pcx
 E1P3_coR.pcx E1P3_coB.pcx E1P3_coN.pcx E1P3_coG.pcx E1P3_coO.pcx E1P3_coV.pcx E1P3_coT.pcx E1P3_coP.pcx
 # Map 7
-Gryphon Cliff
+Falaise des Griffons
 E1P4_enR.pcx E1P4_enB.pcx E1P4_enN.pcx E1P4_enG.pcx E1P4_enO.pcx E1P4_enV.pcx E1P4_enT.pcx E1P4_enP.pcx
 E1P4_seR.pcx E1P4_seB.pcx E1P4_seN.pcx E1P4_seG.pcx E1P4_seO.pcx E1P4_seV.pcx E1P4_seT.pcx E1P4_seP.pcx
 E1P4_coR.pcx E1P4_coB.pcx E1P4_coN.pcx E1P4_coG.pcx E1P4_coO.pcx E1P4_coV.pcx E1P4_coT.pcx E1P4_coP.pcx"
@@ -16361,7 +16361,7 @@ Val 3: "0"
 Name: "campmap4"
 Path: ""
 Texts count: "9"
-Text 0: "Long Live the King"
+Text 0: "Vive le Roi"
 Text 1: "E2_bg.pcx"
 Text 2: ""
 Text 3: ""
@@ -16379,22 +16379,22 @@ Text 8: "# Campaign type (0 - region map, 1 - generated region map)
 219 307
 93 261
 # Map 1
-Marble Garden
+Le Jardin de Marbre
 E2A_enR.pcx E2A_enB.pcx E2A_enN.pcx E2A_enG.pcx E2A_enO.pcx E2A_enV.pcx E2A_enT.pcx E2A_enP.pcx
 E2A_seR.pcx E2A_seB.pcx E2A_seN.pcx E2A_seG.pcx E2A_seO.pcx E2A_seV.pcx E2A_seT.pcx E2A_seP.pcx
 E2A_coR.pcx E2A_coB.pcx E2A_coN.pcx E2A_coG.pcx E2A_coO.pcx E2A_coV.pcx E2A_coT.pcx E2A_coP.pcx
 # Map 2
-Emerald Hills
+Les Collines d'Emeraude
 E2B_enR.pcx E2B_enB.pcx E2B_enN.pcx E2B_enG.pcx E2B_enO.pcx E2B_enV.pcx E2B_enT.pcx E2B_enP.pcx
 E2B_seR.pcx E2B_seB.pcx E2B_seN.pcx E2B_seG.pcx E2B_seO.pcx E2B_seV.pcx E2B_seT.pcx E2B_seP.pcx
 E2B_coR.pcx E2B_coB.pcx E2B_coN.pcx E2B_coG.pcx E2B_coO.pcx E2B_coV.pcx E2B_coT.pcx E2B_coP.pcx
 # Map 3
-F.don, F.bury and Forestlow
+Hauts Saules et Chênaie
 E2D_enR.pcx E2D_enB.pcx E2D_enN.pcx E2D_enG.pcx E2D_enO.pcx E2D_enV.pcx E2D_enT.pcx E2D_enP.pcx
 E2D_seR.pcx E2D_seB.pcx E2D_seN.pcx E2D_seG.pcx E2D_seO.pcx E2D_seV.pcx E2D_seT.pcx E2D_seP.pcx
 E2D_coR.pcx E2D_coB.pcx E2D_coN.pcx E2D_coG.pcx E2D_coO.pcx E2D_coV.pcx E2D_coT.pcx E2D_coP.pcx
 # Map 4
-Strongwillow and Woodgrove
+Bois Béni, Bois Brulé et Bois Profond
 E2C_enR.pcx E2C_enB.pcx E2C_enN.pcx E2C_enG.pcx E2C_enO.pcx E2C_enV.pcx E2C_enT.pcx E2C_enP.pcx
 E2C_seR.pcx E2C_seB.pcx E2C_seN.pcx E2C_seG.pcx E2C_seO.pcx E2C_seV.pcx E2C_seT.pcx E2C_seP.pcx
 E2C_coR.pcx E2C_coB.pcx E2C_coN.pcx E2C_coG.pcx E2C_coO.pcx E2C_coV.pcx E2C_coT.pcx E2C_coP.pcx"
@@ -16410,7 +16410,7 @@ Val 3: "0"
 Name: "campmap5"
 Path: ""
 Texts count: "9"
-Text 0: "Spoils of War"
+Text 0: "Malheur au Vaincu"
 Text 1: "N1_bg.pcx"
 Text 2: ""
 Text 3: ""
@@ -16427,17 +16427,17 @@ Text 8: "# Campaign type (0 - region map, 1 - generated region map)
 310 290
 189 202
 # Map 1
-Marshland
+Les Tourbières
 N1A_enR.pcx N1A_enB.pcx N1A_enN.pcx N1A_enG.pcx N1A_enO.pcx N1A_enV.pcx N1A_enT.pcx N1A_enP.pcx
 N1A_seR.pcx N1A_seB.pcx N1A_seN.pcx N1A_seG.pcx N1A_seO.pcx N1A_seV.pcx N1A_seT.pcx N1A_seP.pcx
 N1A_coR.pcx N1A_coB.pcx N1A_coN.pcx N1A_coG.pcx N1A_coO.pcx N1A_coV.pcx N1A_coT.pcx N1A_coP.pcx
 # Map 2
-Minewell
+Le Creusot
 N1B_enR.pcx N1B_enB.pcx N1B_enN.pcx N1B_enG.pcx N1B_enO.pcx N1B_enV.pcx N1B_enT.pcx N1B_enP.pcx
 N1B_seR.pcx N1B_seB.pcx N1B_seN.pcx N1B_seG.pcx N1B_seO.pcx N1B_seV.pcx N1B_seT.pcx N1B_seP.pcx
 N1B_coR.pcx N1B_coB.pcx N1B_coN.pcx N1B_coG.pcx N1B_coO.pcx N1B_coV.pcx N1B_coT.pcx N1B_coP.pcx
 # Map 3
-Hillbridge
+Grandes Collines
 N1CD_enR.pcx N1CD_enB.pcx N1CD_enN.pcx N1CD_enG.pcx N1CD_enO.pcx N1CD_enV.pcx N1CD_enT.pcx N1CD_enP.pcx
 N1CD_seR.pcx N1CD_seB.pcx N1CD_seN.pcx N1CD_seG.pcx N1CD_seO.pcx N1CD_seV.pcx N1CD_seT.pcx N1CD_seP.pcx
 N1CD_coR.pcx N1CD_coB.pcx N1CD_coN.pcx N1CD_coG.pcx N1CD_coO.pcx N1CD_coV.pcx N1CD_coT.pcx N1CD_coP.pcx"
@@ -16453,7 +16453,7 @@ Val 3: "0"
 Name: "campmap6"
 Path: ""
 Texts count: "9"
-Text 0: "Seeds of Discontent"
+Text 0: "Graines de Discorde"
 Text 1: "S1_bg.pcx"
 Text 2: ""
 Text 3: ""
@@ -16470,17 +16470,17 @@ Text 8: "# Campaign type (0 - region map, 1 - generated region map)
 83 152
 183 210
 # Map 1
-Cloverfield
+Carré de Trèfle
 S1A_enR.pcx S1A_enB.pcx S1A_enN.pcx S1A_enG.pcx S1A_enO.pcx S1A_enV.pcx S1A_enT.pcx S1A_enP.pcx
 S1A_seR.pcx S1A_seB.pcx S1A_seN.pcx S1A_seG.pcx S1A_seO.pcx S1A_seV.pcx S1A_seT.pcx S1A_seP.pcx
 S1A_coR.pcx S1A_coB.pcx S1A_coN.pcx S1A_coG.pcx S1A_coO.pcx S1A_coV.pcx S1A_coT.pcx S1A_coP.pcx
 # Map 2
-Mosswood
+Bois Moussu
 S1C_enR.pcx S1C_enB.pcx S1C_enN.pcx S1C_enG.pcx S1C_enO.pcx S1C_enV.pcx S1C_enT.pcx S1C_enP.pcx
 S1C_seR.pcx S1C_seB.pcx S1C_seN.pcx S1C_seG.pcx S1C_seO.pcx S1C_seV.pcx S1C_seT.pcx S1C_seP.pcx
 S1C_coR.pcx S1C_coB.pcx S1C_coN.pcx S1C_coG.pcx S1C_coO.pcx S1C_coV.pcx S1C_coT.pcx S1C_coP.pcx
 # Map 3
-Forestdale
+Val des Bois
 S1B_enR.pcx S1B_enB.pcx S1B_enN.pcx S1B_enG.pcx S1B_enO.pcx S1B_enV.pcx S1B_enT.pcx S1B_enP.pcx
 S1B_seR.pcx S1B_seB.pcx S1B_seN.pcx S1B_seG.pcx S1B_seO.pcx S1B_seV.pcx S1B_seT.pcx S1B_seP.pcx
 S1B_coR.pcx S1B_coB.pcx S1B_coN.pcx S1B_coG.pcx S1B_coO.pcx S1B_coV.pcx S1B_coT.pcx S1B_coP.pcx"
@@ -16545,7 +16545,7 @@ Val 3: "0"
 Name: "campmap8"
 Path: ""
 Texts count: "9"
-Text 0: "Islands"
+Text 0: "Iles"
 Text 1: "IS_bg.pcx"
 Text 2: ""
 Text 3: ""
@@ -16563,22 +16563,22 @@ Text 8: "# Campaign type (0 - region map, 1 - generated region map)
 41 92
 295 399
 # Map 1
-Islands A
+Iles A
 IsA_enRe.pcx IsA_enBl.pcx IsA_enBr.pcx IsA_enGr.pcx IsA_enOr.pcx IsA_enVi.pcx IsA_enTe.pcx IsA_enPi.pcx
 IsA_seRe.pcx IsA_seBl.pcx IsA_seBr.pcx IsA_seGr.pcx IsA_seOr.pcx IsA_seVi.pcx IsA_seTe.pcx IsA_sePi.pcx
 IsA_coRe.pcx IsA_coBl.pcx IsA_coBr.pcx IsA_coGr.pcx IsA_coOr.pcx IsA_coVi.pcx IsA_coTe.pcx IsA_coPi.pcx
 # Map 2
-Islands B
+Iles B
 IsB_enRe.pcx IsB_enBl.pcx IsB_enBr.pcx IsB_enGr.pcx IsB_enOr.pcx IsB_enVi.pcx IsB_enTe.pcx IsB_enPi.pcx
 IsB_seRe.pcx IsB_seBl.pcx IsB_seBr.pcx IsB_seGr.pcx IsB_seOr.pcx IsB_seVi.pcx IsB_seTe.pcx IsB_sePi.pcx
 IsB_coRe.pcx IsB_coBl.pcx IsB_coBr.pcx IsB_coGr.pcx IsB_coOr.pcx IsB_coVi.pcx IsB_coTe.pcx IsB_coPi.pcx
 # Map 3
-Islands C
+Iles C
 IsC_enRe.pcx IsC_enBl.pcx IsC_enBr.pcx IsC_enGr.pcx IsC_enOr.pcx IsC_enVi.pcx IsC_enTe.pcx IsC_enPi.pcx
 IsC_seRe.pcx IsC_seBl.pcx IsC_seBr.pcx IsC_seGr.pcx IsC_seOr.pcx IsC_seVi.pcx IsC_seTe.pcx IsC_sePi.pcx
 IsC_coRe.pcx IsC_coBl.pcx IsC_coBr.pcx IsC_coGr.pcx IsC_coOr.pcx IsC_coVi.pcx IsC_coTe.pcx IsC_coPi.pcx
 # Map 4
-Islands D
+Iles D
 IsD_enRe.pcx IsD_enBl.pcx IsD_enBr.pcx IsD_enGr.pcx IsD_enOr.pcx IsD_enVi.pcx IsD_enTe.pcx IsD_enPi.pcx
 IsD_seRe.pcx IsD_seBl.pcx IsD_seBr.pcx IsD_seGr.pcx IsD_seOr.pcx IsD_seVi.pcx IsD_seTe.pcx IsD_sePi.pcx
 IsD_coRe.pcx IsD_coBl.pcx IsD_coBr.pcx IsD_coGr.pcx IsD_coOr.pcx IsD_coVi.pcx IsD_coTe.pcx IsD_coPi.pcx"
@@ -16808,7 +16808,7 @@ Val 3: "0"
 Name: "campmap13"
 Path: ""
 Texts count: "9"
-Text 0: "Hack and Slash"
+Text 0: "Tranche et Taille"
 Text 1: "HS_bg.pcx"
 Text 2: ""
 Text 3: ""
@@ -16826,22 +16826,22 @@ Text 8: "# Campaign type (0 - region map, 1 - generated region map)
 23 161
 6 9
 # Map 1
-Hack and Slash A
+Tranche et Taille A
 HSA_enRe.pcx HSA_enBl.pcx HSA_enBr.pcx HSA_enGr.pcx HSA_enOr.pcx HSA_enVi.pcx HSA_enTe.pcx HSA_enPi.pcx
 HSA_seRe.pcx HSA_seBl.pcx HSA_seBr.pcx HSA_seGr.pcx HSA_seOr.pcx HSA_seVi.pcx HSA_seTe.pcx HSA_sePi.pcx
 HSA_coRe.pcx HSA_coBl.pcx HSA_coBr.pcx HSA_coGr.pcx HSA_coOr.pcx HSA_coVi.pcx HSA_coTe.pcx HSA_coPi.pcx
 # Map 2
-Hack and Slash B
+Tranche et Taille B
 HSB_enRe.pcx HSB_enBl.pcx HSB_enBr.pcx HSB_enGr.pcx HSB_enOr.pcx HSB_enVi.pcx HSB_enTe.pcx HSB_enPi.pcx
 HSB_seRe.pcx HSB_seBl.pcx HSB_seBr.pcx HSB_seGr.pcx HSB_seOr.pcx HSB_seVi.pcx HSB_seTe.pcx HSB_sePi.pcx
 HSB_coRe.pcx HSB_coBl.pcx HSB_coBr.pcx HSB_coGr.pcx HSB_coOr.pcx HSB_coVi.pcx HSB_coTe.pcx HSB_coPi.pcx
 # Map 3
-Hack and Slash C
+Tranche et Taille C
 HSC_enRe.pcx HSC_enBl.pcx HSC_enBr.pcx HSC_enGr.pcx HSC_enOr.pcx HSC_enVi.pcx HSC_enTe.pcx HSC_enPi.pcx
 HSC_seRe.pcx HSC_seBl.pcx HSC_seBr.pcx HSC_seGr.pcx HSC_seOr.pcx HSC_seVi.pcx HSC_seTe.pcx HSC_sePi.pcx
 HSC_coRe.pcx HSC_coBl.pcx HSC_coBr.pcx HSC_coGr.pcx HSC_coOr.pcx HSC_coVi.pcx HSC_coTe.pcx HSC_coPi.pcx
 # Map 4
-Hack and Slash D
+Tranche et Taille D
 HSD_enRe.pcx HSD_enBl.pcx HSD_enBr.pcx HSD_enGr.pcx HSD_enOr.pcx HSD_enVi.pcx HSD_enTe.pcx HSD_enPi.pcx
 HSD_seRe.pcx HSD_seBl.pcx HSD_seBr.pcx HSD_seGr.pcx HSD_seOr.pcx HSD_seVi.pcx HSD_seTe.pcx HSD_sePi.pcx
 HSD_coRe.pcx HSD_coBl.pcx HSD_coBr.pcx HSD_coGr.pcx HSD_coOr.pcx HSD_coVi.pcx HSD_coTe.pcx HSD_coPi.pcx"
@@ -16857,7 +16857,7 @@ Val 3: "0"
 Name: "campmap14"
 Path: ""
 Texts count: "9"
-Text 0: "Birth of a Barbarian"
+Text 0: "La Naissance d'un Barbare"
 Text 1: "BB_bg.pcx"
 Text 2: ""
 Text 3: ""
@@ -16876,27 +16876,27 @@ Text 8: "# Campaign type (0 - region map, 1 - generated region map)
 291 79
 316 199
 # Map 1
-Birth of a Barbarian A
+La Naissance d'un Barbare A
 BBA_enRe.pcx BBA_enBl.pcx BBA_enBr.pcx BBA_enGr.pcx BBA_enOr.pcx BBA_enVi.pcx BBA_enTe.pcx BBA_enPi.pcx
 BBA_seRe.pcx BBA_seBl.pcx BBA_seBr.pcx BBA_seGr.pcx BBA_seOr.pcx BBA_seVi.pcx BBA_seTe.pcx BBA_sePi.pcx
 BBA_coRe.pcx BBA_coBl.pcx BBA_coBr.pcx BBA_coGr.pcx BBA_coOr.pcx BBA_coVi.pcx BBA_coTe.pcx BBA_coPi.pcx
 # Map 2
-Birth of a Barbarian B
+La Naissance d'un Barbare B
 BBB_enRe.pcx BBB_enBl.pcx BBB_enBr.pcx BBB_enGr.pcx BBB_enOr.pcx BBB_enVi.pcx BBB_enTe.pcx BBB_enPi.pcx
 BBB_seRe.pcx BBB_seBl.pcx BBB_seBr.pcx BBB_seGr.pcx BBB_seOr.pcx BBB_seVi.pcx BBB_seTe.pcx BBB_sePi.pcx
 BBB_coRe.pcx BBB_coBl.pcx BBB_coBr.pcx BBB_coGr.pcx BBB_coOr.pcx BBB_coVi.pcx BBB_coTe.pcx BBB_coPi.pcx
 # Map 3
-Birth of a Barbarian C
+La Naissance d'un Barbare C
 BBC_enRe.pcx BBC_enBl.pcx BBC_enBr.pcx BBC_enGr.pcx BBC_enOr.pcx BBC_enVi.pcx BBC_enTe.pcx BBC_enPi.pcx
 BBC_seRe.pcx BBC_seBl.pcx BBC_seBr.pcx BBC_seGr.pcx BBC_seOr.pcx BBC_seVi.pcx BBC_seTe.pcx BBC_sePi.pcx
 BBC_coRe.pcx BBC_coBl.pcx BBC_coBr.pcx BBC_coGr.pcx BBC_coOr.pcx BBC_coVi.pcx BBC_coTe.pcx BBC_coPi.pcx
 # Map 4
-Birth of a Barbarian D
+La Naissance d'un Barbare D
 BBD_enRe.pcx BBD_enBl.pcx BBD_enBr.pcx BBD_enGr.pcx BBD_enOr.pcx BBD_enVi.pcx BBD_enTe.pcx BBD_enPi.pcx
 BBD_seRe.pcx BBD_seBl.pcx BBD_seBr.pcx BBD_seGr.pcx BBD_seOr.pcx BBD_seVi.pcx BBD_seTe.pcx BBD_sePi.pcx
 BBD_coRe.pcx BBD_coBl.pcx BBD_coBr.pcx BBD_coGr.pcx BBD_coOr.pcx BBD_coVi.pcx BBD_coTe.pcx BBD_coPi.pcx
 # Map 5
-Birth of a Barbarian E
+La Naissance d'un Barbare E
 BBE_enRe.pcx BBE_enBl.pcx BBE_enBr.pcx BBE_enGr.pcx BBE_enOr.pcx BBE_enVi.pcx BBE_enTe.pcx BBE_enPi.pcx
 BBE_seRe.pcx BBE_seBl.pcx BBE_seBr.pcx BBE_seGr.pcx BBE_seOr.pcx BBE_seVi.pcx BBE_seTe.pcx BBE_sePi.pcx
 BBE_coRe.pcx BBE_coBl.pcx BBE_coBr.pcx BBE_coGr.pcx BBE_coOr.pcx BBE_coVi.pcx BBE_coTe.pcx BBE_coPi.pcx"
@@ -16912,7 +16912,7 @@ Val 3: "0"
 Name: "campmap15"
 Path: ""
 Texts count: "9"
-Text 0: "New Beginning"
+Text 0: "Nouveau Départ"
 Text 1: "NB_bg.pcx"
 Text 2: ""
 Text 3: ""
@@ -16930,22 +16930,22 @@ Text 8: "# Campaign type (0 - region map, 1 - generated region map)
 63 195
 57 46
 # Map 1
-New Beginning A
+Nouveau Départ A
 NBA_enRe.pcx NBA_enBl.pcx NBA_enBr.pcx NBA_enGr.pcx NBA_enOr.pcx NBA_enVi.pcx NBA_enTe.pcx NBA_enPi.pcx
 NBA_seRe.pcx NBA_seBl.pcx NBA_seBr.pcx NBA_seGr.pcx NBA_seOr.pcx NBA_seVi.pcx NBA_seTe.pcx NBA_sePi.pcx
 NBA_coRe.pcx NBA_coBl.pcx NBA_coBr.pcx NBA_coGr.pcx NBA_coOr.pcx NBA_coVi.pcx NBA_coTe.pcx NBA_coPi.pcx
 # Map 2
-New Beginning B
+Nouveau Départ B
 NBB_enRe.pcx NBB_enBl.pcx NBB_enBr.pcx NBB_enGr.pcx NBB_enOr.pcx NBB_enVi.pcx NBB_enTe.pcx NBB_enPi.pcx
 NBB_seRe.pcx NBB_seBl.pcx NBB_seBr.pcx NBB_seGr.pcx NBB_seOr.pcx NBB_seVi.pcx NBB_seTe.pcx NBB_sePi.pcx
 NBB_coRe.pcx NBB_coBl.pcx NBB_coBr.pcx NBB_coGr.pcx NBB_coOr.pcx NBB_coVi.pcx NBB_coTe.pcx NBB_coPi.pcx
 # Map 3
-New Beginning C
+Nouveau Départ C
 NBC_enRe.pcx NBC_enBl.pcx NBC_enBr.pcx NBC_enGr.pcx NBC_enOr.pcx NBC_enVi.pcx NBC_enTe.pcx NBC_enPi.pcx
 NBC_seRe.pcx NBC_seBl.pcx NBC_seBr.pcx NBC_seGr.pcx NBC_seOr.pcx NBC_seVi.pcx NBC_seTe.pcx NBC_sePi.pcx
 NBC_coRe.pcx NBC_coBl.pcx NBC_coBr.pcx NBC_coGr.pcx NBC_coOr.pcx NBC_coVi.pcx NBC_coTe.pcx NBC_coPi.pcx
 # Map 4
-New Beginning D
+Nouveau Départ D
 NBD_enRe.pcx NBD_enBl.pcx NBD_enBr.pcx NBD_enGr.pcx NBD_enOr.pcx NBD_enVi.pcx NBD_enTe.pcx NBD_enPi.pcx
 NBD_seRe.pcx NBD_seBl.pcx NBD_seBr.pcx NBD_seGr.pcx NBD_seOr.pcx NBD_seVi.pcx NBD_seTe.pcx NBD_sePi.pcx
 NBD_coRe.pcx NBD_coBl.pcx NBD_coBr.pcx NBD_coGr.pcx NBD_coOr.pcx NBD_coVi.pcx NBD_coTe.pcx NBD_coPi.pcx"
@@ -16961,7 +16961,7 @@ Val 3: "0"
 Name: "campmap16"
 Path: ""
 Texts count: "9"
-Text 0: "Elixir of Life"
+Text 0: "Elixir de Vie"
 Text 1: "EL_bg.pcx"
 Text 2: ""
 Text 3: ""
@@ -16979,22 +16979,22 @@ Text 8: "# Campaign type (0 - region map, 1 - generated region map)
 255 34
 92 144
 # Map 1
-Elixir of Life A
+Elixir de Vie A
 ELA_enRe.pcx ELA_enBl.pcx ELA_enBr.pcx ELA_enGr.pcx ELA_enOr.pcx ELA_enVi.pcx ELA_enTe.pcx ELA_enPi.pcx
 ELA_seRe.pcx ELA_seBl.pcx ELA_seBr.pcx ELA_seGr.pcx ELA_seOr.pcx ELA_seVi.pcx ELA_seTe.pcx ELA_sePi.pcx
 ELA_coRe.pcx ELA_coBl.pcx ELA_coBr.pcx ELA_coGr.pcx ELA_coOr.pcx ELA_coVi.pcx ELA_coTe.pcx ELA_coPi.pcx
 # Map 2
-Elixir of Life B
+Elixir de Vie B
 ELB_enRe.pcx ELB_enBl.pcx ELB_enBr.pcx ELB_enGr.pcx ELB_enOr.pcx ELB_enVi.pcx ELB_enTe.pcx ELB_enPi.pcx
 ELB_seRe.pcx ELB_seBl.pcx ELB_seBr.pcx ELB_seGr.pcx ELB_seOr.pcx ELB_seVi.pcx ELB_seTe.pcx ELB_sePi.pcx
 ELB_coRe.pcx ELB_coBl.pcx ELB_coBr.pcx ELB_coGr.pcx ELB_coOr.pcx ELB_coVi.pcx ELB_coTe.pcx ELB_coPi.pcx
 # Map 3
-Elixir of Life C
+Elixir de Vie C
 ELC_enRe.pcx ELC_enBl.pcx ELC_enBr.pcx ELC_enGr.pcx ELC_enOr.pcx ELC_enVi.pcx ELC_enTe.pcx ELC_enPi.pcx
 ELC_seRe.pcx ELC_seBl.pcx ELC_seBr.pcx ELC_seGr.pcx ELC_seOr.pcx ELC_seVi.pcx ELC_seTe.pcx ELC_sePi.pcx
 ELC_coRe.pcx ELC_coBl.pcx ELC_coBr.pcx ELC_coGr.pcx ELC_coOr.pcx ELC_coVi.pcx ELC_coTe.pcx ELC_coPi.pcx
 # Map 4
-Elixir of Life D
+Elixir de Vie D
 ELD_enRe.pcx ELD_enBl.pcx ELD_enBr.pcx ELD_enGr.pcx ELD_enOr.pcx ELD_enVi.pcx ELD_enTe.pcx ELD_enPi.pcx
 ELD_seRe.pcx ELD_seBl.pcx ELD_seBr.pcx ELD_seGr.pcx ELD_seOr.pcx ELD_seVi.pcx ELD_seTe.pcx ELD_sePi.pcx
 ELD_coRe.pcx ELD_coBl.pcx ELD_coBr.pcx ELD_coGr.pcx ELD_coOr.pcx ELD_coVi.pcx ELD_coTe.pcx ELD_coPi.pcx"
@@ -17010,7 +17010,7 @@ Val 3: "0"
 Name: "campmap17"
 Path: ""
 Texts count: "9"
-Text 0: "Rise of the Necromancer"
+Text 0: "L'Ascension du Nécromancien"
 Text 1: "RN_bg.pcx"
 Text 2: ""
 Text 3: ""
@@ -17028,22 +17028,22 @@ Text 8: "# Campaign type (0 - region map, 1 - generated region map)
 68 185
 78 30
 # Map 1
-Rise of the Necromancer A
+L'Ascension du Nécromancien A
 RNA_enRe.pcx RNA_enBl.pcx RNA_enBr.pcx RNA_enGr.pcx RNA_enOr.pcx RNA_enVi.pcx RNA_enTe.pcx RNA_enPi.pcx
 RNA_seRe.pcx RNA_seBl.pcx RNA_seBr.pcx RNA_seGr.pcx RNA_seOr.pcx RNA_seVi.pcx RNA_seTe.pcx RNA_sePi.pcx
 RNA_coRe.pcx RNA_coBl.pcx RNA_coBr.pcx RNA_coGr.pcx RNA_coOr.pcx RNA_coVi.pcx RNA_coTe.pcx RNA_coPi.pcx
 # Map 2
-Rise of the Necromancer B
+L'Ascension du Nécromancien B
 RNB_enRe.pcx RNB_enBl.pcx RNB_enBr.pcx RNB_enGr.pcx RNB_enOr.pcx RNB_enVi.pcx RNB_enTe.pcx RNB_enPi.pcx
 RNB_seRe.pcx RNB_seBl.pcx RNB_seBr.pcx RNB_seGr.pcx RNB_seOr.pcx RNB_seVi.pcx RNB_seTe.pcx RNB_sePi.pcx
 RNB_coRe.pcx RNB_coBl.pcx RNB_coBr.pcx RNB_coGr.pcx RNB_coOr.pcx RNB_coVi.pcx RNB_coTe.pcx RNB_coPi.pcx
 # Map 3
-Rise of the Necromancer C
+L'Ascension du Nécromancien C
 RNC_enRe.pcx RNC_enBl.pcx RNC_enBr.pcx RNC_enGr.pcx RNC_enOr.pcx RNC_enVi.pcx RNC_enTe.pcx RNC_enPi.pcx
 RNC_seRe.pcx RNC_seBl.pcx RNC_seBr.pcx RNC_seGr.pcx RNC_seOr.pcx RNC_seVi.pcx RNC_seTe.pcx RNC_sePi.pcx
 RNC_coRe.pcx RNC_coBl.pcx RNC_coBr.pcx RNC_coGr.pcx RNC_coOr.pcx RNC_coVi.pcx RNC_coTe.pcx RNC_coPi.pcx
 # Map 4
-Rise of the Necromancer D
+L'Ascension du Nécromancien D
 RND_enRe.pcx RND_enBl.pcx RND_enBr.pcx RND_enGr.pcx RND_enOr.pcx RND_enVi.pcx RND_enTe.pcx RND_enPi.pcx
 RND_seRe.pcx RND_seBl.pcx RND_seBr.pcx RND_seGr.pcx RND_seOr.pcx RND_seVi.pcx RND_seTe.pcx RND_sePi.pcx
 RND_coRe.pcx RND_coBl.pcx RND_coBr.pcx RND_coGr.pcx RND_coOr.pcx RND_coVi.pcx RND_coTe.pcx RND_coPi.pcx"
@@ -17059,7 +17059,7 @@ Val 3: "0"
 Name: "campmap18"
 Path: ""
 Texts count: "9"
-Text 0: "Unholy Alliance"
+Text 0: "Alliance Maudite"
 Text 1: "UA_bg.pcx"
 Text 2: ""
 Text 3: ""
@@ -17085,62 +17085,62 @@ Text 8: "# Campaign type (0 - region map, 1 - generated region map)
 211 176
 261 210
 # Map 1
-Unholy Alliance A
+Alliance Maudite A
 UAA_enRe.pcx UAA_enBl.pcx UAA_enBr.pcx UAA_enGr.pcx UAA_enOr.pcx UAA_enVi.pcx UAA_enTe.pcx UAA_enPi.pcx
 UAA_seRe.pcx UAA_seBl.pcx UAA_seBr.pcx UAA_seGr.pcx UAA_seOr.pcx UAA_seVi.pcx UAA_seTe.pcx UAA_sePi.pcx
 UAA_coRe.pcx UAA_coBl.pcx UAA_coBr.pcx UAA_coGr.pcx UAA_coOr.pcx UAA_coVi.pcx UAA_coTe.pcx UAA_coPi.pcx
 # Map 2
-Unholy Alliance B
+Alliance Maudite B
 UAB_enRe.pcx UAB_enBl.pcx UAB_enBr.pcx UAB_enGr.pcx UAB_enOr.pcx UAB_enVi.pcx UAB_enTe.pcx UAB_enPi.pcx
 UAB_seRe.pcx UAB_seBl.pcx UAB_seBr.pcx UAB_seGr.pcx UAB_seOr.pcx UAB_seVi.pcx UAB_seTe.pcx UAB_sePi.pcx
 UAB_coRe.pcx UAB_coBl.pcx UAB_coBr.pcx UAB_coGr.pcx UAB_coOr.pcx UAB_coVi.pcx UAB_coTe.pcx UAB_coPi.pcx
 # Map 3
-Unholy Alliance C
+Alliance Maudite C
 UAC_enRe.pcx UAC_enBl.pcx UAC_enBr.pcx UAC_enGr.pcx UAC_enOr.pcx UAC_enVi.pcx UAC_enTe.pcx UAC_enPi.pcx
 UAC_seRe.pcx UAC_seBl.pcx UAC_seBr.pcx UAC_seGr.pcx UAC_seOr.pcx UAC_seVi.pcx UAC_seTe.pcx UAC_sePi.pcx
 UAC_coRe.pcx UAC_coBl.pcx UAC_coBr.pcx UAC_coGr.pcx UAC_coOr.pcx UAC_coVi.pcx UAC_coTe.pcx UAC_coPi.pcx
 # Map 4
-Unholy Alliance D
+Alliance Maudite D
 UAD_enRe.pcx UAD_enBl.pcx UAD_enBr.pcx UAD_enGr.pcx UAD_enOr.pcx UAD_enVi.pcx UAD_enTe.pcx UAD_enPi.pcx
 UAD_seRe.pcx UAD_seBl.pcx UAD_seBr.pcx UAD_seGr.pcx UAD_seOr.pcx UAD_seVi.pcx UAD_seTe.pcx UAD_sePi.pcx
 UAD_coRe.pcx UAD_coBl.pcx UAD_coBr.pcx UAD_coGr.pcx UAD_coOr.pcx UAD_coVi.pcx UAD_coTe.pcx UAD_coPi.pcx
 # Map 5
-Unholy Alliance E
+Alliance Maudite E
 UAE_enRe.pcx UAE_enBl.pcx UAE_enBr.pcx UAE_enGr.pcx UAE_enOr.pcx UAE_enVi.pcx UAE_enTe.pcx UAE_enPi.pcx
 UAE_seRe.pcx UAE_seBl.pcx UAE_seBr.pcx UAE_seGr.pcx UAE_seOr.pcx UAE_seVi.pcx UAE_seTe.pcx UAE_sePi.pcx
 UAE_coRe.pcx UAE_coBl.pcx UAE_coBr.pcx UAE_coGr.pcx UAE_coOr.pcx UAE_coVi.pcx UAE_coTe.pcx UAE_coPi.pcx
 # Map 6
-Unholy Alliance F
+Alliance Maudite F
 UAF_enRe.pcx UAF_enBl.pcx UAF_enBr.pcx UAF_enGr.pcx UAF_enOr.pcx UAF_enVi.pcx UAF_enTe.pcx UAF_enPi.pcx
 UAF_seRe.pcx UAF_seBl.pcx UAF_seBr.pcx UAF_seGr.pcx UAF_seOr.pcx UAF_seVi.pcx UAF_seTe.pcx UAF_sePi.pcx
 UAF_coRe.pcx UAF_coBl.pcx UAF_coBr.pcx UAF_coGr.pcx UAF_coOr.pcx UAF_coVi.pcx UAF_coTe.pcx UAF_coPi.pcx
 # Map 7
-Unholy Alliance G
+Alliance Maudite G
 UAG_enRe.pcx UAG_enBl.pcx UAG_enBr.pcx UAG_enGr.pcx UAG_enOr.pcx UAG_enVi.pcx UAG_enTe.pcx UAG_enPi.pcx
 UAG_seRe.pcx UAG_seBl.pcx UAG_seBr.pcx UAG_seGr.pcx UAG_seOr.pcx UAG_seVi.pcx UAG_seTe.pcx UAG_sePi.pcx
 UAG_coRe.pcx UAG_coBl.pcx UAG_coBr.pcx UAG_coGr.pcx UAG_coOr.pcx UAG_coVi.pcx UAG_coTe.pcx UAG_coPi.pcx
 # Map 8
-Unholy Alliance H
+Alliance Maudite H
 UAH_enRe.pcx UAH_enBl.pcx UAH_enBr.pcx UAH_enGr.pcx UAH_enOr.pcx UAH_enVi.pcx UAH_enTe.pcx UAH_enPi.pcx
 UAH_seRe.pcx UAH_seBl.pcx UAH_seBr.pcx UAH_seGr.pcx UAH_seOr.pcx UAH_seVi.pcx UAH_seTe.pcx UAH_sePi.pcx
 UAH_coRe.pcx UAH_coBl.pcx UAH_coBr.pcx UAH_coGr.pcx UAH_coOr.pcx UAH_coVi.pcx UAH_coTe.pcx UAH_coPi.pcx
 # Map 9
-Unholy Alliance I
+Alliance Maudite I
 UAI_enRe.pcx UAI_enBl.pcx UAI_enBr.pcx UAI_enGr.pcx UAI_enOr.pcx UAI_enVi.pcx UAI_enTe.pcx UAI_enPi.pcx
 UAI_seRe.pcx UAI_seBl.pcx UAI_seBr.pcx UAI_seGr.pcx UAI_seOr.pcx UAI_seVi.pcx UAI_seTe.pcx UAI_sePi.pcx
 UAI_coRe.pcx UAI_coBl.pcx UAI_coBr.pcx UAI_coGr.pcx UAI_coOr.pcx UAI_coVi.pcx UAI_coTe.pcx UAI_coPi.pcx
 # Map 10
-Unholy Alliance J
+Alliance Maudite J
 UAJ_enRe.pcx UAJ_enBl.pcx UAJ_enBr.pcx UAJ_enGr.pcx UAJ_enOr.pcx UAJ_enVi.pcx UAJ_enTe.pcx UAJ_enPi.pcx
 UAJ_seRe.pcx UAJ_seBl.pcx UAJ_seBr.pcx UAJ_seGr.pcx UAJ_seOr.pcx UAJ_seVi.pcx UAJ_seTe.pcx UAJ_sePi.pcx
 UAJ_coRe.pcx UAJ_coBl.pcx UAJ_coBr.pcx UAJ_coGr.pcx UAJ_coOr.pcx UAJ_coVi.pcx UAJ_coTe.pcx UAJ_coPi.pcx
 # Map 11
-Unholy Alliance K
+Alliance Maudite K
 UAK_enRe.pcx UAK_enBl.pcx UAK_enBr.pcx UAK_enGr.pcx UAK_enOr.pcx UAK_enVi.pcx UAK_enTe.pcx UAK_enPi.pcx
 UAK_seRe.pcx UAK_seBl.pcx UAK_seBr.pcx UAK_seGr.pcx UAK_seOr.pcx UAK_seVi.pcx UAK_seTe.pcx UAK_sePi.pcx
 UAK_coRe.pcx UAK_coBl.pcx UAK_coBr.pcx UAK_coGr.pcx UAK_coOr.pcx UAK_coVi.pcx UAK_coTe.pcx UAK_coPi.pcx
 # Map 12
-Unholy Alliance L
+Alliance Maudite L
 UAL_enRe.pcx UAL_enBl.pcx UAL_enBr.pcx UAL_enGr.pcx UAL_enOr.pcx UAL_enVi.pcx UAL_enTe.pcx UAL_enPi.pcx
 UAL_seRe.pcx UAL_seBl.pcx UAL_seBr.pcx UAL_seGr.pcx UAL_seOr.pcx UAL_seVi.pcx UAL_seTe.pcx UAL_sePi.pcx
 UAL_coRe.pcx UAL_coBl.pcx UAL_coBr.pcx UAL_coGr.pcx UAL_coOr.pcx UAL_coVi.pcx UAL_coTe.pcx UAL_coPi.pcx"
@@ -17156,7 +17156,7 @@ Val 3: "0"
 Name: "campmap19"
 Path: ""
 Texts count: "9"
-Text 0: "Specter of Power"
+Text 0: "Le Spectre du Pouvoir"
 Text 1: "SP_bg.pcx"
 Text 2: ""
 Text 3: ""
@@ -17174,22 +17174,22 @@ Text 8: "# Campaign type (0 - region map, 1 - generated region map)
 142 21
 244 156
 # Map 1
-Specter of Power A
+Le Spectre du Pouvoir A
 SPA_enRe.pcx SPA_enBl.pcx SPA_enBr.pcx SPA_enGr.pcx SPA_enOr.pcx SPA_enVi.pcx SPA_enTe.pcx SPA_enPi.pcx
 SPA_seRe.pcx SPA_seBl.pcx SPA_seBr.pcx SPA_seGr.pcx SPA_seOr.pcx SPA_seVi.pcx SPA_seTe.pcx SPA_sePi.pcx
 SPA_coRe.pcx SPA_coBl.pcx SPA_coBr.pcx SPA_coGr.pcx SPA_coOr.pcx SPA_coVi.pcx SPA_coTe.pcx SPA_coPi.pcx
 # Map 2
-Specter of Power B
+Le Spectre du Pouvoir B
 SPB_enRe.pcx SPB_enBl.pcx SPB_enBr.pcx SPB_enGr.pcx SPB_enOr.pcx SPB_enVi.pcx SPB_enTe.pcx SPB_enPi.pcx
 SPB_seRe.pcx SPB_seBl.pcx SPB_seBr.pcx SPB_seGr.pcx SPB_seOr.pcx SPB_seVi.pcx SPB_seTe.pcx SPB_sePi.pcx
 SPB_coRe.pcx SPB_coBl.pcx SPB_coBr.pcx SPB_coGr.pcx SPB_coOr.pcx SPB_coVi.pcx SPB_coTe.pcx SPB_coPi.pcx
 # Map 3
-Specter of Power C
+Le Spectre du Pouvoir C
 SPC_enRe.pcx SPC_enBl.pcx SPC_enBr.pcx SPC_enGr.pcx SPC_enOr.pcx SPC_enVi.pcx SPC_enTe.pcx SPC_enPi.pcx
 SPC_seRe.pcx SPC_seBl.pcx SPC_seBr.pcx SPC_seGr.pcx SPC_seOr.pcx SPC_seVi.pcx SPC_seTe.pcx SPC_sePi.pcx
 SPC_coRe.pcx SPC_coBl.pcx SPC_coBr.pcx SPC_coGr.pcx SPC_coOr.pcx SPC_coVi.pcx SPC_coTe.pcx SPC_coPi.pcx
 # Map 4
-Specter of Power D
+Le Spectre du Pouvoir D
 SPD_enRe.pcx SPD_enBl.pcx SPD_enBr.pcx SPD_enGr.pcx SPD_enOr.pcx SPD_enVi.pcx SPD_enTe.pcx SPD_enPi.pcx
 SPD_seRe.pcx SPD_seBl.pcx SPD_seBr.pcx SPD_seGr.pcx SPD_seOr.pcx SPD_seVi.pcx SPD_seTe.pcx SPD_sePi.pcx
 SPD_coRe.pcx SPD_coBl.pcx SPD_coBr.pcx SPD_coGr.pcx SPD_coOr.pcx SPD_coVi.pcx SPD_coTe.pcx SPD_coPi.pcx"
@@ -17205,7 +17205,7 @@ Val 3: "0"
 Name: "campmap20"
 Path: ""
 Texts count: "9"
-Text 0: "Under the Jolly Roger"
+Text 0: "Sous le Jolly Roger"
 Text 1: "BgRoger.pcx"
 Text 2: ""
 Text 3: ""
@@ -17222,17 +17222,17 @@ Text 8: "# Campaign type (0 - region map, 1 - generated region map)
 170 345
 48 29
 # Map 1
-Under the Jolly Roger A
+Pirates et palmiers - Sous le Jolly Roger A
 C1Amask.pcx
 C1Abord.pcx
 C1Aalph.pcx
 # Map 2
-Under the Jolly Roger B
+Le maître de l'île - Sous le Jolly Roger B
 C1Bmask.pcx
 C1Bbord.pcx
 C1Balph.pcx
 # Map 3
-Under the Jolly Roger C
+Lever de soleil en enfer - Sous le Jolly Roger C
 C1Cmask.pcx
 C1CBord.pcx
 C1CAlph.pcx"
