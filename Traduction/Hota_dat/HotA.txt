@@ -558,8 +558,8 @@ Texts count: "9"
 Text 0: ""
 Text 1: "arma"
 Text 2: "CARMADL.def"
-Text 3: "Armadillo"
-Text 4: "Armadillos"
+Text 3: "Glyptodon"
+Text 4: "Glyptodons"
 Text 5: ""
 Text 6: ""
 Text 7: ""
@@ -581,8 +581,8 @@ Texts count: "9"
 Text 0: ""
 Text 1: "arma"
 Text 2: "CBLWARM.def"
-Text 3: "Armadillos Royal"
-Text 4: "Armadillos Royaux"
+Text 3: "Glyptodons Royal"
+Text 4: "Glyptodons Royaux"
 Text 5: ""
 Text 6: ""
 Text 7: ""
@@ -1793,9 +1793,9 @@ Text 1: ""
 Text 2: ""
 Text 3: "Vers des Sables"
 Text 4: "Creature Bonus: Vers des Sables"
-Text 5: "{Vers des Sables et Valakkars}
+Text 5: "{Vers des Sables et Olgoi-Khorkhoi}
 
-Les Vers des Sables et les Valakkars gagnent +1 en vitesse, et reï¿½oivent un bonus en Attaque-Dï¿½fense de 5% Ã  chaque fois que 5 niveaux sont atteints."
+Les Vers des Sables et les Olgoi-Khorkhoi gagnent +1 en vitesse, et reï¿½oivent un bonus en Attaque-Dï¿½fense de 5% Ã  chaque fois que 5 niveaux sont atteints."
 Text 6: "Agar"
 Text 7: "Certains pensaient que le sorcier Agar ï¿½tait un fou, et on le donna mï¿½me pour mort. Mais si cette derniï¿½re rumeur s'est avï¿½rï¿½e fausse, la communautï¿½ scientifique d'Enroth n'est toujours pas unanime au sujet de la premiï¿½re. Car si les crï¿½ations d'Agar sont indï¿½niablement viables et fonctionnelles, on peut se demander si un scientifique sain d'esprit aurait l'idï¿½e d'inculquer Ã  un ï¿½tre vivant des penchants et des inclinations aussi nï¿½fastes."
 Text 8: ""
@@ -2164,14 +2164,14 @@ Mirador Sup.
 Serpentarium Sup."
 Text 8: "La Maison des Hobbits permet de recruter des Hobbits.
 L'Atelier permet de recruter des Mï¿½caniciens.
-Le Ranch permet de recruter des Armadillos.
+Le Ranch permet de recruter des Glyptodons.
 La Fabrique permet de recruter des Automates.
 Les Oubliettes permettent de recruter des Vers des Sables.
 Le Mirador permet de recruter des Pistoleros.
 Le Serpentarium permet de recruter des Couatls.
 La Maison des Hobbits amï¿½liorï¿½e permet de recruter des Hobbits Grenadier.
 L'Atelier amï¿½liorï¿½ permet de recruter des Ingï¿½nieurs.
-Le Ranch amï¿½liorï¿½ permet de recruter des Armadillos Royaux.
+Le Ranch amï¿½liorï¿½ permet de recruter des Glyptodons Royaux.
 La Fabrique amï¿½liorï¿½e permet de recruter des Automates Sentinelles.
 Les Oubliettes amï¿½liorï¿½es permettent de recruter des Olgoi-Khorkhoi.
 Le Mirador amï¿½liorï¿½ permet de recruter des Chasseurs de Prime.
@@ -2209,8 +2209,8 @@ Unused
 Paratonnerre
 Entrepï¿½t"
 Text 8: "L'ï¿½choppe du Marchand d'Artï¿½facts propose Ã  la vente des Objets Magiques Ã  un prix dï¿½risoire.
-Le Corral permet de recruter +3 Armadillos supplï¿½mentaires chaque semaine.
-Le Corral permet de recruter +3 Armadillos Royaux supplï¿½mentaires chaque semaine.
+Le Corral permet de recruter +3 Glyptodons supplï¿½mentaires chaque semaine.
+Le Corral permet de recruter +3 Glyptodons Royaux supplï¿½mentaires chaque semaine.
 Le Gï¿½nï¿½rateur de Mana fait bï¿½nï¿½ficier tous les HÃ©ros qui dï¿½fendent la ville d'un bonus de 20 points de Magie supplï¿½mentaires lors d'un siï¿½ge.
 La Banque permet d'obtenir un prï¿½t de 2500 piÃ¨ces d'Or, mais la ville doit rembourser 500 piÃ¨ces d'Or par jour qu'elle prend sur ses revenus, durant les 5 jours suivants.
 Le Portique permet de recruter des Dï¿½molisseurs.
@@ -8056,7 +8056,7 @@ Demeure du Mï¿½canicien.""
 17
 105
 ""Ranch
-Demeure de l'Armadillo.""
+Demeure du Glyptodon.""
 
 17
 106
@@ -8262,13 +8262,13 @@ Quantitï¿½ : 16-25.""
 
 54
 174
-""Armadillo
+""Glyptodon
 Crï¿½ature rang 3 - Manufacture
 Quantitï¿½ : 12-25.""
 
 54
 175
-""Armadillo Royal
+""Glyptodon Royal
 Crï¿½ature rang 3 Sup. - Manufacture
 Quantitï¿½ : 12-20.""
 
@@ -9639,8 +9639,8 @@ Text 7: "1.00	1.00	0.50	1.00	44	-63	79	-55	27	-46	90.0	72.0	45.0	27.0	0.0	-27.0	
 1.00	1.40	1.50	1.00	32	-77	36	-36	18	-55	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	10	Hobbit Grenadier
 1.00	1.15	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Mï¿½canicien
 1.00	1.15	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Ingï¿½nieur
-1.00	1.30	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Armadillo
-1.00	1.30	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Armadillo Royal
+1.00	1.30	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Glyptodon
+1.00	1.30	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Glyptodon Royal
 1.00	1.10	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Automate
 1.00	1.10	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Automate Sentinelle
 1.00	1.00	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Ver des Sables
@@ -10511,17 +10511,17 @@ Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: ""
-Text 8: "Titre de la fenêtre en erreur:
-Erreur de Génération de Type Ville/Terrain
+Text 8: "Titre de la fenï¿½tre en erreur:
+Erreur de Gï¿½nï¿½ration de Type Ville/Terrain
 
-Texte de la fenêtre en erreur:
-Des erreurs liées aux règles de la Ville/Terrain du modèle RMG se sont produites :
+Texte de la fenï¿½tre en erreur:
+Des erreurs liï¿½es aux rï¿½gles de la Ville/Terrain du modï¿½le RMG se sont produites :
 
 
 Texte de la Ville neutre :
 Ville neutre %1
 
-Texte des Villes appartenant à des joueurs :
+Texte des Villes appartenant ï¿½ des joueurs :
 Villes des joueurs
 
 Texte de la Faction de zone :
@@ -10534,7 +10534,7 @@ InvalidNeutralTownId:
 Dans la zone %1 : il y a une condition sur la Ville neutre %2 de la zone %3, mais cette Ville n'existe pas.
 
 NoPlayerTownInZone:
-Dans la zone %1 : il y a une condition sur les Villes des joueurs de la zone %2, mais la zone %2 n'a pas de Villes appartenant à un des joueurs.
+Dans la zone %1 : il y a une condition sur les Villes des joueurs de la zone %2, mais la zone %2 n'a pas de Villes appartenant ï¿½ un des joueurs.
 
 NoNeutralTownInZone:
 Dans la zone %1 : il y a une condition sur les Villes neutres de la zone %2, mais la zone %2 n'a pas de Villes neutres.
@@ -10543,68 +10543,68 @@ NoTownInZone:
 Dans la zone %1 : il y a une condition sur les Villes de la zone %2, mais la zone %2 n'a pas de Villes.
 
 NoSolutionExists:
-Certaines Villes/châteaux et/ou terrains ne peuvent pas respecter toutes les contraintes définies dans les règles de Type de Ville et/ou de Type de Terrain. Essayez de supprimer certaines contraintes.
+Certaines Villes/chï¿½teaux et/ou terrains ne peuvent pas respecter toutes les contraintes dï¿½finies dans les rï¿½gles de Type de Ville et/ou de Type de Terrain. Essayez de supprimer certaines contraintes.
 
 SolutionCheckFailed:
 Une erreur interne s'est produite.
-Le solveur de Type a renvoyé une solution non valide. Il s'agit probablement d'une erreur de programmation.
-Veuillez signaler le problème à l'équipe HotA.
+Le solveur de Type a renvoyï¿½ une solution non valide. Il s'agit probablement d'une erreur de programmation.
+Veuillez signaler le problï¿½me ï¿½ l'ï¿½quipe HotA.
 
 SyntaxErrorInToken:
-Dans la zone %1 : règle de Type de Ville ou jeton de règle de Type de Terrain non valide : ""%2""
+Dans la zone %1 : rï¿½gle de Type de Ville ou jeton de rï¿½gle de Type de Terrain non valide : ""%2""
 
 Timeout:
-La génération des types Ville et Terrain prend un temps anormalement long (plus de %1 secondes).
-Ceci peut se produire lorsque les règles des types Ville et/ou Terrain sont configurées qu'il y ait très peu de solutions valides par rapport au nombre total de combinaisons de types possibles.
+La gï¿½nï¿½ration des types Ville et Terrain prend un temps anormalement long (plus de %1 secondes).
+Ceci peut se produire lorsque les rï¿½gles des types Ville et/ou Terrain sont configurï¿½es qu'il y ait trï¿½s peu de solutions valides par rapport au nombre total de combinaisons de types possibles.
 Veuillez essayer de supprimer certaines contraintes.
 
 IncompatibleTownTokens:
-Règles de Type de Ville incompatibles : une règle stipule que %2 de la zone %1 et %4 de la zone %3 doivent avoir un Type similaire, mais une autre règle stipule le contraire.
+Rï¿½gles de Type de Ville incompatiblesï¿½: une rï¿½gle stipule que %2 de la zone %1 et %4 de la zone %3 doivent avoir un Type similaire, mais une autre rï¿½gle stipule le contraire.
 
 IncompatibleTownTerrainTokens:
-Une règle de Ville ou de Terrain stipule que %2 de la zone %1 doit correspondre au Terrain de la zone %3, mais une autre règle stipule le contraire.
+Une rï¿½gle de Ville ou de Terrain stipule que %2 de la zone %1 doit correspondre au Terrain de la zone %3, mais une autre rï¿½gle stipule le contraire.
 
 IncompatibleTerrainTokens:
-Règles de Type de Terrain incompatibles : une règle stipule que le Terrain de la zone %1 et le Terrain de la zone %2 doivent avoir un Type similaire, mais une autre règle stipule le contraire.
+Rï¿½gles de Type de Terrain incompatiblesï¿½: une rï¿½gle stipule que le Terrain de la zone %1 et le Terrain de la zone %2 doivent avoir un Type similaire, mais une autre rï¿½gle stipule le contraire.
 
 ProgramingError:
-Une erreur inattendue s'est produite. Il s'agit probablement d'une erreur de programmation. Veuillez la signaler à l'équipe HotA.
-Une erreur s'est produite à la ligne %1 du fichier %2.
+Une erreur inattendue s'est produite. Il s'agit probablement d'une erreur de programmation. Veuillez la signaler ï¿½ l'ï¿½quipe HotA.
+Une erreur s'est produite ï¿½ la ligne %1 du fichier %2.
 
 ViolatesAllTownsSameType:
-La zone %1 a l'option ""Toutes les Villes ont le même Type"", mais au moins une règle de Type de Ville viole cette option.
+La zone %1 a l'option ""Toutes les Villes ont le mï¿½me Type"", mais au moins une rï¿½gle de Type de Ville viole cette option.
 
 ViolatesTerrainMatchTown:
-La zone %1 a l'option ""Terrain : Correspondre à la Ville"", mais au moins une règle de Type de Ville ou de Type de Terrain viole cette option.
+La zone %1 a l'option ""Terrainï¿½: Correspondre ï¿½ la Ville"", mais au moins une rï¿½gle de Type de Ville ou de Type de Terrain viole cette option.
 
 ViolatesForceNeutralFaction:
-Dans la zone %1 : il existe une règle qui affecte la Faction de la zone %2, mais la zone %2 a l'option ""Faction de zone : Force neutre"", qui n'est pas compatible avec les règles de Faction.
+Dans la zone %1ï¿½: il existe une rï¿½gle qui affecte la Faction de la zone %2, mais la zone %2 a l'option ""Faction de zoneï¿½: Force neutre"", qui n'est pas compatible avec les rï¿½gles de Faction.
 
 ReferenceToDensityTown:
-Dans la zone %1, il existe une règle de Type de Ville ou de Terrain avec une condition sur la Ville neutre %2 de la zone %3, mais cette Ville n'existe pas toujours, car elle ne peut être générée que par le mécanisme de ""densité de Ville"".
-En raison de restrictions techniques, le générateur de cartes aléatoires ne peut pas gérer correctement cette situation. Le résultat est que certaines règles de Type de Ville et/ou de Terrain peuvent ne pas être respectées.
+Dans la zone %1, il existe une rï¿½gle de Type de Ville ou de Terrain avec une condition sur la Ville neutre %2 de la zone %3, mais cette Ville n'existe pas toujours, car elle ne peut ï¿½tre gï¿½nï¿½rï¿½e que par le mï¿½canisme de ""densitï¿½ de Ville"".
+En raison de restrictions techniques, le gï¿½nï¿½rateur de cartes alï¿½atoires ne peut pas gï¿½rer correctement cette situation. Le rï¿½sultat est que certaines rï¿½gles de Type de Ville et/ou de Terrain peuvent ne pas ï¿½tre respectï¿½es.
 
 SameTownTypePatternZoneTargetsItself:
-La zone %1 se réfère à elle-même dans une condition ""modèle auto-référé"".
-Cette condition sera ignorée.
+La zone %1 se rï¿½fï¿½re ï¿½ elle-mï¿½me dans une condition ""modï¿½le auto-rï¿½fï¿½rï¿½"".
+Cette condition sera ignorï¿½e.
 
 TownRelatedToItself:
-Dans la zone %1 : %2 auto-réfère dans la règle de Type de Ville %3.
+Dans la zone %1ï¿½: %2 auto-rï¿½fï¿½re dans la rï¿½gle de Type de Ville %3.
 
 TerrainRelatedToItself:
-Dans la zone %1, règle de Type de Terrain ""%2"" : un Terrain a une condition auto-référé.
+Dans la zone %1, rï¿½gle de Type de Terrain ""%2""ï¿½: un Terrain a une condition auto-rï¿½fï¿½rï¿½.
 
 ZoneFactionRelatedToItself:
-Dans la zone %1, la Faction de zone a une condition sur auto-référé.
+Dans la zone %1, la Faction de zone a une condition sur auto-rï¿½fï¿½rï¿½.
 
 NoTownTypeAllowed:
-Dans la zone %1, %2 : aucun Type de Ville n'est possible à choisir.
+Dans la zone %1, %2ï¿½: aucun Type de Ville n'est possible ï¿½ choisir.
 
 NoTerrainAllowed:
-Dans la zone %1 : aucun Type de Terrain n'est autorisé parmi ceux disponibles.
+Dans la zone %1ï¿½: aucun Type de Terrain n'est autorisï¿½ parmi ceux disponibles.
 
 NoFactionTypeAllowed:
-La zone %1 n'a aucun Type de Faction autorisé parmi ceux disponibles.
+La zone %1 n'a aucun Type de Faction autorisï¿½ parmi ceux disponibles.
 "
 Has FilS: "false"
 Vals count: "4"
@@ -16159,7 +16159,7 @@ Val 3: "0"
 Name: "campmap0"
 Path: ""
 Texts count: "9"
-Text 0: "Longue Vie à la Reine"
+Text 0: "Longue Vie ï¿½ la Reine"
 Text 1: "G1_bg.pcx"
 Text 2: ""
 Text 3: ""
@@ -16202,7 +16202,7 @@ Val 3: "0"
 Name: "campmap1"
 Path: ""
 Texts count: "9"
-Text 0: "Libération"
+Text 0: "Libï¿½ration"
 Text 1: "G2_bg.pcx"
 Text 2: ""
 Text 3: ""
@@ -16230,12 +16230,12 @@ G2B_enR.pcx G2B_enB.pcx G2B_enN.pcx G2B_enG.pcx G2B_enO.pcx G2B_enV.pcx G2B_enT.
 G2B_seR.pcx G2B_seB.pcx G2B_seN.pcx G2B_seG.pcx G2B_seO.pcx G2B_seV.pcx G2B_seT.pcx G2B_seP.pcx
 G2B_coR.pcx G2B_coB.pcx G2B_coN.pcx G2B_coG.pcx G2B_coO.pcx G2B_coV.pcx G2B_coT.pcx G2B_coP.pcx
 # Map 3
-Les Tourbières et Grandes Collines
+Les Tourbiï¿½res et Grandes Collines
 G2C_enR.pcx G2C_enB.pcx G2C_enN.pcx G2C_enG.pcx G2C_enO.pcx G2C_enV.pcx G2C_enT.pcx G2C_enP.pcx
 G2C_seR.pcx G2C_seB.pcx G2C_seN.pcx G2C_seG.pcx G2C_seO.pcx G2C_seV.pcx G2C_seT.pcx G2C_seP.pcx
 G2C_coR.pcx G2C_coB.pcx G2C_coN.pcx G2C_coG.pcx G2C_coO.pcx G2C_coV.pcx G2C_coT.pcx G2C_coP.pcx
 # Map 4
-Abondance et Côte Ardente
+Abondance et Cï¿½te Ardente
 G2D_enR.pcx G2D_enB.pcx G2D_enN.pcx G2D_enG.pcx G2D_enO.pcx G2D_enV.pcx G2D_enT.pcx G2D_enP.pcx
 G2D_seR.pcx G2D_seB.pcx G2D_seN.pcx G2D_seG.pcx G2D_seO.pcx G2D_seV.pcx G2D_seT.pcx G2D_seP.pcx
 G2D_coR.pcx G2D_coB.pcx G2D_coN.pcx G2D_coG.pcx G2D_coO.pcx G2D_coV.pcx G2D_coT.pcx G2D_coP.pcx"
@@ -16251,7 +16251,7 @@ Val 3: "0"
 Name: "campmap2"
 Path: ""
 Texts count: "9"
-Text 0: "Hommage au Père"
+Text 0: "Hommage au Pï¿½re"
 Text 1: "G3_bg.pcx"
 Text 2: ""
 Text 3: ""
@@ -16273,7 +16273,7 @@ G3A_enR.pcx G3A_enB.pcx G3A_enN.pcx G3A_enG.pcx G3A_enO.pcx G3A_enV.pcx G3A_enT.
 G3A_seR.pcx G3A_seB.pcx G3A_seN.pcx G3A_seG.pcx G3A_seO.pcx G3A_seV.pcx G3A_seT.pcx G3A_seP.pcx
 G3A_coR.pcx G3A_coB.pcx G3A_coN.pcx G3A_coG.pcx G3A_coO.pcx G3A_coV.pcx G3A_coT.pcx G3A_coP.pcx
 # Map 2
-C. d'Emeraude, H. Saule, Chênaie, B. Brulé
+C. d'Emeraude, H. Saule, Chï¿½naie, B. Brulï¿½
 G3B_enR.pcx G3B_enB.pcx G3B_enN.pcx G3B_enG.pcx G3B_enO.pcx G3B_enV.pcx G3B_enT.pcx G3B_enP.pcx
 G3B_seR.pcx G3B_seB.pcx G3B_seN.pcx G3B_seG.pcx G3B_seO.pcx G3B_seV.pcx G3B_seT.pcx G3B_seP.pcx
 G3B_coR.pcx G3B_coB.pcx G3B_coN.pcx G3B_coG.pcx G3B_coO.pcx G3B_coV.pcx G3B_coT.pcx G3B_coP.pcx
@@ -16294,7 +16294,7 @@ Val 3: "0"
 Name: "campmap3"
 Path: ""
 Texts count: "9"
-Text 0: "Donjons et Démons"
+Text 0: "Donjons et Dï¿½mons"
 Text 1: "E1_bg.pcx"
 Text 2: ""
 Text 3: ""
@@ -16330,7 +16330,7 @@ E1C_enR.pcx E1C_enB.pcx E1C_enN.pcx E1C_enG.pcx E1C_enO.pcx E1C_enV.pcx E1C_enT.
 E1C_seR.pcx E1C_seB.pcx E1C_seN.pcx E1C_seG.pcx E1C_seO.pcx E1C_seV.pcx E1C_seT.pcx E1C_seP.pcx
 E1C_coR.pcx E1C_coB.pcx E1C_coN.pcx E1C_coG.pcx E1C_coO.pcx E1C_coV.pcx E1C_coT.pcx E1C_coP.pcx
 # Map 4
-Côte Ardente
+Cï¿½te Ardente
 E1P1_enR.pcx E1P1_enB.pcx E1P1_enN.pcx E1P1_enG.pcx E1P1_enO.pcx E1P1_enV.pcx E1P1_enT.pcx E1P1_enP.pcx
 E1P1_seR.pcx E1P1_seB.pcx E1P1_seN.pcx E1P1_seG.pcx E1P1_seO.pcx E1P1_seV.pcx E1P1_seT.pcx E1P1_seP.pcx
 E1P1_coR.pcx E1P1_coB.pcx E1P1_coN.pcx E1P1_coG.pcx E1P1_coO.pcx E1P1_coV.pcx E1P1_coT.pcx E1P1_coP.pcx
@@ -16389,12 +16389,12 @@ E2B_enR.pcx E2B_enB.pcx E2B_enN.pcx E2B_enG.pcx E2B_enO.pcx E2B_enV.pcx E2B_enT.
 E2B_seR.pcx E2B_seB.pcx E2B_seN.pcx E2B_seG.pcx E2B_seO.pcx E2B_seV.pcx E2B_seT.pcx E2B_seP.pcx
 E2B_coR.pcx E2B_coB.pcx E2B_coN.pcx E2B_coG.pcx E2B_coO.pcx E2B_coV.pcx E2B_coT.pcx E2B_coP.pcx
 # Map 3
-Hauts Saules et Chênaie
+Hauts Saules et Chï¿½naie
 E2D_enR.pcx E2D_enB.pcx E2D_enN.pcx E2D_enG.pcx E2D_enO.pcx E2D_enV.pcx E2D_enT.pcx E2D_enP.pcx
 E2D_seR.pcx E2D_seB.pcx E2D_seN.pcx E2D_seG.pcx E2D_seO.pcx E2D_seV.pcx E2D_seT.pcx E2D_seP.pcx
 E2D_coR.pcx E2D_coB.pcx E2D_coN.pcx E2D_coG.pcx E2D_coO.pcx E2D_coV.pcx E2D_coT.pcx E2D_coP.pcx
 # Map 4
-Bois Béni, Bois Brulé et Bois Profond
+Bois Bï¿½ni, Bois Brulï¿½ et Bois Profond
 E2C_enR.pcx E2C_enB.pcx E2C_enN.pcx E2C_enG.pcx E2C_enO.pcx E2C_enV.pcx E2C_enT.pcx E2C_enP.pcx
 E2C_seR.pcx E2C_seB.pcx E2C_seN.pcx E2C_seG.pcx E2C_seO.pcx E2C_seV.pcx E2C_seT.pcx E2C_seP.pcx
 E2C_coR.pcx E2C_coB.pcx E2C_coN.pcx E2C_coG.pcx E2C_coO.pcx E2C_coV.pcx E2C_coT.pcx E2C_coP.pcx"
@@ -16427,7 +16427,7 @@ Text 8: "# Campaign type (0 - region map, 1 - generated region map)
 310 290
 189 202
 # Map 1
-Les Tourbières
+Les Tourbiï¿½res
 N1A_enR.pcx N1A_enB.pcx N1A_enN.pcx N1A_enG.pcx N1A_enO.pcx N1A_enV.pcx N1A_enT.pcx N1A_enP.pcx
 N1A_seR.pcx N1A_seB.pcx N1A_seN.pcx N1A_seG.pcx N1A_seO.pcx N1A_seV.pcx N1A_seT.pcx N1A_seP.pcx
 N1A_coR.pcx N1A_coB.pcx N1A_coN.pcx N1A_coG.pcx N1A_coO.pcx N1A_coV.pcx N1A_coT.pcx N1A_coP.pcx
@@ -16470,7 +16470,7 @@ Text 8: "# Campaign type (0 - region map, 1 - generated region map)
 83 152
 183 210
 # Map 1
-Carré de Trèfle
+Carrï¿½ de Trï¿½fle
 S1A_enR.pcx S1A_enB.pcx S1A_enN.pcx S1A_enG.pcx S1A_enO.pcx S1A_enV.pcx S1A_enT.pcx S1A_enP.pcx
 S1A_seR.pcx S1A_seB.pcx S1A_seN.pcx S1A_seG.pcx S1A_seO.pcx S1A_seV.pcx S1A_seT.pcx S1A_seP.pcx
 S1A_coR.pcx S1A_coB.pcx S1A_coN.pcx S1A_coG.pcx S1A_coO.pcx S1A_coV.pcx S1A_coT.pcx S1A_coP.pcx
@@ -16912,7 +16912,7 @@ Val 3: "0"
 Name: "campmap15"
 Path: ""
 Texts count: "9"
-Text 0: "Nouveau Départ"
+Text 0: "Nouveau Dï¿½part"
 Text 1: "NB_bg.pcx"
 Text 2: ""
 Text 3: ""
@@ -16930,22 +16930,22 @@ Text 8: "# Campaign type (0 - region map, 1 - generated region map)
 63 195
 57 46
 # Map 1
-Nouveau Départ A
+Nouveau Dï¿½part A
 NBA_enRe.pcx NBA_enBl.pcx NBA_enBr.pcx NBA_enGr.pcx NBA_enOr.pcx NBA_enVi.pcx NBA_enTe.pcx NBA_enPi.pcx
 NBA_seRe.pcx NBA_seBl.pcx NBA_seBr.pcx NBA_seGr.pcx NBA_seOr.pcx NBA_seVi.pcx NBA_seTe.pcx NBA_sePi.pcx
 NBA_coRe.pcx NBA_coBl.pcx NBA_coBr.pcx NBA_coGr.pcx NBA_coOr.pcx NBA_coVi.pcx NBA_coTe.pcx NBA_coPi.pcx
 # Map 2
-Nouveau Départ B
+Nouveau Dï¿½part B
 NBB_enRe.pcx NBB_enBl.pcx NBB_enBr.pcx NBB_enGr.pcx NBB_enOr.pcx NBB_enVi.pcx NBB_enTe.pcx NBB_enPi.pcx
 NBB_seRe.pcx NBB_seBl.pcx NBB_seBr.pcx NBB_seGr.pcx NBB_seOr.pcx NBB_seVi.pcx NBB_seTe.pcx NBB_sePi.pcx
 NBB_coRe.pcx NBB_coBl.pcx NBB_coBr.pcx NBB_coGr.pcx NBB_coOr.pcx NBB_coVi.pcx NBB_coTe.pcx NBB_coPi.pcx
 # Map 3
-Nouveau Départ C
+Nouveau Dï¿½part C
 NBC_enRe.pcx NBC_enBl.pcx NBC_enBr.pcx NBC_enGr.pcx NBC_enOr.pcx NBC_enVi.pcx NBC_enTe.pcx NBC_enPi.pcx
 NBC_seRe.pcx NBC_seBl.pcx NBC_seBr.pcx NBC_seGr.pcx NBC_seOr.pcx NBC_seVi.pcx NBC_seTe.pcx NBC_sePi.pcx
 NBC_coRe.pcx NBC_coBl.pcx NBC_coBr.pcx NBC_coGr.pcx NBC_coOr.pcx NBC_coVi.pcx NBC_coTe.pcx NBC_coPi.pcx
 # Map 4
-Nouveau Départ D
+Nouveau Dï¿½part D
 NBD_enRe.pcx NBD_enBl.pcx NBD_enBr.pcx NBD_enGr.pcx NBD_enOr.pcx NBD_enVi.pcx NBD_enTe.pcx NBD_enPi.pcx
 NBD_seRe.pcx NBD_seBl.pcx NBD_seBr.pcx NBD_seGr.pcx NBD_seOr.pcx NBD_seVi.pcx NBD_seTe.pcx NBD_sePi.pcx
 NBD_coRe.pcx NBD_coBl.pcx NBD_coBr.pcx NBD_coGr.pcx NBD_coOr.pcx NBD_coVi.pcx NBD_coTe.pcx NBD_coPi.pcx"
@@ -17010,7 +17010,7 @@ Val 3: "0"
 Name: "campmap17"
 Path: ""
 Texts count: "9"
-Text 0: "L'Ascension du Nécromancien"
+Text 0: "L'Ascension du Nï¿½cromancien"
 Text 1: "RN_bg.pcx"
 Text 2: ""
 Text 3: ""
@@ -17028,22 +17028,22 @@ Text 8: "# Campaign type (0 - region map, 1 - generated region map)
 68 185
 78 30
 # Map 1
-L'Ascension du Nécromancien A
+L'Ascension du Nï¿½cromancien A
 RNA_enRe.pcx RNA_enBl.pcx RNA_enBr.pcx RNA_enGr.pcx RNA_enOr.pcx RNA_enVi.pcx RNA_enTe.pcx RNA_enPi.pcx
 RNA_seRe.pcx RNA_seBl.pcx RNA_seBr.pcx RNA_seGr.pcx RNA_seOr.pcx RNA_seVi.pcx RNA_seTe.pcx RNA_sePi.pcx
 RNA_coRe.pcx RNA_coBl.pcx RNA_coBr.pcx RNA_coGr.pcx RNA_coOr.pcx RNA_coVi.pcx RNA_coTe.pcx RNA_coPi.pcx
 # Map 2
-L'Ascension du Nécromancien B
+L'Ascension du Nï¿½cromancien B
 RNB_enRe.pcx RNB_enBl.pcx RNB_enBr.pcx RNB_enGr.pcx RNB_enOr.pcx RNB_enVi.pcx RNB_enTe.pcx RNB_enPi.pcx
 RNB_seRe.pcx RNB_seBl.pcx RNB_seBr.pcx RNB_seGr.pcx RNB_seOr.pcx RNB_seVi.pcx RNB_seTe.pcx RNB_sePi.pcx
 RNB_coRe.pcx RNB_coBl.pcx RNB_coBr.pcx RNB_coGr.pcx RNB_coOr.pcx RNB_coVi.pcx RNB_coTe.pcx RNB_coPi.pcx
 # Map 3
-L'Ascension du Nécromancien C
+L'Ascension du Nï¿½cromancien C
 RNC_enRe.pcx RNC_enBl.pcx RNC_enBr.pcx RNC_enGr.pcx RNC_enOr.pcx RNC_enVi.pcx RNC_enTe.pcx RNC_enPi.pcx
 RNC_seRe.pcx RNC_seBl.pcx RNC_seBr.pcx RNC_seGr.pcx RNC_seOr.pcx RNC_seVi.pcx RNC_seTe.pcx RNC_sePi.pcx
 RNC_coRe.pcx RNC_coBl.pcx RNC_coBr.pcx RNC_coGr.pcx RNC_coOr.pcx RNC_coVi.pcx RNC_coTe.pcx RNC_coPi.pcx
 # Map 4
-L'Ascension du Nécromancien D
+L'Ascension du Nï¿½cromancien D
 RND_enRe.pcx RND_enBl.pcx RND_enBr.pcx RND_enGr.pcx RND_enOr.pcx RND_enVi.pcx RND_enTe.pcx RND_enPi.pcx
 RND_seRe.pcx RND_seBl.pcx RND_seBr.pcx RND_seGr.pcx RND_seOr.pcx RND_seVi.pcx RND_seTe.pcx RND_sePi.pcx
 RND_coRe.pcx RND_coBl.pcx RND_coBr.pcx RND_coGr.pcx RND_coOr.pcx RND_coVi.pcx RND_coTe.pcx RND_coPi.pcx"
@@ -17227,7 +17227,7 @@ C1Amask.pcx
 C1Abord.pcx
 C1Aalph.pcx
 # Map 2
-Le maître de l'île - Sous le Jolly Roger B
+Le maï¿½tre de l'ï¿½le - Sous le Jolly Roger B
 C1Bmask.pcx
 C1Bbord.pcx
 C1Balph.pcx
