@@ -2,51 +2,51 @@
 Prisoner of Doom
 
 ===== Map description =====
-Bidley must capture the town of Zargand in order to save the barbarians' prisoner. If Bidley is defeated in combat, the scenario will be lost. The hero level cap is 12. After victory, Bidley will proceed to the next scenario of the campaign.
+Bidley doit capturer la ville de Zargand afin de sauver le prisonnier des barbares. Si Bidley est vaincu au combat, le scénario sera perdu. Le niveau maximum des héros est de 12. Après la victoire, Bidley passera au scénario suivant de la campagne.
 
 ===== Rumors =====
 
 Name:
 Beer
 Text:
-They say that Erathian landlords water down the beer in their taverns.
+On dit que les taverniers d'Erathia diluent la bière de leurs tavernes.
 
 Name:
 Kilgor
 Text:
-Kilgor misses an eye; it was ripped out by a behemoth.
+Kilgor a perdu un œil; il lui a été arraché par un affreux Béhémoth.
 
 Name:
 Demons
 Text:
-Eeofol's army is preparing to attack Erathia!
+L'armée d'Eeofol se prépare à attaquer Erathia!
 
 ===== Timed events =====
 
 Name:
 Day 1
 Message:
-Bidley disdained the shores of Krewlod—what with the stench of orcs' and goblins' unwashed bodies, their mumbo-jumbo tongue, their complete lack of culture, and their preference for brute force as the solution to any problem. He himself preferred the songs of Erathian bards, the artwork of elven masters, and the fine wines of Jadame. He had all of that back at home in Regna—contrary to the common prejudice which took pirates to be nearly barbarians. It is true that there are plenty of low-brow types among the young and the foolish, who would be easily accepted in a company of Krewlod bruisers. However, there are also plenty of intelligent, refined gentlemen among the captains and admirals.	Bidley left the Shark Chowder Inn, musing. If that drunkard was right and the barbarians had truly captured a powerful wizard, then the sorcerers of Bracada would be very happy, should he be rescued. And this would mean that, on top of a generous reward, the pirates could also earn the right to pillage ships near the shores of Bracada—so long as they left alone the wizards' own shipments, of course. It was worth a shot.	The barbarians were just through with their Festival of Life. As a Regnan native, Bidley could never really get the gist of this celebration. Anyway, Duke Boragus was dead, and an even crueler and shrewder young barbarian lord, Kilgor, was taking his place. Krewlod was always balancing on the edge of anarchy, but right now it was closer than usual. Bidley's fleet was far away, but he didn't have much need of it. Instead, he would gather some bold local fellows, capture one of the nearby Krewlodian forts, and assault Zargand from there. The motley tribes were fine with cutting each other down for no reason at all; for a few coins, they'd be happy to pounce at whoever he told them to.	Bidley stopped a passerby, clearly a local.	“Hey fella, pray tell, where's the closest Krewlod army fort?”	“Straight north by the road,” answered the stranger laconically as he continued on his way.
+Bidley dédaignait les rivages de Krewlod, avec la puanteur des corps sales des orcs et des gobelins, leur langage composé de grognements et autres charabia, leur manque total de culture et leur préférence pour la force brute comme solution à tout problème. Lui-même préférait les chants des bardes d'Erathia, les oeuvres des maîtres elfiques et les fins vins de Jadame. Il avait tout cela chez lui, à Regna, contrairement au préjugé courant qui considérait les pirates comme cousins des orcs. Il est vrai, qu'au sein des jeunes et des imbéciles, ils seraient nombreux à être acceptés au sein d'une compagnie de barbares krewlodiens. Cependant, on trouve aussi de nombreux gentlemen intelligents et raffinés parmi les capitaines et les amiraux. Songeur, Bidley quitta l'auberge de la Chaudrée de Requin. Si cet ivrogne avait raison et que les barbares avaient bel et bien capturé un puissant sorcier, alors les sorciers de Bracada seraient ravis s'il était secouru. Et cela signifierait qu'en plus d'une généreuse récompense, les pirates pourraient également obtenir le droit de piller les navires près des côtes de Bracada - à condition, bien sûr, de laisser tranquilles les cargaisons des sorciers. Le jeu en valait la chandelle. Les barbares venaient de terminer leur Fête de la Vie. Originaire de Regnan, Bidley n'était jamais parvenu à saisir l'essentiel de cette célébration. De toute façon, le duc Boragus était mort, et un jeune seigneur barbare encore plus cruel et rusé, Kilgor, allait prendre sa place. Krewlod était toujours au bord de l'anarchie, mais pour l'instant, elle était plus proche que d'habitude. La flotte de Bidley était loin, mais il n'en avait pas vraiment besoin. Il allait plutôt rassembler quelques courageux habitants du coin, s'emparer d'un des forts krewlodiens voisins et ensuite attaquer Zargand. Les tribus hétéroclites n'avaient aucun scrupule à s'entretuer sans raison; pour quelques pièces, elles se feraient un plaisir de se jeter sur les cibles qu'ils leur donneraient.    Bidley arrêta un passant, visiblement un autochtone. "Hé toi! Dis-moi, s'il te plaît, où est le fort militaire de Krewlod le plus proche?" "Tout droit, au nord par la route", répondit laconiquement l'étranger en continuant son chemin.
 
 Name:
 Day 4
 Message:
-All in all, Bidley thought, he needed to hurry up. Sooner or later the news of their doings would reach the local lords' hairy ears, and they would attempt to roust their unwelcome guests out of the area. Now, swift and determined action would force those lords to surrender and to assist him in besieging Zargand. Of course, once Kilgor's henchmen arrived, anyone who'd helped him would be executed—but if these barbarians are so unscrupulous, they're bound to pay for it sooner or later anyways.
+En fin de compte, pensa Bidley, il fallait se dépêcher. Tôt ou tard, la nouvelle de leurs agissements parviendrait aux velues oreilles des seigneurs locaux, qui tenteraient de chasser leurs hôtes indésirables de la région. Une action rapide et déterminée forcerait désormais ces seigneurs à se rendre et à l'aider à assiéger Zargand. Bien sûr, une fois les hommes de main de Kilgor arrivés, tous ceux qui l'auraient aidé seraient exécutés - mais si ces barbares sont si peu scrupuleux, ils en paieront le prix tôt ou tard de toute façon.
 
 Name:
 Day 8
 Message:
-Scouts report that Krewlod's army holds multiple forts. One is located to the southwest, and the other to the northeast. The magical prison is in the northwest, but it would be foolish to approach it without a powerful army. One should also remember that this prison negates all magic.
+Les éclaireurs rapportent que l'armée de Krewlod détient plusieurs forts. L'un est situé au sud-ouest, l'autre au nord-est. La prison magique se trouve au nord-ouest, mais il serait imprudent de s'en approcher sans une armée puissante. Il faut également se rappeler que dans cette prison les magiciens sont impuissants.
 
 Name:
 Day 11
 Message:
-Bidley had a strange dream last night. He dreamed that he was swimming across the sea, and could see through the water as clearly and distinctly as if he was looking over the horizon. He could also breathe underwater. What could this mean? Were these his nostalgic memories of the seas? Or was it merely a dream?
+La nuit dernière, Bidley fit un étrange rêve. Il rêvait qu'il nageait dans la mer et qu'il pouvait voir à travers l'eau aussi clairement que s'il regardait à l'horizon depuis son bateau. Il pouvait aussi respirer sous l'eau. Que cela pouvait-il bien signifier? Était-ce ses souvenirs nostalgiques de la mer? Ou était-ce simplement un rêve?
 
 Name:
 Day 18
 Message:
-A crewman ran to find Bidley in the morning, handing him a letter that had arrived late last night. The pirate was quite surprised—who would even hink of sending him a letter? However, after unwrapping the parchment, he recognized the handwriting. The message was as succinct as they come:	 “I have some problems. Your dear brother J.”	
+Un membre d'équipage courrait trouver Bidley au matin, lui remettant une lettre arrivée tard la veille. Le pirate fut assez surpris: qui aurait pu songer à lui envoyer une lettre? Pourtant, après avoir déballé le parchemin, il reconnut l'écriture. Le message était on ne peut plus concis: "J'ai quelques problèmes. Votre cher frère J."
 
 ===== Heroes =====
 
@@ -58,25 +58,25 @@ Zargand
 
 (67, 37, 0) ***Seer's Hut***
 Message:
-A priest lives here. He tells you about a pack of troublesome mummies. He doesn't have the strength to expel them himself, so he asks you to destroy the foul creatures.
-Mummies are lurking to the east of the priest's house. Kill them and return.
-The priest is grateful to be rid of the undead. He promises to share his knowledge with you.
+Un prêtre vit ici. Il vous parle d'une bande de momies qui l'ennuie. N'ayant pas la force de les expulser lui-même, il vous demande de détruire ces immondes créatures.
+Les momies rôdent à l'est de la maison du prêtre. Tuez-les et revenez.
+Le prêtre est reconnaissant d'être débarrassé des morts-vivants. Il promet de partager son savoir avec vous.
 
 (45, 36, 0) ***Event***
 Message:
-Bidley notices the traces of numerous wagons: the fort must be close. The only thing left is to catch the guards by surprise.
+Bidley remarque les traces de nombreux chariots: le fort doit être proche. Il ne reste plus qu'à surprendre les gardes.
 
 (54, 14, 0) ***Seer's Hut***
 Message:
-A band of corsairs is hiding here. Their leader was put to the sword by Jabarkas, son of the late Duke Boragus. These days, Jabarkas has tantrum after tantrum because of his father's death. The corsairs would like to join a new cause, but only once their old leader is avenged.
-Jabarkas is still alive and wandering around somewhere.
-Jabarkas's army was defeated and he has been put to shame; he won't show his face around these parts for a while. Are you ready to accept the corsairs into your army?
+Une bande de corsaires se cache ici. Jabarkas, fils du défunt duc Boragus a passé au fil de l'épée leur chef. Depuis la mort de son père, Jabarkas a des crises de colère les unes après les autres. Les corsaires aimeraient rejoindre une nouvelle cause, mais seulement une fois leur ancien chef vengé.
+Jabarkas est toujours en vie et erre quelque part.
+L'armée de Jabarkas a été vaincue et il est maintenant couvert de honte; il ne reviendra pas dans les parages avant un certain temps. Êtes-vous prêt à accueillir les corsaires dans votre armée?
 
 (40, 38, 0) ***Seer's Hut***
 Message:
-Two sorceresses live here. They agree to join your host and back you up with spells—for a fee, of course.
-The sorceresses require 5 gems and 2000 gold, no less.
-Excellent! The sorceresses are ready to join your cause.
+Deux sorcières vivent ici. Elles acceptent de se joindre à votre hôte et de vous prêter main-forte avec des sorts - moyennant finance, bien sûr.
+Les sorcières exigent 5 gemmes et 2 000 pièces d'or; moins, ne sera pas toléré.
+Excellent ! Les sorcières sont prêtes à se joindre à votre cause.
 
 (42, 28, 0) ***Stronghold***
 
