@@ -840,7 +840,7 @@ Text 5: "{Adresse}
 
 Reçoit un bonus de 5% par niveau au pourcentage d'Adresse."
 Text 6: "Corkes"
-Text 7: "Peu d'entre nous voudraient figurer sur la liste des ennemis de Corkes. Ce pirate fait partie des plus fameux et cruels Flibustiers connus à ce jour. La plupart des marchands savent qu'il doivent céder leurs biens plutôt que de s'engager dans un duel perdu d'avance. On le reconnait aisément au bandeau qu'il a sur l'oeil gauche et qu'il ne retire jamais."
+Text 7: "Peu d'entre nous voudraient figurer sur la liste des ennemis de Corkes. Ce pirate fait partie des plus fameux et cruels Flibustiers connus à ce jour. La plupart des marchands savent qu'il doivent céder leurs biens plutôt que de s'engager dans un duel perdu d'avance. On le reconnait aisément au bandeau qu'il a sur l'œil gauche et qu'il ne retire jamais."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -1043,7 +1043,7 @@ Text 5: "{Reconnaissance}
 
 Le champ de vision du Héros augmente de +1, chaque fois que 6 niveau sont atteints."
 Text 6: "Miriam"
-Text 7: "Cette fille traine derrière elle un sombre passé. Pourtant, elle est capable d'apercevoir les obstacles ou d'éventuels ennemis avant tout le monde. Après plusieurs différends avec ses collègues éclaireurs, elle décide de rejoindre une bande de pirates qui la surnommeront plus tard, ""Oeil de Lynx""."
+Text 7: "Cette fille traine derrière elle un sombre passé. Pourtant, elle est capable d'apercevoir les obstacles ou d'éventuels ennemis avant tout le monde. Après plusieurs différends avec ses collègues éclaireurs, elle décide de rejoindre une bande de pirates qui la surnommeront plus tard, ""Œil de Lynx""."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -1507,7 +1507,7 @@ Text 5: "{Hobbits et Grenadiers}
 
 Les Hobbits et les Grenadiers gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 10% à chaque niveau."
 Text 6: "Henrietta"
-Text 7: "Même une hobbit de basse condition originaire du fin fond des forêts d'Eeofol est capable d'exploits lorsqu'une calamité pareille s'abat sur son pays. Ce nouveau monde, dépourvu de toits de chaume, de champs de carottes, ou de vieillards acariâtres, a changé Henrietta, et elle est maintenant prête à le changer elle-même. Le feu Kreegan a réduit sa patrie en cendres et a brûlé son coeur, mais il lui a servi aussi à se forger un mental d'acier."
+Text 7: "Même une hobbit de basse condition originaire du fin fond des forêts d'Eeofol est capable d'exploits lorsqu'une calamité pareille s'abat sur son pays. Ce nouveau monde, dépourvu de toits de chaume, de champs de carottes, ou de vieillards acariâtres, a changé Henrietta, et elle est maintenant prête à le changer elle-même. Le feu Kreegan a réduit sa patrie en cendres et a brûlé son cœur, mais il lui a servi aussi à se forger un mental d'acier."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -1739,7 +1739,7 @@ Text 5: "{Glyptodons et Glyptodons Royaux}
 
 Les Glyptodons et les Glyptodons Royaux gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 3 niveau sont atteints."
 Text 6: "Celestine"
-Text 7: "Parce qu'il avait perdu son bosquet, le druide AvLeean se mit à parcourir le monde, transmettant son savoir à qui le voulait bien. À Tatalia, il laissa derrière lui les secrets de la magie naturelle à sa fille Mirlanda, tandis qu'à Eeofol naquit son autre fille Célestine, à qui il légua une autre facette de son talent. Celestine est capable d'apprivoiser des animaux sauvages, en leur offrant douceur et amitié, plutôt que les mauvais traitements des dresseurs tataliens."
+Text 7: "Parce qu'il avait perdu son bosquet, le druide AvLeean se mit à parcourir le monde, transmettant son savoir à qui le voulait bien. À Tatalia, il laissa derrière lui les secrets de la magie naturelle à sa fille Mirlanda, tandis qu'à Eeofol naquit son autre fille Celestine, à qui il légua une autre facette de son talent. Celestine est capable d'apprivoiser des animaux sauvages, en leur offrant douceur et amitié, plutôt que les mauvais traitements des dresseurs tataliens."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -1913,7 +1913,7 @@ Text 5: "{Pièges}
 
 Lance Pièges avec des dégâts augmentés de 10% tous les N niveau du Héros, où N est le rang de la créature ciblée."
 Text 6: "Victoria"
-Text 7: "Il existe une magie qui permet de ramener un mort à la vie, mais si un soldat est mortellement touché après être passé sur une mine, peut-il compter sur quelqu'un pour lui venir en aide? La fascination de Victoria pour les mines heurtera les profondes convictions de ses collègues, mais elle continuera de perfectionner cette arme. Après sa rencontre avec Floribert, l'artificière fera un autre usage de ses connaissances en ingénierie pour concevoir des membres mécaniques afin d'aider au mieux les guerriers estropiés."
+Text 7: "Il existe une magie qui permet de ramener un mort à la vie, mais si un soldat est mortellement touché après être passé sur une mine, peut-il compter sur quelqu'un pour lui venir en aide ? La fascination de Victoria pour les mines heurtera les profondes convictions de ses collègues, mais elle continuera de perfectionner cette arme. Après sa rencontre avec Floribert, l'artificière fera un autre usage de ses connaissances en ingénierie pour concevoir des membres mécaniques afin d'aider au mieux les guerriers estropiés."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -2029,7 +2029,7 @@ Text 5: "{Archerie}
 
 Reçoit un bonus de 5% par niveau au pourcentage d'Archerie"
 Text 6: "Murdoch"
-Text 7: "Murdoch est devenu soldat professionnel uniquement pour l'argent, et accessoirement pour la célébrité. Comme pour prolonger cette philosophie de vie, il créera par la suite une compagnie de mercenaires, avec lesquels il partira explorer les terres de Jadame. Qui sait quelle sera la prochaine étape de ce destin atypique?"
+Text 7: "Murdoch est devenu soldat professionnel uniquement pour l'argent, et accessoirement pour la célébrité. Comme pour prolonger cette philosophie de vie, il créera par la suite une compagnie de mercenaires, avec lesquels il partira explorer les terres de Jadame. Qui sait quelle sera la prochaine étape de ce destin atypique ?"
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -2706,7 +2706,7 @@ Battre en Retraite
 #154
 Reddition (Coût: %d pièces d'Or)
 #155
-Le combat a été trop long, et l'ennemi doit battre en retraite ou se rendre. Quel sera son choix?...
+Le combat a été trop long, et l'ennemi doit battre en retraite ou se rendre. Quel sera son choix ?...
 #156
 %d%% de ces créatures désirent vous rejoindre.
 #157
@@ -2715,9 +2715,9 @@ En échange de %d pièces d'Or.""
 #158
 ""{Recrues}
 
-Une partie des %s de ce groupe recherchent l'aventure et souhaitent vous rejoindre. Acceptez-vous leur offre?""
+Une partie des %s de ce groupe recherchent l'aventure et souhaitent vous rejoindre. Acceptez-vous leur offre ?""
 # 159
-%d des %d %s sont d'accord pour rejoindre votre armée en échange de %d pièces d'Or. Ce Marché vous convient-il?
+%d des %d %s sont d'accord pour rejoindre votre armée en échange de %d pièces d'Or. Ce Marché vous convient-il ?
 #160
 Passer son tour pour obtenir une Invulnérabilité Temporaire
 #161
@@ -2759,7 +2759,7 @@ La Nuée Mystique a déjà été utilisée cette semaine.
 #175
 %s a suffisamment de Points de Magie et la Nuée Mystique ne peut lui en fournir davantage.
 #176
-Voulez-vous utiliser Nuée Mystique pour doubler les Points de Magie de %s?
+Voulez-vous utiliser Nuée Mystique pour doubler les Points de Magie de %s ?
 #177
 Not used
 #178
@@ -2771,7 +2771,7 @@ Disponible : %d pièces d'Or.
 #181
 (Requiert %d pièces d'Or)
 #182
-""Vous tombez par hasard sur une mine abandonnée. La mine semble être infestée de %s. Voulez-vous entrer?""
+""Vous tombez par hasard sur une mine abandonnée. La mine semble être infestée de %s. Voulez-vous entrer ?""
 #183
 ""Après avoir éliminé les %s. Vous prenez le contrôle de la mine et relancez sa production.""
 #184
@@ -3034,7 +3034,7 @@ Vous tombez par hasard sur un Héros qui a installé son camp au milieu de nulle
 #300
 ""%s s'aperçoit que les chances sont contre lui.
 
-Souhaitez-vous capituler en payant %d pièces d'Or afin de sauver votre Héros et son armée?""
+Souhaitez-vous capituler en payant %d pièces d'Or afin de sauver votre Héros et son armée ?""
 #301
 Les %s restaurent %d points de vie des %s.
 #302
@@ -3493,9 +3493,9 @@ Un Lieu de Combat ne peut être placé que sur une carte dont le Mode Arène est
 Le Mode Arène requiert que la carte soit conçue pour un duel unique entre 2 Héros avec une préparation préliminaire. Il faut placer au moins un Lieu de Combat sur la carte pour valider le Mode Arène.
 ""
 # 86
-Le Mode Arène vient d'être activé. Dans ce Mode, la carte doit être conçue pour un duel unique entre 2 Héros avec une préparation préliminaire. Il sera impossible d'utiliser cette carte pour une partie classique d'Heroes 3 Horn of the Abyss. Les conditions de Victoire et défaite seront réinitialisées. Êtes-vous sûr de vouloir continuer?
+Le Mode Arène vient d'être activé. Dans ce Mode, la carte doit être conçue pour un duel unique entre 2 Héros avec une préparation préliminaire. Il sera impossible d'utiliser cette carte pour une partie classique d'Heroes 3 Horn of the Abyss. Les conditions de Victoire et défaite seront réinitialisées. Êtes-vous sûr de vouloir continuer ?
 # 87
-Le Mode Arène vient d'être désactivé. Tous les Lieux de Combat seront supprimés. Êtes-vous sûr de vouloir continuer?
+Le Mode Arène vient d'être désactivé. Tous les Lieux de Combat seront supprimés. Êtes-vous sûr de vouloir continuer ?
 # 88
 Nombre de tours Maxi des combats
 # 89
@@ -3708,11 +3708,11 @@ Interdire le lancement d'une nouvelle version
 # 187
 Cette carte a été créée pour HotA %d.%d.%d. L'auteur empêche de lancer la carte sur une version plus récente d'HotA. Vous pouvez modifier celle-ci, mais sa version d'HotA sera mise à jour à %d.%d.%d et elle pourrait devenir injouable.
 # 188
-La version de la carte sera mise à jour et il sera impossible de l'ouvrir dans une ancienne version de l'éditeur d'HotA. Êtes-vous sûr de vouloir sauvegarder cette carte?
+La version de la carte sera mise à jour et il sera impossible de l'ouvrir dans une ancienne version de l'éditeur d'HotA. Êtes-vous sûr de vouloir sauvegarder cette carte ?
 # 189
 Vous ne pouvez pas placer plus de 64 500 objets sur la carte.
 # 190
-Enregistrer les modifications apportées à %s? La version de la carte sera mise à jour et il sera impossible de l'ouvrir dans les anciennes versions de l'éditeur de cartes d'HotA."
+Enregistrer les modifications apportées à %s ? La version de la carte sera mise à jour et il sera impossible de l'ouvrir dans les anciennes versions de l'éditeur de cartes d'HotA."
 Text 8: ""
 Has FilS: "false"
 Vals count: "4"
@@ -3862,7 +3862,7 @@ Les événements placés sur la carte ne peuvent être déclenchés que par les 
 
 27
 -1
-""Oeil du Magicien
+""Œil du Magicien
 Sert juste à indiquer les portions de carte accessibles depuis la Hutte du Magicien.""
 
 28
@@ -3910,7 +3910,7 @@ Ou de placer des Obélisques pour une localisation aléatoire du Graal.""
 37
 -1
 ""Hutte du Magicien
-Une visite à la Hutte du Magicien permet de voir ce qui se passe autour des Oeil(s) du Magicien.""
+Une visite à la Hutte du Magicien permet de voir ce qui se passe autour des Œil(s) du Magicien.""
 
 38
 -1
@@ -5008,7 +5008,7 @@ Type : Mineure
 
 5
 34
-""Bouclier Coeur de Lion
+""Bouclier Cœur de Lion
 Type : Mineure
 +4 en Attaque, Défense, Magie et Savoir (Emplacement : Main Gauche)""
 
@@ -5026,7 +5026,7 @@ Type : Mineure
 
 5
 37
-""Oeil du Dragon Calme
+""Œil du Dragon Calme
 Type : Précieux
 +1 en Attaque et Défense (Emplacement : Anneau)""
 
@@ -5074,7 +5074,7 @@ Type : Mineure
 
 5
 45
-""Oeil de Tranquillité
+""Œil de Tranquillité
 Type : Précieux
 +1 point de Chance et de Moral (Emplacement : Anneau)""
 
@@ -5410,7 +5410,7 @@ Immunité totale contre le sort Frénésie. (Emplacement : Cou)""
 
 5
 101
-""Troisième Oeil
+""Troisième Œil
 Type : Majeur
 Immunité totale contre le sort Cécité. (Emplacement : Cou)""
 
@@ -5586,7 +5586,7 @@ Artefacts requis pour créer l'Alliance Magique :
 - Collier de Béatitude
 - Armure Miraculeuse
 - Sandalles Sacrées
-- Bouclier Coeur de Lion""
+- Bouclier Cœur de Lion""
 
 5
 130
@@ -5639,11 +5639,11 @@ Artefacts requis pour créer Mandat du Prime Dragon :
 - Armure Dragon
 - Collier Dent de Dragon
 - Lame Ardente
-- Oeil du Dragon Calme
+- Œil du Dragon Calme
 - Bouclier Dragon
 - Tabard Dragon
 - Jambières Dragon
-- Oeil de Tranquillité""
+- Œil de Tranquillité""
 5
 135
 ""Tonnerre des Titans
@@ -5665,7 +5665,7 @@ Artefacts requis pour créer le Bicorne d'Amiral :
 5
 137
 ""Arc d'Archer d'Élite
-En plus des propriétés de ses composants, les unités sont capables d'utiliser leurs Arcs au coeur de la mêlée et même par dessus celle-ci. Annule les pénalités appliquées à la compétance Archerie concernant tous les obstacles, y compris les créatures ennemies. (Emplacement : Divers)
+En plus des propriétés de ses composants, les unités sont capables d'utiliser leurs Arcs au cœur de la mêlée et même par dessus celle-ci. Annule les pénalités appliquées à la compétance Archerie concernant tous les obstacles, y compris les créatures ennemies. (Emplacement : Divers)
 Artefacts requis pour créer l'Arc d'Archer d'Élite :
 - Arc Elfique
 - Corde Immaculée
@@ -5849,7 +5849,7 @@ Demeure du Béhémoth.""
 17
 2
 ""Souche Maudite
-Demeure de l'Oeil Maléfique.""
+Demeure de l'Œil Maléfique.""
 
 17
 3
@@ -7078,13 +7078,13 @@ Quantité : 16-25""
 
 54
 74
-""Oeil Maléfique
+""Œil Maléfique
 créature rang 3 - Donjon
 Quantité : 12-25""
 
 54
 75
-""Oeil Démoniaque
+""Œil Démoniaque
 créature rang 3 Sup. - Donjon
 Quantité : 12-20""
 
@@ -10489,7 +10489,7 @@ Text 5: ""
 Text 6: ""
 Text 7: "{Fonderie}
 
-Souhaitez-vous acheter un Canon?"
+Souhaitez-vous acheter un Canon ?"
 Text 8: ""
 Has FilS: "false"
 Vals count: "4"
@@ -10755,8 +10755,8 @@ Texts count: "9"
 Text 0: ""
 Text 1: "Éliminer tous les monstres errants de la carte."
 Text 2: "Survivre jusqu'à... mois %d, semaine %d, jour %d."
-Text 3: "Vous avez vaincu tous les monstres errants de ce monde!"
-Text 4: "Vous avez survécu au-delà du temps imparti!"
+Text 3: "Vous avez vaincu tous les monstres errants de ce monde !"
+Text 4: "Vous avez survécu au-delà du temps imparti !"
 Text 5: ""
 Text 6: ""
 Text 7: ""
@@ -11775,7 +11775,7 @@ Texts count: "9"
 Text 0: ""
 Text 1: "Temple de la Mer"
 Text 2: "seatempl.wav"
-Text 3: "Vous approchez de l'entrée du Temple de la Mer, un lieu réputé dangereux pour les simples mortels. Allez-vous défier les gardiens?"
+Text 3: "Vous approchez de l'entrée du Temple de la Mer, un lieu réputé dangereux pour les simples mortels. Allez-vous défier les gardiens ?"
 Text 4: "Ce Temple de la Mer autrefois illustre est abandonné et désert aujourd'hui."
 Text 5: ""
 Text 6: ""
@@ -11897,7 +11897,7 @@ Texts count: "9"
 Text 0: ""
 Text 1: "Pension"
 Text 2: "mansionv.wav"
-Text 3: "Une ancienne Pension dont la beauté a été préservée se dresse devant vous. Pas le moindre signe de vie par ici. Allez-vous y entrer?"
+Text 3: "Une ancienne Pension dont la beauté a été préservée se dresse devant vous. Pas le moindre signe de vie par ici. Allez-vous y entrer ?"
 Text 4: "Vous pénêtrez dans une agréable maison pour découvrir que cette ancienne Pension est froide et vide."
 Text 5: ""
 Text 6: ""
@@ -11958,7 +11958,7 @@ Texts count: "9"
 Text 0: ""
 Text 1: "Abri"
 Text 2: ""
-Text 3: "Vous vous tenez devant une bâtisse recouverte de mousse d'où s'échappe un léger clapotement d'eau. Allez-vous inspecter les lieux?"
+Text 3: "Vous vous tenez devant une bâtisse recouverte de mousse d'où s'échappe un léger clapotement d'eau. Allez-vous inspecter les lieux ?"
 Text 4: "Rien de Précieux dans cet Abri. Quelqu'un est passé avant vous."
 Text 5: ""
 Text 6: ""
@@ -12019,7 +12019,7 @@ Texts count: "9"
 Text 0: ""
 Text 1: "Lanternon"
 Text 2: "REDTWRVS.wav"
-Text 3: "Des Oiseaux de Feu tout prêts à vous servir sont retenus captifs ici. Désirez-vous attaquer les gardiens?"
+Text 3: "Des Oiseaux de Feu tout prêts à vous servir sont retenus captifs ici. Désirez-vous attaquer les gardiens ?"
 Text 4: "Autrefois, plusieurs Oiseaux de Feu étaient retenus captifs dans cette Tour, mais à présent l'endroit est désert."
 Text 5: ""
 Text 6: ""
@@ -12080,7 +12080,7 @@ Texts count: "9"
 Text 0: ""
 Text 1: "Tour Noire"
 Text 2: "BLCKTWRS.wav"
-Text 3: "Vous parvenez jusqu'à un édifice hanté par des Dragons qui ont pour habitude de saccager les terres avoisinantes. Désirez-vous attaquer les gardiens?"
+Text 3: "Vous parvenez jusqu'à un édifice hanté par des Dragons qui ont pour habitude de saccager les terres avoisinantes. Désirez-vous attaquer les gardiens ?"
 Text 4: "Cette Tour abritait jadis des Dragons, mais elle est vide et sans le moindre intérêt pour vous."
 Text 5: ""
 Text 6: ""
@@ -12141,7 +12141,7 @@ Texts count: "9"
 Text 0: ""
 Text 1: "Tour d'Ivoire"
 Text 2: "IVORYTOW.wav"
-Text 3: "Vous arrivez devant une Tour occupée par des Mages. Ces derniers ne semblent pas disposer à libérer leurs prisonniers. Prendre d'assaut la Tour est donc la seule solution pour vous faire de nouveaux alliés. Souhaitez-vous tenter votre chance?"
+Text 3: "Vous arrivez devant une Tour occupée par des Mages. Ces derniers ne semblent pas disposer à libérer leurs prisonniers. Prendre d'assaut la Tour est donc la seule solution pour vous faire de nouveaux alliés. Souhaitez-vous tenter votre chance ?"
 Text 4: "Vous entrez dans la Tour d'Ivoire, mais celle-ci est désespérement vide."
 Text 5: ""
 Text 6: ""
@@ -12202,7 +12202,7 @@ Texts count: "9"
 Text 0: ""
 Text 1: "Cimetière"
 Text 2: "CEMETRY.wav"
-Text 3: "Ce curieux Cimetière exerce sur vous une attirance particulière. Voulez-vous entrer et procéder à une fouille?"
+Text 3: "Ce curieux Cimetière exerce sur vous une attirance particulière. Voulez-vous entrer et procéder à une fouille ?"
 Text 4: "Sur vos ordres, vos troupes parcourent le Cimetière de long en large à la recherche de vestiges, mais sans succès. Votre moral s'en trouve affecté."
 Text 5: "après avoir défait les morts-vivants, vous fouillez le Cimetière, et finissez par trouver un Trésor."
 Text 6: ""
@@ -12386,9 +12386,9 @@ Texts count: "9"
 Text 0: ""
 Text 1: "Ruines"
 Text 2: "RUINSVIS.wav"
-Text 3: "Au hasard d'un chemin, vous tombez sur une très ancienne construction, d'où émanent craquements et grincements au combien inquiétants. Ces murs et cette tour tremblante menacent de s'écrouler. Désirez-vous explorer ces vieilles Ruines?"
+Text 3: "Au hasard d'un chemin, vous tombez sur une très ancienne construction, d'où émanent craquements et grincements au combien inquiétants. Ces murs et cette tour tremblante menacent de s'écrouler. Désirez-vous explorer ces vieilles Ruines ?"
 Text 4: "Un vent fort souffle mélodiquement à l'intérieur de ces Ruines, mais vous ne trouvez absolument rien à part du sable gris. Vous en profitez pour fureter au milieu de ces vieux décombres."
-Text 5: "Comme vous tenez à avoir une vue d'ensemble de ces Ruines, vous décidez d'entasser plusieurs Os imposants pour vous aider à grimper jusqu'en haut de la tour. Vous y découvrez tout un tas de pièces anciennes, et vous en profitez pour jeter un coup d'oeil alentour."
+Text 5: "Comme vous tenez à avoir une vue d'ensemble de ces Ruines, vous décidez d'entasser plusieurs Os imposants pour vous aider à grimper jusqu'en haut de la tour. Vous y découvrez tout un tas de pièces anciennes, et vous en profitez pour jeter un coup d'œil alentour."
 Text 6: ""
 Text 7: "# Precise guard stack setup
 1
@@ -13183,7 +13183,7 @@ Path: ""
 Texts count: "9"
 Text 0: ""
 Text 1: "Sabot des Enfers"
-Text 2: "Durant une nuit mouvementée, vous entendez des sabots qui claquent. Vous jetez un coup d'oeil autour de vous et apercevez la face d'un démon. Ce dernier fonce sur vous et tente de vous encorner. Vous repoussez l'assaillant qui perd un de ses Sabots."
+Text 2: "Durant une nuit mouvementée, vous entendez des sabots qui claquent. Vous jetez un coup d'œil autour de vous et apercevez la face d'un démon. Ce dernier fonce sur vous et tente de vous encorner. Vous repoussez l'assaillant qui perd un de ses Sabots."
 Text 3: "L'ennemi a Sabot des Enfers -1"
 Text 4: ""
 Text 5: ""
@@ -13276,7 +13276,7 @@ Path: ""
 Texts count: "9"
 Text 0: ""
 Text 1: "Bague de Privation"
-Text 2: "Vous faites étape à une auberge pour déjeuner, et vous demandez au gérant qu'il vous prépare des oeufs au plat. À la fin du repas vous règlez la note, mais à court de monnaie l'aubergiste vous remet une Bague."
+Text 2: "Vous faites étape à une auberge pour déjeuner, et vous demandez au gérant qu'il vous prépare des œufs au plat. À la fin du repas vous règlez la note, mais à court de monnaie l'aubergiste vous remet une Bague."
 Text 3: "L'ennemi a Bague de Privation -1"
 Text 4: ""
 Text 5: ""
@@ -15547,7 +15547,7 @@ Text 6: ""
 Text 7: ""
 Text 8: """{Lampe Orientale}
 
-Une fumée blanche s'échappe de la Lampe et se change en plusieurs Génies majestueux. """"Oh ! Seriez-vous notre nouveau maître? Sachez que nous ne travaillons pas avec des baguettes magiques et que nous n'exauçons aucun souhait. Mais vous pouvez compter sur notre loyauté""""."""
+Une fumée blanche s'échappe de la Lampe et se change en plusieurs Génies majestueux. """"Oh ! Seriez-vous notre nouveau maître ? Sachez que nous ne travaillons pas avec des baguettes magiques et que nous n'exauçons aucun souhait. Mais vous pouvez compter sur notre loyauté""""."""
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -15749,7 +15749,7 @@ Text 6: ""
 Text 7: ""
 Text 8: """{Puits Artésien}
 
-Voilà un bel endroit pour faire halte cette nuit, et nul doute que demain vos troupes seront bien reposées. Souhaitez-vous y passer la nuit?""
+Voilà un bel endroit pour faire halte cette nuit, et nul doute que demain vos troupes seront bien reposées. Souhaitez-vous y passer la nuit ?""
 (+1000 points de mouvement au prochain tour, ajoutés aux points restants)
 ""{Puits Artésien}
 
@@ -15803,7 +15803,7 @@ Text 7: ""
 Text 8: """{Autel des Abysses}
 
 Vous voilà à quelque distance d'un ancien autel profondément enraciné dans le sol, au-dessus duquel est suspendu un Artefact connu pour sa grande puissance. Plusieurs Haspids rôdent autour de l'autel, ce qui vous laisse à penser qu'ils sont là pour protèger l'objet magique.
-Voulez-vous affronter les haspids?""
+Voulez-vous affronter les haspids ?""
 ""{Autel des Abysses}
 
 Vous voilà à quelque distance d'un ancien autel profondément enraciné dans le sol, au-dessus duquel est suspendu un Artefact connu pour sa grande puissance. Plusieurs Haspids rôdent autour de l'autel, ce qui vous laisse à penser qu'ils sont là pour protèger l'objet magique. Malheureusement, votre besace étant pleine, vous ne pouvez pas emporter l'Artefact avec vous.""
@@ -15977,7 +15977,7 @@ Text 8: """{Laboratoire de l'Alchimiste}
 
 Visiting text (not used).""
 ""Ce Laboratoire vous permet d'échanger de précieuses ressources entre elles, au ratio de 1 pour 1. Pour activer le processus de transmutation, sélectionnez les ressources à échanger.""
-""L'opération s'est bien déroulée, et vos nouvelles ressources sont prêtes. Avez-vous d'autres ressources à échanger?""
+""L'opération s'est bien déroulée, et vos nouvelles ressources sont prêtes. Avez-vous d'autres ressources à échanger ?""
 ""Ressources obtenues après transmutation""
 ""Ordre de transmuter : obtenir %d %s de %s pour %d %s de %s.""
 Transmuter"
@@ -16033,7 +16033,7 @@ Text 8: """{Pionnier}
 (Réduit la pénalité de mouvement sur terrain Aride de 50% jusqu'à la fin de la semaine)
 ""{Pionnier}
 
-""""Ah, mais revoilà ma tente. Voila que nous tournons en rond maintenant? J'ai peut-être commis quelque erreur de repérage,"""" dit l'homme en haussant les épaules."""
+""""Ah, mais revoilà ma tente. Voila que nous tournons en rond maintenant ? J'ai peut-être commis quelque erreur de repérage,"""" dit l'homme en haussant les épaules."""
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -20152,10 +20152,10 @@ Edit...
 # 171
 Create Copy...
 # 172
-Do you really want to delete all events? You won't be able to restore them!
+Do you really want to delete all events ? You won't be able to restore them !
 # 173
 
-Do you really want to delete this event? You won't be able to restore it!
+Do you really want to delete this event ? You won't be able to restore it !
 # 174
 Extended Event
 # 175
