@@ -868,8 +868,8 @@ Text 4: "Artillery Bonus: Canon"
 Text 5: "{Canon}
 
 Augmente l'Attaque et la Défense des Canons de 20% à chaque fois que 6 niveau sont atteints."
-Text 6: "Jeremy"
-Text 7: "Frère du légendaire Bidley. Pas aussi strict ou chanceux, Jeremy aime s'amuser, l'alcool et les jolies femmes. Il est adroit avec les armes et collectionne toutes les nouvelles inventions. Le bruit des cannons est plus agréable pour lui que n'importe quelle musique. On dit qu'il est capable de toucher une mouette à 100 pieds avec un Canon."
+Text 6: "Jérémy"
+Text 7: "Frère du légendaire Bidley. Pas aussi strict ou chanceux, Jérémy aime s'amuser, l'alcool et les jolies femmes. Il est adroit avec les armes et collectionne toutes les nouvelles inventions. Le bruit des cannons est plus agréable pour lui que n'importe quelle musique. On dit qu'il est capable de toucher une mouette à 100 pieds avec un Canon."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -1738,8 +1738,8 @@ Text 4: "Creature Bonus: Glyptodons"
 Text 5: "{Glyptodons et Glyptodons Royaux}
 
 Les Glyptodons et les Glyptodons Royaux gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 3 niveau sont atteints."
-Text 6: "Celestine"
-Text 7: "Parce qu'il avait perdu son bosquet, le druide AvLeean se mit à parcourir le monde, transmettant son savoir à qui le voulait bien. À Tatalia, il laissa derrière lui les secrets de la magie naturelle à sa fille Mirlanda, tandis qu'à Eeofol naquit son autre fille Celestine, à qui il légua une autre facette de son talent. Celestine est capable d'apprivoiser des animaux sauvages, en leur offrant douceur et amitié, plutôt que les mauvais traitements des dresseurs tataliens."
+Text 6: "Célestine"
+Text 7: "Parce qu'il avait perdu son bosquet, le druide AvLeean se mit à parcourir le monde, transmettant son savoir à qui le voulait bien. À Tatalia, il laissa derrière lui les secrets de la magie naturelle à sa fille Mirlanda, tandis qu'à Eeofol naquit son autre fille Célestine, à qui il légua une autre facette de son talent. Célestine est capable d'apprivoiser des animaux sauvages, en leur offrant douceur et amitié, plutôt que les mauvais traitements des dresseurs tataliens."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
