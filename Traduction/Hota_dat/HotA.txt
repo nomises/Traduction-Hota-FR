@@ -868,8 +868,8 @@ Text 4: "Artillery Bonus: Canon"
 Text 5: "{Canon}
 
 Augmente l'Attaque et la Défense des Canons de 20% à chaque fois que 6 niveau sont atteints."
-Text 6: "Jérémy"
-Text 7: "Frère du légendaire Bidley. Pas aussi strict ou chanceux, Jérémy aime s'amuser, l'alcool et les jolies femmes. Il est adroit avec les armes et collectionne toutes les nouvelles inventions. Le bruit des cannons est plus agréable pour lui que n'importe quelle musique. On dit qu'il est capable de toucher une mouette à 100 pieds avec un Canon."
+Text 6: "Jeremy"
+Text 7: "Frère du légendaire Bidley. Pas aussi strict ou chanceux, Jeremy aime s'amuser, l'alcool et les jolies femmes. Il est adroit avec les armes et collectionne toutes les nouvelles inventions. Le bruit des cannons est plus agréable pour lui que n'importe quelle musique. On dit qu'il est capable de toucher une mouette à 100 pieds avec un Canon."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
