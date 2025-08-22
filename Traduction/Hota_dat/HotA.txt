@@ -259,8 +259,8 @@ Texts count: "9"
 Text 0: ""
 Text 1: "sorc"
 Text 2: "cpriest.def"
-Text 3: "Sorciêre des mers"
-Text 4: "Sorciêres des mers"
+Text 3: "Sorcière des mers"
+Text 4: "Sorcières des mers"
 Text 5: ""
 Text 6: ""
 Text 7: ""
@@ -835,10 +835,10 @@ Text 0: ""
 Text 1: "#HPLP01.pcx"
 Text 2: "#HPLP01s.pcx"
 Text 3: "Adresse"
-Text 4: "Secondary Skill Bonus: Baliste"
+Text 4: "Secondary Skill Bonus: Orientation"
 Text 5: "{Adresse}
 
-reçoit un bonus de 5% par niveau au pourcentage d'Adresse."
+Reçoit un bonus de 5% par niveau au pourcentage d'Adresse."
 Text 6: "Corkes"
 Text 7: "Peu d'entre nous voudraient figurer sur la liste des ennemis de Corkes. Ce pirate fait partie des plus fameux et cruels Flibustiers connus à ce jour. La plupart des marchands savent qu'il doivent céder leurs biens plutôt que de s'engager dans un duel perdu d'avance. On le reconnait aisément au bandeau qu'il a sur l'oeil gauche et qu'il ne retire jamais."
 Text 8: ""
@@ -867,9 +867,9 @@ Text 3: "Canon"
 Text 4: "Artillery Bonus: Canon"
 Text 5: "{Canon}
 
-Augmente l'Attaque et la Défense des Canons de 20% à chaque fois que 6 niveaux sont atteints."
+Augmente l'Attaque et la Défense des Canons de 20% à chaque fois que 6 niveau sont atteints."
 Text 6: "Jeremy"
-Text 7: "Frère du légendaire Bidley. Pas aussi strict ou chanceux, Jeremy aime s'amuser, les alcools et les jolies femmes. Il est adroit avec les armes et collectionne toutes les nouvelles inventions. Le bruit des cannons est plus agréable pour lui que n'importe quelle musique. On dit qu'il est capable de toucher une mouette à 100 pieds avec un Canon."
+Text 7: "Frère du légendaire Bidley. Pas aussi strict ou chanceux, Jeremy aime s'amuser, l'alcool et les jolies femmes. Il est adroit avec les armes et collectionne toutes les nouvelles inventions. Le bruit des cannons est plus agréable pour lui que n'importe quelle musique. On dit qu'il est capable de toucher une mouette à 100 pieds avec un Canon."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -896,9 +896,9 @@ Text 3: "Dracs"
 Text 4: "Creature Bonus: Dracs"
 Text 5: "{Dracs et Dracs Mordorés}
 
-Les Dracs et les Dracs Mordorés gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 4 niveaux sont atteints."
+Les Dracs et les Dracs Mordorés gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 4 niveau sont atteints."
 Text 6: "Illor"
-Text 7: "En conflit avec sa famille qui ne supportait plus ses caprices et ses airs prêtentieux, Illor quitta son pays pour se consacrer à sa passion pour le ciel et ses créatures volantes. Plus tard, il s'engagea à bord d'un vaisseau pirate, mais fût rapidement déconsidéré par l'ensemble de l'équipage. abandonné sur une île habitée par des rapaces géants, Illor passera de longues années à tenter d'apprivoiser ces Oiseaux."
+Text 7: "En conflit avec sa famille qui ne supportait plus ses caprices et ses airs prêtentieux, Illor quitta son pays pour se consacrer à sa passion pour le ciel et ses créatures volantes. Plus tard, il s'engagea à bord d'un vaisseau pirate, mais fût rapidement déconsidéré par l'ensemble de l'équipage. Abandonné sur une île habitée par des rapaces géants, Illor passera de longues années à tenter d'apprivoiser ces Oiseaux."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -925,7 +925,7 @@ Text 3: "Matelots"
 Text 4: "Creature Bonus: Matelots"
 Text 5: "{Matelots et Marins}
 
-Les Matelots et les Marins gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 2 niveaux sont atteints."
+Les Matelots et les Marins gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 2 niveau sont atteints."
 Text 6: "Derek"
 Text 7: "Derek était esclave dans les galères. Il déclencha une révolte avec d'autres captifs, et après avoir éliminé ses persécuteurs il s'empara d'un navire. dès lors avec ses amis, il rejoint les rangs de la piraterie. Derek est différent des autres Capitaines car il est opposé à tout châtiment corporel, privilégiant ainsi le travail en équipe."
 Text 8: ""
@@ -983,7 +983,7 @@ Text 3: "Pirates"
 Text 4: "Creature Bonus: Pirates"
 Text 5: "{Pirates, Corsaires et Flibustiers}
 
-Les Pirates, les Corsaires et les Flibustiers gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 3 niveaux sont atteints."
+Les Pirates, les Corsaires et les Flibustiers gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 3 niveau sont atteints."
 Text 6: "Anabel"
 Text 7: "Tous les pirates savent qu'il n'existe pas de femme plus sournoise et dangereuse qu'Anabel. Son père faisait partie de ces pirates qui aimaient la cruauté au point qu'elle en devenait un vice, et sa fille a hérité du même caractère. Les hommes sont capables de repousser leurs limites tant Anabel est un exemple mêlant grâce et bravoure."
 Text 8: ""
@@ -1014,7 +1014,7 @@ Text 5: "{Nymphes et Océanides}
 
 Les Nymphes et les Océanides gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 10% à chaque niveau après le 1er."
 Text 6: "Cassiopeia"
-Text 7: "On raconte que Cassiopeia était la maîtresse d'un mage, et qu'elle fût la victime d'une de ses expériences. Il est probable qu'on ne puisse jamais changer une âme humaine en Nymphe. Mais toujours est-il que les Nymphes en général considèrent Cassiopeia comme leur égale. Et c'est volontiers qu'elles se battent à ses cétés."
+Text 7: "On raconte que Cassiopeia était la maîtresse d'un mage, et qu'elle fût la victime d'une de ses expériences. Il est probable qu'on ne puisse jamais changer une âme humaine en Nymphe. Mais toujours est-il que les Nymphes en général considèrent Cassiopeia comme leur égale. Et c'est volontiers qu'elles se battent à ses côtés."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -1041,9 +1041,9 @@ Text 3: "Reconnaissance"
 Text 4: "Secondary Skill Bonus: Reconnaissance"
 Text 5: "{Reconnaissance}
 
-Le champ de vision du Héros augmente de +1, chaque fois que 6 niveaux sont atteints."
+Le champ de vision du Héros augmente de +1, chaque fois que 6 niveau sont atteints."
 Text 6: "Miriam"
-Text 7: "Cette fille traine derrière elle un sombre passé. Pourtant, elle est capable d'apercevoir les obstacles ou d'éventuels ennemis avant tout le monde. après plusieurs différends avec ses collègues éclaireurs, elle décide de rejoindre une bande de pirates qui la surnommeront plus tard, ""Oeil de Lynx""."
+Text 7: "Cette fille traine derrière elle un sombre passé. Pourtant, elle est capable d'apercevoir les obstacles ou d'éventuels ennemis avant tout le monde. Après plusieurs différends avec ses collègues éclaireurs, elle décide de rejoindre une bande de pirates qui la surnommeront plus tard, ""Oeil de Lynx""."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -1066,11 +1066,11 @@ Texts count: "9"
 Text 0: ""
 Text 1: "#HPLP04.pcx"
 Text 2: "#HPLP04s.pcx"
-Text 3: "Sorciêres des mers"
-Text 4: "Creature Bonus: Sorciêres des mers"
-Text 5: "{Sorciêres des mers et Ensorceleuses}
+Text 3: "Sorcières des mers"
+Text 4: "Creature Bonus: Sorcières des mers"
+Text 5: "{Sorcières des mers et Ensorceleuses}
 
-Les Sorciêres des mers et les Ensorceleuses gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 5 niveaux sont atteints."
+Les Sorcières des mers et les Ensorceleuses gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 5 niveau sont atteints."
 Text 6: "Casmetra"
 Text 7: "Elle fait partie des grandes prêtresses d'un mystérieux culte d'adoration de la mer totalement inconnu il n'y a pas si longtemps. Personne ne peut dire qui est cette femme et d'où elle vient. Néanmoins, tous ceux qui ont rencontré Casmetra ne parlent que de sa beauté et ses pouvoirs magiques. La prêtresse a d'abord écumé les mers pour assouvir ses intérêts personnels, mais le temps passant, elle est devenue très proche de ses amis Corsaires."
 Text 8: ""
@@ -1128,7 +1128,7 @@ Text 3: "Sorcellerie"
 Text 4: "Secondary Skill Bonus: Sorcellerie"
 Text 5: "{Sorcellerie}
 
-reçoit un bonus de 5% par niveau au pourcentage de Sorcellerie."
+Reçoit un bonus de 5% par niveau au pourcentage de Sorcellerie."
 Text 6: "Spint"
 Text 7: "Spint fréquentait l'Académie de Bracada pour se former à la magie, quand il fut capturé par des barbares Krewlod qui le vendirent ensuite comme esclave dans une galère. Le capitaine du bateau conscient de ses talents de magicien, lui confie le poste de maître d'équipage. Plus tard devenu lui-même capitaine, il se venge en envoyant par le fond les bateaux de ses ravisseurs."
 Text 8: ""
@@ -1186,9 +1186,9 @@ Text 3: "Boule de Feu"
 Text 4: "Spell Bonus: Boule de Feu"
 Text 5: "{Boule de Feu}
 
-La puissance du sort Boule de Feu augmente de 10% à pour chaque niveaux n du héros, où n est le niveau de la créature ciblée."
+La puissance du sort Boule de Feu augmente de 10% à pour chaque niveau N du Héros, où N est le niveau de la créature ciblée."
 Text 6: "Manfred"
-Text 7: "Personne ne connait réellement Manfred, et personne ne tient à faire plus ample connaissance avec un homme capable de mettre le feu à un navire d'un simple geste de la main. Tout le monde dêteste son accent et son horrible caractère; néanmoins, presque tous les pirates sont admiratifs devant le génie de ce mercenaire."
+Text 7: "Personne ne connait réellement Manfred, et personne ne tient à faire plus ample connaissance avec un homme capable de mettre le feu à un navire d'un simple geste de la main. Tout le monde déteste son accent et son horrible caractère; néanmoins, presque tous les pirates sont admiratifs devant le génie de ce mercenaire."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -1215,9 +1215,9 @@ Text 3: "Distraction"
 Text 4: "Spell Bonus: Distraction"
 Text 5: "{Distraction}
 
-Le nombre de créatures affectés par Distraction augmente de 10% pour chaque niveaux n atteint par le héros, où n est le niveau de la créature sélectionnée."
+Le nombre de créatures affectée par Distraction augmente de 10% pour chaque niveau N atteint par le Héros, où N est le niveau de la créature sélectionnée."
 Text 6: "Zilare"
-Text 7: "Zilare était le gardien d'une grande bibliothèque dans laquelle il passa des années à étudier d'anciennes archives. Suspecté à tort du vol d'un livre rare, on le congédia sans lui laisser la possibilité de se défendre. Entre-temps, il sera engagé comme cuisinier à bord d'un bateau pirate. à peu près à la même période, Zilare commença à élaborer des rituels de magie tellement complexes, qu'il apprit rapidement à manipuler la mémoire des armées ennemies."
+Text 7: "Zilare était le gardien d'une grande bibliothèque dans laquelle il passa des années à étudier d'anciennes archives. Suspecté à tort du vol d'un livre rare, on le congédia sans lui laisser la possibilité de se défendre. Entre-temps, il sera engagé comme cuisinier à bord d'un bateau pirate. À peu près à la même période, Zilare commença à élaborer des rituels de magie tellement complexes, qu'il apprit rapidement à manipuler la mémoire des armées ennemies."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -1244,7 +1244,7 @@ Text 3: "Guérison"
 Text 4: "Spell Bonus: Guérison"
 Text 5: "{Guérison}
 
-Lance Guérison avec effet augmenté de 10 % pour chaque niveau (8 - n) atteint par le Héros, où n est le rang de la créature sélectionnée."
+Lance Guérison avec effet augmenté de 10 % pour chaque niveau (8 - N) atteint par le Héros, où N est le rang de la créature sélectionnée."
 Text 6: "Astra"
 Text 7: "On sait peu de choses sur Astra et elle ne semble pas disposer à se confier davantage. Cependant, on est certain qu'elle a visité les quatre coins du monde dans le but de maîtriser la Magie de l'Eau. Elle a finalement réussi à atteindre cet objectif lorsqu'elle a rejoint les prêtresses de la mer pour compléter sa formation."
 Text 8: ""
@@ -1273,9 +1273,9 @@ Text 3: "Bouclier du Vent"
 Text 4: "Spell Bonus: Bouclier du Vent"
 Text 5: "{Bouclier du Vent}
 
-Lance Bouclier du Vent avec son effet augmentés de 10 % pour chaque niveaux n du Héros, où n est le rang de la créature ciblée.
+Lance Bouclier du Vent avec son effet augmenté de 10 % pour chaque niveau N du Héros, où N est le rang de la créature ciblée.
 Text 6: "Dargem"
-Text 7: "Le passé de Dargem est légendaire. On raconte qu'un jour, à lui seul il prit un fort car les flèches de l'ennemi ne parvenaient pas à l'atteindre. Pourtant Dargem a vécu des années au fond des donjons Nighon aux soldes d'un puissant sorcier, si longtemps que la Magie de Nighon fait partie de lui. Il est de notoriété qu'attaquer son navire à coups de flèches et boulets de canon s'avère inutile."
+Text 7: "Le passé de Dargem est légendaire. On raconte qu'un jour, à lui seul il prit un fort car les flèches de l'ennemi ne parvenaient pas à l'atteindre. Pourtant Dargem a vécu des années au fond des donjons Nighon à la solde d'un puissant sorcier, si longtemps que la Magie de Nighon fait partie de lui. Il est de notoriété qu'attaquer son navire à coups de flèches et boulets de canon s'avère inutile."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -1331,7 +1331,7 @@ Text 3: "Nix"
 Text 4: "Creature Bonus: Nix"
 Text 5: "{Nix et Soldats Nix}
 
-Les Nix et les Soldats Nix gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 6 niveaux sont atteints."
+Les Nix et les Soldats Nix gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 6 niveau sont atteints."
 Text 6: "Tark"
 Text 7: "Descendant d'une famille royale légendaire aujourd'hui disparue, Tark est un roi qui espère retrouver son peuple grâce à l'appui de puissants alliés. De ses frères Nix à ses amis pirates et corsaires, nombreux sont ceux qui sont prêts à le rejoindre le moment venu. Aussi puissant et adroit que le plus expérimenté des soldats Nix, Tark est de toutes les batailles sur terre comme sur mer."
 Text 8: ""
@@ -1360,7 +1360,7 @@ Text 3: "Navigation"
 Text 4: "Secondary Skill Bonus: Navigation"
 Text 5: "{Navigation}
 
-reçoit un bonus de 5% par niveau au pourcentage de Navigation."
+Reçoit un bonus de 5% par niveau au pourcentage de Navigation."
 Text 6: "Elmore"
 Text 7: "Depuis son plus jeune âge Elmore rêve de devenir un grand marin. De longues années et beaucoup de sacrifices lui seront nécessaires pour que son rêve se réalise enfin. Certains capitaines pirates sont des experts en Navigation, et pourtant Elmore les surclasse tous dans ce domaine car il est de plus épris de magie Élémentaire."
 Text 8: ""
@@ -1389,7 +1389,7 @@ Text 3: "Reconnaissance"
 Text 4: "Secondary Skill Bonus: Reconnaissance"
 Text 5: "{Reconnaissance}
 
-Le champ de vision du Héros augmente de +1, chaque fois que 6 niveaux sont atteints."
+Le champ de vision du Héros augmente de +1, chaque fois que 6 niveau sont atteints."
 Text 6: "Béatrice"
 Text 7: "Béatrice fait partie de ces fameux éclaireurs qui accompagnaient les grands pionniers d'Erathia. Repérée par Catherine en personne, elle jura fidélité à la reine avant d'être promue générale quelques années plus tard. Depuis, elle continue de développer ses compétences pour servir au mieux le royaume."
 Text 8: ""
@@ -1418,9 +1418,9 @@ Text 3: "Apprentissage"
 Text 4: "Secondary Skill Bonus: Apprentissage"
 Text 5: "{Apprentissage}
 
-reçoit un bonus de 5% par niveau au pourcentage d'Apprentissage."
+Reçoit un bonus de 5% par niveau au pourcentage d'Apprentissage."
 Text 6: "Kinkeria"
-Text 7: "Kinkeria est une des Sorciêres les plus respectées de son clan. Curieuse de tout, elle est capable d'analyser et d'expliquer n'importe quel phénomène du plus étrange au plus complexe afin de parfaire ses connaissances. Elle a résolu bien des énigmes que de grands esprits ont passé des années à étudier. Ce n'est donc pas un hasard si le roi de Tatalia l'a pris à son service."
+Text 7: "Kinkeria est une des Sorcières les plus respectées de son clan. Curieuse de tout, elle est capable d'analyser et d'expliquer n'importe quel phénomène du plus étrange au plus complexe afin de parfaire ses connaissances. Elle a résolu bien des énigmes que de grands esprits ont passé des années à étudier. Ce n'est donc pas un hasard si le roi de Tatalia l'a pris à son service."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -1447,7 +1447,7 @@ Text 3: "Baliste"
 Text 4: "Artillery Bonus: Baliste"
 Text 5: "{Baliste}
 
-La Baliste reçoit un bonus en Attaque-Défense de 30% tous les 5 niveaux."
+La Baliste reçoit un bonus en Attaque-Défense de 30% tous les 5 niveau."
 Text 6: "Ranloo"
 Text 7: "Poursuivant son rêve d'enfant, Ranloo est engagé comme aide armurier à Mestley. La vie d'un mort-vivant n'est pas de tout repos, mais Ranloo rendit la sienne plus agréable en devenant très adroit de ses mains. C'est ainsi qu'il prit naturellement la place du maître-forgeron, dès qu'il eut conçu et réalisé une Baliste de très haute précision munie de ses projectiles."
 Text 8: ""
@@ -1476,7 +1476,7 @@ Text 3: "Interférence"
 Text 4: "Secondary Skill Bonus: Interférence"
 Text 5: "{Interférence}
 
-reçoit un bonus de 5% par niveau au pourcentage d'Interférence."
+Reçoit un bonus de 5% par niveau au pourcentage d'Interférence."
 Text 6: "Giselle"
 Text 7: "C'est au cours d'une foire qui se tenait dans son village que Giselle se fit connaître. Ce jour-là, un vieux druide sortit de derrière un bosquet, et tenta ensuite d'impressionner les villageois en leur montrant plusieurs de ses tours. Mais à la surprise du vieil homme rien ne marchait. Il finit par remarquer le sourire d'une jolie rousse au premier rang, et il comprit alors qu'elle était la cause de son malheur."
 Text 8: ""
@@ -1534,7 +1534,7 @@ Text 3: "Mécaniciens"
 Text 4: "Creature Bonus: Mécaniciens"
 Text 5: "{Mécaniciens et Ingénieurs}
 
-Les Mécaniciens et les Ingénieurs gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% aux 2 niveaux."
+Les Mécaniciens et les Ingénieurs gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% aux 2 niveau."
 Text 6: "Sam"
 Text 7: "Depuis toujours, il est une huile noire qui jaillit de terre et fait des ravages chez les paysans de Jadame, créant des fontaines incontrôlables responsables de la destruction de nombreuses cultures et pâturages. Sam, fille et apprentie d'un forgeron émérite, fut la première à apprivoiser cette force de la nature en la forçant à entrer dans un tuyau relié directement au fourneau de sa forge. grâce à ses inventions, l'huile noire est devenue le sang, la nourriture et les armes de la cité de Burton."
 Text 8: ""
@@ -1563,7 +1563,7 @@ Text 3: "Flingueurs"
 Text 4: "Creature Bonus: Pistolero"
 Text 5: "{Pistoleros et Chasseurs de Prime}
 
-Les Pistoleros et les Chasseurs de Prime gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% aux 6 niveaux."
+Les Pistoleros et les Chasseurs de Prime gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% aux 6 niveau."
 Text 6: "Tancred"
 Text 7: "À l'époque où il était alchimiste, Tancred perfectionna une ancienne préparation à base de différents composés qui explosait sans l'aide de la magie. À son grand étonnement, le composant crucial, le salpêtre, était pratiquement absent d'Antagarich. Ce n'est qu'à Jadame que Tancred découvrira les vastes grottes contenant cet élément rare, grâce auquel il finira par concevoir une arme capable de projeter de minuscules balles avec une puissance impressionnante."
 Text 8: ""
@@ -1650,9 +1650,9 @@ Text 3: "Reconnaissance"
 Text 4: "Secondary Skill Bonus: Reconnaissance"
 Text 5: "{Reconnaissance}
 
-Le champ de vision du Héros augmente de +1, chaque fois que 6 niveaux sont atteints."
+Le champ de vision du Héros augmente de +1, chaque fois que 6 niveau sont atteints."
 Text 6: "Wynona"
-Text 7: "Les elfes noirs jadamîens ont la réputation d'être de grands voyageurs, et par prolongement de grands explorateurs. à l'entrée de l'adolescence, Wynona entame l'exploration de la nature sauvage par delà Alvar et les Murmurwoods, afin d'étudier le comportement des animaux en rapportant par écrit tout de leurs habitudes. grâce au temps passé près de ses amis volants, rampants et sautillants, elle est devenue la plus grande autorité en matière de faune jadamîenne."
+Text 7: "Les elfes noirs jadaméens ont la réputation d'être de grands voyageurs, et par prolongement de grands explorateurs. À l'entrée de l'adolescence, Wynona entame l'exploration de la nature sauvage par-delà Alvar et les Murmurwoods, afin d'étudier le comportement des animaux en rapportant par écrit tout de leurs habitudes. Grâce au temps passé près de ses amis volants, rampants et sautillants, elle est devenue la plus grande autorité en matière de faune jadaméenne."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -1679,9 +1679,9 @@ Text 3: "Armurerie"
 Text 4: "Secondary Skill Bonus: Armurerie"
 Text 5: "{Armurerie}
 
-reçoit un bonus de 5% par niveau au pourcentage d'Armurerie."
+Reçoit un bonus de 5% par niveau au pourcentage d'Armurerie."
 Text 6: "Dury"
-Text 7: "Dury a longtemps cherché un magicien qui ne se contenterait pas de lui faire des promesses, mais qui serait réellement capable de panser les blessures qu'elle avait subies au cours de nombreux affrontements, voir même les faire disparaêtre. grâce à un bon forgeron, une plaque de siertal a remplacé une partie de son crâne, endommagée par la queue d'une wyverne. La mercenaire apprécie désormais bien plus les armures de qualité, que n'importe quelle magie."
+Text 7: "Dury a longtemps cherché un magicien qui ne se contenterait pas de lui faire des promesses, mais qui serait réellement capable de panser les blessures qu'elle avait subies au cours de nombreux affrontements, voir même les faire disparaître. Grâce à un bon forgeron, une plaque de siertal a remplacé une partie de son crâne, endommagée par la queue d'une wyverne. La mercenaire apprécie désormais bien plus les armures de qualité, que n'importe quelle magie."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -1708,9 +1708,9 @@ Text 3: "Baliste"
 Text 4: "Artillery Bonus: Baliste"
 Text 5: "{Baliste}
 
-La Baliste reçoit un bonus en Attaque-Défense de 30% tous les 5 niveaux."
+La Baliste reçoit un bonus en Attaque-Défense de 30% tous les 5 niveau."
 Text 6: "Morton"
-Text 7: "Vétéran des guerres entre gobelins et ogres, Morton fait parti des rares combattants à avoir survécu à la bataille du Gouffre de Gowdar, et n'a qu'un désir depuis, celui de se venger des ""peaux sales"", suite à la razzia qui a fait disparaêtre sa maison de la surface de Jadame. Il évalue la qualité de ses balistes au nombre d'ogres qu'elles peuvent transpercer d'un seul coup."
+Text 7: "Vétéran des guerres entre gobelins et ogres, Morton fait parti des rares combattants à avoir survécu à la bataille du Gouffre de Gowdar, et n'a qu'un désir depuis, celui de se venger des ""peaux sales"", suite à la razzia qui a fait disparaître sa maison de la surface de Jadame. Il évalue la qualité de ses balistes au nombre d'ogres qu'elles peuvent transpercer d'un seul coup."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -1737,9 +1737,9 @@ Text 3: "Glyptodons"
 Text 4: "Creature Bonus: Glyptodons"
 Text 5: "{Glyptodons et Glyptodons Royaux}
 
-Les Glyptodons et les Glyptodons Royaux gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 3 niveaux sont atteints."
+Les Glyptodons et les Glyptodons Royaux gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 3 niveau sont atteints."
 Text 6: "Celestine"
-Text 7: "Parce qu'il avait perdu son bosquet, le druide AvLeean se mit à parcourir le monde, transmettant son savoir à qui le voulait bien. à Tatalia, il laissa derrière lui les secrets de la magie naturelle à sa fille Mirlanda, tandis qu'à Eeofol naquit son autre fille Célestine, à qui il légua une autre facette de son talent. Celestine est capable d'apprivoiser des animaux sauvages, en leur offrant douceur et amitié, plutôt que les mauvais traitements des dresseurs tataliens."
+Text 7: "Parce qu'il avait perdu son bosquet, le druide AvLeean se mit à parcourir le monde, transmettant son savoir à qui le voulait bien. À Tatalia, il laissa derrière lui les secrets de la magie naturelle à sa fille Mirlanda, tandis qu'à Eeofol naquit son autre fille Célestine, à qui il légua une autre facette de son talent. Celestine est capable d'apprivoiser des animaux sauvages, en leur offrant douceur et amitié, plutôt que les mauvais traitements des dresseurs tataliens."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -1766,7 +1766,7 @@ Text 3: "Automates"
 Text 4: "Creature Bonus: Automates"
 Text 5: "{Automates et Automates Sentinelles}
 
-Les Automates et les Automates Sentinelles gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 4 niveaux sont atteints."
+Les Automates et les Automates Sentinelles gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 4 niveau sont atteints."
 Text 6: "Todd"
 Text 7: "Peu de scientifiques de Bracada ont vu, et encore moins manipulé, un marteau ou un grand fourneau. Incapable de faire évoluer et partager ses idées avec les forgerons et autres dinandiers, Todd a dû improviser d'autres méthodes de travail. Comme les instruments et les matériaux indispensables à ses recherches étaient introuvables à Bracada, Todd se mit en tête de parcourir le monde, jusqu'à trouver ce qui lui faisait défaut. Et c'est dans la ville de Burton que sa quête pris fin."
 Text 8: ""
@@ -1795,7 +1795,7 @@ Text 3: "Vers des Sables"
 Text 4: "Creature Bonus: Vers des Sables"
 Text 5: "{Vers des Sables et Olgoi-Khorkhoi}
 
-Les Vers des Sables et les Olgoi-Khorkhoi gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 5 niveaux sont atteints."
+Les Vers des Sables et les Olgoi-Khorkhoi gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 5 niveau sont atteints."
 Text 6: "Agar"
 Text 7: "Certains pensaient que le sorcier Agar était un fou et on le donna même pour mort. Mais si cette dernière rumeur s'est avérée fausse, la communauté scientifique d'Enroth n'est toujours pas unanime au sujet de la première. Car si les créations d'Agar sont indéniablement viables et fonctionnelles, on peut se demander si un scientifique sain d'esprit aurait l'idée d'inculquer à un être vivant des penchants et des inclinations aussi néfastes."
 Text 8: ""
@@ -1853,9 +1853,9 @@ Text 3: "Foudre de Guerre"
 Text 4: "Spell Bonus: Foudre de Guerre"
 Text 5: "{Foudre de Guerre}
 
-Lance Foudre de Guerre avec un bonus de 10% en attaque tous les N niveaux du Héros. où N est le rang de la créature ciblée."
+Lance Foudre de Guerre avec un bonus de 10% en attaque tous les N niveau du Héros. où N est le rang de la créature ciblée."
 Text 6: "Wrathmont"
-Text 7: "Le tempérament instable de Wrathmont lui aura valu d'innombrables ennuis au cours de sa vie, notamment quand il fallut partager le domaine d'Archibald Ironfist et que ses anciens collègues, lassés de ses colères, se liguèrent contre lui. Voyant ses soutiens les plus fidèles le lacher, Wrathmont s'enfuit d'Enroth. Il passa ensuite des années à étudier d'anciennes tablettes de pierre, grâce auxquelles il finira par étouffer ses ardeurs, afin de mieux réveiller celles des autres."
+Text 7: "Le tempérament instable de Wrathmont lui aura valu d'innombrables ennuis au cours de sa vie, notamment quand il fallut partager le domaine d'Archibald Ironfist et que ses anciens collègues, lassés de ses colères, se liguèrent contre lui. Voyant ses soutiens les plus fidèles le lâcher, Wrathmont s'enfuit d'Enroth. Il passa ensuite des années à étudier d'anciennes tablettes de pierre, grâce auxquelles il finira par étouffer ses ardeurs, afin de mieux réveiller celles des autres."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -1882,7 +1882,7 @@ Text 3: "Foudre"
 Text 4: "Spell Bonus: Foudre"
 Text 5: "{Foudre}
 
-Lance Foudre avec des dégâts augmentés de 10% tous les N niveaux du Héros, où N est le rang de la créature ciblée."
+Lance Foudre avec des dégâts augmentés de 10% tous les N niveau du Héros, où N est le rang de la créature ciblée."
 Text 6: "Ziph"
 Text 7: "Ziph a longtemps été au service d'un vieux mage qui la méprisait, elle et sa famille. Le mage ignorait que dans la langue des lutins, ""ziph"" signifiait ""liberté"", et il ignorait également que tout ce temps durant, elle écoutait ses cours. Un jour, Ziph entassa la moitié du laboratoire de son maître dans un sac magique, se réfugia dans la cale d'un navire et abandonna définitivement Bracada."
 Text 8: ""
@@ -1911,9 +1911,9 @@ Text 3: "Pièges"
 Text 4: "Spell Bonus: Pièges"
 Text 5: "{Pièges}
 
-Lance Pièges avec des dégâts augmentés de 10% tous les N niveaux du Héros, où N est le rang de la créature ciblée."
+Lance Pièges avec des dégâts augmentés de 10% tous les N niveau du Héros, où N est le rang de la créature ciblée."
 Text 6: "Victoria"
-Text 7: "Il existe une magie qui permet de ramener un mort à la vie, mais si un soldat est mortellement touché après être passé sur une mine, peut-il compter sur quelqu'un pour lui venir en aide? La fascination de Victoria pour les mines heurtera les profondes convictions de ses collègues, mais elle continuera de perfectionner cette arme. après sa rencontre avec Floribert, l'artificière fera un autre usage de ses connaissances en ingénierie pour concevoir des membres mécaniques afin d'aider au mieux les guerriers estropiés."
+Text 7: "Il existe une magie qui permet de ramener un mort à la vie, mais si un soldat est mortellement touché après être passé sur une mine, peut-il compter sur quelqu'un pour lui venir en aide? La fascination de Victoria pour les mines heurtera les profondes convictions de ses collègues, mais elle continuera de perfectionner cette arme. Après sa rencontre avec Floribert, l'artificière fera un autre usage de ses connaissances en ingénierie pour concevoir des membres mécaniques afin d'aider au mieux les guerriers estropiés."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -2000,7 +2000,7 @@ Text 5: "{Adresse}
 
 Reçoit un bonus de 5% par niveau au pourcentage d'Adresse."
 Text 6: "Tavin"
-Text 7: "Tavin est sûrement le seul hobbit à avoir rejoint les rangs d'Erathia. Les autres hobbits désapprouvent son mode de vie, car la grande majorité d'entre eux n'aiment pas l'aventure et la guerre. Cependant, Tavin est respecté, même si parmi les siens, la plupart évite de sympathiser avec lui. Lorsque les Kreegans ont envahi Eeofol, Tavin s'est imposé naturellement comme le chef de la résistance locale, prêt quoi qu'il en coûte à défendre sa patrie."
+Text 7: "Tavin est sûrement le seul hobbit à avoir rejoint les rangs d'Erathia. Les autres hobbits désapprouvent son mode de vie, car la grande majorité d'entre eux n'aiment pas l'aventure et la guerre. Cependant, Tavin est respecté, même si parmi les siens, la plupart évite de sympathiser avec lui. Lorsque les Kreegans ont envahi Eeofol, Tavin s'est imposé naturellement comme le chef de la résistance locale, prêt, quoi qu'il en coûte, à défendre sa patrie."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -2027,7 +2027,7 @@ Text 3: "Archerie"
 Text 4: "Secondary Skill Bonus: Archerie"
 Text 5: "{Archerie}
 
-reçoit un bonus de 5% par niveau au pourcentage d'Archerie"
+Reçoit un bonus de 5% par niveau au pourcentage d'Archerie"
 Text 6: "Murdoch"
 Text 7: "Murdoch est devenu soldat professionnel uniquement pour l'argent, et accessoirement pour la célébrité. Comme pour prolonger cette philosophie de vie, il créera par la suite une compagnie de mercenaires, avec lesquels il partira explorer les terres de Jadame. Qui sait quelle sera la prochaine étape de ce destin atypique?"
 Text 8: ""
@@ -2074,7 +2074,7 @@ Text 8: "La Cascade permet de recruter des Nymphes.
 La Cabane permet de recruter des Compagnons.
 La Frégate permet de recruter des Matelots.
 Le Nid de Dracs permet de recruter des Dracs.
-La Tour Lumineuse permet de recruter des Sorciêres des mers.
+La Tour Lumineuse permet de recruter des Sorcières des mers.
 Le Fortin permet de recruter des Nix.
 Le Tourbillon permet de recruter des Serpents de Mer.
 La Cascade améliorée permet de recruter des Océanides.
@@ -2505,20 +2505,20 @@ Vous ne pouvez pas rechercher deux Sorts en même temps
 #72
 Une recherche est en cours (Sort actuellement sélectionné : %s)
 #73
- (cliquer pour accéder à la recherche de Sort)
-#74
- (ressources insuffisantes pour une recherche)
+(cliquer pour accéder à la recherche de Sort)
+#74F
+(ressources insuffisantes pour une recherche)
 #75
- (la recherche de Sort est terminée pour ce tour)
+(la recherche de Sort est terminée pour ce tour)
 #76
- (une recherche est actuellement en cours)
+(une recherche est actuellement en cours)
 #77
 ""
 Source Minérale visitée +1""
 #78
 (Pas d'amélioration des compétences)
 #79
-(amélioration maximale des compétences)
+(Amélioration maximale des compétences)
 #80
 Poursuivre sans mettre fin à la recherche
 #81
@@ -2652,21 +2652,21 @@ Le template rmg de l'hôte (%s) est différent de celui de votre version du jeu.
 
 Le template rmg de l'hôte (%s) a été modifié. L'hôte est probablement en train de tricher.""
 #131
-dégâts: %s, morts: %s
+Dégâts: %s, morts: %s
 #132
-restitue des pts de vie: %s
+Restitue des pts de vie: %s
 #133
-restaure les pts de vie: %s, créatures: %s
+Restaure les pts de vie: %s, créatures: %s
 #134
-dégâts sur les %s: %s, morts: %s
+Dégâts sur les %s: %s, morts: %s
 #135
-restitue des pts de vie: %s-%s
+Restitue des pts de vie: %s-%s
 #136
-restaure les pts de vie: %s, Démons: %s
+Restaure les pts de vie: %s, Démons: %s
 #137
-retire des pts de vie: %s, créatures: %s
+Retire des pts de vie: %s, créatures: %s
 #138
-sorts restants: %d
+Sorts restants: %d
 #139
 Tirs: %s (dégâts: %s)
 #140
@@ -2678,21 +2678,21 @@ Tirs: %s (dégâts: %s)
 #143
 , ou 
 #144
-mois %d, semaine %d, jour %d
+Mois %d, Semaine %d, Jour %d
 #145
-(délai expiré)
+(Délai expiré)
 #146
 ""
 
-Le délai expire précisément : mois %d, semaine %d, jour %d""
+Le délai expire précisément : Mois %d, Semaine %d, Jour %d""
 #147
-début du combat
+Début du combat
 #148
-début du combat (tours restants: %d)
+Début du combat (tours restants: %d)
 #149
-début du tour %d
+Début du tour %d
 #150
-début du tour %d (tours restants: %d)
+Début du tour %d (tours restants: %d)
 #151
 ""{Forcer la fin du combat}
 
@@ -2711,7 +2711,7 @@ Le combat a été trop long, et l'ennemi doit battre en retraite ou se rendre. Q
 %d%% de ces créatures désirent vous rejoindre.
 #157
 ""%d%% de ces créatures sont disposées à vous rejoindre...
-en échange de %d pièces d'Or.""
+En échange de %d pièces d'Or.""
 #158
 ""{Recrues}
 
@@ -2769,11 +2769,11 @@ Coût : %d7 pièces d'Or.
 #180
 Disponible : %d pièces d'Or.
 #181
-(requiert %d pièces d'Or)
+(Requiert %d pièces d'Or)
 #182
 ""Vous tombez par hasard sur une mine abandonnée. La mine semble être infestée de %s. Voulez-vous entrer?""
 #183
-""après avoir éliminé les %s. Vous prenez le contrôle de la mine et relancez sa production.""
+""Après avoir éliminé les %s. Vous prenez le contrôle de la mine et relancez sa production.""
 #184
 Non
 #185
@@ -2817,9 +2817,9 @@ L(e)'%s restaure %d points de vie des %s.
 #201
 %d %s sont réparés.
 #202
-réparation des %s (tâches effectuées: %d, points de vie restaurés: %d, créatures réparées: %d)
+Réparation des %s (tâches effectuées: %d, points de vie restaurés: %d, créatures réparées: %d)
 #203
-réparation des %s (tâches effectuées: %d, points de vie restaurés: %d)
+Réparation des %s (tâches effectuées: %d, points de vie restaurés: %d)
 #204
 Dernier lieu visité
 #205
@@ -2835,7 +2835,7 @@ Le Héros descend du dirigeable pour se poser sur la case de son choix.""
 #208
 Construire un Dirigeable
 #209
-Na pas construire de Dirigeable
+Ne pas construire de Dirigeable
 #210
 Impossible de construire un dirigeable.
 #211
@@ -2881,7 +2881,7 @@ Les %s récupèrent %d points de vie
 #230
 &Manuel en ligne
 #231
-&à propos
+&À propos
 #232
 &Aide
 #233
@@ -2889,7 +2889,7 @@ Artefacts gratuits
 #234
 Sorts gratuits
 #235
-créatures gratuites
+Créatures gratuites
 #236
 Ressources gratuites
 #237
@@ -2968,11 +2968,11 @@ Dévorer les Cadavres
 
 Force les unités à dévorer les cadavres après leur déplacement.""
 #271
-réparer les créatures mécaniques
+Réparer les créatures mécaniques
 #272
-""{réparer les créatures mécaniques}
+""{Réparer les créatures mécaniques}
 
-Force les unités à réparer les créatures mécaniques au lieu de se déplacer.""
+Force les unités à Réparer les créatures mécaniques au lieu de se déplacer.""
 #273
 Vous tombez par hasard sur un Héros qui a installé son camp au bord de la route. Celui-ci ayant entendu parler de vos exploits, décide de vous rejoindre avec toute son armée.
 #274
@@ -3023,10 +3023,10 @@ L'%s vient d'activer Explosion à la Mort.
 Les %s viennent d'activer Explosion à la Mort.
 #296
 ""%s peut attaquer avec un coup de chaleur
-(appuyer sur G pour viser)""
+(Appuyer sur G pour viser)""
 #297
 ""%s peut attaquer avec un coup de chaleur
-(appuyer sur G pour viser)""
+(Appuyer sur G pour viser)""
 #298
 Choisir une cible pour Rayon d'Énergie.
 #299
@@ -3038,7 +3038,7 @@ Souhaitez-vous capituler en payant %d pièces d'Or afin de sauver votre Héros e
 #301
 Les %s restaurent %d points de vie des %s.
 #302
-réparer les %s.
+Réparer les %s.
 #303
 %s rend toutes les pertes au combat irréversibles !
 #304
@@ -3374,7 +3374,7 @@ Recherche de Sort
 # 29
 Arène                        
 # 30
-différent du %s
+Différent du %s
 # 31
 Ce format de carte est incompatible avec cette version d'HotA. Cette carte a dû être conçu pour une version plus récente d'HotA.
 # 32
@@ -3383,7 +3383,7 @@ Ce format de carte est incompatible avec cette version d'HotA. Cette carte a dû
 , et 
 # 34
 ""Gardes : %s.
-récompense : %s.""
+Récompense : %s.""
 # 35
 Artefact Précieux
 # 36
@@ -3444,7 +3444,7 @@ Pour qu'un joueur soit en mesure d'accomplir la Quête, le temps limite de la Qu
 ""
 # 63
 """"""La Quête de %s est vide.""""
-Sans au moins une Quête à accomplir, la présencede cette Hutte du Voyant devient contre productive.
+Sans au moins une Quête à accomplir, la présence de cette Hutte du Voyant devient contre productive.
 ""
 # 64
 Quêtes pour cette Hutte du Voyant
@@ -3467,7 +3467,7 @@ Aucun
 # 73
 Atteindre un certain Niveau
 # 74
-Atteindre certaines caractéristiques
+Atteindre certaines Caractéristiques
 # 75
 Vaincre un Héros spécifique
 # 76
@@ -3479,9 +3479,9 @@ Ramener des créatures
 # 79
 Rapporter des Ressources
 # 80
-être un Héros spécifique
+Être un Héros spécifique
 # 81
-être un Joueur spécifique
+Être un Joueur spécifique
 # 82
 Appartenir à une Classe de Héros
 # 83
@@ -3493,9 +3493,9 @@ Un Lieu de Combat ne peut être placé que sur une carte dont le Mode Arène est
 Le Mode Arène requiert que la carte soit conçue pour un duel unique entre 2 Héros avec une préparation préliminaire. Il faut placer au moins un Lieu de Combat sur la carte pour valider le Mode Arène.
 ""
 # 86
-Le Mode Arène vient d'être activé. Dans ce Mode, la carte doit être conçue pour un duel unique entre 2 Héros avec une préparation préliminaire. Il sera impossible d'utiliser cette carte pour une partie classique d'Heroes 3 Horn of the Abyss. Les conditions de Victoire et défaite seront réinitialisées. êtes-vous sûr de vouloir continuer?
+Le Mode Arène vient d'être activé. Dans ce Mode, la carte doit être conçue pour un duel unique entre 2 Héros avec une préparation préliminaire. Il sera impossible d'utiliser cette carte pour une partie classique d'Heroes 3 Horn of the Abyss. Les conditions de Victoire et défaite seront réinitialisées. Êtes-vous sûr de vouloir continuer?
 # 87
-Le Mode Arène vient d'être désactivé. Tous les Lieux de Combat seront supprimés. êtes-vous sûr de vouloir continuer?
+Le Mode Arène vient d'être désactivé. Tous les Lieux de Combat seront supprimés. Êtes-vous sûr de vouloir continuer?
 # 88
 Nombre de tours Maxi des combats
 # 89
@@ -3509,7 +3509,7 @@ Pourcentage de Monstres prêts à rejoindre le Héros :
 # 93
 Disposition améliorée :
 # 94
-défaut
+Défaut
 # 95
 Non
 # 96
@@ -3531,9 +3531,9 @@ Rien
 # 104
 Sort aléatoire de Niveau 5
 # 105
- Points de Magie
+Points de Magie
 # 106
-défaut (100-200 Troglodytes)
+Défaut (100-200 Troglodytes)
 # 107
 Personnaliser
 # 108
@@ -3666,7 +3666,7 @@ Si toutes les cellules destinées à la construction sont occupées, le joueur n
 Si toutes les cellules destinées à la construction sont occupées, le joueur ne pourra pas construire de bateau.
 ""
 # 167
-présent au niveau de difficulté
+Présent au niveau de difficulté
 # 168
 Propriétés de la Carte"
 # 169
@@ -3708,7 +3708,7 @@ Interdire le lancement d'une nouvelle version
 # 187
 Cette carte a été créée pour HotA %d.%d.%d. L'auteur empêche de lancer la carte sur une version plus récente d'HotA. Vous pouvez modifier celle-ci, mais sa version d'HotA sera mise à jour à %d.%d.%d et elle pourrait devenir injouable.
 # 188
-La version de la carte sera mise à jour et il sera impossible de l'ouvrir dans une ancienne version de l'éditeur d'HotA. êtes-vous sûr de vouloir sauvegarder cette carte?
+La version de la carte sera mise à jour et il sera impossible de l'ouvrir dans une ancienne version de l'éditeur d'HotA. Êtes-vous sûr de vouloir sauvegarder cette carte?
 # 189
 Vous ne pouvez pas placer plus de 64 500 objets sur la carte.
 # 190
@@ -3953,7 +3953,7 @@ Réenchantée le 1er jour de la semaine.""
 
 49
 -1
-""Puit Enchanté
+""Puits Enchanté
 Permet de récupèrer ses points de Magie.""
 
 50
@@ -4149,7 +4149,7 @@ L'objet de la Quête doit être précisé.""
 - 30% de chances d'affronter 25 Revenants contre 4000 pièces d'Or et 1 Artefact Précieux.
 - 10% de chances d'affronter 50 Revenants contre 5000 pièces d'Or et 1 Artefact Mineure.
 
--1 de Moral si le Héros visite l'Epave une fois que celle-ci est déserté.""
+-1 de Moral si le Héros visite l'Épave une fois que celle-ci est déserté.""
 
 86
 -1
@@ -4296,7 +4296,7 @@ Enseigne une nouvelle compétence secondaire en échange de 2000 pièces d'Or.""
 111
 -1
 ""Tourbillon
-Téléporte le Héros vers un autre Tourbillon avec pour conséquence la perte de 50% de la troupe la plus faibles.""
+Téléporte le Héros vers un autre Tourbillon avec pour conséquence la perte de 50% de la troupe la plus faible.""
 
 112
 -1
@@ -4305,7 +4305,7 @@ Téléporte le Héros vers un autre Tourbillon avec pour conséquence la perte d
 
 113
 -1
-""Cabane de la Sorciêre
+""Cabane de la Sorcière
 Enseigne une compétence aléatoire autre que Charisme et Nécromancie.""
 
 114
@@ -4807,7 +4807,7 @@ Sur ce terrain les effets de la Chance et du Moral sont annulés.""
 225
 -1
 ""Vents Favorables
-réduit le Coût des déplacements en mer de 34%.""
+Réduit le Coût des déplacements en mer de 34%.""
 
 226
 -1
@@ -5202,19 +5202,19 @@ Type : Mineure
 66
 ""Médaille de Dignité
 Type : Majeur
-réduit le Coût d'une Rédition de 10% (Emplacement : Cou)""
+Réduit le Coût d'une Reddition de 10% (Emplacement : Cou)""
 
 5
 67
 ""Anneau de Diplomatie
 Type : Majeur
-réduit le Coût d'une Rédition de 10% (Emplacement : Anneau)""
+Réduit le Coût d'une Reddition de 10% (Emplacement : Anneau)""
 
 5
 68
 ""Écharpe d'Ambassadeur
 Type : Majeur
-réduit le Coût d'une Rédition de 10% (Emplacement : Épaules)""
+Réduit le Coût d'une Reddition de 10% (Emplacement : Épaules)""
 
 5
 69
@@ -5364,7 +5364,7 @@ Immunité totale contre le sort Dissipation de la Magie. (Emplacement : Divers)"
 93
 ""Globe de Vulnérabilité
 Type : Mineure
-Neutralise la résistance et l'Immunité naturelle à la Magie de toutes les créatures. N'affecte pas les sorts dont certaines particularités limitent l'applicabilité des effets du Globe, ainsi que l'Immunité offerte par certains Artefacts - excepté l'Immunité aux sorts de l'esprit. (Emplacement : Divers)""
+Neutralise la résistance et l'Immunité naturelle à la Magie de toutes les créatures. n'affecte pas les sorts dont certaines particularités limitent l'applicabilité des effets du Globe, ainsi que l'Immunité offerte par certains Artefacts - excepté l'Immunité aux sorts de l'esprit. (Emplacement : Divers)""
 
 5
 94
@@ -5602,9 +5602,9 @@ Artefacts requis pour créer la Cape du Roi des Morts :
 
 5
 131
-""Elixir de Vie
-En plus des propriétés de ses composants, l'Elixir de Vie octroie +25% de points de Vie à toutes les créatures du Héros, et une capacité de régénération de 50 points de Vie par tour. Excepté sur les morts-vivants et les unités réssuscitées. (Emplacement : Divers)
-Artefacts requis pour créer l'Elixir de Vie :
+""Élixir de Vie
+En plus des propriétés de ses composants, l'Élixir de Vie octroie +25% de points de Vie à toutes les créatures du Héros, et une capacité de régénération de 50 points de Vie par tour. Excepté sur les morts-vivants et les unités réssuscitées. (Emplacement : Divers)
+Artefacts requis pour créer l'Élixir de Vie :
 - Fiole de Vie
 - Anneau de Vitalité
 - Anneau de Vie""
@@ -5614,15 +5614,15 @@ Artefacts requis pour créer l'Elixir de Vie :
 ""Armure des Damnés
 En plus des propriétés de ses composants, les sorts Lenteur, Malédiction, Faiblesse, et Malchance, sont lancés automatiquement au niveau expert sur les armées ennemies au début des combats - 50 tours. (Emplacement : Torse)
 Artefacts requis pour créer l'Armure des Damnés :
-- Lame Noir
+- Lame Noire
 - Plastron Macabre 
 - Casque Noir
-- Ecu des Ténèbres""
+- Écu des Ténèbres""
 
 5
 133
 ""Statue de Légion
-En plus des propriétés de ses composants, la Statue de Légion octroie +50% de créatures à toutes les villes en se basant sur la production normale des niveaux de chaque Château. Les structures annexes et les bonus ne sont pas pris en compte. (Emplacement : Divers)
+En plus des propriétés de ses composants, la Statue de Légion octroie +50% de créatures à toutes les villes en se basant sur la production normale de chaque rang pour chaque Château. Les structures annexes et les bonus ne sont pas pris en compte. (Emplacement : Divers)
 Artefacts requis pour créer la Statue de Légion :
 - Jambes de Légion
 - Bassin de Légion
@@ -5664,9 +5664,9 @@ Artefacts requis pour créer le Bicorne d'Amiral :
 
 5
 137
-""Arc d'Archer d'Elite
+""Arc d'Archer d'Élite
 En plus des propriétés de ses composants, les unités sont capables d'utiliser leurs Arcs au coeur de la mêlée et même par dessus celle-ci. Annule les pénalités appliquées à la compétance Archerie concernant tous les obstacles, y compris les créatures ennemies. (Emplacement : Divers)
-Artefacts requis pour créer l'Arc d'Archer d'Elite :
+Artefacts requis pour créer l'Arc d'Archer d'Élite :
 - Arc Elfique
 - Corde Immaculée
 - Flèches Angéliques""
@@ -6078,7 +6078,7 @@ Demeure de l'Élémentaire de l'Eau.""
 
 17
 48
-""Puit des âmes
+""Puit des Âmes
 Demeure du Revenant.""
 
 17
@@ -6174,7 +6174,7 @@ Demeure de l'Enchanteur.""
 17
 67
 ""Tour Arboricole
-Demeure de l'Archer d'Elite.""
+Demeure de l'Archer d'Élite.""
 
 17
 68
@@ -6314,7 +6314,7 @@ Héros de Combat du Donjon.""
 
 34
 11
-""Warlock
+""Démoniste
 Héros de Magie du Donjon.""
 
 34
@@ -6334,7 +6334,7 @@ Héros de Combat de la Forteresse.""
 
 34
 15
-""Sorciêre
+""Sorcière
 Héros de Magie de la Forteresse.""
 
 34
@@ -7432,7 +7432,7 @@ Quantité : 5-12""
 
 54
 137
-""Archer d'Elite
+""Archer d'Élite
 créature rang 4 - Neutre
 Quantité : 5-12""
 
@@ -7685,12 +7685,12 @@ Au début de la partie, cet objet est remplacé par une Demeure aléatoire appar
 219
 0
 ""Garnison
-placé aux points stratégiques, ce bâtiment militaire peut accueillir un nombre d'unités illimité.""
+Placé aux points stratégiques, ce bâtiment militaire peut accueillir un nombre d'unités illimité.""
 
 219
 1
 ""Garnison Anti-Magie
-placé aux points stratégiques, ce bâtiment militaire peut accueillir un nombre d'unités illimité.
+Placé aux points stratégiques, ce bâtiment militaire peut accueillir un nombre d'unités illimité.
 Aucun sort ne peut être lancé durant les combats.""
 
 220
@@ -7743,7 +7743,7 @@ Cet Artefact permet de fuir le combat et réduit le Coût de la Reddition de 30%
 Artefacts requis pour créer la Tunique du Sage :
 - Anneau de Diplomatie
 - Médaille de Dignité
-- Echarpe d'Ambassadeur""
+- Écharpe d'Ambassadeur""
 
 5
 142
@@ -7861,19 +7861,19 @@ Lorsqu'au cours d'un combat un groupe de créatures est défait, il est aussitô
 162
 ""Bracelet d'Angoisse
 Type : Mineure
-Cet objet fait baisser la caractéristique Magie des Héros ennemis de 10% pendant les combats.""
+Cet objet fait baisser la Caractéristique Magie des Héros ennemis de 10% pendant les combats.""
 
 5
 163
 ""Sceau d'Astrologue
 Type : Mineure
-Cet objet fait baisser la caractéristique Magie des Héros ennemis de 10% pendant les combats.""
+Cet objet fait baisser la Caractéristique Magie des Héros ennemis de 10% pendant les combats.""
 
 5
 164
 ""Plastron d'Obscurité
 Type : Relique
-Cet objet fait baisser la caractéristique Magie des Héros ennemis de 25% pendant les combats.""
+Cet objet fait baisser la Caractéristique Magie des Héros ennemis de 25% pendant les combats.""
 
 5
 165
@@ -7888,7 +7888,7 @@ Navire capable de voler au dessus des terres et des mers.""
 
 16
 21
-""Sanctuaire des âmes
+""Sanctuaire des Âmes
 - 30% de chances d'affronter 50 Yeux Maléfiques contre 3000 pièces d'Or et 1 Artefact.
 - 30% de chances d'affronter 75 Yeux Maléfiques contre 5000 pièces d'Or et 1 Artefact.
 - 30% de chances d'affronter 100 Yeux Maléfiques contre 6000 pièces d'Or et 1 Artefact.
@@ -8011,7 +8011,7 @@ Demeure du Drac.""
 17
 96
 ""Tour Lumineuse
-Demeure de la Sorciêre des mers.""
+Demeure de la Sorcière des mers.""
 
 17
 97
@@ -8184,7 +8184,7 @@ Quantité : 10-16""
 
 54
 161
-""Sorciêre des mers
+""Sorcière des mers
 créature rang 5 - Crique
 Quantité : 8-16""
 
@@ -8666,7 +8666,7 @@ Permet de transformer n'importe quelle créature en Squelette.""
 3
 ""Puits Artésien
 +1000 points de mouvement au prochain tour.
-déplacement en cours terminé.""
+Déplacement en cours terminé.""
 
 144
 4
@@ -8697,7 +8697,7 @@ Excepté les rouleaux, tous les Artefacts peuvent être vendus chez l'Antiquaire
 
 144
 9
-""Labo du Warlock
+""Laboratoire de l'Alchimiste
 Permet d'échanger entre elles les 4 ressources, Mercure Soufre Cristal et Gemmes, au ratio de 1 pour 1.""
 
 144
@@ -8711,7 +8711,7 @@ Réapprovisionné le 1er jour de la semaine.""
 144
 11
 ""Pionnier
-réduit la pénalité de mouvement sur terrain Aride de 50% jusqu'à la fin de la semaine.""
+Réduit la pénalité de mouvement sur terrain Aride de 50% jusqu'à la fin de la semaine.""
 
 145
 0
@@ -8765,12 +8765,12 @@ Affronter 25 Haspids pour gagner la Corne des Abysses.""
 212
 1000
 ""Gardien de Quête
-Le Héros doit accomplir une Quête pour passer ce Poste de contrôle. La Quête doit être terminée pour permettre aux joueurs de passer d'un cété à l'autre. Une fois que le premier Héros est passé, le Poste de contrôle ne disparaît pas.""
+Le Héros doit accomplir une Quête pour passer ce Poste de contrôle. La Quête doit être terminée pour permettre aux joueurs de passer d'un côté à l'autre. Une fois que le premier Héros est passé, le Poste de contrôle ne disparaît pas.""
 
 212
 1001
 ""Sépulture
-Creuser à cet endroit permet d'obtenir 1500-4000 pièces d'Or et 1 Artefact Précieux ou Mineure. à cause de la profanation des lieux, -3 de Moral jusqu'à la prochaine bataille.""
+Creuser à cet endroit permet d'obtenir 1500-4000 pièces d'Or et 1 Artefact Précieux ou Mineure. Dû à la profanation des lieux, vous recevez -3 Moral jusqu'à la prochaine bataille.""
 
 218
 9
@@ -8808,7 +8808,7 @@ Text 7: "# Objets supplmentaires pour le RMG
 213 0 100 50 -1 -1 # Guilde indépendante
 
 # Crbanks
-16 21 2500 100 -1 -1 # Sanctuaire des âmes
+16 21 2500 100 -1 -1 # Sanctuaire des Âmes
 16 22 10000 100 -1 -1 # Temple de la Mer
 16 24 5000 50 -1 -1 # Pension
 16 26 4000 20 -1 1 # Lanternon
@@ -8863,7 +8863,7 @@ Text 7: "# Objets supplmentaires pour le RMG
 "
 Text 8: "{Autel de Magie Mystère}
 
-Vous découvrez un Autel admirable gardé par un groupe d'ascêtes. En échange de votre protection, ils acceptent de vous enseigner un puissant sortilège - "
+Vous découvrez un Autel admirable gardé par un groupe d'ascètes. En échange de votre protection, ils acceptent de vous enseigner un puissant sortilège - "
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -8936,7 +8936,7 @@ Dirigeable
 Camp de Héros"
 Text 8: "# Texts
 # 0 (212, 1001, Grave)
-L'excavation de cette Sépulture semble récente car les outils avec lesquels elle a déjà été fouillée sont encore là. Vous couvrez votre nez avec un mouchoir, et au moyen des outils laissés sur place vous commencez à creuser. après quelques efforts, vous finissez par déterrer plusieurs objets.
+L'excavation de cette Sépulture semble récente car les outils avec lesquels elle a déjà été fouillée sont encore là. Vous couvrez votre nez avec un mouchoir, et au moyen des outils laissés sur place vous commencez à creuser. Après quelques efforts, vous finissez par déterrer plusieurs objets.
 # 1 (212, 1001, Grave)
 ""
 Profanation de Sépulture -3"""
@@ -9626,7 +9626,7 @@ Text 7: "1.00	1.00	0.50	1.00	44	-63	79	-55	27	-46	90.0	72.0	45.0	27.0	0.0	-27.0	
 1.00	0.90	1.00	1.00	38	-93	45	-64	21	-35	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	6	Corsaire
 1.00	0.72	1.00	0.80	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Drac
 1.00	0.72	1.00	0.80	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Drac Mordoré
-1.00	1.00	1.00	1.00	41	-72	54	-75	29	-14	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	9	Sorciêre des mers
+1.00	1.00	1.00	1.00	41	-72	54	-75	29	-14	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	9	Sorcière des mers
 1.00	1.00	1.00	1.00	41	-72	54	-75	29	-14	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	8	Ensorceleuse
 1.00	1.07	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Nix
 1.00	1.07	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Soldat Nix
@@ -9698,16 +9698,16 @@ Lance-Flammes. Répare les créatures mécaniques (10 points de vie par Mécanic
 Lance-Flammes. Répare les créatures mécaniques (20 points de vie par Ingénieur).
  
  
-créature mécanique. Les Automates sont programmés pour exploser au moment de leur mort.
-créature mécanique. Les Automates Sentinelles sont programmés pour exploser au moment de leur mort. Pas de riposte des ennemis.
+Créature mécanique. Les Automates sont programmés pour exploser au moment de leur mort.
+Créature mécanique. Les Automates Sentinelles sont programmés pour exploser au moment de leur mort. Pas de riposte des ennemis.
 Se déplace sous terre. Immunité à la Cécité et Regard Pétrifiant.
 Se déplace sous terre. Immunité à la Cécité et Regard Pétrifiant. Dévore les cadavres pour obtenir des coups supplmentaires.
 Tirs. Attaques préventives - une fois par tour.
 Tirs. Attaques préventives - illimitées.
 Vol. Peut passer son tour pour obtenir une Invulnérabilité Temporaire.
 Vol. Obtient une Invulnérabilité Temporaire sans passer son tour.
-créature mécanique. Peut attaquer avec un Rayon d'Énergie au lieu de se déplacer.
-créature mécanique. Peut attaquer avec un Rayon d'Énergie au lieu de se déplacer."
+Créature mécanique. Peut attaquer avec un Rayon d'Énergie au lieu de se déplacer.
+Créature mécanique. Peut attaquer avec un Rayon d'Énergie au lieu de se déplacer."
 Text 8: ""
 Has FilS: "false"
 Vals count: "4"
@@ -9946,9 +9946,9 @@ rocher plantes
 plateau végétation morte
 plateau collines
 plateau plantes
-Aride végétation morte
-Aride collines
-Aride plantes"
+aride végétation morte
+aride collines
+aride plantes"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -10339,8 +10339,8 @@ Ceux qui ont affronté les Élémentaires de Magie affirment qu'aucun sort ne pe
 Ceux qui ont affronté les Élémentaires de Magie affirment qu'aucun sort ne peut les atteindre.
 Il parait que certains sorts sont plus efficaces que d'autres contre les créatures Élémentaires.
 Il parait que certains sorts sont plus efficaces que d'autres contre les créatures Élémentaires.
-Les Phénix ne sont peut être pas les créatures les plus puissantes, mais ils sont les seuls à pouvoir renaêtre de leurs cendres.
-Les Phénix ne sont peut être pas les créatures les plus puissantes, mais ils sont les seuls à pouvoir renaêtre de leurs cendres.
+Les Phénix ne sont peut être pas les créatures les plus puissantes, mais ils sont les seuls à pouvoir renaitre de leurs cendres.
+Les Phénix ne sont peut être pas les créatures les plus puissantes, mais ils sont les seuls à pouvoir renaitre de leurs cendres.
 Les Élémentaires de l'Esprit et de Magie sont capables d'attaquer plusieurs ennemis en même temps.
 Les Élémentaires de l'Esprit et de Magie sont capables d'attaquer plusieurs ennemis en même temps.
 Les coups portés par certains Élémentaires sont particulièrement dangereux pour d'autres Élémentaires dont les capacités sont sont à l'opposé.
@@ -10389,8 +10389,8 @@ Certains visiteurs racontent que les Firmaments sont plus beaux à voir depuis l
 
 On dit que des Serpents de Mer sont remontés à la surface et ont envahi les terres pour tout écraser sur leur passage.
 On dit que des Serpents de Mer sont remontés à la surface et ont envahi les terres pour tout écraser sur leur passage.
-Des navires à voile noirs font du commerce régulièrement dans les Criques du littoral.
-Des navires à voile noirs font du commerce régulièrement dans les Criques du littoral.
+Des navires à voiles noirs font du commerce régulièrement dans les Criques du littoral.
+Des navires à voiles noirs font du commerce régulièrement dans les Criques du littoral.
 Dans les mers, tout au fond des profondeurs, une mystérieuse corne attend immobile. Elle vous procurera une puissance inégalable.
 Dans les mers, tout au fond des profondeurs, une mystérieuse corne attend immobile. Elle vous procurera une puissance inégalable.
 
@@ -10559,13 +10559,13 @@ Ceci peut se produire lorsque les règles des types Ville et/ou Terrain sont con
 Veuillez essayer de supprimer certaines contraintes.
 
 IncompatibleTownTokens:
-règles de Type de Ville incompatibles: une règle stipule que %2 de la zone %1 et %4 de la zone %3 doivent avoir un Type similaire, mais une autre règle stipule le contraire.
+Règles de Type de Ville incompatibles: une règle stipule que %2 de la zone %1 et %4 de la zone %3 doivent avoir un Type similaire, mais une autre règle stipule le contraire.
 
 IncompatibleTownTerrainTokens:
 Une règle de Ville ou de Terrain stipule que %2 de la zone %1 doit correspondre au Terrain de la zone %3, mais une autre règle stipule le contraire.
 
 IncompatibleTerrainTokens:
-règles de Type de Terrain incompatibles: une règle stipule que le Terrain de la zone %1 et le Terrain de la zone %2 doivent avoir un Type similaire, mais une autre règle stipule le contraire.
+Règles de Type de Terrain incompatibles: une règle stipule que le Terrain de la zone %1 et le Terrain de la zone %2 doivent avoir un Type similaire, mais une autre règle stipule le contraire.
 
 ProgramingError:
 Une erreur inattendue s'est produite. Il s'agit probablement d'une erreur de programmation. Veuillez la signaler à l'équipe HotA.
@@ -10753,10 +10753,10 @@ Name: "caspuzzle10"
 Path: "Castles\caspuzzle10.str"
 Texts count: "9"
 Text 0: ""
-Text 1: "éliminer tous les monstres errants de la carte."
+Text 1: "Éliminer tous les monstres errants de la carte."
 Text 2: "Survivre jusqu'à... mois %d, semaine %d, jour %d."
-Text 3: "Vous avez vaincu tous les monstres errants de ce monde !"
-Text 4: "Vous avez survécu au dela du temps imparti !"
+Text 3: "Vous avez vaincu tous les monstres errants de ce monde!"
+Text 4: "Vous avez survécu au-delà du temps imparti!"
 Text 5: ""
 Text 6: ""
 Text 7: ""
@@ -11712,7 +11712,7 @@ Name: "crbank21"
 Path: "Banks\crbank21.str"
 Texts count: "9"
 Text 0: ""
-Text 1: "Sanctuaire des âmes"
+Text 1: "Sanctuaire des Âmes"
 Text 2: ""
 Text 3: ""
 Text 4: ""
@@ -12873,7 +12873,7 @@ Path: ""
 Texts count: "9"
 Text 0: ""
 Text 1: "Tunique du Sage"
-Text 2: "Vous rencontrez un épouvantail revêtu d'une étrange Tunique. Et pas un corbeau à des centaines de mêtres à la ronde. Le propriétaire du champ vous révèle que la Tunique est magique et que l'épouvantail s'anime lorsque les corbeaux approchent de trop près. Il accepte de vous donner un double de cette Tunique."
+Text 2: "Vous rencontrez un épouvantail revêtu d'une étrange Tunique. Et pas un corbeau à des centaines de mètres à la ronde. Le propriétaire du champ vous révèle que la Tunique est magique et que l'épouvantail s'anime lorsque les corbeaux approchent de trop près. Il accepte de vous donner un double de cette Tunique."
 Text 3: ""
 Text 4: ""
 Text 5: ""
@@ -12935,7 +12935,7 @@ Path: ""
 Texts count: "9"
 Text 0: ""
 Text 1: "Tomahawk des Ogres"
-Text 2: "Vous entendez soudain un bruit sourd et profond, semblant provenir d'une caverne. à l'intérieur, vous apercevez un Cyclope en train de briser des noix géantes avec un énorme Tomahawk, et tout autour de lui d'innombrables éclats de noix jonchant le sol. Vous approchez et grâce à votre patience, vous apprenez au Cyclope à ouvrir les noix sans les éclater. Reconnaissant, il vous fait cadeau de son Tomahawk."
+Text 2: "Vous entendez soudain un bruit sourd et profond, semblant provenir d'une caverne. À l'intérieur, vous apercevez un Cyclope en train de briser des noix géantes avec un énorme Tomahawk, et tout autour de lui d'innombrables éclats de noix jonchant le sol. Vous approchez et grâce à votre patience, vous apprenez au Cyclope à ouvrir les noix sans les éclater. Reconnaissant, il vous fait cadeau de son Tomahawk."
 Text 3: ""
 Text 4: ""
 Text 5: ""
@@ -12997,14 +12997,14 @@ Path: ""
 Texts count: "9"
 Text 0: ""
 Text 1: "Trident de Poséidon"
-Text 2: "après de longues recherches vous trouvez un puit. Au moment de remonter le seau d'eau, vos soldats vous expliquent que celui-ci est bloqué. Votre porte-étendard se porte volontaire pour descendre au fond du puit. Une fois au fond, il s'aperçoit qu'un imposant Trident obstruait le passage."
+Text 2: "Après de longues recherches vous trouvez un puits. Au moment de remonter le seau d'eau, vos soldats vous expliquent que celui-ci est bloqué. Votre porte-étendard se porte volontaire pour descendre au fond du puits. Une fois au fond, il s'aperçoit qu'un imposant Trident obstruait le passage."
 Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: "{Trident de Poséidon}
 
-Ce trident améliore votre caractéristique d'Attaque +7"
+Ce trident améliore votre Caractéristique d'Attaque +7"
 Text 8: "7000 # cost
 4 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - ballista, 11 - ammo cart, 12 - first aid tent, 13 - catapult, 14 - spell book)
 8 # type (1 - none, 2 - précieux, 4 - mineure, 8 - majeur, 16 - relique)
@@ -13035,7 +13035,7 @@ Text 5: ""
 Text 6: ""
 Text 7: "{Bouclier des Tempêtes}
 
-Ce bouclier améliore votre caractéristique de Défense +7"
+Ce bouclier améliore votre Caractéristique de Défense +7"
 Text 8: "7000 # cost
 5 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - ballista, 11 - ammo cart, 12 - first aid tent, 13 - catapult, 14 - spell book)
 8 # type (1 - none, 2 - précieux, 4 - mineure, 8 - majeur, 16 - relique)
@@ -13066,7 +13066,7 @@ Text 5: ""
 Text 6: ""
 Text 7: "{Broigne Royale Nix}
 
-Cette armure améliore votre caractéristique de Magie +6"
+Cette armure améliore votre Caractéristique de Magie +6"
 Text 8: "7000 # cost
 6 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - ballista, 11 - ammo cart, 12 - first aid tent, 13 - catapult, 14 - spell book)
 8 # type (1 - none, 2 - précieux, 4 - mineure, 8 - majeur, 16 - relique)
@@ -13097,7 +13097,7 @@ Text 5: ""
 Text 6: ""
 Text 7: "{Couronne des Cinq Mers}
 
-Cette Couronne en or améliore votre caractéristique de Savoir +6"
+Cette Couronne en or améliore votre Caractéristique de Savoir +6"
 Text 8: "7000 # cost
 1 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - ballista, 11 - ammo cart, 12 - first aid tent, 13 - catapult, 14 - spell book)
 8 # type (1 - none, 2 - précieux, 4 - mineure, 8 - majeur, 16 - relique)
@@ -13276,7 +13276,7 @@ Path: ""
 Texts count: "9"
 Text 0: ""
 Text 1: "Bague de Privation"
-Text 2: "Vous faites étape à une auberge pour déjeuner, et vous demandez au gérant qu'il vous pRépare des oeufs au plat. à la fin du repas vous règlez la note, mais à court de monnaie l'aubergiste vous remet une Bague."
+Text 2: "Vous faites étape à une auberge pour déjeuner, et vous demandez au gérant qu'il vous prépare des oeufs au plat. À la fin du repas vous règlez la note, mais à court de monnaie l'aubergiste vous remet une Bague."
 Text 3: "L'ennemi a Bague de Privation -1"
 Text 4: ""
 Text 5: ""
@@ -13369,7 +13369,7 @@ Path: ""
 Texts count: "9"
 Text 0: ""
 Text 1: "Cape du Silence"
-Text 2: "En longeant un Cimetière vous remarquez un vieil homme en train de pleurer sur la tombe de sa femme. Quand soudain, l'homme s'effondre et meurt. après l'avoir enterré, vous décidez d'emporter sa Cape."
+Text 2: "En longeant un Cimetière vous remarquez un vieil homme en train de pleurer sur la tombe de sa femme. Quand soudain, l'homme s'effondre et meurt. Après l'avoir enterré, vous décidez d'emporter sa Cape."
 Text 3: "La %s empêche %s de lancer des sorts de Niveau 1 et 2."
 Text 4: ""
 Text 5: ""
@@ -13469,7 +13469,7 @@ Text 5: ""
 Text 6: ""
 Text 7: "{Bracelet d'Angoisse}
 
-Ce Bracelet réduit la caractéristique Magie des Héros ennemis de 10% durant les combats."
+Ce Bracelet réduit la Caractéristique Magie des Héros ennemis de 10% durant les combats."
 Text 8: "5000 # cost
 9 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - ballista, 11 - ammo cart, 12 - first aid tent, 13 - catapult, 14 - spell book)
 4 # type (1 - none, 2 - précieux, 4 - mineure, 8 - majeur, 16 - relique)
@@ -13500,7 +13500,7 @@ Text 5: ""
 Text 6: ""
 Text 7: "{Sceau d'Astrologue}
 
-Le Sceau d'Astrologue réduit la caractéristique Magie des Héros ennemis de 10% durant les combats."
+Le Sceau d'Astrologue réduit la Caractéristique Magie des Héros ennemis de 10% durant les combats."
 Text 8: "5000 # cost
 7 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - ballista, 11 - ammo cart, 12 - first aid tent, 13 - catapult, 14 - spell book)
 4 # type (1 - none, 2 - précieux, 4 - mineure, 8 - majeur, 16 - relique)
@@ -13531,7 +13531,7 @@ Text 5: ""
 Text 6: ""
 Text 7: "{Plastron d'Obscurité}
 
-Ce Plastron réduit la caractéristique Magie des Héros ennemis de 25% durant les combats."
+Ce Plastron réduit la Caractéristique Magie des Héros ennemis de 25% durant les combats."
 Text 8: "10000 # cost
 6 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - ballista, 11 - ammo cart, 12 - first aid tent, 13 - catapult, 14 - spell book)
 16 # type (1 - none, 2 - précieux, 4 - mineure, 8 - majeur, 16 - relique)
@@ -15726,7 +15726,7 @@ Text 6: ""
 Text 7: ""
 Text 8: "Vous pénêtrez dans un Colisée en plein concours de magie, et parvenez rapidement à capter l'attention du public grâce à vos prouesses. En tant que magicien épris de connaissance, vous êtes ravi quand à la fin du spectacle les organisateurs vous remettent le premier prix : le grand grimoire académique du Colisée.
 (+2 en Magie ou Savoir une fois par Héros)
-L'administrateur du Colisée vous reconnait tout de suite et vous demande de ne pas entrer dans l'Arène. ""En égard à votre expérience vous devriez plutôt faire partie du jury."
+L'administrateur du Colisée vous reconnait tout de suite et vous demande de ne pas entrer dans l'Arène. ""Eu égard à votre expérience, vous devriez plutôt faire partie du jury."
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -15749,7 +15749,7 @@ Text 6: ""
 Text 7: ""
 Text 8: """{Puits Artésien}
 
-voilà un bel endroit pour faire halte cette nuit, et nul doute que demain vos troupes seront bien reposées. Souhaitez-vous y passer la nuit?""
+Voilà un bel endroit pour faire halte cette nuit, et nul doute que demain vos troupes seront bien reposées. Souhaitez-vous y passer la nuit?""
 (+1000 points de mouvement au prochain tour, ajoutés aux points restants)
 ""{Puits Artésien}
 
@@ -15812,7 +15812,7 @@ Vous voilà à quelque distance d'un ancien autel profondément enraciné dans l
 Vous voilà à quelque distance d'un ancien autel profondément enraciné dans le sol. Autrefois, un Artefact d'une grande puissance était conservé ici, mais pas de chance pour vous, l'autel est désormais vide.""
 ""{Autel des Abysses}
 
-après avoir vaincu les redoutables haspids, vous vous emparez de la légendaire Corne des Abysses."""
+Après avoir vaincu les redoutables haspids, vous vous emparez de la légendaire Corne des Abysses."""
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -15835,7 +15835,7 @@ Text 6: ""
 Text 7: ""
 Text 8: """{Source Minérale}
 
-à court d'eau, vous décidez de vous arrêter à une source naturelle afin que vos animaux se désaltèrent. Vous remarquez que l'eau est légèrement salée et votre cheval ne semble pas non plus l'apprécier. Pourtant quelques minutes plus tard, lorsqu'il est saisit d'une impressionnante vigueur, votre destrier démarre au triple galop. Un bel arc-en-ciel se forme alors au-dessus de la source, là-même ou les gouttelettes d'eau semblent être dans un état de suspension permanent. Ce spectacle est un ravissement pour les yeux, et vous met de bonne humeur.""
+À court d'eau, vous décidez de vous arrêter à une source naturelle afin que vos animaux se désaltèrent. Vous remarquez que l'eau est légèrement salée et votre cheval ne semble pas non plus l'apprécier. Pourtant quelques minutes plus tard, lorsqu'il est saisit d'une impressionnante vigueur, votre destrier démarre au triple galop. Un bel arc-en-ciel se forme alors au-dessus de la source, là-même ou les gouttelettes d'eau semblent être dans un état de suspension permanent. Ce spectacle est un ravissement pour les yeux, et vous met de bonne humeur.""
 (+1 de Chance jusqu'au prochain combat et +600 pts de mouvement pour un jour)
 ""{Source Minérale}
 
@@ -15926,7 +15926,7 @@ Text 7: ""
 Text 8: """{Antiquaire}
 
 Visiting text.""
-Gardez pour vous ces morceaux de papier. Je n'acHâte pas de parchemins."
+Gardez pour vous ces morceaux de papier. Je n'achète pas de parchemins."
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -15966,17 +15966,17 @@ Name: "actobj009"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Labo du Warlock"
+Text 1: "Laboratoire de l'Alchimiste"
 Text 2: "Store.wav"
 Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: ""
-Text 8: """{Labo du Warlock}
+Text 8: """{Laboratoire de l'Alchimiste}
 
 Visiting text (not used).""
-""Ce Labo vous permet d'échanger de précieuses ressources entre elles, au ratio de 1 pour 1. Pour activer le processus de transmutation, sélectionnez les ressources à échanger.""
+""Ce Laboratoire vous permet d'échanger de précieuses ressources entre elles, au ratio de 1 pour 1. Pour activer le processus de transmutation, sélectionnez les ressources à échanger.""
 ""L'opération s'est bien déroulée, et vos nouvelles ressources sont prêtes. Avez-vous d'autres ressources à échanger?""
 ""Ressources obtenues après transmutation""
 ""Ordre de transmuter : obtenir %d %s de %s pour %d %s de %s.""
@@ -16030,10 +16030,10 @@ Text 7: ""
 Text 8: """{Pionnier} 
 
 """"Je connais ces terres arides comme la paume de ma main. Et même si je ne sors presque plus, je suis capable de retrouver mon chemin quelque soit les circonstances. Je suppose que je pourrais vous accompagner si vous souhaitez vraiment gagner du temps,"""" affirme l'homme qui vit dans cette tente.""
-(réduit la pénalité de mouvement sur terrain Aride de 50% jusqu'à la fin de la semaine)
+(Réduit la pénalité de mouvement sur terrain Aride de 50% jusqu'à la fin de la semaine)
 ""{Pionnier}
 
-""""Ah, mais revoilà ma tente. Voila que nous tournons en rond maintenant? J'ai peut-être commis quelque erreur de repérage,"""" dit l'homme en haussant les Épaules."""
+""""Ah, mais revoilà ma tente. Voila que nous tournons en rond maintenant? J'ai peut-être commis quelque erreur de repérage,"""" dit l'homme en haussant les épaules."""
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -16137,15 +16137,15 @@ Text 6: ""
 Text 7: "# 0
 ""{Novice en Interférence}
 
-réduit la caractéristique Magie de l'ennemi de 10% durant les combats.""
+Réduit la Caractéristique Magie de l'ennemi de 10% durant les combats.""
 # 1
 ""{Disciple en Interférence}
 
-réduit la caractéristique Magie de l'ennemi de 20% durant les combats.""
+Réduit la Caractéristique Magie de l'ennemi de 20% durant les combats.""
 # 2
 ""{Maître en Interférence}
 
-réduit la caractéristique Magie de l'ennemi de 30% durant les combats."""
+Réduit la Caractéristique Magie de l'ennemi de 30% durant les combats."""
 Text 8: ""
 Has FilS: "false"
 Vals count: "4"
@@ -16273,7 +16273,7 @@ G3A_enR.pcx G3A_enB.pcx G3A_enN.pcx G3A_enG.pcx G3A_enO.pcx G3A_enV.pcx G3A_enT.
 G3A_seR.pcx G3A_seB.pcx G3A_seN.pcx G3A_seG.pcx G3A_seO.pcx G3A_seV.pcx G3A_seT.pcx G3A_seP.pcx
 G3A_coR.pcx G3A_coB.pcx G3A_coN.pcx G3A_coG.pcx G3A_coO.pcx G3A_coV.pcx G3A_coT.pcx G3A_coP.pcx
 # Map 2
-C. d'Emeraude, H. Saule, Chênaie, B. Brulé
+C. d'Émeraude, H. Saule, Chênaie, B. Brulé
 G3B_enR.pcx G3B_enB.pcx G3B_enN.pcx G3B_enG.pcx G3B_enO.pcx G3B_enV.pcx G3B_enT.pcx G3B_enP.pcx
 G3B_seR.pcx G3B_seB.pcx G3B_seN.pcx G3B_seG.pcx G3B_seO.pcx G3B_seV.pcx G3B_seT.pcx G3B_seP.pcx
 G3B_coR.pcx G3B_coB.pcx G3B_coN.pcx G3B_coG.pcx G3B_coO.pcx G3B_coV.pcx G3B_coT.pcx G3B_coP.pcx
@@ -16384,7 +16384,7 @@ E2A_enR.pcx E2A_enB.pcx E2A_enN.pcx E2A_enG.pcx E2A_enO.pcx E2A_enV.pcx E2A_enT.
 E2A_seR.pcx E2A_seB.pcx E2A_seN.pcx E2A_seG.pcx E2A_seO.pcx E2A_seV.pcx E2A_seT.pcx E2A_seP.pcx
 E2A_coR.pcx E2A_coB.pcx E2A_coN.pcx E2A_coG.pcx E2A_coO.pcx E2A_coV.pcx E2A_coT.pcx E2A_coP.pcx
 # Map 2
-Les Collines d'Emeraude
+Les Collines d'Émeraude
 E2B_enR.pcx E2B_enB.pcx E2B_enN.pcx E2B_enG.pcx E2B_enO.pcx E2B_enV.pcx E2B_enT.pcx E2B_enP.pcx
 E2B_seR.pcx E2B_seB.pcx E2B_seN.pcx E2B_seG.pcx E2B_seO.pcx E2B_seV.pcx E2B_seT.pcx E2B_seP.pcx
 E2B_coR.pcx E2B_coB.pcx E2B_coN.pcx E2B_coG.pcx E2B_coO.pcx E2B_coV.pcx E2B_coT.pcx E2B_coP.pcx
@@ -16545,7 +16545,7 @@ Val 3: "0"
 Name: "campmap8"
 Path: ""
 Texts count: "9"
-Text 0: "Iles"
+Text 0: "Îles"
 Text 1: "IS_bg.pcx"
 Text 2: ""
 Text 3: ""
@@ -16563,22 +16563,22 @@ Text 8: "# Campaign type (0 - region map, 1 - generated region map)
 41 92
 295 399
 # Map 1
-Iles A
+Îles A
 IsA_enRe.pcx IsA_enBl.pcx IsA_enBr.pcx IsA_enGr.pcx IsA_enOr.pcx IsA_enVi.pcx IsA_enTe.pcx IsA_enPi.pcx
 IsA_seRe.pcx IsA_seBl.pcx IsA_seBr.pcx IsA_seGr.pcx IsA_seOr.pcx IsA_seVi.pcx IsA_seTe.pcx IsA_sePi.pcx
 IsA_coRe.pcx IsA_coBl.pcx IsA_coBr.pcx IsA_coGr.pcx IsA_coOr.pcx IsA_coVi.pcx IsA_coTe.pcx IsA_coPi.pcx
 # Map 2
-Iles B
+Îles B
 IsB_enRe.pcx IsB_enBl.pcx IsB_enBr.pcx IsB_enGr.pcx IsB_enOr.pcx IsB_enVi.pcx IsB_enTe.pcx IsB_enPi.pcx
 IsB_seRe.pcx IsB_seBl.pcx IsB_seBr.pcx IsB_seGr.pcx IsB_seOr.pcx IsB_seVi.pcx IsB_seTe.pcx IsB_sePi.pcx
 IsB_coRe.pcx IsB_coBl.pcx IsB_coBr.pcx IsB_coGr.pcx IsB_coOr.pcx IsB_coVi.pcx IsB_coTe.pcx IsB_coPi.pcx
 # Map 3
-Iles C
+Îles C
 IsC_enRe.pcx IsC_enBl.pcx IsC_enBr.pcx IsC_enGr.pcx IsC_enOr.pcx IsC_enVi.pcx IsC_enTe.pcx IsC_enPi.pcx
 IsC_seRe.pcx IsC_seBl.pcx IsC_seBr.pcx IsC_seGr.pcx IsC_seOr.pcx IsC_seVi.pcx IsC_seTe.pcx IsC_sePi.pcx
 IsC_coRe.pcx IsC_coBl.pcx IsC_coBr.pcx IsC_coGr.pcx IsC_coOr.pcx IsC_coVi.pcx IsC_coTe.pcx IsC_coPi.pcx
 # Map 4
-Iles D
+Îles D
 IsD_enRe.pcx IsD_enBl.pcx IsD_enBr.pcx IsD_enGr.pcx IsD_enOr.pcx IsD_enVi.pcx IsD_enTe.pcx IsD_enPi.pcx
 IsD_seRe.pcx IsD_seBl.pcx IsD_seBr.pcx IsD_seGr.pcx IsD_seOr.pcx IsD_seVi.pcx IsD_seTe.pcx IsD_sePi.pcx
 IsD_coRe.pcx IsD_coBl.pcx IsD_coBr.pcx IsD_coGr.pcx IsD_coOr.pcx IsD_coVi.pcx IsD_coTe.pcx IsD_coPi.pcx"
@@ -16961,7 +16961,7 @@ Val 3: "0"
 Name: "campmap16"
 Path: ""
 Texts count: "9"
-Text 0: "Elixir de Vie"
+Text 0: "Élixir de Vie"
 Text 1: "EL_bg.pcx"
 Text 2: ""
 Text 3: ""
@@ -16979,22 +16979,22 @@ Text 8: "# Campaign type (0 - region map, 1 - generated region map)
 255 34
 92 144
 # Map 1
-Elixir de Vie A
+Élixir de Vie A
 ELA_enRe.pcx ELA_enBl.pcx ELA_enBr.pcx ELA_enGr.pcx ELA_enOr.pcx ELA_enVi.pcx ELA_enTe.pcx ELA_enPi.pcx
 ELA_seRe.pcx ELA_seBl.pcx ELA_seBr.pcx ELA_seGr.pcx ELA_seOr.pcx ELA_seVi.pcx ELA_seTe.pcx ELA_sePi.pcx
 ELA_coRe.pcx ELA_coBl.pcx ELA_coBr.pcx ELA_coGr.pcx ELA_coOr.pcx ELA_coVi.pcx ELA_coTe.pcx ELA_coPi.pcx
 # Map 2
-Elixir de Vie B
+Élixir de Vie B
 ELB_enRe.pcx ELB_enBl.pcx ELB_enBr.pcx ELB_enGr.pcx ELB_enOr.pcx ELB_enVi.pcx ELB_enTe.pcx ELB_enPi.pcx
 ELB_seRe.pcx ELB_seBl.pcx ELB_seBr.pcx ELB_seGr.pcx ELB_seOr.pcx ELB_seVi.pcx ELB_seTe.pcx ELB_sePi.pcx
 ELB_coRe.pcx ELB_coBl.pcx ELB_coBr.pcx ELB_coGr.pcx ELB_coOr.pcx ELB_coVi.pcx ELB_coTe.pcx ELB_coPi.pcx
 # Map 3
-Elixir de Vie C
+Élixir de Vie C
 ELC_enRe.pcx ELC_enBl.pcx ELC_enBr.pcx ELC_enGr.pcx ELC_enOr.pcx ELC_enVi.pcx ELC_enTe.pcx ELC_enPi.pcx
 ELC_seRe.pcx ELC_seBl.pcx ELC_seBr.pcx ELC_seGr.pcx ELC_seOr.pcx ELC_seVi.pcx ELC_seTe.pcx ELC_sePi.pcx
 ELC_coRe.pcx ELC_coBl.pcx ELC_coBr.pcx ELC_coGr.pcx ELC_coOr.pcx ELC_coVi.pcx ELC_coTe.pcx ELC_coPi.pcx
 # Map 4
-Elixir de Vie D
+Élixir de Vie D
 ELD_enRe.pcx ELD_enBl.pcx ELD_enBr.pcx ELD_enGr.pcx ELD_enOr.pcx ELD_enVi.pcx ELD_enTe.pcx ELD_enPi.pcx
 ELD_seRe.pcx ELD_seBl.pcx ELD_seBr.pcx ELD_seGr.pcx ELD_seOr.pcx ELD_seVi.pcx ELD_seTe.pcx ELD_sePi.pcx
 ELD_coRe.pcx ELD_coBl.pcx ELD_coBr.pcx ELD_coGr.pcx ELD_coOr.pcx ELD_coVi.pcx ELD_coTe.pcx ELD_coPi.pcx"
