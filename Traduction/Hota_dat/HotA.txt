@@ -2117,16 +2117,16 @@ Perchoir
 Firmament
 Entrepôt"
 Text 8: "Unused.
-Le Pub permet de recruter +4 Matelots supplmentaires chaque semaine.
-Le Pub permet de recruter +4 Marins supplmentaires chaque semaine.
+Le Pub permet de recruter +4 Matelots supplémentaires chaque semaine.
+Le Pub permet de recruter +4 Marins supplémentaires chaque semaine.
 Le Chantier Naval vous permet d'acheter des bateaux.
 Le Dépôt à Poudre permet de recruter des Flibustiers.
-La Guilde des Voleurs révèle quelques informations supplmentaires sur vos ennemis.
-La Grotte permet d'échanger des Artefacts ou de sacrifier des créatures contre de l'expérience.
-Le Perchoir permet de recruter +3 Dracs supplmentaires chaque semaine.
-Le Perchoir permet de recruter +3 Dracs Mordorés supplmentaires chaque semaine.
-Le Firmament permet de recruter 50% de créatures en plus chaque semaine et fournit à votre royaume +5000 pièces d'Or supplmentaires par jour. De plus, tous les terrains sont associés à l'environnement naturel des créatures de la Crique.
-Cette amélioration du Marché fournit des ressources supplmentaires : +1 unité de Soufre par jour."
+La Guilde des Voleurs révèle quelques informations supplémentaires sur vos ennemis.
+La Grotte permet d'échanger des Artéfacts ou de sacrifier des créatures contre de l'expérience.
+Le Perchoir permet de recruter +3 Dracs supplémentaires chaque semaine.
+Le Perchoir permet de recruter +3 Dracs Mordorés supplémentaires chaque semaine.
+Le Firmament permet de recruter 50% de créatures en plus chaque semaine et fournit à votre royaume +5000 pièces d'Or supplémentaires par jour. De plus, tous les terrains sont associés à l'environnement naturel des créatures de la Crique.
+Cette amélioration du Marché fournit des ressources supplémentaires : +1 unité de Soufre par jour."
 Has FilS: "true"
 FilS size: 252
 FilS: "00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 05 00 00 00 05 00 00 00 05 00 00 00 05 00 00 00 05 00 00 00 05 00 00 00 b8 0b 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 f4 01 00 00 0f 00 00 00 00 00 00 00 0f 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 4c 1d 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 03 00 00"
@@ -2197,7 +2197,7 @@ Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
-Text 7: "Marchand d'Artefacts
+Text 7: "Marchand d'Artéfacts
 Corral
 Corral
 Générateur de Mana
@@ -2208,17 +2208,17 @@ Unused
 Unused
 Paratonnerre
 Entrepôt"
-Text 8: "L'échoppe du Marchand d'Artefacts propose à la vente des Objets Magiques à un prix dérisoire.
-Le Corral permet de recruter +3 Glyptodons supplmentaires chaque semaine.
-Le Corral permet de recruter +3 Glyptodons Royaux supplmentaires chaque semaine.
+Text 8: "L'échoppe du Marchand d'Artéfacts propose à la vente des Objets Magiques à un prix dérisoire.
+Le Corral permet de recruter +3 Glyptodons supplémentaires chaque semaine.
+Le Corral permet de recruter +3 Glyptodons Royaux supplémentaires chaque semaine.
 Le Générateur de Mana fait bénéficier tous les Héros qui défendent la ville d'un bonus de 20 points de Magie supplémentaires lors d'un siège.
 La Banque permet d'obtenir un prêt de 2500 pièces d'Or, mais la ville doit rembourser 500 pièces d'Or par jour qu'elle prend sur ses revenus, durant les 5 jours suivants.
 Le Portique permet de recruter des Démolisseurs.
 Le Portique amélioré permet de recruter des Juggernauts.
 Unused
 Unused
-Le Paratonnerre permet de recruter 50% de créatures en plus chaque semaine et fournit à votre royaume +5000 pièces d'Or supplmentaires par jour. De plus, la foudre s'abat sur tous les ennemis au premier tour d'une bataille. Les dégâts infligés sont proportionnels au nombre de bâtiments construits dans la ville.
-Cette amélioration du Marché fournit des ressources supplmentaires : +1 unité de Cristal par jour."
+Le Paratonnerre permet de recruter 50% de créatures en plus chaque semaine et fournit à votre royaume +5000 pièces d'Or supplémentaires par jour. De plus, la foudre s'abat sur tous les ennemis au premier tour d'une bataille. Les dégâts infligés sont proportionnels au nombre de bâtiments construits dans la ville.
+Cette amélioration du Marché fournit des ressources supplémentaires : +1 unité de Cristal par jour."
 Has FilS: "true"
 FilS size: 252
 FilS: "00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 10 27 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 f4 01 00 00 00 00 00 00 00 00 00 00 14 00 00 00 00 00 00 00 14 00 00 00 00 00 00 00 98 3a 00 00 00 00 00 00 00 00 00 00 0a 00 00 00 00 00 00 00 14 00 00 00 00 00 00 00 98 3a 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
@@ -2413,7 +2413,7 @@ Restitue %d points de vie.""
 Restitue au maximum %d points de vie - effets cumulatifs.""
 #33
 ""
-En supplment de la restitution effective de points de vie sur des unités déjà sacrifiées, %d points de vie sont restitués pour chaque nouvelle créature sacrifiée.""
+En supplément de la restitution effective de points de vie sur des unités déjà sacrifiées, %d points de vie sont restitués pour chaque nouvelle créature sacrifiée.""
 #34
 ""
 Plafond du nombre de points de vie par groupe de créatures : %d.""
@@ -2421,7 +2421,7 @@ Plafond du nombre de points de vie par groupe de créatures : %d.""
 ""
 Nombre d'Élémentaires invoqués : %d.""
 #36
-échanges entre Héros
+Échanges entre Héros
 #37
 Ouvrir échanges entre Héros
 #38
@@ -2536,7 +2536,7 @@ Essayez de vous connecter depuis l'option Nouvelle Partie.""
 ""Une sauvegarde a été chargée sur le serveur alors que vous tentez de vous connecter depuis l'option Nouvelle Partie.
 Essayez de vous connecter depuis l'option Charger.""
 #87
-Nombre d'Artefacts :
+Nombre d'Artéfacts :
 #88
 Attaque à Distance
 #89
@@ -2612,11 +2612,11 @@ Gardé
 #113
 Non Gardé
 #114
-Le contenu complet de la boùte :
+Le contenu complet de la boîte :
 #115
-Une partie du contenu de la boùte :
+Une partie du contenu de la boîte :
 #116
-La boùte est vide.
+La boîte est vide.
 #117
 Félicitations ! %s a gagné au Mode Arène. La victoire est à vous.
 #118
@@ -2885,7 +2885,7 @@ Les %s récupèrent %d points de vie
 #232
 &Aide
 #233
-Artefacts gratuits
+Artéfacts gratuits
 #234
 Sorts gratuits
 #235
@@ -2911,7 +2911,7 @@ Afficher les objets cachés
 #245
 Afficher les hexagones occupés
 #246
-Placez tous les obstacles
+Placer tous les obstacles
 #247
 Le joueur actuel gagne
 #248
@@ -2939,7 +2939,7 @@ Spécial
 #259
 Précieux
 #260
-Mineure
+Mineur
 #261
 Majeur
 #262
@@ -2949,7 +2949,7 @@ Pour une campagne
 #264
 Composite
 #265
-Sélectione la campagne Horn of the Abyss
+Sélectioner la campagne Horn of the Abyss
 #266
 ""
 
@@ -2972,7 +2972,7 @@ Réparer les créatures mécaniques
 #272
 ""{Réparer les créatures mécaniques}
 
-Force les unités à Réparer les créatures mécaniques au lieu de se déplacer.""
+Force les unités à réparer les créatures mécaniques au lieu de se déplacer.""
 #273
 Vous tombez par hasard sur un Héros qui a installé son camp au bord de la route. Celui-ci ayant entendu parler de vos exploits, décide de vous rejoindre avec toute son armée.
 #274
@@ -3004,13 +3004,13 @@ Non affecté par la chance
 
 Les points de mouvement déterminent la distance que le Héros peut parcourir sur la carte. En général, un déplacement d'une case coûte environ 100 points de mouvement.""
 #287
-Les %s dévorent un cadavre et gagnent un coup supplmentaire.
+Les %s dévorent un cadavre et gagnent un coup supplémentaire.
 #288
-Les %s dévorent %d cadavres et gagnent des coups supplmentaires.
+Les %s dévorent %d cadavres et gagnent des coups supplémentaires.
 #289
-Les %s dévorent un cadavre et gagnent un coup supplmentaire.
+Les %s dévorent un cadavre et gagnent un coup supplémentaire.
 #290
-Les %s dévorent %d cadavres et gagnent des coups supplmentaires.
+Les %s dévorent %d cadavres et gagnent des coups supplémentaires.
 #291
 Explosions en chaîne
 #292
@@ -3044,15 +3044,15 @@ Réparer les %s.
 #304
 Vous n'avez plus de villes ni de Héros. Vous avez perdu !"
 #305
-Il paraît que ces pièces peuvent être combinées en un puissant artefact dans un autre pays, mais ce n'est pas possible dans cette contrée.
+Il paraît que ces pièces peuvent être combinées en un puissant artéfact dans un autre pays, mais ce n'est pas possible dans cette contrée.
 #306
-Il paraît que cet artefact peut être séparé en plusieurs parties dans d'autres pays, mais ce n'est pas possible dans cette contrée.
+Il paraît que cet artéfact peut être séparé en plusieurs parties dans d'autres pays, mais ce n'est pas possible dans cette contrée.
 #307
-Cet artefact ne peut être divisé.
+Cet artéfact ne peut être divisé.
 #308
-C'est un composant de l'artefact %s.
+C'est un composant de l'artéfact %s.
 #309
-Il paraît que cet artefact peut être combiné avec d'autres pièces pour former %s, mais ce n'est pas possible dans cette contrée.
+Il paraît que cet artéfact peut être combiné avec d'autres pièces pour former %s, mais ce n'est pas possible dans cette contrée.
 #310
 Pion
 #311
@@ -3385,27 +3385,27 @@ Ce format de carte est incompatible avec cette version d'HotA. Cette carte a dû
 ""Gardes : %s.
 Récompense : %s.""
 # 35
-Artefact Précieux
+Artéfact Précieux
 # 36
-Artefact Mineure
+Artéfact Mineur
 # 37
-Artefact Majeur
+Artéfact Majeur
 # 38
 Relique
 # 39
-Artefacts Précieux
+Artéfacts Précieux
 # 40
-Artefacts Mineure
+Artéfacts Mineur
 # 41
-Artefacts Majeur
+Artéfacts Majeur
 # 42
 Reliques
 # 43
-Artefacts Précieux
+Artéfacts Précieux
 # 44
-Artefacts Mineure
+Artéfacts Mineur
 # 45
-Artefacts Majeur
+Artéfacts Majeur
 # 46
 Reliques
 # 47
@@ -3417,7 +3417,7 @@ Aléatoire (chances : %s%%)
 # 50
 Aléatoire (%d%% de chances)
 # 51
-Choisir les Artefacts :
+Choisir les Artéfacts :
 # 52
 Ajout de créatures :
 # 53
@@ -3473,7 +3473,7 @@ Vaincre un Héros spécifique
 # 76
 Vaincre un Monstre spécifique
 # 77
-Rapporter un Artefact
+Rapporter un Artéfact
 # 78
 Ramener des créatures
 # 79
@@ -3493,7 +3493,7 @@ Un Lieu de Combat ne peut être placé que sur une carte dont le Mode Arène est
 Le Mode Arène requiert que la carte soit conçue pour un duel unique entre 2 Héros avec une préparation préliminaire. Il faut placer au moins un Lieu de Combat sur la carte pour valider le Mode Arène.
 ""
 # 86
-Le Mode Arène vient d'être activé. Dans ce Mode, la carte doit être conçue pour un duel unique entre 2 Héros avec une préparation préliminaire. Il sera impossible d'utiliser cette carte pour une partie classique d'Heroes 3 Horn of the Abyss. Les conditions de Victoire et défaite seront réinitialisées. Êtes-vous sûr de vouloir continuer ?
+Le Mode Arène vient d'être activé. Dans ce Mode, la carte doit être conçue pour un duel unique entre 2 Héros avec une préparation préliminaire. Il sera impossible d'utiliser cette carte pour une partie classique d'Heroes 3 Horn of the Abyss. Les conditions de Victoire et Défaite seront réinitialisées. Êtes-vous sûr de vouloir continuer ?
 # 87
 Le Mode Arène vient d'être désactivé. Tous les Lieux de Combat seront supprimés. Êtes-vous sûr de vouloir continuer ?
 # 88
@@ -3541,13 +3541,13 @@ Coût
 # 109
 Aléatoire (400-600 pièces d'Or et 4 à 6 ressources)
 # 110
-Aléatoire (10% chances: rien / 50% chances: 2 à 5 ressources autre que l'Or / 40% chances: 1 Artefact Niv.1 ou Niv.2)
+Aléatoire (10% chances: rien / 50% chances: 2 à 5 ressources autre que l'Or / 40% chances: 1 Artéfact Niv.1 ou Niv.2)
 # 111
 Aléatoire (20% chances: rien / 80% chances: 3 à 6 ressources autre que l'Or)
 # 112
 Aléatoire (1 à 4 ressources autre que l'Or)
 # 113
-Aléatoire (1500-4000 pièces d'Or et 1 Artefact Niv.1 ou Niv.2)
+Aléatoire (1500-4000 pièces d'Or et 1 Artéfact Niv.1 ou Niv.2)
 # 114
 Aléatoire (4 à 7 Génies)
 # 115
@@ -3563,11 +3563,11 @@ Bloquer le niveau d'expérience
 # 120
 Gardes
 # 121
-Artefact Niv.1 ou Niv.2
+Artéfact Niv.1 ou Niv.2
 # 122
-Artefact aléatoire
+Artéfact aléatoire
 # 123
-Sélectionner un Artefact
+Sélectionner un Artéfact
 # 124
 4 compétences aléatoires sauf Nécromancie
 # 125
@@ -3595,9 +3595,9 @@ Sorts :
 # 136
 Rouleau contenant le sort : %s
 # 137
-Artefacts :
+Artéfacts :
 # 138
-Conditions spéciales d'acquisition des Artefacts
+Conditions spéciales d'acquisition des Artéfacts
 # 139
 Affronter des monstres
 # 140
@@ -3635,7 +3635,7 @@ Horde de créatures Niv 7
 # 156
 Ce bâtiment augmente la production de créatures de Niveau 7.
 # 157
-""""""L'Artefact de la Quête de la %s est le Rouleau du sort %s, mais le rouleau en question n'a pas été placé sur la carte."""".
+""""""L'Artéfact de la Quête de la %s est le Rouleau du sort %s, mais le rouleau en question n'a pas été placé sur la carte."""".
 Pour qu'un joueur puisse accomplir une Quête de la Hutte du Voyant, ou du Gardien de Quête, l'objet de la Quête (dans ce cas précis le Rouleau de sort associé), doit exister sur la carte, ou se trouver sur un Héros, un objet événement, une boite de Pandore ou être la récompense d'une autre Hutte du Voyant.
 ""
 # 158
@@ -3650,9 +3650,9 @@ Tout autoriser
 Il est recommandé d'aménager une route sous le pont.
 ""
 # 162
-Des objets obsolêtes ont été trouvés :
+Des objets obsolètes ont été trouvés :
 # 163
-Objets obsolêtes
+Objets obsolètes
 # 164
 """"""Le Chantier Aéronaval à (%d, %d, %d) est bloqué"""".
 Si toutes les cellules destinées à la construction sont occupées, le joueur ne pourra pas construire de dirigeable.
@@ -3672,9 +3672,9 @@ Propriétés de la Carte"
 # 169
 Appliquer aux villes neutres
 # 170
-Artefact combiné
+Artéfact combiné
 # 171
-Artefacts qui peuvent être assemblés et désassemblés
+Artéfacts qui peuvent être assemblés et désassemblés
 # 172
 Permettre l'arrivée de Heroes haut niveau dans la taverne
 # 173
@@ -3767,9 +3767,9 @@ Text 6: ""
 Text 7: "2
 -1
 ""Autel du Sacrifice
-Les Héros des forces du bien peuvent sacrifier des Artefacts pour gagner de l'expérience.
+Les Héros des forces du bien peuvent sacrifier des Artéfacts pour gagner de l'expérience.
 Les Héros des forces du mal peuvent sacrifier des créatures pour gagner de l'expérience.
-Les Héros neutres peuvent sacrifier à la fois des Artefacts et des créatures.""
+Les Héros neutres peuvent sacrifier à la fois des Artéfacts et des créatures.""
 
 4
 -1
@@ -3784,7 +3784,7 @@ La Boite de Pandore peut contenir n'importe quoi.""
 7
 -1
 ""Marché Noir
-Le Marché Noir propose des Artefacts à la vente. (avec la même efficacité que si vous aviez 5 Marchés)""
+Le Marché Noir propose des Artéfacts à la vente. (avec la même efficacité que si vous aviez 5 Marchés)""
 
 8
 -1
@@ -3829,7 +3829,7 @@ Sur ce terrain les effets de la Chance et du Moral sont annulés.""
 -1
 ""Cadavre
 - 80% de chances de ne rien trouver.
-- 20% de chances de trouver 1 Artefact. 1000 pièces d'Or si la besace est pleine.""
+- 20% de chances de trouver 1 Artéfact. 1000 pièces d'Or si la besace est pleine.""
 
 23
 -1
@@ -3840,19 +3840,19 @@ Sur ce terrain les effets de la Chance et du Moral sont annulés.""
 -1
 ""Bateau abandonné
 - 30% de chances d'affronter 20 Élémentaires de l'Eau contre 3000 pièces d'Or.
-- 30% de chances d'affronter 30 Élémentaires de l'Eau contre 3000 pièces d'Or et 1 Artefact.
-- 30% de chances d'affronter 40 Élémentaires de l'Eau contre 4000 pièces d'Or et 1 Artefact.
-- 10% de chances d'affronter 60 Élémentaires de l'Eau contre 6000 pièces d'Or et 1 Artefact.
+- 30% de chances d'affronter 30 Élémentaires de l'Eau contre 3000 pièces d'Or et 1 Artéfact.
+- 30% de chances d'affronter 40 Élémentaires de l'Eau contre 4000 pièces d'Or et 1 Artéfact.
+- 10% de chances d'affronter 60 Élémentaires de l'Eau contre 6000 pièces d'Or et 1 Artéfact.
 
--1 de Moral si le Héros visite le Bateau abandonné lorsque celui-ci est vide.( Optimisable )""
+-1 de Moral si le Héros visite le Bateau abandonné lorsque celui-ci est vide.""
 
 25
 -1
 ""Terres Désolées
-- 30% de chances d'affronter 8 Dragons Verts, 5 Dragons Rouges, 2 Dragons d'Or et 1 Dragon Noir contre 20000 pièces d'Or et 4 Artefacts.
-- 30% de chances d'affronter 8 Dragons Verts, 6 Dragons Rouges, 3 Dragons d'Or et 2 Dragons Noirs contre 30000 pièces d'Or et 4 Artefacts.
-- 30% de chances d'affronter 8 Dragons Verts, 6 Dragons Rouges, 4 Dragons d'Or et 3 Dragons Noirs contre 40000 pièces d'Or et 4 Artefacts.
-- 10% de chances d'affronter 8 Dragons Verts, 7 Dragons Rouges, 6 Dragons d'Or et 5 Dragons Noirs contre 50000 pièces d'Or et 4 Artefacts.""
+- 30% de chances d'affronter 8 Dragons Verts, 5 Dragons Rouges, 2 Dragons d'Or et 1 Dragon Noir contre 20000 pièces d'Or et 4 Artéfacts.
+- 30% de chances d'affronter 8 Dragons Verts, 6 Dragons Rouges, 3 Dragons d'Or et 2 Dragons Noirs contre 30000 pièces d'Or et 4 Artéfacts.
+- 30% de chances d'affronter 8 Dragons Verts, 6 Dragons Rouges, 4 Dragons d'Or et 3 Dragons Noirs contre 40000 pièces d'Or et 4 Artéfacts.
+- 10% de chances d'affronter 8 Dragons Verts, 7 Dragons Rouges, 6 Dragons d'Or et 5 Dragons Noirs contre 50000 pièces d'Or et 4 Artéfacts.""
 
 26
 -1
@@ -4034,23 +4034,23 @@ Si le Héros n'a pas la compétence Sagesse requise, le sort est perdu.
 
 65
 -1
-""Artefact Aléatoire
-Cet objet est remplacé par n'importe quel Artefact Précieux, Mineure ou Majeur.""
+""Artéfact Aléatoire
+Cet objet est remplacé par n'importe quel Artéfact Précieux, Mineur ou Majeur.""
 
 66
 -1
-""Artefact Précieux Aléatoire
-Cet objet est remplacé par n'importe quel Artefact Précieux.""
+""Artéfact Précieux Aléatoire
+Cet objet est remplacé par n'importe quel Artéfact Précieux.""
 
 67
 -1
-""Artefact Mineure Aléatoire
-Cet objet est remplacé par n'importe quel Artefact Mineure.""
+""Artéfact Mineur Aléatoire
+Cet objet est remplacé par n'importe quel Artéfact Mineur.""
 
 68
 -1
-""Artefact Majeur Aléatoire
-Cet objet est remplacé par n'importe quel Artefact Majeur.""
+""Artéfact Majeur Aléatoire
+Cet objet est remplacé par n'importe quel Artéfact Majeur.""
 
 69
 -1
@@ -4123,7 +4123,7 @@ Puis l'érudit disparaît.""
 ""Coffre
 - 20% de chances de ne rien trouver.
 - 70% de chances de trouver 1500 pièces d'Or.
-- 10% de chances de trouver 1500 pièces d'Or et 1 Artefact. 1500 pièces d'Or si la besace est pleine.""
+- 10% de chances de trouver 1500 pièces d'Or et 1 Artéfact. 1500 pièces d'Or si la besace est pleine.""
 
 83
 -1
@@ -4136,8 +4136,8 @@ L'objet de la Quête doit être précisé.""
 ""Crypte
 - 30% de chances d'affronter 30 Squelettes et 20 Trépassés contre 1500 pièces d'Or.
 - 30% de chances d'affronter 25 Squelettes, 20 Trépassés et 5 Revenants contre 2000 pièces d'Or.
-- 30% de chances d'affronter 20 Squelettes, 20 Trépassés, 10 Revenants et 5 Vampires contre 2500 pièces d'Or et 1 Artefact Précieux.
-- 10% de chances d'affronter 20 Squelettes, 20 Trépassés, 10 Revenants et 10 Vampires contre 5000 pièces d'Or et 1 Artefact Précieux.
+- 30% de chances d'affronter 20 Squelettes, 20 Trépassés, 10 Revenants et 5 Vampires contre 2500 pièces d'Or et 1 Artéfact Précieux.
+- 10% de chances d'affronter 20 Squelettes, 20 Trépassés, 10 Revenants et 10 Vampires contre 5000 pièces d'Or et 1 Artéfact Précieux.
 
 -1 de Moral si le Héros pénêtre dans la Crypte une fois que celle-ci est déserté.""
 
@@ -4146,18 +4146,18 @@ L'objet de la Quête doit être précisé.""
 ""Épave
 - 30% de chances d'affronter 10 Revenants contre 2000 pièces d'Or.
 - 30% de chances d'affronter 15 Revenants contre 3000 pièces d'Or.
-- 30% de chances d'affronter 25 Revenants contre 4000 pièces d'Or et 1 Artefact Précieux.
-- 10% de chances d'affronter 50 Revenants contre 5000 pièces d'Or et 1 Artefact Mineure.
+- 30% de chances d'affronter 25 Revenants contre 4000 pièces d'Or et 1 Artéfact Précieux.
+- 10% de chances d'affronter 50 Revenants contre 5000 pièces d'Or et 1 Artéfact Mineur.
 
 -1 de Moral si le Héros visite l'Épave une fois que celle-ci est déserté.""
 
 86
 -1
 ""Naufragé
-+1 Artefact aléatoire.
-- 55% de chances de trouver 1 Artefact Précieux.
-- 20% de chances de trouver 1 Artefact Mineure.
-- 20% de chances de trouver 1 Artefact Majeur.
++1 Artéfact aléatoire.
+- 55% de chances de trouver 1 Artéfact Précieux.
+- 20% de chances de trouver 1 Artéfact Mineur.
+- 20% de chances de trouver 1 Artéfact Majeur.
 - 5% de chances de trouver 1 Relique.""
 
 87
@@ -4234,7 +4234,7 @@ Permet d'échanger des Ressources avec la même efficacité que si vous aviez 5 
 - 32% de chances de trouver 1000 pièces d'Or ou 500 points d'expérience.
 - 32% de chances de trouver 1500 pièces d'Or ou 1000 points d'expérience.
 - 31% de chances de trouver 2000 pièces d'Or ou 1500 points d'expérience.
-- 5% de chances de trouver 1 Artefact Précieux. Si la besace est pleine, vous avez le choix entre 1000 pièces d'Or ou 500 points d'expérience.""
+- 5% de chances de trouver 1 Artéfact Précieux. Si la besace est pleine, vous avez le choix entre 1000 pièces d'Or ou 500 points d'expérience.""
 
 102
 -1
@@ -4257,7 +4257,7 @@ Enseigne une nouvelle compétence secondaire en échange de 2000 pièces d'Or.""
 -1
 ""Chariot
 - 10% de chances de ne rien trouver.
-- 40% de chances de trouver 1 Artefact Précieux ou 1 Artefact Mineure. L'Artefact est perdu si la besace est pleine.
+- 40% de chances de trouver 1 Artéfact Précieux ou 1 Artéfact Mineur. L'Artéfact est perdu si la besace est pleine.
 - 50% de chances de trouver 2-5 unitées de ressources autre que de l'Or.""
 
 #106
@@ -4273,10 +4273,10 @@ Enseigne une nouvelle compétence secondaire en échange de 2000 pièces d'Or.""
 108
 -1
 ""Tombe du Guerrier
-+1 Artefact et -3 de Moral.
-- 30% de chances de trouver 1 Artefact Précieux.
-- 50% de chances de trouver 1 Artefact Mineure.
-- 15% de chances de trouver 1 Artefact Majeur.
++1 Artéfact et -3 de Moral.
+- 30% de chances de trouver 1 Artéfact Précieux.
+- 50% de chances de trouver 1 Artéfact Mineur.
+- 15% de chances de trouver 1 Artéfact Majeur.
 - 5% de chances de trouver 1 Relique.
 
 -3 de Moral même si la tombe est vide.""
@@ -4853,13 +4853,13 @@ Type : Précieux
 5
 8
 ""Lame Noire
-Type : Mineure
+Type : Mineur
 +3 en Attaque (Emplacement : Main Droite)""
 
 5
 9
 ""Fléau des Gnolls
-Type : Mineure
+Type : Mineur
 +4 en Attaque (Emplacement : Main Droite)""
 
 5
@@ -4889,13 +4889,13 @@ Type : Précieux
 5
 14
 ""Écu des Ténèbres
-Type : Mineure
+Type : Mineur
 +3 en Défense (Emplacement : Main Gauche)""
 
 5
 15
 ""Rondache du Roi Gnoll
-Type : Mineure
+Type : Mineur
 +4 en Défense (Emplacement : Main Gauche)""
 
 5
@@ -4913,7 +4913,7 @@ Type : Majeur
 5
 18
 ""Bouclier Sentinelle
-Type : Mineure
+Type : Mineur
 +12 en Défense et -3 en Attaque (Emplacement : Main Gauche)""
 
 5
@@ -4931,13 +4931,13 @@ Type : Précieux
 5
 21
 ""Heaume du Chaos
-Type : Mineure
+Type : Mineur
 +3 en Savoir (Emplacement : Tête)""
 
 5
 22
 ""Couronne Suprême
-Type : Mineure
+Type : Mineur
 +4 en Savoir (Emplacement : Tête)""
 
 5
@@ -4949,7 +4949,7 @@ Type : Majeur
 5
 24
 ""Heaume Spirituel
-Type : Mineure
+Type : Mineur
 +10 en Savoir et -2 en Magie (Emplacement : Tête)""
 
 5
@@ -4961,13 +4961,13 @@ Type : Précieux
 5
 26
 ""Plastron Macabre
-Type : Mineure
+Type : Mineur
 +2 en Magie (Emplacement : Torse)""
 
 5
 27
 ""Carapace de Basilic
-Type : Mineure
+Type : Mineur
 +3 en Magie (Emplacement : Torse)""
 
 5
@@ -4985,43 +4985,43 @@ Type : Majeur
 5
 30
 ""Cuirasse des Titans
-Type : Mineure
+Type : Mineur
 +10 en Magie et -2 en Savoir (Emplacement : Torse)""
 
 5
 31
 ""Armure Miraculeuse
-Type : Mineure
+Type : Mineur
 +1 en Attaque, Défense, Magie et Savoir (Emplacement : Torse)""
 
 5
 32
-""Sandalles Sacrées
-Type : Mineure
+""Sandales Sacrées
+Type : Mineur
 +2 en Attaque, Défense, Magie et Savoir (Emplacement : Pieds)""
 
 5
 33
 ""Collier de Béatitude
-Type : Mineure
+Type : Mineur
 +3 en Attaque, Défense, Magie et Savoir (Emplacement : Cou)""
 
 5
 34
 ""Bouclier Cœur de Lion
-Type : Mineure
+Type : Mineur
 +4 en Attaque, Défense, Magie et Savoir (Emplacement : Main Gauche)""
 
 5
 35
 ""Épée de Justice
-Type : Mineure
+Type : Mineur
 +5 en Attaque, Défense, Magie et Savoir (Emplacement : Main Droite)""
 
 5
 36
 ""Heaume de l'Illumination
-Type : Mineure
+Type : Mineur
 +6 en Attaque, Défense, Magie et Savoir (Emplacement : Tête)""
 
 5
@@ -5033,7 +5033,7 @@ Type : Précieux
 5
 38
 ""Lame Ardente
-Type : Mineure
+Type : Mineur
 +2 en Attaque et Défense (Emplacement : Main Droite)""
 
 5
@@ -5045,7 +5045,7 @@ Type : Majeur
 5
 40
 ""Armure Dragon
-Type : Mineure
+Type : Mineur
 +4 en Attaque et Défense (Emplacement : Torse)""
 
 5
@@ -5057,7 +5057,7 @@ Type : Précieux
 5
 42
 ""Tabard Dragon
-Type : Mineure
+Type : Mineur
 +2 en Magie et Savoir (Emplacement : Épaules)""
 
 5
@@ -5069,7 +5069,7 @@ Type : Majeur
 5
 44
 ""Couronne Croc de Dragon
-Type : Mineure
+Type : Mineur
 +4 en Magie et Savoir (Emplacement : Tête)""
 
 5
@@ -5135,7 +5135,7 @@ Type : Précieux
 5
 55
 ""Capuche du Vampire
-Type : Mineure
+Type : Mineur
 +5% de bonus en Nécromancie (Emplacement : Épaules)""
 
 5
@@ -5159,7 +5159,7 @@ Cet objet augmente les chances de résister à un Sort hostile de 10%. (Emplacem
 5
 59
 ""Bottes du Tigre
-Type : Mineure
+Type : Mineur
 Cet objet augmente les chances de résister à un Sort hostile de 15%. (Emplacement : Pieds)""
 
 5
@@ -5171,12 +5171,12 @@ Type : Précieux
 5
 61
 ""Corde Immaculée
-Type : Mineure
+Type : Mineur
 +10% de bonus en Archerie (Emplacement : Divers)""
 
 5
 62
-""flèches Angéliques
+""Flèches Angéliques
 Type : Majeur
 +15% de bonus en Archerie (Emplacement : Divers)""
 
@@ -5195,7 +5195,7 @@ Type : Précieux
 5
 65
 ""Emblème du Faussaire
-Type : Mineure
+Type : Mineur
 +15% de bonus en Mimétisme (Emplacement : Divers)""
 
 5
@@ -5225,7 +5225,7 @@ Type : Majeur
 5
 70
 ""Gants Equestres
-Type : Mineure
+Type : Mineur
 +200 points de Mouvement lorsque le Héros se déplace sur terre. (Emplacement : Anneau droit ou gauche)""
 
 5
@@ -5237,7 +5237,7 @@ Type : Majeur
 5
 72
 ""Ailes d'Ange
-Type : Mineure
+Type : Mineur
 Le Héros peut Voler par dessus les obstacles. (Emplacement : Épaules)""
 
 5
@@ -5280,25 +5280,25 @@ Prolonge la durée des Sorts de 3 tours. (Emplacement : Épaules)""
 79
 ""Globe des Vents
 Type : Majeur
-+50% de dégâts supplmentaires avec la Magie de l'Air. (Emplacement : Divers)""
++50% de dégâts supplémentaires avec la Magie de l'Air. (Emplacement : Divers)""
 
 5
 80
 ""Globe des Pierres
 Type : Majeur
-+50% de dégâts supplmentaires avec la Magie de la Terre. (Emplacement : Divers)""
++50% de dégâts supplémentaires avec la Magie de la Terre. (Emplacement : Divers)""
 
 5
 81
 ""Globe des Flammes
 Type : Majeur
-+50% de dégâts supplmentaires avec la Magie du Feu. (Emplacement : Divers)""
++50% de dégâts supplémentaires avec la Magie du Feu. (Emplacement : Divers)""
 
 5
 82
 ""Globe des Flots
 Type : Majeur
-+50% de dégâts supplmentaires avec la Magie de l'Eau. (Emplacement : Divers)""
++50% de dégâts supplémentaires avec la Magie de l'Eau. (Emplacement : Divers)""
 
 5
 83
@@ -5321,31 +5321,31 @@ Tous les Bonus de Chance sont annulés durant les combats. (Emplacement : Divers
 5
 86
 ""Traité de la Magie du Feu
-Type : Mineure
+Type : Mineur
 Permet de lancer tous les Sorts de la Magie du Feu - le Héros doit l'avoir sur lui. (Emplacement : Divers)""
 
 5
 87
 ""Traité de la Magie de l'Air
-Type : Mineure
+Type : Mineur
 Permet de lancer tous les Sorts de la Magie de l'Air - le Héros doit l'avoir sur lui. (Emplacement : Divers)""
 
 5
 88
 ""Traité de la Magie de l'Eau
-Type : Mineure
+Type : Mineur
 Permet de lancer tous les Sorts de la Magie de l'Eau - le Héros doit l'avoir sur lui. (Emplacement : Divers)""
 
 5
 89
 ""Traité de la Magie de la Terre
-Type : Mineure
+Type : Mineur
 Permet de lancer tous les Sorts de la Magie de la Terre - le Héros doit l'avoir sur lui. (Emplacement : Divers)""
 
 5
 90
 ""Bottes de Lévitation
-Type : Mineure
+Type : Mineur
 Le Héros peut traverser au galop d'importantes étendues d'eau. (Emplacement : Pieds)""
 
 5
@@ -5363,26 +5363,26 @@ Immunité totale contre le sort Dissipation de la Magie. (Emplacement : Divers)"
 5
 93
 ""Globe de Vulnérabilité
-Type : Mineure
-Neutralise la résistance et l'Immunité naturelle à la Magie de toutes les créatures. n'affecte pas les sorts dont certaines particularités limitent l'applicabilité des effets du Globe, ainsi que l'Immunité offerte par certains Artefacts - excepté l'Immunité aux sorts de l'esprit. (Emplacement : Divers)""
+Type : Mineur
+Neutralise la résistance et l'immunité naturelle à la Magie de toutes les créatures. n'affecte pas les sorts dont certaines particularités limitent l'applicabilité des effets du Globe, ainsi que l'immunité offerte par certains Artéfacts - excepté l'immunité aux sorts de l'esprit. (Emplacement : Divers)""
 
 5
 94
 ""Anneau de Vitalité
 Type : Précieux
-+1 Point de Vie supplmentaire pour toutes les créatures. (Emplacement : Anneau)""
++1 Point de Vie supplémentaire pour toutes les créatures. (Emplacement : Anneau)""
 
 5
 95
 ""Ring of Life
-Type : Mineure
-+1 Point de Vie supplmentaire pour toutes les créatures. (Emplacement : Anneau)""
+Type : Mineur
++1 Point de Vie supplémentaire pour toutes les créatures. (Emplacement : Anneau)""
 
 5
 96
 ""Vial of Lifeblood
 Type : Majeur
-+2 Points de Vie supplmentaire pour toutes les créatures. (Emplacement : Divers)""
++2 Points de Vie supplémentaire pour toutes les créatures. (Emplacement : Divers)""
 
 5
 97
@@ -5393,7 +5393,7 @@ Type : Précieux
 5
 98
 ""Bottes de Sept Lieues
-Type : Mineure
+Type : Mineur
 +400 points de Mouvement lorsque le Héros se déplace sur terre. (Emplacement : Pieds)""
 
 5
@@ -5477,7 +5477,7 @@ Type : Majeur
 5
 112
 ""Chariot des Bâtisseurs
-Type : Mineure
+Type : Mineur
 +1 unité de Pierre par jour (Emplacement : Divers)""
 
 5
@@ -5489,13 +5489,13 @@ Type : Majeur
 5
 114
 ""Chariot des Charpentiers
-Type : Mineure
+Type : Mineur
 +1 unité de Bois par jour (Emplacement : Divers)""
 
 5
 115
 ""Sac de Prospérité
-Type : Mineure
+Type : Mineur
 +1000 pièces d'Or par jour (Emplacement : Divers)""
 
 5
@@ -5514,42 +5514,42 @@ Type : Majeur
 118
 ""Jambes de Légion
 Type : Précieux
-+5 créatures de rang 2 par semaine si le Héros qui défend la ville a cet Artefact avec lui. (Emplacement : Divers)""
++5 créatures de rang 2 par semaine si le Héros qui défend la ville a cet Artéfact avec lui. (Emplacement : Divers)""
 
 5
 119
 ""Bassin de Légion
-Type : Mineure
-+4 créatures de rang 3 par semaine si le Héros qui défend la ville a cet Artefact avec lui. (Emplacement : Divers)""
+Type : Mineur
++4 créatures de rang 3 par semaine si le Héros qui défend la ville a cet Artéfact avec lui. (Emplacement : Divers)""
 
 5
 120
 ""Torse de Légion
-Type : Mineure
-+3 créatures de rang 4 par semaine si le Héros qui défend la ville a cet Artefact avec lui. (Emplacement : Divers)""
+Type : Mineur
++3 créatures de rang 4 par semaine si le Héros qui défend la ville a cet Artéfact avec lui. (Emplacement : Divers)""
 
 5
 121
 ""Bras de Légion
 Type : Majeur
-+2 créatures de rang 5 par semaine si le Héros qui défend la ville a cet Artefact avec lui. (Emplacement : Divers)""
++2 créatures de rang 5 par semaine si le Héros qui défend la ville a cet Artéfact avec lui. (Emplacement : Divers)""
 
 5
 122
 ""Buste de Légion
 Type : Majeur
-+1 créature de rang 6 par semaine si le Héros qui défend la ville a cet Artefact avec lui. (Emplacement : Divers)""
++1 créature de rang 6 par semaine si le Héros qui défend la ville a cet Artéfact avec lui. (Emplacement : Divers)""
 
 5
 123
 ""Calot de Marin
-Type : Mineure
+Type : Mineur
 +500 points de Mouvement lorsque le Héros se déplace en mer. Permet d'appeler ou saborder un bateau, et protège des effets négatifs des tourbillons. (Emplacement : Tête)""
 
 5
 124
 ""Chapeau des Sages
-Type : Mineure
+Type : Mineur
 Permet de lancer tous les sorts de rang 5. (Emplacement : Tête)""
 
 5
@@ -5561,41 +5561,41 @@ Interdit aux Héros de battre en retraite ou de se rendre pendant un combat. (Em
 5
 126
 ""Globe d'Inhibition
-Type : Mineure
+Type : Mineur
 Permet de bloquer tous les Sorts durant le combat. (Emplacement : Divers)""
 
 5
 127
 ""Fiole de Sang de Dragon
-Type : Mineure
+Type : Mineur
 Tous les Dragons du Héros reçoivent +5 en Attaque et +5 en Défense. (Emplacement : Divers)""
 
 5
 128
 ""Épée de l'Apocalypse
-Type : Mineure
+Type : Mineur
 +3 en Attaque, +3 en Défense, +3 en Magie et +6 en Savoir. Le sort Armageddon est disponible dans le Livre de Sorts au niveau Expert. Toutes les unités du Héros sont immunisées contre le sort Armageddon. (Emplacement : Main Droite)""
 
 5
 129
 ""Alliance Angélique
 Permet de former une armée avec des unités du Château, du Rempart, de la Tour, du Bastion, de la Forteresse, du Conflux, de la Crique et de la Manufacture, sans perte de Moral. Le sort Faveur Divine est lancé automatiquement au début des combats - 10 tours. (Emplacement : Main Droite)
-Artefacts requis pour créer l'Alliance Magique : 
+Artéfacts requis pour créer l'Alliance Magique : 
 - Heaume de l'Illumination
 - Épée de Justice
 - Collier de Béatitude
 - Armure Miraculeuse
-- Sandalles Sacrées
+- Sandales Sacrées
 - Bouclier Cœur de Lion""
 
 5
 130
 ""Cape du Roi des Morts
-Si le Héros ne possède pas la compétence Nécromancie, la Cape du Roi des Morts réanimera 15% des ennemis morts en tant que Squelettes. En plus des propriétés de ses composants, cet Artefact octroie au Héros qui a déjà la compétence Nécromancie le pouvoir de ressusciter diverses créatures. Le niveau de compétence détermine le type de créatures invoquées.  
+Si le Héros ne possède pas la compétence Nécromancie, la Cape du Roi des Morts réanimera 15% des ennemis morts en tant que Squelettes. En plus des propriétés de ses composants, cet Artéfact octroie au Héros qui a déjà la compétence Nécromancie le pouvoir de ressusciter diverses créatures. Le niveau de compétence détermine le type de créatures invoquées.  
 Novice: Zombies
 Disciple: Revenants
 Maitre: Liches
-Artefacts requis pour créer la Cape du Roi des Morts :
+Artéfacts requis pour créer la Cape du Roi des Morts :
 - Amulette du Fossoyeur
 - Capuche du Vampire
 - Bottes du Passeur""
@@ -5604,7 +5604,7 @@ Artefacts requis pour créer la Cape du Roi des Morts :
 131
 ""Élixir de Vie
 En plus des propriétés de ses composants, l'Élixir de Vie octroie +25% de points de Vie à toutes les créatures du Héros, et une capacité de régénération de 50 points de Vie par tour. Excepté sur les morts-vivants et les unités réssuscitées. (Emplacement : Divers)
-Artefacts requis pour créer l'Élixir de Vie :
+Artéfacts requis pour créer l'Élixir de Vie :
 - Fiole de Vie
 - Anneau de Vitalité
 - Anneau de Vie""
@@ -5613,7 +5613,7 @@ Artefacts requis pour créer l'Élixir de Vie :
 132
 ""Armure des Damnés
 En plus des propriétés de ses composants, les sorts Lenteur, Malédiction, Faiblesse, et Malchance, sont lancés automatiquement au niveau expert sur les armées ennemies au début des combats - 50 tours. (Emplacement : Torse)
-Artefacts requis pour créer l'Armure des Damnés :
+Artéfacts requis pour créer l'Armure des Damnés :
 - Lame Noire
 - Plastron Macabre 
 - Casque Noir
@@ -5623,7 +5623,7 @@ Artefacts requis pour créer l'Armure des Damnés :
 133
 ""Statue de Légion
 En plus des propriétés de ses composants, la Statue de Légion octroie +50% de créatures à toutes les villes en se basant sur la production normale de chaque rang pour chaque Château. Les structures annexes et les bonus ne sont pas pris en compte. (Emplacement : Divers)
-Artefacts requis pour créer la Statue de Légion :
+Artéfacts requis pour créer la Statue de Légion :
 - Jambes de Légion
 - Bassin de Légion
 - Torse de Légion
@@ -5634,7 +5634,7 @@ Artefacts requis pour créer la Statue de Légion :
 134
 ""Mandat du Prime Dragon
 Immunité totale à tous les sorts de rang 4 et moins, excepté Dissipation. En plus des propriétés de ses composants, Mandat du Prime Dragon octroie au Héros +6 en Attaque, Défense, Magie et Savoir. (Emplacement : Torse)
-Artefacts requis pour créer Mandat du Prime Dragon :
+Artéfacts requis pour créer Mandat du Prime Dragon :
 - Couronne Croc de Dragon
 - Armure Dragon
 - Collier Dent de Dragon
@@ -5648,7 +5648,7 @@ Artefacts requis pour créer Mandat du Prime Dragon :
 135
 ""Tonnerre des Titans
 En plus des propriétés de ses composants, Tonnerre des Titans permet au Héros de lancer éclair de Titan et d'infliger 600 points de dégâts à l'ennemi, sans dépenser de points de Magie. Si le Héros n'a pas encore de Livre de Sorts, il en reçoit un gratuitement. (Emplacement : Main Droite)
-Artefacts requis pour créer Tonnerre des Titans :
+Artéfacts requis pour créer Tonnerre des Titans :
 - Heaume Spirituel
 - Glaive des Titans
 - Cuirasse des Titans
@@ -5658,7 +5658,7 @@ Artefacts requis pour créer Tonnerre des Titans :
 136
 ""Bicorne d'Amiral
 En plus des propriétés de ses composants, le Bicorne d'Amiral permet d'embarquer et de Débarquer sans perdre ses points de mouvement, en les distribuant naturellement entre terre et mer. (Emplacement : Tête)
-Artefacts requis pour créer le Bicorne d'Amiral :
+Artéfacts requis pour créer le Bicorne d'Amiral :
 - Calot de Marin
 - Collier des Dauphins""
 
@@ -5666,7 +5666,7 @@ Artefacts requis pour créer le Bicorne d'Amiral :
 137
 ""Arc d'Archer d'Élite
 En plus des propriétés de ses composants, les unités sont capables d'utiliser leurs Arcs au cœur de la mêlée et même par dessus celle-ci. Annule les pénalités appliquées à la compétance Archerie concernant tous les obstacles, y compris les créatures ennemies. (Emplacement : Divers)
-Artefacts requis pour créer l'Arc d'Archer d'Élite :
+Artéfacts requis pour créer l'Arc d'Archer d'Élite :
 - Arc Elfique
 - Corde Immaculée
 - Flèches Angéliques""
@@ -5675,7 +5675,7 @@ Artefacts requis pour créer l'Arc d'Archer d'Élite :
 138
 ""Puits de Mana
 Permet de récupèrer tous ses points de Magie chaque jour. (Emplacement : Divers)
-Artefacts requis pour créer Puits de Mana :
+Artéfacts requis pour créer Puits de Mana :
 - Amulette de Mana
 - Talisman de Mana
 - Globe Mystique de Mana""
@@ -5684,7 +5684,7 @@ Artefacts requis pour créer Puits de Mana :
 139
 ""Anneau des Mages
 En plus des propriétés de ses composants, cet objet ajoute 50 tours à la durée des Sorts. (Emplacement : Anneau)
-Artefacts requis pour créer l'Anneau des Mages :
+Artéfacts requis pour créer l'Anneau des Mages :
 - Bague de Constance
 - Collier de Constance
 - Capuche de Constance""
@@ -5692,8 +5692,8 @@ Artefacts requis pour créer l'Anneau des Mages :
 5
 140
 ""Manne Céleste
-En plus des propriétés de ses composants, cet objet génère chaque jour 4 unités de Ressources précieuses supplmentaires. (Emplacement : Divers)
-Artefacts requis pour créer la Manne Céleste :
+En plus des propriétés de ses composants, cet objet génère chaque jour 4 unités de Ressources précieuses supplémentaires. (Emplacement : Divers)
+Artéfacts requis pour créer la Manne Céleste :
 - Bague des Joailliers
 - Flacon Mercurien
 - Cape Cristalline
@@ -7739,8 +7739,8 @@ Défaire 100 à 200 Troglodytes pour restaurer la mine et relancer sa production
 5
 141
 ""Tunique du Sage
-Cet Artefact permet de fuir le combat et réduit le Coût de la Reddition de 30% et rend possible une Reddition même quand le Héros affronte des monstres errants ou défend une ville. Il est également possible de fuir en attaquant et lançant un sort au premier tour d'un combat. Le Repaire et la Guilde des Voleurs font croire à l'ennemi que vous êtes 3 fois plus fort que vous ne l'êtes réellement. (Emplacement : Épaules)
-Artefacts requis pour créer la Tunique du Sage :
+Cet Artéfact permet de fuir le combat et réduit le Coût de la Reddition de 30% et rend possible une Reddition même quand le Héros affronte des monstres errants ou défend une ville. Il est également possible de fuir en attaquant et lançant un sort au premier tour d'un combat. Le Repaire et la Guilde des Voleurs font croire à l'ennemi que vous êtes 3 fois plus fort que vous ne l'êtes réellement. (Emplacement : Épaules)
+Artéfacts requis pour créer la Tunique du Sage :
 - Anneau de Diplomatie
 - Médaille de Dignité
 - Écharpe d'Ambassadeur""
@@ -7749,7 +7749,7 @@ Artefacts requis pour créer la Tunique du Sage :
 142
 ""Pendentif de Réflexion
 En plus des propriétés de ses composants, ce Pendentif augmente vos chances de résister à un Sort hostile de 50%.
-Artefacts requis pour créer le Pendentif de Réflexion :
+Artéfacts requis pour créer le Pendentif de Réflexion :
 - Talisman de Turbulence
 - Cape d'Harmonie
 - Bottes du Tigre""
@@ -7758,7 +7758,7 @@ Artefacts requis pour créer le Pendentif de Réflexion :
 143
 ""Tomahawk des Ogres
 En plus des propriétés de ses composants le Tomahawk des Ogres donne +5 Attaque, +5 Défense, +4 Magie et +4 Savoir, les sorts Hâte, Furie Sanguinaire, Bouclier de Flammes, et Contre-Attaque, sont lancés automatiquement au niveau expert sur les armées alliées au début des combats - 50 tours. (Emplacement : Main Droite)
-Artefacts requis pour créer le Tomahawk des Ogres :
+Artéfacts requis pour créer le Tomahawk des Ogres :
 - Couronne Suprême
 - Gourdin Massacreur
 - Vareuse du Roi Cyclope
@@ -7809,13 +7809,13 @@ Fait baisser la Chance de l'ennemi -1 (Emplacement : Divers)""
 5
 154
 ""Poupée Shamane
-Type : Mineure
+Type : Mineur
 Fait baisser la Chance de l'ennemi -2 (Emplacement : Divers)""
 
 5
 155
 ""Masque d'Abomination
-Type : Mineure
+Type : Mineur
 Fait baisser le Moral de l'ennemi -1 (Emplacement : Divers)""
 
 5
@@ -7846,7 +7846,7 @@ Interdit aux Héros de lancer des sorts de rang 1-2. (Emplacement : Épaules)""
 160
 ""Poule d'Or
 En plus des propriétés de ses composants, la Poule d'Or génère +7000 pièces d'Or par jour. (Emplacement : Divers)
-Artefacts requis pour créer la Poule d'Or :
+Artéfacts requis pour créer la Poule d'Or :
 - Sac de Prospérité
 - Escarcelle de Prospérité
 - Bourse de Prospérité""
@@ -7860,13 +7860,13 @@ Lorsqu'au cours d'un combat un groupe de créatures est défait, il est aussitô
 5
 162
 ""Bracelet d'Angoisse
-Type : Mineure
+Type : Mineur
 Cet objet fait baisser la Caractéristique Magie des Héros ennemis de 10% pendant les combats.""
 
 5
 163
 ""Sceau d'Astrologue
-Type : Mineure
+Type : Mineur
 Cet objet fait baisser la Caractéristique Magie des Héros ennemis de 10% pendant les combats.""
 
 5
@@ -7889,17 +7889,17 @@ Navire capable de voler au dessus des terres et des mers.""
 16
 21
 ""Sanctuaire des Âmes
-- 30% de chances d'affronter 50 Yeux Maléfiques contre 3000 pièces d'Or et 1 Artefact.
-- 30% de chances d'affronter 75 Yeux Maléfiques contre 5000 pièces d'Or et 1 Artefact.
-- 30% de chances d'affronter 100 Yeux Maléfiques contre 6000 pièces d'Or et 1 Artefact.
-- 10% de chances d'affronter 150 Yeux Maléfiques contre 9000 pièces d'Or et 1 Artefact.""
+- 30% de chances d'affronter 50 Yeux Maléfiques contre 3000 pièces d'Or et 1 Artéfact.
+- 30% de chances d'affronter 75 Yeux Maléfiques contre 5000 pièces d'Or et 1 Artéfact.
+- 30% de chances d'affronter 100 Yeux Maléfiques contre 6000 pièces d'Or et 1 Artéfact.
+- 10% de chances d'affronter 150 Yeux Maléfiques contre 9000 pièces d'Or et 1 Artéfact.""
 
 16
 22
 ""Temple de la Mer
-- 30% de chances d'affronter 8 Hydres, 6 Serpents de Mer, 3 Pyrohydres et 2 Haspids contre 10000 pièces d'Or et 2 Artefact Précieux, 1 Artefact Mineure et 1 Relique.
-- 30% de chances d'affronter 8 Hydres, 7 Serpents de Mer, 4 Pyrohydres et 3 Haspids contre 15000 pièces d'Or et 1 Treasure Artifact, 1 Minor Artifacts, 1 Artefact Majeur et 1 Relique.
-- 30% de chances d'affronter 8 Hydres, 7 Serpents de Mer, 5 Pyrohydres et 4 Haspids contre 20000 pièces d'Or et 1 Artefact Mineure, 2 Major Artifacts et 1 Relique.
+- 30% de chances d'affronter 8 Hydres, 6 Serpents de Mer, 3 Pyrohydres et 2 Haspids contre 10000 pièces d'Or et 2 Artéfact Précieux, 1 Artéfact Mineur et 1 Relique.
+- 30% de chances d'affronter 8 Hydres, 7 Serpents de Mer, 4 Pyrohydres et 3 Haspids contre 15000 pièces d'Or et 1 Treasure Artifact, 1 Minor Artifacts, 1 Artéfact Majeur et 1 Relique.
+- 30% de chances d'affronter 8 Hydres, 7 Serpents de Mer, 5 Pyrohydres et 4 Haspids contre 20000 pièces d'Or et 1 Artéfact Mineur, 2 Major Artifacts et 1 Relique.
 - 10% de chances d'affronter 10 Hydres, 9 Serpents de Mer, 6 Pyrohydres et 5 Haspids contre 30000 pièces d'Or et 2 Major Artifacts et 2 Relique.""
 
 16
@@ -7913,10 +7913,10 @@ Navire capable de voler au dessus des terres et des mers.""
 16
 24
 ""Pension
-- 30% de chances d'affronter 40 Seigneurs Vampires contre 2500 pièces d'Or, +2 unités de Cristaux, de Soufre, de Mercure, de Gemmes, et 1 Artefact Majeur.
-- 30% de chances d'affronter 60 Seigneurs Vampires contre 5000 pièces d'Or, +3 unités de Cristaux, de Soufre, de Mercure, de Gemmes, et 1 Artefact Majeur.
-- 30% de chances d'affronter 80 Seigneurs Vampires contre 7500 pièces d'Or, +4 unités de Cristaux, de Soufre, de Mercure, de Gemmes, et 1 Artefact Majeur.
-- 10% de chances d'affronter 100 Seigneurs Vampires contre 10000 pièces d'Or, +5 unités de Cristaux, de Soufre, de Mercure, de Gemmes, et 1 Artefact Majeur""
+- 30% de chances d'affronter 40 Seigneurs Vampires contre 2500 pièces d'Or, +2 unités de Cristaux, de Soufre, de Mercure, de Gemmes, et 1 Artéfact Majeur.
+- 30% de chances d'affronter 60 Seigneurs Vampires contre 5000 pièces d'Or, +3 unités de Cristaux, de Soufre, de Mercure, de Gemmes, et 1 Artéfact Majeur.
+- 30% de chances d'affronter 80 Seigneurs Vampires contre 7500 pièces d'Or, +4 unités de Cristaux, de Soufre, de Mercure, de Gemmes, et 1 Artéfact Majeur.
+- 10% de chances d'affronter 100 Seigneurs Vampires contre 10000 pièces d'Or, +5 unités de Cristaux, de Soufre, de Mercure, de Gemmes, et 1 Artéfact Majeur""
 
 16
 25
@@ -7937,10 +7937,10 @@ Navire capable de voler au dessus des terres et des mers.""
 16
 27
 ""Tour Noire
-- 30% de chances d'affronter 1 Dragon Vert contre 2000 pièces d'Or et 1 Artefact Mineure.
-- 30% de chances d'affronter 1 Dragon Rouge contre 2250 pièces d'Or et 1 Artefact Mineure.
-- 30% de chances d'affronter 1 Dragon d'Or contre 3500 pièces d'Or et 1 Artefact Mineure.
-- 10% de chances d'affronter 1 Dragon Noir contre 3750 pièces d'Or et 1 Artefact Mineure.""
+- 30% de chances d'affronter 1 Dragon Vert contre 2000 pièces d'Or et 1 Artéfact Mineur.
+- 30% de chances d'affronter 1 Dragon Rouge contre 2250 pièces d'Or et 1 Artéfact Mineur.
+- 30% de chances d'affronter 1 Dragon d'Or contre 3500 pièces d'Or et 1 Artéfact Mineur.
+- 10% de chances d'affronter 1 Dragon Noir contre 3750 pièces d'Or et 1 Artéfact Mineur.""
 
 16
 28
@@ -7953,7 +7953,7 @@ Navire capable de voler au dessus des terres et des mers.""
 16
 29
 ""Cimetière
-Affronter 90 Zombies pour gagner 2500 pièces d'Or et 1 Artefact Mineure.
+Affronter 90 Zombies pour gagner 2500 pièces d'Or et 1 Artéfact Mineur.
 
 -1 de Moral si le Héros visite le Cimetière une fois que celui-ci est désert.""
 
@@ -8687,7 +8687,7 @@ Améliore une Compétence ou enseigne une Compétence aléatoire au Héros en vi
 144
 7
 ""Antiquaire
-Excepté les rouleaux, tous les Artefacts peuvent être vendus chez l'Antiquaire avec la même efficacité que 7 Marchés.""
+Excepté les rouleaux, tous les Artéfacts peuvent être vendus chez l'Antiquaire avec la même efficacité que 7 Marchés.""
 
 144
 8
@@ -8735,7 +8735,7 @@ Permet de recruter entre 4-6 Génies une seule fois.""
 145
 3
 ""Fiole à Mana
-Le Héros reçoit 30-60 points de Magie. Si le potentiel en Savoir du Héros venait à être dépassé, seul la moitié des points supplmentaires seront portée à son total.""
+Le Héros reçoit 30-60 points de Magie. Si le potentiel en Savoir du Héros venait à être dépassé, seul la moitié des points supplémentaires seront portée à son total.""
 
 146
 0
@@ -8745,7 +8745,7 @@ Les frais d'étude pour chaque niveau de compétence sont de 2000 pièces d'Or. 
 146
 1
 ""Télescope
-Le champ de vision du Héros est étendu à 2 cases supplmentaires jusqu'à la fin de la semaine.""
+Le champ de vision du Héros est étendu à 2 cases supplémentaires jusqu'à la fin de la semaine.""
 
 146
 2
@@ -8770,7 +8770,7 @@ Le Héros doit accomplir une Quête pour passer ce Poste de contrôle. La Quête
 212
 1001
 ""Sépulture
-Creuser à cet endroit permet d'obtenir 1500-4000 pièces d'Or et 1 Artefact Précieux ou Mineure. Dû à la profanation des lieux, vous recevez -3 Moral jusqu'à la prochaine bataille.""
+Creuser à cet endroit permet d'obtenir 1500-4000 pièces d'Or et 1 Artéfact Précieux ou Mineur. Dû à la profanation des lieux, vous recevez -3 Moral jusqu'à la prochaine bataille.""
 
 218
 9
@@ -8802,7 +8802,7 @@ Text 3: "Nombre d'unités disponibles :"
 Text 4: "Enrôler les unités :"
 Text 5: "Autel de Magie Mystère"
 Text 6: "(Enseigne un sort de rang 4)"
-Text 7: "# Objets supplmentaires pour le RMG
+Text 7: "# Objets supplémentaires pour le RMG
 # Type Subtype Value Density Max_map Max_zone
 
 213 0 100 50 -1 -1 # Guilde indépendante
@@ -9669,14 +9669,14 @@ Text 0: ""
 Text 1: "Leurs blessures rendent les %s enragés. %s: +%d%% de dégâts."
 Text 2: "1 %s éliminé(e) grâce à un Tir précis."
 Text 3: "%d %s éliminé(e)s grâce à des Tirs précis."
-Text 4: "Le %s inflige un coup supplmentaire."
-Text 5: "Les %s infligent un coup supplmentaire."
+Text 4: "Le %s inflige un coup supplémentaire."
+Text 5: "Les %s infligent un coup supplémentaire."
 Text 6: "Répulsion %s -2"
 Text 7: "Machine de Guerre. Tirs. Attaque les fortifications infligeant 0-2 dommages.
 Tirs. Pas de pénalités de mêlée. Pas de riposte des ennemis. précision au tir.
 Tirs. Pas de malus au tir. Pas de pénalités de barrière. Munitions illimitées. Ignore les Défenses de la cible.
-Téléportation. Immunité à la glace.
-Téléportation. Immunité à la glace.
+Téléportation. immunité à la glace.
+Téléportation. immunité à la glace.
  
  
 Tirs. Pas de pénalités de mêlée.
@@ -9701,7 +9701,7 @@ Lance-Flammes. Répare les créatures mécaniques (20 points de vie par Ingénie
 Créature mécanique. Les Automates sont programmés pour exploser au moment de leur mort.
 Créature mécanique. Les Automates Sentinelles sont programmés pour exploser au moment de leur mort. Pas de riposte des ennemis.
 Se déplace sous terre. Immunité à la Cécité et Regard Pétrifiant.
-Se déplace sous terre. Immunité à la Cécité et Regard Pétrifiant. Dévore les cadavres pour obtenir des coups supplmentaires.
+Se déplace sous terre. Immunité à la Cécité et Regard Pétrifiant. Dévore les cadavres pour obtenir des coups supplémentaires.
 Tirs. Attaques préventives - une fois par tour.
 Tirs. Attaques préventives - illimitées.
 Vol. Peut passer son tour pour obtenir une Invulnérabilité Temporaire.
@@ -10445,8 +10445,8 @@ Text 3: "TOELHrd3"
 Text 4: "TOELHrd4"
 Text 5: "Chambre des Cendres"
 Text 6: "Chambre des Cendres"
-Text 7: "La Chambre des Cendres permet de recruter 1 Oiseau de Feu supplmentaire chaque semaine."
-Text 8: "La Chambre des Cendres permet de recruter 1 Phénix supplmentaire chaque semaine."
+Text 7: "La Chambre des Cendres permet de recruter 1 Oiseau de Feu supplémentaire chaque semaine."
+Text 8: "La Chambre des Cendres permet de recruter 1 Phénix supplémentaire chaque semaine."
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -11726,7 +11726,7 @@ Text 7: "# Precise guard stack setup
 50 0 0 0 0 0 0 # Guards counts
 50 # Upgrade chance (%)
 0 0 0 0 0 0 3000 # Resources award
-0 1 0 0 # Arts award: Précieux - Mineure - Majeur - Relique
+0 1 0 0 # Arts award: Précieux - Mineur - Majeur - Relique
 -1 # Creatures award type
 0 # Creatures award count
 
@@ -11736,7 +11736,7 @@ Text 7: "# Precise guard stack setup
 75 0 0 0 0 0 0 # Guards counts
 50 # Upgrade chance (%)
 0 0 0 0 0 0 5000 # Resources award
-0 1 0 0 # Arts award: Précieux - Mineure - Majeur - Relique
+0 1 0 0 # Arts award: Précieux - Mineur - Majeur - Relique
 -1 # Creatures award type
 0 # Creatures award count
 
@@ -11746,7 +11746,7 @@ Text 7: "# Precise guard stack setup
 100 0 0 0 0 0 0 # Guards counts
 50 # Upgrade chance (%)
 0 0 0 0 0 0 6000 # Resources award
-0 0 1 0 # Arts award: Précieux - Mineure - Majeur - Relique
+0 0 1 0 # Arts award: Précieux - Mineur - Majeur - Relique
 -1 # Creatures award type
 0 # Creatures award count
 
@@ -11756,7 +11756,7 @@ Text 7: "# Precise guard stack setup
 150 0 0 0 0 0 0 # Guards counts
 50 # Upgrade chance (%)
 0 0 0 0 0 0 9000 # Resources award
-0 0 1 0 # Arts award: Précieux - Mineure - Majeur - Relique
+0 0 1 0 # Arts award: Précieux - Mineur - Majeur - Relique
 -1 # Creatures award type
 0 # Creatures award count"
 Text 8: ""
@@ -11787,7 +11787,7 @@ Text 7: "# Precise guard stack setup
 8 6 3 2 0 0 0 # Guards counts
 0 # Upgrade chance (%)
 0 0 0 0 0 0 10000 # Resources award
-2 1 0 1 # Arts award: Précieux - Mineure - Majeur - Relique
+2 1 0 1 # Arts award: Précieux - Mineur - Majeur - Relique
 -1 # Creatures award type
 0 # Creatures award count
 
@@ -11797,7 +11797,7 @@ Text 7: "# Precise guard stack setup
 8 7 4 3 0 0 0 # Guards counts
 0 # Upgrade chance (%)
 0 0 0 0 0 0 15000 # Resources award
-1 1 1 1 # Arts award: Précieux - Mineure - Majeur - Relique
+1 1 1 1 # Arts award: Précieux - Mineur - Majeur - Relique
 -1 # Creatures award type
 0 # Creatures award count
 
@@ -11807,7 +11807,7 @@ Text 7: "# Precise guard stack setup
 8 7 5 4 0 0 0 # Guards counts
 0 # Upgrade chance (%)
 0 0 0 0 0 0 20000 # Resources award
-0 1 2 1 # Arts award: Précieux - Mineure - Majeur - Relique
+0 1 2 1 # Arts award: Précieux - Mineur - Majeur - Relique
 -1 # Creatures award type
 0 # Creatures award count
 
@@ -11817,7 +11817,7 @@ Text 7: "# Precise guard stack setup
 10 9 6 5 0 0 0 # Guards counts
 0 # Upgrade chance (%)
 0 0 0 0 0 0 30000 # Resources award
-0 0 2 2 # Arts award: Précieux - Mineure - Majeur - Relique
+0 0 2 2 # Arts award: Précieux - Mineur - Majeur - Relique
 -1 # Creatures award type
 0 # Creatures award count"
 Text 8: ""
@@ -11848,7 +11848,7 @@ Text 7: "# Precise guard stack setup
 10 10 10 10 0 0 0 # Guards counts
 50 # Upgrade chance (%)
 0 0 0 0 0 0 0 # Resources award
-0 0 0 0 # Arts award: Précieux - Mineure - Majeur - Relique
+0 0 0 0 # Arts award: Précieux - Mineur - Majeur - Relique
 165 # Creatures award type
 1 # Creatures award count
 
@@ -11858,7 +11858,7 @@ Text 7: "# Precise guard stack setup
 20 20 20 20 0 0 0 # Guards counts
 50 # Upgrade chance (%)
 0 0 0 0 0 0 0 # Resources award
-0 0 0 0 # Arts award: Précieux - Mineure - Majeur - Relique
+0 0 0 0 # Arts award: Précieux - Mineur - Majeur - Relique
 165 # Creatures award type
 2 # Creatures award count
 
@@ -11868,7 +11868,7 @@ Text 7: "# Precise guard stack setup
 30 30 30 30 0 0 0 # Guards counts
 50 # Upgrade chance (%)
 0 0 0 0 0 0 0 # Resources award
-0 0 0 0 # Arts award: Précieux - Mineure - Majeur - Relique
+0 0 0 0 # Arts award: Précieux - Mineur - Majeur - Relique
 165 # Creatures award type
 3 # Creatures award count
 
@@ -11878,7 +11878,7 @@ Text 7: "# Precise guard stack setup
 40 40 40 40 0 0 0 # Guards counts
 50 # Upgrade chance (%)
 0 0 0 0 0 0 0 # Resources award
-0 0 0 0 # Arts award: Précieux - Mineure - Majeur - Relique
+0 0 0 0 # Arts award: Précieux - Mineur - Majeur - Relique
 165 # Creatures award type
 4 # Creatures award count"
 Text 8: ""
@@ -11909,7 +11909,7 @@ Text 7: "# Precise guard stack setup
 40 0 0 0 0 0 0 # Guards counts
 0 # Upgrade chance (%)
 0 2 0 2 2 2 2500 # Resources award
-0 0 1 0 # Arts award: Précieux - Mineure - Majeur - Relique
+0 0 1 0 # Arts award: Précieux - Mineur - Majeur - Relique
 -1 # Creatures award type
 0 # Creatures award count
 
@@ -11919,7 +11919,7 @@ Text 7: "# Precise guard stack setup
 60 0 0 0 0 0 0 # Guards counts
 0 # Upgrade chance (%)
 0 3 0 3 3 3 5000 # Resources award
-0 0 1 0 # Arts award: Précieux - Mineure - Majeur - Relique
+0 0 1 0 # Arts award: Précieux - Mineur - Majeur - Relique
 -1 # Creatures award type
 0 # Creatures award count
 
@@ -11929,7 +11929,7 @@ Text 7: "# Precise guard stack setup
 80 0 0 0 0 0 0 # Guards counts
 0 # Upgrade chance (%)
 0 4 0 4 4 4 7500 # Resources award
-0 0 1 0 # Arts award: Précieux - Mineure - Majeur - Relique
+0 0 1 0 # Arts award: Précieux - Mineur - Majeur - Relique
 -1 # Creatures award type
 0 # Creatures award count
 
@@ -11939,7 +11939,7 @@ Text 7: "# Precise guard stack setup
 100 0 0 0 0 0 0 # Guards counts
 0 # Upgrade chance (%)
 0 5 0 5 5 5 10000 # Resources award
-0 0 1 0 # Arts award: Précieux - Mineure - Majeur - Relique
+0 0 1 0 # Arts award: Précieux - Mineur - Majeur - Relique
 -1 # Creatures award type
 0 # Creatures award count"
 Text 8: ""
@@ -11970,7 +11970,7 @@ Text 7: "# Precise guard stack setup
 4 4 4 4 0 0 0 # Guards counts
 0 # Upgrade chance (%)
 0 0 0 0 0 0 3000 # Resources award
-0 0 0 0 # Arts award: Précieux - Mineure - Majeur - Relique
+0 0 0 0 # Arts award: Précieux - Mineur - Majeur - Relique
 -1 # Creatures award type
 0 # Creatures award count
 
@@ -11980,7 +11980,7 @@ Text 7: "# Precise guard stack setup
 6 6 6 6 0 0 0 # Guards counts
 0 # Upgrade chance (%)
 0 0 0 0 0 0 4500 # Resources award
-0 0 0 0 # Arts award: Précieux - Mineure - Majeur - Relique
+0 0 0 0 # Arts award: Précieux - Mineur - Majeur - Relique
 -1 # Creatures award type
 0 # Creatures award count
 
@@ -11990,7 +11990,7 @@ Text 7: "# Precise guard stack setup
 8 8 8 8 0 0 0 # Guards counts
 00 # Upgrade chance (%)
 0 0 0 0 0 0 6000 # Resources award
-0 0 0 0 # Arts award: Précieux - Mineure - Majeur - Relique
+0 0 0 0 # Arts award: Précieux - Mineur - Majeur - Relique
 -1 # Creatures award type
 0 # Creatures award count
 
@@ -12000,7 +12000,7 @@ Text 7: "# Precise guard stack setup
 12 12 12 12 0 0 0 # Guards counts
 0 # Upgrade chance (%)
 0 0 0 0 0 0 9000 # Resources award
-0 0 0 0 # Arts award: Précieux - Mineure - Majeur - Relique
+0 0 0 0 # Arts award: Précieux - Mineur - Majeur - Relique
 -1 # Creatures award type
 0 # Creatures award count"
 Text 8: ""
@@ -12031,7 +12031,7 @@ Text 7: "# Precise guard stack setup
 35 0 0 0 0 0 0 # Guards counts
 50 # Upgrade chance (%)
 0 0 0 0 0 0 0 # Resources award
-0 0 0 0 # Arts award: Précieux - Mineure - Majeur - Relique
+0 0 0 0 # Arts award: Précieux - Mineur - Majeur - Relique
 130 # Creatures award type
 1 # Creatures award count
 
@@ -12041,7 +12041,7 @@ Text 7: "# Precise guard stack setup
 70 0 0 0 0 0 0 # Guards counts
 50 # Upgrade chance (%)
 0 0 0 0 0 0 0 # Resources award
-0 0 0 0 # Arts award: Précieux - Mineure - Majeur - Relique
+0 0 0 0 # Arts award: Précieux - Mineur - Majeur - Relique
 130 # Creatures award type
 2 # Creatures award count
 
@@ -12051,7 +12051,7 @@ Text 7: "# Precise guard stack setup
 105 0 0 0 0 0 0 # Guards counts
 50 # Upgrade chance (%)
 0 0 0 0 0 0 0 # Resources award
-0 0 0 0 # Arts award: Précieux - Mineure - Majeur - Relique
+0 0 0 0 # Arts award: Précieux - Mineur - Majeur - Relique
 130 # Creatures award type
 3 # Creatures award count
 
@@ -12061,7 +12061,7 @@ Text 7: "# Precise guard stack setup
 140 0 0 0 0 0 0 # Guards counts
 50 # Upgrade chance (%)
 0 0 0 0 0 0 0 # Resources award
-0 0 0 0 # Arts award: Précieux - Mineure - Majeur - Relique
+0 0 0 0 # Arts award: Précieux - Mineur - Majeur - Relique
 130 # Creatures award type
 4 # Creatures award count"
 Text 8: ""
@@ -12092,7 +12092,7 @@ Text 7: "# Precise guard stack setup
 0 0 0 0 1 0 0 # Guards counts
 0 # Upgrade chance (%)
 0 0 0 0 0 0 2000 # Resources award
-0 1 0 0 # Arts award: Précieux - Mineure - Majeur - Relique
+0 1 0 0 # Arts award: Précieux - Mineur - Majeur - Relique
 -1 # Creatures award type
 0 # Creatures award count
 
@@ -12102,7 +12102,7 @@ Text 7: "# Precise guard stack setup
 0 0 0 0 1 0 0 # Guards counts
 0 # Upgrade chance (%)
 0 0 0 0 0 0 2250 # Resources award
-0 1 0 0 # Arts award: Précieux - Mineure - Majeur - Relique
+0 1 0 0 # Arts award: Précieux - Mineur - Majeur - Relique
 -1 # Creatures award type
 0 # Creatures award count
 
@@ -12112,7 +12112,7 @@ Text 7: "# Precise guard stack setup
 0 0 0 0 1 0 0 # Guards counts
 0 # Upgrade chance (%)
 0 0 0 0 0 0 3500 # Resources award
-0 1 0 0 # Arts award: Précieux - Mineure - Majeur - Relique
+0 1 0 0 # Arts award: Précieux - Mineur - Majeur - Relique
 -1 # Creatures award type
 0 # Creatures award count
 
@@ -12122,7 +12122,7 @@ Text 7: "# Precise guard stack setup
 0 0 0 0 1 0 0 # Guards counts
 0 # Upgrade chance (%)
 0 0 0 0 0 0 3750 # Resources award
-0 1 0 0 # Arts award: Précieux - Mineure - Majeur - Relique
+0 1 0 0 # Arts award: Précieux - Mineur - Majeur - Relique
 -1 # Creatures award type
 0 # Creatures award count"
 Text 8: ""
@@ -12153,7 +12153,7 @@ Text 7: "# Precise guard stack setup
 35 0 0 0 0 0 0 # Guards counts
 0 # Upgrade chance (%)
 0 0 0 0 0 0 0 # Resources award
-0 0 0 0 # Arts award: Précieux - Mineure - Majeur - Relique
+0 0 0 0 # Arts award: Précieux - Mineur - Majeur - Relique
 136 # Creatures award type
 3 # Creatures award count
 
@@ -12163,7 +12163,7 @@ Text 7: "# Precise guard stack setup
 50 0 0 0 0 0 0 # Guards counts
 0 # Upgrade chance (%)
 0 0 0 0 0 0 0 # Resources award
-0 0 0 0 # Arts award: Précieux - Mineure - Majeur - Relique
+0 0 0 0 # Arts award: Précieux - Mineur - Majeur - Relique
 136 # Creatures award type
 6 # Creatures award count
 
@@ -12173,7 +12173,7 @@ Text 7: "# Precise guard stack setup
 65 0 0 0 0 0 0 # Guards counts
 0 # Upgrade chance (%)
 0 0 0 0 0 0 0 # Resources award
-0 0 0 0 # Arts award: Précieux - Mineure - Majeur - Relique
+0 0 0 0 # Arts award: Précieux - Mineur - Majeur - Relique
 136 # Creatures award type
 9 # Creatures award count
 
@@ -12183,7 +12183,7 @@ Text 7: "# Precise guard stack setup
 80 0 0 0 0 0 0 # Guards counts
 0 # Upgrade chance (%)
 0 0 0 0 0 0 0 # Resources award
-0 0 0 0 # Arts award: Précieux - Mineure - Majeur - Relique
+0 0 0 0 # Arts award: Précieux - Mineur - Majeur - Relique
 136 # Creatures award type
 12 # Creatures award count"
 Text 8: ""
@@ -12214,7 +12214,7 @@ Text 7: "# Precise guard stack setup
 15 15 15 15 15 15 0 # Guards counts
 0 # Upgrade chance (%)
 0 0 0 0 0 0 2500 # Resources award
-0 1 0 0 # Arts award: Précieux - Mineure - Majeur - Relique
+0 1 0 0 # Arts award: Précieux - Mineur - Majeur - Relique
 -1 # Creatures award type
 0 # Creatures award count
 
@@ -12224,7 +12224,7 @@ Text 7: "# Precise guard stack setup
 15 15 15 15 15 15 0 # Guards counts
 0 # Upgrade chance (%)
 0 0 0 0 0 0 2500 # Resources award
-0 1 0 0 # Arts award: Précieux - Mineure - Majeur - Relique
+0 1 0 0 # Arts award: Précieux - Mineur - Majeur - Relique
 -1 # Creatures award type
 0 # Creatures award count
 
@@ -12234,7 +12234,7 @@ Text 7: "# Precise guard stack setup
 15 15 15 15 15 15 0 # Guards counts
 0 # Upgrade chance (%)
 0 0 0 0 0 0 2500 # Resources award
-0 1 0 0 # Arts award: Précieux - Mineure - Majeur - Relique
+0 1 0 0 # Arts award: Précieux - Mineur - Majeur - Relique
 -1 # Creatures award type
 0 # Creatures award count
 
@@ -12244,7 +12244,7 @@ Text 7: "# Precise guard stack setup
 15 15 15 15 15 15 0 # Guards counts
 0 # Upgrade chance (%)
 0 0 0 0 0 0 2500 # Resources award
-0 1 0 0 # Arts award: Précieux - Mineure - Majeur - Relique
+0 1 0 0 # Arts award: Précieux - Mineur - Majeur - Relique
 -1 # Creatures award type
 0 # Creatures award count"
 Text 8: "
@@ -12276,7 +12276,7 @@ Text 7: "# Precise guard stack setup
 20 0 0 0 0 0 0 # Guards counts
 0 # Upgrade chance (%)
 0 0 0 0 0 0 0 # Resources award
-0 0 0 0 # Arts award: Précieux - Mineure - Majeur - Relique
+0 0 0 0 # Arts award: Précieux - Mineur - Majeur - Relique
 40 # Creatures award type
 1 # Creatures award count
 
@@ -12286,7 +12286,7 @@ Text 7: "# Precise guard stack setup
 40 0 0 0 0 0 0 # Guards counts
 0 # Upgrade chance (%)
 0 0 0 0 0 0 0 # Resources award
-0 0 0 0 # Arts award: Précieux - Mineure - Majeur - Relique
+0 0 0 0 # Arts award: Précieux - Mineur - Majeur - Relique
 40 # Creatures award type
 2 # Creatures award count
 
@@ -12296,7 +12296,7 @@ Text 7: "# Precise guard stack setup
 60 0 0 0 0 0 0 # Guards counts
 0 # Upgrade chance (%)
 0 0 0 0 0 0 0 # Resources award
-0 0 0 0 # Arts award: Précieux - Mineure - Majeur - Relique
+0 0 0 0 # Arts award: Précieux - Mineur - Majeur - Relique
 40 # Creatures award type
 3 # Creatures award count
 
@@ -12306,7 +12306,7 @@ Text 7: "# Precise guard stack setup
 80 0 0 0 0 0 0 # Guards counts
 0 # Upgrade chance (%)
 0 0 0 0 0 0 0 # Resources award
-0 0 0 0 # Arts award: Précieux - Mineure - Majeur - Relique
+0 0 0 0 # Arts award: Précieux - Mineur - Majeur - Relique
 40 # Creatures award type
 4 # Creatures award count"
 Text 8: ""
@@ -12337,7 +12337,7 @@ Text 7: "# Precise guard stack setup
 50 0 0 0 0 0 0 # Guards counts
 0 # Upgrade chance (%)
 0 0 0 0 0 0 0 # Resources award
-0 0 0 0 # Arts award: Précieux - Mineure - Majeur - Relique
+0 0 0 0 # Arts award: Précieux - Mineur - Majeur - Relique
 94 # Creatures award type
 4 # Creatures award count
 
@@ -12347,7 +12347,7 @@ Text 7: "# Precise guard stack setup
 75 0 0 0 0 0 0 # Guards counts
 0 # Upgrade chance (%)
 0 0 0 0 0 0 0 # Resources award
-0 0 0 0 # Arts award: Précieux - Mineure - Majeur - Relique
+0 0 0 0 # Arts award: Précieux - Mineur - Majeur - Relique
 94 # Creatures award type
 6 # Creatures award count
 
@@ -12357,7 +12357,7 @@ Text 7: "# Precise guard stack setup
 100 0 0 0 0 0 0 # Guards counts
 0 # Upgrade chance (%)
 0 0 0 0 0 0 0 # Resources award
-0 0 0 0 # Arts award: Précieux - Mineure - Majeur - Relique
+0 0 0 0 # Arts award: Précieux - Mineur - Majeur - Relique
 94 # Creatures award type
 8 # Creatures award count
 
@@ -12367,7 +12367,7 @@ Text 7: "# Precise guard stack setup
 150 0 0 0 0 0 0 # Guards counts
 0 # Upgrade chance (%)
 0 0 0 0 0 0 0 # Resources award
-0 0 0 0 # Arts award: Précieux - Mineure - Majeur - Relique
+0 0 0 0 # Arts award: Précieux - Mineur - Majeur - Relique
 94 # Creatures award type
 12 # Creatures award count"
 Text 8: ""
@@ -12398,7 +12398,7 @@ Text 7: "# Precise guard stack setup
 20 3 3 10 0 0 1 # Guards counts
 0 # Upgrade chance (%)
 0 0 0 0 0 0 1000 # Resources award
-0 0 0 0 # Arts award: Précieux - Mineure - Majeur - Relique
+0 0 0 0 # Arts award: Précieux - Mineur - Majeur - Relique
 -1 # Creatures award type
 0 # Creatures award count
 
@@ -12408,7 +12408,7 @@ Text 7: "# Precise guard stack setup
 30 5 5 10 0 0 1 # Guards counts
 0 # Upgrade chance (%)
 0 0 0 0 0 0 2000 # Resources award
-0 0 0 0 # Arts award: Précieux - Mineure - Majeur - Relique
+0 0 0 0 # Arts award: Précieux - Mineur - Majeur - Relique
 -1 # Creatures award type
 0 # Creatures award count
 
@@ -12418,7 +12418,7 @@ Text 7: "# Precise guard stack setup
 40 7 7 20 0 0 2 # Guards counts
 0 # Upgrade chance (%)
 0 0 0 0 0 0 3000 # Resources award
-0 0 0 0 # Arts award: Précieux - Mineure - Majeur - Relique
+0 0 0 0 # Arts award: Précieux - Mineur - Majeur - Relique
 -1 # Creatures award type
 0 # Creatures award count
 
@@ -12428,7 +12428,7 @@ Text 7: "# Precise guard stack setup
 50 9 9 20 0 0 3 # Guards counts
 0 # Upgrade chance (%)
 0 0 0 0 0 0 4000 # Resources award
-0 0 0 0 # Arts award: Précieux - Mineure - Majeur - Relique
+0 0 0 0 # Arts award: Précieux - Mineur - Majeur - Relique
 -1 # Creatures award type
 0 # Creatures award count"
 Text 8: ""
@@ -12883,7 +12883,7 @@ Text 7: "{Tunique du Sage}
 En plus des propriétés de ses composants, cette Tunique permet à votre Héros de se rendre ou de battre en retraite lorsqu'il affronte des monstres errants ou qu'il défend une ville. Il a également la possibilité de fuir après avoir attaqué et lancé un sort au premier tour d'un combat. La Tunique fait croire aux monstres errants et aux adversaires qui visitent une guilde ou un repaire de voleurs que votre armée est trois fois plus puissante."
 Text 8: "0 # cost
 2 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - ballista, 11 - ammo cart, 12 - first aid tent, 13 - catapult, 14 - spell book)
-16 # type (1 - none, 2 - précieux, 4 - mineure, 8 - majeur, 16 - relique)
+16 # type (1 - none, 2 - Précieux, 4 - Mineur, 8 - Majeur, 16 - Relique)
 0 # disabled as defaults (0 - no, 1 - yes)
 0 # add new spells (0 - no, 1 - yes)
 0 # attack bonus (_int8_)
@@ -12914,7 +12914,7 @@ Text 7: "{Pendentif de Réflexion}
 En plus des propriétés de ses composants, ce Pendentif augmente vos chances de résister à un Sort hostile de 50%."
 Text 8: "0 # cost
 3 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - ballista, 11 - ammo cart, 12 - first aid tent, 13 - catapult, 14 - spell book)
-16 # type (1 - none, 2 - précieux, 4 - mineure, 8 - majeur, 16 - relique)
+16 # type (1 - none, 2 - Précieux, 4 - Mineur, 8 - Majeur, 16 - Relique)
 0 # disabled as defaults (0 - no, 1 - yes)
 0 # add new spells (0 - no, 1 - yes)
 0 # attack bonus (_int8_)
@@ -12945,7 +12945,7 @@ Text 7: "{Tomahawk des Ogres}
 En plus des propriétés de ses composants, les sorts Hâte, Furie Sanguinaire, Bouclier de Flammes, et Contre-Attaque, sont lancés au niveau expert au début des combats - 50 tours."
 Text 8: "0 # cost
 4 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - ballista, 11 - ammo cart, 12 - first aid tent, 13 - catapult, 14 - spell book)
-16 # type (1 - none, 2 - précieux, 4 - mineure, 8 - majeur, 16 - relique)
+16 # type (1 - none, 2 - Précieux, 4 - Mineur, 8 - Majeur, 16 - Relique)
 0 # disabled as defaults (0 - no, 1 - yes)
 0 # add new spells (0 - no, 1 - yes)
 0 # attack bonus (_int8_)
@@ -12976,7 +12976,7 @@ Text 7: "{Canon}
 Pièce d'artillerie très utile pour affronter l'ennemi et prendre d'assaut les fortifications."
 Text 8: "5000 # cost
 10 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - ballista, 11 - ammo cart, 12 - first aid tent, 13 - catapult, 14 - spell book)
-1 # type (1 - none, 2 - précieux, 4 - mineure, 8 - majeur, 16 - relique)
+1 # type (1 - none, 2 - Précieux, 4 - Mineur, 8 - Majeur, 16 - Relique)
 0 # disabled as defaults (0 - no, 1 - yes)
 0 # add new spells (0 - no, 1 - yes)
 0 # attack bonus (_int8_)
@@ -13007,7 +13007,7 @@ Text 7: "{Trident de Poséidon}
 Ce trident améliore votre Caractéristique d'Attaque +7"
 Text 8: "7000 # cost
 4 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - ballista, 11 - ammo cart, 12 - first aid tent, 13 - catapult, 14 - spell book)
-8 # type (1 - none, 2 - précieux, 4 - mineure, 8 - majeur, 16 - relique)
+8 # type (1 - none, 2 - Précieux, 4 - Mineur, 8 - Majeur, 16 - Relique)
 0 # disabled as defaults (0 - no, 1 - yes)
 0 # add new spells (0 - no, 1 - yes)
 7 # attack bonus (_int8_)
@@ -13038,7 +13038,7 @@ Text 7: "{Bouclier des Tempêtes}
 Ce bouclier améliore votre Caractéristique de Défense +7"
 Text 8: "7000 # cost
 5 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - ballista, 11 - ammo cart, 12 - first aid tent, 13 - catapult, 14 - spell book)
-8 # type (1 - none, 2 - précieux, 4 - mineure, 8 - majeur, 16 - relique)
+8 # type (1 - none, 2 - Précieux, 4 - Mineur, 8 - Majeur, 16 - Relique)
 0 # disabled as defaults (0 - no, 1 - yes)
 0 # add new spells (0 - no, 1 - yes)
 0 # attack bonus (_int8_)
@@ -13069,7 +13069,7 @@ Text 7: "{Broigne Royale Nix}
 Cette armure améliore votre Caractéristique de Magie +6"
 Text 8: "7000 # cost
 6 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - ballista, 11 - ammo cart, 12 - first aid tent, 13 - catapult, 14 - spell book)
-8 # type (1 - none, 2 - précieux, 4 - mineure, 8 - majeur, 16 - relique)
+8 # type (1 - none, 2 - Précieux, 4 - Mineur, 8 - Majeur, 16 - Relique)
 0 # disabled as defaults (0 - no, 1 - yes)
 0 # add new spells (0 - no, 1 - yes)
 0 # attack bonus (_int8_)
@@ -13100,7 +13100,7 @@ Text 7: "{Couronne des Cinq Mers}
 Cette Couronne en or améliore votre Caractéristique de Savoir +6"
 Text 8: "7000 # cost
 1 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - ballista, 11 - ammo cart, 12 - first aid tent, 13 - catapult, 14 - spell book)
-8 # type (1 - none, 2 - précieux, 4 - mineure, 8 - majeur, 16 - relique)
+8 # type (1 - none, 2 - Précieux, 4 - Mineur, 8 - Majeur, 16 - Relique)
 0 # disabled as defaults (0 - no, 1 - yes)
 0 # add new spells (0 - no, 1 - yes)
 0 # attack bonus (_int8_)
@@ -13131,7 +13131,7 @@ Text 7: "{Bottes du Voyageur}
 Permet au Héros de se déplacer sur les terrains difficiles sans pénalités de mouvement."
 Text 8: "5000 # cost
 8 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - ballista, 11 - ammo cart, 12 - first aid tent, 13 - catapult, 14 - spell book)
-8 # type (1 - none, 2 - précieux, 4 - mineure, 8 - majeur, 16 - relique)
+8 # type (1 - none, 2 - Précieux, 4 - Mineur, 8 - Majeur, 16 - Relique)
 0 # disabled as defaults (0 - no, 1 - yes)
 0 # add new spells (0 - no, 1 - yes)
 0 # attack bonus (_int8_)
@@ -13162,7 +13162,7 @@ Text 7: "{Runes d'Imminence}
 Fait baisser la Chance de l'ennemi -1"
 Text 8: "2000 # cost
 9 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - ballista, 11 - ammo cart, 12 - first aid tent, 13 - catapult, 14 - spell book)
-2 # type (1 - none, 2 - précieux, 4 - mineure, 8 - majeur, 16 - relique)
+2 # type (1 - none, 2 - Précieux, 4 - Mineur, 8 - Majeur, 16 - Relique)
 0 # disabled as defaults (0 - no, 1 - yes)
 0 # add new spells (0 - no, 1 - yes)
 0 # attack bonus (_int8_)
@@ -13193,7 +13193,7 @@ Text 7: "{Sabot des Enfers}
 Fait baisser la Chance de l'ennemi -1"
 Text 8: "2000 # cost
 9 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - ballista, 11 - ammo cart, 12 - first aid tent, 13 - catapult, 14 - spell book)
-2 # type (1 - none, 2 - précieux, 4 - mineure, 8 - majeur, 16 - relique)
+2 # type (1 - none, 2 - Précieux, 4 - Mineur, 8 - Majeur, 16 - Relique)
 0 # disabled as defaults (0 - no, 1 - yes)
 0 # add new spells (0 - no, 1 - yes)
 0 # attack bonus (_int8_)
@@ -13224,7 +13224,7 @@ Text 7: "{Poupée Shamane}
 Fait baisser la Chance de l'ennemi -2"
 Text 8: "4000 # cost
 9 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - ballista, 11 - ammo cart, 12 - first aid tent, 13 - catapult, 14 - spell book)
-4 # type (1 - none, 2 - précieux, 4 - mineure, 8 - majeur, 16 - relique)
+4 # type (1 - none, 2 - Précieux, 4 - Mineur, 8 - Majeur, 16 - Relique)
 0 # disabled as defaults (0 - no, 1 - yes)
 0 # add new spells (0 - no, 1 - yes)
 0 # attack bonus (_int8_)
@@ -13255,7 +13255,7 @@ Text 7: "{Masque d'Abomination}
 Fait baisser le Moral de l'ennemi -1"
 Text 8: "4000 # cost
 9 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - ballista, 11 - ammo cart, 12 - first aid tent, 13 - catapult, 14 - spell book)
-4 # type (1 - none, 2 - précieux, 4 - mineure, 8 - majeur, 16 - relique)
+4 # type (1 - none, 2 - Précieux, 4 - Mineur, 8 - Majeur, 16 - Relique)
 0 # disabled as defaults (0 - no, 1 - yes)
 0 # add new spells (0 - no, 1 - yes)
 0 # attack bonus (_int8_)
@@ -13286,7 +13286,7 @@ Text 7: "{Bague de Privation}
 Fait baisser le Moral de l'ennemi -1"
 Text 8: "4000 # cost
 7 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - ballista, 11 - ammo cart, 12 - first aid tent, 13 - catapult, 14 - spell book)
-2 # type (1 - none, 2 - précieux, 4 - mineure, 8 - majeur, 16 - relique)
+2 # type (1 - none, 2 - Précieux, 4 - Mineur, 8 - Majeur, 16 - Relique)
 0 # disabled as defaults (0 - no, 1 - yes)
 0 # add new spells (0 - no, 1 - yes)
 0 # attack bonus (_int8_)
@@ -13317,7 +13317,7 @@ Text 7: "{Pendentif d'Ardeur}
 Fait baisser le Moral de l'ennemi -2"
 Text 8: "7000 # cost
 3 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - ballista, 11 - ammo cart, 12 - first aid tent, 13 - catapult, 14 - spell book)
-8 # type (1 - none, 2 - précieux, 4 - mineure, 8 - majeur, 16 - relique)
+8 # type (1 - none, 2 - Précieux, 4 - Mineur, 8 - Majeur, 16 - Relique)
 0 # disabled as defaults (0 - no, 1 - yes)
 0 # add new spells (0 - no, 1 - yes)
 0 # attack bonus (_int8_)
@@ -13348,7 +13348,7 @@ Text 7: "{Anneau d'Amnésie}
 Rend toutes les pertes définitives lors d'un combat : les corps des créatures tuées disparaissent sur-le-champ, les sorts qui ressuscitent les morts ne peuvent plus être utilisés, les vampires ne peuvent plus se régénèrer, et les Héros de la Nécropole ne peuvent plus réanimer de morts-vivants."
 Text 8: "7500 # cost
 7 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - ballista, 11 - ammo cart, 12 - first aid tent, 13 - catapult, 14 - spell book)
-8 # type (1 - none, 2 - précieux, 4 - mineure, 8 - majeur, 16 - relique)
+8 # type (1 - none, 2 - Précieux, 4 - Mineur, 8 - Majeur, 16 - Relique)
 0 # disabled as defaults (0 - no, 1 - yes)
 0 # add new spells (0 - no, 1 - yes)
 0 # attack bonus (_int8_)
@@ -13379,7 +13379,7 @@ Text 7: "{Cape du Silence}
 Équipé de cette Cape, vous et votre adversaire ne pouvez lancer des sorts de Niveau 1 et 2 durant le combat."
 Text 8: "7500 # cost
 2 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - ballista, 11 - ammo cart, 12 - first aid tent, 13 - catapult, 14 - spell book)
-8 # type (1 - none, 2 - précieux, 4 - mineure, 8 - majeur, 16 - relique)
+8 # type (1 - none, 2 - Précieux, 4 - Mineur, 8 - Majeur, 16 - Relique)
 0 # disabled as defaults (0 - no, 1 - yes)
 0 # add new spells (0 - no, 1 - yes)
 0 # attack bonus (_int8_)
@@ -13407,10 +13407,10 @@ Text 5: ""
 Text 6: ""
 Text 7: "{Poule d'Or}
 
-En plus des propriétés de ses composants, la Poule d'Or génère un revenu supplmentaire de 4750 pièces d'Or par jour."
+En plus des propriétés de ses composants, la Poule d'Or génère un revenu supplémentaire de 4750 pièces d'Or par jour."
 Text 8: "0 # cost
 9 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - ballista, 11 - ammo cart, 12 - first aid tent, 13 - catapult, 14 - spell book)
-16 # type (1 - none, 2 - précieux, 4 - mineure, 8 - majeur, 16 - relique)
+16 # type (1 - none, 2 - Précieux, 4 - Mineur, 8 - Majeur, 16 - Relique)
 0 # disabled as defaults (0 - no, 1 - yes)
 0 # add new spells (0 - no, 1 - yes)
 0 # attack bonus (_int8_)
@@ -13441,7 +13441,7 @@ Text 7: "{Corne des Abysses}
 Lorsqu'au cours d'un combat un groupe de créatures est défait, il est aussitôt remplacé par des Fangarms qui rejoignent les rangs du Héros possédant la Corne des Abysses. Le total de leurs points de vie est alors égal à la moitié du total des points de vie des unités du groupe éliminé, et le nombre de Fangarms invoqués ne peut excéder le nombre total des créatures qui composaient le groupe en question."
 Text 8: "50000 # cost
 9 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - ballista, 11 - ammo cart, 12 - first aid tent, 13 - catapult, 14 - spell book)
-16 # type (1 - none, 2 - précieux, 4 - mineure, 8 - majeur, 16 - relique)
+16 # type (1 - none, 2 - Précieux, 4 - Mineur, 8 - Majeur, 16 - Relique)
 0 # disabled as defaults (0 - no, 1 - yes)
 0 # add new spells (0 - no, 1 - yes)
 0 # attack bonus (_int8_)
@@ -13472,7 +13472,7 @@ Text 7: "{Bracelet d'Angoisse}
 Ce Bracelet réduit la Caractéristique Magie des Héros ennemis de 10% durant les combats."
 Text 8: "5000 # cost
 9 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - ballista, 11 - ammo cart, 12 - first aid tent, 13 - catapult, 14 - spell book)
-4 # type (1 - none, 2 - précieux, 4 - mineure, 8 - majeur, 16 - relique)
+4 # type (1 - none, 2 - Précieux, 4 - Mineur, 8 - Majeur, 16 - Relique)
 0 # disabled as defaults (0 - no, 1 - yes)
 0 # add new spells (0 - no, 1 - yes)
 0 # attack bonus (_int8_)
@@ -13503,7 +13503,7 @@ Text 7: "{Sceau d'Astrologue}
 Le Sceau d'Astrologue réduit la Caractéristique Magie des Héros ennemis de 10% durant les combats."
 Text 8: "5000 # cost
 7 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - ballista, 11 - ammo cart, 12 - first aid tent, 13 - catapult, 14 - spell book)
-4 # type (1 - none, 2 - précieux, 4 - mineure, 8 - majeur, 16 - relique)
+4 # type (1 - none, 2 - Précieux, 4 - Mineur, 8 - Majeur, 16 - Relique)
 0 # disabled as defaults (0 - no, 1 - yes)
 0 # add new spells (0 - no, 1 - yes)
 0 # attack bonus (_int8_)
@@ -13534,7 +13534,7 @@ Text 7: "{Plastron d'Obscurité}
 Ce Plastron réduit la Caractéristique Magie des Héros ennemis de 25% durant les combats."
 Text 8: "10000 # cost
 6 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - ballista, 11 - ammo cart, 12 - first aid tent, 13 - catapult, 14 - spell book)
-16 # type (1 - none, 2 - précieux, 4 - mineure, 8 - majeur, 16 - relique)
+16 # type (1 - none, 2 - Précieux, 4 - Mineur, 8 - Majeur, 16 - Relique)
 0 # disabled as defaults (0 - no, 1 - yes)
 0 # add new spells (0 - no, 1 - yes)
 0 # attack bonus (_int8_)
@@ -13562,10 +13562,10 @@ Text 5: ""
 Text 6: ""
 Text 7: "{Veilleur de Consciences}
 
-Cet Artefact immunise vos troupes contre les sorts de l'esprit."
+Cet Artéfact immunise vos troupes contre les sorts de l'esprit."
 Text 8: "10000 # cost
 9 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - ballista, 11 - ammo cart, 12 - first aid tent, 13 - catapult, 14 - spell book)
-16 # type (1 - none, 2 - précieux, 4 - mineure, 8 - majeur, 16 - relique)
+16 # type (1 - none, 2 - Précieux, 4 - Mineur, 8 - Majeur, 16 - Relique)
 0 # disabled as defaults (0 - no, 1 - yes)
 0 # add new spells (0 - no, 1 - yes)
 0 # attack bonus (_int8_)
@@ -15802,14 +15802,14 @@ Text 6: ""
 Text 7: ""
 Text 8: """{Autel des Abysses}
 
-Vous voilà à quelque distance d'un ancien autel profondément enraciné dans le sol, au-dessus duquel est suspendu un Artefact connu pour sa grande puissance. Plusieurs Haspids rôdent autour de l'autel, ce qui vous laisse à penser qu'ils sont là pour protèger l'objet magique.
+Vous voilà à quelque distance d'un ancien autel profondément enraciné dans le sol, au-dessus duquel est suspendu un Artéfact connu pour sa grande puissance. Plusieurs Haspids rôdent autour de l'autel, ce qui vous laisse à penser qu'ils sont là pour protèger l'objet magique.
 Voulez-vous affronter les haspids ?""
 ""{Autel des Abysses}
 
-Vous voilà à quelque distance d'un ancien autel profondément enraciné dans le sol, au-dessus duquel est suspendu un Artefact connu pour sa grande puissance. Plusieurs Haspids rôdent autour de l'autel, ce qui vous laisse à penser qu'ils sont là pour protèger l'objet magique. Malheureusement, votre besace étant pleine, vous ne pouvez pas emporter l'Artefact avec vous.""
+Vous voilà à quelque distance d'un ancien autel profondément enraciné dans le sol, au-dessus duquel est suspendu un Artéfact connu pour sa grande puissance. Plusieurs Haspids rôdent autour de l'autel, ce qui vous laisse à penser qu'ils sont là pour protèger l'objet magique. Malheureusement, votre besace étant pleine, vous ne pouvez pas emporter l'Artéfact avec vous.""
 ""{Autel des Abysses}
 
-Vous voilà à quelque distance d'un ancien autel profondément enraciné dans le sol. Autrefois, un Artefact d'une grande puissance était conservé ici, mais pas de chance pour vous, l'autel est désormais vide.""
+Vous voilà à quelque distance d'un ancien autel profondément enraciné dans le sol. Autrefois, un Artéfact d'une grande puissance était conservé ici, mais pas de chance pour vous, l'autel est désormais vide.""
 ""{Autel des Abysses}
 
 Après avoir vaincu les redoutables haspids, vous vous emparez de la légendaire Corne des Abysses."""
@@ -15863,7 +15863,7 @@ Text 7: ""
 Text 8: """{Cabanon de l'Ermite}
 
 Vous entrez dans une petite cabane encastrée dans un arbre, mais vous ne trouvez personne à l'intérieur. Les murs sont recouverts d'écrits copiés dans des manuels de compétences. Vous recopiez à votre tour certains passages exposés au-dessus de la cheminée.""
-(Enseigne une Compétence aléatoire ou un niveau supplmentaire)
+(Enseigne une Compétence aléatoire ou un niveau supplémentaire)
 ""{Cabanon de l'Ermite}
 
 En entrant dans la petite cabane, vous ne constatez aucun changement depuis votre dernière visite. Les inscriptions sur les murs vous sont parfaitement familières.""
