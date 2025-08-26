@@ -1,8 +1,8 @@
 ===== Map name =====
-The Freedom of the Nix
+À la rescousse des Nix
 
 ===== Map description =====
-The nix leader Tark should free 30 nix captives from their slavery to the Nighon lords. The scenario will be lost if Tark is defeated. The hero level cap is 24. After victory, Tark will proceed to the next scenario of the campaign.
+Le chef nix, Tark, doit libérer les 30 captifs nix de l'esclavage des seigneurs Nighon. Le scénario sera perdu si Tark est vaincu. Le niveau maximum des héros est de 24. Après la victoire, Tark passera au scénario suivant de la campagne.
 
 ===== Rumors =====
 
@@ -11,27 +11,27 @@ The nix leader Tark should free 30 nix captives from their slavery to the Nighon
 Name:
 Day 1-1
 Message:
-As Tark watched the pirates load their army and resources onto their ships, he couldn't help but be preoccupied about his people. They had managed to keep their existence a secret from the rest of the world for ages, but many of them were either dead or imprisoned now.	“Tark, will you follow us, or do you have other plans? We are grateful for your help and help of your people...” Bidley started.	“It is I who should be grateful,” Tark interrupted. “You showed me that there is life beyond my princedom. The only thing left to do is to set my people free. I know where they are,” the reptile leader continued.	“Perhaps we could help?” Bidley offered.	“No. You have one path ahead of you, and I have another. I must save my people. Don't assume that all the nix you meet will know of you or help you, however. There are just as many scoundrels among the nix as among men,” replied Tark, turning toward the sea.	“Will we meet again?” asked Bidley.	“Probably,” the nix replied. “If I return, I'll come find you. If not... forget about me.” With that, Tark strode into the water until it reached his waist, then dove and disappeared.
+Tandis que Tark observait les pirates charger leur armée et leurs ressources sur leurs navires, il ne pouvait s'empêcher de se préoccuper de son peuple. Ils avaient réussi à cacher leur existence au reste du monde pendant des siècles, mais beaucoup d'entre eux étaient morts ou emprisonnés.	"Tark, veux-tu nous suivre, ou as-tu d'autres projets ? Nous te sommes reconnaissants pour ton aide et celle de ton peuple…" ​​commença Bidley.	"C'est moi qui devrais te remercier", l'interrompit Tark. "Tu m'as montré qu'il y a une vie au-delà de mon royaume. Il ne me reste plus qu'à libérer mon peuple. Je sais où ils sont", poursuivit le chef reptilien.	"Peut-être pourrions-nous t'aider ?" proposa Bidley.	"Non. Vous avez un chemin à parcourir et j'ai ma propre voie à suivre. Je dois sauver mon peuple. Ne présume pas que tous les nix que tu rencontreras te connaîtront ou t'aideront, cependant. Il y a autant de scélérats parmi les nix que parmi les hommes", répondit Tark en se tournant vers la mer.	"Nous reverrons-nous ?" demanda Bidley. "Probablement", répondit le nix. "Si je reviens, je viendrai vous trouver. Sinon… oubliez-moi." Sur ce, Tark s'avança dans l'eau jusqu'à la taille, puis plongea et disparut.
 
 Name:
 Day 1-2
 Message:
-Tark swam for a long time, but at length, he reached the subterranean kingdom of the warlock lords. A small colony of nix, independent from the island princedom where Tark ruled, had lived in these underwater caverns until the warlocks conquered and enslaved them. It was time to free those nix, and also to show them who their true ruler was. Tark was the last of an ancient line of nix princes. Something terrible had happened to their race: as a result of some mysterious disease, many of their eggs were turning out to be hollow and devoid of life. As a result, their population had slowly dwindled, and the once flourishing people had been reduced to a mere handful of nix, controlling one small island and its surrounding waters. 	Though to the casual eye he seemed like a slow-moving and slow-thinking reptile, Tark absorbed information quickly. He knew that the lords of Nighon were in the throes of a civil war right now. Were he to invade their lands and take over one of their towns, they would hardly pay attention right away.
+Tark nagea longtemps, mais il finit par atteindre le royaume souterrain des seigneurs démonistes. Une petite colonie de nix, indépendante du petit royaume où régnait Tark, vivait dans ces cavernes sous-marines jusqu'à ce que les démonistes la conquièrent et la réduisent en esclavage. Il était temps de libérer ces nix, et aussi de leur montrer qui était leur véritable dirigeant. Tark était le dernier d'une ancienne lignée de princes nix. Un terrible malheur était arrivé à leur race : suite à une mystérieuse maladie, nombre de leurs œufs se révélaient creux et dépourvus de vie. En conséquence, leur population avait lentement diminué, et le peuple autrefois prospère avait été réduit à une poignée de nix, contrôlant une petite île et ses eaux environnantes. 	Bien qu'à première vue, il apparaissait comme un lent reptile à tous les points de vue, Tark assimila rapidement l'information. Il savait que les seigneurs Nighon étaient en proie à une guerre civile. S’il envahissait leurs terres et prenait le contrôle d’une de leurs villes, dans l'immédiat, ils n’y prêteraient guère attention.
 
 Name:
 Day 8
 Message:
-Tark knew he wouldn't be able to save everyone, but perhaps he could help the majority get out. Those he is unable to rescue will have to flee and fend for themselves if they want to live. After interrogating the civilians of his newly-occupied town, Tark learned that the lords were busy fighting and wouldn't notice the loss of this city for a while. Moreover, Tark found out that the captured nix were working in the caverns one level below. The fetid vapors those tunnels were full of were deadly to minotaurs, humans, and troglodytes, but hardly affected the nix. The warlocks particularly prized their nix slaves for this trait.
+Tark savait qu'il ne pourrait sauver tout le monde, mais peut-être pourrait-il en aider certains à s'échapper. Ceux qu'il ne parviendrait pas à sauver devront fuir et se débrouiller seuls s'ils veulent survivre. Après avoir interrogé les civils de sa ville nouvellement occupée, Tark apprit que les seigneurs étaient occupés à se battre et ne remarqueraient pas la perte de cette cité. De plus, Tark découvrit que les esclaves nix travaillaient dans les cavernes un niveau plus bas. Les vapeurs fétides qui emplissaient ces tunnels étaient mortelles pour les minotaures, les humains et les troglodytes, mais n'affectaient guère les nix. Les démonistes appréciaient particulièrement leurs esclaves nix pour cette caractéristique.
 
 Name:
 Day 15
 Message:
-It's dark and stuffy in these caves. Tark has decided to find a new, better home for his people. Perhaps those pirates, widely-traveled as they are, will know of a quiet place to settle—somewhere the nix can put down roots and slowly restore their civilization without fear of invaders. For this reason, Tark has decided to join Bidley and his followers as soon as he has freed his enslaved kin.
+Il fait sombre et étouffant dans ces grottes. Tark décida de trouver un nouveau foyer, plus agréable, pour son peuple. Peut-être que ces pirates, grands voyageurs, connaîtraient un endroit tranquille où s'installer, un endroit où les nix pourraient s'installer et restaurer tranquillement leur civilisation sans craindre des envahisseurs. C'est pour cela que Tark décida de rejoindre Bidley et ses disciples dès qu'il aurait libéré ses frères esclaves.
 
 Name:
 Day 18
 Message:
-Sooner or later, these lords will end their squabble and take notice of their lost outpost. It's important to be ready for their coming and to prepare a counterstrike they will be unable to recover from.
+Tôt ou tard, ces seigneurs mettront fin à leurs querelles et prendront conscience de la perte de leur avant-poste. Il est important de se préparer à leur arrivée et de préparer une contre-attaque dont ils ne pourront se remettre.
 
 ===== Heroes =====
 
@@ -39,40 +39,40 @@ Sooner or later, these lords will end their squabble and take notice of their lo
 
 (52, 33, 0) ***Seer's Hut***
 Message:
-A nix lies dying in a distant camp. He has lost a lot of blood, but there is still a way to save his life. 
-Our efforts to save the dying nix remain unsuccessful.
-With fresh blood infused into the dying creature, it will recover and may even be able to hold a weapon.
+Un nix gît mourant dans un camp éloigné. Il a perdu beaucoup de sang, mais il existe encore un moyen de le sauver.
+Nos efforts pour sauver le nix agonisant restent vains.
+En lui infusant du sang frais, la créature mourante se rétablira et pourra peut-être même tenir une arme.
 
 (12, 57, 0) ***Sign***
 Message:
-Southern tunnel
+Tunnel sud
 
 (28, 28, 0) ***Sign***
 Message:
-Catacombs
+Catacombes
 
 (63, 44, 0) ***Minotaur***
 Message:
-“The lizards have escaped! Cut them down!”
+"Les lézards se sont échappés ! Abattez-les !"
 
 (58, 48, 0) ***Minotaur King***
 Message:
-“Escaping slaves! Attack!”
+"Esclaves en fuite ! À l'attaque !"
 
 (66, 65, 0) ***Event***
 Message:
-“I can't believe my eyes! You are one of noble kin!”	“I am Prince Tark.”	“I bow before thee, prince. I escaped the poisonous mines on the lower level. When the Nighon war started, they loosened their grip over the slaves. But why did you come, Prince Tark?” 	“My duty is to free as many of our kin as possible.”	“Then allow me to join you. I am a seasoned warrior, and I have this armor I took from a slain minotaur. I am ready to give my life to aid our people,” said the warrior, and knelt.
+"Je n'en crois pas mes yeux ! Vous êtes de famille noble ! "	"Je suis le prince Tark." "Je m'incline devant vous, prince. J'ai échappé aux mines toxiques du niveau inférieur. Lorsque la guerre de Nighon a éclaté, ils ont relâché leur emprise sur leurs esclaves. Mais pourquoi êtes-vous venu, prince Tark ?" 	"Mon devoir est de libérer le plus grand nombre possible de nos semblables."	"Alors permettez-moi de vous rejoindre. Je suis un vétéran, et je possède cette armure que j'ai prise à un minotaure tué. Je suis prêt à donner ma vie pour aider notre peuple", dit le guerrier en s'agenouillant.
 
 (47, 38, 0) ***Archer***
 Message:
-“We're lost in these accursed caves, and as if that wasn't enough, now we have to deal with you monsters!”
+"Nous sommes perdus dans ces grottes maudites, et comme si cela ne suffisait pas, nous devons maintenant nous occuper de ces monstres ! "
 
 (43, 35, 1) ***Ocean Bottle***
 Message:
-by {F a t a l i s t}
+Par {F a t a l i s t}
 
 (35, 27, 1) ***Sign***
 Message:
-Beware! Toxic mines ahead. Prolonged exposure is dangerous.
+Attention ! Mines toxiques à proximité. Une exposition prolongée est dangereuse.
 
 ===== End of file =====
