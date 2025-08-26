@@ -2,7 +2,7 @@
 The Shores of Hell
 
 ===== Map description =====
-Jeremy, Bidley, and Casmetra must assemble the Cornucopia and release Tark from prison. If Jeremy, Bidley, Casmetra or Tark are defeated, the scenario will be lost. The hero level cap is 18. After victory, Jeremy, Bidley, and Casmetra will proceed to the next scenario of the campaign.
+Jeremy, Bidley et Casmetra doivent assemblé la Manne Céleste et libérer Tark de prison. Si Jeremy, Bidley, Casmetra ou Tark sont vaincus, le scénario sera perdu. Le niveau maximum des héros est de 18. Après la victoire, Jeremy, Bidley et Casmetra passeront au scénario suivant de la campagne.
 
 ===== Rumors =====
 
@@ -11,42 +11,42 @@ Jeremy, Bidley, and Casmetra must assemble the Cornucopia and release Tark from 
 Name:
 Day 1-1
 Message:
-The Black Mark, a smelly little hole of a tavern, was loud and dimly lit. Bidley sat in the corner sipping cheap beer. He had grown to hate this place more than anything, but couldn't bring himself to break his old tradition.		The door opened, and a man clad in a garish jacket walked in. He bore a striking resemblance to Bidley, though shorter and slighter, and he was followed by a gorgeously dressed, attractive woman. The man approached Bidley and shouted merrily, “Aha, you old dog! Long time no see! Where have you been?”	Bidley rose and hugged his brother.	“You haven't changed a bit—the same young drunkard I used to know. What's going on?”	“Ah, nothing much,” Jeremy said with a wave of his hand as he sat down next to his female companion. “By the way, this is Casmetra, the High Hydromancer.”	“Bidley, Captain Bidley,” he replied.	“A pleasure to meet you, Captain. I've heard plenty about you,” said Casmetra.	“Oh, indeed? And what have you been told so far?” grinned Bidley, taking a sip of his foul drink.	“I heard that you saved Xanthor, Catherine's archmage.”	Jeremy gave a whistle. “Shiver my soul! Working for Erathians, brother?” 	“How could I possibly have known I'd find Xanthor in that cell?” grumbled Bidley. “He was a waste of time, on top of being a bastard and an ingrate. Now there's a rumor going around that I work for the queen! ‘Her Majesty's corsair...'”	“Ingrate, huh?” Casmetra asked in surprise.	“Well, not completely. He told me a legend about something called the Horn of the Abyss...”	“Impossible!” exclaimed the sorceress, and both pirates gave her a surprised look.	“What's so special about it?” asked Jeremy.	“Have you ever heard of Armageddon's Blade, or the Cloak of the Undead King?” Casmetra asked excitedly. “These are legendary artifacts, of exceptional power! Completely unique! The Horn of the Abyss is another one like that. It is said that it lies on the bottom of the sea somewhere, ready for taking. One who finds it will rule the seas—he'll become the living representation of the Water Lord!”	“Interesting,” Bidley murmured. “Xanthor told me exactly where the Horn is. If it wasn't a lie, of course.”	“You can't imagine the importance of this knowledge,” whispered Casmetra, pressing one elegant hand to her cheek.	“Well, then, let's go find that Horn of the Abyss!” exclaimed Jeremy.	“No, it's way too risky: we don't have enough men, ships, or supplies. We're just two captains with a handful of sea dogs on board,” Jeremy's brother replied.	“You also have me, the High Hydromancer, and my apprentices,” added Casmetra. “And I know how to get everything we need. We'll have to put some effort into it, though.” 	“By the way, Jeremy,” Bidley suddenly changed the topic. “I heard you've run into some trouble. How is the Black Unicorn doing?”		“It sank,” Jeremy replied, leaning back in his chair.
+Le Marché Noir, une petite taverne malodorante, était bruyante et faiblement éclairée. Bidley était assis dans un coin, sirotant une bière bon marché. Il en était venu par détester cet endroit plus que tout, mais ne pouvait se résoudre à rompre avec sa vieille tradition.		La porte s'ouvrit et un homme vêtu d'une veste criarde entra. Il ressemblait étrangement à Bidley, bien que plus petit et plus mince, et il était suivi d'une femme séduisante et magnifiquement vêtue. L'homme s'approcha de Bidley et cria joyeusement : "Ah, vieux loup ! Ça fait longtemps qu'on ne s'est pas vus ! Où étais-tu passé ?"	Bidley se leva et serra son frère dans ses bras. "Tu n'as pas changé d'un poil - le même jeune ivrogne que j'ai connu. Que se passe-t-il ? " "Ah, pas grand-chose", dit Jeremy d'un geste de la main en s'asseyant avec sa compagne. "Au fait, voici Casmetra, la Grande Hydromancienne."	"Bidley, Capitaine Bidley", répondit-il.	"Enchanté de vous rencontrer, Capitaine. J'ai beaucoup entendu parler de vous", dit Casmetra.	"Ah oui ? Et qu'est ce qu'on vous a raconté ? " sourit Bidley en buvant une gorgée de son infecte boisson. "J'ai entendu dire que vous aviez sauvé Xanthor, l'archimage de Catherine." Jeremy émit un sifflement. "Quel frisson ! Tu travailles pour les Erathians, mon frère ?" "Comment aurais-je pu savoir que je trouverais Xanthor dans cette cellule ? " grommela Bidley. "C'était une perte de temps, en plus d'être un bâtard et un ingrat. Maintenant, la rumeur court que je travaille pour la reine ! “Le corsaire de Sa Majesté…”" "Ingrat, hein ?" demanda Casmetra, surprise. "Enfin, pas tout à fait. Il m'a raconté une légende sur quelque chose appelé la Corne des Abysses…" "Impossible !" s'exclama la sorcière, et les deux pirates lui lancèrent un regard surpris.	"Qu'a-t-elle de si spécial ? " demanda Jeremy. "Avez-vous déjà entendu parler de la Lame d'Armageddon ou de la Cape du Roi Mort-Vivant ? " demanda Casmetra avec enthousiasme. "Ce sont des artéfacts légendaires, d'une puissance exceptionnelle ! Totalement uniques ! On dit que la Corne des Abysses est aussi puissante, elle reposerait quelque part au fond de la mer, prête à être dérobée." Celui qui la trouvera dominera les mers ; il deviendra la représentation vivante du Seigneur de l'Eau !	"Intéressant", murmura Bidley. "Xanthor m'a dit exactement où se trouve la Corne. S'il ne mentait pas, bien sûr." "Tu n'imagines pas l'importance de ce savoir", murmura Casmetra en pressant une main élégante contre sa joue.	"Eh bien, allons trouver cette Corne des Abysses ! " s'exclama Jeremy.	"Non, c'est bien trop risqué : nous n'avons pas assez d'hommes, de navires ou de provisions. Nous ne sommes que deux capitaines et une poignée de loups de mer à bord", répondit le frère de Jeremy.	« Vous m'avez aussi, la Grande Hydromancienne, et mes apprentis », ajouta Casmetra. "Et je sais comment obtenir tout ce dont nous avons besoin. Il va cependant falloir qu'on y mette du sien." 	"Au fait, Jeremy", Bidley changea soudain de sujet. "J'ai entendu dire que tu avais des ennuis. Comment va la Licorne Noire ?"		"Il a coulé", répondit Jeremy en s’adossant à sa chaise.
 
 Name:
 Day 1-2
 Message:
-“Eeofol's shore,” Bidley commented, contemplating the land from the wall of the new fort. Far ahead, he could see the shimmering heat and smoke rising from the ashy black terrain, like a festering boil on Antagarich's body. Somewhere over there swarmed legions of terrible creatures; they marched across the scorched earth toward the lands of men.	“Those beasts have plenty of everything,” said Casmetra.	“They're too preoccupied with their war against Erathia and its allies to notice us. We'll be able to gather the riches we need to afford the Cornucopia.”	“Excuse me, what?” asked Jeremy. 	“The Cornucopia,” repeated the sorceress. “We'll have to hire craftsmen to make the necessary elements of the artifact, and then we'll use the Cornucopia to hire an army and prepare our fleet. However, this artifact has one flaw: it depletes itself over time and eventually breaks. Nobody can say for sure for how long it will serve us.”	“How do you know all this about the Cornucopia?” Bidley asked.	“They say Archibald Ironfist had such an artifact. It supplied his armies during the Succession wars in Enroth. One of the reasons for his defeat was that the Cornucopia stopped working,” Casmetra replied.	“By the deep, woman,” grinned Jeremy, “where did you learn all that about Archibald? I thought you'd been sitting on that rock in the sea your whole life.”	“Never you mind that,” Casmetra answered grimly. “Gentlemen, we have matters to attend to.”
+"Le rivage d'Eeofol", commenta Bidley en contemplant le paysage depuis le mur du nouveau fort. Loin devant lui, il pouvait voir la chaleur chatoyante et la fumée s'élever du sol noir de charbon, tel un furoncle purulent sur le corps d'Antagarich. Quelque part, des légions de créatures terribles grouillent ; elles marchent à travers la terre brûlée vers les terres des hommes. "Ces bêtes ont de tout en abondance", dit Casmetra.	"Elles sont trop occupées par leur guerre contre Erathia et ses alliés pour nous remarquer. Nous pourrons amasser les richesses nécessaires pour nous offrir la Manne Céleste." "Pardon, quoi ? " demanda Jeremy. "La Manne Céleste", répéta la sorcière. "Nous devrons embaucher des artisans pour fabriquer les éléments nécessaires à l'artéfact, puis nous utiliserons la Manne Céleste pour recruter une armée et préparer notre flotte. Cependant, cet artéfact a un défaut : il s'épuise avec le temps et finit par se briser. Personne ne peut dire avec certitude combien de temps il nous servira." "Comment connaissez vous toutes ces informations sur la Manne Céleste ? " demanda Bidley.	"On dit qu'Archibald Ironfist possédait un tel artéfact avec lequel il approvisionnait ses armées pendant les guerres de succession à Enroth. L'une des raisons de sa défaite est que la Manne Céleste a cessé de fonctionner", répondit Casmetra. "Par tous les diables, femme", sourit Jeremy, "où avez-vous appris tout cela sur Archibald ? Je croyais que vous étiez sur ce rocher dans la mer toute votre vie." "Peu importe", répondit Casmetra d'un ton sombre. "Messieurs, nous avons des choses à régler."
 
 Name:
 Day 3
 Message:
-Scouts report an Erathian outpost to the south: Carstrig Fort. It would be good to capture it and use for our needs. The fort's defenders wouldn't have a chance against the Kreegans anyway.
+Les éclaireurs signalent un avant-poste érathien au sud : le fort de Carstrig. Il serait judicieux de le capturer et d'en faire notre avant poste. De toute façon, les défenseurs du fort n'auraient aucune chance contre les Kreegans.
 
 Name:
 Day 4
 Message:
-A group of frightened crewmen rushed into the room. “Cap'n! Giant crocodile-men just walked ashore!”	Without hesitation, Bidley grabbed his sabre and ran to see it for himself.	Indeed, two great scaly creatures, not unlike lizardmen, were lying on the shore, breathing heavily.	“Shiver me timbers!” exclaimed Bidley as he knelt beside them. “What are these creatures?”	“Those are nix,” Casmetra announced, approaching from behind. “An ancient sea-dwelling race of intelligent reptiles. They were thought extinct. Long ago, their kingdom was somewhere around here. Something must have made them emerge from heir depths again. I'm sure we'll see more of them.”	“I hope they have good intentions,” Bidley replied.
+Un groupe de membres d'équipage effrayés se précipita dans la pièce. "Cap'taine ! Des hommes-crocodiles géants viennent de débarquer ! "	Sans hésiter, Bidley saisit son sabre et courut voir par lui-même. En effet, deux grandes créatures écailleuses, ne ressemblant a aucun autre hommes-lézards, gisaient sur le rivage, respirant bruyamment.	"Que diable !" s'exclama Bidley en s'agenouillant à côté d'eux. "Que sont ces créatures ? " "Ce ne sont que des nix", annonça Casmetra en s'approchant par derrière. "Une ancienne race marine d'intelligents reptiles. On les croyait éteints. Il y a longtemps, leur royaume se trouvait quelque part par ici. Quelque chose a dû les faire surgir de leurs profondeurs. Je suis sûr qu'on en verra d'autres."	"J'espère qu'ils ont de bonnes intentions", répondit Bidley.
 
 Name:
 Day 7
 Message:
-More nix arrived with each passing day. It turned out that many of them could speak and even wield weapons. They explained that their ancient city was on a rocky island nearby, and that it was besieged by demons. When their prince, Tark, tried to break the siege, he was imprisoned. Tark is being held hostage in a Kreegan prison somewhere near Eeofol's shore. Bidley has decided to save him: the nix may become valuable allies.
+Chaque nouveau jour, voit de nouveaux nix arriver. Nombre d'entre eux savent parler et même manier les armes. Ils expliquèrent que leur ancienne cité se trouvait sur une île rocheuse proche, assiégée par des démons. Lorsque leur prince, Tark, tenta de briser le siège, il fut emprisonné. Tark est retenu en otage dans une prison kreegan, quelque part près des côtes d'Eeofol. Bidley a décidé de le sauver : les nix pourraient devenir de précieux alliés.
 
 Name:
 Day 9
 Message:
-Casmetra called a meeting between herself, Bidley, and Jeremy. 	“I bear grim news. My sources report that the Kreegans think Catherine hired the pirates to flank and backstab their forces, so they're moving some of their rearguard forces to the seashore. They'll soon attempt to kick us out of here. The faster we assemble the Cornucopia, the better,” she informed them. 	“Blood and thunder! That'll do wonders for my reputation,” muttered Bidley dispiritedly. “Every damn sea dog will think I'm working for Erathia, as if saving that mage wasn't enough.”	“But isn't that a good thing, brother?” asked Jeremy. “Discounts at taverns! Free entrance to the kingdom's largest ports! The only thing I'm worried about is how to find enough money to pay these artifact-making swindlers.” 	“We can slaughter the Kreegans and pillage them. We are pirates, after all!” exclaimed Bidley, and Jeremy agreed with a grin. 	“Call up the boys! We're gonna be turning fire demons into sea demons soon.”
+Casmetra organisa une réunion avec Bidley et Jeremy. 	"J'apporte de mauvaises nouvelles. Mes sources rapportent que les Kreegans pensent que Catherine a engagé les pirates pour les encercler et les poignarder dans le dos. Ils déplacent donc une partie de leur arrière-garde vers le littoral. Ils vont bientôt tenter de nous chasser d'ici. Plus vite nous rassemblerons la Corne des Abysses, mieux ce sera", leur annonça-t-elle. 	"Sang et tonnerre ! Ça fera des merveilles pour ma réputation", murmura Bidley, démoralisée. "Tous les loups de mer penseront que je travaille pour Erathia, comme si sauver ce mage n'était pas suffisant." "Mais n'est-ce pas une bonne chose, mon frère ? " demanda Jeremy. "Des rabais dans les tavernes ! Entrée gratuite dans les plus grands ports du royaume ! La seule chose qui m'inquiète, c'est comment trouver assez d'argent pour payer ces escrocs fabricants d'artéfacts." 	"On peut piller et massacrer les Kreegans. Nous sommes des pirates, après tout ! " s'exclama Bidley, et Jeremy acquiesça avec un sourire. 	"Appelez les gars ! On va bientôt transformer les démons du feu en démons des profondeurs."
 
 Name:
 Day 15
 Message:
-I was in the hold having a bout with a bottle of rum, and one of us was certainly about to win, when Patris appeared.	“Cap'n, I'd like to talk to you about what's going on,” he said.	“All right, I'm listening,” I nodded.	“I don't like that this woman is dragging you into this trouble. Why are you risking your neck going after that artifact? We're losing good men fighting those demons,” my first mate said seriously.	“It was our own decision,” I replied. “No one was dragging us into it. The life of an honorable pirate is one of constant risk—you know that. And by the way, we'll have a new ship soon, a beautiful one—a frigate! All those bigmouths in Regna will bite their tongues.” 	“All right, Cap'n. You're the boss,” agreed Patris and left me to my own devices. Wish I knew why he disliked Casmetra so much.
+J'étais dans la cale, en train de me battre avec une bouteille de rhum, et l'un de nous était sur le point de gagner, quand Patris apparut.	"Capitaine, j'aimerais vous parler de ce qui se passe", dit-il.	"D'accord, j'écoute", acquiesçai-je.	"Je n'aime pas que cette femme vous entraîne dans ce pétrin. Pourquoi risquez-vous votre peau en cherchant cet artéfact ? Nous perdons des hommes de valeur en combattant ces démons", dit sérieusement mon second.	"C'était notre décision", répondis-je. "Personne ne vous a entraînés là-dedans. La vie d'un honorable pirate est faite de risques constants et vous le savez. Au fait, nous aurons bientôt un nouveau magnifique navire, une frégate ! Toutes ces grandes gueules de Regna vont se mordre la langue de jalousie." 	"D'accord, Cap'taine. C'est vous le chef", acquiesça Patris en me laissant à mes propres affaires. J'aurais bien aimé savoir pourquoi il déteste autant Casmetra.
 
 Name:
 Day 30
 Message:
-It should be taken into the account that the more we delay, the more forces the Kreegans will be able to gather. They'll be a deadly threat very soon. We need to attack the enemy as soon as possible!
+Il faut tenir compte du fait que plus nous tardons, plus les Kreegans pourront rassembler leurs forces. Ils constitueront bientôt une menace mortelle. Nous devons attaquer l'ennemi au plus vite !
 
 ===== Heroes =====
 
@@ -54,11 +54,11 @@ It should be taken into the account that the more we delay, the more forces the 
 
 (14, 0, 0) ***Event***
 Message:
-Looks like the nix leader is being held here. Let's hope he's a thankful creature.
+On dirait que le chef des Nix est retenu ici. Espérons qu'il est du genre reconnaissant.
 
 (13, 0, 0) ***Sign***
 Message:
-Prison Block
+Bloc pénitentiaire
 
 (62, 43, 0) ***Cove***
 Name:
@@ -66,15 +66,15 @@ Nyksas
 
 (94, 61, 0) ***Seer's Hut***
 Message:
-Greetings! I'm able to create a source of infinite mercury. It will cost you 90,000.
-No deal. 90,000 and not a single gold piece fewer!
-We have a deal. I'll begin the work.
+Salut ! Je peux créer une source infinie de mercure. Cela vous coûtera 90 000.
+Pas d'accord. 90 000 et pas une seule pièce d'or de moins!
+Nous avons un accord. Je commence les travaux.
 
 (78, 17, 0) ***Seer's Hut***
 Message:
-I'm able to create a source of infinite sulphur. It will cost you 90,000.
-No deal. 90,000 and not a single gold piece fewer!		
-We have a deal. I'll begin the work.
+Je peux créer une source de soufre infinie. Cela vous coûtera 90 000.
+Pas d'accord. 90 000 et pas une seule pièce d'or de moins!
+Nous avons un accord. Je commence les travaux.
 
 (98, 81, 0) ***Sign***
 Message:
@@ -86,26 +86,26 @@ Fort Kastrig
 
 (32, 68, 0) ***Sign***
 Message:
-Devil's Bay
+Baie du Diable
 
 (78, 1, 0) ***Seer's Hut***
 Message:
-I'm able to create a source of infinite gems. It will cost you 80,000.
-No deal. 80,000 and not a single gold piece fewer!
-Perfect. Hand the money over, and take your artifact.
+Je peux créer une source infinie de gemmes. Cela vous coûtera 80 000.
+Pas d'accord. 80 000 et pas une seule pièce d'or de moins !
+Parfait. Donnez-moi l'argent et prenez votre artefact.
 
 (94, 1, 0) ***Seer's Hut***
 Message:
-Greetings! I'm able to create a source of infinite wood. It will cost you 15,000.
-No deal. 15,000 and not a single gold piece fewer!
-We have a deal. I'll begin the work.
+Salut ! Je peux créer une source infinie de bois. Cela vous coûtera 15 000.
+Pas d'accord. 15 000 et pas une seule pièce d'or de moins!
+Nous avons un accord. Je commence les travaux.
 
 (42, 2, 1) ***Event***
 Message:
-You can't easily get out of this place—it's a trap!
+Vous ne pouvez pas sortir facilement de cet endroit, c'est un piège!
 
 (105, 7, 1) ***Inferno***
 Name:
-Center
+Centre
 
 ===== End of file =====
