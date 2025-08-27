@@ -306,7 +306,7 @@ Par défaut, la Durée Maximale d'un Tour est 'Illimitée'.
 "																						
 STARTING_TOWN_HEADER_ID,	"{Ville de Départ}
 
-Chacun des joueurs peut commencer ou pas la partie avec une ville. Le choix d'une ville peut être Aléatoire, ou il peut s'agir d'un Château, d'une Tour, d'un Rempart, d'un Donjon, d'une Forteresse, d'un Bastion, d'une Nécropole, d'un Hadès.
+Chacun des joueurs peut commencer la partie avec ou sans ville. Le choix d'une ville peut être Aléatoire, ou il peut s'agir d'un Château, d'une Tour, d'un Rempart, d'un Donjon, d'une Forteresse, d'un Bastion, d'une Nécropole, d'un Hadès.
 
 Si vous ne commencez pas la partie avec une ville, ce paramètre peut servir à déterminer l'alignement de votre Héros de départ.
 "																						
@@ -318,7 +318,7 @@ Si vous ne commencez pas la partie avec une ville, ce paramètre peut servir à 
 "																						
 STARTING_HERO_HEADER_ID,	"{Héros de Départ}
 
-Chacun des joueurs peut commencer ou pas la partie avec un Héros. Dans certains cas, cette option n'est pas accessible. Lorsque cette option est proposée, vous pouvez choisir votre Héros parmi les 16 classes de Héros du jeu. Si une Ville de Départ est choisie, vous pourrez choisir parmi plusieurs Héros différents.
+Chacun des joueurs peut commencer la partie avec ou sans un Héros. Dans certains cas, cette option n'est pas accessible. Lorsque cette option est proposée, vous pouvez choisir votre Héros parmi les 16 classes de Héros du jeu. Si une Ville de Départ est choisie, vous pourrez choisir parmi plusieurs Héros différents.
 
 Pour afficher le nom du Héros, sa classe et sa spécialité, cliquez avec le bouton droit de la souris sur son portrait.
 "																						
@@ -758,7 +758,7 @@ Hommage au Père	Hommage au Père
 Donjons et Démons	Donjons et Démons		
 Vive le Roi	Vive le Roi		
 Graines de Discorde	Graines de Discorde		
-Armageddon	Armageddon		
+Épée d'Armageddon	Épée d'Armageddon	
 Sang de Dragon	Sang de Dragon		
 Pourfendeur de Dragon	Pourfendeur de Dragon		
 La Fête de la Vie	La Fête de la Vie		
