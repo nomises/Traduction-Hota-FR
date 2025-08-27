@@ -30,8 +30,8 @@ Désirez-vous ouvrir la boîte ?
 "Vous regardez à l'intérieur. Soulagé, vous découvrez que la boîte est vide."
 Il fallait vous en douter - Vous êtes attaqué !
 "Un garde s'approche de votre cheval. ""Bienvenue... On m'a prévenu de votre arrivée. Désirez-vous passer maintenant ?""
-""Personne ne m'a informé de votre venue,"" dit le Garde. ""Je ne peux pas vous laisser passer. Essayez d'abord de trouver la Tente du Maître des Clefs.""
-L'occupant de la Tente du Maître des Clefs semble heureux de vous voir. ""Ah, enfin quelqu'un de méritant,"" dit-il. ""Je vais immédiatement faire prévenir le Garde afin qu'il vous accorde le droit de passage.""
+""Personne ne m'a informé de votre venue."" dit le Garde. ""Je ne peux pas vous laisser passer. Essayez d'abord de trouver la Tente du Maître des Clefs.""
+L'occupant de la Tente du Maître des Clefs semble heureux de vous voir. ""Ah, enfin quelqu'un de méritant."" dit-il. ""Je vais immédiatement faire prévenir le Garde afin qu'il vous accorde le droit de passage.""
 L'occupant de la Tente du Maître des Clefs vous reconnaît lorsque vous approchez. ""J'ai déjà informé les personnes concernées de votre venue,"" dit-il. ""Partez à présent."""
 "{Bouée}
 
