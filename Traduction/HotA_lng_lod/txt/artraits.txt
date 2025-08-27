@@ -426,15 +426,15 @@ Cet anneau ajoute 56 tours à la durée de vos sorts."
 Manne Céleste							x	x	x	x	x										R	"{Manne Céleste}
 
 Cet objet génère chaque jour +5 Mercures, Soufres, Cristaux, Gemmes."
-Diplomat's Cloak																			x		R	"{Diplomat's Cloak}
+Tunique du Sage																			x		R	"{Tunique du Sage}
 
-This is a kick-ass artifact."
-Pendant of Reflection															x						R	"{Pendant of Reflection}
+Cet Artéfact permet de fuir le combat et réduit le Coût de la Reddition de 30% et rend possible une Reddition même quand le Héros affronte des monstres errants ou défend une ville. Il est également possible de fuir en attaquant et lançant un sort au premier tour d'un combat. Le Repaire et la Guilde des Voleurs font croire à l'ennemi que vous êtes 3 fois plus fort que vous ne l'êtes réellement. (Emplacement : Épaules)"
+Pendentif de Réflexion															x						R	"{Pendentif de Réflexion}
 
-This is a kick-ass artifact."
-Ironfist of the Ogre																	x				R	"{Ironfist of the Ogre}
+En plus des propriétés de ses composants, ce Pendentif augmente vos chances de résister à un Sort hostile de 50%."
+Tomahawk des Ogres																	x				R	"{Tomahawk des Ogres}
 
-This is a kick-ass artifact."
+En plus des propriétés de ses composants le Tomahawk des Ogres donne +5 Attaque, +5 Défense, +4 Magie et +4 Savoir, les sorts Hâte, Furie Sanguinaire, Bouclier de Flammes, et Contre-Attaque, sont lancés automatiquement au niveau expert sur les armées alliées au début des combats - 50 tours. (Emplacement : Main Droite)"
 																						
 																						
 																						
