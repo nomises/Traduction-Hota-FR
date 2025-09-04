@@ -2,7 +2,7 @@
 The Shores of Hell
 
 ===== Map description =====
-Jeremy, Bidley et Casmetra doivent assemblé la Manne Céleste et libérer Tark de prison. Si Jeremy, Bidley, Casmetra ou Tark sont vaincus, le scénario sera perdu. Le niveau maximum des héros est de 18. Après la victoire, Jeremy, Bidley et Casmetra passeront au scénario suivant de la campagne.
+Jeremy, Bidley et Casmetra doivent assembler la Manne Céleste et libérer Tark de prison. Si Jeremy, Bidley, Casmetra ou Tark sont vaincus, le scénario sera perdu. Le niveau maximum des héros est de 18. Après la victoire, Jeremy, Bidley et Casmetra passeront au scénario suivant de la campagne.
 
 ===== Rumors =====
 
@@ -11,7 +11,7 @@ Jeremy, Bidley et Casmetra doivent assemblé la Manne Céleste et libérer Tark 
 Name:
 Day 1-1
 Message:
-Le Marché Noir, une petite taverne malodorante, était bruyante et faiblement éclairée. Bidley était assis dans un coin, sirotant une bière bon marché. Il en était venu par détester cet endroit plus que tout, mais ne pouvait se résoudre à rompre avec sa vieille tradition.		La porte s'ouvrit et un homme vêtu d'une veste criarde entra. Il ressemblait étrangement à Bidley, bien que plus petit et plus mince, et il était suivi d'une femme séduisante et magnifiquement vêtue. L'homme s'approcha de Bidley et cria joyeusement : "Ah, vieux pirate ! Ça fait longtemps qu'on ne s'est pas vus ! Où étais-tu passé ?"	Bidley se leva et serra son frère dans ses bras. "Tu n'as pas changé d'un poil - le même jeune ivrogne que j'ai connu. Que se passe-t-il ? " "Ah, pas grand-chose", dit Jeremy d'un geste de la main en s'asseyant avec sa compagne. "Au fait, voici Casmetra, la Grande Hydromancienne."	"Bidley, Capitaine Bidley", répondit-il.	"Enchanté de vous rencontrer, Capitaine. J'ai beaucoup entendu parler de vous", dit Casmetra.	"Ah oui ? Et qu'est ce qu'on vous a raconté ? " sourit Bidley en buvant une gorgée de son infecte boisson. "J'ai entendu dire que vous aviez sauvé Xanthor, l'archimage de Catherine." Jeremy émit un sifflement. "Quel frisson ! Tu travailles pour les Erathians, mon frère ?" "Comment aurais-je pu savoir que je trouverais Xanthor dans cette cellule ? " grommela Bidley. "C'était une perte de temps, en plus d'être un bâtard et un ingrat. Maintenant, la rumeur court que je travaille pour la reine ! “Le corsaire de Sa Majesté…”" "Ingrat, hein ?" demanda Casmetra, surprise. "Enfin, pas tout à fait. Il m'a raconté une légende sur quelque chose appelé la Corne des Abysses…" "Impossible !" s'exclama la sorcière, et les deux pirates lui lancèrent un regard surpris.	"Qu'a-t-elle de si spécial ? " demanda Jeremy. "Avez-vous déjà entendu parler de la Lame d'Armageddon ou de la Cape du Roi Mort-Vivant ? " demanda Casmetra avec enthousiasme. "Ce sont des artéfacts légendaires, d'une puissance exceptionnelle ! Totalement uniques ! On dit que la Corne des Abysses est aussi puissante, elle reposerait quelque part au fond de la mer, prête à être dérobée." Celui qui la trouvera dominera les mers ; il deviendra la représentation vivante du Seigneur de l'Eau !	"Intéressant", murmura Bidley. "Xanthor m'a dit exactement où se trouve la Corne. S'il ne mentait pas, bien sûr." "Tu n'imagines pas l'importance de ce savoir", murmura Casmetra en pressant une main élégante contre sa joue.	"Eh bien, allons trouver cette Corne des Abysses ! " s'exclama Jeremy.	"Non, c'est bien trop risqué : nous n'avons pas assez d'hommes, de navires ou de provisions. Nous ne sommes que deux capitaines et une poignée de flibustier à bord", répondit le frère de Jeremy.	« Vous m'avez aussi, la Grande Hydromancienne, et mes apprentis », ajouta Casmetra. "Et je sais comment obtenir tout ce dont nous avons besoin. Il va cependant falloir qu'on y mette du sien." 	"Au fait, Jeremy", Bidley changea soudain de sujet. "J'ai entendu dire que tu avais des ennuis. Comment va la Licorne Noire ?"		"Il a coulé", répondit Jeremy en s’adossant à sa chaise.
+Le Marché Noir, une petite taverne malodorante, était bruyante et faiblement éclairée. Bidley était assis dans un coin, sirotant une bière bon marché. Il en était venu par détester cet endroit plus que tout, mais ne pouvait se résoudre à rompre avec sa vieille tradition.		La porte s'ouvrit et un homme vêtu d'une veste criarde entra. Il ressemblait étrangement à Bidley, bien que plus petit et plus mince, et il était suivi d'une femme séduisante et magnifiquement vêtue. L'homme s'approcha de Bidley et cria joyeusement : "Ah, vieux pirate ! Ça fait longtemps qu'on ne s'est pas vus ! Où étais-tu passé ?"	Bidley se leva et serra son frère dans ses bras. "Tu n'as pas changé d'un poil - le même jeune ivrogne que j'ai connu. Que se passe-t-il ? " "Ah, pas grand-chose", dit Jeremy d'un geste de la main en s'asseyant avec sa compagne. "Au fait, voici Casmetra, la Grande Hydromancienne."	"Bidley, Capitaine Bidley", répondit-il.	"Enchantée de vous rencontrer, Capitaine. J'ai beaucoup entendu parler de vous", dit Casmetra.	"Ah oui ? Et qu'est-ce qu'on vous a raconté ? " sourit Bidley en buvant une gorgée de son infecte boisson. "J'ai entendu dire que vous aviez sauvé Xanthor, l'archimage de Catherine." Jeremy émit un sifflement. "Quel frisson ! Tu travailles pour les Erathians, mon frère ?" "Comment aurais-je pu savoir que je trouverais Xanthor dans cette cellule ? " grommela Bidley. "C'était une perte de temps, en plus d'être un bâtard et un ingrat. Maintenant, la rumeur court que je travaille pour la reine ! “Le corsaire de Sa Majesté…”" "Ingrat, hein ?" demanda Casmetra, surprise. "Enfin, pas tout à fait. Il m'a raconté une légende sur quelque chose appelé la Corne des Abysses…" "Impossible !" s'exclama la sorcière, et les deux pirates lui lancèrent un regard surpris.	"Qu'a-t-elle de si spéciale ? " demanda Jeremy. "Avez-vous déjà entendu parler de la Lame d'Armageddon ou de la Cape du Roi Mort-Vivant ? " demanda Casmetra avec enthousiasme. "Ce sont des artéfacts légendaires, d'une puissance exceptionnelle ! Totalement uniques ! On dit que la Corne des Abysses est aussi puissante, elle reposerait quelque part au fond de la mer, prête à être dérobée." Celui qui la trouvera dominera les mers ; il deviendra la représentation vivante du Seigneur de l'Eau !	"Intéressant", murmura Bidley. "Xanthor m'a dit exactement où se trouve la Corne. S'il ne mentait pas, bien sûr." "Tu n'imagines pas l'importance de ce savoir", murmura Casmetra en pressant une main élégante contre sa joue.	"Eh bien, allons trouver cette Corne des Abysses ! " s'exclama Jeremy.	"Non, c'est bien trop risqué : nous n'avons pas assez d'hommes, de navires ou de provisions. Nous ne sommes que deux capitaines et une poignée de flibustier à bord", répondit le frère de Jeremy.	« Vous m'avez aussi, la Grande Hydromancienne, et mes apprentis », ajouta Casmetra. "Et je sais comment obtenir tout ce dont nous avons besoin. Il va cependant falloir qu'on y mette du sien." 	"Au fait, Jeremy", Bidley changea soudain de sujet. "J'ai entendu dire que tu avais des ennuis. Comment va la Licorne Noire ?"		"Il a coulé", répondit Jeremy en s’adossant à sa chaise.
 
 Name:
 Day 1-2
@@ -26,7 +26,7 @@ Les éclaireurs signalent un avant-poste érathien au sud : le fort de Carstrig
 Name:
 Day 4
 Message:
-Un groupe de membres d'équipage effrayés se précipita dans la pièce. "Cap'taine ! Des hommes-crocodiles géants viennent de débarquer ! "	Sans hésiter, Bidley saisit son sabre et courut voir par lui-même. En effet, deux grandes créatures écailleuses, ne ressemblant a aucun autre hommes-lézards, gisaient sur le rivage, respirant bruyamment.	"Que diable !" s'exclama Bidley en s'agenouillant à côté d'eux. "Que sont ces créatures ? " "Ce ne sont que des nix", annonça Casmetra en s'approchant par derrière. "Une ancienne race marine d'intelligents reptiles. On les croyait éteints. Il y a longtemps, leur royaume se trouvait quelque part par ici. Quelque chose a dû les faire surgir de leurs profondeurs. Je suis sûr qu'on en verra d'autres."	"J'espère qu'ils ont de bonnes intentions", répondit Bidley.
+Un groupe de membres d'équipage effrayés se précipita dans la pièce. "Cap'taine ! Des hommes-crocodiles géants viennent de débarquer ! "	Sans hésiter, Bidley saisit son sabre et courut voir par lui-même. En effet, deux grandes créatures écailleuses, ne ressemblant a aucun autre hommes-lézards, gisaient sur le rivage, respirant bruyamment.	"Que diable !" s'exclama Bidley en s'agenouillant à côté d'eux. "Que sont ces créatures ? " "Ce ne sont que des Nix", annonça Casmetra en s'approchant par derrière. "Une ancienne race marine d'intelligents reptiles. On les croyait éteints. Il y a longtemps, leur royaume se trouvait quelque part par ici. Quelque chose a dû les faire surgir de leurs profondeurs. Je suis sûr qu'on en verra d'autres."	"J'espère qu'ils ont de bonnes intentions", répondit Bidley.
 
 Name:
 Day 7
@@ -36,7 +36,7 @@ Chaque nouveau jour, voit de nouveaux nix arriver. Nombre d'entre eux savent par
 Name:
 Day 9
 Message:
-Casmetra organisa une réunion avec Bidley et Jeremy. 	"J'apporte de mauvaises nouvelles. Mes sources rapportent que les Kreegans pensent que Catherine a engagé les pirates pour les encercler et les poignarder dans le dos. Ils déplacent donc une partie de leur arrière-garde vers le littoral. Ils vont bientôt tenter de nous chasser d'ici. Plus vite nous rassemblerons la Corne des Abysses, mieux ce sera", leur annonça-t-elle. 	"Sang et tonnerre ! Ça fera des merveilles pour ma réputation", murmura Bidley, démoralisée. "Tous les flibustier penseront que je travaille pour Erathia, comme si sauver ce mage n'était pas suffisant." "Mais n'est-ce pas une bonne chose, mon frère ? " demanda Jeremy. "Des rabais dans les tavernes ! Entrée gratuite dans les plus grands ports du royaume ! La seule chose qui m'inquiète, c'est comment trouver assez d'argent pour payer ces escrocs fabricants d'artéfacts." 	"On peut piller et massacrer les Kreegans. Nous sommes des pirates, après tout ! " s'exclama Bidley, et Jeremy acquiesça avec un sourire. 	"Appelez les gars ! On va bientôt transformer les démons du feu en démons des profondeurs."
+Casmetra organisa une réunion avec Bidley et Jeremy. 	"J'apporte de mauvaises nouvelles. Mes sources rapportent que les Kreegans pensent que Catherine a engagé les pirates pour les encercler et les poignarder dans le dos. Ils déplacent donc une partie de leur arrière-garde vers le littoral. Ils vont bientôt tenter de nous chasser d'ici. Plus vite nous rassemblerons la Corne des Abysses, mieux ce sera", leur annonça-t-elle. 	"Sang et tonnerre ! Ça fera des merveilles pour ma réputation", murmura Bidley, démoralisé. "Tous les flibustiers penseront que je travaille pour Erathia, comme si sauver ce mage n'était pas suffisant." "Mais n'est-ce pas une bonne chose, mon frère ? " demanda Jeremy. "Des rabais dans les tavernes ! Entrée gratuite dans les plus grands ports du royaume ! La seule chose qui m'inquiète, c'est comment trouver assez d'argent pour payer ces escrocs fabricants d'artéfacts." 	"On peut piller et massacrer les Kreegans. Nous sommes des pirates, après tout ! " s'exclama Bidley, et Jeremy acquiesça avec un sourire. 	"Appelez les gars ! On va bientôt transformer les démons du feu en démons des profondeurs."
 
 Name:
 Day 15
@@ -67,13 +67,13 @@ Nyksas
 (94, 61, 0) ***Seer's Hut***
 Message:
 Salut ! Je peux créer une source infinie de mercure. Cela vous coûtera 90 000.
-Pas d'accord. 90 000 et pas une seule pièce d'or de moins!
+Pas d'accord. 90 000 et pas une seule pièce d'or de moins !
 Nous avons un accord. Je commence les travaux.
 
 (78, 17, 0) ***Seer's Hut***
 Message:
 Je peux créer une source de soufre infinie. Cela vous coûtera 90 000.
-Pas d'accord. 90 000 et pas une seule pièce d'or de moins!
+Pas d'accord. 90 000 et pas une seule pièce d'or de moins !
 Nous avons un accord. Je commence les travaux.
 
 (98, 81, 0) ***Sign***
@@ -97,12 +97,12 @@ Parfait. Donnez-moi l'argent et prenez votre artefact.
 (94, 1, 0) ***Seer's Hut***
 Message:
 Salut ! Je peux créer une source infinie de bois. Cela vous coûtera 15 000.
-Pas d'accord. 15 000 et pas une seule pièce d'or de moins!
+Pas d'accord. 15 000 et pas une seule pièce d'or de moins !
 Nous avons un accord. Je commence les travaux.
 
 (42, 2, 1) ***Event***
 Message:
-Vous ne pouvez pas sortir facilement de cet endroit, c'est un piège!
+Vous ne pouvez pas sortir facilement de cet endroit, c'est un piège !
 
 (105, 7, 1) ***Inferno***
 Name:
