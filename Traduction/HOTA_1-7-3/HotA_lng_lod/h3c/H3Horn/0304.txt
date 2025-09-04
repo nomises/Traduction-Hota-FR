@@ -1,0 +1,262 @@
+===== Map name =====
+All hands on board!
+
+===== Map description =====
+Bidley and his friends must defeat all the enemies who vie for the Horn. Bidley must not fall. No hero level cap.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+1-1
+Message:
+Bidley and Jeremy were denied their revenge. A defeated Casmetra left everything behind and leapt into a portal; it collapsed right away. The witch was never to be seen in Regna again. Bidley took the Horn, yet he never found out what exactly Casmetra was trying to accomplish with it. 		After a week of fruitless search for the witch, they abandoned their attempts; for all intents and purposes, Bidley was the Pirate King now. 		At that point, Regna was not a recognized state anymore, although it was still occasionally spoken of as “Empire of the Endless Ocean”. Thing is, after the pasing of old Hareck IX, his heir failed to step forward. A power struggle commenced among pirates. In the ensuing turmoil, several captains had proved to be strong enough to seize control over vast territories, but once they perished or lost their edge, chaos resumed. 		Here and now, Bidley was the King, and this word meant not only terror and reverence, but also lots of hatred. Owning a powerful ancient artifact, he could afford to disregard his former peers, the mere seafarers; for fear of the unknown was all he felt. 		The real danger looming was beyond the seas.
+
+Name:
+1-2
+Message:
+It was a clear day; Bidley and his crew were in a coastal fortress. The Horn of the Abyss was habitually hanging from the Pirate King's belt; he never parted with it. Suddenly, a sailor came running. Visibly scared, he had a scroll in his hands.	“Cap’n, cap’n! I swear by all the sea devils! It was a genie! A genie appeared and told me to deliver this to you!” Dazed, Bidley took the scroll and unraveled it. 	The message read: “I salute you, Bidley Roberts, the new Pirate King! 		I am Solmyr, a modest servant of Gavin Magnus, the Immortal King of Bracada. My lord is disquieted by the news that you are now in the possession of the legendary artifact, the Horn of the Abyss. We reckon that this item must be kept here, in Bracada, under a close watch of the most powerful archmages. You are not a man of science; rather, a bandit and a thief. No doubt your use of the artifact will be ill-purpose: to obtain power and riches, that is. We, the mages of Bracada, cannot stay aside and watch the Horn of the Abyss fall in the hands of a reprobate like you.		Thuswise, I inform you that we are about to send an armed expedition force, with myself personally heading it. I shall not ask you to yield the artefact willingly, knowing that you will refuse in any case. I also bring it to your notice that Elemental Lords are willing to support my lord. They are equally alarmed by the situation, and the Lord of Water is enraged by your razing of the Coralgate fortress.     		To the Pirate King from Solmyr, genie of Bracada.” 		“Check out the big brain on the genie,” Bidley nodded. “Of course I won’t give up the Horn. He can come and take it.” 
+
+Name:
+1-3
+Message:
+Once it became clear that the mages were getting ready to strike, Bidley gathered his men, along with Jeremy and Tark. “That damn Xanthor!” sweared the Pirate King, scanning the horizon through his spyglass.	“Xanthor?” asked Tark in surprise. “The wizard whom I broke out of the barbarian slammer. It was he who told me about the Horn of the Abyss, in 'gratitude' for his freedom.” “And now other wizards want to pop out heads off for the same Horn,” grinned Jeremy. “Indeed, destiny can be as good at humor as I am.” 		“And these Elemental Lords keep getting in the way,” Bidley added, pulling the spyglass away from his eye. 	“At least the Erathians are busy with the Kreegans and aren’t coming to join the fun,” Jeremy concluded. 		“Alright, lads,” the Pirate King turned to his friends. “Time to get ready for a big war. It seems as though Bracada's decided to throw everything they have at us. We haven’t yet fought a foe this strong; but the reinforcements from Regna should arrive soon enough."
+
+Name:
+WhoRunBartertown
+Message:
+WhoRunBartertown
+
+Name:
+2
+Message:
+Some unsettling news arrived. 	“Dear brother, you surely remember Dargem,” Jeremy said. 	“That loser who took me prisoner? He lives?”	“He does. It seems as though he's thrown together an army of mercenaries and captains who hate your guts. Long story short, the reinforcements we expected to come from Regna are now with him.” 	“What a turn of events,” Bidley said coldly. “But there's more, right?”	“Yes,” Jeremy shook his head. “Just to round things out, Dargem also brought other guys who like rare artifacts–warlocks of Nighon, that is. It seems he promised them the Horn, while he himself only seeks revenge. Although... no one knows what the hell he really wants.” 	“So many people anxious about one Horn!” laughed the Pirate King. “I wonder how they suppose to split it once they deal with me.” 	“I bet they will start killing each other,” the younger brother lifted his hands in dismay. 	“I sure hope they get at it earlier, so that we may sneak up and cut their throats,” Bidley said grimly, brandishing his cutlass. 
+
+Name:
+5
+Message:
+It looks like the Elemental Lords conjured their fortresses up somewhere in the north. However, the Lord of Earth has had some problems. His army likely appeared under the ground and found itself in the clutches of Nighon warlocks, who did not expect this encounter at all. 
+
+Name:
+8
+Message:
+The enemy army grows stronger by the day. Tark thinks it would be a good tactical decision to pit the enemy groups against each other and make use of their weakening. Jeremy reckons that a better option would be to make a sudden strike at the positions held by renegades and mercenaries to capture their weapons and resources.  
+
+Name:
+14
+Message:
+There are still some people in Regna who resisted Dargem's offers and can be trusted. Loyal captains have promised to send you a ship with supplies. 
+
+Name:
+Supplies
+Message:
+The ship with supplies has arrived. The next shipment is expected in a month. 
+
+===== Heroes =====
+
+===== Objects =====
+
+(56, 121, 0) ***Tower***
+
+Timed events:
+
+Name:
++mon\gold
+Message:
+
+
+(139, 118, 0) ***Tower***
+
+Timed events:
+
+Name:
++mon\gold
+Message:
+
+
+(130, 137, 0) ***Sign***
+Message:
+Wizard colony
+
+(132, 125, 0) ***Sign***
+Message:
+Bracudin mines
+
+(87, 106, 0) ***Sign***
+Message:
+Chambers of Titans, the Heaven Lords
+
+(15, 137, 0) ***Tower***
+
+Timed events:
+
+Name:
++mon\gold
+Message:
+
+
+(127, 25, 0) ***Event***
+Message:
+“No passage”
+
+(125, 38, 0) ***Sign***
+Message:
+Dargem's military camp
+
+(135, 64, 0) ***Cove***
+
+Timed events:
+
+Name:
++ mon\gold
+Message:
+
+
+(114, 56, 0) ***Cove***
+
+Timed events:
+
+Name:
++ mon\gold
+Message:
+
+
+(40, 9, 0) ***Sign***
+Message:
+Hail to the pirate brotherhood!
+
+(91, 113, 0) ***Tower***
+
+Timed events:
+
+Name:
++ mon\gold
+Message:
+
+
+(129, 28, 0) ***Sign***
+Message:
+The Bahens’ farm
+
+(6, 74, 0) ***Pandora's Box***
+Message:
+
+
+(3, 91, 0) ***Pandora's Box***
+Message:
+
+
+(2, 91, 0) ***Pandora's Box***
+Message:
+
+
+(119, 30, 0) ***Cove***
+
+Timed events:
+
+Name:
++ mon\gold
+Message:
+
+
+(76, 49, 0) ***Event***
+Message:
+Bidley gave the Horn another rub with a piece of chamois, even though the artifact was spotless. So this is what people coveted so much. Ever since he got to know what the Horn was capable of, his self-confidence was sky high. Still, the thought of fearsome sea spirits obeying his orders made him shiver every now and then.
+
+(138, 5, 0) ***Conflux***
+
+Timed events:
+
+Name:
+AI burst
+Message:
+
+
+(126, 14, 0) ***Sign***
+Message:
+Keep out! Rockslide!
+
+(57, 6, 0) ***Conflux***
+
+Timed events:
+
+Name:
+AI Burst
+Message:
+
+
+(90, 5, 0) ***Conflux***
+
+Timed events:
+
+Name:
+AI Burst
+Message:
+
+
+(76, 140, 0) ***Sign***
+Message:
+Valley of the Damned
+
+(45, 75, 1) ***Dungeon***
+
+Timed events:
+
+Name:
++mon\gold
+Message:
+
+
+(92, 74, 1) ***Dungeon***
+
+Timed events:
+
+Name:
++mon\gold
+Message:
+
+
+(126, 55, 1) ***Sign***
+Message:
+Prison quarter
+
+(129, 54, 1) ***Overlord***
+Name:
+Warden
+
+(128, 54, 1) ***Event***
+Message:
+People of Nighon seem to keep unlucky enemy generals here. 
+
+(130, 53, 1) ***Event***
+Message:
+“Get out of here, unless you want to join the ones in my cages!”
+
+(111, 42, 1) ***Dungeon***
+
+Timed events:
+
+Name:
++mon\gold
+Message:
+
+
+(61, 49, 1) ***Dungeon***
+
+Timed events:
+
+Name:
++mon\gold
+Message:
+
+
+(73, 58, 1) ***Sign***
+Message:
+Secret hideout
+
+(16, 125, 1) ***Pandora's Box***
+Message:
+
+
+===== End of file =====

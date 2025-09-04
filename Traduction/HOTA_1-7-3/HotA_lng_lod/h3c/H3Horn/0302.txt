@@ -1,0 +1,81 @@
+===== Map name =====
+Heart of Water
+
+===== Map description =====
+Bidley must capture the town of Coralgate and escape the Plane of Water. If Bidley is defeated in battle, the scenario will be lost. The hero level cap is 18. After victory, Bidley will proceed to the next scenario.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Day 1-1
+Message:
+Bidley had no idea where he found himself. Was he dead? The last thing he remembered was getting sucked into some kind of a swirl. Now, he was in this odd place with the rest of his crew. 				It felt as if he was standing on the seabed. High above his head, he could see fish and huge turtles. Were they swimming… or flying? The only thing he knew for sure was that whatever surrounded him, it wasn't water. Otherwise, he wouldn't be able to breathe or move as freelyas he did. It almost felt as if the air had gotten thick and humid, like some liquid, but runny enough for him to breathe it. 				There was a faded portal behind him. Somewhere on the other side of this portal, there were Jeremy, Tark and that shady Casmetra with the Horn. The realization hit Bidley hard: all of this was set up by the witch so she could get a hold of the artifact! While held in captivity by Dargem, Bidley overheard the renegade mage's rambling. He found out that Casmetra had hired the spellweaver to find the Horn, but when he failed, she got him trapped in a cavern. For that reason, he wanted to avenge himself and take the ancient relic. Bidley wished he'd given it all thought much earlier. 	
+
+Name:
+Day 1-2
+Message:
+An odd-looking creature was approaching Bidley's troops... He'd seen others like that before–it was a sprite. Still, he was amazed to see her fly through this “air”. 				 “Wow!” said the sprite in a ringing voice, “these must be primes!"		“Where... where are we?” inquired the confused pirate.		“In the Plane of Water!” replied she, giggling. “Isn’t it lovely here?”		“It is,” Bidley nodded glumly, “but what I'd love even more is to find out how to get out of here.”		“Well, it won't be easy. You'll need to ask Marinus.”		“Where can I find him?”		“There is a town near here–Saltwater. But primes are not welcome there.” 		“Then I'll welcome myself there,” said Bidley, grabbing the hilt of his cutlass.		“Oooh, aren't you one menacing prime!” the sprite giggled again. “Good luck, then. Saltwater is to the east from here.”
+
+Name:
+Day 3
+Message:
+Bidley felt sick. He brought his brother into this crazy scheme, and now he lost him. Is Jeremy even alive? Somehow, though, the pirate was sure he would get out of this odd, alien world and find his kinsman.
+
+Name:
+Day 8
+Message:
+Bidley entered a beautiful building of unfamiliar architecture. It must have been a sort of a library. Illuminating the chamber were neither torches nor candles, but odd-looking orbs shimmering with bright whitish-blue light. There were also walls of bookshelves heavy with tomes, and ladders reaching the upper levels. So, a typical library otherwise. 				“And who might you be?” boomed a voice from darkness. 		“I’m captain Bidley,” answered the pirate and turned to whence the voice came, “and I’m looking for Marinus.”		A weird  creature appeared from darkness; it looked somewhat like a human, but with no hair and covered in scales. 		“What do you want from Marinus, prime?” inquired the creature.		“A sprite told me that he knows how to get out of the Plane of Water.”		“Well, she did not lie,” conceded the being. “I am Marinus, the keeper of the library of Saltwater.” 		“Why do you call us 'primes'?” asked Bidley.		“'Primes' is the term we call all who live in your world and others like it. And do not stare at me with such awe. I am a triton. Our race is not very numerous, but some kin of mine dwell in your world too. 				A few minutes later, Bidley dismissed his men; Marinus and he sat down in armchairs.		“Ill timing for your arrival,” sighed the triton. “At present, the Elemental Lords are tied up in a war with Kreegans in your world and fear vengeance from their side. That is why it is hard to get into any Plane, and no easier to get out. You can wait till the fighting subsides.”		“I haven't the time to wait,” the pirate sighed. “My brother may be in trouble. I’ve been betrayed, and I want my revenge.” 	“Then you do not have much of a choice,” Marinus exhaled. “The shortest path to your world lies through the portal in Coralgate. However, the Lord of Water has placed mighty guards there to prevent a Kreegan invasion. They will not let anyone in or out. 		“If I have to fight, I will!” said Bidley with ardor. 	“Not only will you have to fight,” said the keeper, shaking his head, “the Water Lord has also made preparations for the event of the guards falling, however improbable. That is why the exit from Coralgate is locked with the Water Key, Mist Key and Ice Key. And so is the entrance there... 
+
+Name:
+Day 10
+Message:
+The triton said that the Ice Key can be found in the south-west; it is guarded by powerful icy dragons. To make things worse, Bidley's resources are very limited: he must resort to enlisting creatures from the Plane of Water. It might be a good idea to look for the Mist and Water Keys first; they are guarded by the forces of the Lord of Water. Upon defeating them, more creatures might become available for hire. 
+
+Name:
+Day 14
+Message:
+Bidley remembered his old dream of floating in the water and being able to see through it as clearly as if it was air. Could it have been a prophetic dream that predicted his journey into the Plane of Water? The thought gave him shivers. “Nonsense! It’s just a coincidence,” Bidley repeated in a bid to comfort himself. Deep inside, however, he knew things were more complicated.
+
+===== Heroes =====
+
+===== Objects =====
+
+(52, 7, 0) ***Conflux***
+Name:
+Coralgate
+
+(84, 98, 0) ***Conflux***
+Name:
+Saltwater
+
+(11, 88, 0) ***Sign***
+Message:
+Ice Key
+
+(12, 47, 0) ***Sign***
+Message:
+Water Key
+
+(52, 8, 0) ***Event***
+Message:
+The General appointed by the Lord of Water to guard Coralgate addressed Bidley from the wall.	“You foolish prime! Do you know what are you doing? You are weakening our forces, and by doing that, you are helping the Kreegans. They are enemies to us as as much as they are to you. So what are you going to do now? Try and assault this impregnable fortress? You are about to perish because of your folly!”	“I will take my chances, if kicking you out of there means getting home!” Bidley's reply was.  
+
+(50, 107, 0) ***Ocean Bottle***
+Message:
+
+
+(51, 107, 0) ***Event***
+Message:
+Watching the water surface, you noticed a bottle floating nearby. You ordered the men to catch it, hoping for a lack of evil spirits inside. Soon, a mate ran up to you: 	“Well, I'll be! Maybe it is a message from someone who got trapped here like us?” 	You snatched the bottle from his hands. It contained a piece of paper. Upon reading the message, you realized it being horribly outdated. 	“Author of this letter was Barsolar, cousin of the Immortal King and one of the greatest planeswalkers. He died a few decades ago in Enroth… But if he once managed to get out of here, so can we!”
+
+(5, 40, 0) ***Event***
+Message:
+Your crewmen got sight of a wreck, bodies floating by. 	"Some of them poor buggers might have survived, Cap'n… We could use extra hands", uttered a young sailor. 	"Right, matey", you agreed. "Set course to the wreck!" 	On closer inspection, however, all the bodies were already ripe, festering under the sun. You commanded to depart immediately, but apparently the dead were up to shenanigans.
+
+(93, 44, 0) ***Sign***
+Message:
+Mist Key
+
+===== End of file =====
