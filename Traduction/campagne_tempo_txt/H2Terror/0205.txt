@@ -31,7 +31,7 @@ Casmetra contemplait un globe magique. Jeremy, voyant cela, la contourna pour es
 Name:
 Day 17
 Message:
-J'ai rassemblé mon courage pour appeler Casmetra dans ma cabine. La sorcière est entrée, sa robe ondulait doucement, et m'a lancé un regard inquisiteur. Je l'ai regardée droit dans les yeux. "Casmetra, je soupçonne que tu aurais pu lancer ce sort sans toucher la galère de Patris." "Qu'est-ce qui te fait penser ça ? " demanda Casmetra, l'air surprise. "De tels sorts ne sont pas faciles à contrôler. C'est comme ton canon : tu ne peux pas savoir exactement où tes coups atterriront, n'est-ce pas ? Mais quand il touche quelque chose, ça fait des dégâts."	"Je peux toucher un oiseau en plein vol ! " Rétorquai-je dans une rage folle. "Et ne me traite pas avec condescendance… "Patris était là ! J'ai remarqué le conflit entre vous et lui", insistai-je.	"Quoi ? Tu crois vraiment que je condamnerais mes propres apprentis et un équipage d'excellents combattants juste à cause d'un vieux grincheux ? " Casmetra frappa le sol du pied, les yeux brillants. "Je… je suis désolée, je n'y avais pas pensé", murmurai-je en me laissant tomber sur ma couchette, complètement perdue. "C'est juste que… je n'arrête pas de me le répéter. Patris dort avec les poissons. Mon frère est coincé aux Enfers, et les dieux seuls savent s'il en sortira vivant. Je me suis bourrée la gueule toutes les nuits juste pour dormir."	Casmetra sourit doucement et s'approcha de moi. "Tu es fatigué, Jeremy. Tu as besoin de faire une pause", dit-elle en me caressant de ses mains fines. Je dois admettre que son parfum était des plus agréables. 	"En effet… Une pause, me ferait du bien", souris-je.
+J'ai rassemblé mon courage pour appeler Casmetra dans ma cabine. La sorcière est entrée, sa robe ondulait doucement, et m'a lancé un regard inquisiteur. Je l'ai regardée droit dans les yeux. "Casmetra, je soupçonne que tu aurais pu lancer ce sort sans toucher la galère de Patris." "Qu'est-ce qui te fait penser ça ? " demanda Casmetra, l'air surprise. "De tels sorts ne sont pas faciles à contrôler. C'est comme ton canon : tu ne peux pas savoir exactement où tes coups atterriront, n'est-ce pas ? Mais quand il touche quelque chose, ça fait des dégâts."	"Je peux toucher un oiseau en plein vol ! " Rétorquai-je dans une rage folle. "Et ne me traite pas avec condescendance… "Patris était là ! J'ai remarqué le conflit entre vous et lui", insistai-je.	"Quoi ? Tu crois vraiment que je condamnerais mes propres apprentis et un équipage d'excellents combattants juste à cause d'un vieux grincheux ? " Casmetra frappa le sol du pied, les yeux brillants. "Je… je suis désolé, je n'y avais pas pensé", murmurai-je en me laissant tomber sur ma couchette, complètement perdu. "C'est juste que… je n'arrête pas de me le répéter. Patris dort avec les poissons. Mon frère est coincé aux Enfers, et les dieux seuls savent s'il en sortira vivant. Je me suis bourré la gueule toutes les nuits juste pour dormir."	Casmetra sourit doucement et s'approcha de moi. "Tu es fatigué, Jeremy. Tu as besoin de faire une pause", dit-elle en me caressant de ses mains fines. Je dois admettre que son parfum était des plus agréables. 	"En effet… Une pause, me ferait du bien", souris-je.
 
 Name:
 Day 32
@@ -85,7 +85,7 @@ Message:
 
 (99, 106, 0) ***Swordsman***
 Message:
-"Sale pirate ! On va enroulera vos tripes autour de votre cou et vous pendre avec !"
+"Sale pirate ! On enroulera vos tripes autour de votre cou et vous pendre avec !"
 
 (56, 100, 0) ***Sign***
 Message:
@@ -101,13 +101,13 @@ Message:
 
 (105, 100, 1) ***Seer's Hut***
 Message:
-Une sirène vivant ici dit avoir vu un magnifique collier pour se parer. Il se trouve à une place nommé les Portes du Tonnerre. Si vous lui apportez le collier, elle vous offrira en cadeau quelque une de ses sorcières esclaves.
+Une sirène vivant ici dit avoir vu un magnifique collier pour se parer. Il se trouve à une place nommée les Portes du Tonnerre. Si vous lui apportez le collier, elle vous offrira en cadeau quelques une de ses sorcières esclaves.
 La sirène laisse entendre que les Portes du Tonnerre se trouvent à l'ouest du labyrinthe.
 Elle vous offre dix esclaves en échange du collier. Elle vous assure que ces jeunes filles sont propres, ordonnées et expertes en magie.
 
 (104, 98, 1) ***Seer's Hut***
 Message:
-Bidley aperçoit un crâne à l'intérieur du mur. Lorsqu'il s'en approche, le crâne dit : "Nourris-mois de douze gemmes et je t'apprendrai tout ce que je sais."
+Bidley aperçoit un crâne à l'intérieur du mur. Lorsqu'il s'en approche, le crâne dit : "Nourris-moi de douze gemmes et je t'apprendrai tout ce que je sais."
 "Pas assez ! Donne-moi plus de gemmes ! "
 "Allez, donne-moi ces gemmes et je t'apprendrai quelques astuces tactiques ancestrales."
 
@@ -288,7 +288,7 @@ Dargem marmonne quelque chose et la barrière magique disparaît.
 (103, 5, 1) ***Quest Guard***
 Message:
 Le fantôme d'un capitaine pirate émergea devant Bidley. Il pointa sa tête de son doigt immatériel. "Mon chapeau… Je ne peux pas me reposer sans mon chapeau ! " gémit le fantôme.
-Le fantôme réapparut. "Des scélérats ont détruit ma tombe et ont pris mon chapeau… mon chapeau ! Trouvez le ! "
+Le fantôme réapparut. "Des scélérats ont détruit ma tombe et ont pris mon chapeau… mon chapeau ! Trouvez-le ! "
 Dès que le chapeau fut entre les mains du capitaine, il disparut avec.
 
 (10, 71, 1) ***Quest Guard***
