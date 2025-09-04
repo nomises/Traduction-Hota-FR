@@ -46,7 +46,7 @@ La nuit dernière, Bidley fit un étrange rêve. Il rêvait qu'il nageait dans l
 Name:
 Day 18
 Message:
-Un membre d'équipage courrait trouver Bidley au matin, lui remettant une lettre arrivée tard la veille. Le pirate fut assez surpris: qui aurait pu songer à lui envoyer une lettre ? Pourtant, après avoir déballé le parchemin, il reconnut l'écriture. Le message était on ne peut plus concis: "J'ai quelques problèmes. Votre cher frère J."
+Un membre d'équipage courrait trouver Bidley au matin, lui remettant une lettre arrivée tard la veille. Le pirate fut assez surpris: qui aurait pu songer à lui envoyer une lettre ? Pourtant, après avoir déballé le parchemin, il reconnut l'écriture. Le message était on ne peut plus concis : "J'ai quelques problèmes. Votre cher frère J."
 
 ===== Heroes =====
 
@@ -64,18 +64,18 @@ Le prêtre est reconnaissant d'être débarrassé des morts-vivants. Il promet d
 
 (45, 36, 0) ***Event***
 Message:
-Bidley remarque les traces de nombreux chariots: le fort doit être proche. Il ne reste plus qu'à surprendre les gardes.
+Bidley remarque les traces de nombreux chariots : le fort doit être proche. Il ne reste plus qu'à surprendre les gardes.
 
 (54, 14, 0) ***Seer's Hut***
 Message:
 Une bande de corsaires se cache ici. Jabarkas, fils du défunt duc Boragus a passé au fil de l'épée leur chef. Depuis la mort de son père, Jabarkas a des crises de colère les unes après les autres. Les corsaires aimeraient rejoindre une nouvelle cause, mais seulement une fois leur ancien chef vengé.
 Jabarkas est toujours en vie et erre quelque part.
-L'armée de Jabarkas a été vaincue et il est maintenant couvert de honte; il ne reviendra pas dans les parages avant un certain temps. Êtes-vous prêt à accueillir les corsaires dans votre armée ?
+L'armée de Jabarkas a été vaincue et il est maintenant couvert de honte ; il ne reviendra pas dans les parages avant un certain temps. Êtes-vous prêt à accueillir les corsaires dans votre armée ?
 
 (40, 38, 0) ***Seer's Hut***
 Message:
 Deux sorcières vivent ici. Elles acceptent de se joindre à votre hôte et de vous prêter main-forte avec des sorts - moyennant finance, bien sûr.
-Les sorcières exigent 5 gemmes et 2 000 pièces d'or; moins, ne sera pas toléré.
+Les sorcières exigent 5 gemmes et 2 000 pièces d'or ; moins, ne sera pas toléré.
 Excellent ! Les sorcières sont prêtes à se joindre à votre cause.
 
 (42, 28, 0) ***Stronghold***
