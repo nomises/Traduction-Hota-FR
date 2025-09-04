@@ -56,7 +56,7 @@ Dargem a bien pris son temps à me répondre. J'imagine que ce n'est qu'une preu
 Name:
 Day 43
 Message:
-Je réfléchissais à ce que Dargem avait dit. J'ai appelé Casmetra dans ma cabine et lui ai dit que j'envisageais de battre en retraite pour assurer la libération de Bidley. Les yeux de la prêtresse s'écarquillèrent.	"Jeremy ! Comment pouvez-vous penser une chose pareille ! " s'exclama-t-elle.	"Mais nous pourrions sauver Bidley et éviter un bain de sang inutile", commençai-je, interrompu par Casmetra. "Vous n'imaginez même pas à quel point Dargem est abject, et ce qui est en jeu. La Corne des Abysses est l'un des plus grands artefacts jamais créés. On ne sait pas qui l'a fabriquée - elle a probablement été créée avant le Silence. C'est un cadeau de l'Âge des Merveilles ! Si seulement nous parvenions à comprendre son fonctionnement, nous serions égaux aux dieux ! " expliqua la prêtresse avec enthousiasme. Elle s'approcha de la table et, à mon grand amusement, but une grande gorgée de rhum. "Dargem est un scélérat et un monstre. S'il n'a pas encore tué Bidley, c'est parce que nous sommes tout près. Si tu pars, il fera assassiner ton frère et le livrera aux requins. Tu devrais t'en rendre compte. À moins que tu ne sois un lâche…" suggéra-t-elle, le regard plein de reproche.	"Non, Madame. Jeremy Albatross est le plus brave et le plus audacieux de tous les pirates entre Enroth, Antagarich et Jadame ! " déclarai-je en me levant d'un bond.  "Et c'est pour ça que vous aimes", rit la prêtresse en m'embrassant.
+Je réfléchissais à ce que Dargem avait dit. J'ai appelé Casmetra dans ma cabine et lui ai dit que j'envisageais de battre en retraite pour assurer la libération de Bidley. Les yeux de la prêtresse s'écarquillèrent.	"Jeremy ! Comment pouvez-vous penser une chose pareille ! " s'exclama-t-elle.	"Mais nous pourrions sauver Bidley et éviter un bain de sang inutile", commençai-je, interrompu par Casmetra. "Vous n'imaginez même pas à quel point Dargem est abject, et ce qui est en jeu. La Corne des Abysses est l'un des plus grands artefacts jamais créés. On ne sait pas qui l'a fabriquée - elle a probablement été créée avant le Silence. C'est un cadeau de l'Âge des Merveilles ! Si seulement nous parvenions à comprendre son fonctionnement, nous serions égaux aux dieux ! " expliqua la prêtresse avec enthousiasme. Elle s'approcha de la table et, à mon grand amusement, but une grande gorgée de rhum. "Dargem est un scélérat et un monstre. S'il n'a pas encore tué Bidley, c'est parce que nous sommes tout près. Si tu pars, il fera assassiner ton frère et le livrera aux requins. Tu devrais t'en rendre compte. À moins que tu ne sois un lâche…" suggéra-t-elle, le regard plein de reproche.	"Non, Madame. Jeremy Albatross est le plus brave et le plus audacieux de tous les pirates entre Enroth, Antagarich et Jadame ! " déclarai-je en me levant d'un bond.  "Et c'est pour ça que je vous aime", rit la prêtresse en m'embrassant.
 
 ===== Heroes =====
 
@@ -102,7 +102,7 @@ Ces grottes sont aussi anciennes que le monde...
 
 (111, 20, 1) ***Tome of Air Magic***
 Message:
-Oserez-vous prendre cette ancien volume ?
+Oserez-vous prendre cet ancien volume ?
 
 (113, 8, 1) ***Event***
 Message:
