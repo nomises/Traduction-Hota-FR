@@ -1,8 +1,8 @@
 ===== Map name =====
-Treachery
+Fourberie
 
 ===== Map description =====
-Jeremy, Tark, and Casmetra must capture Dargem. The mission will be lost if Jeremy is defeated. This is the last mission in the campaign. 
+Jérémie, Tark et Casmetra doivent capturer Dargem. La mission sera perdue si Jérémie est vaincu. C'est la dernière mission de la campagne.
 
 ===== Rumors =====
 
@@ -11,52 +11,52 @@ Jeremy, Tark, and Casmetra must capture Dargem. The mission will be lost if Jere
 Name:
 Day 1
 Message:
-Everything happened so quickly. Water bubbled up, and a massive geyser emerged from the sea, spitting out a magical vessel. Casmetra said that Bidley was on that ship, in the company of someone else who had captured both my brother and the Horn.	“It's Dargem,” said priestess angrily.	“And what's a Dargem?” 	“A mercenary mage. Worked for Regna—or, to be precise, for one of Regna's lords. It's a nest of vipers there, everyone trying to stab everyone else in the back. One of those lords wanted to get his hands on the Horn of the Abyss, and his desire was stronger than yours. So he sent Dargem.” 	“Blast that... we have to chase them down, immediately! Diego, prepare the ships!” I ordered.		We chased Dargem awhile, but eventually hi ship disappeared from sight behind an island. Instead of him, we were welcomed by Regna's fleet. We had only a handful of ships ot our own disposal, so we had to flee. We set up camp on a small island and decided to muster forces for a strike on Dargem's fortress, where he is holding the Horn and my brother. I hope Bidley is safe.  	However, we have some good news: Tark has returned! He emerged from the water with his kin, just outside our camp.	“I promised to return,” hissed the giant reptile leader laconically.	“We have trouble. Bidley was captured,” I explained. 	“We nix will fight for you. Some will be against you, however. But I am the prince, and my cause is just,” replied Tark.
+Tout se passa si vite. L'eau bouillonna et un geyser gigantesque émergea de la mer, crachant un vaisseau magique. Casmetra dit que Bidley était sur ce navire, en compagnie de quelqu'un d'autre qui avait capturé mon frère et la Corne.	"C'est Dargem", dit la prêtresse avec colère.	"Et c'est quoi un Dargem ? " "Un mage mercenaire. Il travaillait pour Regna - ou, pour être précis, pour l'un des seigneurs de Regna. C'est un nid de vipères, chacun cherchant à poignarder tout le monde dans le dos. L'un de ces seigneurs voulait mettre la main sur la Corne des Abysses, et son désir était plus fort que le tien. Alors il a envoyé Dargem." 	"Oublie-ça ! Il faut les traquer, immédiatement ! Diego, prépare les navires ! " ordonnai-je.		Nous poursuivîmes Dargem un moment, mais son navire finit par disparaître derrière une île. À sa place, nous avons été accueillis par la flotte de Regna. Nous n'avions qu'une poignée de navires à notre disposition et nous avons été obligés de fuir. Nous avons établi notre camp sur une petite île et décidé de rassembler nos forces pour attaquer la forteresse de Dargem, où il détient la Corne et mon frère. J'espère que Bidley est sain et sauf.  	Cependant, nous avons une bonne nouvelle : Tark est de retour ! Il a émergé de l'eau avec les siens, juste devant notre camp. "J'ai promis de revenir," siffla laconiquement le chef des reptiles géants.	"Nous avons des ennuis. Bidley a été capturé", expliquai-je. 	"Les nix combattront pour vous. Certains seront contre vous, cependant. Mais je suis le prince, et ma cause est juste", répondit Tark.
 
 Name:
 Day 2
 Message:
-“Jeremy,” smiled Casmetra. “I bring more good news. The theft of the Horn awakened the sea serpents. Now they are wandering the ocean.” 	“That's great news—at least we'll be having plenty of smoked eel, I guess.”	“Silly,” Casmetra replied. “These creatures still feel they have to protect the Horn of the Abyss. And yet, the poor stupid things can't figure out whether it has to be returned, or guarded wherever it is. I can enchant them so that the serpents who want to return the Horn will help us fight to get it back from that traitor Dargem.”	“That's a good idea,” I agreed. “But what will we tell them once we get the Horn from Dargem? ‘As you were, we were just kidding?'”	“You men always try to think twenty steps ahead,” Casmetra groaned, rolling her eyes. 	But for all that, I certainly wasn't going to turn down an offer of help from the sea serpents. Even one of those beautiful creatures could sink a frigate!
+"Jeremy", sourit Casmetra. "J'apporte d'autres bonnes nouvelles. Le vol de la Corne a réveillé les serpents de mer. Maintenant, ils errent dans l'océan." 	"Excellente nouvelle ! Au moins, on aura plein d'anguilles fumées, j'imagine." "Idiot", répondit Casmetra. "Ces créatures se sentent toujours obligées de protéger la Corne des Abysses. Et pourtant, ces pauvres bêtes ne savent pas s'il faut la rendre, ou la garder où qu'elle soit. Je peux les enchanter pour que les serpents qui veulent la rendre nous aident à la reprendre à ce traître de Dargem."	"C'est une bonne idée", approuvai-je. "Mais que leur dirons-nous une fois la Corne récupérée à Dargem ? "Vous plaisantiez, c'était ça ?" "Vous, les hommes, vous essayez toujours d'anticiper 20 coups en avance, gémit Casmetra en levant les yeux au ciel. 	Malgré tout, je n'allais certainement pas refuser l'aide des serpents de mer. Même une seule de ces belles créatures pourrait couler une frégate !
 
 Name:
 Day 7
 Message:
-Scouts report that the Tatalians, angered by their recent defeat, are hoping to get their entire fleet wiped out yet again. They found us on this archipelago, previously known only to pirates. They've raised a fort somewhere to the east, and are preparing for an invasion. On the one hand, this could be great; they're not likely to be able to tell the difference between two pirate bands. On the other hand, it won't be pretty if they, and not us, capture Dargem. If that happens, Bidley will surely hang on a rope right beside that scoundrel.
+Les éclaireurs rapportent que les Tataliens, furieux de leur récente défaite, espèrent une fois de plus anéantir toute leur flotte. Ils nous ont trouvés sur cet archipel, jusqu'alors seulement connu des pirates. Ils ont construit un fort quelque part à l'est et préparent une invasion. D'un côté, ce serait formidable ; ils ne sauront probablement pas faire la différence entre deux bandes de pirates. De l'autre, ce ne serait pas beau à voir si eux, et non nous, capturaient Dargem. Si cela arrivait, Bidley sera sûrement pendu à une corde juste à côté de ce scélérat.
 
 Name:
 Day 12
 Message:
-More troubling news: war has broken out again between Erathia and Eeofol. Also, odd towns with golden-domed castles have begun appearing out of thin air all across the continent. Casmetra thinks it is an invasion by elemental lords. One of these towns sprang up in the northern region of the archipelago. They've probably been attracted by the power of the Horn of the Abyss and hope to acquire it.
+Plus de nouvelles inquiétantes : la guerre a de nouveau éclaté entre Erathia et Eeofol. De plus, d'étranges villes avec des châteaux aux dômes dorés ont commencé à surgir de nulle part sur tout le continent. Casmetra pense qu'il s'agit d'une invasion de seigneurs élémentaires. L'une de ces villes a surgi dans la région nord de l'archipel. Ils ont probablement été attirés par le pouvoir de la Corne des Abysses et espèrent s'en emparer.
 
 Name:
 Raider
 Message:
-Dargem's raiders attacked our supply ships and vanished into the night.
+Les pillards de Dargem ont attaqué nos navires de ravitaillement et disparurent dans la nuit.
 
 Name:
 Day 24
 Message:
-I got tired of this pointless resistance and decided to write Dargem a letter. My mind wasn't perfectly clear at the time; invigorated by rum, I wrote the following: 	“Dargem! This is Jeremy Albatross, Admiral of Regna's armada. You have crossed my path and captured my brother. Set him free immediately, and yield the artifact to us! If you do, I promise that you and your men will be allowed to leave the island unharmed.”	
+Lassé de cette résistance inutile, j'ai décidé d'écrire une lettre à Dargem. Mon esprit n'était pas tout à fait clair à ce moment-là ; revigoré par le rhum, j'ai écrit ceci : 	"Dargem ! Ici Jeremy Albatross, amiral de l'armada de Regna. Vous avez croisé mon chemin et capturé mon frère. Libérez-le immédiatement et remettez-nous l'artefact ! Si vous le faites, je vous promets que vous et vos hommes pourrez quitter l'île sains et saufs."
 
 Name:
 halyava
 Message:
-- It's halyava time!	- No, AI, no!!!
+- C'est l'heure d'halyava !	- Non, IA, non !!!
 
 Name:
 Day 34
 Message:
-Tark's nix report that there is a massive network of caves under this archipelago. Many of them are filled with water, but some parts are dry. The caves are ancient; something unique and powerful might be found inside.
+Les nix de Tark rapportent qu'il existe un vaste réseau de grottes sous cet archipel. Nombre d'entre elles sont remplies d'eau, mais certaines parties sont sèches. Ces grottes sont anciennes ; on pourrait y trouver quelque chose d'unique et de puissant.
 
 Name:
 Day 40
 Message:
-Dargem surely took his time in writing me back. I imagine that is just one more demonstration of his stupidity and inability to think critically—a trait I famously possess. His letter went as follows:	“My esteemed self-styled Admiral Jenny Grouse! I spent far too long in those caves waiting for Lady Luck to smile on me and send me a traveler even less fortunate than myself. And so it happened. I deserve the Horn—though I haven't figured out how it works yet. I suggest you get lost. Your brother is merely a guarantee of my security. As soon as you are gone, he shall be freed. Dargem”	
+Dargem a bien pris son temps à me répondre. J'imagine que ce n'est qu'une preuve de plus de sa stupidité et de son incapacité à penser de manière critique - un trait que je suis connu pour posséder. Sa lettre disait :	"Mon estimé amiral autoproclamé Jenny Grouse ! J'ai passé bien trop de temps dans ces grottes à attendre que Dame Chance me sourie et m'envoie un voyageur encore moins chanceux que moi. Et c'est ce qui est arrivé. Je mérite la Corne - même si je n'ai pas encore compris comment il fonctionne. Je vous suggère de vous en aller. Votre frère n'est qu'un garant de ma sécurité. Dès votre départ, il sera libéré. ​​Dargem."
 
 Name:
 Day 43
 Message:
-I've been thinking about what Dargem said. I called Casmetra in my cabin and told her that I was thinking about retreating, to ensure Bidley's safe release. The priestess's eyes widened.	“Jeremy! How could you even think something like that!” she exclaimed.	“But we could save Bidley, and avoid unnecessary bloodshed,” I began, when Casmetra interrupted me.	“You can't even imagine what a villain Dargem is, and what is at stake here. The Horn of the Abyss is one of the greatest artifacts ever created. There's no record of who made it—it was probably created before the Silence. It is a gift from the Age of Wonders! If only we can figure out how it works, we will be equal to gods!” the priestess explained with excitement. She stepped up to the table and, to my amusement, took a hearty gulp of my rum. “Dargem is a scoundrel and a monster. The only reason he hasn't already killed Bidley is that we're close by. If you leave, he'll have your brother murdered and fed to the sharks. You should realize that. Unless you're a coward...” she suggested with reproach in her eyes.	“No, milady. Jeremy Albatross is the bravest and boldest of all the pirates between Enroth, Antagarich and Jadame!” I declared, jumping to my feet.	“And that's why I love you,” laughed the priestess, embracing me.	
+Je réfléchissais à ce que Dargem avait dit. J'ai appelé Casmetra dans ma cabine et lui ai dit que j'envisageais de battre en retraite pour assurer la libération de Bidley. Les yeux de la prêtresse s'écarquillèrent.	"Jeremy ! Comment pouvez-vous penser une chose pareille ! " s'exclama-t-elle.	"Mais nous pourrions sauver Bidley et éviter un bain de sang inutile", commençai-je, interrompu par Casmetra. "Vous n'imaginez même pas à quel point Dargem est abject, et ce qui est en jeu. La Corne des Abysses est l'un des plus grands artefacts jamais créés. On ne sait pas qui l'a fabriquée - elle a probablement été créée avant le Silence. C'est un cadeau de l'Âge des Merveilles ! Si seulement nous parvenions à comprendre son fonctionnement, nous serions égaux aux dieux ! " expliqua la prêtresse avec enthousiasme. Elle s'approcha de la table et, à mon grand amusement, but une grande gorgée de rhum. "Dargem est un scélérat et un monstre. S'il n'a pas encore tué Bidley, c'est parce que nous sommes tout près. Si tu pars, il fera assassiner ton frère et le livrera aux requins. Tu devrais t'en rendre compte. À moins que tu ne sois un lâche…" suggéra-t-elle, le regard plein de reproche.	"Non, Madame. Jeremy Albatross est le plus brave et le plus audacieux de tous les pirates entre Enroth, Antagarich et Jadame ! " déclarai-je en me levant d'un bond.  "Et c'est pour ça que vous aimes", rit la prêtresse en m'embrassant.
 
 ===== Heroes =====
 
@@ -64,16 +64,16 @@ I've been thinking about what Dargem said. I called Casmetra in my cabin and tol
 
 (6, 139, 0) ***Sign***
 Message:
-Erathian Outpost
+Avant-poste Erathian
 
 (29, 11, 0) ***Seer's Hut***
 Message:
-A group of pirates displeased with Dargem's leadership would like to join you.
-Will you accept them?
+Un groupe de pirates mécontents du charisme de Dargem aimerait se joindre à vous.
+Les accepterez-vous ?
 
 (0, 140, 0) ***Sword of Judgement***
 Message:
-Are you ready to dispense justice?
+Êtes-vous prêt à rendre justice ?
 
 (139, 3, 0) ***Sign***
 Message:
@@ -81,47 +81,47 @@ Kreegan Blockhouse
 
 (42, 47, 0) ***Sea Dog***
 Message:
-Stop, or I'll shoot!
+Arrêtez, ou je tire !
 
 (8, 21, 0) ***Seer's Hut***
 Message:
-A group of pirates displeased with Dargem's leadership would like to join you.
-Will you accept them?
+Un groupe de pirates mécontents du charisme de Dargem aimerait se joindre à vous.
+Les accepterez-vous ?
 
 (54, 95, 1) ***Sign***
 Message:
-Hall of Teleportation
+Salle de téléportation
 
 (60, 136, 1) ***Event***
 Message:
-Bear in mind that this monolith may lead anywhere, and it will not be easy to get back.	
+Gardez à l’esprit que ce monolithe peut mener n’importe où et qu’il ne sera pas facile de revenir en arrière.
 
 (114, 3, 1) ***Event***
 Message:
-These caves are as ancient as the world...
+Ces grottes sont aussi anciennes que le monde...
 
 (111, 20, 1) ***Tome of Air Magic***
 Message:
-Will you dare take this ancient volume?
+Oserez-vous prendre cette ancien volume ?
 
 (113, 8, 1) ***Event***
 Message:
-Terrible frost and grim silence affect your crew negatively.
+Un gel terrible et un silence sinistre affectent négativement votre équipage.
 
 (116, 26, 1) ***Azure Dragon***
 Message:
-Your presence here has not gone unnoticed. A powerful creature has awakened...
+Votre présence ici n'est pas passée inaperçue. Une puissante créature s'est réveillée…
 
 (127, 4, 1) ***Diamond Golem***
 Message:
-The guardians of the ancient palaces are on the alert!
+Les gardiens des anciens palais sont en alerte !
 
 (133, 26, 1) ***Event***
 Message:
-It looks like there is a secret passage here.
+On dirait qu'il y a un passage secret ici.
 
 (130, 59, 1) ***Event***
 Message:
-There is a whole nest of sea serpents here!
+Il y a tout un nid de serpents de mer ici !
 
 ===== End of file =====
