@@ -2,7 +2,7 @@
 
 ## Hota.dat
 ### Vérifier que le fichier est ok
-* HotA.txt
+* ~~HotA.txt~~
 
 ## HotA_lng.lod
 ### Traduire
@@ -101,6 +101,8 @@
 	* mission 3
     * mission 4
     * mission 5
+
+* Une fois la traduction finie, repasser dans Hota.txt pour modifier le nom des campagnes des lignes 17248 à 17699
 
 # Bonus
 ## Campaign editor
