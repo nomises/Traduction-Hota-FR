@@ -6203,7 +6203,7 @@ Demeure de l'Élémentaire de l'Eau.""
 
 17
 73
-""Demeure des Gentilhommes
+""Demeure des Hobbits
 Demeure du Hobbit.""
 
 17
@@ -6254,7 +6254,7 @@ Placé aux points stratégiques ce bâtiment militaire peut accueillir un nombre
 33
 1
 ""Garnison Anti-Magie
-placé aux points stratégiques ce bâtiment militaire peut accueillir un nombre d'unités illimité.
+Placé aux points stratégiques ce bâtiment militaire peut accueillir un nombre d'unités illimité.
 Aucun sort ne peut être lancé durant les combats.""
 
 34
@@ -7566,41 +7566,41 @@ Permet d'acheter les Machines de Guerre : Baliste, Dispensaire et Chariot.""
 212
 0
 ""Poste Frontière: Bleu pâle
-généralement placé aux points d'étranglement, un Héros doit rendre visite au Maître des Clefs de la couleur correspondante pour obtenir le mot de passe. Chaque joueur doit rendre visite au Maître des Clefs, car le Poste Frontière ne disparaîtra pas après la visite du premier joueur.""
+Généralement placé aux points d'étranglement, un Héros doit rendre visite au Maître des Clefs de la couleur correspondante pour obtenir le mot de passe. Chaque joueur doit rendre visite au Maître des Clefs, car le Poste Frontière ne disparaîtra pas après la visite du premier joueur.""
 212
 1
 ""Poste Frontière: Vert
-généralement placé aux points d'étranglement, un Héros doit rendre visite au Maître des Clefs de la couleur correspondante pour obtenir le mot de passe. Chaque joueur doit rendre visite au Maître des Clefs, car le Poste Frontière ne disparaîtra pas après la visite du premier joueur.""
+Généralement placé aux points d'étranglement, un Héros doit rendre visite au Maître des Clefs de la couleur correspondante pour obtenir le mot de passe. Chaque joueur doit rendre visite au Maître des Clefs, car le Poste Frontière ne disparaîtra pas après la visite du premier joueur.""
 
 212
 2
 ""Poste Frontière: Rouge
-généralement placé aux points d'étranglement, un Héros doit rendre visite au Maître des Clefs de la couleur correspondante pour obtenir le mot de passe. Chaque joueur doit rendre visite au Maître des Clefs, car le Poste Frontière ne disparaîtra pas après la visite du premier joueur.""
+Généralement placé aux points d'étranglement, un Héros doit rendre visite au Maître des Clefs de la couleur correspondante pour obtenir le mot de passe. Chaque joueur doit rendre visite au Maître des Clefs, car le Poste Frontière ne disparaîtra pas après la visite du premier joueur.""
 
 212
 3
 ""Poste Frontière: Bleu
-généralement placé aux points d'étranglement, un Héros doit rendre visite au Maître des Clefs de la couleur correspondante pour obtenir le mot de passe. Chaque joueur doit rendre visite au Maître des Clefs, car le Poste Frontière ne disparaîtra pas après la visite du premier joueur.""
+Généralement placé aux points d'étranglement, un Héros doit rendre visite au Maître des Clefs de la couleur correspondante pour obtenir le mot de passe. Chaque joueur doit rendre visite au Maître des Clefs, car le Poste Frontière ne disparaîtra pas après la visite du premier joueur.""
 
 212
 4
 ""Poste Frontière: Marron
-généralement placé aux points d'étranglement, un Héros doit rendre visite au Maître des Clefs de la couleur correspondante pour obtenir le mot de passe. Chaque joueur doit rendre visite au Maître des Clefs, car le Poste Frontière ne disparaîtra pas après la visite du premier joueur.""
+Généralement placé aux points d'étranglement, un Héros doit rendre visite au Maître des Clefs de la couleur correspondante pour obtenir le mot de passe. Chaque joueur doit rendre visite au Maître des Clefs, car le Poste Frontière ne disparaîtra pas après la visite du premier joueur.""
 
 212
 5
 ""Poste Frontière: Violet
-généralement placé aux points d'étranglement, un Héros doit rendre visite au Maître des Clefs de la couleur correspondante pour obtenir le mot de passe. Chaque joueur doit rendre visite au Maître des Clefs, car le Poste Frontière ne disparaîtra pas après la visite du premier joueur.""
+Généralement placé aux points d'étranglement, un Héros doit rendre visite au Maître des Clefs de la couleur correspondante pour obtenir le mot de passe. Chaque joueur doit rendre visite au Maître des Clefs, car le Poste Frontière ne disparaîtra pas après la visite du premier joueur.""
 
 212
 6
 ""Poste Frontière: Blanc
-généralement placé aux points d'étranglement, un Héros doit rendre visite au Maître des Clefs de la couleur correspondante pour obtenir le mot de passe. Chaque joueur doit rendre visite au Maître des Clefs, car le Poste Frontière ne disparaîtra pas après la visite du premier joueur.""
+Généralement placé aux points d'étranglement, un Héros doit rendre visite au Maître des Clefs de la couleur correspondante pour obtenir le mot de passe. Chaque joueur doit rendre visite au Maître des Clefs, car le Poste Frontière ne disparaîtra pas après la visite du premier joueur.""
 
 212
 7
 ""Poste Frontière: Noir
-généralement placé aux points d'étranglement, un Héros doit rendre visite au Maître des Clefs de la couleur correspondante pour obtenir le mot de passe. Chaque joueur doit rendre visite au Maître des Clefs, car le Poste Frontière ne disparaîtra pas après la visite du premier joueur.""
+Généralement placé aux points d'étranglement, un Héros doit rendre visite au Maître des Clefs de la couleur correspondante pour obtenir le mot de passe. Chaque joueur doit rendre visite au Maître des Clefs, car le Poste Frontière ne disparaîtra pas après la visite du premier joueur.""
 
 217
 0
@@ -7861,19 +7861,19 @@ Lorsqu'au cours d'un combat un groupe de créatures est défait, il est aussitô
 162
 ""Bracelet d'Angoisse
 Type : Mineur
-Cet objet fait baisser la Caractéristique Magie des Héros ennemis de 10% pendant les combats.""
+Cet objet fait baisser la caractéristique Magie des Héros ennemis de 10% pendant les combats.""
 
 5
 163
 ""Sceau d'Astrologue
 Type : Mineur
-Cet objet fait baisser la Caractéristique Magie des Héros ennemis de 10% pendant les combats.""
+Cet objet fait baisser la caractéristique Magie des Héros ennemis de 10% pendant les combats.""
 
 5
 164
 ""Plastron d'Obscurité
 Type : Relique
-Cet objet fait baisser la Caractéristique Magie des Héros ennemis de 25% pendant les combats.""
+Cet objet fait baisser la caractéristique Magie des Héros ennemis de 25% pendant les combats.""
 
 5
 165
@@ -8524,7 +8524,7 @@ Paysage.""
 
 139
 31
-""Stâle
+""Stèle
 Paysage.""
 
 140
@@ -9023,7 +9023,7 @@ Piliers
 Roseaux
 Fissures
 Structure Calcinée
-Stâle"
+Stèle"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -10371,14 +10371,14 @@ Le Corsaire n'est pas le dernier niveau d'évolution d'un pirate.
 Le Corsaire n'est pas le dernier niveau d'évolution d'un pirate.
 Les Flibustiers sont des tireurs hors pair. Ils peuvent tuer un dragon d'un seul coup.
 Les Flibustiers sont des tireurs hors pair. Ils peuvent tuer un dragon d'un seul coup.
-Les Dracs Mordorés sont des créatures redoutables. Une fois qu'elles ont goété au sang de leur adversaire, elles ne peuvent plus s'arrêter.
-Les Dracs Mordorés sont des créatures redoutables. Une fois qu'elles ont goété au sang de leur adversaire, elles ne peuvent plus s'arrêter.
+Les Dracs Mordorés sont des créatures redoutables. Une fois qu'elles ont goûté au sang de leur adversaire, elles ne peuvent plus s'arrêter.
+Les Dracs Mordorés sont des créatures redoutables. Une fois qu'elles ont goûté au sang de leur adversaire, elles ne peuvent plus s'arrêter.
 Les Ensorceleuses jettent régulièrement des sorts d'affaiblissement lors des combats.
 Les Ensorceleuses jettent régulièrement des sorts d'affaiblissement lors des combats.
 Les Nix possèdent une excellente armure.
 Les Nix possèdent une excellente armure.
 On dit qu'un Haspid grièvement blessé peut devenir totalement enragé.
-On dit qu'un Haspid grièvement blessé peut devenir totalement enrag.
+On dit qu'un Haspid grièvement blessé peut devenir totalement enragé.
 
 Un pirate m'a raconté qu'il connaissait la formule d'une poudre mystérieuse avec laquelle il est possible de faire jaillir des boulets de canon géants grâce à une toute petite étincelle.
 Un pirate m'a raconté qu'il connaissait la formule d'une poudre mystérieuse avec laquelle il est possible de faire jaillir des boulets de canon géants grâce à une toute petite étincelle.
@@ -10559,13 +10559,13 @@ Ceci peut se produire lorsque les règles des types Ville et/ou Terrain sont con
 Veuillez essayer de supprimer certaines contraintes.
 
 IncompatibleTownTokens:
-Règles de Type de Ville incompatibles: une règle stipule que %2 de la zone %1 et %4 de la zone %3 doivent avoir un Type similaire, mais une autre règle stipule le contraire.
+Règles de Type de Ville incompatibles : une règle stipule que %2 de la zone %1 et %4 de la zone %3 doivent avoir un Type similaire, mais une autre règle stipule le contraire.
 
 IncompatibleTownTerrainTokens:
 Une règle de Ville ou de Terrain stipule que %2 de la zone %1 doit correspondre au Terrain de la zone %3, mais une autre règle stipule le contraire.
 
 IncompatibleTerrainTokens:
-Règles de Type de Terrain incompatibles: une règle stipule que le Terrain de la zone %1 et le Terrain de la zone %2 doivent avoir un Type similaire, mais une autre règle stipule le contraire.
+Règles de Type de Terrain incompatibles : une règle stipule que le Terrain de la zone %1 et le Terrain de la zone %2 doivent avoir un Type similaire, mais une autre règle stipule le contraire.
 
 ProgramingError:
 Une erreur inattendue s'est produite. Il s'agit probablement d'une erreur de programmation. Veuillez la signaler à l'équipe HotA.
@@ -11959,7 +11959,7 @@ Text 0: ""
 Text 1: "Abri"
 Text 2: ""
 Text 3: "Vous vous tenez devant une bâtisse recouverte de mousse d'où s'échappe un léger clapotement d'eau. Allez-vous inspecter les lieux ?"
-Text 4: "Rien de Précieux dans cet Abri. Quelqu'un est passé avant vous."
+Text 4: "Rien de précieux dans cet Abri. Quelqu'un est passé avant vous."
 Text 5: ""
 Text 6: ""
 Text 7: "# Precise guard stack setup
@@ -13066,7 +13066,7 @@ Text 5: ""
 Text 6: ""
 Text 7: "{Broigne Royale Nix}
 
-Cette armure améliore votre Caractéristique de Magie +6"
+Cette armure améliore votre caractéristique de Magie +6"
 Text 8: "7000 # cost
 6 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - ballista, 11 - ammo cart, 12 - first aid tent, 13 - catapult, 14 - spell book)
 8 # type (1 - none, 2 - Précieux, 4 - Mineur, 8 - Majeur, 16 - Relique)
@@ -13469,7 +13469,7 @@ Text 5: ""
 Text 6: ""
 Text 7: "{Bracelet d'Angoisse}
 
-Ce Bracelet réduit la Caractéristique Magie des Héros ennemis de 10% durant les combats."
+Ce Bracelet réduit la caractéristique Magie des Héros ennemis de 10% durant les combats."
 Text 8: "5000 # cost
 9 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - ballista, 11 - ammo cart, 12 - first aid tent, 13 - catapult, 14 - spell book)
 4 # type (1 - none, 2 - Précieux, 4 - Mineur, 8 - Majeur, 16 - Relique)
@@ -13500,7 +13500,7 @@ Text 5: ""
 Text 6: ""
 Text 7: "{Sceau d'Astrologue}
 
-Le Sceau d'Astrologue réduit la Caractéristique Magie des Héros ennemis de 10% durant les combats."
+Le Sceau d'Astrologue réduit la caractéristique Magie des Héros ennemis de 10% durant les combats."
 Text 8: "5000 # cost
 7 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - ballista, 11 - ammo cart, 12 - first aid tent, 13 - catapult, 14 - spell book)
 4 # type (1 - none, 2 - Précieux, 4 - Mineur, 8 - Majeur, 16 - Relique)
@@ -13524,14 +13524,14 @@ Path: ""
 Texts count: "9"
 Text 0: ""
 Text 1: "Plastron d'Obscurité"
-Text 2: "Un gobelin incroyablement prêtentieux se donne en spectacle devant tous les clients d'une taverne dans le but de mettre en valeur le luxueux Plastron qu'il arbore à sa poitrine. Devant tant de maladresse, vous décidez de lui donner une bonne leçon avec quelques coups de pieds bien placés, et vous lui retirez son armure."
+Text 2: "Un gobelin incroyablement prétentieux se donne en spectacle devant tous les clients d'une taverne dans le but de mettre en valeur le luxueux Plastron qu'il arbore à sa poitrine. Devant tant de maladresse, vous décidez de lui donner une bonne leçon avec quelques coups de pieds bien placés, et vous lui retirez son armure."
 Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: "{Plastron d'Obscurité}
 
-Ce Plastron réduit la Caractéristique Magie des Héros ennemis de 25% durant les combats."
+Ce Plastron réduit la caractéristique Magie des Héros ennemis de 25% durant les combats."
 Text 8: "10000 # cost
 6 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - ballista, 11 - ammo cart, 12 - first aid tent, 13 - catapult, 14 - spell book)
 16 # type (1 - none, 2 - Précieux, 4 - Mineur, 8 - Majeur, 16 - Relique)
@@ -15949,7 +15949,7 @@ Text 6: ""
 Text 7: ""
 Text 8: """{Derrick}
 
-Le contremaître du Derrick soulève la bêche d'une charrette pour vous montrer le surplus d'or de l'exploitation. """"Nous produisons des Quantités de minerai importantes et nos bénéfices sont en constante augmentation. Voici la part qui vous revient selon nos accords. Nous essaierons d'en produire tout autant la semaine prochaine.""""""
+Le contremaître du Derrick soulève la bêche d'une charrette pour vous montrer le surplus d'or de l'exploitation. """"Nous produisons des quantités de minerai importantes et nos bénéfices sont en constante augmentation. Voici la part qui vous revient selon nos accords. Nous essaierons d'en produire tout autant la semaine prochaine.""""""
 ""{Derrick}
 
 De retour sur l'exploitation, vous remarquez que le contremaître passe sa mauvaise humeur sur ses ouvriers, et de fait, vous comprenez qu'il n'a encore rien pour vous. Il faudra repasser dans quelques jours."""
@@ -16137,15 +16137,15 @@ Text 6: ""
 Text 7: "# 0
 ""{Novice en Interférence}
 
-Réduit la Caractéristique Magie de l'ennemi de 10% durant les combats.""
+Réduit la caractéristique Magie de l'ennemi de 10% durant les combats.""
 # 1
 ""{Disciple en Interférence}
 
-Réduit la Caractéristique Magie de l'ennemi de 20% durant les combats.""
+Réduit la caractéristique Magie de l'ennemi de 20% durant les combats.""
 # 2
 ""{Maître en Interférence}
 
-Réduit la Caractéristique Magie de l'ennemi de 30% durant les combats."""
+Réduit la caractéristique Magie de l'ennemi de 30% durant les combats."""
 Text 8: ""
 Has FilS: "false"
 Vals count: "4"
@@ -17940,7 +17940,7 @@ Text 3: ""
 Text 4: "UnderTheJollyRoger_a"
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 à only bik)
+Text 7: "# Has bink file (3 - only bik)
 3
 # Loop fade in
 0
@@ -17973,7 +17973,7 @@ Text 3: ""
 Text 4: "UnderTheJollyRoger_b"
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 à only bik)
+Text 7: "# Has bink file (3 - only bik)
 3
 # Loop fade in
 0
@@ -18006,7 +18006,7 @@ Text 3: ""
 Text 4: "UnderTheJollyRoger_c"
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 à only bik)
+Text 7: "# Has bink file (3 - only bik)
 3
 # Loop fade in
 0
@@ -18039,7 +18039,7 @@ Text 3: ""
 Text 4: "UnderTheJollyRoger_end"
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 à only bik)
+Text 7: "# Has bink file (3 - only bik)
 3
 # Loop fade in
 0
@@ -18072,7 +18072,7 @@ Text 3: ""
 Text 4: "TerrorOfTheSeas_a"
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 à only bik)
+Text 7: "# Has bink file (3 - only bik)
 3
 # Loop fade in
 0
@@ -18105,7 +18105,7 @@ Text 3: ""
 Text 4: "TerrorOfTheSeas_b"
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 à only bik)
+Text 7: "# Has bink file (3 - only bik)
 3
 # Loop fade in
 0
@@ -18138,7 +18138,7 @@ Text 3: ""
 Text 4: "TerrorOfTheSeas_c"
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 à only bik)
+Text 7: "# Has bink file (3 - only bik)
 3
 # Loop fade in
 0
@@ -18171,7 +18171,7 @@ Text 3: ""
 Text 4: "TerrorOfTheSeas_d"
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 à only bik)
+Text 7: "# Has bink file (3 - only bik)
 3
 # Loop fade in
 0
@@ -18204,7 +18204,7 @@ Text 3: ""
 Text 4: "TerrorOfTheSeas_e"
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 à only bik)
+Text 7: "# Has bink file (3 - only bik)
 3
 # Loop fade in
 0
@@ -18237,7 +18237,7 @@ Text 3: ""
 Text 4: "TerrorOfTheSeas_f"
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 à only bik)
+Text 7: "# Has bink file (3 - only bik)
 3
 # Loop fade in
 0
@@ -18270,7 +18270,7 @@ Text 3: ""
 Text 4: "TerrorOfTheSeas_end"
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 à only bik)
+Text 7: "# Has bink file (3 - only bik)
 3
 # Loop fade in
 0
@@ -18303,7 +18303,7 @@ Text 3: ""
 Text 4: "HornOfTheAbyss_a"
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 à only bik)
+Text 7: "# Has bink file (3 - only bik)
 3
 # Loop fade in
 0
@@ -18336,7 +18336,7 @@ Text 3: ""
 Text 4: "HornOfTheAbyss_b"
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 à only bik)
+Text 7: "# Has bink file (3 - only bik)
 3
 # Loop fade in
 0
@@ -18369,7 +18369,7 @@ Text 3: ""
 Text 4: "HornOfTheAbyss_c"
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 à only bik)
+Text 7: "# Has bink file (3 - only bik)
 3
 # Loop fade in
 0
@@ -18402,7 +18402,7 @@ Text 3: ""
 Text 4: "HornOfTheAbyss_d"
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 à only bik)
+Text 7: "# Has bink file (3 - only bik)
 3
 # Loop fade in
 0
@@ -18435,7 +18435,7 @@ Text 3: ""
 Text 4: "HornOfTheAbyss_end"
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 à only bik)
+Text 7: "# Has bink file (3 - only bik)
 3
 # Loop fade in
 0
@@ -18468,7 +18468,7 @@ Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 à only bik)
+Text 7: "# Has bink file (3 - only bik)
 3
 # Loop fade in
 0
@@ -18501,7 +18501,7 @@ Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 à only bik)
+Text 7: "# Has bink file (3 - only bik)
 3
 # Loop fade in
 0
@@ -18534,7 +18534,7 @@ Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 à only bik)
+Text 7: "# Has bink file (3 - only bik)
 3
 # Loop fade in
 0
@@ -18567,7 +18567,7 @@ Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 à only bik)
+Text 7: "# Has bink file (3 - only bik)
 3
 # Loop fade in
 0
@@ -19194,7 +19194,7 @@ Text 3: ""
 Text 4: "AllIn_a"
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 à only bik)
+Text 7: "# Has bink file (3 - only bik)
 3
 # Loop fade in
 0
@@ -19227,7 +19227,7 @@ Text 3: ""
 Text 4: "AllIn_b"
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 à only bik)
+Text 7: "# Has bink file (3 - only bik)
 3
 # Loop fade in
 0
@@ -19260,7 +19260,7 @@ Text 3: ""
 Text 4: "AllIn_c"
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 à only bik)
+Text 7: "# Has bink file (3 - only bik)
 3
 # Loop fade in
 0
@@ -19293,7 +19293,7 @@ Text 3: ""
 Text 4: "AllIn_d"
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 à only bik)
+Text 7: "# Has bink file (3 - only bik)
 3
 # Loop fade in
 0
@@ -19326,7 +19326,7 @@ Text 3: ""
 Text 4: "AllIn_e"
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 à only bik)
+Text 7: "# Has bink file (3 - only bik)
 3
 # Loop fade in
 0
@@ -19359,7 +19359,7 @@ Text 3: ""
 Text 4: "AllIn_epilogue"
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 à only bik)
+Text 7: "# Has bink file (3 - only bik)
 3
 # Loop fade in
 0
@@ -19392,7 +19392,7 @@ Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 à only bik)
+Text 7: "# Has bink file (3 - only bik)
 3
 # Loop fade in
 0
