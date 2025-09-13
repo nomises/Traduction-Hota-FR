@@ -74,13 +74,13 @@
 	* Mission 1
 	* Mission 2
 	* mission 3
-* H2Terror.h3c
-	* Mission 1
-	* Mission 2
-	* mission 3
-    * mission 4
-    * mission 5
-    * mission 6
+* ~~H2Terror.h3c~~
+	* ~~Mission 1~~
+	* ~~Mission 2~~
+	* ~~mission 3~~
+    * ~~mission 4~~
+    * ~~mission 5~~
+    * ~~mission 6~~
 * H3Horn.h3c
 	* Mission 1
 	* Mission 2

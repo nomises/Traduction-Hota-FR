@@ -1,0 +1,127 @@
+===== Map name =====
+Evenmorn
+
+===== Map description =====
+Jeremy and Casmetra must defeat all enemies that threaten the town of Sacredcove. The mission will be lost if Jeremy or Casmetra are defeated, or Sacredcove is captured. The hero level cap is 12. After victory, Jeremy and Casmetra will proceed to the next scenario of the campaign.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Day 1-1
+Message:
+These Kreegan ships are wonderful—slightly lacking on the speed side, but perfect for lengthy journeys. We headed to Erathia: it was pointless to return to Regna now, and fighting the Erathian patrols would seriously endanger us. 	Patris was talking to the new recruits who joined us on the island. I think they were from the old garrison in Utopia—or whatever the fort was called before we took over. Alkin had promised to look after Utopia and hand it back over to me, should I ever return. Right now, however, I had to find me a new ship, one worthy of a captain who goes by the proud name of Jeremy Albatross.	Indeed, my curiosity will be the ruin of me one day. The watchman spotted what looked like land, but I checked the Kreegan map and saw no land there. Interesting, I thought. And that's when the sea devils possessed me and whispered in my ear that I should sail closer and drop anchor. 
+
+Name:
+Day 1-2
+Message:
+An imposing building hulked in the middle of the island, fenced by pointed stakes. I headed ashore with Patris and a few of my trustiest lads, and found a welcoming party already awaiting us on the beach. Surprisingly, they were all women—and quite pretty, too!		“Shiver me timbers!” I exclaimed as I stepped ashore. “Have I arrived in heaven?” 	“Depends on your definition of heaven,” said one of the women, taking a step forward. “My name is Casmetra. I am the High Hydromancer and the Keeper of the Library.”	“Jeremy Albatross. Admiral of Regnan Navy,” I introduced myself, bowing. I heard a choked giggle from somewhere behind me.	“What business brings you to the island, Admiral?” asked Casmetra.	Before answering, I paused to take a leisurely look at my new acquaintance. It was hard to tell her age, but she was certainly attractive. I once heard of a captain whose mistress was a mage: they were quite happy together until he found out she was twice his age. Those mages! 	My thoughts were interrupted when a young girl rushed out from behind the tower, shouting. “My lady, we are under attack again!”	Without much hesitation I ran after the sorceresses, and saw a large party of humans, orcs, lizardmen, and undead. Who knows what could bring such a mishmash host together, but they appeared fairly well-organized in hauling a battering ram, with the clear intention of breaching the gates of the fort. Casmetra and her sorceresses attacked them with spells, while I, as becomes a true gentleman, shot my pistol at a bunch of orcs near the ram.		“Boarding, lads!” I yelled, and jumped down from the wall. I rushed towards our foes, cutting them down with my sabre. The enemies were clearly unprepared for this sudden strike, and as soon as the few hottest heads had fallen, the attackers retreated. 	“I like you, Jeremy Albatross,” Casmetra said, smiling at me from atop the wall.	“It's just Jeremy,” I replied while sheathing my sabre. 	“You helped without even being asked. Thank you.”	“It's nothing; Jeremy Albatross always protects women and children. I may be a pirate, but I'm an enlightened and compassionate man,” I said modestly.	“If that is so, then would you care to help a woman defend her home from bandits?”		Later, over a mug of ale, Casmetra told me that the island was called Evenmorn. I'd heard of this place before, back in Regna. At present, Necromancers, with the aid of the Moon Temple, were hoping to pillage their secret library, which contained knowledge about water magic and related artifacts. There had been one unsuccessful attack already, but now the necromancers had brought mercenaries from Tatalia and Krewlod. The priestesses alone were no match for such a force. 	If I ever have kids, and they ask me why I joined a complete stranger's war, my answer will be, “No idea! I just felt like it!”
+
+Name:
+Day 3
+Message:
+This tower called Sacredcove stands in a strategically beneficial location, and the necromancers and their allies will attempt to surround us and cut us off from resources. We can import supplies from offshore ships for a while, but those won't last long.
+
+Name:
+Day 8
+Message:
+Patris was unhappy with my decision. “Cap'n, I know it's not my business, but I don't get why we're helping these... women,” he complained.	“Listen, Patris—there are many benefits to consider. They will be grateful allies, and this Sacredcove may become our forward base. This is why I'm the captain, you know: because I can plan ahead! And that's why you're the first mate,” I explained.	“Whatever you say, Jeremy,” Patris agreed grudgingly, “but I don't like this at all.”	“Why is this crewman being insubordinate?” Casmetra inquired, appearing out of nowhere and making me jump.	“This is no regular crewman; this is my first mate, Patris,” I answered.	“Most pleased,” the priestess replied  coldly, and introduced herself: “Casmetra, the High Hydromancer.”	“And g'day to you, milady,” replied Patris with a grin, and sauntered away with his trademark limping gait.	“You should be stricter about the hierarchy under your command,” reproved the priestess.	“Don't be such a bore. We pirates are brothers to each other! It all starts with mutual respect,” I blustered, knowing perfectly well that Regna is teeming with crews and captains who are just like bands of ogres from Ravage Roaming in Jadame.	“You are no good at lying,” Casmetra sighed, and disappeared in a magical flash.	“A poor liar, a poor commander... Almost sounds like I'm a bit of a loser,” I muttered to myself.
+
+Name:
+Day 12
+Message:
+The first supplies have arrived from the ships. I hope the necromancers don't have a powerful enough fleet to threaten my ships, so the supply chain won't be broken.
+
+Name:
+Day 18
+Message:
+Today I decided to send a message to my beloved brother Bidley. Inspired by some rum, I started on the letter. My thoughts refused to coalesce into anything comprehensible for a while. I tortured the paper for about an hour, and the result was as follows: 	“I have some problems. Your dear brother J.”	
+
+Name:
+Day 22
+Message:
+A new supply shipment has arrived from the fleet. Diego sent a message about a storm approaching the island; they may have to find a new place to drop anchor. Bloody hell! That means the supplies will stop coming soon.
+
+Name:
+Day 25
+Message:
+Large black storm clouds are approaching the island. Looks like Diego was right. I hope they find a place where they'll be safe from both the storm and the mercenaries.
+
+Name:
+Day 32
+Message:
+I was about to check out when Patris appeared with a report. “Cap'n, I did some scouting and found that the enemy has three fortresses. There is also a Nighon colony underground—looks like it was built during the war, but abandoned afterwards. We might try to make those underground monsters serve our cause. If we don't, the enemy will use them.”	I could hardly contain my delight. 	“You never cease to impress me, Patris. Used to be an AvLee ranger or something?”	“No, Cap'n,” my first mate said wryly. “That I wasn't… I don't much like to talk about it.” 	“Oh come on, we're all friends here. Crewmates shouldn't have secrets between them.”	“If you insist,” Patris relented. “I hail from an archipelago far to the east. There's an Erathian colony there, and I was one of the men who fought for its independence. Sneaking like a rat through swamps and forests is natural for me.”	“Was your fight any success?” I asked.	“The governor caught everyone involved in our movement—except me. The morning when they began seizing everyone, I joined the crew of a ship sailing to Erathia, and that's how I escaped. Everyone else danced the hempen jig. Since then, I swore never to go back home,” Patris concluded, anguish thick in his voice.	“Why didn't you swear to take revenge?” I exclaimed.	“What can one middle-aged man do on his own? I have no riches, nor any skill in persuasion, nor any knack for magic. Besides, my wife and daughter are still there. I hope no harm has come to them. My daughter must be all grown up already, probably married, and doesn't even know who her father was.”	“What if I promise you that we'll go there and bring justice to your people? We'll send that governor swimming with the sharks, and establish you as the new king, or whatever you wanted to be there,” I offered, smiling.	Patris' face went pale and he was silent for a long moment. After some hesitation, he replied quietly, “That would be the greatest gift you could give me, Cap'n.”
+
+===== Heroes =====
+
+===== Objects =====
+
+(1, 4, 0) ***Necropolis***
+Name:
+Moonlight
+
+Timed events:
+
+Name:
+growth
+Message:
+
+
+(68, 4, 0) ***Stronghold***
+
+Timed events:
+
+Name:
+growth
+Message:
+
+
+(20, 43, 0) ***Red Dragon***
+Message:
+"So many delicious heroes! No way to avoid getting fat!"
+
+(28, 43, 0) ***Seer's Hut***
+Message:
+A band of adventurers has set up camp here. They came to these parts, seeking to explore the forsaken library, but a group of red dragons prevents them from getting in. The explorers ask you for help.
+Defeating the red dragons is no easy task, but you can do it.
+The adventurers are grateful for your help in clearing a path for them. As a token of their gratitude they offer you a gift of some magical armor.
+
+(34, 33, 0) ***Cove***
+Name:
+Sacredcove
+
+(43, 51, 0) ***Seer's Hut***
+Message:
+The sorceress wants to go adventuring. She needs a retinue, however: 50 oceanids would do. If you bring them to her, she will teach you a secret spell.
+The sorceress demands exactly 50 oceanids.
+The sorceress is very pleased with your work of bringing her 50 beautiful oceanids. She teaches you the “Frost Ring” spell. 
+
+(4, 60, 0) ***Fortress***
+
+Timed events:
+
+Name:
+growth
+Message:
+
+
+(24, 70, 0) ***Pandora's Box***
+Message:
+
+
+(30, 64, 0) ***Pandora's Box***
+Message:
+
+
+(24, 54, 0) ***Pandora's Box***
+Message:
+
+
+(59, 60, 1) ***Seer's Hut***
+Message:
+A group of dwarven miners complain that some bone dragons have appeared close to their mine. They cannot continue their work until the undead monsters have been destroyed.
+Defeating the bone dragons is no easy task, but you can do it.
+Before continuing their work, the dwarves would like to offer you a gift of a fine horned helm. What do you say?
+
+===== End of file =====
