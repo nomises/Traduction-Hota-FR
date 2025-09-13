@@ -35,7 +35,7 @@ Les premiers ravitaillements sont arrivés des navires. J'espère que la flotte 
 Name:
 Day 18
 Message:
-Aujourd'hui, j'ai décidé d'envoyer un message à mon frère bien-aimé Bidley. Inspiré par un peu de rhum, j'ai commencé à écrire la lettre. Mais, pendant un moment, mes pensées ont refusé de se concrétiser. J'ai torturé le papier pendant presque une heure, et le résultat était le suivant: 	"J'ai quelques problèmes. Votre cher frère J."
+Aujourd'hui, j'ai décidé d'envoyer un message à mon frère bien-aimé Bidley. Inspiré par un peu de rhum, j'ai commencé à écrire la lettre. Mais, pendant un moment, mes pensées ont refusé de se concrétiser. J'ai torturé le papier pendant presque une heure, et le résultat était le suivant : 	"J'ai quelques problèmes. Votre cher frère J."
 
 Name:
 Day 22
