@@ -1,0 +1,700 @@
+===== Map name =====
+Homecoming
+
+===== Map description =====
+Henrietta returns to Eeofol with her allies to banish the Kreegans forever and regain her home. Capture the town of Ullah to win the scenario; the loss of your own main town will lead you to defeat. The heroes' level is unlimited.
+
+===== Rumors =====
+
+Name:
+Tunnels from Eeofol
+Text:
+Shortly after the Kreegan invasion, the Nighonians dug a new tunnel from their island to the mainland. It is said that the network of tunnels has expanded in recent years.
+
+Name:
+Land of the Giants
+Text:
+In addition to the Kreegans, the eastern part of the Land of the Giants is inhabited by dragons and titans, so be careful!
+
+Name:
+Lucifer requests support
+Text:
+King Lucifer has requested support from Nighon!
+
+Name:
+Stilbon
+Text:
+I heard the Kreegans captured a Forest Guard commander. The Forest Guard has set up camp in the forests to the south. Perhaps they know more.
+
+Name:
+Troglodyte Caves
+Text:
+There is a portal near one of the Conflux towns. My brother managed to look into it; turns out, it leads to caves infested with troglodytes!
+
+Name:
+Ullah
+Text:
+Ullah is the largest stronghold of the Eeofol clans in these lands. They say one can only get to it through portals.
+
+Name:
+Xex
+Text:
+One of Xeron's minions left his master to lead the Kreegan forces in this part of Eeofol.
+
+Name:
+Blind spell
+Text:
+Near one of Inferno towns, a huge army of devils has been seen. Apparently, they are guarding something valuable and are trying to seal their treasure.
+
+Name:
+Forest Guard
+Text:
+A large Forest Guard squad is holed up near the lake to the north.
+
+Name:
+Conflux
+Text:
+The presense of Elemental Confluxes has helped revitalize the nature in the few unscathed portions of this tortured land.
+
+Name:
+Kergar
+Text:
+The first Factory in Eeofol has been named Kergar, after the metal which our determination resembles.
+
+Name:
+Kreegan
+Text:
+Devils breed even faster than imps.
+
+===== Timed events =====
+
+Name:
+Red AI - resource control
+Message:
+
+
+Name:
+Orange AI - resource control
+Message:
+
+
+Name:
+Pink AI - resource control
+Message:
+
+
+Name:
+Henrietta - Home
+Message:
+Home. We are going home. I kept repeating these words as I looked forward from aboard the airship. This trip to Eeofol was uneventful and smooth—the opposite of our long, arduous flight to Jadame… so many years ago.		We were not alone. A few hours before we left, armed men in hats appeared in Rotwang—we first assumed them to be a new group of bounty hunters hired by Kastore. It turned out, however, that the gunslingers and adventurers were hardly united in their attitude towards the new ruler. Some were dissatisfied with the new, lower rates for their challenging work, while others simply despised the vain elf, who considered all in Terra Nova as mere pawns in his game. There were a thousand other reasons to desert his army, and those gunslingers had made that decision. They were now willing to go with us to Eeofol and never return to Jadame. There was a rather high-ranking commander, Colonel Lee, among the deserters. He brought not only his own men, but also some of the Dreadnoughts that we already knew so well.		Admittedly, I had my doubts about these new travelling companions. Some of them could have been Kastore's spies, or worse. However, I had long ago learned not to turn my back to those who I distrust…	And then the volcanoes and mountain ranges appeared on the horizon. Yes, this is Eeofol—but not the Eeofol we knew when we left it.	Whatever it is—it's our home, and we're back.
+
+Name:
+Tavin - War diary entry
+Message:
+Tavin's war diary, entry 11.		I can't believe it: the Lords of Erathia are actually withdrawing their support for Queen Catherine! At first I really thought our new allies, the elementals, would come in and crush the devils like rotten pumpkins, but I guess I just wanted it to happen too badly. The war proved things like that never come easy. A messenger from the Forest Guard reported that elementalist Ciele had fallen into a trap, and now the devils were holding her in a prison somewhere on the border with Eeofol.		When we heard this, we stopped dreaming of smooth sailing. It became clear: even getting the sorceress out of her imprisonment will be a bear of a job. A large Kreegan detachment was guarding the prison, and what's more, they spotted us on the way up, as if they knew we'd be there.		Retreat back through the mountains? Too late, we've been cut off. We need to run deep into the Land of the Giants. There's a camp of Forest Guard archers nearby, where that messenger came from, so we should head there.
+
+Name:
+Land of the Giants
+Message:
+We set up shop in the barren hills of the Land of the Giants, actually just the eastern part of Eeofol rather than the entire country, contrary to what we halflings like to say. I myself had never been here before. Sure, I could call myself a seasoned traveler now, but back when living at home, a journey of a dozen miles seemed a daring feat! I had heard that dragons, giants, and other monsters abounded here, and the halflings had always been wary of these dangerous lands.		The day before, I had sent out a party to scout the vicinity of our camp. It returned with troubling news: a fortress of devils was found not far away to the west.		Besides, it is inconceivable that our arrival could have gone unnoticed.
+
+Name:
+Halfling
+Message:
+Yesterday, a halfling appeared in our camp. Only then I finally came to believe the late Kett's words... The stranger was skinny as a stick and barely able to stand on his feet, so we put him in the hastily set up infirmary immediately. He recovered quicker than I thought—the very next day. Strong men, these survivors...		The guest was completely shocked to see me—even though we didn't know each other, as he hailed from a different place. He was even more shocked by my traveling companions. The halfling—his name was Thull—spent a long time stomping around the camp, gawking at the huge dreadnoughts and the amazing Couatls, trying to talk to the gunslingers, but the mercenaries were in no mood for conversations. Eventually he came to see me. I told him about our journey to Jadame, the battles against Zog’s ogres and Dargem’s pirates, and many other things we'd been through over the past nine years. The halfling just nodded, staring sternly at me and occasionally frowning.		Finally, I called out to him:		“I heard Tavin was still alive and fighting with our people against the devils. Have you any news of him?”		“Of course,” he answered, “I am one of his squad myself”.		I began peppering him with questions, but Thull only shook his head with sorrow.		“I wish I knew where he was now. We were going to break into the demons’ prison, but we got jumped on the way. Tavin and the others had retreated toward the lake; I was on a distant lookout and couldn't catch up with them. So, I waddled here.” 		The halfling tried to explain where the lake was, but I couldn't get anything decisive out of his story.		“...and while I was walking here, I noticed an odd town in the woods. I thought that your fortress was the same—light brick walls, shining domes and all... but now I look closer and I see that town over there was quite different. It's a town of elementals, I guess. Their army must be around here somewhere.”		Elementals? I remembered: long ago, back in Eeofol, in Frederick's laboratory, I had seen several tightly corked bottles and vials with tiny, seemingly incorporeal creatures inside. I gaped at one of those strange beings for the longest time; it seemed as if it were made of nothing but air and glittering lightning. Frederick explained that it was a lesser air elemental. Of course, later on, in Jadame, I would see elementals being summoned by the warlocks for their own use; however, those were much more powerful and imposing. Still, I had never heard of an entire army of elementals, let alone of them having towns of their own. Let alone here, in Eeofol!		“Oh, yes,” Thull nodded. “You don't know anything. Now listen, Erathia is not alone in fighting the demons. They have a whole army of elementals on their side! I don't know where they came from or what they want, but they're backing us now! I've seen this army with my own eyes, just like I see you now. Those critters make them demons look like pups!”
+
+Name:
+Tor Anwyn is concerned about Kreegans
+Message:
+Old Kosta ran past my tent in the camp. He was pounding his stick against a kettle and yelling:		“Again! Again! They're upon us again!”		“Who? The devils?” I drew my sword, preparing to fend off the attack.		“There,” the old halfling pointed toward the hills with a trembling hand.	Up ahead, at the foot of the hill, I could see a few gunslingers from my squad cleaning their blunderbusses. The smell of gunpowder still lingered in the air. 		“Who was it this time? Devils? Efreet?”		“Certainly not,” one of the gunners said hoarsely. “Look, here. Floating eyes. Some harpies and minotaurs, too.”		It was not the first time we'd had to clash with these creatures lately, and we'd even killed some manticores. As if the demons weren't enough. 		“I know who they are,” said one of the local halflings. Over the recent days, once the news of our arrival spread, we had been receiving a trickle of fighters from various guerrilla groups who’d come to join us. Unfortunately, we didn't meet any of Tavin's comrades—everyone knew of the daring commander, but no one could tell us anything useful about him. 		“They're from Nighon. They've been here for years. They dug their own tunnels under Eeofol. Why are they attacking us now, I wonder?”		“I don't think they are attacking anyone,” I responded. “I think they just keep running into us while heading somewhere else. But where?”		The answer came naturally. One of the gunners called out to me as he found something on the body of one of the slain minotaurs, a giant brute in rich, gilded armor.		“Looks like a scroll," the mercenary hissed.		I took the scroll carefully and unrolled it. It was hard to make out the text at first, as the handwriting style was unfamiliar; back in Jadame we used to write in a much simpler manner. However, back in the day, Frederick taught me to read and write using scrolls from the Bracadan Academy, where calligraphy was regarded to be one of the foremost subjects. What I saw was a message executed in an ostentatious style, with intricate curls and lines of perfect thickness. The letter was clearly part of correspondence between some very important people.		“I must inform you that Lucifer Kreegan had requested military support from Nighon. Even though there is infighting in the country, our king decided to send forces to aid this mad beast. Keep a close eye on the movement of our troops and report me the news. We cannot afford to waste our forces at such a challenging hour for Nighon.	Tor Anwyn."		The name Anwyn sounded vaguely familiar to me… I think Frederick had mentioned him before? No, can't recall for sure. What really matters is the news that Nighon is sending troops to aid Eeofol. The Queen of Erathia and the Conflux forces must be informed at the earliest opportunity. They must not be taken by surprise by the arrival of the Dungeon Overlords’ army.
+
+Name:
+Forest Guard camp and devil fortresses
+Message:
+A scout on a mission from Gelu, the half-elf commander of the Forest Guard, visited us. He absorbed my account of our landing, the Nighonian beasts, and the recent devil attacks and promised to pass it all on to his commander. Then he told me that there was a camp of the Guard in the forests to the southeast. The commander, he said, was Stilbon himself, one of the most experienced officers in the Forest Guard, but there had been no news from him in weeks, and Gelu feared the worst.		It turned out that the Forest Guard had been studying the land for months, looking for weaknesses in the Kreegan defenses. The emergence of our base had not gone unnoticed, but, seeing as the elementals could summon their towns out of thin air, the Kreegans were not particularly interested in us, believing our camp to be just another outpost of those guests from other planes. Per the scout, there were two major Kreegan fortresses in the south and northwest, and another, Ullah, far to the west, but it was nigh impossible to get to; the path to it lay through Kreegan portals, magical barriers, and garrisons packed to the brim with infernal beasts.
+
+Name:
+Situation is getting worse
+Message:
+Day after day passed, but it didn't get any easier—the Kreegan numbers were getting bigger and bigger. I put the scroll with the latest scouting report aside in frustration. They're being pounded by humans and elves! How can they even afford to have enough troops to fend us off, too? And yet they do.	All our scouting parties have been trying to figure out how to get to the Kreegan fortress of Ullah over the last few days, but it looks like things are about to get very heated right here.		There's no point in mounting an attack on Ullah now—there's another pressing matter to deal with. The matter of survival.
+
+Name:
+Warning about reinforcements
+Message:
+A messenger from Gelu brings troubling news: the combined forces of the Forest Guard and Catherine’s troops have been forced to redeploy. A very important plan requires them—the fate of the war and perhaps the entire world will depend on its success. Taking advantage of the subsided action in the west, the Kreegans are amassing a huge force to prevent us from taking their strongholds. Their two bastions to the south and northwest must be captured, and that’s to be done within a month from today; otherwise it will be too late for us.
+
+Name:
+Warning 2
+Message:
+The men of the Forest Guard spotted a very large Kreegan army; it'd set out from Kreelah toward the outlying fortresses. The Elementals and the Forest Guard will do everything possible to deter them, but despite their efforts, the devils should make it there no later than a week from now. However, we have every reason to believe that they will not attempt to recapture the previously taken fortresses.
+
+Name:
+Red AI - 411 - Bonus gold
+Message:
+
+
+Name:
+Todd's story
+Message:
+We spent the next day unloading airships, building new workshops, and engaging in endless chatter—mostly questions on my part. Most of all, of course, I was interested in Frederick's fate. Todd took over the story:		“I met Frederick just once, at the time when Floribert and I were put in charge of another, completely insane project of Kastore’s. Hand prostheses outfitted with ripsaws, so that cripples could keep on fighting... can you imagine? Victoria refused to do that, even though it was precisely her area of expertise. She said such primitive, crude devices were offensive to the very... Er, where was I? Oh, yes. If invention and knowledge weren't in our common bloodline, I would have thought Frederick was spellbound—so immersed in his thoughts. It's like a trance, when you fail to notice anything around you and surrender completely to the muse of inspiration. I know this state very well, unlike some of the mop-bearded, thick-skinned... eurgh! No wonder Frederick never noticed any of our hidden messages. And yet I am sure he is perceptive enough to recognize the pretense sooner or later and tell the difference between true friends and false ones.” 		It was as if some deep-lying muscle inside me, long under incredible tension, had relaxed. I whispered for the hundredth, maybe even thousandth, time:		“Thank you, guys!”		When the sentimentality fit passed, I reassessed our chances. Within a day, the fortress was bristling with weapons of every kind; molten iron bubbled behind the walls, taking the form of mechanical warriors, and the hope and desire to drive the Kreegans back to the desolate hulk in the sky from where they'd fallen off had been rekindled in our hearts.
+
+Name:
+Warning (Final)
+Message:
+Kreegan troops have almost reached their fortresses. Whether they make it there or turn back to Kreelah now depends solely on us.
+
+Name:
+News about Armageddon's blade
+Message:
+A messenger from Gelu showed up at our camp, unnoticed by the guards, as always.		“Gelu sends word: The Armageddon’s Blade is now in our hands, and its creator Khazandar is dead. Xeron has retreated. The demon ranks have been shaken; the battle for Kreelah draws near. Queen Catherine requests that you launch all your forces into attack. Our victory is at hand!”		The elf spoke in his usual manner, uttering choppy, dry phrases, but his burning eyes told me that this report was the best and most important news in the long darkness of the war. I had heard rumors about this Armageddon’s Blade, but it was hard to believe that such a thing could have been created by a man, even a genius of unprecedented caliber. If what they say about it is true, then I am very glad that the blade is now in the hands of our allies. As for Khazandar... I'd heard that name from Frederick a long time ago, but I couldn't remember who he was to my friend. Sam interrupted my thoughts: 		“Commander. Should we prepare for the battle?”		“We should.”
+
+===== Heroes =====
+
+===== Objects =====
+
+(9, 53, 0) ***Inferno***
+Name:
+Ullah
+
+Timed events:
+
+Name:
+Red AI - 343 - Devils
+Message:
+
+
+(11, 97, 0) ***Pit Fiend***
+Message:
+“Hey, you! You want on the hook? Want to be eaten? Get back to work!”		The half-naked demon with swollen eyes scratched his backside and swung his whip at me. The bastard didn't even realize I was not a slave, but a warrior, armed to the teeth. The next moment the demon was gushing black blood on the ground. Others appeared, but we were ready for a fight. That's why we came here.
+
+(106, 107, 0) ***Quest Guard***
+Message:
+You can see the outpost of the Forest Guard ahead. With great hope in your heart, you approach the commander's quarters—you need their help now more than ever. However, the sentry at the door informs you that the outpost’s commander, Stilbon, has fallen into the Kreegans' clutches during the recent raid. Shortly before that, he'd given the remaining warriors in the camp orders to stay put. His squad will remain here until further orders from the commander.
+The sharpshooters won't go with you until Stilbon gives them new orders.
+Recognizing their commander, the sharpshooters prepare to get a move on.		Would you like to take them with you?
+
+(96, 21, 0) ***Seer's Hut***
+Message:
+A genie elementalist meets you in the hut. He looks extremely outraged.	 		"You just slayed my entire army! Do you have any idea how long it will take me to summon new reinforcements?!”		“But those Elementals attacked us!”		“Well, what can I do! They had been ordered to protect the hut from any hazards. How were we supposed to know you'd wander in here? We never met anyone in this part of Eeofol except for dragons and giants.”		"I'm starting to get a vague idea of why all the Elementals we've met have been pouncing at us. Some allies…”		“Enough!” the genie barks. “Leave me be, I have my troubles to worry about. I was tasked with finding the place where the Kreegans are holding Ciele and freeing her…“		“We know where that is. Only her prison is guarded by an entire army of Efreet.”		“An army? This complicates matters. Perhaps you could help us get her out? I have something to reward you with.”
+“Where is Ciele? I don't see her here.”
+Upon seeing Ciele, the genie exclaims:		“Finally! I will send a report to the forces of Conflux immediately. As for you, Ciele, pass this book on to Tavin and his new allies. I think they deserve it.”
+Yes, and on top of that…
+Yes, and on top of that…
+Give them this bag of gold!
+
+(99, 8, 0) ***Sign***
+Message:
+Outpost of Erathia Royal Forces
+
+(10, 31, 0) ***Sign***
+Message:
+Temple of Erebus
+
+(3, 67, 0) ***Seer's Hut***
+Message:
+As you explore the scorched hills and plains of Eeofol, you notice a lonely hut and decide to take a look inside. Intact structures are a rare sight in Eeofol... but you are even more surprised when you step through the door.	 A broad-shouldered warrior greets you, and you marvel at the rich collection of armor and weapons hanging on the walls.	 “Surprised to see a living man in Eeofol?” asks the knight. “Well, I am as surprised as you are. I used to live alone in the east, but recently I decided to venture deep into the Kreegan lands. You see, from what I know, the elementalists have lost the Orb of Tempestuous Fire somewhere around here. They are willing to give the most generous reward to whoever finds it and returns it to the forces of Conflux. Unfortunately, all my searches have been in vain. All I know is that the Kreegans did not get it. Would you like to join my quest for it?”
+Can you believe it? I was unable to find the orb. And I'm guessing you didn't either.
+“You found it!”, exclaims the knight. “Give it to me, and I will return it to the forces of Conflux. Please accept this sword. It has served me well in the past, so let it help you now.”	Would you like to exchange the Orb of Tempestuous Fire for the Sword of Judgement?
+
+(7, 69, 0) ***Quest Guard***
+Message:
+A magical barrier is blocking your way. Judging by what you've heard from Tavin's guerillas, it’s been created by Horkos. As long as this hero is around, we won't be able to take it down.  
+The magic barrier is still active. As long as Horkos is nearby, we won't be able to take it down.  
+Horkos is defeated, and now the barrier can be dispelled with a simple conjuration. Do you want to remove it?
+
+(11, 64, 0) ***Quest Guard***
+Message:
+A magical barrier is blocking your way. Judging by what you've heard from Tavin's guerillas, it’s been created by Ayden. As long as this hero is around, we won't be able to take it down.  
+The magic barrier is still active. As long as Ayden is nearby, we won't be able to take it down.  
+Ayden is defeated, and now the barrier can be dispelled with a simple conjuration. Do you want to remove it?
+
+(16, 84, 0) ***Seer's Hut***
+Message:
+Flames rise into the air, setting dry trees on fire and creating waves of heat. You can see figures moving toward you in the flames. They are fire elementals, but they don't seem to be intent on attacking.	“Listen," one of them says to you, "an ancient relic that holds the secrets of our magic has gone missing. We can feel it: it is somewhere nearby and attracts us. Bring us the Tome of Fire, and we will grant you protection from all weapons!”
+The elementals roam in the flames, paying no attention to you. They are not interested in anything but the ancient tome.
+Sensing that you have the Tome of Fire, the elementals approach you.	“Hand over our relic and we will create a magical barrier around you that will protect you in battle," they say.	Do you wish to give them the tome?
+
+(101, 104, 0) ***Wood Elf***
+Message:
+A group of elves welcome you:	“This is a Forest Guard camp, and we are on your side. However, our best sharpshooters, commanded by Stilbon, have been ordered to stay here until his return. I doubt you'll convince them to come with you.”
+
+(93, 42, 0) ***Seer's Hut***
+Message:
+I study rare metals and alloys. Recently, the alchemy department at the Bracadan Academy's museum acquired an intriguing artifact—a demon's horseshoe. Crafted by the Kreegans, these items remain a mystery: we do not know what metals are used in their making and where the devils get them. Four of us from Spyre have come here to collect more samples. I've heard you're battling the Kreegans. If you find any of these horseshoes, please bring them to me. I'll reward you generously.
+I see you don't have any horseshoes on you. Oh well; I'm sure you'll yet find some.
+What a wonderful item! And not a scratch on it! Hand me the horseshoe, and I'll teach you how to enchant your warriors’ armor.
+
+(18, 16, 0) ***Inferno***
+
+Timed events:
+
+Name:
+Red AI - minus crystals
+Message:
+
+
+Name:
+Red AI - 337 - Extra strength
+Message:
+
+
+Name:
+Red AI - 421 - Dead end
+Message:
+
+
+(98, 74, 0) ***Seer's Hut***
+Message:
+I study rare metals and alloys. Recently, the alchemy department at the Bracadan Academy's museum acquired an intriguing artifact—a demon's horseshoe. Crafted by the Kreegans, these items remain a mystery: we do not know what metals are used in their making and where the devils get them. Four of us from Spyre have come here to collect more samples. I've heard you're battling the Kreegans. If you find any of these horseshoes, please bring them to me. I'll reward you generously.
+I see you don't have any horseshoes on you. Oh well; I'm sure you'll yet find some.
+What a superb item! And not a scratch on it! Hand me the horseshoe, and I'll show you how to enchant your warriors' weapons.
+
+(92, 51, 0) ***Sign***
+Message:
+Land of the Giants
+
+(3, 22, 0) ***Sign***
+Message:
+No way back
+
+(84, 58, 0) ***Factory***
+Name:
+Kergar
+
+Timed events:
+
+Name:
+Player - 121 - bonus
+Message:
+
+
+Name:
+Player - 341 - Finale - Huge bonus
+Message:
+Things were going from bad to worse. Maybe our plans to defeat the Kreegan forces in the region all by ourselves were too daring—maybe! At least, we could have made them really feel the never-ending painful jabs from all sides, never letting them pull themselves together. Instead, we were forced to stay cooped up in our fortress behind a tight defense. Every soldier counted, and we couldn't afford any risky forays into the enemy camp, even if we knew it could weaken the demon legions. Unlike the infernal spawn, we couldn't bring back the dead—and we certainly couldn't afford to gift them the bodies of our fighters. I hadn't slept in days, trying to come up with a workable plan that would turn the tide of the war. After another sleepless night, I climbed the stairs to the landing around one of the castle's chimneys... and just stared into the distance. In the golden rays of the morning sun, miraculously breaking through the gaps in the dense clouds, I could see the balloons of airships. One, too, three... I kept staring blankly, as if in a daze and afraid to scare the vision away. Suddenly I realized I could hear the choppy noise of the propeller blades. It was so loud, the fence of the observation deck shook. My mind refused to believe what was happening was real, but all my senses told me otherwise. The airships were so close already, I could make out the figure of a blonde woman waving at me from the lead ship’s forecastle. I rushed down the ladder, barely avoiding falling off the chimney. It took a good half an hour to get ready for the anchors to drop, but I hardly noticed it. The ships’ nacelles touched the ground softly. 		“Sam! Todd! Fla... Flu... Floribert!” I shouted over the rumble of the engines, choking on tears of joy. More and more of those familiar, beloved faces appeared over the sides. At last my friends were on the ground, followed by gunslingers, automatons, and even dreadnoughts hauling crates of all sizes. Sam ran up and hugged me.		“Henrietta! I'm so glad we made it!”		“But how? Didn't you stay at Burton, with Kastore?”		“With that toad? Fat chance! You escaped from under his nose, and it felt like we grew wings. I wish you'd seen how green he turned when he found out you'd gotten away, grabbing everything of value in the Southlands as you went! He grew as green as his stupid goblins!		I mean, to be honest, Kastore did appear to be pretty capable at first, but the further into the steppe, the thicker the gophers. He's a tyrant! We here are all people of some stature in Burton, and yet we got treated like servants, let alone the laborers; not to mention the halflings. You know what, girl? Cheer up! We sprung them out of the dungeons, too, and brought them with us!”		Todd interrupted Sam:		“Brilliant! Sam's work was brilliant! I don't know who taught her the art of composing hidden messages, but encrypting them in the serial numbers of produced parts… that was just outstanding! We spent months fooling Kastore while he reveled in power. And one day, yes, yes, one day, a plan with hundreds of small, moving, constantly changing elements came together, and it all worked perfectly! The goblins, minotaurs, and all the other beasts that serve him—they didn't even realize what happened! And I'll tell you what! Some big old charges went off simultaneously in all the factories, under all the bridges. And by then, we were already gone!” 		“Damn it, I'd give all the ground oil in the world to see if he could turn any greener! He'll soon become a cactus at this rate. Henrietta, girl, let me hug you! We're here, we've come, and we’re with you now!”
+
+(29, 56, 0) ***Prison***
+Name:
+Stilbon
+Biography:
+Stilbon is the unofficial leader of the Forest Guard's conservatives. Grumbling like the old men they are, his comrades-in-arms adopted the sharpshooter bows invented by Gelu, but weren't nearly as accepting of the other changes the new commander instituted. Stilbon never misses a chance to prove that the old guardsmen's quivers are as full of nasty surprises for the enemy as ever.
+
+(65, 13, 0) ***Grand Elf***
+Message:
+Tavin's war diary, entry 12.		On our way to the camp we met a centaur tribe. Upon hearing of the advancing army of demons, the elf in command of the camp ordered his men to leave immediately. He also reported that on the other side of the lake there was an old Erathian outpost. There might still be someone there.
+
+(106, 67, 0) ***Pandora's Box***
+Message:
+
+
+(34, 39, 0) ***Quest Guard***
+Message:
+The Forest Guard sharpshooter squad is camped here. They greet you and inform you that they have been ordered to guard the Angel Feather Arrows stored here until their commander, Stilbon, returns. They will be willing to join your ranks if he gives new orders to that end.
+The Forest Guard sharpshooter squad is camped here. They greet you and inform you that they have been ordered to guard the Angel Feather Arrows stored here until their commander, Stilbon, returns. They will be willing to join your ranks if he gives new orders to that end.
+The Sharpshooters report:	“The artifact is secure and we are ready to move! Any further instructions?”
+
+(21, 53, 0) ***Seer's Hut***
+Message:
+Near a long-dried-up tree, you meet a figure shrouded in a bright blue glow. From time to time, sparks run down the creature's arms and legs.	“Greetings," says the elemental. “Tamar the Wanderer told me that he had foreseen your arrival here in the eastern parts of Eeofol. Most of the Conflux forces are now fighting near Kreelah, but we can still send some to help you.”
+Do you want to accept the phoenixes into your army?
+There is another reason why I was sent to this land. A month ago, one of our planeswalkers took the Sphere of Permanence and went to attack Ullah, but he has not been heard from since. Most likely, he perished in battle and the Sphere fell into the hands of the Kreegans or their allies. Perhaps the elemental was attacked by Ayden or Horkos—we know those two have been patrolling near Ullah lately.	If that is indeed the case, try to find this Sphere. The artifact must not be left in Kreegan hands.
+Still no sign of the Sphere? I am positive it must be nearby.
+“This is indeed the Sphere of Permanence. I will pass it on to my brethren and report that another elemental warrior has fallen in the war with the devils," the elemental becomes silent for a moment. “Take this Lion’s Shield of Courage and finish what we were planning to do: capture Ullah and end the Kreegan presence in these lands.”	Trade the Sphere of Permanence for the Lion’s Shield of Courage?”
+
+(78, 13, 0) ***Pandora's Box***
+Message:
+
+
+(12, 43, 0) ***Demoniac***
+Name:
+Nixie
+
+(9, 61, 0) ***Quest Guard***
+Message:
+A magical barrier is blocking your way. Judging by what you've heard from Tavin's guerillas, it’s been created by Horkos. As long as this hero is around, we won't be able to take it down.  
+The magic barrier is still active. As long as Horkos is somewhere nearby, we won't be able to take it down.  
+Horkos is defeated, and now the barrier can be dispelled with a simple conjuration. Do you want to remove it?
+
+(9, 60, 0) ***Quest Guard***
+Message:
+A magical barrier is blocking your way. Judging by what you've heard from Tavin's guerillas, it’s been created by Ayden. As long as this hero is around, we won't be able to take it down.  
+The magic barrier is still active. As long as Ayden is somewhere nearby, we won't be able to take it down.  
+Ayden is defeated, and now the barrier can be dispelled with a simple conjuration. Do you want to remove it?
+
+(12, 71, 0) ***Event***
+Message:
+
+
+(21, 56, 0) ***Quest Guard***
+Message:
+A magical barrier is blocking your way. Judging by what you've heard from Tavin's guerillas, it’s been created by Ayden. As long as this hero is around, we won't be able to take it down.  
+The magic barrier is still active. As long as Ayden is somewhere nearby, we won't be able to take it down.  
+Ayden is defeated, and now the barrier can be dispelled with a simple conjuration. Do you want to remove it?
+
+(64, 71, 0) ***Seer's Hut***
+Message:
+I study rare metals and alloys. Recently, the alchemy department at the Bracadan Academy's museum acquired an intriguing artifact—a demon's horseshoe. Crafted by the Kreegans, these items remain a mystery: we do not know what metals are used in their making and where the devils get them. Four of us from Spyre have come here to collect more samples. I've heard you're battling the Kreegans. If you find any of these horseshoes, please bring them to me. I'll reward you generously.
+I see you don't have any horseshoes on you. Oh well; I'm sure you'll yet find some.
+What a quality item! And not a scratch on it! Hand me the horseshoe, and I'll share my knowledge of magic with you.
+
+(72, 48, 0) ***Seer's Hut***
+Message:
+I study rare metals and alloys. Recently, the alchemy department at the Bracadan Academy's museum acquired an intriguing artifact—a demon's horseshoe. Crafted by the Kreegans, these items remain a mystery: we do not know what metals are used in their making and where the devils get them. Four of us from Spyre have come here to collect more samples. I've heard you're battling the Kreegans. If you find any of these horseshoes, please bring them to me. I'll reward you generously.
+I see you don't have any horseshoes on you. Oh well; I'm sure you'll yet find some.
+What an exquisite item! And not a scratch on it! Hand me the horseshoe, and I'll tell you how to boost the power of your spells.
+
+(36, 91, 0) ***Inferno***
+
+Timed events:
+
+Name:
+Red AI - minus gems
+Message:
+
+
+Name:
+Red AI - 337 - Extra strength
+Message:
+
+
+Name:
+Red AI - 421 - Dead end
+Message:
+
+
+(30, 98, 0) ***Quest Guard***
+Message:
+A magical barrier is blocking your way. Judging by what you've heard from Tavin's guerillas, it’s been created by Xarfax. As long as this hero is around, we won't be able to take it down.  
+The magic barrier is still active. As long as Xarfax is somewhere nearby, we won't be able to take it down.  
+Xarfax is defeated, and now the barrier can be dispelled with a simple conjuration. Do you want to remove it?
+
+(90, 0, 0) ***Pandora's Box***
+Message:
+
+
+(103, 7, 0) ***Quest Guard***
+Message:
+An armor-clad elf approached you, introducing himself as the commander of the Erathian sentry post.		"Didn't expect you back so soon,” he said, "but that's hardly surprising. When the new war broke out, our outpost was barely seeing any action at first; lately, however, it’s been attack after attack. Some of us would be happy to join you, but we can't possibly leave the post unguarded.”		“Is there anything we can do to help?”		“I don't think so, although... maybe you can. We learned that the demons attacking us were coming from the Kreegan fortress in eastern Eeofol. It is currently commanded by Nymus. Capture her fortress, and then we can join you.”
+The fortress is still under the control of Nymus. We can't leave the outpost in danger.
+You took over the fortress? Great news! I think our elf archers would like to join you now.
+
+(63, 2, 0) ***Seer's Hut***
+Message:
+You meet a large group of Forest Guards by the lake. They agree to join you, but they cannot leave their hideout without orders from Stilbon, their commander.
+You meet a large group of Forest Guards by the lake. They agree to join you, but they cannot leave their hideout without orders from Stilbon, their commander.
+Upon hearing the order to leave the hideout, the sharpshooters immediately begin packing for the road. Do you wish to welcome them into your army?
+
+(23, 5, 0) ***Quest Guard***
+Message:
+A magical barrier is blocking your way. Judging by what you've heard from Tavin's guerillas, it’s been created by Xarfax. As long as this hero is around, we won't be able to take it down.  	
+The magic barrier is still active. As long as Xarfax is somewhere nearby, we won't be able to take it down.  
+Xarfax is defeated, and now the barrier can be dispelled with a simple conjuration. Do you want to remove it?
+
+(23, 6, 0) ***Quest Guard***
+Message:
+A magical barrier is blocking your way. Judging by what you've heard from Tavin's guerillas, it’s been created by Axsis. As long as this hero is around, we won't be able to take it down.  	
+The magic barrier is still active. As long as Axsis is somewhere nearby, we won't be able to take it down.  
+Axsis is defeated, and now the barrier can be dispelled with a simple conjuration. Do you want to remove it?
+
+(37, 72, 0) ***Quest Guard***
+Message:
+A magical barrier blocks the way deep into the lands of the devils. All attempts to remove it have failed. 	Not far away, among the hills, you notice a creature in a red cloak and turban. Before you can speak, the elemental talks to you. Strange thing is, you don't hear its voice. Thousands of thoughts flood your mind.	"We… tried to lift the barrier… Magic… too strong… But nothing can escape our sight… Three Kreegan warlords hold the keys… Their names are Athe, Kydoimos, and Miseria. Find them. Collect the keys. Break the barrier."
+The barrier is still here. Perhaps the elemental was right, and the only way out is to defeat Athe, Kydoimos, and Miseria and combine their artifacts.
+The Diplomat's Cloak glows with red light. Are you willing to sacrifice the Cloak and venture deep into Kreegan territory?
+
+(35, 35, 0) ***Pandora's Box***
+Message:
+
+
+(37, 101, 0) ***Event***
+Message:
+
+
+(4, 6, 0) ***Event***
+Message:
+
+
+(49, 88, 0) ***Pandora's Box***
+Message:
+
+
+(31, 48, 0) ***Event***
+Message:
+Îáíóëåíèå ìóâîâ ðîçîâîìó ÈÈ
+
+(11, 72, 0) ***Event***
+Message:
+
+
+(101, 8, 0) ***Halfling Grenadier***
+Message:
+Tavin's war diary, entry 13.		On top of the Erathian soldiers, I have met several of my fellow halflings. They all say that a whole army has appeared south of here, in the Land of the Giants, out of thin air! I couldn't figure out what kind of army they were talking about, but it didn't sound like the elementals. The halflings were talking about copper spiders, men with iron sticks, and feathered serpents. I have no idea what kind of an “army” they are, but one thing is clear: they are not our enemies, and they are fighting the devils, too.
+
+(69, 11, 0) ***Event***
+Message:
+
+
+(42, 7, 0) ***Event***
+Message:
+
+
+(12, 70, 0) ***Event***
+Message:
+With huge effort, you manage to regain some of your lost power. You've heard of the Kreegans' ability to suppress magic before, but you've never experienced it firsthand. No doubt this is one of the traps the devils have prepared to protect their fortress.
+
+(103, 45, 0) ***Event***
+Message:
+“Tavin is alive!”		That thought was keeping me awake all night. Now I knew it for sure: a guerilla from his squad had finally reached us. Do I need to describe how much I was looking forward to this meeting! In the dawn, it was difficult to make out the traveler's features. I strained my eyes all I could: a small figure riding a... pony? Yes! It was definitely a halfling!		“Tavin! Tavin, is that you?” I shouted and rushed toward the short-statured rider, forgetting all caution.		The horseman reared up in the saddle and hesitated a moment. Then, apparently recognizing me, he dismounted and ran toward me, hunching on one leg, waving his short, strong arms awkwardly. It was him.		I almost ran the tired traveler into the ground, for I was so glad to see him. Only then did I realize what a toll the years had taken on him. Scars, burns, gray stubble... Yet his eye—the only eye, the other was a hideous reddish hole—looked at me boldly and with keen interest, as if it was saying: “Well, girl, let's see what kind of a beast you grew into”.		Interrupting each other, we began to trade stories about the journey each of us had taken. I learned how, on the day of our departure, Tavin had single-handedly led the Kreegans’ chasing party on a false trail, making them believe there was a full squad of grenadiers lurking in the woods. How, at first, he invested all strength he had into surviving on his own, tormented by the fact that he couldn't help his people. Later, he found his first companions and began to mount small raids against the Kreegans—they managed to free a slave or two here and there and get them out of Eeofol, or ambush a devil and slit his throat.		“But it was all a drop in the ocean. Our faith was beginning to fail us. Despair is a poison worse than stinking Kreegan blood,” Tavin muttered, as if reliving the pain of those days.		In their darkest hour, when things in Eeofol seemed to be going as badly as they could, the guerrillas learned of Erathia's victory in the Restoration War. Since that time, the Kreegans, who had been dealt a severe blow, had lost their grip. The guerrillas were becoming bolder, and many of the freed slaves chose to join them. Of course, they didn't think they'd really be able to drive the devils away, surely not until the elementals showed up in Eeofol...		Tavin was impressed by what I had told him of my adventures, and of the forces that had come with me from Jadame-but there was nothing I could show him right now. Wynona was my only companion at the meeting, and the old guerilla kept sneaking glances at the Dark Elf, eyeing up her long sword and lightweight breastplate of bluish steel, and coughing into his fist.		“One thing bothers me, Tavin. Maybe you’ll be bold enough to tell me the truth? I can't figure out why they call me Moonchild. No matter how hard I tried to find out, everyone I asked seemed scared. If they didn't run away, they’d just change the subject. I can't take it anymore... Something’s not right here: it feels as though my whole life had gone wrong because of it, ever since I couldn't even remember.”		Tavin took a good swig from his travel flask, lit his short spigot pipe, sighed heavily a few times, and began:		“Well, listen. Here’s what it’s all about... I had just joined the Border Guard as a new recruit, and a hard time that was! I heard a lot of things that the villagers kept silent about—terrible stuff had happened a few years earlier. Giants came down from the mountains into the valley. Guess why everyone around thinks us halflings lucky? That’s because no one has ever heard of our troubles—we just do not talk about them, even with neighbors. And if someone finds out about something, they keep silent like fishes. Superstitious folk! They believe that if you mention a sorrow, it will hear of that and return, ten times more sorrowful. And how can a man not let grief drive him mad, if there’s no way for him to defend himself? I couldn't stand it all, so I joined the guards. I was tired of superstition. That’s how it was... Many villages were trampled into the ground by giants. What a disaster! And only in one village, in the bright light of the full moon, we found a surviving baby. The whole house around was ruined, but her cradle was intact. So the saviors called her a moonchild. What you gonna do! The babe was alive, but once you looked at her, you could feel the rumbling of the giants' feet again. So we all swore to keep silent about the matter; not a word, so as not to bring on a new misfortune.”		I froze. For years, Frederick had been trying to beat this foolishness out of me, scolding me, trying to explain things, prove something—but I still believed in omens. Just a little bit, out of pure habit, as if I were holding on to something. And now—had the devils fallen on Eeofol from the Moon just because I was... alive?	It was as if the old guerilla had read my mind:		“No, child. He who intends to do evil takes a while to prepare, then goes and does it. What are omens to him? It’s the other way ‘round, Henrietta. If it were not for you, your bravery, your friendship with that lanky wizard... we would not exist now. You are our good fortune. Back then, when I wasn’t sure if there was any hope left in the world, and I was wandering through these burnt forests like a dead man who just forgot to go lie in the ground, I learned that halflings had been seen somewhere beyond the distant seas. Boy, no news had ever made me as happy! I knew that our root was not lost, and that it would sprout again. You saved us once, and now you've come back to save us again! Hey, if you're so much into bad omens, then imagine how all the Kreegans’ mirrors shattered one day, scared of their ugly kissers. That one I can sure get behind!	Now tell me: who was it that overcame fear? Who called you Moonchild?		“Uncle Kett did. He died in my arms."		Tavin grew sulky and sighed.		“Ole Kett, then. A good soldier he was! Wish I'd saved him. I thought he'd flown with you back then, but two years later he showed up at my squad. We fought together until... Ah, may he rest in peace. I'm happy to know that he died seeing your face, not those red mugs. Few get so lucky in Eeofol these days.”		“What about Auna? Have you heard of her?”		“No. I've never known anyone by that name.”		Tears rolled from my eyes. To find out you lost everything before you even realized you had it. And now all that's left is a name. Why is knowing it more painful than not knowing anything?		"She's a Moonchild	Gathering the flowers in a garden.	Lovely Moonchild	Drifting on the echoes of the hours.	Sailing on the wind in a milk white gown,	Dropping circle stones on a sun dial,	Playing hide and seek with the ghosts of dawn,	Waiting for a smile from a sunchild."		I heard the voice, and it felt like I was following it out of the dark night woods—a little, lost girl. I opened my eyes and felt Wynona's warm arms around me as she squatted down, and I felt Tavin's stiff palm on my shoulder.
+
+(32, 39, 0) ***Sharpshooter***
+Message:
+The enemies of our enemies are our friends. We are ready to fight alongside you until we can rejoin the other detachments of the Forest Guard.
+
+(27, 99, 0) ***Event***
+Message:
+Survivors... not even that. Woesome creatures on their last legs. That's what the devils' slaves looked like. Gaunt and gray, caked in ash and dust, the halflings looked more like gremlins or goblins. There were no chains on them—just an ounce of metal on each would render them unable to move. I glimpsed over their living conditions: some filthy shacks that had seen better days. Roofs hastily patched up with garbage. And the gardens... I couldn't believe my eyes. The gardens! What was that growing there? 		Surely not flowers... No, those were shriveled mushrooms of a disgusting hue. Had a halfling come across one like that in the woods in the old days, he would have spat in anger at the mere thought of eating such an abomination. The poor things did not seem to notice that their torturers were lying breathless on the ground. The slaves kept dragging around bucketloads of something reeking. An icy sweat broke over me: their buckets were filled to the brim with severed limbs and other body parts. Human, demon, you couldn't tell which one they came from. The halflings were dumping their loads into a huge vat near the corral. And then I heard a screech or a growl—a profoundly vile, sickening sound. The creatures I saw next were thick and red, with crooked horns growing all over their bodies—I thought first they were armadillos, but then I got it. Huge. Demonic. Boars. That’s what they were. A perverse mix of pigs and demons. They greedily devoured flesh and grew bigger as I watched. It wasn't easy to tear my gaze away from the appalling feast, but where I looked next, the sight was no less ugly. 		Next to the stable, there was a slaughterhouse, with demon pig carcasses hanging from hooks, bones and scraps of rotting meat scattered around. So this is how the devils feed their multiplying legions. I thought they were like locusts, devouring everything in their path, and once done with one village, country, continent... planet, they went looking for the next one. Apparently, the resistance and being confined to Eeofol forced the Kreegans to familiarize themselves with the art of animal husbandry, and they surely added their dreadful twist to it. Anyway, looks like it saved the lives of some of my brethren. I shuddered; hadn't I chanced to be near Frederick's lab back then, I could be carrying those buckets now.		“Brothers! Sisters! Your suffering is over!”
+
+(93, 64, 0) ***Pandora's Box***
+Message:
+
+
+(94, 64, 0) ***Pandora's Box***
+Message:
+
+
+(35, 4, 0) ***Heretic***
+Name:
+Phrike
+
+(64, 50, 0) ***Quest Guard***
+Message:
+Traversing the highlands of eastern Eeofol, you expected to meet anyone—elementals, demons, dragons, titans... but not this person.	Upon entering a thicket, you ran into an immensely tall goblin. Clad in excellent plate armor, with a dark blue cape hanging from his shoulders, he surely looked nothing like a barbarian. Your eye caught the richly decorated scabbard and a strange angular object on the goblin's back.	“An unusual sight a lord without his entourage makes, right? You bet. Eeofol is a dangerous place, very much so. I learned it well the time I first visited here. And now I'm here on a certain business... I hail from Harmondale. There has never been a shortage of powerful mages in my domain, but now I need more wizards for my purposes; see, my sorcerer friends who accompanied me on many glorious endeavors have left me, heading out on a long quest of their own.	They say hermit enchanters have settled somewhere around these parts, ones who once left Bracada and Nighon. Who knows what knowledge they have accumulated over the years? Perhaps some of them would agree to serve me. Find me these enchanters—rumor has it they have been spotted in hidden hollows.
+The Lord is still here. Don't bother him unnecessarily.
+“Excellent! Twenty enchanters have already agreed to come with me. What can I give you in gratitude? Gold? No, you deserve more! 	See this passage in the hills? At first glance, there is nothing of note there, but look closer, and you will find a Spellbinder’s Hat. I don't need it—I have chests full of stuff like that in my castle.”
+
+(48, 8, 0) ***Pandora's Box***
+Message:
+
+
+(107, 89, 0) ***Pandora's Box***
+Message:
+
+
+(25, 79, 0) ***Quest Gate***
+Message:
+These lands are extremely dangerous. Only the strongest of the warriors and the most talented commanders can overcome the hordes of Kreegans waiting for you.
+These lands are extremely dangerous. Only the strongest of the warriors and the most talented commanders can overcome the hordes of Kreegans waiting for you.
+Do you wish to pass through?
+
+(85, 66, 1) ***Dungeon***
+
+Timed events:
+
+Name:
+231 - Orange AI - crystals
+Message:
+
+
+(83, 17, 1) ***Seer's Hut***
+Message:
+In the hut you meet a warlock and prepare to fend off an attack, but he has no intention of fighting.	“Leave me alone," he says. “I used to be a bigwig in Ordwald's domain, but I was forced to leave. I tried to flee to the continent, but I got lost and ended up in tunnels that led me to Eeofol. Mutare's henchman, Dace, has traveled here to capture me, and I cannot leave this cave while he is prowling around.”
+The warlock is still here, and it's better not to bother him if you needn’t to.
+“You say Dace was defeated and ran off to Nighon in disgrace? Finally! I have something to thank you with—I took some of my fortune with me when I fled. Take these crystals; I believe you'll find them useful.”
+“I could now leave these caves, but to start a new life, I would need a couple of items I had previously possessed. I took them with me when I fled Nighon, but I got attacked by monsters in the caves. I managed to escape them by a miraculous turn of events, but I still lost my cloak and cape. If you could find them, I would be very grateful.”
+The warlock is still here, and it's better not to bother him if you needn’t to.
+Great! Now I can leave these caves for good. I don't have any crystals left to thank you, but I'm willing to teach you magic.
+
+(3, 34, 1) ***Prison***
+Name:
+Horkos
+
+(9, 37, 1) ***Demoniac***
+Name:
+Xex
+
+(23, 99, 1) ***Overlord***
+Name:
+Luedro
+
+(31, 98, 1) ***Seer's Hut***
+Message:
+It is rumored that the hideout of the Forest Guard rangers who were sent here by Gelu is somewhere around. You have explored the caves carefully, but you have been unable to find the hideout. The Forest Guard are very good at covering their tracks. Perhaps one of their commanders knows how to find it?
+Your further searches for the hideout were unsuccessful.
+Stilbon didn't have much trouble finding the hideout—after all, he was the one who set it up in these lands to keep an eye on the Kreegan movement in Eeofol.	You notice humans and elves coming out of the shelter. Do you wish to speak with them?
+It takes months, even years to train a good marksman, but we are running out of time. Bring us some decent folk to replace us and 15000 gold to acquire sharpshooter bows, and we will train them to wield these bows in no time.
+Unfortunately, this amount is not enough.
+Do you want to pay?
+Bring us 20 Grand Elves and we will give them Forest Guard sharpshooter bows.
+This number of elves is not enough.
+Do you want to train your elves? 
+
+(20, 60, 1) ***Overlord***
+Name:
+Insaneos
+
+(25, 98, 1) ***Event***
+Message:
+
+
+(22, 98, 1) ***Pandora's Box***
+Message:
+
+
+(104, 101, 1) ***Overlord***
+Name:
+Broulg
+
+(83, 46, 1) ***Event***
+Message:
+
+
+(70, 24, 1) ***Dungeon***
+
+Timed events:
+
+Name:
+Orange AI - minus crystals
+Message:
+
+
+(4, 38, 1) ***Necropolis***
+Name:
+Darkness
+
+(0, 36, 1) ***Event***
+Message:
+
+
+(27, 92, 1) ***Event***
+Message:
+The other shore of the underground lake looks completely overgrown. It seems impossible to land there from a boat.
+
+(93, 41, 1) ***Event***
+Message:
+
+
+(107, 1, 1) ***Tower***
+Name:
+there
+
+(104, 1, 1) ***Tower***
+Name:
+hello
+
+(101, 0, 1) ***Tower***
+Name:
+Oh
+
+(70, 25, 1) ***Event***
+Message:
+
+
+(66, 8, 1) ***Event***
+Message:
+
+
+(54, 22, 1) ***Pandora's Box***
+Message:
+
+
+(10, 25, 1) ***Prison***
+Name:
+Taugarn
+
+(0, 35, 1) ***Event***
+Message:
+
+
+(5, 27, 1) ***Prison***
+Name:
+Miseria
+
+(3, 27, 1) ***Prison***
+Name:
+Kydoimos
+
+(1, 27, 1) ***Prison***
+Name:
+Athe
+
+(1, 25, 1) ***Event***
+Message:
+
+
+(3, 25, 1) ***Event***
+Message:
+
+
+(5, 25, 1) ***Event***
+Message:
+
+
+(10, 23, 1) ***Event***
+Message:
+
+
+(3, 32, 1) ***Event***
+Message:
+
+
+(6, 32, 1) ***Event***
+Message:
+
+
+(11, 33, 1) ***Event***
+Message:
+
+
+(14, 33, 1) ***Event***
+Message:
+
+
+(17, 37, 1) ***Event***
+Message:
+
+
+(3, 40, 1) ***Event***
+Message:
+
+
+(3, 42, 1) ***Event***
+Message:
+
+
+(8, 40, 1) ***Event***
+Message:
+
+
+(8, 42, 1) ***Event***
+Message:
+
+
+(7, 42, 1) ***Demoniac***
+Name:
+Polemos
+
+(13, 40, 1) ***Event***
+Message:
+
+
+(13, 42, 1) ***Event***
+Message:
+
+
+(18, 40, 1) ***Event***
+Message:
+
+
+(18, 42, 1) ***Event***
+Message:
+
+
+(95, 37, 1) ***Event***
+Message:
+
+
+(53, 58, 1) ***Event***
+Message:
+
+
+===== End of file =====

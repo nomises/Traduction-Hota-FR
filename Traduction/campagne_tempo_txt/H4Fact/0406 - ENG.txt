@@ -1,0 +1,753 @@
+===== Map name =====
+Tarred and Feathered
+
+===== Map description =====
+Henrietta and Wynona must defeat Pactal and conduct the ancient ritual to spawn the mysterious Crimson Couatl. Your heroes are limited to the level 24, but they will bring their experience and the Admiral’s Hat to the next scenario.
+
+===== Rumors =====
+
+Name:
+Pactal's Tribe
+Text:
+Pactal and his tribe have conquered most of this archipelago's islands.
+
+Name:
+Couatl Hunt
+Text:
+Pactal’s tribe hunts couatls, and there are almost none left on the islands. They say the rest are hiding underground.
+
+Name:
+Basilisk/Gorgon Lairs
+Text:
+On our islands, basilisks and gorgons prefer to make their lairs in caves.
+
+Name:
+Researcher of Amberlian Empire Ruins
+Text:
+A researcher from Jadame was seen on the western island near the ruins. He appears to be studying ancient artifacts.
+
+Name:
+Crimson Couatls
+Text:
+Crimson Couatls were last seen several centuries ago. Only one tribe knows the secret of breeding them.
+
+Name:
+Serpentmen
+Text:
+Many of the ancient temples on these islands were built by serpentmen in ancient times.
+
+Name:
+Slavers
+Text:
+Slave traders and pirates are visiting these islands more and more often, taking advantage of the strife between lizardman tribes.
+
+Name:
+Slave market
+Text:
+The slave traders set up their camp very close to here. Even some couatls have been spotted in their cages!
+
+Name:
+Dagdaro
+Text:
+The warlock Dagdaro settled in one of the volcanic caves. They say he studies the captured couatls and plans to use them to create awful monsters.
+
+Name:
+Areshrak
+Text:
+Areshrak is Pactal's right-hand lizardman. Some people assured me that his hunters even managed to subdue some rusty dragons!
+
+Name:
+Ha'Ora
+Text:
+The witch Ha’Ora was last seen in the caves. She alone knows how to summon ships with spells.
+
+Name:
+Pyramid Island
+Text:
+Once every century, the island of the Great Pyramid rises from the bottom of the sea. Hurry up, otherwise it will be too late!
+
+Name:
+Stoic Watchman Hint
+Text:
+Treasure can sometimes be found in the hollows of large trees.
+
+Name:
+Dagger Wound
+Text:
+Another tribe of lizardmen dwells on the Dagger Wound Island, situated far to the east, on the other end of Ifarine Sea. 
+
+Name:
+Mist
+Text:
+West of here, in the Eastern Sea of Enroth, lie the Misty Isles, one of the greatest hubs of magic mastery in the world.
+
+===== Timed events =====
+
+Name:
+AI - minus res
+Message:
+
+
+Name:
+AI - bonus gold, wood, sulfur
+Message:
+
+
+Name:
+Expedition
+Message:
+I don't really know what hopes I had when we set out on this expedition. Flying in the sky felt just so thrilling to me... Everything about it seemed magical, and the land below appeared amazing and mysterious, even if it was a lifeless, bare, eggshell-like wasteland. And here, on these islands... I guess I was expecting to see something extraordinary—but once the crumpled blue sheet of sea beneath us ended and we began soaring over the jungle, I just couldn't see anything anymore. All I could make out was some muddy greenness, almost entirely hidden beneath clumps of damp fog. Silence. Clouds above and a billowing haze below. For days, Wynona had been telling me excitedly of the natural wonders she had once seen on the Dagger Wound Islands across the sea, but now even she appeared sad and quiet. Given such low visibility, we couldn’t even chart maps.		Our airships' propellers thrashed through the humid, sticky air, surely and with a good rhythm. The one we rode on was a new, mass-produced model, with thick fabric ballonets and reliable engines powered by liquid fuel distilled from ground oil. Frederick could barely contain his admiration as he showed me the first batch’s lead ship, his eyes glistening; it had been a long time since I'd seen him like this. Probably not since we lived back in Eeofol. He was shaking his fist frantically and rambling on about how this model didn’t require any priceless magical artifacts and would thus revolutionize life on our planet; how Enroth had shrunk to the size of an orange overnight; and how getting to another continent would soon be as easy as taking a pony cart to the next village for the fair. Except we had yet to do reliability, resource, and range tests first... I had, that is. With this caravan. And, of course, anything could happen to us on the road—but I really didn't mind. 		The more land fell under Burton's control and the farther away new factory towns grew, the less often I was able to personally go out on recon missions, and the more time I had to spend studying scout reports, making plans, and talking to other decision-makers. Practicing in war games with my subordinates, too... yes, scouts were considered part of the armed forces of the New Land Commonwealth—that’s how the union of our cities was named in official documents. Terra Nova—words from some forgotten language of the scribes. I don't know how or from where the knowledge of it spread, but it was becoming more and more common lately to hear words or whole phrases in this solemn-sounding tongue among the artificers.		"Regia solis erat sublimibus alta columnis," I muttered to myself, trying to make out anything down below. Something about the manner of our flight had changed ever so slightly in the last hour, as if the ship was having a hard time maintaining altitude, and the whirring of the engine had become kind of strained. The sailor on watch came up to me, his dirty face looking worried.		“Chief, the ballonets’ fabric is sucking up water like a pump. It's too wet in here. We're losing altitude, and the fuel’s barely burning; the smoke’s chock full of soot.”		“Roger that, Boris. You go see what's going on with the thrust bearings; something is creaking in the shafting. And I...”		The next minute, an arrow hit the deck between us. I darted to the side; as we talked, our ship had lost so much altitude that our keel was almost scraping against the treetops! Only now could I make out a thing in this green sea. A mess of tall, crooked, twisted trunks, like a hedge. Over the muffled coughing of the engine, the sounds of the land rumbled: rustling, gurgling, chattering, squeaking... and I swear I could hear crazed cries coming from hundreds of mouths, as well as the roaring of some very big creatures. Arrows were flying out of the forest; most were launched with not nearly enough force to reach our ship, but a few did hit the sides and deck. Heavy, long, sharp arrows with motley plumage.		“Dump the ballast! Now! We've got to gain altitude!" I shouted and rushed down to the faucets on the lower deck. We had taken on water as ballast, and now it had to be let out.		As I went down the gangway—facing forward, as Boris, a seaman with decades of experience, had taught me—huge shadows flickered around our ship. I heard growls, hisses, the shouts of my frightened crew, and finally, the crackling as our balloon tore. Just moments earlier, we were still flying—granted, we were losing altitude and barely moving the propellers, but still waddling through the air—and now we were going down. No idea where to. No idea how far the ground and what is down there. All I wanted was to survive this.
+
+Name:
+Snakes and Dreadnoughts
+Message:
+What a surprising place this was. No, not pleasantly surprising; quite the opposite. Many of us, the survivors of the crash, might not have made it even to the next morning; this damp, reeking forest felt not merely hostile, but plain full of hate towards us, as if in retaliation for our airship having made a huge clearing in the crash, knocking over dozens of giant trees—I couldn't even begin to imagine how old they were. Luckily, the wood of these giants was moist and soft; they broke upon colliding with our ship’s strong hull and slowed down our fall, helping us involuntarily to make a relatively soft crash landing. Alas, there were fatalities. Six crew members had gone missing—probably fell overboard during the fall. Wounds and contusions claimed the lives of another four. In the first hours after the wreck, we lost two more sailors—some swift beast dragged one off into the bushes and we never saw him again, and the other got bitten by a snake he failed to notice in the grass and died almost instantly.		“Attention here! Back away from the bushes and trees, immediately! Anyone who doesn't have a job assigned, go to the ship and stay there!” Wynona's voice rang out. 		I had banged my head pretty hard against the bulkhead during the fall, so I was lagging behind on my commands, not to mention that I had not the slightest idea what to expect from this place. Hadn't it been for my unexpected companion and her vast knowledge, our expedition might have ended this very night, for the simple reason of all its participants’ death. But no: while I was coming to, the dark elf was all action, showing the men which trees could be cut down and which ones should never be approached, where and from what to make fires, how to tie and trim clothes to prevent dangerous small critters from reaching the body, how to coerce thirst-quenching liquid out of thick snakelike vines, and whatnot. 		My vision was blurry, and it looked as though there were three or four Wynonas running around the camp at once, barking orders, encouraging, slapping the slow learners, swinging axes, and blowing up stinking smoky bonfires to keep insects away. At length the elf, puffing noisily, plopped down beside me on a log. In her hand there was an outlandishly disgusting-looking centipede—Wynona was biting through its shell rings and sucking something out with gusto. Hadn't I hurled back while we were still falling, I surely would do it now—though it would seem that anyone who had enjoyed eating freshly taken out armadillo liver, still hot, with its earthy and iron-like aftertaste, should not be sheepish about any kind of exotic outdoorsy food.		“How you feeling, commander? Let me take a look at you. Oh, your eyes are all red, not a good sign after a head injury.”		“I'll live, thanks. It'll pass. I'm not dizzy anymore, and, uh, not even nauseous.”		“Well, thank the gods for that. Listen, we can't stay here. We've crashed in the worst place imaginable—there's a huge anthill nearby, and next to it, some “witch cauldrons”—those are pits brimming with snakes. And just about everything I've seen here—at least what I've recognized—is as poisonous as my ex-mother-in-law's tongue. Back while we were still up, I saw a cleaner, drier area to the east of here.		“So that's where we'll head. Thank you. If not for your knowledge and skill, we’d…”		“Don't mention it. I knew this could happen, and that's another reason why I asked you to take me on. By the way, I saw something else—might be important. Remember that huge, bloated bubble of a ship that flew behind us?”		”Yeah, that's an experimental cargo model. It's got two nacelles, one for the engine and one for the hold.”		“Now listen: I saw this hold section fall off from its balloon and come apart in the air, and from it some metal hulks fell out. That ship was already flying pretty low when it happened. If those things are good for anything, we can go look for them—they may have survived the crash. I think we should check north of here.”		“Really?! Those are the dreadnoughts! We requisitioned them for our expedition so that they’d help us haul heavy loads when and if we decided to make a permanent camp. Well, camp or no camp, we could really use these machines right now. What if we get another visit from those... birds? Lizards? Whatever those flying things that got us in this pickle are. Let's see how they like some heat ray treatment!”
+
+Name:
+Tlamac Hundred Thoughts
+Message:
+These woods feel way too weird. I've long stopped fearing the dark and unfamiliar sounds, but here, when I'm standing night watch by the fire, something makes me feel very uneasy. It's as if someone’s trying to read my thoughts and put someone else's in my head...		Tonight I took over Wynona's watch right before dawn. Just when you feel the most sleepy... In a bid to perk up, I took out the instrument an old mechanic had made me. Back as a kid, I had tried to learn to play the whistle, a reed flute any child in Eeofol could get happy or dreamy tunes out of. Alas, I had no ear for music at all. I couldn’t even play the easiest song of them all, one about the silly toad, that the tiniest kids aced without any trouble. Other children would mock me, I’d get angry and lash out at them, and so it went...		I heard the sound of this instrument one night in Burton. It was odd and unlike anything I'd ever heard before; it spread over the wasteland like circles on water, and my heart fluttered to the sound. To my delight, playing it didn't require knowing notes by ear; Rougar, a master at everything he did, was happy to show me how to play it, and made a smaller one for me. He called it a jaw harp.		I held the harp to my teeth and touched its tongue lightly. Zunnng… The sound flew over the clearing where we were camped. I sensed right away that something strange and unexpected was happening, but I couldn't help myself. The dark patch of forest produced a tall, vague figure; it walked toward me, as if fluctuating in resonance with the sound.		“I greet you, little woman. Once in a lifetime, a shaman can see the future—and recently it was revealed to me that you would come and turn my fate around. Well, I did not know it would be you exactly; but you hold the Song of the Spirits, the messenger who delivers our prayers to the gods. There can be no mistake: it was you I was waiting for.”		The voice felt as if it sounded not in reality, but right inside my head. I was now seeing more clearly; an imposing Lizardman stood before me, girded with a tarnished, heavy gold chain. They say that lizardmen never stop growing their entire lives—and, well, I'd never seen a giant like this before. He was incredibly frail, though, the webbing of the outgrowths on his head saggy and his teeth worn down. I realized that he was not a warrior of unprecedented power, but simply a profoundly old lizardman.		“Tlamac Hundred Thoughts is my name. If you don't mind, guest, I will come see you every now and then and tell you stories about myself, my people, and this place. I sense that you are hungry for knowledge, and I know you will need it if you are to survive here and find what you so desire.”		“What I… desire?”		“You are lonely, little woman. You may not know it yourself, but your heart doesn't want to be alone. You fear that you may have misjudged those you have come to think of as close ones, and you may well be right. Fear not; you have already found a friend in me, and you will find new ones. Some close by, and others in places where... But we'll talk about that some other time. Come meet me in my hut. I will tell you what you will find in these lands and help you understand how.”		I blinked a few times, speechless, and when I opened my eyes wide again, there was no one there. Just the dark forest and the glow of the fire. I looked back. Wynona was standing a few feet behind me.		“Did you see that? Did you see him?! The one I was talking to?”		“Hmm. Well, I definitely saw something. Mind telling me what it was? Or who? And what was that strange music? I swear, it was all I heard the whole time—not a single word. And you know I trust my ears.”
+
+Name:
+Tribes of Lizardmen
+Message:
+Tlamac Hundred Thoughts spake:		Everyone in these woods has their own brand of truth. Legends say there are places where life is very different... and now that I know you, I believe that to be true. Now, when your entire world is death, who will always be more patient than you—today or tomorrow, you will surely fall its prey... But until you do, you will do anything to carve out your own little spot under the sun. The tribes have been feuding for about as long as we can remember. Once upon a time, though, we were peaceful. We knew our ways to survive in these woods—to find food and a place to sleep and breed safely. We had nothing to quarrel over… until there were too many of us. 		My tribe was called the Stone Children then—we ventured upon some deep caves beneath the Blue Claw cliffs, cool and dry, and settled there. Our women gave us strong and numerous children, and it was easy for us to fend off predators and enemies there. Those not fortunate enough to find such a safe haven continued to live the old way: roaming the forests and cherishing every day on which no one died or got eaten... and within their hearts there grew jealousy and hatred for those who were able to break the eternal cycle. For us. 	There was no unity among them; there were several tribes, each with its own leader and its own customs and ways. And there had already been blood spilled between them… yet there was one who gave them a common goal for the time being. They knew they would be at each other's throats before long, but Tepotl Hollow Eye convinced them that they had to first stand shoulder to shoulder and wipe out the insult to the very essence of our kin. Us, Stone Children.
+
+Name:
+Couatls
+Message:
+Tlamac Hundred Thoughts spake:		Back in those days, warriors knew honor. We could have stayed in our caves, protected by their walls. Still, chieftain Pichi Red Cloud led his army out above ground and began to prepare for battle. Our warriors were strong and skilled with sword and club... but Tepotl had the bows. One of his eye sockets was empty—it was said that he got his eye torn out by the claw of a great feathered serpent. No one had ever survived a meeting with this creature, the strongest and most dangerous being of our legends—the Couatl. It really made no difference whether Tepotl had indeed fought one or had simply made up a tall tale to inspire awe in others. His other eye saw well, too well. Not only had he mastered this insidious weapon himself, but he had also trained several hundred warriors. Their bows were weak and they were poor shots, yet still they took out half of our best warriors even before they reached their ranks.		Each of our men fought as if he were possessed by the spirit of Quetzal himself, but it was not nearly enough. They fell, and a dozen enemies pounced upon each one who did, tearing our tribe’s finest limb from limb, devouring their hearts, defiling and pillaging their bodies. The battle was not yet over, and already the strife had begun among them; here and there on the blood-soaked field skirmishes and squabbles were flaring up. But the Hundred Crawlers, Tepotl’s bodyguards, all mighty giants, each of whom had cut out an eye to mimic his leader, kept coming at the remnants of our army. Before long, they were bound to break into our caves and put an end to the Stone Children. 		And then my ancestor, the great shaman Hoatzin Rock Mind, did what he had been preparing for all his life. He plunged a knife into his chest, chanted a spell, and turned his mind to the Great Serpent. His son, Xochi, yet to earn himself a proper shaman’s name back then, pulled the blade out of his father's body, and the gushing blood sparkled red rainbow in the rays of the setting sun. From the heavens came a many-voiced roar. The Couatls accepted Hoatzin's sacrifice and fell upon our enemies.		Bloodied Feathers. That was the name the remnants of my tribe took after that battle. The Feathered Serpents bathed in the blood of the Crawlers and their allies, and my kin dedicated the future of the tribe to their saviors. There were too few survivors in Tepotl's army to continue living on as separate tribes. They have been called the Nightcrawlers ever since, and their whole life is tracking and hunting us and our living gods.
+
+Name:
+Pirates and slavers
+Message:
+Tlamac Hundred Thoughts spake:		A hundred great turns of the firmament ago, we believed that our islands were the whole world and that we, the Bloodied Feathers, were its rulers. Since then, we have learned many things that have shattered our ideas as to the order of the universe... In olden times, we shied away from the Bitter Waters, as they burned our skin, and only dire need could make us board our chiseled boats and travel between the islands. After the feathered gods came into our lives, we could ask them to carry us across the waters, and we were no longer afraid to travel. However, we never saw any other land than our own, even if we flew up into the sky, hugging the neck of a Couatl.		Even long after we left the Halls of Blood, we never suspected that there were other sentient beings beyond the Bitter Waters, though our legends had it that there was another land somewhere, inhabited by those like us, and that the kin of our gods dwelt there as well. We remained ignorant until an enormous boat came to our shores, one like we had never seen before. Strange, bare trees grew straight out of it, and huge, tattered cloths hung from their branches.		We watched the beings who had gotten off the big boat. Their stay at the islands was not long; they cut down a few trees, trimmed them, fitted them to the holes in the sides of their vessel, and sailed away. I spent several weeks thinking about what I had seen and trying to explain the event to my tribesmen, but there was not enough time to form an opinion about the creatures I had seen. One day, several boats like the first one appeared at sea; three of them carried black cloths, and two others, dirty and sluggish, looked somewhat different. They were propelled by long oars. That day, I realized that outside our land there was no peace. Of course, it would be ridiculous to hope for that; sentient beings always have scores to settle with each other, and the more of them are living nearby, the stronger the desire to go for it. Several dozen bound men were brought to shore from the oar-boats. 	Others, like those who had come here the first time, made pens of logs, and the prisoners were placed there, urged on with blows and kicks. After a few days, other boats came and took them away, and ever since then, the ships would keep coming and going, and there was never a shortage of living goods in the pens.		In the old days of the Bloodied Feathers, we would have never tolerated such neighbors. Our customs abhor imprisonment; we either kill a defeated enemy outright or release him if honor or higher considerations demand it. What we saw was repugnant to our whole being... but now we were weak and had to think of our future. To make new enemies whose strength and powers we had no idea of would be unacceptable. The eternal war with the Crawlers alone was straining enough... The uninvited guests never tried to get deep into our land, and we simply decided that we would avoid them. It was only much later that we learned that our enemies, much less scrupulous about their ties, had entered into dealings with the strangers.		A few years ago, I first saw creatures like you, little woman, among the slaves who were brought here on ships. Before I met you, I thought they were cubs; but now I realize that the slave traders had never brought any children here. Apparently, they cannot survive the journey across the Bitter Waters. There are a few like you languishing in the slave pens even now...
+
+Name:
+Crimson Couatls
+Message:
+Tlamac Hundred Thoughts spake:		The great serpents deigned to us and accepted us as their junior kin. Over time we learned more about how our saviors lived; they even allowed our shamans into the secluded valleys where they made their nests. To our great surprise, the synergy of the Creepers’ hot blood and Hoatzin’s magic gave the feathers of the Couatls who fought in that battle a permanent crimson hue. No one ever thought it was possible to change a god. No one could’ve imagined that a god could be made stronger—and not through prayer or sacrifice... 	The crimson-colored Couatls became different. They no longer waited for offerings, perched upon their nests with an aura of blessing about them; they went out to hunt for the hearts of our enemies. Unstoppable they were, their feathers throwing back arrows and swords, and their fangs and claws bringing death.		Blood, sorcery and heat. Xochi the shaman came to realize that what had happened on the battlefield could be reproduced. He spent his life trying to penetrate the mystery of this transformation. As he was dying, he gave his son an egg, over which he had been casting spells for years in a deep cave, smoky from the fires and reeking of rotten blood and cinders. The minute his spirit departed to meet Quetzal, a clatter was heard from within the egg. A new Crimson Couatl was about to see this world.		Three more generations passed. The Bloodied Feathers had left the caves where our tribe had survived everything—hunger, frost, raids of countless enemies, disease... We moved to a new underground city, next to a fire-breathing mountain. Its vast halls were roomy enough for the feathered serpents and hot enough to turn tending to the eggs with the Crimson Couatls into a task that even a shaman's apprentice could tackle. With such even, constant heat, all he had to do was turn them over from time to time, pour blood brewed with sorcerous herbs, and feed them his energy through long-learned incantations, the very ones that Xochi Serpent Brother had devised. We ruled over two-thirds of the islands, continued to push the Crawlers back and never suspected that fate was about to turn its uglier side towards us...
+
+Name:
+Tlamac's Story
+Message:
+Tlamac Hundred Thoughts spake:		We could no longer live wherever our gods were absent; each of the Bloodied Feathers needed to pray at least once a day, clinging to the body of a Couatl, or lose his strength. Lizardmen do not take well to intense, dry heat, but the grace of the great serpents was enough for ourselves to feel healthy. What was worse, our wives began laying more and more barren clutches... and even the scarce fertile eggs bore very few females. In just three generations after we moved to the Halls of Blood, our tribe had halved in numbers.		Chief Titipan Two Tails did what he had to do. He brought a curse upon himself, but he saved his tribe from degeneration. His band stormed the shaman's halls, slaughtered all who got in the way, and destroyed all the eggs, and then Titipan led the tribe out of the hot caves and back into the stone tunnels beneath the Blue Claw. In the days that followed, many died, unable to endure being separated from their lost gods. Among them was Chief Titipan himself; in his dying hours, he wept and begged the Great Serpent for forgiveness and mercy. Quetzal heeded his plea: those who survived were able to live on with the connection to the Couatls severed, without their blessings... but also without having to sacrifice their future for the sake of the present.		Titipan's bodyguards outsmarted not only the shamans but also the Couatls themselves. All they had in their souls was love and reverence, so the great serpents failed to sense danger when the warriors, who were hugging their necks and whispering the sacred words of worship, suddenly drew their long knives and slaughtered their gods in an instant—adults, young ones, new hatchlings, and the decrepit ones who no longer left their nests... Not a single lizardman who had raised his hand against a god survived even an hour afterwards; grief killed each one. There was only one tiny hall they had not found; no one knew of it except the direct descendants of Hoatzin and Xochi. In this hall, in a light twiggen knapsack, there lay a few eggs; Serpent Brother had willed his children to keep them here, no matter what happened or what hardships fell upon the tribe. A young shaman's apprentice, clutching a wound in his side, entered the hall, put the priceless load upon his back with a hiss, and slipped into a secret passage, which immediately collapsed behind him. It was a hundred great turns back. That apprentice's name was Tlamac. He stands before you today.
+
+Name:
+Halfling
+Message:
+We were walking along the path that Tlamac's friends had pointed out to us as a relatively safe one, even for those who had not spent their entire lives in the jungle. We could relax a little here; trying to stay on top of every rustle and shadow was profoundly wearisome, after all. I, however, could not afford such a luxury, as the commander must always be on the lookout. I had begun getting the hang of these woods, and many things previously hidden from me were no longer escaping my attention—but this time, I would have stomped by, never learning the most important thing in my life... if it hadn't been for Wynona. 		The dark elf's ear twitched, and the next instant she was leaping into the bushes with a dagger drawn. After a few seconds of tussle, she dragged out... a halfling. He was gray-haired, emaciated, and clad in some very sorry-looking rags. I examined his body and hands first, trying to decide if he could pose any danger, and only then did I look at his face. It was like a strike of lightning from Frederick's dynamo. A blast from the past. A memory I thought erased.		“Unc… Uncle Kett...?”		“I used to go by that, too... Moonchild?!”		“Kett! It's me. Me! Henrietta! What moon child? Have you forgotten me?”		“How could one forget you? That's just what I'm saying. Never thought it'd be you who I’d see before croaking. Just hoped to tell someone. We're fighting. Not all of us have become demon meat yet. There's a war going on.”		“What war? The devils are upon someone again? I heard they had gotten served in Erathia. And who's ‘we’?!”		“We... the ones who stayed behind when you left. Some call us guerrillas, others like ‘cave rats’ more... heh, heh, damn right, we do bite. And when we do, it stings. And you… ohhhh.”		“Uncle Kett! What's wrong? Wynona! He's barely breathing!”		“Look here, Henrietta. This wound... and this one... If there was any time at all, I could try to drain the infection out of them and reconnect the vessels. I'm sorry, but it's too late now. He's dying. Here’s all I can do...”		Wynona gave the agonizing man a whiff of some elixir, and his eyes opened. Gasping, the halfling mumbled:		“Listen to me, Henrietta... Erathia and AvLee have invaded Eeofol and are fighting the devils. We wanted to help, so we gathered everyone who could hold a weapon, from all our hideouts. Our squad attacked a coastal town of the Kreegans—we snuck in there through an undercroft, and then we got betrayed. Olema, the cursed half-breed... sent those who survived the battle to Kreelah, for Lucifer’s pleasure, but the ship got sunk by pirates... I made it out alone...”		Kett started wheezing horribly and rolling his eyes back. I grabbed his head and gave him a shake:		"Uncle Kett! Unc… Please, breathe, don't go... Your squad? Were there others? And all of them died?”		“Ahhh… Moonchild... How good to have seen you... Please do forgive. I beg you for everyone who... Your... your mother's name was Auna. Ask Tavin about her…”		“Tavin? Tavin's alive?! Kett! Kett!”		“He's gone, my friend. Let him rest. He earned it”.		I sat on the ground with the old man's head in my lap, swallowing bitter tears. There were no words.		“I think I know where we're going when we get off these islands.”		“Wynona, I–”		“You know it full well yourself. I've only known you a short while, but I've learned a lot about you. Your heart is where you were born. Eeofol has lived on in your soul all these years. I don't know that place, but it must be beautiful. To bring freedom to your land—what a goal for a true warrior!”		“You think I'm a warrior too?”		“‘Too’? You mean there are others who say so? Well, then it's time to accept your calling.”		“I need to think about it. Maybe Tlamac can help me understand myself…”
+
+Name:
+Pactal's Lair
+Message:
+Tlamac Hundred Thoughts spake:		Pactal Child Eater is a great leader. Surprised to hear me talk of him so, aren’t you? I am simply way too old to let hatred cloud my judgment. He is strong and flexible, as hard and sharp as a bloodsucker frog's tooth, but his mind is malleable and receptive to anything that might benefit his tribe. Your airboats were attacked by his wyverns—I don't know where Pactal found them, and he certainly doesn't worship them like we worshiped the Couatls... but somehow he's managed to levy these powerful creatures, unheard of in our lands, into his service, and not just them. He was able to make fighters out of the dogheads, who we always thought of as vermin unworthy of even a kick—an angry shout was enough to make them scuttle into the bushes. His warriors sail between the islands in ships, fight in formation, wield weapons and use implements I have never even heard of, and he himself suddenly pops up here and there, and never sleeps in the same field camp two nights in a row. As if he were able to see into his enemies' plans two steps ahead. I do know something about him, however...		Pactal wants to claim all of the islands—if not for himself, then for his son. A few years ago, he stole the clutch laid by the fifth wife of the Bloodied Feathers’ old chieftain, but contrary to his custom, he left some of the eggs uneaten. He is raising one of the girls, intending to marry her; children by her will be his key to unlimited power over all the lizardmen of our islands. And I am not convinced that it would be a bad future for my kin...		Anyway, if you are determined to snatch the Hollow Eye from Pactal, you will have to find the place where the Child Eater is keeping his future wife. Surely that's where he spends all his time between his campaigns. Old Tlamac has friends among the unseen spirits of the woods and marshes. Listen to what they told me…		Only the select few Pactal has no doubts about can enter his lair. Those are the commanders of his guard, and there is also one pirate captain, the one who sold him the Hollow Eye, who enjoys such trust. Fortunately for you, the lizardmen have a very poor memory for human faces... They recognize the captain by his shield and trident, both intricate artifacts of great power. I think you could try to find similar ones. If one of your warriors appears before the guards brandishing them, they will take him for the captain and allow him to enter. They will demand that the artifacts be handed over to them for safekeeping, but at that point, that will no longer matter.
+
+Name:
+Pactal Warning
+Message:
+One of the lizardmen who has been fighting for you for some time has brought you disturbing news. Our actions could not have gone unnoticed by Pactal. If this goes on, in a couple of months he will leave his lair to attack us and force us to fight on his own terms. Besides, some islands and caves might then become inaccessible to us.
+
+Name:
+Endgame Warning
+Message:
+One of the gnoll scouts reports that Pactal has left his lair, and his forces are larger than ever before. But that is not the worst. The events of the last few days indicate that the volcano on the central island is about to awaken. If it happens, the caves in the depths will be flooded with lava and it will be impossible to conduct the ritual.
+
+Name:
+Warning 2
+Message:
+Lizardmen and gnolls from a nearby island have arrived today. Apparently, they fled from there headlong, scared to death by something. After much questioning, we realized that the volcano on the central island is showing alarming signs; it may wake up soon.
+
+Name:
+Warning 3 (final warning)
+Message:
+I had a chance to talk to one of Tlamac's disciples today. He conveyed the old shaman's words: the volcano should awaken no later than a week from now. If we don't bring the Hollow Eye to Tlamac by then, our time will run out.
+
+Name:
+Dead end
+Message:
+Early in the morning, we were woken up by a rumble coming from the island where Areshrak's fortress once stood. There is no doubt that the volcano has woken up, and the underground caves are flooded. We have no place to perform the ritual now, and there is nothing else for us to do on these islands. Our time is up.
+
+===== Heroes =====
+
+===== Objects =====
+
+(29, 66, 0) ***Fortress***
+
+Timed events:
+
+Name:
+Blue AI - 142 - Tavern
+Message:
+
+
+(15, 101, 0) ***Cove***
+
+Visiting Knight:
+Name:
+Steed
+
+Timed events:
+
+Name:
+Pink AI - Castle
+Message:
+
+
+Name:
+Pink AI - bonus
+Message:
+
+
+(49, 21, 0) ***Fortress***
+
+Timed events:
+
+Name:
+Blue AI - 332 - Shipyard
+Message:
+
+
+(30, 67, 0) ***Beastmaster***
+Name:
+Ksharek
+
+(11, 74, 0) ***Seer's Hut***
+Message:
+A few months ago, my mage friends and I came from the continent to study these islands. Rumor has it that there are magical orbs here, capable of amplifying Water magic spells. These orbs were created by the civilization that ruled over these islands before the lizardmen even settled here. Our search has been fruitless so far, but I'm sure they're here. Bring me one of these orbs and I will trade it for a scroll with the Clone spell.
+I haven't located the orb yet. Perhaps you should look in the caves or in Couatl nests?
+This orb is just what I need!
+You kept your end of the bargain, and I'll keep mine.
+I don't trust you. You're not a dark elf!
+Would you like to trade the orb for a Clone spell scroll?
+
+(19, 106, 0) ***Sign***
+Message:
+Mercenary Guild Outpost
+
+(9, 57, 0) ***Seer's Hut***
+Message:
+See these ruins? They are all that’s left of a long-lost empire that once ruled the southern shores of Jadame. I came to these islands to study the artifacts created there in the olden days, but these islands are positively crawling with bloodthirsty savages, slave traders and pirates. Were I a stronger man, I could’ve gone exploring these parts, but I'm old. What can I do? The artifacts I'm interested in are the Elixir of Life, the Bow of the Sharpshooter, and the Wizard's Well. My students have been trying to track them down for a long time, but their only finding thus far is the fact that the artifacts have been broken up into several pieces over the centuries past. Unfortunately, I have never been able to locate most of these, but the Vial of Lifeblood lies in the hands of a seer who lives in the caves near the warlock’s lair.
+Unfortunately, it is the Elixir of Life, the Bow of the Sharpshooter, and the Wizard's Well that I need. No other artifacts can help in my research.
+These artifacts are exactly what I need! Would you be willing to give them to me?
+In the olden days, before I became interested in ancient ruins, I was an instructor at a military academy. You've been a great help, so I'm ready to teach Henrietta what I know.	
+I thought I made it clear that I would only talk to Henrietta.
+I can train your troops in defensive techniques. Would you like them to take the training?
+In the olden days, before I became interested in ancient ruins, I was an instructor at a military academy. You've been a great help, so I'm ready to teach Wynona what I know.
+I thought I made it clear that I would only talk to Wynona.
+I can train your troops in defensive techniques. Would you like them to take the training?
+
+(81, 99, 0) ***Sign***
+Message:
+Eel Island
+
+(41, 47, 0) ***Lizard Warrior***
+Message:
+Pactal took us by surprise, but refused us our honorable death in battle. We were entangled in nets and sold like meat. Shame, what shame! There is no way to rid ourselves of it; all we can do now is trade our lives for revenge on the one who disgraced us so. Will you give us that chance?
+
+(58, 34, 0) ***Ayssid***
+Message:
+Obeying the commands written on the parchment the slave trader gave you along with the bill of sale, the Ayssids soar down from their high perches and land around you. Clearly well-trained, the creatures are awaiting your orders.
+
+(60, 37, 0) ***Halfling***
+Message:
+Now that’s some encounter! And here I thought the stories of anyone escaping from Eeofol during the Devil invasion were just tall tales. 		Us? We're from the coast. There's a mountain range between us and the land the red mugs took over, so they never made it to our parts. There are only two villages of us there… or should I say, there were. No one knew about us, and we were keeping a very low profile for years, but a moon ago, some crud of a wind dragged a pirate schooner into our cove. Those scumbags snatched us up and stuffed us in their hold; whoever didn't fit in, got killed. I know you don’t care for these stories—but wanna know an amazing thing? There was already a halfling sitting in the hold. Well, most of the time he was lying there, delirious from his wounds. We could only find out that his name was Kett; he was not from our parts, but had gotten snapped up somewhere in Eeofol. When the schooner called here and we got kicked out of the hold, the captain's paperwork didn't add up. They recounted us ten times, but each time one was missing. 		In the end, that fat pig who’s in charge here spat and agreed to take us “as is.” We later counted ourselves, and Kett was gone. Escaped? Fell off the gangplank and drowned? Don't know. Don’t care. Just want to make it out of here alive. Will you take us on?
+
+(54, 43, 0) ***Seer's Hut***
+Message:
+The slave traders disgust you. You'd love to tear down their base and hang them all from the trees, but you remember Tlamac's words: the old shaman asked you to avoid bringing more trouble upon his tribe or dragging it into new strife while it was threatened by the ruthless Pactal. In a hut with a crooked inscription that reads "Manpowa for evry taste and poket" sits a fat, sly-faced man dressed in brocade and velvet—either a retired pirate or a scoundrelly merchant. 		“Ah, so good to see new faces in our humble trading post! I hope to see you back as regular customers, as our offerings are regularly replenished with the most choicest goods. Today I have for you three lots: Ayssids, a direct delivery from Solendore, who personally catches them on some sea cliffs; Couatls, a local specialty, excellent for arena fights; Lizardmen, a group of some local prince’s bodyguards, very skillful archers. Oh yes, I almost forgot: there are also a few halflings—delivered just recently, a little skinny and ragged, but gods, are they ever handy with their slings! Any lot is only 5000 coins and 10 gems. Once you pay, I'll give you a bill of sale and a token to show to the guard at the pen."
+The slave trader is still amiable but unwavering:	“Charity is the remit of our board of directors. I am not authorized to. Coin and gems—I'm sorry, but I can't accept anything else.”
+The peddler, smiling cloyingly, extends a meaty palm:	“Overjoyed to see our goods have attracted your attention. Here, I've prepared the paperwork and the token—are you ready to pay?”
+The slave traders disgust you. You'd love to tear down their base and hang them all from the trees, but you remember Tlamac's words: the old shaman asked you to avoid bringing more trouble upon his tribe or dragging it into new strife while it was threatened by the ruthless Pactal. In a hut with a crooked inscription that reads "Manpowa for evry taste and poket" sits a fat, sly-faced man dressed in brocade and velvet—either a retired pirate or a scoundrelly merchant. 		“Ah, so good to see new faces in our humble trading post! I hope to see you back as regular customers, as our offerings are regularly replenished with the most choicest goods. Today I have for you three lots: Ayssids, a direct delivery from Solendore, who personally catches them on some sea cliffs; Couatls, a local specialty, excellent for arena fights; Lizardmen, a group of some local prince’s bodyguards, very skillful archers. Oh yes, I almost forgot: there are also a few halflings—delivered just recently, a little skinny and ragged, but gods, are they ever handy with their slings! Any lot is only 7500 coins and 10 gems. Once you pay, I'll give you a bill of sale and a token to show to the guard at the pen.
+The slave trader is still amiable but unwavering:	“Charity is the remit of our board of directors. I am not authorized to. Coin and gems—I'm sorry, but I can't accept anything else.”
+The peddler, smiling cloyingly, extends a meaty palm:	“Overjoyed to see our goods have attracted your attention. Here, I've prepared the paperwork and the token—are you ready to pay?”
+The slave traders disgust you. You'd love to tear down their base and hang them all from the trees, but you remember Tlamac's words: the old shaman asked you to avoid bringing more trouble upon his tribe or dragging it into new strife while it was threatened by the ruthless Pactal. In a hut with a crooked inscription that reads "Manpowa for evry taste and poket" sits a fat, sly-faced man dressed in brocade and velvet—either a retired pirate or a scoundrelly merchant. 		“Ah, so good to see new faces in our humble trading post! I hope to see you back as regular customers, as our offerings are regularly replenished with the most choicest goods. Today I have for you three lots: Ayssids, a direct delivery from Solendore, who personally catches them on some sea cliffs; Couatls, a local specialty, excellent for arena fights; Lizardmen, a group of some local prince’s bodyguards, very skillful archers. Oh yes, I almost forgot: there are also a few halflings—delivered just recently, a little skinny and ragged, but gods, are they ever handy with their slings! Any lot is only 10000 coins and 15 gems. Once you pay, I'll give you a bill of sale and a token to show to the guard at the pen.
+The slave trader is still amiable but unwavering:	“Charity is the remit of our board of directors. I am not authorized to. Coin and gems—I'm sorry, but I can't accept anything else.”
+The peddler, smiling cloyingly, extends a meaty palm:	“Overjoyed to see our goods have attracted your attention. Here, I've prepared the paperwork and the token—are you ready to pay?”
+
+(40, 8, 0) ***Event***
+Message:
+Bonus for Pactal
+
+(91, 15, 0) ***Quest Guard***
+Message:
+Several outlines of bulky machines can be seen in the jungle near the shore. They appear to be dreadnoughts that fell out of the airship.
+Do you want to take them with you?
+
+(94, 0, 0) ***Quest Guard***
+Message:
+Several outlines of bulky machines can be seen in the jungle near the shore. They appear to be dreadnoughts that fell out of the airship.
+Do you want to take them with you?
+
+(61, 64, 0) ***Pandora's Box***
+Message:
+
+
+(88, 22, 0) ***Couatl***
+Message:
+Tlamañ's Lizardmen were able to lure a few Couatls hiding among the trees. Would you like to take them with you?
+
+(50, 50, 0) ***Couatl***
+Message:
+These Couatls are bound with thick ropes so tightly that they resemble huge, motley-colored sausages. Feeling Tlamac's spell, they raise their heads and squeak plaintively, as if begging you to set them free.
+
+(82, 43, 0) ***Wyvern***
+Message:
+I immediately recognized the noises produced by the creatures hiding in the thicket. I'd heard them as we fell, and I'd never forget them. I'd rather kill those “dragons” here on the ground than face them again in the air.
+
+(1, 90, 0) ***Seer's Hut***
+Message:
+You meet a bearded sorcerer in a reed hut on the riverbank. He looks like a pirate, though.	“I have heard of you," says the sorcerer. “I came here with my colleagues, but they refused to help me in my research, so I left them behind. You see, the Regnan mages have accumulated a great deal of magical knowledge over the past centuries—but there are some spells we have never been able to perfect. One of them is Berserk. The Kreegans know how to increase the power of this spell tenfold, but they don't share their secrets.	 I've heard that the Nighon warlocks visited these islands recently. I don't know what they wanted here, but a few of the warlocks had the misfortune of running into the local monsters. They lost two valuable artifacts, the Tome of Fire and the Orb of Tempestuous Fire. Find them and bring them to me, and I will share the Scroll of Berserk with you.
+Where are the artifacts? No artifacts, no scroll!
+The bearded man looks at the orb and the tome in surprise.	“I can't believe it... This is exactly what it is!” mutters the stunned pirate. “Here is the scroll I was talking about.”	 Would you like to exchange the orb and book for a scroll of the Berserk spell?
+
+(29, 61, 0) ***Beastmaster***
+Name:
+Kenatoth
+
+(98, 91, 0) ***Seer's Hut***
+Message:
+A few months ago, my mage friends and I came from the continent to study these islands. Rumor has it that there are magical orbs here, capable of amplifying Water magic spells. These orbs were created by the civilization that ruled over these islands before the lizardmen even settled here. Our search has been fruitless so far, but I'm sure they're here. Bring me one of these orbs and I will trade it for a scroll with the Teleport spell.
+I haven't located the orb yet. Perhaps you should look in the caves or in Couatl nests?
+This orb is just what I need!
+You kept your end of the bargain, and I'll keep mine.
+I don't trust you. You're not a dark elf!
+Would you like to trade the orb for a Teleport spell scroll?
+
+(4, 36, 0) ***Fortress***
+
+Visiting Witch:
+Name:
+Xolo
+
+(93, 58, 0) ***Quest Guard***
+Message:
+Looking for a boat? You can have mine for mere 2,000 gold. There's only one problem; the thing is leaky. You'll have to repair it yourself.
+Looking for a boat? You can have mine for mere 2,000 gold. There's only one problem; the thing is leaky. You'll have to repair it yourself.
+Buy a boat?
+
+(105, 39, 0) ***Seer's Hut***
+Message:
+Come in. Now we will go to the cave beneath my dwelling, and I will introduce you to my friends. The soul-bonding ritual will be performed in our abandoned underground city, the Halls of Blood, northwest of here. For now, though, I can teach you how to forge a temporary bond with the Couatls. I will cast the minor enchantment on you, and you will need to show the great serpent a blood-colored crystal to help him sense a friend in you. I have two adult Couatls in my care now who I've nursed back to health after a confrontation with Pactal’s hunters. They will be delighted to help you track him down. Once you've taken the Hollow Eye from him, head for the Halls of Blood. I will be waiting for you there, and we will do what we are destined to do.
+Two huge, rainbow-colored feathered serpents emerge from the darkness of the cave and approach, attracted by the crystal's magical glow. They purr softly and stare at you with their golden eyes. Are you willing to accept their friendship?
+
+(71, 74, 0) ***Seer's Hut***
+Message:
+In the hut, you meet a sea witch—she came here from Regna with the pirates. She claims that gems with magical properties are found on these islands. Unfortunately, they are not so easy to get, and her fellow pirates do not intend to share their loot.		In exchange for 30 gems, the sorceress promises to share a “valuable artifact.”
+That won't do. I need 30 gems, and not one less!
+After counting the gems twice, the witch pours them into a pouch, and then hands you a magical necklace shaped like a dolphin.		Will you accept it?
+
+(48, 78, 0) ***Quest Gate***
+Message:
+The trees on this island appear very young. According to the locals, the island itself has only recently emerged from the sea. Not much is known about it, but there is an unusual pyramid there. The pirates have tried to get to it, hoping to find some treasure, but haven’t seen any success so far.	 As you approach the pyramid, you see a host of Tritons blocking your way. When you try to get closer, they shout something in an unfamiliar language, preventing you from moving any further.	Wynona has been all over Jadame and in quite a few places beyond. Perhaps she can find common ground with them?
+No other roads to the pyramid could be found, and the Tritons are still here.
+After a long conversation with Wynona, the Tritons reluctantly agree to let you pass. One of them, however, warns you that the pyramid is guarded by elementals and genies who will fight to death.
+
+(46, 78, 0) ***Quest Guard***
+Message:
+The Genies are defeated and the road to the pyramid is open.
+Do you want to pass?
+
+(47, 78, 0) ***Wizard***
+Name:
+Mallerio
+
+(45, 78, 0) ***Pandora's Box***
+Message:
+
+
+(57, 41, 0) ***Sign***
+Message:
+Slave market. Bother not to offer Gnolls or Serpentmen.
+
+(105, 1, 0) ***Seer's Hut***
+Message:
+In the hut you are met by a wizard—clearly not a local by his looks.	"Would you like to learn rare spells? Well, that I can help you with! I know the secrets of Teleport, but I need a book or scroll with this spell so I can teach it to you. I've heard dark elf mages haven't a shortage of them, but unfortunately, they don't like to share their riches."
+Unfortunately, I need the scroll. I can't help you without it.
+The sorcerer carefully examines the scroll.	"So you managed to get a hold of it! I have no idea how, but I don't really care. I can teach you the Teleport spell, but in exchange for this favor, I will ask you to give me the scroll. They are of great value, you know."
+In the hut you are met by a wizard—clearly not a local by his looks.	"Would you like to learn rare spells? Well, that I can help you with! I know the secrets of Clone, but I need a book or scroll with this spell so I can teach it to you. I've heard dark elf mages haven't a shortage of them, but unfortunately, they don't like to share their riches."
+Unfortunately, I need the scroll. I can't help you without it.
+The sorcerer carefully examines the scroll.	"So you managed to get a hold of it! I have no idea how, but I don't really care. I can teach you the Clone spell, but in exchange for this favor, I will ask you to give me the scroll. They are of great value, you know."
+In the hut you are met by a wizard—clearly not a local by his looks.	"Would you like to learn rare spells? Well, that I can help you with! I know the secrets of Prayer, but I need a book or scroll with this spell so I can teach it to you. I've heard dark elf mages haven't a shortage of them, but unfortunately, they don't like to share their riches."
+Unfortunately, I need the scroll. I can't help you without it.
+The sorcerer carefully examines the scroll.	"So you managed to get a hold of it! I have no idea how, but I don't really care. I can teach you the Prayer spell, but in exchange for this favor, I will ask you to give me the scroll. They are of great value, you know."
+I don't remember if I told you this before, but I know the secrets of the Resurrection spell. I don't mind to teach you this spell, but unfortunately, that'll take a scroll, and I hear that even the dark elves don't have any. There are rumors, though, of a certain warlock from Nighon who has set up lab in the caves here. Perhaps he might be willing to part with a scroll or two? Or not. In any case, I've heard that this warlock used to study resurrection magic.
+Unfortunately, I need the scroll. I can't help you without it.
+I won't even ask how you managed to get your hands on this thing. Would you like to learn the Resurrection spell in exchange for the scroll?
+
+(38, 42, 0) ***Seer's Hut***
+Message:
+In a pile-stayed hut in the middle of the river, you are greeted by a gnoll clad in an unusual green hide.	“I used to breed wyverns, gorgons and other creatures. I was the first to find common ground with the flight of Rust Dragons that lives on these islands, but later on I was betrayed, and the traitorous lizardman Areshrak usurped my place. Help me take him down, and I'll help you.”
+Areshrak is still out there! I can feel his presence.
+Justice has been served! I'm afraid my tribe is not going to take me back, so I'll have to leave these islands. As for the reward… Please accept these Couatls. I found them recently in the caves where they were hiding from Pactal’s hunters.
+
+(15, 102, 0) ***Quest Guard***
+Message:
+As you approach the pirate fortress, you realize you’re not likely to get any closer to it. There are sheer cliffs ahead and a nearly impenetrable jungle all around.	 Rumor has it that the Dagdaro the Warlock, who has set up shop in the caves, has been seen frequenting this fortress for some sort of dealings with Steed. Perhaps the sorcerer knows how to get inside?
+The search for a safe route to the fortress failed, as did attempts to follow the pirates.
+After carefully examining the warlock's lair, you find a map and learn that there is an easy-to-miss passage through the jungle nearby that can take you closer to the fortress. Do you want to use it?
+
+(1, 47, 0) ***Quest Guard***
+Message:
+Along the coast, you spotted some great cages holding Couatls. The local lizardmen, perhaps seeking a better deal for these feathered serpents than sacrifice, had brought them here to negotiate with slavers. Most likely, the keys to the cages are kept in the fortress by one of Pactal’s witches.  
+You were unable to crack the cages open—you will have to search for the keys.
+You found a ring of keys with the witch Xolo—some of them match the locks on the cages with the Couatls. Do you wish to set them free?
+
+(6, 38, 0) ***Beastmaster***
+Name:
+Tzolki
+
+(59, 67, 0) ***Seer's Hut***
+Message:
+A young lizardman greeted you at the door. His hut did not look like one the locals dwell in; it rather had the appearance of a modest mage’s home. What is this lizardman doing here?		"Greetings," he said. “I am one of the few apprentices to Tlamac Hundred Thoughts. Following my mentor’s advice, I headed to this island, once a couatl breeding ground, but found that someone had been here before me. There were no signs of violence in the nest, however. That makes me think it was not the work of the Child Eater himself; he would not have hesitated to bathe in the blood of the creatures he hates so. I reckon it was one of the witches in his service. 		I think it might be Chiqtli. She has found a way to suppress the couatls’ will; she then leads them away to sacrifice them. Somewhere underground, there is an altar where she is often seen. Hurry up! You may yet be able to save some of them. Just be very careful when you face Chiqtli! I've heard her magic arrows are deadly!”
+The lizardman is still here. He won't be happy to hear that you haven't found Chiqtli.	
+I already know about your victory and the five couatls you found in the witch's lair. Please accept these wyverns as a token of my appreciation. They are not couatls, of course, but I am sure they will make reliable allies for you.
+Oh, there’s something else…
+Take this talisman. I don't know whose it is or where it came from. It may have belonged to one of my master's ancestors, but I'm sure he wouldn't mind you owning it now.		Would you like to accept the lizardman's Talisman of Mana?
+
+(80, 66, 0) ***Quest Gate***
+Message:
+This sea gate has been taken over by Regnan pirates. Unfortunately, there are too many cannons there, and it would be way too dangerous to try and attack the garrison from a ship. However, the pirates are willing to let you through if you pay them 5 gems.
+You don't have enough gems, and there's no point in storming the gate.
+The pirates have spotted the gems and are letting you sail through, but they won't keep the gate open for long.	Do you want to pass?
+
+(90, 30, 0) ***Quest Guard***
+Message:
+Looking for a boat? You can have mine for mere 2,000 gold. There's only one problem; the thing is leaky. You'll have to repair it yourself.
+Looking for a boat? You can have mine for mere 2,000 gold. There's only one problem; the thing is leaky. You'll have to repair it yourself.
+Buy a boat?
+
+(89, 21, 0) ***Quest Guard***
+Message:
+You notice a few Couatls, but they pay precious little attention to you. You have heard that the Lizardmen of Tlamac’s tribe were able to tame these creatures with the help of magic crystals. Perhaps you could do it too?
+The Couatls are still here. They don’t appear keen on attacking you, but have no intention of joining you either.
+The magic of the crystals has lured several Couatls. Do you wish to take them with you?
+
+(67, 35, 0) ***Ocean Bottle***
+Message:
+…sh…su…27…1…Eas…Mis…Jada…
+
+(100, 42, 0) ***Event***
+Message:
+Hello, guest. You remember me: I am Tlamac Hundred Thoughts. The one who was to become the next great shaman of the bellipotent Bloodied Feathers, but ended up living a long, sad life without home, family, purpose, or caring for those he swore to serve. I have no descendants or apprentices—only a few helpers, those who feel the emptiness in their souls and sneak away from the tribe once in a while to be here and see our lost gods.	I don't want to die before passing on the sacred bond with the feathered serpents to one willing to accept their friendship and exchange a part of his soul with them, even if to him, they will not be living deities. The ritual that my ancestor performed to bond the souls of our tribesmen and the feathered serpents requires a great concentration of pain, sorrow, and hatred. I fear that not even the emanations let out by each and every victim of a great battle would suffice today, nor would you yourself want it at such a cost... But I know of an object that holds an endless sea of such feelings, accumulated over many and many great turns.		The leader of the hostile Nightcrawlers, Pactal Child Eater, is a descendant of Tepotl Hollow Eye, the warlord who led all the tribes of the islands to battle against us and who witnessed the gods answer the call and save our tribe from ruin. Only one in twenty warriors under Tepotl survived the carnage, and Hollow Eye's soul absorbed the languor of each who died that day. 		When on his deathbed himself, he poured that black ocean into his great battle bow and handed it to his son. Each of his descendants would do the same, but while still in the prime of his life, imbuing his weapon of choice with the ruinous power, and personally finish off his wounded warriors to add to it. Pactal inherited the Great Woe of the Crawlers through the Fang of the Last Scream, the battleclaw that belonged to his grandfather; he was loath to wait for another few dozen turns until his time to take the chief's seat, so he did away with his father and uncles, siccing a herd of frenzied gorgons on them during a hunt. 		He poured the black power from the battleclaw into an amazing artifact—the Spyglass. He got it from a pirate captain for a whole barrel of priceless bile extracted from rare ruby snakes, and named it the Hollow Eye after his ancestor. They say he's been able to see the hidden and scry through the ground ever since; there is no other way to explain why his cutthroats have been able to find and ravage caves with clutches and young Blood Feathers time after time without fail. Every time that happens, Pactal appears there himself, sucks out the eggs and devours the young lizardfolk. I suppose you see how proud he is of his sobriquet.		I feel strength and sincerity in you; the Couatls will surely be delighted to have new friends in you and your companions. Moreover, I will also be able to impart on you the most precious secret I've kept all my life. You will not only become equal to our feathered gods... you will also be able to create them yourself. I will teach you how to spawn the great Crimson Couatl. They have been absent from the world for far too long, and I want to worship the embodiment of my tribe's former greatness once again before I die. Step into my hut. I have much to show you and explain.
+
+(80, 37, 0) ***Pandora's Box***
+Message:
+
+
+(81, 38, 0) ***Pandora's Box***
+Message:
+
+
+(10, 65, 0) ***Pandora's Box***
+Message:
+
+
+(4, 6, 0) ***Beastmaster***
+Name:
+Shaabar
+
+(3, 5, 0) ***Event***
+Message:
+
+
+(3, 4, 0) ***Event***
+Message:
+
+
+(38, 4, 0) ***Event***
+Message:
+
+
+(37, 4, 0) ***Beastmaster***
+Name:
+Pactal
+
+(39, 4, 0) ***Event***
+Message:
+
+
+(7, 40, 0) ***Event***
+Message:
+
+
+(2, 105, 0) ***Event***
+Message:
+
+
+(2, 106, 0) ***Captain***
+Name:
+Thelas
+
+(29, 104, 0) ***Event***
+Message:
+
+
+(30, 104, 0) ***Navigator***
+Name:
+Pholius
+
+(87, 85, 0) ***Navigator***
+Name:
+Darand
+
+(104, 104, 0) ***Captain***
+Name:
+Renglie
+
+(86, 86, 0) ***Event***
+Message:
+
+
+(104, 102, 0) ***Event***
+Message:
+
+
+(39, 24, 0) ***Event***
+Message:
+
+
+(38, 24, 0) ***Beastmaster***
+Name:
+Areshrak
+
+(32, 66, 0) ***Event***
+Message:
+
+
+(54, 103, 0) ***Quest Guard***
+Message:
+The way to the monolith is blocked by something akin to a gargantuan fish trap, woven from ropes as thick as small trees. Nearby, some Nix, tall, lizardlike creatures looking only vaguely like the reptilians that inhabit these islands, are scurrying around the floating platforms. You call out to one, and he shouts back:	“We've set up a trap for sea serpents! This portal leads somewhere to the subterranean seas, and we’re sure they swim through here every now and then—that's where we'll capture them. What do you mean, what do we want serpents for? Haven't you heard the prophecy? The true prince of our people is about to return to the world; per our ancient custom, we must welcome him with a proper ceremony. We shall take him on a voyage across the six seas in a driftwood boat, drawn by six powerful reptiles. No, we don't even want to hear about getting out of here—unless you personally catch the sea serpents for us! Good luck to you.”
+The Nix pretend not to notice you, and continue to fuss around with their giant tackle. Apparently, convincing them to leave here won't work, and getting into a tussle with them at sea would be dangerous. You will have to find some sea serpents!
+"Well! All these weeks hanging about here, haven't even seen a fry—and here you are, with a whole brood in tow! Get them over here, and we'll wind up the tackle!” the Nix bellows excitedly.		Would you like to sail through towards the portal?
+
+(58, 30, 1) ***Quest Gate***
+Message:
+Keeping watch at the gate are two warriors in ancient armor. They are almost as huge and decrepit as Tlamac, and their eyes have a religious glow.	“The great shaman awaits you. Come quickly! We long to see a god!”
+Are you ready to come through?
+
+(31, 32, 1) ***Quest Gate***
+Message:
+These caves lead to the sacrificial altar where the priests of Pactal’s tribe sacrifice Couatls.
+Do you wish to pass?
+
+(49, 104, 1) ***Event***
+Message:
+Pink AI - bonus
+
+(106, 10, 1) ***Seer's Hut***
+Message:
+The hut in which Dagdaro settled turned out to be an old dwelling of lizardmen. However, not a trace of the old inhabitants remained there—the huge hollowed-out tree was brimming with all kinds of scrolls and books. Worthy of special attention were an empty chest smelling of the sea and a pirate pistol lying next to it; looks like the warlock has been doing business with one of the captains engaged in the slave trade on these islands. 
+Having found nothing particularly interesting and about to leave, you suddenly notice the end of an ancient scroll, sticking out of a crack behind a bookshelf. Without a doubt, it holds the secrets of resurrection.	Would you like to take the scroll?
+
+(104, 30, 1) ***Quest Guard***
+Message:
+You have heard that this mysterious cave is home to the Couatls. After some time trying to enter the cave, you find yourself walking in circles. It seems that the real entrance is hidden behind some powerful magical illusion, and you can't break the spell.	 You have heard from the Lizardmen that a group of archmages have been seen on the islands recently, coming here from the Islands of Mist. Perhaps one of them could help you.
+Attempts to dispel the illusions have come to nothing. The only thing you can think of is to find someone who can help you.
+The archmage agrees to help you, without any particular eagerness, however. You watch the wizard work on the magical barrier for a while longer, and then a previously unseen entrance to the caves of the Couatls opens up to your view.	 Would you like to go through?
+
+(66, 42, 1) ***Seer's Hut***
+Message:
+In a hut nestled in the corner of a damp cave, you meet an old lizardman. He appears to be gravely wounded.	“Greetings! I have come here from the Dagger Wound Islands. Our chieftain sent me here as an ambassador to the local tribes. Unfortunately, neither I nor my brethren had any idea of the place we would end up at. Pactal and his tribe treated us as enemies! I barely managed to get off his island before hiding in this cave. I'm afraid I might never make it out of here. I am old, and my wounds torment me. Bring me some basilisks and gorgons; with them by my side, I might yet reach my boat and return to my islands.”
+Where are the basilisks and gorgons I told you about? It is too dangerous to stay in this cave, but getting out of here on my own would hardly be easier.
+These basilisks and gorgons are just what I need!
+Staying in this cave is dangerous... But now I can try to get to my boat.
+Now I would have you accept this crown as a gift. We were going to present it to Pactal’s tribe as a gesture of goodwill, but now that is out of the question.	Do you wish to take the Crown of the Five Seas?
+
+(103, 92, 1) ***Quest Guard***
+Message:
+In the depths of the caves, you notice a few Couatls, but they pay precious little attention to you. You have heard that the Lizardmen of Tlamac’s tribe were able to tame these creatures with the help of magic crystals. Perhaps you could do it too?
+The Couatls are still here. They don’t appear keen on attacking you, but have no intention of joining you either.
+The magic of the crystals has lured several Couatls. Do you wish to take them with you?
+
+(92, 93, 1) ***Seer's Hut***
+Message:
+A few months ago, my mage friends and I came from the continent to study these islands. Rumor has it that there are magical orbs here, capable of amplifying Water magic spells. These orbs were created by the civilization that ruled over these islands before the lizardmen even settled here. Our search has been fruitless so far, but I'm sure they're here. Bring me one of these orbs and I will trade it for a scroll with the Prayer spell.
+I haven't located the orb yet. Perhaps you should look in the caves or in Couatl nests?
+This orb is just what I need!
+You kept your end of the bargain, and I'll keep mine.
+I don't trust you. You're not a dark elf!
+Would you like to trade the orb for a Clone spell scroll?
+
+(100, 71, 1) ***Seer's Hut***
+Message:
+In the hut, you met the leader of a local Gnoll tribe that has long lived on these islands. As it turned out, this tribe refused to yield to Pactal, and now they are being hunted like wild animals. That’s nothing new; before Pactal, the lizardmen treated all gnolls this way, quite indiscriminately. The gnolls intend to build themselves some boats and leave the islands where even their own kin, sworn to the Child Eater, have now become their enemies. The chieftain informs you that he is willing to give you his well-trained basilisks if you provide his tribe with resources—the beasts wouldn’t survive a long journey across Bitter Waters anyway. 12 mercury, 12 crystals and 4,800 gold should suffice.
+The Gnolls are adamant. They need 12 mercury, 12 crystals and 4,800 gold, and no less!
+The chieftain announces that his tribe is ready to leave the islands. Do you wish to accept the basilisks from him?
+
+(30, 85, 1) ***Seer's Hut***
+Message:
+Well-armed, armor-clad men are sitting near the hut—knights, by the look of them. At the sight of strangers, their leader grabs his sword; however, realizing you are not a pirate, he returns the blade to its scabbard.	"Greetings,” he says. "We have come from Enroth on an important mission from the regent. We have learned that Baron Steed has been spotted on these islands. This nobleman betrayed the Enrothian crown, but managed to escape fair retribution by fleeing to Regna. 		Everyone knows that the authorities there would never extradite a criminal, so we had to abandon our plans for a spell; recently, however, news came that he had left the pirate islands and built himself an estate somewhere on this archipelago. He settled here in the company of his new friends. I wouldn’t hazard a guess as to what they are up to now, but I’d bet they aren’t exactly atoning for their sins, committed to austerity. Our lance of knights sailed here a few months ago, and we tried to immediately storm the traitor's fortress; alas, at the turning point of the battle, the warlock Dagdaro and his gang struck at our rear. Steed is a scoundrel, of course, and yet he hadn’t stooped as low as to conspire with warlocks before—but now he doesn’t have that to his credit either," the knight sighed heavily and shook his head.		“We were utterly vanquished, and only a few managed to hide in this odd cave, full of feathered serpents. They are strange, frightening creatures, but we don't seem to look like prey to them—thank the gods for that. Wish we could head home to get help now; but our ship got sunk by a haspid, and now we can't travel to Enroth.		Well, worrying about what won't happen is pointless. Let's talk about what can be done: I have something to thank you with if you undertake to act in our stead and dispense justice upon the man who once used to be our fellow knight. 		I must warn you, however: be very careful! Steed’s guard is not limited to pirates and other scum of the earth; loyal men from his former retinue came with him from Enroth, too. They are not to be trifled with!”
+Learning that Steed is still in his fortress, the knight is disappointed; he insists that he only expects news of victory from you.
+"So you managed to capture Steed? Great news!” The knight exclaims excitedly. “Did I mention a reward? Yes; accept this hat—it doesn’t look like much, but it may turn out to be way more useful than you give it credit for!”
+
+(56, 59, 1) ***Beastmaster***
+Name:
+Gyrzan
+
+(83, 20, 1) ***Witch***
+Name:
+Chiqtli
+
+(81, 19, 1) ***Quest Guard***
+Message:
+You notice several Couatls in large cages. Most likely, the witch you've seen at the sacrificial altar has the key to the door.
+Your attempts to break into the cages are fruitless. You'll have to find the key.
+The key you found with the witch fits all the cages. Would you like to open them?
+
+(41, 47, 1) ***Sign***
+Message:
+Caves of the Feathered Serpent
+
+(107, 1, 1) ***Witch***
+Name:
+Colima
+
+(102, 103, 1) ***Ranger***
+Name:
+Leyda
+
+(102, 104, 1) ***Event***
+Message:
+Pink AI - bonus
+
+(107, 12, 1) ***Quest Guard***
+Message:
+A hut in a tree appeared ahead. As soon as you approached it, you heard a menacing rumble, and the walls of the cave closed shut in front of you. 		It seems that this is the work of a powerful mage, and only he knows the proper magic words to part the stone and open the passage to the hut. Who could this sorcerer be? Lizardman witches can hardly do anything like that. You have, however, heard about a certain warlock who settled in the caves. Perhaps you should go looking for him?
+There is a solid wall of stone in front of you, and you cannot pass this barrier.
+A nix, one of Dagdaro's henchmen, was gravely wounded in the battle and confessed he’d heard the magic words his master uttered to open and close the passageway to his dwelling. 		Do you wish to speak them?
+
+(23, 73, 1) ***Couatl***
+Message:
+Your warriors found a few Couatls hiding in these caves. Would you like to take them with you?
+
+(55, 96, 1) ***Quest Gate***
+Message:
+These caves are very hot, and few creatures dare to settle here. However, this place is rich in crystals, and pirates have been mining gems here and sending them to Regna for some time now. Also, a few months ago, an uninvited guest appeared in these caves; he is said to be a warlock from Nighon.
+Do you wish to pass?
+
+(12, 34, 1) ***Pandora's Box***
+Message:
+
+
+(39, 52, 1) ***Seer's Hut***
+Message:
+There is a camp of Lizardmen here. Their commander hollers out to you:	“We set out to get rid of the Black Dragons who had taken over the underground passage between our villages, but our efforts proved fruitless. They have made it way too dangerous to travel underground. If you help us handle those monsters, we will give you some insight that may come in handy when you come to blows with Pactal.”
+We hear the Black Dragons are still blocking the passage. Come back when they are done for.
+The passage is safe again! In return for your help, we can share our combat experience.
+The leader of the Lizardmen is willing to train Henrietta once she is here.
+The leader of the Lizardmen is willing to train Henrietta once she is here.
+In return for wiping out the dragons, the lizardmen are willing to train you in defense. Would you agree?
+The leader of the Lizardmen is willing to train Wynona once she is here.
+The leader of the Lizardmen is willing to train Wynona once she is here.
+In return for wiping out the dragons, the lizardmen are willing to train you in defense. Would you agree?
+
+(102, 102, 1) ***Quest Gate***
+Message:
+No one knows the origin of these caves. According to the gnoll guide, they lay deserted for many years, but about two decades ago, elves and sea creatures began appearing here.
+Do you wish to pass?
+
+(13, 62, 1) ***Event***
+Message:
+Tan AI - bonus
+
+(14, 62, 1) ***Witch***
+Name:
+Wergna
+
+(57, 30, 1) ***Quest Guard***
+Message:
+Hello, guest. Perhaps it is time for me to stop calling you that, as very soon we will perform the ritual, and you will become equal to the gods, the new mistress of these halls. Have you brought the Great Woe of the Crawlers? Is the Hollow Eye in your hands?
+The spirits tell me that Pactal Child Eater still emits a black aura of suffering, which means that the Hollow Eye is still in his possession. Bring it to me! I cannot wait forever, and my soul has long grown tired of suffering within this withered shell.
+I can feel the Hollow Eye! Let me touch it, and we shall go to the ancient shaman's hall. I have prepared everything for the soul-bonding ritual. Are you ready?
+
+(60, 48, 1) ***Seer's Hut***
+Message:
+The Couatls appear to be in no hurry to get anywhere, and they pay precious little attention to you. You have heard that the Lizardmen of Tlamac’s tribe were able to tame these creatures with the help of magic crystals. Perhaps you could do it too?
+The Couatls are still here. They don’t appear keen on attacking you, but have no intention of joining you either.
+The magic of the crystals has lured several Couatls. Do you wish to take them with you?
+
+(59, 49, 1) ***Quest Guard***
+Message:
+You notice several Couatls in large cages. Most likely, the gnoll chieftain you've seen at the sacrificial altar has the key to the door.
+Your attempts to break into the cages are fruitless. You'll have to find the key.
+The key you found with the gnoll fits all the cages. Would you like to open them?
+
+(51, 16, 1) ***Pandora's Box***
+Message:
+
+
+(54, 14, 1) ***Quest Gate***
+Message:
+Your guide, a lizardman, informs you: ahead is a magical barrier that blocks the way through an underground lake. It is not known who created it, but the guide recalls that the witch Dekha was often seen in these caves in the past.
+Your guide, a lizardman, informs you: ahead is a magical barrier that blocks the way through an underground lake. It is not known who created it, but the guide recalls that the witch Dekha was often seen in these caves in the past.
+Now that the witch is no more, the magical barrier is gone. Would you like to sail through?
+
+(4, 44, 1) ***Witch***
+Name:
+Dekha
+
+(3, 42, 1) ***Event***
+Message:
+
+
+(1, 48, 1) ***Seer's Hut***
+Message:
+In the cave you find a hut; it looks inconspicuous enough but is sealed with magic. Perhaps this hut belongs to one of the local witches. Maybe it doesn't. Either way, only the mage who created the seal can break it.
+In the cave you find a hut; it looks inconspicuous enough but is sealed with magic. Perhaps this hut belongs to one of the local witches. Maybe it doesn't. Either way, only the mage who created the seal can break it.
+When you enter Ha’Ora's hut, you find a passage to the caves. As you explore, you suddenly come across a small pack of Couatls.	 Do you wish to take them with you?
+
+(55, 107, 1) ***Pandora's Box***
+Message:
+
+
+(33, 6, 1) ***Hero Camp***
+Name:
+Ha'Ora
+Biography:
+Ha'Ora is a broodmate of another famous witch, Voy. Their mother stole salt, a priceless commodity in Tatalia, from gorgon feeders and rubbed it on the eggs she laid, hoping for lizardmen as mighty as those fire-breathing bulls to hatch, but instead, her children developed an unorthodox interest in the salt water of the Enrothian seas and long journeys.
+
+(55, 26, 1) ***Seer's Hut***
+Message:
+Wynona and I entered the shaman's hall. Tlamac stood there by a huge stone dish in which a red, acrid-smelling, thick liquid was gurgling, and in the middle of it rested a large egg, its surface looking as if riddled with thin stone tiles. The shaman recited incantations in a deep growl and poured blood over the egg from a skull bowl. As we came closer, he looked up. Lizardmen cannot smile, but I understood he was happy.		“And I saw that coming, too. You are not only strong; you also value your companions. Had you been born among the lizardmen, I would have been proud to call you my chieftess... And I knew you would want to transfer the right to do this great thing to your friend, the one who has lived longer than any of the lizardfolk and knows more about living things than anyone else in the world. This is bound to reward her endless love for all that flutters, jumps, and crawls. For all that have lived, are living and will live. We will now let many souls go free; they yearn for peace and a return to the great swamp of life where they can be born again. Approach, Wynona. Take the bowl and repeat after me.”
+For a second I thought I had died. Moans, screams, coughs, wheezes, pleas—all of it rushed through my whole being in an instant. My heart skipped a beat... but then I felt a mighty wave of warmth and indomitable power flood me, along with the excited cries of the dozens of feathered serpents that were at that moment making their way through the entrances. Wynona froze with the egg in her hands, as if terrified to move, and I saw in her eyes the happiness of a woman who, having long abandoned hope for bearing a child, had suddenly learned that she would after all become a mother. The Couatls surrounded us and fell silent. I heard a rustle and a soft, timid knocking, as if someone shy were asking to enter the house. Tlamac handed Wynona a chisel—a large, petrified fang that once belonged to some ancient beast.		“He had slumbered inside too long, and it is now hard for him to make his way into the light. Help him, will you?”
+
+(84, 4, 1) ***Quest Gate***
+Message:
+Up ahead, you can see a gate built of peculiar-looking stone, leading to a small underground gallery. Your lizardman guide warns you that this passage was once cursed, and to use it would mean certain suicide. The guide also says that amber can protect you from this curse. A few pieces would suffice.
+You have no amber, and you do not intend to put your troops in mortal danger.
+Amber should allow you to make it through this passageway, but upon absorbing the curse, the stones will disappear. Would you like to pass?
+
+(2, 3, 1) ***Witch***
+Name:
+Wallen
+
+(105, 31, 1) ***Quest Guard***
+Message:
+The Couatls appear to be in no hurry to get anywhere, and they pay precious little attention to you. You have heard that the Lizardmen of Tlamac’s tribe were able to tame these creatures with the help of magic crystals. Perhaps you could do it too?
+The Couatls are still here. They don’t appear keen on attacking you, but have no intention of joining you either.
+The magic of the crystals has lured several Couatls. Do you wish to take them with you?
+
+(70, 70, 1) ***Quest Gate***
+Message:
+Up ahead, you can see a gate built of peculiar-looking stone, leading to a small underground gallery. Your lizardman guide warns you that this passage was once cursed, and to use it would mean certain suicide. The guide also says that amber can protect you from this curse. A few pieces would suffice.
+You have no amber, and you do not intend to put your troops in mortal danger.
+Amber should allow you to make it through this passageway, but upon absorbing the curse, the stones will disappear. Would you like to pass?
+
+(3, 16, 1) ***Witch***
+Name:
+Sahssa
+
+(4, 17, 1) ***Event***
+Message:
+
+
+(48, 105, 1) ***Event***
+Message:
+
+
+(47, 105, 1) ***Warlock***
+Name:
+Dagdaro
+
+===== End of file =====
