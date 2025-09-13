@@ -74,7 +74,7 @@ L'armée de Jabarkas a été vaincue et il est maintenant couvert de honte ; il 
 
 (40, 38, 0) ***Seer's Hut***
 Message:
-Deux sorcières vivent ici. Elles acceptent de se joindre à votre hôte et de vous prêter main-forte avec des sorts - moyennant finance, bien sûr.
+Deux sorcières vivent ici. Elles acceptent de se joindre à vous et de vous prêter main-forte avec des sorts - moyennant finance, bien sûr.
 Les sorcières exigent 5 gemmes et 2 000 pièces d'or ; moins, ne sera pas toléré.
 Excellent ! Les sorcières sont prêtes à se joindre à votre cause.
 

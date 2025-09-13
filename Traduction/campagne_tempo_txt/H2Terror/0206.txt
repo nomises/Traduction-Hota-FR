@@ -77,7 +77,7 @@ Message:
 
 (139, 3, 0) ***Sign***
 Message:
-Kreegan Blockhouse		
+Maison fortifiée Kreegan
 
 (42, 47, 0) ***Sea Dog***
 Message:

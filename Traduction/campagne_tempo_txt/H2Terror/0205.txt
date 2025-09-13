@@ -73,7 +73,7 @@ Chacun s'agenouillera devant son œil triangulaire...
 
 (35, 63, 0) ***Ocean Bottle***
 Message:
-Triangle est tellement triangle... tout comme triangle.
+Le triangle est triangulaire... tout comme les triangles.
 
 (82, 35, 0) ***Ocean Bottle***
 Message:
