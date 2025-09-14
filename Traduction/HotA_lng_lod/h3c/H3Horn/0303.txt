@@ -81,7 +81,7 @@ Vous entrez dans les terres de Casmetra
 
 (6, 27, 0) ***Event***
 Message:
-Embuscade!
+Embuscade !
 
 (8, 19, 0) ***Event***
 Message:
@@ -105,7 +105,7 @@ Voyant les troupes de Tark approcher, les Nix ennemis se levèrent en sifflant e
 
 (74, 13, 0) ***Event***
 Message:
-"A nouveau, nous tuons nos frères", soupira Tark à la vue des morts. Il saisit une bêche et commença à creuser une tombe. D'autres Nix l'imitèrent.
+"À nouveau, nous tuons nos frères", soupira Tark à la vue des morts. Il saisit une bêche et commença à creuser une tombe. D'autres Nix l'imitèrent.
 
 (60, 19, 1) ***Sign***
 Message:
