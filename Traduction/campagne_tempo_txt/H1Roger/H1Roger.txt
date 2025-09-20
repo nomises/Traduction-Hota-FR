@@ -5,7 +5,7 @@ Description:
 
 
 
-Pirates et palmiers — Sous le Jolly Roger A
+Pirates et palmiers — Sous le Pavillon du Jolly Roger A
 
 Right-click text:
 Victime d'un naufrage, le pirate Jeremy s'est retrouvé sur une île située entre Nighon et Eeofol. Un fort érathien abandonné s'y trouve, il doit être capturé et transformé en château.
@@ -14,7 +14,7 @@ Prologue:
 La vie débridée d'un pirate... Une mer sans horizon, le grincement du navire et le sifflement du vent salé ! Le jeune pirate Jeremy Albatross savoure chaque instant, jusqu'au jour où il se retrouve à l'article de la mort. Était-ce un destin funeste ou une succession de hasards ?        Tentant désespérément d'échapper à la poursuite des érathiens, Jeremy mène sa caravelle, le Black Unicorn, droit au cœur d'une tempête. Il a cru aveuglement en sa chance et a sous-estimé le fait que ces vagues gigantesques et déchaînées pouvaient renverser le navire et l'envoyer par le fond. Cependant, la chance lui a souri, mais pas exactement comme il l'aurait souhaité. Le navire a heurté les rochers et a été percé d'un énorme trou. Il était impossible de réparer les dégâts, mais l'équipage réussit à hisser le Black Unicorn jusqu'à la terre la plus proche et à l'abandonner sur les récifs côtiers. Au moins, Jeremy Albatross est vivant, ainsi qu'un bon quart de son équipage sans oublier son fidèle compagnon Patris. La plage dorée d'une île inconnue, le ciel bleu au-dessus de leurs têtes et la mer verte qui s'étendait à perte de vue... Une nouvelle aventure les attendait.
 
 
-Le maître de l'île — Sous le Jolly Roger B
+Le maître de l'île — Sous le Pavillon du Jolly Roger B
 
 Right-click text:
 Une force Kreegan provenant de la région voisine d'Eeofol est sur le point de débarquer. L'île doit être placée sous contrôle total avant que cela ne se produise, et il n'y a pas de temps à perdre.
@@ -23,7 +23,7 @@ Prologue:
 Jeremy ne pensait pas à ce qui l'attendait, il profitait simplement de la vie au jour le jour. Cependant, quelque part au loin sur le continent, d'énormes hordes de démons Kreegan commençaient à s'agiter. Ils se préparaient pour un dernier coup, la concrétisation de leur plan visant à détruire ce monde. Ils envoyaient désormais leurs éclaireurs aux quatre coins du monde. Et il s'avère que cette petite île se trouvait sur leur chemin, avec un fort en son centre, le Jolly Roger y souriait sournoisement au travers de son drapeau pirate. Pour survivre, Jeremy devra prendre le contrôle de l'île. Réussira-t-il cette fois-ci ?
 
 
-Lever de soleil en enfer — Sous le Jolly Roger C
+Lever de soleil en enfer — Sous le Pavillon du Jolly Roger C
 
 Right-click text:
 L'ennemi est proche mais les pirates ne sont plus seuls, à leurs côtés, les habitants sont prêts à repousser les intrus. L'attaque des Kreegan sur l'île doit être déjouée et leur base d'approvisionnement capturée.
@@ -32,5 +32,5 @@ Prologue:
 Les navires noirs ont accosté sur le rivage. Les griffes et les sabots de terribles créatures extraterrestres ont foulé le sable du rivage, déterminées à détruire tout ce qui pourrait leur opposer une résistance. Jeremy et son nouvel ami Alkin se penchent sur la carte, essayant de trouver un moyen de vaincre l'invasion Kreegan. La milice composée d'insulaires et de bandits sera-t-elle capable d'opposer une résistance digne de ce nom, ou périra-t-elle, enfoncée dans la boue ? Jeremy continue de croire en sa chance. Il est coincé et n'a d'autre choix que d'affronter le nouvel ennemi. Il ne peut tout simplement pas se permettre d'être vaincu maintenant.
 
 Epilogue:
-Les restes de l'armée démoniaque furent repoussés et jetés à la mer. C'était une victoire dont la plupart des grands commandants auraient été fiers : une poignée de miliciens et de sauvages avaient réussi à exécuter les Kreegans. Quel dommage que personne n'en saurait jamais rien. Jeremy se tenait avec ses hommes sur le rivage, débordant de joie. Cependant, il était encore plus heureux du fait que les navires rapides et robustes des Kreegans étaient intacts. Il ordonna immédiatement de charger les navires et de larguer les amarres. Alors qu'il était déjà à bord et qu'il regardait l'île s'éloigner, Jeremy se souvint qu'il n'avait jamais demandé à Alkin qui il était vraiment et ce qu'il faisait sur cette île. Cependant, il chassa immédiatement cette pensée de son esprit, car de nouvelles aventures l'attendaient. Ce dont, clairement, il n'avait pas encore conscience.
+Les restes de l'armée démoniaque furent repoussés et jetés à la mer. C'était une victoire dont la plupart des grands commandants auraient été fiers : une poignée de miliciens et de sauvages avaient réussi à massacrer les Kreegans. Quel dommage que personne n'en saurait jamais rien. Jeremy se tenait avec ses hommes sur le rivage, débordant de joie. Cependant, il était encore plus heureux du fait que les navires rapides et robustes des Kreegans étaient intacts. Il ordonna immédiatement de charger les navires et de larguer les amarres. Alors qu'il était déjà à bord et qu'il regardait l'île s'éloigner, Jeremy se souvint qu'il n'avait jamais demandé à Alkin qui il était vraiment et ce qu'il faisait sur cette île. Cependant, il chassa immédiatement cette pensée de son esprit, car de nouvelles aventures l'attendaient. Ce dont, clairement, il n'avait pas encore conscience.
 
