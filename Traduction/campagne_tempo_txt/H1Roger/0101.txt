@@ -1,0 +1,118 @@
+===== Map name =====
+Pirates et palmiers
+
+===== Map description =====
+Jeremy, victime d'un naufrage, s'est échoué sur une île inconnue. Pour mener à bien ce scénario, vous devez capturer un fort abandonné et le transformer en château. Jeremy sera limité au niveau 6, mais il sera conservé pour le prochain scénario.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Day 1
+Message:
+Je pouvais entendre les vagues alors que je m'asseyais lourdement sur le sable, contemplant ma jambe gauche. Celle-ci était nue, contrairement à l'autre. La botte manquante avait coulé lors de mon naufrage. Mais cela devrait pouvoir s'arranger. Sandales ou bottes, je devais me trouver quelque chose à me mettre aux pieds. Mes pistolets étaient posés à ma droite, rendus complètement inutilisables à cause de l'eau de mer dont ils étaient remplis. Si la moindre menace pointait le bout de son nez, mon sabre serait mon seul salut. Heureusement, Il s'agissait là d'une très bonne lame façonnée à Régna et elle avait gouté le sang de bon nombre d'ennemis.	Une voix proche brisa le silence : "Nous avons sauvé ce que la mer n'a pu emporter".	Je tournai la tête pour croiser le regard de mon second, Patris. Malgré sa quarantaine bien tassée, ce vieux loup de mer était encore plein de ressources et avait l'esprit affûté. Patris prit place près de moi et scruta tristement ce qu'il restait du Black Unicorn : des débris à la dérive que l’océan charriait sur le rivage. Bientôt la mer aurait tout englouti ne laissant aucune trace de son existence.	"Avons-nous encore de quoi manger ?" demandai-je, espérant avoir une idée plus claire de la situation.	"Assez pour une semaine, tout au plus. Bon sang, nous avons perdu tant de bons gars lors de notre mésaventure... et finalement c'est peut-être mieux ainsi..." grommela mon second.	"Où sommes-nous ? " demandai-je alors que je me relevais en époussetant ma veste en lambeaux.	"Je pense que nous sommes sur les îles perdues entre Nighon et Eeofol," répondit Patris. "Et j'ai la nette impression que nous y sommes bloqués capitaine."	"Pourquoi tu dis ça ?" lui demandai-je.	"Il n'y a aucune trace de présence humaine ici, à part peut-être quelques hordes barbares et de foutues bêtes sanguinaires. Si nous ne trouvons pas rapidement un endroit où nous établir, on mourra de faim, les munitions se feront rares et la maladie nous guettera..."	"Balivernes ! Il n'y a aucune situation que Jeremy Albatross ne puisse surmonter." l'interrompis-je tandis que je scrutais à présent la jungle.	C'était une masse verte de végétaux très dense, affublée de grandes fleurs brillantes et colorées. Les profondeurs de cette forêt, cachaient certainement des serpents, des moustiques géants, et toutes sortes d'autres dangers. De là où je me tenais, je pouvais clairement sentir que des prédateurs affamés nous observaient de leurs yeux voraces, attendant patiemment de nous tomber dessus au moment opportun. Finirai-je mes jours sur cette maudite île ?	Chassant ses idées sombres de mon esprit, j’interpellai alors mes compagnons : "Hé les gars ! Dépêchez-vous de prendre tout ce que vous pouvez porter."	"Voyons quelles surprises cette maudite île nous réserve !"
+
+Name:
+Day 2
+Message:
+Nous étions en train de nous tailler un chemin au travers de l'épais rideau de verdure de cette satanée jungle. Je faisais attention où je marchais, essayant de ne pas me couper. Morbleu ! Quand trouverai-je quelque chose à me mettre aux pieds ? Bien sûr, je pouvais toujours demander à l'un de mes hommes de me prêter ses bottes. - Qui était le capitaine après tout ? - Mais je ne voulais pas tuer le moral de notre petit groupe, qui était déjà bien entamé. Non, je devais montrer l'exemple aux gars et faire preuve de courage et de détermination. Je devais leur montrer que leur capitaine était un dur qui ne dédaignait pas marcher sur le sol épineux de cette maudite jungle.	"Écoute, Patris. Crois-tu possible que les Érathiens aient pu construire un avant-poste à cet endroit ?" demandai-je. À dire vrai, je souhaitais me concentrer sur autre chose afin d'ignorer la douleur qui me lançait au pied. L'idée fugace d'une possible infection germa dans mon subconscient mais je chassai bien vite ces sombres pensées de mon esprit. Tout en marchant, mon second scruta l'océan. Il semblait s’être perdu dans ses propres réflexions pendant un court instant, puis sans détacher son regard de l'horizon, il déclara :	"Vous savez, jadis, les Érathiens explorèrent le monde inlassablement, errant d'une mer à l'autre, à la recherche de nouvelles terres. Puis subitement, la guerre contre Eeofol et Nighon éclata. Le roi Gryphonheart rappela alors plusieurs de ses armées afin de protéger le royaume de l'intérieur. Elles étaient pour la plupart postées en garnison aux frontières du pays à cette époque. Hélas, les soldats qui ne furent pas mobilisés et qui restèrent assignés aux confins du royaume furent bien vite oubliés. Et même longtemps après la guerre, tout le monde fut bien trop occupé à redorer l'image de la couronne pour se souvenir de ces laissés-pour-compte." Il se tourna vers moi, un rictus malicieux fendant son visage : "Donc ma réponse est oui, peut-être reste-t-il des avant-postes." Il semblait que mon fidèle compagnon venait de me donner une autre leçon d'histoire.	"Comment se fait-il que tu saches tout cela ?" lui demandai-je, impressionné.	"Je n'ai pas toujours été un pirate capitaine," répondit Patris.	"Faites attention, Vous allez marcher sur d'autres épines !" aboya-t-il.	"Merci, mais je les avais vues," grognai-je, évitant de justesse les pointes en faisant un pas de côté au dernier moment. 	"Est-ce que tu veux me dire par là qu'il pourrait y avoir encore des soldats d'Erathia ici ?"	Faisant preuve d'optimisme, Patris rétorqua : "S'ils n'ont pas été tués par les barbares du coin, ils pourraient bien avoir troqué bannières et couleurs contre des frusques de pirates ou de contrebandiers. Ce détroit est plein de surprises après tout."
+
+Name:
+Day 8
+Message:
+Je me tenais debout sur les murs immenses du fort d'Erathia, scrutant les environs avec ma longue-vue. Il s'agissait assurément d'un outil inestimable et j'étais diablement chanceux qu'il n'ait pas coulé avec mon navire. En vérité, l'île était beaucoup plus grande que je ne l'avais imaginée. Elle s'étendait loin à l'Est, s'estompant dans la brume. Cet endroit serait parfait pour effectuer des raids ! Nous n'aurons qu'à préparer cela intelligemment, réparer l'avant-poste, construire quelques routes et mater les cannibales locaux et autres indigènes. Satisfait de ce plan prometteur, je me dis alors que les choses allaient finalement en s'améliorant. J'avais d'ailleurs trouvé une nouvelle paire de bottes ! Honnêtement, j'ignorais parfaitement comment ce stupide gnoll s'était procuré ces chausses mais elles m'allaient comme un gant. Elles ne lui serviront plus de toute façon. Une voix brisa le silence :	“ Hey Jeremy, comment trouves-tu cet endroit ?" cria Patris d'en bas.	 "Nous avons fouillé les stocks des gnolls et nous avons trouvé de la nourriture et de l'eau propre à la consommation. Il y a même un puits par là-bas !" dit-il en agitant sa main.	“C'est un bel endroit !“ répondis-je.	“Mon vaisseau repose au fond de la mer et par la force des choses, je me vois contraint de redevenir un vulgaire terrien. Que penses-tu de cela ?” lançai-je, un sourire aux lèvres.	“Ouais ! Je suggère de jeter l'ancre ici,” dit Patris en riant et en se grattant machinalement le menton.	“Mais regardez, le site complet est encore à l'abandon. Si jamais les gnolls attaquent, nous serons taillés en pièces.”	“C'est pour cette raison que nous devons ériger une forteresse avec des murs imprenables, des pièges et des tourelles de défenses positionnées stratégiquement,” ripostai-je en glissant ma longue-vue dans son étui de cuir.	“Le problème c'est que nous manquons cruellement de pierres et de bois pour mener tout ça à bien... et je doute qu'il y ait moyen de faire du troc dans le coin.”	“Capitaine, je propose que nous explorions les environs. S'il y a des contrebandiers dans cette région, ils pourront peut-être nous céder quelques biens. Et avec ce qu'il y a ici, des gobelins seraient capables de construire un abri. Il y a pas mal de matériel, il faut juste prendre le temps de bien fouiller.”	Me sentant inspiré, je descendis la vieille échelle en pierre à moitié fissurée. Pour être honnête, j'avais peur que cela réduise en miettes mes nouvelles bottes.	Patris descendit également en m'interpellant :	“Capitaine, comment allons-nous appeler notre forteresse ? Il lui faut bien un nom !”	“Utopia” rétorquai-je alors, un sourire fendant mon visage.
+
+Name:
+Day 10
+Message:
+Nos craintes étaient fondées. La nuit dernière, une bande de gnolls et de gobelins s'est approchée d'Utopia. Ils étaient armés d'épées grossières et de sarbacanes.	L'un d'entre nous a tiré au mousquet sur la masse mouvante, ce qui l'a forcée à se replier dans la forêt, visiblement terrifiée. De toute évidence, les indigènes n'étaient pas correctement préparés pour diriger cette attaque la nuit dernière, mais tôt ou tard, ils trouveront le courage de la mener jusqu'au bout... plus vite nous érigerons nos défenses, mieux ce sera.
+
+Name:
+Day 14
+Message:
+La nuit dernière, assis près du feu de camp, je réalisais soudainement que deux semaines s'étaient déjà écoulées depuis que le Black Unicorn avait sombré. Pour un Régnan, il n'existait pas de plus grand déshonneur que de perdre son navire. Notre vaisseau reflète notre réussite, nous représente. J'avais un tel attachement pour ce bateau, tellement de souvenirs, de jours glorieux dans notre sillage. Même si je volais ou construisais un autre bâtiment, chacun à Régna saurait... oui ils se douteraient tous que ce ne serait pas le Black Unicorn. La rumeur se répandrait comme une traînée de poudre et les moqueries iraient bon train : Jeremy Albatross qui a été dépouillé de sa virilité et dont le vieux rafiot a coulé, vogue maintenant sur un canot en bois. Quel minable !	Mais il était encore trop tôt pour penser à mon retour à Régna. Je devais trouver mon vieux compère Bidley : c'était peut-être un sacré escroc, mais je sais qu'il ne ferait courir aucune rumeur sur mon compte. Je devais lui demander, comme à un frère, de me trouver un nouveau bateau, encore meilleur que le Black Unicorn. De cette façon ces vieilles commères de Régna penseraient que j'ai simplement échangé mon vieux vaisseau contre un nouveau, bien meilleur. Quelle bonne idée ! Il arrive que je m'épate moi-même. 	Ma mère disait souvent que Bidley avait de l'esprit tandis que moi, j'avais la chance de mon côté. Pas facile de savoir quelle habileté était la plus importante.
+
+Name:
+Day 18
+Message:
+Un de mes hommes s'approcha de moi, le visage inquiet.	“Vas-y... dis-moi ce qui s'est passé,“ dis-je, m'attendant au pire.	“Capitaine... on a eu un problème avec les sauvages. Ces couards se sont retranchés dans le fort pendant la nuit et se sont emparés de tout ce qui avait de la valeur. Au moins ils n'ont pas eu la présence d'esprit de nous prendre le stock de bois et de pierres.”	Je regardai dans le vide, hochant la tête. "J'espère que la prochaine fois, ils emmèneront également nos bons à rien de gardes et les feront rôtir sur un grand feu de joie," soupirai-je alors.
+
+===== Heroes =====
+
+===== Objects =====
+
+(4, 11, 0) ***Ogre***
+Message:
+Les créatures les plus répugnantes après ces sauvages d'orcs, ce sont ces sauvages d'ogres. Et ces derniers sont même encore plus idiots que les premiers. Affublés de crânes suspendus à leurs guenilles puantes, ces grandes créatures à peau verte, trainent leurs guêtres au travers de la jungle dans laquelle ils s’enfoncent toujours plus profondément. On peut les entendre à un mile à la ronde et, armés d'énormes gourdins, ils sont capables d'écrabouiller un être humain comme un insecte. Conscient de cette réalité, je conseillai à mes troupes de se trouver un endroit sécurisé avant d'ouvrir le feu.
+
+(1, 18, 0) ***Crusader***
+Message:
+Le capitaine des mercenaires s’avança, interloqué :	"Mais qu'est-ce que... Ceci est notre camp secret. Personne ne le connait !"	"Détendez-vous donc," répondis-je. "Moi et mes gars explorons seulement l'île."	"Je vais te détendre de façon permanente moi," dit le bretteur tirant son épée, un sourire barrant son visage.
+
+(32, 5, 0) ***Ogre Mage***
+Message:
+Un ogre très costaud, équipé d'une hache, se dirigea vers nous. Il portait une côte de maille et un cache-œil bardait son horrible tête.	"Vous, venir pour vos amis ?" grommela-t-il alors.	"Quels amis ?" rétorquai-je, surpris.	"La Bande de Collar. Nous, découvrir cache et prendre trésor. Nous, faire pareil avec vous," dit en grimaçant l'ogre dans un sourire inquiétant et menaçant. Amusé, je rétorquai :	"Mon cher ami, je n'ai aucune idée de ce dont vous parlez. Mais si vous voulez me dérober mes biens... eh bien il faudra d'abord me passer sur le corps."
+
+(11, 6, 0) ***Event***
+Message:
+Une voix brisa le silence : "Capitaine ! Venez par-là ! Vite !" cria Patris, mon second, tout excité.	Approchant de mon équipier, je le découvris alors un genou à terre, examinant quelque chose sur le sol encore humide.	Il dégagea un étrange positivisme que je ne lui connaissais pas. D’habitude, Patris n'était pas du genre avenant ou joyeux.	"Il y a des traces de chariot ici capitaine," dit-il.	"Quelque part sur cette île, il y a des êtres vivants assez intelligents pour utiliser des chariots."	"Bonne nouvelle," approuvai-je.	"Nous devrons explorer cette île en redoublant de prudence une fois le camp établi. Quelque chose me dit que nous ne sommes pas au bout de nos surprises."
+
+(5, 3, 0) ***Roc***
+Message:
+Soudainement, un hurlement déchirant me submergea. Scrutant le ciel, je vis de grands prédateurs volants décrivant des cercles autour de nous. J'ignorais ce que nous représentions pour eux, mais quoi qu'il en soit, nous devions nous préparer à une attaque inopinée. 
+
+(21, 17, 0) ***Mage***
+Message:
+Un bâtiment magique émergea de la jungle... Ça alors ! Je ne m'attendais pas à rencontrer des mages par ici. Nous avions déjà vu ce genre d'édifice sur la côte de Bracada... mais ici ? Étrange...	Patris me tapota alors le bras, décontenancé et silencieux. En me retournant, je vis les mages se matérialiser lentement devant nous.	Une fois le sortilège terminé, l'un d'eux se mit en position de combat et hurla : "Aha ! Malcom n'a pas eu le courage de se montrer, alors il nous envoie de vulgaires pirates. Mais nous ne vous dévoilerons jamais nos secrets, soyez-en assurés !"	Mais qui était donc ce maudit Malcom ? Eh bien... compte tenu de la situation, je crois que nous n'aurons même pas le temps de nous expliquer...
+
+(13, 2, 0) ***Dragon Fly***
+Message:
+Que peut-il y avoir de pire que des guêpes-dragon carnivores vivant près d'une rivière ? Être précisément près de la dite rivière ? La question me taraudais toujours l'esprit tandis que nous abattions certaines de ces maudites créatures. Malheureusement, cela ne découragea pas leurs congénères pour autant.
+
+(17, 23, 0) ***Crew Mate***
+Message:
+Nous découvrîmes des empreintes humaines dans le sable. Gonflés d'espoir, nous suivîmes rapidement les traces en pensant tomber sur une cache de contrebandier. Mais arrivant près d'un quai de chargement, nous tombèrent nez à nez avec des hommes en train de décharger leur navire. Bien vite, leur soudaine surprise laissa place à des gestes hostiles et des provocations verbales alors qu'ils tiraient leurs sabres promptement.	Mon second, dégainant son épée me suggéra alors de ne pas tous les tuer.	Éliminer les meneurs devrait convaincre définitivement ces soudards de nous rejoindre. J'étais d'accord avec lui.
+
+(2, 26, 0) ***Event***
+Message:
+"Hé capitaine, visez-moi ça !" siffla l'un de mes hommes.	Je découvris alors une chute d'eau se jetant d'un énorme piton rocheux entouré de statues de femmes. Je ne suis pas magicien, malgré tout je ressentais une présence surnaturelle ici. Je me souvins alors des nymphes, créatures fantasmagoriques que les mages Régnan invoquaient souvent pour leur bon plaisir.	"Nous pourrions finalement trouver des alliés en ce lieu abandonné de tous," lâchai-je en souriant.	"Que voulez-vous dire capitaine ?" me coupa Patris.	"N'as-tu jamais vu les mages Régnan marcher en compagnie de femmes-élémentaires d'eau ? Tu sais, ce n'est pas grâce à leur physique qu'ils attirent ces jolies filles. Ces petites poupées sont des nymphes. Quelqu'un m'a dit un jour qu'elles venaient d'un plan élémentaire de l'eau. Les mages Régnan auraient ouvert un portail permettant d'accéder à leur monde," expliquai-je.	"Mais qu'est-ce qui vous fait penser qu'elles vont nous aider ? Il n'y a aucun magicien ici," grimaça Patris, sceptique.	"Patris, calme-toi donc," dis-je alors avec un rictus. "Si mon sourire ravageur ne les convainc pas, quelques pièces d'or feront le boulot."	"On a de l'or ?" demanda Patris avec surprise. 
+
+(4, 21, 0) ***Orc***
+Message:
+Des crânes empalés sur des pieux balisaient notre chemin depuis un moment et il était de notoriété publique que des orcs sauvages marquaient leur territoire de cette façon. Gardant ceci à l'esprit, j'ordonnai à mes hommes de se tenir prêts, leurs armes à portée de main.
+
+(8, 21, 0) ***Lizardman***
+Message:
+Alors que nous marchions, une flèche siffla soudain à quelques pouces de mon oreille. Patris, aux abois, effectua une roulade pour se mettre à couvert derrière un arbre juste à temps. Le souffle court, je fis de même.	"C'est un piège," hurla alors l'un des nôtres.	"Merci, j'avais compris qu'il ne s'agissait pas d'une cérémonie de bienvenue," sifflai-je entre mes dents.	Plissant les yeux, je découvris alors les créatures responsables de l'attaque, cachées dans les sous-bois. On aurait dit des lézards vêtus de pagnes. Ces hommes-lézards se tenaient prêts avec leurs arcs... et évidemment ce n'était pas pour négocier.
+
+(11, 15, 0) ***Cove***
+Name:
+Utopia
+
+(11, 16, 0) ***Event***
+Message:
+Incroyable ! Il s'agissait vraiment d'un avant-poste érathien. La structure même de l'édifice était restée intacte mais les murs s'étaient écroulés par endroits et la végétation marécageuse avait repris ses droits, courant à la surface du bâtiment. Cela aurait bien besoin d'une remise en état mais les habitants actuels ne semblaient pas se soucier de ce genre de choses. Les gnolls étaient des créatures très primaires. 	De la fumée aux arômes d'épices et de viande grillée s’élevait du fort. Je détestais déranger quelqu'un en plein repas, mais si, il fallait en passer par là.... Soudain un énorme gnoll au corps couvert d'étranges anneaux émergea des ombres juste en face de moi et me coupa de mes réflexions. Il venait de sortir d'une cavité du mur et brandissait une masse démesurée fabriquée à partir d'un os d'animal gigantesque. 	"Abrrgh !" Grommela le gnoll. 	"Enchanté de faire votre connaissance messire ! Je m'appelle Jeremy," dis-je, avenant. 	"Unnah abrrgh dun uuuh !" Répondit-il l'air mauvais. 	"Abrrgh aussi ! Compris, compris ! Je ne suis pas sourd," mon équipage s'esclaffant derrière moi. Les gars avaient l'air d'apprécier notre petite conversation. 	Cependant, leurs rires se dissipèrent rapidement alors que le gnoll poussait un cri effrayant. Il souleva son énorme masse et se prépara a charger. Quelle dommage ! Nous aurions pu être bons amis. Inutile de dire que la stupide créature n’eut pas le temps de réaliser son erreur. En un seul tir, mon mousquet fit mouche et, un trou béant dans le crâne, la créature s'affala de tout son long sur le sol dans un bruit sourd.. 	"En avant ! Pas de quartier !" Hurlai-je.
+
+(16, 13, 0) ***Serpent Fly***
+Message:
+Il y avait comme un bruit sourd provenant de la jungle. Ce qui évidemment attira notre attention et je décidai promptement d'aller enquêter en compagnie de quelques membres d'équipage. À mesure que nous avancions, le son se transformait et devenait de plus en plus inquiétant. J'étais sur le point d'ordonner aux hommes de faire demi-tour, quand nous vîmes soudain un mur de guêpes géantes foncer sur nous. J'eus à peine le temps de dégainer mon sabre...
+
+(35, 35, 0) ***Pandora's Box***
+Message:
+
+
+(8, 19, 0) ***Event***
+Message:
+Nous marchions à travers la jungle lentement mais sûrement. J'envoyai un éclaireur pour ouvrir la voie et nous prévenir en cas de danger car les locaux nous avaient déjà gratifié de leur "hospitalité".	À peine quinze minutes suffirent pour qu'il revienne, couvert de sang et hors d'haleine :	"Capitaine, capitaine !"	"Au rapport matelot !" déclarai-je en le rattrapant alors qu'il vacillait. "As-tu été victime d'une attaque là-bas ?" dis-je en pointant du doigt la jungle épaisse d'où il revenait.	Il prit quelques secondes pour reprendre son souffle.	"Un... un fort !" annonça-t-il d'une voix rauque.	"Il y a un fort au nord capitaine, mais il est infesté de ses satanés gnolls et comme vous pouvez le voir, ils ne sont pas très amicaux."	"Un fort ? sur ces terres abandonnées ?" m'étonnai-je, dubitatif.	"Probablement un vieil avant-poste érathien," supposa Patris.	"À l'époque du roi Gryphonheart, bon nombre d'avant-postes furent construits sur les terres inexplorées. Je suppose que ces îles en faisaient partie."	"Intéressant," rétorquai-je en tapotant l'épaule de l'éclaireur en signe de remerciement.	"Toi, tu restes ici et tu panses tes blessures : tu en as assez fait.	Nous, nous allons marcher vers ce fort et demander gentiment à ces gnolls d'aller se trouver un autre endroit."
+
+(9, 11, 0) ***Iron Golem***
+Message:
+"Accès refusé, mot de passe requis." résonna une voix venant de l'intérieur de la statue de fer.	La présence de ces statues sur l'île me mettait mal à l'aise depuis le début. Je supposais qu'il s'agissait de Golems gardant peut-être quelque chose de précieux.	"Capitaine, ça a l'air d'être les gardes d'un ancien entrepôt ou quelque chose comme ça," dit Patris pointant son doigt au-delà du golem. "Il y a sûrement un butin ou un magot à récupérer là-bas".	"Mot de passe non délivré. Tuer les intrus !" résonna la voix du gardien de fer, interrompant soudainement notre discussion. Rapidement, les gardes passèrent à l'attaque.
+
+(3, 6, 0) ***Gorgon***
+Message:
+Notre éclaireur, les traits déformés par la terreur, passa devant nous en courant comme si les fouets du diable était a ses trousses ! Il ne nous fallu pas longtemps pour comprendre que quelque chose de grave venait de se produire. Dans la confusion, plusieurs bêtes énormes jaillirent de la jungle. Il s'agissait là d'une espèce curieuse, un genre de croisement entre la vache et le lézard.
+
+===== End of file =====
+

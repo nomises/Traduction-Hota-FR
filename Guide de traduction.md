@@ -13,3 +13,6 @@
 On parle d'un `niveau` pour les héros et d'un `rang` l'orsqu'on parle des crétures.
 
 - Pour tous les textes s'adressant au joueur, il faut toujours utiliser le `vous`.  
+
+- On conserve les noms propres en anglais dans certains cas, par exemple les noms de bateaux : Jolly Roger, Black Unicorn
+Ce sont des références emblématiques de la piraterie, un peu comme dans Pirates des caraïbes avec le Black Pearl
