@@ -2,64 +2,64 @@
 Dead or Alive
 
 ===== Map description =====
-You must defeat the pirate Dargem who challenged the people of the wastelands. If Henrietta or Frederick are defeated, the scenario will be lost. Heroes are limited to the level 18. Henrietta and Frederick will bring the components of the Wizard’s Well and the Ring of the Magi to the next scenario.
+Vous devez vaincre le pirate Dargem qui a défié les habitants des terres arides. Si Henrietta ou Frederick sont vaincus, le scénario sera perdu. Les héros sont limités au niveau 18. Henrietta and Frederick héros conserveront les composants du Puits de Mana et l'Anneau des Mages au scénario suivant.
 
 ===== Rumors =====
 
 Name:
 Regnan Archmages
 Text:
-Dargem hired a whole band of former Regnan sorcerers!
+Dargem a engagé toute une bande d'anciens sorciers de Regnan !
 
 Name:
 Western Elves
 Text:
-There are some Western Elves among Dargem’s mercenaries. They are said to be excellent marksmen.
+Il y a quelques elfes de l'ouest parmi les mercenaires de Dargem. On dit qu'ils sont d'excellents tireurs.
 
 Name:
 Dargem's Shooters
 Text:
-Dargem has a sizeable force of shooters.
+Dargem dispose d'une importante force de tireurs.
 
 Name:
 Portals
 Text:
-Pirates have been constantly raiding the lands around Burton in recent weeks. They are even mounting attacks through portals!
+Ces dernières semaines, les pirates ont multiplié les raids dans les environs de Burton. Ils lancent même des attaques à travers des portails !
 
 Name:
 Sandworms
 Text:
-Odd creatures resembling giant worms were seen in the eastern mountains.
+Des créatures étranges ressemblant à des vers géants ont été aperçues dans les montagnes orientales.
 
 Name:
 Arion Clue
 Text:
-Smugglers and mercenaries set up camp on the sea coast. I heard they buy artifacts and sell pirate artillery.
+Des contrebandiers et des mercenaires ont établi leur campement sur la côte maritime. J'ai entendu dire qu'ils achetaient des artefacts et vendaient de l'artillerie pirate.
 
 Name:
 Stanley Clue
 Text:
-Have you heard the story about a pirate captain who lost his memory? They say that many sea dogs now carry pendants to protect themselves.
+Avez-vous entendu parler de l'histoire d'un capitaine pirate qui a perdu la mémoire ? On raconte que de nombreux loups de mer portent désormais des pendentifs pour se protéger.
 
 Name:
 Dark Elves
 Text:
-The Dark Elf Merchant Guild has made its way as far as this remote part of Jadame. They set up a trading post south of Burton.
+La guilde marchande des elfes noirs s'est implantée jusqu'à cette région reculée de Jadame. Elle a établi un comptoir commercial au sud de Burton.
 
 Name:
 Dargem's Past
 Text:
-Dargem was once a warlock.
+Dargem était autrefois un sorcier.
 
 Name:
 Steadwick's Fall
 Text:
-They say that the capital of faraway Erathia recently fell, for the first time in recorded history.
+On dit que la capitale de la lointaine Erathia est récemment tombée, pour la première fois dans l'histoire.
 
 Name:
 Restoration of Erathia
 Text:
-A traveler told me that a war on a scale unseen in centuries is raging in Erathia.
+Un voyageur m'a dit qu'une guerre d'une ampleur sans précédent depuis des siècles fait rage en Erathia.
 
 ===== Timed events =====
 
@@ -71,92 +71,92 @@ Message:
 Name:
 Part I - Dargem
 Message:
-Like many places founded by desperate people willing to do anything in a bid to turn their fortunes around, Burton had its darker moments. One was trade with pirates—not Regnans, but outcasts shunned even by this lawless empire. They eagerly purchased ship's fittings, gun barrels, cannonballs, and other supplies for their unsavory trade. The payment was made in certain rare substances, their origins never inquired about. That lasted but for a short time and only was done out of desperation, but there was no getting away from that piece of history.	As soon as things got better and legal sources for covering provisions and other necessities sprang up, the dealings with pirates came to naught. Chagrin wasn’t nearly strong enough a word to describe the sea rovers’ reaction to this development; they absolutely blew their tops.		“Maybe we're keen on becoming honest traders, too! But nay, cor blimey, turns out our mugs aren’t nice enough for that!” one band’s ringleader, a particularly disagreeable character named Dargem, was seething. “Alrighty, just you wait," he growled. "Time to show these landlubbers that disrespecting business partners carries a price.”		Dargem was as good as his word; several pirate bands conspired to cut off all of Burton's trade routes and began to plunder the supply wagons. The situation was becoming critical.
+Comme beaucoup d'endroits fondés par des gens désespérés prêts à tout pour changer leur sort, Burton a connu des moments sombres. L'un d'eux était le commerce avec les pirates, non pas les Regnans, mais des parias rejetés même par cet empire sans loi. Ils achetaient avec empressement des équipements pour leurs navires, des canons, des boulets de canon et d'autres fournitures pour leur commerce peu recommandable. Le paiement était effectué en certaines substances rares, dont l'origine n'était jamais demandée. Cela n'a duré que peu de temps et n'était motivé que par le désespoir, mais il était impossible d'échapper à cette partie de l'histoire. Dès que la situation s'est améliorée et que des sources légales pour couvrir les provisions et autres nécessités ont vu le jour, les transactions avec les pirates ont pris fin. Le mot « déception » était bien trop faible pour décrire la réaction des corsaires face à cette évolution ; ils ont littéralement piqué une crise. « Peut-être que nous aussi, nous voulons devenir des commerçants honnêtes ! Mais non, bon sang, il s'avère que nos têtes ne sont pas assez gentilles pour ça ! », s'écriait le chef d'un des groupes, un personnage particulièrement désagréable nommé Dargem. « Très bien, attendez un peu, grogna-t-il. Il est temps de montrer à ces marins d'eau douce que le manque de respect envers ses partenaires commerciaux a un prix. » Dargem tint parole : plusieurs bandes de pirates se liguèrent pour couper toutes les routes commerciales de Burton et commencèrent à piller les chariots de ravitaillement. La situation devenait critique.
 
 Name:
 Part II - Boyd
 Message:
-An emergency meeting was called to find a way out. There, I heard many stories from the townsfolk about the atrocities committed by Dargem and his cronies. Some were positively chilling, despite the scorching Jadamean sun! 	There was one tale, however, that really piqued my interest; one about a certain Boyd, whom Dargem had allegedly put to an extremely cruel end, even by pirate standards. There were several versions of the story, but they all agreed that a young fellow named Boyd, an adventurer and maverick, had once joined the crew of a brig that flew the Jolly Roger, yearning for new thrills to add to his collection. A natural at telling hilarious stories and singing lewd songs, he quickly became the life and soul of the crew—except the brig's captain, Dargem, didn’t like that very much. 		Himself still quite young for a pirate top dog, he had thus far only mastered one way to keep his crew in line—through fear and threats, that is. He knew air magic, so his threats were not empty; no one wanted to anger him and suddenly die of asphyxiation or, conversely, of ruptured lungs. However, he was also capable of making his ship run faster, using magical whirlwinds to inflate the sails, and of blocking arrows and cannonballs with his air shield. Thanks to that, his men rarely were without rich booty, so there never was a shortage of candidates eager to replenish his crew.		One of them was Boyd, who had so carelessly impinged on the cruel captain’s authority. Was it plain jealousy or something else? Either way, Boyd was doomed. There were many theories as to what had eventually caused the conflict, but an old innkeeper, who had once had the displeasure of having to treat the grim brig’s crew to a feast on the house, overheard a story. According to it, a hapless pirate was made to dance the hempen jig in the blazing sun, but not before making sure the noose would not choke him right away. Guaranteeing that was small challenge for a skilled mage. 		So he hung there, feeding the seagulls, and when the brig called at Jadame's shores, Dargem traded his bones to some grim-looking gangrel for a feather to adorn his tricorn. It is not known what the latter did to them, but since then, rumors have spread of travelers encountering the skeleton of an undead pirate shouting Dargem's name in the night. Some eyewitnesses even added that the skeleton brandished a cutlass, arcane flames burst out of his eyes, and the earth he rode over moaned and swelled. Fear takes molehills for mountains, I thought; but maybe I should try and seek out this undead avenger. As they say, the enemy of my enemy is my... no, not my friend. I'm not keen on being friends with no dead men! Let's say... an ally. Of sorts.
+Une réunion d'urgence fut convoquée afin de trouver une solution. Là, j'entendis de nombreux récits des habitants de la ville concernant les atrocités commises par Dargem et ses acolytes. Certains étaient vraiment effrayants, malgré le soleil brûlant de Jadame ! Cependant, une histoire en particulier piqua ma curiosité : celle d'un certain Boyd, que Dargem aurait fait mourir d'une manière extrêmement cruelle, même selon les standards des pirates. Il existait plusieurs versions de cette histoire, mais toutes s'accordaient sur le fait qu'un jeune homme nommé Boyd, aventurier et franc-tireur, avait un jour rejoint l'équipage d'un brick battant pavillon Jolly Roger, avide de nouvelles sensations fortes à ajouter à son palmarès. Doué pour raconter des histoires hilarantes et chanter des chansons grivoises, il devint rapidement l'âme de l'équipage, sauf que le capitaine du brick, Dargem, n'appréciait guère cela. 		Lui-même encore assez jeune pour être un chef pirate, il n'avait jusqu'alors maîtrisé qu'une seule façon de maintenir son équipage dans le droit chemin : la peur et les menaces. Il connaissait la magie de l'air, ses menaces n'étaient donc pas vaines ; personne ne voulait le mettre en colère et mourir soudainement d'asphyxie ou, à l'inverse, d'une rupture des poumons. Cependant, il était également capable de faire avancer son navire plus rapidement, en utilisant des tourbillons magiques pour gonfler les voiles, et de bloquer les flèches et les boulets de canon avec son bouclier d'air. Grâce à cela, ses hommes repartaient rarement sans un riche butin, et les candidats désireux de rejoindre son équipage ne manquaient jamais. L'un d'entre eux était Boyd, qui avait imprudemment empiété sur l'autorité du cruel capitaine. Était-ce de la simple jalousie ou autre chose ? Quoi qu'il en soit, Boyd était condamné. Il existait de nombreuses théories sur les causes du conflit, mais un vieil aubergiste, qui avait autrefois eu le déplaisir de devoir offrir un festin à l'équipage du sinistre brick, avait entendu une histoire. Selon cette histoire, un malheureux pirate avait été condamné à danser la gigue de la corde sous un soleil de plomb, mais pas avant de s'être assuré que le nœud coulant ne l'étranglerait pas immédiatement. Garantir cela n'était qu'un petit défi pour un mage expérimenté. Il resta donc suspendu là, servant de repas aux mouettes, et lorsque le brick fit escale sur les côtes de Jadame, Dargem échangea ses os à un bandit à l'air sinistre contre une plume pour orner son tricorne. On ne sait pas ce que ce dernier en a fait, mais depuis lors, des rumeurs circulent selon lesquelles des voyageurs auraient rencontré le squelette d'un pirate mort-vivant criant le nom de Dargem dans la nuit. Certains témoins oculaires ont même ajouté que le squelette brandissait un sabre, que des flammes arcaniques jaillissaient de ses yeux et que la terre sur laquelle il marchait gémissait et gonflait. La peur fait des montagnes d'une taupinière, pensai-je ; mais peut-être devrais-je essayer de rechercher ce vengeur mort-vivant. Comme on dit, l'ennemi de mon ennemi est mon... non, pas mon ami. Je ne tiens pas à être ami avec des morts ! Disons... un allié. En quelque sorte.
 
 Name:
 New Artificers
 Message:
-New times were upon Burton. With the ogre problem solved, along with the issue of securing steady shipments of local products to the market in the port of Orca’s Maw, the prospect of food shortages had receded. The townspeople were now able to make plans for more than just another day's work. Frederick and Sam kept making trips to the port to meet other associates of theirs whom they had persuaded to move to Burton. Some arrived carrying little more than a few books and a toolbox; others brought whole shiploads of alchemical equipment, rare reagents, and instruments. 		A dwarf named Bertram made the biggest noise; rumor had it that the dozens of barrels unloaded from his caravel were brimming with gold. True or not, but soon after his arrival, the town saw a rush of immigrants from all sorts of places, each one getting a job with good pay. New residential neighborhoods sprang up; production was getting transferred from the home forges to the new factory building, its tall vaults supported by steel trusses and beams.
+Une nouvelle ère s'ouvrait pour Burton. Le problème des ogres étant résolu, tout comme celui de l'approvisionnement régulier du marché du port d'Orca's Maw en produits locaux, la perspective d'une pénurie alimentaire s'était éloignée. Les habitants pouvaient désormais faire des projets qui allaient au-delà de leur travail quotidien. Frederick et Sam continuaient à se rendre au port pour rencontrer d'autres associés qu'ils avaient persuadés de s'installer à Burton. Certains arrivaient avec pour seuls bagages quelques livres et une boîte à outils, d'autres apportaient des cargaisons entières d'équipements alchimiques, de réactifs rares et d'instruments. C'est un nain nommé Bertram qui fit le plus de bruit : la rumeur disait que les dizaines de tonneaux déchargés de sa caravelle débordaient d'or. Que cela fût vrai ou non, peu après son arrivée, la ville vit affluer des immigrants venus de tous horizons, chacun trouvant un emploi bien rémunéré. De nouveaux quartiers résidentiels virent le jour ; la production fut transférée des forges domestiques vers la nouvelle usine, dont les hautes voûtes étaient soutenues par des poutres et des fermes en acier.
 
 Name:
 Zog
 Message:
-Well... the locals who told me that our rule over the local ogres would never last were right.		When we captured Zog's fortress, the high chieftain himself was nowhere to be found. The battle ended when the giant who brandished the Ironfist caught a bomb right between the eyes. We later examined the body—although there was nothing left of his head, the commanders of our allied greenskins were adamant it was not Zog's. Apparently, the Jackal escaped in the last minutes of the battle, leaving one of his henchmen behind to pull the wool over our eyes.		I sincerely thought we had proved our strength and will to the ogres, and that they would accept a non-aggression treaty, if not an outright alliance. I even agreed to yield the Fist to them as a token of our goodwill—I could barely handle that iron abomination anyway. Brum, the ogre who commanded one of our allied forces, and then was elected the new chieftain at a gathering of elders from all local tribes, had promised us peace, but it only lasted a few weeks. Then the news arrived that Brum was no more. On his first trip to gather tribute, the chieftain was ambushed by enemies, and ballista missiles turned him into a pincushion. And the ballistae turned out to be of Burtonese make...		We had Morton in charge of our missile-throwing weaponry; he was an expatriate goblin of a troubled fate and an edgy temper, but a great master of his craft. We summoned him to a council meeting and questioned him whether he knew how those ballistae could have fallen into the possession of our protege's enemies, but he only stared daggers at us, rejecting all accusations. There was no evidence of his guilt in what happened, and we had to back off... but it seemed as though Morton was left deeply offended. 	Just when we were about to send him on a diplomatic mission to establish a semblance of relations with the local goblin tribes. Gods, why is it so hard to govern people?.. and not-quite-people, too! 
+Eh bien... les habitants qui m'avaient dit que notre domination sur les ogres locaux ne durerait pas avaient raison. Lorsque nous avons pris la forteresse de Zog, le grand chef lui-même était introuvable. La bataille s'est terminée lorsque le géant qui brandissait le Poing de fer a reçu une bombe en plein entre les yeux. Nous avons ensuite examiné le corps : bien qu'il ne restait rien de sa tête, les commandants de nos alliés peaux-vertes étaient catégoriques, ce n'était pas celle de Zog. Apparemment, le Chacal s'était échappé dans les dernières minutes de la bataille, laissant l'un de ses sbires derrière lui pour nous tromper. Je pensais sincèrement que nous avions prouvé notre force et notre volonté aux ogres, et qu'ils accepteraient un traité de non-agression, voire une alliance pure et simple. J'avais même accepté de leur céder le Poing en gage de notre bonne volonté, car je pouvais à peine manier cette abomination de fer. Brum, l'ogre qui commandait l'une de nos forces alliées et qui avait ensuite été élu nouveau chef lors d'un rassemblement des anciens de toutes les tribus locales, nous avait promis la paix, mais celle-ci n'a duré que quelques semaines. Puis la nouvelle est arrivée que Brum n'était plus. Lors de son premier voyage pour collecter le tribut, le chef a été pris en embuscade par des ennemis, et les projectiles de la baliste l'ont transformé en pelote à épingles. Et les balistes se sont avérées être de fabrication burtonienne...	  Nous avions confié à Morton la responsabilité de nos armes de projection de missiles ; c'était un gobelin expatrié au destin mouvementé et au tempérament nerveux, mais un grand maître dans son art. Nous l'avons convoqué à une réunion du conseil et lui avons demandé s'il savait comment ces balistes avaient pu tomber entre les mains des ennemis de notre protégé, mais il s'est contenté de nous lancer des regards furieux, rejetant toutes les accusations. Il n'y avait aucune preuve de sa culpabilité dans ce qui s'était passé, et nous avons dû battre en retraite... mais Morton semblait profondément offensé. Juste au moment où nous étions sur le point de l'envoyer en mission diplomatique pour établir un semblant de relations avec les tribus gobelines locales. Dieux, pourquoi est-il si difficile de gouverner les gens... et les non-humains aussi !
 
 Name:
 Eeofol
 Message:
-As immigrants arrived, the first news of the demon invasion's aftermath reached our distant lands. Eeofol has been destroyed. Ravaged. Not one blooming garden left, not one crystal-clear lake. Only endless ridges of new mountains, spewing flames and acrid smoke, hordes of ruthless demons swarming behind it veil. I had seen the possessed Xarfax and the soldiers of his garrison with my own eyes—a horrible and disgusting sight; it seemed, however, that the devils were ultimately unable to subdue many of the other Erathians' minds. Maybe they had learned to protect themselves, or maybe the demons were simply not as powerful as we thought after our first skirmishes with them; whatever the reason, the celestial guests were unable to leap the borders of Eeofol. Even the Fire Coast still remained under Erathia's control, though the awakening volcanoes gave it trouble. 		Talking to those who brought the news, I voiced my rejoicing at the trouble not having claimed thousands of lives in Erathia and AvLee, contrary to our dire predictions born of ignorance—but my heart cried out in pain. It only wondered about one thing: why Eeofol and not Erathia?
+Alors que les migrants arrivaient, les premières nouvelles des conséquences de l'invasion démoniaque parvinrent jusqu'à nos terres lointaines. Eeofol avait été détruite. Ravagée. Il ne restait plus aucun jardin fleuri, aucun lac cristallin. Seulement des chaînes de montagnes sans fin, crachant des flammes et une fumée âcre, et des hordes de démons impitoyables grouillant derrière leur voile. J'avais vu de mes propres yeux Xarfax possédé et les soldats de sa garnison : un spectacle horrible et répugnant. Il semblait toutefois que les démons avaient finalement été incapables de soumettre l'esprit de la plupart des autres Erathiens. Peut-être avaient-ils appris à se protéger, ou peut-être les démons n'étaient-ils tout simplement pas aussi puissants que nous le pensions après nos premières escarmouches avec eux ; quelle qu'en soit la raison, les hôtes célestes n'avaient pas réussi à franchir les frontières d'Eeofol. Même la Côte de Feu restait sous le contrôle d'Erathia, bien que les volcans en éruption lui causaient des problèmes. 		En discutant avec ceux qui m'avaient apporté la nouvelle, j'exprimai ma joie que ces troubles n'aient pas coûté la vie à des milliers de personnes en Erathia et en AvLee, contrairement à nos sombres prédictions nées de notre ignorance, mais mon cœur criait de douleur. Il ne se posait qu'une seule question : pourquoi Eeofol et pas Erathia ?
 
 Name:
 Sentinel Automatons
 Message:
-I was no longer helping Frederick in his workshop, as I had my own thing to do now. I didn't even notice how it happened, but at some point everyone began to refer to me as Burton's scoutmaster. Still, I maintained interest in my old friend's progress and knew that he had designed and built an improved steam engine. It was too cumbersome and heavy to be mounted on an airship, but perfect for a factory powerplant; it helped multiply the torque on the metalworking machines’ shafts. Now the factory was building itself: improved machines helped create new structural elements, and the facilities kept growing and expanding.		Frederick was now fully devoted to the energy sector, and had no time to pursue his other old projects. Many of those, however, saw development in the hands of newly-arrived artificers. One, a somewhat odd-looking gray-haired man named Todd, took it upon himself to put automatons into mass production. He spent a good month locked up in a hangar in the company of the prototypes Frederick had brought from Eeofol, a handful of assistants, a variety of tools, and a huge basket of armadillo jerky. When he finally emerged from his voluntary confinement, he looked as if he had never slept a wink in a month—but he was glowing with joy. Beside him, two fully assembled models presented their gleaming, polished sides, and he leaned proudly with his elbow on a stack of blueprints and flow charts. It’s funny to remember how at that moment, my takeaway started and ended with the fact that the pile of papers was noticeably taller than I was—even if I'd stood on my tiptoes.		I had, of course, already seen the automatons preparing our airships, but the other residents of Burton were very impressed when the machines were put on display in the square. Imagine a metal contraption on six mechanical legs, almost the size of a full-grown armadillo, looking like a mix of a crab, a common sight on the shores of the Ravage Roaming, with a carnivorous spider from the Murmurwoods. There was a gurgling sound coming from within the mechanism, and thin jets of vapor escaped from the numerous valves; its steel frame trembled and its joints creaked slightly. The automaton seemed as hot as a water boiler—well, most of it was, in fact, very much a boiler; the powerful grip protruding from a sort of head had a very menacing appearance, and the Burton youths, eager to impress their girls, would time and again run up and stick their hands into the metal spidercrab’s jaws. Little did they know that its superheated steam powerplant in itself could pose much greater danger to others than any kind of jaws or extremities... 		Frederick told me in confidence that Todd hadn’t been able to fully solve its little reliability problem—he only limited the machine’s standard power, but kept the option of switching to the supercritical mode. It was, however, impossible to turn off once engaged. Naturally, the assembly responsible for this feature was taken off the model on display, but I still preferred to keep my distance.
+Je n'aidais plus Frederick dans son atelier, car j'avais désormais mes propres occupations. Je n'avais même pas remarqué comment cela s'était produit, mais à un moment donné, tout le monde avait commencé à m'appeler le chef scout de Burton. Je continuais toutefois à m'intéresser aux progrès de mon vieil ami et je savais qu'il avait conçu et construit une machine à vapeur améliorée. Elle était trop encombrante et trop lourde pour être montée sur un dirigeable, mais parfaite pour une centrale électrique d'usine ; elle permettait de multiplier le couple sur les arbres des machines à travailler les métaux. L'usine se construisait désormais toute seule : des machines améliorées permettaient de créer de nouveaux éléments structurels, et les installations ne cessaient de croître et de s'étendre. Frederick se consacrait désormais entièrement au secteur de l'énergie et n'avait plus le temps de poursuivre ses autres anciens projets. Cependant, bon nombre d'entre eux virent leur développement entre les mains d'artisans nouvellement arrivés. L'un d'eux, un homme aux cheveux gris à l'allure quelque peu étrange nommé Todd, prit l'initiative de lancer la production en série d'automates. Il passa un bon mois enfermé dans un hangar en compagnie des prototypes que Frederick avait rapportés d'Eeofol, d'une poignée d'assistants, d'une variété d'outils et d'un énorme panier de viande séchée de glyptodon. Quand il est finalement sorti de son confinement volontaire, il avait l'air de ne pas avoir fermé l'œil de la nuit depuis un mois, mais il rayonnait de joie. À ses côtés, deux modèles entièrement assemblés présentaient leurs côtés brillants et polis, et il s'appuyait fièrement, le coude posé sur une pile de plans et d'organigrammes. C'est drôle de se rappeler qu'à ce moment-là, ma conclusion se résumait au fait que la pile de papiers était nettement plus haute que moi, même si je me mettais sur la pointe des pieds. J'avais bien sûr déjà vu les automates préparer nos dirigeables, mais les autres habitants de Burton ont été très impressionnés lorsque les machines ont été exposées sur la place. Imaginez un engin métallique à six pattes mécaniques, presque de la taille d'un glyptodon adulte, ressemblant à un mélange de crabe, que l'on voit couramment sur les rives du Ravage Roaming, et d'araignée carnivore des Murmurwoods. Un gargouillis provenait de l'intérieur du mécanisme, et de minces jets de vapeur s'échappaient des nombreuses valves ; son cadre en acier tremblait et ses articulations grinçaient légèrement. L'automate semblait aussi chaud qu'une chaudière à eau - en fait, il s'agissait en grande partie d'une chaudière ; la puissante pince qui dépassait d'une sorte de tête avait un aspect très menaçant, et les jeunes de Burton, désireux d'impressionner leurs copines, couraient sans cesse vers l'araignée métallique pour y enfoncer leurs mains dans les mâchoires. Ils ne se doutaient pas que son moteur à vapeur surchauffée pouvait en soi représenter un danger bien plus grand pour les autres que n'importe quelle mâchoire ou extrémité... Frederick m'a confié que Todd n'avait pas réussi à résoudre complètement son petit problème de fiabilité : il avait seulement limité la puissance standard de la machine, mais avait conservé la possibilité de passer en mode supercritique. Il était toutefois impossible de l'éteindre une fois enclenché. Naturellement, le dispositif responsable de cette fonctionnalité avait été retiré du modèle exposé, mais je préférais tout de même garder mes distances.
 
 Name:
 Gunslingers
 Message:
-Burton now smelled of money, and that smell tends to work like a magnet, attracting those who would like to appropriate it, as well as those who are willing, for a fee, to discourage the former. Interestingly enough, the majority of both were of the same pedigree: pirates, that is. Not all of those who used to have dealings with the Burton craftsmen succumbed to Dargem's entreaties to come and take what they needed by force. The more staid ones saw the benefit of going into the rapidly growing town’s service. Furthermore, they were promised the most advanced and powerful weapons crafted in Burton's workshops, and that, of course, was a very good incentive.		The townspeople looked askance at those morose men; the mercenaries, equally effective on land and sea, were mostly employed as bounty hunters. Their arms of choice were arquebuses of enormous caliber and very complicated design. If was easy to see how much care the gunslingers had for the tools of their trade; their brass and steel parts were buffed to a shine and glistened in the sun like jewelry, and hardwood stocks were meticulously polished and varnished. Their cloaks bulged suspiciously at the midriff; hiding underneath were not crude pistols like those used by pirates, but things just as sophisticated and expensive as their arquebuses. Rumor had it that those mysterious weapons had already made countless Dargem's henchmen take dirt naps; a well-trained and disciplined gunslinger always ended up being faster than an ever-drunken pirate and his smooth-bore pocket artillery, however proud a sea dog the latter was.
+Burton sentait désormais l'argent, et cette odeur avait tendance à agir comme un aimant, attirant ceux qui souhaitaient s'en approprier, ainsi que ceux qui étaient prêts, moyennant finance, à dissuader les premiers. Il est intéressant de noter que la majorité des uns et des autres étaient issus du même milieu : celui des pirates. Tous ceux qui avaient l'habitude de traiter avec les artisans de Burton ne succombèrent pas aux supplications de Dargem de venir prendre de force ce dont ils avaient besoin. Les plus sérieux virent l'intérêt de se mettre au service de cette ville en pleine expansion. De plus, on leur promit les armes les plus avancées et les plus puissantes fabriquées dans les ateliers de Burton, ce qui, bien sûr, constituait une très bonne motivation.		Les habitants de la ville regardaient d'un mauvais œil ces hommes moroses ; les mercenaires, aussi efficaces sur terre que sur mer, étaient principalement employés comme chasseurs de primes. Leurs armes de prédilection étaient des arquebuses de très gros calibre et de conception très complexe. Il était facile de voir à quel point les pistoleros prenaient soin de leurs outils de travail : leurs pièces en laiton et en acier étaient polies jusqu'à briller et scintillaient au soleil comme des bijoux, et leurs crosses en bois dur étaient méticuleusement polies et vernies. Leurs capes formaient un renflement suspect au niveau du ventre ; elles cachaient non pas des pistolets rudimentaires comme ceux utilisés par les pirates, mais des objets aussi sophistiqués et coûteux que leurs arquebuses. La rumeur disait que ces armes mystérieuses avaient déjà envoyé d'innombrables hommes de main de Dargem six pieds sous terre ; un pistolero bien entraîné et discipliné finissait toujours par être plus rapide qu'un pirate toujours ivre et son artillerie de poche à canon lisse, aussi fier que fût ce dernier.
 
 Name:
 Nemerthea
 Message:
-An old fisherman came to Burton; he lived on the shore near the little harbor where the pirates used to call at for trade. They’d leave him messages, proposing dates for the next exchanges. He said that he had spied familiar black sails on the horizon several times, more and more often in recent days.		“The blue broad is summoning her gals. And I tell ya, they'll come in force—they all have a husband in every port. Suppose they gather them all, even you’ll be in big trouble, and I'll just get gobbled up, bones an' all. Faces of angels they got, but teeth of sharks…”
+Un vieux pêcheur vint trouver Burton ; il vivait sur le rivage près du petit port où les pirates avaient l'habitude de faire escale pour commercer. Ils lui laissaient des messages, proposant des dates pour les prochains échanges. Il dit qu'il avait aperçu plusieurs fois à l'horizon des voiles noires familières, de plus en plus souvent ces derniers jours. « La grande bleue appelle ses filles. Et je te le dis, elles viendront en force, elles ont toutes un mari dans chaque port. Si elles les rassemblent tous, même toi, tu auras de gros ennuis, et moi, je serai dévoré, jusqu'aux os. Elles ont des visages d'anges, mais des dents de requins... »
 
 Name:
 Melchior interrogates pirates
 Message:
-If there is scouting, then there must also be someone to handle the scouts working for the adversary. There was now such a man in Burton, Melchior by name. Sweet-talking and courteous, he could make anyone feel at ease, inducing them to share even what they never realized about themselves. And now he had busted a pirate spy. The interview procedure for those seeking employment as gunslingers, long and confusing for an uninformed onlooker, once again proved to be effective: the candidate broke down over an unexpected question about the best way to spend a large paycheck that came completely against the conversation’s flow. 		At the interrogation, this swaggering, insolent character first laughed and spewed threats, claiming that he feared neither beatings nor death, and that he would certainly be avenged... However, just a minute spent in the company of the automaton that carefully held certain protruding parts of the prisoner's body in its maw was enough; the latter suddenly developed extraordinary eloquence.		Excerpts from the interrogation report:		...lured several enchanters to his side, promising each one a Spellbinder’s Hat...		...fooled the old dolts, of course, but now they seem to have no choice...		...Dargem laughs at your firecrackers and bullets. He's sure he'll squash you like a buncha roaches. What's more, he has several strongholds where his retainers are nested...		...You won't get Dargem. Unless, of course, you can walk on water...
+S'il y a des éclaireurs, il doit aussi y avoir quelqu'un pour s'occuper des éclaireurs travaillant pour l'adversaire. Il y avait désormais un tel homme à Burton, du nom de Melchior. Doué pour la conversation et courtois, il savait mettre tout le monde à l'aise, incitant les gens à partager même ce qu'ils n'avaient jamais réalisé à leur sujet. Et maintenant, il avait démasqué un espion pirate. La procédure d'entretien pour ceux qui cherchaient un emploi de pistolero, longue et déroutante pour un observateur non averti, s'était une fois de plus révélée efficace : le candidat s'était effondré face à une question inattendue sur la meilleure façon de dépenser un gros salaire, qui venait complètement à contre-courant de la conversation. 		Lors de l'interrogatoire, ce personnage arrogant et insolent a d'abord ri et proféré des menaces, affirmant qu'il ne craignait ni les coups ni la mort, et qu'il se vengerait certainement... Cependant, il a suffi d'une minute passée en compagnie de l'automate qui tenait soigneusement certaines parties saillantes du corps du prisonnier dans sa gueule pour que ce dernier développe soudainement une éloquence extraordinaire.		Extraits du rapport d'interrogatoire : ... a attiré plusieurs enchanteurs à ses côtés, promettant à chacun un chapeau de charmeur... ... a trompé les vieux imbéciles, bien sûr, mais maintenant ils semblent n'avoir plus le choix... ... Dargem se moque de vos pétards et de vos balles. Il est sûr qu'il vous écrasera comme une bande de cafards. De plus, il dispose de plusieurs bastions où ses serviteurs sont retranchés... ... Vous n'attraperez pas Dargem. À moins, bien sûr, que vous ne puissiez marcher sur l'eau...
 
 Name:
 Portal warning (141)
 Message:
-The scouts brought troubling news. There were several ancient portals in the vicinity of Burton, but everyone considered them long forgotten and their power gone. No one expected them to come back to life anymore, and they were not considered a possible source of threat—but now it seemed as though someone was trying to reactivate them: the air in the portals churned, lights blinking in it...
+Les éclaireurs apportèrent des nouvelles inquiétantes. Il existait plusieurs portails anciens dans les environs de Burton, mais tout le monde les considérait comme oubliés depuis longtemps et leur pouvoir comme éteint. Personne ne s'attendait à ce qu'ils reprennent vie, et ils n'étaient pas considérés comme une source potentielle de menace. Mais à présent, il semblait que quelqu'un essayait de les réactiver : l'air dans les portails tourbillonnait, des lumières clignotaient à l'intérieur...
 
 Name:
 Steadwick's Fall
 Message:
-Today, refugees from faraway Antagarich arrived in Burton. No, not migrants, but refugees! They brought news that made me feel sick and ashamed, as if it were my thoughts that had invited this trouble. Far across the ocean, war had broken out: the Dungeon Overlords of Nighon had joined forces with the demons! It was hard to believe that the celestial guests had found allies so quickly, but facts were facts. Erathia was still reeling from the recent mysterious death of King Gryphonheart, and rumor had it that its capital, Steadwick, had already fallen to the joint forces of devils and overlords.
+Aujourd'hui, des réfugiés venus de la lointaine Antagarich sont arrivés à Burton. Non, pas des migrants, mais des réfugiés ! Ils ont apporté des nouvelles qui m'ont rendu malade et m'ont fait honte, comme si c'étaient mes pensées qui avaient provoqué ce malheur. De l'autre côté de l'océan, la guerre avait éclaté : les seigneurs du donjon de Nighon s'étaient alliés aux démons ! Il était difficile de croire que les hôtes célestes avaient trouvé des alliés aussi rapidement, mais les faits étaient là. Erathia était encore sous le choc de la mort mystérieuse du roi Gryphonheart, et la rumeur disait que sa capitale, Steadwick, était déjà tombée aux mains des forces conjointes des démons et des seigneurs.
 
 Name:
 Dargem's Fortress
 Message:
-The pirate spy's loose tongue gave a tip that Dargem's main fortress might be on an island. Indeed it was, but the island was surrounded by impregnable cliffs, and the waves were crashing against them with terrible force. The closest we were able to get for surveillance was at least a mile from the shoreline. If only a way could be found to lure Dargem out of his compound! Could there be any means of communication between the pirate fortresses?
+La langue bien pendue de l'espion pirate a laissé entendre que la forteresse principale de Dargem se trouvait peut-être sur une île. C'était effectivement le cas, mais l'île était entourée de falaises imprenables, contre lesquelles les vagues se brisaient avec une force terrible. Le point le plus proche où nous pouvions nous approcher pour surveiller se trouvait à au moins un kilomètre et demi du rivage. Si seulement nous pouvions trouver un moyen d'attirer Dargem hors de son complexe ! Y avait-il un moyen de communication entre les forteresses pirates ?
 
 Name:
 News about Catherine
 Message:
-Today we met a merchant captain from Erathia. The war continues, but it seems that there is still hope! Queen Catherine is gathering troops to retake the capital, and she has already chased off several armies of demons and Nighon Overlords! Moreover, according to rumors shared by the same trader, AvLee and Bracada intended to offer assistance to Erathia in its struggle against the demons.
+Aujourd'hui, nous avons rencontré un capitaine marchand originaire d'Erathia. La guerre continue, mais il semble qu'il y ait encore de l'espoir ! La reine Catherine rassemble des troupes pour reprendre la capitale, et elle a déjà repoussé plusieurs armées de démons et de seigneurs de Nighon ! De plus, selon les rumeurs rapportées par ce même marchand, AvLee et Bracada auraient l'intention d'offrir leur aide à Erathia dans sa lutte contre les démons.
 
 Name:
 Steadwick's Liberation
 Message:
-A merchant from Antagarich brought good news: Steadwick had been liberated! Demons and subterranean creatures are being chased off all over Erathia, and allegedly the land will soon be free of them. 	The trader also shared some bits and pieces of information about the conflict with Tatalia and Krewlod, and the backing that Gavin Magnus's troops had provided to Erathia there, but I wasn't listening anymore...		I no longer thought of the Kreegans as invincible. I still woke up screaming at night when the celestial invaders' ugly countenances sprang up in my dreams, but if humans and elves were able to fight them, maybe we too could get even with them someday. It was, however, neither the time nor the place to think in earnest about it. Burton's needs demanded the full extent of my energy.
+Un marchand d'Antagarich apporta une bonne nouvelle : Steadwick avait été libérée ! Les démons et les créatures souterraines étaient chassés de tout Erathia, et selon certaines sources, le pays serait bientôt débarrassé de leur emprise. Le marchand partagea également quelques informations sur le conflit avec Tatalia et Krewlod, et sur le soutien apporté par les troupes de Gavin Magnus à Erathia, mais je ne l'écoutais plus...		Je ne considérais plus les Kreegans comme invincibles. Je me réveillais encore en hurlant la nuit lorsque les visages hideux des envahisseurs célestes surgissaient dans mes rêves, mais si les humains et les elfes étaient capables de les combattre, peut-être pourrions-nous nous aussi nous venger d'eux un jour. Ce n'était cependant ni le moment ni l'endroit pour y réfléchir sérieusement. Les besoins de Burton exigeaient toute mon énergie.
 
 Name:
 Warning
 Message:
-According to rumors, Dargem is fortifying his stronghold. If we are unable to defeat the pirate's forces within a month and get to his fortress now, it will be too late.
+Selon certaines rumeurs, Dargem serait en train de fortifier sa forteresse. Si nous ne parvenons pas à vaincre les forces pirates dans un délai d'un mois et à atteindre sa forteresse dès maintenant, il sera trop tard.
 
 Name:
 Warning 2
 Message:
-A sailor who escaped from captivity on Dargem's island said that the pirates there were working frantically to build up their fortress' defences. It looks like we have no more than a month left to take it.
+Un marin qui s'est échappé de la captivité sur l'île de Dargem a déclaré que les pirates y travaillaient frénétiquement pour renforcer les défenses de leur forteresse. Il semble qu'il ne nous reste plus qu'un mois pour la prendre.
 
 Name:
 Warning 3
 Message:
-Judging by the news from Burton, the halflings are very alarmed and are summoning everyone who can hold a weapon to join the militia and march against Dargem. We have only two weeks left to capture the pirate's fortress.
+À en juger par les nouvelles en provenance de Burton, les hobbits sont très inquiets et appellent tous ceux qui peuvent porter les armes à rejoindre la milice et à marcher contre Dargem. Il ne nous reste que deux semaines pour capturer la forteresse des pirates.
 
 Name:
 Dead end
 Message:
-The pirates have succeeded in making their fortress impervious. Storming it is no longer possible; even Boyd's power won't help. Our time is up.
+Les pirates ont réussi à rendre leur forteresse imprenable. Il n'est plus possible de la prendre d'assaut ; même le pouvoir de Boyd ne pourra rien y faire. Notre temps est écoulé.
 
 ===== Heroes =====
 
@@ -178,27 +178,29 @@ Message:
 
 (96, 1, 0) ***Seer's Hut***
 Message:
-After the fight against the Liches, you warily look inside the hut. Inside, you see a huge cauldron and a necromancer mixing up some concoction in it.	“I saw how you dealt with the Liches,” says the necromancer. “I admit I am impressed. You see... in recent years I have been studying the process for creating new types of undead dragons, but the Necromancers’ Guild of Jadame banned this research, fearing that the dragons would go out of control. Fools! Cowards! They have no idea what power they are shunning away! I have recently discovered a patently new way to create ghost dragons, but I don't have enough alchemical materials to experiment with. It is hard to obtain sufficient supplies of mercury in these lands, but I am sure that you can help me. As a reward, I could give you a few of the ghost dragons I have already created.”
-I believe we were talking about mercury. I'm afraid no other raw material would do for my experiments.
-This mercury is exactly what I need! I've already created several ghost dragons and I'm willing to let you have them. And one more thing. If you have any bone dragons, bring them to me, and I'll... do some work on them.		Hand mercury to the necromancer in exchange for ghost dragons?
-Bring a bone dragon to me so I can transform it into a more powerful undead creature.
-Bring a bone dragon to me so I can transform it into a more powerful undead creature.
-Hand a bone dragon over to the necromancer to turn it into a ghost dragon?
+Après avoir combattu les liches, vous jetez un œil prudent à l'intérieur de la hutte. Vous y apercevez un immense chaudron dans lequel un nécromancien est en train de préparer une potion. « J'ai vu comment vous avez vaincu les liches, dit le nécromancien. Je dois avouer que je suis impressionné. Vous voyez... ces dernières années, j'ai étudié le processus de création de nouveaux types de dragons morts-vivants, mais la guilde des nécromanciens de Jadame a interdit ces recherches, craignant que les dragons ne deviennent incontrôlables. Imbéciles ! Lâches ! Ils n'ont aucune idée du pouvoir qu'ils rejettent ! J'ai récemment découvert une toute nouvelle façon de créer des dragons fantômes, mais je n'ai pas assez de matériaux alchimiques pour faire des expériences. Il est difficile de se procurer suffisamment de mercure dans ces contrées, mais je suis sûr que vous pouvez m'aider. En récompense, je pourrais vous donner quelques-uns des dragons fantômes que j'ai déjà créés. »
+Je crois que nous parlions de mercure. Je crains qu'aucune autre matière première ne convienne à mes expériences.
+Ce mercure est exactement ce dont j'ai besoin ! J'ai déjà créé plusieurs dragons fantômes et je suis prêt à vous les céder. Et encore une chose. Si vous avez des dragons squelettes, apportez-les-moi, et je... m'occuperai d'eux. Donner du mercure au nécromancien en échange de dragons fantômes ?
+Apportez-moi un dragon squelette afin que je puisse le transformer en une créature mort-vivante plus puissante.
+Apportez-moi un dragon squelette afin que je puisse le transformer en une créature mort-vivante plus puissante.
+Remettez un dragon squelette au nécromancien afin qu'il le transforme en dragon fantôme ?
+
 
 (27, 54, 0) ***Seer's Hut***
 Message:
-Mercenaries previously in the service of Dargem stopped at the smugglers' camp on this bay’s shore. The pirates are eager to join your army, if you pay them 16 mercury, 16 crystals and 15000 gold.
-Mercenaries previously in the service of Dargem stopped at the smugglers' camp on this bay’s shore. The pirates are eager to join your army, if you pay them 16 mercury, 16 crystals and 15000 gold.
-Hire 15 pirates for 16 mercury, 16 crystals and 15000 gold?
-Mercenaries previously in the service of Dargem stopped at the smugglers' camp on this bay’s shore. The pirates are eager to join your army, if you pay them 24 mercury, 24 crystals and 30000 gold.
-Mercenaries previously in the service of Dargem stopped at the smugglers' camp on this bay’s shore. The pirates are eager to join your army, if you pay them 24 mercury, 24 crystals and 30000 gold.
-Hire 15 pirates for 24 mercury, 24 crystals and 30000 gold?
-Mercenaries previously in the service of Dargem stopped at the smugglers' camp on this bay’s shore. The pirates are eager to join your army, if you pay them 32 mercury, 32 crystals and 45000 gold.
-Mercenaries previously in the service of Dargem stopped at the smugglers' camp on this bay’s shore. The pirates are eager to join your army, if you pay them 32 mercury, 32 crystals and 45000 gold.
-Hire 15 pirates for 32 mercury, 32 crystals and 45000 gold?
-Mercenaries previously in the service of Dargem stopped at the smugglers' camp on this bay’s shore. The pirates are eager to join your army, if you pay them 40 mercury, 40 crystals and 60000 gold.
-Mercenaries previously in the service of Dargem stopped at the smugglers' camp on this bay’s shore. The pirates are eager to join your army, if you pay them 40 mercury, 40 crystals and 60000 gold.
-Hire 25 pirates for 40 mercury, 40 crystals and 60000 gold?
+Les mercenaires qui étaient auparavant au service de Dargem se sont arrêtés au camp des contrebandiers sur la rive de cette baie. Les pirates sont impatients de rejoindre votre armée, si vous leur versez 16 mercure, 16 cristaux et 15 000 pièces d'or.
+Les mercenaires qui étaient auparavant au service de Dargem se sont arrêtés au camp des contrebandiers sur le rivage de cette baie. Les pirates sont impatients de rejoindre votre armée, si vous leur versez 16 mercure, 16 cristaux et 15 000 pièces d'or.
+Engager 15 pirates pour 16 mercure, 16 cristaux et 15 000 pièces d'or ?
+Les mercenaires qui étaient auparavant au service de Dargem se sont arrêtés au camp des contrebandiers sur les rives de cette baie. Les pirates sont impatients de rejoindre votre armée, si vous leur versez 24 mercure, 24 cristaux et 30 000 pièces d'or.
+Les mercenaires qui étaient auparavant au service de Dargem se sont arrêtés au camp des contrebandiers sur le rivage de cette baie. Les pirates sont impatients de rejoindre votre armée, si vous leur payez 24 mercure, 24 cristaux et 30 000 pièces d'or.
+Engager 15 pirates pour 24 mercure, 24 cristaux et 30 000 pièces d'or ?
+Les mercenaires qui étaient auparavant au service de Dargem ont fait halte au camp des contrebandiers situé sur les rives de cette baie. Les pirates sont impatients de rejoindre votre armée, si vous leur versez 32 mercure, 32 cristaux et 45 000 pièces d'or.
+Les mercenaires qui étaient auparavant au service de Dargem se sont arrêtés au camp des contrebandiers sur le rivage de cette baie. Les pirates sont impatients de rejoindre votre armée, si vous leur versez 32 mercure, 32 cristaux et 45 000 pièces d'or.
+Engager 15 pirates pour 32 mercure, 32 cristaux et 45 000 pièces d'or ?
+Les mercenaires qui étaient auparavant au service de Dargem se sont arrêtés au camp des contrebandiers sur le rivage de cette baie. Les pirates sont impatients de rejoindre votre armée, si vous leur versez 40 mercure, 40 cristaux et 60 000 pièces d'or.
+Les mercenaires qui étaient auparavant au service de Dargem se sont arrêtés au camp des contrebandiers sur le rivage de cette baie. Les pirates sont impatients de rejoindre votre armée, si vous leur payez 40 mercure, 40 cristaux et 60 000 pièces d'or.
+Engager 25 pirates pour 40 mercure, 40 cristaux et 60 000 pièces d'or ?
+
 
 (36, 24, 0) ***Sign***
 Message:
@@ -206,42 +208,42 @@ Alvar Merchant Guild Trading Post
 
 (18, 32, 0) ***Seer's Hut***
 Message:
-Magic scrolls can be very useful, but nothing beats actually knowing a spell. In years past, I instructed magicians in rare spell mastery, and I can help you too. Bring me a scroll with the Hypnotize spell, and I will teach it to you; however, in return I will ask you to give the scroll to me. I know about the pirate raids, so I will not charge you for my services.	Scrolls of the Hypnotize spell are not easy to come by, but I heard that one of those was lost by an ogre mage in the East. They say that the undead have recently overrun those lands.
-Unfortunately, I can't help you without the right spell scroll.
-Perfect! This scroll is just what I need! Want to learn the Hypnotize spell?
-Magic scrolls can be very useful, but nothing beats actually knowing a spell. In years past, I instructed magicians in rare spell mastery, and I can help you too. Bring me a scroll with the Anti-Magic spell, and I will teach it to you; however, in return I will ask you to give the scroll to me. I know about the pirate raids, so I will not charge you for my services.	Anti-Magic spell scrolls aren't easy to come by, but I heard the wandering gremlin who visited my hut recently had one. Perhaps he's still around.
-Unfortunately, I can't help you without the right spell scroll.
-Perfect! This scroll is just what I need! Want to learn the Anti-Magic spell?
-Magic scrolls can be very useful, but nothing beats actually knowing a spell. In years past, I instructed magicians in rare spell mastery, and I can help you too. Bring me a scroll with the Mirth spell, and I will teach it to you; however, in return I will ask you to give the scroll to me. I know about the pirate raids, so I will not charge you for my services.	Mirth spell scrolls are not easy to come by, but I hear one was lost somewhere in these mountains.
-Unfortunately, I can't help you without the right spell scroll.
-Perfect! This scroll is just what I need! Want to learn the Mirth spell?
-Magic scrolls can be very useful, but nothing beats actually knowing a spell. In years past, I instructed magicians in rare spell mastery, and I can help you too. Bring me a scroll with the Clone spell, and I will teach it to you; however, in return I will ask you to give the scroll to me. I know about the pirate raids, so I will not charge you for my services.	Clone spell scrolls are not easy to come by, but I hear one was lost on an island in the bay.
-Unfortunately, I can't help you without the right spell scroll.
-Perfect! This scroll is just what I need! Want to learn the Clone spell?
+Les parchemins magiques peuvent être très utiles, mais rien ne vaut la maîtrise d'un sort. Au cours des années passées, j'ai enseigné à des magiciens la maîtrise de sorts rares, et je peux vous aider vous aussi. Apportez-moi un parchemin contenant le sort Hypnose, et je vous l'enseignerai ; cependant, en échange, je vous demanderai de me donner le parchemin. Je suis au courant des raids des pirates, je ne vous facturerai donc pas mes services. Les parchemins du sort Hypnose ne sont pas faciles à trouver, mais j'ai entendu dire qu'un mage ogre en avait perdu un dans l'Est. On raconte que les morts-vivants ont récemment envahi ces terres.
+Malheureusement, je ne peux pas vous aider sans le parchemin de sort approprié.
+Parfait ! Ce parchemin est exactement ce dont j'ai besoin ! Vous voulez apprendre le sort Hypnose ?
+Les parchemins magiques peuvent être très utiles, mais rien ne vaut la connaissance d'un sort. Par le passé, j'ai enseigné à des magiciens la maîtrise de sorts rares, et je peux vous aider aussi. Apportez-moi un parchemin avec le sort Anti-magie, et je vous l'enseignerai ; cependant, en échange, je vous demanderai de me donner le parchemin. Je suis au courant des raids des pirates, je ne vous facturerai donc pas mes services. Les parchemins de sortilège Anti-magie ne sont pas faciles à trouver, mais j'ai entendu dire que le gremlin errant qui a récemment visité ma hutte en avait un. Il est peut-être encore dans les parages.
+Malheureusement, je ne peux pas vous aider sans le parchemin de sortilège approprié.
+Parfait ! Ce parchemin est exactement ce dont j'ai besoin ! Vous voulez apprendre le sort Anti-magie ?
+Les parchemins magiques peuvent être très utiles, mais rien ne vaut la connaissance d'un sort. Par le passé, j'ai enseigné à des magiciens la maîtrise de sorts rares, et je peux vous aider aussi. Apportez-moi un parchemin contenant le sort Félicité, et je vous l'enseignerai ; cependant, en échange, je vous demanderai de me donner le parchemin. Je suis au courant des raids des pirates, je ne vous facturerai donc pas mes services. Les parchemins du sort de joie ne sont pas faciles à trouver, mais j'ai entendu dire qu'un exemplaire avait été perdu quelque part dans ces montagnes.
+Malheureusement, je ne peux pas vous aider sans le parchemin de sort approprié.
+Parfait ! Ce parchemin est exactement ce dont j'ai besoin ! Vous voulez apprendre le sort Félicité ?
+Les parchemins magiques peuvent être très utiles, mais rien ne vaut la connaissance d'un sort. Par le passé, j'ai enseigné à des magiciens la maîtrise de sorts rares, et je peux vous aider aussi. Apportez-moi un parchemin contenant le sort Clone, et je vous l'enseignerai ; cependant, en échange, je vous demanderai de me donner le parchemin. Je suis au courant des raids des pirates, je ne vous facturerai donc pas mes services. Les parchemins de sort Clone ne sont pas faciles à trouver, mais j'ai entendu dire qu'un avait été perdu sur une île de la baie.
+Malheureusement, je ne peux pas vous aider sans le parchemin de sort approprié.
+Parfait ! Ce parchemin est exactement ce dont j'ai besoin ! Vous voulez apprendre le sort Clone ?
 
 (25, 16, 0) ***Seer's Hut***
 Message:
-I have experimented with quite an array of weapons in the past, but only recently have I achieved a result I could be proud of. Unfortunately, I don't have enough raw materials to build this new thing I designed, and even if I did, there aren't many willing to test it out. Could you find me some suitable materials? I need quite a sizable supply of sulfur and gems, as well as gold to pay for my work expenses.
-No materials? That's a shame. From what I hear, you could really use my new weapons.
-Excellent! I can start making those guns right now, if you wish.
-My guns are extremely powerful, but I'm afraid there aren't many in your ranks willing to give them a try. However, I've heard there are some excellent marksmen among the mercenary pirates. Bring a few to me, and I'll be glad to train them in the use of the new weapons.
-Still no pirates? I've heard there's a mercenary camp on the coast south of here. The characters there are former pirates who refused to work alongside Dargem. Perhaps they can help you?
- I see you've found the right men to try out my new weapons. Would you like to reequip them now?
+J'ai testé toute une gamme d'armes par le passé, mais ce n'est que récemment que j'ai obtenu un résultat dont je peux être fier. Malheureusement, je n'ai pas assez de matières premières pour construire cette nouvelle arme que j'ai conçue, et même si j'en avais, peu de gens seraient prêts à la tester. Pourriez-vous me trouver des matériaux adaptés ? J'ai besoin d'une quantité importante de soufre et de pierres précieuses, ainsi que d'or pour payer mes frais de travail.
+Vous n'avez pas de matériaux ? C'est dommage. D'après ce que j'ai entendu, mes nouvelles armes pourraient vraiment vous être utiles.
+Excellent ! Je peux commencer à fabriquer ces armes dès maintenant, si vous le souhaitez.
+Mes armes sont extrêmement puissantes, mais je crains que peu de membres de votre groupe ne soient prêts à les essayer. Cependant, j'ai entendu dire qu'il y avait d'excellents tireurs parmi les pirates mercenaires. Amenez-m'en quelques-uns, et je me ferai un plaisir de les former à l'utilisation de ces nouvelles armes.
+Toujours pas de pirates ? J'ai entendu dire qu'il y avait un camp de mercenaires sur la côte au sud d'ici. Les personnages qui s'y trouvent sont d'anciens pirates qui ont refusé de travailler aux côtés de Dargem. Peut-être pourraient-ils vous aider ?
+Je vois que vous avez trouvé les hommes qu'il vous faut pour essayer mes nouvelles armes. Souhaitez-vous les rééquiper dès maintenant ?
 
 (1, 3, 0) ***Seer's Hut***
 Message:
-Many deal with magical artifacts, but creating them is mostly a lost art these days. I, however, have both knowledge and experience in enchanting items, and I am willing to create a genuine artifact for you.	Bring me 50 mercury, 50 sulfur, 50 crystals and 50 gems, and I will enchant a cape that can increase the speed of your troops in battle.
-That's not enough. I need 50 mercury, 50 sulfur, 50 crystals, and 50 gems, no less!
-Aha! That's exactly what I need! Would you like to have the Cape of Velocity?	
+Beaucoup s'occupent d'artefacts magiques, mais leur création est aujourd'hui un art presque perdu. Cependant, je possède à la fois les connaissances et l'expérience nécessaires pour enchanter des objets, et je suis prêt à créer un véritable artefact pour vous. Apportez-moi 50 mercure, 50 soufre, 50 cristaux et 50 gemmes, et j'enchanterai une cape qui augmentera la vitesse de vos troupes au combat.
+Ce n'est pas suffisant. J'ai besoin de 50 mercure, 50 soufre, 50 cristaux et 50 gemmes, pas moins !
+Ah ah ! C'est exactement ce dont j'ai besoin ! Souhaitez-vous obtenir la Cape de Vélocité ?	
 
 (91, 66, 0) ***Seer's Hut***
 Message:
-You enter a small stilt-stayed hut to find an elf rummaging through fishnets. He clearly abhors a fisherman’s work, and doesn’t even look the part; there’s a magelike fleur about him.	“I thought the pirates were back,” the elf says. “Both pirates and bandits have been here, but what’s there to take? Fish and nets, that’s it.	My only treasure, the Orb of Vulnerability, was lost when the dragons attacked my library. Oddly enough, they only burned a few things; but they took away the most valuable possession of mine. I hear that the winged beasts brought the artifact to their “utopia,” halfway from here to Burton, yet no matter how many times I tried to get close to the dragons’ lair, it was all for nothing; they were there. I wouldn't ever be able to take on a single winged wyrm. Now, I saw you fight the pirates. If you could get my orb, I would be delighted to teach you what I know myself. What do you think?
-I'm sorry, but I need my Orb of Vulnerability, and nothing else will do!
-Thought I'd never see my orb again! You say the dragons were wary of it? That's intriguing. Anyway, I can go back to my library now.
-You held up your end of the bargain, and I'll hold up mine.
-I'm sorry, but I can't help you. Only a truly powerful mage can benefit from my lessons.
-One can tell a talented mage at once! Allow me to initiate you into the mysteries of wizardry.
+Vous entrez dans une petite hutte sur pilotis et trouvez un elfe en train de fouiller dans des filets de pêche. Il déteste manifestement le travail de pêcheur et n'en a même pas l'air ; il a plutôt l'air d'un mage. « Je pensais que les pirates étaient de retour », dit l'elfe. « Les pirates et les bandits sont venus ici, mais qu'y a-t-il à prendre ? Du poisson et des filets, c'est tout.	Mon seul trésor, le Globe de Vulnérabilité, a été perdu lorsque les dragons ont attaqué ma bibliothèque. Curieusement, ils n'ont brûlé que quelques objets, mais ils ont emporté mon bien le plus précieux. J'ai entendu dire que les bêtes ailées avaient emporté l'artefact dans leur « utopie », à mi-chemin entre ici et Burton, mais malgré tous mes efforts pour m'approcher du repaire des dragons, mes tentatives ont été vaines : ils étaient là. Je ne serais jamais capable d'affronter une seule vermine ailé. Maintenant, je t'ai vu combattre les pirates. Si tu pouvais récupérer mon orbe, je serais ravi de t'enseigner tout ce que je sais. Qu'en penses-tu ?
+Je suis désolé, mais j'ai besoin de mon Globe de Vulnérabilité, et rien d'autre ne fera l'affaire !
+Je pensais ne jamais revoir mon orbe ! Tu dis que les dragons s'en méfiaient ? C'est intrigant. Quoi qu'il en soit, je peux retourner à ma bibliothèque maintenant.
+Tu as respecté ta part du marché, je respecterai la mienne.
+Je suis désolé, mais je ne peux pas t'aider. Seul un mage vraiment puissant peut bénéficier de mes leçons.
+On reconnaît tout de suite un mage talentueux ! Permets-moi de t'initier aux mystères de la magie.
 
 (56, 107, 0) ***Pandora's Box***
 Message:
@@ -255,7 +257,7 @@ Nemerthea
 Name:
 Boyd
 Biography:
-All scary stories feature a horseman who had been hanged, stabbed or even beheaded and now rides by night, intending to exact revenge on his killers. Nonsense, a necromancer would say, a dead man risen by himself cannot have memory or will. It may well be so, but then Boyd has scores to settle not only with the traitor who slayed him, but also with the one who denied him rest in peace.
+Toutes les histoires effrayantes mettent en scène un cavalier qui a été pendu, poignardé ou même décapité et qui chevauche désormais la nuit, dans le but de se venger de ses meurtriers. Absurde, dirait un nécromancien, un mort ressuscité de lui-même ne peut avoir ni mémoire ni volonté. C'est peut-être vrai, mais Boyd a des comptes à régler non seulement avec le traître qui l'a tué, mais aussi avec celui qui l'a privé de repos éternel.
 
 (15, 99, 0) ***Navigator***
 Name:
@@ -267,28 +269,28 @@ Swarn
 
 (58, 63, 0) ***Quest Guard***
 Message:
-If it weren't for your guide's hint, you wouldn't have noticed a thing here. Following his advice, you spy a bump, which on closer inspection turns out to be a great chest plastered in mud and grass. After brushing them off, you find ornaments depicting dragons and snakes. Apparently, this chest has been here for a very long time, maybe ages, but no one has managed to open it so far.		Indeed—you cannot find a gap between the lid and the walls, nor a keyhole, but among the ornaments you notice two small holes shaped like dragon eyes... or rings with dragon eyes?
-You still can't open the chest. The only thing you can do is look for the keys to it.
-After positioning the rings in their proper places, you are pleased to see that the chest can now be opened. Inside, you find a magical shield made of dragon scales. Do you wish to take it?	
+Sans l'indice donné par votre guide, vous n'auriez rien remarqué ici. Suivant son conseil, vous apercevez une bosse qui, après inspection, s'avère être un grand coffre recouvert de boue et d'herbe. Après les avoir nettoyés, vous découvrez des ornements représentant des dragons et des serpents. Apparemment, ce coffre est ici depuis très longtemps, peut-être des siècles, mais personne n'a réussi à l'ouvrir jusqu'à présent.		En effet, vous ne trouvez ni interstice entre le couvercle et les parois, ni serrure, mais parmi les ornements, vous remarquez deux petits trous en forme d'yeux de dragon... ou d'anneaux avec des yeux de dragon ?
+Vous ne parvenez toujours pas à ouvrir le coffre. La seule chose que vous pouvez faire est de chercher les clés qui permettent de l'ouvrir.
+Après avoir placé les anneaux à leur place, vous constatez avec satisfaction que le coffre peut désormais être ouvert. À l'intérieur, vous trouvez un bouclier magique fait d'écailles de dragon. Souhaitez-vous le prendre ?	
 
 (73, 10, 0) ***Seer's Hut***
 Message:
-In the crypt you are met by a zombie in dark armor, deep in thought.	“So I hear I'm not the only one who has suffered at the hands of Dargem’s pirates. Right! I was once a guard with the Guild's caravans. Zeytoss, Dargem's pet mage, ambushed us. No one survived the battle, but soon a local lich brought me back to life—if you can call it life," the death knight pondered for a moment. “Now all I can hope for is revenge, but I'm weak, and I can't take on an entire pirate army alone. I know Zeytoss has been in these lands recently and may return any day. Take him down, and I'll teach you a thing or two.
-I know Zeytoss is still out there with his army. Find him!
-You say he's gone? Finally!
-The lich who raised me from the dead taught me the spell, Animate Dead. I'm sure you will find better use for it than I ever could, but I'll only teach it to Boyd.
-I'll only talk to Boyd! You living ones simply don’t get our woes.
-Aha, Boyd. Always nice to meet one like yourself. Now listen to what I'm about to tell you...
-I'm about to leave these lands, but I don't want to return home empty-handed. When Zeytoss’ thugs attacked us, we were carrying several dark artifacts—the Blackshard of the Dead Knight, the Shield of the Yawning Dead, the Skull Helmet, and the Hourglass of the Evil Hour. Our merchants were going to sell them to some necromancer. I heard that the pirates who looted our wagons thought them useless and just threw them away. These things are probably still around here somewhere, but I've never been able to locate them. Perhaps you'll have better luck?
-Still haven't found the artifacts? I'm sure they're still in these lands!
-You say you found the Hourglass in the Bone Dragons' treasury? How odd. Anyway, these artifacts are exactly what I need! From now on, no pirate will dare challenge me.
-When I was a guard of Guild’s caravans, I was known as a swordsman of nigh unrivalled skill. I'm ready to teach you something; you deserve it more than anyone else.
-I'll only talk to Boyd! You living ones simply don’t get our woes.
-Now listen to what I'm about to tell you, Boyd.
+Dans la crypte, vous rencontrez un zombie vêtu d'une armure sombre, plongé dans ses pensées. « Il paraît que je ne suis pas le seul à avoir souffert aux mains des pirates de Dargem. C'est vrai ! J'étais autrefois garde dans les caravanes de la guilde. Zeytoss, le mage favori de Dargem, nous a tendu une embuscade. Personne n'a survécu à la bataille, mais peu après, une liche local m'a ramené à la vie... si on peut appeler ça la vie », réfléchit le chevalier de la mort pendant un moment. « Maintenant, tout ce que je peux espérer, c'est me venger, mais je suis faible et je ne peux pas affronter toute une armée de pirates à moi seul. Je sais que Zeytoss a récemment séjourné dans ces contrées et qu'il pourrait revenir d'un jour à l'autre. Éliminez-le, et je vous apprendrai une chose ou deux.
+Je sais que Zeytoss est toujours là-bas avec son armée. Trouvez-le !
+Vous dites qu'il est parti ? Enfin !
+La liche qui m'a ressuscité m'a enseigné le sort « Animation des Morts ». Je suis sûr que tu en feras meilleur usage que moi, mais je ne l'enseignerai qu'à Boyd.
+Je ne parlerai qu'à Boyd ! Vous, les vivants, vous ne comprenez tout simplement pas nos malheurs.
+Ah, Boyd. C'est toujours un plaisir de rencontrer quelqu'un comme toi. Maintenant, écoute ce que je vais te dire...
+Je m'apprête à quitter ces terres, mais je ne veux pas rentrer chez moi les mains vides. Lorsque les sbires de Zeytoss nous ont attaqués, nous transportions plusieurs artefacts sombres : Le Plastron Macabre, l'Écu des Ténèbres, le Casque Noir et le Sablier Diabolique. Nos marchands allaient les vendre à un nécromancien. J'ai entendu dire que les pirates qui ont pillé nos chariots les ont jugés inutiles et les ont simplement jetés. Ces objets se trouvent probablement encore quelque part par ici, mais je n'ai jamais réussi à les localiser. Peut-être aurez-vous plus de chance ?
+Vous n'avez toujours pas trouvé les artefacts ? Je suis sûr qu'ils sont encore dans ces contrées !
+Vous dites avoir trouvé le Sablier dans le trésor des dragons squelettes ? Étrange. Quoi qu'il en soit, ces artefacts sont exactement ce dont j'ai besoin ! À partir de maintenant, aucun pirate n'osera me défier.
+Quand j'étais garde des caravanes de la Guilde, j'étais connu comme un épéiste aux talents presque inégalés. Je suis prêt à t'enseigner quelque chose ; tu le mérites plus que quiconque.
+Je ne parlerai qu'à Boyd ! Vous, les vivants, vous ne comprenez tout simplement pas nos malheurs.
+Maintenant, écoute ce que je vais te dire, Boyd.
 
 (64, 102, 0) ***Sign***
 Message:
-Isle of the Trolls
+Île des Trolls
 
 (107, 75, 0) ***Navigator***
 Name:
@@ -296,25 +298,25 @@ Zeytoss
 
 (65, 63, 0) ***Seer's Hut***
 Message:
-Upon approaching the hut, you stop in indecision. Piles of bones and old armor are scattered around. What happened here? The answer comes once you find scraps of an old diary in the bone piles.		"...everything went even better than we expected. We have had success in creating our first ghost dragons. Our brothers in the Guild keep saying this is madness; they think the dragons we've animated could turn on us. What nonsense! I wish I could see their faces when..."		 The writing comes to an abrupt end. Apparently, the monsters the Liches created proved to be too much for them to handle after all. As you look around, you suddenly notice a host of ghost dragons perched upon the cliffs, watching you closely.		Perhaps Boyd can find some common ground with them?
-The ghost dragons are watching you. It seems as though they are ready to attack any minute, so it would be wise to avoid provoking them.
-Realizing that Boyd had also been raised as undead against his will, the dragons express their eagerness to join your ranks.		You head for the hut, as there may be something of value left there.
-In the hut you see sets of enchanted armor, but apparently, they only fit the undead.
-In the hut you see sets of enchanted armor, but apparently, they only fit the undead.
-Do you want to equip Boyd and his host with armor?
+En approchant de la cabane, vous vous arrêtez, indécis. Des piles d'os et de vieilles armures jonchent le sol. Que s'est-il passé ici ? La réponse vous apparaît lorsque vous trouvez les fragments d'un vieux journal intime parmi les ossements. « ... tout s'est passé encore mieux que prévu. Nous avons réussi à créer nos premiers dragons fantômes. Nos frères de la guilde ne cessent de répéter que c'est de la folie ; ils pensent que les dragons que nous avons animés pourraient se retourner contre nous. Quelle absurdité ! J'aimerais voir leur tête quand... » L'écriture s'arrête brusquement. Apparemment, les monstres créés par les liches se sont avérés trop difficiles à contrôler. En regardant autour de vous, vous remarquez soudain une nuée de dragons fantômes perchés sur les falaises, qui vous observent attentivement. Peut-être que Boyd pourrait trouver un terrain d'entente avec eux ?
+Les dragons fantômes vous observent. Ils semblent prêts à attaquer à tout moment, il serait donc sage d'éviter de les provoquer.
+Réalisant que Boyd a également été ressuscité contre son gré, les dragons expriment leur désir de rejoindre vos rangs. Vous vous dirigez vers la hutte, car il pourrait y avoir quelque chose de valeur à l'intérieur.
+Dans la hutte, vous voyez des armures enchantées, mais elles ne semblent convenir qu'aux morts-vivants.
+Dans la hutte, vous voyez des armures enchantées, mais elles ne semblent convenir qu'aux morts-vivants.
+Voulez-vous équiper Boyd et son hôte d'armures ?
 
 (95, 90, 0) ***Seer's Hut***
 Message:
-In the hut, you unexpectedly meet a triton. He complains that the pirates with their ships have recently scared away most of the attractive catch in these waters. The triton is an experienced warrior, and is willing to teach you a few defensive techniques if you put an end to the pirate threat and defeat Dargem.
-Dargem is still around. There's no point in returning to the triton now.
-After learning of Dargem's defeat, the triton is prepared to fulfill his part of the bargain. 
-Guided by some unknown motives, the triton wants to see Frederick in order to personally train him.
-Guided by some unknown motives, the triton wants to see Frederick in order to personally train him.
-Accept the triton's offer?
+Dans la cabane, vous rencontrez de manière inattendue un triton. Il se plaint que les pirates et leurs navires ont récemment fait fuir la plupart des prises intéressantes dans ces eaux. Le triton est un guerrier expérimenté, et il est prêt à vous enseigner quelques techniques défensives si vous mettez fin à la menace pirate et battez Dargem.
+Dargem est toujours dans les parages. Il est inutile de retourner voir le triton pour l'instant.
+Après avoir appris la défaite de Dargem, le triton est prêt à remplir sa part du marché. 
+Guidé par des motifs inconnus, le triton souhaite voir Frederick afin de l'entraîner personnellement.
+Guidé par des motifs inconnus, le triton souhaite voir Frederick afin de l'entraîner personnellement.
+Acceptez-vous l'offre du triton ?
 
 (22, 9, 0) ***Pirate***
 Message:
-These days, you don't have to wander far to see a honest-to-goodness pirate. Some of them have become so brazen, they come lurking just outside the walls of Burton, catching lead every now and then, sometimes right from the town's towers. This bunch, however, seems new here, just figuring out what to grab and run before a heavy bullet comes their way.
+De nos jours, pas besoin d'aller bien loin pour croiser un vrai pirate. Certains sont devenus tellement effrontés qu'ils rôdent juste à l'extérieur des murs de Burton, se faisant tirer dessus de temps à autre, parfois même depuis les tours de la ville. Ce groupe-là semble toutefois nouveau dans les parages, cherchant encore quoi piller avant qu'une balle ne vienne les atteindre.
 
 (102, 56, 0) ***Cove***
 
@@ -345,31 +347,31 @@ Nemerthea's Bay
 
 (18, 5, 0) ***Quest Guard***
 Message:
-There is a foundry here, but Dargem’s pirates laid waste to it during their raids. Rebuilding it would take 15 ore, 10 crystals, 10 sulfur and 5000 gold.
-Unfortunately, you don't have sufficient resources to rebuild the foundry here.
-Spend the resources and rebuild the structure?
+Il y a une fonderie ici, mais les pirates de Dargem l'ont détruite lors de leurs raids. Sa reconstruction nécessiterait 15 pierres, 10 cristaux, 10 soufrures et 5 000 pièces d'or.
+Malheureusement, vous ne disposez pas des ressources suffisantes pour reconstruire la fonderie ici.
+Dépenser les ressources et reconstruire la structure ?
 
 (6, 10, 0) ***Quest Guard***
 Message:
-There is a manufactory here, but Dargem’s pirates laid waste to it during their raids. Rebuilding it would take 30 wood, 15 mercury, 20 ore and 7500 ore.
-Unfortunately, you don't have sufficient resources to rebuild the manufactory here.
-Spend the resources and rebuild the structure?
+Il y a une manufacture ici, mais les pirates de Dargem l'ont détruite lors de leurs raids. Sa reconstruction nécessiterait 30 bois, 15 de mercure, 20 pierres et 7 500 pièces d'or.
+Malheureusement, vous ne disposez pas de ressources suffisantes pour reconstruire la manufacture ici.
+Dépenser les ressources et reconstruire la structure ?
 
 (31, 12, 0) ***Seaman***
 Message:
-These pirates look completely broke and clueless, armed with nothing but crude, short cutlasses. It would seem that Dargem has decided on an endless harassment tactic to wear down Burton's defenders; even if none are killed, the fatigue might come back to haunt them the moment he sends his main forces in to attack.
+Ces pirates semblent complètement fauchés et désemparés, armés uniquement de sabres rudimentaires et courts. Il semblerait que Dargem ait décidé d'adopter une tactique de harcèlement incessant afin d'épuiser les défenseurs de Burton ; même si aucun d'entre eux n'est tué, la fatigue pourrait revenir les hanter dès qu'il enverra ses forces principales à l'attaque.
 
 (13, 18, 0) ***Quest Guard***
 Message:
-There is a watchtower here, but Dargem’s pirates laid waste to it during their raids. Rebuilding it would take 50 wood, 20 ore and 12000 gold.
-Unfortunately, you don't have sufficient resources to rebuild the watchtower here.
-Spend the resources and rebuild the structure?
+Il y a une tour de guet ici, mais les pirates de Dargem l'ont détruite lors de leurs raids. Sa reconstruction nécessiterait 50 bois, 20 pierres et 12 000 pièces d'or.
+Malheureusement, vous ne disposez pas de ressources suffisantes pour reconstruire la tour de guet ici.
+Dépenser les ressources et reconstruire la structure ?
 
 (71, 14, 0) ***Quest Guard***
 Message:
-This fort was destroyed during the latest pirate attack. You need 50 wood and 10000 gold to rebuild it.
-This fort was destroyed during the latest pirate attack. You need 50 wood and 10000 gold to rebuild it.
-Do you want to rebuild the destroyed fort?
+Ce fort a été détruit lors de la dernière attaque des pirates. Vous avez besoin de 50 bois et 10 000 pièces d'or pour le reconstruire.
+Ce fort a été détruit lors de la dernière attaque des pirates. Vous avez besoin de 50 bois et 10 000 pièces d'or pour le reconstruire.
+Voulez-vous reconstruire le fort détruit ?
 
 (77, 76, 0) ***Event***
 Message:
@@ -389,19 +391,19 @@ Message:
 
 (89, 8, 0) ***Corsair***
 Message:
-On the road, you meet a limping pedestrian, a pirate by the looks of him, clad in a red camisole, once lavish but now ragged and dirty. It is unclear what he is up to so far from the sea, but he is certainly terrified. You try to talk him up, and at first he is eager to oblige, but as soon as you ask him how he ended up here, he leaps up and lashes out at you. He shouts about having barely escaped from the dead man's dungeon and being loath to let out the secrets he has learned there.
+Sur la route, vous rencontrez un piéton boiteux, qui semble être un pirate, vêtu d'une camisole rouge, autrefois somptueuse mais désormais en lambeaux et sale. On ne sait pas très bien ce qu'il fait si loin de la mer, mais il est clairement terrifié. Vous essayez de lui parler, et au début, il se montre coopératif, mais dès que vous lui demandez comment il est arrivé ici, il bondit et se jette sur vous. Il crie qu'il s'est échappé de justesse du donjon du mort et qu'il refuse de révéler les secrets qu'il y a appris.
 
 (48, 27, 0) ***Quest Guard***
 Message:
-A group of bounty hunters is taking a breather here. They aren’t opposed to joining your army, but they demand payment, and also stress that they will only talk to their commander, Tancred, who ordered them to stay in this place. One of the gunslingers notes that Tancred was last seen west from here, where he had set up camp.
-The bounty hunters will only talk to Tancred!
-Seeing Tancred, the gunslingers approach you, preparing to declare their conditions.
+Un groupe de chasseurs de primes fait une pause ici. Ils ne sont pas opposés à l'idée de rejoindre votre armée, mais ils exigent d'être payés et insistent pour ne parler qu'à leur commandant, Tancred, qui leur a ordonné de rester ici. L'un des pistoleros remarque que Tancred a été vu pour la dernière fois à l'ouest d'ici, où il avait établi son campement.
+Les chasseurs de primes ne parleront qu'à Tancred !
+En voyant Tancred, les pistoleros s'approchent de vous, prêts à vous exposer leurs conditions.
 
 (49, 26, 0) ***Quest Guard***
 Message:
-The Gunslingers and Bounty Hunters are willing to join your army for 20000 gold and 20 gems.
-Unfortunately, you don't have the resources needed.
-Hire the gunslingers?
+Les pistoleros et les chasseurs de primes sont prêts à rejoindre votre armée pour 20 000 pièces d'or et 20 gemmes.
+Malheureusement, vous ne disposez pas des ressources nécessaires.
+Engager les pistoleros ?
 
 (78, 78, 0) ***Prison***
 Name:
@@ -409,37 +411,39 @@ Yzraal
 
 (96, 7, 0) ***Pirate***
 Message:
-This pirate looks like he's been through the rollers in the crushing room at the processing factory in Burton. He can hardly move his feet, yet he waddles down the road with a look of incredible determination on his blood-strewn face. Upon seeing you, he lets out a shriek:	“He let me go! He said I could walk... give his best to Dargem... I don't care, I'll give it to you... give you a knife in the gut, like he said!”
+Ce pirate semble avoir été passé au rouleau compresseur dans la salle de traitement de l'usine de Burton. Il peut à peine bouger les pieds, mais il avance péniblement sur la route, le visage ensanglanté, avec une détermination incroyable. En vous voyant, il pousse un cri : « Il m'a laissé partir ! Il a dit que je pouvais marcher... transmettez mes amitiés à Dargem... Je m'en fiche, je vais te le donner... te planter un couteau dans le ventre, comme il l'a dit ! »
 
 (52, 36, 0) ***Quest Guard***
 Message:
-The place caught your attention from afar. Surrounded by huge piles of bones, there stood some cages; inside, you could see large sandworms. But it wasn't the worms that caught your eye, it was the two huge Cyclopes standing around a fire that matched their size, slowly rotating a spit with remains of something indescribable roasting on it. 		Jadamean cyclopes are notorious for their immense appetites, and in attempts to sate them, they pounce at humans, ogres, and trolls, and sometimes even dendroids. These Cyclopes, however, did not seem to be intent on attacking you. 		“Some sour mug again,” one of them suddenly rumbled. “Peoples thinks us bad guy! And why? Cyclops not man-eater. Cyclops trapper. We catch rare beastie, and dark elves gives meat for good beastie. Why not trade with us, too? We have worm. Cyclops can give worm.” 	“I'm afraid we have nothing you’d like.”	“You sure? Well, if finds wyvern, brings them. Cyclops trade for worm.”
-It seems the Cyclopes are still here, and you have nothing to interest them.	
-“Wyvern!” The Cyclops squealed with joy. “Brings them here, and Cyclops give worm.”
+L'endroit a attiré votre attention de loin. Entourées d'énormes tas d'os, se trouvaient plusieurs cages dans lesquelles on pouvait apercevoir de gros vers des sables. Mais ce ne sont pas les vers qui ont attiré votre regard, mais plutôt les deux cyclopes géants qui se tenaient autour d'un feu à leur mesure, faisant lentement tourner une broche sur laquelle rôtissaient les restes d'une créature indescriptible. 		Les cyclopes jadaméens sont connus pour leur appétit vorace, et pour le satisfaire, ils s'attaquent aux humains, aux ogres, aux trolls et parfois même aux dendroïdes. Cependant, ces cyclopes ne semblaient pas avoir l'intention de t'attaquer. « Encore une tête d'aigri », grogna soudain l'un d'eux. « Les gens pensent que nous sommes méchants ! Mais pourquoi ? Les cyclopes ne sont pas des mangeurs d'hommes. Les cyclopes sont des trappeurs. Nous attrapons des bêtes rares, et les elfes noirs nous donnent de la viande en échange. Pourquoi ne pas faire du commerce avec nous aussi ? Nous avons des vers. Les cyclopes peuvent donner des vers. » « J'ai bien peur que nous n'ayons rien qui vous intéresse. » « Vous en êtes sûr ? Eh bien, si vous trouvez des wyvernes, apportez-les. Les cyclopes les échangeront contre des vers. »
+Il semble que les cyclopes soient toujours là, et que vous n'ayez rien qui puisse les intéresser.
+« Wyvernes ! » s'écrièrent les cyclopes avec joie. « Apportez-les ici, et les cyclopes vous donneront des vers. »
+
 
 (56, 30, 0) ***Quest Guard***
 Message:
-A group of Liches are guarding the entrance to the canyon. They agree to let you through if you find an artifact, the Dead Man's Boots, that they lost in a battle with the Minotaurs.
-The Liches are undeterred. They will not let you pass unless you bring them the Dead Man's Boots.
-The Liches notice the Boots and agree to let you pass.	Are you willing to part with the artifact?	
+Un groupe de liches garde l'entrée du canyon. Elles acceptent de vous laisser passer si vous trouvez un artefact, les Bottes du Passeur, qu'elles ont perdu lors d'une bataille contre les minotaures.
+Les liches restent inflexibles. Elles ne vous laisseront pas passer à moins que vous ne leur apportiez les Bottes du Passeur.
+Les liches remarquent les bottes et acceptent de vous laisser passer. Êtes-vous prêt à vous séparer de l'artefact ?	
 
 (64, 3, 0) ***Quest Guard***
 Message:
-In the mountains, you meet a group of traveling dark elves. They appear to be in search of something.	"I collect rare military decorations," one explains. "It is said that during the Ogre-Goblin war, several valuable specimens were lost in these lands. If you can find me some, my friends and I will help you climb the mountains. Without an experienced guide, you’re going to lose your heads here.”	
- "I see you haven't found the decorations yet. Well, we'll be around for a while, so you can take your time.”
-“Excellent! Now we can return to Alvar. Oh, yes, the mountains... Follow me; I'll show you the way. And be careful—lots of ghost dragons have been seen around these parts. Must be the work of the exiled necromancers who have settled in these lands.”		Do you want to proceed to the mountains?
+Dans les montagnes, vous rencontrez un groupe d'elfes noirs en voyage. Ils semblent être à la recherche de quelque chose. « Je collectionne les décorations militaires rares », explique l'un d'eux. « On dit que pendant la guerre entre les ogres et les gobelins, plusieurs spécimens de grande valeur ont été perdus dans ces contrées. Si vous pouvez m'en trouver, mes amis et moi vous aiderons à gravir les montagnes. Sans guide expérimenté, vous allez y laisser votre peau. »	
+ « Je vois que vous n'avez pas encore trouvé les décorations. Eh bien, nous allons rester dans les parages pendant un certain temps, vous pouvez donc prendre votre temps. »
+« Excellent ! Nous pouvons maintenant retourner à Alvar. Oh, oui, les montagnes... Suivez-moi, je vais vous montrer le chemin. Et soyez prudents, beaucoup de dragons fantômes ont été aperçus dans les environs. Ce doit être l'œuvre des nécromanciens exilés qui se sont installés dans ces terres. »        Voulez-vous vous rendre dans les montagnes ?
+
 
 (47, 19, 0) ***Seer's Hut***
 Message:
-In the hut you are met by a sullen-faced dwarf. He grabs his axe, but lowers the weapon after getting a good look at you.		“At last! Thought all I was going to see for the rest of my life were the mugs of those wretched beasts, but lo, a decent face turns up!” the dwarf exclaims. “I beg your pardon. I've seen nothing but ogres and minotaurs these last days. Allow me to share my story. Our ship was sailing from Enroth to Jadame when a sea serpent attacked! Before we figured out what to do, our ship was already going down. By some miracle I managed to make it to shore, and spent the last few weeks wandering the wastelands until I came across this... hut.	 I don't know if any of the ship's crew survived, but my brother was there. I believe he's still alive. Perhaps he managed to get to the other side of strait. If you could find him and bring him here, I would be endlessly grateful.”
-Where's my brother? I must see him!
-Finally! I knew you'd find him! Here, take this magic cloak. I've never worn it. Reckoned my armor would serve me just fine without. Perhaps you could find a use for it?
+Dans la cabane, vous êtes accueilli par un nain à l'air maussade. Il saisit sa hache, mais baisse son arme après vous avoir bien regardé. « Enfin ! Je pensais que je n'allais plus voir que les visages de ces maudites bêtes pour le reste de ma vie, mais voilà qu'un visage décent apparaît ! » s'exclame le nain. « Je vous demande pardon. Je n'ai vu que des ogres et des minotaures ces derniers jours. Permettez-moi de vous raconter mon histoire. Notre navire naviguait entre Enroth et Jadame lorsqu'un serpent de mer l'a attaqué ! Avant que nous ayons pu réagir, notre navire était déjà en train de couler. Par miracle, j'ai réussi à atteindre le rivage et j'ai passé les dernières semaines à errer dans les terres désolées jusqu'à ce que je tombe sur cette... cabane. Je ne sais pas si des membres de l'équipage ont survécu, mais mon frère était là. Je crois qu'il est encore en vie. Il a peut-être réussi à atteindre l'autre côté du détroit. Si vous pouviez le retrouver et le ramener ici, je vous en serais éternellement reconnaissant.
+Où est mon frère ? Je dois le voir !
+Enfin ! Je savais que vous le trouveriez ! Tenez, prenez cette cape magique. Je ne l'ai jamais portée. Je pensais que mon armure me suffirait. Peut-être pourriez-vous en faire bon usage ?
 
 (67, 10, 0) ***Quest Guard***
 Message:
-While crossing a mud river, you notice a gremlin on the bank. The creature studies a magic scroll, turning it from one side to the other, but doesn’t seem able to make out the tails and ends of it.	Magical scrolls can be of great value, but the gremlin has no intention of sharing it. One of your mechanics suggests that the creature will only talk to its kin.
-At the sight of you, the gremlin disappears in the thorny thickets. It will be challenging to get him to part with the scroll.
-Seeing Ziph, the gremlin utters a few words in an unfamiliar language, throws the scroll to the ground and disappears into the thickets.
+En traversant une rivière boueuse, vous remarquez un lutin sur la rive. La créature examine un parchemin magique, le tournant d'un côté puis de l'autre, mais semble incapable d'en distinguer les extrémités. Les parchemins magiques peuvent avoir une grande valeur, mais le lutin n'a aucune intention de le partager. L'un de vos mécaniciens suggère que la créature ne parlera qu'à ses semblables.
+À votre vue, le lutin disparaît dans les buissons épineux. Il sera difficile de lui faire lâcher le parchemin.
+En voyant Ziph, le lutin prononce quelques mots dans une langue inconnue, jette le parchemin par terre et disparaît dans les buissons.
 
 (27, 83, 0) ***Cove***
 
@@ -467,9 +471,9 @@ Message:
 
 (89, 12, 0) ***Quest Guard***
 Message:
-This road leads toward Boyd's hideout, but he's the only one who knows how to get through here.
-This road leads toward Boyd's hideout, but he's the only one who knows how to get through here.
-Do you wish to pass?
+Cette route mène à la cachette de Boyd, mais il est le seul à savoir comment passer par là.
+Cette route mène à la cachette de Boyd, mais il est le seul à savoir comment passer par là.
+Souhaitez-vous passer ?
 
 (17, 78, 0) ***Event***
 Message:
@@ -477,9 +481,9 @@ Message:
 
 (54, 82, 0) ***Quest Gate***
 Message:
-These waters are full of pirates, sea monsters and other nasties. Besides, there's always the risk of being hit in the back. Before we go any further, we should capture the pirates' fortress to the east, where Malathi, one of Dargem's captains, has set up shop. 
-We can't risk sailing further until we resolve the problem with Malathi and her fortress.
-Malathi's band is defeated and her pirate fortress is captured. We can now explore these waters with confidence.
+Ces eaux regorgent de pirates, de monstres marins et d'autres créatures maléfiques. De plus, il y a toujours le risque d'être attaqué par derrière. Avant d'aller plus loin, nous devrions capturer la forteresse des pirates à l'est, où Malathi, l'une des capitaines de Dargem, s'est installée. 
+Nous ne pouvons pas risquer de naviguer plus loin tant que nous n'avons pas résolu le problème avec Malathi et sa forteresse.
+La bande de Malathi est vaincue et sa forteresse pirate est prise. Nous pouvons désormais explorer ces eaux en toute confiance.
 
 (74, 78, 0) ***Prison***
 Name:
@@ -507,9 +511,9 @@ Ylendore
 
 (61, 66, 0) ***Quest Guard***
 Message:
-There is a pirate fortress in the eastern lands. We must capture it before we can continue exploring these lands.
-There is a pirate fortress in the eastern lands. We must capture it before we can continue exploring these lands.
-Do you want to pass?
+Il y a une forteresse pirate dans les terres orientales. Nous devons la capturer avant de pouvoir continuer à explorer ces terres.
+Il y a une forteresse pirate dans les terres orientales. Nous devons la capturer avant de pouvoir continuer à explorer ces terres.
+Voulez-vous passer ?
 
 (89, 101, 0) ***Event***
 Message:
@@ -517,32 +521,33 @@ Message:
 
 (34, 106, 0) ***Quest Guard***
 Message:
-These waters are full of pirates, sea monsters and other nasties. Besides, there's always the risk of being hit in the back. Before we go any further, we should capture the pirates' fortress to the east, where Malathi, one of Dargem's captains, has set up shop. 
-We can't risk sailing further until we resolve the problem with Malathi and her fortress.
-Malathi's band is defeated and her pirate fortress is captured. We can now explore these waters with confidence.
+Ces eaux regorgent de pirates, de monstres marins et d'autres créatures maléfiques. De plus, il y a toujours le risque d'être attaqué par derrière. Avant d'aller plus loin, nous devrions capturer la forteresse des pirates à l'est, où Malathi, l'une des capitaines de Dargem, s'est installée. 
+Nous ne pouvons pas risquer de naviguer plus loin tant que nous n'avons pas résolu le problème avec Malathi et sa forteresse.
+La bande de Malathi est vaincue et sa forteresse pirate est prise. Nous pouvons désormais explorer ces eaux en toute confiance.
 
 (73, 47, 0) ***Quest Guard***
 Message:
-There is a pirate stronghold in these lands. Boyd captured one of the brigands, and here’s what he had to say: Berhanu, a captain of Dargem's fleet, is about to head north to resolve the "undead problem." We can't go south while the northern lands are in danger.
-There is a pirate stronghold in these lands. Boyd captured one of the brigands, and here’s what he had to say: Berhanu, a captain of Dargem's fleet, is about to head north to resolve the "undead problem." We can't go south while the northern lands are in danger.
- Go to the southern lands?
+Il existe un repaire de pirates dans ces contrées. Boyd a capturé l'un des brigands, et voici ce qu'il avait à dire : Berhanu, capitaine de la flotte de Dargem, s'apprête à mettre le cap vers le nord pour régler le « problème des morts-vivants ». Nous ne pouvons pas aller vers le sud tant que les terres du nord sont en danger.
+Il y a un repaire de pirates dans ces contrées. Boyd a capturé l'un des brigands, et voici ce qu'il avait à dire : Berhanu, un capitaine de la flotte de Dargem, s'apprête à partir vers le nord pour résoudre le « problème des morts-vivants ». Nous ne pouvons pas aller vers le sud alors que les terres du nord sont en danger.
+Aller vers les terres du sud ?
 
 (74, 47, 0) ***Quest Guard***
 Message:
-This gate has been taken over by elves—but they appear to be some kind of bandits or pirates. They’ll only let their own in.
-This gate has been taken over by elves—but they appear to be some kind of bandits or pirates. They’ll only let their own in.
+Cette porte a été prise d'assaut par des elfes, mais ceux-ci semblent être une sorte de bandits ou de pirates. Ils ne laissent entrer que les leurs.
+Cette porte a été prise d'assaut par des elfes, mais ceux-ci semblent être une sorte de bandits ou de pirates. Ils ne laissent entrer que les leurs.
 
 (23, 52, 0) ***Quest Guard***
 Message:
-There's a camp of wererat smugglers up ahead; they won't let you pass while Yzraal, one of Dargem's captains, is nearby. Dargem demands that all profits on smuggling go exclusively to him, and exerts terrible punishment on those who dare to disobey him—Yzraal is here to serve as his eyes and the hand that dispenses his “judgement.”
-In the smugglers' den, you could sell some artifacts, buy stolen cannons and even hire mercenaries for various jobs, but the smugglers are terrified of Dargem. As long as Captain Yzraal is around to keep an eye on the den, deals are out of the question.
-Hearing of your victorious clash with Yzraal, the smugglers agree to let you pass.	Do you wish to pass?	
+Il y a un camp de contrebandiers rats-garous plus loin ; ils ne vous laisseront pas passer tant qu'Yzraal, l'un des capitaines de Dargem, sera dans les parages. Dargem exige que tous les profits de la contrebande lui reviennent exclusivement et inflige des punitions terribles à ceux qui osent lui désobéir. Yzraal est là pour servir de bras droit et d'exécuteur de ses « jugements ».
+Dans le repaire des contrebandiers, vous pourriez vendre des artefacts, acheter des canons volés et même engager des mercenaires pour diverses tâches, mais les contrebandiers sont terrifiés par Dargem. Tant que le capitaine Yzraal est là pour surveiller le repaire, il est hors de question de conclure des affaires.
+Apprenant votre victoire contre Yzraal, les contrebandiers acceptent de vous laisser passer. Souhaitez-vous passer ?	
+
 
 (32, 53, 0) ***Quest Guard***
 Message:
-There's a camp of wererat smugglers up ahead; they won't let you pass while Yzraal, one of Dargem's captains, is nearby. Dargem demands that all profits on smuggling go exclusively to him, and exerts terrible punishment on those who dare to disobey him—Yzraal is here to serve as his eyes and the hand that dispenses his “judgement.”
-In the smugglers' den, you could sell some artifacts, buy stolen cannons and even hire mercenaries for various jobs, but the smugglers are terrified of Dargem. As long as Captain Yzraal is around to keep an eye on the den, deals are out of the question.
-Hearing of your victorious clash with Yzraal, the smugglers agree to let you pass.	Do you wish to pass?	
+Il y a un camp de contrebandiers rats-garous plus loin ; ils ne vous laisseront pas passer tant qu'Yzraal, l'un des capitaines de Dargem, sera dans les parages. Dargem exige que tous les profits de la contrebande lui reviennent exclusivement et inflige des punitions terribles à ceux qui osent lui désobéir. Yzraal est là pour servir de bras droit et d'exécuteur de ses « jugements ».
+Dans le repaire des contrebandiers, vous pourriez vendre des artefacts, acheter des canons volés et même engager des mercenaires pour diverses tâches, mais les contrebandiers sont terrifiés par Dargem. Tant que le capitaine Yzraal est là pour surveiller le repaire, il est hors de question de conclure des affaires.
+Apprenant votre victoire contre Yzraal, les contrebandiers acceptent de vous laisser passer. Souhaitez-vous passer ?	
 
 (68, 62, 0) ***Pandora's Box***
 Message:
@@ -550,15 +555,15 @@ Message:
 
 (104, 75, 0) ***Quest Guard***
 Message:
-A small fleet of mercenaries is blocking your path.	One ship’s captain claims that they have come here at the behest of the Merchant Guild to hunt down a notorious thug, a pirate named Berhanu, who has been plundering the Guild’s ships for months. The mercenaries have nothing against you, but they suspect that Berhanu may be using this portal, so they refuse to provide passage to any ships that appear off these shores. 
-Until Berhanu is captured or killed, the mercenaries have no intention of leaving this bay.	
-After hearing of the battle with Berhanu's men and your victory over them, the mercenaries agree to let you pass.	Do you want to sail through?	
+Une petite flotte de mercenaires vous barre la route. Le capitaine d'un des navires affirme qu'ils sont venus ici à la demande de la guilde des marchands pour traquer un bandit notoire, un pirate nommé Berhanu, qui pille les navires de la guilde depuis des mois. Les mercenaires n'ont rien contre vous, mais ils soupçonnent Berhanu d'utiliser ce portail et refusent donc de laisser passer les navires qui apparaissent au large de ces côtes. 
+Tant que Berhanu n'aura pas été capturé ou tué, les mercenaires n'ont pas l'intention de quitter cette baie.    
+Après avoir entendu parler de la bataille contre les hommes de Berhanu et de votre victoire, les mercenaires acceptent de vous laisser passer.    Voulez-vous passer ?	
 
 (47, 90, 0) ***Quest Guard***
 Message:
-These waters are full of pirates, sea monsters and other nasties. Besides, there's always the risk of being hit in the back. Before we go any further, we should capture the pirates' fortress to the east, where Malathi, one of Dargem's captains, has set up shop. 
-We can't risk sailing further until we resolve the problem with Malathi and her fortress.
-Malathi's band is defeated and her pirate fortress is captured. We can now explore these waters with confidence.
+Ces eaux regorgent de pirates, de monstres marins et d'autres créatures maléfiques. De plus, il y a toujours le risque d'être attaqué par derrière. Avant d'aller plus loin, nous devrions capturer la forteresse des pirates à l'est, où Malathi, l'une des capitaines de Dargem, s'est installée. 
+Nous ne pouvons pas risquer de naviguer plus loin tant que nous n'avons pas résolu le problème avec Malathi et sa forteresse .
+La bande de Malathi est vaincue et sa forteresse pirate est prise. Nous pouvons désormais explorer ces eaux en toute confiance.
 
 (94, 41, 0) ***Pandora's Box***
 Message:
@@ -566,9 +571,9 @@ Message:
 
 (73, 57, 0) ***Quest Guard***
 Message:
-There is a pirate fortress in the eastern lands. We must capture it before we can continue exploring these lands.
-There is a pirate fortress in the eastern lands. We must capture it before we can continue exploring these lands.
-Do you want to pass?
+Il y a une forteresse pirate dans les terres orientales. Nous devons la capturer avant de pouvoir continuer à explorer ces terres.
+Il y a une forteresse pirate dans les terres orientales. Nous devons la capturer avant de pouvoir continuer à explorer ces terres.
+Voulez-vous passer ?
 
 (45, 67, 0) ***Pandora's Box***
 Message:
@@ -580,7 +585,7 @@ Message:
 
 (98, 13, 0) ***Pirate***
 Message:
-This pirate looks even worse than the first two. He can't so much as speak a word, but it looks as though Boyd has sent him away to carry the same message as the others. He raises his trembling hand with a gun at you. With a sigh, you urge your warriors at him.
+Ce pirate a l'air encore plus méchant que les deux premiers. Il n'arrive pas à prononcer un mot, mais on dirait que Boyd l'a envoyé pour transmettre le même message que les autres. Il lève sa main tremblante, armée d'un pistolet, dans ta direction. Avec un soupir, tu ordonnes à tes guerriers de s'en prendre à lui.
 
 (9, 48, 0) ***Event***
 Message:
@@ -600,25 +605,26 @@ Message:
 
 (80, 62, 0) ***Quest Guard***
 Message:
-This road leads west along the coast. According to a pirate captured by Boyd, Solendore the elf, one of Dargem’s captains, is going to head north to resolve the “undead problem.” We can’t go south until the northern lands are in danger.
-This road leads west along the coast. According to a pirate captured by Boyd, Solendore the elf, one of Dargem’s captais, is going to head north to resolve the “undead problem.” We can’t go south until the northern lands are in danger.
-Do you want to pass?
+Cette route mène vers l'ouest, le long de la côte. D'après un pirate capturé par Boyd, Solendore l'elfe, l'un des capitaines de Dargem, va se diriger vers le nord pour résoudre le « problème des morts-vivants ». Nous ne pouvons pas aller vers le sud tant que les terres du nord ne sont pas en danger.
+Cette route mène vers l'ouest, le long de la côte. D'après un pirate capturé par Boyd, Solendore l'elfe, l'un des capitaines de Dargem, va se diriger vers le nord pour résoudre le « problème des morts-vivants ». Nous ne pouvons pas aller vers le sud tant que les terres du nord ne sont pas en danger.
+Voulez-vous passer ?
 
 (32, 11, 0) ***Quest Guard***
 Message:
-There is a halfling adobe here, but Dargem’s pirates laid waste to it during their raids. Rebuilding it would take 15 wood, 10 ore, 5 crystals and 3000 gold.
-Unfortunately, you don't have sufficient resources to rebuild the halfling adobe here.
-Spend the resources and rebuild the structure?
+Il y a ici une maison en adobe des halflings, mais les pirates de Dargem l'ont détruite lors de leurs raids. Sa reconstruction nécessiterait 15 bois, 10 pierres, 5 cristaux et 3000 pièces d'or.
+Malheureusement, vous ne disposez pas de ressources suffisantes pour reconstruire la maison en adobe des halflings ici.
+Dépenser les ressources et reconstruire la structure ?
 
 (94, 15, 0) ***Event***
 Message:
-After all the tales I’d heard of the grim dead avenger, I expected just about anything from meeting him, except to run into such a… lively chatter. As I stepped into the hall where Boyd was sitting, he launched into a profanity-laced tirade, something about his endless appreciation for uninvited guests. However, once he got a closer look at me, he erupted with a flurry of compliments, witticisms and jokes just short of ribaldry. Even the light in one of his eye sockets would fade for a moment every now and then, as if he were winking at me.		Before long, though, there was an abrupt transformation about Boyd; it happened the second I first mentioned Dargem. Up until that moment, I could close my eyes and easily imagine talking to a cheerful man brimming with energy and taste for everything around him; yet when Dargem's name was called, Boyd's eye sockets became gloomy hollows, his rich baritone gave way to the whistle of a cold wind mixed with the rattle of bones, and his fingers began scraping at the armrests of his chair with a sickening crunch.		“If you want to bussst that ssstinking bilgerat, I'll do anything to help you. He doesn't know what I've become owing to him; what power I've gained from the emanationsss of torment embedded into my bonesss. But promissse me one thing; once we’ve cornered the wretch, you will let me have him! Much time hasss passed sssince my ssstint on his ship, and he hasss become more than just a go-getting captain—he now hasss his own little realm of brigands he callsss a "principality." He won't ssset a foot out of his castle if he knows we're upon him, but as sssoon as we tread on hisss tail... He'll go chopping and changing. And then we'll make our move.”		For the first time in my life, I felt my feet freezing. Now I knew how those stories of the ghastly dead avenger were born. Indeed: he had only been seen when he was out hunting his murderer, and in that state he was truly awe-inspiring. Of course, no one had ever tried to pay Boyd a visit at his dead manor—and no one knew how tormented that unsettled soul was and how he died all over again whenever forced to remember his last days in that pitiless wretch’s grip.
+Après toutes les histoires que j'avais entendues sur le sinistre vengeur mortel, je m'attendais à tout en le rencontrant, sauf à tomber sur un personnage aussi... bavard. Lorsque je suis entré dans la salle où Boyd était assis, il s'est lancé dans une tirade ponctuée de jurons, quelque chose à propos de son appréciation sans fin pour les invités indésirables. Cependant, dès qu'il m'a vu de plus près, il s'est mis à me couvrir de compliments, de plaisanteries et de blagues à la limite de la vulgarité. Même la lumière dans l'une de ses orbites s'éteignait de temps en temps, comme s'il me faisait un clin d'œil. Mais peu de temps après, Boyd a subi une transformation soudaine, dès que j'ai mentionné Dargem. Jusqu'à ce moment-là, je pouvais fermer les yeux et m'imaginer facilement en train de parler à un homme joyeux, débordant d'énergie et d'enthousiasme pour tout ce qui l'entourait ; mais lorsque le nom de Dargem fut prononcé, les orbites de Boyd devinrent des cavités sombres, sa riche voix de baryton fit place au sifflement d'un vent froid mêlé au cliquetis des os, et ses doigts se mirent à gratter les accoudoirs de sa chaise avec un craquement écœurant.		« Ssssi tu veux descendre ce rat d'égout puant, je ferai tout pour t'aider. Il ne sssait pas ce que je suis devenu à cause de lui, quel pouvoir j'ai acquis grâce aux émanations de tourment incrusssstées dans mes os. Mais promets-moi une chose : une fois que nous aurons acculé ce misérable, tu me laissssseras m'occuper de lui ! Beaucoup de temps s'est écoulé depuis mon passsssage ssssur ssson navire, et il est devenu bien plus qu'un simple capitaine ambitieux : il possède désormais ssson propre petit royaume de brigands qu'il appelle une "principauté". Il ne mettra pas un pied hors de sssson château s'il ssssait que nous ssssommes à ses trousssssses, mais dès que nous lui marcherons sur les talons... Il va ssse mettre à couper et à changer. Et c'est là que nous passsssserons à l'action ». Pour la première fois de ma vie, j'ai senti mes pieds se glacer. Je comprenais maintenant comment ces histoires de vengeurs morts effrayants avaient vu le jour. En effet : on ne l'avait vu que lorsqu'il était à la recherche de son meurtrier, et dans cet état, il était vraiment impressionnant. Bien sûr, personne n'avait jamais essayé de rendre visite à Boyd dans son manoir mortuaire, et personne ne savait à quel point cette âme tourmentée était tourmentée et comment il mourait à nouveau chaque fois qu'il était contraint de se souvenir de ses derniers jours entre les mains de ce misérable sans pitié.
+
 
 (60, 56, 0) ***Quest Guard***
 Message:
-There is a pirate fortress in the eastern lands. We must capture it before we can continue exploring these lands.
-There is a pirate fortress in the eastern lands. We must capture it before we can continue exploring these lands.
-Do you want to pass?
+Il y a une forteresse pirate dans les terres orientales. Nous devons la capturer avant de pouvoir continuer à explorer ces terres.
+Il y a une forteresse pirate dans les terres orientales. Nous devons la capturer avant de pouvoir continuer à explorer ces terres.
+Voulez-vous passer ?
 
 (56, 59, 0) ***Pandora's Box***
 Message:
@@ -666,9 +672,9 @@ Bess
 
 (3, 93, 0) ***Seer's Hut***
 Message:
-In the hut, you are met by a scowling gunslinger and a handful of his comrades.	"Hunting pirates, huh? So are we. We've been contacted by the Bounty Hunter Guild, all the way from Ravenshore—ever heard of it? A wealthy merchant paid them to find Bess, but they’re failing miserably at the job. The pirate broad has been famously evading capture for a whole year now. Just about everyone was out to get her—trolls, minotaurs, what have you! All for naught. With nothing else left to try, the Guild turned to us. We know for a fact that Bess is out here somewhere, but we haven't been able to pin her down yet, either. You keep your eyes peeled—you might just get lucky, and cross paths with this rapscallion.”
-"You say you've never seen this Bess, or even heard of her? Very odd; that gal is hardly the type to keep a low profile. I've heard reports, however, that she'd headed for Burton with her bunch of goons.”
-“Bess is done for, ya say? Nice to hear! It's a shame, of course, that we were the ones who tracked her down first, yet she got her comeuppance from you; but what can you do! Well, since we're not going to get the reward now, and opportunities aren’t easy to come by in these parts—mightn’t you have use for some firepower in your army? We could join you.”		Accept the bounty hunters' offer?
+Dans la cabane, vous êtes accueilli par un pistolero renfrogné et une poignée de ses camarades. « Vous chassez les pirates, hein ? Nous aussi. Nous avons été contactés par la Guilde des chasseurs de primes, qui vient tout droit de Ravenshore, vous connaissez ? Un riche marchand les a payés pour retrouver Bess, mais ils échouent lamentablement dans leur mission. La pirate échappe à la capture depuis maintenant un an. Presque tout le monde était à sa recherche : trolls, minotaures, tout ce que vous voulez ! En vain. N'ayant plus rien à essayer, la guilde s'est tournée vers nous. Nous savons pertinemment que Bess est quelque part par ici, mais nous n'avons pas encore réussi à la localiser. Gardez les yeux ouverts, vous aurez peut-être la chance de croiser cette vaurienne. »
+« Tu dis que tu n'as jamais vu cette Bess, ni même entendu parler d'elle ? Très étrange ; cette fille n'est pas du genre à faire profil bas. J'ai toutefois entendu dire qu'elle s'était dirigée vers Burton avec sa bande de voyous.
+— Bess est fichue, tu dis ? Ça fait plaisir à entendre ! C'est dommage, bien sûr, que ce soit nous qui l'ayons retrouvée en premier, mais c'est vous qui lui avez donné ce qu'elle méritait ; mais que voulez-vous y faire ! Bon, puisque nous n'allons pas toucher la récompense maintenant, et que les opportunités ne courent pas les rues dans cette région, vous n'auriez pas besoin de renforts dans votre armée ? Nous pourrions nous joindre à vous. » Accepter l'offre des chasseurs de primes ?
 
 (54, 104, 0) ***Pandora's Box***
 Message:
@@ -676,8 +682,8 @@ Message:
 
 (82, 99, 0) ***Quest Guard***
 Message:
-This outpost is guarded by a large band of pirates. Perhaps some of them will run off if we defeat Dargem?
-This outpost is guarded by a large band of pirates. Perhaps some of them will run off if we defeat Dargem?
-The pirates retreated to their stronghold. Some of them, upon hearing about Dargem’s undoing, boarded ships and fled the island.		Would you like to proceed to the fortress?
+Cet avant-poste est gardé par une importante bande de pirates. Peut-être que certains d'entre eux s'enfuiront si nous vainquons Dargem ?
+Cet avant-poste est gardé par une importante bande de pirates. Peut-être que certains d'entre eux s'enfuiront si nous vainquons Dargem ?
+Les pirates se sont retirés dans leur forteresse. Certains d'entre eux, après avoir appris la défaite de Dargem, ont embarqué sur des navires et ont fui l'île.        Souhaitez-vous vous rendre à la forteresse ?
 
 ===== End of file =====
