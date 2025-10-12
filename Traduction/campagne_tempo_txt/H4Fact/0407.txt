@@ -1,8 +1,8 @@
 ===== Map name =====
-New Order
+Nouvel Ordre
 
 ===== Map description =====
-Kastore came to power in Burton. Halflings were declared traitors, so their last hope is to return to Eeofol. Acquire the resources for the voyage home and reach the airship yard to win the scenario. Your heroes are limited to the level 36, but they will bring the Admiral’s Hat to the next scenario.
+Kastore a pris le pouvoir à Burton. Les Hobbits ont été déclarés des traîtres ; leur dernier espoir est donc de retourner à Eeofol. Récupérez les ressources nécessaires au voyage de retour et rejoignez le Chantier Aéronaval pour remporter le scénario. Vos héros sont limités au niveau 36, mais ils apporteront la Bicorne d'Amiral au scénario suivant.
 
 ===== Rumors =====
 
@@ -14,69 +14,69 @@ Message:
 
 
 Name:
-Return to Jadame - Part I
+Retour à Jadame - Partie I
 Message:
-All the way back to Jadame, I was looking forward to just one thing. As soon as I got ashore, I would share the glad tidings with every halfling. Tavin is alive! And that means others are alive too—someone's family, brothers, friends. We will immediately start preparing a rescue party, and my new experience will help it go much better than my previous one. Years of hard work have paid off: our new airships are faster and more capacious. Now we'll recruit an army of warriors, their hearts burning with justice, and load up the mighty dreadnoughts. We'll return to Eeofol and pounce at the enemy; as they are handcuffed by their war with the heroes of Erathia, we can strike where no one expects us. We'll rescue everyone, bring them here, show them how well we’ve done for ourselves! I couldn’t help sharing every detail of my future plans with Wynona. Even though she supported me fervently, I think I kind of wore her out with my blabbering.
+Tout au long du chemin du retour vers Jadame, je n'attendais qu'une chose. Dès mon débarquement, j'annoncerais la bonne nouvelle à chaque Hobbit. Tavin est vivant ! Et cela signifie que d'autres sont vivants aussi : sa famille, ses frères, ses amis. Nous allons immédiatement préparer une équipe de secours, et ma nouvelle expérience contribuera à ce que ça se passe bien mieux que la précédente fois. Des années de dur labeur ont porté leurs fruits : nos nouveaux dirigeables sont plus rapides et plus spacieux. Nous allons maintenant recruter une armée de guerriers, le cœur brûlant de justice, et charger les puissants Démolisseurs. Nous retournerons sur Eeofol et fondrons sur l'ennemi ; entravés par leur guerre contre les héros d'Erathia, nous pourrons frapper là où personne ne nous attend. Nous sauverons tout le monde, les ramènerons ici, leur montrerons à quel point nous avons réussi ! Je n'ai pas pu m'empêcher de partager tous les détails de mes projets avec Wynona. Même si elle m'a soutenu avec ferveur, je crois l'avoir un peu épuisée avec mes bavardages.
 
 Name:
-Return to Jadame - Part II
+Retour à Jadame - Partie II
 Message:
-At length, the long-awaited day came: our ship dropped anchor at a little wharf. Cages with exotic animals and boxes full of Couatl eggs were unloaded. Neither I nor the other expedition participants could hide our joy. After months of wandering through the wet, muddy jungle, this land felt even more precious to us than before, however scorched by the sun and dull in appearance.
+Enfin, le jour tant attendu arriva : notre navire jeta l'ancre à un petit quai. Des cages contenant des animaux exotiques et des caisses remplies d'œufs de Couatl furent déchargées. Ni moi ni les autres participants de l'expédition ne pûmes cacher notre joie. Après des mois d'errance dans la jungle humide et boueuse, cette terre nous semblait encore plus précieuse qu'auparavant, malgré son aspect terne et brûlé par le soleil.
 
 Name:
-Morton and Fort Rotwang
+Morton et Fort Rotwang
 Message:
-We proceeded cautiously inland, avoiding the big roads and the open countryside. Our ears became our eyes; when you're being hunted, the more eyes the better. I grinned bitterly; I would have loved to grow a few more pairs, should Agar have been available. As I passed by a ravine, I heard a barely perceptible noise; a sniffle or snore. I gestured to Wynona, urging her to slow down. The elf's ears twitched, and a second later she was pointing in the direction the sound had come from. 		Silently, like a proper scout, I crept toward the ravine at the indicated spot. What I saw was a sad picture: a few haggard, wounded halflings, hiding under some dirty, tattered rags. I couldn't see their faces, but their bare heels, covered with sparse gray hair, made my heart beat faster. 		“Kosta, you old rascal! Get up! Your ponies gobbled up all the carrots at Melanie's again!”		Kosta jumped up and stared at me in fear. Tears sprang from the old carter’s eyes and a cry of horror escaped his chest, but as soon as his purblind eyes recognized my face, he began wailing even louder, this time out of happiness. 		“Henrietta, that you? I've had it. So it turns out they found me, and I'm in heaven now.”		“What are you on about, Kosta? It's me; I'm alive. And you're alive! What happened to you?”		“Morton. That damn goblin! So many buds of mine got popped off by his devilish machinery! We barely made it out of Rotwang.”		“Wait. Morton? He betrayed us, too?”		“Aye, lass, him too. Small wonder, you know—for the green-skinned scum he is. When the people started coming from the north with bitter news, we began preparing for a tussle. We even pulled a bit of a ruse; got Morton ambushed and broke a dozen of his shooty thangs, but the toad-faced freak still got entrenched in the suburbs. Just a handful of us militiamen made it out alive, so here we are. There was no way to get back into town, and we went looking for help.” 		“Don't be scared, old sport. You found it!”		“So Rotwang is either under siege or has already fallen. Even if it is the latter, the town must have suffered some big damage, so it’ll take Morton a while to rebuild its defenses,” I thought as I considered our options.
+Nous avançâmes prudemment à l'intérieur des terres, évitant les grandes routes et la campagne. Nos oreilles devinrent nos yeux ; quand on est chassé, plus on a d'yeux, mieux c'est. Je souris amèrement ; j'aurais adoré en faire pousser quelques paires supplémentaires, si Agar avait été disponible. En passant près d'un ravin, j'entendis un bruit à peine perceptible : un reniflement ou un ronflement. Je fis signe à Wynona de ralentir. Les oreilles de l'elfe tressaillirent et, une seconde plus tard, elle pointait du doigt la direction d'où venait le bruit. 		Silencieusement, tel un véritable éclaireur, je me faufilai vers le ravin à l'endroit indiqué. Ce que je vis était une image triste : quelques Hobbits hagards et blessés, cachés sous des haillons sales et en lambeaux. Je ne pouvais voir leurs visages, mais leurs talons nus, couverts d'une chevelure grise clairsemée, me faisaient battre le cœur plus fort. 		"Kosta, vieux coquin ! Debout ! Tes poneys ont encore dévoré toutes les carottes chez Mélanie ! "		Kosta bondit et me fixa d'un regard effrayé. Des larmes jaillirent des yeux du vieux charretier et un cri d'horreur s'échappa de sa poitrine, mais dès que ses yeux aveugles reconnurent mon visage, il se mit à hurler encore plus fort, de bonheur cette fois. 		"Henrietta, c'est toi ? J'en ai eu assez. Alors, il s'avère qu'ils m'ont retrouvé, et je suis au paradis maintenant."		"Qu'est-ce que tu racontes, Kosta ? C'est moi ; je suis vivant. Et toi, tu es vivant ! Que t'est-il arrivé ? "		"Morton. Ce satané gobelin ! Tant de bourgeons miens ont été arrachés par ses machines diaboliques ! On a à peine réussi à sortir de Rotwang."		"Attends. Morton ? Il nous a trahis aussi ? "		"Ouais, ma belle, lui aussi. Pas étonnant, tu sais, vu le bâtard à la peau verte qu'il est. Quand les gens ont commencé à arriver du nord avec de mauvaises nouvelles, on s'est préparés à une bagarre. On a même rusé : on a pris Morton en embuscade et on a cassé une douzaine de ses machins, mais le monstre à tête de crapaud s'est quand même retranché dans les faubourgs. Seule une poignée de miliciens s'en est sortie vivante, alors on est là. Impossible de rentrer en ville, et on est partis chercher de l'aide." 		"N'aie pas peur, mon vieux. Tu as trouvé ! "		"Donc Rotwang est soit assiégée, soit tombée. Même dans ce dernier cas, la ville a dû subir de gros dégâts, il faudra donc du temps à Morton pour reconstruire ses défenses", pensai-je en réfléchissant à nos options.
 
 Name:
-Kastore comes to power
+Kastore arrive au pouvoir
 Message:
-Once safe under our protection, Kosta came to quickly. Sure, he didn’t get any younger, but he was no longer the pitiful, half-dead, horrified and exhausted creature we had found hiding in a hole like a rabbit. He told me in detail what had transpired over the last few months. 		I had never liked Kastore; I sensed something in him that made it hard to believe in the sincerity of his desire to help Burton prosper for the benefit of everyone in Terra Nova, as he never missed a chance to declare from the podium. Turns out, I wasn’t wrong. The man who came from beyond the sea got a stranglehold on everything within his reach. He kept demanding that more ore be mined and procured and that more machinery be built; no one understood why. The halflings' shifts became longer and the working conditions worse. 		Many turned to Frederick then, as they had done before, when he was head of the supervisory board for the Associated Burton Works, but the guards wouldn’t let them meet him. No one had seen the inventor for weeks. After Kastore’s arrival, Frederick had started disappearing for long stints, apparently conducting research in laboratories hidden from the prying eyes. Now it felt as though he had vanished for good—it seemed that no one knew where he was, except for the warlock. 		When the first disgruntled workers went on strike and stopped the steam hammers, demanding a renegotiation of the collective bargaining agreement, Kastore let his mercenaries in wide-brimmed hats and long cloaks at them, brutally suppressing the protest.		“Those fellers weren't ours—frig knows where the blasted sorceror pulled them bastards outta," Kosta said.		However, Kastore's reaction only gave the halflings more fuel; they had long learned to fight back when someone tried to take away what they had come to regard as their own. Soon most of the factories were halted, many of the machines broken, and my brethren began setting up militias. They’d catch the mercenaries and beat the hell out of them wherever they could. They covered the walls with graffiti calling to throw the uninvited guest from Deyja off the throne he had made for himself, without regard for the opinion of those who never wanted any kings or sovereigns in Burton or the other free cities. 	Then Kastore outlawed every last halfling; some got shackled to their machines, others thrown into the dungeons. Those whom his bandits could not lay their hands on were hunted down. I, as the alleged leader of the rebelling people, was charged in absentia with instigating sabotage and organizing riots.
+Une fois en sécurité sous notre protection, Kosta reprit rapidement ses esprits. Certes, il ne rajeunissait pas, mais il n'était plus la créature pitoyable, à moitié morte, horrifiée et épuisée que nous avions trouvée cachée dans un trou comme un lapin. Il me raconta en détail ce qui s'était passé ces derniers mois. 		Je n'avais jamais apprécié Kastore ; je sentais en lui quelque chose qui m'empêchait de croire à la sincérité de son désir d'aider Burton à prospérer pour le bien de tous à Terra Nova, car il ne manquait jamais une occasion de s'exprimer à la tribune. Il s'avéra que je n'avais pas tort. L'homme venu d'outre-mer avait la mainmise sur tout ce qui se trouvait à sa portée. Il exigeait sans cesse que davantage de minerai soit extrait et acheté, et que davantage de machines soient construites ; personne ne comprenait pourquoi. Les journées de travail des Hobbits s'allongeaient et les conditions de travail se dégradaient. 		Nombreux furent ceux qui se tournèrent alors vers Frederick, comme ils l'avaient déjà fait lorsqu'il présidait le conseil de surveillance de l'Associated Burton Works, mais les gardes refusèrent de les laisser le rencontrer. Personne n'avait vu l'inventeur depuis des semaines. Après l'arrivée de Kastore, Frederick avait commencé à disparaître pendant de longues périodes, menant apparemment des recherches dans des laboratoires à l'abri des regards indiscrets. Il avait maintenant l'impression d'avoir disparu pour de bon ; personne ne savait où il était, à part le Démoniste. 		Lorsque les premiers ouvriers mécontents se mirent en grève et arrêtèrent les marteaux à vapeur, exigeant une renégociation de la convention collective, Kastore lança ses mercenaires coiffés de chapeaux à larges bords et de longues capes, réprimant brutalement la manifestation.		"Ces types n'étaient pas des nôtres ; Frig sait où ce satané sorcier les a sortis", dit Kosta.		Cependant, la réaction de Kastore ne fit qu'attiser la colère des Hobbits ; ils avaient depuis longtemps appris à riposter quand on tentait de leur prendre ce qu'ils considéraient comme leur appartenant. Bientôt, la plupart des usines furent à l'arrêt, de nombreuses machines brisées, et mes frères commencèrent à constituer des milices. Ils attrapaient les mercenaires et les battaient à mort partout où ils les voyaient. Ils couvraient les murs de graffitis appelant à chasser l'invité indésirable de Deyja du trône qu'il s'était construit, sans tenir compte de l'opinion de ceux qui ne voulaient ni rois ni souverains à Burton ni dans les autres cités libres. 	Puis Kastore déclara hors-la-loi tous les Hobbits ; certains furent enchaînés à leurs machines, d'autres jetés aux oubliettes. Ceux que ses bandits ne pouvaient pas arrêter étaient traqués. Moi, chef présumé du peuple rebelle, je fus accusé, pendant mon absence, d'incitation au sabotage et d'organisation d'émeutes.
 
 Name:
 Murdoch
 Message:
-We had gotten a foothold in Larimar, but it was hardly a good spot to stay for long. This small, poor town would not make for a good base camp, and the locals were outright frightened of us. Of course, it would be silly to get angry at them for that: the draconian laws penned by Kastore and the punishments promised by the usurper were to blame for it. The penalty codex counted for nearly half of the weighty tome, Leges Terrae Novae, published by the Burton printing house just a month ago. To think that not a year had passed since we had faced adversity side by side with these men and labored for our common future! And now our roads have parted and will diverge further and further with each passing day. 		Ample proof of that was my encounter with a local boy, too young to remember our struggles against the pirates or Zog. The kid sprang out from behind the bushes with a loud shriek, probably meant to be a battle cry. I almost laughed—it sounded way too hilarious in his birdish voice. Not at all embarrassed by failing to make the desired impression on me, the boy pointed at me with the stick that his imagination had made into a gun:		“Die, you traitorous midget! Bang, bang, bang! I'm Murdoch, the best marksman in the Ravage Roaming! I can hit an enemy’s heart square from a mile away! Fear me!”		I used to laugh and play along with the children as they posed as ogres, goblins, and other monsters in their games, but this was different. The child's attitude and antics struck me unpleasantly. I gave in to outrage, snatched the stick from the little bully’s hands, snapped it over my knee, threw it into the bushes, and gave him a good slap up his head. The boy was no chicken; he didn’t burst into tears, but rather spat at me and ran away, looking back and shouting:		“Yeah, you'll regret this too! Murdoch is close by, and he knows you're here! You'll see! He'll shoot you all like the prairie dogs you are, and we'll—and we'll stop being afraid, and everything will be as it was before!”
+Nous avions pris pied à Larimar, mais ce n'était guère un endroit où il faisait bon s'attarder. Cette petite ville pauvre ne ferait pas un bon camp de base, et les habitants nous craignaient terriblement. Bien sûr, il aurait été absurde de leur en vouloir pour cela : les lois draconiennes édictées par Kastore et les châtiments promis par l'usurpateur en étaient la cause. Le codex des peines représentait près de la moitié du lourd ouvrage, Leges Terrae Novae, publié par l'imprimerie Burton il y a tout juste un mois. Dire qu'il ne s'était pas écoulé un an depuis que nous avions affronté l'adversité aux côtés de ces hommes et œuvré pour notre avenir commun ! Et maintenant, nos routes se séparent et divergeront de plus en plus chaque jour qui passe. 		Ma rencontre avec un garçon du coin, trop jeune pour se souvenir de nos combats contre les pirates ou Zog, en était la preuve éclatante. Le gamin surgit de derrière les buissons en poussant un cri strident, se voulant probablement un cri de guerre. J'ai failli rire – sa voix d'oiseau était bien trop hilarante. Pas du tout gêné de ne pas m'avoir fait l'effet escompté, le garçon m'a pointé du doigt avec le bâton que son imagination avait transformé en fusil :		"Meurs, espèce de petit traître ! Bang, bang, bang ! Je suis Murdoch, le meilleur tireur de Ravage Roaming ! Je peux atteindre un ennemi en plein cœur à un kilomètre ! Craignez-moi ! "		J'avais l'habitude de rire et de jouer avec les enfants qui se faisaient passer pour des Ogres, des Gobelins et autres monstres dans leurs jeux, mais là, c'était différent. L'attitude et les pitreries de l'enfant m'ont profondément énervé. J'ai cédé à la colère, j'ai arraché le bâton des mains du petit tyran, je l'ai brisé sur mon genou, je l'ai jeté dans les buissons et je lui ai donné une bonne claque sur la tête. Le garçon n'était pas un lâche ; il n'a pas fondu en larmes, mais m'a craché dessus et s'est enfui en se retournant et en criant :		"Ouais, tu vas le regretter aussi ! Murdoch est tout près, et il sait que tu es là ! Tu vas voir ! Il vous tirera dessus comme les chiens que vous êtes, et nous… nous n'aurons plus peur, et tout redeviendra comme avant ! "
 
 Name:
-Moonchild
+Enfant de la lune
 Message:
-I was sitting alone by the fire, deep in my thought, when Kosta came up to me, holding out a flask of Triple Cactus Swill, a teeth-grindingly potent brew of his own distillation, of which he was incredibly proud. I was never one for ceremonies; I took a couple of swigs, and then we just sat there in silence. I remembered how way back in the day, in the winter evenings, when I was still very small, I’d sit by the fireplace in old Haye’s cabin, and my foster grandfather, usually picky and shouty, would braid the hair over my right ear with his stiff fingers.		“Listen, Kosta... What's a Moonchild? Ever heard anyone called that?”		“It is known, lass... When a young girl brings…”		The old carter suddenly shuddered, as if he remembered something very important, and almost shouted: “No, no, don't know about no child, don't want to know, never seen, never been near, damn me to where the horned ones drag their buds out of!”		The old man dropped the flask, jumped up and walked away, slapping his heels on the sand. I sat staring into the flames. A thin figure emerged from the darkness. Wynona stood on the other side of the bohfire, her head raised to the sky.		“We have a song... You don't know our language, but I'll try to translate it for you.”		Call her Moonchild	Dancing in the shallows of a river.	Lonely Moonchild	Dreaming in the shadow of a willow.	Talking to the trees of the cobweb strange,	Sleeping on the steps of a fountain,	Waving silver wand to the night-birds song,	Waiting for the sun on the mountain.		“That’s beautiful... But why was he so scared? Couldn’t have been because of an elven song. There must be something else... I wish I knew the answer, but I don’t want any more poor old men to die or run away in terror. Gods, I never begged you for the secrets of my past. I like the present just fine; I’m alive, strong, and able to decide for myself what I want and where I go... Why now?”
+J'étais assise seule près du feu, plongée dans mes pensées, quand Kosta s'approcha de moi, me tendant une fiole de Triple Cactus Swill, une boisson puissante et grinçante, issue de sa propre distillation, dont il était incroyablement fier. Je n'étais pas du genre cérémonieux ; je bus quelques gorgées, puis nous restâmes assis là, en silence. Je me souvenais qu'autrefois, les soirs d'hiver, quand j'étais encore toute petite, j'étais assise près de la cheminée dans la cabane du vieux Haye, et mon grand-père adoptif, d'habitude difficile et criard, me tressait les cheveux sur une de mes oreilles de ses doigts noueux.		"Écoute, Kosta… C'est quoi, un Enfant de la Lune ? Tu as déjà entendu quelqu'un appeler ça comme ça ? "		"C'est connu, ma fille… Quand une jeune fille apporte… "		Le vieux charretier frissonna soudain, comme s'il se souvenait de quelque chose de très important, et faillit crier : "Non, non, je ne sais rien d'aucun enfant, je ne veux pas savoir, jamais vu, jamais approché, que je sois maudit là où les cornus arrachent leurs bourgeons ! "		Le vieil homme laissa tomber la flasque, se leva d'un bond et s'éloigna en tapant du pied sur le sable. Je restai assise à fixer les flammes. Une silhouette mince émergea de l'obscurité. Wynona se tenait de l'autre côté du feu de camp, la tête levée vers le ciel.		"Nous avons une chanson… Tu ne connais pas notre langue, mais j'essaierai de te la traduire."		Appelez-la Enfant de la Lune Dansant dans les eaux peu profondes d'une rivière. Enfant de la Lune solitaire	Rêvant à l'ombre d'un saule. Parlant aux arbres de l'étrange toile d'araignée, Dormant sur les marches d'une fontaine,	Agitant sa baguette d'argent au chant des oiseaux de nuit, Attendant le soleil sur la montagne.		"C'est magnifique… Mais pourquoi avait-il si peur ? Ça ne pouvait pas être à cause d'une chanson elfique. Il doit y avoir autre chose… Je souhaiterais connaître la réponse, mais je ne veux pas que d'autres pauvres vieillards meurent ou s'enfuient de terreur. Dieux, je ne vous ai jamais suppliés de me confier les secrets de mon passé. J'aime le présent ; je suis vivante, forte, et capable de décider moi-même de ce que je veux et où je vais… Pourquoi maintenant ? "
+Name:
+Objectifs de la mission
+Message:
+Déclaré hors la loi, mon peuple dut quitter précipitamment ses maisons et ateliers. Les usines n'étaient plus qu'occupées par des Gobelins obséquieux à la peau verte – nombreux et prêts à tout pour échapper à leur misère. Étonnamment, une couchette dans une caserne ouvrière et un bol de gruau collant de racines de quenouilles, la nourriture la moins chère qui soit, leur assuraient une prospérité enviable. Ils n'avaient aucune notion de santé et de sécurité au travail; les accidents n'avaient jamais ébranlé leur enthousiasme. Ils étaient maladroits et lents à apprendre, mais les nouveaux contremaîtres d'usine, nommés par Kastore, pouvaient facilement remplacer un ouvrier à la machine chaque jour ; tôt ou tard, l'un d'eux finirait par devenir au moins quelqu'un capable apprendre. Tout cela signifiait que Kastore n'avait plus le moindre besoin des Hobbits. Nombre d'entre eux fuyaient vers le sud, vers des villes que la main avide de l'usurpateur n'avait pas encore atteintes. L'un de ces derniers havres de liberté était Fort Rotwang, désormais assiégé par Morton. 		Le sabotage des miliciens eut un impact considérable sur le Gobelin, et il nous restait maintenant deux ou trois semaines avant qu'il puisse réellement se retrancher et obtenir des renforts. Il nous fallait d'abord briser le siège et retrouver les réfugiés de la ville. À la libération, Rotwang deviendra notre base principale pendant nos préparations pour notre fuite vers Eeofol. Bien sûr, une équipe de secours était désormais hors de question : une fois Jadame quittée, personne ne nous attendrait ici. L'enjeu était crucial : soit nous aidions Erathia à vaincre les sauterelles rouges et reconquérir notre patrie, soit nous mourrions en essayant. Un tel sort vaut sûrement mieux que de se blottir quelque part au bout du monde, comme des fugitifs une seconde fois. L'un des Hobbits de l'équipe de Kosta s'est avéré être un planificateur expérimenté du bureau central des Travaux Associés. Grâce à son aide, nous avons pu effectuer les calculs. Il nous faudrait au moins 125 unités de Soufre, de Mercure et de Pierre pour le réarmement et le long vol. J'ai envisagé d'essayer de contacter Frederick, mais personne ne savait où il était, ce qui lui était arrivé, ni s'il avait joué un rôle dans ce qui se passait ici, sur cette terre que nous considérions encore récemment comme la nôtre. Je ne voulais pas envisager l'idée qu'il ait pu le faire.		Merci, vieil ami ! Tu nous as sauvés, tu nous as aidés à devenir courageux et inventifs. C'est à toi que je dois la force qui m'habite, que je ressens chaque jour davantage. Il est temps de prendre ma vie et le destin de mon peuple en main. Nous suivrons notre propre chemin. J'espère que tu vas bien, où que tu sois. Je suis sûr que nous nous reverrons un jour, et que tu me raconteras tes merveilleuses découvertes.
 
 Name:
-Mission Objectives
+Avertissement du paratonnerre
+
 Message:
-Outlawed, my people left their homes and workshops in a hurry. The factories were now staffed by obsequious green-skinned goblins—their numbers were great, and they would do anything to escape their abject poverty. Amazingly, a bunk in a worker's barracks and a bowl of sticky cattail root gruel, the cheapest food imaginable, meant enviable prosperity for them. They had no idea of occupational health and safety, and workplace accidents never shook their eagerness to work. They were clumsy and slow at learning, but the new factory supervisors, appointed by Kastore, could easily swap a worker at the machine every day; sooner or later one was bound to turn out at least somewhat teachable. All that meant Kastore no longer had the slightest need for the halflings. Many were fleeing south, to cities that the usurper's greedy hand had not yet reached. One such last haven of freedom was Fort Rotwang, now besieged by Morton. 		The militiamen’s sabotage did quite a number on the goblin, and we now had two or three weeks before he would be able to really dig in and get reinforcements. We had to break the siege and reunite with the refugees in the city before then. Upon liberation, Rotwang should become our main base where we’d be preparing for our flight to Eeofol. Of course, a rescue party was now out of the question—once we left Jadame, no one would be waiting for us back here. The stakes were as high as it gets: either we help Erathia vanquish the red-skinned locusts and regain our homeland, or we die trying. Such a fate surely is better than huddling somewhere on the edge of the world as two-time fugitives. One of the halflings in Kosta's team turned out to be an experienced planner from the Associated Works’ central office. With his help, we were able to make the calculations. We would need at least 125 units of sulfur, mercury, and ore for the rearmament and the long flight. I thought about trying to contact Frederick, but no one knew where he was, what had happened to him, or whether he had had a hand in what was happening here in the land we just recently thought of as our own. I didn't want to entertain the thought that he could have.		Thank you, old friend! You saved us, helping us become brave and resourceful. To you I owe the strength that lives within me, that I feel more and more of every day. It’s time to take my life and my people’s fate into my hands. We will go our own way. I hope you are well, wherever you are. I believe we will meet again one day, and you will tell me about your new wonderful discoveries.
+Je sautai sur le lit ; une sensation que je croyais perdue dans les souvenirs de mon ancienne vie à Eeofol m'envahit. Tous les poils de mon corps se hérissaient. En sortant de la tente, je vis mes camarades, chacun arborant une coiffure en forme de pissenlit. L'air sentait l'orage… et autre chose. Cette odeur, d'où la connaissais-je ? Oh. Bien sûr. Ma mémoire a ouvert les vannes, et les sensations se sont déversées sur moi. Ma vue, mon ouïe, mon odorat, et même mon goût, tout était redevenu d'une netteté remarquable, comme dans mon enfance. Un long jour d'été de ma jeunesse insouciante : Frederick dans son atelier, me montrant une boule de fer brillante et me parlant de la foudre, des charges électriques, et de la façon dont il allait la maîtriser pour faire tourner des meules, éclairer l'obscurité des grottes et même chasser les bêtes sauvages. 		Après un déclic, la pièce s'était remplie de cette odeur familière, et mes poils s'étaient hérissés, comme maintenant. Je frissonnai. Je me souvins de ce qui s'était passé ensuite. Avec un sourire mystérieux, Frederick m'avait invité à toucher la boule brillante. Je tendis la main pour toucher la jolie petite chose ronde, mais il restait encore une bonne coudée entre ma main et la boule lorsque la foudre frappa avec un claquement violent et une douleur fulgurante me traversais le corps. Je pleurai et jurai un bon moment, tandis que Frederick lançait des excuses, marmonnant des mots que je ne comprenais pas sur le moment – ​​quelque chose à propos de calibrage, de puissance calculée et d'énergie traversante. Se pouvait-il qu'il ait finalement maîtrisé la foudre, mais que les artificiers pensent maintenant que les bêtes sauvages ce soients… nous ?
 
 Name:
-Lightning Rod Warning
+Avertissement du paratonnerre... À nouveau !
 Message:
-I jumped up on the bed; there was a sensation I thought long lost among the memories of my old life in Eeofol. The hair on my feet and my head bristled. As I stepped out of the tent, I saw my comrades, each sporting a dandelion-like hairdo. The air smelled of a thunderstorm… and something else. That odor—where did I know it from? Oh. Of course.		My memory opened the floodgates, and sensations poured rushing at me. My sight, hearing, smell, even taste—everything was razor-sharp again, just as it had been in my childhood. A long summer day of my carefree youth: Frederick in his workshop, showing me a shiny iron ball and telling me about lightning, charges, and how he is about to harness lightning and make it turn millstones, illuminate the darkness of caves, and even drive away wild beasts. 		He clicked something; the room filled with this familiar smell, and the hair on my feet stood up, just like right now. I shuddered. I remembered what had come next. Smiling mysteriously, Frederick invited me to touch the shiny ball. I reached out to feel the pretty little round thing, but there was still a good cubit between my hand and the ball when lightning struck with a loud snap and pain shot through my body. I cried and swore for a good while, while Frederick blurted out apologies, muttering words I didn't understand at the time—something about calibration, calculated power and arc-through energy. Could it be that he had eventually mastered the lightning, but the artificers now think that the wild beasts are… us?
+Mes pires craintes se confirmèrent. Nous tombâmes sur quelque chose que je ne pouvais décrire que comme une manifestation hideuse du génie aussi pervers que dérangé. Nous errâmes dans une petite vallée rocheuse lors d'un raid de reconnaissance. L'odeur de l'orage et de la chair brûlée, et les squelettes calcinés attachés à des paratonnerres métalliques – tels étaient les sombres décors du désert morne que nous voyions. 		Le sable autour des structures de fer s'était transformé en verre par endroits ; de grosses pierres étaient fendues, et leurs surfaces exposées présentaient des motifs arborescents gravés par une force inconnue. Il y avait une sorte de beauté sombre et magnétique autour d'elles… Ça et là, des éclats brûlés portant des sortes de chiffres étaient dispersés. C'était une exécution, longue et douloureuse ; on aurait dit que cela avait duré tout le temps que ces misérables testaient leur nouvelle arme. J'espérais ardemment que l'esprit derrière cet atroce engin ne fût pas celui de Frederick. Maintenant, nous le savions : un coup de tonnerre pouvait frapper n'importe lequel d'entre nous, à tout moment. Nous devions nous en souvenir et trouver un moyen de nous protéger.
 
 Name:
-Lightning Rod Warning... Again
+Éclaireurs Couatl
 Message:
-My worst fears were confirmed. We stumbled upon something I could only describe as an ugly manifestation of a dark experimenter's twisted genius. We wandered into a small rocky valley while on a recon raid. The smell of thunderstorm and burnt flesh, and charred skeletons tied to metal lightning rods—those were the gloomy decorations of the dull wasteland we saw. 		The sand around the iron structures had turned to glass in some places; some large stones were split, and their exposed surfaces displayed tree-like patterns etched into them by some unknown force. There was a kind of somber, magnetic beauty about them... Here and there, burnt chips with some kind of numbers on them were scattered. It was an execution, a long and painful one; it looked like it had lasted the entire time the wretches were testing their new weapon. I hoped fervently that the mind behind this atrocious contraption was anyone but Frederick’s. Now we knew: a thunderclap could hit any of us, anytime. We had to remember that and try to find some means of protection.
+Ce jour-là, le Ñouatl que Wynona et moi avions essayé de transformer en éclaireur retourna au camp. Je n'étais pas encore convaincu que ces créatures puissent être utiles ailleurs que sur le champ de bataille. Pourtant, l'elfe insistait sur l'intelligence incroyable des Couatls. Elle avait trouvé un terrain d'entente avec ces créatures bien plus vite que je ne l'espérais. Probablement grâce au rituel de Tlamac. J'avais presque oublié l'émotion de voir mon amie aider un petit serpent aux plumes de toutes les nuances de rouge à sortir de l'œuf ancestral. J'avais l'impression que c'était il y a des générations, à l'époque où les Couatls régnaient sur le monde et que celui-ci n'était que quelques îles…		Le lien de Wynona avec ses nouveaux amis était inhabituel, pourtant indestructible. Serrant l'éclaireur fatigué par sa grosse tête escarpée, elle pouvait voir tout ce qu'il avait lui-même vu ces derniers jours. Il semblait que nous n'étions pas les seules cibles des chasseurs de primes envoyés par Kastore. Le Couatl vit plusieurs Pistoleros traîner derrière eux un homme enchaîné qui ressemblait à un alchimiste. Il y avait aussi une autre prison au nord, gardée par des Juggernauts, mais il était impossible de savoir qui y avait été abandonné.		Nous n'étions pas seuls dans notre lutte contre Kastore ; au moins, cela semblait encourageant.
 
 Name:
-Couatl Scouts
+Manufacture abandonnée
 Message:
-That day, the Ñouatl that Wynona and I had been trying to make into a scout returned to camp. I was not yet convinced that these creatures could be useful anywhere but on the battlefield. Still, the elf insisted that the Couatls were incredibly intelligent. She'd found common ground with these creatures much faster than I'd hoped. Probably thanks to Tlamac’s ritual. I'd almost forgotten the thrill of watching my friend help a small serpent, its feathers all shades of red, out of the ancient egg. It felt as if it had been generations ago, back when the Couatls reigned over the world and the world was just a few islands...		Wynona's bond with her new friends was unusual yet unbreakable. Hugging the tired scout by his big, craggy head, she could see everything that he himself had seen over the past few days. It seemed as though we were not the only targets of the bounty hunters Kastore had sent out. The Couatl saw several gunslingers dragging along a shackled man who looked like an alchemist. There was also another prison to the north, guarded by juggernauts, but there was no way of knowing who was languishing there.		We were not alone in our struggle against Kastore; at least that felt somewhat encouraging. 
+Wynona a progressé à pas de géant dans la maîtrise des avantages que lui procure son amitié avec les Couatls. Il n'y a pas si longtemps, je riais en l'entendant expliquer le travail à son premier espion à plumes ; maintenant, nous avions toute une volée d'éclaireurs agiles scrutant les nuages ​​et empêchant les dirigeables ennemis de décoller. Les Couatls sont bien plus malins que les wyvernes ; celles-ci se jetaient sans réfléchir sur les hélices de nos dirigeables, par habitude, pour s'en prendre à la queue de leur proie, et en ont perdu plus d'une douzaine avant d'avoir l'idée d'attaquer le ballon.	 	À l'inverse, nos amis ailés connaissaient parfaitement les points faibles des dirigeables, nous bénéficiions donc désormais d'une supériorité aérienne décisive. De plus, grâce à ces créatures étonnantes, nous connaissions la forteresse imprenable et bien fortifiée des traîtres, ainsi qu'au moins trois commandants de l'armée grandissante de Kastore qui avaient déployé leurs troupes aux abords de ce bastion. Nous connaissions également la population croissante de Dragons et d'une ville particulièrement intrigante, abandonnée après la résurrection des morts-vivants. Des manufactures et des fonderies y étaient encore intactes, ce qui signifiait qu'une fois que nous aurions mis les morts-vivants au repos, nous pourrions produire des Automates pour nos besoins.
 
 Name:
-Abandoned Factory
+Vagues de héros ennemis - Premier avertissement
 Message:
-Wynona progressed by leaps and bounds in mastering the benefits of her friendship with the Couatls. Not so long ago, I was chuckling as she tried to explain the job to her first feathered spy; now we had a whole flock of nimble scouts scouring the clouds and keeping enemy airships from taking off. The Couatls are much smarter than the wyverns; those would mindlessly throw themselves at our airships’ propellers out of ther habit to go at their prey’s tail, and lost more than a dozen before getting the idea to attack the balloon.	 	Conversely, our winged friends knew the airships’ weak points perfectly well, so we now enjoyed decisive air superiority. Moreover, thanks to these amazing creatures, we knew of the traitors’ well-fortified, impregnable fortress and of at least three commanders from Kastore’s growing army who had deployed their troops on the approaches to this bastion. We also knew of the ever-increasing dragon population and of one very intriguing town, abandoned after the undead rose from their graves. There were intact manufactories and foundries in that town, which meant that with the undead laid to rest, we could produce some automatons for our own needs.
+Kastore a lancé contre nous toute la puissance de son armée grandissante. Il ne s'agit pas simplement d'intimider les renégats ou de réprimer une rébellion. Il s'agit d'une guerre d'usure, une guerre que nous sommes certains de perdre. Chaque jour, les fourneaux de ses forges et de ses Manufactures brûlent de plus en plus fort ; les gobelins gagnent en expérience et travaillent de mieux en mieux, et il exige toujours plus d'eux. Tôt ou tard, il y aura deux, voire trois machines automotrices ou Arbalétriers pour chacun de nous. Chaque heure de retard aujourd'hui nous apportera assurément de cuisantes défaites et des pertes demain. Nous ne pouvons pas mener deux guerres à la fois : l'une dans le présent, contre d'anciens amis, et l'autre dans le futur, contre de vieux ennemis. Malgré tout, je crois que nous pouvons rassembler suffisamment de puissance et décoller pour Eeofol avant que Kastore ne nous attaque.
 
 Name:
-Enemy Hero Waves - First Warning
+Dernier avertissement (415)
 Message:
-Kastore has thrown the full might of his growing army at us. This is not simply an attempt to intimidate the renegades or quell a rebellion. This means a war of attrition, one we are certain to lose. Every day, the furnaces of his forges and factories burn hotter and hotter; the goblins gain experience and work better and better, and he demands more and more from them. Sooner or later, there will be two or even three self-propelled machines or marksmen for each one of us. Every hour of delay today is sure to bring us bitter defeats and losses tomorrow. We cannot fight two wars at once—one in the present, with former friends, and the other in the future, with old enemies. Still, I believe we can gather enough power and take off for Eeofol before Kastore pounces.
-
-Name:
-Final Warning (415)
-Message:
-We cannot wait any longer. We must get the airships ready and leave for Eeofol now, or Kastore will sweep us away like a stormwave washes away a sandcastle on the beach. All we have accomplished here has been such a castle, mistaken for a new home. Our future no longer is in these barren lands—it lies out there, across the ocean. There is only one place worthy of being called home. We may die in this uphill fight with the demons, but we will fall on our own land.
+Nous ne pouvons plus attendre. Nous devons préparer les dirigeables et partir pour Eeofol sans tarder, sinon Kastore nous emportera comme une vague de tempête emporte un château de sable sur la plage. Tout ce que nous avons accompli ici a été, un château, mépris pour un nouveau foyer. Notre avenir n'est plus dans ces Terres Arides ; il se trouve là-bas, de l'autre côté de l'océan. Il n'existe qu'un seul endroit digne d'être appelé "chez nous". Nous mourrons peut-être dans ce combat acharné contre les démons, mais nous tomberons sur notre propre terre.
 
 ===== Heroes =====
 
@@ -84,55 +84,55 @@ We cannot wait any longer. We must get the airships ready and leave for Eeofol n
 
 (104, 106, 0) ***Seer's Hut***
 Message:
-You are greeted in the hut by a grim, black-cloaked sorcerer.	“Our Guild is studying ways to tame and breed the wyverns of the Ravage Roaming," he says. "Unfortunately, the creatures won't let any of us near their nests yet. Catch a young wyvern and bring it to me, and you will be richly rewarded.”
-No creature, no reward. Why do we want wyverns, you ask? Less talk, more action.
-You're a ballsy one, I see. Few will dare to go into a wyvern's nest. Take these crystals; I'm sure you'll find better use for them than we can think of.
+Vous êtes accueilli dans la hutte par un sorcier sinistre, vêtu de noir.	"Notre guilde étudie des moyens d'apprivoiser et d'élever les Wyvernes du Ravage Errant", dit-il. "Malheureusement, les créatures ne nous laissent pas encore approcher de leurs nids. Attrapez une jeune Wyverne et apportez-la-moi, et vous serez richement récompensé."
+Pas de créature, pas de récompense. Pourquoi voulons-nous des Wyvernes, demandez-vous ? Moins de paroles, plus d'action.
+Vous êtes audacieux, je vois. Rares sont ceux qui osent pénétrer dans le nid d'une wyverne. Prenez ces Cristaux ; je suis sûr que vous leur trouverez une meilleure utilisation que nous ne pouvons imaginer.
 
 (89, 29, 0) ***Sign***
 Message:
-Mount Copper Mines
+Mines de Mount Copper
 
 (2, 46, 0) ***Quest Guard***
 Message:
-While making your way up the slope of a steep mountain, you ran into a huge bronze statue of a warrior. How did this monument end up here in the middle of the wasteland?	Before you could react, the statue suddenly moved.	“Titans?”, came a booming voice from the colossus. “You are not titans... Well, that's even better. I lost my sword in a fight with the Titans. Get it back to me and I'll let you pass.”
-The bronze colossus is still here and has no intention of letting you pass.
-The Bronze Colossus accepts the Gladius and allows you to pass.	Do you wish to pass?
+En gravissant la pente d'une montagne escarpée, vous êtes tombé sur l'immense statue de bronze d'un guerrier. Comment ce monument a-t-il atterri ici, au milieu de cette Terre Aride ?	Avant que vous puissiez réagir, la statue bougea soudainement.	"Des Titans ? " s'exclama d'une voix tonitruante le colosse. "Vous n'êtes pas des Titans… C'est encore mieux. J'ai perdu mon épée lors d'un combat contre les Titans. Rapportez-la-moi et je vous laisserai passer."
+Le colosse de bronze est toujours là et n'a aucune intention de vous laisser passer.
+Il accepte le Glaive et vous laisse passer. Souhaitez-vous passer ?
 
 (20, 106, 0) ***Seer's Hut***
 Message:
-In a small hut on an island, you run into a sorceress.	“You may have heard of me," she says. “I am Lyadra, and I have met one of your artificers before. I believe his name was Todd... or was it Bertram? Never mind.	I've been studying angels for many years now, but I'm yet to find any proof of my hypothesis as to their nature. Worse still, the angels themselves are in no mood to communicate with me. I heard that many decades ago, someone imprisoned a few angels here in the mountains and placed griffins to guard their cells. If you could free them, perhaps they'd agree to help me with my research. Bring me ten angels and I will teach you the Town Portal in exchange of the scroll of this spell. I'm sure you'll find good use for such a powerful spell now, and more so in the future.
-Lyadra is still here, yet there is nothing to talk to her about until you have ten angels.
-Finally! Perhaps now I can get the hang of what I never managed to find out from the angels in Bracada and Erathia.
-Bring me a scroll with the Town Portal spell, and I will teach it to you.
-You come empty-handed, I see. Unfortunately, I do not know where one can find such a scroll around these parts, but perhaps the local mages can help you with that.
-Would you be willing to learn the Town Portal spell in exchange for the scroll?
+Dans une petite cabane sur une île, vous rencontrez une enchanteresse.	"Vous avez peut-être entendu parler de moi", dit-elle. Je suis Lyadra et j'ai déjà rencontré l'un de vos Artificiers. Je crois qu'il s'appelait Todd... ou Bertram ? Peu importe. J'étudie les Anges depuis de nombreuses années, mais je n'ai encore trouvé aucune preuve de mon hypothèse quant à leur nature. Pire encore, les Anges eux-mêmes ne sont pas d'humeur à communiquer avec moi. J'ai entendu dire qu'il y a plusieurs décennies, quelqu'un avait emprisonné quelques Anges ici, dans les montagnes, et placé des Griffons pour garder leurs cellules. Si vous pouviez les libérer, peut-être accepteraient-ils de m'aider dans mes recherches. Apportez-moi dix Anges et je vous enseignerai le Portail de Retour en échange du parchemin de ce sort. Je suis sûre que vous trouverez un bon usage d'un sort aussi puissant maintenant, et plus encore à l'avenir.
+Lyadra est toujours là, mais il n'y a rien à lui dire tant que vous n'aurez pas dix Anges.
+Enfin ! Peut-être que maintenant je vais pouvoir comprendre ce que je n'ai jamais réussi à découvrir auprès des Anges de Bracada et d'Erathia.
+Apportez-moi un parchemin avec le Le sort Portail de Retour, et je vous l'apprendrai.
+Vous venez les mains vides, à ce que je vois. Malheureusement, je ne sais pas où trouver un tel parchemin par ici, mais peut-être que les mages du coin pourront vous aider.
+Seriez-vous disposé à apprendre le sort Portail de Retour en échange de votre parchemin ?
 
 (5, 77, 0) ***Sign***
 Message:
-Guild Caravans
+Caravanes de guilde
 
 (70, 84, 0) ***Quest Guard***
 Message:
-From behind the gate comes a muffled voice that sounds like a halfling’s.	“Halt! Who's coming? What’s your name?”
-We don't know you; we won't open!
-Henrietta, that you? We thought Kastore had taken you too. Come on in, don't keep us waiting.
+Derrière la porte, une voix étouffée, semblable à celle d'un Hobbit, retentit. "Halte ! Qui va là ? Comment vous appelez-vous ? "
+On ne vous connaît pas ; on n'ouvre pas !
+Henrietta, est-ce vous ? On pensait que Kastore vous avait emmenée aussi. Entrez, ne nous faites pas attendre.
 
 (86, 13, 0) ***Spell Scroll***
 Message:
-It was a trap... Having slayed the dragons, you found neither treasure nor valuable artifacts. Ilsingore survived: when you were preparing to attack the mighty dragon, the great wyrm soared into the air and flew away.	After carefully scouring the lair, you discovered a magic scroll. Perhaps it could help you leave this place?
+C'était un piège... Après avoir vaincu les Dragons, vous n'avez trouvé ni trésor ni artéfact précieux. Ilsingore a survécu : alors que vous vous prépariez à attaquer le puissant Dragon, le grand wyrm s'est élevé dans les airs et s'est échappé.	Après avoir fouillé minutieusement l'antre, vous avez découvert un parchemin magique. Peut-être pourrait-il vous aider à quitter cet endroit ?
 
 (73, 65, 0) ***Sign***
 Message:
-Fort Rotwang — north
+Fort Rotwang — nord
 
 (29, 85, 0) ***Seer's Hut***
 Message:
-Did you hear the news? Morton has laid siege to Rotwang! We must drive him back, and soon! If we can't do it by the end of the month, that may spell big trouble.
-Rotwang is still under siege.
-You say Morton's forces have been defeated? Finally!
-Now that Rotwang is no longer in danger, we can go about gathering resources for our journey home. We'll need 125 ore, 125 mercury and 125 sulfur. However, getting such a load of supplies is a tall order, and there are very few mines around. To add insult to injury, there are no longer any markets to be found anywhere around Rotwang. Some of the dark elf merchants might still be here, but it can’t be easy for them to bring their goods here, so I bet they’ll gouge the prices as hard as they can.
-Still haven't found the resources? Hurry up; our time is getting short.
-Great! Let’s load everything up and head for the airship yard just north of Rotwang.
+Avez-vous entendu la nouvelle ? Morton a assiégé Rotwang ! Nous devons le repousser, et vite ! Si nous n'y parvenons pas d'ici la fin du mois, cela pourrait nous causer de sérieux problèmes.
+Rotwang est toujours assiégé.
+Vous dites que les forces de Morton ont été vaincues ? Enfin !
+Maintenant que Rotwang n'est plus en danger, nous pouvons nous mettre à rassembler des ressources pour notre voyage de retour. Il nous faudra 125 Pierres, 125 Mercures et 125 Soufres. Cependant, obtenir une telle quantité de provisions est un défi de taille, et il y a très peu de mines dans les environs. Pour couronner le tout, il n'y a plus de marchés aux alentours de Rotwang. Certains marchands elfes noirs sont peut-être encore là, mais il ne doit pas être facile pour eux d'apporter leurs marchandises ici, alors je parie qu'ils vont faire monter les prix aussi haut qu'ils peuvent.
+Vous n'avez toujours pas trouvé les ressources ? Dépêchez-vous, le temps presse.
+Super ! Chargeons tout et dirigeons-nous vers le Chantier Aéronaval juste au nord de Rotwang.
 
 (89, 14, 0) ***Overlord***
 Name:
@@ -140,7 +140,7 @@ Ilsingore
 
 (6, 52, 0) ***Sign***
 Message:
-Dolere Mines
+Mines de Dolere
 
 (20, 9, 0) ***Factory***
 Name:
@@ -152,7 +152,7 @@ Mount Copper
 
 (7, 47, 0) ***Factory***
 Name:
-New Dolere
+Nouvelle Dolere
 
 (24, 84, 0) ***Factory***
 Name:
@@ -170,7 +170,7 @@ Zarghebar
 Name:
 Balindar
 Biography:
-Balindar was the first in Bracada to test the Enrothean technology of using the best steel armor to create statues slated for animation, rather than regular rock, ore, or even precious metals. The rigid-minded golem-building academicians did not welcome this innovation, so Balindar's works, although far superior to their prototypes, still bear the experimental status.
+Balindar fut le premier à Bracada à tester la technologie d'Enrothe consistant à utiliser les meilleures armures d'acier pour créer des statues destinées à l'animation, plutôt que de la roche, du minerai ou même des métaux précieux. Les académiciens, à l'esprit rigide, n'ont pas accueilli cette innovation favorablement ; les œuvres de Balindar, bien que bien supérieures à leurs prototypes, conservent donc un statut expérimental.
 
 (66, 47, 0) ***Factory***
 Name:
@@ -178,15 +178,15 @@ Rotwang
 
 (75, 39, 0) ***Seer's Hut***
 Message:
-I represent the Merchant Guild in these wastelands. It has become progressively harder to bring goods here lately, and recently most of the trading posts have shut down. Despite that, we are willing to provide you with mercury. Given the recent difficulties in transporting the goods, we ask for a price that would make it worth our while: 10000 gold for 1 mercury.
-I represent the Merchant Guild in these wastelands. It has become progressively harder to bring goods here lately, and recently most of the trading posts have shut down. Despite that, we are willing to provide you with mercury. Given the recent difficulties in transporting the goods, we ask for a price that would make it worth our while: 10000 gold for 1 mercury.
-Buy 1 mercury for 10000 gold?
-I represent the Merchant Guild in these wastelands. It has become progressively harder to bring goods here lately, and recently most of the trading posts have shut down. Despite that, we are willing to provide you with ore. Given the recent difficulties in transporting the goods, we ask for a price that would make it worth our while: 10000 gold for 1 ore.
-I represent the Merchant Guild in these wastelands. It has become progressively harder to bring goods here lately, and recently most of the trading posts have shut down. Despite that, we are willing to provide you with ore. Given the recent difficulties in transporting the goods, we ask for a price that would make it worth our while: 10000 gold for 1 ore.
-Buy 1 ore for 10000 gold?
-I represent the Merchant Guild in these wastelands. It has become progressively harder to bring goods here lately, and recently most of the trading posts have shut down. Despite that, we are willing to provide you with sulfur. Given the recent difficulties in transporting the goods, we ask for a price that would make it worth our while: 10000 gold for 1 sulfur.
-I represent the Merchant Guild in these wastelands. It has become progressively harder to bring goods here lately, and recently most of the trading posts have shut down. Despite that, we are willing to provide you with sulfur. Given the recent difficulties in transporting the goods, we ask for a price that would make it worth our while: 10000 gold for 1 sulfur.
-Buy 1 sulfur for 10000 gold?
+Je représente la Guilde des Marchands dans ces Terres Arides. Acheminer des marchandises ici est devenu de plus en plus difficile ces derniers temps, et la plupart des comptoirs commerciaux ont récemment fermé. Malgré cela, nous sommes disposés à vous fournir du Mercure. Compte tenu des difficultés de transport rencontrées récemment, nous demandons un prix qui justifie l'investissement : 10 000 Pièces d'Or pour 1 de Mercure.
+Je représente la Guilde des Marchands dans ces Terres Arides. Acheminer des marchandises ici est devenu de plus en plus difficile ces derniers temps, et la plupart des comptoirs commerciaux ont récemment fermé. Malgré cela, nous sommes disposés à vous fournir du Mercure. Compte tenu des difficultés de transport rencontrées récemment, nous demandons un prix qui justifie l'investissement : 10 000 Pièces d'Or pour 1 de Mercure.
+Acheter 1 de Mercure pour 10 000 Pièces d'Or ?
+Je représente la Guilde des Marchands dans ces Terres Arides. Acheminer des marchandises ici est devenu de plus en plus difficile ces derniers temps, et la plupart des comptoirs commerciaux ont récemment fermé. Malgré cela, nous sommes disposés à vous fournir de la Pierre. Compte tenu des difficultés récentes de transport des marchandises, nous demandons un prix qui en vaille la peine : 10 000 Pièces d'Or pour 1 de Pierre.
+Je représente la Guilde des Marchands dans ces Terres Arides. Acheminer des marchandises ici est devenu de plus en plus difficile ces derniers temps, et la plupart des comptoirs commerciaux ont récemment fermé. Malgré cela, nous sommes disposés à vous fournir de la Pierre. Compte tenu des difficultés récentes de transport des marchandises, nous demandons un prix qui en vaille la peine : 10 000 Pièces d'Or pour 1 de Pierre.
+Acheter 1 de Pierre pour 10 000 Pièces d'Or ?
+Je représente la Guilde des Marchands dans ces Terres Arides. Acheminer des marchandises ici est devenu de plus en plus difficile ces derniers temps, et la plupart des comptoirs commerciaux ont récemment fermé. Malgré cela, nous sommes disposés à vous fournir du Soufre. Compte tenu des difficultés de transport rencontrées récemment, nous demandons un prix qui justifie l'investissement : 10 000 Pièces d'Or pour 1 de Soufre.
+Je représente la Guilde des Marchands dans ces Terres Arides. Acheminer des marchandises ici est devenu de plus en plus difficile ces derniers temps, et la plupart des comptoirs commerciaux ont récemment fermé. Malgré cela, nous sommes disposés à vous fournir du Soufre. Compte tenu des difficultés de transport rencontrées récemment, nous demandons un prix qui justifie l'investissement : 10 000 Pièces d'Or pour 1 de Soufre.
+Acheter 1 de Soufre pour 10 000 Pièces d'Or ?
 
 (64, 38, 0) ***Pandora's Box***
 Message:
@@ -198,54 +198,54 @@ Jangaard
 
 (69, 58, 0) ***Seer's Hut***
 Message:
-We have been preparing for war with the Necromancer Guild for a long time, but our troops are not yet strong enough to challenge them. However, we know of artifacts called Rings of Oblivion that can prevent the animation of the undead. We would be grateful to anyone who could provide us with one.
-We have been preparing for war with the Necromancer Guild for a long time, but our troops are not yet strong enough to challenge them. However, we know of artifacts called Rings of Oblivion that can prevent the animation of the undead. We would be grateful to anyone who could provide us with one.
-Indeed, this is the Ring of Oblivion! I have no money to pay you, but I have some crystals I'm sure you'll find use for.	Exchange the Ring of Oblivion for crystals?
+Nous nous préparons à la guerre contre la Guilde des Nécromanciens depuis longtemps, mais nos troupes ne sont pas encore assez puissantes pour les défier. Cependant, nous connaissons des artéfacts appelés les Anneaux d'Amnésie qui peuvent empêcher l'animation des morts-vivants. Nous serions reconnaissants à quiconque pourrait nous en fournir un.
+Nous nous préparons à la guerre contre la Guilde des Nécromanciens depuis longtemps, mais nos troupes ne sont pas encore assez puissantes pour les défier. Cependant, nous connaissons des artéfacts appelés les Anneaux d'Amnésie qui peuvent empêcher l'animation des morts-vivants. Nous serions reconnaissants à quiconque pourrait nous en fournir un.
+En effet, c'est l'Anneau d'Amnésie ! Je n'ai pas d'argent pour vous payer, mais j'ai des cristaux qui vous seront certainement utiles.	Voulez-vous échanger l'Anneau d'Amnésie contre des cristaux ?
 
 (64, 70, 0) ***Seer's Hut***
 Message:
-You meet an alchemist in the hut. He seems quite perturbed.	“What luck to have found you! Listen. I am an alchemist from Bracada. I came here with my colleague Balindar. We had caught wind of a large deposit of erudine found in Jadame, and we got eager to try out this rare, expensive metal as a material for golems. Unfortunately, it turned out that Kastore and his minions had gotten to the deposit before us. To our misfortune, they found out we had come from Bracada. Balindar got captured and is now being held in prison, while I only escaped by the skin of my teeth.	Could you help us? I can make steel golems for your army, but I can't do it without Balindar.”
-Balindar is still in prison. Without him, I can't help you.
-Balindar grants you forty steel golems in gratitude for his rescue. He also informs you that his colleague is willing to start making new ones, but will need resources to do so.
-The alchemist is willing to make steel golems for your army, but warns that they are hard to manufacture. The job will cost you 10 Wood, 4 Crystals, and 4 Gems. On top of that, the alchemist wants 2000 gold for each batch.
-Unfortunately, these resources are not enough to make steel golems.
-The resources provided are enough to make 20 steel golems. Do you wish to put the resources at the alchemist's disposal?
+Vous rencontrez un alchimiste dans la hutte. Il semble assez perturbé. "Quelle chance de vous avoir trouvé ! Écoutez. Je suis un alchimiste de Bracada. Je suis venu ici avec mon collègue Balindar. Nous avions eu vent d'un important gisement d'erudine découvert à Jadame, et nous étions impatients d'essayer ce métal rare et coûteux pour fabriquer des golems. Malheureusement, il s'est avéré que Kastore et ses sbires étaient arrivés au gisement avant nous. Pour notre plus grand malheur, ils ont découvert que nous venions de Bracada. Balindar a été capturé et est maintenant détenu, tandis que je m'en suis sorti de justesse.	Pourriez-vous nous aider ? Je peux fabriquer des Golems d'Acier pour votre armée, mais je ne peux pas le faire sans Balindar."
+Balindar est toujours en prison. Sans lui, je ne peux pas vous aider.
+Balindar vous offre quarante Golems d'Acier en remerciement de son sauvetage. Il vous informe également que son collègue est prêt à en fabriquer de nouveaux, mais qu'il aura besoin de ressources pour cela.
+L'alchimiste souhaite fabriquer des Golems d'Acier pour votre armée, mais vous prévient qu'ils sont difficiles à fabriquer. Cette tâche vous coûtera 10 de Bois, 4 de Cristaux et 4 Gemmes. De plus, l'alchimiste exige 2 000 Pièces d'Or par lot.
+Malheureusement, ces ressources ne suffisent pas pour fabriquer des Golems d'Acier.
+Les ressources fournies permettent de fabriquer 20 Golems d'Acier. Souhaitez-vous mettre ces ressources à la disposition de l'alchimiste ?
 
-(73, 81, 0) ***Halfling Grenadier***
+(73, 81, 0) ***Hobbit Grenadier***
 Message:
-Back to Eeofol, you say?
+De retour à Eeofol, dites-vous ?
 
 (24, 66, 0) ***Seer's Hut***
 Message:
-I own many gold mines in this part of the wastelands. Unfortunately, not long ago, gorgons of the Ravage Roaming swarmed the region where my assets are located and drove us out—but I managed to seal them inside the mines. I hired an errant barbarian, Wededh, in the hopes that he would solve my problem with those horned beasts, but that swindler took the advance payment and left laughing. He pocketed the keys to the mines, too! I would gladly pay someone to rid me of the gorgons, but as long as the barbarian has the keys, there's no way to get there.
-The barbarian never returned; however, in case you manage to get your hands on the keys, the nearest mine is a day's journey northeast of here—you should head there.
-You found the keys? That's great news! But I'm even more pleased to hear the mine has been freed of gorgons. Here's your reward!
-Now you should head to the second mine. It's just east of here, behind the garrison, not far from the old dragon graveyard.
-Now you should head to the second mine. It's just east of here, behind the garrison, not far from the old dragon graveyard.
-Here's your reward! You've earned it.
-The third mine is near the town of Arcadia in the southeast. It's right next to the ranch—can't miss it.
-The third mine is near the town of Arcadia in the southeast. It's right next to the ranch—can't miss it.
-Here's your reward! You've earned it.
-The fourth mine is located south of Rotwang, behind the creek. There is a gemstone pond nearby—the place should not be hard to find.
-The fourth mine is located south of Rotwang, behind the creek. There is a gemstone pond nearby—the place should not be hard to find.
-Here's your reward! You've earned it.
-Our fifth mine is north of Rotwang. Hopefully, soon there won't be any gorgons left there either.
-Our fifth mine is north of Rotwang. Hopefully, soon there won't be any gorgons left there either.
-Here's your reward! You've earned it.
-The sixth and final mine is far to the east, near the magic plains. Head straight east from Rotwang and keep going, and you’ll get there sooner or later.
-The sixth and final mine is far to the east, near the magic plains. Head straight east from Rotwang and keep going, and you’ll get there sooner or later.
-Here's your reward! You've earned it.
-I can't believe it: you did it! The Gorgons are gone! Now we can head back to the mines.
-I don’t have anything else to reward you with, but I can give you some sulfur. You want?
+Je possède de nombreuses mines d'or dans cette partie des Terres Arides. Malheureusement, il n'y a pas longtemps, des Gorgones de l'Errance Ravageuse ont envahi la région où se trouvent mes biens et nous ont chassés, mais j'ai réussi à les enfermer dans les mines. J'ai engagé un barbare errant, Wededh, dans l'espoir qu'il résoudrait mon problème avec ces bêtes à cornes, mais cet escroc a pris le paiement et est parti en riant. Il m'a aussi volé les clefs des mines ! Je paierais volontiers quelqu'un pour me débarrasser des Gorgones, mais tant que le barbare a les clefs, impossible d'y accéder.
+Le barbare n'est jamais revenu ; cependant, si vous parvenez à mettre la main sur les clefs, la mine la plus proche est à une journée de voyage au nord-est d'ici – vous devriez vous y rendre.
+Vous avez trouvé les clefs ? Excellente nouvelle ! Mais je suis encore plus heureux d'apprendre que la mine a été libérée des Gorgones. Voici votre récompense !
+Maintenant, dirigez-vous vers la deuxième mine, à l'est d'ici, derrière la garnison, non loin du vieux cimetière de Dragons.
+Maintenant, dirigez-vous vers la deuxième mine, à l'est d'ici, derrière la garnison, non loin du vieux cimetière de Dragons.
+Voici votre récompense ! Vous l'avez méritée.
+La troisième mine se trouve près de la ville d'Arcadia, au sud-est. Elle est juste à côté du ranch : impossible de la manquer.
+La troisième mine se trouve près de la ville d'Arcadia, au sud-est. Elle est juste à côté du ranch : impossible de la manquer.
+Voici votre récompense ! Vous l'avez bien méritée.
+La quatrième mine se trouve au sud de Rotwang, derrière le ruisseau. Il y a un Gisement de Gemmes à proximité ; l'endroit ne devrait pas être difficile à trouver.
+La quatrième mine se trouve au sud de Rotwang, derrière le ruisseau. Il y a un Gisement de Gemmes à proximité ; l'endroit ne devrait pas être difficile à trouver.
+Voici votre récompense ! Vous l'avez bien méritée.
+Notre cinquième mine se trouve au nord de Rotwang. Espérons qu'il n'y aura bientôt plus de Gorgones là-bas.
+Notre cinquième mine se trouve au nord de Rotwang. Espérons qu'il n'y aura bientôt plus de Gorgones là-bas.
+Voici votre récompense ! Vous l'avez bien méritée.
+La sixième et dernière mine se trouve loin à l'est, près des plaines magiques. Dirigez-vous droit vers l'est depuis Rotwang et continuez, et vous y arriverez tôt ou tard.
+La sixième et dernière mine se trouve loin à l'est, près des plaines magiques. Dirigez-vous droit vers l'est depuis Rotwang et continuez, et vous y arriverez tôt ou tard.
+Voici votre récompense ! Vous l'avez méritée.
+J'ai du mal à y croire : vous avez réussi ! Les Gorgones sont parties ! Nous pouvons maintenant retourner aux mines.
+Je n'ai rien d'autre à vous offrir en récompense, mais je peux vous donner du Soufre. Vous en voulez ?
 
 (66, 50, 0) ***Event***
 Message:
-Morton - minus movement
+Morton - sans mouvement
 
 (20, 38, 0) ***Quest Guard***
 Message:
-Up ahead, you can see the entrance to the portal, with human, ogre, and minotaur bones scattered around. Rumor has it that a dragon has made its lair here, and perhaps even more than one.
-Would you like to approach the portal?
+Plus loin, vous pouvez voir l'entrée du portail, avec des ossements d'humains, d'Ogres et de Minotaures éparpillés. La rumeur court qu'un Dragon a établi son repaire ici, et peut-être même plusieurs.
+Voulez-vous vous approcher du portail ?
 
 (28, 71, 0) ***Barbarian***
 Name:
@@ -255,13 +255,13 @@ Wededh
 Name:
 Thulig
 Biography:
-Thulig is an extremely daring elf, and the best way to recruit him is to offer a challenge like "go I don't know where, bring I don't know what." He stole "don't-know-whats" from under a dragon's snout, an underground dwarven treasury, and even the mouth of an extinct volcano. High-profile failures are another trademark of his, and he has paid unequalled amounts in ransom for himself.
+Thulig est un elfe extrêmement audacieux, et la meilleure façon de le recruter est de lui proposer un défi du genre : "Aller je ne sais où et rapporter je ne sais quoi". Il a volé des "je ne sais quoi" sous le museau d'un Dragon, dans un Krak Nain souterrain, et même à l'entrée d'un volcan éteint. Ses échecs retentissants sont une autre de ses marques de fabrique, et il a payé des rançons sans précédent pour se sauver.
 
 (49, 74, 0) ***Quest Guard***
 Message:
-A major stable looms ahead. It is fenced in with a palisade, and imposing trolls and minotaurs—apparently seasoned mercenaries—guard its entrance. You knock on the gate repeatedly, but no one answers.	At length, a vexed dark elf emerges on the landing above the gate. He's obviously drunk, and there's something oblong sticking out from under his arm.	"Who goes there? Are you Kastore's bandits? We've warned you curs countless times: this is Guild territory. Leave at once. You're not wanted here.”	"We are not Kastore's allies; in fact, he is an enemy of ours, too. Our horses are weary from the long journey, and we require fresh mounts.”	"You're not Kastore's dogs, you say?" the elf barks, nearly tumbling off the gate. "Well, then! 15,000 gold coins—and not a single piece less! If you bring it, your horses will be ready. If not, they won't.”
-"Where's the gold?" the elf mutters, clearly irritated. "Money upfront!"
-"Bring the bags of gold, and I'll signal the minotaurs to allow you passage," the elf says, rubbing his hands eagerly. "But be discreet—the owners will have my head if they find out I gave the horses away to some highwaymen."		Would you like to proceed to the stables?
+Une grande Écurie se dresse devant vous. Elle est clôturée par une palissade, et d'imposants Trolls et Minotaures – apparemment des mercenaires aguerris – en gardent l'entrée. Vous frappez à la porte à plusieurs reprises, mais personne ne répond.	Finalement, un elfe noir exaspéré apparaît sur le palier au-dessus de la porte. Il est visiblement ivre, et quelque chose d'allongé dépassait de sous son bras. "Qui va là ? Êtes-vous les bandits de Kastore ? Nous vous avons prévenus maintes fois, bande de bâtards : c'est le territoire de notre Guilde. Partez immédiatement. Vous n'êtes pas les bienvenus ici." "Nous ne sommes pas les alliés de Kastore ; en fait, c'est aussi un de nos ennemis. Nos chevaux sont fatigués par le long voyage, et nous avons besoin de montures fraîches."	"Vous n'êtes pas les chiens de Kastore, dites-vous ? " aboie l'elfe, manquant de tomber de la porte. "Eh bien ! 15 000 Pièces d’Or, et pas une seule de moins ! Si vous nous les apportez, vos chevaux seront prêts. Sinon, vous n'en aurez pas."
+"Où est l’or ? " marmonne l’elfe, visiblement irrité. "Argent en avance ! "
+"Apportez les sacs d’or, et je ferai signe aux Minotaures de vous laisser passer", dit l’elfe en se frottant les mains avec empressement." Mais soyez discrets – les propriétaires me feront perdre la tête s’ils découvrent que j’ai donné les chevaux à des bandits de grand chemin."		Voulez-vous vous rendre aux écuries ?
 
 (1, 24, 0) ***Pandora's Box***
 Message:
@@ -269,7 +269,7 @@ Message:
 
 (80, 90, 0) ***Rust Dragon***
 Message:
-There was a smell of sulfur in the air. As we approached the mountains, it kept growing stronger. 	A huge gorge appeared ahead, and flying above it there were... not birds. Dragons—dozens and hundreds of Rust Dragons! You'd seen Rust Dragons on the islands south of Jadame, but never in such numbers. Worst of all, the dragons have noticed you. It's too late to run; you'll have to fight them.
+Une odeur de soufre flottait dans l'air. À mesure que nous approchions des montagnes, elle s'intensifiait. 	Une immense caverne apparut devant nous, et au-dessus d'elle, il n'y avait pas d'oiseaux, mais des Dragons – des dizaines et des centaines de Dragons Corrosif ! Vous aviez déjà vu des Dragons Corrosif sur les îles au sud de Jadame, mais jamais en si grand nombre. Pire encore, les Dragons vous ont remarqué. Il est trop tard pour fuir ; vous allez devoir les combattre.
 
 (13, 43, 0) ***Pandora's Box***
 Message:
@@ -283,47 +283,47 @@ Message:
 Name:
 Yovilla
 Biography:
-Utterly confident in her missionary gift, Yovilla will preach even to inanimate objects, since any of them may have a spirit inside who can be made a believer. This happened before when she persuaded a small river to part its waters. Moved by her ardent speech, the river's spirit prevented her from getting her feet wet, and also imparted on her the secrets of his magic.
+Pleinement confiante en son don de missionnaire, Yovilla prêche même aux objets inanimés, car chacun d'eux peut être habité par un esprit susceptible d'être converti. Cela lui était déjà arrivé lorsqu'elle persuada une petite rivière de se séparer de ses eaux. Ému par son discours ardent, l'esprit de la rivière refusa de lui mouiller les pieds et lui transmit les secrets de sa magie.
 
 (56, 27, 0) ***Quest Gate***
 Message:
-The yard appeared ahead, with several airships standing by. This is our way home. However, we can't hope for success in fighting the devils if we don’t prepare everything we need, and without the Orb of Tempestuous Fire, we'll never make it to Eeofol.
-The yard appeared ahead, with several airships standing by. This is our way home. However, we can't hope for success in fighting the devils if we don’t prepare everything we need, and without the Orb of Tempestuous Fire, we'll never make it to Eeofol.
-Do you want to proceed to the airship yard?
+Le chantier apparut devant nous, avec plusieurs dirigeables en attente. C'est notre ticket de retour. Cependant, nous ne pouvons espérer vaincre les Démons si nous ne préparons pas tout ce dont nous avons besoin, et sans le Globe des Flammes, nous n'atteindrons jamais Eeofol.
+Le chantier apparut devant nous, avec plusieurs dirigeables en attente. C'est notre ticket de retour. Cependant, nous ne pouvons espérer vaincre les Démons si nous ne préparons pas tout ce dont nous avons besoin, et sans le Globe des Flammes, nous n'atteindrons jamais Eeofol.
+Voulez-vous vous rendre au chantier Aéronaval ?
 
 (50, 27, 0) ***Quest Guard***
 Message:
-This path through an abandoned mine leads to an old prison and then makes a turn towards the airship yard; however, you discover that the mine has collapsed and you can't go any further.	The local ranger, a dark elf, says he knows another way, but demands a reward of artifacts that would be useful to him in his line of work.
-The ranger won’t help you, and there is no other apparent way to get to the prison and the airship yard.
-The ranger is ready to lead you through the mountains. Would you be willing to give him the artifacts?
+Ce chemin à travers une mine abandonnée mène à une ancienne prison, puis bifurque vers le Chantier Aéronaval. Cependant, vous découvrez que la mine s'est effondrée et que vous ne pouvez plus aller plus loin. Le garde forestier local, un elfe noir, affirme connaître un autre chemin, mais exige une récompense sous forme d'artéfacts qui lui seraient utiles dans son travail.
+Le garde forestier refuse de vous aider, et il n'y a apparemment aucun autre moyen d'accéder à la prison et au Chantier Aéronaval.
+Le garde forestier est prêt à vous guider à travers les montagnes. Seriez-vous prêt à lui donner les artéfacts ?
 
 (74, 105, 0) ***Quest Guard***
 Message:
-Up ahead, perched on a rock, sits an enormous black dragon. The majestic wyrm eyes you closely. Finally, he speaks to you.	“I know what you're looking for here. An Everpouring Vial of Mercury, isn't it? Well... Do me a favor and I'll let you into the mountains.	Ilsingore, the unworthy son of the dragonkind, abandoned us in our hour of need. We thought he and his minions had gone to the Ironsand Desert, but recently he reemerged in these lands with several other dragons. I know not what he wants here, but I do not wish to see the traitor. Drive him away and I will let you pass.”
-The black dragon won't let you pass. It seems the only way through here is to agree to the wyrm's terms.
-I saw Ilsingore flying away to the east. I will now let you pass. Remember, however, that there are dragons of Ilsingore's flight waiting for you in the mountains, and you will have to fight them.	Do you wish to go into the caves?
+Plus loin, perché sur un rocher, trône un énorme Dragon noir. Le wyrm majestueux vous observe attentivement. Finalement, il vous parle.	"Je sais ce que vous cherchez ici. Un Flacon Mercurien, n'est-ce pas ? Eh bien… Faites-moi une faveur et je vous laisserai entrer dans les montagnes.	Ilsingore, le fils indigne des Dragons, nous a abandonnés au moment où nous en avions besoin. Nous pensions que lui et ses serviteurs étaient partis pour le Désert d'Ironsand, mais il a récemment réapparu sur ces terres avec plusieurs autres Dragons. J'ignore ce qu'il veut ici, mais je ne souhaite pas voir ce traître. Chassez-le et je vous laisserai passer."
+Le Dragon noir ne vous laissera pas passer. Il semble que le seul moyen de passer ici soit d'accepter les conditions du wyrm.
+J'ai vu Ilsingore s'envoler vers l'est. Je vais maintenant vous laisser passer. N'oubliez pas, cependant, que des Dragons du vol d'Ilsingore vous attendent dans les montagnes, et que vous devrez les combattre.	Voulez-vous aller dans les grottes ?
 
 (107, 78, 0) ***Prison***
 Name:
 Khevasar
 Biography:
-Khevasar came to question a fundamental tenet of the philosophy he had studied for decades: the postulate that a druid wields power over all aspects of nature along with the authority not only to bring it into his service, but also to alter it to suit his views and wants. This caused many of his AvLeean colleagues to accuse him of adhering to the archaic Enrothian heresy.
+Khevasar en vint à remettre en question un principe fondamental de la philosophie qu'il étudiait depuis des décennies : le postulat selon lequel un druide exerce un pouvoir sur tous les aspects de la nature, ainsi que l'autorité de la mettre à son service, mais aussi de la modifier selon ses points de vue et ses désirs. Cela poussa nombre de ses collègues AvLeean à l'accuser d'adhérer à l'hérésie archaïque Enrothian.
 
 (95, 1, 0) ***Quest Guard***
 Message:
-On the shore of a mountain lake, you are greeted by several Nix. One of them comes forward.	“Recently, our fort was attacked by a huge dragon, clearly the leader of a powerful flight. We think his lair is somewhere in these mountains. Drive it from these lands, and we will reward you handsomely.”
-The dragon is still out there.
-We saw Ilsingore fly away. I never thought you could handle a whole flight of dragons. Take this Royal Armor of Nix; I'm sure you need it more than we do.
+Sur la rive d'un lac de montagne, vous êtes accueillis par plusieurs Nix. L'un d'eux s'avance. "Récemment, notre fort a été attaqué par un énorme Dragon, manifestement à la tête d'un puissant vol. Nous pensons que son repaire se trouve quelque part dans ces montagnes. Chassez-le de ces terres et nous vous récompenserons généreusement."
+Le Dragon est toujours là.
+Nous avons vu Ilsingore s'envoler. Je n'aurais jamais cru que vous pourriez affronter un vol entier de Dragons. Prenez cette Broigne Royale Nix ; je suis sûr que vous en avez plus besoin que nous.
 
-(69, 80, 0) ***Halfling***
+(69, 80, 0) ***Hobbit***
 Message:
-Gather round, lads, we're about to move out!
+Rassemblez-vous, les gars, nous sommes sur le point de partir !
 
 (93, 75, 0) ***Hero Camp***
 Name:
 Ilmarin
 Biography:
-Ilmarin's alchemical thesis described an improved activation technology for the golden golem. He himself sculpted the statue he was to animate before the commission, and somehow decided to give it feminine features. The golden woman vanished the night following the demonstration, and Ilmarin has been scouring the world ever since in search for her who kindled love in his heart.
+La thèse alchimique d'Ilmarin décrivait une amélioration de la technologie d'activation du Golem d'Or. Il avait lui-même sculpté la statue qu'il devait animer avant la commission et avait décidé, d'une manière ou d'une autre, de lui donner des traits féminins. La femme dorée disparut la nuit suivant la démonstration, et Ilmarin parcourt le monde depuis lors à la recherche de celle qui avait allumé l'amour dans son cœur.
 
 (9, 24, 0) ***Event***
 Message:
@@ -339,15 +339,15 @@ Message:
 
 (104, 51, 0) ***Quest Guard***
 Message:
-In the woods, you encounter an elven hermit who has made his home here. He offers to guide you into the heart of the forest, but only if you retrieve an ancient elven bow that was lost decades ago. The hermit reveals that the bow was found by a bandit who recently arrived in Jadame. The elf is troubled by the idea of such a precious artifact falling into the hands of a scoundrel and pleads for its return.
-The hermit won't talk to you until you find the ancient bow.
-To your astonishment, the elf reveals that the intricately designed bow, resembling a masterpiece of mechanical work, is indeed the ancient relic of his people.		Would you like to pass the bow to an elf and find out how to make it into the heart of the forest?
+Dans les bois, vous rencontrez un ermite elfique qui a élu domicile ici. Il vous propose de vous guider au cœur de la forêt, à condition que vous récupériez un ancien arc elfique, perdu il y a des décennies. L'ermite vous révèle que l'arc a été trouvé par un bandit récemment arrivé à Jadame. L'elfe, troublé par l'idée qu'un artéfact aussi précieux tombe entre les mains d'un scélérat, implore sa restitution.
+L'ermite ne vous adressera pas la parole tant que vous n'aurez pas trouvé l'arc ancien.
+À votre grande surprise, l'elfe vous révèle que cet arc aux lignes complexes, semblable à un chef-d'œuvre de mécanique, est bien l'ancienne relique de son peuple.		Souhaitez-vous confier l'arc à un elfe et découvrir comment le fabriquer au cœur de la forêt ?
 
 (38, 43, 0) ***Quest Guard***
 Message:
-The Naga Bank's gate is magically sealed. Only one who speaks the serpent women's tongue can break it. But who could possess such knowledge? Perhaps a Bracadan wizard or alchemist?
-Frederick might have been of help, but he is no longer present among us. Perhaps we can find a wayfaring wizard or alchemist from Bracada around these parts?
-Balindar says a few words in a language you don't understand, waves his hands, and then the seal is lifted.		Would you like to open the Naga Bank’s gate?
+La porte du Repaire de Naga est scellée magiquement. Seul celui qui parle la langue des femmes-serpents peut la briser. Mais qui pourrait posséder un tel savoir ? Peut-être un sorcier ou un alchimiste de Bracada ?
+Frederick aurait pu nous être utile, mais il n'est plus parmi nous. Peut-être pourrions-nous trouver un sorcier ou un alchimiste de Bracada, dans les environs ?
+Balindar dit quelques mots dans une langue que vous ne comprenez pas, agite les mains, puis le sceau est levé.		Souhaitez-vous ouvrir la porte du Repaire de Naga ?
 
 (59, 28, 0) ***Artificer***
 Name:
@@ -355,29 +355,29 @@ Umender
 
 (37, 35, 0) ***Seer's Hut***
 Message:
-An alchemist meets you in the hut.	“Something odd has been happening the last few weeks. Only a year ago, I was helping Frederick on his quest for Agar's lab, and now Burton is a place changed. Unfamiliar faces and weird inventions are everywhere, and now the King of Deyja himself is in charge. Let's face it: I don't like what's going on here, and I'm going back to Enroth. Unfortunately, I've had to abandon my lab. I need gems to continue my experiments and gold to buy new alchemical reagents.	Help me, and I'll get you a scroll with the Town Portal spell. While it won't get you to another continent, it’ll sure come in handy for your immediate needs.
-Unfortunately, this amount of gems and gold won't do it for me.
-Oh, great! Now I can finally go home. Take this scroll, you'll need it.
+Un alchimiste vous accueille dans la hutte. "Il s'est passé quelque chose d'étrange ces dernières semaines. Il y a seulement un an, j'aidais Frederick dans sa quête à la recherche du laboratoire d'Agar, et maintenant Burton est un endroit bien différent. Des visages inconnus et des inventions étranges sont partout, et maintenant le roi de Deyja en personne est aux commandes. Soyons francs : je n'aime pas ce qui se passe ici, et je retourne à Enroth. Malheureusement, j'ai dû abandonner mon laboratoire. J'ai besoin de Gemmes pour poursuivre mes expériences et d'Or pour acheter de nouveaux réactifs alchimiques. Aidez-moi, et je vous procurerai un parchemin contenant le sort Portail de Retour. Même s'il ne vous mènera pas sur un autre continent, il vous sera certainement utile pour vos besoins immédiats.
+Malheureusement, cette quantité de Gemmes et d'Or ne me suffira pas.
+Oh, super ! Maintenant, je peux enfin rentrer chez moi. Prenez ce parchemin, vous en aurez besoin.
 
 (97, 61, 0) ***Quest Guard***
 Message:
-Traveling through the forest, you come across a group of priests clad in green robes. They must be druids.	“Greetings," one of them says to you. “We have come here in search of the druid Xaver. He was once one of us before switching sides and joining the renegades who caused much mischief in Enroth. He fled to Jadame and now seems to be up to his old tricks. See the dead forest around us? We believe Xaver is responsible for what happened here. It's hard to say where he is now, but the unicorns saw him heading towards a mysterious black portal in the caves. Perhaps that portal will take you to him.	Help us find and punish him, and we will help you.”
-The Druids are still here. Better not to bother them, unless you bring good news.
-“We have heard of your victory," says the druid. “We have no gold to reward you, but here’s something better: a Ring of Infinite Gems.”	Do you wish to accept the reward?
+En traversant la forêt, vous croisez un groupe de prêtres vêtus de robes vertes. Ce doivent être des druides.	"Salutations", vous dit l'un d'eux. "Nous sommes venus ici à la recherche du druide Xaver. Il était autrefois l'un des nôtres avant de changer de camp et de rejoindre les renégats qui ont semé le chaos à Enroth. Il s'est enfui à Jadame et semble maintenant renouer avec ses vieilles habitudes. Voyez-vous la forêt morte qui nous entoure ? Nous pensons que Xaver est responsable de ce qui s'est passé ici. Difficile de dire où il se trouve actuellement, mais les Licornes l'ont vu se diriger vers un mystérieux portail noir dans les grottes. Peut-être que ce portail vous mènera à lui.	Aidez-nous à le trouver et à le punir, et nous vous aiderons."
+Les druides sont toujours là. Mieux vaut ne pas les déranger, à moins que vous n'apportiez de bonnes nouvelles.
+"Nous avons entendu parler de votre victoire", dit le druide. "Nous n'avons pas d'Or pour vous récompenser, mais voici quelque chose de mieux : une Bague des Joailliers." Souhaitez-vous accepter la récompense ?
 
 (25, 92, 0) ***Event***
 Message:
-There was a town by the imposing name of Larimar on our way, to be our first stop on our trek across Jadame that would bring our grueling expedition to an end. We didn't expect fanfare, red carpets, or any other silly honors for returning travelers; all we dreamed of were hot meals, soft beds, and fresh clothes.		Alas, our dreams were dealt an instant blow once we saw the locals’ frightened faces. In a flash, the street was deserted, all the shutters on the windows were closed, and the doors bolted shut. The town died out; only the wind played with the tumbleweeds along the road. On one of the doors, I saw several posters of yellowed parchment. The first and largest one depicted an ugly halfling with a cross, scowling face like a chewed-up pancake. The caption read: "Henrietta. Wanted dead or alive." Other posters were adorned with equally gut-wrenching faces, and many of the names below them were very familiar to me.
+Sur notre chemin se trouvait une ville au nom imposant de Larimar, première étape de notre traversée de Jadame, qui marquerait la fin de notre éprouvante expédition. Nous ne nous attendions ni à des fanfares, ni à des tapis rouges, ni à d'autres honneurs ridicules pour les voyageurs de retour ; nous rêvions seulement de repas chauds, de lits douillets et de vêtements propres.		Hélas, nos rêves furent anéantis par la vue des visages effrayés des habitants. En un éclair, la rue fut désertée, tous les volets des fenêtres furent clos et les portes verrouillées. La ville s'éteignit ; seul le vent jouait avec les herbes folles le long de la route. Sur l'une des portes, j'aperçus plusieurs affiches de parchemin jauni. La première, et la plus grande, représentait un Hobbit affreux, le visage en croix et renfrogné, tel une crêpe mâchée. La légende disait : "Henrietta. Recherchée morte ou vive." D'autres affiches arboraient des visages tout aussi effrayants, et nombre des noms qui se trouvaient en dessous me semblaient familiers.
 
 (57, 27, 0) ***Event***
 Message:
-It would be naive to assume that the airship yard would just stand unguarded. As soon as we approached the airships, a host of automatons—hundreds of them!—appeared from behind the hills. A vaguely familiar-looking artificer was ordering them around...
+Il serait naïf de croire que le Chantier Aéronaval resterait sans surveillance. Dès que nous nous sommes approchés des dirigeables, une armée d'automates – des centaines ! – est apparue derrière les collines. Un artificier à l'apparence vaguement familière leur donnait des ordres…
 
 (49, 65, 0) ***Quest Guard***
 Message:
-A stone wall with an unusual-looking gate appeared ahead, and in front of it there was a man with the looks of a miner.	“Can't get through? Neither can I. This gate was built to keep anyone from going through the portal to Rotwang. There used to keys to open the gate, but the barbarian, Wededh, swindled our master and took them.
-I gather you still haven't found the keys? Then we'll have to look for this barbarian.
-Great, these keys fit the lock! Shall we open the gate?
+Un mur de pierre avec une porte étrange apparut plus loin, et devant lui se tenait un homme à l'allure de mineur. "Impossible de passer ? Moi non plus." Cette porte a été construite pour empêcher quiconque de franchir le portail de Rotwang. Il y avait autrefois des clefs pour l'ouvrir, mais le barbare, Wededh, a escroqué notre maître et les a volées.
+Je suppose que vous n'avez toujours pas trouvé les clefs ? Alors, il va falloir chercher ce barbare.
+Super, ces clefs correspondent à la serrure ! On ouvre la porte ?
 
 (35, 98, 0) ***Pandora's Box***
 Message:
@@ -413,13 +413,13 @@ Message:
 
 (73, 50, 0) ***Quest Guard***
 Message:
-A major stable looms ahead. It is fenced in with a palisade, and well-armed swordsmen—seemingly experienced mercenaries—stand guard here. You begin pounding on the gate, while the guards eye you up suspiciously.	At length, a dark elf emerges on the landing above the gate.	"What’s up with the ruckus?"	"We come from Rotwang. We need fresh horses.”	"Ha! Who doesn't these days? This is the Guild's stable, and no outsiders are allowed to come in. Much less to take our horses.”	“We could pay."	The dark elf's brow furrows, and after a moment of thought, he says,	"25,000 gold. For 25,000 gold, I might consider opening the gate and pretending no one ever took any horses from here."
-“No money, no horses!”
-"It's a pleasure doing business with you," the elf says, eyeing the money. He nods to the mercenaries, and they open the gate.		Would you like to proceed to the stables?
+Une grande Écurie se profile devant vous. Elle est clôturée par une palissade, et des Spadassins bien armés – apparemment des mercenaires expérimentés – montent la garde. Vous commencez à frapper à la porte, tandis que les gardes vous observent avec suspicion. Finalement, un elfe noir apparaît sur le palier au-dessus de la porte.	"Qui fait tout ce boucan ? "	"Nous venons de Rotwang. Nous avons besoin de chevaux frais."	"Ah ! Qui n'en a pas besoin ces jours-ci ? C'est l'Écurie de la Guilde, et aucun étranger n'est autorisé à entrer. Et encore moins à y prendre nos chevaux."	"Nous pourrions payer." L'elfe noir fronce les sourcils et, après un moment de réflexion, nous répondit :	"25 000 Pièces d'Or. Pour 25 000 Pièces d'Or, je pourrais envisager d'ouvrir la porte et de faire comme si personne n'avait jamais pris de chevaux d'ici."
+"Pas d'argent, pas de chevaux ! "
+"C'est un plaisir de faire affaire avec vous", dit l'elfe en regardant l'argent. Il fait un signe de tête aux mercenaires, et ils vous ouvrent la porte.		Voulez-vous aller aux écuries ?
 
 (68, 97, 0) ***Sign***
 Message:
-Beware of Rust Dragons!
+Attention aux Dragon Corrosifs !
 
 (72, 0, 0) ***Pandora's Box***
 Message:
@@ -435,7 +435,7 @@ Message:
 
 (24, 90, 0) ***Gunslinger***
 Message:
-A small team of gunslingers appeared from behind the corner. They fell into a single file at the end of the street and pointed their guns at us. One came forward; he wore a perfectly ironed charcoal-black outfit and a cuirass buffed to a dazzling shine. An odd sight it was; I had never before known a gunslinger so mindful of his appearance. I mean, how could one hope to stay this dapper while riding through the wastelands for weeks, sleeping on bare ground, and crawling around among pointy rocks and thorny bushes? Apparently, something in their job description and approach to duty had changed while I was away...		The overdressed gunslinger spat on the ground and spoke raspily:	“Pursuant to order six slash six by Supreme Overseer Kastore, you are to voluntarily lay down your arms and proceed to the city prison, from where you will be convoyed to Burton and brought to a fair trial for sabotage and treason.” 		“Treason?! We are just back from a long journey. We've been away from Jadame for months, and this Kastore of yours knows it full well! There must be some mistake—” 		“Shut it! Either you give up peacefully, or we will turn in your heads for the promised reward... Hmm. Since the reward is the same, guess we could practice our marksmanship some—what do you think, Gerth?”		The mercenary to the leader’s right contorted his lips into a cynical grin.
+Une petite équipe de Pistoleros apparut au coin d'une rue. Ils se rangèrent en file indienne au bout de la rue et pointèrent leurs armes sur nous. L'un d'eux s'avança ; il portait un costume noir anthracite parfaitement repassé et une cuirasse polie d'un éclat éclatant. Quel spectacle étrange ! Je n'avais jamais vu un Pistolero aussi soucieux de son apparence. Comment pouvait-on espérer rester aussi élégant tout en chevauchant à travers les Terres Arides pendant des semaines, en dormant à même le sol et en rampant parmi les rochers pointus et les buissons épineux ? Apparemment, quelque chose dans leur description de poste et leur approche du devoir avait changé pendant mon absence…		Le Pistolero, trop habillé, cracha par terre et parla d'une voix rauque :	"Conformément à l'ordre six du Surveillant suprême Kastore, vous devez volontairement déposer les armes et vous rendre à la prison de la ville, d'où vous serez conduit à Burton et traduit en justice pour sabotage et trahison." 		"Trahison ?! Nous revenons tous juste d'un long voyage. Nous étions loin de Jadame pendant des mois, et ce Kastore le sait pertinemment ! Il doit y avoir une erreur… " 		"Ferme-la ! Soit vous vous rendez pacifiquement, soit nous prendrons votre tête pour la récompense promise… Hmm. Puisque la récompense est la même, on pourrait peut-être s'entraîner au tir… Qu'en penses-tu, Gerth ? "		Le mercenaire à la droite du chef esquissa un sourire cynique.
 
 (36, 97, 0) ***Pandora's Box***
 Message:
@@ -443,15 +443,15 @@ Message:
 
 (33, 92, 1) ***Seer's Hut***
 Message:
-Expecting to see Liches in the hut, you entered with caution, holding your weapon at the ready. However, there was only a gaunt dark elf in there—it looked as though Urdeon was keeping him locked up.		"What is a merchant doing in these caves?" You asked him.		“I'm not a merchant!” The elf waved his hand in irritation. “I am… ah, what the heck, I’m a seeker of rare artifacts. Back in the day, I tracked down my fair share of valuable items thought to have been long lost. For some reason, the high priest of the Temple of the Sun decided I would be able to find a certain powerful ancient sword for his temple. Solkrist, or something... I don't even remember, it was a year ago. The job sounded fishy, but I agreed; the holy rollers promised way too big a reward to refuse. I succumbed to greed, and now I’m paying for that, I guess. I crossed Jadame end to end, never finding any damn sword. I was getting desperate when my search led me to this cave—according to rumors, someone once hid a powerful artifact here, reportedly created by the Temple. Alas, it was not the sword, but a pair of bloody sandals—and, worst of all, some Liches from the Necromancer Guild also came to this very cave. See, they were searching for artifacts they thought to be posing danger to their cause, seeking to destroy them. The sandals were locked in a magically sealed receptacle; when I arrived here, I found the undead swarming around it. 		I heeled it, but trying to run away from the walking dead is a lost cause. They know neither fatigue nor fear. However, Urdeon, the leader of this carrion squad, turned out to be surprisingly sensible. His offer to me was to find some more artifacts for him—of course, it was impossible to refuse.”		"Some more artifacts, you say?"		“Yes. According to him, breaching this barrier would require two items with opposite properties—for example, a Pendant of Life and a Pendant of Death. A while ago, such trifles could be bought from artifact merchants at fairly meager prices, but they say, some shady character has recently come to power in these lands—and the merchants had to leave here. Maybe you can find something in dragon hoards?”
-The dark elf has long left, but the sandals are still here, and you aren’t likely to get them out without artifacts.
-Would you like to sacrifice the artifacts to open the receptacle with the Sandals of the Saint?
+Vous vous attendiez à voir des Liches dans la hutte, vous y êtes entré avec prudence, arme prête. Cependant, il n'y avait qu'un elfe noir décharné à l'intérieur ; on aurait dit qu'Urdeon le retenait enfermé.		"Que fait un marchand dans ces grottes ? " lui avez-vous demandé.		"Je ne suis pas marchand ! " L'elfe agita la main, irrité. "Je suis… euh, et puis zut, je suis un chercheur d'artéfacts rares. Autrefois, j'ai retrouvé pas mal d'objets de valeur que l'on croyait perdus depuis longtemps. Pour une raison inconnue, le grand prêtre du Temple du Soleil a décidé que je pourrais trouver une certaine épée ancienne et puissante pour son temple. Solkrist, ou quelque chose comme ça… Je ne m'en souviens même plus, c'était il y a un an. La mission semblait louche, mais j'ai accepté ; les hérauts promettaient une récompense bien trop généreuse pour être refusée. J'ai succombé à la cupidité, et maintenant j'en paie le prix, je suppose. J'ai traversé Jadame d'un bout à l'autre, sans jamais trouver la moindre épée. Je commençais à désespérer lorsque mes recherches m'ont mené à cette grotte. Selon les rumeurs, quelqu'un y aurait caché un puissant artéfact, prétendument créé par le Temple. Hélas, ce n'était pas l'épée, mais une paire de sandales ensanglantées. Et, pire encore, des Liches de la Guilde des Nécromanciens étaient également venues dans cette grotte. Voyez-vous, elles cherchaient des artéfacts qu'elles pensaient représenter un danger pour leur cause, cherchant à les détruire. Les sandales étaient enfermées dans un réceptacle scellé par magie ; à mon arrivée, j'ai trouvé les morts-vivants grouillant autour. 		Je l'ai maîtrisée, mais fuir les morts-vivants est une cause perdue. Ils ne connaissent ni la fatigue ni la peur. Cependant, Urdeon, le chef de cette escouade de charognards, s'est révélé étonnamment raisonnable. Il m'a proposé de lui trouver d'autres artéfacts – bien sûr, impossible de refuser."		"D'autres artéfacts, dis-tu ? "		"Oui. D'après lui, franchir cette barrière nécessiterait deux objets aux propriétés opposées ; par exemple, un Pendentif de Vie et un Pendentif de Mort. Autrefois, on pouvait acheter de telles bagatelles chez les marchands d'artéfacts à des prix dérisoires, mais on dit qu'un personnage louche a récemment pris le pouvoir dans ces terres ; et les marchands ont dû partir. Tu pourrais peut-être trouver quelque chose dans les trésors des Dragons ?
+L'elfe noir est parti depuis longtemps, mais les sandales sont toujours là, et vous ne pourrez probablement pas les récupérer sans artéfacts.
+Souhaitez-vous sacrifier les artéfacts pour ouvrir le réceptacle contenant les Sandales Sacrées ?
 
 (16, 84, 1) ***Quest Guard***
 Message:
-A recent landslide has blocked the entrance to this cave. Clearing up the passage will take 25 wood and 25 ore for supports, and 25 gems to pay the engineers.
-A recent landslide has blocked the entrance to this cave. Clearing up the passage will take 25 wood and 25 ore for supports, and 25 gems to pay the engineers.
-Do you wish to clear up the passage?
+Un récent glissement de terrain a bloqué l'entrée de cette grotte. Le dégagement du passage nécessitera 25 unités de Bois, de 25 unités de Pierres, pour la base, ainsi que de 25 unités de Gemmes pour rémunérer les ingénieurs.
+Un récent glissement de terrain a bloqué l'entrée de cette grotte. Le dégagement du passage nécessitera 25 unités de Bois, de 25 unités de Pierres, pour la base, ainsi que de 25 unités de Gemmes pour rémunérer les ingénieurs.
+Souhaitez-vous dégager le passage ?
 
 (31, 93, 1) ***Death Knight***
 Name:
@@ -459,33 +459,33 @@ Urdeon
 
 (78, 40, 1) ***Seer's Hut***
 Message:
-You've heard before that this spacious cave is frequented by ratfolk smugglers. Perhaps this is where they keep their treasures.	In one of the huts in the cave, you come across a sneaky fellow.	“If you've come here in search of goods, forget about it! We used to smuggle stuff into Burton, but Kastore's troops have now cut all the roads leading to that town. The force blocking one of them is the band led by the artificer Eanswythe. If you'd put an end to this problem, we'd share something of value with you.”
-The smugglers are going about their business. It's best not to bother them too much.
-We heard of your victory. Ah yes, the reward... Here: the magical boots we recently acquired from the Regnan pirates. Satisfied?
+Vous avez déjà entendu dire que cette vaste grotte est fréquentée par des bandits hommes-rats. C'est peut-être là qu'ils cachent leurs trésors.	Dans l'une des huttes de la grotte, vous croisez un individu sournois.	"Si vous êtes venu ici en quête de marchandises, oubliez ça ! Nous faisions entrer des marchandises de contrebande à Burton, mais les troupes de Kastore ont maintenant coupé toutes les routes menant à cette ville. L'une des forces qui bloque l'une de ces routes est la bande dirigée par l'artificier Eanswythe. Si vous mettiez fin à ce problème, nous serions prêts à partager quelque chose de précieux avec vous."
+Les bandits vaquent à leurs occupations. Mieux vaut ne pas trop les déranger.
+Nous avons entendu parler de votre victoire. Ah oui, la récompense… Tenez : les bottes magiques que nous avons récemment acquises auprès des Pirates de Regnan. Satisfait ?
 
 (69, 54, 1) ***Seer's Hut***
 Message:
-You've heard before that this spacious cave is frequented by ratfolk smugglers. Perhaps this is where they keep their treasures.	In one of the huts in the cave, you come across a sneaky fellow.	“If you've come here in search of goods, forget about it! We used to smuggle stuff into Burton, but Kastore's troops have now cut all the roads leading to that town. The force blocking one of them is the band led by the notorious mercenary Jangaard. If you'd put an end to this problem, we'd share something of value with you.”
-The smugglers are going about their business. It's best not to bother them too much.
-We heard of your victory. Ah yes, the reward... Here: the magical surcoat we recently acquired from the ogres. Satisfied?
+Vous avez déjà entendu dire que cette vaste grotte est fréquentée par des bandits hommes-rats. C'est peut-être là qu'ils cachent leurs trésors.	Dans l'une des huttes de la grotte, vous croisez un individu sournois.	"Si vous êtes venu ici en quête de marchandises, oubliez ça ! Nous faisions entrer des marchandises de contrebande à Burton, mais les troupes de Kastore ont maintenant coupé toutes les routes menant à cette ville. L'une des forces qui bloque l'une de ces routes est la bande dirigée par le célèbre mercenaire Jangaard. Si vous mettiez fin à ce problème, nous serions prêts à partager quelque chose de précieux avec vous."
+Les bandits vaquent à leurs occupations. Mieux vaut ne pas trop les déranger.
+Nous avons entendu parler de votre victoire. Ah oui, la récompense… Tenez : le surcot magique que nous avons récemment acquis auprès des Ogres. Satisfait ?
 
 (96, 48, 1) ***Seer's Hut***
 Message:
-You've heard before that this spacious cave is frequented by ratfolk smugglers. Perhaps this is where they keep their treasures.	In one of the huts in the cave, you come across a sneaky fellow.	“If you've come here in search of goods, forget about it! We used to smuggle stuff into Burton, but Kastore's troops have now cut all the roads leading to that town. The force blocking one of them is the band led by the notorious mercenary Zarghebar. If you'd put an end to this problem, we'd share something of value with you.”
-The smugglers are going about their business. It's best not to bother them too much.
-We heard of your victory. Ah yes, the reward... Here: the magical garniture we recently acquired from the bandits. Satisfied?
+Vous avez déjà entendu dire que cette vaste grotte est fréquentée par des bandits hommes-rats. C'est peut-être là qu'ils cachent leurs trésors.	Dans l'une des huttes de la grotte, vous croisez un individu sournois.	"Si vous êtes venu ici en quête de marchandises, oubliez ça ! Nous faisions entrer des marchandises de contrebande à Burton, mais les troupes de Kastore ont maintenant coupé toutes les routes menant à cette ville. L'une des forces qui bloque l'une de ces routes est la bande dirigée par le célèbre mercenaire Zarghebar. Si vous mettiez fin à ce problème, nous serions prêts à partager quelque chose de précieux avec vous."
+Les bandits vaquent à leurs occupations. Mieux vaut ne pas trop les déranger.
+Nous avons entendu parler de votre victoire. Ah oui, la récompense… Tenez : la garniture magique que nous avons récemment acquise auprès de d'autres Bandits. Satisfait ?
 
 (39, 72, 1) ***Seer's Hut***
 Message:
-You find out that the hut’s door has a huge lock. You immediately notice the unusual keyhole in the shape of... the Emblem of Cognizance.
-You feel as thought you won't be able to find the Emblem of Cognizance.
-Do you wish to open the doors to the hut?
-In the hut, you are greeted by a mighty minotaur.	“Don't look at me like that," he says, "I am not one of Kastore’s lackeys! On the contrary, for the past few months my brethren and I have had many clashes with the bandits hired by that... elf. And they dare to call themselves minotaurs!” the monster's eyes glow menacingly. “Listen. I've seen you fight. Your arms are fine, but weapons are not the only source of a warrior's strength. We minotaurs are not only strong warriors; we also have mages among us. I can train you to make your enemies lose their minds, but we don't usually reveal our secrets to outsiders. However, I'm willing to make an exception for you. Bring me 75 wood, 75 ore, 75 crystals, 75 gems, 75 sulfur, 75 mercury and 75000 gold, and I will let you in on our secret.”
-“That's not enough!” the minotaur growls. “Don't come to me with such a pittance again, or you'll regret it!”
-Do you wish to give the resources to the minotaur?
-I can teach you the Berserk spell now, but I need a scroll or book with it to help you! I don't know where you can get one like that, but you might be able to find something in the hoard of the Rust Dragons not far from here. Be careful, though! The biggest flight of those things I've ever seen has set up shop there!
-“So where is the scroll?” the minotaur growls. “Don't come to me empty-handed again, or you'll regret it!”
-Do you want to learn the Berserk spell in exchange for the scroll?
+Vous découvrez que la porte de la hutte est munie d'une énorme serrure. Vous remarquez immédiatement l'étrange trou de serrure en forme de… l'Emblème du Faussaire.
+Vous avez l'impression de ne pas pouvoir trouver l'Emblème du Faussaire.
+Voulez-vous ouvrir les portes de la hutte ?
+Dans la hutte, vous êtes accueilli par un puissant Minotaure.	"Ne me regardez pas comme ça", dit-il, "je ne suis pas un laquais de Kastore ! Au contraire, ces derniers mois, mes frères et moi avons eu de nombreux affrontements avec les Bandits engagés par cet… elfe. Et ils osent se faire appeler minotaures ! " Les yeux du monstre brillent d'une lueur menaçante. "Écoute. Je vous ai vu combattre. Vos armes sont excellentes, mais elles ne sont pas la seule source de force d'un guerrier. Nous, les Minotaures, ne sommes pas seulement de puissants guerriers, mais, parmi nous, certains sont aussi des mages. Je peux t'entraîner à faire perdre la raison à vos ennemis, mais nous n'avons pas habitude de partager nos secrets aux étrangers. Cependant, je suis prêt à faire une exception pour vous. Rapporte-moi 75 de Bois, 75 de Minerais, 75 de Cristaux, 75 de Gemmes, 75 de Soufre, 75 de Mercure et 75 000 Pièces d'Or, et je vous révélerai notre secret."
+"Ce n'est pas suffisant ! " grogne le Minotaure. "Ne reviens plus me voir avec une telle misère, tu le regretteras ! "
+Souhaitez-vous donner vos ressources au Minotaure ?
+Je peux vous apprendre le sort Frénésie, mais j'ai besoin d'un parchemin ou d'un livre pour vous aider ! Je ne sais pas où vous pouvez en trouver un, mais vous pourriez peut-être en dénicher un dans le trésor des Dragons Corrosifs, non loin d'ici. Attention cependant ! Le plus grand vol de ces créatures que j'aie jamais vu s'est installé là !
+"Alors, où est le parchemin ? " grogne le Minotaure. "Ne reviens pas me voir les mains vides, tu le regretteras ! "
+Voulez-vous apprendre le sort Frénésie en échange de votre parchemin ?
 
 (79, 92, 1) ***Druid***
 Name:
@@ -493,8 +493,8 @@ Xaver
 
 (16, 89, 1) ***Quest Gate***
 Message:
-After the fight with the death knights, you looked around. They were obviously guarding something here, but there was no treasure or anything else of value in sight.		Upon scouring the place carefully, you noticed an old chest ajar, and in its keyhole, a slightly corroded key, with a ring of other keys attached to it.
-Would you like to go over and pick up the keys?
+Après le combat contre les chevaliers de la mort, vous avez regardé autour de vous. Ils gardaient visiblement quelque chose ici, mais il n'y avait aucun trésor ni rien de précieux en vue.		En fouillant les lieux avec soin, vous avez remarqué un vieux coffre entrouvert, et dans sa serrure, une clef légèrement corrodée, pendue à un trousseau avec d'autres clefs attachées.
+Voudriez-vous aller récupérer ces clefs ?
 
 (75, 94, 1) ***Pandora's Box***
 Message:
@@ -502,12 +502,12 @@ Message:
 
 (54, 50, 1) ***Seer's Hut***
 Message:
-I represent the Merchant Guild. I used to buy timber from the Murmurwoods, but recently I've found out that perfectly good wood is also available in this area, and at a low price. I'm willing to pay for it with rare resources!
-I represent the Merchant Guild. I used to buy timber from the Murmurwoods, but recently I've found out that perfectly good wood is also available in this area, and at a low price. I'm willing to pay for it with rare resources!
-Buy 1 unit of mercury for 30 units of wood?
-I represent the Merchant Guild. I used to buy timber from the Murmurwoods, but recently I've found out that perfectly good wood is also available in this area, and at a low price. I'm willing to pay for it with rare resources!
-I represent the Merchant Guild. I used to buy timber from the Murmurwoods, but recently I've found out that perfectly good wood is also available in this area, and at a low price. I'm willing to pay for it with rare resources!
-Buy 1 unit of sulfur for 30 units of wood?
+Je représente la Guilde des Marchands. J'achetais des troncs d'arbre dans le Bois des Murmures, mais j'ai récemment découvert qu'ont peut aussi trouver du Bois de très bonne qualité dans cette région, et à bas prix par dessus le marché. Je suis prêt à le payer avec des ressources rares !
+Je représente la Guilde des Marchands. J'achetais des troncs d'arbre dans le Bois des Murmures, mais j'ai récemment découvert qu'ont peut aussi trouver du Bois de très bonne qualité dans cette région, et à bas prix par dessus le marché. Je suis prêt à le payer avec des ressources rares !
+Acheter 1 unité de Mercure pour 30 unités de Bois ?
+Je représente la Guilde des Marchands. J'achetais des troncs d'arbre dans le Bois des Murmures, mais j'ai récemment découvert qu'ont peut aussi trouver du Bois de très bonne qualité dans cette région, et à bas prix par dessus le marché. Je suis prêt à le payer avec des ressources rares !
+Je représente la Guilde des Marchands. J'achetais des troncs d'arbre dans le Bois des Murmures, mais j'ai récemment découvert qu'ont peut aussi trouver du Bois de très bonne qualité dans cette région, et à bas prix par dessus le marché. Je suis prêt à le payer avec des ressources rares ! Acheter 1 unité de Soufre pour 30 unités de Bois ?
+Acheter 1 unité de Soufre pour 30 unités de Bois ?
 
 (4, 15, 1) ***Event***
 Message:
