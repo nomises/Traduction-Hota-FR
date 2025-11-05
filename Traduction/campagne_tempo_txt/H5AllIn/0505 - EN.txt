@@ -11,12 +11,12 @@ Dargem must find the entrance to the dungeon where the Horn of the Abyss lies an
 Name:
 01
 Message:
-Dargem's diary. Entry 301		"We had a long journey ahead of us. I would never have imagined a nameless archipelago off the coast of Tatalia to be the location of a legendary artifactóbut when I finally met her in her tower, Lady Casmetra stated with full confidence that it should be out there. She gave me all the instructions I might need and promised to keep an eye on my progress.		At first, I suspected Casmetra of plotting against me... however, the swampy shores of Tatalia on the horizon suggested that my employer was going to distract the lizardmen so that I could complete my mission unhindered. I shared my thoughts with Casmetra; she just smiled and assured me that my takeaway was absolutely correct."
+Dargem's diary. Entry 301		"We had a long journey ahead of us. I would never have imagined a nameless archipelago off the coast of Tatalia to be the location of a legendary artifact‚Äîbut when I finally met her in her tower, Lady Casmetra stated with full confidence that it should be out there. She gave me all the instructions I might need and promised to keep an eye on my progress.		At first, I suspected Casmetra of plotting against me... however, the swampy shores of Tatalia on the horizon suggested that my employer was going to distract the lizardmen so that I could complete my mission unhindered. I shared my thoughts with Casmetra; she just smiled and assured me that my takeaway was absolutely correct."
 
 Name:
 01-02
 Message:
-Dargem's diary. Entry 302		"Our paths diverged: the sorceress' fleet sailed for the coast of Tatalia, while my own ships headed towards a mysterious archipelago I had never seen on any map. It must have been deliberately kept a secret from prying eyes, and therefore I reckon that information about it was somehow removed from the cartographers' archivesóbut I cannot even begin to imagine who could possess sufficient means. Suddenly, I felt a gust of icy wind... it was as if a storm had gathered within a split second!		We had a rough time, but the situation remained under control. We were, however, forced to boxhaul, and that maneuver took us far away from the other two ships with my men. Our own ship had taken heavy damage, so we had to immediately moor at the first island we sailed by. What a shame! I can only hope that our other parties will land here as well, and we will be able to join forces.		I went down to the sandy beach at the head of a small group of mercenaries and looked bitterly at the ship. It's going to need extensive repairs! I didn't want to think about it now, though. Burning with impatience, I was about to unravel the scroll Casmetra had given me, instructing me to only read it after getting close to the target. The yellowed parchment bore a map of the dungeon that apparently contained the Horn of the Abyss. By the looks of it, the map had been charted a very long time ago. We took a great deal of papers and scrolls from the necromancers' library, but I couldn't remember this one. However, back then, I didn't really have time to study the loot in earnest. I was confused by the fact that the map bore hardly any markings, except for a couple of obscure icons with captions: 'The Horn should be here' and 'Guardian!!!' Some magic words were also written here; they were supposed to be uttered in order to dispel some illusions. Unfortunately, the illusions weren't marked on the map eitheróI had to take my chances.		I tucked the map into my belt and sighed. We will have to defeat the Guardian. This will be the first step in... in MY quest for the Horn of the Abyss!"
+Dargem's diary. Entry 302		"Our paths diverged: the sorceress' fleet sailed for the coast of Tatalia, while my own ships headed towards a mysterious archipelago I had never seen on any map. It must have been deliberately kept a secret from prying eyes, and therefore I reckon that information about it was somehow removed from the cartographers' archives‚Äîbut I cannot even begin to imagine who could possess sufficient means. Suddenly, I felt a gust of icy wind... it was as if a storm had gathered within a split second!		We had a rough time, but the situation remained under control. We were, however, forced to boxhaul, and that maneuver took us far away from the other two ships with my men. Our own ship had taken heavy damage, so we had to immediately moor at the first island we sailed by. What a shame! I can only hope that our other parties will land here as well, and we will be able to join forces.		I went down to the sandy beach at the head of a small group of mercenaries and looked bitterly at the ship. It's going to need extensive repairs! I didn't want to think about it now, though. Burning with impatience, I was about to unravel the scroll Casmetra had given me, instructing me to only read it after getting close to the target. The yellowed parchment bore a map of the dungeon that apparently contained the Horn of the Abyss. By the looks of it, the map had been charted a very long time ago. We took a great deal of papers and scrolls from the necromancers' library, but I couldn't remember this one. However, back then, I didn't really have time to study the loot in earnest. I was confused by the fact that the map bore hardly any markings, except for a couple of obscure icons with captions: 'The Horn should be here' and 'Guardian!!!' Some magic words were also written here; they were supposed to be uttered in order to dispel some illusions. Unfortunately, the illusions weren't marked on the map either‚ÄîI had to take my chances.		I tucked the map into my belt and sighed. We will have to defeat the Guardian. This will be the first step in... in MY quest for the Horn of the Abyss!"
 
 Name:
 05
@@ -26,12 +26,12 @@ Dargem's diary. Entry 303		"Casmetra and her witches promised that they would be
 Name:
 08
 Message:
-Dargem's diary. Entry 304		"I had a thought: it's worth being thrifty with magic here. I need to shake the habit of unleashing powerful spells for the slightest reason, as I always used to do. I don't know when or where I'll be able to find a source to replenish my magic reservesóand if I'm caught with them low at a bad moment, my expedition will end much sooner than I'd like."
+Dargem's diary. Entry 304		"I had a thought: it's worth being thrifty with magic here. I need to shake the habit of unleashing powerful spells for the slightest reason, as I always used to do. I don't know when or where I'll be able to find a source to replenish my magic reserves‚Äîand if I'm caught with them low at a bad moment, my expedition will end much sooner than I'd like."
 
 Name:
 09
 Message:
-Dargem's diary. Entry 306		"I've spent the longest time thinking about who the Guardian could be. Then, the answer came to me, like a revelation. That is undoubtedly an Azure Dragon. Maybe even more than one. Sometimes, these creatures are also called 'ice dragons', although they have little in common with ice, or with any other element. They are astoundingly huge, ferocious, and ancient. No one really knows if they came to be naturally, or if they were the work of some forerunner of Agar from before the Silence. Unlike the innately docile, or at least controllable, creatures that warlocks create with magic and alchemy, Azure Dragons are exceptionally intelligent and willful. Fortunately, they are quite rare, and besides, some knights and mages consider it their duty to slay one, just to put a feather in their hat. Here's a good time to point out that the hunters killed in these endeavors greatly outnumber the actual slain dragonsóbut there is never a shortage of new madmen. The reputation gained by these Azure Dragons is thus peculiar, so they prefer to settle in places forgotten by the gods; sometimes, without meaning to, they also become guardians of ancient artifacts and other valuable things, just by way of making themselves a lair near one. If you manage to come across a dungeon where no human has set foot in a couple of centuries, then there almost certainly is a monster of that kind waiting for you inside."
+Dargem's diary. Entry 306		"I've spent the longest time thinking about who the Guardian could be. Then, the answer came to me, like a revelation. That is undoubtedly an Azure Dragon. Maybe even more than one. Sometimes, these creatures are also called 'ice dragons', although they have little in common with ice, or with any other element. They are astoundingly huge, ferocious, and ancient. No one really knows if they came to be naturally, or if they were the work of some forerunner of Agar from before the Silence. Unlike the innately docile, or at least controllable, creatures that warlocks create with magic and alchemy, Azure Dragons are exceptionally intelligent and willful. Fortunately, they are quite rare, and besides, some knights and mages consider it their duty to slay one, just to put a feather in their hat. Here's a good time to point out that the hunters killed in these endeavors greatly outnumber the actual slain dragons‚Äîbut there is never a shortage of new madmen. The reputation gained by these Azure Dragons is thus peculiar, so they prefer to settle in places forgotten by the gods; sometimes, without meaning to, they also become guardians of ancient artifacts and other valuable things, just by way of making themselves a lair near one. If you manage to come across a dungeon where no human has set foot in a couple of centuries, then there almost certainly is a monster of that kind waiting for you inside."
 
 Name:
 15
@@ -41,7 +41,7 @@ Dargem's diary. Entry 310		"A message came from this... Casmetra. She sparingly 
 Name:
 22
 Message:
-Dargem's diary. Entry 312		"I saw flashes of lightning on the horizon. This isn't just a distant stormóthese are traces of a magical battle. Most likely, Casmetra has come to blows with the Tatalians again. It warms my heart to know she's toiling in vain, and it's a special pleasure to imagine her face contorted with anger, but that's no reason to be tardy. It's time to resolutely muster our strength and fight our way into the dungeon."
+Dargem's diary. Entry 312		"I saw flashes of lightning on the horizon. This isn't just a distant storm‚Äîthese are traces of a magical battle. Most likely, Casmetra has come to blows with the Tatalians again. It warms my heart to know she's toiling in vain, and it's a special pleasure to imagine her face contorted with anger, but that's no reason to be tardy. It's time to resolutely muster our strength and fight our way into the dungeon."
 
 Name:
 30
@@ -49,9 +49,9 @@ Message:
 Dargem's diary. Entry 320		"The locals at the archipelago confuse me. From what I've seen and heard, counting the fools who come after the Horn of the Abyss seems to be a source of amusement here. I was even told that bets are being placed. Isn't that odd? I've worked my tail off to get information about this place! It felt like very few people should even know of it! So what was that all about? I spent months stomping around stinking, deadly holes... just so some pompous wench could make sure I was as good as my reputation? Maybe Casmetra had even sent someone here before and withheld the critical information of my predecessors' fates from me! Now that she's got me involved, it's not hard to imagine how things went for them... Doesn't matter anymore. Dargem Llywellyn will prove his worth. Even if the witch seeks to swindle me, I will definitely outsmart her."
 
 Name:
-32 - ¡‡ÎÙÓ
+32 - √Å√†√´√¥√Æ√∞
 Message:
-Entry from Dargem's diary:		"Am I losing the plot? It feels like a straight-up open house here, rather than a place where one of the greatest artifacts in the world's history is kept in strict secret. I've just heard from the locals that Black Balfour has been stomping around these parts for several weeks now. He is undoubtedly an eminent pirate, but certainly not a connoisseur of rarities; to be honest, he is an uncouth and all-around nasty character. What wind brought him here? And why now? Did that snake Casmetra lure him here too, looking to make sure I wouldn't leave here in one piece and carry the Horn with me?! Well, the bastard should try me! I'll give him such thorough lightning bolt treatment, he'll turn black as a firebrand and finally earn his moniker in full!		Once I've dealt with him, I'll find Casmetra... First, I'm going to rip that stupid glove off her handówas it meant to astound me, or something?! I'm not a five-year-old; glowing eyes and iron claws don't scare me. Then I'll blow the magic plaster off her face and see how old she really isófor one can't possibly amass such a wealth of treachery and meanness in one's soul over a single lifetime. And then... Then I'll probably get bored of messing with the worthless hag; by then, I'll have the Horn of the Abyss in my hands! I guess I'll just let her go... and watch her fly down, because she'll be going straight off the balcony of that cursed tower of hers that looks so much like a goblin's club.		Horn of the Abyss! I will not allow you to be tainted by the paws of bloodthirsty halfwits and presumptuous fortune-tellers. You will be mine, mine!"
+Entry from Dargem's diary:		"Am I losing the plot? It feels like a straight-up open house here, rather than a place where one of the greatest artifacts in the world's history is kept in strict secret. I've just heard from the locals that Black Balfour has been stomping around these parts for several weeks now. He is undoubtedly an eminent pirate, but certainly not a connoisseur of rarities; to be honest, he is an uncouth and all-around nasty character. What wind brought him here? And why now? Did that snake Casmetra lure him here too, looking to make sure I wouldn't leave here in one piece and carry the Horn with me?! Well, the bastard should try me! I'll give him such thorough lightning bolt treatment, he'll turn black as a firebrand and finally earn his moniker in full!		Once I've dealt with him, I'll find Casmetra... First, I'm going to rip that stupid glove off her hand‚Äîwas it meant to astound me, or something?! I'm not a five-year-old; glowing eyes and iron claws don't scare me. Then I'll blow the magic plaster off her face and see how old she really is‚Äîfor one can't possibly amass such a wealth of treachery and meanness in one's soul over a single lifetime. And then... Then I'll probably get bored of messing with the worthless hag; by then, I'll have the Horn of the Abyss in my hands! I guess I'll just let her go... and watch her fly down, because she'll be going straight off the balcony of that cursed tower of hers that looks so much like a goblin's club.		Horn of the Abyss! I will not allow you to be tainted by the paws of bloodthirsty halfwits and presumptuous fortune-tellers. You will be mine, mine!"
 
 Name:
 40
@@ -61,7 +61,7 @@ Dargem's diary. Entry 322		"Today, a ship approached dangerously close to the ar
 Name:
 47
 Message:
-Dargem's diary. Entry 333		"Today I felt the ominous wind blowing again, just like during the storm that very nearly made my expedition keel over! I started sweating bullets and shivering.		It felt as though the sky itself was laughing eerily... and my guesses were confirmed. The Dead God is the old mate of mine, Boyd. The thief and rascal who plotted against me! Last time we met, I just walked awayóbut I should have tracked this walking carrion down and burned it with lightning!		I raised my head to the sky and exclaimed, 'Hey, bone face! Let's meet and sort things out like menóeven if all things masculine you've ever had have long rotted away! I've murdered my share of powerful mages, warriors, and beasts; and I'll gladly kill a mindless dead clown a second time over if I must! Neither you, nor the dragons, nor anything else will stand in my way when I go to claim the Horn of the Abyss!'		A sailor tapped me on the shoulder and asked if I was all right. I was taken aback and even dropped my hat. The sailor picked it up and shoved it into my hands. I grinned and declared that very soon, we would be sending an old rotten scarecrow who overstayed his welcome in this world to the bottom of the sea! My crew met this announcement with an eager cheer."
+Dargem's diary. Entry 333		"Today I felt the ominous wind blowing again, just like during the storm that very nearly made my expedition keel over! I started sweating bullets and shivering.		It felt as though the sky itself was laughing eerily... and my guesses were confirmed. The Dead God is the old mate of mine, Boyd. The thief and rascal who plotted against me! Last time we met, I just walked away‚Äîbut I should have tracked this walking carrion down and burned it with lightning!		I raised my head to the sky and exclaimed, 'Hey, bone face! Let's meet and sort things out like men‚Äîeven if all things masculine you've ever had have long rotted away! I've murdered my share of powerful mages, warriors, and beasts; and I'll gladly kill a mindless dead clown a second time over if I must! Neither you, nor the dragons, nor anything else will stand in my way when I go to claim the Horn of the Abyss!'		A sailor tapped me on the shoulder and asked if I was all right. I was taken aback and even dropped my hat. The sailor picked it up and shoved it into my hands. I grinned and declared that very soon, we would be sending an old rotten scarecrow who overstayed his welcome in this world to the bottom of the sea! My crew met this announcement with an eager cheer."
 
 ===== Heroes =====
 
@@ -75,7 +75,7 @@ It is done, my Lord Dargem! Would you like to go on board?
 
 (5, 63, 0) ***Event***
 Message:
-Entry from Dargem's diary:		"A tall, one-eyed man assessed the damage. His verdict was that it would take at least a week and a half to fix the smashed board. This delay, unfortunately, cannot be avoidedóbut we now have time to locate a source of water and some supplies. On top of that, we will have to find two other ships. I can't wait to get my hands on the Horn, of course, but I can't afford to be irresponsible now."
+Entry from Dargem's diary:		"A tall, one-eyed man assessed the damage. His verdict was that it would take at least a week and a half to fix the smashed board. This delay, unfortunately, cannot be avoided‚Äîbut we now have time to locate a source of water and some supplies. On top of that, we will have to find two other ships. I can't wait to get my hands on the Horn, of course, but I can't afford to be irresponsible now."
 
 (15, 52, 0) ***Seer's Hut***
 Message:
@@ -85,7 +85,7 @@ I have everything I need to perform a healing ritual. Shall we get the boys back
 
 (11, 55, 0) ***Event***
 Message:
-Entry from Dargem's diary: "A terrible picture! Both lost caravels are wrecked, and the shore is littered with corpses and broken weapons. I couldn't believe my eyes! My boys slain by wild orcs! Had Gunnar been here with them, he would surely have handled those senseless creatures... Hell, even that dimwit Gruezak would've done some good! He'd suggest they munch on the biggest piece of carrion they'd ever seen, and the savages would've happily joined our cause! Instead, our forces have been slashed down to a third now. I ordered a search of the wreckage... well, and of the corpses, too. Maybe there's something valuable to be found on themóI mean, the lads don't need it anymore."
+Entry from Dargem's diary: "A terrible picture! Both lost caravels are wrecked, and the shore is littered with corpses and broken weapons. I couldn't believe my eyes! My boys slain by wild orcs! Had Gunnar been here with them, he would surely have handled those senseless creatures... Hell, even that dimwit Gruezak would've done some good! He'd suggest they munch on the biggest piece of carrion they'd ever seen, and the savages would've happily joined our cause! Instead, our forces have been slashed down to a third now. I ordered a search of the wreckage... well, and of the corpses, too. Maybe there's something valuable to be found on them‚ÄîI mean, the lads don't need it anymore."
 
 (27, 56, 0) ***Event***
 Message:
@@ -111,7 +111,7 @@ The leader of the archipelago's savages had to use more than just strength and f
 
 (22, 52, 0) ***Event***
 Message:
-Entry from Dargem's diary:		"Just as I expected, I got fatally unlucky. We landed on an island inhabited by numerous, dangerous savages. Despite all troubles, however, I'm still a powerful mageóand I don't suppose anyone has ever encountered such might in this armpit of the world. I guess I might show these cannibals a couple of my little tricks. That should be enough for them to learn who's in charge here now!"
+Entry from Dargem's diary:		"Just as I expected, I got fatally unlucky. We landed on an island inhabited by numerous, dangerous savages. Despite all troubles, however, I'm still a powerful mage‚Äîand I don't suppose anyone has ever encountered such might in this armpit of the world. I guess I might show these cannibals a couple of my little tricks. That should be enough for them to learn who's in charge here now!"
 
 (42, 70, 0) ***Master Genie***
 Message:
@@ -145,12 +145,12 @@ The ogre is very happy that he can continue to study magic in peace. As a reward
 
 (23, 58, 0) ***Hobgoblin***
 Message:
-"We gathered here to sing songs and have a round danceóyou're bothering us, pirate boy!"
+"We gathered here to sing songs and have a round dance‚Äîyou're bothering us, pirate boy!"
 
 (69, 3, 0) ***Quest Guard***
 Message:
 I saw a flat rock. According to Casmetra's notes, the entrance should be here, but where exactly? I felt the smooth surface for a long time, until I found a series of barely noticeable indentations. Apparently, one has to put some keys in them to open the entrance.
-I'll need exactly 8 keysócan't get through without them. 
+I'll need exactly 8 keys‚Äîcan't get through without them. 
 I finally have all the keys! I'm closer to my triumph than ever. All I have to do is whisper the magic words.
 
 (70, 1, 0) ***Sign***
@@ -173,7 +173,7 @@ Another swarm of carnivorous mosquitoes!
 
 (8, 63, 0) ***Wolf Raider***
 Message:
-"Humies! I'm sick and tired of eating fishófinally, some fresh meat!"
+"Humies! I'm sick and tired of eating fish‚Äîfinally, some fresh meat!"
 
 (21, 64, 0) ***Cyclops***
 Message:
@@ -357,7 +357,7 @@ Am I willing to take the risk?
 
 (67, 14, 0) ***Naga Queen***
 Message:
-"Woman and sssnakeówhat came firssst?"
+"Woman and sssnake‚Äîwhat came firssst?"
 
 (35, 26, 0) ***Cyclops King***
 Message:
@@ -367,7 +367,7 @@ Message:
 Message:
 An old woman lives here, completely crazy by the looks of her. She complains about having lost her favorite pot she cooked fish soup in. She begs me to find it, or at least something similar enough. I think I have an idea what I can offer her!
 I have nothing for the barmy old woman.
-The crone seemed delighted with the new pot. As a reward, she offered me a potion that she said would strengthen my body. I took a sip from the flask and felt incredibly lightóas if my bones and flesh were no longer weighing me down! Should I finish the concoction?
+The crone seemed delighted with the new pot. As a reward, she offered me a potion that she said would strengthen my body. I took a sip from the flask and felt incredibly light‚Äîas if my bones and flesh were no longer weighing me down! Should I finish the concoction?
 
 (8, 55, 0) ***Wolf Rider***
 Message:
@@ -415,7 +415,7 @@ What are the scorpicores doing here? Something must have forced them to leave th
 
 (15, 41, 0) ***Wyvern***
 Message:
-I've heard some people call these things "ducks." It seems to me that wyverns have a lot more in common with geeseóbut I must admit I'm not the greatest ornithologist alive.
+I've heard some people call these things "ducks." It seems to me that wyverns have a lot more in common with geese‚Äîbut I must admit I'm not the greatest ornithologist alive.
 
 (14, 45, 0) ***Nix***
 Message:
@@ -499,7 +499,7 @@ Entry from Dargem's diary: "Loud-mouthed and stupid, harpies usually live in cav
 
 (20, 58, 0) ***Event***
 Message:
-Entry from Dargem's diary:		"While exploring the island, we came across a thatched hut. I drew my cutlass and readied an ice beam, just in case someone jumps usóevery other creature we meet on this damn island is trying to eat us!		My fears were unfounded. A decrepit, harmless-looking orc shaman tottered out of the hut, cast a purblind gaze at us, and croaked:	'I know why you're here, umie. You want to get into the Dungeon of the Vengeful Serpent.' 	'I sure hope "umie" isn't an insult, or I'll freeze your empty head and crack it open like a rotten pumpkin,' I said. 	'Lay a finger on me, umie, and you'll never know what it takes to get where you want to get!'		I thought the point reasonable, so I let the magic fizzle out and put my blade away. A surprisingly thorough conversation took place between us, and I learned I would have to find eight pendants to enter the Guardian's dungeon. Six of them are hidden in different parts of the island, and I need to be very careful to avoid missing them. One is kept by a pirate, and another is in the possession of some 'dead god.' I didn't like the last one at all! When I asked the shaman what that 'dead god' was, he just cackled ominously. Then he invited me to enter the hut, where he would show me the location of some of the pendants in his magic cauldron."
+Entry from Dargem's diary:		"While exploring the island, we came across a thatched hut. I drew my cutlass and readied an ice beam, just in case someone jumps us‚Äîevery other creature we meet on this damn island is trying to eat us!		My fears were unfounded. A decrepit, harmless-looking orc shaman tottered out of the hut, cast a purblind gaze at us, and croaked:	'I know why you're here, umie. You want to get into the Dungeon of the Vengeful Serpent.' 	'I sure hope "umie" isn't an insult, or I'll freeze your empty head and crack it open like a rotten pumpkin,' I said. 	'Lay a finger on me, umie, and you'll never know what it takes to get where you want to get!'		I thought the point reasonable, so I let the magic fizzle out and put my blade away. A surprisingly thorough conversation took place between us, and I learned I would have to find eight pendants to enter the Guardian's dungeon. Six of them are hidden in different parts of the island, and I need to be very careful to avoid missing them. One is kept by a pirate, and another is in the possession of some 'dead god.' I didn't like the last one at all! When I asked the shaman what that 'dead god' was, he just cackled ominously. Then he invited me to enter the hut, where he would show me the location of some of the pendants in his magic cauldron."
 
 (33, 55, 0) ***Green Dragon***
 Message:
@@ -516,7 +516,7 @@ My sister went berserk and started a civil war. Sir Gallavant
 (27, 22, 0) ***Quest Guard***
 Message:
 Pilgrims are camping here. They say they'll let us pass if we help them find some relics of life.
-The pilgrims don't want to bargainóthey demand the relics.
+The pilgrims don't want to bargain‚Äîthey demand the relics.
 I think I've got what the pilgrims need. Give up the rings?
 
 (69, 41, 0) ***Ice Elemental***
@@ -593,11 +593,11 @@ Entry from Dargem's diary:		"It looks like these caves are much more extensive t
 
 (56, 6, 1) ***Event***
 Message:
-Entry from Dargem's diary: "There were piles of icy salt on the groundóthe remains of my predecessors. I could feel the Azure Dragons' breath. The creatures were waiting for me in the darkness of the cave. I must... I must defeat them! This is something worth living for! The goal of my entire existence is the Horn of the Abyss! Now I know what I'd been working towards all these years. What I fought fate for. There is no more fear, only resolve. Inside this cave lies the answer to all questions, the reward for everything I have endured along the way. I am about to get what I deserve. One more step..."
+Entry from Dargem's diary: "There were piles of icy salt on the ground‚Äîthe remains of my predecessors. I could feel the Azure Dragons' breath. The creatures were waiting for me in the darkness of the cave. I must... I must defeat them! This is something worth living for! The goal of my entire existence is the Horn of the Abyss! Now I know what I'd been working towards all these years. What I fought fate for. There is no more fear, only resolve. Inside this cave lies the answer to all questions, the reward for everything I have endured along the way. I am about to get what I deserve. One more step..."
 
 (56, 8, 1) ***Azure Dragon***
 Message:
-"Even here, there is no peace! We don't care who you are or what you want. The only thing you'll find here is death."		The dragon let out a deafening roar. I felt the vaults of the cave tremble, and a few pebbles fell on my head. The Nighonian boy, who had long faded into my subconscious, screamed out in anguish: 'Get out of here now!!!', but I couldn't back down. Not anymore. The Horn was calling out for me! To flinch now would mean to spit on everything that was still dear to me in this life. In the crackle of the splitting rock, I could hear an unnerving rasp, as if some dry bones were rubbing against each otheróand I recognized this noise... I heard it when the dead man enjoyed his fleeting moment of triumph over me, throwing back his empty skull and cackling in ecstasyóbut I've now settled my old scores and forced fate to turn its face toward me! I must fight!!!
+"Even here, there is no peace! We don't care who you are or what you want. The only thing you'll find here is death."		The dragon let out a deafening roar. I felt the vaults of the cave tremble, and a few pebbles fell on my head. The Nighonian boy, who had long faded into my subconscious, screamed out in anguish: 'Get out of here now!!!', but I couldn't back down. Not anymore. The Horn was calling out for me! To flinch now would mean to spit on everything that was still dear to me in this life. In the crackle of the splitting rock, I could hear an unnerving rasp, as if some dry bones were rubbing against each other‚Äîand I recognized this noise... I heard it when the dead man enjoyed his fleeting moment of triumph over me, throwing back his empty skull and cackling in ecstasy‚Äîbut I've now settled my old scores and forced fate to turn its face toward me! I must fight!!!
 
 (66, 34, 1) ***Power Lich***
 Message:
