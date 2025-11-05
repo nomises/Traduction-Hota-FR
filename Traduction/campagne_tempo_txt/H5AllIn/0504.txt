@@ -1,0 +1,295 @@
+===== Map name =====
+Knee-Deep In The Undead
+
+===== Map description =====
+To win, Dargem must capture the Doom Castle. The heroes' level is limited to 32. After winning, Dargem will proceed to the final scenario of the campaign, retaining all of his skills and spells.
+
+===== Rumors =====
+
+Name:
+Kastore
+Text:
+They say Kastore is so much into mechanisms now, he gave up necromancy for good!
+
+Name:
+Maximus
+Text:
+Maximus became the leader of the goblins and orcs who remained in Deyja.
+
+Name:
+Goblin Women
+Text:
+Deyjan goblins have prettier women than elves do! Did you know that?
+
+Name:
+Flying Minotaurs
+Text:
+Can you imagine minotaurs flying? That's crazy talk!
+
+===== Timed events =====
+
+Name:
+Äåíü 1
+Message:
+Dargem's diary. Entry 281		"I rarely receive guests, but for Stella, I was glad to make an exception. We sat in my living room. From the outside, my place is perfectly inconspicuous, but the interior is a different thing altogether. There's a lot to look at; I had brought most of the things here all the way from Nighon, and the newer ones came from my travels. Sometimes, I jokingly refer to my living room as the "Museum of Dargem"—this tends to impress my guests, especially the female ones, rare as they are. However, Stella didn't seem to pay much mind to my dwelling's adornments.		"I think it is high time you met my masters, Mister Dargem," she chirped. "If you don't mind, of course."		"Not at all," I replied.		It got colder for a moment, then the air shivered, and a window appeared next to us—only it was suspended right in the middle of the room. A rather attractive lady was looking at me from beyond it. She appeared to be in her mid-thirties, but I knew better than to think about the actual age of women who could use magic.		"My name is Casmetra. I represent the Noraston Sorceress Guild," she announced.		I rose and bowed. "Dargem Llywellyn. Surely, you already know my name."		"Indeed," the sorceress nodded benevolently. "I intend to discuss the main issue at hand, Mister Dargem. My assistant has not filled you in yet, has she?"		"Alas! All I know is that you're in search of the Horn of the Abyss," I offered with guilt.		"I see," Casmetra said, and sank into a chair on her side of the magic window. I followed her example.		The enchantress studied me intently, as if I were a curiosity. Stella, on the other hand, just sat there smiling, looking from me to her mistress.		"Our guild searches for rare artifacts," Casmetra said softly. "I was assigned to organize an expedition for the Horn of the Abyss..."		"Wouldn't the Ironfist Royal Court help you with that? I know Noraston to be a faithful ally to the Crown," I said.		"Unfortunately, no! Ever since the Kreegan invasion, they care precious little about our research, so we only have our own resources to rely upon now. You have done us a great service in helping us build a fleet. Soon enough, the best craftsmen will be done working on the ships, and we will head for the Horn. There's one caveat, though," Casmetra said, sounding annoyed. "The location of the vault containing the artifact is unclear. We know of several possible places and are quite sure that one of them is correct, but we don't have the manpower or time to check each of the options. We need a reliable source of knowledge."		"Like what?" I asked warily.		"Gavin Magnus' library," the sorceress sneered.		"Pardon me?" I turned pale.		"A joke. That would surely be a source for ages, but we are not up to the task. That leaves one more option: the library of Archibald Ironfist. Kastore, the new ruler of Deyja, ordered it to be transported to the Doom Castle, the country's central book depository. Tell me, sir, how do you feel about going on a quest to the land of necromancers?" 
+
+Name:
+Äåíü 1.5
+Message:
+Dargem's diary. Entry 282		"The idea would have been completely insane, if luck hadn't struck. Gunnar, the minotaur Tor sent to slay me. The horned brute realized his mission had failed, and sent a messenger with an offer to negotiate. We met near a burned-down elven village. The place seemed to have once been big on wine-making, and judging by the thick smell the minotaur gave off almost a dozen paces away, he was loath to let the fruit of this labor go to waste.		"Kill me," said the huge creature.		"Why would I want to kill you?" I shrugged.		"I failed my lord... I am disgraced."		"As far as I know, he never asked you for my actual head. Go back and claim that you did away with me," I said calmly to the minotaur, "and I'll give you some personal item of mine to show as proof."		"Why would you do that? What are you up to?"  Gunnar bellowed, struggling to raise his eyebrows.		"You and your thugs can do me a favor. Let's help each other and part as two content men."		"Cunning," said the minotaur. "What do you want?"		"I must go to Deyja. Take their book depository. Are there any usable tunnels leading there?"		"Of course. You're a Nighonian, so you should know it as well as I do; there are tunnels leading everywhere," the minotaur put on the semblance of a smile—as far as a bull's face is capable of pulling one. 		He held out a huge, shaggy paw, and we shook on it."
+
+Name:
+Äåíü 2
+Message:
+Dargem's diary. Entry 283		"It'd been a long time since I'd done underground operations... and there was something dear about it. I set up camp near Gunnar's. There were old tunnels here, dug by hell knows who or when, and very likely swarming with ancient, dangerous creatures.		We should expect fierce resistance from necromancers, but the Horn of the Abyss was definitely worth the effort."
+
+Name:
+Äåíü 3
+Message:
+Dargem's diary. Entry 284		"Scouts report that necromancers are aware of these tunnels and have posted guard. That's bad news: they'll try to hold us off while they build up their own forces on the surface. 		On top of that, one troglodyte brought a note he'd found somewhere in the dungeon. Most likely, someone planted it there on purpose, knowing that sooner or later we would stumble upon it. 		The note read:		"I do not know who you are or who you work for, but I can hazard a guess. I'll admit it was a fairly clever idea to slither out of the ground right in the middle of our country, but we're not nearly as careless as the Erathians to be taken by surprise with such a trick. If you don't want to become walking dead, you will now leave here voluntarily and take your gang of thugs and monsters with you. My name is Maximus, advisor to Kastore, King of Deyja, and the chief warlord here, and I will not allow you to trample this land for long. Alive."
+
+Name:
+Äåíü 7
+Message:
+Dargem's diary. Entry 285		"The Horn of the Abyss... This artifact is considered to be little more than a myth. For pirates, this Horn is akin to the Holy Grail for the knights. Everyone knows that it exists and that it is worth searching for, but no one possesses any proven or precise information as to where it is or what it is good for. If Lady Casmetra is right, then I will have a priceless opportunity to touch this wonder... but it depresses me to think about giving a unique thing like that away to a convent... to Noraston, that is. I wouldn't mind keeping it for myself! After all this effort spent on my part, it simply wouldn't be fair if Casmetra got her hands on it. I don't really believe that the Horn, if it indeed does exist, holds any arcane powers, but many in Regna do trust it to be the case... so if I bring it there, I can set up an auction and take home a bigger jackpot than Silverflint himself, the greatest of all Regnan adventurers, ever dreamed of! 		All right, get a grip on yourself, old sport. The Horn is not yet within reach, so it's better to focus on the more pressing matters." 
+
+Name:
+Äåíü 10
+Message:
+Dargem's diary. Entry 286		"Anything other than the walking dead and goblins is a rare sight on the surface of Deyja. Still, there are occasional wild harpies—but these winged rats seem to abound wherever you can find regular rats. So, just about everywhere. Perhaps Gunnar can persuade some of them to join his host."
+
+Name:
+Äåíü 12 - Ãóííàð
+Message:
+From a letter by Gunnar, sent but never received after being dropped by a drunken harpy into the waters of the Nighon Strait:		Esteemed Master Anwyn,		I am pleased to inform you that your assignment is almost (crossed out) ninety (blot) ten (blot) one hundred percent completed!		Everything went exactly as you ordered, down to the very last minute in your plan! Just got a little confused in the maze (crossed out) tired, so excuse me for scribbling.		I swear by my horns and the brand that my grandfather put on the arse (crossed out) thigh of the largest Black Dragon in all of Nighon: your little problem of a certain Dargem is almost solved! My sheer (crossed out so energetically that the paper got torn and the old text became unreadable) appearance and your name on my lips made him faint. And here's the trouble: when he fainted, he fell through a crack to the lower level of tunnels where I met him. Now I'll have to fish him out of there, as I promised to bring you proof of work done. That will take some time.		Yours sincerely, faithful Gunnar."
+
+Name:
+Äåíü 14
+Message:
+Dargem's diary. Entry 287		"The depths of the sea hide dreadful carnivorous creatures that look like giant snakes. Fishermen call them "eels", but the correct term for them is "haspids." 		These haspids spend most of their time on the seabed, hiding in burrows and the hulls of sunken ships. Only during mating and hunting do they rise to the surface, posing a great threat to seafarers. A grown haspid can swallow a young whale whole—compared to that, a ship's crew put together is a mere snack! The good news is that these colossi of the sea don't have to feed often. 		A handful of sophisticated mages and beastmasters know how to tame haspids, but only the wealthiest and most powerful of the pirate lords can afford their services. This is hardly a surprise in itself; the black dragons of Nighon are no less dangerous, but this has never stopped warlocks from using these creatures liberally in their wars." 
+
+Name:
+Äåíü 17
+Message:
+Dargem's diary. Entry 288		"Gunnar's scouts report that there is only one exit from the tunnels to the surface. This is good news. One should never underestimate necromancers, though. There is very serious resistance waiting for me at the Doom Castle, headed by Maximus (what a stupid name!) himself, so we should prepare accordingly. I also think it makes sense to first defeat the armies of the local Deyjan lords so that they don't get in the way. We should do it first before they muster their strength and head into the caves to get our hides."
+
+Name:
+Äåíü 23
+Message:
+Dargem's diary. Entry 289		"Some people wonder about the fundamental differences between the wizards of Bracada, the warlocks of Nighon and the necromancers of Deyja. The answer is simple: there are none.		We use the same powers, and the only thing that sets us apart is certain moral limitations. We warlocks stop at nothing to find the truth. Some of my colleagues even practice necromancy. The Bracadans, on the other hand, avoid harming living beings as much as possible, and therefore their magical science is hopelessly lagging behind. They hide their inferiority behind intricate inventions like golems and gargoyles... Take gunpowder, for one: they invented it, but they only ever use it for fireworks. What a joke!		Necromancers, on their part, are stuck on their study of death and are terribly reluctant to broaden their horizons. Some of them even believe that a true necromancer should be devoid of emotions and feelings, inching closer in his way of thinking to a walking corpse. Fools."
+
+Name:
+Äåíü 33
+Message:
+Dargem's diary. Entry 290		"Our men found another note today. Apparently, this Cactusis fellow is using vampires to plant these messages unnoticed.		In the latest one, he wrote:		"I can see you're fools, and you're stubborn, too—but I expected as much. Good old Mister Mustache wouldn't have sent any other. You'd rather die than fail the mission. That much I understand! Then prepare for war. The longer you mess around, the more reinforcements will I receive. We have our own secret passages. You will all die at the walls of my fortress. Maximus."		It's probably time to answer him. I hate being insulted while forcedly remaining silent. I feel vulnerable at times like this! I must always have the last word. I also don't know who he's talking about. What Mister Mustache? Apparently, our fine Cactusis has developed paranoia."
+
+Name:
+Äåíü 40
+Message:
+Dargem's diary. Entry 291		"Finally, it was time for me to come up with a reply! I was losing sleep, mulling over my imaginary dialogues with this creep Maximus.		Here's what I wrote:		"My disrespected Cactusis! I have no idea what things go inside your head after giving in to your love for the tincture of cactus and zombie spleen. However, I would be remiss not to give you a fair warning: you stand in the way of the best mercenary that ever graced this world. You'd better gather up your walking bones and run. I suggest Krewlod, where green cactus lovers like you are well received." Imagining Maximus' rage at reading this, I gave the note to a harpy."
+
+===== Heroes =====
+
+===== Objects =====
+
+(30, 32, 0) ***Necropolis***
+Name:
+Doom Castle
+
+Visiting Death Knight:
+Name:
+Maximus
+Biography:
+Maximus is one of Kastore's closest associates, a strong and fierce warrior. He is in charge of the necromancer country's defenses while Kastore is away.
+
+Timed events:
+
+Name:
+åñëè èãðîê áóäåò äîëãî òóïèòü
+Message:
+
+
+Name:
+áîíóñ àäñêèé
+Message:
+
+
+Name:
+Ñòðîèì äîìèêè
+Message:
+
+
+(65, 65, 0) ***Necropolis***
+Name:
+Ostopolis
+
+Timed events:
+
+Name:
+áîíóñ
+Message:
+
+
+(7, 61, 0) ***Necropolis***
+Name:
+Shadetown
+
+Timed events:
+
+Name:
+áîíóñ (ðàííèé)
+Message:
+
+
+(16, 10, 0) ***Necropolis***
+Name:
+Specterwood
+
+(14, 65, 0) ***Sign***
+Message:
+Don't drink here! You'll become a minotaur!
+
+(30, 35, 0) ***Quest Guard***
+Message:
+To my great regret, the path to the library is blocked by a conjured barrier. I need something that weakens magic... Do I have an idea? It seems that an Orb of Vulnerability should work!
+Alas, without the Orb of Vulnerability, the barrier won't budge!
+I brought the Orb near the magic barrier, and it began flickering! This proves my hypothesis! I learned sorcery from Tor Anwyn himself, after all. Should I break the barrier now, or come back later?
+
+(51, 38, 0) ***Sign***
+Message:
+Lake Doom
+
+(2, 4, 0) ***Quest Guard***
+Message:
+There's a powerful vampire lurking here. He says that for some reason he lost contact with his kin, and a respected ancient vampire is supposed to have his own pack and retinue. He'll let me through if I help him reconnect with the others.
+I need to find five vampires to get through.
+The vampire is happy to see his kin and offers to let me pass.
+
+(54, 25, 0) ***Seer's Hut***
+Message:
+There is a large group of elementals hiding in this dead forest.	"Our leader, Thunar, is a prisoner of the necromancers. We're afraid we'll end up in their clutches, too, but we can't do anything while the Older One is not here. Free our Lady, humans!"
+"Without Thunar, we will not dare to go anywhere."
+"Lady Thunar, at last! We are glad to be traveling with you again."
+
+(50, 68, 0) ***Nix Warrior***
+Message:
+"We won't be serving necromancers, but we don't mind joining you!"
+
+(51, 67, 0) ***Sorceress***
+Message:
+"We appreciate your help! We really weren't keen on turning into walking corpses!"
+
+(43, 31, 0) ***Ayssid***
+Message:
+The Ayssids are grateful for your help.
+
+(26, 15, 0) ***Corsair***
+Message:
+"At your service, sir!"
+
+(43, 15, 0) ***Minotaur King***
+Message:
+"Time to hack some dead meat!"
+
+(6, 38, 0) ***Event***
+Message:
+Entry from Dargem's diary: "The strangest things are going on here! I can smell heavy stench of burning oil, and ahead of me, there loom buildings that look like golem factories; I've seen those in Bracada. Have necromancers started mass-producing golems too, or something? Of course, I've heard of such creatures made of bones and dead flesh, but there never used to be more than a handful of them in the world, mostly museum exhibits. Why do that if you can just make a corpse walk as it is? I don't know what this place is or what is going on here!"
+
+(58, 12, 0) ***Necropolis***
+Name:
+Tumulus
+
+Timed events:
+
+Name:
+áîíóñ
+Message:
+
+
+(0, 8, 0) ***Event***
+Message:
+Entry from Dargem's diary: "Necromancers have captured a powerful elemental. Most likely, they are putting it to some experiments. I hope the thing hasn't gone mad from the torture; it might agree to help us. Come to think of it... can a rock even feel pain anyway?"
+
+(3, 37, 0) ***Sign***
+Message:
+Experimental Shop	ABSOLUTELY NO TRESPASSING!
+
+(5, 3, 0) ***Event***
+Message:
+Entry from Dargem's diary: "We finally made it to the surface. Out of habit, I was about to tie a handkerchief over my eyes so I wouldn't get blinded, but Deyja's sun was barely breaking through a thick sheet of gray clouds. It was much brighter in the torchlit dungeons than under that sickly-colored sky.		Is that how they live here? I mean, not all necromancers and death knights are undead; some are still living creatures! Back when I dwelt in Nighon, I liked to go out to the surface every now and then, touch the grass, smile at the sun. This place, however... looks like staying in caves would be a lot better for one's peace of mind than going outside. It's all the same for Gunnar—he doesn't think much anyway, and he's plastered all the time these days, unable to come to terms with himself about his failure. But what about me? What can I do to sort out the disorder in my soul?"
+
+(58, 13, 0) ***Event***
+Message:
+Resources for high difficulty
+
+(9, 62, 0) ***Event***
+Message:
+Units for high difficulty
+
+(63, 67, 0) ***Event***
+Message:
+Units for high difficulty
+
+(56, 44, 0) ***Sign***
+Message:
+William Setag is buried here. A wretch through and through!
+
+(69, 68, 1) ***Cove***
+Name:
+L'Reh
+
+(67, 51, 1) ***Dungeon***
+Name:
+Shademaze
+
+(2, 62, 1) ***Quest Guard***
+Message:
+Only one who bears the symbol of being free from corruption can pass through here.
+You are unclean! You shall not pass!
+You are pure from black magic. You can go through.
+
+(39, 67, 1) ***Event***
+Message:
+AI attack on peasants, skeleton bonus
+
+(38, 64, 1) ***Event***
+Message:
+AI attack on peasants, skeleton bonus
+
+(38, 61, 1) ***Event***
+Message:
+AI attack on peasants, skeleton bonus
+
+(5, 68, 1) ***Crusader***
+Message:
+"Crusading is costly business, good sir! Cover our expenses, and we'll be willing to go with you and vanquish the evil spirits."
+
+(1, 63, 1) ***Event***
+Message:
+Entry from Dargem's diary:	"It seems that mercenaries and crusaders are resting in this quiet corner of the cave, safe from the undead. Perhaps I can persuade them to join us for some money."
+
+(64, 8, 1) ***Sign***
+Message:
+Smugglers' caves
+
+(3, 68, 1) ***Gunslinger***
+Message:
+"Hey man, might you have any use for a few trusty barrels? Nothing works better for drilling holes in rotten skulls!"
+
+(33, 20, 1) ***Seer's Hut***
+Message:
+A powerful ancient dragon seeks the four elemental spheres. He promises to handsomely reward whoever brings him these artifacts.
+The dragon is raging: he wants the complete set of four spheres!
+It looks as though the ancient creature is content now. It offers you the services of its cubs.
+
+(53, 36, 1) ***Seer's Hut***
+Message:
+This powerful warlock is looking for a legendary spell book. He believes that the necromancers have a copy of this compendium, and is ready to reward anyone who delivers him the valuable tome.
+The owner of the house advises you to look for the book in the mountains to the west.
+You have completed the task, and the grateful warlock is willing to give you a few Black Dragons.
+
+(9, 10, 1) ***Event***
+Message:
+This might come in handy in a fight against Nagash!
+
+===== End of file =====
