@@ -1,0 +1,273 @@
+===== Map name =====
+A Friendly Visit
+
+===== Map description =====
+To prevail, Dargem must deliver the Dragon Scale Shield to the town of Maramec. The maximum level of heroes is 12. After winning, Dargem will proceed to the next scenario.
+
+===== Rumors =====
+
+Name:
+Dragons
+Text:
+If you don't hurry, the warlocks will definitely bring the dragons!
+
+Name:
+Captain Skull
+Text:
+They say that on the remote island of Cursed Bone, a treasure trove of ancient pirates is hidden, guarded by a curse conjured by Captain Skull. Only one who is not scared of a dangerous adventure will gain wealth and fame, but first, he will have to defeat the Skull himself.
+
+Name:
+Mutare
+Text:
+It's dirty lies that Mutare's cause is backed by Erathian money! Mutare is a true leader and our future queen!
+
+Name:
+Hangover
+Text:
+Never be too liberal with hair of the dog that bit you!
+
+Name:
+Heroes 4
+Text:
+They say there's a filthy hole somewhere on the coast of Nighon, called the Rusty Mug Tavern. Pirates are often seen there.
+
+Name:
+Prisons
+Text:
+They say several pirate captains are being held in prisons off the coast of Nighon.
+
+Name:
+Nighon surface
+Text:
+The surface of Nighon is mostly deserts, but warlocks have built towns there as well.
+
+Name:
+Homecoming
+Text:
+Taugarn is said to be the most powerful dragon in all of Nighon.
+
+Name:
+Dragon's Blood
+Text:
+I don't believe these tall tales! There's no way a person can just turn into a dragon.
+
+===== Timed events =====
+
+Name:
+Äåíü 1.1
+Message:
+Dargem's diary. Entry 234		"I was enjoying a nice evening out in my favorite establishment, one of the few on Regna worthy of a designation nicer than a "boozer," savoring a bottle of aged AvLeean red with my old acquaintances and entertaining them with a story of my struggle against bloodthirsty midgets and their pet undead off the coast of Jadame. Old Lew, the innkeeper, came and whispered in my ear that someone was looking for me. I had just called at the port; who could that be? Lew led me off to meet a tall, slender young woman with long wavy hair. Her appearance was quite inconspicuous, and it was a challenge to guess what this person could possibly want from me.		"Mister Dargem?" she inquired.		"That is correct. Dargem Llywellyn at your service," I nodded and occupied the nearest chair. The stranger also sat down, smiling amiably.		"I am Stella. And I am..." she paused. "Um. I am looking for someone who would take on a very important mission."		"My talents do not come cheap," I immediately warned.		"That is hardly relevant," she smiled again. "I chose you not because of what you charge, but rather because of... the specifics of the task at hand."		"What is your point?"  I narrowed my eyes.		"You will have to go to Nighon," Stella said with a sigh.		"To Nighon? Me?! What on earth made you think it's a good idea?!"		"The fact that you know those parts better than anyone else who could be up for the job," my potential employer argued. "Besides, you're a mage. And an appreciator of rare ancient items..."		"You sure do know a lot about me," I managed in a hoarse voice.		"Naturally. I apologize if this discomforts you... but I couldn't possibly go about recruiting a mercenary blindly. I needed a special man."		"Delighted to hear I'm special."		"Of course," Stella became serious. "Complete the mission, and then you will be given the opportunity to partake in an expedition to locate one of the few truly legendary artifacts in existence. 		"Now that is something one does not hear every day! What kind of an artifact?" I was amazed.		"I am not authorized to disclose it yet. So, like I said, your first objective will be in Nighon."
+
+Name:
+Äåíü 1.2
+Message:
+Dargem's diary. Entry 235		"It would seem that this girl, Stella, is quite a bit more than merely resourceful. I have no idea who she is or what she does for a living; that being said, I'm a mercenary (even if I'm not fond of the word, tainted so badly by those Jadamean scoundrels!), and I don't care about the minutiae. My job is to do what the employer pays for.		The outline of things to do, I must say, gave me pause, but I managed to keep my thoughts to myself. I was to deliver a thing called the Dragon Scale Shield to the Nighonian town of Maramec. Stella handed me a hefty purse of gold to equip my expedition and procure everything I needed. I haven't the slightest idea of who wants this shield there or to what possible end, but the dungeon overlords are less than likely to welcome me back with open arms. We ('We!' I'd long gotten out of the habit of saying 'we' when talking about Nighonians!) have never had a lot of warm feelings for surface dwellers. Same story as with pirates and landlubbers. Well, much time has passed; I am no longer a tunnel rat, but rather a bilge one. My former friends and colleagues detest me; what else is new? I will now have to once again venture inside the cold innards of Nighon.		Feelings are feelings; work is work."
+
+Name:
+Äåíü 2
+Message:
+Dargem's diary. Entry 236		"My crew and I set up shop in a former Erathian fort. Back in the day, it was built here to monitor the area and coastal waters, but it has been abandoned for a couple dozen years now. Here we shall muster our forces before landing on the desolate surface of my former homeland. As far as I know, there are a couple of free pirate settlements on the shore. If possible, I should get their residents to help me. That's going to carry a price, of course! Myself, I would never agree to go cave-crawling for free—but, thank the gods, there's a hefty reward for me in it.	The rough outline of an action plan is ready. Now we must prepare well so that everything goes according to it."
+
+Name:
+Äåíü 3
+Message:
+Dargem's diary. Entry 237		"I dug into my memory and unearthed an important thread. Back in the day, a friend of mine, Miriam, used to roam these waters. That girl was lots of fun, and on top of that... more than a little quirky! Completely devoid of social manners, too—but that hardly bothered me at the time. I think it wouldn't be a problem today either, should we meet again. I remember how we spent nights at an abandoned lighthouse, sipping brandy and watching the stars. Oh, what wonderful times those were—the memories made me feel young again! It might be worth trying to seek out Miriam. She could be willing to help me with this case."
+
+Name:
+Äåíü 5
+Message:
+Dargem's diary. Entry 238		"I have a feeling that something is not quite right about this whole story, but I can't put my finger on it. What kind of artifact was Stella talking about?		My love of rarities keeps bringing troubles on my head. My career as a warlock ended after I stole the legendary Helmet of Anduran from none other than Tor Anwyn. What was I supposed to do? I just couldn't help it! I wanted to touch the Helmet, study it... simply know that I, and not anyone else, have this relic in my collection. In the end of the day, it was Tor's own fault: he wouldn't sell it to me, whatever price I offered...		Darn it, I'm just burning with impatience!"
+
+Name:
+Äåíü 11
+Message:
+Dargem's diary. Entry 240		"It came neither easy nor cheap, but I was able to reactivate some of my old connections. There is a civil war going on in Nighon right now, started by a certain Mutare. I have no idea who she is, but for some reason hearing her name feels uncomfortable. Probably, were I one of the warlocks right now, I would raise arms against her—but this is no longer my war to fight. Anyway, because of these developments, the border garrisons have been weakened; it won't be too hard to get into the dungeons.		Maramec is in the northeast. Per Stella's instructions, I have to hand over the Shield to someone in the town. That person will seek me out and pick up the artifact. Then, I can sail away, to never, ever come back!		And that's when I'll find out what kind of expedition I'm being offered."
+
+Name:
+Äåíü 18
+Message:
+Dargem's diary. Entry 241		"It has been many years since I became a Regnan pirate (here goes another unpleasant, tarnished word: pirate. I am definitely one, but me and those fellows without honor or good reason, whom Regna is teeming with? There is no more in common between us than between an eagle and a reeking buzzard!). Of course, I was curious to find out who inhabited this kingdom, one of the most unusual polities in all of Enroth.		The Empire of the Endless Ocean, I think that's what they call us. Sounds grand, doesn't it? The pirates themselves are a very diverse people. Many were born and raised on board, and they don't know any other life. One can say that a pirate in these parts is a hereditary profession. It's not easy for an outsider to become one of them, unless he can make an instant, strong impression on others. The most powerful, smart, and brave men among the pirates become captains and navigators. The rest make up their troops. At the same time, notably, there is a unique atmosphere of solidarity and brotherhood among them... at least when at sea. There is unwavering discipline and subordination on pirate ships. Even the Erathian Guards could envy that.		It all changes as soon as the pirates come ashore, though! They instantly turn into slovenly loafers. They drink and smoke liberally; most would never tell claret from port, yet still, they pride themselves in splurging on fine wines and tobacco imported from the colonies. They love gambling, fighting, and women. In other words, they savor everything that is off-limits on board. And yet, at the first call of their captain, they instantly pull themselves together, becoming a formidable force. These metamorphoses never cease to amaze me.		Each pirate is proficient in handling several types of weapons, usually rapiers, cutlasses, and pistols. The pistol is an achievement of the Bracadan alchemists. This fairly easy-to-manufacture weapon has not yet become widespread among the kingdoms of Antagarich. Jadame is another thing altogether... but I digress. In fact, the pistol is a miniature likeness of a ship's cannon. A skilled shooter can take down a knight, armored from the heels to the top of his head, with a single shot. I believe that the feudal lords of Erathia and Enroth are simply afraid of these weapons spreading among the commoners, and the Bracadans simply think they do not need them, as long as they have their magic. The Regnans, however, do not suffer from any silly phobias or prejudices; this wonderful invention sees the widest use there."
+
+Name:
+Äåíü 20
+Message:
+Dargem's diary. Entry 242		"So what happens to most outsiders on Regna?		Escaped serfs, former prisoners of war who decided to stay among their captors, and the aborigines of many small islands belonging to Regna—they all become seamen. These are the trusty workhorses, suitable for a variety of purposes. They do most of the menial work on ships, fight shoulder to shoulder with the pirates, and do hard labor on land. Those sailors who manage to save up some money and decide to step away from maritime affairs settle on the islands. They work as blacksmiths, innkeepers, and shipwrights...		It is a very tall order for a run-of-the-mill seaman to become a full-fledged pirate, but those who have distinguished themselves in combat are highly respected. These cutthroats make up the backbone of boarding parties."
+
+Name:
+Äåíü 24
+Message:
+Dargem's diary. Entry 244		"The most intriguing members of the Regnan community are the nymphs. These creatures of an entirely magical nature serve the pirates. It is believed that nymphs are distant relatives of fairies. One can reasonably argue about their affinity with the latter, but there is no doubt that they hail from the Plane of Water. Most likely, they are akin to lesser water elementals. One of the first, strongest mages of Regna was able to bend these creatures to do his bidding. Nymphs are not prisoners in our world; many of them come here of their own free will, especially in places where the borderline between the planes of existence runs thin. However, most of the nymphs who serve pirates are summoned, and this is achieved through ancient, powerful conjurations. The peculiarity of these creatures lies in the fact that they are not afraid of death. A nymph killed in our world is reborn in the Plane of Water. The only way to utterly destroy her is to first travel to the other side of existence. They do not make for an imposing force in battle, so the captains mostly use the nymphs as scouts.		Some pirates strive to find out how different nymphs are from human women. Hmm! This has never piqued my own interest. Come to think of it, a nymph, allegedly made up of water, should be much cleaner than your regular Regnan wench... Bah! Gods only know where such thoughts can lead a man! I shall only note here that one can often hear stories about the "uncle of the brother-in-law" of someone, who had allegedly wed a nymph."
+
+Name:
+Äåíü 32
+Message:
+Dargem's diary. Entry 247		"The Ayssids are truly amazing creatures! They settle on the rocks and cliffs of tropical islands. An adult ayssid's wingspan can be as much as thirty feet. Some mistakenly consider them birds and compare them to the rocs that inhabit deserts. Per my own observations, however, these creatures have much more in common with wyverns and dragons than with birds!		Their bodies lack feathers, and there is something markedly reptilian in their appearance. The Ayssids feed on fish; to catch it, they dive into the sea from great heights. Apparently, they are peerless underwater swimmers, able to hold their breath for a very long time. A hungry or enraged ayssid can attack any other being, not excluding humans—these creatures do not know fear. It is said that the Ayssids also occur in the Planes of Water and Air, but alas, I have not been there myself yet, so I cannot confirm this.		The pirates of Regna have been raising and training ayssids for generations. These creatures make good protectors and hunters, comparable to the griffins of Erathia. One can buy an egg at any market in Regna and raise oneself a loyal friend—if one knows anything about training animals, that is. A combination of a coming-of-age ayssid and an inept, insufficiently firm owner is a recipe for pecking to death waiting to happen."
+
+Name:
+Äåíü 56
+Message:
+Dargem's diary. Entry 248		"I should hurry up! My former colleagues have enlisted the help of the dragons—most likely, they sent a negotiation party to the bowels of Nighon, and you better believe that they paid through their nose for it, seeing as in a time of strife like this, every fire-breathing wyrm down there is worth its weight in gold. They are definitely coming to realize that they can hardly afford to be lackadaisical in handling the ongoing pirate raid; it looks like they decided to resort to drastic measures. It's not that I'm afraid of dragons—I'm not even really afraid of death anymore... However, those scaly brutes will definitely be a problem."
+
+===== Heroes =====
+
+===== Objects =====
+
+(8, 41, 0) ***Cove***
+Name:
+Corsarro
+
+Timed events:
+
+Name:
+One-time Pawn Bonus
+Message:
+A small ship arrived, carrying reinforcements from one of my few remaining loyal men in Jadame, Solendore. A mere handful, compared to the forces that once went into battle at my behest; but better than nothing. Megalomania didn't do me any good!
+
+(54, 62, 0) ***Cove***
+Name:
+Port Victoria
+
+(18, 61, 0) ***Gold***
+Message:
+Entry from Dargem's diary:	"It looks like the lizardmen were storing gold in the bushes near their camp. I've never understood what savage creatures like those want it for."
+
+(71, 0, 0) ***Seer's Hut***
+Message:
+A very nervous old man with a formidable mustache was standing outside the hut. He eyed me carefully before saying, "You are an adventurer, aren't you, young man?"	"That is right," I replied.	"But not a thief, are you? No, you don't quite resemble a thief, although I can't say I like the look on your face. Well, what other options do I have! Like attracts like—so I may have use for your talents. You see, I came here from Bracada on an archaeological expedition, and we managed to unearth an ancient artifact—the helmet of Rion Gryphonheart himself! He was the first King of Erathia, just so you know. And then... the helmet was stolen by some thieves. If you can find it, I'd appreciate it."
+"You didn't find the helmet? Let me know if you have any news."
+Seeing Rion Gryphonheart's helmet in my hands, the elderly mage cheered up. He examined it eagerly.	"Undoubtedly, young man, you deserve a great reward! Since my expedition is now over, you can take the Titans who had been guarding me all this time."
+
+(47, 2, 0) ***Sign***
+Message:
+Forbidden Glade
+
+(65, 23, 0) ***Seer's Hut***
+Message:
+A hermit knight lives here. He promises to teach me everything he knows if I find the unholy relic known as the Spirit of Oppression.
+The knight believes that the artifact is somewhere very close to his home.
+Finally, the Spirit of Oppression will fall into reliable hands, to never again be of help to the black wizards in their rituals. In return, the knight offers to teach you effective defensive tactics.
+
+(56, 26, 0) ***Ocean Bottle***
+Message:
+Mutare's rebellion is paid for with Enroth's money! Get everyone to know this!
+
+(6, 8, 0) ***Event***
+Message:
+Entry from Dargem's diary:	"I don't really believe in religious nonsense like gods; if I mention them, it's nothing more than a figure of speech. It always seemed to me that priestly magic is just a form of ordinary sorcery, only it relies on the resources of the caster himself, such as the power of the mind, spirit, and body, rather than on the scholarly knowledge of magic formulas. So when I saw that alms box by a small temple on an unnamed island, I decided the holy rollers would hardly go broke if I helped myself to some of its contents."
+
+(5, 47, 0) ***Harpy Hag***
+Message:
+Entry from Dargem's diary: "Dwellers of Nighon are spreading throughout Erathia. They can be found in the steppes of Krewlod and in the icy barrens of Vori alike. However, they are the most common near the shores of their native island... especially icky creatures like harpies."
+
+(61, 48, 0) ***Event***
+Message:
+Entry from Dargem's diary:	"And here looms the entrance to the caves of Nighon. To be honest, I didn't expect it to make me feel trepidation. I'm going home, only to leave again soon, and for good; but will there ever be another place I can call home?"
+
+(26, 22, 0) ***Seer's Hut***
+Message:
+A small gang settled down in a rickety hut with a pirate flag on the roof. They looked at me appraisingly as I entered, and then their leader said, "So it's you who Jimmie found, huh? Listen, brother, there are giant dragonflies in the north of the island. We have tried everything in our failed attempts to get rid of those critters! Maybe you can do it."
+"Dragonflies live in the north of the island. From our house, head straight, and you'll surely meet them."
+"You're a jolly good fellow," the pirate leader said. "We aren't seeing any more dragonflies. Thank you! It'll be quieter here now, so you can take some of my lads with you if you want."
+
+(24, 22, 0) ***Sea Dog***
+Message:
+An agitated pirate ran up to me: "Hey, you! Feller! You look like a Regnan. Me and the guys, we've got some trouble here, we need help. Come to our place, and let's talk."
+
+(54, 37, 0) ***Seer's Hut***
+Message:
+The Black Knights chased this fisherman away from his favorite spot where the sea bass always bit well. The old man claims he was once an admiral, and fishing is just a way for him to pass his old days in peace. He asks you to chase the knights off; as a token of gratitude, he will tell you some secrets of proper ship handling.
+The fisherman says that the knights have settled down next to the three palm trees, by the coast.
+Great! The knights are exiled! Would you like to take a lesson in navigation from the retired admiral?
+
+(53, 8, 0) ***Cove***
+Name:
+Zolwyn
+
+(33, 1, 0) ***Seer's Hut***
+Message:
+It looks like Miriam lives in this cabin, but no one's home right now. Perhaps you should seek out the place's owner?
+Unfortunately, the door can only be opened by the home's owner.
+"How nice to be back home!" Miriam exclaimed. "Dargem! Would you like to come in and have a drink with me?"
+"You old scoundrel, Dargem! I'm so grateful that you sprang me out of the trap. Listen, I've heard some stories about you becoming a big shot in Jadame and then legging it out of there. What gives?"
+Miriam is clearly in high spirits and is eager to talk to Dargem.
+"Yeah... I had to leave. There were some issues with the local bandit landlubbers. They subdued the ogre tribes and raised a bunch of deaders," I said reluctantly.	"What a mess! Mingling with the walking dead, and even with ogres... These guys don't seem to have any sense of dignity, much less a sense of smell." 	"Utter bastards they are, you're very right." 	"Alright, my dear Dargem," the pirate woman said, handing me a glass flask. "I can see you aren't enjoying reminiscing about that, but this thing here, I swear, it'll give you the best memories of your life. Have a sip!"	"What's that?" I asked, sniffing the bottle carefully. It didn't smell like anything I knew. 	"Tincture made with the roots of a very special cactus—it is only found on the surface of Nighon, in the very middle of the island. I swear, getting my hands on it was the biggest challenge of my life!" 		I took a small sip of the tart liquid... and the whole world suddenly took on the hues of the rainbow! I hope the effect is not permanent.
+
+(27, 69, 0) ***Seer's Hut***
+Message:
+On the seashore, near the remains of a sea bird's nest crushed by the waves, you are met by a mysterious lizardman. With sad eyes, he turns to you: "Good man! I am begging for your help. The Ayssids need a new nest. This must be done to preserve their species, so there can be balance in nature. I want to make a cozy, safe place where these creatures will breed and raise their young in peace, but my own pair of hands is insufficient. Help me gather branches, shells, and other things we can use, and then we'll build a new nest on a cliff by the sea. You will be satisfied with the reward!"
+"In addition to the shells, we will need something shiny to attract the Ayssids to the nest, as well as branches and stones."
+As soon as you finished building the nest, numerous Ayssids flocked to you. 		"Thank you, good man! I have been feeding these creatures for a long time now, and they have grown quite tame. I think some of them would like to become your pets."
+
+(13, 22, 0) ***Ocean Bottle***
+Message:
+I'm in trouble. Murdoch.
+
+(2, 1, 0) ***Ocean Bottle***
+Message:
+This campaign was conceived well over a decade ago. Hope you enjoy it!
+
+(58, 1, 0) ***Thunder Helmet***
+Message:
+I met four thieves—one of them holding the priceless helmet of Rion Gryphonheart. I drew my cutlass and growled, "I'll put your eyes out!" The thieves threw the helmet on the ground and bolted, panicked.
+
+(9, 64, 1) ***Event***
+Message:
+Entry from Dargem's diary:	"This place feels extremely unpleasant. I can hear hissing, rising and falling, as if some giant snakes are mimicking the sound of the surf. What could that be?"
+
+(68, 4, 1) ***Dungeon***
+Name:
+Maramec
+
+Timed events:
+
+Name:
+Orange AI — Evil Eyes
+Message:
+
+
+Name:
+Dragons
+Message:
+
+
+(56, 67, 1) ***Dungeon***
+Name:
+Darklyn
+
+Timed events:
+
+Name:
+Orange AI — Starting Res
+Message:
+
+
+Name:
+Dragons
+Message:
+
+
+(68, 5, 1) ***Event***
+Message:
+Entry from Dargem's diary: "My goal is nigh. My heart palpitates with excitement! Before long, I will complete my mission, and then, I will find out what the mysterious stranger is offering me to become a part of. What legendary artifact was she talking about? It's time to get myself together and fulfill the first part of our agreement."
+
+(64, 13, 1) ***Sign***
+Message:
+Maramec
+
+(8, 5, 1) ***Pandora's Box***
+Message:
+
+
+(51, 26, 1) ***Pandora's Box***
+Message:
+Powerful spells for the two highest difficulty levels
+
+(53, 26, 1) ***Pandora's Box***
+Message:
+Spells for Normal and Hard levels
+
+(19, 53, 1) ***Event***
+Message:
+Bonus dragons (for max difficulty)
+
+===== End of file =====

@@ -1,0 +1,54 @@
+Name:
+
+
+Description:
+
+
+
+A Friendly Visit — All In A
+
+Right-click text:
+In an effort to restore his shattered reputation, Dargem Llywellyn, a pirate and adventurer, goes on a challenging mission in his erstwhile homeland of Nighon, where hardly anyone longs for him.
+
+Prologue:
+All worthy men must work tirelessly to iron out their flaws; only one does resolve itself. Youth, that is. Such a pity that the missteps taken under its influence do not go away as it does. When I departed from this land, I swore I would never set foot on the rocks of Nighon again; all I left behind was burned bridges. Yet here I am, back at the shores of my home country. Had young Dargem Llywellyn not been the daredevil he was, perhaps now that business has brought me here, I would have even felt a touch of... nostalgia.
+
+
+The Life Guard — All In B
+
+Right-click text:
+In doing another job for his employers, Dargem agrees to help the new barbarian king Kilgor get out of the trap he fell into during his raid on Bracada.
+
+Prologue:
+Dirt, mess, and folly. The very things I abhor and strive to stomp out wherever I go are bound to become staples of my life for the coming months. Oh, the sacrifices a man has to make to reemerge as the top choice for jobs no one but a true artist of delicate business can handle. You might think I am here to enlighten these dim barbarians about the health hazards that come from picking ears with a loaded pistol—and your guess will be wrong. I have come to do a favor to someone who may soon become the ruler of half a continent. A favor remembered for a lifetime.
+
+
+The Tree Killer — All In C
+
+Right-click text:
+Dargem learns that his employers intend to organize an expedition for the legendary Horn of the Abyss, and trespasses into AvLee to harvest timber and build a fleet for that grand purpose. 	
+
+Prologue:
+I had gotten used to the gut-wrenching feeling of having nothing above my head—be it the vaults of ancient tunnels, a solid roof, or at least a rocking deckhead. Few in Nighon can bear that, but I adapted! Only the woods still do give me shameful, unmanly terror. Of course, no one will ever call me out on that—after all, a stiff upper lip is the sign of a master in my profession. The diary is the only confidant I share my true feelings with. I reckon I would much rather be buried alive once again... But the contract is signed, which means Dargem Llywellyn is heading to the cursed thickets. And by all the sea devils, he will bring back triumph.
+
+
+Knee-Deep In The Undead — All In D
+
+Right-click text:
+Dargem travels to the heart of Deyja, the country of necromancers, to plunder Archibald Ironfist's library for clues about where the Horn of the Abyss might be.
+
+Prologue:
+I have seen my share of wonders, and I am not easily impressed... but the sight of the monumental library struck me with awe. It is said that a thousand years ago, when the necromancers were banished from Bracada and settled in Deyja, it was already towering here, its vaults keeping innumerable secrets. None of the newer, rather tasteless amendments to its architecture—clearly the touch of those carrion lovers—could overshadow the true grandeur of the Ancients, still apparent in its shapes. Well, there is great honor in getting to touch something timeless. Better yet, to take a piece of it away. As a keepsake.
+
+
+Chasing the Dream — All In E
+
+Right-click text:
+Dargem's course lies to an archipelago near Tatalia—there, in the caves under the Island of the Vengeful Serpent, he will search for the Horn of the Abyss, a relic every pirate dreams of possessing. 
+
+Prologue:
+It just so happens sometimes: you know full well you are being played, and yet... you enjoy the process. My encounter with the enigmatic employer was both depressing and uplifting. I knew right away that this gorgeous woman was completely insane—no one in their right mind would create this much of a stir around one silly artifact, whatever powers it was supposed to hold. And still, I ended up in a great mood, stemming from the same root: surely this Horn of the Abyss could turn a great profit. The rest should be small challenge: find it... and address the delicate issue of rights to the find.
+
+Epilogue:
+My mother, whose face I have long forgotten, gave me life in the bowels of Nighonian caves and weaved spells over my cradle, yearning to imbue me with the power of the earth element... but I did not accept a lot someone else had cast for me. My whole life is a battle with the predestined, an endless game I play with fate for the highest stakes. And yet, every time I feel I hold the future in my hands, the best hand is dealt to anyone but me! I know I killed him! My magic squall ripped his reeking skeleton to bits, and my heels trampled the remains into the ground! Why, why does the dead man get to have the last laugh?!
+
