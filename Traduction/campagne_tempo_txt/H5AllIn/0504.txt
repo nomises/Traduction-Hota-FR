@@ -2,91 +2,93 @@
 Knee-Deep In The Undead
 
 ===== Map description =====
-To win, Dargem must capture the Doom Castle. The heroes' level is limited to 32. After winning, Dargem will proceed to the final scenario of the campaign, retaining all of his skills and spells.
+Pour gagner, Dargem doit s'emparer du château de Doom. Le niveau des héros est limité à 32. Après avoir remporté la victoire, Dargem passera au scénario final de la campagne, en conservant toutes ses compétences et tous ses sorts.
 
 ===== Rumors =====
 
 Name:
 Kastore
 Text:
-They say Kastore is so much into mechanisms now, he gave up necromancy for good!
+On dit que Kastore est tellement passionné par les mécanismes maintenant qu'il a définitivement abandonné la nécromancie !
 
 Name:
 Maximus
 Text:
-Maximus became the leader of the goblins and orcs who remained in Deyja.
+Maximus devint le chef des gobelins et des orques qui étaient restés à Deyja.
 
 Name:
 Goblin Women
 Text:
-Deyjan goblins have prettier women than elves do! Did you know that?
+Les gobelins de Deyjan ont des femmes plus jolies que les elfes ! Le saviez-vous ?
 
 Name:
 Flying Minotaurs
 Text:
-Can you imagine minotaurs flying? That's crazy talk!
+Tu imagines des minotaures qui volent ? C'est complètement dingue !
 
 ===== Timed events =====
 
 Name:
 ƒень 1
 Message:
-Dargem's diary. Entry 281		"I rarely receive guests, but for Stella, I was glad to make an exception. We sat in my living room. From the outside, my place is perfectly inconspicuous, but the interior is a different thing altogether. There's a lot to look at; I had brought most of the things here all the way from Nighon, and the newer ones came from my travels. Sometimes, I jokingly refer to my living room as the "Museum of Dargem"Чthis tends to impress my guests, especially the female ones, rare as they are. However, Stella didn't seem to pay much mind to my dwelling's adornments.		"I think it is high time you met my masters, Mister Dargem," she chirped. "If you don't mind, of course."		"Not at all," I replied.		It got colder for a moment, then the air shivered, and a window appeared next to usЧonly it was suspended right in the middle of the room. A rather attractive lady was looking at me from beyond it. She appeared to be in her mid-thirties, but I knew better than to think about the actual age of women who could use magic.		"My name is Casmetra. I represent the Noraston Sorceress Guild," she announced.		I rose and bowed. "Dargem Llywellyn. Surely, you already know my name."		"Indeed," the sorceress nodded benevolently. "I intend to discuss the main issue at hand, Mister Dargem. My assistant has not filled you in yet, has she?"		"Alas! All I know is that you're in search of the Horn of the Abyss," I offered with guilt.		"I see," Casmetra said, and sank into a chair on her side of the magic window. I followed her example.		The enchantress studied me intently, as if I were a curiosity. Stella, on the other hand, just sat there smiling, looking from me to her mistress.		"Our guild searches for rare artifacts," Casmetra said softly. "I was assigned to organize an expedition for the Horn of the Abyss..."		"Wouldn't the Ironfist Royal Court help you with that? I know Noraston to be a faithful ally to the Crown," I said.		"Unfortunately, no! Ever since the Kreegan invasion, they care precious little about our research, so we only have our own resources to rely upon now. You have done us a great service in helping us build a fleet. Soon enough, the best craftsmen will be done working on the ships, and we will head for the Horn. There's one caveat, though," Casmetra said, sounding annoyed. "The location of the vault containing the artifact is unclear. We know of several possible places and are quite sure that one of them is correct, but we don't have the manpower or time to check each of the options. We need a reliable source of knowledge."		"Like what?" I asked warily.		"Gavin Magnus' library," the sorceress sneered.		"Pardon me?" I turned pale.		"A joke. That would surely be a source for ages, but we are not up to the task. That leaves one more option: the library of Archibald Ironfist. Kastore, the new ruler of Deyja, ordered it to be transported to the Doom Castle, the country's central book depository. Tell me, sir, how do you feel about going on a quest to the land of necromancers?" 
+Journal de Dargem. Entrée 281        « Je reçois rarement des invités, mais pour Stella, j'étais heureux de faire une exception. Nous nous sommes assis dans mon salon. De l'extérieur, mon appartement passe parfaitement inaperçu, mais l'intérieur est tout autre chose. Il y a beaucoup à voir ; j'avais apporté la plupart des objets ici depuis Nighon, et les plus récents provenaient de mes voyages. Parfois, je plaisante en appelant mon salon le « musée de Dargem », ce qui impressionne généralement mes invités, en particulier les femmes, aussi rares soient-elles. Cependant, Stella ne semblait pas prêter beaucoup d'attention aux décorations de mon logement. « Je pense qu'il est grand temps que vous rencontriez mes maîtres, Monsieur Dargem », dit-elle d'un ton enjoué. « Si cela ne vous dérange pas, bien sûr. » « Pas du tout », répondis-je. Il fit plus froid pendant un instant, puis l'air frémit et une fenêtre apparut à côté de nous, suspendue en plein milieu de la pièce. Une femme plutôt séduisante me regardait de l'autre côté. Elle semblait avoir la trentaine, mais je savais qu'il ne fallait pas se fier à l'âge apparent des femmes capables d'utiliser la magie. « Je m'appelle Casmetra. Je représente la guilde des sorcières de Noraston », annonça-t-elle.		Je me levai et m'inclinai. « Dargem Llywellyn. Vous connaissez certainement déjà mon nom. » « En effet », acquiesça la sorcière avec bienveillance. « J'ai l'intention de discuter du sujet principal qui nous occupe, Monsieur Dargem. Mon assistante ne vous a pas encore mis au courant, n'est-ce pas ? » « Hélas ! Tout ce que je sais, c'est que vous êtes à la recherche de la Corne des Abysses », répondis-je avec culpabilité.		« Je vois », dit Casmetra en s'affalant dans un fauteuil de son côté de la fenêtre magique. Je fis de même. L'enchanteresse m'étudia attentivement, comme si j'étais une curiosité. Stella, quant à elle, resta assise là, souriante, regardant tour à tour sa maîtresse et moi. « Notre guilde recherche des artefacts rares », dit Casmetra doucement. « J'ai été chargée d'organiser une expédition pour trouver la Corne des Abysses... » « La Cour royale d'Ironfist ne pourrait-elle pas vous aider ? Je sais que Noraston est un allié fidèle de la Couronne », dis-je. « Malheureusement, non ! Depuis l'invasion des Kreegans, ils se soucient très peu de nos recherches, nous ne pouvons donc compter que sur nos propres ressources. Vous nous avez rendu un grand service en nous aidant à construire une flotte. Bientôt, les meilleurs artisans auront terminé leur travail sur les navires, et nous mettrons le cap sur la Corne. Il y a cependant une mise en garde, dit Casmetra d'un ton agacé. L'emplacement de la chambre forte contenant l'artefact n'est pas clair. Nous connaissons plusieurs endroits possibles et sommes presque certains que l'un d'entre eux est le bon, mais nous n'avons ni les ressources humaines ni le temps nécessaires pour vérifier chacune des options. Nous avons besoin d'une source d'informations fiable. — Comme quoi ? demandai-je avec méfiance. — La bibliothèque de Gavin Magnus, répondit la sorcière avec un rictus. — Pardon ? Je pâlis.		« Une plaisanterie. Cela serait certainement une source d'inspiration pour des siècles, mais nous ne sommes pas à la hauteur de la tâche. Il ne reste donc qu'une seule option : la bibliothèque d'Archibald Ironfist. Kastore, le nouveau souverain de Deyja, a ordonné qu'elle soit transportée au château de Doom, le dépôt central de livres du pays. Dites-moi, monsieur, que diriez-vous de partir en quête dans le pays des nécromanciens ? » 
 
 Name:
 ƒень 1.5
 Message:
-Dargem's diary. Entry 282		"The idea would have been completely insane, if luck hadn't struck. Gunnar, the minotaur Tor sent to slay me. The horned brute realized his mission had failed, and sent a messenger with an offer to negotiate. We met near a burned-down elven village. The place seemed to have once been big on wine-making, and judging by the thick smell the minotaur gave off almost a dozen paces away, he was loath to let the fruit of this labor go to waste.		"Kill me," said the huge creature.		"Why would I want to kill you?" I shrugged.		"I failed my lord... I am disgraced."		"As far as I know, he never asked you for my actual head. Go back and claim that you did away with me," I said calmly to the minotaur, "and I'll give you some personal item of mine to show as proof."		"Why would you do that? What are you up to?"  Gunnar bellowed, struggling to raise his eyebrows.		"You and your thugs can do me a favor. Let's help each other and part as two content men."		"Cunning," said the minotaur. "What do you want?"		"I must go to Deyja. Take their book depository. Are there any usable tunnels leading there?"		"Of course. You're a Nighonian, so you should know it as well as I do; there are tunnels leading everywhere," the minotaur put on the semblance of a smileЧas far as a bull's face is capable of pulling one. 		He held out a huge, shaggy paw, and we shook on it."
+Journal de Dargem. Entrée 282        « L'idée aurait été complètement folle si la chance ne m'avait pas souri. Gunnar, le minotaure envoyé par Tor pour me tuer. La brute cornue a compris que sa mission avait échoué et a envoyé un messager avec une offre de négociation. Nous nous sommes rencontrés près d'un village elfique incendié. L'endroit semblait avoir été autrefois un grand centre de production de vin, et à en juger par l'odeur forte que dégageait le minotaure à une dizaine de pas, il était réticent à laisser le fruit de ce travail se perdre. « Tue-moi », dit l'énorme créature. « Pourquoi voudrais-je te tuer ? » Je haussai les épaules. « J'ai failli à ma tâche, mon seigneur... Je suis déshonoré. » « Pour autant que je sache, il ne t'a jamais demandé ma tête. Retourne lui dire que tu m'as éliminé, dis-je calmement au minotaure, et je te donnerai un de mes effets personnels comme preuve. »		« Pourquoi ferais-tu cela ? Que mijotes-tu ? » rugit Gunnar en essayant de hausser les sourcils. « Toi et tes sbires pouvez me rendre service. Aidons-nous mutuellement et séparons-nous en deux hommes satisfaits. » « Rusé », dit le minotaure. « Que veux-tu ? » « Je dois aller à Deyja. Prendre leur dépôt de livres. Y a-t-il des tunnels praticables qui mènent là-bas ? Bien sûr. Tu es un Nighonien, tu devrais le savoir aussi bien que moi : il y a des tunnels qui mènent partout », répondit le minotaure en esquissant un sourire, autant qu'un taureau peut en faire. Il tendit une énorme patte velue, et nous nous serrâmes la main.
 
 Name:
 ƒень 2
 Message:
-Dargem's diary. Entry 283		"It'd been a long time since I'd done underground operations... and there was something dear about it. I set up camp near Gunnar's. There were old tunnels here, dug by hell knows who or when, and very likely swarming with ancient, dangerous creatures.		We should expect fierce resistance from necromancers, but the Horn of the Abyss was definitely worth the effort."
+Journal de Dargem. Entrée 283        « Cela faisait longtemps que je n'avais pas mené d'opérations souterraines... et cela m'était cher. J'ai installé mon campement près de chez Gunnar. Il y avait là de vieux tunnels, creusés par Dieu sait qui et quand, et très probablement infestés de créatures anciennes et dangereuses.        Nous devions nous attendre à une résistance farouche de la part des nécromanciens, mais la Corne des Abysses en valait vraiment la peine. »
 
 Name:
 ƒень 3
 Message:
-Dargem's diary. Entry 284		"Scouts report that necromancers are aware of these tunnels and have posted guard. That's bad news: they'll try to hold us off while they build up their own forces on the surface. 		On top of that, one troglodyte brought a note he'd found somewhere in the dungeon. Most likely, someone planted it there on purpose, knowing that sooner or later we would stumble upon it. 		The note read:		"I do not know who you are or who you work for, but I can hazard a guess. I'll admit it was a fairly clever idea to slither out of the ground right in the middle of our country, but we're not nearly as careless as the Erathians to be taken by surprise with such a trick. If you don't want to become walking dead, you will now leave here voluntarily and take your gang of thugs and monsters with you. My name is Maximus, advisor to Kastore, King of Deyja, and the chief warlord here, and I will not allow you to trample this land for long. Alive."
+Journal de Dargem. Entrée 284        « Les éclaireurs rapportent que les nécromanciens connaissent l'existence de ces tunnels et ont posté des gardes. C'est une mauvaise nouvelle : ils vont essayer de nous retenir pendant qu'ils renforcent leurs forces à la surface.         En plus de cela, un troglodyte a rapporté un mot qu'il a trouvé quelque part dans le donjon. Il est fort probable que quelqu'un l'ait placée là intentionnellement, sachant que tôt ou tard, nous la trouverions.         La note disait :        « Je ne sais pas qui vous êtes ni pour qui vous travaillez, mais je peux émettre une hypothèse. Je dois admettre que c'était une idée assez astucieuse de sortir de terre en plein milieu de notre pays, mais nous ne sommes pas aussi imprudents que les Erathiens pour nous laisser surprendre par une telle ruse. Si vous ne voulez pas devenir des morts-vivants, vous allez maintenant partir d'ici de votre plein gré et emmener votre bande de voyous et de monstres avec vous. Je m'appelle Maximus, conseiller de Kastore, roi de Deyja, et chef militaire ici, et je ne vous permettrai pas de piétiner cette terre plus longtemps. Vivants. »
+
 
 Name:
 ƒень 7
 Message:
-Dargem's diary. Entry 285		"The Horn of the Abyss... This artifact is considered to be little more than a myth. For pirates, this Horn is akin to the Holy Grail for the knights. Everyone knows that it exists and that it is worth searching for, but no one possesses any proven or precise information as to where it is or what it is good for. If Lady Casmetra is right, then I will have a priceless opportunity to touch this wonder... but it depresses me to think about giving a unique thing like that away to a convent... to Noraston, that is. I wouldn't mind keeping it for myself! After all this effort spent on my part, it simply wouldn't be fair if Casmetra got her hands on it. I don't really believe that the Horn, if it indeed does exist, holds any arcane powers, but many in Regna do trust it to be the case... so if I bring it there, I can set up an auction and take home a bigger jackpot than Silverflint himself, the greatest of all Regnan adventurers, ever dreamed of! 		All right, get a grip on yourself, old sport. The Horn is not yet within reach, so it's better to focus on the more pressing matters." 
+Journal de Dargem. Entrée 285        « La Corne des Abysses... Cet artefact est considéré comme un mythe. Pour les pirates, cette Corne est l'équivalent du Saint Graal pour les chevaliers. Tout le monde sait qu'elle existe et qu'elle vaut la peine d'être recherchée, mais personne ne possède d'informations précises ou confirmées sur son emplacement ou son utilité. Si Lady Casmetra a raison, j'aurai alors une occasion inestimable de toucher cette merveille... mais cela me déprime de penser à donner un objet aussi unique à un couvent... à Noraston, en l'occurrence. Je ne verrais aucun inconvénient à le garder pour moi ! Après tous les efforts que j'ai déployés, il ne serait tout simplement pas juste que Casmetra mette la main dessus. Je ne crois pas vraiment que la Corne, si elle existe bel et bien, détienne des pouvoirs mystérieux, mais beaucoup à Regna y croient... alors si je l'apporte là-bas, je pourrai organiser une vente aux enchères et remporter un jackpot plus important que Silverflint lui-même, le plus grand aventurier de Regna, n'aurait jamais osé rêver ! Bon, reprends-toi, mon vieux. La Corne n'est pas encore à notre portée, alors mieux vaut se concentrer sur des questions plus urgentes. 
 
 Name:
 ƒень 10
 Message:
-Dargem's diary. Entry 286		"Anything other than the walking dead and goblins is a rare sight on the surface of Deyja. Still, there are occasional wild harpiesЧbut these winged rats seem to abound wherever you can find regular rats. So, just about everywhere. Perhaps Gunnar can persuade some of them to join his host."
+Journal de Dargem. Entrée 286        « À part les morts-vivants et les gobelins, il est rare de voir autre chose à la surface de Deyja. On aperçoit parfois des harpies sauvages, mais ces rats ailés semblent abonder partout où l'on trouve des rats ordinaires. Donc, à peu près partout. Gunnar pourrait peut-être persuader certains d'entre eux de rejoindre ses rangs. »
 
 Name:
 ƒень 12 - √уннар
 Message:
-From a letter by Gunnar, sent but never received after being dropped by a drunken harpy into the waters of the Nighon Strait:		Esteemed Master Anwyn,		I am pleased to inform you that your assignment is almost (crossed out) ninety (blot) ten (blot) one hundred percent completed!		Everything went exactly as you ordered, down to the very last minute in your plan! Just got a little confused in the maze (crossed out) tired, so excuse me for scribbling.		I swear by my horns and the brand that my grandfather put on the arse (crossed out) thigh of the largest Black Dragon in all of Nighon: your little problem of a certain Dargem is almost solved! My sheer (crossed out so energetically that the paper got torn and the old text became unreadable) appearance and your name on my lips made him faint. And here's the trouble: when he fainted, he fell through a crack to the lower level of tunnels where I met him. Now I'll have to fish him out of there, as I promised to bring you proof of work done. That will take some time.		Yours sincerely, faithful Gunnar."
+Extrait d'une lettre de Gunnar, envoyée mais jamais reçue après avoir été jetée par une harpie ivre dans les eaux du détroit de Nighon :        Cher Maître Anwyn,        J'ai le plaisir de vous informer que votre mission est presque (barré) à 90 % (tache) 10 % (tache) 100 % terminée !        Tout s'est déroulé exactement comme vous l'aviez ordonné, jusqu'à la dernière minute de votre plan ! Je me suis juste un peu perdu (barré) fatigué dans le labyrinthe, alors excusez-moi pour mon écriture brouillonne. Je jure sur mes cornes et sur la marque que mon grand-père a apposée sur le cul (barré) la cuisse du plus grand dragon noir de tout Nighon : votre petit problème avec un certain Dargem est presque résolu ! Ma simple apparition (barré si énergiquement que le papier s'est déchiré et que l'ancien texte est devenu illisible) et votre nom sur mes lèvres l'ont fait s'évanouir. Et voici le problème : lorsqu'il s'est évanoui, il est tombé dans une fissure qui menait au niveau inférieur des tunnels où je l'ai rencontré. Je vais maintenant devoir le repêcher, car j'ai promis de vous apporter la preuve du travail accompli. Cela va prendre un certain temps.        Bien à vous, votre fidèle Gunnar. »
 
 Name:
 ƒень 14
 Message:
-Dargem's diary. Entry 287		"The depths of the sea hide dreadful carnivorous creatures that look like giant snakes. Fishermen call them "eels", but the correct term for them is "haspids." 		These haspids spend most of their time on the seabed, hiding in burrows and the hulls of sunken ships. Only during mating and hunting do they rise to the surface, posing a great threat to seafarers. A grown haspid can swallow a young whale wholeЧcompared to that, a ship's crew put together is a mere snack! The good news is that these colossi of the sea don't have to feed often. 		A handful of sophisticated mages and beastmasters know how to tame haspids, but only the wealthiest and most powerful of the pirate lords can afford their services. This is hardly a surprise in itself; the black dragons of Nighon are no less dangerous, but this has never stopped warlocks from using these creatures liberally in their wars." 
+Journal de Dargem. Entrée 287        « Les profondeurs de la mer abritent d'effroyables créatures carnivores qui ressemblent à des serpents géants. Les pêcheurs les appellent « anguilles », mais leur nom correct est « haspids ».         Ces haspids passent la plupart de leur temps au fond de la mer, cachés dans des terriers et les coques des navires coulés. Ce n'est que pendant la période de reproduction et de chasse qu'ils remontent à la surface, représentant alors une grande menace pour les marins. Un haspid adulte peut avaler une jeune baleine entière. Comparé à cela, l'équipage d'un navire tout entier n'est qu'un simple en-cas ! La bonne nouvelle, c'est que ces colosses des mers n'ont pas besoin de se nourrir souvent. Une poignée de mages et de maîtres des bêtes sophistiquées savent comment apprivoiser les haspides, mais seuls les seigneurs pirates les plus riches et les plus puissants peuvent s'offrir leurs services. Cela n'a rien de surprenant en soi ; les dragons noirs de Nighon ne sont pas moins dangereux, mais cela n'a jamais empêché les sorciers d'utiliser généreusement ces créatures dans leurs guerres. 
 
 Name:
 ƒень 17
 Message:
-Dargem's diary. Entry 288		"Gunnar's scouts report that there is only one exit from the tunnels to the surface. This is good news. One should never underestimate necromancers, though. There is very serious resistance waiting for me at the Doom Castle, headed by Maximus (what a stupid name!) himself, so we should prepare accordingly. I also think it makes sense to first defeat the armies of the local Deyjan lords so that they don't get in the way. We should do it first before they muster their strength and head into the caves to get our hides."
+Journal de Dargem. Entrée 288        « Les éclaireurs de Gunnar rapportent qu'il n'y a qu'une seule sortie des tunnels vers la surface. C'est une bonne nouvelle. Il ne faut cependant jamais sous-estimer les nécromanciens. Une résistance très sérieuse m'attend au château de Doom, menée par Maximus (quel nom stupide !) en personne, nous devons donc nous préparer en conséquence. Je pense également qu'il serait judicieux de vaincre d'abord les armées des seigneurs Deyjan locaux afin qu'ils ne nous gênent pas. Nous devrions le faire avant qu'ils ne rassemblent leurs forces et ne se dirigent vers les grottes pour nous traquer. »
 
 Name:
 ƒень 23
 Message:
-Dargem's diary. Entry 289		"Some people wonder about the fundamental differences between the wizards of Bracada, the warlocks of Nighon and the necromancers of Deyja. The answer is simple: there are none.		We use the same powers, and the only thing that sets us apart is certain moral limitations. We warlocks stop at nothing to find the truth. Some of my colleagues even practice necromancy. The Bracadans, on the other hand, avoid harming living beings as much as possible, and therefore their magical science is hopelessly lagging behind. They hide their inferiority behind intricate inventions like golems and gargoyles... Take gunpowder, for one: they invented it, but they only ever use it for fireworks. What a joke!		Necromancers, on their part, are stuck on their study of death and are terribly reluctant to broaden their horizons. Some of them even believe that a true necromancer should be devoid of emotions and feelings, inching closer in his way of thinking to a walking corpse. Fools."
+Journal de Dargem. Entrée 289 « Certains s'interrogent sur les différences fondamentales entre les sorciers de Bracada, les sorciers de Nighon et les nécromanciens de Deyja. La réponse est simple : il n'y en a aucune. Nous utilisons les mêmes pouvoirs, et la seule chose qui nous distingue, ce sont certaines limites morales. Nous, les sorciers, ne reculons devant rien pour découvrir la vérité. Certains de mes collègues pratiquent même la nécromancie. Les Bracadans, en revanche, évitent autant que possible de nuire aux êtres vivants, ce qui explique pourquoi leur science magique est désespérément à la traîne. Ils cachent leur infériorité derrière des inventions complexes telles que les golems et les gargouilles... Prenez la poudre à canon, par exemple : ils l'ont inventée, mais ils ne l'utilisent que pour les feux d'artifice. Quelle blague ! Les nécromanciens, quant à eux, sont obsédés par l'étude de la mort et sont terriblement réticents à élargir leurs horizons. Certains d'entre eux croient même qu'un vrai nécromancien doit être dépourvu d'émotions et de sentiments, se rapprochant ainsi dans sa façon de penser d'un cadavre ambulant. Quelle absurdité.
 
 Name:
 ƒень 33
 Message:
-Dargem's diary. Entry 290		"Our men found another note today. Apparently, this Cactusis fellow is using vampires to plant these messages unnoticed.		In the latest one, he wrote:		"I can see you're fools, and you're stubborn, tooЧbut I expected as much. Good old Mister Mustache wouldn't have sent any other. You'd rather die than fail the mission. That much I understand! Then prepare for war. The longer you mess around, the more reinforcements will I receive. We have our own secret passages. You will all die at the walls of my fortress. Maximus."		It's probably time to answer him. I hate being insulted while forcedly remaining silent. I feel vulnerable at times like this! I must always have the last word. I also don't know who he's talking about. What Mister Mustache? Apparently, our fine Cactusis has developed paranoia."
+Journal de Dargem. Entrée 290        « Nos hommes ont trouvé un autre message aujourd'hui. Apparemment, ce Cactusis utilise des vampires pour placer ces messages sans se faire remarquer.        Dans le dernier, il a écrit :        « Je vois bien que vous êtes stupides et têtus, mais je m'y attendais. Le bon vieux Monsieur Moustache n'aurait pas envoyé quelqu'un d'autre. Vous préférez mourir plutôt que d'échouer dans votre mission. Ça, je le comprends ! Alors préparez-vous à la guerre. Plus vous traînerez, plus je recevrai de renforts. Nous avons nos propres passages secrets. Vous mourrez tous aux murs de ma forteresse. Maximus. »        Il est probablement temps de lui répondre. Je déteste être insulté tout en étant contraint de rester silencieux. Je me sens vulnérable dans des moments comme celui-ci ! Je dois toujours avoir le dernier mot. Je ne sais pas non plus de qui il parle. Monsieur Moustache ? Apparemment, notre cher Cactusis est devenu paranoïaque.
+
 
 Name:
 ƒень 40
 Message:
-Dargem's diary. Entry 291		"Finally, it was time for me to come up with a reply! I was losing sleep, mulling over my imaginary dialogues with this creep Maximus.		Here's what I wrote:		"My disrespected Cactusis! I have no idea what things go inside your head after giving in to your love for the tincture of cactus and zombie spleen. However, I would be remiss not to give you a fair warning: you stand in the way of the best mercenary that ever graced this world. You'd better gather up your walking bones and run. I suggest Krewlod, where green cactus lovers like you are well received." Imagining Maximus' rage at reading this, I gave the note to a harpy."
+Journal de Dargem. Entrée 291 « Il était enfin temps pour moi de trouver une réponse ! Je perdais le sommeil à ruminer mes dialogues imaginaires avec cet odieux Maximus. Voici ce que j'ai écrit : « Mon méprisé Cactusis ! Je n'ai aucune idée de ce qui se passe dans ta tête après avoir cédé à ton amour pour la teinture de cactus et la rate de zombie. Cependant, je m'en voudrais de ne pas te donner un avertissement : tu te mets en travers du chemin du meilleur mercenaire qui ait jamais honoré ce monde. Tu ferais mieux de rassembler tes os ambulants et de t'enfuir. Je te suggère Krewlod, où les amateurs de cactus verts comme toi sont bien accueillis. » Imaginant la rage de Maximus à la lecture de ces mots, j'ai remis la note à une harpie.
 
 ===== Heroes =====
 
@@ -100,7 +102,7 @@ Visiting Death Knight:
 Name:
 Maximus
 Biography:
-Maximus is one of Kastore's closest associates, a strong and fierce warrior. He is in charge of the necromancer country's defenses while Kastore is away.
+Maximus est l'un des plus proches collaborateurs de Kastore, un guerrier fort et féroce. Il est chargé de la défense du pays des nécromanciens pendant l'absence de Kastore.
 
 Timed events:
 
@@ -147,53 +149,53 @@ Specterwood
 
 (14, 65, 0) ***Sign***
 Message:
-Don't drink here! You'll become a minotaur!
+Ne buvez pas ici ! Vous deviendrez un minotaure !
 
 (30, 35, 0) ***Quest Guard***
 Message:
-To my great regret, the path to the library is blocked by a conjured barrier. I need something that weakens magic... Do I have an idea? It seems that an Orb of Vulnerability should work!
-Alas, without the Orb of Vulnerability, the barrier won't budge!
-I brought the Orb near the magic barrier, and it began flickering! This proves my hypothesis! I learned sorcery from Tor Anwyn himself, after all. Should I break the barrier now, or come back later?
+À mon grand regret, le chemin menant à la bibliothèque est bloqué par une barrière magique. J'ai besoin de quelque chose qui affaiblisse la magie... J'ai peut-être une idée ? Il semble qu'un Orbe de Vulnérabilité devrait faire l'affaire !
+Hélas, sans l'Orbe de Vulnérabilité, la barrière ne bougera pas !
+J'ai approché l'Orbe de la barrière magique, et il s'est mis à scintiller ! Cela prouve mon hypothèse ! Après tout, j'ai appris la sorcellerie auprès de Tor Anwyn lui-même. Dois-je briser la barrière maintenant, ou revenir plus tard ?
 
 (51, 38, 0) ***Sign***
 Message:
-Lake Doom
+Lac Doom
 
 (2, 4, 0) ***Quest Guard***
 Message:
-There's a powerful vampire lurking here. He says that for some reason he lost contact with his kin, and a respected ancient vampire is supposed to have his own pack and retinue. He'll let me through if I help him reconnect with the others.
-I need to find five vampires to get through.
-The vampire is happy to see his kin and offers to let me pass.
+Un puissant vampire rôde ici. Il dit avoir perdu contact avec les siens pour une raison inconnue, alors qu'un vampire ancien et respecté est censé avoir sa propre meute et sa propre suite. Il me laissera passer si je l'aide à renouer avec les autres.
+Je dois trouver cinq vampires pour pouvoir passer.
+Le vampire est heureux de revoir les siens et me laisse passer.
 
 (54, 25, 0) ***Seer's Hut***
 Message:
-There is a large group of elementals hiding in this dead forest.	"Our leader, Thunar, is a prisoner of the necromancers. We're afraid we'll end up in their clutches, too, but we can't do anything while the Older One is not here. Free our Lady, humans!"
-"Without Thunar, we will not dare to go anywhere."
-"Lady Thunar, at last! We are glad to be traveling with you again."
+Un grand groupe d'élémentaires se cache dans cette forêt morte. « Notre chef, Thunar, est prisonnier des nécromanciens. Nous craignons de finir nous aussi entre leurs griffes, mais nous ne pouvons rien faire tant que l'Ancien n'est pas là. Libérez notre Dame, humains !
+Sans Thunar, nous n'oserons aller nulle part.
+« Dame Thunar, enfin ! Nous sommes heureux de voyager à nouveau avec vous. »
 
 (50, 68, 0) ***Nix Warrior***
 Message:
-"We won't be serving necromancers, but we don't mind joining you!"
+« Nous ne servirons pas les nécromanciens, mais cela ne nous dérange pas de nous joindre à vous ! »
 
 (51, 67, 0) ***Sorceress***
 Message:
-"We appreciate your help! We really weren't keen on turning into walking corpses!"
+« Nous apprécions votre aide ! Nous n'avions vraiment pas envie de nous transformer en cadavres ambulants ! »
 
 (43, 31, 0) ***Ayssid***
 Message:
-The Ayssids are grateful for your help.
+Les Dracs Mordorés vous sont reconnaissants de votre aide.
 
 (26, 15, 0) ***Corsair***
 Message:
-"At your service, sir!"
+« À votre service, monsieur ! »
 
 (43, 15, 0) ***Minotaur King***
 Message:
-"Time to hack some dead meat!"
+« Il est temps de découper de la viande morte ! »
 
 (6, 38, 0) ***Event***
 Message:
-Entry from Dargem's diary: "The strangest things are going on here! I can smell heavy stench of burning oil, and ahead of me, there loom buildings that look like golem factories; I've seen those in Bracada. Have necromancers started mass-producing golems too, or something? Of course, I've heard of such creatures made of bones and dead flesh, but there never used to be more than a handful of them in the world, mostly museum exhibits. Why do that if you can just make a corpse walk as it is? I don't know what this place is or what is going on here!"
+Extrait du journal de Dargem : « Il se passe des choses étranges ici ! Je sens une forte odeur d'huile brûlée, et devant moi se dressent des bâtiments qui ressemblent à des usines à golems ; j'en ai vu à Bracada. Les nécromanciens se sont-ils eux aussi lancés dans la production en série de golems ? Bien sûr, j'ai entendu parler de ces créatures faites d'os et de chair morte, mais il n'y en avait jamais plus d'une poignée dans le monde, principalement exposées dans des musées. Pourquoi faire cela alors qu'il suffit de faire marcher un cadavre tel quel ? Je ne sais pas ce qu'est cet endroit ni ce qui s'y passe ! »
 
 (58, 12, 0) ***Necropolis***
 Name:
@@ -208,31 +210,32 @@ Message:
 
 (0, 8, 0) ***Event***
 Message:
-Entry from Dargem's diary: "Necromancers have captured a powerful elemental. Most likely, they are putting it to some experiments. I hope the thing hasn't gone mad from the torture; it might agree to help us. Come to think of it... can a rock even feel pain anyway?"
+Extrait du journal de Dargem : « Les nécromanciens ont capturé un puissant élémentaire. Ils sont probablement en train de le soumettre à des expériences. J'espère que cette créature n'est pas devenue folle à cause des tortures qu'elle a subies ; elle pourrait accepter de nous aider. À bien y réfléchir... est-ce qu'un rocher peut ressentir la douleur ? »
+
 
 (3, 37, 0) ***Sign***
 Message:
-Experimental Shop	ABSOLUTELY NO TRESPASSING!
+Atelier expérimental    INTERDICTION ABSOLUE DE TREPASSER !
 
 (5, 3, 0) ***Event***
 Message:
-Entry from Dargem's diary: "We finally made it to the surface. Out of habit, I was about to tie a handkerchief over my eyes so I wouldn't get blinded, but Deyja's sun was barely breaking through a thick sheet of gray clouds. It was much brighter in the torchlit dungeons than under that sickly-colored sky.		Is that how they live here? I mean, not all necromancers and death knights are undead; some are still living creatures! Back when I dwelt in Nighon, I liked to go out to the surface every now and then, touch the grass, smile at the sun. This place, however... looks like staying in caves would be a lot better for one's peace of mind than going outside. It's all the same for GunnarЧhe doesn't think much anyway, and he's plastered all the time these days, unable to come to terms with himself about his failure. But what about me? What can I do to sort out the disorder in my soul?"
+Extrait du journal de Dargem : « Nous avons enfin atteint la surface. Par habitude, j'étais sur le point d'attacher un mouchoir sur mes yeux pour ne pas être ébloui, mais le soleil de Deyja perçait à peine à travers une épaisse couche de nuages gris. Il faisait beaucoup plus clair dans les donjons éclairés à la torche que sous ce ciel de couleur malsaine.		Est-ce ainsi qu'ils vivent ici ? Je veux dire, tous les nécromanciens et chevaliers de la mort ne sont pas des morts-vivants ; certains sont encore des créatures vivantes ! Quand je vivais à Nighon, j'aimais sortir à la surface de temps en temps, toucher l'herbe, sourire au soleil. Mais ici... il semble que rester dans les grottes soit bien mieux pour la tranquillité d'esprit que de sortir à l'extérieur. C'est pareil pour Gunnar, il ne réfléchit pas beaucoup de toute façon, et il est tout le temps ivre ces jours-ci, incapable de se réconcilier avec lui-même après son échec. Mais moi ? Que puis-je faire pour mettre de l'ordre dans le désordre de mon âme ?
 
 (58, 13, 0) ***Event***
 Message:
-Resources for high difficulty
+Ressources pour les niveaux de difficulté élevés
 
 (9, 62, 0) ***Event***
 Message:
-Units for high difficulty
+Unités pour difficulté élevée
 
 (63, 67, 0) ***Event***
 Message:
-Units for high difficulty
+Unités pour difficulté élevée
 
 (56, 44, 0) ***Sign***
 Message:
-William Setag is buried here. A wretch through and through!
+William Setag est enterré ici. Un misérable de la tête aux pieds !
 
 (69, 68, 1) ***Cove***
 Name:
@@ -244,52 +247,52 @@ Shademaze
 
 (2, 62, 1) ***Quest Guard***
 Message:
-Only one who bears the symbol of being free from corruption can pass through here.
-You are unclean! You shall not pass!
-You are pure from black magic. You can go through.
+Seul celui qui porte le symbole de la liberté contre la corruption peut passer ici.
+Tu es impur ! Tu ne passeras pas !
+Tu es pur de toute magie noire. Tu peux passer.
 
 (39, 67, 1) ***Event***
 Message:
-AI attack on peasants, skeleton bonus
+Attaque IA contre les paysans, bonus squelette
 
 (38, 64, 1) ***Event***
 Message:
-AI attack on peasants, skeleton bonus
+Attaque IA contre les paysans, bonus squelette
 
 (38, 61, 1) ***Event***
 Message:
-AI attack on peasants, skeleton bonus
+Attaque IA contre les paysans, bonus squelette
 
 (5, 68, 1) ***Crusader***
 Message:
-"Crusading is costly business, good sir! Cover our expenses, and we'll be willing to go with you and vanquish the evil spirits."
+« Les croisades sont une entreprise coûteuse, cher monsieur ! Couvrez nos dépenses, et nous serons prêts à vous accompagner pour vaincre les mauvais esprits. »
 
 (1, 63, 1) ***Event***
 Message:
-Entry from Dargem's diary:	"It seems that mercenaries and crusaders are resting in this quiet corner of the cave, safe from the undead. Perhaps I can persuade them to join us for some money."
+Extrait du journal de Dargem : « Il semble que les mercenaires et les croisés se reposent dans ce coin tranquille de la grotte, à l'abri des morts-vivants. Je pourrais peut-être les persuader de se joindre à nous en échange d'une somme d'argent. »
 
 (64, 8, 1) ***Sign***
 Message:
-Smugglers' caves
+Grottes des contrebandiers
 
 (3, 68, 1) ***Gunslinger***
 Message:
-"Hey man, might you have any use for a few trusty barrels? Nothing works better for drilling holes in rotten skulls!"
+« Hé mec, tu aurais besoin de quelques barils fiables ? Rien de mieux pour percer des trous dans des crânes pourris ! »
 
 (33, 20, 1) ***Seer's Hut***
 Message:
-A powerful ancient dragon seeks the four elemental spheres. He promises to handsomely reward whoever brings him these artifacts.
-The dragon is raging: he wants the complete set of four spheres!
-It looks as though the ancient creature is content now. It offers you the services of its cubs.
+Un puissant dragon ancien recherche les quatre sphères élémentaires. Il promet de récompenser généreusement quiconque lui apportera ces artefacts.
+Le dragon est furieux : il veut l'ensemble complet des quatre sphères !
+Il semble que la créature ancienne soit désormais satisfaite. Elle vous offre les services de ses petits.
 
 (53, 36, 1) ***Seer's Hut***
 Message:
-This powerful warlock is looking for a legendary spell book. He believes that the necromancers have a copy of this compendium, and is ready to reward anyone who delivers him the valuable tome.
-The owner of the house advises you to look for the book in the mountains to the west.
-You have completed the task, and the grateful warlock is willing to give you a few Black Dragons.
+Ce puissant sorcier est à la recherche d'un grimoire légendaire. Il pense que les nécromanciens possèdent un exemplaire de ce recueil et est prêt à récompenser quiconque lui livrera ce précieux ouvrage.
+Le propriétaire de la maison vous conseille de chercher le livre dans les montagnes à l'ouest.
+Vous avez accompli la tâche et le sorcier reconnaissant est prêt à vous donner quelques dragons noirs.
 
 (9, 10, 1) ***Event***
 Message:
-This might come in handy in a fight against Nagash!
+Cela pourrait s'avérer utile dans un combat contre Nagash !
 
 ===== End of file =====
