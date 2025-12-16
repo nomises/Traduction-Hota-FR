@@ -2,7 +2,7 @@
 Dead or Alive
 
 ===== Map description =====
-Vous devez vaincre le pirate Dargem qui a défié les habitants des terres arides. Si Henrietta ou Frederick sont vaincus, le scénario sera perdu. Les Héros sont limités au niveau 18. Henrietta et Frederick conserveront les composants du Puits de Mana et l'Anneau des Mages au scénario suivant.
+Vous devez vaincre le pirate Dargem qui a défié les habitants des Terres Arides. Si Henrietta ou Frederick sont vaincus, le scénario sera perdu. Les Héros sont limités au niveau 18. Henrietta et Frederick conserveront les composants du Puits de Mana et l'Anneau des Mages au scénario suivant.
 
 ===== Rumors =====
 
