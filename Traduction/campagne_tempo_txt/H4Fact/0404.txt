@@ -797,7 +797,7 @@ Tu te bats bien, mais tu préféreras peut-être notre équipement à celui que 
 Malheureusement, cela ne suffit pas.
 C'est génial !
 Apporte-nous 6 mécaniciens et nous les équiperons de nouveaux outils.
-Malheureusement, nous ne pouvons pas encore t'aider. Reviens plus tard !
+Malheureusement, nous ne pouvons pas encore vous aider. Revenez plus tard !
 Voulez-vous faire un échange maintenant ?
 
 (161, 177, 1) ***Seer's Hut***
