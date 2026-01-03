@@ -2,85 +2,85 @@
 
 ## Hota.dat
 ### Vérifier que le fichier est ok
-* HotA.txt
+* ~~HotA.txt~~
 
 ## HotA_lng.lod
 ### Traduire
-* SPTRAITS.txt
+* ~~SSTRAITS.txt~~
+* ~~SPTRAITS.txt~~
 * SSTRAITS.txt
-* TentColr.txt
-* xtrainfo.txt
+* ~~TentColr.txt~~
+* ~~xtrainfo.txt~~
 
 ### Vérifier
 * advevent.txt
-* ARRAYTXT.txt
-* artevent.txt
+* ~~ARRAYTXT.txt~~
+* ~~artevent.txt~~
 * ~~artraits.txt~~
-* ArtSlots.txt
-* BldgNeut.txt
+* ~~ArtSlots.txt~~
+* ~~BldgNeut.txt~~
 * BldgSpec.txt
-* CAMPBTTN.TXT
-* CAMPDIAG.TXT
-* CAMPHIGH.TXT
-* CampText.txt
-* CastInfo.txt
-* CmpEdCmd.txt
-* CmpEditr.txt
-* CrBanks.txt
-* CREDITS.TXT
-* CrGen1.txt
-* CrGen4.txt
-* CrGenerc.txt
-* CRTRAITS.TXT
-* Dwelling.txt
-* EDITOR.TXT
-* EDITRCMD.TXT
-* Garrison.txt
-* GENRLTXT.TXT
-* HallInfo.txt
-* HCTRAITS.TXT
-* Help.txt
-* HeroBios.txt
-* HeroScrn.txt
+* ~~CAMPBTTN.TXT~~
+* ~~CAMPDIAG.TXT~~
+* ~~CAMPHIGH.TXT~~
+* ~~CampText.txt~~
+* ~~CastInfo.txt~~
+* ~~CmpEdCmd.txt~~
+* ~~CmpEditr.txt~~
+* ~~CrBanks.txt~~
+* ~~CrGen1.txt~~
+* ~~CrGen4.txt~~
+* ~~CrGenerc.txt~~
+* ~~CRTRAITS.TXT~~
+* ~~Dwelling.txt~~
+* ~~EDITOR.TXT~~
+* ~~EDITRCMD.TXT~~
+* ~~Garrison.txt~~
+* ~~GENRLTXT.TXT~~
+* ~~HallInfo.txt~~
+* ~~HCTRAITS.TXT~~
+* ~~Help.txt~~
+* ~~HeroBios.txt~~
+* ~~HeroScrn.txt~~
 * HeroSpec.txt
-* HOTRAITS.TXT
-* JKTEXT.TXT
-* lcdesc.txt
-* MINEEVNT.TXT
-* MineName.txt
-* Monolith.txt
-* ObjNames.txt
-* Overview.txt
-* PlColors.txt
-* PriSkill.txt
-* randsign.txt
-* randtvrn.txt
-* regions.txt
-* RESTYPES.TXT
+* ~~HOTRAITS.TXT~~
+* ~~JKTEXT.TXT~~
+* ~~lcdesc.txt~~
+* ~~MINEEVNT.TXT~~
+* ~~MineName.txt~~
+* ~~Monolith.txt~~
+* ~~ObjNames.txt~~
+* ~~Overview.txt~~
+* ~~PlColors.txt~~
+* ~~PriSkill.txt~~
+* ~~randsign.txt~~
+* ~~randtvrn.txt~~
+* ~~regions.txt~~
+* ~~RESTYPES.TXT~~
 * SeerHut.txt
-* SkillLev.txt
-* TCommand.txt
-* TERRNAME.txt
-* TownName.txt
-* TownType.txt
-* turndur.txt
-* TvrnInfo.txt
-* vcdesc.txt
-* Walls.txt
+* ~~SkillLev.txt~~
+* ~~TCommand.txt~~
+* ~~TERRNAME.txt~~
+* ~~TownName.txt~~
+* ~~TownType.txt~~
+* ~~turndur.txt~~
+* ~~TvrnInfo.txt~~
+* ~~vcdesc.txt~~
+* ~~Walls.txt~~
 
 ## h3c (campagne)
 ### Traduire
-* H1Roger.h3c
-	* Mission 1
-	* Mission 2
-	* mission 3
-* H2Terror.h3c
-	* Mission 1
-	* Mission 2
-	* mission 3
-    * mission 4
-    * mission 5
-    * mission 6
+* ~~H1Roger.h3c~~
+	* ~~Mission 1~~
+	* ~~Mission 2~~
+	* ~~Mission 3~~
+* ~~H2Terror.h3c~~
+	* ~~Mission 1~~
+	* ~~Mission 2~~
+	* ~~mission 3~~
+    * ~~mission 4~~
+    * ~~mission 5~~
+    * ~~mission 6~~
 * H3Horn.h3c
 	* Mission 1
 	* Mission 2
@@ -101,6 +101,8 @@
 	* mission 3
     * mission 4
     * mission 5
+
+* Une fois la traduction finie, repasser dans Hota.txt pour modifier le nom des campagnes des lignes 17248 à 17699
 
 # Bonus
 ## Campaign editor
@@ -189,3 +191,6 @@
 * Ville'de'Porte.txt
 * When Seas Were Deeper.txt
 * With Sword and Fire.txt
+
+### Crédit
+* HotA_lng.lod/CREDITS.TXT

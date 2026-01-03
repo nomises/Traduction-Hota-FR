@@ -1,0 +1,78 @@
+===== Map name =====
+The Freedom of the Nix
+
+===== Map description =====
+The nix leader Tark should free 30 nix captives from their slavery to the Nighon lords. The scenario will be lost if Tark is defeated. The hero level cap is 24. After victory, Tark will proceed to the next scenario of the campaign.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Day 1-1
+Message:
+As Tark watched the pirates load their army and resources onto their ships, he couldn't help but be preoccupied about his people. They had managed to keep their existence a secret from the rest of the world for ages, but many of them were either dead or imprisoned now.	“Tark, will you follow us, or do you have other plans? We are grateful for your help and help of your people...” Bidley started.	“It is I who should be grateful,” Tark interrupted. “You showed me that there is life beyond my princedom. The only thing left to do is to set my people free. I know where they are,” the reptile leader continued.	“Perhaps we could help?” Bidley offered.	“No. You have one path ahead of you, and I have another. I must save my people. Don't assume that all the nix you meet will know of you or help you, however. There are just as many scoundrels among the nix as among men,” replied Tark, turning toward the sea.	“Will we meet again?” asked Bidley.	“Probably,” the nix replied. “If I return, I'll come find you. If not... forget about me.” With that, Tark strode into the water until it reached his waist, then dove and disappeared.
+
+Name:
+Day 1-2
+Message:
+Tark swam for a long time, but at length, he reached the subterranean kingdom of the warlock lords. A small colony of nix, independent from the island princedom where Tark ruled, had lived in these underwater caverns until the warlocks conquered and enslaved them. It was time to free those nix, and also to show them who their true ruler was. Tark was the last of an ancient line of nix princes. Something terrible had happened to their race: as a result of some mysterious disease, many of their eggs were turning out to be hollow and devoid of life. As a result, their population had slowly dwindled, and the once flourishing people had been reduced to a mere handful of nix, controlling one small island and its surrounding waters. 	Though to the casual eye he seemed like a slow-moving and slow-thinking reptile, Tark absorbed information quickly. He knew that the lords of Nighon were in the throes of a civil war right now. Were he to invade their lands and take over one of their towns, they would hardly pay attention right away.
+
+Name:
+Day 8
+Message:
+Tark knew he wouldn't be able to save everyone, but perhaps he could help the majority get out. Those he is unable to rescue will have to flee and fend for themselves if they want to live. After interrogating the civilians of his newly-occupied town, Tark learned that the lords were busy fighting and wouldn't notice the loss of this city for a while. Moreover, Tark found out that the captured nix were working in the caverns one level below. The fetid vapors those tunnels were full of were deadly to minotaurs, humans, and troglodytes, but hardly affected the nix. The warlocks particularly prized their nix slaves for this trait.
+
+Name:
+Day 15
+Message:
+It's dark and stuffy in these caves. Tark has decided to find a new, better home for his people. Perhaps those pirates, widely-traveled as they are, will know of a quiet place to settle—somewhere the nix can put down roots and slowly restore their civilization without fear of invaders. For this reason, Tark has decided to join Bidley and his followers as soon as he has freed his enslaved kin.
+
+Name:
+Day 18
+Message:
+Sooner or later, these lords will end their squabble and take notice of their lost outpost. It's important to be ready for their coming and to prepare a counterstrike they will be unable to recover from.
+
+===== Heroes =====
+
+===== Objects =====
+
+(52, 33, 0) ***Seer's Hut***
+Message:
+A nix lies dying in a distant camp. He has lost a lot of blood, but there is still a way to save his life. 
+Our efforts to save the dying nix remain unsuccessful.
+With fresh blood infused into the dying creature, it will recover and may even be able to hold a weapon.
+
+(12, 57, 0) ***Sign***
+Message:
+Southern tunnel
+
+(28, 28, 0) ***Sign***
+Message:
+Catacombs
+
+(63, 44, 0) ***Minotaur***
+Message:
+“The lizards have escaped! Cut them down!”
+
+(58, 48, 0) ***Minotaur King***
+Message:
+“Escaping slaves! Attack!”
+
+(66, 65, 0) ***Event***
+Message:
+“I can't believe my eyes! You are one of noble kin!”	“I am Prince Tark.”	“I bow before thee, prince. I escaped the poisonous mines on the lower level. When the Nighon war started, they loosened their grip over the slaves. But why did you come, Prince Tark?” 	“My duty is to free as many of our kin as possible.”	“Then allow me to join you. I am a seasoned warrior, and I have this armor I took from a slain minotaur. I am ready to give my life to aid our people,” said the warrior, and knelt.
+
+(47, 38, 0) ***Archer***
+Message:
+“We're lost in these accursed caves, and as if that wasn't enough, now we have to deal with you monsters!”
+
+(43, 35, 1) ***Ocean Bottle***
+Message:
+by {F a t a l i s t}
+
+(35, 27, 1) ***Sign***
+Message:
+Beware! Toxic mines ahead. Prolonged exposure is dangerous.
+
+===== End of file =====

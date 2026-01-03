@@ -1,0 +1,127 @@
+===== Map name =====
+Fourberie
+
+===== Map description =====
+Jérémie, Tark et Casmetra doivent capturer Dargem. La mission sera perdue si Jérémie est vaincu. C'est la dernière mission de la campagne.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Day 1
+Message:
+Tout se passa si vite. L'eau bouillonna et un geyser gigantesque émergea de la mer, crachant un vaisseau magique. Casmetra dit que Bidley était sur ce navire, en compagnie de quelqu'un d'autre qui avait capturé mon frère et la Corne.	"C'est Dargem", dit la prêtresse avec colère.	"Et c'est quoi un Dargem ? " "Un mage mercenaire. Il travaillait pour Regna - ou, pour être précis, pour l'un des seigneurs de Regna. C'est un nid de vipères, chacun cherchant à poignarder tout le monde dans le dos. L'un de ces seigneurs voulait mettre la main sur la Corne des Abysses, et son désir était plus fort que le tien. Alors il a envoyé Dargem." 	"Oublie-ça ! Il faut les traquer, immédiatement ! Diego, prépare les navires ! " ordonnai-je.		Nous poursuivîmes Dargem un moment, mais son navire finit par disparaître derrière une île. À sa place, nous avons été accueillis par la flotte de Regna. Nous n'avions qu'une poignée de navires à notre disposition et nous avons été obligés de fuir. Nous avons établi notre camp sur une petite île et décidé de rassembler nos forces pour attaquer la forteresse de Dargem, où il détient la Corne et mon frère. J'espère que Bidley est sain et sauf.  	Cependant, nous avons une bonne nouvelle : Tark est de retour ! Il a émergé de l'eau avec les siens, juste devant notre camp. "J'ai promis de revenir," siffla laconiquement le chef des reptiles géants.	"Nous avons des ennuis. Bidley a été capturé", expliquai-je. 	"Les nix combattront pour vous. Certains seront contre vous, cependant. Mais je suis le prince, et ma cause est juste", répondit Tark.
+
+Name:
+Day 2
+Message:
+"Jeremy", sourit Casmetra. "J'apporte d'autres bonnes nouvelles. Le vol de la Corne a réveillé les serpents de mer. Maintenant, ils errent dans l'océan." 	"Excellente nouvelle ! Au moins, on aura plein d'anguilles fumées, j'imagine." "Idiot", répondit Casmetra. "Ces créatures se sentent toujours obligées de protéger la Corne des Abysses. Et pourtant, ces pauvres bêtes ne savent pas s'il faut la rendre, ou la garder où qu'elle soit. Je peux les enchanter pour que les serpents qui veulent la rendre nous aident à la reprendre à ce traître de Dargem."	"C'est une bonne idée", approuvai-je. "Mais que leur dirons-nous une fois la Corne récupérée à Dargem ? "Vous plaisantiez, c'était ça ?" "Vous, les hommes, vous essayez toujours d'anticiper 20 coups en avance, gémit Casmetra en levant les yeux au ciel. 	Malgré tout, je n'allais certainement pas refuser l'aide des serpents de mer. Même une seule de ces belles créatures pourrait couler une frégate !
+
+Name:
+Day 7
+Message:
+Les éclaireurs rapportent que les Tataliens, furieux de leur récente défaite, espèrent une fois de plus anéantir toute leur flotte. Ils nous ont trouvés sur cet archipel, jusqu'alors seulement connu des pirates. Ils ont construit un fort quelque part à l'est et préparent une invasion. D'un côté, ce serait formidable ; ils ne sauront probablement pas faire la différence entre deux bandes de pirates. De l'autre, ce ne serait pas beau à voir si eux, et non nous, capturaient Dargem. Si cela arrivait, Bidley sera sûrement pendu à une corde juste à côté de ce scélérat.
+
+Name:
+Day 12
+Message:
+Plus de nouvelles inquiétantes : la guerre a de nouveau éclaté entre Erathia et Eeofol. De plus, d'étranges villes avec des châteaux aux dômes dorés ont commencé à surgir de nulle part sur tout le continent. Casmetra pense qu'il s'agit d'une invasion de seigneurs élémentaires. L'une de ces villes a surgi dans la région nord de l'archipel. Ils ont probablement été attirés par le pouvoir de la Corne des Abysses et espèrent s'en emparer.
+
+Name:
+Raider
+Message:
+Les pillards de Dargem ont attaqué nos navires de ravitaillement et disparurent dans la nuit.
+
+Name:
+Day 24
+Message:
+Lassé de cette résistance inutile, j'ai décidé d'écrire une lettre à Dargem. Mon esprit n'était pas tout à fait clair à ce moment-là ; revigoré par le rhum, j'ai écrit ceci : 	"Dargem ! Ici Jeremy Albatross, amiral de l'armada de Regna. Vous avez croisé mon chemin et capturé mon frère. Libérez-le immédiatement et remettez-nous l'artefact ! Si vous le faites, je vous promets que vous et vos hommes pourrez quitter l'île sains et saufs."
+
+Name:
+halyava
+Message:
+- C'est l'heure d'halyava !	- Non, IA, non !!!
+
+Name:
+Day 34
+Message:
+Les nix de Tark rapportent qu'il existe un vaste réseau de grottes sous cet archipel. Nombre d'entre elles sont remplies d'eau, mais certaines parties sont sèches. Ces grottes sont anciennes ; on pourrait y trouver quelque chose d'unique et de puissant.
+
+Name:
+Day 40
+Message:
+Dargem a bien pris son temps à me répondre. J'imagine que ce n'est qu'une preuve de plus de sa stupidité et de son incapacité à penser de manière critique - un trait que je suis connu pour posséder. Sa lettre disait :	"Mon estimé amiral autoproclamé Jenny Grouse ! J'ai passé bien trop de temps dans ces grottes à attendre que Dame Chance me sourie et m'envoie un voyageur encore moins chanceux que moi. Et c'est ce qui est arrivé. Je mérite la Corne - même si je n'ai pas encore compris comment il fonctionne. Je vous suggère de vous en aller. Votre frère n'est qu'un garant de ma sécurité. Dès votre départ, il sera libéré. ​​Dargem."
+
+Name:
+Day 43
+Message:
+Je réfléchissais à ce que Dargem avait dit. J'ai appelé Casmetra dans ma cabine et lui ai dit que j'envisageais de battre en retraite pour assurer la libération de Bidley. Les yeux de la prêtresse s'écarquillèrent.	"Jeremy ! Comment pouvez-vous penser une chose pareille ! " s'exclama-t-elle.	"Mais nous pourrions sauver Bidley et éviter un bain de sang inutile", commençai-je, interrompu par Casmetra. "Vous n'imaginez même pas à quel point Dargem est abject, et ce qui est en jeu. La Corne des Abysses est l'un des plus grands artefacts jamais créés. On ne sait pas qui l'a fabriquée - elle a probablement été créée avant le Silence. C'est un cadeau de l'Âge des Merveilles ! Si seulement nous parvenions à comprendre son fonctionnement, nous serions égaux aux dieux ! " expliqua la prêtresse avec enthousiasme. Elle s'approcha de la table et, à mon grand amusement, but une grande gorgée de rhum. "Dargem est un scélérat et un monstre. S'il n'a pas encore tué Bidley, c'est parce que nous sommes tout près. Si tu pars, il fera assassiner ton frère et le livrera aux requins. Tu devrais t'en rendre compte. À moins que tu ne sois un lâche…" suggéra-t-elle, le regard plein de reproche.	"Non, Madame. Jeremy Albatross est le plus brave et le plus audacieux de tous les pirates entre Enroth, Antagarich et Jadame ! " déclarai-je en me levant d'un bond.  "Et c'est pour ça que je vous aime", rit la prêtresse en m'embrassant.
+
+===== Heroes =====
+
+===== Objects =====
+
+(6, 139, 0) ***Sign***
+Message:
+Avant-poste Erathian
+
+(29, 11, 0) ***Seer's Hut***
+Message:
+Un groupe de pirates mécontents du charisme de Dargem aimerait se joindre à vous.
+Les accepterez-vous ?
+
+(0, 140, 0) ***Sword of Judgement***
+Message:
+Êtes-vous prêt à rendre justice ?
+
+(139, 3, 0) ***Sign***
+Message:
+Maison fortifiée Kreegan
+
+(42, 47, 0) ***Sea Dog***
+Message:
+Arrêtez, ou je tire !
+
+(8, 21, 0) ***Seer's Hut***
+Message:
+Un groupe de pirates mécontents du charisme de Dargem aimerait se joindre à vous.
+Les accepterez-vous ?
+
+(54, 95, 1) ***Sign***
+Message:
+Salle de téléportation
+
+(60, 136, 1) ***Event***
+Message:
+Gardez à l’esprit que ce monolithe peut mener n’importe où et qu’il ne sera pas facile de revenir en arrière.
+
+(114, 3, 1) ***Event***
+Message:
+Ces grottes sont aussi anciennes que le monde...
+
+(111, 20, 1) ***Tome of Air Magic***
+Message:
+Oserez-vous prendre cet ancien volume ?
+
+(113, 8, 1) ***Event***
+Message:
+Un gel terrible et un silence sinistre affectent négativement votre équipage.
+
+(116, 26, 1) ***Azure Dragon***
+Message:
+Votre présence ici n'est pas passée inaperçue. Une puissante créature s'est réveillée…
+
+(127, 4, 1) ***Diamond Golem***
+Message:
+Les gardiens des anciens palais sont en alerte !
+
+(133, 26, 1) ***Event***
+Message:
+On dirait qu'il y a un passage secret ici.
+
+(130, 59, 1) ***Event***
+Message:
+Il y a tout un nid de serpents de mer ici !
+
+===== End of file =====
