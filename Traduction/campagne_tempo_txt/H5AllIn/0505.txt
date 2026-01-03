@@ -383,7 +383,7 @@ Y a-t-il quelque chose de pire que d'énormes Guêpes Dragons ? Peut-être seule
 
 (28, 59, 0) ***Gnoll***
 Message:
-« Espèce d'imbécile fan de poissons ! Tu crois que cette île t'appartient ?! »
+« Espèce d'imbécile fan de poissons ! Vous croyez que cette île vous appartient ?! »
 
 (23, 54, 0) ***Swordsman***
 Message:
@@ -491,7 +491,7 @@ Suis-je prêt à prendre ce risque ?
 
 (43, 28, 0) ***Enchanter***
 Message:
-« Ce donjon renferme des secrets inestimables ! Un mage pirate autodidacte n'en est pas digne ! »
+« Ce donjon renferme des secrets inestimables ! Un mage pirate autoproclamé n'en est pas digne ! »
 
 (18, 60, 0) ***Event***
 Message:
