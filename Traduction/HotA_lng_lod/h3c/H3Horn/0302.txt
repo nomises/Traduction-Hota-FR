@@ -72,7 +72,7 @@ En observant la surface de l'eau, vous avez remarqué une bouteille flottant à 
 
 (5, 40, 0) ***Event***
 Message:
-Vos hommes d'équipage ont aperçu une épave, des corps flottants à la dérive. 	"Certains de ces pauvres bougres ont peut-être survécu, Capitaine… On aurait bien besoin de paire de manches supplémentaire, lança un jeune marin. 	"D'accord, matelots", acquiesçez-vous. "Cap sur l'épave ! " 	En y regardant de plus près, cependant, tous les corps étaient déjà désarticulés, suppurant sous le soleil. Vous ordonnâtes de partir immédiatement, mais apparemment, les morts manigançaient.
+Vos hommes d'équipage ont aperçu une épave, des corps flottants à la dérive. 	"Certains de ces pauvres bougres ont peut-être survécu, Capitaine… On aurait bien besoin de paires de manches supplémentaires, lança un jeune marin. 	"D'accord, matelots", acquiescez-vous. "Cap sur l'épave ! " 	En y regardant de plus près, cependant, tous les corps étaient déjà désarticulés, suppurant sous le soleil. Vous ordonnâtes de partir immédiatement, mais apparemment, les morts manigançaient.
 
 (93, 44, 0) ***Sign***
 Message:
