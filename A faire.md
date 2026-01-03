@@ -36,7 +36,7 @@
 * ~~EDITOR.TXT~~
 * ~~EDITRCMD.TXT~~
 * ~~Garrison.txt~~
-* GENRLTXT.TXT
+* ~~GENRLTXT.TXT~~
 * ~~HallInfo.txt~~
 * ~~HCTRAITS.TXT~~
 * Help.txt
