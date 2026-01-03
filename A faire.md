@@ -2,22 +2,23 @@
 
 ## Hota.dat
 ### Vérifier que le fichier est ok
-* HotA.txt
+* ~~HotA.txt~~
 
 ## HotA_lng.lod
 ### Traduire
+* ~~SSTRAITS.txt~~
 * ~~SPTRAITS.txt~~
 * SSTRAITS.txt
-* TentColr.txt
-* xtrainfo.txt
+* ~~TentColr.txt~~
+* ~~xtrainfo.txt~~
 
 ### Vérifier
 * advevent.txt
-* ARRAYTXT.txt
+* ~~ARRAYTXT.txt~~
 * ~~artevent.txt~~
 * artraits.txt
 * ~~ArtSlots.txt~~
-* BldgNeut.txt
+* ~~BldgNeut.txt~~
 * BldgSpec.txt
 * ~~CAMPBTTN.TXT~~
 * ~~CAMPDIAG.TXT~~
@@ -35,51 +36,51 @@
 * ~~EDITOR.TXT~~
 * ~~EDITRCMD.TXT~~
 * ~~Garrison.txt~~
-* GENRLTXT.TXT
+* ~~GENRLTXT.TXT~~
 * ~~HallInfo.txt~~
-* HCTRAITS.TXT
+* ~~HCTRAITS.TXT~~
 * ~~Help.txt~~
-* HeroBios.txt
+* ~~HeroBios.txt~~
 * ~~HeroScrn.txt~~
 * HeroSpec.txt
 * ~~HOTRAITS.TXT~~
 * ~~JKTEXT.TXT~~
-* lcdesc.txt
-* MINEEVNT.TXT
-* MineName.txt
-* Monolith.txt
-* ObjNames.txt
-* Overview.txt
-* PlColors.txt
-* PriSkill.txt
-* randsign.txt
-* randtvrn.txt
-* regions.txt
-* RESTYPES.TXT
+* ~~lcdesc.txt~~
+* ~~MINEEVNT.TXT~~
+* ~~MineName.txt~~
+* ~~Monolith.txt~~
+* ~~ObjNames.txt~~
+* ~~Overview.txt~~
+* ~~PlColors.txt~~
+* ~~PriSkill.txt~~
+* ~~randsign.txt~~
+* ~~randtvrn.txt~~
+* ~~regions.txt~~
+* ~~RESTYPES.TXT~~
 * SeerHut.txt
-* SkillLev.txt
-* TCommand.txt
-* TERRNAME.txt
-* TownName.txt
-* TownType.txt
-* turndur.txt
-* TvrnInfo.txt
-* vcdesc.txt
-* Walls.txt
+* ~~SkillLev.txt~~
+* ~~TCommand.txt~~
+* ~~TERRNAME.txt~~
+* ~~TownName.txt~~
+* ~~TownType.txt~~
+* ~~turndur.txt~~
+* ~~TvrnInfo.txt~~
+* ~~vcdesc.txt~~
+* ~~Walls.txt~~
 
 ## h3c (campagne)
 ### Traduire
-* H1Roger.h3c
-	* Mission 1
-	* Mission 2
-	* mission 3
-* H2Terror.h3c
-	* Mission 1
-	* Mission 2
-	* mission 3
-    * mission 4
-    * mission 5
-    * mission 6
+* ~~H1Roger.h3c~~
+	* ~~Mission 1~~
+	* ~~Mission 2~~
+	* ~~Mission 3~~
+* ~~H2Terror.h3c~~
+	* ~~Mission 1~~
+	* ~~Mission 2~~
+	* ~~mission 3~~
+    * ~~mission 4~~
+    * ~~mission 5~~
+    * ~~mission 6~~
 * H3Horn.h3c
 	* Mission 1
 	* Mission 2
@@ -100,6 +101,8 @@
 	* mission 3
     * mission 4
     * mission 5
+
+* Une fois la traduction finie, repasser dans Hota.txt pour modifier le nom des campagnes des lignes 17248 à 17699
 
 # Bonus
 ## Campaign editor
