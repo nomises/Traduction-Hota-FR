@@ -25,7 +25,7 @@ Comme disait mon grand-père : "Je suis ton grand-père ! "
 Name:
 Sephinroth
 Text:
-En réalité, Sephinroth est la véritable reine d'Erathia ! C'est la fille aînée du roi Gryphonheart, je vous le dis ! Regardez ces cheveux !
+En réalité, Sephinroth est la véritable reine d'Erathia ! C'est la fille aînée du roi Gryphonheart, je vous le dis ! Regardez ses cheveux !
 
 Name:
 Hobbits
@@ -187,7 +187,7 @@ Message:
 
 (6, 31, 0) ***Quest Guard***
 Message:
-Si vous cherchez du bois, vous pouvez apprendre où en trouver ici. Pour la modique somme de trois milles Pièces d'Or."
+Si vous cherchez du bois, vous pouvez apprendre où en trouver ici. Pour la modique somme de trois mille Pièces d'Or."
 Revenez quand vous aurez amassé trois mille Pièces d'Or."
 Bon, vous pouvez passer ! "
 
@@ -209,7 +209,7 @@ Message:
 
 (21, 16, 0) ***Seer's Hut***
 Message:
-"J'ai récemment perdu mon alliance, un souvenir de ma défunte épouse. Si vous la retrouvez, je vous récompenserai généreusement. J'ai des livres contenant des sorts rares ; il y aura sûrement quelque chose qui vous intéressera."
+"J'ai récemment perdu mon alliance, un souvenir de ma défunte épouse. Si vous la retrouvez, je vous récompenserais généreusement. J'ai des livres contenant des sorts rares ; il y aura sûrement quelque chose qui vous intéressera."
 "Je crois avoir perdu mon alliance dans le bosquet de trèfles. Jeteriez-vous un coup d'œil ? "
 "Merci infiniment pour l'alliance ! Regardez : j'ai trouvé cet intéressant sort rien que pour vous."
 
