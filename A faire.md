@@ -57,7 +57,7 @@
 * ~~randtvrn.txt~~
 * ~~regions.txt~~
 * ~~RESTYPES.TXT~~
-* SeerHut.txt
+* ~~SeerHut.txt~~
 * ~~SkillLev.txt~~
 * ~~TCommand.txt~~
 * ~~TERRNAME.txt~~
