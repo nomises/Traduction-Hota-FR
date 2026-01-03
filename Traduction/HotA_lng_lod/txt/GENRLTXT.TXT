@@ -1,4 +1,4 @@
-Miscellaneous and Unorganized Game Text
+Textes divers et variés. 
 Impossible d'ajouter le gestionnaire !
 %s ne peut plus acquérir d'expérience au cours de ce scénario.
 "{Niveau %d}
@@ -65,7 +65,8 @@ Ceci est une vue générale de la carte. Cliquez dans cette fenêtre pour centre
 "Creuser prend une journée complète, attendez demain et recommencez."
 Votre Héros n'a plus assez de place pour transporter un autre artéfact.
 "Félicitations ! Après de longues heures de fouilles, votre héros a découvert l'artéfact :"
-"Rien ici. Il faudra creuser ailleurs."
+"Rien ici. Il faudra creuser ailleurs.
+Où peut-il bien être?"
 Essayez plutôt sur la terre ferme !
 Territoire inexploré !
 Mois
@@ -179,12 +180,10 @@ Le son digital n'est pas une option autorisée sur ce système.
 Baliste
 Votre besace est pleine.
 "Hélas, votre besace est bien trop petite pour contenir %s."
-"
-
-L'artéfact %s est détruit."
-"
-
-%s a %d en Attaque et inflige de %d à %d points de dégâts."
+"L'artéfact %s est détruit."
+"{%s}
+%s a %d en Attaque et inflige de %d à %d points de dégâts.
+Ignore la défense ennemie"
 Voir les informations sur les tours.
 Je peux vous offrir %d %s de %s pour %d %s de %s.
 Marché
@@ -241,8 +240,7 @@ Gardé par
 "
 Votre Héros a appris %s %s."
 "
-Votre héros peut apprendre l'une des Compétences suivantes :
-%s %s ou %s %s."
+Votre héros peut apprendre l'une des Compétences suivantes : %s %s ou %s %s."
 "{Points de Magie}
 
 %s dispose actuellement de %d points de magie sur un maximum de %d. Le nombre maximal de points de magie est égal à 10 fois le Savoir du héros. Certains événements spéciaux vous permettront parfois de disposer de points de magie supplémentaires."
@@ -291,7 +289,6 @@ L'expérience permet à vos héros de gagner des niveaux supplémentaires, ce qu
 Il y a sept ressources dans le monde d'Erathia. Elles sont utilisées pour construire les bâtiments dans les villes, acheter des troupes et recruter des héros. L'Or est la plus commune et la plus utilisée de ces ressources. Le Bois et la Pierre sont utilisés pour la construction des bâtiments. Les Gemmes, le Mercure, le Soufre et les Cristaux sont des ressources magiques utilisées lorsque vous recrutez les créatures ou que vous construisez les bâtiments les plus puissants."
 Ces créatures sont disposées à rejoindre votre armée !
 "Toutes ces créatures veulent rejoindre votre armée...
-
 contre quelques %d pièces d'Or."
 Ces faibles créatures fuiront probablement devant votre armée.
 Je crains fort que ces créatures ne soient prêtes au combat.
@@ -516,7 +513,6 @@ de Base"
 Définitif"
 +1 Niveau
 "
-
 ***Aide de la ligne de commande***
 
 /S0 - coupe le son et la musique
@@ -675,13 +671,10 @@ Livre de Sorts Animés
 Comme vous approchez de la Nuée Mystique votre corps se recharge en énergie. Le nombre de vos Points de Magie vient d'être doublé.
 "Le palefrenier approche avec un superbe cheval entraîné pour la guerre. ""Ce coursier vous aidera à vous déplacer plus rapidement. Hélas, son endurance est déclinante à cause de votre équipement, et vous devrez changer de monture chaque début de semaine."""
 Vous étudiez les hiéroglyphes gravés sur le Mur du Savoir afin de mieux comprendre les mystères des différentes magies. (+1 en Savoir)
-L'Ordre du Feu vous enseigne une nouvelle méthode pour concentrer vos pouvoirs magiques.
-(+1 en Magie)
-Une visite à l'Académie Militaire vous permet d'acquérir de nouvelles compétences.
-(+1000 points Experience)
+L'Ordre du Feu vous enseigne une nouvelle méthode pour concentrer vos pouvoirs magiques. (+1 en Magie)
+Une visite à l'Académie Militaire vous permet d'acquérir de nouvelles compétences. (+1000 points Experience)
 Le temps passé au Valhalla vous permet d'apprendre des techniques de combat plus efficaces. (+1 en Attaque)
-"Vous vous enfermez dans la Cage des Privations avec quelques guerriers de valeurs qui vous apprennent à mieux résister à la douleur.
-(+1 en Défense)"
+"Vous vous enfermez dans la Cage des Privations avec quelques guerriers de valeurs qui vous apprennent à mieux résister à la douleur. (+1 en Défense)"
 %s a construit : %s.
 %d %s supplémentaires recrutables dans la ville de %s.
 Croissance par semaine des %s.
@@ -850,9 +843,7 @@ Pour jouer à Heroes III: %s, insérez le CD de l'extension.
 
 Pour rejoindre une partie multijoueur hébergée par un autre joueur, vous n'avez pas besoin du CD et vous pouvez continuer. 
 
-Si vous désirez jouer seul, quittez cette application et insérez le CD de
-
- %s, avant de relancer %s."
+Si vous désirez jouer seul, quittez cette application et insérez le CD de %s, avant de relancer %s."
 L'hôte génère une carte aléatoire...
 Sort annulé
 Vous possédez tous les éléments nécessaires à l'assemblage de l'artéfact suivant : %s. Souhaitez-vous assembler cet artéfact ?

@@ -2,6 +2,7 @@
 Basic;Novice
 Advanced;Disciple
 Expert;Maître
+Sleepkeeper;Gardien du Sommeil
 Poison;Poison Paralysant
 Bind;Enchevêtrement
 Disease;Contagion
@@ -29,6 +30,7 @@ hex;hexagone
 unit;troupe
 Gryphonheart;Gryphonheart
 Warlock;Démoniste
+Lodestar;Étoile Polaire
 Cornucopia;Manne Céleste
 Horn of the Abyss;Corne des Abysses
 Treasure Artifact;Artéfact Précieux
@@ -70,6 +72,10 @@ Keymaster's Tent;Tente du Maître des Clefs
 Border Gate;Poste Frontière
 Border Guard;Garde
 Under the Jolly Roger;Sous le Pavillon du Jolly Roger
+Frontier;Frontière
+Heart of Water;Au cœur de l'eau
+Horn of the Abyss;Corne des Abysses
+All hands on board!;Tout le monde sur le pont !
 Terror of the Seas;Terreur des Mers
 The Shores of Hell;Les Rivages de l'Enfer
 The Freedom of the Nix;La liberté du Nix

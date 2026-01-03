@@ -1,0 +1,19 @@
+Head
+Shoulders
+Neck
+Right Hand
+Left Hand
+Torso
+Right Ring
+Left Ring
+Feet
+Misc 1
+Misc 2
+Misc 3
+Misc 4
+War Machine 1
+War Machine 2
+War Machine 3
+War Machine 4
+Spell Book
+Misc 5

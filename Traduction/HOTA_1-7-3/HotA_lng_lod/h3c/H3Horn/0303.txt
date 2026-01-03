@@ -1,0 +1,118 @@
+===== Map name =====
+Horn of the Abyss
+
+===== Map description =====
+Bidley, Jeremy and Tark must defeat Casmetra before she activates the Horn of the Abyss. If Jeremy, Bidley or Tark are defeated in battle, the scenario will be lost. The hero level cap is 24. Bidley, Jeremy and Tark will proceed to the last scenario.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Day 1-1
+Message:
+Jeremy entered the Black Mark, quickly glanced around, sprawled his hands and let out a jolly wail, “Brother!”		Before he could do anything, Bidley found himself on the receiving end of a bear-like hug. 	“Jeremy! Thunderation! Where have you been? I was just about to go searching for you.	“The Lodestar showed me the way”, answered Jeremy blissfully, letting his brother go. 	“What star?”, frowned Bidley.	“Never you mind. It’s already faded. The places I’ve been to! Cannibal tribes, slave merchants, and all that corn..."	"Lucky you! And I’ve made a trip to the Plane of Water.” 	“What were you up to there?” Jeremy asked suspiciously. “Mostly swimming,” Bidley answered coolly. 		The pirates sat down at the table and traded tales of their adventures for a while, before arriving at the topic of getting coerced into this entire debacle.	“Casmetra”, sighed Bidley, “the witch. She deceived us. She even betrayed her mercenary. Was it… Dargen?” 	“Or Dagrem,” his brother shrugged, “whatever. Jeremy Albatross never forgets a slight! Casmetra will pay for her doings.” 	“Oh really!”, smiled Bidley and sipped some wine, “I thought you were so cute together.” 	“Yes... but what could I do?!” Jeremy made a helpless gesture. “I’ve always been susceptible to beauty and feminine charm! I’m not as square as my brother who is neither interested in women, nor in men nor in mermaids. Ever thought about a career in the Temple of Sun?” “I will surely consider it... once I've strangled Casmetra with my own hands,” Bidley replied coolly. 	“You know what’s the most curious thing about this situation?” Jeremy suddenly inquired in a serious tone, shrugging off the mockery. “She is not even hiding. This witch announced to all of Regna that she now has the Horn of the Abyss. I think Dread Pirate Stanley himself is hiding in his mansion pretending nothing special happened. I managed to collect some information...” 	“They are afraid of her,” Bidley nodded. “The whole goddamned Empire of the Endless Ocean lays low as a bunch of bilge rats, waiting for what comes next. I don’t know why she wanted the Horn so bad, but now we must take it from her. Not only because it’s min… ours, but also because I don’t like what’s going on!"
+
+Name:
+Day 1-2
+Message:
+Indeed, Casmetra was not ever trying to hide; every drunken sailor in Regna knew she stayed at her residence with the Horn of the Abyss. Tark, an old friend of Bidley and Jeremy’s, was already spying on her. From the very moment Dagrem’s castle cracked open, the nix believed that the pirates would come back some day for revenge. And he was right about it. 		The problem? Casmetra’s island was guarded by hordes of thugs in her service. There were at least four castles; but the witch's exact location was unknown. Bidley, Jeremy and Tark disembarked in different parts of the isle, set up camps and were preparing to assault the lands of the mighty sorceress. 
+
+Name:
+AI stuff
+Message:
+
+
+Name:
+Day 2
+Message:
+One of Tark’s scouts came back with some information. There is a rumour that Casmetra not only possesses the Horn of the Abyss but also is trying to do something with it, reportedly some manner of a ritual. If that much is true, you must stop her before she succeeds; nobody knows what she is doing, for what reason, and to what possible effect. 
+
+Name:
+Day 5
+Message:
+“Yo, brother, chin up! Soon enough, we’ll get a hold of the witch, and she’ll pay for everything!” Jeremy said cheerfully.	“Only if we get to her before it's too late,” Bidley frowned. “I have a bad feeling about her. She knows something about the Horn that we don’t.”	“We’ll hire a necromancer to interrogate her corpse!” the younger pirate roared with laughter and fired his pistol in the air, just to channel some of his youthful energy away. 
+
+Name:
+Day 7
+Message:
+Another scout came back. He found out about a secret cavern beneath the isle. You should probably look for Casmetra there; just need to find a way to get in there.
+
+Name:
+Day 12
+Message:
+It has been a strange day. The sea got very choppy, before suddenly going all calm. It might have been a purely natural phenomenon; still, most of the men under Bidley and Jeremy's command believe the witch and her magicks are to blame. 
+
+Name:
+Day 30
+Message:
+It seems that the bad feelings were justified! Hundreds watched the sea tremble and heard it groan, as if it'd decided to jump off its bed before changing its mind.	“Curses!” swore Bidley, “we’d better hurry. I have no idea what Casmetra is up to. Maybe she wants to destroy the Horn, or save the world, or make herself a new broom to ride… but the Horn must be taken off her hands as soon as possible! I don’t like these developments at all.”	“Me neither,” nodded a pallid Jeremy. “What if she wants to awake the Sleeper?” “Who?” the older pirate asked in surprise.	“It all makes sense! To awake Him, you've got to blow the Horn”, Jeremy whispered to himself. Then he looked at his brother and continued, “There’s a legend about an ancient god who slumbers on the seabed...” “Oh, as if things weren't enough of a mess without an old sailor’s scary story on the side,” Bidley brushed him off and went to tend to his affairs.
+
+Name:
+Day 56
+Message:
+Today, something odd happened again. Everybody heard a noise coming from the depths of the ocean; it resembled a moan. Time is running out.  
+
+Name:
+Day 66
+Message:
+Jeremy seems to have goten lost in his theory of a god sleeping on the seabed. He dug up tractates by the ancient mage Joycraft, studied them and arrived at a conclusion that Casmetra is a member of an ominous cult that serves the Sleeper.
+
+Name:
+Day 84
+Message:
+It's been overcast and raining hard for two days. There a storm on the sea; it isn't too devastating, but it doesn't look like it's going to subside anytime soon. No doubt it is the doing of Casmetra: as the days grow longer, the storms get stronger.
+
+===== Heroes =====
+
+===== Objects =====
+
+(50, 35, 0) ***Cove***
+Name:
+Aronhem
+
+(37, 6, 0) ***Cove***
+Name:
+Downwich
+
+(40, 69, 0) ***Sign***
+Message:
+You are entering the lands of Casmetra
+
+(6, 27, 0) ***Event***
+Message:
+Ambush!
+
+(8, 19, 0) ***Event***
+Message:
+The air in this place is very dusty and dry. It is hard to breathe. Your soldiers cover their faces with scarves.  
+
+(73, 27, 0) ***Sign***
+Message:
+Welcome to Abon Abbey!
+
+(38, 15, 0) ***Event***
+Message:
+Among other troops, a group of Nix manned the garrisson walls. Everybody knew by now that they'd become mercenaries, ending up in the service of various Regnan captains upon their liberation from Nighon. And now they were about to fight their own kin. 	Tark, the liberator and ruler of Nix, wanted to bring everybody to reason and urged his kinsmen to join his cause. 	“Brothers, stand by me, like in the olden days! Trouble will befall one who rises against his blood. I don’t want that.” 	One of the Nix in the garrison, apparently their leader, replied: 	“How is the captain whose boot you are licking today better than any other? You betrayed your people, Tark! You deprived us of unity, forcing to join the pirates. I'm not going to kill you for gold. I'll do it because you're a foe! 	These turned out to be the last words of this Nix. Presently, a cannonball swept him from the wall.
+
+(38, 13, 0) ***Event***
+Message:
+After the battle, the pirate army took a short breather. Jeremy grabbed a small bag in case there was something of value to loot off the fallen. A bottle of Tobersk brandy from Dagger Wound Islands, too, in order to make the dragging affair less dragging. 	Roaming from corpse to corpse, he spotted Tark nearby. The warrior leaned over each fallen Nix, putting his hand to their chests and saying something barely audible. 	“What are you doing, Tark?” Jeremy chuckled, coming closer. 	“I send them off to their last journey, by our old custom. So did our ancestors, back in the days when the Nixaar Empire was still around.” 	“Nixaar? Never heard of that.” 	“When the world was engulfed in the chaos of the Silence, we dove into the Endless Ocean, and there we built our Empire. We were prospering, until Tritons from the Plane of Water came to attack. The nation was divided. Some died, some fought. And those who survived became slaves to the Overlords. Who was once a slave never forgets what it is like… I fought for the freedom of my people, for them to come back to life and prosperity. And now I'm burying them, killed in a new war.” 	“We are all going to die someday. But nothing goes without a trace, I believe. Our deeds will live on forever!" Jeremy said, smiling. 	“Your brother, Bidley, craves power more than anything else. And what do you wish for, Jeremy Albatross?” Tark asked suddenly. 	Failing to offer an answer, Jeremy took a gulp of brandy and went on, but he left the bag behind.
+
+(74, 15, 0) ***Event***
+Message:
+Seeing Tark's troops approach, the enemy Nix got up hissing and shouting "No mercy!". All the garrisoned guard were set to launch an attack.
+
+(74, 13, 0) ***Event***
+Message:
+"Again we become kinslayers", sighed Tark at the sight of the fallen. He grabbed a spade and started digging a grave. Other Nix followed suit.
+
+(60, 19, 1) ***Sign***
+Message:
+Ritual room
+
+(59, 10, 1) ***Event***
+Message:
+You seem to be heading the right way. Casmetra is hiding just about here. 
+
+===== End of file =====
