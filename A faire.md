@@ -95,12 +95,12 @@
   	* mission 6
   	* mission 7
   	* mission 8
-* H5AllIn.h3c
-	* Mission 1
-	* Mission 2
-	* mission 3
-  	* mission 4
-  	* mission 5
+* ~~H5AllIn.h3c~~
+	* ~~Mission 1~~
+	* ~~Mission 2~~
+	* ~~mission 3~~
+    * ~~mission 4~~
+    * ~~mission 5~~
 
 * Une fois la traduction finie, repasser dans Hota.txt pour modifier le nom des campagnes des lignes 17248 à 17699
 

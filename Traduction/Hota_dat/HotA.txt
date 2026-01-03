@@ -5554,7 +5554,7 @@ Permet de lancer tous les sorts de rang 5. (Emplacement : Tête)""
 
 5
 125
-""chaînes de Gladiateur
+""Chaînes de Gladiateur
 Type : Majeur
 Interdit aux Héros de battre en retraite ou de se rendre pendant un combat. (Emplacement : Divers)""
 
