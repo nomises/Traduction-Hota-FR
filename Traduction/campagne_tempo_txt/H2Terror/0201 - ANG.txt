@@ -1,0 +1,100 @@
+===== Map name =====
+Prisoner of Doom
+
+===== Map description =====
+Bidley must capture the town of Zargand in order to save the barbarians' prisoner. If Bidley is defeated in combat, the scenario will be lost. The hero level cap is 12. After victory, Bidley will proceed to the next scenario of the campaign.
+
+===== Rumors =====
+
+Name:
+Beer
+Text:
+They say that Erathian landlords water down the beer in their taverns.
+
+Name:
+Kilgor
+Text:
+Kilgor misses an eye; it was ripped out by a behemoth.
+
+Name:
+Demons
+Text:
+Eeofol's army is preparing to attack Erathia!
+
+===== Timed events =====
+
+Name:
+Day 1
+Message:
+Bidley disdained the shores of Krewlod—what with the stench of orcs' and goblins' unwashed bodies, their mumbo-jumbo tongue, their complete lack of culture, and their preference for brute force as the solution to any problem. He himself preferred the songs of Erathian bards, the artwork of elven masters, and the fine wines of Jadame. He had all of that back at home in Regna—contrary to the common prejudice which took pirates to be nearly barbarians. It is true that there are plenty of low-brow types among the young and the foolish, who would be easily accepted in a company of Krewlod bruisers. However, there are also plenty of intelligent, refined gentlemen among the captains and admirals.	Bidley left the Shark Chowder Inn, musing. If that drunkard was right and the barbarians had truly captured a powerful wizard, then the sorcerers of Bracada would be very happy, should he be rescued. And this would mean that, on top of a generous reward, the pirates could also earn the right to pillage ships near the shores of Bracada—so long as they left alone the wizards' own shipments, of course. It was worth a shot.	The barbarians were just through with their Festival of Life. As a Regnan native, Bidley could never really get the gist of this celebration. Anyway, Duke Boragus was dead, and an even crueler and shrewder young barbarian lord, Kilgor, was taking his place. Krewlod was always balancing on the edge of anarchy, but right now it was closer than usual. Bidley's fleet was far away, but he didn't have much need of it. Instead, he would gather some bold local fellows, capture one of the nearby Krewlodian forts, and assault Zargand from there. The motley tribes were fine with cutting each other down for no reason at all; for a few coins, they'd be happy to pounce at whoever he told them to.	Bidley stopped a passerby, clearly a local.	“Hey fella, pray tell, where's the closest Krewlod army fort?”	“Straight north by the road,” answered the stranger laconically as he continued on his way.
+
+Name:
+Day 4
+Message:
+All in all, Bidley thought, he needed to hurry up. Sooner or later the news of their doings would reach the local lords' hairy ears, and they would attempt to roust their unwelcome guests out of the area. Now, swift and determined action would force those lords to surrender and to assist him in besieging Zargand. Of course, once Kilgor's henchmen arrived, anyone who'd helped him would be executed—but if these barbarians are so unscrupulous, they're bound to pay for it sooner or later anyways.
+
+Name:
+Day 8
+Message:
+Scouts report that Krewlod's army holds multiple forts. One is located to the southwest, and the other to the northeast. The magical prison is in the northwest, but it would be foolish to approach it without a powerful army. One should also remember that this prison negates all magic.
+
+Name:
+Day 11
+Message:
+Bidley had a strange dream last night. He dreamed that he was swimming across the sea, and could see through the water as clearly and distinctly as if he was looking over the horizon. He could also breathe underwater. What could this mean? Were these his nostalgic memories of the seas? Or was it merely a dream?
+
+Name:
+Day 18
+Message:
+A crewman ran to find Bidley in the morning, handing him a letter that had arrived late last night. The pirate was quite surprised—who would even hink of sending him a letter? However, after unwrapping the parchment, he recognized the handwriting. The message was as succinct as they come:	 “I have some problems. Your dear brother J.”	
+
+===== Heroes =====
+
+===== Objects =====
+
+(3, 5, 0) ***Stronghold***
+Name:
+Zargand
+
+(67, 37, 0) ***Seer's Hut***
+Message:
+A priest lives here. He tells you about a pack of troublesome mummies. He doesn't have the strength to expel them himself, so he asks you to destroy the foul creatures.
+Mummies are lurking to the east of the priest's house. Kill them and return.
+The priest is grateful to be rid of the undead. He promises to share his knowledge with you.
+
+(45, 36, 0) ***Event***
+Message:
+Bidley notices the traces of numerous wagons: the fort must be close. The only thing left is to catch the guards by surprise.
+
+(54, 14, 0) ***Seer's Hut***
+Message:
+A band of corsairs is hiding here. Their leader was put to the sword by Jabarkas, son of the late Duke Boragus. These days, Jabarkas has tantrum after tantrum because of his father's death. The corsairs would like to join a new cause, but only once their old leader is avenged.
+Jabarkas is still alive and wandering around somewhere.
+Jabarkas's army was defeated and he has been put to shame; he won't show his face around these parts for a while. Are you ready to accept the corsairs into your army?
+
+(40, 38, 0) ***Seer's Hut***
+Message:
+Two sorceresses live here. They agree to join your host and back you up with spells—for a fee, of course.
+The sorceresses require 5 gems and 2000 gold, no less.
+Excellent! The sorceresses are ready to join your cause.
+
+(42, 28, 0) ***Stronghold***
+
+Timed events:
+
+Name:
+2
+Message:
+
+
+Name:
+3
+Message:
+
+
+Name:
+13
+Message:
+
+
+===== End of file =====

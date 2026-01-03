@@ -1,0 +1,78 @@
+===== Map name =====
+À la rescousse des Nix
+
+===== Map description =====
+Le chef nix, Tark, doit libérer les 30 captifs nix de l'esclavage des seigneurs Nighon. Le scénario sera perdu si Tark est vaincu. Le niveau maximum des héros est de 24. Après la victoire, Tark passera au scénario suivant de la campagne.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Day 1-1
+Message:
+Tandis que Tark observait les pirates charger leur armée et leurs ressources sur leurs navires, il ne pouvait s'empêcher de se préoccuper de son peuple. Ils avaient réussi à cacher leur existence au reste du monde pendant des siècles, mais beaucoup d'entre eux étaient morts ou emprisonnés.	"Tark, veux-tu nous suivre, ou as-tu d'autres projets ? Nous te sommes reconnaissants pour ton aide et celle de ton peuple…" ​​commença Bidley.	"C'est moi qui devrais te remercier", l'interrompit Tark. "Tu m'as montré qu'il y a une vie au-delà de mon royaume. Il ne me reste plus qu'à libérer mon peuple. Je sais où ils sont", poursuivit le chef reptilien.	"Peut-être pourrions-nous t'aider ?" proposa Bidley.	"Non. Vous avez un chemin à parcourir et j'ai ma propre voie à suivre. Je dois sauver mon peuple. Ne présume pas que tous les nix que tu rencontreras te connaîtront ou t'aideront, cependant. Il y a autant de scélérats parmi les nix que parmi les hommes", répondit Tark en se tournant vers la mer.	"Nous reverrons-nous ?" demanda Bidley. "Probablement", répondit le nix. "Si je reviens, je viendrai vous trouver. Sinon… oubliez-moi." Sur ce, Tark s'avança dans l'eau jusqu'à la taille, puis plongea et disparut.
+
+Name:
+Day 1-2
+Message:
+Tark nagea longtemps, mais il finit par atteindre le royaume souterrain des seigneurs démonistes. Une petite colonie de nix, indépendante du petit royaume où régnait Tark, vivait dans ces cavernes sous-marines jusqu'à ce que les démonistes la conquièrent et la réduisent en esclavage. Il était temps de libérer ces nix, et aussi de leur montrer qui était leur véritable dirigeant. Tark était le dernier d'une ancienne lignée de princes nix. Un terrible malheur était arrivé à leur race : suite à une mystérieuse maladie, nombre de leurs œufs se révélaient creux et dépourvus de vie. En conséquence, leur population avait lentement diminué, et le peuple autrefois prospère avait été réduit à une poignée de nix, contrôlant une petite île et ses eaux environnantes. 	Bien qu'à première vue, il apparaissait comme un lent reptile à tous les points de vue, Tark assimila rapidement l'information. Il savait que les seigneurs Nighon étaient en proie à une guerre civile. S’il envahissait leurs terres et prenait le contrôle d’une de leurs villes, dans l'immédiat, ils n’y prêteraient guère attention.
+
+Name:
+Day 8
+Message:
+Tark savait qu'il ne pourrait sauver tout le monde, mais peut-être pourrait-il en aider certains à s'échapper. Ceux qu'il ne parviendrait pas à sauver devront fuir et se débrouiller seuls s'ils veulent survivre. Après avoir interrogé les civils de sa ville nouvellement occupée, Tark apprit que les seigneurs étaient occupés à se battre et ne remarqueraient pas la perte de cette cité. De plus, Tark découvrit que les esclaves nix travaillaient dans les cavernes un niveau plus bas. Les vapeurs fétides qui emplissaient ces tunnels étaient mortelles pour les minotaures, les humains et les troglodytes, mais n'affectaient guère les nix. Les démonistes appréciaient particulièrement leurs esclaves nix pour cette caractéristique.
+
+Name:
+Day 15
+Message:
+Il fait sombre et étouffant dans ces grottes. Tark décida de trouver un nouveau foyer, plus agréable, pour son peuple. Peut-être que ces pirates, grands voyageurs, connaîtraient un endroit tranquille où s'installer, un endroit où les nix pourraient s'installer et restaurer tranquillement leur civilisation sans craindre des envahisseurs. C'est pour cela que Tark décida de rejoindre Bidley et ses disciples dès qu'il aurait libéré ses frères esclaves.
+
+Name:
+Day 18
+Message:
+Tôt ou tard, ces seigneurs mettront fin à leurs querelles et prendront conscience de la perte de leur avant-poste. Il est important de se préparer à leur arrivée et de préparer une contre-attaque dont ils ne pourront se remettre.
+
+===== Heroes =====
+
+===== Objects =====
+
+(52, 33, 0) ***Seer's Hut***
+Message:
+Un nix gît mourant dans un camp éloigné. Il a perdu beaucoup de sang, mais il existe encore un moyen de le sauver.
+Nos efforts pour sauver le nix agonisant restent vains.
+En lui infusant du sang frais, la créature mourante se rétablira et pourra peut-être même tenir une arme.
+
+(12, 57, 0) ***Sign***
+Message:
+Tunnel sud
+
+(28, 28, 0) ***Sign***
+Message:
+Catacombes
+
+(63, 44, 0) ***Minotaur***
+Message:
+"Les lézards se sont échappés ! Abattez-les !"
+
+(58, 48, 0) ***Minotaur King***
+Message:
+"Esclaves en fuite ! À l'attaque !"
+
+(66, 65, 0) ***Event***
+Message:
+"Je n'en crois pas mes yeux ! Vous êtes de famille noble ! "	"Je suis le prince Tark." "Je m'incline devant vous, prince. J'ai échappé aux mines toxiques du niveau inférieur. Lorsque la guerre de Nighon a éclaté, ils ont relâché leur emprise sur leurs esclaves. Mais pourquoi êtes-vous venu, prince Tark ?" 	"Mon devoir est de libérer le plus grand nombre possible de nos semblables."	"Alors permettez-moi de vous rejoindre. Je suis un vétéran, et je possède cette armure que j'ai prise à un minotaure tué. Je suis prêt à donner ma vie pour aider notre peuple", dit le guerrier en s'agenouillant.
+
+(47, 38, 0) ***Archer***
+Message:
+"Nous sommes perdus dans ces grottes maudites, et comme si cela ne suffisait pas, nous devons maintenant nous occuper de ces monstres ! "
+
+(43, 35, 1) ***Ocean Bottle***
+Message:
+Par {F a t a l i s t}
+
+(35, 27, 1) ***Sign***
+Message:
+Attention ! Mines toxiques à proximité. Une exposition prolongée est dangereuse.
+
+===== End of file =====

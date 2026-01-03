@@ -13,13 +13,13 @@
 * ~~xtrainfo.txt~~
 
 ### Vérifier
-* advevent.txt
+* ~~advevent.txt~~
 * ~~ARRAYTXT.txt~~
 * ~~artevent.txt~~
-* artraits.txt
+* ~~artraits.txt~~
 * ~~ArtSlots.txt~~
 * ~~BldgNeut.txt~~
-* BldgSpec.txt
+* ~~BldgSpec.txt~~
 * ~~CAMPBTTN.TXT~~
 * ~~CAMPDIAG.TXT~~
 * ~~CAMPHIGH.TXT~~
@@ -36,10 +36,10 @@
 * ~~EDITOR.TXT~~
 * ~~EDITRCMD.TXT~~
 * ~~Garrison.txt~~
-* GENRLTXT.TXT
+* ~~GENRLTXT.TXT~~
 * ~~HallInfo.txt~~
 * ~~HCTRAITS.TXT~~
-* Help.txt
+* ~~Help.txt~~
 * ~~HeroBios.txt~~
 * ~~HeroScrn.txt~~
 * HeroSpec.txt
@@ -54,10 +54,10 @@
 * ~~PlColors.txt~~
 * ~~PriSkill.txt~~
 * ~~randsign.txt~~
-* randtvrn.txt
+* ~~randtvrn.txt~~
 * ~~regions.txt~~
 * ~~RESTYPES.TXT~~
-* SeerHut.txt
+* ~~SeerHut.txt~~
 * ~~SkillLev.txt~~
 * ~~TCommand.txt~~
 * ~~TERRNAME.txt~~
@@ -70,37 +70,37 @@
 
 ## h3c (campagne)
 ### Traduire
-* H1Roger.h3c
-	* Mission 1
-	* Mission 2
-	* mission 3
-* H2Terror.h3c
-	* Mission 1
-	* Mission 2
-	* mission 3
-    * mission 4
-    * mission 5
-    * mission 6
+* ~~H1Roger.h3c~~
+	* ~~Mission 1~~
+	* ~~Mission 2~~
+	* ~~Mission 3~~
+* ~~H2Terror.h3c~~
+	* ~~Mission 1~~
+	* ~~Mission 2~~
+	* ~~mission 3~~
+  * ~~mission 4~~
+  * ~~mission 5~~
+  * ~~mission 6~~
 * ~~H3Horn.h3c~~
 	* ~~Mission 1~~
 	* ~~Mission 2~~
 	* ~~mission 3~~
-    * ~~mission 4~~
+  * ~~mission 4~~
 * H4Fact.h3c
 	* Mission 1
 	* Mission 2
 	* mission 3
-    * mission 4
-    * mission 5
-    * mission 6
-    * mission 7
-    * mission 8
+  * mission 4
+  * mission 5
+  * mission 6
+  * mission 7
+  * mission 8
 * H5AllIn.h3c
 	* Mission 1
 	* Mission 2
 	* mission 3
-    * mission 4
-    * mission 5
+  * mission 4
+  * mission 5
 
 * Une fois la traduction finie, repasser dans Hota.txt pour modifier le nom des campagnes des lignes 17248 à 17699
 
@@ -191,6 +191,28 @@
 * Ville'de'Porte.txt
 * When Seas Were Deeper.txt
 * With Sword and Fire.txt
+
+### Crédit
+* HotA_lng.lod/CREDITS.TXT
+
+
+# Fichier a traduire (1.8.0)
+
+## Hota.dat
+### Traduire
+* HotA.txt
+
+## HotA_lng.lod
+### Traduire
+* artraits.txt
+* CAMPBTTN.TXT
+* CREDITS.TXT
+* EDITRCMD.TXT
+* GENRLTXT.TXT
+* HCTRAITS.TXT
+* SeerHut.txt
+* SPTRAITS.TXT
+* SSTRAITS.TXT
 
 ### Crédit
 * HotA_lng.lod/CREDITS.TXT
