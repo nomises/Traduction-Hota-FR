@@ -1,8 +1,8 @@
 ===== Map name =====
-Chasing the Dream
+À la Poursuite d'un Rêve
 
 ===== Map description =====
-Dargem must find the entrance to the dungeon where the Horn of the Abyss lies and defeat the Guardian within 3 months. To get there, he will have to eliminate Boyd. The hero's level is unlimited.
+Dargem doit trouver l'entrée du donjon où se trouve la Corne des Abysses et vaincre le Gardien dans un délai de 3 mois. Pour y parvenir, il devra éliminer Boyd. Le niveau du héros est illimité.
 
 ===== Rumors =====
 
@@ -11,57 +11,57 @@ Dargem must find the entrance to the dungeon where the Horn of the Abyss lies an
 Name:
 01
 Message:
-Dargem's diary. Entry 301		"We had a long journey ahead of us. I would never have imagined a nameless archipelago off the coast of Tatalia to be the location of a legendary artifact—but when I finally met her in her tower, Lady Casmetra stated with full confidence that it should be out there. She gave me all the instructions I might need and promised to keep an eye on my progress.		At first, I suspected Casmetra of plotting against me... however, the swampy shores of Tatalia on the horizon suggested that my employer was going to distract the lizardmen so that I could complete my mission unhindered. I shared my thoughts with Casmetra; she just smiled and assured me that my takeaway was absolutely correct."
+Journal de Dargem. Entrée 301        « Un long voyage nous attendait. Je n'aurais jamais imaginé qu'un archipel sans nom au large des côtes de Tatalia abritait un artefact légendaire, mais lorsque je l'ai enfin rencontrée dans sa tour, Dame Casmetra m'a affirmé avec certitude qu'il devait s'y trouver. Elle m'a donné toutes les instructions nécessaires et m'a promis de suivre mes progrès.		Au début, je soupçonnais Casmetra de comploter contre moi... Cependant, les côtes marécageuses de Tatalia à l'horizon suggéraient que mon employeur allait distraire les hommes-lézards afin que je puisse accomplir ma mission sans encombre. J'ai fait part de mes réflexions à Casmetra ; elle s'est contentée de sourire et m'a assuré que mon interprétation était tout à fait correcte. »
 
 Name:
 01-02
 Message:
-Dargem's diary. Entry 302		"Our paths diverged: the sorceress' fleet sailed for the coast of Tatalia, while my own ships headed towards a mysterious archipelago I had never seen on any map. It must have been deliberately kept a secret from prying eyes, and therefore I reckon that information about it was somehow removed from the cartographers' archives—but I cannot even begin to imagine who could possess sufficient means. Suddenly, I felt a gust of icy wind... it was as if a storm had gathered within a split second!		We had a rough time, but the situation remained under control. We were, however, forced to boxhaul, and that maneuver took us far away from the other two ships with my men. Our own ship had taken heavy damage, so we had to immediately moor at the first island we sailed by. What a shame! I can only hope that our other parties will land here as well, and we will be able to join forces.		I went down to the sandy beach at the head of a small group of mercenaries and looked bitterly at the ship. It's going to need extensive repairs! I didn't want to think about it now, though. Burning with impatience, I was about to unravel the scroll Casmetra had given me, instructing me to only read it after getting close to the target. The yellowed parchment bore a map of the dungeon that apparently contained the Horn of the Abyss. By the looks of it, the map had been charted a very long time ago. We took a great deal of papers and scrolls from the necromancers' library, but I couldn't remember this one. However, back then, I didn't really have time to study the loot in earnest. I was confused by the fact that the map bore hardly any markings, except for a couple of obscure icons with captions: 'The Horn should be here' and 'Guardian!!!' Some magic words were also written here; they were supposed to be uttered in order to dispel some illusions. Unfortunately, the illusions weren't marked on the map either—I had to take my chances.		I tucked the map into my belt and sighed. We will have to defeat the Guardian. This will be the first step in... in MY quest for the Horn of the Abyss!"
+Journal de Dargem. Entrée 302        « Nos chemins se sont séparés : la flotte de la sorcière a mis le cap sur les côtes de Tatalia, tandis que mes propres navires se sont dirigés vers un archipel mystérieux que je n'avais jamais vu sur aucune carte. Il devait être délibérément tenu secret, et je suppose donc que les informations le concernant ont été supprimées des archives des cartographes, mais je ne peux même pas imaginer qui pourrait disposer des moyens nécessaires pour cela. Soudain, j'ai senti un vent glacial... comme si une tempête s'était levée en une fraction de seconde !        Nous avons traversé une période difficile, mais la situation est restée sous contrôle. Nous avons toutefois été contraints de virer de bord, ce qui nous a éloignés des deux autres navires transportant mes hommes. Notre navire avait subi de lourds dommages, nous avons donc dû immédiatement accoster sur la première île que nous avons croisée. Quel dommage ! J'espère seulement que les autres groupes débarqueront ici aussi et que nous pourrons unir nos forces.		Je descendis sur la plage de sable à la tête d'un petit groupe de mercenaires et regardai le navire avec amertume. Il allait falloir le réparer de fond en comble ! Mais je ne voulais pas y penser pour l'instant. Brûlant d'impatience, j'étais sur le point de dérouler le parchemin que Casmetra m'avait donné, me recommandant de ne le lire qu'une fois arrivé près de la cible. Le parchemin jauni contenait une carte du donjon qui semblait abriter la Corne des Abysses. À première vue, cette carte avait été dessinée il y a très longtemps. Nous avions pris beaucoup de papiers et de parchemins dans la bibliothèque des nécromanciens, mais je ne me souvenais pas de celui-ci. Cependant, à l'époque, je n'avais pas vraiment eu le temps d'étudier sérieusement le butin. J'étais perplexe devant le fait que la carte ne comportait pratiquement aucune annotation, à l'exception de quelques icônes obscures accompagnées des légendes suivantes : « La Corne devrait se trouver ici » et « Gardien !!! ». Quelques mots magiques y étaient également inscrits ; ils étaient censés être prononcés afin de dissiper certaines illusions. Malheureusement, les illusions n'étaient pas non plus indiquées sur la carte — je devais tenter ma chance.		Je glissai la carte dans ma ceinture et soupirai. Nous devrons vaincre le Gardien. Ce sera la première étape de... de MA quête de la Corne des Abysses !
 
 Name:
 05
 Message:
-Dargem's diary. Entry 303		"Casmetra and her witches promised that they would be able to distract the Tatalians from my endeavors, but that's unlikely to last longer than three months. My employer's powers aren't limitless, although I must admit that she made quite the first impression on me... Well, what can you expect from a craven sorceress from Noraston? That she would pull an army of elves and unicorns out of her pocket? I mean... I was tormented for a while by doubts about her identity, but at this point, it doesn't matter at all.		I wish I could have persuaded Gunnar to stay with us, but the horned hulk was too scared to displease his Nighonian masters. The Minotaur and his goons would be of great help now that I have to defeat the Guardian, whoever it is.		It must be said that not a single thing I'm to do here is straightforward! As Casmetra stated, to get to the Guardian, one has to find the keys. And what might they be? I don't know. The only thing we know for a fact is that the keys are somewhere in this archipelago as well. Time to get off the island and start searching."
+Journal de Dargem. Entrée 303        « Casmetra et ses sorcières ont promis qu'elles seraient capables de détourner l'attention des Tataliens de mes efforts, mais cela ne devrait pas durer plus de trois mois. Les pouvoirs de mon employeuse ne sont pas illimités, même si je dois admettre qu'elle m'a fait forte impression... Mais que peut-on attendre d'une sorcière lâche de Noraston ? Qu'elle sorte une armée d'elfes et de Licornes de sa poche ? Je veux dire... J'ai longtemps été tourmenté par des doutes quant à son identité, mais à ce stade, cela n'a plus aucune importance. J'aurais aimé pouvoir persuader Gunnar de rester avec nous, mais le colosse à cornes avait trop peur de déplaire à ses maîtres nighoniens. Le Minotaure et ses sbires me seraient d'une grande aide maintenant que je dois vaincre le Gardien, quel qu'il soit.		Il faut dire que rien de ce que j'ai à faire ici n'est simple ! Comme l'a dit Casmetra, pour atteindre le Gardien, il faut trouver les clés. Et quelles sont-elles ? Je n'en sais rien. La seule chose dont nous sommes sûrs, c'est que les clés se trouvent également quelque part dans cet archipel. Il est temps de quitter l'île et de commencer les recherches.
 
 Name:
 08
 Message:
-Dargem's diary. Entry 304		"I had a thought: it's worth being thrifty with magic here. I need to shake the habit of unleashing powerful spells for the slightest reason, as I always used to do. I don't know when or where I'll be able to find a source to replenish my magic reserves—and if I'm caught with them low at a bad moment, my expedition will end much sooner than I'd like."
+Journal de Dargem. Entrée 304		« J'ai eu une idée : ici, il vaut mieux être économe en magie. Je dois me défaire de l'habitude de lancer des sorts puissants pour un rien, comme je le faisais auparavant. Je ne sais pas quand ni où je pourrai trouver une source pour reconstituer mes réserves de magie, et si je me retrouve à court au mauvais moment, mon expédition prendra fin bien plus tôt que je ne le souhaiterais. »
 
 Name:
 09
 Message:
-Dargem's diary. Entry 306		"I've spent the longest time thinking about who the Guardian could be. Then, the answer came to me, like a revelation. That is undoubtedly an Azure Dragon. Maybe even more than one. Sometimes, these creatures are also called 'ice dragons', although they have little in common with ice, or with any other element. They are astoundingly huge, ferocious, and ancient. No one really knows if they came to be naturally, or if they were the work of some forerunner of Agar from before the Silence. Unlike the innately docile, or at least controllable, creatures that warlocks create with magic and alchemy, Azure Dragons are exceptionally intelligent and willful. Fortunately, they are quite rare, and besides, some knights and mages consider it their duty to slay one, just to put a feather in their hat. Here's a good time to point out that the hunters killed in these endeavors greatly outnumber the actual slain dragons—but there is never a shortage of new madmen. The reputation gained by these Azure Dragons is thus peculiar, so they prefer to settle in places forgotten by the gods; sometimes, without meaning to, they also become guardians of ancient artifacts and other valuable things, just by way of making themselves a lair near one. If you manage to come across a dungeon where no human has set foot in a couple of centuries, then there almost certainly is a monster of that kind waiting for you inside."
+Journal de Dargem. Entrée 306		« J'ai longuement réfléchi à l'identité du Gardien. Puis, la réponse m'est venue, comme une révélation. Il s'agit sans aucun doute d'un Dragon Azur. Peut-être même plusieurs. Ces créatures sont parfois appelées « dragons de glace », bien qu'elles n'aient que peu de points communs avec la glace ou tout autre élément. Elles sont incroyablement gigantesques, féroces et anciennes. Personne ne sait vraiment s'ils sont apparus naturellement ou s'ils sont l'œuvre d'un précurseur d'Agar datant d'avant le Silence. Contrairement aux créatures dociles, ou du moins contrôlables, que les Démonistes créent à l'aide de magie et d'alchimie, les Dragons Azur sont exceptionnellement intelligents et volontaires. Heureusement, ils sont assez rares, et de plus, certains Chevaliers et Mages considèrent qu'il est de leur devoir d'en tuer un, juste pour se faire mousser. Il convient de souligner ici que les chasseurs tués dans ces entreprises sont bien plus nombreux que les dragons réellement abattus, mais les nouveaux fous ne manquent jamais. La réputation acquise par ces Dragons Azur est donc particulière, et ils préfèrent s'installer dans des endroits oubliés des dieux ; parfois, sans le vouloir, ils deviennent également les gardiens d'artefacts anciens et d'autres objets de valeur, simplement en s'installant à proximité. Si vous parvenez à trouver un donjon où aucun humain n'a mis les pieds depuis plusieurs siècles, il y a presque certainement un monstre de ce genre qui vous attend à l'intérieur. »
 
 Name:
 15
 Message:
-Dargem's diary. Entry 310		"A message came from this... Casmetra. She sparingly describes her first encounter with the Tatalians and reproaches me for progressing slowly. I'm only mildly annoyed by her grievances. Very soon, everyone will be talking about Dargem; I will be lauded on par with some of the most famous mages and collectors of our time. Does the foolish broad really hope I'll just yield the Horn to her?"
+Journal de Dargem. Entrée 310        « Un message est arrivé de... Casmetra. Elle décrit succinctement sa première rencontre avec les Tataliens et me reproche de progresser lentement. Ses griefs ne m'agacent que modérément. Très bientôt, tout le monde parlera de Dargem ; je serai loué au même titre que certains des mages et collectionneurs les plus célèbres de notre époque. Cette idiote espère-t-elle vraiment que je lui cède la Corne ? »
 
 Name:
 22
 Message:
-Dargem's diary. Entry 312		"I saw flashes of lightning on the horizon. This isn't just a distant storm—these are traces of a magical battle. Most likely, Casmetra has come to blows with the Tatalians again. It warms my heart to know she's toiling in vain, and it's a special pleasure to imagine her face contorted with anger, but that's no reason to be tardy. It's time to resolutely muster our strength and fight our way into the dungeon."
+Journal de Dargem. Entrée 312        « J'ai vu des éclairs à l'horizon. Ce n'est pas seulement un orage lointain, ce sont les traces d'une bataille magique. Casmetra s'est probablement encore battue avec les Tataliens. Cela me réchauffe le cœur de savoir qu'elle se donne tant de mal pour rien, et j'éprouve un plaisir particulier à imaginer son visage déformé par la colère, mais ce n'est pas une raison pour tarder. Il est temps de rassembler nos forces et de nous frayer un chemin jusqu'au donjon. »
 
 Name:
 30
 Message:
-Dargem's diary. Entry 320		"The locals at the archipelago confuse me. From what I've seen and heard, counting the fools who come after the Horn of the Abyss seems to be a source of amusement here. I was even told that bets are being placed. Isn't that odd? I've worked my tail off to get information about this place! It felt like very few people should even know of it! So what was that all about? I spent months stomping around stinking, deadly holes... just so some pompous wench could make sure I was as good as my reputation? Maybe Casmetra had even sent someone here before and withheld the critical information of my predecessors' fates from me! Now that she's got me involved, it's not hard to imagine how things went for them... Doesn't matter anymore. Dargem Llywellyn will prove his worth. Even if the witch seeks to swindle me, I will definitely outsmart her."
+Journal de Dargem. Entrée 320        « Les habitants de l'archipel me déconcertent. D'après ce que j'ai vu et entendu, compter les imbéciles qui viennent chercher la Corne des Abysses semble être une source d'amusement ici. On m'a même dit que des paris étaient pris. N'est-ce pas étrange ? Je me suis tué à la tâche pour obtenir des informations sur cet endroit ! J'avais l'impression que très peu de gens devaient même en connaître l'existence ! Alors, qu'est-ce que tout cela signifiait ? J'ai passé des mois à fouiller des trous puants et mortels... juste pour qu'une gamine prétentieuse puisse s'assurer que j'étais à la hauteur de ma réputation ? Peut-être que Casmetra avait déjà envoyé quelqu'un ici avant moi et m'avait caché des informations cruciales sur le sort de mes prédécesseurs ! Maintenant qu'elle m'a impliqué, il n'est pas difficile d'imaginer comment les choses se sont passées pour eux... Peu importe désormais. Dargem Llywellyn prouvera sa valeur. Même si la sorcière cherche à m'escroquer, je la déjouerai sans aucun doute.
 
 Name:
 32 - Áàëôîð
 Message:
-Entry from Dargem's diary:		"Am I losing the plot? It feels like a straight-up open house here, rather than a place where one of the greatest artifacts in the world's history is kept in strict secret. I've just heard from the locals that Black Balfour has been stomping around these parts for several weeks now. He is undoubtedly an eminent pirate, but certainly not a connoisseur of rarities; to be honest, he is an uncouth and all-around nasty character. What wind brought him here? And why now? Did that snake Casmetra lure him here too, looking to make sure I wouldn't leave here in one piece and carry the Horn with me?! Well, the bastard should try me! I'll give him such thorough lightning bolt treatment, he'll turn black as a firebrand and finally earn his moniker in full!		Once I've dealt with him, I'll find Casmetra... First, I'm going to rip that stupid glove off her hand—was it meant to astound me, or something?! I'm not a five-year-old; glowing eyes and iron claws don't scare me. Then I'll blow the magic plaster off her face and see how old she really is—for one can't possibly amass such a wealth of treachery and meanness in one's soul over a single lifetime. And then... Then I'll probably get bored of messing with the worthless hag; by then, I'll have the Horn of the Abyss in my hands! I guess I'll just let her go... and watch her fly down, because she'll be going straight off the balcony of that cursed tower of hers that looks so much like a goblin's club.		Horn of the Abyss! I will not allow you to be tainted by the paws of bloodthirsty halfwits and presumptuous fortune-tellers. You will be mine, mine!"
+Extrait du journal de Dargem :		« Est-ce que je perds la tête ? On dirait plutôt une maison ouverte au public qu'un lieu où l'un des plus grands artefacts de l'histoire mondiale est conservé dans le plus grand secret. Je viens d'apprendre par les habitants que Black Balfour rôde dans les environs depuis plusieurs semaines. C'est sans aucun doute un pirate éminent, mais certainement pas un connaisseur de raretés ; pour être honnête, c'est un personnage grossier et tout à fait désagréable. Quel vent l'a amené ici ? Et pourquoi maintenant ? Est-ce que ce serpent de Casmetra l'a attiré ici aussi, pour s'assurer que je ne parte pas d'ici sain et sauf avec la Corne ? Eh bien, que ce salaud essaie ! Je lui infligerai un traitement de choc, il deviendra noir comme un tison et méritera enfin pleinement son surnom !		Une fois que je me serai occupé de lui, je trouverai Casmetra... Mais d'abord, je vais lui arracher ce stupide gant de la main. Était-ce pour m'impressionner ou quoi ? Je n'ai pas cinq ans, des yeux brillants et des griffes en fer ne me font pas peur. Ensuite, je ferai disparaître le plâtre magique de son visage pour voir son véritable âge, car il est impossible d'accumuler autant de traîtrise et de méchanceté dans son âme en une seule vie. Et puis... Puis je me lasserai probablement de m'amuser avec cette vieille sorcière inutile ; d'ici là, j'aurai la Corne des Abysses entre les mains ! Je pense que je vais simplement la laisser partir... et la regarder s'envoler, car elle va se jeter du balcon de sa tour maudite qui ressemble tant à un club de gobelins. Corne des Abysses ! Je ne te laisserai pas être souillée par les pattes de demi-fous sanguinaires et de diseuses de bonne aventure présomptueuses. Tu seras mienne, mienne ! »
 
 Name:
 40
 Message:
-Dargem's diary. Entry 322		"Today, a ship approached dangerously close to the archipelago. No idea whether it was a Tatalian or Erathian one. I couldn't see the flag. Maybe just a privateer. Once again, I'm reminded there's no time to waste. If hordes of lizardmen riding on basiliskback land here, running away will be my only option. Should this battle happen, I won't have any allies on my side, even dubious ones like Kilgor and his horde."
+Journal de Dargem. Entrée 322        « Aujourd'hui, un navire s'est dangereusement approché de l'archipel. Je ne sais pas s'il s'agissait d'un navire tatalien ou erathien. Je n'ai pas pu voir son pavillon. Peut-être s'agissait-il simplement d'un corsaire. Une fois de plus, je me rappelle qu'il n'y a pas de temps à perdre. Si des hordes d'hommes-lézards chevauchant des Basilics débarquent ici, ma seule option sera de fuir. Si cette bataille a lieu, je n'aurai aucun allié à mes côtés, même pas ceux aussi douteux que Kilgor et sa horde. »
 
 Name:
 47
 Message:
-Dargem's diary. Entry 333		"Today I felt the ominous wind blowing again, just like during the storm that very nearly made my expedition keel over! I started sweating bullets and shivering.		It felt as though the sky itself was laughing eerily... and my guesses were confirmed. The Dead God is the old mate of mine, Boyd. The thief and rascal who plotted against me! Last time we met, I just walked away—but I should have tracked this walking carrion down and burned it with lightning!		I raised my head to the sky and exclaimed, 'Hey, bone face! Let's meet and sort things out like men—even if all things masculine you've ever had have long rotted away! I've murdered my share of powerful mages, warriors, and beasts; and I'll gladly kill a mindless dead clown a second time over if I must! Neither you, nor the dragons, nor anything else will stand in my way when I go to claim the Horn of the Abyss!'		A sailor tapped me on the shoulder and asked if I was all right. I was taken aback and even dropped my hat. The sailor picked it up and shoved it into my hands. I grinned and declared that very soon, we would be sending an old rotten scarecrow who overstayed his welcome in this world to the bottom of the sea! My crew met this announcement with an eager cheer."
+Journal de Dargem. Entrée 333		« Aujourd'hui, j'ai senti à nouveau souffler ce vent sinistre, comme lors de la tempête qui a failli faire chavirer mon expédition ! J'ai commencé à transpirer à grosses gouttes et à trembler. J'avais l'impression que le ciel lui-même riait de manière inquiétante... et mes soupçons se sont confirmés. Le Dieu mort est mon vieil ami, Boyd. Le voleur et le voyou qui a comploté contre moi ! La dernière fois que nous nous sommes rencontrés, je suis simplement parti, mais j'aurais dû traquer cette charogne ambulante et la brûler avec la foudre !		J'ai levé la tête vers le ciel et j'ai crié : « Hé, tête d'os ! Rencontrons-nous et réglons ça comme des hommes, même si tout ce que tu avais de masculin a depuis longtemps pourri ! J'ai tué ma part de mages puissants, de guerriers et de bêtes, et je tuerai volontiers une deuxième fois un clown mort sans cervelle si je le dois ! Ni toi, ni les dragons, ni quoi que ce soit d'autre ne se mettra en travers de mon chemin quand j'irai réclamer la Corne des Abysses ! »		Un marin m'a tapé sur l'épaule et m'a demandé si j'allais bien. J'ai été surpris et j'ai même laissé tomber mon chapeau. Le marin l'a ramassé et me l'a tendu. J'ai souri et déclaré que très bientôt, nous enverrions au fond de la mer un vieux épouvantail pourri qui avait abusé de l'hospitalité de ce monde ! Mon équipage a accueilli cette annonce avec des acclamations enthousiastes.
 
 ===== Heroes =====
 
@@ -69,35 +69,35 @@ Dargem's diary. Entry 333		"Today I felt the ominous wind blowing again, just li
 
 (4, 65, 0) ***Quest Guard***
 Message:
-Unfortunately, it should take no less than a week and a half to repair the ship.
-My Lord, the repairs aren't finished yet!
-It is done, my Lord Dargem! Would you like to go on board?
+Malheureusement, il faudra au moins une semaine et demie pour réparer le navire.
+Mon seigneur, les réparations ne sont pas encore terminées !
+C'est fait, mon seigneur Dargem ! Voulez-vous monter à bord ?
 
 (5, 63, 0) ***Event***
 Message:
-Entry from Dargem's diary:		"A tall, one-eyed man assessed the damage. His verdict was that it would take at least a week and a half to fix the smashed board. This delay, unfortunately, cannot be avoided—but we now have time to locate a source of water and some supplies. On top of that, we will have to find two other ships. I can't wait to get my hands on the Horn, of course, but I can't afford to be irresponsible now."
+Extrait du journal de Dargem :		« Un homme grand et borgne a évalué les dégâts. Selon lui, il faudrait au moins une semaine et demie pour réparer la planche brisée. Ce retard est malheureusement inévitable, mais cela nous laisse le temps de trouver une source d'eau et des provisions. En plus de cela, nous devrons trouver deux autres navires. Je suis bien sûr impatient de mettre la main sur la Corne, mais je ne peux pas me permettre d'être irresponsable pour l'instant. »
 
 (15, 52, 0) ***Seer's Hut***
 Message:
-I ran across some survivors from my party; the men had taken shelter in a hut. Unfortunately, they were all gravely injured and could barely walk. I'm not an Erathian priest, but I know a healing ritual that will bring them to their feet. I just need to find 15 gems.
-My men can't be helped without the ritual. We need to find gems.
-I have everything I need to perform a healing ritual. Shall we get the boys back on their feet?
+J'ai croisé quelques survivants de mon groupe ; les hommes s'étaient réfugiés dans une hutte. Malheureusement, ils étaient tous gravement blessés et pouvaient à peine marcher. Je ne suis pas un prêtre erathien, mais je connais un rituel de guérison qui leur permettra de se remettre sur pied. Il me suffit de trouver 15 gemmes.
+Sans ce rituel, mes hommes sont condamnés. Nous devons trouver des gemmes.
+J'ai tout ce qu'il faut pour accomplir un rituel de guérison. Allons-nous remettre les garçons sur pied ?
 
 (11, 55, 0) ***Event***
 Message:
-Entry from Dargem's diary: "A terrible picture! Both lost caravels are wrecked, and the shore is littered with corpses and broken weapons. I couldn't believe my eyes! My boys slain by wild orcs! Had Gunnar been here with them, he would surely have handled those senseless creatures... Hell, even that dimwit Gruezak would've done some good! He'd suggest they munch on the biggest piece of carrion they'd ever seen, and the savages would've happily joined our cause! Instead, our forces have been slashed down to a third now. I ordered a search of the wreckage... well, and of the corpses, too. Maybe there's something valuable to be found on them—I mean, the lads don't need it anymore."
+Extrait du journal de Dargem : « Une image terrible ! Les deux caravelles perdues sont détruites, et le rivage est jonché de cadavres et d'armes brisées. Je n'en croyais pas mes yeux ! Mes garçons massacrés par des orques sauvages ! Si Gunnar avait été là avec eux, il aurait sûrement su s'occuper de ces créatures insensées... Bon sang, même cet idiot de Gruezak aurait pu servir à quelque chose ! Il leur aurait suggéré de croquer dans le plus gros morceau de charogne qu'ils aient jamais vu, et les sauvages se seraient joyeusement ralliés à notre cause ! Au lieu de cela, nos forces ont été réduites à un tiers. J'ai ordonné une fouille des épaves... enfin, et des cadavres aussi. Peut-être y a-t-il quelque chose de valeur à récupérer sur eux... Je veux dire, les gars n'en ont plus besoin. »
 
 (27, 56, 0) ***Event***
 Message:
-Entry from Dargem's diary: "Orcs are undoubtedly some of the stupidest creatures in the world. Even among goblins, some are not only fairly intelligent, but also prone to magic. Orcs, however, are completely hopeless dullards! In these remote parts, however, I shouldn't be discriminating. Even they will do. As the Guardian helps himself to their bodies, I will crush it with magic. Sounds like a plan!"
+Extrait du journal de Dargem : « Les orques sont sans aucun doute parmi les créatures les plus stupides au monde. Même parmi les gobelins, certains sont non seulement assez intelligents, mais aussi enclins à la magie. Les orques, en revanche, sont des imbéciles sans espoir ! Dans ces contrées reculées, cependant, je ne devrais pas faire de discrimination. Même eux feront l'affaire. Pendant que le Gardien se servira de leurs corps, je l'écraserai avec ma magie. Ça me semble être un bon plan ! »
 
 (28, 48, 0) ***Pirate***
 Message:
-These pirates survived by some miracle. They told me how their ship had suddenly become engulfed in a firestorm, and on the shore, there were already hordes of skeletons and other undead, armed to the teeth and waiting for them.		This story sounds suspiciously familiar.
+Ces pirates ont survécu par miracle. Ils m'ont raconté comment leur navire avait soudainement été englouti par une tempête de feu, et comment, sur le rivage, des hordes de squelettes et autres morts-vivants, armés jusqu'aux dents, les attendaient déjà. Cette histoire me semble étrangement familière.
 
 (3, 61, 0) ***Sea Serpent***
 Message:
-These monstrous serpents crawled out onto the land to feast on goblins. However, it seems as though humans seem no less appetizing to them.
+Ces serpents monstrueux rampaient sur la terre pour se régaler de gobelins. Cependant, il semble que les humains ne leur semblent pas moins appétissants.
 
 (23, 51, 0) ***Stronghold***
 Name:
@@ -107,89 +107,89 @@ Visiting Barbarian:
 Name:
 Fangtooth
 Biography:
-The leader of the archipelago's savages had to use more than just strength and ferocity to achieve his position. He also has a smattering of secret shamanic knowledge.
+Le chef des sauvages de l'archipel a dû utiliser plus que sa force et sa férocité pour atteindre sa position. Il possède également quelques connaissances secrètes en matière de chamanisme.
 
 (22, 52, 0) ***Event***
 Message:
-Entry from Dargem's diary:		"Just as I expected, I got fatally unlucky. We landed on an island inhabited by numerous, dangerous savages. Despite all troubles, however, I'm still a powerful mage—and I don't suppose anyone has ever encountered such might in this armpit of the world. I guess I might show these cannibals a couple of my little tricks. That should be enough for them to learn who's in charge here now!"
+Extrait du journal de Dargem :		« Comme je m'y attendais, j'ai joué de malchance. Nous avons atterri sur une île peuplée de nombreux sauvages dangereux. Malgré tous ces problèmes, je reste un puissant mage, et je suppose que personne n'a jamais rencontré une telle puissance dans ce coin perdu du monde. Je vais peut-être montrer à ces cannibales quelques-uns de mes petits tours. Cela devrait suffire pour qu'ils comprennent qui est le chef ici ! »
 
 (42, 70, 0) ***Master Genie***
 Message:
-"We were summoned to guard this tent! Violators shall be destroyed!"
+« Nous avons été appelés pour garder cette tente ! Les contrevenants seront anéantis ! »
 
 (2, 57, 0) ***Harpy Hag***
 Message:
-"These are our shinies!"
+« Ce sont nos trésors ! »
 
 (67, 44, 0) ***Red Dragon***
 Message:
-"Hey, sailor, spent too long at sea?"
+« Hé, marin, t'as passé trop de temps en mer ? »
 
 (6, 49, 0) ***Halberdier***
 Message:
-"We've been hired to guard a secret magic lab! Get out!"
+« On nous a engagés pour garder un laboratoire magique secret ! Sortez ! »
 
 (2, 51, 0) ***Lich***
 Message:
-"Liiiving onesss..."
+« Des viiiivaaaants... »
 
 (19, 55, 0) ***Nix***
 Message:
-"This talisssman belongsss to our people!"
+« Ce talisssssman appartient à notre peuple ! »
 
 (30, 42, 0) ***Seer's Hut***
 Message:
-Here lives an ogre mage who is bothered by faerie dragons: apparently, they are attracted to the green-skinned spellweaver's magical power. If I can find and dispose of them, the ogre will be grateful.
-As long as the dragons are alive, there will be no reward.
-The ogre is very happy that he can continue to study magic in peace. As a reward, he wants to give me something that is useless to him.
+Ici vit un Ogre Mage qui est importuné par des Dragons Féeriques : apparemment, ceux-ci sont attirés par les pouvoirs magiques du lanceur de sorts à la peau verte. Si je parviens à les trouver et à m'en débarrasser, l'Ogre m'en sera reconnaissant.
+Tant que les dragons seront en vie, il n'y aura pas de récompense.
+L'Ogre est très heureux de pouvoir continuer à étudier la magie en toute tranquillité. En guise de récompense, il souhaite m'offrir quelque chose qui ne lui sert à rien.
 
 (23, 58, 0) ***Hobgoblin***
 Message:
-"We gathered here to sing songs and have a round dance—you're bothering us, pirate boy!"
+« Nous sommes réunis ici pour chanter et danser en rond, tu nous déranges, petit pirate ! »
 
 (69, 3, 0) ***Quest Guard***
 Message:
-I saw a flat rock. According to Casmetra's notes, the entrance should be here, but where exactly? I felt the smooth surface for a long time, until I found a series of barely noticeable indentations. Apparently, one has to put some keys in them to open the entrance.
-I'll need exactly 8 keys—can't get through without them. 
-I finally have all the keys! I'm closer to my triumph than ever. All I have to do is whisper the magic words.
+J'ai vu un rocher plat. D'après les notes de Casmetra, l'entrée devrait se trouver ici, mais où exactement ? J'ai longuement palpé la surface lisse, jusqu'à ce que je trouve une série d'encoches à peine visibles. Apparemment, il faut y insérer des clés pour ouvrir l'entrée.
+Il me faut exactement 8 clés, je ne peux pas passer sans elles. 
+J'ai enfin toutes les clés ! Je n'ai jamais été aussi proche de la victoire. Il ne me reste plus qu'à murmurer les mots magiques.
 
 (70, 1, 0) ***Sign***
 Message:
-Dungeon of the Vengeful Serpent
+Donjon du Serpent Vengeur
 
 (45, 66, 0) ***Seer's Hut***
 Message:
-An ogre living here complains that some green midgets stole his favorite ring, which helped him run faster than anyone in his tribe. Green midgets?.. Goblins?
-While the ring is not here, the ogre does not want to talk.
-The ogre is very happy about the return of his ring. In return for it, he offers an unusual-looking piece of paper he fished out of the sea.
+Un ogre vivant ici se plaint que des nains verts lui ont volé sa bague préférée, qui lui permettait de courir plus vite que n'importe qui dans sa tribu. Des nains verts ?... Des gobelins ?
+Bien que la bague ne soit pas ici, l'ogre refuse de parler.
+L'ogre est très heureux d'avoir retrouvé sa bague. En échange, il offre un morceau de papier à l'aspect inhabituel qu'il a repêché dans la mer.
 
 (1, 50, 0) ***Pandora's Box***
 Message:
-Am I willing to take the risk?
+Suis-je prêt à prendre ce risque ?
 
 (44, 67, 0) ***Serpent Fly***
 Message:
-Another swarm of carnivorous mosquitoes!
+Encore un essaim de moustiques carnivores !
 
 (8, 63, 0) ***Wolf Raider***
 Message:
-"Humies! I'm sick and tired of eating fish—finally, some fresh meat!"
+« Bon sang ! J'en ai marre de manger du poisson, enfin de la viande fraîche ! »
 
 (21, 64, 0) ***Cyclops***
 Message:
-"Hey, catch a rock! Boohoo!"
+« Hé, attrape une pierre ! Bouhouhou ! »
 
 (14, 39, 0) ***Seaman***
 Message:
-"Sir, we are so happy to see you! We barely escaped with our lives from those undead and savages!"
+« Monsieur, nous sommes si heureux de vous voir ! Nous avons échappé de justesse à la mort face à ces morts-vivants et ces sauvages ! »
 
 (62, 49, 0) ***Corsair***
 Message:
-"This ring is of great value! We won't let you take it!"
+« Cette bague a une grande valeur ! Nous ne vous laisserons pas la prendre ! »
 
 (19, 50, 0) ***Troll***
 Message:
-"Yousa small and wimpy! Meesa big and strong!"
+« Toissa p'tit et faible ! Moissa, grand et fort ! »
 
 (13, 17, 0) ***Cove***
 Name:
@@ -197,11 +197,11 @@ Marteena
 
 (20, 32, 0) ***Ancient Behemoth***
 Message:
-There must be a reason this pack of bloodthirsty behemoths is here! They must be guarding something more important than a mere quarry! 
+Il doit y avoir une raison pour que cette bande de monstres sanguinaires soit ici ! Ils doivent protéger quelque chose de plus important qu'une simple proie ! 
 
 (40, 44, 0) ***Pandora's Box***
 Message:
-Am I willing to take the risk?
+Suis-je prêt à prendre ce risque ?
 
 (2, 23, 0) ***Dragon Fly***
 Message:
@@ -209,83 +209,83 @@ Message:
 
 (16, 24, 0) ***Wyvern Monarch***
 Message:
-Chop up some duck necks for dinner...
+Coupez quelques cous de canard pour le dîner...
 
 (12, 23, 0) ***Cyclops***
 Message:
-"You're in luck! When I put out one of your eyes, you'll still have the other!"
+« Vous avez de la chance ! Quand je vous aurai crevé un œil, vous aurez toujours l'autre ! »
 
 (2, 34, 0) ***Serpent Fly***
 Message:
-Those flies again...
+Encore ces grosses mouches...
 
 (19, 14, 0) ***Quest Guard***
 Message:
-The harpies on these rocks will not let me pass. They squeal incessantly about some sisters. Perhaps if I bring their sisters, they'll stop throwing themselves at my sails?
-Apparently, I'm doing something wrong. The harpies keep attempting to fly right through my sails.
-As soon as the harpies saw their sisters, they started cheering, making the most insufferable noise. Release the harpies and sail through?
+Les harpies sur ces rochers ne me laissent pas passer. Elles ne cessent de crier à propos de certaines sœurs. Peut-être que si je leur amène leurs sœurs, elles cesseront de se jeter sur mes voiles ?
+Apparemment, je fais quelque chose de mal. Les harpies continuent d'essayer de voler à travers mes voiles.
+Dès que les harpies ont vu leurs sœurs, elles se sont mises à applaudir, faisant un bruit insupportable. Libérer les harpies et passer à travers ?
 
 (4, 15, 0) ***Wolf Raider***
 Message:
-"We shall sacrifice you to the Dead God!"
+« Nous allons vous sacrifier au Dieu Mort ! »
 
 (8, 23, 0) ***Beholder***
 Message:
-These evil eyes are out in the open. They must have been startled by the Azure Dragon... or something else?
+Ces Yeux Maléfiques sont à découvert. Ils ont dû être effrayés par le Dragon Azure... ou par autre chose ?
 
 (3, 26, 0) ***Harpy Hag***
 Message:
-The harpies... why are there so many harpies on the surface?
+Des harpies... pourquoi y a-t-il autant de harpies à la surface ?
 
 (11, 12, 0) ***Lizard Warrior***
 Message:
-"Thisss isss our mine!"
+« Ccccccette mine est la nôtre ! »
 
 (13, 8, 0) ***Medusa Queen***
 Message:
-"You boys! Fancy a walk in our statue garden?"
+« Les gars ! Ça vous dit d'aller faire un tour dans notre jardin de statues ? »
 
 (2, 29, 0) ***Ogre Mage***
 Message:
-"This is our clan's shield!"
+« Voici le bouclier de notre clan ! »
 
 (59, 60, 0) ***Pandora's Box***
 Message:
-Am I willing to take the risk?
+Suis-je prêt à prendre ce risque ?
 
 (60, 56, 0) ***Sorceress***
 Message:
-"We're not your housekeepers! Feel the wrath of magic!"
+« Nous ne sommes pas vos domestiques ! Subissez la colère de la magie ! »
 
 (55, 39, 0) ***Nix***
 Message:
-"Khhill, ssslay, murderrr!"
+« Tuez, massssssacrez, assssssasssssinez ! »
 
 (54, 47, 0) ***Quest Guard***
 Message:
-"If you want to fight us, you must be worthy! Anyone who's worthy has a medal with a bird on it. Do you have one?"
-"Our custom says that one who's worthy comes with a medal! Where's the medal?"
-"Worthy one! Give us the bird medal, and step into our halls."
+« Si vous voulez nous combattre, vous devez en être digne ! Quiconque en est digne possède une médaille avec un oiseau dessus. En avez-vous une ? »
+« Selon notre coutume, celui qui en est digne porte une médaille ! Où est la médaille ? »
+« Ô digne ! Donnez-nous la médaille avec l'oiseau et entrez dans nos salles. »
 
 (28, 12, 0) ***Grand Elf***
 Message:
-"Hey, you! How would you like getting turned into hedgehogs? Our arrows can do it, no problem!"
+« Hé, vous ! Ça vous dirait de vous transformer en hérissons ? Nos flèches peuvent le faire, sans problème ! »
 
 (38, 9, 0) ***Leprechaun***
 Message:
-"Oho, laddie!"
+"Oho, petits chenapans !"
 
 (39, 31, 0) ***Gnoll Marauder***
 Message:
-"Fish lovers are here again! Crack their skulls!"
+« Les amateurs de poisson sont de retour ! Fendez-leur le crâne ! »
 
 (32, 22, 0) ***Thunderbird***
 Message:
-Sinister birds are coming down from the cliffs!
+Des oiseaux sinistres descendent depuis les falaises !
 
 (26, 22, 0) ***Zealot***
 Message:
-"We guard the sacred relics! Get out, you infidels!"
+« Nous gardons les reliques sacrées ! Sortez d'ici, infidèles ! »
 
 (46, 13, 0) ***Navigator***
 Name:
@@ -297,165 +297,165 @@ Void
 
 (55, 12, 0) ***Lizard Warrior***
 Message:
-"Thessse are our gemsss!"
+« Cccccce ssssssont nos joyaux ! »
 
 (71, 5, 0) ***Haspid***
 Message:
-These monsters appear to be the last obstacle before the Guardian! Soon enough, everyone will hail Dargem, the great mage and owner of the Horn of the Abyss!
+Ces monstres semblent être le dernier obstacle avant le Gardien ! Bientôt, tout le monde acclamera Dargem, le grand mage et propriétaire de la Corne des Abysses !
 
 (29, 7, 0) ***Pandora's Box***
 Message:
-Am I willing to take the risk?
+Suis-je prêt à prendre ce risque ?
 
 (57, 0, 0) ***Crew Mate***
 Message:
-"No nosing around here!"
+« Ne fouine pas ici ! »
 
 (29, 42, 0) ***Event***
 Message:
-Entry from Dargem's diary: "Someone has scrawled on this rock: FEAR THE DEAD GOD. I can't stand imperatives addressed at me! What if I don't care to fear any god, dead or alive? If you're into this kind of thing, you can fear your gods to your heart's delight. Myself, I prefer to be feared!"
+Extrait du journal de Dargem : « Quelqu'un a griffonné sur ce rocher : CRAIGNEZ LE DIEU MORT. Je ne supporte pas les injonctions qui m'interpellent ! Et si je me moquais bien de craindre un dieu, mort ou vivant ? Si cela vous plaît, vous pouvez craindre vos dieux à votre guise. Pour ma part, je préfère être craint ! »
 
 (65, 19, 0) ***Dendroid Soldier***
 Message:
-"Hoom, hoom... we will not let this knackery reopen!"
+« Hoom, hoom... nous ne laisserons pas cette usine de transformation rouvrir ! »
 
 (63, 28, 0) ***Gog***
 Message:
-"Sulfur looks beautiful when it burns! Wanna see?"
+« Le soufre est magnifique quand il brûle ! Voulez-vous voir ? »
 
 (56, 67, 0) ***Rust Dragon***
 Message:
-This place seems to be teeming with all sorts of dragons!
+Cet endroit semble regorger de toutes sortes de dragons !
 
 (42, 25, 0) ***Event***
 Message:
-Entry from Dargem's diary: "I met a bard girl who offered me a drink and an exchange of stories. Per hers, many years ago there was a prison on this archipelago. Languishing in it was a certain Siagum. These days, both the gaol and its inmate are nearly forgotten; who and why captured him is not known. However, it is said one can still meet him if one's curious and lucky enough. This odd story stuck with me. Does it have anything to do with the dungeon? Somehow, I don't think it does."
+Extrait du journal de Dargem : « J'ai rencontré une bardesse qui m'a offert à boire et m'a proposé d'échanger des histoires. Selon elle, il y avait autrefois une prison sur cet archipel. Un certain Siagum y croupissait. Aujourd'hui, la prison et son détenu sont presque tombés dans l'oubli ; on ignore qui l'a capturé et pourquoi. Cependant, on dit qu'il est encore possible de le rencontrer si l'on est suffisamment curieux et chanceux. Cette étrange histoire m'a marqué. A-t-elle un rapport avec le donjon ? Je ne pense pas, pour une raison que j'ignore. »
 
 (14, 71, 0) ***Event***
 Message:
-Entry from Dargem's diary: "And so my adventure continues! No man or thing will prevent me from claiming the Horn of the Abyss for myself! According to legend, the Horn is powerful enough to ensure that I won't have to fear Casmetra or the ones behind her, should it come into my possession. I have no more doubts that she is not who she claims to be, but whatever her true colors are, I will be able to protect my find!		What I'm worried about, though, is this Dead God. Could it be... No. Nonsense. That pile of bones should be thousands of miles away now, and that's if he hasn't already been laid to rest by some priest or paladin."
+Extrait du journal de Dargem : « Et ainsi, mon aventure continue ! Aucun homme ni aucune chose ne m'empêchera de m'emparer de la Corne des Abysses ! Selon la légende, la Corne est suffisamment puissante pour que je n'aie plus à craindre Casmetra ni ceux qui la soutiennent, si je parviens à la posséder. Je n'ai plus aucun doute sur le fait qu'elle n'est pas celle qu'elle prétend être, mais quelle que soit sa véritable nature, je serai capable de protéger ma découverte !		Ce qui m'inquiète cependant, c'est ce Dieu Mort. Se pourrait-il que... Non. C'est absurde. Ce tas d'os devrait se trouver à des milliers de kilomètres d'ici à présent, à moins qu'il n'ait déjà été mis en terre par un prêtre ou un paladin. »
 
 (46, 63, 0) ***Ocean Bottle***
 Message:
-DARGEM! I'M WAITING FOR YOU!
+DARGEM ! JE VOUS ATTENDS !
 
 (4, 70, 0) ***Ocean Bottle***
 Message:
-"I had to close my establishment and get out of here! No one needs a tavern in a place like this."
+« J'ai dû fermer mon établissement et partir d'ici ! Personne n'a besoin d'une taverne dans un endroit comme celui-ci. »
 
 (36, 19, 0) ***Nomad***
 Message:
-"We are a horde! What about you?"
+« Nous sommes une horde ! Et vous ? »
 
 (71, 33, 0) ***Pandora's Box***
 Message:
-Am I willing to take the risk?
+Suis-je prêt à prendre ce risque ?
 
 (7, 44, 0) ***Pandora's Box***
 Message:
-Am I willing to take the risk?
+Suis-je prêt à prendre ce risque ?
 
 (67, 14, 0) ***Naga Queen***
 Message:
-"Woman and sssnake—what came firssst?"
+« La femme et le ssssserpent : qui est apparu en premier ? »
 
 (35, 26, 0) ***Cyclops King***
 Message:
-"We serve no one!"
+« Nous ne servons personne ! »
 
 (37, 3, 0) ***Seer's Hut***
 Message:
-An old woman lives here, completely crazy by the looks of her. She complains about having lost her favorite pot she cooked fish soup in. She begs me to find it, or at least something similar enough. I think I have an idea what I can offer her!
-I have nothing for the barmy old woman.
-The crone seemed delighted with the new pot. As a reward, she offered me a potion that she said would strengthen my body. I took a sip from the flask and felt incredibly light—as if my bones and flesh were no longer weighing me down! Should I finish the concoction?
+Une vieille femme vit ici, complètement folle à première vue. Elle se plaint d'avoir perdu sa marmite préférée dans laquelle elle cuisinait sa soupe de poisson. Elle me supplie de la retrouver, ou du moins de lui en trouver une similaire. Je crois avoir une idée de ce que je peux lui offrir !
+Je n'ai rien pour cette vieille femme excentrique.
+La vieille semblait ravie de sa nouvelle marmite. En guise de récompense, elle m'a offert une potion qui, selon elle, renforcerait mon corps. J'ai bu une gorgée de la fiole et je me suis senti incroyablement léger, comme si mes os et ma chair ne m'alourdissaient plus ! Dois-je finir la potion ?
 
 (8, 55, 0) ***Wolf Rider***
 Message:
-"Do you know where Zuma is?!"
+« Savez-vous où se trouve Zuma ? »
 
 (11, 56, 0) ***Orc***
 Message:
-"Humies! Today we will be feasting upon fresh, tender humies! Fetch my sharpest cleaver!"
+« Humains ! Aujourd'hui, nous allons nous régaler d'humains frais et tendres ! Apportez-moi mon couperet le plus tranchant ! »
 
 (27, 63, 0) ***Dragon Fly***
 Message:
-Is there anything worse than huge carnivorous dragonflies? Maybe only huge carnivorous bumblebees. It's a good thing they don't exist. Or is it just that no one has ever escaped them alive to tell the tale?..
+Y a-t-il quelque chose de pire que d'énormes Guêpes Dragons ? Peut-être seulement d'énormes bourdons carnivores. Heureusement qu'ils n'existent pas. Ou est-ce simplement parce que personne n'a jamais réussi à leur échapper vivant pour raconter l'histoire ?...
 
 (28, 59, 0) ***Gnoll***
 Message:
-"Stupid fish lover! You think you own this island?!"
+« Espèce d'imbécile fan de poissons ! Vous croyez que cette île vous appartient ?! »
 
 (23, 54, 0) ***Swordsman***
 Message:
-It seems that these men got lost and became too suspicious.
+Il semble que ces hommes se soient perdus et soient devenus trop méfiants.
 
 (4, 4, 0) ***Giant***
 Message:
-As soon as we came out of the portal, huge animated statues came barreling down at us!
+Dès que nous sommes sortis du portail, d'énormes statues animées se sont précipitées sur nous !
 
 (49, 48, 0) ***Nix***
 Message:
-"Freezzzze!"
+« Ssssssssstop ! »
 
 (46, 48, 0) ***Event***
 Message:
-Entry from Dargem's diary: "A surprise: we found an abandoned mercenary camp. It looks as if those who set it up gathered up overnight and left, taking only the essentials. What could possibly frighten these thugs so much? I think I have a hunch. Most likely, there is a creephole leading to the surface from the dungeon where the Azure Dragons live, and every now and then, they come out to catch themselves a dinner that smells a little less musty than their usual prey. Such a creature appearing suddenly before them might well have caused the mercenaries to run for the hills."
+Extrait du journal de Dargem : « Une surprise : nous avons trouvé un campement de mercenaires abandonné. On dirait que ceux qui l'ont installé se sont rassemblés pendant la nuit et sont partis en emportant seulement le strict nécessaire. Qu'est-ce qui a bien pu effrayer ces voyous à ce point ? Je crois avoir une petite idée. Il y a probablement un passage secret menant à la surface depuis le donjon où vivent les Dragons Azur, et de temps en temps, ceux-ci sortent pour attraper un dîner qui sent un peu moins le moisi que leurs proies habituelles. L'apparition soudaine d'une telle créature devant eux a sans doute poussé les mercenaires à prendre la fuite. »
 
 (44, 58, 0) ***Crystal Dragon***
 Message:
-What could be more unpleasant than an animated stone that thinks it's a dragon? Maybe a chunk of crystal that thinks it's a titan!
+Qu'y a-t-il de plus désagréable qu'une pierre animée qui se prend pour un dragon ? Peut-être un morceau de cristal qui se prend pour un titan !
 
 (66, 36, 0) ***Fangarm***
 Message:
-What are these nightmarish creatures from a madman's dreams?!
+Que sont ces créatures cauchemardesques issues des rêves d'un fou ?!
 
 (5, 31, 0) ***Scorpicore***
 Message:
-What are the scorpicores doing here? Something must have forced them to leave the caves. 
+Que font des Scorpicores ici ? Quelque chose a dû les forcer à quitter les grottes.
 
 (15, 41, 0) ***Wyvern***
 Message:
-I've heard some people call these things "ducks." It seems to me that wyverns have a lot more in common with geese—but I must admit I'm not the greatest ornithologist alive.
+J'ai entendu certaines personnes appeler ces créatures « canards ». Il me semble que les Wyvernes ont beaucoup plus en commun avec les oies, mais je dois admettre que je ne suis pas le plus grand ornithologue qui soit.
 
 (14, 45, 0) ***Nix***
 Message:
-"Thisss isss our ring!"
+« Cccc'est notre preccccieux anneau ! »
 
 (52, 42, 0) ***Magma Elemental***
 Message:
-Even the cobblestones here are ferocious!
+Même les rochers ici sont féroces !
 
 (70, 61, 0) ***Leprechaun***
 Message:
-"Hey, buddy! You've got a face like... like what you see on a tombstone! Haha!"
+« Hé, mon pote ! T'as une tête comme... comme celle qu'on voit sur une pierre tombale ! Ha ha ! »
 
 (13, 67, 0) ***Pirate***
 Message:
-"Who are you? We didn't invite you. Get out!"
+« Qui êtes-vous ? Nous ne vous avons pas invité. Sortez ! »
 
 (18, 66, 0) ***Behemoth***
 Message:
-Apparently, these wild behemoths came down from the mountains for snacks. Why won't they just eat each other? That would make the world much more of a peaceful place!
+Apparemment, ces monstres sauvages sont descendus des montagnes pour trouver de quoi grignoter. Pourquoi ne se mangent-ils pas entre eux ? Cela rendrait le monde beaucoup plus paisible !
 
 (32, 64, 0) ***Lizard Warrior***
 Message:
-"What are humiesss doing here?"
+« Que font les humains icccci ? »
 
 (15, 63, 0) ***Rogue***
 Message:
-"Hey, feller, don't go there!"
+« Hé, mon gars, ne va pas là-bas ! »
 
 (67, 51, 0) ***Cyclops King***
 Message:
-"A little man like you, hero, put out our kinsman's eye! Die!"
+« Un petit homme comme toi, héros, a crevé l'œil de notre roi ! Meurs ! »
 
 (38, 58, 0) ***Pandora's Box***
 Message:
-Am I willing to take the risk?
+Suis-je prêt à prendre ce risque ?
 
 (52, 5, 0) ***Pandora's Box***
 Message:
-Do I want to take the risk?
+Suis-je prêt à prendre ce risque ?
 
 (14, 27, 0) ***Pandora's Box***
 Message:
@@ -463,11 +463,11 @@ Message:
 
 (19, 18, 0) ***Pandora's Box***
 Message:
-Am I willing to take the risk?
+Suis-je prêt à prendre ce risque ?
 
 (42, 11, 0) ***Pandora's Box***
 Message:
-Am I willing to take the risk?
+Suis-je prêt à prendre ce risque ?
 
 (53, 24, 0) ***Pandora's Box***
 Message:
@@ -475,87 +475,86 @@ Message:
 
 (31, 34, 0) ***Pandora's Box***
 Message:
-Do I want to take the risk?
+Suis-je prêt à prendre ce risque ?
 
 (17, 44, 0) ***Mummy***
 Message:
-The local mummies are quite dead, but for some reason they still walk. This needs to be fixed.
+Les Momies locales sont bel et bien mortes, mais pour une raison quelconque, elles continuent de marcher. Il faut remédier à cela.
 
 (70, 54, 0) ***Automaton***
 Message:
-What are these iron monsters?! 
+Que sont ces monstres de fer ?! 
 
 (65, 40, 0) ***Pandora's Box***
 Message:
-Do I want to take the risk?
+Suis-je prêt à prendre ce risque ?
 
 (43, 28, 0) ***Enchanter***
 Message:
-"This dungeon holds priceless secrets! A self-taught pirate mage is not worthy of them!"
+« Ce donjon renferme des secrets inestimables ! Un mage pirate autoproclamé n'en est pas digne ! »
 
 (18, 60, 0) ***Event***
 Message:
-Entry from Dargem's diary: "Loud-mouthed and stupid, harpies usually live in caves, but for some reason these ones have settled here. I don't even know if I have any use for them."
+Extrait du journal de Dargem : « Bruyantes et stupides, les harpies vivent généralement dans des grottes, mais pour une raison quelconque, celles-ci se sont installées ici. Je ne sais même pas si elles peuvent m'être utiles. »
 
 (20, 58, 0) ***Event***
 Message:
-Entry from Dargem's diary:		"While exploring the island, we came across a thatched hut. I drew my cutlass and readied an ice beam, just in case someone jumps us—every other creature we meet on this damn island is trying to eat us!		My fears were unfounded. A decrepit, harmless-looking orc shaman tottered out of the hut, cast a purblind gaze at us, and croaked:	'I know why you're here, umie. You want to get into the Dungeon of the Vengeful Serpent.' 	'I sure hope "umie" isn't an insult, or I'll freeze your empty head and crack it open like a rotten pumpkin,' I said. 	'Lay a finger on me, umie, and you'll never know what it takes to get where you want to get!'		I thought the point reasonable, so I let the magic fizzle out and put my blade away. A surprisingly thorough conversation took place between us, and I learned I would have to find eight pendants to enter the Guardian's dungeon. Six of them are hidden in different parts of the island, and I need to be very careful to avoid missing them. One is kept by a pirate, and another is in the possession of some 'dead god.' I didn't like the last one at all! When I asked the shaman what that 'dead god' was, he just cackled ominously. Then he invited me to enter the hut, where he would show me the location of some of the pendants in his magic cauldron."
+Extrait du journal de Dargem :		« Alors que nous explorions l'île, nous sommes tombés sur une hutte au toit de chaume. J'ai dégainé mon sabre et préparé un rayon de glace, au cas où quelqu'un nous attaquerait - toutes les créatures que nous rencontrons sur cette maudite île essaient de nous dévorer !		Mes craintes étaient infondées. Un chaman orque décrépit et d'apparence inoffensive est sorti en titubant de la hutte, nous a jeté un regard aveugle et a croassé :	« Je sais pourquoi vous êtes ici, umie. Vous voulez entrer dans le donjon du Serpent vengeur. »		« J'espère que « umie » n'est pas une insulte, sinon je vais geler votre tête vide et la fendre comme une citrouille pourrie », ai-je répondu.		« Si vous me touchez, umie, vous ne saurez jamais comment atteindre votre but ! »		J'ai trouvé cet argument raisonnable, alors j'ai laissé la magie s'évanouir et j'ai rangé ma lame. Une conversation étonnamment approfondie a eu lieu entre nous, et j'ai appris que je devais trouver huit pendentifs pour entrer dans le donjon du Gardien. Six d'entre eux sont cachés dans différentes parties de l'île, et je dois faire très attention à ne pas les manquer. L'un est détenu par un pirate, et un autre est en possession d'un certain « dieu mort ». Je n'aimais pas du tout ce dernier ! Lorsque j'ai demandé au chaman ce qu'était ce « dieu mort », il s'est contenté de rire sinistrement. Il m'a ensuite invité à entrer dans la hutte, où il me montrerait l'emplacement de certains des pendentifs dans son chaudron magique. »
 
 (33, 55, 0) ***Green Dragon***
 Message:
-I'm getting pretty tired of dragons! However... can a good adventure even be considered complete if you haven't killed at least one of each color?..
+J'en ai vraiment marre des dragons ! Mais... peut-on vraiment considérer qu'une bonne aventure est complète si on n'a pas tué au moins un dragon de chaque couleur ?...
 
 (67, 10, 0) ***Ogre Mage***
 Message:
-"I inherited a recipe of delectable cutlets from my Granny! It don't call for any salt bar some old salt!"
+« J'ai hérité d'une recette de délicieuses côtelettes de ma grand-mère ! Elle ne nécessite qu'un peu de vieux sel ! »
 
 (25, 4, 0) ***Ocean Bottle***
 Message:
-My sister went berserk and started a civil war. Sir Gallavant 
+Ma sœur est devenue folle furieuse et a déclenché une guerre civile. Sir Gallavant 
 
 (27, 22, 0) ***Quest Guard***
 Message:
-Pilgrims are camping here. They say they'll let us pass if we help them find some relics of life.
-The pilgrims don't want to bargain—they demand the relics.
-I think I've got what the pilgrims need. Give up the rings?
+Des pèlerins campent ici. Ils disent qu'ils nous laisseront passer si nous les aidons à trouver des reliques de la vie.
+Les pèlerins ne veulent pas négocier, ils exigent les reliques.
+Je pense avoir ce dont les pèlerins ont besoin. Abandonner les anneaux ?
 
 (69, 41, 0) ***Ice Elemental***
 Message:
-These elementals seem to be guarding a sort of prison. I could definitely use some help to look for new mercenaries!
+Ces élémentaires semblent garder une sorte de prison. J'aurais bien besoin d'aide pour trouver de nouveaux mercenaires !
 
 (48, 3, 0) ***Wraith***
 Message:
-As I neared the gloomy edifice, I heard a voice exclaim, "Hey, my lord! Save me from the evil spirits; they won't let me get out of here! I am a seasoned sailor and will help you in your endeavors!". It sounded familiar. Just as I was about to ask what the evil spirits were, they manifested on their own.
+Alors que je m'approchais de l'édifice lugubre, j'entendis une voix s'écrier : « Hé, mon seigneur ! Sauvez-moi des mauvais esprits, ils ne me laissent pas sortir d'ici ! Je suis un marin chevronné et je vous aiderai dans vos entreprises ! ». Cette voix me semblait familière. Alors que j'étais sur le point de demander ce qu'étaient ces mauvais esprits, ils se manifestèrent d'eux-mêmes.
 
 (3, 8, 0) ***Haspid***
 Message:
-It looks like these monsters are guarding some kind of prison.
+On dirait que ces monstres gardent une sorte de prison.
 
 (34, 60, 0) ***Royal Griffin***
 Message:
-We're having griffin roast tonight... or maybe the griffin is having a stew of us. Let's see who's hungrier!
+Ce soir, nous avons du griffon rôti... ou peut-être que c'est le griffon qui nous a au menu. Voyons voir qui a le plus faim !
 
 (20, 46, 0) ***Nix Warrior***
 Message:
-"The shrinesss of our people are khhere!"
+« Les sssssssanctuaires de notre peuple sont ici ! »
 
 (24, 47, 0) ***Ogre Mage***
 Message:
-"Hey, little wizard, don't you run away! You look entirely too delicious!"
+« Hé, petit sorcier, ne t'enfuis pas ! Tu as l'air vraiment trop délicieux ! »
 
 (6, 63, 0) ***Pandora's Box***
 Message:
 
-
 (64, 36, 0) ***Quest Guard***
 Message:
-Some kind of a magic barrier again... After studying it, I came to the conclusion I should be able to dispel it with an artifact like the Orb of Inhibition.
-I don't think I can do anything without the Orb.
-Barriers are no obstacle to Dargem Llywellyn! I held the Orb of Inhibition up to the magic wall, and it trembled. Destroy it?
+Encore une sorte de barrière magique... Après l'avoir étudiée, j'en suis venu à la conclusion que je devrais pouvoir la dissiper avec un artefact tel que le Globe d'Inhibition.
+Je ne pense pas pouvoir faire quoi que ce soit sans le globe.
+Les barrières ne sont pas un obstacle pour Dargem Llywellyn ! J'ai brandi le Globe d'Inhibition devant le mur magique, et celui-ci s'est mis à trembler. Le détruire ?
 
 (71, 4, 0) ***Event***
 Message:
-Entry from Dargem's diary: "Per Casmetra's instructions, this is the island. It is surrounded by very rough waters, and the depth increases sharply just a few cubits from the shore, but for some reason the waves have not washed away the sand covering it... I studied the surface of the island carefully and realized that the breath of Azure Dragons has a peculiar effect on the environment: it causes any matter to crystallize. This is not sand, but salt! It seems that the surrounding waters are gradually turning into it; new grains are sticking to the mass, and the island is growing in size slowly. What monstrous power such a transformation must require! However, it should be much easier to transmute the human body into a crystal; it contains much more matter that is already solid. I imagined the process of getting turned into a pillar of salt. I shuddered." 
+Extrait du journal de Dargem : « Selon les instructions de Casmetra, voici l'île. Elle est entourée d'eaux très agitées, et la profondeur augmente brusquement à quelques coudées du rivage, mais pour une raison quelconque, les vagues n'ont pas emporté le sable qui la recouvre... J'ai étudié attentivement la surface de l'île et j'ai réalisé que le souffle des Dragons Azur a un effet particulier sur l'environnement : il provoque la cristallisation de toute matière. Ce n'est pas du sable, mais du sel ! Il semble que les eaux environnantes se transforment progressivement en sel ; de nouveaux grains s'accrochent à la masse, et l'île grossit lentement. Quelle puissance monstrueuse une telle transformation doit-elle nécessiter ! Cependant, il devrait être beaucoup plus facile de transmuter le corps humain en cristal ; il contient beaucoup plus de matière déjà solide. J'ai imaginé le processus de transformation en pilier de sel. J'ai frissonné. » 
 
 (13, 71, 0) ***Event***
 Message:
@@ -563,21 +562,21 @@ Message:
 
 (11, 18, 0) ***Event***
 Message:
-"This town pays tribute to us. You're not welcome here, pirate boy!"
+« Cette ville nous est consacrée. Tu n'es pas le bienvenu ici, pirate ! »
 
 (12, 18, 0) ***Warlock***
 Name:
 Barbus
 Biography:
-This minotaur sports a rare coat with a striped back. That's how he got his nickname, Barbus.
+Ce minotaure arbore un pelage rare avec un dos rayé. C'est ainsi qu'il a obtenu son surnom, Barbus.
 
 (71, 66, 0) ***Troll***
 Message:
-"We've come to treat ourselves to some fresh brigands! Don't you dare disrupt our diet!"
+« Nous sommes venus nous régaler de brigands tout frais ! Ne t'avise pas de perturber notre régime alimentaire ! »
 
 (38, 39, 1) ***Ocean Bottle***
 Message:
-Give my regards to Sir Christian!
+Transmettez mes salutations à Sir Christian !
 
 (67, 2, 1) ***Death Knight***
 Name:
@@ -585,33 +584,33 @@ Boyd
 
 (1, 4, 1) ***Faerie Dragon***
 Message:
-This seems to be the dragon the ogre mage complained about.
+Il semble que ce soit le dragon dont se plaignait l'Ogre Mage.
 
 (9, 28, 1) ***Event***
 Message:
-Entry from Dargem's diary:		"It looks like these caves are much more extensive than they seem. The key to success is to choose the right path and avoid wasting time."
+Extrait du journal de Dargem :		« Il semble que ces grottes soient beaucoup plus vastes qu'elles ne le paraissent. La clé du succès réside dans le choix du bon chemin et dans le fait de ne pas perdre de temps. »
 
 (56, 6, 1) ***Event***
 Message:
-Entry from Dargem's diary: "There were piles of icy salt on the ground—the remains of my predecessors. I could feel the Azure Dragons' breath. The creatures were waiting for me in the darkness of the cave. I must... I must defeat them! This is something worth living for! The goal of my entire existence is the Horn of the Abyss! Now I know what I'd been working towards all these years. What I fought fate for. There is no more fear, only resolve. Inside this cave lies the answer to all questions, the reward for everything I have endured along the way. I am about to get what I deserve. One more step..."
+Extrait du journal de Dargem : « Il y avait des tas de sel glacé sur le sol, vestiges de mes prédécesseurs. Je pouvais sentir le souffle des Dragons Azur. Les créatures m'attendaient dans l'obscurité de la grotte. Je dois... Je dois les vaincre ! C'est une raison qui vaut la peine de vivre ! Le but de toute mon existence est la Corne des Abysses ! Je sais maintenant pourquoi j'ai travaillé toutes ces années. Pourquoi j'ai lutté contre le destin. Je n'ai plus peur, je suis déterminé. À l'intérieur de cette grotte se trouve la réponse à toutes les questions, la récompense pour tout ce que j'ai enduré jusqu'ici. Je suis sur le point d'obtenir ce que je mérite. Encore un pas... »
 
 (56, 8, 1) ***Azure Dragon***
 Message:
-"Even here, there is no peace! We don't care who you are or what you want. The only thing you'll find here is death."		The dragon let out a deafening roar. I felt the vaults of the cave tremble, and a few pebbles fell on my head. The Nighonian boy, who had long faded into my subconscious, screamed out in anguish: 'Get out of here now!!!', but I couldn't back down. Not anymore. The Horn was calling out for me! To flinch now would mean to spit on everything that was still dear to me in this life. In the crackle of the splitting rock, I could hear an unnerving rasp, as if some dry bones were rubbing against each other—and I recognized this noise... I heard it when the dead man enjoyed his fleeting moment of triumph over me, throwing back his empty skull and cackling in ecstasy—but I've now settled my old scores and forced fate to turn its face toward me! I must fight!!!
+« Même ici, il n'y a pas de paix ! Peu importe qui vous êtes ou ce que vous voulez. La seule chose que vous trouverez ici, c'est la mort. »		Le dragon poussa un rugissement assourdissant. Je sentis les voûtes de la grotte trembler et quelques cailloux tombèrent sur ma tête. Le garçon nighonien, qui avait depuis longtemps disparu de mon subconscient, hurla de douleur : « Sortez d'ici immédiatement !!! », mais je ne pouvais plus reculer. Plus maintenant. La Corne m'appelait ! Reculer maintenant reviendrait à cracher sur tout ce qui m'était encore cher dans cette vie. Dans le craquement de la roche qui se fendait, j'entendais un grincement inquiétant, comme si des os secs frottaient les uns contre les autres, et je reconnus ce bruit... Je l'avais entendu lorsque le mort avait savouré son bref moment de triomphe sur moi, rejetant en arrière son crâne vide et gloussant d'extase, mais j'avais désormais réglé mes vieux comptes et forcé le destin à se tourner vers moi ! Je devais me battre !!!
 
 (66, 34, 1) ***Power Lich***
 Message:
-"In the name of the Dead God!"
+« Au nom du Dieu Mort ! »
 
 (2, 70, 1) ***Prison***
 Name:
 Siagum
 Biography:
-Siagum is the leader of the mysterious Triangle cult. This teaching says: there is no geometric figure more stable and perfect than a triangle; sooner or later all other figures will wane, so everyone must accept the Triangle into their heart.
+Siagum est le chef du mystérieux culte du Triangle. Cet enseignement dit : il n'existe aucune figure géométrique plus stable et plus parfaite que le triangle ; tôt ou tard, toutes les autres figures disparaîtront, c'est pourquoi chacun doit accepter le Triangle dans son cœur.
 
 (3, 71, 1) ***Sea Serpent***
 Message:
-There must be some particularly valuable prisoner being held in this prison. Otherwise, why would there be so many snakes here?
+Il doit y avoir un prisonnier particulièrement précieux détenu dans cette prison. Sinon, pourquoi y aurait-il autant de serpents ici ?
 
 (15, 22, 1) ***Event***
 Message:
@@ -619,6 +618,6 @@ Message:
 
 (71, 66, 1) ***Ocean Bottle***
 Message:
-Thank you for playing our campaign! Hope you enjoyed it.
+Merci d'avoir participé à notre campagne ! Nous espérons que vous l'avez appréciée.
 
 ===== End of file =====
