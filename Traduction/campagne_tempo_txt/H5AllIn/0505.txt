@@ -1,5 +1,5 @@
 ===== Map name =====
-À la poursuite du rêve
+À la Poursuite d'un Rêve
 
 ===== Map description =====
 Dargem doit trouver l'entrée du donjon où se trouve la Corne des Abysses et vaincre le Gardien dans un délai de 3 mois. Pour y parvenir, il devra éliminer Boyd. Le niveau du héros est illimité.
@@ -21,17 +21,17 @@ Journal de Dargem. Entrée 302        « Nos chemins se sont séparés : la flot
 Name:
 05
 Message:
-Journal de Dargem. Entrée 303        « Casmetra et ses sorcières ont promis qu'elles seraient capables de détourner l'attention des Tataliens de mes efforts, mais cela ne devrait pas durer plus de trois mois. Les pouvoirs de mon employeuse ne sont pas illimités, même si je dois admettre qu'elle m'a fait forte impression... Mais que peut-on attendre d'une sorcière lâche de Noraston ? Qu'elle sorte une armée d'elfes et de licornes de sa poche ? Je veux dire... J'ai longtemps été tourmenté par des doutes quant à son identité, mais à ce stade, cela n'a plus aucune importance. J'aurais aimé pouvoir persuader Gunnar de rester avec nous, mais le colosse à cornes avait trop peur de déplaire à ses maîtres nighoniens. Le Minotaure et ses sbires me seraient d'une grande aide maintenant que je dois vaincre le Gardien, quel qu'il soit.		Il faut dire que rien de ce que j'ai à faire ici n'est simple ! Comme l'a dit Casmetra, pour atteindre le Gardien, il faut trouver les clés. Et quelles sont-elles ? Je n'en sais rien. La seule chose dont nous sommes sûrs, c'est que les clés se trouvent également quelque part dans cet archipel. Il est temps de quitter l'île et de commencer les recherches.
+Journal de Dargem. Entrée 303        « Casmetra et ses sorcières ont promis qu'elles seraient capables de détourner l'attention des Tataliens de mes efforts, mais cela ne devrait pas durer plus de trois mois. Les pouvoirs de mon employeuse ne sont pas illimités, même si je dois admettre qu'elle m'a fait forte impression... Mais que peut-on attendre d'une sorcière lâche de Noraston ? Qu'elle sorte une armée d'elfes et de Licornes de sa poche ? Je veux dire... J'ai longtemps été tourmenté par des doutes quant à son identité, mais à ce stade, cela n'a plus aucune importance. J'aurais aimé pouvoir persuader Gunnar de rester avec nous, mais le colosse à cornes avait trop peur de déplaire à ses maîtres nighoniens. Le Minotaure et ses sbires me seraient d'une grande aide maintenant que je dois vaincre le Gardien, quel qu'il soit.		Il faut dire que rien de ce que j'ai à faire ici n'est simple ! Comme l'a dit Casmetra, pour atteindre le Gardien, il faut trouver les clés. Et quelles sont-elles ? Je n'en sais rien. La seule chose dont nous sommes sûrs, c'est que les clés se trouvent également quelque part dans cet archipel. Il est temps de quitter l'île et de commencer les recherches.
 
 Name:
 08
 Message:
-Journal de Dargem. Entrée 304 « J'ai eu une idée : ici, il vaut mieux être économe en magie. Je dois me défaire de l'habitude de lancer des sorts puissants pour un rien, comme je le faisais auparavant. Je ne sais pas quand ni où je pourrai trouver une source pour reconstituer mes réserves de magie, et si je me retrouve à court au mauvais moment, mon expédition prendra fin bien plus tôt que je ne le souhaiterais. »
+Journal de Dargem. Entrée 304		« J'ai eu une idée : ici, il vaut mieux être économe en magie. Je dois me défaire de l'habitude de lancer des sorts puissants pour un rien, comme je le faisais auparavant. Je ne sais pas quand ni où je pourrai trouver une source pour reconstituer mes réserves de magie, et si je me retrouve à court au mauvais moment, mon expédition prendra fin bien plus tôt que je ne le souhaiterais. »
 
 Name:
 09
 Message:
-Journal de Dargem. Entrée 306 « J'ai longuement réfléchi à l'identité du Gardien. Puis, la réponse m'est venue, comme une révélation. Il s'agit sans aucun doute d'un dragon azur. Peut-être même plusieurs. Ces créatures sont parfois appelées « dragons de glace », bien qu'elles n'aient que peu de points communs avec la glace ou tout autre élément. Elles sont incroyablement gigantesques, féroces et anciennes. Personne ne sait vraiment s'ils sont apparus naturellement ou s'ils sont l'œuvre d'un précurseur d'Agar datant d'avant le Silence. Contrairement aux créatures dociles, ou du moins contrôlables, que les sorciers créent à l'aide de la magie et de l'alchimie, les dragons azur sont exceptionnellement intelligents et volontaires. Heureusement, ils sont assez rares, et de plus, certains chevaliers et mages considèrent qu'il est de leur devoir d'en tuer un, juste pour se faire mousser. Il convient de souligner ici que les chasseurs tués dans ces entreprises sont bien plus nombreux que les dragons réellement abattus, mais les nouveaux fous ne manquent jamais. La réputation acquise par ces dragons azur est donc particulière, et ils préfèrent s'installer dans des endroits oubliés des dieux ; parfois, sans le vouloir, ils deviennent également les gardiens d'artefacts anciens et d'autres objets de valeur, simplement en s'installant à proximité. Si vous parvenez à trouver un donjon où aucun humain n'a mis les pieds depuis plusieurs siècles, il y a presque certainement un monstre de ce genre qui vous attend à l'intérieur.
+Journal de Dargem. Entrée 306		« J'ai longuement réfléchi à l'identité du Gardien. Puis, la réponse m'est venue, comme une révélation. Il s'agit sans aucun doute d'un Dragon Azur. Peut-être même plusieurs. Ces créatures sont parfois appelées « dragons de glace », bien qu'elles n'aient que peu de points communs avec la glace ou tout autre élément. Elles sont incroyablement gigantesques, féroces et anciennes. Personne ne sait vraiment s'ils sont apparus naturellement ou s'ils sont l'œuvre d'un précurseur d'Agar datant d'avant le Silence. Contrairement aux créatures dociles, ou du moins contrôlables, que les Démonistes créent à l'aide de magie et d'alchimie, les Dragons Azur sont exceptionnellement intelligents et volontaires. Heureusement, ils sont assez rares, et de plus, certains Chevaliers et Mages considèrent qu'il est de leur devoir d'en tuer un, juste pour se faire mousser. Il convient de souligner ici que les chasseurs tués dans ces entreprises sont bien plus nombreux que les dragons réellement abattus, mais les nouveaux fous ne manquent jamais. La réputation acquise par ces Dragons Azur est donc particulière, et ils préfèrent s'installer dans des endroits oubliés des dieux ; parfois, sans le vouloir, ils deviennent également les gardiens d'artefacts anciens et d'autres objets de valeur, simplement en s'installant à proximité. Si vous parvenez à trouver un donjon où aucun humain n'a mis les pieds depuis plusieurs siècles, il y a presque certainement un monstre de ce genre qui vous attend à l'intérieur. »
 
 Name:
 15
@@ -51,17 +51,17 @@ Journal de Dargem. Entrée 320        « Les habitants de l'archipel me déconce
 Name:
 32 - Áàëôîð
 Message:
-Extrait du journal de Dargem : « Est-ce que je perds la tête ? On dirait plutôt une maison ouverte au public qu'un lieu où l'un des plus grands artefacts de l'histoire mondiale est conservé dans le plus grand secret. Je viens d'apprendre par les habitants que Black Balfour rôde dans les environs depuis plusieurs semaines. C'est sans aucun doute un pirate éminent, mais certainement pas un connaisseur de raretés ; pour être honnête, c'est un personnage grossier et tout à fait désagréable. Quel vent l'a amené ici ? Et pourquoi maintenant ? Est-ce que ce serpent de Casmetra l'a attiré ici aussi, pour s'assurer que je ne parte pas d'ici sain et sauf avec le Cor ? Eh bien, que ce salaud essaie ! Je lui infligerai un traitement de choc, il deviendra noir comme un tison et méritera enfin pleinement son surnom !		Une fois que je me serai occupé de lui, je trouverai Casmetra... Mais d'abord, je vais lui arracher ce stupide gant de la main. Était-ce pour m'impressionner ou quoi ? Je n'ai pas cinq ans, des yeux brillants et des griffes en fer ne me font pas peur. Ensuite, je ferai disparaître le plâtre magique de son visage pour voir son véritable âge, car il est impossible d'accumuler autant de traîtrise et de méchanceté dans son âme en une seule vie. Et puis... Puis je me lasserai probablement de m'amuser avec cette vieille sorcière inutile ; d'ici là, j'aurai la Corne des Abysses entre les mains ! Je pense que je vais simplement la laisser partir... et la regarder s'envoler, car elle va se jeter du balcon de sa tour maudite qui ressemble tant à un club de gobelins. Corne des Abysses ! Je ne te laisserai pas être souillée par les pattes de demi-fous sanguinaires et de diseuses de bonne aventure présomptueuses. Tu seras mienne, mienne ! »
+Extrait du journal de Dargem :		« Est-ce que je perds la tête ? On dirait plutôt une maison ouverte au public qu'un lieu où l'un des plus grands artefacts de l'histoire mondiale est conservé dans le plus grand secret. Je viens d'apprendre par les habitants que Black Balfour rôde dans les environs depuis plusieurs semaines. C'est sans aucun doute un pirate éminent, mais certainement pas un connaisseur de raretés ; pour être honnête, c'est un personnage grossier et tout à fait désagréable. Quel vent l'a amené ici ? Et pourquoi maintenant ? Est-ce que ce serpent de Casmetra l'a attiré ici aussi, pour s'assurer que je ne parte pas d'ici sain et sauf avec la Corne ? Eh bien, que ce salaud essaie ! Je lui infligerai un traitement de choc, il deviendra noir comme un tison et méritera enfin pleinement son surnom !		Une fois que je me serai occupé de lui, je trouverai Casmetra... Mais d'abord, je vais lui arracher ce stupide gant de la main. Était-ce pour m'impressionner ou quoi ? Je n'ai pas cinq ans, des yeux brillants et des griffes en fer ne me font pas peur. Ensuite, je ferai disparaître le plâtre magique de son visage pour voir son véritable âge, car il est impossible d'accumuler autant de traîtrise et de méchanceté dans son âme en une seule vie. Et puis... Puis je me lasserai probablement de m'amuser avec cette vieille sorcière inutile ; d'ici là, j'aurai la Corne des Abysses entre les mains ! Je pense que je vais simplement la laisser partir... et la regarder s'envoler, car elle va se jeter du balcon de sa tour maudite qui ressemble tant à un club de gobelins. Corne des Abysses ! Je ne te laisserai pas être souillée par les pattes de demi-fous sanguinaires et de diseuses de bonne aventure présomptueuses. Tu seras mienne, mienne ! »
 
 Name:
 40
 Message:
-Journal de Dargem. Entrée 322        « Aujourd'hui, un navire s'est dangereusement approché de l'archipel. Je ne sais pas s'il s'agissait d'un navire tatalien ou erathien. Je n'ai pas pu voir son pavillon. Peut-être s'agissait-il simplement d'un corsaire. Une fois de plus, je me rappelle qu'il n'y a pas de temps à perdre. Si des hordes d'hommes-lézards chevauchant des basilics débarquent ici, ma seule option sera de fuir. Si cette bataille a lieu, je n'aurai aucun allié à mes côtés, même pas ceux aussi douteux que Kilgor et sa horde. »
+Journal de Dargem. Entrée 322        « Aujourd'hui, un navire s'est dangereusement approché de l'archipel. Je ne sais pas s'il s'agissait d'un navire tatalien ou erathien. Je n'ai pas pu voir son pavillon. Peut-être s'agissait-il simplement d'un corsaire. Une fois de plus, je me rappelle qu'il n'y a pas de temps à perdre. Si des hordes d'hommes-lézards chevauchant des Basilics débarquent ici, ma seule option sera de fuir. Si cette bataille a lieu, je n'aurai aucun allié à mes côtés, même pas ceux aussi douteux que Kilgor et sa horde. »
 
 Name:
 47
 Message:
-Journal de Dargem. Entrée 333 « Aujourd'hui, j'ai senti à nouveau souffler ce vent sinistre, comme lors de la tempête qui a failli faire chavirer mon expédition ! J'ai commencé à transpirer à grosses gouttes et à trembler. J'avais l'impression que le ciel lui-même riait de manière inquiétante... et mes soupçons se sont confirmés. Le Dieu mort est mon vieil ami, Boyd. Le voleur et le voyou qui a comploté contre moi ! La dernière fois que nous nous sommes rencontrés, je suis simplement parti, mais j'aurais dû traquer cette charogne ambulante et la brûler avec la foudre ! J'ai levé la tête vers le ciel et j'ai crié : « Hé, tête d'os ! Rencontrons-nous et réglons ça comme des hommes, même si tout ce que tu avais de masculin a depuis longtemps pourri ! J'ai tué ma part de mages puissants, de guerriers et de bêtes, et je tuerai volontiers une deuxième fois un clown mort sans cervelle si je le dois ! Ni toi, ni les dragons, ni quoi que ce soit d'autre ne se mettra en travers de mon chemin quand j'irai réclamer la Corne des Abysses ! » Un marin m'a tapé sur l'épaule et m'a demandé si j'allais bien. J'ai été surpris et j'ai même laissé tomber mon chapeau. Le marin l'a ramassé et me l'a tendu. J'ai souri et déclaré que très bientôt, nous enverrions au fond de la mer un vieux épouvantail pourri qui avait abusé de l'hospitalité de ce monde ! Mon équipage a accueilli cette annonce avec des acclamations enthousiastes.
+Journal de Dargem. Entrée 333		« Aujourd'hui, j'ai senti à nouveau souffler ce vent sinistre, comme lors de la tempête qui a failli faire chavirer mon expédition ! J'ai commencé à transpirer à grosses gouttes et à trembler. J'avais l'impression que le ciel lui-même riait de manière inquiétante... et mes soupçons se sont confirmés. Le Dieu mort est mon vieil ami, Boyd. Le voleur et le voyou qui a comploté contre moi ! La dernière fois que nous nous sommes rencontrés, je suis simplement parti, mais j'aurais dû traquer cette charogne ambulante et la brûler avec la foudre !		J'ai levé la tête vers le ciel et j'ai crié : « Hé, tête d'os ! Rencontrons-nous et réglons ça comme des hommes, même si tout ce que tu avais de masculin a depuis longtemps pourri ! J'ai tué ma part de mages puissants, de guerriers et de bêtes, et je tuerai volontiers une deuxième fois un clown mort sans cervelle si je le dois ! Ni toi, ni les dragons, ni quoi que ce soit d'autre ne se mettra en travers de mon chemin quand j'irai réclamer la Corne des Abysses ! »		Un marin m'a tapé sur l'épaule et m'a demandé si j'allais bien. J'ai été surpris et j'ai même laissé tomber mon chapeau. Le marin l'a ramassé et me l'a tendu. J'ai souri et déclaré que très bientôt, nous enverrions au fond de la mer un vieux épouvantail pourri qui avait abusé de l'hospitalité de ce monde ! Mon équipage a accueilli cette annonce avec des acclamations enthousiastes.
 
 ===== Heroes =====
 
@@ -75,7 +75,7 @@ C'est fait, mon seigneur Dargem ! Voulez-vous monter à bord ?
 
 (5, 63, 0) ***Event***
 Message:
-Extrait du journal de Dargem : « Un homme grand et borgne a évalué les dégâts. Selon lui, il faudrait au moins une semaine et demie pour réparer la planche brisée. Ce retard est malheureusement inévitable, mais cela nous laisse le temps de trouver une source d'eau et des provisions. En plus de cela, nous devrons trouver deux autres navires. Je suis bien sûr impatient de mettre la main sur le Horn, mais je ne peux pas me permettre d'être irresponsable pour l'instant. »
+Extrait du journal de Dargem :		« Un homme grand et borgne a évalué les dégâts. Selon lui, il faudrait au moins une semaine et demie pour réparer la planche brisée. Ce retard est malheureusement inévitable, mais cela nous laisse le temps de trouver une source d'eau et des provisions. En plus de cela, nous devrons trouver deux autres navires. Je suis bien sûr impatient de mettre la main sur la Corne, mais je ne peux pas me permettre d'être irresponsable pour l'instant. »
 
 (15, 52, 0) ***Seer's Hut***
 Message:
@@ -111,7 +111,7 @@ Le chef des sauvages de l'archipel a dû utiliser plus que sa force et sa féroc
 
 (22, 52, 0) ***Event***
 Message:
-Extrait du journal de Dargem : « Comme je m'y attendais, j'ai joué de malchance. Nous avons atterri sur une île peuplée de nombreux sauvages dangereux. Malgré tous ces problèmes, je reste un puissant mage, et je suppose que personne n'a jamais rencontré une telle puissance dans ce coin perdu du monde. Je vais peut-être montrer à ces cannibales quelques-uns de mes petits tours. Cela devrait suffire pour qu'ils comprennent qui est le chef ici ! »
+Extrait du journal de Dargem :		« Comme je m'y attendais, j'ai joué de malchance. Nous avons atterri sur une île peuplée de nombreux sauvages dangereux. Malgré tous ces problèmes, je reste un puissant mage, et je suppose que personne n'a jamais rencontré une telle puissance dans ce coin perdu du monde. Je vais peut-être montrer à ces cannibales quelques-uns de mes petits tours. Cela devrait suffire pour qu'ils comprennent qui est le chef ici ! »
 
 (42, 70, 0) ***Master Genie***
 Message:
@@ -139,9 +139,9 @@ Message:
 
 (30, 42, 0) ***Seer's Hut***
 Message:
-Ici vit un mage ogre qui est importuné par des dragons féériques : apparemment, ceux-ci sont attirés par les pouvoirs magiques du lanceur de sorts à la peau verte. Si je parviens à les trouver et à m'en débarrasser, l'ogre m'en sera reconnaissant.
+Ici vit un Ogre Mage qui est importuné par des Dragons Féeriques : apparemment, ceux-ci sont attirés par les pouvoirs magiques du lanceur de sorts à la peau verte. Si je parviens à les trouver et à m'en débarrasser, l'Ogre m'en sera reconnaissant.
 Tant que les dragons seront en vie, il n'y aura pas de récompense.
-L'ogre est très heureux de pouvoir continuer à étudier la magie en toute tranquillité. En guise de récompense, il souhaite m'offrir quelque chose qui ne lui sert à rien.
+L'Ogre est très heureux de pouvoir continuer à étudier la magie en toute tranquillité. En guise de récompense, il souhaite m'offrir quelque chose qui ne lui sert à rien.
 
 (23, 58, 0) ***Hobgoblin***
 Message:
@@ -150,12 +150,12 @@ Message:
 (69, 3, 0) ***Quest Guard***
 Message:
 J'ai vu un rocher plat. D'après les notes de Casmetra, l'entrée devrait se trouver ici, mais où exactement ? J'ai longuement palpé la surface lisse, jusqu'à ce que je trouve une série d'encoches à peine visibles. Apparemment, il faut y insérer des clés pour ouvrir l'entrée.
-Il m'en faut exactement 8, je ne peux pas passer sans elles. 
+Il me faut exactement 8 clés, je ne peux pas passer sans elles. 
 J'ai enfin toutes les clés ! Je n'ai jamais été aussi proche de la victoire. Il ne me reste plus qu'à murmurer les mots magiques.
 
 (70, 1, 0) ***Sign***
 Message:
-Donjon du Serpent vengeur
+Donjon du Serpent Vengeur
 
 (45, 66, 0) ***Seer's Hut***
 Message:
@@ -189,7 +189,7 @@ Message:
 
 (19, 50, 0) ***Troll***
 Message:
-« T'es p'tit et faible ! Moi, j'suis grand et fort ! »
+« Toissa p'tit et faible ! Moissa, grand et fort ! »
 
 (13, 17, 0) ***Cove***
 Name:
@@ -213,7 +213,7 @@ Coupez quelques cous de canard pour le dîner...
 
 (12, 23, 0) ***Cyclops***
 Message:
-« Tu as de la chance ! Quand je t'aurai crevé un œil, tu en auras toujours l'autre ! »
+« Vous avez de la chance ! Quand je vous aurai crevé un œil, vous aurez toujours l'autre ! »
 
 (2, 34, 0) ***Serpent Fly***
 Message:
@@ -227,11 +227,11 @@ Dès que les harpies ont vu leurs sœurs, elles se sont mises à applaudir, fais
 
 (4, 15, 0) ***Wolf Raider***
 Message:
-« Nous allons te sacrifier au Dieu Mort ! »
+« Nous allons vous sacrifier au Dieu Mort ! »
 
 (8, 23, 0) ***Beholder***
 Message:
-Ces yeux maléfiques sont à découvert. Ils ont dû être effrayés par le Dragon Azure... ou par autre chose ?
+Ces Yeux Maléfiques sont à découvert. Ils ont dû être effrayés par le Dragon Azure... ou par autre chose ?
 
 (3, 26, 0) ***Harpy Hag***
 Message:
@@ -321,7 +321,7 @@ Message:
 
 (63, 28, 0) ***Gog***
 Message:
-« Le soufre est magnifique quand il brûle ! Tu veux voir ? »
+« Le soufre est magnifique quand il brûle ! Voulez-vous voir ? »
 
 (56, 67, 0) ***Rust Dragon***
 Message:
@@ -333,11 +333,11 @@ Extrait du journal de Dargem : « J'ai rencontré une bardesse qui m'a offert à
 
 (14, 71, 0) ***Event***
 Message:
-Extrait du journal de Dargem : « Et ainsi, mon aventure continue ! Aucun homme ni aucune chose ne m'empêchera de m'emparer de la Corne des Abysses ! Selon la légende, la Corne est suffisamment puissante pour que je n'aie plus à craindre Casmetra ni ceux qui la soutiennent, si je parviens à la posséder. Je n'ai plus aucun doute sur le fait qu'elle n'est pas celle qu'elle prétend être, mais quelle que soit sa véritable nature, je serai capable de protéger ma découverte ! Ce qui m'inquiète cependant, c'est ce Dieu Mort. Se pourrait-il que... Non. C'est absurde. Ce tas d'os devrait se trouver à des milliers de kilomètres d'ici à présent, à moins qu'il n'ait déjà été mis en terre par un prêtre ou un paladin. »
+Extrait du journal de Dargem : « Et ainsi, mon aventure continue ! Aucun homme ni aucune chose ne m'empêchera de m'emparer de la Corne des Abysses ! Selon la légende, la Corne est suffisamment puissante pour que je n'aie plus à craindre Casmetra ni ceux qui la soutiennent, si je parviens à la posséder. Je n'ai plus aucun doute sur le fait qu'elle n'est pas celle qu'elle prétend être, mais quelle que soit sa véritable nature, je serai capable de protéger ma découverte !		Ce qui m'inquiète cependant, c'est ce Dieu Mort. Se pourrait-il que... Non. C'est absurde. Ce tas d'os devrait se trouver à des milliers de kilomètres d'ici à présent, à moins qu'il n'ait déjà été mis en terre par un prêtre ou un paladin. »
 
 (46, 63, 0) ***Ocean Bottle***
 Message:
-DARGEM ! JE T'ATTENDS !
+DARGEM ! JE VOUS ATTENDS !
 
 (4, 70, 0) ***Ocean Bottle***
 Message:
@@ -379,7 +379,7 @@ Message:
 
 (27, 63, 0) ***Dragon Fly***
 Message:
-Y a-t-il quelque chose de pire que d'énormes guêpes dragons ? Peut-être seulement d'énormes bourdons carnivores. Heureusement qu'ils n'existent pas. Ou est-ce simplement parce que personne n'a jamais réussi à leur échapper vivant pour raconter l'histoire ?...
+Y a-t-il quelque chose de pire que d'énormes Guêpes Dragons ? Peut-être seulement d'énormes bourdons carnivores. Heureusement qu'ils n'existent pas. Ou est-ce simplement parce que personne n'a jamais réussi à leur échapper vivant pour raconter l'histoire ?...
 
 (28, 59, 0) ***Gnoll***
 Message:
@@ -395,11 +395,11 @@ Dès que nous sommes sortis du portail, d'énormes statues animées se sont pré
 
 (49, 48, 0) ***Nix***
 Message:
-« Ne bougez plus ! »
+« Ssssssssstop ! »
 
 (46, 48, 0) ***Event***
 Message:
-Extrait du journal de Dargem : « Une surprise : nous avons trouvé un campement de mercenaires abandonné. On dirait que ceux qui l'ont installé se sont rassemblés pendant la nuit et sont partis en emportant seulement le strict nécessaire. Qu'est-ce qui a bien pu effrayer ces voyous à ce point ? Je crois avoir une petite idée. Il y a probablement un passage secret menant à la surface depuis le donjon où vivent les dragons azur, et de temps en temps, ceux-ci sortent pour attraper un dîner qui sent un peu moins le moisi que leurs proies habituelles. L'apparition soudaine d'une telle créature devant eux a sans doute poussé les mercenaires à prendre la fuite. »
+Extrait du journal de Dargem : « Une surprise : nous avons trouvé un campement de mercenaires abandonné. On dirait que ceux qui l'ont installé se sont rassemblés pendant la nuit et sont partis en emportant seulement le strict nécessaire. Qu'est-ce qui a bien pu effrayer ces voyous à ce point ? Je crois avoir une petite idée. Il y a probablement un passage secret menant à la surface depuis le donjon où vivent les Dragons Azur, et de temps en temps, ceux-ci sortent pour attraper un dîner qui sent un peu moins le moisi que leurs proies habituelles. L'apparition soudaine d'une telle créature devant eux a sans doute poussé les mercenaires à prendre la fuite. »
 
 (44, 58, 0) ***Crystal Dragon***
 Message:
@@ -411,15 +411,15 @@ Que sont ces créatures cauchemardesques issues des rêves d'un fou ?!
 
 (5, 31, 0) ***Scorpicore***
 Message:
-Que font les scorpicores ici ? Quelque chose a dû les forcer à quitter les grottes.
+Que font des Scorpicores ici ? Quelque chose a dû les forcer à quitter les grottes.
 
 (15, 41, 0) ***Wyvern***
 Message:
-J'ai entendu certaines personnes appeler ces créatures « canards ». Il me semble que les wyvernes ont beaucoup plus en commun avec les oies, mais je dois admettre que je ne suis pas le plus grand ornithologue qui soit.
+J'ai entendu certaines personnes appeler ces créatures « canards ». Il me semble que les Wyvernes ont beaucoup plus en commun avec les oies, mais je dois admettre que je ne suis pas le plus grand ornithologue qui soit.
 
 (14, 45, 0) ***Nix***
 Message:
-« C'est notre preccccieux anneau ! »
+« Cccc'est notre preccccieux anneau ! »
 
 (52, 42, 0) ***Magma Elemental***
 Message:
@@ -439,7 +439,7 @@ Apparemment, ces monstres sauvages sont descendus des montagnes pour trouver de 
 
 (32, 64, 0) ***Lizard Warrior***
 Message:
-« Que font les humains ici ? »
+« Que font les humains icccci ? »
 
 (15, 63, 0) ***Rogue***
 Message:
@@ -479,7 +479,7 @@ Suis-je prêt à prendre ce risque ?
 
 (17, 44, 0) ***Mummy***
 Message:
-Les momies locales sont bel et bien mortes, mais pour une raison quelconque, elles continuent de marcher. Il faut remédier à cela.
+Les Momies locales sont bel et bien mortes, mais pour une raison quelconque, elles continuent de marcher. Il faut remédier à cela.
 
 (70, 54, 0) ***Automaton***
 Message:
@@ -499,7 +499,7 @@ Extrait du journal de Dargem : « Bruyantes et stupides, les harpies vivent gén
 
 (20, 58, 0) ***Event***
 Message:
-Extrait du journal de Dargem : « Alors que nous explorions l'île, nous sommes tombés sur une hutte au toit de chaume. J'ai dégainé mon sabre et préparé un rayon de glace, au cas où quelqu'un nous attaquerait — toutes les créatures que nous rencontrons sur cette maudite île essaient de nous dévorer ! Mes craintes étaient infondées. Un chaman orc décrépit et d'apparence inoffensive est sorti en titubant de la hutte, nous a jeté un regard aveugle et a croassé :	« Je sais pourquoi tu es ici, umie. Tu veux entrer dans le donjon du Serpent vengeur. » « J'espère que « umie » n'est pas une insulte, sinon je vais geler ta tête vide et la fendre comme une citrouille pourrie », ai-je répondu. « Si tu me touches, umie, tu ne sauras jamais comment atteindre ton but ! »		J'ai trouvé cet argument raisonnable, alors j'ai laissé la magie s'évanouir et j'ai rangé ma lame. Une conversation étonnamment approfondie a eu lieu entre nous, et j'ai appris que je devais trouver huit pendentifs pour entrer dans le donjon du Gardien. Six d'entre eux sont cachés dans différentes parties de l'île, et je dois faire très attention à ne pas les manquer. L'un est détenu par un pirate, et un autre est en possession d'un « dieu mort ». Je n'aimais pas du tout ce dernier ! Lorsque j'ai demandé au chaman ce qu'était ce « dieu mort », il s'est contenté de rire sinistrement. Il m'a ensuite invité à entrer dans la hutte, où il me montrerait l'emplacement de certains des pendentifs dans son chaudron magique.
+Extrait du journal de Dargem :		« Alors que nous explorions l'île, nous sommes tombés sur une hutte au toit de chaume. J'ai dégainé mon sabre et préparé un rayon de glace, au cas où quelqu'un nous attaquerait - toutes les créatures que nous rencontrons sur cette maudite île essaient de nous dévorer !		Mes craintes étaient infondées. Un chaman orque décrépit et d'apparence inoffensive est sorti en titubant de la hutte, nous a jeté un regard aveugle et a croassé :	« Je sais pourquoi vous êtes ici, umie. Vous voulez entrer dans le donjon du Serpent vengeur. »		« J'espère que « umie » n'est pas une insulte, sinon je vais geler votre tête vide et la fendre comme une citrouille pourrie », ai-je répondu.		« Si vous me touchez, umie, vous ne saurez jamais comment atteindre votre but ! »		J'ai trouvé cet argument raisonnable, alors j'ai laissé la magie s'évanouir et j'ai rangé ma lame. Une conversation étonnamment approfondie a eu lieu entre nous, et j'ai appris que je devais trouver huit pendentifs pour entrer dans le donjon du Gardien. Six d'entre eux sont cachés dans différentes parties de l'île, et je dois faire très attention à ne pas les manquer. L'un est détenu par un pirate, et un autre est en possession d'un certain « dieu mort ». Je n'aimais pas du tout ce dernier ! Lorsque j'ai demandé au chaman ce qu'était ce « dieu mort », il s'est contenté de rire sinistrement. Il m'a ensuite invité à entrer dans la hutte, où il me montrerait l'emplacement de certains des pendentifs dans son chaudron magique. »
 
 (33, 55, 0) ***Green Dragon***
 Message:
@@ -548,13 +548,13 @@ Message:
 
 (64, 36, 0) ***Quest Guard***
 Message:
-Encore une sorte de barrière magique... Après l'avoir étudiée, j'en suis venu à la conclusion que je devrais pouvoir la dissiper avec un artefact tel que le globe d'inhibition.
+Encore une sorte de barrière magique... Après l'avoir étudiée, j'en suis venu à la conclusion que je devrais pouvoir la dissiper avec un artefact tel que le Globe d'Inhibition.
 Je ne pense pas pouvoir faire quoi que ce soit sans le globe.
-Les barrières ne sont pas un obstacle pour Dargem Llywellyn ! J'ai brandi le globe d'inhibition devant le mur magique, et celui-ci s'est mis à trembler. Le détruire ?
+Les barrières ne sont pas un obstacle pour Dargem Llywellyn ! J'ai brandi le Globe d'Inhibition devant le mur magique, et celui-ci s'est mis à trembler. Le détruire ?
 
 (71, 4, 0) ***Event***
 Message:
-Extrait du journal de Dargem : « Selon les instructions de Casmetra, voici l'île. Elle est entourée d'eaux très agitées, et la profondeur augmente brusquement à quelques coudées du rivage, mais pour une raison quelconque, les vagues n'ont pas emporté le sable qui la recouvre... J'ai étudié attentivement la surface de l'île et j'ai réalisé que le souffle des dragons azur a un effet particulier sur l'environnement : il provoque la cristallisation de toute matière. Ce n'est pas du sable, mais du sel ! Il semble que les eaux environnantes se transforment progressivement en sel ; de nouveaux grains s'accrochent à la masse, et l'île grossit lentement. Quelle puissance monstrueuse une telle transformation doit-elle nécessiter ! Cependant, il devrait être beaucoup plus facile de transmuter le corps humain en cristal ; il contient beaucoup plus de matière déjà solide. J'ai imaginé le processus de transformation en pilier de sel. J'ai frissonné. » 
+Extrait du journal de Dargem : « Selon les instructions de Casmetra, voici l'île. Elle est entourée d'eaux très agitées, et la profondeur augmente brusquement à quelques coudées du rivage, mais pour une raison quelconque, les vagues n'ont pas emporté le sable qui la recouvre... J'ai étudié attentivement la surface de l'île et j'ai réalisé que le souffle des Dragons Azur a un effet particulier sur l'environnement : il provoque la cristallisation de toute matière. Ce n'est pas du sable, mais du sel ! Il semble que les eaux environnantes se transforment progressivement en sel ; de nouveaux grains s'accrochent à la masse, et l'île grossit lentement. Quelle puissance monstrueuse une telle transformation doit-elle nécessiter ! Cependant, il devrait être beaucoup plus facile de transmuter le corps humain en cristal ; il contient beaucoup plus de matière déjà solide. J'ai imaginé le processus de transformation en pilier de sel. J'ai frissonné. » 
 
 (13, 71, 0) ***Event***
 Message:
@@ -584,19 +584,19 @@ Boyd
 
 (1, 4, 1) ***Faerie Dragon***
 Message:
-Il semble que ce soit le dragon dont se plaignait le mage ogre.
+Il semble que ce soit le dragon dont se plaignait l'Ogre Mage.
 
 (9, 28, 1) ***Event***
 Message:
-Extrait du journal de Dargem : « Il semble que ces grottes soient beaucoup plus vastes qu'elles ne le paraissent. La clé du succès réside dans le choix du bon chemin et dans le fait de ne pas perdre de temps. »
+Extrait du journal de Dargem :		« Il semble que ces grottes soient beaucoup plus vastes qu'elles ne le paraissent. La clé du succès réside dans le choix du bon chemin et dans le fait de ne pas perdre de temps. »
 
 (56, 6, 1) ***Event***
 Message:
-Extrait du journal de Dargem : « Il y avait des tas de sel glacé sur le sol, vestiges de mes prédécesseurs. Je pouvais sentir le souffle des dragons azur. Les créatures m'attendaient dans l'obscurité de la grotte. Je dois... Je dois les vaincre ! C'est une raison qui vaut la peine de vivre ! Le but de toute mon existence est la Corne des Abysses ! Je sais maintenant pourquoi j'ai travaillé toutes ces années. Pourquoi j'ai lutté contre le destin. Je n'ai plus peur, je suis déterminé. À l'intérieur de cette grotte se trouve la réponse à toutes les questions, la récompense pour tout ce que j'ai enduré jusqu'ici. Je suis sur le point d'obtenir ce que je mérite. Encore un pas... »
+Extrait du journal de Dargem : « Il y avait des tas de sel glacé sur le sol, vestiges de mes prédécesseurs. Je pouvais sentir le souffle des Dragons Azur. Les créatures m'attendaient dans l'obscurité de la grotte. Je dois... Je dois les vaincre ! C'est une raison qui vaut la peine de vivre ! Le but de toute mon existence est la Corne des Abysses ! Je sais maintenant pourquoi j'ai travaillé toutes ces années. Pourquoi j'ai lutté contre le destin. Je n'ai plus peur, je suis déterminé. À l'intérieur de cette grotte se trouve la réponse à toutes les questions, la récompense pour tout ce que j'ai enduré jusqu'ici. Je suis sur le point d'obtenir ce que je mérite. Encore un pas... »
 
 (56, 8, 1) ***Azure Dragon***
 Message:
-« Même ici, il n'y a pas de paix ! Peu importe qui vous êtes ou ce que vous voulez. La seule chose que vous trouverez ici, c'est la mort. » Le dragon poussa un rugissement assourdissant. Je sentis les voûtes de la grotte trembler et quelques cailloux tombèrent sur ma tête. Le garçon nighonien, qui avait depuis longtemps disparu de mon subconscient, hurla de douleur : « Sors d'ici immédiatement !!! », mais je ne pouvais plus reculer. Plus maintenant. La Corne m'appelait ! Reculer maintenant reviendrait à cracher sur tout ce qui m'était encore cher dans cette vie. Dans le craquement de la roche qui se fendait, j'entendais un grincement inquiétant, comme si des os secs frottaient les uns contre les autres, et je reconnus ce bruit... Je l'avais entendu lorsque le mort avait savouré son bref moment de triomphe sur moi, rejetant en arrière son crâne vide et gloussant d'extase, mais j'avais désormais réglé mes vieux comptes et forcé le destin à se tourner vers moi ! Je devais me battre !!!
+« Même ici, il n'y a pas de paix ! Peu importe qui vous êtes ou ce que vous voulez. La seule chose que vous trouverez ici, c'est la mort. »		Le dragon poussa un rugissement assourdissant. Je sentis les voûtes de la grotte trembler et quelques cailloux tombèrent sur ma tête. Le garçon nighonien, qui avait depuis longtemps disparu de mon subconscient, hurla de douleur : « Sortez d'ici immédiatement !!! », mais je ne pouvais plus reculer. Plus maintenant. La Corne m'appelait ! Reculer maintenant reviendrait à cracher sur tout ce qui m'était encore cher dans cette vie. Dans le craquement de la roche qui se fendait, j'entendais un grincement inquiétant, comme si des os secs frottaient les uns contre les autres, et je reconnus ce bruit... Je l'avais entendu lorsque le mort avait savouré son bref moment de triomphe sur moi, rejetant en arrière son crâne vide et gloussant d'extase, mais j'avais désormais réglé mes vieux comptes et forcé le destin à se tourner vers moi ! Je devais me battre !!!
 
 (66, 34, 1) ***Power Lich***
 Message:
