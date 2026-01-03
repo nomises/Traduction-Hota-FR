@@ -3,7 +3,7 @@ Donjon des Griffons	Le Donjon des Griffons permet de recruter 3 Griffons supplé
 Donjon des Griffons	Le Donjon des Griffons permet de recruter 3 Griffons Royaux supplémentaires chaque semaine.	
 Chantier Naval	Le Chantier Naval vous permet d'acheter des bateaux.	
 Écuries	Les Écuries fournissent des chevaux aux héros, ce qui augmente leur potentiel de mouvement pendant une semaine.	
-Confrérie de l'Épée	"Cette amélioration de la Taverne augmente le Moral de +2 des troupes postées dans la ville."	
+Confrérie de l'Épée	"Lors d'un siège la Confrérie de l'Épée augmente de +2 le Moral des troupes."	
 		
 		
 		
