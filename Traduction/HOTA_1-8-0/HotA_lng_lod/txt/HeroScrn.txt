@@ -1,0 +1,33 @@
+View Quest Log
+View %s Info
+Additional Hero Characteristics
+View Good Morale Info
+View Neutral Morale Info
+View Bad Morale Info
+View Good Luck Info
+View Neutral Luck Info
+View Bad Luck Info
+View Experience Info
+Select %s
+Empty
+Move %s
+Exchange %s with %s
+View Spells
+View %s Info
+Dismiss %s the %s
+Exit Hero Screen
+Hero Screen
+Combine %s
+Split %s
+View %s %s Info
+View Spell Points Info
+Set army combat formation to 'Loose'
+Set army combat formation to 'Tight'
+Disable Tactics formation
+Enable Tactics formation
+View Special Ability Info
+Click to dismiss this hero
+Setting combat formation to 'Loose' will spread your troops across your side of the battlefield at the start of combat
+Setting combat formation to 'Tight' will group your troops together on your side of the battlefield at the start of combat
+Enabling Tactics formation will allow you to arrange your troops prior to combat (must have the Tactics skill)
+Click to divide these creatures into two stacks
