@@ -194,3 +194,25 @@
 
 ### Crédit
 * HotA_lng.lod/CREDITS.TXT
+
+
+# Fichier a traduire (1.8.0)
+
+## Hota.dat
+### Traduire
+* HotA.txt
+
+## HotA_lng.lod
+### Traduire
+* artraits.txt
+* CAMPBTTN.TXT
+* CREDITS.TXT
+* EDITRCMD.TXT
+* GENRLTXT.TXT
+* HCTRAITS.TXT
+* SeerHut.txt
+* SPTRAITS.TXT
+* SSTRAITS.TXT
+
+### Crédit
+* HotA_lng.lod/CREDITS.TXT
