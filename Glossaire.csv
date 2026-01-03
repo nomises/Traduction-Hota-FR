@@ -2,3 +2,78 @@
 Basic;Novice
 Advanced;Disciple
 Expert;Maître
+Sleepkeeper;Gardien du Sommeil
+Poison;Poison Paralysant
+Bind;Enchevêtrement
+Disease;Contagion
+Paralyze;Venin Paralysant
+Age;Vieillissement
+Death Cloud;Nuage Toxique
+Attack;Attaque
+Defense;Défense
+Spell Power;Magie
+Knowledge;Savoir
+group;effectifs
+Dirt;Terre
+Sand;Désert
+Grass;Prairie
+Snow;Neige
+Swamp;Marais
+Rough;Rocailleux
+Subterranean;Souterrain
+Lava;Lave
+Water;Océan
+Rock;Rocher
+Highlands;Plateau
+Wasteland;Aride
+hex;hexagone
+unit;troupe
+Warlock;Démoniste
+Cornucopia;Manne Céleste
+Horn of the Abyss;Corne des Abysses
+Treasure Artifact;Artéfact Précieux
+Minor Artifact;Artéfact Mineur
+Major Artifact;Artéfact Majeur
+Relic;Relique
+Celestine;Célestine
+Nymph;Nymphe
+Oceanid;Océanide
+Crew Mate;Matelot
+Seaman;Marin
+Pirate;Pirate
+Corsair;Corsaire
+Sea Dogs;Flibustier
+Stormbird;Drac
+Ayssid;Drac Mordoré
+Sea Witch;Sorcière des mers
+Sorceress;Ensorceleuse
+Nix;Nix
+Nix Warrior;Soldat Nix
+Sea Serpent;Serpent de Mer
+Haspid;Haspid
+Halfling Grenadier;Hobbit Grenadier
+Mechanic;Mécanicien
+Engineer;Ingénieur
+Armadillo;Glyptodon
+Bellwether Armadillo;Glyptodon Royal
+Automaton;Automate
+Sentinel Automaton;Automate Sentinelle
+Sandworm;Ver des Sables
+Olgoi-Khorkhoi;Olgoi-Khorkhoi
+Gunslinger;Pistolero
+Bounty Hunter;Chasseur de Prime
+Couatl;Couatl
+Crimson Couatl;Couatl Écarlate
+Dreadnought;Démolisseur
+Juggernaut;Juggernaut
+Keymaster's Tent;Tente du Maître des Clefs
+Border Gate;Poste Frontière
+Border Guard;Garde
+Under the Jolly Roger;Sous le Pavillon du Jolly Roger
+Terror of the Seas;Terreur des Mers
+The Shores of Hell;Les Rivages de l'Enfer
+The Freedom of the Nix;La liberté du Nix
+In Search of the Horn;À la recherche de la corne
+Treachery;Trahison
+The Freedom of the Nix;À la rescousse des Nix
+Treachery;Fourberie
