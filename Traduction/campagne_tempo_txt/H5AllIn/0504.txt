@@ -48,7 +48,6 @@ Name:
 Message:
 Journal de Dargem. Entrée 284        « Les éclaireurs rapportent que les nécromanciens connaissent l'existence de ces tunnels et ont posté des gardes. C'est une mauvaise nouvelle : ils vont essayer de nous retenir pendant qu'ils renforcent leurs forces à la surface.         En plus de cela, un troglodyte a rapporté un mot qu'il a trouvé quelque part dans le donjon. Il est fort probable que quelqu'un l'ait placée là intentionnellement, sachant que tôt ou tard, nous la trouverions.         La note disait :        « Je ne sais pas qui vous êtes ni pour qui vous travaillez, mais je peux émettre une hypothèse. Je dois admettre que c'était une idée assez astucieuse de sortir de terre en plein milieu de notre pays, mais nous ne sommes pas aussi imprudents que les Erathiens pour nous laisser surprendre par une telle ruse. Si vous ne voulez pas devenir des morts-vivants, vous allez maintenant partir d'ici de votre plein gré et emmener votre bande de voyous et de monstres avec vous. Je m'appelle Maximus, conseiller de Kastore, roi de Deyja, et chef militaire ici, et je ne vous permettrai pas de piétiner cette terre plus longtemps. Vivants. »
 
-
 Name:
 ƒень 7
 Message:
@@ -83,7 +82,6 @@ Name:
 ƒень 33
 Message:
 Journal de Dargem. Entrée 290        « Nos hommes ont trouvé un autre message aujourd'hui. Apparemment, ce Cactusis utilise des vampires pour placer ces messages sans se faire remarquer.        Dans le dernier, il a écrit :        « Je vois bien que vous êtes stupides et têtus, mais je m'y attendais. Le bon vieux Monsieur Moustache n'aurait pas envoyé quelqu'un d'autre. Vous préférez mourir plutôt que d'échouer dans votre mission. Ça, je le comprends ! Alors préparez-vous à la guerre. Plus vous traînerez, plus je recevrai de renforts. Nous avons nos propres passages secrets. Vous mourrez tous aux murs de ma forteresse. Maximus. »        Il est probablement temps de lui répondre. Je déteste être insulté tout en étant contraint de rester silencieux. Je me sens vulnérable dans des moments comme celui-ci ! Je dois toujours avoir le dernier mot. Je ne sais pas non plus de qui il parle. Monsieur Moustache ? Apparemment, notre cher Cactusis est devenu paranoïaque.
-
 
 Name:
 ƒень 40
@@ -211,7 +209,6 @@ Message:
 (0, 8, 0) ***Event***
 Message:
 Extrait du journal de Dargem : « Les nécromanciens ont capturé un puissant élémentaire. Ils sont probablement en train de le soumettre à des expériences. J'espère que cette créature n'est pas devenue folle à cause des tortures qu'elle a subies ; elle pourrait accepter de nous aider. À bien y réfléchir... est-ce qu'un rocher peut ressentir la douleur ? »
-
 
 (3, 37, 0) ***Sign***
 Message:
