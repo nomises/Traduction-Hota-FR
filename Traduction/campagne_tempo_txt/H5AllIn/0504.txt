@@ -1,5 +1,5 @@
 ===== Map name =====
-Knee-Deep In The Undead
+Des Morts-Vivants jusqu'aux genoux
 
 ===== Map description =====
 Pour gagner, Dargem doit s'emparer du château de Doom. Le niveau des héros est limité à 32. Après avoir remporté la victoire, Dargem passera au scénario final de la campagne, en conservant toutes ses compétences et tous ses sorts.
@@ -247,7 +247,7 @@ Shademaze
 
 (2, 62, 1) ***Quest Guard***
 Message:
-Seul celui qui porte le symbole de la liberté contre la corruption peut passer ici.
+Seul celui qui est libéré de toute corruption et en porte le symbole peut passer ici.
 Vous êtes impur ! Vous ne pourrez pas passer !
 Vous êtes pur de toute magie noire. Vous pouvez passer.
 

@@ -123,7 +123,7 @@ Message:
 
 (67, 44, 0) ***Red Dragon***
 Message:
-« Hé, marin, tu as passé trop de temps en mer ? »
+« Hé, marin, t'as passé trop de temps en mer ? »
 
 (6, 49, 0) ***Halberdier***
 Message:
