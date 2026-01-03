@@ -170,7 +170,7 @@ Capuche du Vampire	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	N	"{Capuche du Vamp
 Cette capuche accroît de 5% votre puissance en Nécromancie."
 Bottes du Passeur	6000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	J	"{Bottes du Passeur}
 
-Ces bottes améliorent votre puissance en Nécromancie de 7,5%."
+Ces bottes accroissent de 7,5% votre puissance en Nécromancie."
 Talisman de Turbulence	2000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Talisman de Turbulence}
 
 Ce talisman augmente vos chances de résister à un Sort hostile de 5% durant les combats."
@@ -281,7 +281,7 @@ Sphère d'Immanence	7500	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Sphère d'Imm
 Cette sphère immunise vos troupes contre le sort Dissipation de la magie."
 Globe de Vulnérabilité	25000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Globe de Vulnérabilité}
 
-Ce globe neutralise la résistance et l'immunité naturelle à la magie de toutes les créatures. Certains sorts de par leurs particularités annulent les effets du globe, tout comme les créatures immunisées par certains artéfacts."
+Ce globe neutralise la résistance et l'immunité naturelle à la magie de toutes les créatures. Certains sorts, en raison de leurs particularités, annulent les effets du globe, tout comme les créatures immunisées par certains artefacts (excepté Gardien du Sommeil)."
 Anneau de Vitalité	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	T	"{Anneau de Vitalité}
 
 Cet anneau augmente les points de vie de toutes vos troupes de +1"
@@ -383,13 +383,13 @@ Globe d'Inhibition	20000	 	 	 	 	 	x	x	x	x	x		 	 	 	 	 	 	 	 	R	"{Globe d'Inhibi
 Ce puissant globe empêche que des sorts soient utilisés lors des combats."
 Fiole de Sang de Dragon	20000						x	x	x	x	x										R	"{Fiole de Sang de Dragon}
 
-Lorsque votre héros est équipé de cette fiole, tous les dragons sous vos ordres reçoivent un bonus de +5 en attaque et en défense."
+Lorsque votre héros est équipé de cette fiole, tous les dragons sous vos ordres reçoivent un bonus de +5 en attaque et +5 en défense."
 Épée de l'Apocalypse	50000																x				R	"{Épée de l'Apocalypse}
 
-Cette épée améliore les quatre caractéristiques du héros qui en fait usage : + 3 en Attaque, + 3 en Défense, + 3 en Magie, et + 6 en Savoir. Elle lui permet également de disposer du sort Armageddon au niveau Maître dans le livre de sorts, et toutes ses troupes sont immunisées à ce même sort."
+Cette épée améliore les quatre caractéristiques du héros qui en fait usage : +3 en Attaque, +3 en Défense, +3 en Magie, et +6 en Savoir. Elle lui permet également de disposer du sort Armageddon au niveau Maître dans le livre de sorts, et toutes ses troupes sont immunisées à ce même sort."
 Alliance Angélique																	x				R	"{Alliance Angélique}
 
-Permet aux unités du Rempart, de la Tour, de la Forteresse, du Bastion, du Château, de la Crique et du Conflux, d'être mélangées dans une armée sans perte de moral. Lance le sort Faveur Divine au niveau Maître automatiquement au début des combats."
+L'ensemble de l'Alliance Angélique octroie un total de +21 à toutes les statistiques. Permet aux troupes des factions du bien et neutres d'être mélangées dans une armée sans perte de moral. Lance le sort Faveur Divine au niveau Maître automatiquement au début des combats pour une durée de 10 tours."
 Cape du Roi des Morts																			x		R	"{Cape du Roi des Morts}
 
 15% des créatures tuées au cours d'un combat sont ressuscitées en tant que Squelettes. Si le héros possède la compétence Nécromancie, ces 15% sont ajoutés à la compétence et le niveau de cette dernière détermine le type de créatures qui pourront être invoquées. 
@@ -398,43 +398,43 @@ Disciple : Revenants.
 Maître : Liches."
 Élixir de Vie							x	x	x	x	x										R	"{Élixir de Vie}
 
-Toutes les créatures du héros voient leurs points de vie augmenter de 25% et acquièrent une capacité de régénération à hauteur de 50 points de vie par tour. Ne fonctionne pas sur les morts-vivants et les unités ressuscitées."
+L'ensemble de l'Élixir de Vie octroie +4 points de vie à toutes les créatures vivantes du héros, leurs points de vie augmentent de 25% et elles acquièrent une capacité de régénération à hauteur de 50 points de vie par tour."
 Armure des Damnés															x						R	"{Armure des Damnés}
 
-Au début d'un combat, toutes les unités ennemies sont affectées par les sorts suivants pendant 50 tours : Lenteur, Malédiction, Faiblesse et Malchance."
+L'ensemble de l'Armure des Damnés octroie +3 Attaque, +3 Défense, +2 Magie, +2 Savoir. Au début d'un combat, toutes les unités ennemies sont affectées par les sorts suivants pendant 50 tours : Lenteur, Malédiction, Faiblesse et Malchance."
 Statue de Légion							x	x	x	x	x										R	"{Statue de Légion}
 
-La production brute de créatures dans toutes les villes augmente de 50%. (Ne sont pas pris en compte les bâtiments extérieurs et autres bonus)"
+L'ensemble de la Statue de Légion augmente la production des créatures de niveaux 2/3/4/5/6 de 5/4/3/2/1 dans la ville où le héros est présent. La production brute de créatures dans toutes les villes augmente de 50%. (Les bâtiments extérieurs et autres bonus ne sont pas pris en compte.)"
 Mandat du Prime Dragon															x						R	"{Mandat du Prime Dragon}
 
-Cet objet améliore de +6 les quatre caractéristiques du héros. Toutes ses troupes sont immunisées aux sorts de niveau 1 à 4, excepté Dissipation."
+L'ensemble du Mandat du Prime Dragon octroie un total de +21 a toutes les statistiques et un bonus de +1 au moral et à la chance. Toutes ses troupes sont immunisées aux sorts de niveau 1 à 4, excepté Dissipation."
 Tonnerre des Titans																	x				R	"{Tonnerre des Titans}
 
-Le héros gagne la capacité de lancer le sort Éclair de Titan à volonté sans dépenser un seul point de magie, infligeant à chaque fois 600 points de dégâts à l'ennemi. Si votre héros n'en a pas encore, un livre de sort est ajouté définitivement à son inventaire."
+L'ensemble du Tonnerre des Titans octroie +9 Attaque, +9 Défense, +8 Magie, +8 Savoir. Le héros gagne la capacité de lancer le sort Éclair de Titan à volonté sans dépenser un seul point de magie, infligeant à chaque fois 600 points de dégâts à l'ennemi. Si votre héros n'en a pas encore, un livre de sort est ajouté définitivement à son inventaire."
 Bicorne d'Amiral																				x	R	"{Bicorne d'Amiral}
 
-L'embarquement et le débarquement ne coûte pas de points de mouvement. La Bicorne d'Amiral répartit les points de mouvement en fonction du potentiel du héros sur terre et sur mer."
+L'ensemble de la Bicorne d'Amiral octroie +1500 points de mouvement en mer, permet d'appeler ou de saborder un bateau, protège des tourbillons. L'embarquement et le débarquement ne coûtent pas de point de mouvement. La Bicorne d'Amiral répartit les points de mouvement en fonction du potentiel du héros sur terre et sur mer."
 Arc d'Archer d'Élite							x	x	x	x	x						 				R	"{Arc d'Archer d'Élite}
 
-Les unités qui attaquent à distance peuvent tirer même au contact de l'ennemi ou par-dessus celui-ci. Les pénalités de tir à longue portée et par-dessus un obstacle sont annulées."
+L'ensemble de l'Arc d'Archer d'Élite octroie un bonus de 30% au skill Archerie Les unités qui attaquent à distance peuvent tirer même au contact de l'ennemi ou par-dessus celui-ci. Les pénalités de tir à longue portée et par-dessus un obstacle sont annulées."
 Puits de Mana							x	x	x	x	x										R	"{Puits de Mana}
 
 Le héros équipé de cet objet récupère tous ses points de magie chaque jour."
 Anneau des Mages													x	x							R	"{Anneau des Mages}
 
-Cet anneau ajoute 50 tours à la durée de vos sorts."
+Cet anneau ajoute 56 tours à la durée de vos sorts."
 Manne Céleste							x	x	x	x	x										R	"{Manne Céleste}
 
-Cet objet génère chaque jour 4 unités de ressources précieuses."
-Diplomat's Cloak																			x		R	"{Diplomat's Cloak}
+Cet objet génère chaque jour +5 Mercures, Soufres, Cristaux, Gemmes."
+Tunique du Sage																			x		R	"{Tunique du Sage}
 
-This is a kick-ass artifact."
-Pendant of Reflection															x						R	"{Pendant of Reflection}
+Cet Artéfact permet de fuir le combat et réduit le Coût de la Reddition de 30% et rend possible une Reddition même quand le Héros affronte des monstres errants ou défend une ville. Il est également possible de fuir en attaquant et lançant un sort au premier tour d'un combat. Le Repaire et la Guilde des Voleurs font croire à l'ennemi que vous êtes 3 fois plus fort que vous ne l'êtes réellement. (Emplacement : Épaules)"
+Pendentif de Réflexion															x						R	"{Pendentif de Réflexion}
 
-This is a kick-ass artifact."
-Ironfist of the Ogre																	x				R	"{Ironfist of the Ogre}
+En plus des propriétés de ses composants, ce Pendentif augmente vos chances de résister à un Sort hostile de 50%."
+Tomahawk des Ogres																	x				R	"{Tomahawk des Ogres}
 
-This is a kick-ass artifact."
+En plus des propriétés de ses composants le Tomahawk des Ogres donne +5 Attaque, +5 Défense, +4 Magie et +4 Savoir, les sorts Hâte, Furie Sanguinaire, Bouclier de Flammes, et Contre-Attaque, sont lancés automatiquement au niveau expert sur les armées alliées au début des combats - 50 tours. (Emplacement : Main Droite)"
 																						
 																						
 																						

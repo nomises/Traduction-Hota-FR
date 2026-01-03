@@ -1,0 +1,127 @@
+===== Map name =====
+Treachery
+
+===== Map description =====
+Jeremy, Tark, and Casmetra must capture Dargem. The mission will be lost if Jeremy is defeated. This is the last mission in the campaign. 
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Day 1
+Message:
+Everything happened so quickly. Water bubbled up, and a massive geyser emerged from the sea, spitting out a magical vessel. Casmetra said that Bidley was on that ship, in the company of someone else who had captured both my brother and the Horn.	“It's Dargem,” said priestess angrily.	“And what's a Dargem?” 	“A mercenary mage. Worked for Regna—or, to be precise, for one of Regna's lords. It's a nest of vipers there, everyone trying to stab everyone else in the back. One of those lords wanted to get his hands on the Horn of the Abyss, and his desire was stronger than yours. So he sent Dargem.” 	“Blast that... we have to chase them down, immediately! Diego, prepare the ships!” I ordered.		We chased Dargem awhile, but eventually hi ship disappeared from sight behind an island. Instead of him, we were welcomed by Regna's fleet. We had only a handful of ships ot our own disposal, so we had to flee. We set up camp on a small island and decided to muster forces for a strike on Dargem's fortress, where he is holding the Horn and my brother. I hope Bidley is safe.  	However, we have some good news: Tark has returned! He emerged from the water with his kin, just outside our camp.	“I promised to return,” hissed the giant reptile leader laconically.	“We have trouble. Bidley was captured,” I explained. 	“We nix will fight for you. Some will be against you, however. But I am the prince, and my cause is just,” replied Tark.
+
+Name:
+Day 2
+Message:
+“Jeremy,” smiled Casmetra. “I bring more good news. The theft of the Horn awakened the sea serpents. Now they are wandering the ocean.” 	“That's great news—at least we'll be having plenty of smoked eel, I guess.”	“Silly,” Casmetra replied. “These creatures still feel they have to protect the Horn of the Abyss. And yet, the poor stupid things can't figure out whether it has to be returned, or guarded wherever it is. I can enchant them so that the serpents who want to return the Horn will help us fight to get it back from that traitor Dargem.”	“That's a good idea,” I agreed. “But what will we tell them once we get the Horn from Dargem? ‘As you were, we were just kidding?'”	“You men always try to think twenty steps ahead,” Casmetra groaned, rolling her eyes. 	But for all that, I certainly wasn't going to turn down an offer of help from the sea serpents. Even one of those beautiful creatures could sink a frigate!
+
+Name:
+Day 7
+Message:
+Scouts report that the Tatalians, angered by their recent defeat, are hoping to get their entire fleet wiped out yet again. They found us on this archipelago, previously known only to pirates. They've raised a fort somewhere to the east, and are preparing for an invasion. On the one hand, this could be great; they're not likely to be able to tell the difference between two pirate bands. On the other hand, it won't be pretty if they, and not us, capture Dargem. If that happens, Bidley will surely hang on a rope right beside that scoundrel.
+
+Name:
+Day 12
+Message:
+More troubling news: war has broken out again between Erathia and Eeofol. Also, odd towns with golden-domed castles have begun appearing out of thin air all across the continent. Casmetra thinks it is an invasion by elemental lords. One of these towns sprang up in the northern region of the archipelago. They've probably been attracted by the power of the Horn of the Abyss and hope to acquire it.
+
+Name:
+Raider
+Message:
+Dargem's raiders attacked our supply ships and vanished into the night.
+
+Name:
+Day 24
+Message:
+I got tired of this pointless resistance and decided to write Dargem a letter. My mind wasn't perfectly clear at the time; invigorated by rum, I wrote the following: 	“Dargem! This is Jeremy Albatross, Admiral of Regna's armada. You have crossed my path and captured my brother. Set him free immediately, and yield the artifact to us! If you do, I promise that you and your men will be allowed to leave the island unharmed.”	
+
+Name:
+halyava
+Message:
+- It's halyava time!	- No, AI, no!!!
+
+Name:
+Day 34
+Message:
+Tark's nix report that there is a massive network of caves under this archipelago. Many of them are filled with water, but some parts are dry. The caves are ancient; something unique and powerful might be found inside.
+
+Name:
+Day 40
+Message:
+Dargem surely took his time in writing me back. I imagine that is just one more demonstration of his stupidity and inability to think critically—a trait I famously possess. His letter went as follows:	“My esteemed self-styled Admiral Jenny Grouse! I spent far too long in those caves waiting for Lady Luck to smile on me and send me a traveler even less fortunate than myself. And so it happened. I deserve the Horn—though I haven't figured out how it works yet. I suggest you get lost. Your brother is merely a guarantee of my security. As soon as you are gone, he shall be freed. Dargem”	
+
+Name:
+Day 43
+Message:
+I've been thinking about what Dargem said. I called Casmetra in my cabin and told her that I was thinking about retreating, to ensure Bidley's safe release. The priestess's eyes widened.	“Jeremy! How could you even think something like that!” she exclaimed.	“But we could save Bidley, and avoid unnecessary bloodshed,” I began, when Casmetra interrupted me.	“You can't even imagine what a villain Dargem is, and what is at stake here. The Horn of the Abyss is one of the greatest artifacts ever created. There's no record of who made it—it was probably created before the Silence. It is a gift from the Age of Wonders! If only we can figure out how it works, we will be equal to gods!” the priestess explained with excitement. She stepped up to the table and, to my amusement, took a hearty gulp of my rum. “Dargem is a scoundrel and a monster. The only reason he hasn't already killed Bidley is that we're close by. If you leave, he'll have your brother murdered and fed to the sharks. You should realize that. Unless you're a coward...” she suggested with reproach in her eyes.	“No, milady. Jeremy Albatross is the bravest and boldest of all the pirates between Enroth, Antagarich and Jadame!” I declared, jumping to my feet.	“And that's why I love you,” laughed the priestess, embracing me.	
+
+===== Heroes =====
+
+===== Objects =====
+
+(6, 139, 0) ***Sign***
+Message:
+Erathian Outpost
+
+(29, 11, 0) ***Seer's Hut***
+Message:
+A group of pirates displeased with Dargem's leadership would like to join you.
+Will you accept them?
+
+(0, 140, 0) ***Sword of Judgement***
+Message:
+Are you ready to dispense justice?
+
+(139, 3, 0) ***Sign***
+Message:
+Kreegan Blockhouse		
+
+(42, 47, 0) ***Sea Dog***
+Message:
+Stop, or I'll shoot!
+
+(8, 21, 0) ***Seer's Hut***
+Message:
+A group of pirates displeased with Dargem's leadership would like to join you.
+Will you accept them?
+
+(54, 95, 1) ***Sign***
+Message:
+Hall of Teleportation
+
+(60, 136, 1) ***Event***
+Message:
+Bear in mind that this monolith may lead anywhere, and it will not be easy to get back.	
+
+(114, 3, 1) ***Event***
+Message:
+These caves are as ancient as the world...
+
+(111, 20, 1) ***Tome of Air Magic***
+Message:
+Will you dare take this ancient volume?
+
+(113, 8, 1) ***Event***
+Message:
+Terrible frost and grim silence affect your crew negatively.
+
+(116, 26, 1) ***Azure Dragon***
+Message:
+Your presence here has not gone unnoticed. A powerful creature has awakened...
+
+(127, 4, 1) ***Diamond Golem***
+Message:
+The guardians of the ancient palaces are on the alert!
+
+(133, 26, 1) ***Event***
+Message:
+It looks like there is a secret passage here.
+
+(130, 59, 1) ***Event***
+Message:
+There is a whole nest of sea serpents here!
+
+===== End of file =====

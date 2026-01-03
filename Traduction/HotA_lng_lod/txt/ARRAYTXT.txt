@@ -196,8 +196,8 @@ Vos %s sont bénis +1"
 Les %s vous répugnent -1"
 "
 Moral positif annulé par les %s"
-"Le moral des 
-%s est toujours positif"
+
+"Le moral des %s est toujours positif"
 "
 Sorts %+d"
 "
@@ -276,33 +276,33 @@ Bâtisseur
 Explorateur
 Humain
 gArmySizeNames
-Quelques
-Quelques
-quelques
-Plusieurs
-Plusieurs
-plusieurs
-Groupe
-Un groupe de
-un groupe de
-Beaucoup
-Beaucoup de
-beaucoup de
-Horde
-Une horde de
-une horde de
-Foule
-Une foule de
-une foule de
-Nuée
-Une nuée de
-une nuée de
-Multitude
-Une multitude de
-une multitude de
-Légion
-Une légion de
-une légion de
+1-4
+Quelques (1-4)
+quelques (1-4)
+5-9
+Plusieurs (5-9)
+plusieurs (5-9)
+10-19
+Un groupe de (10-19)
+un groupe de (10-19)
+20-49
+Beaucoup de (20-49)
+beaucoup de (20-49)
+50-99
+Une horde de (50-99)
+une horde de (50-99)
+100-249
+Une foule de (100-249)
+une foule de (100-249)
+250-499
+Une nuée de (250-499)
+une nuée de (250-499)
+500-999
+Une multitude de (500-999)
+une multitude de (500-999)
+1000+
+Une légion de (1000 et plus)
+une légion de (1000 et plus)
 const_wise_tree_price_text
  (+1 niveau)
  (+1 niveau pour 2000 pièces d'Or)

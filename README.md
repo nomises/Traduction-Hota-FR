@@ -7,9 +7,10 @@ Ce projet vise à traduire en français l’extension Horn of the Abyss (HotA) p
 2. [Contribuer](#contribuer)
 3. [Comment faire](#comment-faire)
     1. [GitHub](#github)
-        1. [Créer une branche](#créer-une-branche)
-        2. [Comment préparer votre pull request](#comment-préparer-votre-pull-request)
-        3. [Comment vérifier une pull request](#comment-vérifier-une-pull-request)
+        1. [Guide sur GitHub](#comment-contribuer-en-vidéo)
+        2. [Créer une branche](#créer-une-branche)
+        3. [Comment préparer votre pull request](#comment-préparer-votre-pull-request)
+        4. [Comment vérifier une pull request](#comment-vérifier-une-pull-request)
     1. [Traduction](#traduction)
         1. [Maps](#maps)
         2. [Hota_dat](#hota_dat)
@@ -46,6 +47,10 @@ Ce projet vise à traduire en français l’extension Horn of the Abyss (HotA) p
 
 ## GitHub
 
+### Comment contribuer en vidéo
+
+[<img src="rsc\img\GitImage.png" alt="Guide sur github par Winny" width="800" height="400"/>](https://www.youtube.com/watch?v=s1A-XzFBD1g)
+
 ### Créer une branche
 ![Comment créer une branche](rsc/videos/CreeBranche.gif)
 
@@ -58,8 +63,14 @@ Ce projet vise à traduire en français l’extension Horn of the Abyss (HotA) p
 ## Traduction
 
 ### Maps
-1. Ouvrez le fichier dans un éditeur de texte.
-2. Remplacez les textes par les versions traduites.
+- txt
+    1. Ouvrez le fichier dans un éditeur de texte.
+    2. Remplacez les textes par les versions traduites.
+- h3m
+    1. Ouvrez le fichier dans l'éditeur de carte de votre instance d'HOTA `h3hota_maped.exe`
+    2. "File" -> "Export text"
+    3. Ouvrez le fichier dans un éditeur de texte.
+    4. Remplacez les textes par les versions traduites.
 
 ### Hota_dat
 1. Ouvrez le fichier dans un **comparateur de fichiers** comme `DiffMerge` (dans outils).
@@ -73,7 +84,7 @@ Ce projet vise à traduire en français l’extension Horn of the Abyss (HotA) p
         1. Ouvrez le fichier dans un éditeur de texte.
         2. Remplacez les textes par les versions traduites.
     3. Dans l'éditeur de campagne "Edit" -> "Scenario Properties" -> Sélectionnez la campagne voulue -> "Export"
-        1. Référez-vous aux fichiers **Maps**
+        1. Référez-vous aux fichiers **[Maps](#maps)**
 - txt
     1. Ouvrez le fichier dans un **comparateur de fichiers** comme `DiffMerge` (dans outils).
         - Faites attention à comparer avec le fichier de la version actuelle.
