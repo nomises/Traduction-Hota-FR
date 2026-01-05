@@ -57,6 +57,7 @@ Name:
 AI - minus res
 Message:
 
+
 Name:
 Todd Intro
 Message:
@@ -130,10 +131,6 @@ Les centres d'intérêt de Lyadra couvrent toutes les créatures capables de vol
 
 (69, 54, 0) ***Quest Guard***
 Message:
-You meet a puzzled gunslinger in a weatherbeaten coat. After helping himself to some tobacco from your pouch, he shares his story over a pipe:		“Some big brain in the planning department thought it was a brilliant idea to hire local goblins to build a watchtower here. Surely enough, the rascals took off without finishing the job, and they also stole some of the building materials—bet they’re drinking them away now. No idea when our report will reach the general construction department—and while we can't keep watch, we won't get paid, either. We would have completed the tower ourselves, but we’re skint, and we can’t procure what’s needed to get the job done. Maybe you could help us out? As a token of our gratitude, we could do some work for you in our spare time—for a fee, of course, heh, heh.”
-The gunslinger is just as happy to top his pipe up with your tobacco as before, but you have nothing else to indulge him. You’ll need to find money and materials.
-“We've managed to borrow some coin, and we're almost done with the job now!" the gunslinger reports happily. “Cover our debt, and you can count on us!”		Would you like to pay the gunslingers’ expenses and proceed to their watchtower?
-
 Vous rencontrez un Pistolero perplexe vêtu d'un manteau usé par les intempéries. Après s'être servi du tabac de votre blague, il vous raconte son histoire en fumant sa pipe :		« Un petit génie du service de planification a eu la brillante idée d'engager des gobelins locaux pour construire une Tour de Guet ici. Comme on pouvait s'y attendre, ces vauriens ont pris la poudre d'escampette sans terminer le travail, et ils ont également volé une partie des matériaux de construction. Je parie qu'ils sont en train de les boire. Je ne sais pas quand notre rapport parviendra au département général de la construction, et tant que nous ne pouvons pas monter la garde, nous ne serons pas payés. Nous aurions pu terminer la tour nous-mêmes, mais nous sommes fauchés et nous ne pouvons pas nous procurer ce dont nous avons besoin pour mener à bien ce travail. Peut-être pourriez-vous nous aider ? En signe de gratitude, nous pourrions travailler pour vous pendant notre temps libre, moyennant finance, bien sûr, hé hé.
 Le Pistolero est tout aussi heureux de remplir sa pipe avec votre tabac qu'auparavant, mais vous n'avez rien d'autre à lui offrir. Vous devez trouver de l'argent et des matériaux.
 « Nous avons réussi à emprunter un peu d'argent et nous avons presque terminé le travail ! », annonce joyeusement le pistolero. « Réglez notre dette et vous pourrez compter sur nous ! »        Souhaitez-vous payer les frais des pistoleros et vous rendre à leur Tour de Guet ?
