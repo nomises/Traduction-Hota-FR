@@ -101,7 +101,7 @@
     * ~~mission 4~~
     * ~~mission 5~~
 
-* Une fois la traduction finie, repasser dans Hota.txt pour modifier le nom des campagnes des lignes 17248 à 17699
+* ~~Une fois la traduction finie, repasser dans Hota.txt pour modifier le nom des campagnes des lignes 17248 à 17699~~
 
 # Bonus
 ## Campaign editor

@@ -17249,7 +17249,7 @@ Val 3: "0"
 Name: "campmap21"
 Path: ""
 Texts count: "9"
-Text 0: "Terror of the Seas"
+Text 0: "Terreur des Mers"
 Text 1: "BgTerror.pcx"
 Text 2: ""
 Text 3: ""
@@ -17269,32 +17269,32 @@ Text 8: "# Campaign type (0 - region map, 1 - generated region map)
 282 451
 253 349
 # Map 1
-Terror of the Seas A
+Prisonnier du destin — Terreur des Mers A
 C2Amask.pcx
 C2Abord.pcx
 C2Aalph.pcx
 # Map 2
-Terror of the Seas B
+Evenmorn — Terreur des Mers B
 C2Bmask.pcx
 C2Bbord.pcx
 C2Balph.pcx
 # Map 3
-Terror of the Seas C
+Les Rivages de l'Enfer — Terreur des Mers C
 C2Cmask.pcx
 C2Cbord.pcx
 C2Calph.pcx
 # Map 4
-Terror of the Seas D
+La liberté du Nix — Terreur des Mers D
 C2Dmask.pcx
 C2Dbord.pcx
 C2Dalph.pcx
 # Map 5
-Terror of the Seas E
+À la recherche de la corne — Terreur des Mers E
 C2Emask.pcx
 C2Ebord.pcx
 C2Ealph.pcx
 # Map 6
-Terror of the Seas F
+Trahison — Terreur des Mers F
 C2Fmask.pcx
 C2Fbord.pcx
 C2Falph.pcx"
@@ -17310,7 +17310,7 @@ Val 3: "0"
 Name: "campmap22"
 Path: ""
 Texts count: "9"
-Text 0: "Horn of the Abyss"
+Text 0: "Corne des Abysses"
 Text 1: "BgHorn.pcx"
 Text 2: ""
 Text 3: ""
@@ -17328,22 +17328,22 @@ Text 8: "# Campaign type (0 - region map, 1 - generated region map)
 22 17
 209 46
 # Map 1
-Horn of the Abyss A
+Frontière - Corne des Abysses A
 C3Amask.pcx
 C3Abord.pcx
 C3Aalph.pcx
 # Map 2
-Horn of the Abyss B
+Au cœur de l'eau - Corne des Abysses B
 C3Bmask.pcx
 C3Bbord.pcx
 C3Balph.pcx
 # Map 3
-Horn of the Abyss C
+Corne des Abysses - Corne des Abysses C
 C3Cmask.pcx
 C3Cbord.pcx
 C3Calph.pcx
 # Map 4
-Horn of the Abyss D
+Tout le monde sur le pont ! - Corne des Abysses D
 C3Dmask.pcx
 C3Dbord.pcx
 C3Dalph.pcx"
@@ -17359,7 +17359,7 @@ Val 3: "0"
 Name: "campmap23"
 Path: ""
 Texts count: "9"
-Text 0: "Forged in Fire"
+Text 0: "Forgé par le feu"
 Text 1: "FaBg.pcx"
 Text 2: ""
 Text 3: ""
@@ -17381,42 +17381,42 @@ Text 8: "# Campaign type (0 - region map, 1 - generated region map)
 21 156
 306 384
 # Map 1
-Forged in Fire A
+Un monde en feu - Forgé par le feu A
 F1Amask.pcx
 F1Abord.pcx
 F1Aalph.pcx
 # Map 2
-Forged in Fire B
+Au-delà de l'horizon - Forgé par le feu B
 F1Bmask.pcx
 F1Bbord.pcx
 F1Balph.pcx
 # Map 3
-Forged in Fire C
+Mort ou vif - Forgé par le feu C
 F1Cmask.pcx
 F1Cbord.pcx
 F1Calph.pcx
 # Map 4
-Forged in Fire D
+Pilleur de tombes - Forgé par le feu D
 F1Dmask.pcx
 F1Dbord.pcx
 F1Dalph.pcx
 # Map 5
-Forged in Fire E
+Deus Ex Machina - Forgé par le feu E
 F1Emask.pcx
 F1Ebord.pcx
 F1Ealph.pcx
 # Map 6
-Forged in Fire F
+Couvert de Goudron et de Plume - Forgé par le feu F
 F1Fmask.pcx
 F1Fbord.pcx
 F1Falph.pcx
 # Map 7
-Forged in Fire G
+Nouvel Ordre - Forgé par le feu G
 F1Gmask.pcx
 F1Gbord.pcx
 F1Galph.pcx
 # Map 8
-Forged in Fire H
+Retour à la maison - Forgé par le feu H
 F1Hmask.pcx
 F1Hbord.pcx
 F1Halph.pcx"
@@ -17649,7 +17649,7 @@ Val 3: "0"
 Name: "campmap25"
 Path: ""
 Texts count: "9"
-Text 0: "All In"
+Text 0: "Tout pour le Tout"
 Text 1: "BgAllIn.pcx"
 Text 2: ""
 Text 3: ""
@@ -17668,27 +17668,27 @@ Text 8: "# Campaign type (0 - region map, 1 - generated region map)
 256 418
 26 419
 # Map 1
-All In A
+Une visite amicale - Tout pour le Tout A
 C4Amask.pcx
 C4Abord.pcx
 C4Aalph.pcx
 # Map 2
-All In B
+Le Sauveteur - Tout pour le Tout B
 C4Bmask.pcx
 C4Bbord.pcx
 C4Balph.pcx
 # Map 3
-All In C
+Le Tueur d'Arbres - Tout pour le Tout C
 C4Cmask.pcx
 C4Cbord.pcx
 C4Calph.pcx
 # Map 4
-All In D
+Plongé jusqu'aux genoux dans les Morts-Vivants - Tout pour le Tout D
 C4Dmask.pcx
 C4Dbord.pcx
 C4Dalph.pcx
 # Map 5
-All In E
+À la Poursuite d'un Rêve - Tout pour le Tout E
 C4Emask.pcx
 C4Ebord.pcx
 C4Ealph.pcx"

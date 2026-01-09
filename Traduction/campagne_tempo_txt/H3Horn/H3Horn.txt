@@ -5,7 +5,7 @@ Description:
 
 
 
-Frontière - Horn of the Abyss A
+Frontière - Corne des Abysses A
 
 Right-click text:
 Jeremy s'est retrouvé sur des îles inexplorées, loin de Regna. Le capitaine doit allumer l'Étoile Polaire pour retrouver le chemin de chez lui.
@@ -14,7 +14,7 @@ Prologue:
 Jeremy se retrouva sur une côte sablonneuse, loin de chez lui. Il avait perdu son frère, mais pas sa foi. Comme au début de cette histoire absurde avec Utopia et Alkin. Mais maintenant, Jeremy Albatross brûlait du désir de se venger de Casmetra pour sa tromperie.
 
 
-Au cœur de l'eau - Horn of the Abyss B
+Au cœur de l'eau - Corne des Abysses B
 
 Right-click text:
 Bidley est coincé dans le Plan de l'Eau, mais il n'a aucune envie d'y rester. La ville de Coralgate est la seule issue. Si les habitants tentent de l'arrêter, alors tant pis pour eux.
@@ -23,7 +23,7 @@ Prologue:
 Bidley se demandera à jamais si le rêve où il respirait dans l'eau et regardait à travers était prophétique ou simplement normal. Car il se tenait maintenant au fond de l'eau, respirant et regardant les poissons et les tortues nager.
 
 
-Corne des Abysses - Horn of the Abyss C
+Corne des Abysses - Corne des Abysses C
 
 Right-click text:
 Les pirates et le Prince des Nix doivent arrêter Casmetra avant qu'elle ne puisse exploiter le pouvoir de la Corne des Abysses qu'elle a volée.
@@ -32,7 +32,7 @@ Prologue:
 Tôt ou tard, toute ruse a sa fin. Après que Casmetra eut déloyalement privé Bidley de la Corne des Abysses, elle comprit qu'il la poursuivrait. Elle pouvait regretter son imprudence, mais il était trop tard. Bidley, Jeremy et Tark s'apprêtaient à assiéger son île et à mettre fin à ses plans.
 
 
-Tout le monde sur le pont ! - Horn of the Abyss D
+Tout le monde sur le pont ! - Corne des Abysses D
 
 Right-click text:
 Bidley possède désormais la Corne des Abysses, mais il n'est pas vraiment préparé à devenir le "Roi Pirate". Les pirates, démonistes, élémentaires et même magiciens de Dargem… tous verraient le nouveau souverain renversé et l'artéfact confisqué.
