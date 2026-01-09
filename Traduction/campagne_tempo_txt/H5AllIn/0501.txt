@@ -1,0 +1,273 @@
+===== Map name =====
+Une visite amicale
+
+===== Map description =====
+Pour l'emporter, Dargem doit livrer le Bouclier Dragon à la ville de Maramec. Le niveau maximum des héros est de 12. Après sa victoire, Dargem passera au scénario suivant.
+
+===== Rumors =====
+
+Name:
+Dragons
+Text:
+Si vous ne vous dépêchez pas, les Démonistes amèneront assurément les Dragons !
+
+Name:
+Capitaine Skull
+Text:
+On raconte que sur l'île isolée de l'Os Maudit, un trésor de pirates antiques est caché, protégé par une malédiction lancée par le Capitaine Skull. Seul celui qui n'aura pas peur d'une aventure périlleuse en récoltera richesse et gloire, mais il devra d'abord vaincre Skull en personne.
+
+Name:
+Mutare
+Text:
+Affirmer que la cause de Mutare est financée par l'argent d'Erathia est un mensonge éhonté ! Mutare est une véritable dirigeante et notre future reine !
+
+Name:
+Gueule de bois
+Text:
+N'abusez jamais des remèdes miracles contre la gueule de bois !
+
+Name:
+Heroes 4
+Text:
+On raconte qu'il existe un trou immonde quelque part sur la côte de Nighon, appelé la Taverne de la Chope Rouillée, où l'on peut souvent y croiser des pirates.
+
+Name:
+Prisons
+Text:
+On dit que plusieurs Capitaines pirates sont détenus dans des prisons au large des côtes de Nighon.
+
+Name:
+Surface de Nighon
+Text:
+La surface de Nighon est principalement désertique, mais des Démonistes y ont également construit des villes.
+
+Name:
+Retour à la maison
+Text:
+Taugarn est considéré comme le Dragon le plus puissant de tout Nighon.
+
+Name:
+Sang de Dragon
+Text:
+Je ne crois pas à ces histoires à dormir debout ! Il est impossible qu'une personne puisse se transformer en Dragon comme ça.
+
+===== Timed events =====
+
+Name:
+Äåíü 1.1
+Message:
+Journal de Dargem. Entrée 234 :		"Je passais une agréable soirée dans mon établissement préféré, l’un des rares de Regna digne d’une appellation plus raffinée qu’un simple "poivrot", savourant une bouteille de vieux AvLeean rouge en compagnie de mes vieilles connaissances et les divertissant avec le récit de ma lutte contre des nains sanguinaires et leurs morts-vivants apprivoisés au large de Jadame. Le vieux Lew, l’aubergiste, vint me murmurer à l’oreille que quelqu’un me cherchait. Je venais de faire escale au port ; qui cela pouvait-il bien être ? Lew me conduisit à la rencontre d’une jeune femme grande et mince aux longs cheveux ondulés. Son apparence était tout à fait discrète, et il était difficile de deviner ce que cette personne pouvait bien me vouloir.		"Messire Dargem ? " demanda-t-elle.		"C'est bien cela. Dargem Llywellyn à votre service." J’acquiesçai et pris place sur la chaise la plus proche. L'inconnue s'assit également, souriant aimablement.		"Je suis Stella. Et je suis… " Elle marqua une pause. "Euh… Je cherche quelqu'un pour une mission très importante."		"Mes talents coûtent cher", la prévins-je aussitôt.		"Ce n'est pas vraiment le sujet", sourit-elle de nouveau. "Je vous ai choisie non pas pour vos honoraires, mais plutôt pour… les spécificités de la tâche."		"Où voulez-vous en venir ? " demandai-je en plissant les yeux.		"Vous devrez aller à Nighon", dit Stella en soupirant.		"À Nighon ? Moi ?! Mais qu'est-ce qui vous a fait croire que c'est une bonne idée ?! "		"Parce que vous connaissez ces régions mieux que quiconque", rétorqua ma potentielle employeuse. "D'ailleurs, vous êtes mage. Et un amateur de rares objets anciens… "		"Vous en savez long sur moi", ai-je réussi à articuler d'une voix rauque.		"Naturellement. Je m'excuse si cela vous dérange… mais je ne pouvais pas recruter un mercenaire au hasard. Il me fallait quelqu'un de spécial."		"Ravie d'apprendre que je suis spécial."		"Bien sûr", reprit Stella d'un ton sérieux. "Terminez la mission, et vous aurez alors l'opportunité de participer à une expédition pour localiser l'un des rares artéfacts véritablement légendaires qui existent." 		"Voilà qui est original ! Quel genre d'artéfact ? " J'étais stupéfait.		"Je ne suis pas encore autorisée à le révéler. Donc, comme je l'ai dit, votre premier objectif sera à Nighon."
+
+Name:
+Äåíü 1.2
+Message:
+Le journal de Dargem. Entrée 235		"Il semblerait que cette fille, Stella, soit bien plus que débrouillarde. Je n'ai aucune idée de qui elle est ni de ce qu'elle fait pour vivre ; ceci étant dit, je suis un mercenaire (même si je n'aime pas ce mot, tellement entaché par ces scélérats Jadaméens !), et je me fiche des détails. Mon travail consiste à faire ce pour quoi l'employeur me paie.		Le descriptif de la mission, je dois l'avouer, m'a fait hésiter, mais j'ai réussi à garder mes pensées pour moi. Je devais livrer un objet appelé le Bouclier Dragon à la ville Nighonienne de Maramec. Stella m'a remis une bourse d'or conséquente pour équiper mon expédition et me procurer tout le nécessaire. Je n'ai pas la moindre idée de qui veut ce bouclier là-bas ni dans quel but, mais il y a fort à parier que les Seigneurs de Guerres des Donjons ne m'accueilleront pas à bras ouverts. Nous ("Nous ! " J'avais depuis longtemps perdu l'habitude de dire "nous" quand je parlais des habitants de Nighon) n'avons jamais eu la cote auprès de ceux qui vivent à la surface. Même chose pour les pirates et les terriens. Le temps a passé ; je ne suis plus un rat des tunnels, mais plutôt un rat des cales. Mes anciens amis et collègues me détestent ; rien de nouveau sous le soleil. Je vais devoir retourner m'aventurer dans les entrailles glacées de Nighon.		Les sentiments sont les sentiments ; le travail est le travail."
+
+Name:
+Äåíü 2
+Message:
+Journal de Dargem. Entrée 236 :		"Mon équipage et moi avons établi notre campement dans un ancien fort Erathien. Jadis, il avait été construit pour surveiller la région et les eaux côtières, mais il est maintenant abandonné depuis plusieurs dizaines d’années. Nous allons y rassembler nos forces avant de débarquer sur la surface désolée de ma terre natale. À ma connaissance, il existe quelques colonies de pirates libres sur le rivage. Si possible, je devrais obtenir l’aide de leurs habitants. Cela aura un prix, bien sûr ! Personnellement, je n’accepterais jamais d’explorer des grottes gratuitement, mais, grâce aux dieux, une belle récompense m’attend. Le plan d’action est prêt. Il nous faut maintenant bien nous préparer pour que tout se déroule comme prévu."
+
+Name:
+Äåíü 3
+Message:
+Journal de Dargem. Entrée 237 :		"J’ai fouillé dans mes souvenirs et j’ai retrouvé un élément important. Autrefois, une amie à moi, Miriam, avait l'habitude de sillonner ces eaux. Cette fille était vraiment amusante, et par-dessus le marché… un peu excentrique ! Complètement dépourvue de savoir-vivre, aussi – mais cela ne me dérangeait guère à l’époque. Je pense que ce ne serait pas un problème aujourd’hui non plus, si nous nous revoyions. Je me souviens de nos nuits passées dans un phare abandonné, à siroter du brandy et à contempler les étoiles. Oh, que de merveilleux souvenirs ! Ils m’ont fait me sentir jeune a nouveau ! Il serait peut-être judicieux de rechercher Miriam. Elle pourrait accepter de m’aider dans cette affaire."
+
+Name:
+Äåíü 5
+Message:
+Journal de Dargem. Entrée 238 		"J’ai l’impression que quelque chose cloche dans toute cette histoire, mais je n’arrive pas à mettre le doigt dessus. De quel genre d’artéfact parlait Stella ?		Ma passion pour les objets rares continue de me causer bien des soucis. Ma carrière comme Démoniste s’est terminée brutalement lorsque j’ai dérobé le légendaire Casque d’Anduran à Tor Anwyn en personne. Que pouvais-je faire ? C’était plus fort que moi ! Je voulais toucher le Casque, l’étudier… simplement savoir que c’était moi, et personne d’autre, qui possédais cette relique. Au final, c’était la faute de Tor : il a refusé de me le vendre, quel que soit le prix que je lui proposais…		Zut ! Je suis tellement impatient ! "
+
+Name:
+Äåíü 11
+Message:
+Journal de Dargem. Entrée 240 :		"Ce ne fut ni facile ni bon marché, mais j’ai pu réactiver quelques-uns de mes anciens contacts. Une guerre civile fait présentement rage à Nighon, déclenchée par une certaine Mutare. Je n’ai aucune idée de qui elle est, mais pour une raison inconnue, entendre son nom me met mal à l’aise. Si j’étais un Démoniste, je prendrais sans doute les armes contre elle, mais ce n’est plus mon combat. Quoi qu’il en soit, ces événements ont affaibli les garnisons frontalières ; il ne sera pas trop difficile de pénétrer dans les Donjons.		Maramec se trouve au nord-est. Conformément aux instructions de Stella, je dois remettre le Bouclier à quelqu’un dans la ville. Cette personne viendra me chercher et récupérera l’artéfact. Ensuite, je pourrai prendre les voiles, pour ne jamais revenir !		Et c’est là que je découvrirai la nature de l’expédition qu’on m'a proposée."
+
+Name:
+Äåíü 18
+Message:
+Journal de Dargem. Entrée 241 :		"Il y a bien des années que je suis devenu pirate Regnan (voilà encore un mot déplaisant et terni : pirate. J’en suis un, certes, mais moi et ces individus sans honneur ni raison qui pullulent à Regna ? Nous n’avons pas plus de points communs qu’un aigle et une buse puante !). Bien sûr, j’étais curieux de découvrir qui peuplait ce royaume, l’une des entités politiques les plus singulières de tout Enroth.		L’Empire de l’Océan Infini, je crois que c’est ainsi qu’ils nous appellent. Ça sonne bien, n’est-ce pas ? Les pirates eux-mêmes forment un peuple très diversifié. Nombre d’entre eux sont nés et ont grandi à bord, et ne connaissent aucune autre vie. On peut dire que la piraterie, dans ces contrées, est une vocation héréditaire. Il n'est pas facile pour un étranger d'y entrer, à moins de marquer les esprits d'emblée. Les pirates les plus puissants, les plus intelligents et les plus courageux deviennent Capitaines et Navigateurs. Les autres forment leurs équipages. Par ailleurs, il règne entre eux une atmosphère unique de solidarité et de fraternité… du moins en mer. À bord des navires pirates, la discipline et la soumission règnent en maîtres. Même les gardes d'Erathia pourraient les envier.		Mais tout change dès que les pirates mettent pied à terre ! Ils se transforment instantanément en fainéants négligés. Ils boivent et fument à profusion ; la plupart ne feraient pas la différence entre un Bordeaux et un Porto, et pourtant, ils s'enorgueillissent de dépenser sans compter pour des vins fins et du tabac importés des colonies. Ils adorent jouer, se battre et les femmes. Autrement dit, ils savourent tout ce qui est interdit à bord. Et pourtant, au premier appel de leur Capitaine, ils se ressaisissent instantanément et deviennent une force redoutable. Ces métamorphoses ne cessent de m'étonner.		Chaque pirate maîtrise plusieurs types d'armes, généralement des rapières, des coutelas et des pistolets. Le pistolet est une prouesse des alchimistes bracadans. Cette arme relativement facile à fabriquer ne s'est pas encore répandue dans les royaumes d'Antagarich. Jadame, c'est une autre histoire… mais je m'égare. En fait, le pistolet est une réplique miniature d'un canon de navire. Un tireur habile peut abattre un Chevalier, entièrement cuirassé, d'une seule balle. Je crois que les seigneurs féodaux d'Erathia et d'Enroth craignent simplement que ces armes ne se répandent parmi le petit peuple, et les Bracadans pensent tout simplement qu'ils n'en ont pas besoin, tant qu'ils possèdent leur magie. Les Regnans, en revanche, ne souffrent d'aucune phobie ni d'aucun préjugé ridicule ; cette merveilleuse invention y est répandue."
+
+Name:
+Äåíü 20
+Message:
+Journal de Dargem. Entrée 242 :		"Que deviennent la plupart des étrangers à Regna ?		Les serfs fugitifs, les anciens prisonniers de guerre qui ont choisi de rester parmi leurs geôliers et les aborigènes des nombreuses petites îles de Regna : deviennent tous Marins. Ce sont de fidèles bourreaux de travail, capables de remplir diverses fonctions. Ils effectuent la plupart des tâches subalternes à bord des navires, combattent aux côtés des Pirates et travaillent dur à terre. Les marins qui parviennent à économiser et décident de quitter la mer, s’installent sur des îles. Ils travaillent comme forgerons, aubergistes et charpentiers de marine…		Il est très difficile pour un simple Marin de devenir un pirate à part entière, mais ceux qui se sont distingués au combat sont très respectés. Ces bandits forment l’ossature des équipages d’abordage."
+
+Name:
+Äåíü 24
+Message:
+Journal de Dargem. Entrée 244 :		"Les membres les plus intrigants de la communauté de Regna sont les Nymphes. Ces créatures d’une nature entièrement magique servent les pirates. On pense que les Nymphes sont des cousines éloignées des Fées. On peut discuter de leur affinité avec ces dernières, mais il ne fait aucun doute qu’elles proviennent du Plan de l’Eau. Très probablement, elles sont apparentées à des élémentaires d’eau mineurs. L’un des premiers et des plus puissants mages de Regna était capable de soumettre ces créatures à sa volonté. Les Nymphes ne sont pas prisonnières dans notre monde ; beaucoup d’entre elles viennent ici de leur plein gré, surtout là où la frontière entre les plans d’existence est ténue. Cependant, la plupart des Nymphes au service des pirates sont invoquées par d'anciens et puissants rituels. Leur particularité réside dans leur insensibilité à la mort. Une Nymphe tuée dans notre monde renaît dans le Plan de l'Eau. Le seul moyen de la détruire définitivement est de traverser l'autre côté. Elles ne constituent pas une force redoutable au combat, aussi les Capitaines les utilisent-ils principalement comme éclaireuses.		Certains pirates cherchent à découvrir les différences entre les Nymphes et les femmes humaines. Bof ! Cela ne m'a jamais intéressé. À bien y penser, une Nymphe, faite d'eau par définition, devrait être bien plus propre qu'une simple servante Regnane… Bah ! Dieu seul sait où de telles pensées peuvent mener un homme ! Je me contenterai de mentionner qu'on entend souvent des histoires sur "l'oncle du beau-frère" de quelqu'un qui aurait épousé une nymphe."
+
+Name:
+Äåíü 32
+Message:
+Journal de Dargem. Entrée 247 :		"Les Dracs Mordorés sont des créatures vraiment extraordinaires ! Elles s'installent sur les rochers et les falaises des îles tropicales. L'envergure d'un Drac Mordoré adulte peut atteindre neuf mètres. Certains les prennent à tort pour des oiseaux et les comparent aux Rocks qui peuplent les déserts. D'après mes propres observations, cependant, ces créatures ont bien plus en commun avec les Wyvernes et les Dragons qu'avec les oiseaux !		Leur corps est dépourvu de plumes et leur apparence est résolument reptilienne. Les Dracs Mordorés se nourrissent de poissons ; pour les attraper, elles plongent dans la mer de très haut. Apparemment, ce sont des nageurs sous-marins hors pair, capables de retenir leur souffle très longtemps. Un Drac Mordoré affamé ou enragé peut attaquer n'importe quel être vivant, y compris les humains – ces créatures ne connaissent pas la peur. On dit que les Dracs Mordorés existent aussi dans les Plans de l'Eau et de l'Air, mais hélas, je n'y suis pas encore allé moi-même et ne peux donc le confirmer.		Les pirates de Regna les élèvent et les entraînent depuis des générations. Ces créatures sont d'excellents chasseurs et protecteurs, comparables aux griffons d'Erathia. On peut acheter un œuf sur n'importe quel marché de Regna et se faire un fidèle compagnon, à condition de s'y connaître un tant soit peu en dressage. Un Drac Mordoré en pleine croissance entre les mains d'un maître inexpérimenté et insuffisamment ferme, est la recette assurée pour une mort certaine à coups de bec."
+
+Name:
+Äåíü 56
+Message:
+Journal de Dargem. Entrée 248 :		"Je dois me dépêcher ! Mes anciens collègues ont fait appel aux Dragons ; ils ont sans doute envoyé une délégation de négociateurs dans les profondeurs de Nighon, et croyez-moi, ils ont dû y mettre le prix, car en ces temps de troubles, chaque Dragon cracheur de feu vaut son pesant d’or. Ils commencent à comprendre qu’ils ne peuvent se permettre aucune négligence face à ces raids pirates ; il semblerait qu’ils aient décidé de recourir à des mesures drastiques. Ce n’est pas que j’aie peur des Dragons ; je n’ai même plus vraiment peur de la mort… Cependant, ces brutes écailleuses vont certainement me poser problème."
+
+===== Heroes =====
+
+===== Objects =====
+
+(8, 41, 0) ***Cove***
+Name:
+Corsarro
+
+Timed events:
+
+Name:
+One-time Pawn Bonus
+Message:
+Un petit navire est arrivé, transportant des renforts envoyés par l'un de mes rares fidèles encore présents à Jadame, Solendore. Une poignée seulement, comparée aux forces qui jadis combattaient sous mes ordres ; mais mieux que rien. La mégalomanie ne m'a jamais servi !
+
+(54, 62, 0) ***Cove***
+Name:
+Port Victoria
+
+(18, 61, 0) ***Gold***
+Message:
+Extrait du journal de Dargem : "On dirait que les hommes-lézards stockaient de l’or dans les buissons près de leur campement. Je n’ai jamais compris pourquoi des créatures sauvages comme celles-là en voudraient."
+
+(71, 0, 0) ***Seer's Hut***
+Message:
+Un vieil homme très nerveux, arborant une moustache impressionnante, se tenait devant la hutte. Il m'observa attentivement avant de dire : "Vous êtes un aventurier, n'est-ce pas, jeune homme ? " "C'est exact", répondis-je. "Mais pas un voleur, n'est-ce pas ? Non, vous n'en avez pas vraiment l'air, même si votre expression ne me plaît guère. Enfin, quelles autres options ai-je ? Qui se ressemble s'assemble… Vos talents pourraient donc m'être utiles. Voyez-vous, je suis venu de Bracada lors d'une expédition archéologique, et nous avons mis au jour un artefact ancien : le casque de Rion Cœur-de-Griffon en personne ! Il fut le premier roi d'Erathia, pour votre information. Et puis… le casque fut volé par des voleurs. Si vous parvenez à le retrouver, je vous en serais reconnaissant."
+"Vous n'avez pas retrouvé le casque ? Tenez-moi au courant."
+À la vue du casque de Rion Cœur-de-Griffon entre mes mains, le vieux mage s'anima. Il l'examina avec empressement. "Sans aucun doute, jeune homme, vous méritez une grande récompense ! Puisque mon expédition est maintenant terminée, vous pouvez capturer les Titans qui me gardaient tout ce temps."
+
+(47, 2, 0) ***Sign***
+Message:
+Clairière Interdite
+
+(65, 23, 0) ***Seer's Hut***
+Message:
+Un chevalier ermite vit ici. Il me promet de m'enseigner tout son savoir si je trouve la relique impie connue sous le nom d'Esprit d'Oppression.
+Le chevalier est persuadé que l'artéfact se trouve tout près de chez lui.
+Enfin, l'Esprit d'Oppression tombera entre de bonnes mains et ne pourra plus jamais servir les sorciers noirs dans leurs rituels. En échange, le chevalier propose de vous enseignez des techniques de défense efficaces.
+
+(56, 26, 0) ***Ocean Bottle***
+Message:
+La rébellion de Mutare est financée par l'argent d'Enroth ! Faites le savoir à tout le monde !
+
+(6, 8, 0) ***Event***
+Message:
+Extrait du journal de Dargem :	"Je ne crois pas vraiment à ces absurdités religieuses comme les dieux ; si j’en parle, ce n’est qu’une figure de style. Il m’a toujours semblé que la magie sacerdotale n’est qu’une forme de sorcellerie ordinaire, qui repose sur les ressources du lanceur lui-même, comme la puissance de son esprit, de son âme et de son corps, plutôt que sur la connaissance savante de formules magiques. Alors, quand j’ai vu cette boîte à aumônes près d’un petit temple sur une île sans nom, je me suis dit que ces religieux ne seraient pas vraiment ruinés si je me servais un peu de son contenu."
+
+(5, 47, 0) ***Harpy Hag***
+Message:
+Extrait du journal de Dargem :	"Les habitants de Nighon se répandent à travers Erathia. On les trouve aussi bien dans les steppes de Krewlod que dans les étendues glacées de Vori. Cependant, ils sont plus nombreux près des rivages de leur île natale… surtout les créatures répugnantes comme les harpies."
+
+(61, 48, 0) ***Event***
+Message:
+Extrait du journal de Dargem :	"Et voici l’entrée des grottes de Nighon. Franchement, je ne m’attendais pas à ressentir une telle appréhension. Je rentre chez moi, pour repartir bientôt, et définitivement ; mais y aura-t-il jamais un autre endroit que je pourrai appeler "chez moi" ? "
+
+(26, 22, 0) ***Seer's Hut***
+Message:
+Une petite bande s'installa dans une cabane branlante surmontée d'un drapeau pirate. Ils me dévisagèrent à mon entrée, puis leur chef dit : "Alors, c'est toi que Jimmie a trouvé, hein ? Écoute, mon frère, il y a des libellules géantes au nord de l'île. On a tout essayé pour s'en débarrasser, en vain ! Peut-être que vous y arriverez."
+"Des libellules vivent au nord de l'île. De chez nous, va tout droit, et vous en verrez sûrement."
+"Vous êtes un brave type", dit le chef pirate. "On ne voit plus de libellules. Merci ! Ce sera plus calme ici maintenant, alors vous pouvez emmener quelques-uns de mes gars avec vous si vous le désirez."
+
+(24, 22, 0) ***Sea Dog***
+Message:
+Un pirate agité a couru vers moi : "Hé, toi ! Tu ressembles à un Regnan. Mes gars et moi, on a des problèmes, on a besoin d'aide. Viens chez nous, et on en parlera."
+
+(54, 37, 0) ***Seer's Hut***
+Message:
+Les Chevaliers Noirs ont chassé ce pêcheur de son coin de pêche préféré, où la morue mordait toujours à l'hameçon. Le vieil homme prétend avoir été amiral et que la pêche n'est pour lui qu'une façon de passer ses vieux jours en toute tranquillité. Il vous demande de chasser les chevaliers ; en guise de remerciement, il vous révélera quelques secrets de navigation.
+Le pêcheur dit que les chevaliers se sont installés près des trois palmiers, sur la côte.
+Formidable ! Les chevaliers sont exilés ! Aimeriez-vous prendre une leçon de navigation auprès de l'amiral à la retraite ?
+
+(53, 8, 0) ***Cove***
+Name:
+Zolwyn
+
+(33, 1, 0) ***Seer's Hut***
+Message:
+Il semblerait que Miriam habite dans ce chalet, mais il n'y a personne pour le moment. Peut-être devriez-vous essayer de contacter le propriétaire ?
+Malheureusement, seul le propriétaire peut ouvrir la porte.
+"Quel plaisir d'être de retour ! " s'exclama Miriam. "Dargem ! Voulez-vous entrer prendre un verre avec moi ? "
+"Espèce de vieux vaurien, Dargem ! Je te suis tellement reconnaissante de m'avoir tirée de ce mauvais pas. Écoute, j'ai entendu dire que tu étais devenu un gros bonnet à Jadame avant de te barrer en courant. Qu'est-ce qui vous arrive ? "
+Miriam était visiblement de bonne humeur et impatiente de parler à Dargem.
+"Ouais… J'ai dû partir. Il y a eu des problèmes avec les bandits des environs. Ils ont soumis les tribus d'ogres et ressuscité des morts-vivants", dis-je à contrecœur. "Quel désastre ! Se mêler aux zombies, et même aux ogres… Ces types n'ont aucune dignité, et encore moins d'odorat." 	"De vrais salauds, tu as tout à fait raison." 	"Très bien, mon cher Dargem", dit la pirate en me tendant une flasque. "Je vois bien que ces souvenirs ne vous plaisent pas, mais ça, je le jure, ça vous fera revivre les plus beaux moments de votre vie. Goûtez-y ! "	"Qu'est-ce que c'est ? " demandai-je en humant le flacon avec précaution. L'odeur ne me disait rien. 	"Une teinture à base de racines d'un cactus très particulier, qu'on ne trouve qu'à la surface de Nighon, en plein cœur de l'île. Je le jure, mettre la main dessus a été le plus grand défi de ma vie ! " 		Je pris une petite gorgée de ce liquide acidulé… et soudain, le monde entier se para des couleurs de l'arc-en-ciel ! J'espère que cet effet n'est pas permanent.
+
+(27, 69, 0) ***Seer's Hut***
+Message:
+Sur le rivage, près des vestiges d'un nid d'oiseau marin écrasé par les vagues, un mystérieux Homme Lézard vous aborde. Le regard triste, il se tourne vers vous : "Bon homme ! Je vous implore de m'aider. Les Dracs Mordorés ont besoin d'un nouveau nid. Il est essentiel de préserver leur espèce et de rétablir l'équilibre de la nature. Je souhaite créer un refuge sûr et confortable où ces créatures pourront se reproduire et élever leurs petits en toute tranquillité, mais mes seules mains ne suffisent pas. Aidez-moi à rassembler des branches, des coquillages et d'autres matériaux utiles, et nous construirons ensemble un nouveau nid sur une falaise au bord de la mer. La récompense sera à la hauteur de vos efforts ! "
+"Outre les coquillages, il nous faudra des objets brillants pour attirer les Dracs Mordorés, ainsi que des branches et des pierres."
+À peine le nid achevé, une multitude de Dracs Mordorés accourt. 		"Merci beaucoup, monsieur ! Je nourris ces créatures depuis longtemps et elles sont devenues apprivoisées. Je pense que certaines aimeraient devenir vos animaux de compagnie."
+
+(13, 22, 0) ***Ocean Bottle***
+Message:
+Je suis dans le pétrin. Murdoch.
+
+(2, 1, 0) ***Ocean Bottle***
+Message:
+Cette campagne a été conçue il y a plus de dix ans. En espérant qu'elle vous plaise !
+
+(58, 1, 0) ***Thunder Helmet***
+Message:
+J'ai croisé quatre voleurs, dont l'un portait le casque inestimable de Rion Cœur-de-Griffon. J'ai dégainé mon coutelas et grogné : "Je vais vous crever les yeux ! " Les voleurs jetèrent le casque à terre et s'enfuirent, paniqués.
+
+(9, 64, 1) ***Event***
+Message:
+Extrait du journal de Dargem :	"Cet endroit est extrêmement désagréable. J’entends des sifflements, qui montent et qui descendent, comme si des serpents géants imitaient le bruit des vagues. Qu’est-ce que cela peut bien être ? "
+
+(68, 4, 1) ***Dungeon***
+Name:
+Maramec
+
+Timed events:
+
+Name:
+Orange AI — Evil Eyes
+Message:
+
+
+Name:
+Dragons
+Message:
+
+
+(56, 67, 1) ***Dungeon***
+Name:
+Darklyn
+
+Timed events:
+
+Name:
+Orange AI — Starting Res
+Message:
+
+
+Name:
+Dragons
+Message:
+
+
+(68, 5, 1) ***Event***
+Message:
+Extrait du journal de Dargem : "Mon but est proche. Mon cœur palpite d’excitation ! Bientôt, j’achèverai ma mission et je découvrirai enfin ce, dans quoi cette mystérieuse inconnue me propose de faire partie. De quel artéfact légendaire parlait-elle ? Il est temps de me ressaisir et de remplir la première partie de notre accord."
+
+(64, 13, 1) ***Sign***
+Message:
+Maramec
+
+(8, 5, 1) ***Pandora's Box***
+Message:
+
+
+(51, 26, 1) ***Pandora's Box***
+Message:
+Des sorts puissants pour les deux niveaux de difficulté les plus élevés.
+
+(53, 26, 1) ***Pandora's Box***
+Message:
+Sorts pour les niveaux Normal et Difficile
+
+(19, 53, 1) ***Event***
+Message:
+Dragons bonus (pour la difficulté maximale)
+
+===== End of file =====

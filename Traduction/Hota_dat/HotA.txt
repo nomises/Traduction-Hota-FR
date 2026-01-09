@@ -4913,7 +4913,7 @@ Type : Majeur
 5
 18
 ""Bouclier Sentinelle
-Type : Mineur
+Type : Relique
 +12 en Défense et -3 en Attaque (Emplacement : Main Gauche)""
 
 5
@@ -4949,7 +4949,7 @@ Type : Majeur
 5
 24
 ""Heaume Spirituel
-Type : Mineur
+Type : Relique
 +10 en Savoir et -2 en Magie (Emplacement : Tête)""
 
 5
@@ -4985,7 +4985,7 @@ Type : Majeur
 5
 30
 ""Cuirasse des Titans
-Type : Mineur
+Type : Relique
 +10 en Magie et -2 en Savoir (Emplacement : Torse)""
 
 5
@@ -4997,31 +4997,31 @@ Type : Mineur
 5
 32
 ""Sandales Sacrées
-Type : Mineur
+Type : Relique
 +2 en Attaque, Défense, Magie et Savoir (Emplacement : Pieds)""
 
 5
 33
 ""Collier de Béatitude
-Type : Mineur
+Type : Relique
 +3 en Attaque, Défense, Magie et Savoir (Emplacement : Cou)""
 
 5
 34
 ""Bouclier Cœur de Lion
-Type : Mineur
+Type : Relique
 +4 en Attaque, Défense, Magie et Savoir (Emplacement : Main Gauche)""
 
 5
 35
 ""Épée de Justice
-Type : Mineur
+Type : Relique
 +5 en Attaque, Défense, Magie et Savoir (Emplacement : Main Droite)""
 
 5
 36
 ""Heaume de l'Illumination
-Type : Mineur
+Type : Relique
 +6 en Attaque, Défense, Magie et Savoir (Emplacement : Tête)""
 
 5
@@ -5045,7 +5045,7 @@ Type : Majeur
 5
 40
 ""Armure Dragon
-Type : Mineur
+Type : Relique
 +4 en Attaque et Défense (Emplacement : Torse)""
 
 5
@@ -5069,7 +5069,7 @@ Type : Majeur
 5
 44
 ""Couronne Croc de Dragon
-Type : Mineur
+Type : Relique
 +4 en Magie et Savoir (Emplacement : Tête)""
 
 5
@@ -5159,7 +5159,7 @@ Cet objet augmente les chances de résister à un Sort hostile de 10%. (Emplacem
 5
 59
 ""Bottes du Tigre
-Type : Mineur
+Type : Relique
 Cet objet augmente les chances de résister à un Sort hostile de 15%. (Emplacement : Pieds)""
 
 5
@@ -5321,31 +5321,31 @@ Tous les Bonus de Chance sont annulés durant les combats. (Emplacement : Divers
 5
 86
 ""Traité de la Magie du Feu
-Type : Mineur
+Type : Relique
 Permet de lancer tous les Sorts de la Magie du Feu - le Héros doit l'avoir sur lui. (Emplacement : Divers)""
 
 5
 87
 ""Traité de la Magie de l'Air
-Type : Mineur
+Type : Relique
 Permet de lancer tous les Sorts de la Magie de l'Air - le Héros doit l'avoir sur lui. (Emplacement : Divers)""
 
 5
 88
 ""Traité de la Magie de l'Eau
-Type : Mineur
+Type : Relique
 Permet de lancer tous les Sorts de la Magie de l'Eau - le Héros doit l'avoir sur lui. (Emplacement : Divers)""
 
 5
 89
 ""Traité de la Magie de la Terre
-Type : Mineur
+Type : Relique
 Permet de lancer tous les Sorts de la Magie de la Terre - le Héros doit l'avoir sur lui. (Emplacement : Divers)""
 
 5
 90
 ""Bottes de Lévitation
-Type : Mineur
+Type : Relique
 Le Héros peut traverser au galop d'importantes étendues d'eau. (Emplacement : Pieds)""
 
 5
@@ -5363,7 +5363,7 @@ Immunité totale contre le sort Dissipation de la Magie. (Emplacement : Divers)"
 5
 93
 ""Globe de Vulnérabilité
-Type : Mineur
+Type : Relique
 Neutralise la résistance et l'immunité naturelle à la Magie de toutes les créatures. n'affecte pas les sorts dont certaines particularités limitent l'applicabilité des effets du Globe, ainsi que l'immunité offerte par certains Artéfacts - excepté l'immunité aux sorts de l'esprit. (Emplacement : Divers)""
 
 5
@@ -5495,7 +5495,7 @@ Type : Mineur
 5
 115
 ""Sac de Prospérité
-Type : Mineur
+Type : Relique
 +1000 pièces d'Or par jour (Emplacement : Divers)""
 
 5
@@ -5543,37 +5543,37 @@ Type : Majeur
 5
 123
 ""Calot de Marin
-Type : Mineur
+Type : Relique
 +500 points de Mouvement lorsque le Héros se déplace en mer. Permet d'appeler ou saborder un bateau, et protège des effets négatifs des tourbillons. (Emplacement : Tête)""
 
 5
 124
 ""Chapeau des Sages
-Type : Mineur
+Type : Relique
 Permet de lancer tous les sorts de rang 5. (Emplacement : Tête)""
 
 5
 125
-""chaînes de Gladiateur
+""Chaînes de Gladiateur
 Type : Majeur
 Interdit aux Héros de battre en retraite ou de se rendre pendant un combat. (Emplacement : Divers)""
 
 5
 126
 ""Globe d'Inhibition
-Type : Mineur
+Type : Relique
 Permet de bloquer tous les Sorts durant le combat. (Emplacement : Divers)""
 
 5
 127
 ""Fiole de Sang de Dragon
-Type : Mineur
+Type : Relique
 Tous les Dragons du Héros reçoivent +5 en Attaque et +5 en Défense. (Emplacement : Divers)""
 
 5
 128
 ""Épée de l'Apocalypse
-Type : Mineur
+Type : Relique
 +3 en Attaque, +3 en Défense, +3 en Magie et +6 en Savoir. Le sort Armageddon est disponible dans le Livre de Sorts au niveau Expert. Toutes les unités du Héros sont immunisées contre le sort Armageddon. (Emplacement : Main Droite)""
 
 5
@@ -7567,6 +7567,7 @@ Permet d'acheter les Machines de Guerre : Baliste, Dispensaire et Chariot.""
 0
 ""Poste Frontière: Bleu pâle
 Généralement placé aux points d'étranglement, un Héros doit rendre visite au Maître des Clefs de la couleur correspondante pour obtenir le mot de passe. Chaque joueur doit rendre visite au Maître des Clefs, car le Poste Frontière ne disparaîtra pas après la visite du premier joueur.""
+
 212
 1
 ""Poste Frontière: Vert

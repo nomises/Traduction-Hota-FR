@@ -1,0 +1,219 @@
+===== Map name =====
+Frontier
+
+===== Map description =====
+To find his brother, Jeremy must find the Grail and build the Lodestar. If Jeremy is defeated in battle, the scenario will be lost. Leveling is capped at 16. Jeremy will proceed to the next scenario after victory.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Day 1
+Message:
+I almost feel like all this has already happened to me before. Once again, I'm marooned on a beach, once again I'm shipless... only Patris is no longer around. Anyway, the last thing I remember is getting sucked into some kind of crater, just as that harlot Kasmetra grabbed the damn Horn. That vile witch! An anchor up her bunghole! She was never into me, or anything! She only wanted the Horn of the Abyss! A thousand drowned souls! Alright, just you wait now... No one has yet escaped the wrath of Jeremy Albatross!	I also lost my boot. Again.	Somewhere not far behind loitered a handful of lads that had gotten sucked in with me. Were the rest less lucky, I wonder? I sure hope not. We still had to something to help Bidley... "Hey ya rapscals!" I shouted to the men. "We've got to get out of here... but first we need to figure out where we are... a shark up my gullet." 
+
+Name:
+Day 2
+Message:
+Yet again I have a feeling that I relive past events, with an exception of me being on some shallow stinky island. My Utopia is likely thousands of miles away from here. Quite frankly, I have a feeling that we are somewhere a Kreegan has never set its hoof. Even the air feels different here... And we have to find a settlement right away to replenish our water supplies. 		This is the merriest part of a sea wolf's life: a chance to die of dehydration while surrounded by water. But Jeremy Albatross knows better than to be afraid of such petty threats! I am more inclined to think that perils and hardships build a pirate's character. Once my biography comes out of print, it will certainly say that I was the most courageous and noble of all pirates!
+
+Name:
+Red Res
+Message:
+
+
+Name:
+Day 8
+Message:
+A short, swarthy, cross-eyed man with thin, rat-like mustache was standing before me. I think I heard of folks like that, leading nomadic lives somewhere in Krewlod. I figured out he was probably a leader here. 	"And who might you be?" I asked, squinting. "Name's Timur," He answered.	"And who are your people? What are you doing here?"	"No, who are you?" Exclaimed Timur. "We lived here peacefully, never making any trouble, before you came, killing everyone and destroying the fort!" 	"Answer the question!" I bellowed.	"We are refugees. I used to work on the plantations," answered the local man. 	"What plantations?" I inquired.	"There's a big island to the north," answered my swarthy new acquaintance. "New Steadwick town is there." 		That was when I understood where I was, and the revelation did not make me happy.	"New Steadwick!" I screamed, making Timur cower in fear, along with my own men. "New Steadwick! You rat-face... Tell me it's a joke!" I grabbed him by the collar and put my sabre to his throat.	"I swear on my blood and honor!" he wailed, sweating bullets. "It is called that for real!" 	"Hear that, men?" I let poor Timur go and turned to my crew while gesturing profusely, "Sink me! You do realize where we are, right?!"
+
+Name:
+Day 9
+Message:
+Very far away, east of Erathia, lies an archipelago amongst endless ocean. We pirates call it the Gilbert Isles. Erathians call it Klondike. Some time ago, during Erathia's heyday, they set up a fort on the largest island, that grew into a settlement and later, a full-fledged colony.		This place's climate allows for growing tobacco, coffee, sugar cane, and a wealth of exotic fruit and vegetables. The acquisition of this colony was a great success for the Erathians, since previously, they had to import all that from Tatalia. After the demise of King Gryphonheart, however, the ties with the homeland were all but severed, and for a while, the local viceroy felt like the rightful ruler of the archipelago... until the local pirates challenged him, and a war broke out. 		Matters not. The really important part is that these isles are awfully far away from the mainland! And I have not a single clue where Bidley is and where to set sail. 
+
+Name:
+Day 12
+Message:
+Back when we were little laddies, mommy used to tell us a tale about the Lodestar. Funnily enough, I've since heard the same tale, word for word, over and over from pirates and devil knows who else. 		"Jeremy-kan?" A voice rang behind me.		"What?" I turned to see Timur. He became a sort of a guide for us, as son as he realized that I was the one in charge.		"I didn’t want to ask. But why did you come here? You fight like a true son of the steppe. You are a warrior."		"Sure, a wa-a-arrior..." I bleated. "I came here to get away from things. But now, I don't know where to go. To find that out, I'd need a Lodestar." 		"Oh, I'd like to sail away too," smiled Timur. "Light the star and sail wherever the heart desires!"		"Ugh. Don't make my life even more miserable." I ruffled up and turned back to the sea.		"But Jeremy-kan! I do know how to light it!"
+
+Name:
+Day 14
+Message:
+I was enjoying the local sour mash while searching my soul. The mash was made from sugarcane. I wouldn't say it was amazing, or even good, but it had to do. At length, Timur entered my cabin, followed by... A thing. Something. If this pile of garbage knows how to get us out of here, I'm all ears. Otherwise, I'd shoot it on sight, just in case.				Upon closer inspection, it was a man clad in some ridiculous robes adorned with feathers, and a hat like a bird's head. A patch of dark skin, a large nose, and a duet of round, expressionless eyes could be seen below the hat.		"This is Crang-Crang," Timur introduced the stranger. "Crang-Crang," echoed the odd fellow for no reason. "Gotcha." I replied angrily. "Better than Abrrgh. So how do you plan to get us to see the Lodestar?"		"Grail," announced the shaman.		"Grail?" I clarified.		"Grail. Bring Crang-Crang Grail. Light Star! Shine!" 				I grabbed Timur by the shoulder and pulled him to the side.		"What in the hell is this? This is the first time I've seen a rat nest talk.		“Jeremy-kan, he is the priest of the local people. A very wise gentleman! Not the best at speaking, though, yes." 	"Shiver me timbers! Is he serious about the Grail?" I sighed.		"I reckon so. You can probably find it if you look at the obelisks. My people have legends... The obelisks depict a map that shows where the Grail is buried," the nomad replied.		"Fine. Go see your buddy out. I don't feel like savoring his tremendous odor much longer. I'll think about what to do."
+
+Name:
+Day 18
+Message:
+Honestly, I only have a most vague idea of what the Grail is. I don't much like to contemplate odd and irrelevant things. It's much nicer to think about gold, rum, and women. The fate commands otherwise, however!				Anyway, about the Grail. I heard that those things once fell from Heavens. Nobody really knows what those are, and how many of them exist. And still, everyone wants one. Well, if Timur is right and the obelisks truly reveal some kind of a map, then why not try and search for this Grail? I'd gladly give up my remaining boot to get out of here and find Bidley. Mommy would never forgive me if I neglected my dear brother. 
+
+Name:
+Day 24
+Message:
+I began to remember the stories Patris told me... Curses! He was from here, wasn't he? He escaped when their guerrilla squad was captured and his family taken hostage. Such a pity Patris is not with me anymore. He would probably have some errands to attend to here.  
+
+Name:
+Day 30
+Message:
+Looks like the local pirates and viceroy are aware of our presence. They clearly dislike the fact that Jeremy Albatross is nosing around. Good! I love making an impression. Our little fortress is attracting more and more people who desire to set scores with pirates or colonists. 				The only thing that truly scares me is that our enemies may find Grail before us.
+
+Name:
+Day 35
+Message:
+Timur's men report of a vast cave network beneath the isles. Both monsters and intelligent beings dwell there. I don't have high hopes about those "intelligent" beings far surpassing our regular "abrrghs", however. Should we go searching for the Grail down there?
+
+Name:
+Day 40
+Message:
+Alarming news have reached me: the caves are teeming with abrrghs AND demons. Damn it, maybe even Tuunbaq himself, for good measure. During the First War, the Kreegans had sent an expedition here. However, Catherine was able to vanquish the forces of Eeofol and Nighon before the expedition could arrive. The alliance with Eeofol was broken, and the Kreegans were left abandoned in these caves. I doubt they have gotten any nicer over the time.		Just my luck. Can a man get marooned devil knows where, lose a boot and NOT meet Kreegans in the end?
+
+===== Heroes =====
+
+===== Objects =====
+
+(63, 40, 0) ***Cove***
+
+Timed events:
+
+Name:
+comp bon 2
+Message:
+
+
+(15, 55, 0) ***Cove***
+Name:
+Sharkania
+
+(3, 14, 0) ***Castle***
+Name:
+Barkling Bay
+
+Timed events:
+
+Name:
+green comp bon 1
+Message:
+
+
+(8, 71, 0) ***Wayfarer's Boots***
+Message:
+An item sticking out of sand caught my attention. I leaned in to examine it... Looks like footwear of some sort! Perplexed, my boys watched me furiously digging the thing out. A few minutes later, the sand produced a pair of posh bright-green boots. Exqusitely made, if a bit dirty. Couldn't tell if they were designed for a man or a woman. A fancy thing more suited for balls rather than casual roaming... However, I'd grown way too tired of walking half-barefoot. After brushing off the sand, I put one on. The size was a fine match, as if custom-made to my order! "Nice boots, Cap'n!" heehawed one of the crewmen, with the rest joining his jolly gag. I chortled in response. What the heck. Then I shrugged and moved onward. Lady Luck has smiled upon me today.
+
+(6, 55, 0) ***Pandora's Box***
+Message:
+
+
+(70, 18, 0) ***Seer's Hut***
+Message:
+A serpent devoured my keychain and scurried away westward. Chase him down and bring back the thing. I will repay the favor.
+
+(59, 71, 0) ***Pandora's Box***
+Message:
+
+
+(10, 59, 0) ***Seer's Hut***
+Message:
+You are a stranger here, right? Too convenient! There's a personal matter that I want no one familiar to be aware of. Will you take me up on my offer?
+You aren't flying the teal flag. Go away!
+I want you to fetch this thing to an acquaintance of mine. His place is eastward from here. Will you?
+
+(66, 59, 0) ***Seer's Hut***
+Message:
+My friend was going to send me a certain artefact, should he meet someone reliable to pass it along with. Would it, by chance, be you? The thing in question is a big, rusty horseshoe.
+A demon shoe! Exactly what I was looking for. I'm so very grateful you brought it to me. Now, can you pass this thing on to my colleague? His hut is in the middle of the archipelago. He might want you to do something for him as well.
+
+(41, 24, 0) ***Seer's Hut***
+Message:
+I'm expecting a messenger with a package from my friend; it's meant to be some living plant.
+Fascinating! This cloverleaf will perfectly fit my plans! By the way, would you care for a little fetch mission? This thingy here is cursed. There's a geezer living to the northeast from here; he might know the way to lift the curse.
+
+(52, 0, 0) ***Pandora's Box***
+Message:
+
+
+(71, 56, 0) ***Event***
+Message:
+Your ship made its way calmly. Suddenly, a huge wave rose straight ahead and fell crashing on the deck. “It's not the sea!” 	You shouted, pulling out your old pistol. 	“It's an ambush!”
+
+(30, 8, 0) ***Castle***
+Name:
+New Steadwick
+
+Timed events:
+
+Name:
+green comp bon 1
+Message:
+
+
+(71, 52, 0) ***Pandora's Box***
+Message:
+
+
+(6, 69, 0) ***Event***
+Message:
+You see a company of particularly unfriendly characters emerge from behind a nearby dune. The one in possession of the least appealing mug rises something shiny above his head and starts spouting some balderdash. After he seems to have finished, he proceeds to draw steel, and so do his companions.
+
+(65, 1, 0) ***Seer's Hut***
+Message:
+A long time ago I lost a very precious thing. It may not look like much, but it bears some dear memories. Were you to find and bring it back to me, I'd be very grateful.
+My doll! At last! I can cast curses once again! Oh, grand old times are coming back! And to think I had to resort to snake infestations to meddle with my neighbors! That isn't nearly as much fun, and the snakes are growing too big and hard to deal with lately. Will you take them off my hands?
+
+(70, 2, 0) ***Gold Dragon***
+Message:
+Steed for dinner, pirate for supper!
+
+(30, 55, 0) ***Event***
+Message:
+I could never figure out what these obelisks were for. They would reveal some gibberish on touch.
+
+(23, 11, 0) ***Sign***
+Message:
+Plantation
+
+(27, 53, 0) ***Sign***
+Message:
+Bounty Island
+
+(19, 58, 0) ***Crew Mate***
+Message:
+The hell are you? Begone, this is our boat!
+
+(19, 59, 0) ***Event***
+Message:
+I spotted a boat, turned around, and declared solemnly: "I bestow the name of Black Unicorn upon this ship!"
+
+(66, 7, 0) ***Rampart***
+Name:
+Evergreen
+
+(63, 5, 0) ***Sign***
+Message:
+Emerald Lagoon
+
+(46, 30, 0) ***Sign***
+Message:
+These isles were discovered by the brave seafarer Siagum and her first mate Tsilataf.
+
+(64, 66, 0) ***Sign***
+Message:
+Serene is imprisoned here. She is guilty of entering the dungeon unauthorized.
+
+(14, 36, 0) ***Event***
+Message:
+Doesn't look like a free passage. You seem to remember people saying you can only exit here. The key to the entrance is probably somewhere underground.
+
+(31, 29, 0) ***Event***
+Message:
+You can see the nearby island looming to the west. It's actually not that far away, but no ford in sight.
+
+(36, 40, 0) ***Sign***
+Message:
+Gallavant was here
+
+(41, 14, 0) ***Event***
+Message:
+You hear deep, repulsive gurgling, and right away a serpent's ugly head arises above the waves. Taken by surprise, a crewman falls over the poop deck railing. While the serpent is enjoying an unexpected snack, you manage to collect yourself and order the gunners to open fire.
+
+===== End of file =====

@@ -1,0 +1,282 @@
+===== Map name =====
+Le Tueur d'Arbres
+
+===== Map description =====
+
+Pour gagner, Dargem doit amasser 300 unités de Bois en 3 mois. Le niveau maximum des héros est de 24. Après leur victoire, Dargem et Murdoch, ainsi que le Pendentif de Pureté et le Pendentif de Vie, accéderont au scénario suivant.
+
+===== Rumors =====
+
+Name:
+Desert
+Text:
+On raconte qu'à la surface de Nighon, loin à l'est, vivent les peuples du désert. Parmi eux se trouvent des hommes-chats, que personne n'a encore vus.
+
+Name:
+Gelu
+Text:
+Je vais vous dire en toute confidence que Gelu est un personnage très désagréable, même s'il est un héros glorieux. Je vous préfère largement !
+
+Name:
+Grandfather
+Text:
+Comme disait mon grand-père : "Je suis ton grand-père ! "
+
+Name:
+Sephinroth
+Text:
+En réalité, Sephinroth est la véritable reine d'Erathia ! C'est la fille aînée du roi Gryphonheart, je vous le dis ! Regardez ses cheveux !
+
+Name:
+Hobbits
+Text:
+Est-il vrai que Dargem s'est fait tabasser par une bande de Hobbits armés de houes ? Quel plaisir !
+
+===== Timed events =====
+
+Name:
+Jour 1
+Message:
+Journal de Dargem. Entrée 270 :		"Ce soir-là, je me trouvais sur le quai d'un port près de Krewlod. Stella était venue superviser la remise de la récompense du chef barbare.		"Je ne trouve plus cela drôle, madame", soupirai-je en laissant passer une équipe de Gobelins qui traînaient un coffre rempli d'argent.		"Je comprends votre désespoir", répondit Stella. "Vous seriez dans votre droit si vous décidiez de rompre le contrat. Vous avez déjà beaucoup fait pour nous, messire Dargem."		"Je pourrais bien le faire", dis-je, soulagé.		"Parfait", s'exclama la jeune femme avec un grand sourire. "Auriez-vous l’amabilité de me recommander un autre mercenaire prêt à partir en expédition à la recherche de la Corne des Abysses ? "		"Cette chose n’est qu’une légende", murmurai-je en me détournant.		Stella fit un geste vague de la main et s’apprêtait à partir lorsqu’une sorte d’intuition me saisit. "Êtes-vous en train de dire que vous croyez à l’existence de la Corne des Abysses ? "		"Mes employeurs sont des gens sérieux. Ils ne gaspilleraient jamais leur énergie et leur argent à chercher quelque chose qui n’existe pas. Il nous reste juste à faire les derniers préparatifs. Je suis vraiment désolée que vous, mon cher Dargem, ayez décidé de vous retirer de la table de jeux..."		"Non, attendez ! " m’exclamai-je avec enthousiasme. "Je n’ai encore rien décidé ! Alors, de quoi avez-vous besoin pour l’expédition ? "		Stella me regarda droit dans les yeux et lissa ses cheveux. "Pas moins de cinq caravelles. De préférence en pin elfique, mais les longues cornes ne sont pas compatibles avec le commerce avec les pirates… Et si nous avons recours à la contrebande, l’approvisionnement prendra une éternité, sans parler du coût exorbitant. Comment résoudre ce problème ? "		"Chère dame, permettez-moi de vous soumettre un plan" dis-je prudemment, me balançant d’un pied sur l’autre. "Si les elfes ne nous vendent pas le bois, nous le prendrons nous-mêmes."		"Un raid sur AvLee ? " demanda Stella.		"Exactement", répondis-je. "Croyez-moi, vous aurez tout ce qu'il vous faut, et très bientôt."		"Vous voulez dire "nous" ? " La femme plissa les yeux.
+
+Name:
+Jour 1.5
+Message:
+Journal de Dargem. Entrée 271 :		"J’avais déjà débarqué sur les rivages d’AvLee. Je débutais alors ma carrière de mercenaire, au service d’un certain Ergon, un Barbare originaire du nord d’Enroth. Ce n’est sans doute pas le moment de ressasser le passé… En résumé, les Elfes aux oreilles pointues ne prennent pas la protection de leurs côtes aussi au sérieux que celle de leurs forêts. Sans doute un trait de leur nature.		Dès que je posa le pied sur la terre ferme, j'envoya un marin futé en reconnaissance. Il revint avec un rapport faisant état d’un village elfique tout au sud, avec même une sorte de fort. C’est une excellente nouvelle ; nous pouvons nous y installer pour la durée de notre exploitation forestière."
+
+Name:
+ÈÈ ðåñóðñû
+Message:
+
+
+Name:
+Jour 8
+Message:
+Journal de Dargem. Entrée 273 :		"Comme je m’y attendais, les Elfes et leurs acolytes n’étaient pas particulièrement enclins à ce que nous nous installions à AvLee. Je peux intimider et corrompre les gens dans le fort pour qu’ils me servent. En fin de compte, les Elfes ne sont pas un peuple très uni ; ils ne s’unissent que lorsqu’une menace commune plane. Leur étrange sens de la liberté intérieure a tendance à leur jouer des tours.		Le principal obstacle est maintenant dévoilé : la plupart des Scieries d’ici sont contrôlées par des Druides et sont mal adaptées à l’exploitation forestière à grande échelle. Stella ne m’a pas accordé beaucoup de temps ; ses maîtres attendent la marchandise pour dans trois mois."
+
+Name:
+Jour 10
+Message:
+Journal de Dargem. Entrée 274 :		"Selon la rumeur et la légende, certains objets trouvés sur les terres d’AvLee, une fois combinés, permettraient de fabriquer une arme redoutable : l’Arc d'Archer d'Élite. Je ne suis pas un grand archer, mais il paraît que même un novice comme moi pourrait s’emparer de cet arc et atteindre un écureuil en plein œil à plusieurs centaines de mètres."
+
+Name:
+Jour 14
+Message:
+Journal de Dargem. Entrée 275 :		"Une chose surprenante m’est venue à l’esprit : si les Sylvaniens naissent des arbres qui poussent ici, alors… sciez-en un, et vous obtiendrez des planches d’une qualité au moins égale à celle du pin elfique. Couper du bois, couper des Sylvaniens... je ne vois pas de différence ! "
+
+Name:
+Jour 17
+Message:
+Journal de Dargem. Entrée 277 :		"Les sentinelles rapportent que la nuit, près du fort, elles aperçoivent d’étranges créatures ressemblant à des nains chauves et aveugles. Je pense qu’ils parlent de Troglodytes, mais je n’ai aucune idée de ce qu’ils pourraient bien faire ici. Il est extrêmement rare qu’ils remontent à la surface… à moins que quelqu’un ou quelque chose ne les force à quitter leurs tunnels."
+
+Name:
+Jour 21
+Message:
+Journal de Dargem. Entrée 277 :		"Enfin, tout est clair.Aujourd'hui, je reçu un message de Tor Anwyn en personne. Le parchemin, dans son élégant étui à vis, a été lâché par une harpie survolant mon camp. Par les dieux, quel plaisir de lire de temps à autre une lettre bien écrite d'une personne intelligente, même si l'expéditeur est un ennemi ! Il est rare que j'expérimente un tel plaisir ces temps-ci ! Et quelle écriture manuscrite exquise ! Quant au contenu…		"Salutations, Dargem ! Cela fait longtemps que nous ne nous sommes pas vus, mais d'après les dernières nouvelles, vous êtes toujours en vie. Je commençais à vous oublier – c'est un véritable paradis ici à Nighon, savez-vous ? Cependant, votre récente visite à Maramec m'a beaucoup attristé ! Que vous travailliez pour Mutare ou que vous vendiez vos talents à autrui n'a aucune importance. Vous avez choisi votre propre destin de voleur et de traître. Acceptez maintenant le châtiment qui est dû à votre race. J'ai suivi vos déplacements ; très bientôt, Gunnar et ses Minotaures seront à vos trousses pour vous transmettre nos salutations d'ici. Dargem, vous savez que je ne suis ni sanguinaire ni vindicatif, c'est pourquoi je n'ai pas demandé votre tête à Gunnar… Cependant, votre dernier acte a été la goutte d'eau qui a fait déborder le vase, même pour moi. Le destin décidera du reste. Bonne chance."		Voilà ! Tor veut ma mort, même s'il semble sous-estimer les capacités de son taureau apprivoisé. Oh, pourquoi à un moment aussi inopportun ? D'un autre côté, je doute fort que les Elfes laissent les bandits de Nighon parcourir leurs terres en toute impunité. Peut-être pourrais-je monter mes ennemis les uns contre les autres pour me faciliter la tâche."
+
+Name:
+äåðåâî
+Message:
+Extrait du journal de Dargem :		"Les Elfes maudits ont saccagé notre entrepôt la nuit dernière. Ils savent pourquoi je suis ici, et ils n’ont touché qu’au bois."
+
+Name:
+Jour 23
+Message:
+Journal de Dargem. Entrée 278 :		"Aujourd’hui, un énorme oiseau marin a survolé notre campement et a laissé tomber quelque chose. Mes hommes ont examiné l’endroit où l’objet était tombé avant de m’inviter à les rejoindre. J’ai trouvé une pierre enveloppée dans une peau de phoque, avec quelque chose d’écrit sur le cuir. Intrigué, je ramassa la pierre et lus le message.		C’était un mot de ma fidèle lieutenant, Bess, qui était restée à Jadame après mon départ. D’après Bess, les vils Hobbits s’étaient enfin affrontés. Quelle bonne nouvelle ! J’espère qu’ils vont s'entre déchirer le foie, et que les Glyptodons se feront un plaisir de ronger leurs os et de les enterrer dans les ruines de ce trou puant, Bruton… ou quel que soit le nom qu'ils donnent à leur repaire ! "
+
+Name:
+Jour 56
+Message:
+Journal de Dargem. Entrée 280 :		"L’exploitation forestière dure depuis maintenant deux mois. Je suppose que Stella et ses maîtres s’inquiètent de ma réussite. Je devrais les rassurer en leur disant que je maîtrise la situation et que je leur fournirai bientôt tout ce dont ils ont besoin."
+
+===== Heroes =====
+
+===== Objects =====
+
+(2, 19, 0) ***Rampart***
+Name:
+Silver Forest
+
+Timed events:
+
+Name:
+Ïîäêðåïëåíèå äëÿ ïåøêè
+Message:
+J'ai réussi à rallier à ma cause une partie des habitants.
+
+(11, 8, 0) ***Wood Elf***
+Message:
+"PIRATES ! Aux armes ! Les pirates ont débarqué ! "
+
+(12, 10, 0) ***Event***
+Message:
+Quelqu'un avait tracé un large chemin à travers la forêt. Je ne suis probablement pas la première personne à débarquer sur cette plage.
+
+(19, 20, 0) ***Dendroid Guard***
+Message:
+"Tueurs d'arbres ! Ressentez notre colère ! "
+
+(67, 26, 0) ***Rampart***
+Name:
+Moon Cliff
+
+Timed events:
+
+Name:
+Ïîäêðåïëåíèÿ
+Message:
+
+
+(3, 37, 0) ***Dendroid Soldier***
+Message:
+"Vous... torturez... arbres..."
+
+(34, 3, 0) ***Rogue***
+Message:
+"Ne nous tuez pas ! Nous sommes prêts à vous aider ! "
+
+(30, 2, 0) ***Seaman***
+Message:
+"Prêt à vous servir, mon seigneur ! "
+
+(17, 25, 0) ***Event***
+Message:
+Extrait du journal de Dargem :	"Près du fort, je découvris un spectacle inquiétant : des restes d’Elfes et de Centaures, mêlés à des arbres déracinés, jonchaient dans une clairière piétinée. Tout autour, je voyais les empreintes d’énormes sabots ferrés… Beaucoup d'empreintes, étrangement familières. Bien sûr, je les reconnus : il y avait des Minotaures ici, beaucoup de Minotaures ! "
+
+(32, 4, 0) ***Sign***
+Message:
+Repaire de contrebandiers
+
+(35, 68, 0) ***Quest Guard***
+Message:
+Monseigneur Ivor nous a interdit de laisser passer qui que ce soit. Veuillez lui demander la permission.
+Nous n'avons pas encore reçu l'ordre de laisser passer qui que ce soit.
+Après sa défaite humiliante au combat, Monseigneur Ivor a pris sa retraite. Nous ne souhaitons plus le servir.
+
+(69, 31, 0) ***Quest Guard***
+Message:
+Le grand Druide Elleshar a érigé ici une barrière magique d'épines impénétrables.
+Tant qu'Elleshar parcourt ces terres, son sort est imbrisable.
+Le sort du Druide peut désormais être facilement brisé.
+
+(6, 63, 0) ***Sign***
+Message:
+Secret clearing
+
+(17, 10, 0) ***Seer's Hut***
+Message:
+"Hé, mon frère, j'ai quelque chose à te demander. On était en train de couper du bois en cachette avec les gars, mais on s'est fait attraper par les Elfes. En fuyant, on a perdu nos haches. On ne peut pas s'en passer. Sois sympa et retrouve-nous nos outils ! Il devrait y en avoir trois."
+"Regarde autour de toi, nos haches sont éparpillées partout."
+"Tu nous as sauvés, nous et nos familles, de la famine ! Mais s'il te plaît, retrouve-nous deux autres haches."
+"Tu fais du super boulot, mais trouve-nous une autre hache ! "
+"Regardez autour de vous : nos haches sont éparpillées partout."
+"Vous nous avez sauvés, nous et nos familles, de la famine ! Mais s’il vous plaît, retrouvez-nous la dernière hache."
+"Il vous suffit de nous apporter la dernière troisième hache."
+"Regardez autour de vous : nos haches sont éparpillées partout."
+"Vous nous avez sauvés, nous et nos familles, de la famine ! En guise de remerciement, prenez cet objet magique. Je ne sais pas ce que c’est, mais vous saurez certainement en faire un meilleur usage que nous."
+
+(65, 69, 0) ***Event***
+Message:
+Extrait du journal de Dargem : "Quelle chance ! J’ai trouvé une grande pile de bois de grande qualité. Ce doit être le stock des contrebandiers. Je dois dire que même si les propriétaires étaient là maintenant, je n’abandonnerais pas mon intention de m’en emparer."
+
+(66, 53, 0) ***Seer's Hut***
+Message:
+"Hé, mon gars ! Des types armés de fusils à pompe nous ont chassés de chez nous. Faites-nous une faveur : fous-les dehors, et nous nous joindrons à vous avec plaisir ! "
+"Allons... ne sois pas un lâche. On sait que vous pouvez le faire ! "
+"Nous vous sommes redevables, mon ami ! Nos arcs sont aussi efficaces que leurs pistolets, croyez-moi."
+
+(6, 31, 0) ***Quest Guard***
+Message:
+Si vous cherchez du bois, vous pouvez apprendre où en trouver ici. Pour la modique somme de trois mille Pièces d'Or."
+Revenez quand vous aurez amassé trois mille Pièces d'Or."
+Bon, vous pouvez passer ! "
+
+(58, 0, 0) ***Ocean Bottle***
+Message:
+Vous pensiez qu'il y aurait encore une question idiote ici ?
+
+(50, 49, 0) ***Event***
+Message:
+Une embuscade !
+
+(55, 39, 0) ***Event***
+Message:
+Une embuscade !
+
+(21, 3, 0) ***Corsair***
+Message:
+"Il n'y a de paix nulle part pour nous ! "
+
+(21, 16, 0) ***Seer's Hut***
+Message:
+"J'ai récemment perdu mon alliance, un souvenir de ma défunte épouse. Si vous la retrouvez, je vous récompenserais généreusement. J'ai des livres contenant des sorts rares ; il y aura sûrement quelque chose qui vous intéressera."
+"Je crois avoir perdu mon alliance dans le bosquet de trèfles. Jeteriez-vous un coup d'œil ? "
+"Merci infiniment pour l'alliance ! Regardez : j'ai trouvé cet intéressant sort rien que pour vous."
+
+(33, 65, 0) ***Rampart***
+Name:
+Elentar
+
+Timed events:
+
+Name:
+Reinforcements
+Message:
+
+
+(48, 69, 0) ***Event***
+Message:
+Une embuscade !
+
+(34, 66, 0) ***Pandora's Box***
+Message:
+Implosion pour Elleshar en difficulté élevée
+
+(23, 60, 0) ***Event***
+Message:
+Une embuscade !
+
+(67, 28, 0) ***Pandora's Box***
+Message:
+Élémentaire pour Ivor en difficulté élevée
+
+(29, 2, 0) ***Pandora's Box***
+Message:
+
+
+(13, 12, 0) ***Event***
+Message:
+Cet Artéfact pourrait s'avérer utile !
+
+(44, 17, 1) ***Dungeon***
+Name:
+Nocturus
+
+Timed events:
+
+Name:
+Reinforcements
+Message:
+
+
+(11, 57, 1) ***Seer's Hut***
+Message:
+Des bûcherons Minotaures se sont installés ici. Ils proposent leurs services : si vous leur apportez une douzaine de Sylvaniens, ils en feront des planches de première qualité.
+Il vous faut au moins dix Gardes Sylvaniens.
+Souhaitez-vous confier les Sylvaniens aux Minotaures pour qu'ils les transforment en bois ?
+
+(20, 50, 1) ***Sign***
+Message:
+Repaire de Gunnar
+
+(4, 54, 1) ***Artificer***
+Name:
+Kreh
+Biography:
+Kreh, un Gremlin rebel, s'échappa de Bracada pour se réfugier dans les Donjons. On raconte qu'il erre encore aujourd'hui dans les entrailles de la terre, complotant contre les voyageurs et créant d'incroyables illusions.
+
+(5, 53, 1) ***Event***
+Message:
+"Hé, petit pirate ! Si tu veux plus de puissance magique, tu devras avoir affaire à moi. Je suis Kreh." "Quoi ? C'est quoi un Kreh ? Dégage, espèce de morveux ! "	"Regarde-moi ça, petit pirate ! " Le Gremlin sauta du champignon, claqua des mains, et une armée entière apparut autour de lui.
+
+===== End of file =====

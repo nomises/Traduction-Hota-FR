@@ -1,0 +1,169 @@
+Note: Do not change the headings in this file, they are used to detect problems	
+General	
+Heroes of Might and Magic III: Horn of the Abyss Campaign Editor	
+© 2000 The 3DO Company. All Rights Reserved. 3DO, Heroes, Heroes of Might and Magic, New World Computing, The Shadow of Death, and their respective logos are trademarks and/or service marks of The 3DO Company in the U.S. and other countries. All other trademarks belong to their respective owners. New World Computing is a division of The 3DO Company.	
+Version %s	
+Heroes 3 Campaign Files (*.h3c)	
+Heroes 3 Campaign	
+Your display must be set to at least 16-bit color to run the Campaign Editor!	
+Debug Build	
+Release Build	
+OK	
+About Campaign Editor	
+Player %d (%s)	
+Random Town	
+""%s"" is invalid or corrupt.  Unable to import.	
+""%s"" is unplayable.  Unable to import.	
+""%s"" has an invalid format version.  Unable to import.	
+""%s"" has an old format version.  Unable to import.	
+"Invalid campaign file version!
+
+File version = %d
+Current version = %d"	
+Invalid or corrupt campaign file!	
+"%s already exists.
+Do you want to replace it?"	
+Properties...	
+Most Powerful Hero	
+Generated Hero	
+and	
+Random Hero	
+(None)	
+Pawn	
+Knight	
+Rook	
+Queen	
+King	
+"Heroes 3 Map Files (*.h3m)
+.h3m"	
+Prologue	
+&Has prologue	
+Epilogue	
+&Has epilogue	
+Scenario Properties	
+%s spell	
+Give %s to %s	
+Build %s at Main Town	
+Receive %d %s	
+Cancel	
+Help	
+"Text Files (*.txt)
+.txt"	
+Unable to import ""%s"".	
+Successfully imported ""%s"".	
+Name	
+Description	
+Right-click text	
+Prologue	
+Epilogue	
+Campaign Properties Dialog	
+Campaign Properties	
+Map:	
+&Name:	
+&Description	
+Difficulty level is user selectable	
+&Theme music:	
+Campaign version	
+&Armageddon's Blade	
+The &Shadow of Death	
+Edit Hero Crossover Option Dialog	
+Edit Hero Crossover Option	
+&Source scenario:	
+&Player position:	
+Edit Starting Bonus Type Dialog	
+Edit Starting Bonus	
+Select a bonus type:	
+&Spell	
+&Creature	
+&Building	
+&Artifact	
+Sp&ell scroll	
+&Primary skill	
+Sec&ondary skill	
+&Resource	
+Recipient:	
+Artifact:	
+Creature type:	
+Quantity:	
+Building:	
+Spell:	
+Attack skill:	
+Defense skill:	
+Spell power:	
+Knowledge:	
+Secondary skill:	
+Mastery:	
+Resource type:	
+Edit Starting Hero Option Dialog	
+Edit Starting Hero Option	
+&Hero identity:	
+&Player position:	
+New Campaign Dialog	
+New Campaign	
+Campaign &map:	
+Campaign version	
+&Armageddon's Blade	
+The &Shadow of Death	
+Scenario Properties Crossover Page	
+Crossover Options	
+Crossover heroes retain:	
+&Experience	
+&Primary skills	
+Sec&ondary skills	
+&Spells	
+&Artifacts	
+&Creature types:	
+A&ll	
+&None	
+Crossover a&rtifacts:	
+Scenario Properties General Page	
+General	
+Region name:	
+Region &color:	
+Scenario name:	
+Map file	
+&Import...	
+Rep&lace...	
+&Export...	
+&Remove	
+Default &difficulty:	
+&Prerequisites:	
+Re&gion right-click text:	
+Scenario Properties Prologue Page	
+M&ovie:	
+M&usic:	
+&Message:	
+Scenario Properties Starting Options Page	
+Starting Options	
+Starting options are:	
+&Starting bonus options	
+Hero &crossover options	
+Starting &hero options	
+&Player position	
+Starting bonus &options	
+&Add...	
+&Edit...	
+&Remove	
+Source scenario	
+Hero	
+Main Menu Text	
+&File	
+&Edit	
+&Help	
+File Menu	
+&New…	Ctrl+N
+&Open…	Ctrl+O
+&Save	Ctrl+S
+Save &As…	
+E&xport Text...	
+&Import Text...	
+&Update Scenario Maps	Ctrl+R
+&Export Scenario Maps	Ctrl+E
+Recent Files	
+E&xit	
+Edit Menu	
+&Campaign Properties…	Ctrl+Enter
+&Scenario Properties…	Enter
+Help Menu	
+&Help Topics	
+&About Campaign Editor…	

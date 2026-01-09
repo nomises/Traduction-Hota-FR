@@ -1,0 +1,36 @@
+Split %s army
+Cannot combine hero's last army
+Combine %s armies
+Split army
+View %s
+Cannot move last army to garrison
+Move %s
+Exchange %s with %s
+Exit town
+Cannot move allied heroes to garrison.
+Kingdom Overview
+Empty
+Select %s (in garrison)
+View Hero
+Mage Guild
+Thieves' Guild
+Tavern
+Shipyard
+Castle
+Blacksmith
+Village Hall
+Recruit %s
+Town Hall
+City Hall
+Capitol
+
+Marketplace
+Resource Silo
+Fort
+Citadel
+An external creature dwelling must be flagged to summon creatures through the portal.
+%s purchased
+Select %s (visiting)
+Select %s (discarded creatures)
+Select %s (hero's army)
+%s (cannot remove)
