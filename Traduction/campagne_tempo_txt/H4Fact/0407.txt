@@ -1,0 +1,747 @@
+===== Map name =====
+Nouvel Ordre
+
+===== Map description =====
+Kastore a pris le pouvoir à Burton. Les Hobbits ont été déclarés des traîtres ; leur dernier espoir est donc de retourner à Eeofol. Récupérez les ressources nécessaires au voyage de retour et rejoignez le Chantier Aéronaval pour remporter le scénario. Vos héros sont limités au niveau 36, mais ils apporteront la Bicorne d'Amiral au scénario suivant.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+AI - minus resources
+Message:
+
+
+Name:
+Retour à Jadame - Partie I
+Message:
+Tout au long du chemin du retour vers Jadame, je n'attendais qu'une chose. Dès mon débarquement, j'annoncerais la bonne nouvelle à chaque Hobbit. Tavin est vivant ! Et cela signifie que d'autres sont vivants aussi : sa famille, ses frères, ses amis. Nous allons immédiatement préparer une équipe de secours, et ma nouvelle expérience contribuera à ce que ça se passe bien mieux que la précédente fois. Des années de dur labeur ont porté leurs fruits : nos nouveaux dirigeables sont plus rapides et plus spacieux. Nous allons maintenant recruter une armée de guerriers, le cœur brûlant de justice, et charger les puissants Démolisseurs. Nous retournerons sur Eeofol et fondrons sur l'ennemi ; entravés par leur guerre contre les héros d'Erathia, nous pourrons frapper là où personne ne nous attend. Nous sauverons tout le monde, les ramènerons ici, leur montrerons à quel point nous avons réussi ! Je n'ai pas pu m'empêcher de partager tous les détails de mes projets avec Wynona. Même si elle m'a soutenue avec ferveur, je crois l'avoir un peu épuisée avec mes bavardages.
+
+Name:
+Retour à Jadame - Partie II
+Message:
+Enfin, le jour tant attendu arriva : notre navire jeta l'ancre à un petit quai. Des cages contenant des animaux exotiques et des caisses remplies d'œufs de Couatl furent déchargées. Ni moi ni les autres participants de l'expédition ne pûmes cacher notre joie. Après des mois d'errance dans la jungle humide et boueuse, cette terre nous semblait encore plus précieuse qu'auparavant, malgré son aspect terne et brûlé par le soleil.
+
+Name:
+Morton et Fort Rotwang
+Message:
+Nous avançâmes prudemment à l'intérieur des terres, évitant les grandes routes et la campagne. Nos oreilles devinrent nos yeux ; quand on est chassé, plus on a d'yeux, mieux c'est. Je souris amèrement ; j'aurais adoré en faire pousser quelques paires supplémentaires, si Agar avait été disponible. En passant près d'un ravin, j'entendis un bruit à peine perceptible : un reniflement ou un ronflement. Je fis signe à Wynona de ralentir. Les oreilles de l'elfe tressaillirent et, une seconde plus tard, elle pointait du doigt la direction d'où venait le bruit. 		Silencieusement, tel un véritable éclaireur, je me faufilai vers le ravin à l'endroit indiqué. Ce que je vis était une image triste : quelques Hobbits hagards et blessés, cachés sous des haillons sales et en lambeaux. Je ne pouvais voir leurs visages, mais leurs talons nus, couverts d'une chevelure grise clairsemée, me faisaient battre le cœur plus fort. 		"Kosta, vieux coquin ! Debout ! Tes poneys ont encore dévoré toutes les carottes chez Mélanie ! "		Kosta bondit et me fixa d'un regard effrayé. Des larmes jaillirent des yeux du vieux charretier et un cri d'horreur s'échappa de sa poitrine, mais dès que ses yeux aveugles reconnurent mon visage, il se mit à hurler encore plus fort, de bonheur cette fois. 		"Henrietta, c'est toi ? J'en ai eu assez. Alors, il s'avère qu'ils m'ont retrouvé, et je suis au paradis maintenant."		"Qu'est-ce que tu racontes, Kosta ? C'est moi ; je suis vivante. Et toi, tu es vivant ! Que t'est-il arrivé ? "		"Morton. Ce satané gobelin ! Tant de bourgeons miens ont été arrachés par ses machines diaboliques ! On a à peine réussi à sortir de Rotwang."		"Attends. Morton ? Il nous a trahis aussi ? "		"Ouais, ma belle, lui aussi. Pas étonnant, tu sais, vu le bâtard à la peau verte qu'il est. Quand les gens ont commencé à arriver du nord avec de mauvaises nouvelles, on s'est préparés à une bagarre. On a même rusé : on a pris Morton en embuscade et on a cassé une douzaine de ses machins, mais le monstre à tête de crapaud s'est quand même retranché dans les faubourgs. Seule une poignée de miliciens s'en est sortie vivante, alors on est là. Impossible de rentrer en ville, et on est partis chercher de l'aide." 		"N'aie pas peur, mon vieux. Tu as trouvé ! "		"Donc Rotwang est soit assiégée, soit tombée. Même dans ce dernier cas, la ville a dû subir de gros dégâts, il faudra donc du temps à Morton pour reconstruire ses défenses", pensai-je en réfléchissant à nos options.
+
+Name:
+Kastore arrive au pouvoir
+Message:
+Une fois en sécurité sous notre protection, Kosta reprit rapidement ses esprits. Certes, il ne rajeunissait pas, mais il n'était plus la créature pitoyable, à moitié morte, horrifiée et épuisée que nous avions trouvée cachée dans un trou comme un lapin. Il me raconta en détail ce qui s'était passé ces derniers mois. 		Je n'avais jamais apprécié Kastore ; je sentais en lui quelque chose qui m'empêchait de croire à la sincérité de son désir d'aider Burton à prospérer pour le bien de tous à Terra Nova, car il ne manquait jamais une occasion de s'exprimer à la tribune. Il s'avéra que je n'avais pas tort. L'homme venu d'outre-mer avait la mainmise sur tout ce qui se trouvait à sa portée. Il exigeait sans cesse que davantage de minerai soit extrait et acheté, et que davantage de machines soient construites ; personne ne comprenait pourquoi. Les journées de travail des Hobbits s'allongeaient et les conditions de travail se dégradaient. 		Nombreux furent ceux qui se tournèrent alors vers Frederick, comme ils l'avaient déjà fait lorsqu'il présidait le conseil de surveillance de l'Associated Burton Works, mais les gardes refusèrent de les laisser le rencontrer. Personne n'avait vu l'inventeur depuis des semaines. Après l'arrivée de Kastore, Frederick avait commencé à disparaître pendant de longues périodes, menant apparemment des recherches dans des laboratoires à l'abri des regards indiscrets. Il avait maintenant l'impression d'avoir disparu pour de bon ; personne ne savait où il était, à part le Démoniste. 		Lorsque les premiers ouvriers mécontents se mirent en grève et arrêtèrent les marteaux à vapeur, exigeant une renégociation de la convention collective, Kastore lança ses mercenaires coiffés de chapeaux à larges bords et de longues capes, réprimant brutalement la manifestation.		"Ces types n'étaient pas des nôtres ; Frig sait où ce satané sorcier les a sortis", dit Kosta.		Cependant, la réaction de Kastore ne fit qu'attiser la colère des Hobbits ; ils avaient depuis longtemps appris à riposter quand on tentait de leur prendre ce qu'ils considéraient comme leur appartenant. Bientôt, la plupart des usines furent à l'arrêt, de nombreuses machines brisées, et mes frères commencèrent à constituer des milices. Ils attrapaient les mercenaires et les battaient à mort partout où ils les voyaient. Ils couvraient les murs de graffitis appelant à chasser l'invité indésirable de Deyja du trône qu'il s'était construit, sans tenir compte de l'opinion de ceux qui ne voulaient ni rois ni souverains à Burton ni dans les autres cités libres. 	Puis Kastore déclara hors-la-loi tous les Hobbits ; certains furent enchaînés à leurs machines, d'autres jetés aux oubliettes. Ceux que ses bandits ne pouvaient pas arrêter étaient traqués. Moi, cheffe présumée du peuple rebelle, je fus accusée, pendant mon absence, d'incitation au sabotage et d'organisation d'émeutes.
+
+Name:
+Murdoch
+Message:
+Nous avions pris pied à Larimar, mais ce n'était guère un endroit où il faisait bon s'attarder. Cette petite ville pauvre ne ferait pas un bon camp de base, et les habitants nous craignaient terriblement. Bien sûr, il aurait été absurde de leur en vouloir pour cela : les lois draconiennes édictées par Kastore et les châtiments promis par l'usurpateur en étaient la cause. Le codex des peines représentait près de la moitié du lourd ouvrage, Leges Terrae Novae, publié par l'imprimerie Burton il y a tout juste un mois. Dire qu'il ne s'était pas écoulé un an depuis que nous avions affronté l'adversité aux côtés de ces hommes et œuvré pour notre avenir commun ! Et maintenant, nos routes se séparent et divergeront de plus en plus chaque jour qui passe. 		Ma rencontre avec un garçon du coin, trop jeune pour se souvenir de nos combats contre les pirates ou Zog, en était la preuve éclatante. Le gamin surgit de derrière les buissons en poussant un cri strident, se voulant probablement un cri de guerre. J'ai failli rire - sa voix d'oiseau était bien trop hilarante. Pas du tout gêné de ne pas m'avoir fait l'effet escompté, le garçon m'a pointé du doigt avec le bâton que son imagination avait transformé en fusil :		"Meurs, espèce de petit traître ! Bang, bang, bang ! Je suis Murdoch, le meilleur tireur de Ravage Roaming ! Je peux atteindre un ennemi en plein cœur à un kilomètre ! Craignez-moi ! "		J'avais l'habitude de rire et de jouer avec les enfants qui se faisaient passer pour des Ogres, des Gobelins et autres monstres dans leurs jeux, mais là, c'était différent. L'attitude et les pitreries de l'enfant m'ont profondément énervé. J'ai cédé à la colère, j'ai arraché le bâton des mains du petit tyran, je l'ai brisé sur mon genou, je l'ai jeté dans les buissons et je lui ai donné une bonne claque sur la tête. Le garçon n'était pas un lâche ; il n'a pas fondu en larmes, mais m'a craché dessus et s'est enfui en se retournant et en criant :		"Ouais, tu vas le regretter aussi ! Murdoch est tout près, et il sait que tu es là ! Tu vas voir ! Il vous tirera dessus comme les chiens que vous êtes, et nous... nous n'aurons plus peur, et tout redeviendra comme avant ! "
+
+Name:
+Enfant de la lune
+Message:
+J'étais assise seule près du feu, plongée dans mes pensées, quand Kosta s'approcha de moi, me tendant une fiole de Triple Cactus Swill, une boisson puissante et grinçante, issue de sa propre distillation, dont il était incroyablement fier. Je n'étais pas du genre cérémonieux ; je bus quelques gorgées, puis nous restâmes assis là, en silence. Je me souvenais qu'autrefois, les soirs d'hiver, quand j'étais encore toute petite, j'étais assise près de la cheminée dans la cabane du vieux Haye, et mon grand-père adoptif, d'habitude difficile et criard, me tressait les cheveux sur une de mes oreilles de ses doigts noueux.		"Écoute, Kosta... C'est quoi, un Enfant de la Lune ? Tu as déjà entendu quelqu'un appeler ça comme ça ? "		"C'est connu, ma fille... Quand une jeune fille apporte... "		Le vieux charretier frissonna soudain, comme s'il se souvenait de quelque chose de très important, et faillit crier : "Non, non, je ne sais rien d'aucun enfant, je ne veux pas savoir, jamais vu, jamais approché, que je sois maudit là où les cornus arrachent leurs bourgeons ! "		Le vieil homme laissa tomber la flasque, se leva d'un bond et s'éloigna en tapant du pied sur le sable. Je restai assise à fixer les flammes. Une silhouette mince émergea de l'obscurité. Wynona se tenait de l'autre côté du feu de camp, la tête levée vers le ciel.		"Nous avons une chanson... Tu ne connais pas notre langue, mais j'essaierai de te la traduire."		Appelez-la Enfant de la Lune Dansant dans les eaux peu profondes d'une rivière. Enfant de la Lune solitaire	Rêvant à l'ombre d'un saule. Parlant aux arbres de l'étrange toile d'araignée, Dormant sur les marches d'une fontaine,	Agitant sa baguette d'argent au chant des oiseaux de nuit, Attendant le soleil sur la montagne.		"C'est magnifique... Mais pourquoi avait-il si peur ? Ça ne pouvait pas être à cause d'une chanson elfique. Il doit y avoir autre chose... Je souhaiterais connaître la réponse, mais je ne veux pas que d'autres pauvres vieillards meurent ou s'enfuient de terreur. Dieux, je ne vous ai jamais suppliés de me confier les secrets de mon passé. J'aime le présent ; je suis vivante, forte, et capable de décider moi-même de ce que je veux et où je vais... Pourquoi maintenant ? "
+
+Name:
+Objectifs de la mission
+Message:
+Déclaré hors-la-loi, mon peuple dut quitter précipitamment ses maisons et ateliers. Les usines n'étaient plus qu'occupées par des Gobelins obséquieux à la peau verte - nombreux et prêts à tout pour échapper à leur misère. Étonnamment, une couchette dans une caserne ouvrière et un bol de gruau collant de racines de quenouilles, la nourriture la moins chère qui soit, leur assuraient une prospérité enviable. Ils n'avaient aucune notion de santé et de sécurité au travail ; les accidents n'avaient jamais ébranlé leur enthousiasme. Ils étaient maladroits et lents à apprendre, mais les nouveaux contremaîtres d'usine, nommés par Kastore, pouvaient facilement remplacer un ouvrier à la machine chaque jour ; tôt ou tard, l'un d'eux finirait par devenir au moins quelqu'un capable apprendre. Tout cela signifiait que Kastore n'avait plus le moindre besoin des Hobbits. Nombre d'entre eux fuyaient vers le sud, vers des villes que la main avide de l'usurpateur n'avait pas encore atteintes. L'un de ces derniers havres de liberté était Fort Rotwang, désormais assiégé par Morton. 		Le sabotage des miliciens eut un impact considérable sur le Gobelin, et il nous restait maintenant deux ou trois semaines avant qu'il puisse réellement se retrancher et obtenir des renforts. Il nous fallait d'abord briser le siège et retrouver les réfugiés de la ville. À la libération, Rotwang deviendra notre base principale pendant nos préparations pour notre fuite vers Eeofol. Bien sûr, une équipe de secours était désormais hors de question : une fois Jadame quittée, personne ne nous attendrait ici. L'enjeu était crucial : soit nous aidions Erathia à vaincre les sauterelles rouges et reconquérir notre patrie, soit nous mourrions en essayant. Un tel sort vaut sûrement mieux que de se blottir quelque part au bout du monde, comme des fugitifs une seconde fois. L'un des Hobbits de l'équipe de Kosta s'est avéré être un planificateur expérimenté du bureau central des Travaux Associés. Grâce à son aide, nous avons pu effectuer les calculs. Il nous faudrait au moins 125 unités de Soufre, de Mercure et de Pierre pour le réarmement et le long vol. J'ai envisagé d'essayer de contacter Frederick, mais personne ne savait où il était, ce qui lui était arrivé, ni s'il avait joué un rôle dans ce qui se passait ici, sur cette terre que nous considérions encore récemment comme la nôtre. Je ne voulais pas envisager l'idée qu'il ait pu le faire.		Merci, vieil ami ! Tu nous as sauvés, tu nous as aidés à devenir courageux et inventifs. C'est à toi que je dois la force qui m'habite, que je ressens chaque jour davantage. Il est temps de prendre ma vie et le destin de mon peuple en main. Nous suivrons notre propre chemin. J'espère que tu vas bien, où que tu sois. Je suis sûr que nous nous reverrons un jour, et que tu me raconteras tes merveilleuses découvertes.
+
+Name:
+Avertissement du paratonnerre
+
+Message:
+Je sautai sur le lit ; une sensation que je croyais perdue dans les souvenirs de mon ancienne vie à Eeofol m'envahit. Tous les poils de mon corps se hérissaient. En sortant de la tente, je vis mes camarades, chacun arborant une coiffure en forme de pissenlit. L'air sentait l'orage... et autre chose. Cette odeur, d'où la connaissais-je ? Oh. Bien sûr. Ma mémoire a ouvert les vannes, et les sensations se sont déversées sur moi. Ma vue, mon ouïe, mon odorat, et même mon goût, tout était redevenu d'une netteté remarquable, comme dans mon enfance. Un long jour d'été de ma jeunesse insouciante : Frederick dans son atelier, me montrant une boule de fer brillante et me parlant de la foudre, des charges électriques, et de la façon dont il allait la maîtriser pour faire tourner des meules, éclairer l'obscurité des grottes et même chasser les bêtes sauvages. 		Après un déclic, la pièce s'était remplie de cette odeur familière, et mes poils s'étaient hérissés, comme maintenant. Je frissonnai. Je me souvins de ce qui s'était passé ensuite. Avec un sourire mystérieux, Frederick m'avait invitée à toucher la boule brillante. Je tendis la main pour toucher la jolie petite chose ronde, mais il restait encore une bonne coudée entre ma main et la boule lorsque la foudre frappa avec un claquement violent et une douleur fulgurante me traversait le corps. Je pleurai et jurai un bon moment, tandis que Frederick lançait des excuses, marmonnant des mots que je ne comprenais pas sur le moment - ​​quelque chose à propos de calibrage, de puissance calculée et d'énergie traversante. Se pouvait-il qu'il ait finalement maîtrisé la foudre, mais que les artificiers pensent maintenant que les bêtes sauvages ce soients... nous ?
+
+Name:
+Avertissement du paratonnerre... À nouveau !
+Message:
+Mes pires craintes se confirmèrent. Nous tombâmes sur quelque chose que je ne pouvais décrire que comme une manifestation hideuse du génie aussi pervers que dérangé. Nous errâmes dans une petite vallée rocheuse lors d'un raid de reconnaissance. L'odeur de l'orage et de la chair brûlée, et les squelettes calcinés attachés à des paratonnerres métalliques - tels étaient les sombres décors du désert morne que nous voyions. 		Le sable autour des structures de fer s'était transformé en verre par endroits ; de grosses pierres étaient fendues, et leurs surfaces exposées présentaient des motifs arborescents gravés par une force inconnue. Il y avait une sorte de beauté sombre et magnétique autour d'elles... Ça et là, des éclats brûlés portant des sortes de chiffres étaient dispersés. C'était une exécution, longue et douloureuse ; on aurait dit que cela avait duré tout le temps que ces misérables testaient leur nouvelle arme. J'espérais ardemment que l'esprit derrière cet atroce engin ne fût pas celui de Frederick. Maintenant, nous le savions : un coup de tonnerre pouvait frapper n'importe lequel d'entre nous, à tout moment. Nous devions nous en souvenir et trouver un moyen de nous protéger.
+
+Name:
+Éclaireurs Couatl
+Message:
+Ce jour-là, le Couatl que Wynona et moi avions essayé de transformer en éclaireur retourna au camp. Je n'étais pas encore convaincu que ces créatures puissent être utiles ailleurs que sur le champ de bataille. Pourtant, l'elfe insistait sur l'intelligence incroyable des Couatls. Elle avait trouvé un terrain d'entente avec ces créatures bien plus vite que je ne l'espérais. Probablement grâce au rituel de Tlamac. J'avais presque oublié l'émotion de voir mon amie aider un petit serpent aux plumes de toutes les nuances de rouge à sortir de l'œuf ancestral. J'avais l'impression que c'était il y a des générations, à l'époque où les Couatls régnaient sur le monde et que celui-ci n'était que quelques îles...		Le lien de Wynona avec ses nouveaux amis était inhabituel, pourtant indestructible. Serrant l'éclaireur fatigué par sa grosse tête escarpée, elle pouvait voir tout ce qu'il avait lui-même vu ces derniers jours. Il semblait que nous n'étions pas les seules cibles des chasseurs de primes envoyés par Kastore. Le Couatl vit plusieurs Pistoleros traîner derrière eux un homme enchaîné qui ressemblait à un alchimiste. Il y avait aussi une autre prison au nord, gardée par des Juggernauts, mais il était impossible de savoir qui y avait été abandonné.		Nous n'étions pas seuls dans notre lutte contre Kastore ; au moins, cela semblait encourageant.
+
+Name:
+Manufacture abandonnée
+Message:
+Wynona a progressé à pas de géant dans la maîtrise des avantages que lui procure son amitié avec les Couatls. Il n'y a pas si longtemps, je riais en l'entendant expliquer le travail à son premier espion à plumes ; maintenant, nous avions toute une volée d'éclaireurs agiles scrutant les nuages ​​et empêchant les dirigeables ennemis de décoller. Les Couatls sont bien plus malins que les wyvernes ; celles-ci se jetaient sans réfléchir sur les hélices de nos dirigeables, par habitude, pour s'en prendre à la queue de leur proie, et en ont perdu plus d'une douzaine avant d'avoir l'idée d'attaquer le ballon.	 	À l'inverse, nos amis ailés connaissaient parfaitement les points faibles des dirigeables, nous bénéficiions donc désormais d'une supériorité aérienne décisive. De plus, grâce à ces créatures étonnantes, nous connaissions la forteresse imprenable et bien fortifiée des traîtres, ainsi qu'au moins trois commandants de l'armée grandissante de Kastore qui avaient déployé leurs troupes aux abords de ce bastion. Nous connaissions également la population croissante de Dragons et d'une ville particulièrement intrigante, abandonnée après la résurrection des morts-vivants. Des manufactures et des fonderies y étaient encore intactes, ce qui signifiait qu'une fois que nous aurions mis les morts-vivants au repos, nous pourrions produire des Automates pour nos besoins.
+
+Name:
+Vagues de héros ennemis - Premier avertissement
+Message:
+Kastore a lancé contre nous toute la puissance de son armée grandissante. Il ne s'agit pas simplement d'intimider les renégats ou de réprimer une rébellion. Il s'agit d'une guerre d'usure, une guerre que nous sommes certains de perdre. Chaque jour, les fourneaux de ses forges et de ses Manufactures brûlent de plus en plus fort ; les gobelins gagnent en expérience et travaillent de mieux en mieux, et il exige toujours plus d'eux. Tôt ou tard, il y aura deux, voire trois machines automotrices ou Arbalétriers pour chacun de nous. Chaque heure de retard aujourd'hui nous apportera assurément de cuisantes défaites et des pertes demain. Nous ne pouvons pas mener deux guerres à la fois : l'une dans le présent, contre d'anciens amis, et l'autre dans le futur, contre de vieux ennemis. Malgré tout, je crois que nous pouvons rassembler suffisamment de puissance et décoller pour Eeofol avant que Kastore ne nous attaque.
+
+Name:
+Dernier avertissement (415)
+Message:
+Nous ne pouvons plus attendre. Nous devons préparer les dirigeables et partir pour Eeofol sans tarder, sinon Kastore nous emportera comme une vague de tempête emporte un château de sable sur la plage. Tout ce que nous avons accompli ici a été, un château, mépris pour un nouveau foyer. Notre avenir n'est plus dans ces Terres Arides ; il se trouve là-bas, de l'autre côté de l'océan. Il n'existe qu'un seul endroit digne d'être appelé "chez nous". Nous mourrons peut-être dans ce combat acharné contre les démons, mais nous tomberons sur notre propre terre.
+
+===== Heroes =====
+
+===== Objects =====
+
+(104, 106, 0) ***Seer's Hut***
+Message:
+Vous êtes accueilli dans la hutte par un sorcier sinistre, vêtu de noir.	"Notre guilde étudie des moyens d'apprivoiser et d'élever les Wyvernes du Ravage Errant", dit-il. "Malheureusement, les créatures ne nous laissent pas encore approcher de leurs nids. Attrapez une jeune Wyverne et apportez-la-moi, et vous serez richement récompensé."
+Pas de créature, pas de récompense. Pourquoi voulons-nous des Wyvernes, demandez-vous ? Moins de paroles, plus d'action.
+Vous êtes audacieux, je vois. Rares sont ceux qui osent pénétrer dans le nid d'une wyverne. Prenez ces Cristaux ; je suis sûr que vous leur trouverez une meilleure utilisation que nous ne pouvons imaginer.
+
+(89, 29, 0) ***Sign***
+Message:
+Mines de Mount Copper
+
+(2, 46, 0) ***Quest Guard***
+Message:
+En gravissant la pente d'une montagne escarpée, vous êtes tombé sur l'immense statue de bronze d'un guerrier. Comment ce monument a-t-il atterri ici, au milieu de cette Terre Aride ?	Avant que vous puissiez réagir, la statue bougea soudainement.	"Des Titans ? " s'exclama d'une voix tonitruante le colosse. "Vous n'êtes pas des Titans... C'est encore mieux. J'ai perdu mon épée lors d'un combat contre les Titans. Rapportez-la-moi et je vous laisserai passer."
+Le colosse de bronze est toujours là et n'a aucune intention de vous laisser passer.
+Il accepte le Glaive et vous laisse passer. Souhaitez-vous passer ?
+
+(20, 106, 0) ***Seer's Hut***
+Message:
+Dans une petite cabane sur une île, vous rencontrez une enchanteresse.	"Vous avez peut-être entendu parler de moi", dit-elle. Je suis Lyadra et j'ai déjà rencontré l'un de vos Artificiers. Je crois qu'il s'appelait Todd... ou Bertram ? Peu importe. J'étudie les Anges depuis de nombreuses années, mais je n'ai encore trouvé aucune preuve de mon hypothèse quant à leur nature. Pire encore, les Anges eux-mêmes ne sont pas d'humeur à communiquer avec moi. J'ai entendu dire qu'il y a plusieurs décennies, quelqu'un avait emprisonné quelques Anges ici, dans les montagnes, et placé des Griffons pour garder leurs cellules. Si vous pouviez les libérer, peut-être accepteraient-ils de m'aider dans mes recherches. Apportez-moi dix Anges et je vous enseignerai le Portail de Retour en échange du parchemin de ce sort. Je suis sûre que vous trouverez un bon usage d'un sort aussi puissant maintenant, et plus encore à l'avenir.
+Lyadra est toujours là, mais il n'y a rien à lui dire tant que vous n'aurez pas dix Anges.
+Enfin ! Peut-être que maintenant je vais pouvoir comprendre ce que je n'ai jamais réussi à découvrir auprès des Anges de Bracada et d'Erathia.
+Apportez-moi un parchemin avec le Le sort Portail de Retour, et je vous l'apprendrai.
+Vous venez les mains vides, à ce que je vois. Malheureusement, je ne sais pas où trouver un tel parchemin par ici, mais peut-être que les mages du coin pourront vous aider.
+Seriez-vous disposé à apprendre le sort Portail de Retour en échange de votre parchemin ?
+
+(5, 77, 0) ***Sign***
+Message:
+Caravanes de guilde
+
+(70, 84, 0) ***Quest Guard***
+Message:
+Derrière la porte, une voix étouffée, semblable à celle d'un Hobbit, retentit. "Halte ! Qui va là ? Comment vous appelez-vous ? "
+On ne vous connaît pas ; on n'ouvre pas !
+Henrietta, est-ce vous ? On pensait que Kastore vous avait emmenée aussi. Entrez, ne nous faites pas attendre.
+
+(86, 13, 0) ***Spell Scroll***
+Message:
+C'était un piège... Après avoir vaincu les Dragons, vous n'avez trouvé ni trésor ni artéfact précieux. Ilsingore a survécu : alors que vous vous prépariez à attaquer le puissant Dragon, le grand wyrm s'est élevé dans les airs et s'est échappé.	Après avoir fouillé minutieusement l'antre, vous avez découvert un parchemin magique. Peut-être pourrait-il vous aider à quitter cet endroit ?
+
+(73, 65, 0) ***Sign***
+Message:
+Fort Rotwang — nord
+
+(29, 85, 0) ***Seer's Hut***
+Message:
+Avez-vous entendu la nouvelle ? Morton a assiégé Rotwang ! Nous devons le repousser, et vite ! Si nous n'y parvenons pas d'ici la fin du mois, cela pourrait nous causer de sérieux problèmes.
+Rotwang est toujours assiégé.
+Vous dites que les forces de Morton ont été vaincues ? Enfin !
+Maintenant que Rotwang n'est plus en danger, nous pouvons nous mettre à rassembler des ressources pour notre voyage de retour. Il nous faudra 125 Pierres, 125 Mercures et 125 Soufres. Cependant, obtenir une telle quantité de provisions est un défi de taille, et il y a très peu de mines dans les environs. Pour couronner le tout, il n'y a plus de marchés aux alentours de Rotwang. Certains marchands elfes noirs sont peut-être encore là, mais il ne doit pas être facile pour eux d'apporter leurs marchandises ici, alors je parie qu'ils vont faire monter les prix aussi haut qu'ils peuvent.
+Vous n'avez toujours pas trouvé les ressources ? Dépêchez-vous, le temps presse.
+Super ! Chargeons tout et dirigeons-nous vers le Chantier Aéronaval juste au nord de Rotwang.
+
+(89, 14, 0) ***Overlord***
+Name:
+Ilsingore
+
+(6, 52, 0) ***Sign***
+Message:
+Mines de Dolere
+
+(20, 9, 0) ***Factory***
+Name:
+Corakstone
+
+(97, 25, 0) ***Factory***
+Name:
+Mount Copper
+
+(7, 47, 0) ***Factory***
+Name:
+Nouvelle Dolere
+
+(24, 84, 0) ***Factory***
+Name:
+Larimar
+
+(87, 97, 0) ***Factory***
+Name:
+Arcadia
+
+(71, 8, 0) ***Barbarian***
+Name:
+Zarghebar
+
+(1, 59, 0) ***Prison***
+Name:
+Balindar
+Biography:
+Balindar fut le premier à Bracada à tester la technologie d'Enrothe consistant à utiliser les meilleures armures d'acier pour créer des statues destinées à l'animation, plutôt que de la roche, du minerai ou même des métaux précieux. Les académiciens, à l'esprit rigide, n'ont pas accueilli cette innovation favorablement ; les œuvres de Balindar, bien que bien supérieures à leurs prototypes, conservent donc un statut expérimental.
+
+(66, 47, 0) ***Factory***
+Name:
+Rotwang
+
+(75, 39, 0) ***Seer's Hut***
+Message:
+Je représente la Guilde des Marchands dans ces Terres Arides. Acheminer des marchandises ici est devenu de plus en plus difficile ces derniers temps, et la plupart des comptoirs commerciaux ont récemment fermé. Malgré cela, nous sommes disposés à vous fournir du Mercure. Compte tenu des difficultés de transport rencontrées récemment, nous demandons un prix qui justifie l'investissement : 10 000 Pièces d'Or pour 1 de Mercure.
+Je représente la Guilde des Marchands dans ces Terres Arides. Acheminer des marchandises ici est devenu de plus en plus difficile ces derniers temps, et la plupart des comptoirs commerciaux ont récemment fermé. Malgré cela, nous sommes disposés à vous fournir du Mercure. Compte tenu des difficultés de transport rencontrées récemment, nous demandons un prix qui justifie l'investissement : 10 000 Pièces d'Or pour 1 de Mercure.
+Acheter 1 de Mercure pour 10 000 Pièces d'Or ?
+Je représente la Guilde des Marchands dans ces Terres Arides. Acheminer des marchandises ici est devenu de plus en plus difficile ces derniers temps, et la plupart des comptoirs commerciaux ont récemment fermé. Malgré cela, nous sommes disposés à vous fournir de la Pierre. Compte tenu des difficultés récentes de transport des marchandises, nous demandons un prix qui en vaille la peine : 10 000 Pièces d'Or pour 1 de Pierre.
+Je représente la Guilde des Marchands dans ces Terres Arides. Acheminer des marchandises ici est devenu de plus en plus difficile ces derniers temps, et la plupart des comptoirs commerciaux ont récemment fermé. Malgré cela, nous sommes disposés à vous fournir de la Pierre. Compte tenu des difficultés récentes de transport des marchandises, nous demandons un prix qui en vaille la peine : 10 000 Pièces d'Or pour 1 de Pierre.
+Acheter 1 de Pierre pour 10 000 Pièces d'Or ?
+Je représente la Guilde des Marchands dans ces Terres Arides. Acheminer des marchandises ici est devenu de plus en plus difficile ces derniers temps, et la plupart des comptoirs commerciaux ont récemment fermé. Malgré cela, nous sommes disposés à vous fournir du Soufre. Compte tenu des difficultés de transport rencontrées récemment, nous demandons un prix qui justifie l'investissement : 10 000 Pièces d'Or pour 1 de Soufre.
+Je représente la Guilde des Marchands dans ces Terres Arides. Acheminer des marchandises ici est devenu de plus en plus difficile ces derniers temps, et la plupart des comptoirs commerciaux ont récemment fermé. Malgré cela, nous sommes disposés à vous fournir du Soufre. Compte tenu des difficultés de transport rencontrées récemment, nous demandons un prix qui justifie l'investissement : 10 000 Pièces d'Or pour 1 de Soufre.
+Acheter 1 de Soufre pour 10 000 Pièces d'Or ?
+
+(64, 38, 0) ***Pandora's Box***
+Message:
+
+
+(16, 20, 0) ***Mercenary***
+Name:
+Jangaard
+
+(69, 58, 0) ***Seer's Hut***
+Message:
+Nous nous préparons à la guerre contre la Guilde des Nécromanciens depuis longtemps, mais nos troupes ne sont pas encore assez puissantes pour les défier. Cependant, nous connaissons des artéfacts appelés les Anneaux d'Amnésie qui peuvent empêcher l'animation des morts-vivants. Nous serions reconnaissants à quiconque pourrait nous en fournir un.
+Nous nous préparons à la guerre contre la Guilde des Nécromanciens depuis longtemps, mais nos troupes ne sont pas encore assez puissantes pour les défier. Cependant, nous connaissons des artéfacts appelés les Anneaux d'Amnésie qui peuvent empêcher l'animation des morts-vivants. Nous serions reconnaissants à quiconque pourrait nous en fournir un.
+En effet, c'est l'Anneau d'Amnésie ! Je n'ai pas d'argent pour vous payer, mais j'ai des cristaux qui vous seront certainement utiles.	Voulez-vous échanger l'Anneau d'Amnésie contre des cristaux ?
+
+(64, 70, 0) ***Seer's Hut***
+Message:
+Vous rencontrez un alchimiste dans la hutte. Il semble assez perturbé. "Quelle chance de vous avoir trouvé ! Écoutez. Je suis un alchimiste de Bracada. Je suis venu ici avec mon collègue Balindar. Nous avions eu vent d'un important gisement d'erudine découvert à Jadame, et nous étions impatients d'essayer ce métal rare et coûteux pour fabriquer des golems. Malheureusement, il s'est avéré que Kastore et ses sbires étaient arrivés au gisement avant nous. Pour notre plus grand malheur, ils ont découvert que nous venions de Bracada. Balindar a été capturé et est maintenant détenu, tandis que je m'en suis sorti de justesse.	Pourriez-vous nous aider ? Je peux fabriquer des Golems d'Acier pour votre armée, mais je ne peux pas le faire sans Balindar."
+Balindar est toujours en prison. Sans lui, je ne peux pas vous aider.
+Balindar vous offre quarante Golems d'Acier en remerciement de son sauvetage. Il vous informe également que son collègue est prêt à en fabriquer de nouveaux, mais qu'il aura besoin de ressources pour cela.
+L'alchimiste souhaite fabriquer des Golems d'Acier pour votre armée, mais vous prévient qu'ils sont difficiles à fabriquer. Cette tâche vous coûtera 10 de Bois, 4 de Cristaux et 4 Gemmes. De plus, l'alchimiste exige 2 000 Pièces d'Or par lot.
+Malheureusement, ces ressources ne suffisent pas pour fabriquer des Golems d'Acier.
+Les ressources fournies permettent de fabriquer 20 Golems d'Acier. Souhaitez-vous mettre ces ressources à la disposition de l'alchimiste ?
+
+(73, 81, 0) ***Hobbit Grenadier***
+Message:
+De retour à Eeofol, dites-vous ?
+
+(24, 66, 0) ***Seer's Hut***
+Message:
+Je possède de nombreuses mines d'or dans cette partie des Terres Arides. Malheureusement, il n'y a pas longtemps, des Gorgones de l'Errance Ravageuse ont envahi la région où se trouvent mes biens et nous ont chassés, mais j'ai réussi à les enfermer dans les mines. J'ai engagé un barbare errant, Wededh, dans l'espoir qu'il résoudrait mon problème avec ces bêtes à cornes, mais cet escroc a pris le paiement et est parti en riant. Il m'a aussi volé les clefs des mines ! Je paierais volontiers quelqu'un pour me débarrasser des Gorgones, mais tant que le barbare a les clefs, impossible d'y accéder.
+Le barbare n'est jamais revenu ; cependant, si vous parvenez à mettre la main sur les clefs, la mine la plus proche est à une journée de voyage au nord-est d'ici - vous devriez vous y rendre.
+Vous avez trouvé les clefs ? Excellente nouvelle ! Mais je suis encore plus heureux d'apprendre que la mine a été libérée des Gorgones. Voici votre récompense !
+Maintenant, dirigez-vous vers la deuxième mine, à l'est d'ici, derrière la garnison, non loin du vieux cimetière de Dragons.
+Maintenant, dirigez-vous vers la deuxième mine, à l'est d'ici, derrière la garnison, non loin du vieux cimetière de Dragons.
+Voici votre récompense ! Vous l'avez méritée.
+La troisième mine se trouve près de la ville d'Arcadia, au sud-est. Elle est juste à côté du ranch : impossible de la manquer.
+La troisième mine se trouve près de la ville d'Arcadia, au sud-est. Elle est juste à côté du ranch : impossible de la manquer.
+Voici votre récompense ! Vous l'avez bien méritée.
+La quatrième mine se trouve au sud de Rotwang, derrière le ruisseau. Il y a un Gisement de Gemmes à proximité ; l'endroit ne devrait pas être difficile à trouver.
+La quatrième mine se trouve au sud de Rotwang, derrière le ruisseau. Il y a un Gisement de Gemmes à proximité ; l'endroit ne devrait pas être difficile à trouver.
+Voici votre récompense ! Vous l'avez bien méritée.
+Notre cinquième mine se trouve au nord de Rotwang. Espérons qu'il n'y aura bientôt plus de Gorgones là-bas.
+Notre cinquième mine se trouve au nord de Rotwang. Espérons qu'il n'y aura bientôt plus de Gorgones là-bas.
+Voici votre récompense ! Vous l'avez bien méritée.
+La sixième et dernière mine se trouve loin à l'est, près des plaines magiques. Dirigez-vous droit vers l'est depuis Rotwang et continuez, et vous y arriverez tôt ou tard.
+La sixième et dernière mine se trouve loin à l'est, près des plaines magiques. Dirigez-vous droit vers l'est depuis Rotwang et continuez, et vous y arriverez tôt ou tard.
+Voici votre récompense ! Vous l'avez méritée.
+J'ai du mal à y croire : vous avez réussi ! Les Gorgones sont parties ! Nous pouvons maintenant retourner aux mines.
+Je n'ai rien d'autre à vous offrir en récompense, mais je peux vous donner du Soufre. Vous en voulez ?
+
+(66, 50, 0) ***Event***
+Message:
+Morton - sans mouvement
+
+(20, 38, 0) ***Quest Guard***
+Message:
+Plus loin, vous pouvez voir l'entrée du portail, avec des ossements d'humains, d'Ogres et de Minotaures éparpillés. La rumeur court qu'un Dragon a établi son repaire ici, et peut-être même plusieurs.
+Voulez-vous vous approcher du portail ?
+
+(28, 71, 0) ***Barbarian***
+Name:
+Wededh
+
+(10, 92, 0) ***Prison***
+Name:
+Thulig
+Biography:
+Thulig est un elfe extrêmement audacieux, et la meilleure façon de le recruter est de lui proposer un défi du genre : "Aller je ne sais où et rapporter je ne sais quoi". Il a volé des "je ne sais quoi" sous le museau d'un Dragon, dans un Krak Nain souterrain, et même à l'entrée d'un volcan éteint. Ses échecs retentissants sont une autre de ses marques de fabrique, et il a payé des rançons sans précédent pour se sauver.
+
+(49, 74, 0) ***Quest Guard***
+Message:
+Une grande Écurie se dresse devant vous. Elle est clôturée par une palissade, et d'imposants Trolls et Minotaures - apparemment des mercenaires aguerris - en gardent l'entrée. Vous frappez à la porte à plusieurs reprises, mais personne ne répond.	Finalement, un elfe noir exaspéré apparaît sur le palier au-dessus de la porte. Il est visiblement ivre, et quelque chose d'allongé dépassait de sous son bras. "Qui va là ? Êtes-vous les bandits de Kastore ? Nous vous avons prévenus maintes fois, bande de bâtards : c'est le territoire de notre Guilde. Partez immédiatement. Vous n'êtes pas les bienvenus ici." "Nous ne sommes pas les alliés de Kastore ; en fait, c'est aussi un de nos ennemis. Nos chevaux sont fatigués par le long voyage, et nous avons besoin de montures fraîches."	"Vous n'êtes pas les chiens de Kastore, dites-vous ? " aboie l'elfe, manquant de tomber de la porte. "Eh bien ! 15 000 Pièces d’Or, et pas une seule de moins ! Si vous nous les apportez, vos chevaux seront prêts. Sinon, vous n'en aurez pas."
+"Où est l’or ? " marmonne l’elfe, visiblement irrité. "Argent en avance ! "
+"Apportez les sacs d’or, et je ferai signe aux Minotaures de vous laisser passer", dit l’elfe en se frottant les mains avec empressement." Mais soyez discrets - les propriétaires me feront perdre la tête s’ils découvrent que j’ai donné les chevaux à des bandits de grand chemin."		Voulez-vous vous rendre aux écuries ?
+
+(1, 24, 0) ***Pandora's Box***
+Message:
+
+
+(80, 90, 0) ***Rust Dragon***
+Message:
+Une odeur de soufre flottait dans l'air. À mesure que nous approchions des montagnes, elle s'intensifiait. 	Une immense caverne apparut devant nous, et au-dessus d'elle, il n'y avait pas d'oiseaux, mais des Dragons - des dizaines et des centaines de Dragons Corrosif ! Vous aviez déjà vu des Dragons Corrosif sur les îles au sud de Jadame, mais jamais en si grand nombre. Pire encore, les Dragons vous ont remarqué. Il est trop tard pour fuir ; vous allez devoir les combattre.
+
+(13, 43, 0) ***Pandora's Box***
+Message:
+
+
+(1, 105, 0) ***Pandora's Box***
+Message:
+
+
+(53, 24, 0) ***Prison***
+Name:
+Yovilla
+Biography:
+Pleinement confiante en son don de missionnaire, Yovilla prêche même aux objets inanimés, car chacun d'eux peut être habité par un esprit susceptible d'être converti. Cela lui était déjà arrivé lorsqu'elle persuada une petite rivière de se séparer de ses eaux. Ému par son discours ardent, l'esprit de la rivière refusa de lui mouiller les pieds et lui transmit les secrets de sa magie.
+
+(56, 27, 0) ***Quest Gate***
+Message:
+Le chantier apparut devant nous, avec plusieurs dirigeables en attente. C'est notre ticket de retour. Cependant, nous ne pouvons espérer vaincre les Démons si nous ne préparons pas tout ce dont nous avons besoin, et sans le Globe des Flammes, nous n'atteindrons jamais Eeofol.
+Le chantier apparut devant nous, avec plusieurs dirigeables en attente. C'est notre ticket de retour. Cependant, nous ne pouvons espérer vaincre les Démons si nous ne préparons pas tout ce dont nous avons besoin, et sans le Globe des Flammes, nous n'atteindrons jamais Eeofol.
+Voulez-vous vous rendre au chantier Aéronaval ?
+
+(50, 27, 0) ***Quest Guard***
+Message:
+Ce chemin à travers une mine abandonnée mène à une ancienne prison, puis bifurque vers le Chantier Aéronaval. Cependant, vous découvrez que la mine s'est effondrée et que vous ne pouvez plus aller plus loin. Le garde forestier local, un elfe noir, affirme connaître un autre chemin, mais exige une récompense sous forme d'artéfacts qui lui seraient utiles dans son travail.
+Le garde forestier refuse de vous aider, et il n'y a apparemment aucun autre moyen d'accéder à la prison et au Chantier Aéronaval.
+Le garde forestier est prêt à vous guider à travers les montagnes. Seriez-vous prêt à lui donner les artéfacts ?
+
+(74, 105, 0) ***Quest Guard***
+Message:
+Plus loin, perché sur un rocher, trône un énorme Dragon noir. Le wyrm majestueux vous observe attentivement. Finalement, il vous parle.	"Je sais ce que vous cherchez ici. Un Flacon Mercurien, n'est-ce pas ? Eh bien... Faites-moi une faveur et je vous laisserai entrer dans les montagnes.	Ilsingore, le fils indigne des Dragons, nous a abandonnés au moment où nous en avions besoin. Nous pensions que lui et ses serviteurs étaient partis pour le Désert d'Ironsand, mais il a récemment réapparu sur ces terres avec plusieurs autres Dragons. J'ignore ce qu'il veut ici, mais je ne souhaite pas voir ce traître. Chassez-le et je vous laisserai passer."
+Le Dragon noir ne vous laissera pas passer. Il semble que le seul moyen de passer ici soit d'accepter les conditions du wyrm.
+J'ai vu Ilsingore s'envoler vers l'est. Je vais maintenant vous laisser passer. N'oubliez pas, cependant, que des Dragons du vol d'Ilsingore vous attendent dans les montagnes, et que vous devrez les combattre.	Voulez-vous aller dans les grottes ?
+
+(107, 78, 0) ***Prison***
+Name:
+Khevasar
+Biography:
+Khevasar en vint à remettre en question un principe fondamental de la philosophie qu'il étudiait depuis des décennies : le postulat selon lequel un druide exerce un pouvoir sur tous les aspects de la nature, ainsi que l'autorité de la mettre à son service, mais aussi de la modifier selon ses points de vue et ses désirs. Cela poussa nombre de ses collègues AvLeean à l'accuser d'adhérer à l'hérésie archaïque Enrothian.
+
+(95, 1, 0) ***Quest Guard***
+Message:
+Sur la rive d'un lac de montagne, vous êtes accueillis par plusieurs Nix. L'un d'eux s'avance. "Récemment, notre fort a été attaqué par un énorme Dragon, manifestement à la tête d'un puissant vol. Nous pensons que son repaire se trouve quelque part dans ces montagnes. Chassez-le de ces terres et nous vous récompenserons généreusement."
+Le Dragon est toujours là.
+Nous avons vu Ilsingore s'envoler. Je n'aurais jamais cru que vous pourriez affronter un vol entier de Dragons. Prenez cette Broigne Royale Nix ; je suis sûr que vous en avez plus besoin que nous.
+
+(69, 80, 0) ***Hobbit***
+Message:
+Rassemblez-vous, les gars, nous sommes sur le point de partir !
+
+(93, 75, 0) ***Hero Camp***
+Name:
+Ilmarin
+Biography:
+La thèse alchimique d'Ilmarin décrivait une amélioration de la technologie d'activation du Golem d'Or. Il avait lui-même sculpté la statue qu'il devait animer avant la commission et avait décidé, d'une manière ou d'une autre, de lui donner des traits féminins. La femme dorée disparut la nuit suivant la démonstration, et Ilmarin parcourt le monde depuis lors à la recherche de celle qui avait allumé l'amour dans son cœur.
+
+(9, 24, 0) ***Event***
+Message:
+Tancred - bonus
+
+(37, 24, 0) ***Event***
+Message:
+
+
+(68, 9, 0) ***Event***
+Message:
+
+
+(104, 51, 0) ***Quest Guard***
+Message:
+Dans les bois, vous rencontrez un ermite elfique qui a élu domicile ici. Il vous propose de vous guider au cœur de la forêt, à condition que vous récupériez un ancien arc elfique, perdu il y a des décennies. L'ermite vous révèle que l'arc a été trouvé par un bandit récemment arrivé à Jadame. L'elfe, troublé par l'idée qu'un artéfact aussi précieux tombe entre les mains d'un scélérat, implore sa restitution.
+L'ermite ne vous adressera pas la parole tant que vous n'aurez pas trouvé l'arc ancien.
+À votre grande surprise, l'elfe vous révèle que cet arc aux lignes complexes, semblable à un chef-d'œuvre de mécanique, est bien l'ancienne relique de son peuple.		Souhaitez-vous confier l'arc à un elfe et découvrir comment le fabriquer au cœur de la forêt ?
+
+(38, 43, 0) ***Quest Guard***
+Message:
+La porte du Repaire de Naga est scellée magiquement. Seul celui qui parle la langue des femmes-serpents peut la briser. Mais qui pourrait posséder un tel savoir ? Peut-être un sorcier ou un alchimiste de Bracada ?
+Frederick aurait pu nous être utile, mais il n'est plus parmi nous. Peut-être pourrions-nous trouver un sorcier ou un alchimiste de Bracada, dans les environs ?
+Balindar dit quelques mots dans une langue que vous ne comprenez pas, agite les mains, puis le sceau est levé.		Souhaitez-vous ouvrir la porte du Repaire de Naga ?
+
+(59, 28, 0) ***Artificer***
+Name:
+Umender
+
+(37, 35, 0) ***Seer's Hut***
+Message:
+Un alchimiste vous accueille dans la hutte. "Il s'est passé quelque chose d'étrange ces dernières semaines. Il y a seulement un an, j'aidais Frederick dans sa quête à la recherche du laboratoire d'Agar, et maintenant Burton est un endroit bien différent. Des visages inconnus et des inventions étranges sont partout, et maintenant le roi de Deyja en personne est aux commandes. Soyons francs : je n'aime pas ce qui se passe ici, et je retourne à Enroth. Malheureusement, j'ai dû abandonner mon laboratoire. J'ai besoin de Gemmes pour poursuivre mes expériences et d'Or pour acheter de nouveaux réactifs alchimiques. Aidez-moi, et je vous procurerai un parchemin contenant le sort Portail de Retour. Même s'il ne vous mènera pas sur un autre continent, il vous sera certainement utile pour vos besoins immédiats.
+Malheureusement, cette quantité de Gemmes et d'Or ne me suffira pas.
+Oh, super ! Maintenant, je peux enfin rentrer chez moi. Prenez ce parchemin, vous en aurez besoin.
+
+(97, 61, 0) ***Quest Guard***
+Message:
+En traversant la forêt, vous croisez un groupe de prêtres vêtus de robes vertes. Ce doivent être des druides.	"Salutations", vous dit l'un d'eux. "Nous sommes venus ici à la recherche du druide Xaver. Il était autrefois l'un des nôtres avant de changer de camp et de rejoindre les renégats qui ont semé le chaos à Enroth. Il s'est enfui à Jadame et semble maintenant renouer avec ses vieilles habitudes. Voyez-vous la forêt morte qui nous entoure ? Nous pensons que Xaver est responsable de ce qui s'est passé ici. Difficile de dire où il se trouve actuellement, mais les Licornes l'ont vu se diriger vers un mystérieux portail noir dans les grottes. Peut-être que ce portail vous mènera à lui.	Aidez-nous à le trouver et à le punir, et nous vous aiderons."
+Les druides sont toujours là. Mieux vaut ne pas les déranger, à moins que vous n'apportiez de bonnes nouvelles.
+"Nous avons entendu parler de votre victoire", dit le druide. "Nous n'avons pas d'Or pour vous récompenser, mais voici quelque chose de mieux : une Bague des Joailliers." Souhaitez-vous accepter la récompense ?
+
+(25, 92, 0) ***Event***
+Message:
+Sur notre chemin se trouvait une ville au nom imposant de Larimar, première étape de notre traversée de Jadame, qui marquerait la fin de notre éprouvante expédition. Nous ne nous attendions ni à des fanfares, ni à des tapis rouges, ni à d'autres honneurs ridicules pour les voyageurs de retour ; nous rêvions seulement de repas chauds, de lits douillets et de vêtements propres.		Hélas, nos rêves furent anéantis par la vue des visages effrayés des habitants. En un éclair, la rue fut désertée, tous les volets des fenêtres furent clos et les portes verrouillées. La ville s'éteignit ; seul le vent jouait avec les herbes folles le long de la route. Sur l'une des portes, j'aperçus plusieurs affiches de parchemin jauni. La première, et la plus grande, représentait un Hobbit affreux, le visage en croix et renfrogné, tel une crêpe mâchée. La légende disait : "Henrietta. Recherchée morte ou vive." D'autres affiches arboraient des visages tout aussi effrayants, et nombre des noms qui se trouvaient en dessous me semblaient familiers.
+
+(57, 27, 0) ***Event***
+Message:
+Il serait naïf de croire que le Chantier Aéronaval resterait sans surveillance. Dès que nous nous sommes approchés des dirigeables, une armée d'automates - des centaines ! - est apparue derrière les collines. Un artificier à l'apparence vaguement familière leur donnait des ordres...
+
+(49, 65, 0) ***Quest Guard***
+Message:
+Un mur de pierre avec une porte étrange apparut plus loin, et devant lui se tenait un homme à l'allure de mineur. "Impossible de passer ? Moi non plus." Cette porte a été construite pour empêcher quiconque de franchir le portail de Rotwang. Il y avait autrefois des clefs pour l'ouvrir, mais le barbare, Wededh, a escroqué notre maître et les a volées.
+Je suppose que vous n'avez toujours pas trouvé les clefs ? Alors, il va falloir chercher ce barbare.
+Super, ces clefs correspondent à la serrure ! On ouvre la porte ?
+
+(35, 98, 0) ***Pandora's Box***
+Message:
+
+
+(47, 3, 0) ***Event***
+Message:
+
+
+(33, 15, 0) ***Event***
+Message:
+
+
+(15, 26, 0) ***Event***
+Message:
+
+
+(35, 25, 0) ***Event***
+Message:
+
+
+(67, 9, 0) ***Event***
+Message:
+
+
+(32, 16, 0) ***Event***
+Message:
+
+
+(46, 4, 0) ***Event***
+Message:
+
+
+(73, 50, 0) ***Quest Guard***
+Message:
+Une grande Écurie se profile devant vous. Elle est clôturée par une palissade, et des Spadassins bien armés - apparemment des mercenaires expérimentés - montent la garde. Vous commencez à frapper à la porte, tandis que les gardes vous observent avec suspicion. Finalement, un elfe noir apparaît sur le palier au-dessus de la porte.	"Qui fait tout ce boucan ? "	"Nous venons de Rotwang. Nous avons besoin de chevaux frais."	"Ah ! Qui n'en a pas besoin ces jours-ci ? C'est l'Écurie de la Guilde, et aucun étranger n'est autorisé à entrer. Et encore moins à y prendre nos chevaux."	"Nous pourrions payer." L'elfe noir fronce les sourcils et, après un moment de réflexion, nous répondit :	"25 000 Pièces d'Or. Pour 25 000 Pièces d'Or, je pourrais envisager d'ouvrir la porte et de faire comme si personne n'avait jamais pris de chevaux d'ici."
+"Pas d'argent, pas de chevaux ! "
+"C'est un plaisir de faire affaire avec vous", dit l'elfe en regardant l'argent. Il fait un signe de tête aux mercenaires, et ils vous ouvrent la porte.		Voulez-vous aller aux écuries ?
+
+(68, 97, 0) ***Sign***
+Message:
+Attention aux Dragon Corrosifs !
+
+(72, 0, 0) ***Pandora's Box***
+Message:
+
+
+(14, 12, 0) ***Event***
+Message:
+
+
+(14, 11, 0) ***Event***
+Message:
+
+
+(24, 90, 0) ***Gunslinger***
+Message:
+Une petite équipe de Pistoleros apparut au coin d'une rue. Ils se rangèrent en file indienne au bout de la rue et pointèrent leurs armes sur nous. L'un d'eux s'avança ; il portait un costume noir anthracite parfaitement repassé et une cuirasse polie d'un éclat éclatant. Quel spectacle étrange ! Je n'avais jamais vu un Pistolero aussi soucieux de son apparence. Comment pouvait-on espérer rester aussi élégant tout en chevauchant à travers les Terres Arides pendant des semaines, en dormant à même le sol et en rampant parmi les rochers pointus et les buissons épineux ? Apparemment, quelque chose dans leur description de poste et leur approche du devoir avait changé pendant mon absence...		Le Pistolero, trop habillé, cracha par terre et parla d'une voix rauque :	"Conformément à l'ordre six du Surveillant suprême Kastore, vous devez volontairement déposer les armes et vous rendre à la prison de la ville, d'où vous serez conduit à Burton et traduit en justice pour sabotage et trahison." 		"Trahison ?! Nous revenons tous juste d'un long voyage. Nous étions loin de Jadame pendant des mois, et ce Kastore le sait pertinemment ! Il doit y avoir une erreur... " 		"Ferme-la ! Soit vous vous rendez pacifiquement, soit nous prendrons votre tête pour la récompense promise... Hmm. Puisque la récompense est la même, on pourrait peut-être s'entraîner au tir... Qu'en penses-tu, Gerth ? "		Le mercenaire à la droite du chef esquissa un sourire cynique.
+
+(36, 97, 0) ***Pandora's Box***
+Message:
+
+
+(33, 92, 1) ***Seer's Hut***
+Message:
+Vous vous attendiez à voir des Liches dans la hutte, vous y êtes entré avec prudence, arme prête. Cependant, il n'y avait qu'un elfe noir décharné à l'intérieur ; on aurait dit qu'Urdeon le retenait enfermé.		"Que fait un marchand dans ces grottes ? " lui avez-vous demandé.		"Je ne suis pas marchand ! " L'elfe agita la main, irrité. "Je suis... euh, et puis zut, je suis un chercheur d'artéfacts rares. Autrefois, j'ai retrouvé pas mal d'objets de valeur que l'on croyait perdus depuis longtemps. Pour une raison inconnue, le grand prêtre du Temple du Soleil a décidé que je pourrais trouver une certaine épée ancienne et puissante pour son temple. Solkrist, ou quelque chose comme ça... Je ne m'en souviens même plus, c'était il y a un an. La mission semblait louche, mais j'ai accepté ; les hérauts promettaient une récompense bien trop généreuse pour être refusée. J'ai succombé à la cupidité, et maintenant j'en paie le prix, je suppose. J'ai traversé Jadame d'un bout à l'autre, sans jamais trouver la moindre épée. Je commençais à désespérer lorsque mes recherches m'ont mené à cette grotte. Selon les rumeurs, quelqu'un y aurait caché un puissant artéfact, prétendument créé par le Temple. Hélas, ce n'était pas l'épée, mais une paire de sandales ensanglantées. Et, pire encore, des Liches de la Guilde des Nécromanciens étaient également venues dans cette grotte. Voyez-vous, elles cherchaient des artéfacts qu'elles pensaient représenter un danger pour leur cause, cherchant à les détruire. Les sandales étaient enfermées dans un réceptacle scellé par magie ; à mon arrivée, j'ai trouvé les morts-vivants grouillant autour. 		Je l'ai maîtrisée, mais fuir les morts-vivants est une cause perdue. Ils ne connaissent ni la fatigue ni la peur. Cependant, Urdeon, le chef de cette escouade de charognards, s'est révélé étonnamment raisonnable. Il m'a proposé de lui trouver d'autres artéfacts - bien sûr, impossible de refuser."		"D'autres artéfacts, dis-tu ? "		"Oui. D'après lui, franchir cette barrière nécessiterait deux objets aux propriétés opposées ; par exemple, un Pendentif de Vie et un Pendentif de Mort. Autrefois, on pouvait acheter de telles bagatelles chez les marchands d'artéfacts à des prix dérisoires, mais on dit qu'un personnage louche a récemment pris le pouvoir dans ces terres ; et les marchands ont dû partir. Tu pourrais peut-être trouver quelque chose dans les trésors des Dragons ?
+L'elfe noir est parti depuis longtemps, mais les sandales sont toujours là, et vous ne pourrez probablement pas les récupérer sans artéfacts.
+Souhaitez-vous sacrifier les artéfacts pour ouvrir le réceptacle contenant les Sandales Sacrées ?
+
+(16, 84, 1) ***Quest Guard***
+Message:
+Un récent glissement de terrain a bloqué l'entrée de cette grotte. Le dégagement du passage nécessitera 25 unités de Bois, de 25 unités de Pierres, pour la base, ainsi que de 25 unités de Gemmes pour rémunérer les ingénieurs.
+Un récent glissement de terrain a bloqué l'entrée de cette grotte. Le dégagement du passage nécessitera 25 unités de Bois, de 25 unités de Pierres, pour la base, ainsi que de 25 unités de Gemmes pour rémunérer les ingénieurs.
+Souhaitez-vous dégager le passage ?
+
+(31, 93, 1) ***Death Knight***
+Name:
+Urdeon
+
+(78, 40, 1) ***Seer's Hut***
+Message:
+Vous avez déjà entendu dire que cette vaste grotte est fréquentée par des bandits hommes-rats. C'est peut-être là qu'ils cachent leurs trésors.	Dans l'une des huttes de la grotte, vous croisez un individu sournois.	"Si vous êtes venu ici en quête de marchandises, oubliez ça ! Nous faisions entrer des marchandises de contrebande à Burton, mais les troupes de Kastore ont maintenant coupé toutes les routes menant à cette ville. L'une des forces qui bloque l'une de ces routes est la bande dirigée par l'artificier Eanswythe. Si vous mettiez fin à ce problème, nous serions prêts à partager quelque chose de précieux avec vous."
+Les bandits vaquent à leurs occupations. Mieux vaut ne pas trop les déranger.
+Nous avons entendu parler de votre victoire. Ah oui, la récompense... Tenez : les bottes magiques que nous avons récemment acquises auprès des Pirates de Regnan. Satisfait ?
+
+(69, 54, 1) ***Seer's Hut***
+Message:
+Vous avez déjà entendu dire que cette vaste grotte est fréquentée par des bandits hommes-rats. C'est peut-être là qu'ils cachent leurs trésors.	Dans l'une des huttes de la grotte, vous croisez un individu sournois.	"Si vous êtes venu ici en quête de marchandises, oubliez ça ! Nous faisions entrer des marchandises de contrebande à Burton, mais les troupes de Kastore ont maintenant coupé toutes les routes menant à cette ville. L'une des forces qui bloque l'une de ces routes est la bande dirigée par le célèbre mercenaire Jangaard. Si vous mettiez fin à ce problème, nous serions prêts à partager quelque chose de précieux avec vous."
+Les bandits vaquent à leurs occupations. Mieux vaut ne pas trop les déranger.
+Nous avons entendu parler de votre victoire. Ah oui, la récompense... Tenez : le surcot magique que nous avons récemment acquis auprès des Ogres. Satisfait ?
+
+(96, 48, 1) ***Seer's Hut***
+Message:
+Vous avez déjà entendu dire que cette vaste grotte est fréquentée par des bandits hommes-rats. C'est peut-être là qu'ils cachent leurs trésors.	Dans l'une des huttes de la grotte, vous croisez un individu sournois.	"Si vous êtes venu ici en quête de marchandises, oubliez ça ! Nous faisions entrer des marchandises de contrebande à Burton, mais les troupes de Kastore ont maintenant coupé toutes les routes menant à cette ville. L'une des forces qui bloque l'une de ces routes est la bande dirigée par le célèbre mercenaire Zarghebar. Si vous mettiez fin à ce problème, nous serions prêts à partager quelque chose de précieux avec vous."
+Les bandits vaquent à leurs occupations. Mieux vaut ne pas trop les déranger.
+Nous avons entendu parler de votre victoire. Ah oui, la récompense... Tenez : la garniture magique que nous avons récemment acquise auprès de d'autres Bandits. Satisfait ?
+
+(39, 72, 1) ***Seer's Hut***
+Message:
+Vous découvrez que la porte de la hutte est munie d'une énorme serrure. Vous remarquez immédiatement l'étrange trou de serrure en forme de... l'Emblème du Faussaire.
+Vous avez l'impression de ne pas pouvoir trouver l'Emblème du Faussaire.
+Voulez-vous ouvrir les portes de la hutte ?
+Dans la hutte, vous êtes accueilli par un puissant Minotaure.	"Ne me regardez pas comme ça", dit-il, "je ne suis pas un laquais de Kastore ! Au contraire, ces derniers mois, mes frères et moi avons eu de nombreux affrontements avec les Bandits engagés par cet... elfe. Et ils osent se faire appeler minotaures ! " Les yeux du monstre brillent d'une lueur menaçante. "Écoute. Je vous ai vu combattre. Vos armes sont excellentes, mais elles ne sont pas la seule source de force d'un guerrier. Nous, les Minotaures, ne sommes pas seulement de puissants guerriers, mais, parmi nous, certains sont aussi des mages. Je peux t'entraîner à faire perdre la raison à vos ennemis, mais nous n'avons pas habitude de partager nos secrets aux étrangers. Cependant, je suis prêt à faire une exception pour vous. Rapporte-moi 75 de Bois, 75 de Minerais, 75 de Cristaux, 75 de Gemmes, 75 de Soufre, 75 de Mercure et 75 000 Pièces d'Or, et je vous révélerai notre secret."
+"Ce n'est pas suffisant ! " grogne le Minotaure. "Ne reviens plus me voir avec une telle misère, tu le regretteras ! "
+Souhaitez-vous donner vos ressources au Minotaure ?
+Je peux vous apprendre le sort Frénésie, mais j'ai besoin d'un parchemin ou d'un livre pour vous aider ! Je ne sais pas où vous pouvez en trouver un, mais vous pourriez peut-être en dénicher un dans le trésor des Dragons Corrosifs, non loin d'ici. Attention cependant ! Le plus grand vol de ces créatures que j'aie jamais vu s'est installé là !
+"Alors, où est le parchemin ? " grogne le Minotaure. "Ne reviens pas me voir les mains vides, tu le regretteras ! "
+Voulez-vous apprendre le sort Frénésie en échange de votre parchemin ?
+
+(79, 92, 1) ***Druid***
+Name:
+Xaver
+
+(16, 89, 1) ***Quest Gate***
+Message:
+Après le combat contre les chevaliers de la mort, vous avez regardé autour de vous. Ils gardaient visiblement quelque chose ici, mais il n'y avait aucun trésor ni rien de précieux en vue.		En fouillant les lieux avec soin, vous avez remarqué un vieux coffre entrouvert, et dans sa serrure, une clef légèrement corrodée, pendue à un trousseau avec d'autres clefs attachées.
+Voudriez-vous aller récupérer ces clefs ?
+
+(75, 94, 1) ***Pandora's Box***
+Message:
+
+
+(54, 50, 1) ***Seer's Hut***
+Message:
+Je représente la Guilde des Marchands. J'achetais des troncs d'arbre dans le Bois des Murmures, mais j'ai récemment découvert qu'ont peut aussi trouver du Bois de très bonne qualité dans cette région, et à bas prix par dessus le marché. Je suis prêt à le payer avec des ressources rares !
+Je représente la Guilde des Marchands. J'achetais des troncs d'arbre dans le Bois des Murmures, mais j'ai récemment découvert qu'ont peut aussi trouver du Bois de très bonne qualité dans cette région, et à bas prix par dessus le marché. Je suis prêt à le payer avec des ressources rares !
+Acheter 1 unité de Mercure pour 30 unités de Bois ?
+Je représente la Guilde des Marchands. J'achetais des troncs d'arbre dans le Bois des Murmures, mais j'ai récemment découvert qu'ont peut aussi trouver du Bois de très bonne qualité dans cette région, et à bas prix par dessus le marché. Je suis prêt à le payer avec des ressources rares !
+Je représente la Guilde des Marchands. J'achetais des troncs d'arbre dans le Bois des Murmures, mais j'ai récemment découvert qu'ont peut aussi trouver du Bois de très bonne qualité dans cette région, et à bas prix par dessus le marché. Je suis prêt à le payer avec des ressources rares ! Acheter 1 unité de Soufre pour 30 unités de Bois ?
+Acheter 1 unité de Soufre pour 30 unités de Bois ?
+
+(4, 15, 1) ***Event***
+Message:
+
+
+(7, 15, 1) ***Event***
+Message:
+
+
+(10, 15, 1) ***Event***
+Message:
+
+
+(13, 15, 1) ***Event***
+Message:
+
+
+(3, 13, 1) ***Prison***
+Name:
+Valqest
+
+(7, 8, 1) ***Prison***
+Name:
+Yargo
+
+(9, 8, 1) ***Prison***
+Name:
+Skrell
+
+(11, 8, 1) ***Prison***
+Name:
+Stina
+
+(14, 8, 1) ***Prison***
+Name:
+Seneth
+
+(16, 8, 1) ***Prison***
+Name:
+Winzells
+
+(21, 8, 1) ***Prison***
+Name:
+Jerhesh
+
+(25, 8, 1) ***Prison***
+Name:
+Reventyr
+
+(23, 8, 1) ***Prison***
+Name:
+Elderian
+
+(31, 5, 1) ***Event***
+Message:
+death
+
+(9, 3, 1) ***Prison***
+Name:
+Terghez
+
+(11, 3, 1) ***Prison***
+Name:
+Razargal
+
+(16, 3, 1) ***Prison***
+Name:
+Horoagh
+
+(18, 3, 1) ***Prison***
+Name:
+Phott
+
+(23, 3, 1) ***Prison***
+Name:
+Guerhaugh
+
+(25, 3, 1) ***Prison***
+Name:
+Strobus
+
+(13, 13, 1) ***Barbarian***
+Name:
+Banbragh
+
+(7, 6, 1) ***Event***
+Message:
+
+
+(9, 6, 1) ***Event***
+Message:
+
+
+(11, 6, 1) ***Event***
+Message:
+
+
+(14, 6, 1) ***Event***
+Message:
+
+
+(16, 6, 1) ***Event***
+Message:
+
+
+(18, 6, 1) ***Event***
+Message:
+
+
+(21, 6, 1) ***Event***
+Message:
+
+
+(23, 6, 1) ***Event***
+Message:
+
+
+(25, 6, 1) ***Event***
+Message:
+
+
+(13, 1, 1) ***Event***
+Message:
+
+
+(16, 1, 1) ***Event***
+Message:
+
+
+(18, 1, 1) ***Event***
+Message:
+
+
+(20, 1, 1) ***Event***
+Message:
+
+
+(46, 0, 1) ***Factory***
+Name:
+511
+
+Timed events:
+
+Name:
+511 - Grail damage build
+Message:
+
+
+(43, 0, 1) ***Factory***
+Name:
+431
+
+Timed events:
+
+Name:
+431 - Grail damage build
+Message:
+
+
+(40, 0, 1) ***Factory***
+Name:
+411
+
+Timed events:
+
+Name:
+411 - Grail damage build
+Message:
+
+
+(36, 0, 1) ***Factory***
+Name:
+331
+
+Timed events:
+
+Name:
+331 - Grail damage build
+Message:
+
+
+(33, 0, 1) ***Factory***
+Name:
+244
+
+Timed events:
+
+Name:
+244 - Grail damage build
+Message:
+
+
+(30, 0, 1) ***Factory***
+Name:
+221
+
+Timed events:
+
+Name:
+221 - Grail damage build
+Message:
+
+
+(9, 1, 1) ***Event***
+Message:
+
+
+(11, 1, 1) ***Event***
+Message:
+
+
+(1, 3, 1) ***Prison***
+Name:
+Gohh
+
+(3, 3, 1) ***Prison***
+Name:
+Rumeon
+
+(1, 1, 1) ***Event***
+Message:
+
+
+(3, 1, 1) ***Event***
+Message:
+
+
+(5, 1, 1) ***Event***
+Message:
+
+
+(7, 3, 1) ***Event***
+Message:
+
+
+===== End of file =====

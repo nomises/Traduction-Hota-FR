@@ -1,0 +1,859 @@
+===== Map name =====
+Deus Ex Machina
+
+===== Map description =====
+Les Artificiers Todd et Bertram rivalisent pour créer le premier Démolisseur. Todd prévoit d'utiliser immédiatement les ressources techniques, tandis que Bertram privilégie l'économie. Pour remporter le scénario, devancez votre adversaire. Le niveau des héros est illimité.
+
+===== Rumors =====
+
+Name:
+Ogre Robbers
+Text:
+Les ogres ont pillé un comptoir commercial au nord d'ici. Je me demande s'il reste quelque chose là-bas ?
+
+Name:
+Strange Minotaurs
+Text:
+Ces derniers temps, j'entends de plus en plus souvent parler de minotaures qui attaquent depuis les donjons. C'est étrange. Les minotaures de Balthazar ne nous ont jamais attaqués. Peut-être que ceux-ci viennent d'autres contrées ?
+
+Name:
+Kastore Clue
+Text:
+J'ai entendu dire qu'un des villages avait été attaqué par des ogres et des minotaures, mais ils sont en guerre depuis longtemps. Pourquoi se sont-ils soudainement unis contre nous ?
+
+Name:
+Gunslingers
+Text:
+Les pistoleros ont construit leur fort au sud.
+
+Name:
+Sandro and Thant come to power
+Text:
+Les Nécromanciens ont commencé à apparaître ici plus fréquemment. On dit qu'ils ont été expulsés de la guilde après l'arrivée au pouvoir de ses nouveaux dirigeants.
+
+Name:
+Charles Quixote Clue
+Text:
+Dans le nord, dit-on, une guerre a éclaté entre les dragons et les chasseurs de dragons d'Erathia. Et une autre troupe de dragons s'est également installée sur nos terres.
+
+Name:
+Garrote Gorge
+Text:
+Les dragons de Jadame sont plus unis que leurs cousins d'autres contrées. Ils ont bâti une puissante société dans les montagnes au nord du Ravage Errant.
+
+Name:
+Monsters
+Text:
+Des Démonistes et des monstres se sont installés dans les grottes locales, mais pour l'instant, il est impossible de s'en débarrasser complètement.
+
+Name:
+Time of Wonders
+Text:
+Tout Artificier rêve de créer des machines semblables à celles de l'époque des merveilles, avant le Silence. Une partie de ce rêve semble aujourd'hui se réaliser.
+
+===== Timed events =====
+
+Name:
+AI - minus res
+Message:
+
+
+Name:
+Todd Intro
+Message:
+Mon nom est depuis longtemps inscrit dans l'histoire. Bien sûr, il fut un temps où ce nain de Bertram s'appropriait mes inventions et en tirait profit, sans y avoir consacré le moindre effort, si ce n'est une poignée d'or. Mais beaucoup d'eau a coulé sous les ponts depuis. Aujourd'hui, vous trouveriez difficilement quelqu'un à Jadame qui n'ait pas entendu parler de mes machines à vapeur automotrices, les Automates ! Le vieux Barbe-Rouge peut insinuer tout ce qu'il veut, prétendant que je me suis contenté de démonter et de remonter ce que Frederick avait fait avant moi... Tout cela n'a aucun sens ! Certes, j'ai effectivement obtenu les prototypes de Frederick, mais bon sang, ils sont basés sur une théorie développée il y a deux siècles par notre ancêtre commun ! Et quel homme formidable et injustement oublié il était, mais il a fini par être effacé des annales bracadiennes. Seuls son journal, signé des initiales énigmatiques D.P., et un portrait, que je conserve dans un endroit spécial de mon atelier, ont survécu. Frederick a proposé la solution du groupe motopropulseur, mais la mécatronique, les calculs de résistance, l'équipement de contrôle, la machine logique hydraulique unique, tout cela, c'est moi !		Il est temps maintenant de prouver une fois pour toutes à ce colporteur, à tout Jadame, non, au monde entier, que le talent ne s'achète pas ! Soit vous l'avez, soit vous vous appelez Bertram. J'attends ce moment depuis longtemps, trop longtemps. Voici enfin l'occasion de régler mes comptes avec ce magouilleur pour son ton condescendant et son ironie méprisable ; de l'écraser et de l'humilier afin que tout le monde puisse voir sa honte ! Mon expérience inestimable en tant qu'inventeur, mes mains en or... et un peu d'huile de coude, mais ça, c'est l'affaire de Sam ; je dois admettre qu'elle n'est pas mauvaise mécanicienne... Tout ce que nous avons à faire, c'est de perfectionner ce qui mijotait dans ma tête depuis tant d'années. Ça, ce sera un vrai camouflet pour cette soi-disant « guilde », qui ne sert qu'à arracher le pain honnêtement gagné des mains d'humbles génies. Comme moi.
+
+Name:
+Bertram Intro
+Message:
+Une huile à lampe qui brûle plus fort que n'importe quelle bougie : une seule tasse suffira à éclairer votre maison toute la nuit. Une corde tissée à partir des meilleurs poils de Licorne, avec un cœur en pure soie d'araignée, capable de tenir à distance un Dragon Noir. Des bombes capables de détruire la roche dans vos mines ou de réduire vos ennemis en bouillie. Vous en voulez ? Tout cela est à vous, mon ami. Tout comme des centaines d'autres articles proposés par la Guilde marchande d'Alvar ! J'étais déjà riche et prospère à Antagarich, mais je n'avais pas la moindre idée des possibilités qu'offrait l'adhésion à une compagnie aussi puissante.				Nos Artificiers ici n'auraient pas été aussi performants sans la Guilde marchande. C'est moi qui ai conclu un accord avec ses représentants, et ils s'occupent désormais de l'approvisionnement en matériaux et réactifs rares provenant de tout Jadame. Cet accord m'a valu un siège et une voix au Conseil des capitaines-directeurs.		Je l'ai toujours dit, et je suis prêt à le répéter : la planification budgétaire est essentielle au travail de tout inventeur, et au moins la moitié de son succès en dépend. Considérez maintenant les récentes réalisations de Todd : le mérite en revient principalement à ceux qui ont pris en charge les tâches administratives fastidieuses, l'approvisionnement ininterrompu en matériaux et l'équipement de ses ateliers. Ce puéril, cet insouciant... cette phalène dans un corps d'homme... il s'est envolé pour Burton et a réussi à persuader son parent qu'il était capable de diriger une Manufacture ! 		Si je n'avais pas connu Frederick depuis longtemps, et si je n'avais pas lu dans ses yeux la supplication silencieuse d'aider le vieux tête en l'air... Regardez-le maintenant : il a à peine réussi à faire quelque chose de sa vie, et il donne l'impression qu'il n'a plus besoin de la Guilde ! Comme si nous étions désormais inutiles, dont on ne se souvient que lorsqu'il décide de se plaindre encore un peu plus des taux d'intérêt ! Il ose appeler ça du vol qualifié ! Il ne se doute pas que notre taux tient compte de dizaines de critères et utilise des formules plusieurs fois plus longues que la chose la plus complexe qu'il ait jamais pu concevoir de toute sa vie ! Vous savez quoi ? Ça suffit. J'ai une salle d'attente pleine de types comme lui en ce moment. Chacun plus intelligent et plus rapide que le précédent. Où en serais-tu avec tes échassiers cracheurs de vapeur si je n'avais pas infiltré trois de mes meilleurs ingénieurs de processus dans ton équipe ? Des hommes dans lesquels j'ai investi dix ans de ma vie, leur martelant dans la tête le fonctionnement d'une véritable usine ? Il serais toujours là-bas, à polir et à meuler chaque rivet et chaque écrou, car il n'as jamais été capable de s'arrêter et d'évaluer sobrement les perspectives de ton travail. 	L'Artificer n'est qu'un rouage dans la machine, et je peux facilement en trouver un autre dont les dents ne s'abîmeront pas. L'argent n'est pas un problème, car remettre un ingrat à sa place n'a pas de prix. Que peut-il faire sans notre soutien ? Faire rire les gens en montrant son dernier gadget qui trébuche, fait un bruit assourdissant et tombe en morceaux ?! Pendant ce temps, nous, la Guilde, pouvons vous garantir que, quelle que soit la difficulté de la commande, elle sera exécutée dans les délais et selon les normes les plus élevées !
+
+Name:
+Todd and Bertram - Part I
+Message:
+Todd testait sa dernière invention. À chaque nouvel essai, le mécanisme fonctionnait de mieux en mieux. Dans ses rêves, il chevauchait déjà la bête mécanique, vers un endroit où les montagnes boisées rencontraient le ciel bleu. Ah, si seulement il pouvait un jour terminer un seul appareil dans son intégralité ! Pas seulement un autre moteur bizarre qui bourdonne et qui a des pattes, mais un vrai... Il avait trouvé depuis longtemps un mot pour désigner la machine de ses rêves : une sentinelle, de sa propre conception !		Alors que Todd était seul avec ses pensées, le propriétaire de l'atelier, Bertram, était assis à un bureau dans un coin, occupé à faire ses comptes et à compter ses pièces.	Todd sortit de sa rêverie et dit, comme s'il s'adressait à personne en particulier :		« As-tu, ne serait-ce qu'une fois dans ta vie, créé quelque chose dont vous puissiez être vraiment fier ? »		Le nain plissa le nez et continua silencieusement son travail.		« Non, écoute-moi bien, vermisseau de papier : as-tu déjà rêvé d'un alliage qui rendrait les ciseaux plus résistants que le granit, d'une forme de dent d'engrenage parfaite qui fonctionnerait sans jeu ni grippage, d'un outil dont le contact vaporiserait instantanément la partie d'une pièce métallique que tu veux éliminer ? As-tu déjà supplié la pointe d'un foret fin comme un cheveu de ne pas se casser, car un échec signifierait une année de travail perdue ? »		Le nain grimaça. Il avait presque fini de compter les recettes.		« Hé, vieux rouquin, tu connais cette sensation quand les dernières aspérités de ton mécanisme frottent les unes contre les autres, le faisant chanter comme un criquet magique des forêts d'AvLee ? Ou celle de souder une soudure solide en deux passes là où personne d'autre n'aurait utilisé moins de cinq ! »		Le nain avait fini de compter l'argent. Il ne restait plus qu'une seule pièce. Il rangea la bourse dans le tiroir, leva les yeux et demanda :		« Tu sais pourquoi personne n'aime les nains ? »		Todd répondit :		« Parce que vous êtes gros, ennuyeux et terre-à-terre ! » « ... et cupides », ajouta Todd en se tournant vers la fenêtre. Quelque chose brillait sur sa joue. Bertram caressa du doigt une boucle de sculpture complexe et siffla. Le bureau émit un long cliquetis et partit en trébuchant vers la pièce voisine, de la fumée s'échappant de l'encrier. Le nain baissa ses lunettes sur le bout de son nez et regarda Todd. Le jeune inventeur soupira bruyamment et se dandina jusqu'à la table à dessin.
+
+Name:
+Todd and Bertram - Part II
+Message:
+Cela faisait des décennies. Todd ne travaillait plus pour Bertram ; il était retourné dans son pays natal, Bracada. Il eut toutefois du mal à trouver des Alchimistes partageant les mêmes idées et continua ses recherches seul. Il menait une vie modeste, mais ses besoins étaient modestes et il parvenait à couvrir le coût de ses outils et de ses matériaux en vendant occasionnellement des jouets mécaniques amusants aux riches et aux aristocrates. Il ignorait cependant que ce même nain était à l'origine de la publicité faite autour de ses créations. Bertram n'avait plus aucun espoir que son ancien protégé maîtrise un jour l'art de mener à bien des projets sérieux, mais il répugnait néanmoins à le laisser partir, car après tout, l'esprit de Todd regorgeait d'idées précieuses. 		De plus, au fond de lui, il conservait une certaine affection pour cet homme qui était arrivé dans son atelier alors qu'il n'était qu'un adolescent maigre et stupide. Todd étudia avec avidité tout ce que le nain avait à lui offrir avant de se convaincre qu'il avait largement dépassé son mentor et qu'il était temps pour lui de quitter cette cage dorée. Cage ou pas, c'était vraiment génial ; Bertram ne payait pas beaucoup Todd en termes d'argent, mais l'apprenti ne manquait de rien, et même la plus petite de ses demandes n'était jamais refusée, à condition qu'il puisse expliquer en quoi cela profiterait au travail. C'est précisément ce dernier point qui était souvent à l'origine du problème : Todd ressentait les mécanismes comme s'ils faisaient partie de lui-même, mais expliquer l'essence de tel ou tel effet, réel ou supposé ? Et le faire de manière claire et cohérente ? Cela le dépassait. 	Les humains... si pressés, si peu fiables, si versatiles, et leur durée de vie si courte. Todd avait déjà les cheveux gris et sa tête tremblait visiblement pendant qu'il réfléchissait, tandis que Bertram était encore dans la fleur de l'âge pour un nain. Pourtant, le temps semblait n'avoir fait que renforcer leur désir de se prouver quelque chose l'un à l'autre. Les anciens compagnons s'étaient séparés depuis longtemps, mais ils finirent par se retrouver à Burton. L'un s'était habitué à penser qu'il était capable de tout et qu'il lui suffisait de laisser libre cours à ses pensées pour qu'elles reviennent plus fortes et trouvent une incarnation matérielle. L'autre croyait qu'une base solide était primordiale ; selon lui, avec un travail bien organisé dès le départ, le succès suivrait forcément, quelle que soit la difficulté de la tâche.		Ils ne savaient pas qu'il y avait une troisième personne dans cette équation, mais celle-ci avait choisi de rester dans l'ombre pour le moment. Elle s'était placée de l'autre côté du signe égal ; tous les efforts des deux premières personnes étaient destinés à lui revenir.
+
+Name:
+Minotaurs
+Message:
+Burton a été fondée près d'une mine de minerai, un luxe rare dans la région, mais aujourd'hui, ses réserves sont presque épuisées. Les Terres Désolées ne sont pas appelées ainsi pour rien : elles sont pauvres en ressources, et nous devons désormais les échanger contre les produits de nos Manufactures. La plupart d'entre eux servent à couvrir les besoins internes, car le développement engloutit le métal laminé, les pièces moulées et tout le reste comme un puits sans fond, ne laissant que de maigres miettes de la production totale à échanger. Bien sûr, les clients sont prêts à payer très cher pour les obtenir, mais une construction de cette envergure nécessite beaucoup de ressources. Et par là, j'entends énormément.		Et puis il y a les attaques surprises contre nos trains de ravitaillement par les minotaures et autres racailles. Les minotaures de Jadame n'avaient jamais été ouvertement hostiles à leurs nouveaux voisins auparavant ; ils semblaient se contenter de rester dans leurs Dédales souterrains, ne remontant à la surface qu'en cas de besoin urgent.		Quelle que soit la raison de ces dégradations, le moment n'aurait pas pu être pire ; la compétition du siècle est en jeu !
+
+Name:
+Kastore and Frederick
+Message:
+Aujourd'hui est un grand jour. Bien sûr, lorsque les délais sont serrés, chaque heure compte, mais cette journée est vraiment exceptionnelle, je n'ai donc pas eu d'autre choix que d'interrompre momentanément mon travail. Nous devions nous préparer et faire un peu de ménage, afin d'éviter de nous ridiculiser devant notre illustre invité. Frederick est arrivé à mon atelier avec sa nouvelle connaissance, Kastore, le roi du lointain Deyja, pour une inspection conjointe. 		J'avais toujours imaginé que les rois ne faisaient que se livrer au luxe et maltraiter leurs serviteurs ; imaginez ma surprise quand j'ai appris que, avant même le début de la compétition, Kastore s'était personnellement impliqué dans la recherche sur l'artefact qu'Henrietta avait rapporté de la tombe et dans le développement du prototype du générateur de faisceaux. Je ne sais pas comment, mais ce sorcier semble en savoir beaucoup plus sur la technologie et la physique des processus que nous tous réunis !		Ce qu'on dit doit donc être vrai : ces sorciers concluent un pacte avec le diable pour acquérir leurs connaissances. Ou avec les démons... Frederick m'avait fait part de certaines observations qu'il avait faites en examinant les étranges corps célestes sur lesquels ces invités indésirables avaient voyagé pour venir ici. Mais peu importe. Aujourd'hui, les deux hommes ont inspecté mon atelier, examiné les plans et se sont disputés. 		Une fois cela fait, ils ont tourné leur attention vers moi, et Frederick a été le premier à prendre la parole. Il était clairement satisfait de la vitesse à laquelle la construction progressait ; investi comme d'habitude, il m'a posé d'innombrables questions sur les détails et mes projets pour l'avenir. Kastore, cependant, était tout le contraire. Sans bouger un seul muscle de son visage, il s'est contenté de rayer quelques formules dans les calculs et les valeurs sur les dessins, pour en remplir d'autres à la place. Puis, avec la même expression impassible, il m'a demandé si j'avais besoin de nouveaux matériaux ou outils, a fait remarquer que nos processus de travail avaient grand besoin d'être ajustés, puis il est parti. Le soir venu, j'ai appris par mes contacts de confiance à Burton que j'avais réussi l'inspection, mais mon rival aussi. L'ensemble du flux de travail de la ville allait être réorganisé, Kastore dirigeant personnellement le projet.
+
+Name:
+Todd - Ore Hint
+Message:
+Il faisait encore nuit lorsque des chariots sont apparus devant la boutique de Bertram. Évidemment ! C'étaient les elfes noirs, les « collègues » de Bertram au sein de la guilde des marchands. Ils livraient probablement une nouvelle cargaison de matériaux rares. 		Si seulement tout se passait aussi bien pour moi ! Les premiers jours de travail sur la conception du portique que j'avais inventé se sont déroulés comme prévu. Puis, je me suis rendu compte que le plan prévu nécessiterait peut-être beaucoup trop de métal. Hélas, nos fonderies ne fonctionnent pas à pleine capacité, car les mines de Burton sont presque épuisées. Bien sûr, on peut toujours se procurer des matières premières sur le marché, mais les marchands cupides les vendent à des prix exorbitants. Maudits elfes ! 		Je retournais à ma boutique lorsqu'un des mécaniciens m'a interpellé. 		« Todd ! » a-t-il crié. « Nous avons découvert quelque chose au sujet des minotaures qui ont attaqué le camp minier. Ils venaient des grottes voisines. Et c'est ce qui est étrange... Vous voyez, les minotaures de Balthazar ont quitté ces grottes il y a longtemps, des décennies même. Je suppose donc que ces attaques ne sont pas leur œuvre. »		« Peut-être s'agit-il de bandits ou de renégats ? » ai-je suggéré. « Attends... Que disiez-vous à propos des grottes ? » 		« Il s'agit en fait d'anciennes mines des nains sombres, les ennemis de longue date des Minotaures. Elles étaient autrefois très riches en minerai de fer, en cristal de roche et en autres minéraux. Il y a un demi-siècle, les nains sombres ont chassé les créatures à cornes et depuis, ils gardent précieusement ces matériaux inestimables comme des chiens gardant leur gamelle. » 		Je réfléchis. 		« C'est étrange. Comment les Minotaures se sont-ils retrouvés là-bas ? Ça vaut la peine d'y réfléchir... Il reste beaucoup de minerai là-bas ? C'est peut-être là que nous pourrions trouver les matériaux nécessaires à la construction du Portique.		Je tapotai l'épaule du mécanicien et me rendis dans mon atelier, où j'étalai les plans sur la table et me plongeai dans mes réflexions.
+
+Name:
+Bertram - Ore Hint
+Message:
+Je devais me lever tôt, car une caravane envoyée par les elfes noirs de Ravenshore devait arriver dans la matinée ! Mes collègues de la Guilde des Marchands étaient ravis de m'approvisionner régulièrement en matières premières sélectionnées pour mes expériences... moyennant finance, bien sûr. 		Je sus que quelque chose n'allait pas dès que je vis les chariots vides. Les caravanes étaient généralement accompagnées de gardes, mais cette fois-ci, il n'y en avait aucun. De plus, les chariots eux-mêmes étaient étrangement peu nombreux. 		« Que s'est-il passé ? », ai-je finalement demandé à l'un des marchands. 		« C'est évident, non ? Nous avons été attaqués par des ogres et des minotaures en chemin, voilà ce qui s'est passé ! Leur chef, Rumeon, a exigé que nous lui remettions immédiatement les marchandises. Nous avons eu la vie sauve de justesse. »		Quelle galère ! Les choses ne se passaient pas comme prévu. La conception du Portique que j'avais imaginée nécessitait une grande quantité de matériaux de construction, principalement des métaux, y compris des additifs d'alliage rares tels que le stalt et le kergar, des matières premières rares sur le marché.		Sur le chemin du retour vers mon atelier, j'ai croisé l'un des mercenaires que j'avais engagés pour garder les lieux. 		« Jangaard, lui ai-je lancé, savez-vous quelque chose à propos d'un certain Rumeon ? Il semblerait que ce soit lui le bandit qui attaque nos marchands. » 		Le mercenaire a souri. « Bien sûr que je le connais, mais pas d'ici. Je le connais depuis Antagarich. Ce minotaure était mercenaire au service de Nighon pendant la guerre contre Erathia, avant de passer du côté de Deyja. » 		« Deyja, dites-vous ? » 		Je réfléchis. Une pensée me tracassait. 		« Mais peu importe. Avez-vous trouvé quelque chose sur les autres minotaures ? » 		« J'ai observé ces bandits ces derniers temps. Ils semblent sortir des anciennes mines des nains sombres. J'ai entendu dire qu'il y avait encore beaucoup de choses précieuses à récupérer là-bas. C'étaient les mines des minotaures avant celles des nains, mais c'était il y a longtemps... Nous n'étions même pas à Jadame à l'époque. »		J'ai allumé ma pipe et me suis mis à réfléchir. Y a-t-il encore beaucoup de minerai de fer là-bas ? C'est peut-être là que nous devrions chercher les matériaux pour construire le Portique. Je me suis retiré dans mon atelier, j'ai sorti les plans et je me suis plongé dans mes réflexions.
+
+Name:
+Todd Deadline Warning (311-317)
+Message:
+La situation empire de jour en jour. Mes sources proches de Bertram m'informent que son premier Portique est presque terminé et qu'il s'apprête à commencer l'assemblage du premier Démolisseur. Il ne me reste que quelques jours. Je dois mettre toutes mes forces dans la bataille, sinon tout cela n'aura servi à rien.
+
+Name:
+Bertram Deadline Warning (311-317)
+Message:
+La situation empire de jour en jour. Jangaard surveille l'atelier de Todd depuis quelque temps et m'informe que le premier Portique de mon rival est presque terminé. Il est sur le point de commencer l'assemblage du premier Démolisseur.	Il ne me reste que quelques jours. Il est temps de faire passer mes ateliers en service 24 heures sur 24 et d'augmenter les heures supplémentaires, sinon tout le travail que j'ai accompli sera réduit à néant.
+
+===== Heroes =====
+
+===== Objects =====
+
+(34, 36, 0) ***Quest Gate***
+Message:
+Accord.		Nous, soussignés, Bertram Hard Word, fils de Bolton Silver Belly, fils de Benoit Deep Pocket [11 lignes omises] du clan des Orfèvres à Double Ceinture du Mont Mineur à Tête Fumée  (ci-après dénommé « Bertram »), et Todd (ci-après dénommé « Todd »), convenons que jusqu'à ce que l'un de nous ait construit un prototype d'arme, dont les spécifications sont énoncées à l'annexe 15.6 du présent accord, nous ne franchirons en aucun cas les limites de nos laboratoires respectifs, que ce soit à pied, à cheval, par les airs ou par magie (les territoires respectifs seront délimités conformément à la section 7.12 du présent accord). Ce qui précède s'applique également à nos alliés, ci-après dénommés « espions ».		[Plusieurs dizaines de pages supplémentaires de jargon juridique raffiné]		Le contrevenant sera humilié et fouetté.		Todd		Bertram
+Accord.		Nous, soussignés, Bertram Hard Word, fils de Bolton Silver Belly, fils de Benoit Deep Pocket [11 lignes omises] du clan des Orfèvres à Double Ceinture du Mont Mineur à Tête Fumée  (ci-après dénommé « Bertram »), et Todd (ci-après dénommé « Todd »), convenons que jusqu'à ce que l'un de nous ait construit un prototype d'arme, dont les spécifications sont énoncées à l'annexe 15.6 du présent accord, nous ne franchirons en aucun cas les limites de nos laboratoires respectifs, que ce soit à pied, à cheval, par les airs ou par magie (les territoires respectifs seront délimités conformément à la section 7.12 du présent accord). Ce qui précède s'applique également à nos alliés, ci-après dénommés « espions ».		[Plusieurs dizaines de pages supplémentaires de jargon juridique raffiné]		Le contrevenant sera humilié et fouetté.		Todd		Bertram
+
+(2, 29, 0) ***Quest Guard***
+Message:
+Le professeur Agar, nouveau directeur du département des sciences naturelles du Conseil académique du Commonwealth de New Land, a instauré un droit d'entrée pour visiter l'habitat des Vers des Sables. Il affirme que l'écosystème fragile dans lequel vivent ces créatures nécessite une protection et un soutien minutieux, ce qui engendre des coûts importants. Ceux qui s'acquittent du droit d'entrée auront également la possibilité d'acheter un certain nombre de vers adultes, une mesure que M. Agar juge nécessaire pour « réguler leur population ».
+Le technicien de laboratoire affecté à cette tâche par le Conseil académique refuse de vous laisser passer sans paiement. Pour une raison quelconque, vous êtes convaincu qu'il ne faut pas chercher des noises à cet homme : ces gros vers qui rampent au loin pourraient vous bondir dessus s'ils sentent que vous maltraitez leur ami.
+Dès que le technicien de laboratoire aperçoit le sac d'argent, son visage s'illumine et il sort un paquet de tickets, magnifiquement imprimés sur du cuir bleuâtre tanné.		Souhaitez-vous effectuer le paiement et vous rendre au repaire des vers ?
+
+(25, 2, 0) ***Prison***
+Name:
+Lyadra
+Biography:
+Les centres d'intérêt de Lyadra couvrent toutes les créatures capables de voler de manière autonome, en particulier celles qui ne semblent pas pouvoir voler, comme les Dragons Squelettes. Récemment, elle s'est également intéressée au vol exceptionnellement rapide des Anges ; cependant, la communauté scientifique n'est pas encore prête à accepter la théorie de Lyadra selon laquelle il existe une technologie derrière ce phénomène.
+
+(69, 54, 0) ***Quest Guard***
+Message:
+Vous rencontrez un Pistolero perplexe vêtu d'un manteau usé par les intempéries. Après s'être servi du tabac de votre blague, il vous raconte son histoire en fumant sa pipe :		« Un petit génie du service de planification a eu la brillante idée d'engager des gobelins locaux pour construire une Tour de Guet ici. Comme on pouvait s'y attendre, ces vauriens ont pris la poudre d'escampette sans terminer le travail, et ils ont également volé une partie des matériaux de construction. Je parie qu'ils sont en train de les boire. Je ne sais pas quand notre rapport parviendra au département général de la construction, et tant que nous ne pouvons pas monter la garde, nous ne serons pas payés. Nous aurions pu terminer la tour nous-mêmes, mais nous sommes fauchés et nous ne pouvons pas nous procurer ce dont nous avons besoin pour mener à bien ce travail. Peut-être pourriez-vous nous aider ? En signe de gratitude, nous pourrions travailler pour vous pendant notre temps libre, moyennant finance, bien sûr, hé hé.
+Le Pistolero est tout aussi heureux de remplir sa pipe avec votre tabac qu'auparavant, mais vous n'avez rien d'autre à lui offrir. Vous devez trouver de l'argent et des matériaux.
+« Nous avons réussi à emprunter un peu d'argent et nous avons presque terminé le travail ! », annonce joyeusement le pistolero. « Réglez notre dette et vous pourrez compter sur nous ! »        Souhaitez-vous payer les frais des pistoleros et vous rendre à leur Tour de Guet ?
+
+(63, 44, 0) ***Seer's Hut***
+Message:
+À l'entrée de la cabane, nous nous sommes retrouvés face à face avec... un museau pointu et moustachu. Un énorme rat est apparu devant nous, ou plutôt un rat-garou, vêtu de haillons sales. Avant que nous ayons pu saisir nos armes, la créature a été enveloppée d'une étrange lueur et s'est transformée en un vieil homme à l'allure minable.		Quelques sacs et ballots étaient éparpillés dans la cabane, et un vieux coffre était visible dans un coin. Nous nous sommes alors souvenus que la contrebande dans les villes portuaires était l'activité caractéristique des hommes-rats.		« J'espère que mon apparence ne vous a pas effrayés. Je n'imaginais pas que nous aurions des... clients, et Arion ne nous avait pas prévenus. Hélas, nous sommes souvent incapables de contrôler notre apparence. Maudite maladie ! »		« Je ne savais pas que vous aviez un... comptoir commercial ici. »		« Nous ne faisons pas de commerce pour le moment. Enfin, il nous reste quelques marchandises, et nous pourrions vous les vendre. Êtes-vous intéressé par une protection contre la magie de l'esprit ? Nous avons un artefact qui fait cela. Il n'est pas trop cher, seulement 15 cristaux et 15 gemmes. »
+La porte s'entrouvre et le museau d'un rat apparaît.		« J'ai dit : 15 cristaux et 15 gemmes ! Pas de réduction. »
+Le rat-garou compte minutieusement les gemmes et les cristaux, puis, après avoir fouillé dans des sacs et des ballots, il en sort une figurine étrange.		Voulez-vous l'acheter au contrebandier ?
+
+(69, 23, 0) ***Sign***
+Message:
+Great Western Tower
+
+(2, 35, 0) ***Seer's Hut***
+Message:
+Dans la cabane, vous rencontrez un gamin des rues souffrant d'un tic nerveux sévère. Ses yeux sont écarquillés, ses lèvres bougent sans émettre de son et ses paupières papillonnent. Ce n'est qu'après quelques minutes qu'il finit par parler.		« Dieu merci, des gens normaux... des nains... peu importe qui vous êtes, au moins vous n'êtes pas des créatures d'un autre monde avec des tentacules partout sur le visage ! Vous voulez savoir comment j'en suis arrivé là ? Eh bien, voilà. Il y a quelque temps, mon frère et moi avons pris l'argent que nous avions économisé et avons décidé de l'investir pour faire un profit. Je ne saurai jamais ce qui nous a poussés à nous associer à cet étranger dans la taverne. Il nous a embobinés en prétendant connaître une ancienne crypte regorgeant d'artefacts, du genre de ceux que recherchent les artificiers burtonais. Il nous a vendu une carte et un bibelot en or, nous assurant que nous n'aurions pas à nous soucier des esprits qui gardaient l'endroit.		Eh bien, nous avons trouvé la crypte et nous sommes même entrés à l'intérieur, où nous avons immédiatement aperçu des créatures sombres. Au début, nous sommes restés là à rire pendant qu'elles essayaient de nous jeter un sort... puis elles ont compris que cela ne servait à rien et elles se sont jetées sur nous ! Vous savez quoi ? Je n'ai jamais entendu parler d'esprits avec des jointures pareilles ! L'une d'elles m'a attrapé par le col et m'a roué de coups, puis m'a jeté dehors. L'autre m'a suivi, mon frère pendu à ses pattes comme un jouet. La créature lui a attrapé la tête avec ses tentacules et l'a complètement arrachée ! Je me suis enfui dans les collines, bien sûr, et je me cache dans ce trou depuis des mois maintenant, tremblant au moindre bruit, m'attendant à ce que ces monstres reviennent me rendre visite.		Écoutez, pourriez-vous me débarrasser de ce bibelot en or ? Il protège contre la magie, mais j'ai même peur de le regarder maintenant. Je ne demanderai pas grand-chose en échange, certainement beaucoup moins que ce que nous avons payé pour cette aventure malheureuse.
+En entrant dans la cabane, vous découvrez une scène étrange : le clochard est assis par terre, les yeux rivés sur la figurine d'une créature énigmatique devant lui. Il semble essayer de détourner le regard, mais une force invisible le ramène sans cesse vers la figurine. Pour l'instant, vous ne pouvez pas le payer pour qu'il s'en débarrasse, il doit supporter la présence de cette idole étrange encore un peu.
+« Je n'en peux plus ! Prenez-la, éloignez-la de moi ! Posez les gemmes là-bas, prenez la figurine et partez ! Je ne me souviens plus de la dernière fois où j'ai dormi... », s'écrie l'homme en haillons. Apparemment, l'objet n'a pas réussi à empêcher son effondrement mental dû au stress, mais s'il est effectivement capable de bloquer la magie mentale insidieuse dirigée de l'extérieur, il pourrait s'avérer très utile.		Souhaitez-vous échanger les objets de valeur contre le Veilleur de Consciences ?
+
+(26, 48, 0) ***Quest Guard***
+Message:
+Les Maisons des Hobbits sont en ruines après un raid des ogres des terres désolées. Les hobbits sollicitent votre aide : il faudra 10 bois et 5 000 pièces d'or pour reconstruire leurs huttes.
+Les Maisons des Hobbits sont en ruines après un raid des ogres des terres désolées. Les hobbits sollicitent votre aide : il faudra 10 bois et 5 000 pièces d'or pour reconstruire leurs huttes.
+Souhaitez-vous restaurer les Maisons des Hobbits ?
+
+(49, 40, 0) ***Quest Guard***
+Message:
+L'Atelier de Todd a été gravement endommagée par un incendie. Les mécaniciens demandent 10 bois et 5000 pièces d'or pour la reconstruire.
+L'Atelier de Todd a été gravement endommagée par un incendie. Les mécaniciens demandent 10 bois et 5000 pièces d'or pour la reconstruire.
+Souhaitez-vous reconstruire l'Atelier ?
+
+(35, 65, 0) ***Seer's Hut***
+Message:
+Dans cet atelier expérimental, les lourds marteaux à vapeur cliquettent et les fours de fusion émettent des fumées âcres : on y travaille à renforcer les armures. L'Artificier qui gère l'atelier accepte de vous fournir quelques prototypes, mais seulement si vous prouvez que vous êtes suffisamment expérimenté pour ne pas les endommager par une manipulation maladroite.
+L'Artificier vous demande de passer quelques tests ; cependant, après avoir parcouru la première page, il froisse les papiers et les jette avec indignation. Jusqu'à présent, vous n'avez pas réussi à le convaincre que vous êtes digne de confiance.
+L'Artificier est ravi de rencontrer quelqu'un qui pourrait tester ses créations.		Souhaitez-vous recevoir des prototypes d'armures renforcées ?
+
+(0, 66, 0) ***Seer's Hut***
+Message:
+L'étrange cabane s'avère être l'une des entrées d'une immense grotte. Vous avancez prudemment dans la grotte, armes à la main, prêt à livrer bataille. Soudain, vous tombez nez à nez avec un énorme dragon qui sommeillait ici jusqu'à présent. Vous vous préparez à riposter, mais le dragon ne semble pas disposé à attaquer. « Je sais qui vous êtes, et c'est la seule raison pour laquelle je vous ai laissé entrer dans ma grotte », grogne doucement la bête ailée. « Je vous observe, vous et votre armée, depuis un certain temps déjà. D'après ce que je peux voir, votre adversaire a une longueur d'avance sur vous. Tu ne veux pas qu'il arrive le premier, n'est-ce pas ? Maintenant, écoute. Ces derniers mois ont été difficiles pour notre clan. Récemment, plusieurs jeunes dragons ont disparu pendant la chasse. Trouve mes compagnons disparus, et je t'aiderai.
+Tu ferais mieux de ne pas revenir sans mes proches », grogne le dragon d'un ton menaçant.
+« Je pensais que tu ne reviendrais jamais. Tu dis qu'une meute hostile les a attaqués ? C'est étrange. Il n'y a pas eu de tels conflits entre les dragons de Jadame depuis des siècles. J'ai mentionné une récompense, n'est-ce pas ? Je ne renoncerai jamais à mon trésor, mais je peux t'aider d'une autre manière. L'un de mes compagnons est prêt à se joindre à ta cause.
+Amène-moi les jeunes dragons, et l'un de mes compagnons dragons d'or se joindra à ta cause.
+Amène-moi les jeunes dragons, et l'un de mes compagnons dragons d'or se joindra à ta cause.
+Accepteras-tu un dragon d'or dans ton armée, à la place d'un dragon vert ?
+
+(62, 14, 0) ***Sign***
+Message:
+Sud — Ateliers d'Artificiers. Ouest — Cabane de l'Antiquaire.
+
+(31, 11, 0) ***Quest Gate***
+Message:
+Des pistoleros armés des derniers chefs-d'œuvre des armureries burtonaises montent la garde à la porte. Cependant, l'arme la plus puissante de cet avant-poste n'est pas une arme à feu. Elle se trouve sur le front d'un personnage chétif portant des protège-manches noirs, qui occupe un poste désigné comme « bureau des laissez-passer » et trie des papiers. Cet objet redoutable est un oculaire magique spécial, conçu pour détecter les faux sceaux et les signatures avec une précision infaillible.		« Les laissez-passer ne sont accordés qu'aux personnes possédant des documents originaux attestant d'un contrat de travail à long terme avec le conseil d'une ville du Commonwealth de la Nouvelle Terre », annonce le bureaucrate d'une voix monocorde. Ces documents servent de preuve de citoyenneté dans la région. De toute évidence, le droit de passage est réservé aux Artificiers et Mercenaires réputés qui ont rempli tous les documents nécessaires et suivi les procédures requises.
+Le petit homme dans la cabine jette un bref coup d'œil à vos documents et les repousse avec dégoût, sans même prendre la peine de les examiner à travers son oculaire. « Pensiez-vous vraiment me tromper avec une contrefaçon aussi grossière ? Je pourrais m'offusquer et appeler les gardes... mais vous avez de la chance que cela ne m'intéresse pas vraiment. Sortez d'ici, espèce de tricheur à deux balles ! »
+Le potentat du bureau des laissez-passer, avec une expression déférente, délivre le permis d'une écriture élégante et vous guide personnellement jusqu'à la porte.		Voulez-vous passer ?
+
+(43, 36, 0) ***Event***
+Message:
+Espèce de tricheur ! Vous croyez vraiment pouvoir vous introduire dans mon atelier et vous approprier mes inventions comme ça ? Gardes, attrapez-le !
+
+(32, 5, 0) ***Seer's Hut***
+Message:
+Dans cet atelier expérimental, les perceuses vrombissent et les meules grincent : on y travaille à l'amélioration de toutes sortes d'armes.  L'Artificier qui dirige l'atelier accepte de vous fournir quelques prototypes, mais seulement si vous prouvez que vous êtes suffisamment expérimenté pour ne pas les endommager par une manipulation maladroite.
+L'Artificier vous demande de passer quelques tests ; cependant, après avoir parcouru la première page remplie, il froisse les papiers et les jette avec indignation. Jusqu'à présent, vous n'avez pas réussi à le convaincre que vous êtes digne de confiance.
+L'Artificier est ravi de rencontrer quelqu'un qui pourrait tester ses créations.        Souhaitez-vous recevoir des prototypes d'armes améliorées ?
+
+(44, 36, 0) ***Event***
+Message:
+Bonus pour l'IA alliée
+
+(24, 37, 0) ***Event***
+Message:
+Bonus pour l'IA alliée
+
+(40, 34, 0) ***Factory***
+Name:
+Boutique de Todd
+
+Timed events:
+
+Name:
+113 - Tavern
+Message:
+À mesure que la production augmente, la charge de travail s'alourdit, ce qui signifie que je ne peux plus m'en occuper seul. Il est temps d'envisager... comment dire... la délégation, c'est le mot. Une taverne a ouvert ses portes près de mon atelier, ce qui tombe à point nommé. Elle me fournira à la fois les artisans dont j'ai besoin pour explorer les Terres Désolées et les ouvriers qui transporteront les poutres de fer à ma place. Je ne suis pas du genre à ménager mes efforts, contrairement à certains... mais je n'ai qu'une seule paire de mains habiles. Si seulement... Non, oubliez ça. Nos concurrents sont surveillés de près : un homme corrompu sur le chantier de nos rivaux serait immédiatement démasqué, et mon investissement partirait en fumée comme les plans brûlés. Il doit y avoir une meilleure façon d'utiliser ces fonds.
+
+Name:
+115 - Town Hall
+Message:
+
+
+Name:
+122 - Halfling Adobe
+Message:
+
+
+Name:
+117 - Fort
+Message:
+
+
+Name:
+124 - GM 1
+Message:
+
+
+Name:
+126 - Marketplace
+Message:
+
+
+Name:
+131 - Ranch
+Message:
+
+
+Name:
+133 - Manufactory
+Message:
+
+
+Name:
+135 - Upg. Adobe
+Message:
+
+
+Name:
+137 - City Hall
+Message:
+
+
+Name:
+142 - Upg. Foundry
+Message:
+
+
+Name:
+144 - Catacombs
+Message:
+
+
+Name:
+211 - Upg. Ranch
+Message:
+
+
+Name:
+146 - Citadel
+Message:
+
+
+Name:
+213 - GM 2
+Message:
+
+
+Name:
+215 - Mana Generator
+Message:
+
+
+Name:
+217 - Watchtower
+Message:
+
+
+Name:
+222 - Bank
+Message:
+
+
+Name:
+224 - Castle
+Message:
+
+
+Name:
+226 - Upg. Manufactory
+Message:
+
+
+Name:
+231 - Capitol
+Message:
+
+
+Name:
+233 - Silo
+Message:
+
+
+Name:
+235 - GM 3
+Message:
+
+
+Name:
+237 - Upg. Catacombs
+Message:
+
+
+Name:
+237 - GM 4
+Message:
+
+
+Name:
+244 - Upg. Watchtower
+Message:
+
+
+Name:
+246 - GM 5
+Message:
+
+
+(39, 70, 0) ***Prison***
+Name:
+Thulig
+Biography:
+Thulig est un elfe extrêmement audacieux, et la meilleure façon de le recruter est de lui proposer un défi du type « va je ne sais où, rapporte je ne sais quoi ». Il a volé des « je ne sais quoi » sous le nez d'un dragon, dans un Krak Nain souterrain, et même dans la bouche d'un volcan éteint. Les échecs retentissants sont une autre de ses marques de fabrique, et il a payé des rançons d'un montant inégalé pour se racheter.
+
+(40, 70, 0) ***Necromancer***
+Name:
+Semkat
+
+(25, 37, 0) ***Event***
+Message:
+Espèce de tricheur ! Vous croyez vraiment pouvoir vous introduire dans mon atelier et vous approprier mes inventions comme ça ? Gardes, attrapez-le !
+
+(26, 2, 0) ***Death Knight***
+Name:
+Iust
+
+(9, 14, 0) ***Seer's Hut***
+Message:
+Dès que nous sommes arrivés devant cette étrange et immense hutte, nous avons senti un frisson venir de l'intérieur. Comme c'était étrange...		À l'intérieur, ça sentait la laine et le fromage. Nous avons été accueillis par un géant barbu à l'apparence étrange et à la peau bleutée. À la vue d'étrangers, le géant a saisi son énorme marteau, mais dès qu'il a vu que nous n'étions pas armés, il l'a mis de côté et s'est levé de sa table, aussi vaste qu'une scène sur laquelle se produisent des ménestrels errants.		« Qui êtes-vous, et quel vent vous a amenés ici ? Vous n'avez certainement pas l'air d'être des gens du coin... Moi, je suis coincé ici, à des centaines de kilomètres de ma patrie ! Je suppose que vous avez entendu parler de notre petite guerre avec Balthazar ? »		J'acquiesçai silencieusement.		« Bien sûr que oui. Tout Jadame en parle ces jours-ci. Nous sommes venus ici depuis Vori à la recherche d'or et de butin. Nous avons conclu une alliance avec ce minotaure, mais ensuite, notre Konung a fait une chose très stupide. Il a trahi Balthazar et a conspiré avec ces créatures ignobles, les nains sombres ! Les minotaures nous ont bien botté les fesses quand ils l'ont appris », dit le Jotunn en passant la main dans ses cheveux. « Certains ont réussi à se frayer un chemin jusqu'aux navires et à s'enfuir, et moi... je suis resté coincé ici. J'ai erré pendant un certain temps, puis j'ai trouvé une grotte confortable haut dans les montagnes ; nous, les géants du givre, aimons le froid. Tout aurait pu bien se passer, mais les Titans sont arrivés et m'ont chassé de ma nouvelle maison !		M'aiderez-vous à les combattre ? Je ne peux pas m'en occuper seul, mais vous devrez être assez fort pour y arriver. Si vous acceptez, je vous donnerai l'orbe magique que nous avons trouvé pendant notre quête.
+« Je sais que les Titans sont toujours dans ma grotte. Vous feriez mieux de ne pas revenir me voir avec de mauvaises nouvelles ! » rugit le géant.
+« Vous dites donc que je peux retourner dans ma grotte maintenant ? Enfin une bonne nouvelle ! » Se frottant les mains avec satisfaction, le géant des glaces t'invite dans sa hutte, où il te sert un excellent fromage Vori, puis sort un orbe magique de son sac.		Voulez-vous accepter le Globe des Vents du géant ?
+
+(27, 35, 0) ***Factory***
+Name:
+Bertram's Shop
+
+Timed events:
+
+Name:
+113 - Tavern
+Message:
+À mesure que la production augmente, la charge de travail s'alourdit, ce qui signifie que je ne peux plus m'en sortir seul. Il est temps que je recrute du personnel. Une taverne a ouvert ses portes près de mon atelier, ce qui tombe à point nommé. Elle me fournira à la fois les artisans dont j'ai besoin pour explorer les terres désolées et les ouvriers pour transporter les lourdes poutres de fer là où elles doivent aller. Si seulement... Non, oubliez ça. Nos concurrents sont surveillés de près : un homme corrompu sur le chantier de nos rivaux serait immédiatement démasqué, et mon investissement partirait en fumée comme les titres brûlés. Il doit y avoir une meilleure utilisation pour ces fonds.
+
+Name:
+115 - Blacksmith
+Message:
+
+
+Name:
+117 - Halfling Adobe
+Message:
+
+
+Name:
+122 - Fort
+Message:
+
+
+Name:
+124 - GM 1
+Message:
+
+
+Name:
+126 - Foundry
+Message:
+
+
+Name:
+131 - Ranch
+Message:
+
+
+Name:
+133 - Manufactory
+Message:
+
+
+Name:
+135 - Upg. Adobe
+Message:
+
+
+Name:
+137 - City Hall
+Message:
+
+
+Name:
+142  Upg. Foundry
+Message:
+
+
+Name:
+144 - Catacombs
+Message:
+
+
+Name:
+211 - Upg. Ranch
+Message:
+
+
+Name:
+146 - Citadel
+Message:
+
+
+Name:
+213 - GM 2
+Message:
+
+
+Name:
+215 - Mana Generator
+Message:
+
+
+Name:
+217 - Watchtower
+Message:
+
+
+Name:
+224 - Castle
+Message:
+
+
+Name:
+226 - Upg. Manufactory
+Message:
+
+
+Name:
+231 - Capitol
+Message:
+
+
+Name:
+233 - Silo
+Message:
+
+
+Name:
+235 - GM 3
+Message:
+
+
+Name:
+237 - Upg. Catacombs
+Message:
+
+
+Name:
+237 - GM 4
+Message:
+
+
+Name:
+244 - Upg. Watchtower
+Message:
+
+
+Name:
+246 - GM 5
+Message:
+
+
+(40, 40, 0) ***Event***
+Message:
+Espèce de tricheur ! Vous croyez vraiment pouvoir vous introduire dans mon atelier et vous approprier mes inventions comme ça ? Gardes, attrapez-le !
+
+(28, 40, 0) ***Event***
+Message:
+Espèce de tricheur ! Vous croyez vraiment pouvoir vous introduire dans mon atelier et vous approprier mes inventions comme ça ? Gardes, attrapez-le !
+
+(6, 69, 0) ***Quest Guard***
+Message:
+Certains effrits et Génies se sont installés dans cette région. Après avoir passé des centaines d'années à garder la Tombe des Anciens, ils ont perdu tout goût pour l'hostilité mutuelle et travaillent désormais ensemble, extrayant du soufre d'un gisement qu'ils ont acheté contre un sac de petits bibelots ; dans la tombe, ceux-ci étaient éparpillés un peu partout, et ici, ils se vendent à des prix très intéressants. Ces créatures magiques ne souhaitent plus se quereller avec qui que ce soit, mais récemment, elles ont été harcelées par le Démoniste Endrello : il a jeté son dévolu sur leur activité lucrative et cherche un moyen de détourner leur gisement. Elles sont prêtes à partager avec vous une partie du soufre qu'elles produisent, à condition que vous vous débarrassiez de cet escroc ennuyeux.
+Il semble que cette atmosphère tendue provoque à nouveau des frictions entre les effrits et les Génies. Il faut s'occuper rapidement d'Endrello afin de préserver leur bonne volonté, car le rendement de leur mine est important pour vos projets.
+Apprenant que vous avez donné une leçon à leur ennemi, les effrits et les génies vous expriment leur gratitude infinie de la manière la plus fastueuse qui soit. Souhaitez-vous vous rendre au gisement de soufre ?
+
+(5, 6, 0) ***Quest Guard***
+Message:
+Les mineurs qui extraient ici du cristal de roche et d'autres objets précieux ont construit un avant-poste et ne laissent personne s'approcher de leur grotte. Leur contremaître insiste sur le fait que c'est une nécessité absolue : le Démoniste Tharud et sa bande sont déjà venus plusieurs fois les dépouiller. Vous avez entendu des rumeurs au sujet de ce personnage excentrique : il vend des lunettes enchantées qui, selon lui, devraient restaurer parfaitement la vue de n'importe qui. Vous n'avez pas la moindre idée de la façon dont un Troglodyte peut convaincre quiconque de son expertise en optométrie, et vous admirez même discrètement son audace, mais une chose est claire : vous devrez le trouver et lui donner une leçon d'honnêteté afin de gagner la confiance des mineurs et de tirer profit de leur travail.
+Les mineurs sont convaincus que Tharud représente toujours une menace pour leur tranquillité d'esprit ; une fois de plus, ils ont vu ses hommes de main fouiner près de la grotte. Vous feriez mieux de trouver rapidement ce scélérat.
+Après avoir appris que Tharud ne détournera plus les valeurs obtenues grâce à leur travail acharné et dangereux, les mineurs acceptent de partager une partie des cristaux avec vous en signe de gratitude.		Souhaitez-vous vous rendre à la grotte ?
+
+(68, 8, 0) ***Quest Guard***
+Message:
+Un avant-poste se dresse sur la route, gardé par des minotaures à l'allure résolument brutale. Leur chef n'est pas opposé à discuter ; son accent trahit le fait qu'il n'est pas d'ici, mais probablement originaire de Nighon ! « Nous sommes ici sur ordre de notre maîtresse Sephinroth, la première et la plus puissante Démoniste de Nighon. Elle nous a envoyés pour trouver et punir une vile imposteur qui a usurpé son identité et terni sa réputation auprès des seigneurs Donjons. Nous savons que la scélérate Skrell s'est enfuie vers ces terres lointaines ; d'ici peu, nous la trouverons et lui ferons payer son audace sans précédent. Nous savons de source sûre qu'elle a récemment été aperçue sur cette route, et elle reviendra probablement tôt ou tard. Elle a contracté d'importantes dettes à Nighon et semble avoir utilisé cet argent pour s'acheter une mine ou quelque chose du genre, mais c'est désormais à notre maîtresse de rembourser ces dettes ! Nous ne partirons pas tant que Skrell n'aura pas reçu une leçon. »
+« Nous n'avons pas encore vu Skrell ici, mais il y a quelque temps, un petit bonhomme louche est passé en courant devant nous avec un sac de pierres précieuses. Apparemment, il les a rapportées à leur propriétaire, ce qui signifie que cette vermine sournoise continue de mener ses petites affaires. Nous resterons ici jusqu'à ce qu'elle se montre, ou quelqu'un d'autre avec sa peau répugnante. »
+« Vous dites avoir trouvé Skrell et lui avoir fait subir le traitement complet ? Pourquoi ne nous avez-vous pas rapporté sa tête, alors ? Elle s'est échappée ? Oh, malheur... Maintenant, elle va se faire discrète, peut-être même changer d'identité, et nous devrons supplier les esprits de la terre de la localiser à nouveau. Devons-nous maintenant traverser la moitié du monde jusqu'à Nighon, puis revenir ici ?... Quel pays maudit ! Pas un seul tunnel décent pour nous ramener chez nous ! »        Les Minotaures, découragés, commencent à emballer leurs affaires.		Voulez-vous passer ?
+
+(66, 69, 0) ***Quest Guard***
+Message:
+Le vieil Alchimiste, propriétaire du laboratoire, souffre d'une maladie rare, la batrachophobie. D'une voix tremblante, il crie derrière la clôture qu'il a vu le plus gros et le plus répugnant crapaud du monde. Il refuse de mettre un pied hors de chez lui tant que la créature qui l'a tant effrayé n'aura pas disparu. Bien sûr, il ne laissera personne entrer non plus. Alors que l'homme se réfugie dans la maison, son serviteur Lutin, en riant, offre une explication : ce que son maître a vu n'était pas un crapaud, mais plutôt un Troglodyte, le Démoniste Theard. Vous devrez probablement rechercher ce personnage et le persuader de laisser le vieil homme tranquille si vous voulez vous servir du mercure que l'alchimiste produit ici.
+La porte de la haute clôture est fermée à double tour, et une pancarte au-dessus proclame en lettres grasses : « Interdit aux crapauds et autres amphibiens ! » De toute évidence, le vieil Alchimiste se méfie toujours des visites inopinées de Theard.
+Le vieil Alchimiste passe prudemment la tête par le guichet. Avec des détails exagérés et poignants, vous lui racontez comment vous avez traité Theard, ce qui le met de bonne humeur. Il déverrouille la porte et vous invite à entrer dans son laboratoire.		Voulez-vous passer ?
+
+(33, 36, 0) ***Pandora's Box***
+Message:
+
+
+(32, 37, 0) ***Pandora's Box***
+Message:
+
+
+(35, 36, 0) ***Pandora's Box***
+Message:
+
+
+(36, 37, 0) ***Pandora's Box***
+Message:
+
+
+(32, 43, 1) ***Dungeon***
+Name:
+Lincoln
+
+Timed events:
+
+Name:
+221 - Tavern
+Message:
+
+
+(39, 64, 1) ***Overlord***
+Name:
+Thjard
+
+(33, 4, 1) ***Overlord***
+Name:
+Thorrd
+
+(9, 66, 1) ***Pandora's Box***
+Message:
+
+
+(9, 70, 1) ***Pandora's Box***
+Message:
+
+
+(5, 71, 1) ***Pandora's Box***
+Message:
+
+
+(1, 70, 1) ***Pandora's Box***
+Message:
+
+
+(1, 66, 1) ***Pandora's Box***
+Message:
+
+
+(4, 63, 1) ***Pandora's Box***
+Message:
+
+
+(6, 63, 1) ***Pandora's Box***
+Message:
+
+
+(51, 1, 1) ***Warlock***
+Name:
+Skrell
+
+(7, 41, 1) ***Overlord***
+Name:
+Thrond
+
+(54, 37, 1) ***Overlord***
+Name:
+Ysedore
+
+(54, 56, 1) ***Quest Guard***
+Message:
+La route est bloquée par un voile magique impénétrable. Il n'y a aucun signe d'un mécanisme de désactivation : il semble conçu pour persister pendant une durée prédéterminée avant de se dissiper. Cet enchantement complexe est l'œuvre de Canopus, un Magicien renommé connu pour être un reclus. Il ne fait confiance qu'à quelques rares personnes et n'a pas quitté son château de Bracada depuis des années. Qui aurait pu créer cette barrière ? Peut-être Canopus s'est-il trouvé un apprenti ou un parent qui a désormais surpassé son maître ?
+La route est bloquée par un voile magique impénétrable. Il n'y a aucun signe de mécanisme de désactivation : il semble conçu pour persister pendant un certain temps avant de se dissiper. Cet enchantement complexe est l'œuvre de Canopus, un Magicien renommé connu pour être un reclus. Il ne fait confiance qu'à quelques personnes et n'a pas quitté son château de Bracada depuis des années. Qui aurait pu créer cette barrière ? Peut-être Canopus s'est-il trouvé un apprenti ou un parent qui a désormais surpassé son maître ?
+Le voile de Canopus ondule et scintille. Il semble que son temps soit écoulé ; le sort qui le maintient est sur le point de se briser, et vous pourrez le dissiper d'un simple geste de la main.		Souhaitez-vous lever le voile et passer ?
+
+(55, 57, 1) ***Warlock***
+Name:
+Theard
+
+(48, 52, 1) ***Warlock***
+Name:
+Razargal
+
+(10, 56, 1) ***Quest Guard***
+Message:
+La route est bloquée par un voile magique impénétrable. Il n'y a aucun signe d'un mécanisme de désactivation : il semble conçu pour persister pendant une durée prédéterminée avant de se dissiper. Cet enchantement complexe est l'œuvre de Canopus, un Magicien renommé connu pour être un reclus. Il ne fait confiance qu'à quelques rares personnes et n'a pas quitté son château de Bracada depuis des années. Qui aurait pu créer cette barrière ? Peut-être Canopus s'est-il trouvé un apprenti ou un parent qui a désormais surpassé son maître ?
+La route est bloquée par un voile magique impénétrable. Il n'y a aucun signe de mécanisme de désactivation : il semble conçu pour persister pendant un certain temps avant de se dissiper. Cet enchantement complexe est l'œuvre de Canopus, un Magicien renommé connu pour être un reclus. Il ne fait confiance qu'à quelques personnes et n'a pas quitté son château de Bracada depuis des années. Qui aurait pu créer cette barrière ? Peut-être Canopus s'est-il trouvé un apprenti ou un parent qui a désormais surpassé son maître ?
+Le voile de Canopus ondule et scintille. Il semble que son temps soit écoulé ; le sort qui le maintient est sur le point de se briser, et vous pourrez le dissiper d'un simple geste de la main.		Souhaitez-vous lever le voile et passer ?
+
+(52, 2, 1) ***Quest Guard***
+Message:
+La route est bloquée par un voile magique impénétrable. Il n'y a aucun signe d'un mécanisme de désactivation : il semble conçu pour persister pendant une durée prédéterminée avant de se dissiper. Cet enchantement complexe est l'œuvre de Canopus, un Magicien renommé connu pour être un reclus. Il ne fait confiance qu'à quelques rares personnes et n'a pas quitté son château de Bracada depuis des années. Qui aurait pu créer cette barrière ? Peut-être Canopus s'est-il trouvé un apprenti ou un parent qui a désormais surpassé son maître ?
+La route est bloquée par un voile magique impénétrable. Il n'y a aucun signe de mécanisme de désactivation : il semble conçu pour persister pendant un certain temps avant de se dissiper. Cet enchantement complexe est l'œuvre de Canopus, un Magicien renommé connu pour être un reclus. Il ne fait confiance qu'à quelques personnes et n'a pas quitté son château de Bracada depuis des années. Qui aurait pu créer cette barrière ? Peut-être Canopus s'est-il trouvé un apprenti ou un parent qui a désormais surpassé son maître ?
+Le voile de Canopus ondule et scintille. Il semble que son temps soit écoulé ; le sort qui le maintient est sur le point de se briser, et vous pourrez le dissiper d'un simple geste de la main.		Souhaitez-vous lever le voile et passer ?
+
+(21, 3, 1) ***Quest Guard***
+Message:
+La route est bloquée par un voile magique impénétrable. Il n'y a aucun signe d'un mécanisme de désactivation : il semble conçu pour persister pendant une durée prédéterminée avant de se dissiper. Cet enchantement complexe est l'œuvre de Canopus, un Magicien renommé connu pour être un reclus. Il ne fait confiance qu'à quelques rares personnes et n'a pas quitté son château de Bracada depuis des années. Qui aurait pu créer cette barrière ? Peut-être Canopus s'est-il trouvé un apprenti ou un parent qui a désormais surpassé son maître ?
+La route est bloquée par un voile magique impénétrable. Il n'y a aucun signe de mécanisme de désactivation : il semble conçu pour persister pendant un certain temps avant de se dissiper. Cet enchantement complexe est l'œuvre de Canopus, un Magicien renommé connu pour être un reclus. Il ne fait confiance qu'à quelques personnes et n'a pas quitté son château de Bracada depuis des années. Qui aurait pu créer cette barrière ? Peut-être Canopus s'est-il trouvé un apprenti ou un parent qui a désormais surpassé son maître ?
+Le voile de Canopus ondule et scintille. Il semble que son temps soit écoulé ; le sort qui le maintient est sur le point de se briser, et vous pourrez le dissiper d'un simple geste de la main.		Souhaitez-vous lever le voile et passer ?
+
+(62, 4, 1) ***Warlock***
+Name:
+Reventyr
+
+(39, 22, 1) ***Necromancer***
+Name:
+Nahia
+
+(24, 44, 1) ***Quest Guard***
+Message:
+Dans une petite grotte, vous tombez sur un personnage suspect, qui cache quelque chose parmi les rochers. « Hé, ne me touchez pas ! Je ne fais rien de mal. Et si vous me tuez, vous ne connaîtrez jamais le secret. »	« Quel secret ? »	« Le secret de Sir Mullich ! Si vous voulez, je vous dirai où je l'ai caché, mais vous devrez me payer ! »
+Le coquin sursaute à votre vue, mais reste inflexible : il exige toujours une somme importante pour le secret de Sir Mullich.
+« Vous l'avez apporté ? Donnez-moi ce dont nous avons convenu, et je vous montrerai où chercher ! »	Donnez-vous à ce personnage louche la somme demandée pour qu'il vous montre où se trouve le secret ?
+
+(32, 46, 1) ***Quest Gate***
+Message:
+Un garde sinistre à la porte marmonne d'une voix sans vie depuis l'intérieur de son casque en forme de bouilloire : « Un mot de passe est nécessaire pour entrer dans le château de Lincoln. » Vous n'avez aucune idée du mot de passe requis ici, et le nom du château ne vous donne aucune indication. Il semble impossible de passer par ici.
+Un garde sinistre à la porte marmonne d'une voix sans vie depuis l'intérieur de son casque en forme de bouilloire : « Un mot de passe est nécessaire pour entrer dans le château de Lincoln. » Vous n'avez aucune idée du mot de passe requis ici, et le nom du château ne vous donne aucune indication. Il semble impossible de passer par ici.
+
+(22, 2, 1) ***Warlock***
+Name:
+Tharud
+
+(14, 4, 1) ***Warlock***
+Name:
+Rumeon
+
+(18, 58, 1) ***Warlock***
+Name:
+Pyragast
+
+(2, 24, 1) ***Pandora's Box***
+Message:
+
+
+(10, 13, 1) ***Quest Guard***
+Message:
+Vous rencontrez une équipe de hobbits équipés de machines minières, qui se grattent la tête. Le contremaître, vêtu d'une combinaison imprégnée d'huile, vous fait signe :		« Salut, mon pote ! On nous a envoyés ici pour dégager un obstacle dans le tunnel, mais on est à court de carburant. On ne peut pas faire fonctionner notre machine à vapeur pour pousser ce rocher hors de la route, mais on doit quand même finir le travail. En attendant qu'on nous livre un ou deux barils de pétrole, on aurait bien besoin d'un coup de main. On nous a dit qu'il y avait dans le coin des costauds capables de soulever des rochers comme personne. Pourquoi ne nous amèneriez-vous pas un gars comme ça pour nous aider ? Fais une bonne action, et vous pourrez passer aussi. »
+Les hobbits s'affairent et font grincer leurs outils quelque part dans les entrailles de leur machine à vapeur défectueuse. Inutile de les distraire tant que vous ne leur avez pas trouvé un assistant.
+Le contremaître des tunneliers transporte une paire de gants de travail destinés au nouvel employé ; on dirait qu'il pourrait facilement les utiliser comme imperméable.		Voulez-vous donner le Cyclope aux hobbits et passer ?
+
+(2, 16, 1) ***Pandora's Box***
+Message:
+
+
+(67, 71, 1) ***Pandora's Box***
+Message:
+
+
+(53, 36, 1) ***Quest Guard***
+Message:
+La route est bloquée par un voile magique impénétrable. Il n'y a aucun signe d'un mécanisme de désactivation : il semble conçu pour persister pendant une durée prédéterminée avant de se dissiper. Cet enchantement complexe est l'œuvre de Canopus, un Magicien renommé connu pour être un reclus. Il ne fait confiance qu'à quelques rares personnes et n'a pas quitté son château de Bracada depuis des années. Qui aurait pu créer cette barrière ? Peut-être Canopus s'est-il trouvé un apprenti ou un parent qui a désormais surpassé son maître ?
+La route est bloquée par un voile magique impénétrable. Il n'y a aucun signe de mécanisme de désactivation : il semble conçu pour persister pendant un certain temps avant de se dissiper. Cet enchantement complexe est l'œuvre de Canopus, un Magicien renommé connu pour être un reclus. Il ne fait confiance qu'à quelques personnes et n'a pas quitté son château de Bracada depuis des années. Qui aurait pu créer cette barrière ? Peut-être Canopus s'est-il trouvé un apprenti ou un parent qui a désormais surpassé son maître ?
+Le voile de Canopus ondule et scintille. Il semble que son temps soit écoulé ; le sort qui le maintient est sur le point de se briser, et vous pourrez le dissiper d'un simple geste de la main.		Souhaitez-vous lever le voile et passer ?
+
+
+(33, 28, 1) ***Quest Guard***
+Message:
+Un commandant à la retraite réside ici. Autrefois très réputé, il a rédigé de nombreux traités influents sur la formation des nouvelles recrues. Récemment, trois de ses ordonnances de confiance ont succombé à la vieillesse l'un après l'autre, le laissant désemparé. Le commandant est toutefois encore assez alerte et cherche de nouveaux hommes pour remplir leurs fonctions. Préférant les silhouettes robustes et imposantes, il les imagine comme de redoutables hommes de droite. Si vous lui présentez des candidats appropriés, il sera disposé à former vos troupes, moyennant une rémunération équitable, bien sûr.
+Le vieux général ronfle bruyamment dans un fauteuil sur le porche de sa maison, aboyant parfois des ordres dans son sommeil. Vous hésitez à le déranger tant que vous n'avez rien à lui offrir qui puisse lui faire plaisir.
+« Des soldats borgnes, hein ? Eh bien, ce n'est pas grave, j'ai déjà appris à des hommes unijambistes à marcher au pas de l'oie. Mais ils sont bien bâtis, n'est-ce pas ? Allez, les gars, en avant, marche ! » s'exclame le vieil homme d'un air satisfait en vous faisant signe de vous approcher.		Souhaitez-vous continuer et entraîner vos troupes ?
+
+(1, 13, 1) ***Quest Guard***
+Message:
+Sur la route se dresse une Tour de Guet à la forme étrange, faite d'un matériau inconnu. Tout à coup, des mots résonnent dans votre tête :		« Vous qui voulez passer, ouvrez votre esprit. Vous qui désirez les biens matériels, renoncez à la protection que vous accorde l'image du Dormeur. Vous qui souhaitez triompher, sachez que tout a un prix. »		Au pied de la tour, un réceptacle ressemblant à la gueule d'un monstre semble s'être ouvert, encadré par des tentacules pétrifiés. Il semble que vous deviez y déposer un objet.
+Le trou dans la partie inférieure de la tour reste béant ; vous croyez entendre une sorte d'appel, mais vous ne savez absolument pas d'où il provient. Pour l'instant, vous êtes certain de ne pas avoir ce qu'il faut pour partir d'ici.
+Vous apportez le Veilleur de Consciences jusqu'à la tour, et les tentacules de pierre commencent à bouger. Il s'avère que toute la tour est tissée à partir d'eux ! Vous réalisez soudainement : dès que vous placerez la figurine dans l'ouverture, les tentacules se rétracteront instantanément dans le sol et disparaîtront à jamais.		Voulez-vous laisser le Veilleur de Consciences ici et passer ?
+
+(58, 34, 1) ***Event***
+Message:
+Slow pink AI
+
+(58, 39, 1) ***Event***
+Message:
+Slow pink AI
+
+(33, 9, 1) ***Event***
+Message:
+Slow pink AI
+
+(38, 12, 1) ***Event***
+Message:
+Slow pink AI
+
+(30, 13, 1) ***Event***
+Message:
+Slow pink AI
+
+(9, 40, 1) ***Event***
+Message:
+Slow pink AI
+
+(56, 36, 1) ***Event***
+Message:
+Slow pink AI
+
+(38, 60, 1) ***Event***
+Message:
+Slow pink AI
+
+(34, 63, 1) ***Event***
+Message:
+Slow pink AI
+
+(25, 62, 1) ***Event***
+Message:
+Slow pink AI
+
+(23, 69, 1) ***Event***
+Message:
+Slow pink AI
+
+(25, 14, 1) ***Event***
+Message:
+Slow pink AI
+
+(16, 15, 1) ***Event***
+Message:
+Slow pink AI
+
+(24, 22, 1) ***Event***
+Message:
+Slow pink AI
+
+(59, 28, 1) ***Event***
+Message:
+Slow pink AI
+
+(55, 26, 1) ***Event***
+Message:
+Slow pink AI
+
+(62, 21, 1) ***Event***
+Message:
+Slow pink AI
+
+(37, 54, 1) ***Event***
+Message:
+Slow pink AI
+
+(12, 44, 1) ***Event***
+Message:
+Slow pink AI
+
+(13, 38, 1) ***Event***
+Message:
+Slow pink AI
+
+(43, 18, 1) ***Event***
+Message:
+Slow pink AI
+
+(47, 8, 1) ***Event***
+Message:
+Slow pink AI
+
+(62, 46, 1) ***Event***
+Message:
+Slow pink AI
+
+(45, 43, 1) ***Event***
+Message:
+Slow pink AI
+
+(22, 10, 1) ***Event***
+Message:
+Slow pink AI
+
+(23, 58, 1) ***Event***
+Message:
+Slow pink AI
+
+(9, 48, 1) ***Event***
+Message:
+Slow pink AI
+
+(16, 46, 1) ***Event***
+Message:
+Slow pink AI
+
+(15, 32, 1) ***Event***
+Message:
+Slow pink AI
+
+(26, 40, 1) ***Event***
+Message:
+Slow pink AI
+
+(43, 60, 1) ***Event***
+Message:
+Slow pink AI
+
+(43, 26, 1) ***Event***
+Message:
+Slow pink AI
+
+(50, 63, 1) ***Event***
+Message:
+Slow pink AI
+
+(9, 57, 1) ***Warlock***
+Name:
+Endrello
+
+(13, 4, 1) ***Quest Guard***
+Message:
+La route est bloquée par un voile magique impénétrable. Il n'y a aucun signe d'un mécanisme de désactivation : il semble conçu pour persister pendant une durée prédéterminée avant de se dissiper. Cet enchantement complexe est l'œuvre de Canopus, un Magicien renommé connu pour être un reclus. Il ne fait confiance qu'à quelques rares personnes et n'a pas quitté son château de Bracada depuis des années. Qui aurait pu créer cette barrière ? Peut-être Canopus s'est-il trouvé un apprenti ou un parent qui a désormais surpassé son maître ?
+La route est bloquée par un voile magique impénétrable. Il n'y a aucun signe de mécanisme de désactivation : il semble conçu pour persister pendant un certain temps avant de se dissiper. Cet enchantement complexe est l'œuvre de Canopus, un Magicien renommé connu pour être un reclus. Il ne fait confiance qu'à quelques personnes et n'a pas quitté son château de Bracada depuis des années. Qui aurait pu créer cette barrière ? Peut-être Canopus s'est-il trouvé un apprenti ou un parent qui a désormais surpassé son maître ?
+Le voile de Canopus ondule et scintille. Il semble que son temps soit écoulé ; le sort qui le maintient est sur le point de se briser, et vous pourrez le dissiper d'un simple geste de la main.		Souhaitez-vous lever le voile et passer ?
+
+===== End of file =====

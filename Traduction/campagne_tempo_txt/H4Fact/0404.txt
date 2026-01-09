@@ -1,0 +1,1385 @@
+===== Map name =====
+Pilleurs de tombes
+
+===== Map description =====
+Frederick doit sauver Henrietta, perdue dans les tunnels souterrains alors qu'elle recherchait le Démoniste Agar. Son dernier message faisait état de la découverte d'une tombe perdue, vers laquelle son expédition s'était alors dirigée. Le niveau des héros est illimité. La difficulté que vous choisissez déterminera vos possibilités sur la carte globale.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Henrietta's Expedition
+Message:
+Quatre ans se sont écoulés depuis que nous avons vaincu les pirates de Dargem. Beaucoup de choses ont changé à Burton, avec toutes ces nouvelles inventions, ces nouveaux alliés... et ces nouveaux visages jusqu'alors inconnus. 		Les sorciers qui étaient autrefois au service d'Archibald Ironfist ont commencé à apparaître de plus en plus souvent dans les villes des Terres Désolées, désormais refuge des parias de ce monde. Je me souviens avoir rencontré Wrathmont pendant les combats contre les pirates, mais son arrivée n'a pas été la dernière. 		Il n'y a pas longtemps, des rumeurs ont couru selon lesquelles le tristement célèbre Démoniste Agar lui-même serait venu dans les Terres Désolées, où il se serait installé dans les montagnes occidentales et aurait y aurait établi un laboratoire. Pour ma part, j'étais persuadé qu'Agar était devenu une Liche avant de périr. Peu importait. Une toute autre affaire revêtait désormais une importance capitale...		Peu après qu'Agar se soit prétendument installé à l'ouest, des rapports inquiétants ont commencé à arriver à Burton. Au début, il s'agissait de nouvelles concernant des chutes de pierres et des glissements de terrain dans les montagnes, mais nous n'y avons pas prêté beaucoup d'attention. Les glissements de terrain ne sont pas rares dans un paysage géologique aussi hétérogène. Plus tard, cependant, nous avons découvert que des Vers des Sables pouvaient être impliqués. Ces créatures existaient depuis longtemps, dérangeant parfois les agriculteurs, mais elles étaient rarement aperçues. La plupart des témoins ont parlé soit de larges sillons dans le sol qui semblaient avoir été creusés par le dessous, soit de trous mystérieux qui faisaient tomber les poteaux et les clôtures, mais il n'y a pas eu d'affrontements directs. Cependant, les créatures dont parlaient les rumeurs récentes étaient différentes : non seulement plus grandes, mais aussi beaucoup plus agressives, elles attaquaient les camps miniers, dévoraient les troupeaux et s'en prenaient aux caravanes commerciales et aux voyageurs solitaires. 		Tout indiquait qu'il ne s'agissait pas de vers ordinaires. Ces créatures n'étaient pas de simples animaux, non, elles semblaient être le produit de l'esprit brillant de quelqu'un. 		Le conseil municipal de Burton s'est donné pour mission de retrouver Agar à tout prix et de découvrir s'il avait quelque chose à voir avec ces étranges attaques de vers. Henrietta s'est immédiatement portée volontaire pour participer à l'expédition. Sans perdre de temps à faire ses bagages, son groupe de reconnaissance a quitté Burton. Les jours, puis les semaines ont passé, et il est finalement devenu évident que quelque chose était arrivé à son équipe. Toutes les tentatives pour suivre sa trace étaient vaines : les éboulements et les tremblements de terre à répétition faisaient que les chemins à travers les montagnes occidentales ne cessaient de changer, comme un labyrinthe enchanté. C'est alors que j'ai compris ce dont nous avions besoin. Des dirigeables, qui ne rencontraient aucun obstacle, voilà la solution ! Je m'étais occupé d'autres choses, certes très importantes, pendant trop longtemps ; cela me faisait mal de voir mon projet préféré au point mort, sans aucun développement.
+
+Name:
+Frederick rencontre Kastore
+Message:
+Je me rendais à Volta, une ville libre située à l'est de Burton. Le récent tremblement de terre avait détruit les usines qui s'y trouvaient, mais j'espérais trouver des compagnons parmi ceux qui s'étaient retrouvés involontairement sans emploi. Cette ville était le dernier endroit où Henrietta et son groupe avaient été vus. Cet après-midi-là, j'ai embarqué sur un navire au port d'Orca's Maw : j'avais l'intention de contourner la chaîne de montagnes voisine par la mer et d'atteindre Volta, d'où partirait mon expédition aérienne.		Imaginez ma surprise lorsque, juste avant de lever l'ancre, un messager m'a rattrapé et m'a annoncé : « Kastore, le roi de Deyja, a l'intention de se rendre à Burton afin d'établir et de renforcer les liens économiques et souhaite rencontrer Frederick. »		Le roi de Deyja ? Ici ? Bien sûr, j'avais entendu parler de l'arrivée au pouvoir d'un certain Kastore l'année dernière dans ce pays de nécromanciens et de sorciers noirs, mais je ne m'étais jamais intéressé à ces querelles. Les coups d'État sont monnaie courante à Deyja. Mais que pouvait-il bien vouloir ici, et quels liens économiques pouvait-il y avoir alors qu'il n'y avait pas un seul port à Deyja ? Et comment connaissait-il mon nom ? D'un autre côté, le monde de la magie est petit, et celui des artisans encore plus. J'ai ordonné à un brick rapide de partir et de proposer au capitaine du navire de Kastore de faire escale à Volta plutôt qu'à La Gueule de l'Orque. Je manquais de temps, mais les préparatifs de l'expédition devaient encore durer quelques jours, et j'espérais que la rencontre avec cet invité inattendu ne prendrait pas trop de temps. Je ne voulais pas ignorer la visite du souverain de Deyja et me faire un nouvel ennemi — trop de sorciers puissants figuraient déjà sur la liste... et qui sait, peut-être que ce Kastore se révélerait être un interlocuteur intéressant ?		J'ai été frappé par la vue qui s'offrait à nous alors que nous approchions du port de Volta. De loin, j'ai aperçu un grand navire aux voiles grises, capable de transporter facilement toute une armée. Quelle chance que nous ayons dragué le port l'année précédente afin que d'énormes cargos à fort tirant d'eau puissent y décharger leur cargaison. C'est alors que j'ai vu Kastore pour la première fois. Un elfe en armure brillante se tenait debout près de la passerelle du navire géant, les mains derrière le dos. De chaque côté de lui, des femmes serpents à plusieurs bras se tenaient immobiles comme des statues, armées jusqu'aux dents. Les nagas sont courants à Bracada, où ils sont au service de nombreux mages fortunés, mais je savais que tout sorcier habile pouvait invoquer ces créatures redoutables. Il était cependant plus difficile de leur faire obéir aux ordres, ce que seuls les sorciers les plus puissants pouvaient faire.		Mon arrivée ne sembla pas impressionner outre mesure le seigneur de Deyja. Sans même tourner la tête, il dit d'un ton sec :			« Je m'attendais à vous voir, mais vous m'avez fait attendre... Frederick, c'est bien ça ? »		« C'est exact, répondis-je. Que puis-je faire pour vous ? »		Kastore me fit face tranquillement.		« La nouvelle de vos inventions se répand dans tous les coins d'Enroth, et les plus sages y prêtent attention. Deyja ne fait bien sûr pas exception. Vous ne me connaissez que comme le souverain d'un pays lointain, mais j'aimerais que vous me considériez comme un collègue, Frederick. Je suis moi-même une sorte d'inventeur. »
+
+Name:
+Conversation avec Kastore
+Message:
+Kastore m'a surpris. Je m'attendais peut-être à une procession somptueuse accompagnant le souverain du port à la ville... ou à des esprits maléfiques planant autour du roi du pays des Nécromanciens. Mais Kastore était monté sur un cheval tout à fait ordinaire, chevauchant avec une habileté enviable à côté de ma monture, tout seul. Les Nagas avaient disparu, mais je ne doutais pas que, si le roi venait à être en danger, ils réapparaîtraient immédiatement comme par enchantement. Tout dans la façon dont Kastore bougeait son corps, dans sa posture à cheval et dans son habileté à remarquer les moindres détails autour de lui, me disait qu'il était un voyageur expérimenté qui avait vécu de nombreuses aventures. C'est moi qui ai le plus parlé, Kastore ne demandant que rarement plus de détails sur tel ou tel aspect de notre vie dans les Terres Désolées, et s'intéressant particulièrement à la façon dont nous étions arrivés ici. Je pris soin de garder certains détails pour moi. Il ne semblait pas du tout intrigué par mes récits de démons tombant du ciel avec les étoiles, mais ma théorie sur la lune, où je supposais que ces démons avaient vécu auparavant, semblait l'amuser. Quand il fut question de notre voyage en dirigeable, Kastore haussa un sourcil, me regarda dans les yeux et demanda :		« Puis-je espérer voir vos merveilleuses machines aéronautiques ? Si elles sont ne serait-ce qu'à moitié aussi performantes que vous les décrivez, même le chevalier le plus modeste pourra bientôt voyager en toute sécurité partout dans Antagarich, et un marchand riche et moderne pourra étendre son réseau de clients à l'ensemble du monde ! »		Je n'en croyais pas mes oreilles, mais Kastore... c'était comme s'il avait lu dans mes pensées et vu mes rêves dans la paume de sa main. C'était une décision risquée, mais la perspective de m'assurer un allié puissant qui pourrait faire connaître la gloire de mes inventions au monde entier était trop tentante. J'ai accepté.		« Bien sûr. Excusez-moi, mais dans quelques jours, je devrai vous dire au revoir ; mon assistante et apprentie Henrietta, que vous connaissez déjà grâce à mon histoire, est en danger, et je prévois de quitter Volta pour partir à sa recherche, précisément en dirigeable. Cependant, j'ai quelques vols d'essai à effectuer avec le nouveau modèle avant cela, alors je vous invite à vous joindre à moi pour le voir de vos propres yeux. »
+
+===== Heroes =====
+
+===== Objects =====
+
+(16, 172, 0) ***Seer's Hut***
+Message:
+Il y a environ un siècle, la Guilde des Nécromanciens a créé des amulettes pour amplifier les pouvoirs de ses membres, mais celles-ci ont depuis été perdues. Certaines seraient tombées entre les mains des chefs ogres et gobelins locaux. Les barbares n'avaient probablement aucune idée de ce qu'elles étaient, mais ils ont certainement ressenti la puissance pure des amulettes. Ces artefacts sont susceptibles d'être trouvés dans d'anciens cimetières. M'aideriez-vous à les trouver ? Je peux vous apprendre beaucoup de choses ; autrefois, j'étais aussi doué à l'épée qu'en magie. 
+Vous ne les avez toujours pas trouvées ? Je suis sûr qu'il y a quelque chose à découvrir dans les anciennes tombes.
+Excellent, tout simplement excellent ! Voulez-vous commencer vos études maintenant ?
+Il y a environ un siècle, la Guilde des Nécromanciens a créé des amulettes pour amplifier les pouvoirs de ses membres, mais celles-ci ont depuis été perdues. Certaines seraient tombées entre les mains des chefs ogres et gobelins locaux. Les barbares n'avaient probablement aucune idée de ce qu'elles étaient, mais ils ont certainement ressenti la puissance pure des amulettes. Ces artefacts sont susceptibles d'être trouvés dans d'anciens cimetières. M'aideriez-vous à les trouver ? Je peux vous apprendre beaucoup de choses ; autrefois, j'étais aussi doué à l'épée qu'en magie. 
+Vous ne les avez toujours pas trouvées ? Je suis sûr qu'il y a quelque chose à découvrir dans les anciennes tombes.
+Excellent, tout simplement excellent ! Voulez-vous commencer vos études maintenant ?
+Il y a environ un siècle, la Guilde des Nécromanciens a créé des amulettes pour amplifier les pouvoirs de ses membres, mais celles-ci ont depuis été perdues. Certaines seraient tombées entre les mains des chefs ogres et gobelins locaux. Les barbares n'avaient probablement aucune idée de ce qu'elles étaient, mais ils ont certainement ressenti la puissance pure des amulettes. Ces artefacts sont susceptibles d'être trouvés dans d'anciens cimetières. M'aideriez-vous à les trouver ? Je peux vous apprendre beaucoup de choses ; autrefois, j'étais aussi doué à l'épée qu'en magie. 
+Vous ne les avez toujours pas trouvées ? Je suis sûr qu'il y a quelque chose à découvrir dans les anciennes tombes.
+Excellent, tout simplement excellent ! Voulez-vous commencer vos études maintenant ?
+Il y a environ un siècle, la Guilde des Nécromanciens a créé des amulettes pour amplifier les pouvoirs de ses membres, mais celles-ci ont depuis été perdues. Certaines seraient tombées entre les mains des chefs ogres et gobelins locaux. Les barbares n'avaient probablement aucune idée de ce qu'elles étaient, mais ils ont certainement ressenti la puissance pure des amulettes. Ces artefacts sont susceptibles d'être trouvés dans d'anciens cimetières. M'aideriez-vous à les trouver ? Je peux vous apprendre beaucoup de choses ; autrefois, j'étais aussi doué à l'épée qu'en magie. 
+Tu ne les as toujours pas trouvées ? Je suis sûr qu'il y a quelque chose à découvrir dans les anciennes tombes.
+Excellent, tout simplement excellent ! Voulez-vous commencer vos études maintenant ?
+
+(34, 84, 0) ***Stronghold***
+
+Visiting Barbarian:
+Name:
+Gorghe
+
+(141, 96, 0) ***Stronghold***
+
+Visiting Barbarian:
+Name:
+Semachus
+
+(11, 99, 0) ***Seer's Hut***
+Message:
+Vous entendez des hommes crier. En vous précipitant vers le bruit, vous trouvez un groupe de pistoleros encerclés par des morts-vivants. Vous voulez les aider, mais vous êtes arrêté par un nécromancien qui dirige la charge des soldats morts-vivants. Il dit : « Nous pouvons conclure un marché ! Apportez-moi au moins 200 squelettes et 1 Dragon Squelette, et je laisserai ces gens partir. »	 Vous hésitez à faire confiance à un nécromancien, mais le combattre mettrait votre armée en danger.
+Le nécromancien n'attendra pas éternellement. Apportez-lui 200 squelettes et 1 Dragon Squelette afin qu'il libère les hommes qu'il a capturés.
+Le nécromancien est satisfait des renforts que vous lui avez apportés et est prêt à tenir sa parole. Voulez-vous échanger les squelettes contre les pistoleros capturés ?
+
+(42, 113, 0) ***Seer's Hut***
+Message:
+Lorsque vous entrez dans la cabane dans les arbres, vous trouvez un troll. Sa lourde massue est posée sur le sol, et il ne semble pas vous remarquer au début. Finalement, il se tourne vers vous. « Laissez-moi tranquille ! Je suis déshonoré. J'étais connu comme le guerrier le plus fort de ma tribu, mais il y a quelque temps, en revenant d'une chasse, j'ai trouvé mon village en flammes. J'ai suivi les traces et j'ai trouvé une armée de morts-vivants commandée par un Chevalier de la mort. Ils sont bien trop forts pour moi, je ne peux donc pas venger les membres de ma tribu... Ou peut-être pourriez-vous m'aider ? Notre tribu n'a jamais été très riche, mais j'ai peut-être quelque chose à vous offrir en guise de remerciement. »
+Je sais que Thammus le Chevalier de la mort erre toujours. Lorsque la montagne s'est effondrée, son armée a également été piégée. Ils n'ont pas pu aller loin !
+J'ai observé la bataille depuis la colline et j'ai vu votre victoire. Vous, les humains, accordez plus d'importance à l'or qu'à toute autre chose, mais je ne peux pas vous payer. Vous pourriez peut-être vous contenter de ce troupeau de glyptodons ?        Acceptez-vous la récompense ? 
+
+(43, 103, 0) ***Death Knight***
+Name:
+Thammus
+
+(107, 165, 0) ***Sign***
+Message:
+Volta Mines
+
+(121, 20, 0) ***Stronghold***
+
+Visiting Barbarian:
+Name:
+Akratos
+
+(154, 7, 0) ***Seer's Hut***
+Message:
+Un elfe nous accueillit à l'entrée de la cabane : sans aucun doute l'un des elfes noirs de Jadame, la communauté qui dirigeait la guilde marchande d'Alvar. Leurs émissaires venaient souvent à Burton pour faire du commerce, mais j'étais généralement trop absorbé par mes expériences pour aller à leur rencontre.        « Enchanté de faire votre connaissance », me dit-il. « Je dirige un comptoir commercial non loin d'ici. Il y a quelque temps, nous avons envoyé une grande caravane à Alvar, mais elle n'est jamais arrivée à destination. Il s'avère qu'elle a été attaquée par une meute de dragons. En général, les dragons jadaméens sont plutôt calmes et s'en prennent rarement à quelqu'un sans raison valable, mais ces créatures... nous ne les avons jamais vues auparavant. Leurs écailles sont d'une teinte orange sale, presque rouille, et leur souffle est sulfureux... Selon l'un de nos guides, ils viennent des îles du sud. Nous ne pouvons pas envoyer de nouvelles caravanes tant que ces dragons sont dans les parages. Aidez-nous à résoudre ce problème et vous serez récompensé. 
+Vous n'avez pas trouvé les dragons ? J'ai entendu dire qu'ils avaient été aperçus pour la dernière fois au sud-est d'ici.
+Bravo ! Souhaitez-vous recevoir votre récompense maintenant ?
+
+(32, 66, 0) ***Seer's Hut***
+Message:
+Un vieil ogre édenté vous accueille dans une hutte délabrée.        « Oh, mes jours de gloire sont loin derrière moi... J'aurais dû le voir venir ; qui voudrait d'un chef incapable ? Ça fait encore mal. Il y avait un guerrier puissant dans ma tribu, Akratos, et j'ai négligé les signes qui indiquaient qu'il complotait pour prendre ma place. Ce serpent ! Il n'a même pas eu la décence de me défier en duel ; non, il a triché. Quand je suis allé chasser dans les montagnes, ses acolytes m'ont tendu une embuscade. Vous voyez, mon bras armé est encore très fort, et j'ai même battu Krellion de Krewlod lui-même dans un combat à mains nues, remarquez... J'ai donné une bonne raclée à ces canailles, mais ils m'ont aussi bien tabassé, et pendant que je me remettais, Akratos a emménagé dans ma maison et a persuadé tout le monde qu'il serait un meilleur chef pour eux que le vieux Deevaz... Maintenant, je ne suis plus le bienvenu dans la tribu. Si j'y vais seul, ils me jetteront une pierre du mur sur la tête, et ce sera fini.        Écoutez, humain ! J'ai entendu dire que vous aviez battu ce sorcier, Palaemon, donc vous n'êtes certainement pas une mauviette. Accepteriez-vous de chasser cet arriviste d'Akratos de mon village ? Ce vieux ogre n'a pas d'or pour te rembourser, mais j'ai quelque chose de mieux. Vous voulez bien m'aider ?
+J'ai entendu dire qu'Akratos dirigeait toujours mon village ! Vous feriez mieux de ne pas revenir vers moi avec de mauvaises nouvelles...
+Quelle nouvelle glorieuse ! Voici le trésor dont je vous ai parlé. Des rumeurs circulaient dans ma tribu selon lesquelles il aurait été possédé par un démon, mais je suppose que vous n'êtes pas du genre timide.
+
+(12, 50, 0) ***Seer's Hut***
+Message:
+Dans la cabane, je me suis retrouvé face à face avec une créature géante à la peau bleu-vert. Un troll, mais certainement pas du genre de ceux que j'avais rencontrés à Eraphia. Les trolls de Jadame n'étaient pas des sauvages sans cervelle comme ceux-là : ils vivaient en communauté, construisaient des maisons en pierre dans leurs villages et faisaient du commerce avec leurs voisins elfes noirs. À Burton et dans les Terres Désolées, cependant, les trolls étaient rares ; ils vivaient dans la nature sauvage, loin à l'est. Ce n'était qu'occasionnellement que les marchands elfes les engageaient pour garder leurs caravanes. Il était donc fort probable que le troll que j'avais rencontré ici était un voyageur.        Le troll était assis à une immense table dans un coin, plongé dans ses pensées.        « Un Artificier, hein ? » demanda le troll en haussant les sourcils. « Eh bien, entrez, Artificier. »        Je suis entré, faisant signe à mes hommes de rester dehors. « Je suis coincé ici depuis des jours ! Ces vers, ou je ne sais quoi, ont détruit la route vers le sud. Je ne sais pas qui a construit cette cabane, peut-être des ogres ou des gobelins. Mais ça me convient très bien, ça me protège du soleil brûlant. — Vous êtes assez loin du désert d'Ironsand, dis-je.        « Je n'aurais jamais quitté mon village et ma tribu, mais il y a quelques mois, mon frère a décidé de s'aventurer sur ces terres. C'était un garçon intelligent, qui avait beaucoup voyagé avec les caravanes elfiques, où il avait appris à lire et commencé à collectionner des histoires et des récits des temps anciens. Quelqu'un lui a raconté une légende au sujet d'une ancienne grotte dans l'ouest de Jadame, qui serait le lieu ancestral de notre peuple. Eh bien, je n'ai plus jamais eu de nouvelles de mon frère. Je suis parti à sa recherche et, en arrivant ici, j'ai rencontré un gobelin qui m'a dit avoir vu un troll mort sur la route, entouré d'une meute de Dragons Corrosifs. Les misérables ! Ils ont fait leur nid non loin d'ici, au sud-est. Je ne suis pas un lâche, mais seul, je ne suis qu'un simple casse-croûte pour ces bêtes. Aidez-moi à venger mon frère, et je vous récompenserai comme je le peux. 
+Je sais que les Dragons Corrosifs sont toujours là. Je ne peux pas retourner dans mon village couvert de honte tant que mon frère n'aura pas été vengé !
+Les Dragons Corrosifs sont morts ? Je n'ai jamais douté de vous. Tenez, prenez cette épée. Il y a plusieurs décennies, mon grand-père l'a déterrée au milieu du désert. Quand nous étions petits, il nous racontait des histoires effrayantes, à mon frère et moi, disant qu'elle était imprégnée de magie diabolique, mais je ne croyais pas à ces histoires à l'époque, et je n'y crois toujours pas aujourd'hui. Souhaitez-vous accepter l'épée flamboyante que vous tend le troll ?
+
+(109, 65, 0) ***Sign***
+Message:
+Comptoir Commercial de la guilde marchande d'Alvar
+
+(138, 85, 0) ***Sign***
+Message:
+Arène de la gloire
+
+(144, 83, 0) ***Seer's Hut***
+Message:
+Lorsque vous avez aperçu une vieille cabane creusée à l'intérieur d'un immense arbre mort, vous vous attendiez à rencontrer un troll ou peut-être un ogre, mais c'est un elfe qui vous a accueilli. Cela n'aurait pas été très surprenant s'il s'était agi d'un elfe des bois, mais c'était un elfe noir, qui semblait être un mage fortuné. Que faisait-il dans ce trou ?        « Je suis un sorcier de la Guilde élémentaire d'Alvar », s'est présenté l'elfe. « Nous nous intéressons à toutes sortes de créatures élémentaires. Si tout mage suffisamment puissant peut invoquer des élémentaires, les Génies et les Effritss sont une tout autre affaire, et nous les voulons pour nos recherches. J'ai entendu dire que les Génies sont faciles à trouver dans la lointaine Bracada, mais ils accepteraient difficilement de voyager jusqu'aux confins du monde à la demande d'un elfe inconnu. Récemment, cependant, nous avons entendu une rumeur selon laquelle on pouvait rencontrer des Génies et des Effritss dans une ancienne tombe non loin d'ici.        Je me suis rendu dans ces contrées pour étudier les wyvernes locales. J'ai un faible pour ces créatures, même si elles ne correspondent pas exactement à mon profil scientifique. Quoi qu'il en soit, j'étais déjà dans les environs, alors je suis venu ici. Malheureusement, la tombe s'est avérée être un endroit bien trop dangereux, même pour un mage expérimenté comme moi. Je vois cependant à votre apparence que vous avez l'intention de vous y rendre. Peut-être trouverez-vous des Génies et des Effritss prêts à m'accompagner à Alvar ? Ah, oui, et si vous trouvez de jeunes wyvernes venimeuses, amenez-les-moi. Je n'ai pas envie de m'aventurer moi-même dans leur nid, et je n'ai trouvé aucun trappeur ici disposé à me les vendre.
+L'elfe noir ne voit aucune créature intéressante dans votre suite et n'est pas d'humeur à vous parler.
+Bravo ! Je vois que vous avez également réussi à trouver les wyvernes ! Aimeriez-vous apprendre le sort de Téléportation ? Je suis sûr qu'il vous sera très utile pendant vos voyages.
+
+(121, 163, 0) ***Factory***
+Name:
+Volta
+
+(95, 176, 0) ***Quest Guard***
+Message:
+Une longue expédition nous attend, mais nous ne sommes pas encore tout à fait prêts. Le dirigeable est actuellement en excellent état, mais il pourrait connaître des dysfonctionnements en cours de route. Nous devons donc nous assurer d'avoir tout le nécessaire pour le réparer et fabriquer les dispositifs magiques requis. Selon mes estimations, 10 de mercure, 10 de soufre, 10 cristaux et 10 gemmes devraient suffire.
+Ces provisions ne suffiront pas. Il nous faudra au moins 10 de mercure, 10 de soufre, 10 cristaux et 10 gemmes.
+Enfin ! Nous pouvons maintenant partir en expédition. Selon l'un des ingénieurs, le chantier naval se trouve à l'ouest. La route qui longe la rive de Silver Creek nous mènera directement au mouillage. L'ingénieur m'a averti de la présence d'un grand repaire de Dragons Verts à proximité, mais a ajouté que ces bêtes n'ont pas tendance à attaquer sans raison.        Souhaitez-vous passer ?
+
+(3, 132, 0) ***Quest Guard***
+Message:
+Le laboratoire d'Agar se trouve quelque part au nord d'ici. Cependant, n'oublions pas que notre objectif principal est de retrouver l'expédition d'Henrietta.
+Notre tâche consiste désormais à explorer la tombe.
+Nos recherches dans la tombe ont été vaines jusqu'à présent, mais il reste encore beaucoup à explorer. Maintenant que les vers des sables ont détruit les passages menant aux profondeurs, il est impossible d'aller plus loin. La seule solution est de trouver Agar. Il pourra peut-être nous aider.        Nous avancions lentement le long d'une gorge qui se rétrécissait, dont les pentes étaient recouvertes d'arbustes et d'arbres. Il n'y avait personne en vue devant nous, mais quelque chose a alerté Kastore. Il s'est levé sur ses étriers et a mis son doigt sur ses lèvres. Nous avons mis pied à terre et je me suis approché prudemment d'un rocher qui s'était détaché de la paroi de la gorge. Quelqu'un parlait derrière.        J'ai jeté un coup d'œil derrière la pierre : deux guerriers en armure polie se tenaient là. Il n'y avait personne d'autre en vue, mais l'absence de chevaux à proximité suggérait que leur campement était tout proche et qu'ils étaient venus ici à pied pour monter la garde.        Je distinguais également les emblèmes sur les boucliers que portaient les épéistes... les armoiries de la couronne d'Enroth !        « ... Je pense que toute cette expédition est une idée stupide », dit l'un des soldats. « Des tombes, des pyramides, des cryptes... Comme si nous n'avions pas déjà toutes sortes de vieux trous poussiéreux à Enroth ! »        « Les ordres ne se discutent pas », rétorqua sèchement l'autre guerrier, visiblement son supérieur hiérarchique. « Tu te souviens de ce qui s'est passé quand la nouvelle de la découverte à Jadame a été annoncée : tous les sorciers et les érudits sont devenus fous à propos de cette tombe. Apparemment, elle ressemble beaucoup à celle de Dragonsand ! Sur ordre de Lord Halton, Sir Erybarus a reçu les meilleurs titans et golems d'acier du royaume pour mener à bien cette mission.        « Mais ce ne sont pas eux qui montent la garde, c'est nous. Apparemment, les meilleurs golems d'acier du royaume sont trop bons pour ça », grommela le premier soldat. « Hé, qui va là ? » Il se tourna dans notre direction.        Malgré toutes nos précautions, les soldats aguerris nous avaient repérés. Sans dire un mot, ils se précipitèrent dans la gorge.        « C'est mauvais », dis-je à Kastore, agacé. Une bataille contre les Enrothiens ne faisait pas partie de mes plans. « Ils nous ont pris pour leurs ennemis. Combattre les Titans est la dernière chose dont nous avons besoin en ce moment. »        « Ce n'est pas vraiment quelque chose dont il faut s'inquiéter », répondit Kastore d'un ton sec. « Quant aux Enrothiens... Je te conseille de les oublier, une fois que nous leur aurons coupé la tête, bien sûr. Tôt ou tard, ils auraient forcément croisé notre chemin, ici ou dans la tombe. Quoi que nous y trouvions, ni eux ni nous ne trouverons de solution pacifique pour partager le butin. » Veux-tu combattre Erybarus ?
+
+(55, 174, 0) ***Hobgoblin***
+Message:
+Une charrette apparut devant nous, ou plutôt ce qu'il en restait. Le châssis, les essieux fissurés et les roues arrachées, gisait sur le côté, et des gobelins s'étaient rassemblés autour, marmonnant quelque chose d'incompréhensible. Apparemment, leur caravane avait été prise dans un glissement de terrain, et leur route vers le continent était désormais coupée. Ayant appris l'existence de notre « navire volant », les gobelins se mirent à babiller et à nous supplier de les emmener. Eh bien... quelques paires de mains supplémentaires pourraient nous être utiles.
+
+(30, 160, 0) ***Quest Guard***
+Message:
+Vous rencontrez d'autres tueurs de dragons à l'arrière du campement. Ils semblent avoir capturé quatre des Chasseurs de Primes. L'un des chevaliers dit qu'il est prêt à libérer les prisonniers si vous fournissez à ses camarades des provisions pour le voyage de retour ; apparemment, le chariot contenant leurs propres provisions a été détruit lors d'un éboulement dans la montagne. Selon les chevaliers, 25 cristaux, 25 gemmes et 50 000 pièces d'or suffiront.
+Les chevaliers sont inflexibles. Ils veulent exactement 25 cristaux, 25 gemmes et 50 000 pièces d'or, pas une pièce de moins !
+Grommelant d'un air boudeur, l'un des chevaliers va libérer les prisonniers.        Voulez-vous donner 25 cristaux, 25 gemmes et 50 000 pièces d'or aux chevaliers ?
+
+(31, 159, 0) ***Bounty Hunter***
+Message:
+Parmi les prisonniers, vous reconnaissez un pistolero familier de Burton.        « Frederick ! » s'exclame-t-il. « Je ne pensais pas vous revoir un jour. Nous avons été piégés après l'éboulement, puis ces tueurs de Dragons sont apparus de nulle part et nous ont accusés d'avoir causé la catastrophe. D'après ce que m'ont dit les soldats, leur commandant, Volothomon, chassait des Dragons Noirs dans les montagnes au nord d'une certaine tombe, et il semble être tombé dans le même piège que notre groupe. »
+
+(110, 156, 0) ***Quest Guard***
+Message:
+À l'extérieur de la mine, vous rencontrez un homme qui travaille sur des pièces d'automates ; cependant, l'Artificier semble plutôt inexpérimenté, et l'assemblage de nouvelles machines prend du temps, ce que vous n'avez pas. L'Artificier vous dit que si vous lui apportez 25 mercure, 50 minerai et 25 soufre, il pourra construire des automates plus rapidement.
+Malheureusement, sans ressources, vous ne pouvez rien faire pour aider l'Artificier. La Fabrique de la ville est détruite et il n'y a aucun moyen d'assembler les automates plus rapidement.
+Avec votre aide, l'inventeur peut rapidement assembler 16 automates. Souhaitez-vous partager certaines de vos ressources avec lui ?
+
+(86, 89, 0) ***Knight***
+Name:
+Volothomon
+
+(11, 152, 0) ***Harpy Hag***
+Message:
+Lorsque le dernier Vampire s'est effondré, nous avons été surpris de trouver plusieurs dizaines de Harpies languissant dans des cages. Nous n'avons aucune idée de ce que les Vampires leur réservaient !
+
+(111, 123, 0) ***Seer's Hut***
+Message:
+Récemment, notre village situé au nord d'ici a été détruit par une éruption volcanique. Nous pensions qu'il s'agissait simplement d'une catastrophe naturelle de plus, car elles sont fréquentes dans cette région du monde. Cependant, le mage à qui j'ai parlé affirme que c'est l'œuvre du maléfique esprit de la terre, Ulkumi, qui habite quelque part dans ces montagnes. Je ne sais pas si c'est vrai ou non, mais si le mage ne mentait pas, l'esprit est toujours dans les parages. Qui sait quels malheurs il va nous causer ?        Je vous en prie, trouvez ce monstre et délivrez-nous de cette menace !
+Vous n'avez toujours pas trouvé l'esprit de la terre ? Peut-être qu'il n'existe pas...
+Vous dîtes qu'il y avait une horde d'élémentaires ? Je ne pensais pas qu'ils étaient si nombreux. Quoi qu'il en soit, Ulkumi est vaincu. Prends cet Anneau de Vie. Il n'a pas sauvé notre village, mais il pourra peut-être t'aider.
+
+(174, 17, 0) ***Seer's Hut***
+Message:
+Un elfe noir, qui semblait être un riche marchand, vous a rencontré près de la cabane. Il a ordonné à son garde du corps minotaure de s'écarter.        « On m'a toujours dit de ne jamais faire confiance aux ogres... Pourquoi n'écoute-je jamais les bons conseils ? Je fais le commerce de cristal de roche et de pierres précieuses depuis des années, et je me rends souvent dans ces montagnes. Le paysage ici est pittoresque, et c'est un plaisir de transporter des marchandises dans cette région, mais il y a un problème : les ogres. Ils ont immédiatement commencé à attaquer mes caravanes. J'ai eu de la chance au début : j'ai conclu un accord avec l'un de leurs chefs, et pendant un certain temps, les pillages ont cessé. Cependant, il y a quelques mois, l'une de mes caravanes, chargée à ras bord de marchandises précieuses, a été saccagée par ces maudits peaux-noires. On m'a dit que les ogres avaient désormais un nouveau chef, qui se moque éperdument de l'accord que j'avais conclu avec le vieux Deevaz. On dit que ce nouveau venu s'appelle Akratos. Son repaire se trouve haut dans les montagnes, à l'ouest d'ici, mais je sais avec certitude qu'on peut y accéder par un monolithe.        Pouvez-vous m'aider à régler ce problème ? Je déteste demander de l'aide à des étrangers, mais je sais que vous avez éliminé Dryope. Quelques barbares ne devraient pas vous poser de problème, même s'ils sont nombreux. En échange de ce service, je vous donnerai un artefact qui, je pense, vous sera très utile.
+Je crains de ne pouvoir vous aider. J'ai entendu dire qu'Akratos était toujours à la tête de sa tribu, retranché dans cette forteresse montagneuse. Permettez-moi de vous rappeler qu'elle se trouve à l'ouest. 
+« J'ai entendu dire que vous aviez montré à ce barbare de quoi vous étiez capable ! s'exclame le marchand. Désormais, les ogres y réfléchiront à deux fois avant de s'en prendre à nos caravanes. Ah oui, voici l'artefact dont je vous parlais », dit l'elfe en sortant un casque enchanté à l'aspect sinistre. « Il a été apporté à Alvar depuis Enroth, à l'époque où la guerre de succession faisait rage là-bas. On dit qu'il a été trouvé dans la grotte d'un démon, et on a même mentionné son nom terriblement long, mais je n'ai pas pris la peine de le retenir.        Souhaitez-vous accepter l'artefact de l'elfe ?
+
+(115, 94, 0) ***Pandora's Box***
+Message:
+
+
+(112, 92, 0) ***Pandora's Box***
+Message:
+
+
+(152, 167, 0) ***Quest Guard***
+Message:
+En venant ici, j'ai été attaqué par des Centaures sauvages. Pire encore, ils ont volé mon Emblème du Faussaire ! Aidez-moi à le retrouver, et mes amis charpentiers vous aideront à construire un bateau. Les Centaures ont été vus pour la dernière fois près du vieux phare à l'ouest d'ici.
+En venant ici, j'ai été attaqué par des Centaures sauvages. Pire encore, ils ont volé mon Emblème du Faussaire ! Aidez-moi à le retrouver et mes amis charpentiers vous aideront à construire un bateau. Les Centaures ont été vus pour la dernière fois près du vieux phare à l'ouest d'ici.
+C'est bien mon Emblème du Faussaire ! Je vais immédiatement informer mes amis de votre aide précieuse.     Voulez-vous passer ?
+
+(12, 178, 0) ***Quest Guard***
+Message:
+Un gardien vampire vêtu d'une cape noire se tient à l'entrée du Transformateur, observant votre armée avec méfiance. « Vous cherchez un nouveau moyen de reconstituer votre armée, n'est-ce pas ? » ricane le vampire. « Oubliez ça ! Des vers géants ont envahi le Transformateur, et maintenant il ne fonctionne plus. Nous pourrions toutefois le remettre en marche si vous trouviez un artefact suffisamment puissant. »
+Pas d'artefact ? C'est dommage.
+« Très bien ! » Le vampire se frotte les mains. « Cette amulette nous aidera à restaurer le Transformateur afin qu'il puisse fonctionner à nouveau ! Ah, oui, j'ai failli oublier. Nous avons quelques prisonniers gobelins ici. Mormolykos est passé récemment ; il allait les transformer en squelettes, mais nous n'avons plus eu de nouvelles de lui depuis le dernier éboulement. Peut-être pourriez-vous trouver une meilleure utilisation pour ces créatures sans valeur ? » Sur ces mots, le vampire s'en va. Voulez-vous vous rendre au Transformateur et libérer les gobelins capturés ?
+
+(103, 116, 0) ***Pandora's Box***
+Message:
+
+
+(17, 151, 0) ***Pandora's Box***
+Message:
+
+
+(58, 96, 0) ***Gunslinger***
+Message:
+Nous avons trouvé un groupe de pistoleros dans le désert, assoiffés et épuisés. Comment ils étaient arrivés là était un mystère ; ils ne pouvaient avoir voyagé que par les airs.        J'ai proposé aux mercenaires de se joindre à nous. 
+
+(139, 102, 0) ***Quest Guard***
+Message:
+Il y a un village de Gobelins devant nous. Kastore nous conseille d'aller voir de plus près, mais tant que la forteresse est tenue par le chef Semachus et ses guerriers, c'est très risqué de le faire : nous serions immédiatement repérés depuis les remparts. 
+Semachus tient toujours la forteresse. Il est grand temps de le chasser.
+En inspectant le village gobelin près de la forteresse de Semachus, nous avons trouvé des enclos remplis de glyptodons bien nourris. Devrions-nous les prendre ?	
+
+(38, 89, 0) ***Quest Guard***
+Message:
+En explorant le village des Gobelins, j'ai décidé de jeter un œil à l'intérieur d'un vieux enclos délabré. À l'intérieur, j'ai été surpris de trouver... des Automates ! Empilés négligemment en tas, ils ne semblaient pas irréparables, mais fonctionnaient manifestement mal. À Volta, les Mécaniciens locaux m'ont raconté qu'il y a quelques mois, avant l'arrivée des vers, l'une des Fabriques locales avait été attaquée par des Gobelins qui avaient tellement saccagé les lieux qu'il était impossible de savoir ce qu'ils avaient volé et ce qu'ils avaient simplement réduit en miettes.        Étonnamment, il semble que ces mécanismes aient voyagé jusqu'ici par leurs propres moyens, mais nous ne pouvons pas les activer pour l'instant, car certaines pièces essentielles manquent. Peut-être que la chef barbare locale a décidé qu'elle était une grande inventrice et que nous pourrions trouver certaines pièces dans la forteresse gobeline où elle réside ?
+Les Gobelins et leur chef, Gorghe, contrôlent toujours la forteresse. La Fabrique opérationnelle la plus proche est trop éloignée, donc la seule façon d'activer les Automates est de récupérer les pièces manquantes des griffes des barbares.
+Comme je m'y attendais, nous avons trouvé des plaques et des leviers en métal brillant légèrement abîmés dans le trésor de Gorghe. Il s'agissait des pièces manquantes. Il semble que les Gobelins aient vraiment cru qu'elles étaient en or. Bien sûr ! Le bronze au béryllium n'est pas facile à distinguer de l'or, à moins d'être Alchimiste. On craint que les Gobelins aient gravement endommagé les Automates lorsqu'ils ont retiré les pièces, mais il n'y a qu'un seul moyen de le savoir avec certitude.        Voulez-vous essayer d'activer les Automates ?
+
+(144, 71, 0) ***Mechanic***
+Message:
+J'ai aperçu un groupe de mécaniciens accompagnés d'automates près du canyon. Il s'est avéré qu'ils étaient en route de Burton vers le comptoir commercial local des elfes noirs afin de se procurer du matériel, mais le chemin du retour est désormais bloqué par des éboulements causés par des vers.
+
+(128, 80, 0) ***Pandora's Box***
+Message:
+
+
+(111, 81, 0) ***Sign***
+Message:
+Nord — Comptoir commercial des elfes noirs    Est — Arène de la gloire
+
+(140, 58, 0) ***Pandora's Box***
+Message:
+
+
+(117, 78, 0) ***Pandora's Box***
+Message:
+
+
+(92, 150, 0) ***Quest Guard***
+Message:
+Ce portail a été construit récemment par des Artificiers. Il menait à une grotte où ils expérimentaient de nouveaux types d'armes, mais quelque chose a mal tourné : il s'est brisé. Le portail scintille et clignote de manière menaçante, il vaut mieux éviter d'essayer d'y entrer.        Si je pouvais trouver des artefacts capables de supprimer la magie, je serais en mesure de désactiver le portail et de le restaurer.
+Ce portail a été construit récemment par des Artificiers. Il menait à une grotte où ils expérimentaient de nouveaux types d'armes, mais quelque chose a mal tourné : il s'est brisé. Le portail scintille et clignote de manière menaçante, il mieux vaut éviter d'essayer d'y entrer.        Si je pouvais trouver des artefacts capables de supprimer la magie, je serais en mesure de désactiver le portail et de le restaurer.
+Restaurer le portail ?
+
+(163, 7, 0) ***Gunslinger***
+Message:
+Alors que nous traversions la garnison, nous avons remarqué d'énormes cages remplies de personnes : des mercenaires et des mécaniciens. J'ai fait signe aux soldats de libérer les prisonniers. Après avoir discuté avec l'un d'entre eux, il s'est avéré qu'ils avaient été capturés par une bande errante de Chevaliers Noirs. Selon le capitaine mercenaire, les chevaliers cherchaient une ancienne crypte, mais il n'a pas pu fournir d'autres informations utiles.
+
+(98, 152, 0) ***Quest Guard***
+Message:
+Il s'agit d'un portail bidirectionnel, mais vous ne pouvez ouvrir l'entrée que d'un seul côté.
+Il s'agit d'un portail bidirectionnel, mais vous ne pouvez ouvrir l'entrée que d'un seul côté.
+Voulez-vous ouvrir le portail ?
+
+(95, 21, 0) ***Quest Guard***
+Message:
+Devant vous, vous apercevez une entrée scellée qui mène profondément sous terre, vers la partie la plus éloignée de la tombe. Vous remarquez des empreintes de pas d'humains et de hobbits, qui ne sont pas encore recouvertes de sable. L'expédition d'Henrietta est sans doute passée par là il n'y a pas longtemps.        Les tentatives pour ouvrir l'entrée ont échoué. Vous remarquez un piédestal inhabituel, sur lequel se dressait clairement autrefois une immense statue. Curieusement, il n'y a aucune trace de la statue elle-même. Peut-être devriez-vous partir à sa recherche ?
+Le passage est toujours scellé et les tentatives pour y pénétrer ont été vaines.
+Dès que la statue est remise en place, un étrange grondement se fait entendre. Le passage vers les profondeurs de la tombe est ouvert par une force inconnue.        Lorsque vous regardez à l'intérieur, vous êtes surpris de ne pas voir les murs de la tombe, mais des grottes qui s'enfoncent profondément sous terre. Il est difficile de dire pourquoi Henrietta et son expédition se sont rendues ici, mais quoi qu'il en soit, elles se trouvent certainement quelque part devant vous. Il ne vous reste plus qu'à les trouver.        Voulez-vous vous aventurer dans les grottes ?
+
+(60, 52, 0) ***Gunslinger***
+Message:
+Nous avons rencontré des mercenaires qui campaient dans les collines. Étonnamment, l'un d'eux m'était familier ; ah oui, je l'avais vu avec l'expédition d'Henrietta lorsqu'elle avait quitté Burton. Je crois qu'il s'appelait Winzells ? « Frederick ! Que faites-vous ici ? »        « Je vous expliquerai plus tard. Que vous est-il arrivé ? Où sont les autres ? — Nous avons trouvé l'entrée du grand tombeau, et l'expédition s'est dirigée vers la galerie souterraine. — Nous le savons déjà, a rétorqué Kastore. Nous vous avons posé une question. Répondez-y.        — Euh, je... Oui, monsieur ! Donc, nous avons continué notre chemin, et très vite, les murs ont laissé place à des tas de rochers, alors nous avons pensé que nous étions arrivés dans une sorte de grotte. Nous avons erré pendant un moment, puis Henrietta a finalement décidé que nous devions faire demi-tour, mais elle n'a pas eu le temps de transmettre l'ordre à tout le monde. Il y a eu un grondement, le chemin du retour a été coupé et notre groupe s'est séparé. Mon groupe a essayé de revenir sur ses pas, mais ce maudit labyrinthe nous a désorientés et nous a conduits dans une grotte, où une bande d'énormes vers nous a attaqués. Voici les quatre d'entre nous qui s'en sont sortis, moi y compris », dit Winzells en désignant les mercenaires. « Par chance, nous avons évité d'être emmurés là-bas ; il y avait encore des grondements derrière nous pendant que nous courions vers ici, et je pense qu'il n'y a plus aucun moyen de retourner là-bas maintenant. »        « Eh bien, nous verrons bien », ai-je répondu. « Allez, montrez-nous où l'effondrement s'est produit. »
+
+(51, 37, 0) ***Pandora's Box***
+Message:
+
+
+(2, 150, 0) ***Necromancer***
+Name:
+Mormolykos
+
+(104, 98, 0) ***Planeswalker***
+Name:
+Ulkumi
+
+(31, 54, 0) ***Pandora's Box***
+Message:
+
+
+(105, 160, 0) ***Quest Guard***
+Message:
+Les mécaniciens qui travaillent dans le village situé à l'extérieur de Volta refusent de se joindre à l'expédition. Leur Fabrique a été détruite après l'attaque des Vers des Sables, et ils ne bougeront pas tant qu'elle n'aura pas été reconstruite. Après leur avoir parlé, vous découvrez qu'il faudra 30 de bois, 30 de pierre, 20 de soufre et 20 cristaux pour reconstruire toutes les forges.
+Malheureusement, ces ressources ne suffiront pas.
+Après avoir obtenu votre soutien, les mécaniciens ont pu reconstruire leurs forges et sont désormais prêts à partir en expédition avec vous à la recherche d'Henrietta. Souhaitez-vous les emmener avec vous ?
+
+(114, 154, 0) ***Quest Guard***
+Message:
+Près de la mine, vous remarquez sept Pistoleros. Ils sont prêts à rejoindre quiconque leur fournira 50 de bois, 25 cristaux et 25 Gemmes.
+Ces ressources sont insuffisantes. La somme demandée par les Pistoleros est exorbitante, mais ils ne semblent pas disposés à faire des concessions.
+En voyant les ressources, les pistoleros prennent leurs armes, les dépoussièrent et se préparent à rejoindre vos troupes.        Voulez-vous les engager maintenant ?
+
+(18, 176, 0) ***Quest Guard***
+Message:
+Il s'agit d'un portail bidirectionnel, mais vous ne pouvez ouvrir l'entrée que d'un seul côté.
+Il s'agit d'un portail bidirectionnel, mais vous ne pouvez ouvrir l'entrée que d'un seul côté.
+Voulez-vous ouvrir le portail ?
+
+(20, 72, 0) ***Quest Guard***
+Message:
+Il s'agit d'un portail bidirectionnel, mais vous ne pouvez ouvrir l'entrée que d'un seul côté.
+Il s'agit d'un portail bidirectionnel, mais vous ne pouvez ouvrir l'entrée que d'un seul côté.
+Voulez-vous ouvrir le portail ?
+
+(141, 153, 0) ***Quest Guard***
+Message:
+Il s'agit d'un portail bidirectionnel, mais vous ne pouvez ouvrir l'entrée que d'un seul côté.
+Il s'agit d'un portail bidirectionnel, mais vous ne pouvez ouvrir l'entrée que d'un seul côté.
+Voulez-vous ouvrir le portail ?
+
+(147, 76, 0) ***Quest Guard***
+Message:
+Il s'agit d'un portail bidirectionnel, mais vous ne pouvez ouvrir l'entrée que d'un seul côté.
+Il s'agit d'un portail bidirectionnel, mais vous ne pouvez ouvrir l'entrée que d'un seul côté.
+Voulez-vous ouvrir le portail ?
+
+(139, 85, 0) ***Minotaur King***
+Message:
+À l'entrée de l'arène, vous êtes accueilli par un minotaure étonnamment amical.        « Bienvenue à l'Arène de la Gloire ! », proclame-t-il d'une voix forte en frappant son large torse du poing. « Voulez-vous participer aux combats ? Entrez ! Ici, tout le monde peut devenir un grand guerrier ! »
+
+(120, 165, 0) ***Event***
+Message:
+Nous avons quitté Volta le lendemain. Le chantier naval était assez éloigné de la ville, et nous devions encore nous y rendre pour charger du matériel à bord. Kastore est resté silencieux pendant la majeure partie du voyage, ne faisant que quelques remarques occasionnelles sur la conception des automates et autres fruits du progrès qu'il avait vus à Volta. Parfois, l'elfe me posait des questions techniques. J'avoue que je ne les comprenais pas toutes, mais je répondais au mieux de mes connaissances et de mon érudition. L'elfe répondait par des phrases courtes et laconiques à mes propres questions, mais j'avais du mal à en tirer quoi que ce soit d'utile. J'étais surtout surpris par sa capacité à effectuer des calculs complexes dans sa tête presque instantanément ; dans ces moments-là, il se détournait et portait à son visage une main ornée d'un bracelet discret fait d'un matériau étrange. Cela semblait un peu drôle : comme si un esprit omniscient se cachait dans ce morceau d'os gris terne, lui fournissant des réponses toutes faites — mais je savais pertinemment que les esprits n'étaient pas doués pour les sciences exactes.        Quelque chose me disait que ce souverain venu d'outre-mer en savait bien plus que n'importe quel artisan de Burton, voire que moi-même. Où avait-il acquis ces connaissances ? Pourquoi s'intéressait-il autant à nos inventions ?        Ce n'était pas du tout ainsi que j'imaginais un roi des nécromanciens...
+
+(84, 116, 0) ***Quest Guard***
+Message:
+Le chemin menant à cette partie du tombeau a été scellé par magie par les Génies. Tant qu'ils sont là, il est impossible d'ouvrir cette porte.
+Le chemin menant à cette partie du tombeau a été scellé par magie par les Génies. Tant qu'ils sont là, il est impossible d'ouvrir cette porte.
+Les Génies ont été vaincus, et le passage vers cette partie du tombeau est désormais ouvert.        Voulez-vous passer ?
+
+(167, 52, 0) ***Quest Guard***
+Message:
+Il s'agit d'un portail bidirectionnel, mais vous ne pouvez ouvrir l'entrée que d'un seul côté.
+Il s'agit d'un portail bidirectionnel, mais vous ne pouvez ouvrir l'entrée que d'un seul côté.
+Voulez-vous ouvrir le portail ?
+
+(57, 89, 0) ***Pandora's Box***
+Message:
+
+
+(64, 155, 0) ***Master Genie***
+Message:
+Le chef d'un petit groupe de Génies déclare :        « Mes frères et moi avons fui la tombe qui se trouve au nord. Nous ne voulons pas y rester esclaves pour toujours. Cependant, le monde est vaste, beaucoup de choses ont changé en un millénaire et demi, et il nous est difficile de trouver un endroit où nous sentir chez nous. Peut-être nous permettriez-vous de nous joindre à votre quête ? »
+
+(50, 21, 0) ***Gunslinger***
+Message:
+Alors que nous approchions de la guilde des travailleurs, nous avons remarqué plusieurs hommes mécontents et à l'air hagard qui sortaient par les portes. « Quelle insulte ! Ils paient une misère », se plaignait l'un d'eux en se tournant vers la première personne qu'il voyait, Kastore. Kastore resta silencieux, mais lança un regard vide au pistolero.		« Nous avons refusé les conditions proposées par le minotaure. Il n'a qu'à aller chercher des imbéciles ailleurs », ajouta l'autre, s'adressant cette fois à moi, comme si j'étais au courant de leurs affaires. Je haussai les épaules et m'apprêtais à les dépasser, lorsque le pistolero retira son chapeau et me supplia : « Euh, hum, monsieur, auriez-vous besoin de quelques mains sûres pour tirer, par hasard ? »
+
+(173, 117, 0) ***Seer's Hut***
+Message:
+Dans la cabane, vous êtes accueillis par un elfe sombre et maussade, qui ressemble à un marchand sans prétention.        « Qui va là ? Je n'aime pas beaucoup recevoir des invités. » « Nous voyagions en dirigeable et avons aperçu votre cabane. Nous avons donc pensé nous arrêter ici. »        « Eh bien, entrez donc », dit l'elfe en faisant un geste de la main. « Moi aussi, j'ai voyagé jusqu'ici. Il y a des années, j'ai trouvé un portail », dit l'elfe en sortant et en montrant du doigt la porte magique jaune. « Il menait à une étrange grotte où poussaient des fleurs et des arbres. Pouvez-vous imaginer une telle chose ? Quoi qu'il en soit, cela semblait être un endroit idéal pour cacher des marchandises. »        « Cacher ? »        Le marchand hésita, mais ne répondit pas à ma question.        « Eh bien, continua-t-il, j'y ai stocké mes marchandises pendant plusieurs années. Un jour, cependant, alors que mes... amis et moi étions en route vers la grotte avec une nouvelle cargaison, nous avons été attaqués par une bande d'elfes à la peau pâle, de licornes, de chevaux ailés et de démons à queue de poisson. »        « Des élémentaires ? » suggérai-je.        « Peut-être bien. Que je sois damné ! Cette armée était menée par une elfe, et bon sang, il y avait quelque chose qui clochait chez elle. Vraiment quelque chose qui clochait... Ha, ha... Avez-vous déjà vu une elfe de quatre mètres cinquante qui pointe du doigt des choses et qui les frappe d'un énorme éclair venu du ciel ? Moi oui. Plus tard, j'ai appris qu'il s'agissait de Fulghea, censée être l'une des gardiennes d'une tombe. Si j'avais su que j'allais avoir des ennuis comme ça, j'aurais évité cette grotte comme la peste, et je ne serais certainement jamais revenu ici. Mais à ce moment-là... J'ai échappé de justesse à la mort, mais ses amis m'ont poursuivi. Heureusement pour moi, quand j'ai sauté hors du portail, j'ai rencontré un sorcier qui s'est présenté sous le nom d'Agar. Il a scellé le passage magique et s'est éloigné.        Je serais ravi de tourner la page, mais j'ai besoin de récupérer certaines choses dans la grotte. J'ai pris une commande de personnes très sérieuses, qui m'ont payé d'avance, et si je ne la livre pas, je suis bon pour mourir, et je peux dire adieu à mon retour chez moi. Tu sais quoi ? J'ai une bague magique qui pourrait t'intéresser. Tu veux faire un échange ? Aidez-moi à desceller le portail et à m'occuper de ces créatures et de leur chef, et vous aurez la bague.
+Tant que nous n'aurons pas vaincu Fulghea et son armée dans la grotte, l'elfe noir ne voudra pas traiter avec nous.
+Vous dites que c'est sûr là-dedans maintenant ? C'est une bonne nouvelle. La grotte est à nouveau à nous ! L'elfe noir se frotte les mains. Et voici la bague dont je vous ai parlé. La-voulez vous ?
+
+(73, 177, 0) ***Quest Gate***
+Message:
+Vous apercevez le chantier Aéronaval devant vous.
+Vous apercevez le chantier Aéronaval devant vous.
+Souhaitez-vous continuer ?
+
+(76, 176, 0) ***Halfling***
+Message:
+Le chantier Aéronaval des dirigeables se profilait devant nous, et à l'entrée se trouvait un hobbit portant un casque muni de grandes lunettes. Il nous fit un signe amical de la main et nous invita à entrer. Notre opération de collecte de ressources avait déjà pris trop de temps, et cette recherche allait nous retarder encore davantage...        Alors que nous marchions vers les dirigeables, Kastore ne dit pas un mot. Il semblait plongé dans ses pensées pendant le vol d'essai. Lorsque la nacelle toucha à nouveau le sol, Kastore se tourna vers moi :        « J'aimerais faire partie de votre expédition. Vous avez un grand potentiel, et je m'en voudrais de ne pas poursuivre notre relation. Vous avez déjà remarqué que je ne suis pas étranger aux aventures moi-même. Les souvenirs de mes exploits passés me touchent profondément. Vous n'allez pas refuser ma demande, n'est-ce pas ? »        « Bien sûr... Nous partons dans une heure », marmonnai-je, perplexe.        Je ne m'attendais pas à ce que Kastore se joigne à l'expédition. Cependant, mon esprit fourmillait de questions auxquelles j'espérais que l'elfe apporterait des réponses. Bien sûr, un autre sorcier puissant à nos côtés serait également le bienvenu.
+
+(90, 135, 0) ***Sign***
+Message:
+Méfiez-vous des gardiens
+
+(162, 29, 0) ***Quest Guard***
+Message:
+Il s'agit d'un portail bidirectionnel, mais vous ne pouvez ouvrir l'entrée que d'un seul côté.
+Il s'agit d'un portail bidirectionnel, mais vous ne pouvez ouvrir l'entrée que d'un seul côté.
+Voulez-vous ouvrir le portail ?
+
+(141, 100, 0) ***Wolf Raider***
+Message:
+Un autre groupe d'une cinquantaine de gobelins à dos de loup apparut devant nous. J'ordonnai à mes hommes de se préparer au combat, mais à ma grande surprise, les gobelins s'approchèrent sans manifester aucune intention hostile. Kastore s'avança et discuta un moment avec eux. Puis il se retourna vers moi et me dit d'un ton sec : « Eh bien, Frederick, une fois de plus, nous avons de la chance. Ils ne sont pas satisfaits de leur nouveau chef et souhaitent se joindre à notre cause. »	Sur ces mots, Kastore retourna vers le dirigeable. Quel est son secret pour s'entendre avec les gobelins ?
+
+(147, 162, 0) ***Quest Guard***
+Message:
+Il s'agit d'un portail bidirectionnel, mais vous ne pouvez ouvrir l'entrée que d'un seul côté.
+Il s'agit d'un portail bidirectionnel, mais vous ne pouvez ouvrir l'entrée que d'un seul côté.
+Voulez-vous ouvrir le portail ?
+
+(32, 87, 0) ***Hobgoblin***
+Message:
+Kastore a discuté de quelque chose avec le chef des gobelins que vous avez rencontré en chemin. Vous n'avez aucune idée des points qui ont été abordés, mais l'elfe a facilement convaincu toute la bande de se joindre à vous. Acceptez-vous leur aide ?
+
+(61, 3, 0) ***Quest Guard***
+Message:
+Alors que nous nous dirigions vers le canyon, nous n'avons pas remarqué l'embuscade à temps. Devant nous, une grande armée de vampires se tenait prête à combattre, et sur les falaises au-dessus de nous, des Liches se dressaient, brandissant leurs bâtons mortels. Peu après, l'une d'entre elles, vêtue d'une robe somptueuse, s'est dirigée vers nous. Il s'agissait manifestement du chef du groupe. Il a agité sa main osseuse vers les morts-vivants qui menaçaient nos troupes, et ceux-ci ont battu en retraite.        « Nous nous moquons de ce que font les mages dans ces contrées, a déclaré la liche. Nous sommes venus ici sur ordre de Trophon, et vous ne nous intéressez pas. Je vous dirai une chose : Trophon nous a ordonné d'empêcher quiconque d'approcher du portail jusqu'à ce que le problème soit résolu.        "Le problème ?" demanda calmement Kastore, comme s'il ne voyait pas les hordes de morts-vivants qui nous entouraient. — La Nécromancienne Meline s'est enfuie dans ces terres. Elle a enfreint les lois de la Guilde et mène actuellement des expériences non autorisées visant à créer des dragons morts-vivants.		« Cela, nous le savons déjà », répondit Agar en souriant et en caressant sa barbe.        « Ne perdez pas votre temps à nous le dire. » « Je salue votre perspicacité. Ce que vous ignorez probablement, cependant, c'est que certains dragons échappent désormais à son contrôle. Meline elle-même ne nous concerne plus, puisque Trophon s'est personnellement lancé à sa poursuite ; cependant, nous avons été chargés de localiser et de détruire ces créatures. On dit qu'elles se sont cachées dans la salle dite « Salle des Illusions », mais nous y avons déjà envoyé des guerriers, et aucun n'est revenu. C'est pourquoi nous attendons maintenant des renforts. Cependant... cela ne nous dérangerait pas le moins du monde que quelqu'un d'autre s'en occupe. Nous laisserions peut-être même cette âme audacieuse franchir le portail. On dit qu'il mène à une autre partie de la tombe. »
+L'armée des morts-vivants garde toujours le portail. Tant que les dragons de la Salle des Illusions ne sont pas détruits, il vaut mieux ne pas prendre le risque de s'en mêler.
+« Les dragons de la Salle des Illusions... ont disparu ? demanda le liche, la voix teintée de doute. « Bon, » si un crâne proprement décortiqué pouvait sourire, vous jureriez qu'il venait de le faire, « je n'ai aucune raison de me méfier de vous. Vous pouvez vous rendre au portail, et nous allons prendre congé. Nous n'avons reçu aucun nouvel ordre de Trophon, et nous n'apprécions pas d'être laissés ici sans rien faire. »        Souhaitez-vous passer ?
+
+(8, 152, 0) ***Quest Guard***
+Message:
+Ces portes sont gardées par des Liches puissantes. Elles sont réticentes à vous parler, mais finissent par vous dire qu'elles seraient disposées à ouvrir le passage à celui qui leur rendra leur Emblème du Faussaire. L'une des Liches vous dit que l'emblème a été perdu après une attaque d'un Dragon d'Or qui vit dans une tour voisine.
+Ces portes sont gardées par des Liches puissantes. Elles sont réticentes à vous parler, mais finissent par vous dire qu'elles sont prêtes à ouvrir le passage à celui qui leur rendra leur Emblème du Faussaire. L'une des Liches vous dit que l'emblème a été perdu après une attaque d'un Dragon d'Or qui vit dans une tour voisine.
+Les Liches vous prennent l'emblème et vous laissent passer à contrecœur.     Souhaitez-vous passer ?
+
+(94, 104, 0) ***Event***
+Message:
+Ce qui se dressait devant nous était l'entrée d'une immense tombe... si tant est qu'il s'agissait bien d'une tombe. Kastore, qui m'avait suivi avec son expression indifférente, voire aigre, habituelle, s'est soudainement animé. Il a regardé avec un vif intérêt les symboles étranges disséminés ici et là pendant un moment. Puis il a dit :        « Eh bien, c'est intéressant. J'ai déjà vu des tombes comme celle-ci. »        Sur ces mots, Kastore sortit de sa ceinture un objet dont je ne connaissais pas l'utilité et fit quelques pas en avant. Cette chose avait depuis longtemps attiré mon attention. Qu'était-ce donc ? Un instrument scientifique que même moi je ne connaissais pas ? Un héritage familial ? Qui sait...		L'elfe agita son objet d'un côté à l'autre pendant un moment, scrutant les couloirs sombres de la tombe, puis finit par expirer.        « Il ne semble y avoir personne à l'intérieur, nous pouvons entrer. Mais cela ne signifie pas pour autant que nous pouvons baisser notre garde », dit Kastore d'un ton didactique.
+
+(38, 157, 0) ***Seer's Hut***
+Message:
+Au pied des montagnes, vous trouvez un petit camp minier et un groupe d'Ingénieurs armés. Lorsqu'ils apprennent la disparition de l'expédition d'Henrietta, ils se déclarent prêts à vous accompagner, mais ils ne peuvent malheureusement pas laisser le camp sans surveillance, car le vampire Mormolykos a récemment été aperçu dans le village et plusieurs mineurs ont été victimes de ses attaques. Si vous parvenez à retrouver le vampire et à le détruire, les Ingénieurs se joindront à vous dans votre quête.
+Les Ingénieurs estiment que le village doit encore être protégé. Le vampire pourrait revenir.
+Lorsque les Ingénieurs voient la capuche de Mormolykos, ils se déclarent immédiatement prêts à vous accompagner. Ils sont surpris d'apprendre que le vampire a été trouvé si loin, mais ils acquiescent avec compréhension lorsqu'ils entendent votre histoire au sujet du vieux manoir.    Voulez-vous emmener les Ingénieurs avec vous ?
+
+(153, 136, 0) ***Seer's Hut***
+Message:
+Je forge des armures à partir de métaux rares et précieux tels que le Kergar et l'Erudine. Apportez-moi 20 cristaux et je forgerai les meilleures armures pour vous et vos troupes.
+Ce n'est pas suffisant ! J'ai besoin de 20 cristaux, pas un de moins !
+Ces cristaux sont exactement ce dont j'ai besoin ! Je peux commencer à forger des armures dès maintenant.    Voulez-vous donner les cristaux au forgeron ?
+Je forge des armures à partir de métaux rares et précieux tels que le Kergar et l'Erudine. Apportez-moi 40 cristaux et je forgerai les meilleures armures pour vous et vos troupes.
+Ce n'est pas suffisant ! J'ai besoin de 40 cristaux, pas un de moins !
+Ces cristaux sont exactement ce dont j'ai besoin ! Je peux commencer à forger des armures dès maintenant.    Voulez-vous donner les cristaux au forgeron ?
+Je forge des armures à partir de métaux rares et précieux tels que le Kergar et l'Erudine. Apportez-moi 60 cristaux et je forgerai les meilleures armures pour vous et vos troupes.
+Ce n'est pas suffisant ! J'ai besoin de 60 cristaux, pas un de moins !
+Ces cristaux sont exactement ce dont j'ai besoin ! Je peux commencer à forger des armures dès maintenant.    Voulez-vous donner les cristaux au forgeron ?
+Je forge des armures à partir de métaux rares et précieux tels que le Kergar et l'Erudine. Apportez-moi 80 cristaux et je forgerai les meilleures armures pour vous et vos troupes.
+Ce n'est pas suffisant ! J'ai besoin de 80 cristaux, pas un de moins !
+Ces cristaux sont exactement ce dont j'ai besoin ! Je peux commencer à forger des armures dès maintenant.	 Voulez-vous donner les cristaux au forgeron ?
+Je forge des armures à partir de métaux rares et précieux tels que le Kergar et l'Erudine. Apportez-moi 100 cristaux et je forgerai les meilleures armures pour vous et vos troupes.
+Ce n'est pas suffisant ! J'ai besoin de 100 cristaux, pas un de moins !
+Ces cristaux sont exactement ce dont j'ai besoin ! Je peux commencer à forger des armures dès maintenant.	 Voulez-vous donner les cristaux au forgeron ?
+
+(128, 148, 0) ***Pandora's Box***
+Message:
+
+
+(24, 82, 0) ***Quest Guard***
+Message:
+Il s'agit d'un portail bidirectionnel, mais vous ne pouvez ouvrir l'entrée que d'un seul côté.
+Il s'agit d'un portail bidirectionnel, mais vous ne pouvez ouvrir l'entrée que d'un seul côté.
+Voulez-vous ouvrir le portail ?
+
+(147, 98, 0) ***Quest Guard***
+Message:
+Il s'agit d'un portail bidirectionnel, mais vous ne pouvez ouvrir l'entrée que d'un seul côté.
+Il s'agit d'un portail bidirectionnel, mais vous ne pouvez ouvrir l'entrée que d'un seul côté.
+Voulez-vous ouvrir le portail ?
+
+(90, 142, 0) ***Quest Guard***
+Message:
+L'entrée du tombeau se trouve au nord d'ici. L'expédition d'Henrietta est passée par là il n'y a pas si longtemps, mais aujourd'hui, ce chemin à travers les montagnes est enseveli sous les rochers. Peut-être que si vous trouviez un artefact puissant capable d'amplifier la magie de la terre, vous pourriez briser la roche et passer.
+L'entrée du tombeau se trouve au nord d'ici. L'expédition d'Henrietta est passée par là il n'y a pas si longtemps, mais aujourd'hui, ce chemin à travers les montagnes est enseveli sous les rochers.	Peut-être que si vous trouviez un artefact puissant capable d'amplifier la magie de la Terre, vous pourriez briser les rochers et passer.
+En utilisant toute la puissance du Globe des Pierres, vous pourrez passer. Malheureusement, si vous le faites, le globe perdra son pouvoir magique. Voulez-vous sacrifier le globe et passer ?
+
+(19, 145, 0) ***Quest Guard***
+Message:
+Il s'agit d'un portail bidirectionnel, mais vous ne pouvez ouvrir l'entrée que d'un seul côté.
+Il s'agit d'un portail bidirectionnel, mais vous ne pouvez ouvrir l'entrée que d'un seul côté.
+Voulez-vous ouvrir le portail ?
+
+(175, 100, 0) ***Quest Guard***
+Message:
+Le laboratoire d'Agar se trouve quelque part au nord d'ici. Cependant, n'oublions pas que notre objectif principal est de retrouver l'expédition d'Henrietta.
+Notre tâche consiste désormais à explorer la tombe.
+Nos recherches dans la tombe ont été vaines jusqu'à présent, mais il reste encore beaucoup à explorer. Maintenant que les Vers des Sables ont détruit les passages menant aux profondeurs, il est impossible d'aller plus loin. La seule solution est de trouver Agar. Il pourra peut-être nous aider.    Voulez-vous aller vers le nord ?
+
+(145, 11, 0) ***Pandora's Box***
+Message:
+
+
+(161, 60, 0) ***Quest Guard***
+Message:
+Vous pouvez ouvrir l'entrée d'un seul côté.
+Vous pouvez ouvrir l'entrée d'un seul côté.
+Voulez-vous ouvrir le portail ?
+
+(141, 78, 0) ***Quest Guard***
+Message:
+Vous pouvez ouvrir l'entrée d'un seul côté.
+Vous pouvez ouvrir l'entrée d'un seul côté.
+Voulez-vous ouvrir le portail ?
+
+(27, 67, 0) ***Quest Guard***
+Message:
+Vous pouvez ouvrir l'entrée d'un seul côté.
+Vous pouvez ouvrir l'entrée d'un seul côté.
+Voulez-vous ouvrir le portail ?
+
+(76, 166, 0) ***Death Knight***
+Name:
+Skoulex
+
+(168, 19, 0) ***Rampart***
+
+Visiting Ranger:
+Name:
+Dryope
+
+(4, 58, 0) ***Dungeon***
+
+Visiting Wizard:
+Name:
+Palaemon
+
+(2, 131, 0) ***Knight***
+Name:
+Erybarus
+
+(175, 99, 0) ***Alchemist***
+Name:
+Aiedia
+
+(4, 59, 0) ***Quest Guard***
+Message:
+La route menant à la forteresse de Palaemon est bloquée par un mur. En regardant de plus près, vous remarquez une grande porte qui semble être scellée par magie. Le seul moyen de briser le sceau est d'utiliser l'Anneau du Voyageur.
+Le mur est indestructible et vous n'avez pas encore trouvé l'anneau. Nous devrions peut-être le chercher dans la tombe située à l'est d'ici.
+Voulez-vous passer ?
+
+(168, 20, 0) ***Quest Guard***
+Message:
+Il y eut un bruissement au-dessus de nos têtes. Des feuilles et des brindilles nous tombèrent dessus, et un gobelin tomba de l'arbre en poussant un cri ; il se releva immédiatement et tenta de s'enfuir. Kastore réussit cependant à l'attraper par le bras, le lui arrachant presque. « Qui es-tu ? Pourquoi nous espionnais-tu ? » demanda l'elfe, une main sur sa ceinture. « N'essaie même pas de t'enfuir ! »        « Je... je... je n'espionnais personne ! J'attrapais des coléoptères. Des coléoptères, oui... »        Je m'interposai alors.        « Tu nous prends pour des idiots, comme tes amis au visage vert ? Des coléoptères, ha... Qui t'a envoyé ? Parle, et vite ! »        Réalisant que garder le silence ne lui serait pas très profitable, le gobelin décida de tout avouer.        « Dryope. C'est la forteresse de Dryope. Je surveille tout ce qui se passe ici. Si Dryope découvre que vous êtes là, vous aurez des ennuis. Personne n'est plus fort que ses golems de diamant ! Ni la magie, ni l'épée, ni la hache ne peuvent les détruire ! »        « Quelle absurdité », dis-je en me penchant vers Kastore. « J'ai moi-même créé des golems et des gargouilles lorsque j'étais encore un sorcier bracadien. J'ai même eu affaire à des golems de diamant, mais je n'ai jamais entendu parler de golems invulnérables à la magie ET aux armes ordinaires. C'est vrai que c'est fastidieux, mais une statue qui bouge reste une statue, et avec un peu d'huile de coude, on peut la réduire en poussière. Alors d'où viennent-ils ? Qui les a créés ? Un alchimiste de Bracada ou un sorcier d'Enroth ? »        « Je ne sais pas », grogna Kastore. Il venait de faire quelques gestes étranges et semblait maintenant écouter quelque chose que mes oreilles ne percevaient pas. « Je peux toutefois affirmer que ce maudit gobelin n'a pas menti en disant qu'ils étaient invulnérables. J'ai déjà eu affaire à ce genre de chose. C'est très désagréable », dit le sorcier en relevant légèrement l'aile de son nez, ce qui, apparemment, était un signe de grande indignation. Je me tournai vers le gobelin, qui tenait son bras disloqué en gémissant doucement. « Dis-moi, qui est cette Dryope ? Une alchimiste ?        « Ce n'est pas une alchimiste », répondit le gobelin en secouant la tête. Je ne sais pas qui elle est ni d'où elle vient. Elle ne dit jamais rien, et quand elle donne des ordres, c'est comme si on savait tout de suite quoi faire, et c'est tout. Peut-être qu'elle parle aux autres, mais pas aux petits comme moi. On dit qu'elle gardait autrefois la salle des richesses dans l'ancienne tombe, mais pour une raison quelconque, elle est partie, et maintenant, c'est un vampire qui garde cette salle... ou peut-être quelque chose qui ressemble à un vampire. »        « Peu importe. Comment pouvons-nous nous rendre à la forteresse de Dryope ? » demandai-je en dirigeant mon regard vers l'imposante forteresse. Elle se dressait haut dans la montagne, et je ne voyais aucun moyen de m'y rendre. Je ne prendrais même pas le risque de m'y rendre en dirigeable, il n'y aurait pratiquement aucun endroit où atterrir.        « Je n'en suis pas sûr, mais j'ai vu une fois Dryope, en arrivant ici, enfiler une sorte de cape, puis elle semblait marcher dans les airs. »        « Elle a probablement la cape », murmurai-je à Kastore. « Que va-t-on faire ? »        « Je me rendrais à la tombe. Peut-être y trouverons-nous une autre cape comme celle-là, ou quelque chose d'autre qui nous aidera. »	 
+La seule façon de passer ici est de trouver la Cape de la Vélocité dans la Tombe ; il n'est pas possible d'atteindre la forteresse d'une autre manière.
+En m'approchant de la montagne, j'ai vu un escalier translucide et scintillant menant au château de Dryope.        Continuer vers le château ?
+
+(155, 136, 0) ***Alchemist***
+Name:
+Aietes
+
+(146, 161, 0) ***Quest Guard***
+Message:
+Il s'agit d'un portail bidirectionnel, mais vous ne pouvez ouvrir l'entrée que d'un seul côté.
+Il s'agit d'un portail bidirectionnel, mais vous ne pouvez ouvrir l'entrée que d'un seul côté.
+Voulez-vous ouvrir le portail ?
+
+(143, 8, 0) ***Sign***
+Message:
+C'est ici que commence le domaine des dragons.
+
+(156, 33, 0) ***Quest Guard***
+Message:
+Ce portail a été scellé par magie par les nymphes. Tant qu'elles sont présentes, il est impossible de déverrouiller cette porte.
+Ce portail a été scellé par magie par les nymphes. Tant qu'elles sont présentes, il est impossible de déverrouiller cette porte.
+Les nymphes ont été vaincues et le portail est ouvert.    Voulez-vous le franchir ?
+
+(134, 166, 0) ***Quest Guard***
+Message:
+Vous pouvez ouvrir l'entrée d'un seul côté.
+Vous pouvez ouvrir l'entrée d'un seul côté.
+Voulez-vous ouvrir le portail ?
+
+(172, 113, 0) ***Pandora's Box***
+Message:
+
+
+(4, 60, 0) ***Quest Guard***
+Message:
+Devant moi se tenait un golem de diamant d'une taille indescriptible. Le colosse, les mains sur les hanches, nous regardait en silence. Finalement, il prit la parole.        « Je ne peux pas vous laisser passer. Dryope a ordonné que personne ne puisse entrer ou sortir, à l'exception de Dryope et Palaemon. Vous n'êtes ni Dryope ni Palaemon. L'ordre reste en vigueur. »		« Je ne vous recommande pas d'essayer de combattre cette chose, dit Kastore. Surtout sans mon aide, et je détesterais gaspiller mes pouvoirs alors que nous sommes encore loin de notre objectif. Peut-être devrions-nous chercher cette Dryope ? Il est peu probable qu'elle comprenne notre situation, mais peut-être trouverons-nous quelque chose sur elle qui nous sera utile. »
+Le géant de diamant nous fusille du regard en silence. Il n'y a rien à faire ici, je ne peux que suivre le conseil de Kastore et partir à la recherche de Dryope.
+Dans la forteresse de Dryope, nous avons trouvé une étrange pierre précieuse taillée en forme de cube. Je l'ai pointée vers le géant de diamant et j'ai prononcé le sort de désactivation du golem que je connaissais par cœur depuis ma première année à l'Académie. Aussitôt, le géant se figea comme une statue ordinaire... enfin, pas tout à fait ordinaire, mais tout de même une statue. « Super », dis-je en hochant la tête à Kastore, lui suggérant de se diriger vers la forteresse de Palaemon.        « Nous devons être prudents », dit Kastore en haussant un sourcil. « Je sens la présence d'un sorcier très puissant. Un mage de l'esprit. »
+
+(90, 141, 0) ***Cleric***
+Name:
+Tagete
+
+(79, 166, 0) ***Event***
+Message:
+Sur la route menant aux montagnes, nous avons rencontré un nain solitaire, un mineur à première vue, qui semblait très inquiet. En lui parlant, j'ai appris que le vampire Skoulex venait d'arriver de Shadowspire, accompagné d'une horde de morts-vivants. Selon le mineur, les morts-vivants l'avaient presque rattrapé, mais il avait réussi à s'enfuir et à se cacher dans les falaises. Pendant la nuit, alors que le nain traversait l'obscurité pour contourner le camp des morts-vivants, il a entendu des bribes de conversation entre la Liche et le Chevalier de la Mort. Il semblait qu'ils étaient venus au Ravage Errant à la recherche d'un autre vampire, une créature très ancienne dont ils parlaient à voix basse.        Je me demande de qui ils parlaient...		Quoi qu'il en soit, je n'ai pas le temps d'essayer de comprendre cette histoire. Ces liches sont arrivées au mauvais moment ; nous allons devoir les combattre.
+
+(86, 90, 0) ***Event***
+Message:
+Le campement des chasseurs de dragons a attiré notre attention de loin. En m'approchant, j'ai pu voir clairement le camp, les sentinelles postées autour et les griffons planant haut dans le ciel. Un cavalier en armure est sorti du camp et nous a transpercés d'un regard sévère. « Je m'appelle Volothomon », a déclaré le chevalier. « Vous avez peut-être entendu parler de nous ; nous sommes venus à Jadame pour mettre fin une fois pour toutes à la menace des dragons sur ce continent. Mes frères d'armes ont combattu les dragons de Nighon pendant la guerre de Restauration, et nous avons une grande expérience dans ce domaine. Notre principale forteresse est loin de ces terres, mais nous avons entendu dire que des dragons se trouvaient également dans votre région. Alors, qui êtes-vous et que recherchez-vous ? Nous sommes... des mages. Les dragons ne nous intéressent guère. Tout ce dont nous avons besoin, ce sont quelques vieilles clés. »        Le chevalier fronça les sourcils. Des clés, dites-vous ? Vous voulez parler de celles-ci ?		Il sortit un gros trousseau de clés de sa ceinture et le secoua.        « Nous les avons achetées à la foire des Elfes Noirs, et vous pouvez certainement imaginer combien elles nous ont coûté cher. Si les trésors cachés derrière les serrures qu'elles ouvrent représentent ne serait-ce qu'un centième de ce que ces elfes ont prétendu... J'équiperai mes troupes suffisamment bien pour débarrasser le monde entier de cette vermine ailée sans plus attendre. Et si vous pensez que je suis disposé à vous céder ces clés, alors j'en déduis que vous cherchez à m'insulter ! Mais tu as de la chance : je ne suis pas d'humeur à donner des leçons de tact pour le moment. Quoi qu'il en soit, voudrais-tu nous acheter des écailles ou des os de dragon ? Nous en avons en abondance, et je sais que vous, les mages, aimez ce genre de choses. Je te conseille sincèrement d'oublier les clés, cependant ! »        Je murmurai que j'allais certainement réfléchir à cette offre, et sous le regard hautain du chevalier, je laissai Kastore m'éloigner.        « Ça ne sert à rien de marchander avec cet imbécile, Frederick ; tu ne le vois pas toi-même ? Je acquiesçai avec un soupir. Je n'avais rien contre les chevaliers, mais nous n'avions tout simplement pas d'autre choix : nous allions devoir nous emparer des clés par la force.
+
+(51, 64, 1) ***Quest Gate***
+Message:
+Le passage vers le laboratoire d'Agar est devant vous, mais c'est un aller simple.
+Le passage vers le laboratoire d'Agar est devant vous, mais c'est un aller simple.
+Voulez-vous passer ?
+
+(62, 22, 1) ***Seer's Hut***
+Message:
+Le laboratoire de la Nécromancienne Meline était un lieu très imposant. Dans un coin, je pouvais voir d'énormes flacons remplis de liquides bouillonnants ; des récipients étranges pendaient à des chaînes fixées au plafond ; et devant, dans une large caverne, je pouvais voir trois squelettes de dragons enchaînés ensemble. Sur l'une des tables jonchées de traités magiques, j'ai remarqué le journal de la Nécromancienne.	Les dernières entrées étaient éloquentes :        « ... 5 février. Une autre expérience a échoué. Les bocaux contenant les âmes ont été détruits et les dragons sont morts pour de bon. Peut-être que les dragons noirs ne conviennent pas à cet usage. 24 février. Mes morts-vivants ont réussi à capturer trois dragons verts dans la grotte voisine. Il n'y a aucune raison de se décourager, je suis sûr que je vais réussir cette fois-ci.        25 février. Une nouvelle erreur de calcul, un nouvel échec. Je vais devoir envoyer les morts-vivants à la recherche d'un nouveau dragon. De plus, l'un des fantômes m'a dit que le vieux Trophon fouinait dans les parages. C'est bien la dernière chose dont j'ai besoin. Je ne peux pas me permettre de perdre ce laboratoire aussi... »        « Mais que se passe-t-il ici ? » m'écriai-je, surpris, en refermant le journal et en regardant autour de moi.        Agar ne semblait pas perplexe face à cet étrange laboratoire. « Ce qui se passe ici est très clair. Quelqu'un essayait de créer un dragon fantome. Encore une fois. Le fait établi de longue date que cela est totalement irréalisable ne semble empêcher personne d'essayer. Vous savez, c'est le même problème que certains artisans peu sensés et leurs idées saugrenues de machine à mouvement perpétuel. Sauf que leurs inventions, au pire, explosent simplement, alors que cette chose-là peut produire des fruits vraiment pourris ! »        « Oh, je vous en prie ! À Bracada, mes collègues m'ont aussi dit que... »        Me souvenant d'un événement passé, je faillis m'offusquer des propos insolents du vieil homme, mais Kastore, qui était resté silencieux jusqu'alors, intervint dans la conversation.        « Si nous avions moins de soucis à nous faire en ce moment, je vous parlerais du mouvement perpétuel, mes chers... érudits. Mais regardez, qu'est-ce que c'est que ça ? » Son attention fut attirée par une porte fermée dans un coin du laboratoire.        « Je parie que c'est une salle au trésor. Et scellée par magie, en plus ! » s'exclama Agar, tout excité. « Peut-être que ce rustre de Trophon, qui est venu ici à la recherche de Meline et de son laboratoire, a emporté une sorte d'orbe capable de briser les barrières, ou quelque chose comme ça.
+Vous ne pouvez pas ouvrir le trésor ; vous devez trouver l'orbe capable de supprimer la barrière magique. 
+Le trésor regorgeait d'armes en tout genre : épées magiques, lances, arcs et frondes. Il y avait même des fusils fabriqués par Burton ; aucune idée de ce que le Nécromancien comptait en faire.        Devrions-nous prendre les armes et équiper nos forces ?
+
+(19, 47, 1) ***Sign***
+Message:
+Ne nourrissez pas les wyvernes
+
+(121, 49, 1) ***Overlord***
+Name:
+Kotus
+
+(85, 32, 1) ***Seer's Hut***
+Message:
+Des vers grouillaient autour de ce petit bâtiment. Le spectacle était tout à fait étrange : ils semblaient exécuter une sorte de danse complexe ; il y avait un ordre particulier et même une certaine grâce dans leurs mouvements. Ils ne prêtaient aucune attention à notre approche. « Par tout ce qui est... », murmura Agar. « Je parierais ma barbe que quelque chose ici a réussi à prendre le contrôle de cet essaim à la Matriarche ! De plus, cela a également inculqué un comportement tout à fait inhabituel à mes vers ! Regardez : ils ne montrent aucun signe d'instinct de conservation. C'est comme s'ils se moquaient de ce qui se passe autour d'eux. On dirait que leur seul désir maintenant est de ne laisser personne s'approcher de cette petite maison. Et... et ils sont... non, c'est impossible, cela ne pourrait pas arriver à des animaux qui n'ont que les rudiments les plus élémentaires de la conscience de soi... mais si je ne le savais pas, je penserais qu'ils... Ils s'exhibent ! Euh, eh bien, wow ! Je n'avais jamais prêté attention à cet aspect de mes créations auparavant. Mais à bien y réfléchir... avec leur symétrie parfaite, leurs couleurs délicates, leurs mouvements gracieux... »        « Mon ami, » s'adressa soudain Kastore à Agar, fasciné, avec autant de douceur qu'à un enfant, « serait-il possible de reporter un peu ton enthousiasme esthétique ? Penses-tu pouvoir reprendre le contrôle de ces mignonnes petites créatures ? Je te promets que dès que nous serons sortis d'ici, j'organiserai personnellement, à mes frais, un concours de beauté avec les vers, les yeux maléfiques et les troglodytes les plus adorables qui soient, et j'inviterai même Tor Anwyn en personne à présider le jury. Mais ici et maintenant, nous avons fort à faire. »        « ... Eh bien, euh, ça devrait être assez facile... Il suffit de se souvenir des sorts de contrôle... »
+Les vers ne semblent pas agressifs, mais ils ne semblent pas non plus disposés à dégager le chemin menant au bâtiment. Il vaut mieux laisser Agar s'en occuper.
+Secouant la tête et frappant dans ses mains, Agar se prépare à lancer un sort de contrôle.        Maîtrisez-vous les vers ?
+Après avoir repris le contrôle de ses animaux de compagnie, Agar se désintéresse de ce qui se passe autour de lui, sort de son sac quelque chose qui ressemble à une baguette de chef d'orchestre et commence à l'agiter en fredonnant bruyamment un air étrange. Un énorme essaim de vers se met à remuer la queue en rythme.        Kastore laisse échapper ce qui ressemble à un gloussement étouffé et m'invite à entrer dans la cabane délabrée. À l'intérieur, nous avons trouvé une grande boîte métallique cabossée, portant des traces évidentes des dents d'Olgoi-Khorkhoi. Je m'en suis approché et j'ai appuyé avec mon doigt sur une rangée de protubérances ressemblant à des boutons. Soudain, un grincement intermittent s'est fait entendre au fond de la boîte, suivi d'un crissement, puis l'une de ses parois s'est ouverte comme une fenêtre pivotante. La moitié inférieure ressemblait à un réceptacle, et sur la moitié supérieure, quelque chose comme une boule magique, mais plate, s'illumina. Des lettres et des symboles apparurent dessus, dans la langue que j'avais déjà vue dans les couloirs. Je grimaçai et murmurai « Je ne comprends pas » ; puis soudain, les gribouillis incompréhensibles laissèrent place à des lettres de l'alphabet erathien.       « Exauceur de vœux 066085 prêt à fonctionner       Cycles d'exaucement disponibles : 1/71       Analyse de vos vœux... »       Avant même que je m'en rende compte, les inscriptions magiques avaient changé. Elles indiquaient désormais ce qui suit :       Vœu défini comme le désir de posséder ce qui manque       Difficulté d'exaucement : 1/10       Coût d'exaucement : 10/10       Pour exaucer votre vœu, placez les éléments suivants dans le récepteur :       100 de pierre       100 de bois       100 de soufre       100 cristaux       100 de mercure       100 gemmes       50 000 pièces d'or »        Pendant que j'essayais de comprendre ce que tout cela signifiait, Kastore m'écarta de la boîte et commença à tapoter du doigt diverses protubérances et cercles qui semblaient représenter ses commandes. Chaque pression était suivie d'un grincement irritant et d'un flash rouge.       « Eh bien. On dirait que cette machine est soit à moitié cassée, soit qu'elle n'est pas conçue pour une saisie manuelle. Cependant, si les vers ont réussi à lui faire exaucer leur souhait d'obtenir le sens de la beauté... je pense qu'elle ne te décevra pas non plus, mon ami. Au moins, elle peut lire dans les pensées, c'est certain. Au fait, c'est quoi ce « désir de posséder ce qui manque » ?       Je crois que je sais. J'ai trouvé le temps de comprendre comment assembler une pièce intéressante à partir de certains des artefacts que nous avons trouvés, mais il manque encore un élément pour compléter la formule. J'y pensais justement quand nous sommes arrivés ici...       « Bon sang, pourquoi je ne suis pas arrivé le premier à la machine ?! Nous ne pourrons probablement pas la recharger. Tant pis. Alors, tu vas lui demander d'exaucer ton souhait ? Nous n'avons pas grand-chose à investir...
+Le récepteur avale docilement les ressources une par une, mais dès que vous cessez de les verser, il émet un hurlement offensé et recrache tout ce que vous avez mis dedans. « Matériaux insuffisants pour accorder    Déposez le montant spécifié »
+Après avoir avalé une quantité fabuleuse de ressources précieuses, la boîte émet un agréable tintement ; sur la plaque lumineuse, que Kastore appelle « écran », apparaît l'image d'un artefact, accompagnée des mots suivants :        « Matériaux requis déposés.        Accorder le souhait ? Pour confirmer, prononcez « Oui ».        Recevoir l'artefact ?
+
+(106, 51, 1) ***Overlord***
+Name:
+Breus
+
+(28, 54, 1) ***Evil Eye***
+Message:
+Je progressais prudemment dans les grottes qui s'enfonçaient dans les profondeurs depuis le laboratoire d'Agar. Pendant un instant, j'eus l'impression que mes pouvoirs magiques s'évanouissaient... mais ce ne fut que momentané. Mes pensées furent interrompues par des bruits étranges. Des Yeux Maléfiques apparurent devant moi ! Évidemment. J'aurais dû deviner qu'Agar laisserait ses « bêtes » préférées garder son laboratoire !
+
+(134, 63, 1) ***Mercenary***
+Name:
+Henrietta
+
+(135, 65, 1) ***Olgoi-Khorkhoi***
+Message:
+Nous courions dans le tunnel depuis des heures. Je ne saurais dire combien de temps s'était écoulé, mais cela faisait un bon moment que j'avais commencé à trouver des inscriptions sur les murs et les colonnes, dans une langue que j'avais inventée moi-même et enseignée à Henrietta autrefois. Le labyrinthe de grottes et de catacombes semblait sans fin, mais nous étions sans aucun doute sur la bonne piste. Ma seule inquiétude était d'arriver trop tard... Il était impossible que l'équipe des hobbits ait suffisamment de provisions pour tenir tous ces mois, ou peu importe le temps que nous avions passé sous terre. Je ne savais plus si je pouvais me fier à ma perception du temps.        Kastore me fit signe. Certaines parois de la grotte semblaient avoir fondu, comme si elles avaient été touchées par un rayon de feu. Puis nous entendîmes un bourdonnement étrange ; une lumière clignota au-dessus de nous, et tout se figea à nouveau. Un instant plus tard, une odeur de viande brûlée nous parvint. Kastore dégaina son arme, tandis que je préparais mes sorts. Nous nous précipitâmes dans le passage d'où venait de jaillir cette lumière aveuglante. Plus nous nous approchions de la source de cette horrible odeur, plus nous trouvions de coquilles chitineuses carbonisées de vers. Finalement, j'aperçus Henrietta. La jeune fille était émaciée, le visage sale et griffé, mais elle était vivante ! Elle tenait dans ses mains quelque chose qui ressemblait à une boule de pierre et l'agitait dans tous les sens.        « Frederick ! Attention ! Il y en a des centaines ici ! Cette chose, elle... elle les brûle ! » Je ne comprenais pas très bien de quoi elle parlait. La boule de pierre ? Mais comment est-ce possible... Le mur à notre droite s'est effondré.        J'ai vu les gueules béantes des vers — ils étaient sur le point de se précipiter vers nous. Soudain, l'espace fut rempli d'un bourdonnement mécanique. Je fus aveuglé pendant une seconde, et lorsque ma vision revint, les vers se tordaient dans les flammes, et la boule de pierre d'Henrietta brillait d'une lueur similaire à celle du flash, mais plus douce.        « Frederick, ne reste pas planté là comme un idiot ! Regarde autour de toi ! » me siffla Kastore, mais il était trop tard. Le sol sous nos pieds s'est ouvert et s'est effondré ; nous sommes tombés à un niveau encore plus bas des grottes. C'est là que nous avons rencontré la Matriarche. C'était son repaire ; il grouillait de larves et de vers adultes, et il y avait encore plus de ses œufs hideux.        « Eh bien... on dirait que nous les avons trouvées toutes les deux : Henrietta et la Matriarche », ai-je murmuré en me préparant au combat.
+
+(104, 91, 1) ***Olgoi-Khorkhoi***
+Message:
+Nous avons traversé la tombe avec prudence, à la recherche de traces hobbits ou d'humains. Un bruit s'est fait entendre devant nous, un bruit que je connaissais bien. Il y avait des Vers des Sables.        Je compris alors clairement ce qui s'était passé ici : les vers avaient creusé des galeries qui avaient provoqué l'effondrement de la tombe. À l'endroit où Henrietta et son expédition étaient récemment passées, nous ne trouvâmes que des tas de gravats : des pierres, des colonnes et des stèles anciennes brisées, toutes couvertes d'inscriptions inconnues. Il fallait trouver un autre chemin...
+
+(4, 104, 1) ***Seer's Hut***
+Message:
+Cette pièce est protégée par une barrière magique, créée peut-être par la puissante Nécromancienne Ioke. Tant qu'elle maintient cette barrière, il n'y a aucun moyen de passer.
+Cette pièce est protégée par une barrière magique, créée peut-être par la puissante Nécromancienne Ioke. Tant qu'elle maintient cette barrière, il n'y a aucun moyen de passer.
+Dans la pièce, vous trouvez un orbe bleu caché derrière une barrière de verre. Voulez-vous la briser ?
+
+(4, 117, 1) ***Seer's Hut***
+Message:
+Cette pièce est protégée par une barrière magique, créée peut-être par la puissante Nécromancienne Ioke. Tant qu'elle maintient cette barrière, il n'y a aucun moyen de passer.
+Cette pièce est protégée par une barrière magique, créée peut-être par la puissante Nécromancienne Ioke. Tant qu'elle maintient cette barrière, il n'y a aucun moyen de passer.
+Dans la pièce, vous trouvez un orbe blanc caché derrière une barrière de verre. Voulez-vous la briser ?
+
+(14, 84, 1) ***Quest Guard***
+Message:
+La porte menant aux profondeurs de la tombe est fermée à clé, et vous ne parvenez pas à l'ouvrir. Cependant, en regardant de plus près, vous remarquez une serrure inhabituelle en forme d'ankh.
+Cette partie de la tombe vous est encore inaccessible. Vous devez trouver un autre moyen. 
+À l'aide du Pendentif de Vie, vous pouvez ouvrir la porte, mais celui-ci perdra alors son pouvoir.     Voulez-vous entrer ?
+
+(45, 67, 1) ***Quest Gate***
+Message:
+Cette porte est scellée par un sceau magique. Seul Agar semble savoir comment entrer.
+Cette porte est scellée par un sceau magique. Seul Agar semble savoir comment entrer.
+Souhaitez-vous passer ?
+
+(149, 94, 1) ***Elementalist***
+Name:
+Yrkula
+
+(8, 78, 1) ***Pandora's Box***
+Message:
+
+
+(17, 78, 1) ***Pandora's Box***
+Message:
+
+
+(16, 77, 1) ***Pandora's Box***
+Message:
+
+
+(9, 79, 1) ***Pandora's Box***
+Message:
+
+
+(140, 105, 1) ***Quest Guard***
+Message:
+Cette pièce est protégée par une barrière magique, probablement créée par la puissante Conjureureuse Yrkula. Tant qu'elle maintient cette barrière, il est impossible de passer.
+Cette pièce est protégée par une barrière magique, probablement créée par la puissante Conjureureuse Yrkula. Tant qu'elle maintient cette barrière, il est impossible de passer.
+Maintenant qu'Yrkula a été vaincue, la barrière magique a disparu.        Voulez-vous passer ?
+
+(58, 64, 1) ***Quest Guard***
+Message:
+La première entrée du laboratoire d'Agar était bloquée par une porte faite d'un métal étrange que vous n'aviez jamais vu auparavant. Après plusieurs tentatives pour forcer ou faire fondre la porte, il est devenu évident que vous perdiez votre temps. Vous avez repéré un trou de serrure, mais il était clair que la porte ne pouvait être ouverte que de l'intérieur.     Déçu, vous examinez la porte une dernière fois et vous apprêtez à partir lorsque vous remarquez soudain des empreintes d'ogres et d'orques sur le sol de la grotte. Certaines mènent manifestement au laboratoire. Peut-être qu'Agar n'est pas le seul à pouvoir y entrer ? 
+Les nouvelles tentatives pour forcer la porte ont échoué. Vous devez trouver la clé... 
+Vous avez trouvé un objet étrange dans la forteresse montagneuse du barbare Akratos. De retour au laboratoire, vous réalisez qu'il s'agit de la clé du repaire d'Agar ! Souhaitez-vous entrer ?
+
+(115, 31, 1) ***Seer's Hut***
+Message:
+Kastore et moi contemplions les murs de la Salle des Illusions avec curiosité.        « Quel spectacle merveilleux », dis-je lentement. « Beaucoup de mages peuvent créer des illusions, mais je n'en ai jamais vu de pareilles auparavant. Habituellement, elles sont facilement dissipées d'un coup d'épée, mais celles-ci... »        Je m'interrompis lorsque j'aperçus un génie devant moi.        « Que regardez-vous ? » rugit-il avec indignation. « Je ne suis pas une illusion. Cela peut paraître étrange, mais je veux sortir d'ici. J'en ai assez de cet endroit, mais les gardiens des tombes sont assez puissants pour empêcher tout génie de quitter leur chambre. »        « Les gardiens des tombes ? »        « Ils prennent différentes formes, et vous en avez peut-être déjà rencontré certains. Je ne sais pas qui garde la Salle des Illusions, mais je pense que ce sont les Dragons Féériques. Aidez-moi à m'occuper d'eux, et je vous apprendrai la magie de combat. »
+Je suis toujours esclave entre ces murs. Les Dragons Féériques sont dans les parages.
+Pour la première fois en mille cinq cents ans, j'ai goûté à la liberté, et j'adore cette sensation !        Voulez-vous commencer votre entraînement maintenant ?
+
+(130, 97, 1) ***Seer's Hut***
+Message:
+Pendant que vous regardiez les arbres et l'herbe pousser dans la salle funéraire, vous n'avez pas remarqué le génie qui flottait à côté. Il semblait lire un livre, mais il finit par se tourner vers vous.        « Cela fait des décennies que personne n'a visité cette tombe », dit le génie. « Il fut un temps où je jurais de protéger cet endroit, comme les autres Génies, mais il n'y a rien de particulièrement précieux ici, et j'ai quitté mes frères il y a longtemps. Beaucoup d'entre eux, cependant, sont toujours fidèles aux maîtres qui nous ont abandonnés. J'ai passé ces dernières années à étudier la nature des choses qui suppriment la magie, mais malheureusement, je n'ai jamais pu mettre la main sur des artefacts vraiment puissants qui pourraient m'être utiles dans ma quête. Pourriez-vous m'aider ? À la surface, parmi les montagnes au nord de la tombe, vivent des tribus barbares. Ces sauvages abhorrent la magie et cherchent des moyens de la supprimer. Peut-être trouverez-vous ce dont j'ai besoin chez eux. »
+Malheureusement, vous n'avez pas les artefacts que je recherche.
+Cette cape et ce manteau sont exactement ce dont j'avais besoin ! Je n'ai pas d'or pour vous payer, mais je peux vous donner une bague enchantée qui supprime toute magie de Résurrection. Qui sait quand elle pourrait vous être utile ?
+
+(107, 106, 1) ***Efreet Sultan***
+Message:
+Dès que je me suis approché du portail, plus d'une douzaine de tourbillons de feu, des Effrits, sont apparus de nulle part. J'ai ordonné à mes hommes de préparer leurs armes.
+
+(50, 34, 1) ***Event***
+Message:
+Évenement bloquant technique
+
+(45, 40, 1) ***Necropolis***
+Name:
+Darkness
+
+(12, 34, 1) ***Necropolis***
+Name:
+Darkness
+
+(32, 32, 1) ***Pandora's Box***
+Message:
+
+
+(54, 54, 1) ***Pandora's Box***
+Message:
+
+
+(15, 20, 1) ***Event***
+Message:
+
+
+(15, 19, 1) ***Event***
+Message:
+
+
+(41, 22, 1) ***Event***
+Message:
+Les cavernes inondées réapparurent, et il semblait que nous allions devoir reprendre le bateau. Agar nous avait prévenus : il avait lui-même tenté à plusieurs reprises d'atteindre l'autre rive de ce lac souterrain, par magie et en bateau, mais le lac était truffé de rochers sous-marins, et l'autre rive était trop éloignée pour être atteinte par un sortilège.        Peut-être pourrions-nous voir ce que nous avions besoin de voir en marchant sur l'eau autour de notre navire ?
+
+(9, 77, 1) ***Pandora's Box***
+Message:
+
+
+(10, 78, 1) ***Pandora's Box***
+Message:
+
+
+(116, 3, 1) ***Pandora's Box***
+Message:
+
+
+(108, 6, 1) ***Pandora's Box***
+Message:
+
+
+(111, 13, 1) ***Pandora's Box***
+Message:
+
+
+(119, 12, 1) ***Pandora's Box***
+Message:
+
+
+(173, 11, 1) ***Pandora's Box***
+Message:
+
+
+(168, 4, 1) ***Pandora's Box***
+Message:
+
+
+(12, 111, 1) ***Planeswalker***
+Name:
+Tonant
+
+(61, 27, 1) ***Necromancer***
+Name:
+Meline
+
+(120, 177, 1) ***Ranger***
+Name:
+Keio
+
+(41, 114, 1) ***Pandora's Box***
+Message:
+
+
+(132, 122, 1) ***Pandora's Box***
+Message:
+
+
+(37, 85, 1) ***Pandora's Box***
+Message:
+
+
+(38, 85, 1) ***Demoniac***
+Name:
+Phlegeth
+
+(159, 176, 1) ***Seer's Hut***
+Message:
+Vous vous battez bien, mais vous préférerez peut-être nos automates à ceux que vous possédez. Apportez-nous 10 de mercure et 20 000 pièces d'or, et nous vous fournirons volontiers de nouveaux modèles.
+Malheureusement, cela ne suffit pas.
+C'est parfait !
+Apportez-nous 2 automates et nous les remplacerons par de meilleurs.
+Malheureusement, nous ne pouvons pas encore vous aider. Revenez plus tard !
+Voulez-vous faire l'échange maintenant ?
+
+(149, 177, 1) ***Seer's Hut***
+Message:
+Vous vous battez bien, mais vous préférerez peut-être notre équipement à celui que vous possèdez. Apportez-nous 10 de soufre et 20 000 pièces d'or, et nous vous fournirons volontiers.
+Malheureusement, cela ne suffit pas.
+C'est génial !
+Apportez-nous 6 mécaniciens et nous les équiperons de nouveaux outils.
+Malheureusement, nous ne pouvons pas encore vous aider. Revenez plus tard !
+Voulez-vous faire un échange maintenant ?
+
+(161, 177, 1) ***Seer's Hut***
+Message:
+Vous vous battez bien, mais vous préférerez peut-être nos fusils à ceux que vous possèdez. Apportez-nous 10 gemmes et 20 000 pièces d'or, et nous vous fournirons volontiers de nouvelles armes.
+Malheureusement, cela ne suffit pas.
+C'est génial !
+Apportez-nous 1 pistolero et nous lui fournirons un nouveau pistolet.
+Malheureusement, nous ne pouvons pas encore vous aider. Revenez plus tard !
+Voulez-vous faire un échange maintenant ?
+
+(152, 176, 1) ***Seer's Hut***
+Message:
+Vous vous battez bien, mais vous préférerez peut-être nos bêtes à celles que vous possèdez. Apporte-nous 10 cristaux et 20 000 pièces d'or, et nous vous fournirons volontiers de meilleures bêtes.
+Malheureusement, cela ne suffit pas.
+C'est génial !
+Apportez-nous 4 glyptodons et nous les remplacerons par de plus puissants.
+Malheureusement, nous ne pouvons pas encore vous aider. Revenez plus tard !
+Voulez-vous faire un échange maintenant ?
+
+(132, 32, 1) ***Quest Guard***
+Message:
+Vous vous approchez prudemment de la porte dans la Salle des Illusions. Soudain, la porte se transforme et la pierre se retrouve recouverte d'une image terrifiante d'Effrit.
+Toutes les tentatives pour ouvrir les portes ont échoué. Nous devrons peut-être trouver un autre moyen d'entrer.
+Vous avez vaincu l'illusion de Zydar. La porte s'ouvre et la voie est libre.
+
+(163, 51, 1) ***Alchemist***
+Name:
+Frederick
+Biography:
+
+
+(142, 13, 1) ***Quest Guard***
+Message:
+Vous vous approchez prudemment de la porte dans la Salle des Illusions. Soudain, la porte se transforme et la pierre se retrouve recouverte d'une image de pirate fougueux.
+Toutes les tentatives pour ouvrir les portes ont échoué. Nous devrons peut-être trouver un autre moyen d'entrer.
+Vous avez vaincu l'illusion de Dargem. La porte s'ouvre et la voie est libre.
+
+(143, 12, 1) ***Quest Guard***
+Message:
+Vous vous approchez prudemment de la porte dans la Salle des Illusions. Soudain, la porte se transforme et la pierre se retrouve recouverte d'une image représentant un squelette coiffé d'un chapeau, vous reconnaissez Boyd.
+Toutes les tentatives pour ouvrir les portes ont échoué. Nous devrons peut-être trouver un autre moyen d'entrer.
+Vous avez vaincu l'illusion de Boyd. La porte s'ouvre et la voie est libre.
+
+(111, 7, 1) ***Death Knight***
+Name:
+Boyd
+
+(55, 74, 1) ***Quest Guard***
+Message:
+Il s'agit d'un portail bidirectionnel, mais vous ne pouvez ouvrir l'entrée que d'un seul côté.
+Il s'agit d'un portail bidirectionnel, mais vous ne pouvez ouvrir l'entrée que d'un seul côté.
+Voulez-vous ouvrir le portail ?
+
+(57, 60, 1) ***Quest Guard***
+Message:
+La première entrée du laboratoire d'Agar était bloquée par une porte faite d'un métal étrange que vous n'aviez jamais vu auparavant. Après plusieurs tentatives pour forcer ou faire fondre la porte, il est devenu évident que vous perdiez votre temps. Vous avez repéré un trou de serrure, mais il était clair que la porte ne pouvait être ouverte que de l'intérieur.     Déçu, vous examinez la porte une dernière fois et t'apprêtes à partir lorsque vous remarquez soudain des empreintes d'ogres et d'orques sur le sol de la grotte. Certaines mènent manifestement au laboratoire. Peut-être qu'Agar n'est pas le seul à pouvoir y entrer ? 
+Les nouvelles tentatives pour forcer la porte ont échoué. Vous devez trouver la clé... 
+Vous avez trouvé un objet étrange dans la forteresse montagneuse du barbare Akratos. De retour au laboratoire, vous réalisez qu'il s'agit de la clé du repaire d'Agar ! Souhaitez-vous entrer ?
+
+(172, 15, 1) ***Pandora's Box***
+Message:
+
+
+(165, 14, 1) ***Pandora's Box***
+Message:
+
+
+(87, 68, 1) ***Event***
+Message:
+Une étrange sensation envahit votre esprit. Pendant un instant, vous avez eu l'impression que le temps lui-même s'était arrêté...
+
+(51, 2, 1) ***Elementalist***
+Name:
+Fulghea
+
+(106, 106, 1) ***Quest Guard***
+Message:
+Ce portail à sens unique mène clairement au cœur de la tombe, mais il est peu probable qu'Henrietta et son expédition aient emprunté ce chemin.
+Nous devons découvrir où l'expédition d'Henrietta s'est rendue.
+Voulez-vous vous diriger vers le portail ?
+
+(80, 107, 1) ***Quest Guard***
+Message:
+Le chemin menant à cette partie du tombeau a été scellé par magie par les Génies. Tant qu'ils sont là, il est impossible d'ouvrir cette porte.
+Le chemin menant à cette partie du tombeau a été scellé par magie par les Génies. Tant qu'ils sont là, il est impossible d'ouvrir cette porte.
+Les Génies ont été vaincus, et le passage vers cette partie du tombeau est désormais ouvert. Voulez-vous passer ?
+
+(160, 135, 1) ***Pandora's Box***
+Message:
+
+
+(160, 136, 1) ***Quest Guard***
+Message:
+Le chemin menant à cette partie du tombeau a été scellé par magie par des gardes après l'intrusion du Dragon Azur. Peut-être que si vous chassez le monstre, la barrière sera levée.
+Le chemin menant à cette partie du tombeau a été scellé par magie par des gardes après l'intrusion du Dragon Azur. Peut-être que si vous chassez le monstre, la barrière sera levée.
+Le dragon n'est plus et le passage vers cette partie du tombeau est ouvert.        Voulez-vous passer ?
+
+(164, 135, 1) ***Pandora's Box***
+Message:
+
+
+(164, 136, 1) ***Quest Guard***
+Message:
+Le chemin menant à cette partie du tombeau a été scellé par magie par des gardes après l'intrusion des Dragons Fantômes. Peut-être que si vous chassez les monstres, la barrière sera levée.
+Le chemin menant à cette partie du tombeau a été scellé par magie par des gardes après l'intrusion des Dragons Fantômes. Peut-être que si vous chassez les monstres, la barrière sera levée.
+Les dragons ont disparu et le passage vers cette partie du tombeau est ouvert.        Voulez-vous passer ?
+
+(168, 136, 1) ***Quest Guard***
+Message:
+Le chemin menant à cette partie du tombeau a été scellé par magie par les Génies. Tant qu'ils sont là, il est impossible d'ouvrir cette porte.
+Le chemin menant à cette partie du tombeau a été scellé par magie par les Génies. Tant qu'ils sont là, il est impossible d'ouvrir cette porte.
+Les Génies ont été vaincus, et le passage vers cette partie du tombeau est désormais ouvert.        Voulez-vous passer ?
+
+(168, 135, 1) ***Pandora's Box***
+Message:
+
+
+(172, 135, 1) ***Pandora's Box***
+Message:
+
+
+(172, 136, 1) ***Quest Guard***
+Message:
+Le passage vers cette partie de la tombe est protégé par une barrière magique, créée peut-être par la puissante Nécromancienne Ioke. Tant qu'elle maintient cette barrière, il n'y a aucun moyen de passer.
+Le passage vers cette partie de la tombe est protégé par une barrière magique, créée peut-être par la puissante Nécromancienne Ioke. Tant qu'elle maintient cette barrière, il n'y a aucun moyen de passer.
+Maintenant que Ioke a été vaincue, la barrière magique a disparu.        Voulez-vous passer ?
+
+(176, 136, 1) ***Quest Guard***
+Message:
+Un groupe de Djinns bloque l'entrée de cette partie de la tombe. Ils acceptent de vous laisser entrer si vous leur apportez l'artefact perdu : le Pendentif du Courage.
+Un groupe de Djinns bloque l'entrée de cette partie de la tombe. Ils acceptent de vous laisser entrer si vous leur apportez l'artefact perdu : le Pendentif du Courage.
+Les Djinns remarquent que vous avez le pendentif et sont prêts à vous laisser entrer.        Voulez-vous passer ?
+
+(176, 135, 1) ***Pandora's Box***
+Message:
+
+
+(160, 138, 1) ***Quest Guard***
+Message:
+Un groupe de Djinns bloque l'entrée de cette partie de la tombe. Ils acceptent de vous laisser entrer si vous leur apportez l'artefact perdu : le Pendentif de Pureté
+Un groupe de Djinns bloque l'entrée de cette partie de la tombe. Ils acceptent de vous laisser entrer si vous leur apportez l'artefact perdu : le Pendentif de Pureté.
+Les Djinns remarquent que vous avez le pendentif et sont prêts à vous laisser entrer.        Voulez-vous passer ?
+
+(160, 139, 1) ***Pandora's Box***
+Message:
+
+
+(164, 138, 1) ***Quest Guard***
+Message:
+Le chemin menant à cette partie du tombeau a été scellé par magie par des gardes après l'intrusion des Dragons Corrosifs. Peut-être que si vous chassez les monstres, la barrière sera levée.
+Le chemin menant à cette partie du tombeau a été scellé par magie par des gardes après l'intrusion des Dragons Corrosifs. Peut-être que si vous chassez les monstres, la barrière sera levée.
+Les dragons ont disparu et le passage vers cette partie du tombeau est ouvert.        Voulez-vous passer ?
+
+(164, 139, 1) ***Pandora's Box***
+Message:
+
+
+(168, 139, 1) ***Pandora's Box***
+Message:
+
+
+(172, 138, 1) ***Quest Guard***
+Message:
+Le chemin menant à cette partie du tombeau a été scellé par magie par des gardes après que les Dragons Féériques s'y soient introduits. Peut-être que si vous chassez les monstres, la barrière sera levée.
+Le chemin menant à cette partie du tombeau a été scellé par magie par des gardes après l'intrusion des Dragons Féériques. Peut-être que si vous chassez les monstres, la barrière sera levée.
+Les dragons ont disparu et le passage vers cette partie du tombeau est ouvert.        Voulez-vous passer ?
+
+(172, 139, 1) ***Pandora's Box***
+Message:
+
+
+(176, 138, 1) ***Quest Guard***
+Message:
+Le passage vers cette partie de la tombe est protégé par une barrière magique, créée peut-être par le puissant Marcheur, Tonant. Tant qu'il maintient cette barrière, il n'y a aucun moyen de passer.
+Le passage vers cette partie de la tombe est protégé par une barrière magique, créée peut-être par le puissant Marcheur, Tonant. Tant qu'il maintient cette barrière, il n'y a aucun moyen de passer.
+Maintenant que Tonant a été vaincu, la barrière magique a disparu.        Voulez-vous passer ?
+
+(176, 139, 1) ***Pandora's Box***
+Message:
+
+
+(15, 78, 1) ***Pandora's Box***
+Message:
+
+
+(16, 79, 1) ***Pandora's Box***
+Message:
+
+
+(10, 76, 1) ***Pandora's Box***
+Message:
+
+
+(11, 75, 1) ***Pandora's Box***
+Message:
+
+
+(9, 75, 1) ***Pandora's Box***
+Message:
+
+
+(10, 74, 1) ***Pandora's Box***
+Message:
+
+
+(14, 75, 1) ***Pandora's Box***
+Message:
+
+
+(15, 76, 1) ***Pandora's Box***
+Message:
+
+
+(16, 75, 1) ***Pandora's Box***
+Message:
+
+
+(15, 74, 1) ***Pandora's Box***
+Message:
+
+
+(8, 74, 1) ***Pandora's Box***
+Message:
+
+
+(17, 74, 1) ***Pandora's Box***
+Message:
+
+
+(12, 77, 1) ***Pandora's Box***
+Message:
+
+
+(13, 79, 1) ***Pandora's Box***
+Message:
+
+
+(76, 178, 1) ***Pandora's Box***
+Message:
+
+
+(74, 178, 1) ***Quest Guard***
+Message:
+Un groupe de Djinns bloque l'entrée de cette partie de la tombe. Ils acceptent de vous laisser entrer si vous leur apportez les artefacts perdus : le Pendentif de Mort et le Pendentif de Volonté.
+Un groupe de Djinns bloque l'entrée de cette partie de la tombe. Ils acceptent de vous laisser entrer si vous leur apportez les artefacts perdus : le Pendentif de Mort et le Pendentif de Volonté.
+Les Djinns remarquent que vous avez les artéfacts et sont prêts à vous laisser entrer.        Voulez-vous passer ?
+
+(53, 178, 1) ***Quest Guard***
+Message:
+Un groupe de Djinns bloque l'entrée de cette partie de la tombe. Ils acceptent de vous laisser entrer si vous leur apportez les artefacts perdus : le Pendentif de Mort et le Pendentif de Flegme.
+Un groupe de Djinns bloque l'entrée de cette partie de la tombe. Ils acceptent de vous laisser entrer si vous leur apportez les artefacts perdus : le Pendentif de Mort et le Pendentif de Flegme.
+Les Djinns remarquent que vous avez les artéfacts et sont prêts à vous laisser entrer.        Voulez-vous passer ?
+
+(61, 179, 1) ***Pandora's Box***
+Message:
+
+
+(62, 176, 1) ***Pandora's Box***
+Message:
+
+
+(55, 173, 1) ***Quest Guard***
+Message:
+La porte menant aux profondeurs de la tombe est fermée à clé, et vous ne parvenez pas à l'ouvrir. Cependant, en regardant de plus près, vous remarquez une serrure inhabituelle en forme de crâne.
+Le trésor caché derrière cette porte ne vous est pas encore accessible. 
+À l'aide du Pendentif de Mort, vous pouvez ouvrir la porte, mais celui-ci perdra alors son pouvoir.        Voulez-vous entrer ? 
+
+(51, 178, 1) ***Pandora's Box***
+Message:
+
+
+(23, 154, 1) ***Pandora's Box***
+Message:
+
+
+(66, 176, 1) ***Pandora's Box***
+Message:
+
+
+(67, 179, 1) ***Pandora's Box***
+Message:
+
+
+(64, 174, 1) ***Necromancer***
+Name:
+Ioke
+
+(58, 157, 1) ***Pandora's Box***
+Message:
+
+
+(52, 136, 1) ***Elementalist***
+Name:
+Telchion
+
+(159, 30, 1) ***Quest Guard***
+Message:
+Vous vous approchez prudemment de la porte dans la Salle des Illusions. Soudain, la porte se transforme, et la pierre se retrouve recouverte par l'image d'un jeune mage Bracadan. Son visage vous semble étrangement familier...
+Toutes les tentatives pour ouvrir les portes ont échoué. Nous devrons peut-être trouver un autre moyen d'entrer.
+Vous avez vaincu l'illusion de Frederick. La porte s'ouvre et le chemin est libre.
+
+(92, 43, 1) ***Overlord***
+Name:
+Ghius
+
+(56, 61, 1) ***Quest Guard***
+Message:
+Derrière la porte, vous apercevez un démon ailé à l'air menaçant qui vous barre le chemin. La puissance de ces créatures est légendaire, et vous n'osez pas l'affronter. Comment Agar a-t-il réussi à gagner la confiance d'une telle bête ?     Le démon resta silencieux pendant un moment, regardant les invités indésirables avec méfiance, puis finit par rugir :     « Ramenez-moi les reliques, et je vous laisserai passer ! »
+Le démon est toujours là. Vous ne devriez pas l'agacer sans raison valable. 
+Le démon s'approche de vous, impatient de récupérer ses artéfacts. Voulez-vous les donner à la bête et vous rendre au laboratoire ?
+
+(89, 38, 1) ***Event***
+Message:
+Les grottes devenaient de plus en plus profondes, et il faisait de plus en plus sombre. Même la lumière magique que j'avais conjurée semblait s'estomper à quelques coudées de distance. « Il y a quelque chose devant nous », dis-je. « Ou quelqu'un. » Agar prononça quelques mots et agita les mains, jetant une sorte de sort. Un bruit étrange provenait des profondeurs : des grognements, des mugissements... des meuglements ? « Je pouvais sentir la présence de monstres. Trois énormes... groupes, et il semblait n'y avoir personne d'autre qu'eux dans le donjon, remarqua-t-il. Certains sont des vers, mais il y a aussi des Manticores, des Béhémoths et d'autres créatures... malheureusement, à cette distance, il est difficile de les distinguer. »
+
+(35, 82, 1) ***Seer's Hut***
+Message:
+Au fond de la grotte, vous rencontrez un groupe d'Effrits. Leur chef vous interpelle : « Liberté ! Nous avons attendu trop longtemps ce moment. Lorsque le Silence s'est abattu sur notre monde, nous avons refusé de garder cette tombe. Pour cela, nous avons été emprisonnés dans les grottes, et Phlegeth est resté pour nous surveiller. S'il vous plaît, laissez-nous vous accompagner et enfin quitter cet endroit ! »
+Voulez-vous intégrer les Effrits à votre armée ? 
+
+(154, 174, 1) ***Quest Guard***
+Message:
+Ces portes ont été scellées par magie par les Génies. Tant qu'ils sont là, il est impossible d'ouvrir cette porte.
+Ces portes ont été scellées par magie par les Génies. Tant qu'ils sont là, il est impossible d'ouvrir cette porte.
+Les Génies ont été vaincus et le passage est désormais ouvert.        Voulez-vous passer ?
+
+(39, 19, 1) ***Necromancer***
+Name:
+Trophon
+
+(162, 93, 1) ***Quest Guard***
+Message:
+Le passage vers cette partie de la tombe est protégé par une barrière magique, créée peut-être par le puissant Conjureur Telchion. Tant qu'il maintient cette barrière, il n'y a aucun moyen de passer.
+Le passage vers cette partie de la tombe est protégé par une barrière magique, créée peut-être par le puissant Conjureur Telchion. Tant qu'il maintient cette barrière, il n'y a aucun moyen de passer.
+Maintenant que Telchion a été vaincu, la barrière magique a disparu.        Voulez-vous passer ?
+
+(169, 91, 1) ***Pandora's Box***
+Message:
+
+
+(168, 138, 1) ***Quest Guard***
+Message:
+Le passage vers cette partie de la tombe est protégé par une barrière magique, créée peut-être par la puissante Rôdeuse Keio. Tant qu'elle maintient cette barrière, il n'y a aucun moyen de passer.
+Le passage vers cette partie de la tombe est protégé par une barrière magique, créée peut-être par la puissante Rôdeuse Keio. Tant qu'elle maintient cette barrière, il n'y a aucun moyen de passer.
+Maintenant que Keio a été vaincue, la barrière magique a disparu.        Voulez-vous passer ?
+
+(24, 137, 1) ***Quest Guard***
+Message:
+Le passage vers cette partie de la tombe est protégé par une barrière magique, créée peut-être par le puissant Marcheur Ulkumi. Tant qu'il maintient cette barrière, il n'y a aucun moyen de passer.
+Le passage vers cette partie de la tombe est protégé par une barrière magique, créée peut-être par le puissant Marcheur Ulkumi. Tant qu'il maintient cette barrière, il n'y a aucun moyen de passer.
+Maintenant qu'Ulkumi a été vaincu, la barrière magique a disparu.        Voulez-vous passer ?
+
+(92, 60, 1) ***Ocean Bottle***
+Message:
+L'auteur de cette map a le niveau 30 en traquenard
+
+(154, 149, 1) ***Event***
+Message:
+À première vue, l'habitation située au fond de la grotte semblait abandonnée, mais vous vous êtes vite rendu compte qu'il n'en était rien : une fois à l'intérieur, vous vous êtes retrouvé entouré d'étagères remplies de livres et de fioles de potions. L'Alchimiste, manifestement le propriétaire des lieux, était penché sur une boule de cristal, l'air concentré.        « Enfin ! », s'est-il exclamé. « Je vous observe depuis un certain temps déjà, et je savais que vous viendriez. Vous cherchez le laboratoire d'Agar, n'est-ce pas ? Je sais où il se trouve, et je connais bien cet homme. Quant au laboratoire, il était relativement facile d'y accéder auparavant, mais tout a changé lorsqu'il a commencé à faire des expériences avec ces... vers. Aujourd'hui, de nombreuses routes ont été détruites par des glissements de terrain, et on ne peut plus s'y rendre que par les airs. Regardez ceci, s'il vous plaît », dit l'Alchimiste en montrant sa boule de cristal. « J'ai quelque chose à vous montrer. »
+
+(45, 140, 1) ***Quest Guard***
+Message:
+La porte menant aux profondeurs de la tombe est fermée à clé, et vous ne parvenez pas à l'ouvrir. Cependant, en regardant de plus près, vous remarquez une serrure inhabituelle en forme d'ankh.
+Cette partie de la tombe vous est encore inaccessible. Vous devez trouver un autre moyen. 
+À l'aide du Pendentif de Vie, vous pouvez ouvrir la porte, mais celui-ci perdra alors son pouvoir.        Voulez-vous entrer ?
+
+(59, 140, 1) ***Quest Guard***
+Message:
+La porte menant aux profondeurs de la tombe est fermée à clé, et vous ne parvenez pas à l'ouvrir. Cependant, en regardant de plus près, vous remarquez une serrure inhabituelle en forme d'ankh.
+Cette partie de la tombe vous est encore inaccessible. Vous devez trouver un autre moyen. 
+À l'aide du Pendentif de Vie, vous pouvez ouvrir la porte, mais celui-ci perdra alors son pouvoir.        Voulez-vous entrer ?
+
+(64, 166, 1) ***Quest Guard***
+Message:
+La porte menant aux profondeurs de la tombe est fermée à clé, et vous ne parvenez pas à l'ouvrir. Cependant, en regardant de plus près, vous remarquez une serrure inhabituelle en forme d'ankh.
+Cette partie de la tombe vous est encore inaccessible. Vous devez trouver un autre moyen. 
+À l'aide du Pendentif de Vie, vous pouvez ouvrir la porte, mais celui-ci perdra alors son pouvoir.        Voulez-vous entrer ?
+
+(167, 101, 1) ***Quest Guard***
+Message:
+La porte menant aux profondeurs de la tombe est fermée à clé, et vous ne parvenez pas à l'ouvrir. Cependant, en regardant de plus près, vous remarquez une serrure inhabituelle en forme d'ankh.
+Cette partie de la tombe vous est encore inaccessible. Vous devez trouver un autre moyen. 
+À l'aide du Pendentif de Vie, vous pouvez ouvrir la porte, mais celui-ci perdra alors son pouvoir.     Voulez-vous entrer ?
+
+(125, 140, 1) ***Quest Guard***
+Message:
+La porte menant aux profondeurs de la tombe est fermée à clé, et vous ne parvenez pas à l'ouvrir. Cependant, en regardant de plus près, vous remarquez une serrure inhabituelle en forme d'ankh.
+Cette partie de la tombe vous est encore inaccessible. Vous devez trouver un autre moyen. 
+À l'aide du Pendentif de Vie, vous pouvez ouvrir la porte, mais celui-ci perdra alors son pouvoir.     Voulez-vous entrer ?
+
+(104, 137, 1) ***Quest Guard***
+Message:
+La porte menant aux profondeurs de la tombe est fermée à clé, et vous ne parvenez pas à l'ouvrir. Cependant, en regardant de plus près, vous remarquez une serrure inhabituelle en forme d'ankh.
+Cette partie de la tombe vous est encore inaccessible. Vous devez trouver un autre moyen. 
+À l'aide du Pendentif de Vie, vous pouvez ouvrir la porte, mais celui-ci perdra alors son pouvoir.     Voulez-vous entrer ?
+
+(76, 89, 1) ***Quest Guard***
+Message:
+La porte menant aux profondeurs de la tombe est fermée à clé, et vous ne parvenez pas à l'ouvrir. Cependant, en regardant de plus près, vous remarquez une serrure inhabituelle en forme d'ankh.
+Cette partie de la tombe vous est encore inaccessible. Vous devez trouver un autre moyen. 
+À l'aide du Pendentif de Vie, vous pouvez ouvrir la porte, mais celui-ci perdra alors son pouvoir.     Voulez-vous entrer ?
+
+(23, 137, 1) ***Quest Guard***
+Message:
+La porte menant aux profondeurs de la tombe est fermée à clé, et vous ne parvenez pas à l'ouvrir. Cependant, en regardant de plus près, vous remarquez une serrure inhabituelle en forme d'ankh.
+Cette partie de la tombe vous est encore inaccessible. Vous devez trouver un autre moyen. 
+À l'aide du Pendentif de Vie, vous pouvez ouvrir la porte, mais celui-ci perdra alors son pouvoir.     Voulez-vous entrer ?
+
+(16, 160, 1) ***Quest Guard***
+Message:
+La porte menant aux profondeurs de la tombe est fermée à clé, et vous ne parvenez pas à l'ouvrir. Cependant, en regardant de plus près, vous remarquez une serrure inhabituelle en forme d'ankh.
+Cette partie de la tombe vous est encore inaccessible. Vous devez trouver un autre moyen. 
+À l'aide du Pendentif de Vie, vous pouvez ouvrir la porte, mais celui-ci perdra alors son pouvoir.     Voulez-vous entrer ?
+
+(8, 136, 1) ***Quest Guard***
+Message:
+Le passage vers cette partie de la tombe est protégé par une barrière magique, créée peut-être par une puissante Nécromancienne, Ioke. Tant qu'elle maintient cette barrière, il n'y a aucun moyen de passer.
+Le passage vers cette partie de la tombe est protégé par une barrière magique, créée peut-être par une puissante Nécromancienne, Ioke. Tant qu'elle maintient cette barrière, il n'y a aucun moyen de passer.
+Maintenant qu'Ulkumi a été vaincu, la barrière magique a disparu. Voulez-vous passer ?
+
+(169, 82, 1) ***Quest Guard***
+Message:
+Le passage vers cette partie de la tombe est protégé par une barrière magique, créée peut-être par le puissant Conjureur Telchion. Tant qu'il maintient cette barrière, il n'y a aucun moyen de passer.
+Le passage vers cette partie de la tombe est protégé par une barrière magique, créée peut-être par le puissant Conjureur Telchion. Tant qu'il maintient cette barrière, il n'y a aucun moyen de passer.
+Maintenant que Telchion a été vaincu, la barrière magique a disparu. Voulez-vous passer ?
+
+(100, 109, 1) ***Quest Guard***
+Message:
+Le chemin menant à cette partie du tombeau a été scellé par magie par les Génies. Tant qu'ils sont là, il est impossible d'ouvrir cette porte.
+Le chemin menant à cette partie du tombeau a été scellé par magie par les Génies. Tant qu'ils sont là, il est impossible d'ouvrir cette porte.
+Les Génies ont été vaincus, et le passage vers cette partie du tombeau est désormais ouvert. Voulez-vous passer ?
+
+(79, 96, 1) ***Quest Guard***
+Message:
+Le chemin menant à cette partie du tombeau a été scellé par magie par les Génies. Tant qu'ils sont là, il est impossible d'ouvrir cette porte.
+Le chemin menant à cette partie du tombeau a été scellé par magie par les Génies. Tant qu'ils sont là, il est impossible d'ouvrir cette porte.
+Les Génies ont été vaincus, et le passage vers cette partie du tombeau est désormais ouvert. Voulez-vous passer ?
+
+(17, 160, 1) ***Quest Guard***
+Message:
+Le passage vers cette partie de la tombe est protégé par une barrière magique, créée peut-être par le puissant Marcheur Ulkumi. Tant qu'il maintient cette barrière, il n'y a aucun moyen de passer.
+Le passage vers cette partie de la tombe est protégé par une barrière magique, créée peut-être par le puissant Marcheur Ulkumi. Tant qu'il maintient cette barrière, il n'y a aucun moyen de passer.
+Maintenant qu'Ulkumi a été vaincu, la barrière magique a disparu. Voulez-vous passer ?
+
+(19, 110, 1) ***Quest Guard***
+Message:
+La porte menant aux profondeurs de la tombe est fermée à clé, et vous ne parvenez pas à l'ouvrir. Cependant, en regardant de plus près, vous remarquez une serrure inhabituelle en forme d'ankh.
+Cette partie de la tombe vous est encore inaccessible. Vous devez trouver un autre moyen. 
+À l'aide du Pendentif de Vie, vous pouvez ouvrir la porte, mais celui-ci perdra alors son pouvoir.     Voulez-vous entrer ?
+
+(91, 106, 1) ***Master Genie***
+Message:
+Un éclair illumina la scène, et une foule de Génies surgit du coin de la rue devant moi ! Les Génies et les Effrits sont connus pour être des ennemis jurés... Quel pouvoir pouvait bien les pousser à s'unir pour garder cette tombe ? J'avais fait la connaissance de Génies à Bracada, mais ceux que je voyais maintenant... quelque chose clochait chez eux. J'étais sur le point d'interpeller l'un d'entre eux, mais trop tard : sans un mot, les Génies attaquèrent.
+
+(103, 107, 1) ***Event***
+Message:
+Notre expédition dans les profondeurs de la mystérieuse crypte se poursuivait. Nous devions faire de notre mieux pour que cette tombe – construite pour qui ? quand ? – ne devienne pas la nôtre également. Non seulement des vers et les morts-vivants habituels, mais aussi toutes sortes de créatures magiques rôdaient dans les couloirs sombres et les salles poussiéreuses. Certains de ces monstres s'étaient probablement infiltrés ici depuis les grottes voisines lorsque les effondrements avaient ouvert les passages ; d'autres semblaient avoir toujours été là, gardant leurs secrets anciens. Bien que j'aie qualifié cet endroit de tombeau, nous n'y avons trouvé aucune sépulture rituelle. Je n'arrêtais pas de me demander qui avait érigé ce majestueux temple souterrain et pourquoi. Cependant, mon compagnon ne semblait pas se soucier de ces questions. Kastore semblait métamorphosé, tel un jeune alchimiste à qui son mentor aurait enfin permis d'utiliser les tubes de distillation, les réactifs et les incunables après des années d'apprentissage. Il courait d'un mur à l'autre, semblant lire des inscriptions qui m'étaient incompréhensibles. De temps à autre, il feuilletait avec ferveur un petit carnet et prenait des notes. Il ne tarda pas à remarquer que les hiéroglyphes anciens ne suscitaient pas le même enthousiasme chez moi.
+
+(174, 137, 1) ***Event***
+Message:
+« Dis-moi, Frederick, que sais-tu de l'époque appelée le Temps des Merveilles ? » me demanda Kastore alors que nous explorions une autre pièce.        Jeune homme, j'avais étudié avec avidité même les sources les plus douteuses sur le sujet, essayant de trouver un moyen de redécouvrir les mystères perdus dans le temps, mais maintenant, pour une raison quelconque, le manuel scolaire me revint à l'esprit. Je récitais le texte que j'avais autrefois mémorisé : « L'Âge des Merveilles était une époque où le monde n'était pas encore divisé en États et était gouverné par des mages tout-puissants. Leurs pouvoirs illimités leur permettaient de créer de puissants artefacts à partir d'énergie pure et de contrôler les éléments avec une habileté cent fois supérieure à celle des Conjureurs les plus puissants vivant aujourd'hui. Leur règne était si sage et miséricordieux que le monde ne connaissait ni la faim ni la guerre. La plus sophistiquée de leurs créations magiques, appelée les Forges célestes, pouvait même créer des copies parfaites d'objets. Bon nombre des objets aujourd'hui considérés comme des artefacts légendaires étaient à l'époque l'équipement habituel des soldats. L'ère des merveilles dura jusqu'à ce qu'un homme, le vice-roi des mages du pays aujourd'hui connu sous le nom de Dragonsand, sur le continent d'Enroth, provoque un cataclysme dévastateur. La catastrophe anéantit des dizaines de villes en une nuit et transforma cette région en un désert empoisonné. Tout le monde attendait une réponse des mages omnipotents, mais seul le silence régnait.		Les régents des terres réalisèrent alors qu'il n'y avait plus d'autorité suprême au-dessus d'eux, et une ère de guerres sans fin commença, où le contrôle des vestiges du monde parfait était en jeu. Bien sûr, le monde ne fut plus jamais le même. Et seul Bracaduun, un empire créé à partir de la discipline et du pouvoir de l'esprit, subsista... »        « Vous n'avez pas besoin de continuer », fit Kastore en agitant la main. « Je ne m'intéresse pas à ce que disent les livres de Bracadan. Gavin Magnus ne révélera jamais la vérité, même s'il la connaît aussi bien que moi. »        Je n'avais jamais douté que le roi de Bracada était plein de secrets et en savait plus que n'importe quel autre sorcier du pays. Il était en vie depuis des siècles, et il ne semblait pas prêt de mourir de sitôt. Des rumeurs circulaient au sujet de sa chambre forte secrète, où auraient été rassemblées des reliques de l'Âge des Merveilles qui auraient miraculeusement survécu au raid dévastateur du roi barbare Tarnum qui détruisit l'empire de Bracaduun. Il n'était pas du tout surprenant que le vieil homme refuse de partager ses connaissances et fasse tout son possible pour entraver les efforts des érudits de l'académie désireux de trouver de nouvelles façons de les acquérir. À Bracada, on ne peut utiliser que les méthodes de cognition approuvées par lui personnellement, et tout le reste est condamné ou anathématisé. J'en avais fait l'expérience moi-même !        Je demandai à Kastore : « Alors, les vieux livres mentent ? »		« Oui et non. En réalité, ils ne disent pas toute la vérité. »        « Connaissez-vous la vérité ? » demandai-je à Kastore. Nos conversations devenaient de moins en moins formelles, et je ne le considérais plus comme un roi. Un scientifique, un inventeur, un enseignant... J'avais soif de réponses aux questions qui me tourmentaient l'esprit, et je me préparai à acquérir de nouvelles connaissances.
+
+(122, 177, 1) ***Event***
+Message:
+Kastore décida de poursuivre la conversation que nous avions entamée au sujet du passé lointain d'Enroth :		« Les maîtres de l'Âge des Merveilles n'ont pas répondu à leurs sujets lorsqu'ils en avaient besoin... et toi et moi explorons aujourd'hui cette tombe antique. Il semble n'y avoir aucun lien, mais en réalité, la raison de ces événements est la même. Ce sont les Kreegans, ou comme on les appelle ici, les démons. Bien que ces créatures n'aient aucune affinité avec celles qui habitent les profondeurs souterraines et les plans éthérés, et ne leur ressemblent que légèrement en apparence », poursuivit Kastore. Je ne pouvais pas imaginer l'interrompre, même si j'avais envie de poser question sur question.		C'est drôle, n'est-ce pas ? J'avais moi-même été autrefois un mentor omniscient, partageant ce que je considérais comme des connaissances inégalées, tandis que la petite fille remuante m'interrompait de temps à autre avec ses commentaires et ses précisions stupides. Quelle période merveilleuse de notre vie... et quelle période doublement, triplement merveilleuse que celle que nous vivons actuellement. Si seulement je pouvais retrouver Henrietta dans ces labyrinthes... Je voudrais qu'elle parcoure ce chemin avec moi.		L'elfe semblait comprendre ce qui se passait dans ma tête et se taisait parfois pour me laisser digérer ces révélations.		« Mais le Silence est survenu il y a plus d'un millénaire... Ces Kreegans avaient-ils déjà tenté d'envahir Enroth ? »		« Cette fois-là, ils n'y sont pas parvenus. Mais avant de vous raconter cette partie de l'histoire, laissez-moi vous éclairer sur l'espace et les planètes. En écoutant vos hypothèses sur l'origine des démons, j'ai remarqué que vous adhérez au système géocentrique, mais les astrologues et les astronomes se disputent depuis longtemps pour savoir si c'est le Soleil qui tourne autour d'Enroth ou l'inverse.		« Moi aussi, je suis un observateur attentif des corps célestes, et j'en sais quelques-unes à ce sujet... » Je me suis indigné, réalisant où cette conversation allait mener, mais j'ai fermé ma bouche quand j'ai vu le visage de Kastore se déformer à la lueur de la torche.		« La planète tourne autour du soleil. C'est la seule vérité. Tout comme le fait que là-haut dans le ciel, chaque étoile, jusqu'à la dernière, est également un soleil. Beaucoup de ces soleils ont également des planètes qui tournent autour d'eux. Je pourrais vous le prouver maintenant, si nous n'étions pas sous terre... mais les charmes envoûtants de ces lieux sont si insidieux que même moi, j'aurais du mal à dire quand la prochaine nuit arrivera. Depuis combien de temps sommes-nous ici ? Des jours ? Des semaines ?		« On dirait des mois », ai-je conclu à sa place. Kastore a froncé les sourcils et a noté quelque chose dans son carnet.
+
+(130, 104, 1) ***Event***
+Message:
+Notre périple dans les catacombes se poursuivait. Il était difficile d'évaluer le temps qui s'était écoulé ; cela semblait interminable. Je bombardais Kastore de questions. Il ne répondait pas à toutes, mais même les bribes d'informations qu'il me donnait suffisaient à combler de nombreuses lacunes dans ma vision du monde. Je me décidai finalement à lui poser la question ultime : 		« Comment diable sais-tu tout cela, Kastore ? Existe-t-il des manuscrits anciens, ou as-tu cambriolé le coffre-fort de Gavin ? » 		« J'ai eu ma part d'expériences désagréables avec les sbires de Magnus, mais non, la source de mes connaissances est différente. Tu es perspicace, tu dois déjà avoir une hypothèse si folle que tu n'oses même pas l'envisager sérieusement, et encore moins en parler. Mais d'abord... dis-moi, Frederick, es-tu prêt à me rejoindre en tant qu'apprenti ? Es-tu prêt à me faire confiance et à devenir mon assistant ? Es-tu prêt à ouvrir ton esprit à mon savoir ? » 		Je remarquai que la main droite de Kastore était figée sur sa hanche, armée d'une arme mortelle, tout comme les chasseurs de primes burtonais, prêt à tirer dès que la conversation prendrait une mauvaise tournure. 		« Ce n'est pas nécessaire, Maître », dis-je en hochant la tête pour lui signifier que j'avais remarqué son geste. 		« J'ai pris ma décision il y a longtemps. J'accepte votre offre. »		Je n'étais pas sûr de savoir vraiment dans quoi je m'embarquais, mais j'avais toujours voulu apprendre auprès des meilleurs. Le grand Khazandar avait autrefois été mon héros, et j'avais recueilli ses paroles de sagesse comme des gouttes de pluie dans le désert. L'elfe devant moi était un autre personnage de ce genre. Et même si je refusais, il était évident qu'après de telles révélations, le roi de Deyja, ou qui qu'il fût, ne me laisserait pas partir ; et la vie d'Henrietta, voire le destin de toute la jeune nation des terres désolées, dépendait de moi. 		Je vis Kastore sourire dans la faible lumière émise par les minéraux facettés qui ornaient les voûtes de la salle. 		« Alors sache ceci, Frederick : je suis venu à Enroth depuis une autre île-monde. Elle s'appelle Terra. Notre équipe de voyageurs audacieux y a vécu de nombreuses aventures, et j'y ai fait de nombreuses révélations. Nous étions huit ; nous sommes arrivés ici à bord d'un vaisseau spatial que nous avions trouvé dans les profondeurs de l'océan terrien. Certains de mes anciens compagnons sont entrés au service de Gavin, mais d'autres sont restés à mes côtés. En parcourant Enroth, j'ai trouvé une Forge céleste presque intacte, et j'ai dû devenir le souverain de Deyja pour la revendiquer. Imaginez ma joie lorsque j'ai appris que l'un de ces grands artefacts avait survécu à l'ère des destructeurs fous. 		Hélas, trop d'années ont passé ; pendant tout ce temps, la Forge céleste est restée à l'abandon, sans entretien, et elle est désormais hors service. Comme vous l'avez déjà compris, elle n'est pas le fruit d'une révélation magique ; c'est un mécanisme complexe mais compréhensible qui recèle de nombreux secrets. Je veux que vous m'aidiez à les percer, Frederick. Votre capacité à sortir des sentiers battus, vos expériences visant à combiner la technologie et ce que vous considérez comme de la magie dans le cœur infatigable de votre dirigeable m'ont impressionné. Ensemble, nous ramènerons la grandeur, le pouvoir et les connaissances perdues dans ce monde ! 		À partir de demain, nous poursuivrons sans relâche cet objectif, et rien ne nous en empêchera. En attendant... Allons sauver votre ami. Dans notre entreprise, chaque serviteur loyal nous sera d'une grande aide.
+
+(112, 165, 1) ***Quest Guard***
+Message:
+La porte menant aux profondeurs de la tombe est fermée à clé, et vous ne parvenez pas à l'ouvrir. Cependant, en regardant de plus près, vous remarquez une serrure inhabituelle en forme d'ankh.
+Cette partie de la tombe vous est encore inaccessible. Vous devez trouver un autre moyen. 
+À l'aide du Pendentif de Vie, vous pouvez ouvrir la porte, mais celui-ci perdra alors son pouvoir.     Voulez-vous entrer ?
+
+(111, 164, 1) ***Quest Guard***
+Message:
+Le chemin menant à cette partie du tombeau a été scellé par magie par des gardes après l'intrusion des Dragons Fantômes. Peut-être que si vous chassez les monstres, la barrière sera levée.
+Le chemin menant à cette partie du tombeau a été scellé par magie par des gardes après l'intrusion des Dragons Fantômes. Peut-être que si vous chassez les monstres, la barrière sera levée.
+Les dragons ont disparu et le passage vers cette partie du tombeau est ouvert. Voulez-vous passer ?
+
+(21, 137, 1) ***Event***
+Message:
+« En effet, je sais certaines choses au sujet du Temps des Merveilles, et cette tombe est inextricablement liée à cette époque. Je pense pouvoir vous en faire part. Écoutez bien... Ceux qui régnaient sur le monde à l'époque des Merveilles... non, ce n'étaient pas des mages, mais ils excellaient dans l'art de la magie. Et pas seulement dans la magie : ils connaissaient toutes les lois de l'univers, et leurs inventions étaient élégantes et parfaites. Vos collègues de Burton, habiles dans la création de mécanismes, seraient incapables de distinguer leurs effets de ceux de la sorcellerie la plus puissante. Les Forges célestes dont vous avez parlé étaient une merveille technologique, et elles ont été créées sans la moindre goutte de magie. Leurs capacités allaient bien au-delà de la simple reproduction d'objets. Le monde de cette époque avait atteint un niveau de développement qu'aucun pays n'est susceptible d'atteindre à nouveau de sitôt, surtout sans des personnes comme vous et moi qui accordent de l'importance à la vérité et à la science.		J'étais sous le choc. Une civilisation dont les réalisations scientifiques et technologiques étaient comparables à de la magie, mais qui n'en étaient pas ? Une civilisation qui avait les réponses à toutes les questions de l'univers ? Que lui était-il arrivé, et pourquoi notre monde actuel est-il si... misérable, comparé à cette image d'un passé lointain ? « Et puis vint le Silence. C'est vrai : tout s'est effondré en un instant. Cela se produit toujours en un instant... Mais la cause n'était pas une explosion, pas même du genre de celles qui peuvent pulvériser des forteresses entières et faire bouillir des lacs. Les dirigeants n'ont pas répondu... parce qu'ils ne savaient pas qu'on les appelait. Et ils ne pouvaient pas le savoir, car la communication était rompue. Puis, au cours de centaines d'années de conflits, ceux qui vivaient autrefois dans la prospérité et la paix ont détruit leur propre avenir. À chaque nouvelle guerre, les connaissances se perdaient à mesure que ceux qui les possédaient mouraient. Les cités anciennes furent réduites en ruines, et les Forges Célestes tombèrent en désuétude... Même les arsenaux et les entrepôts apparemment inépuisables finirent par se vider, mais les gens ne pouvaient rien y faire. Ils prirent les armes. Vous connaissez la suite. Des siècles de barbarie et de décadence. « Alors, qu'est-ce qui a poussé les dirigeants à garder le silence ? Qu'est-ce qui les a empêchés d'être contactés ? » Kastore sourit énigmatiquement à ma question. Je compris que j'obtiendrais des réponses, mais seulement lorsqu'il déciderait que le moment était venu.
+
+(13, 147, 1) ***Event***
+Message:
+...Devant moi se dressait une colonne solitaire, seul vestige d'une structure autrefois majestueuse. La colonne était ornée de dizaines de symboles étranges que même moi, qui avais vu d'innombrables écritures anciennes à l'Académie de Bracadian, je ne comprenais pas ! 		Kastore, qui m'avait suivi en silence jusqu'à présent, fuyant les combats, fronça soudain les sourcils. Il commença à lire le texte sur la colonne, puis, avant que je ne puisse comprendre quoi que ce soit, il m'attrapa par les épaules et me jeta sur le côté. Et pour cause, comme je l'ai découvert par la suite. Sorti de l'obscurité, un énorme monstre fonçait sur moi. Sa tête ressemblait à celle d'un chien ou d'un chacal, mais il courait sur deux pattes. Il serrait dans ses mains une arme étrange qu'il levait pour frapper. Je lançai un éclair sur la créature, mais cela ne sembla avoir aucun effet. Je réfléchis frénétiquement à ce que je pouvais faire d'autre, avant de réaliser avec horreur que je n'avais plus le temps de faire quoi que ce soit ; c'est alors que Kastore sortit son mystérieux instrument de sa ceinture et le pointa vers la bête. Un rayon vert aveuglant frappa le géant à tête de chien, qui s'effondra, mort sur le coup. Je restai un moment étourdi sur le sol poussiéreux, passant mon regard de Kastore au monstre vaincu. 		Avec son expression indifférente habituelle, l'elfe rangea son étrange arme dans sa ceinture, puis me fit signe de le suivre. Je pouvais voir que cet engin ressemblait globalement à nos fusils ou aux pistolets des pirates de Regnan. Il avait une poignée, une gâchette, une sorte de canon rectangulaire... mais aucune partie mobile qui aurait pu donner une indication sur son principe de fonctionnement ! Ce gnoll démesuré avait simplement ignoré l'éclair dans lequel j'avais mis toute ma force, et un seul tir de cette arme l'avait abattu comme une mouche... Quelle était donc sa puissance ? Était-ce vraiment un artefact d'une époque oubliée ? 		Était-ce la preuve que tout ce que Kastore avait dit était vrai ?
+
+(123, 177, 1) ***Event***
+Message:
+« Imaginez ces mondes lointains comme des îles séparées par un vaste océan d'étoiles. Il y a très longtemps, je ne sais ni quand ni d'où, les vaisseaux d'une puissante civilisation antique sont apparus dans cet océan. Différentes sources leur donnent différents noms : dieux, créateurs, anciens... Leur empire interstellaire s'est étendu, engloutissant des mondes comme une domination maritime absorbe des îles inhabitées, y construisant ses colonies et ses forteresses. Enroth n'est qu'une de ces îles, et cette tombe est leur vaisseau... non, juste un petit fragment de celui-ci. Les Anciens disposent d'autres outils qui leur permettent de traverser l'abîme du vide. À certains égards, ils sont même plus efficaces que les vaisseaux. Vous avez sans doute déjà rencontré des portails. » 		Bien sûr que oui ! L'art de placer des portails est l'une des disciplines enseignées à l'Académie de magie de Bracadan. Ces portails permettent à Bracada de se connecter à des tours et des palais difficiles d'accès au-delà des nuages, presque impossibles à atteindre par des moyens normaux. Mais plus deux points sont éloignés l'un de l'autre, plus il est difficile de créer un portail stable entre eux. 		« C'est exact : le principe est le même, mais ces portails couvrent des distances inimaginables à l'échelle cosmique. Les Anciens ont recouvert leurs mondes insulaires d'un réseau de portails qui sont devenus partie intégrante de la grande toile reliant les mondes. Tant que les colonies étaient connectées, elles prospéraient. Puis vinrent les Kreegans. Ils étaient forts, disposaient d'une technologie de pointe et se caractérisaient par une cohésion remarquable : un esprit collectif semblable à celui des fourmis. Ils se reproduisaient également sans cesse et à une vitesse incroyable. De plus en plus de ressources étaient nécessaires pour approvisionner leurs colonies et leurs ruches sinistres. Les Kreegans entrèrent donc en guerre contre les Anciens, même si ces derniers avaient d'abord tenté de négocier avec eux. Tels des pirates, ces démons ravageaient les mondes, et une fois qu'ils avaient pillé et tué à leur guise, ils partaient faire de même ailleurs. Les machines utilisées par les Kreegans pour voyager d'un monde à l'autre ressemblent à des corps célestes. 		Je me suis souvenu de l'intérieur des météorites que j'avais vues ce jour fatidique ! 		« Mais bien sûr, comme tout vaisseau, elles sont lentes par rapport au voyage à travers un portail. Les Kreegans connaissent le principe de la téléportation, ils peuvent invoquer des êtres, ils ont accès à d'autres plans d'existence... Mais ils ne maîtrisent pas aussi parfaitement que les Anciens l'art de voyager entre les mondes. » 		Kastore se tut. Je le regardai et compris qu'il attendait ma conclusion. Je commençai prudemment à pêcher une pensée cohérente dans l'océan des suppositions et des hypothèses : 		« Ce qui s'est passé, c'est que les Kreegans ont attaqué non seulement les différents mondes, mais aussi le système de portails créé par les Anciens... C'est ainsi que le contact entre les planètes a été perdu. » 		« C'est exact. Les Kreegans ont infiltré le système de portails entre les mondes. Les Anciens ont réussi à contrer cette menace, mais l'unité du réseau de portails a fini par être perturbée. Cela a endommagé les fils invisibles qui le maintenaient ensemble et transmettaient la voix et les conseils des Anciens à leurs innombrables colonies. La Toile des Mondes a été déchirée. C'est ainsi qu'a commencé ce que de nombreuses planètes appellent le Silence, ou d'autres mots similaires. » 		« Orphelines, les colonies se sont retrouvées sans puissance supérieure, et les vice-rois se sont lancés dans des guerres intestines sanglantes », ai-je conclu. 		Mon monde entier s'est retrouvé bouleversé et s'est étendu du jour au lendemain à la taille du ciel, voire au-delà. J'avais besoin de temps pour y réfléchir.
+
+(126, 32, 1) ***Event***
+Message:
+Nous avancions prudemment dans la grande salle. Kastore lut l'inscription à l'entrée : « Salle des illusions ». L'endroit était étrangement calme. Nous avions vu des Génies, des Effritss et d'autres monstres dans les autres salles, mais celle-ci était étonnamment vide. Je jetais des coups d'œil nerveux autour de moi. En un clin d'œil, tout changea. Un étrange grondement retentit depuis les profondeurs de la tombe, et l'instant d'après, les Effritss et les Kreegans apparurent devant moi : des dizaines et des dizaines d'énormes créatures à la peau rouge ! L'une d'elles me semblait familière... Mais bien sûr ! C'était le même Effrit que nous avions dû combattre avant de fuir Eeofol. Mais comment... ? Ah, oui ! Ce sont les illusions dont on m'avait prévenu. Ces fantômes sont plus qu'un jeu d'ombres et de lumières. Leurs faux et leurs fouets peuvent nous blesser tout autant que les vrais.
+
+(6, 49, 1) ***Event***
+Message:
+Agar. Qu'est-ce que j'attendais de cette rencontre ? Difficile à dire. Il y avait toutes sortes de rumeurs à son sujet, certaines se contredisant. Il y a des années, j'avais entendu dire qu'il était devenu une liche peu après les guerres de succession. Puis j'avais entendu dire qu'il avait été tué lors d'une expérience dans son laboratoire. J'ai également entendu un récit très réaliste selon lequel Agar avait été mis en pièces par ses propres monstres. Selon une autre source crédible, Agar aurait trouvé la mort lors d'un tournoi de sorciers. Finalement, la rumeur s'est répandue qu'Agar était arrivé à Jadame, bien vivant... 		Les sorciers et les artisans de Burton avaient toutes sortes de théories concernant les vers des sables. Certains prétendaient qu'Agar avait commencé à mener des expériences sur des vers sauvages et que les sujets étaient devenus incontrôlables. D'autres ont insisté sur le fait qu'il avait délibérément lâché les vers sur les colonies dans un but connu de lui seul. 		Et maintenant, Agar se tenait devant moi. Le sorcier était clairement bien vivant, du moins, il ne ressemblait en rien à une liche. Ses yeux étaient vifs, un sourire nerveux se dessinait sur son visage. Il semblait indécis, ne sachant pas s'il devait me parler ou s'enfuir. 		« Est-ce qu'ils... sont toujours là ? » demanda-t-il en me regardant dans les yeux, puis en regardant Kastore, puis moi à nouveau. « Les vers ? Ceux du laboratoire ? Ils ont été tués. »		Agar poussa un soupir de soulagement, comme un homme qui vient d'être tiré de la potence et expulsé de l'échafaud. « Si seulement j'avais su comment cette nouvelle expérience allait se terminer... Je ne l'aurais jamais commencée. Au début, tout allait très bien. La première série d'Olgoi-Khorkhois fonctionnait à merveille : leur voracité était admirable et leurs dents étaient plus dures que n'importe quel matériau naturel que je connaisse. Et puis... puis... j'ai eu l'impression que quelqu'un avait piraté mon travail et semé le chaos. Un ver d'un autre genre est apparu dans la nouvelle couvée. Je l'ai appelé, ou plutôt je l'ai appelée, Matriarche. Je pensais que ce n'était rien de spécial, juste une nouvelle étape d'évolution accélérée, quelque chose qui était depuis longtemps mon pain quotidien... Mais la volonté de la Matriarche semblait plus forte que la mienne pour ces créatures. La plupart de sa couvée ne m'obéissait plus, et elle commençait maintenant à prendre le contrôle des générations précédentes également. 		J'avais réussi à en garder certaines sous mon autorité, en y consacrant une quantité folle de magie, mais cela ne servait pas à grand-chose : elles n'étaient pas assez fortes pour m'aider à sortir du laboratoire ! Si vous saviez tous les problèmes que ces vers m'ont causés... 		« À vous seulement », dis-je avec méchanceté. « Tes vers ont transformé les environs du laboratoire en un véritable enfer. Les glissements de terrain détruisent les routes de montagne. Les Olgoi-Khorkhoi attaquent les mines et les colonies frontalières, et leurs galeries provoquent des tremblements de terre qui causent des ravages même dans des endroits où ils ne se montrent jamais à la surface. » 		Agar se redressa soudainement et me regarda attentivement, plissant les yeux. « Jeune homme... Vous êtes si magnifiquement en colère que je pourrais presque croire que vous avez fait tout ce chemin juste pour me trouver et me faire la leçon sur mon imprudence. Maintenant, dites ce que vous avez à dire. Que s'est-il passé ? Que voulez-vous vraiment ici ? » 		« Eh bien, cette histoire vous concernait effectivement au départ. Il n'y a pas longtemps, une expédition est partie de Burton pour vous retrouver. Puis elle a disparu. Apparemment, elle s'est perdue dans les passages souterrains et s'est égarée dans une tombe ancienne, mais les vers ont détruit le passage vers la partie nord de la tombe, et nos camarades sont désormais coupés du monde extérieur. » 		« Les vers... Je crains que le seul moyen d'arrêter leur propagation soit de détruire la Matriarche. Je ne vois pas d'autre option. De plus, je ne peux pas poursuivre mes recherches tant qu'elle est en vie, et je n'ai pas pour habitude d'abandonner mon travail en cours de route. Je te jure que tu serreras la main du vieux Agar quand je te montrerai ce que mes petits vers peuvent faire quand personne d'autre n'est dans leur tête ! Quant à ton expédition... Je pense savoir de quelle tombe tu parles. Il y a des grottes inondées adjacentes à mon laboratoire qui mènent au nord, vers les grottes funéraires et une autre entrée. Derrière celle-ci se trouve une étrange salle, la Salle des Illusions. J'ai essayé à plusieurs reprises de traverser ces cavernes, mais en vain. Elles sont remplies d'un brouillard étrange et épais, extrêmement difficile à traverser. Mais si vous insistez... Il reste deux parchemins magiques dans mon laboratoire, qui vous seront très utiles. 		Sur ce, Agar me fit signe de le suivre vers le laboratoire.
+
+(53, 174, 1) ***Quest Guard***
+Message:
+La porte menant aux profondeurs de la tombe est fermée à clé, et vous ne parvenez pas à l'ouvrir. Cependant, en regardant de plus près, vous remarquez une serrure inhabituelle en forme de crâne.
+Le trésor caché derrière cette porte ne vous est pas encore accessible. 
+À l'aide du Pendentif de Mort, vous pouvez ouvrir la porte, mais celui-ci perdra alors son pouvoir.     Voulez-vous entrer ? 
+
+(73, 173, 1) ***Quest Guard***
+Message:
+La porte menant aux profondeurs de la tombe est fermée à clé, et vous ne parvenez pas à l'ouvrir. Cependant, en regardant de plus près, vous remarquez une serrure inhabituelle en forme de crâne.
+Le trésor caché derrière cette porte ne vous est pas encore accessible. 
+À l'aide du Pendentif de Mort, vous pouvez ouvrir la porte, mais celui-ci perdra alors son pouvoir.     Voulez-vous entrer ? 
+
+(75, 174, 1) ***Quest Guard***
+Message:
+La porte menant aux profondeurs de la tombe est fermée à clé, et vous ne parvenez pas à l'ouvrir. Cependant, en regardant de plus près, vous remarquez une serrure inhabituelle en forme de crâne.
+Le trésor caché derrière cette porte ne vous est pas encore accessible. 
+À l'aide du Pendentif de Mort, vous pouvez ouvrir la porte, mais celui-ci perdra alors son pouvoir.     Voulez-vous entrer ? 
+
+(140, 8, 1) ***Quest Guard***
+Message:
+Les portes menant à l'autre Salle des Illusions sont fermées à clé, et vos tentatives pour les ouvrir sont vaines. Cependant, en regardant de plus près, vous remarquez un trou de serrure inhabituel en forme d'Emblème du Faussaire.
+Ces portes vous sont fermées. Peut-être que l'Emblème du Faussaire peut les déverrouiller ?
+L'Emblème du Faussaire peut ouvrir les portes, mais vous devrez sacrifier l'artefact.     Souhaitez-vous passer ?
+
+(145, 8, 1) ***Quest Guard***
+Message:
+Les portes menant à l'autre Salle des Illusions sont fermées à clé, et vos tentatives pour les ouvrir sont vaines. Cependant, en regardant de plus près, vous remarquez un trou de serrure inhabituel en forme d'Emblème du Faussaire
+Ces portes vous sont fermées. Peut-être que l'Emblème du Faussaire peut les déverrouiller ?
+L'Emblème du Faussaire peut ouvrir les portes, mais vous devrez sacrifier l'artefact.     Souhaitez-vous passer ?
+
+(127, 32, 1) ***Quest Guard***
+Message:
+Les portes menant à l'autre Salle des Illusions sont fermées à clé, et vos tentatives pour les ouvrir sont vaines. Cependant, en regardant de plus près, vous remarquez un trou de serrure inhabituel en forme d'Emblème du Faussaire.
+Ces portes vous sont fermées. Peut-être que l'Emblème du Faussaire peut les déverrouiller ?
+L'Emblème du Faussaire peut ouvrir les portes, mais vous devrez sacrifier l'artefact.     Souhaitez-vous passer ?
+
+(164, 30, 1) ***Quest Guard***
+Message:
+Les portes menant à l'autre Salle des Illusions sont fermées à clé, et vos tentatives pour les ouvrir sont vaines. Cependant, en regardant de plus près, vous remarquez un trou de serrure inhabituel en forme d'Emblème du Faussaire.
+Ces portes vous sont fermées. Peut-être que l'Emblème du Faussaire peut les déverrouiller ?
+L'Emblème du Faussaire peut ouvrir les portes, mais vous devrez sacrifier l'artefact.     Souhaitez-vous passer ?
+
+(91, 69, 1) ***Quest Guard***
+Message:
+Le chemin menant à cette partie du tombeau a été scellé par magie par les Génies. Tant qu'ils sont là, il est impossible d'ouvrir cette porte.
+Le chemin menant à cette partie du tombeau a été scellé par magie par les Génies. Tant qu'ils sont là, il est impossible d'ouvrir cette porte.
+Les Génies ont été vaincus, et le passage vers cette partie du tombeau est désormais ouvert. Voulez-vous passer ?
+
+(154, 166, 1) ***Event***
+Message:
+
+
+(144, 164, 1) ***Pandora's Box***
+Message:
+
+
+(157, 166, 1) ***Captain***
+Name:
+Ascalabus
+
+(8, 37, 1) ***Event***
+Message:
+Tituber dans la pénombre, une lanterne à la main, je trébuchai sur quelque chose. À ma grande surprise, un squelette vêtu d'une armure rouillée gisait sur le sol de la grotte. Puis j'en vis un autre. Et encore un autre, et encore un autre.		« Très étrange », dit Agar, inquiet. « Ils n'étaient pas là la dernière fois que je suis venu dans ces grottes. »		« Mais vous savez sûrement d'où ils peuvent venir ? » demandai-je en marchant prudemment parmi les ossements. « Je crois que oui, jeune homme. Peu avant que la Matriarche ne soumette mon Olgoi-Khorkhoi, un liche s'est présenté à mon laboratoire ; il s'est présenté sous le nom de Trophon. Il a dit qu'il souhaitait pénétrer dans les cavernes inondées où une certaine Meline, une sorcière au service de la Nécromancienne folle Zanthora, s'était enfuie. Au début, j'ai pensé qu'il s'agissait de mon neveu irresponsable, Xanthor, mais ce gamin, aussi arrogant soit-il, ne s'est jamais intéressé à la nécromancie. Peu importe, je n'aime pas que l'on fouine dans mon laboratoire sans y être invité, que ce soit Xanthor, Zanthor, Dardentor ou n'importe qui d'autre. J'ai renvoyé le liche, et la vue de mon... gardien lui a fait comprendre que sa présence n'était pas la bienvenue. Eh bien... dire que cela a déplu à Trophon serait un euphémisme. Cette charogne titubante a déclaré qu'il pénétrerait dans les cavernes, quel qu'en soit le prix, et qu'il amènerait toute une armée de morts-vivants si nécessaire.		On dirait qu'il tient parole. Et si c'est le cas, je vous conseille de vous préparer à tout.
+
+(93, 45, 1) ***Event***
+Message:
+« Eh bien, ça alors », murmurai-je en regardant autour de moi après ce combat difficile. « Qu'est-ce que c'était que ça ? »		« Des troglodytes sauvages, des minotaures et des Olgoi-Khorkhoi combattant côte à côte », réfléchit Agar. « C'est inhabituel. Je pense que toutes ces créatures ont été asservies par une sorte de magie puissante. Heureusement que nous ne sommes pas restés là trop longtemps, sinon nous aurions pu en être victimes nous aussi. »		« J'aimerais savoir qui était ce troglodyte géant et ce qu'il faisait dans ces grottes », dis-je à Agar en jetant un coup d'œil à l'énorme carcasse sans vie.		« Je ne pense pas que c'était un troglodyte », intervint Kastore.		« Tu te souviens de ces puissants gardiens que nous avons rencontrés dans la tombe ? »		J'acquiesçai silencieusement.		« Celui-ci en fait probablement partie aussi. Je suppose que ces Gardiens ne sont pas des êtres vivants, mais plutôt une sorte de système matériel et logiciel de protection créé par les Anciens. Peut-être même doté d'une touche d'intelligence artificielle. Après tant d'années sans entretien, les machines pensantes pourraient mal tourner. Quelque chose a poussé ce spécimen à quitter la tombe et à s'installer dans ces grottes. Il me semble également que ces Gardiens disposent d'un mécanisme d'adaptation qui leur permet de prendre l'apparence de créatures puissantes dotées de capacités similaires à leur code. Des elfes, des élémentaires, et maintenant ceux-ci... Bien sûr, les créatures qui s'étaient infiltrées dans les grottes se sont rassemblées autour de ce monstre, le reconnaissant comme leur chef, et même la création de notre talentueux ami n'a pas échappé à ce sort », dit Kastore en hochant la tête vers Agar avec un léger sourire ; en entendant ces mots, le sorcier se redressa et pointa sa barbe emmêlée avec aplomb. J'ai passé un certain temps à essayer de comprendre ce que signifiait « système matériel-logiciel » et dans quelle langue ces mots étaient écrits. Mes automates peuvent également être appelés des machines pensantes, mais ces choses-là sont d'un tout autre niveau... Kastore sait-il de quoi il s'agit et peut-il m'apprendre ?		Si mon intuition est bonne... ce « troglodyte » n'est peut-être pas le dernier. Nous devrions être plus prudents », a poursuivi Kastore en ajustant son arme inquiétante à sa ceinture.		« J'aurais vraiment préféré qu'Henrietta ne tombe pas sur ces créatures avant nous », ai-je répondu en secouant la tête et en ordonnant aux troupes de s'enfoncer davantage dans les grottes.
+
+(14, 83, 1) ***Event***
+Message:
+Une pièce d'apparence rudimentaire s'ouvrait devant nous ; deux obélisques majestueux se dressaient à l'entrée. Kastore s'approcha de l'un d'eux et fixa les symboles qui y étaient gravés, écrits dans une langue qui m'était inconnue. « Ça dit « Réserve » ici », expliqua l'elfe en se tournant vers moi.		Au loin, de petites boîtes étaient éparpillées sur le sol de l'ancienne salle, éclairées par une faible lueur magique qui semblait venir de nulle part. « Eh bien, me dis-je, on dirait bien que quelqu'un est déjà passé par là. »		Je vis de vieux os et des haillons empilés partout sur le sol ; les étranges boîtes, cependant, semblaient avoir été soigneusement nettoyées et leurs ferrures métalliques polies avec du velours. Je m'avançai pour les examiner de plus près.		« Je crois savoir ce que c'est, finis-je par annoncer. À Bracada, on les appelle les boîtes de Pandore. On ne peut jamais deviner ce qu'elles contiennent. » 		« On dirait que quelqu'un a essayé de le découvrir. Manifestement sans succès », dit Kastore froidement en désignant du menton la boîte la plus proche.		« Devons-nous suivre leur exemple ou faire preuve de prudence ? »		Je haussai simplement les épaules. Bien sûr, Kastore avait raison : il n'y avait aucune raison de prendre des risques, mais tout de même... À l'époque, les étudiants de l'Académie faisaient circuler une brochure manuscrite remplie d'histoires incroyables sur des découvertes magiques, notamment dans des boîtes comme celle-ci. Je n'ai jamais douté que tout ce qui y était écrit n'était que des légendes, mais je détestais aussi me mentir à moi-même : si je tombais moi-même sur une telle boîte, je prendrais certainement le risque. D'une certaine manière, je suis toujours l'étudiant bracadien avide de mystères que j'étais autrefois, et la témérité coule dans mes veines.
+
+(64, 170, 1) ***Event***
+Message:
+J'ai examiné attentivement les murs et le plafond de l'immense salle, qui se dressait quelque part au-dessus de moi, dans l'épaisse poussière tourbillonnante accumulée au fil des siècles. « Nous avons vu beaucoup de salles ici. Je me demande ce que celle-ci a de particulier. Est-ce une autre crypte ? »		« Je ne pense pas que cette « tombe » soit une tombe », a déclaré Kastore.		« Les cryptes que nous avons vues en venant ici sont toutes des ajouts relativement récents. »		Lorsque Kastore a vu les inscriptions sur le mur, il est devenu vigilant. Il les a étudiées attentivement pendant un moment.		« Apparemment, il y a des coffres contenant des artefacts précieux dans cette salle, mais ils ne sont pas faciles d'accès. Nous aurons besoin de clés, ou quelque chose du genre. Et si je ne me trompe pas, les coffres sont toujours gardés ! »		Comme pour confirmer les paroles de Kastore, les silhouettes de Génies apparurent dans l'obscurité ; puis j'entendis le cliquetis des articulations des golems... et le cliquetis des os des morts-vivants. J'eus l'impression que ce rassemblement étrange était dirigé par une force puissante.
+
+(59, 138, 1) ***Event***
+Message:
+Je me suis laissé emporter par la vue d'une salle incroyable et spacieuse, remplie d'eau jusqu'aux genoux ; Kastore s'est soudainement approché de moi. « Apparemment, lorsque ce complexe souterrain a été construit avant le Silence, des élémentaires ont également été réquisitionnés pour travailler aux côtés des Génies et des Effrits. Cependant, je ne sais toujours pas exactement quelle fonction ils remplissaient ici », a-t-il déclaré. « Peut-être disposaient-ils d'une source d'eau vive ici. Je ne serais pas surpris si nous voyions d'autres types d'élémentaires dans d'autres parties de la tombe. Des braseros vivants, des parterres de fleurs vivants, et même des remplaçants vivants pour les esclaves avec des éventails ; imaginez donner un ordre et recevoir une brise rafraîchissante dans votre nuque... » Pour une raison quelconque, cette pensée semblait avoir amusé Kastore. Du moins, c'était l'une des rares fois où j'avais remarqué quelque chose ressemblant à un sourire acerbe sur son visage.
+
+(15, 161, 1) ***Event***
+Message:
+Alors que nous approchions de la rampe menant à la salle funéraire suivante, la chaleur devenait de plus en plus intense. Finalement, j'ai vu des flammes jaillir du sol.		« Il fait bon ici, mais je pense que nous pouvons traverser ces flammes sans danger. Ce n'est pas un feu ordinaire », m'a expliqué Kastore. « C'est curieux : à en juger par les inscriptions sur les murs, cet endroit est une sorte de « temple du feu ». Je ne sais pas encore ce que cela signifie ; nous devrions peut-être inspecter cette pièce de plus près. J'aimerais savoir où les Anciens ont trouvé l'énergie nécessaire pour alimenter tout cela et, surtout, d'où elle provient aujourd'hui, plusieurs siècles après que la dernière personne à avoir compris le fonctionnement de cet endroit ait franchi ces murs. Si seulement nous pouvions trouver la source et nous y connecter... » L'elfe fronça les sourcils et se mit à fixer son bracelet, comme s'il attendait qu'il lui donne un indice.
+
+(59, 98, 1) ***Event***
+Message:
+En passant devant les colonnes, Kastore s'arrêta soudainement. Son regard se posa sur une image inhabituelle gravée sur l'une d'elles.		« Qu'est-ce que cela peut bien être ? » me demandai-je en regardant les carrés, cercles, lignes et inscriptions dans une langue inconnue. « C'est très simple. Il s'agit d'une carte de la tombe. Nous sommes ici », dit Kastore en pointant son doigt vers la partie supérieure de l'image.		« Exact ! Nous sommes venus d'ici », dis-je en montrant un cercle sur le côté, « et Henrietta s'est dirigée vers là. Mais ce qui est étrange, c'est qu'il y a ici des passages et des galeries que nous n'avons pas vus, alors que nous étions là.		« Ce n'est guère surprenant. Apparemment, ils se sont effondrés au fil des siècles. Certaines parties de la tombe semblent être équipées d'un système d'auto-soutien, mais d'autres, apparemment, étaient considérées comme auxiliaires ; ce qui devait leur arriver au cours de cette période s'est produit. » Une salle assez grande, indiquée quelque part dans la partie nord-est du complexe, attira mon attention, mais aucune ligne ne menait à elle.		Remarquant mon regard interrogateur, Kastore a dit :		« C'est vraiment intrigant. Il est écrit ici « Salle des illusions ». Et il semble impossible d'y accéder directement depuis la tombe. Il y a en fait beaucoup de petits caractères ici... Au moins, c'est dans une langue que je connais. »		Alors que je me demandais où Kastore avait bien pu apprendre cette langue qui m'était totalement étrangère, il se mit à réciter :		« Accès pour ceux qui veulent se tester : à tout moment. Mode sécurisé pour ceux qui veulent s'amuser : le sixième samedi de chaque mois... Est-ce qu'Enroth a des mois avec six samedis ? »		« Bien sûr que non. Je ne suis même pas sûr que le temps s'écoule ici de la même manière que celle à laquelle nous sommes habitués. »		« Eh bien, je ne pensais pas que nous aurions de la chance, n'est-ce pas ? Si le calendrier lui-même a changé depuis, alors nous ne devrions pas compter sur le fait que l'équipement local fonctionne toujours comme prévu. »
+
+===== End of file =====

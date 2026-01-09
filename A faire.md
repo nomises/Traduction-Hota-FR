@@ -86,15 +86,15 @@
 	* ~~Mission 2~~
 	* ~~mission 3~~
   	* ~~mission 4~~
-* H4Fact.h3c
-	* Mission 1
-	* Mission 2
-	* mission 3
-  	* mission 4
-  	* mission 5
-  	* mission 6
-  	* mission 7
-  	* mission 8
+* ~~H4Fact.h3c~~
+	* ~~Mission 1~~
+	* ~~Mission 2~~
+	* ~~mission 3~~
+  	* ~~mission 4~~
+  	* ~~mission 5~~
+  	* ~~mission 6~~
+  	* ~~mission 7~~
+  	* ~~mission 8~~
 * ~~H5AllIn.h3c~~
 	* ~~Mission 1~~
 	* ~~Mission 2~~

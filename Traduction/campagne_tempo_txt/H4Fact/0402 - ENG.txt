@@ -1,0 +1,423 @@
+===== Map name =====
+Beyond the Horizon
+
+===== Map description =====
+To defend the town of Burton from the Ogres, you must defeat their leader Zog. If Henrietta or Frederick are defeated, the scenario will be lost. The heroes are limited to the level 12. Heroes will bring the components of the Wizard’s Well and the Ring of the Magi to the next scenario.
+
+===== Rumors =====
+
+Name:
+Zog Clue 1
+Text:
+They say Terghez, a minion of Zog, knows the way into his master's stronghold.
+
+Name:
+Zog Clue 2
+Text:
+Many know there is an underground passage to Zog’s stronghold, but no one has seen it yet.
+
+Name:
+Balthazar goes to war
+Text:
+Minotaurs have built their outpost northeast of Burton. It seems as though they are preparing for war against the dark dwarves.
+
+Name:
+Pirates
+Text:
+A ship flying a pirate flag has been seen in the bay near the ogres’ stronghold.
+
+Name:
+Mage Hut
+Text:
+A sorcerer from the lands beyond the sea settled east of Burton. They say he helps travelling mages learn new spells.
+
+Name:
+Ogre Garrison
+Text:
+Those who saw the entrance to Zog’s stronghold say it’s guarded by countless hordes of orcs and ogres.
+
+Name:
+Ravage Roaming
+Text:
+Wyverns abound in the wastelands of Ravage Roaming. A whole nest of these creatures has been spotted north of Burton!
+
+Name:
+Firearms
+Text:
+Regnan mages and artificers are hard at work developing personal firearms.
+
+Name:
+Trailblazer
+Text:
+The trailblazer north of Burton can help you traverse the wastelands of Ravage Roaming much faster.
+
+===== Timed events =====
+
+Name:
+Áåæåâûé ÈÈ - Ìèíóñ ðåñóðñû
+Message:
+
+
+Name:
+Burton - Part 1
+Message:
+Burton stunk. That was our first impression of the place. The whole town was permeated with the acrid odor of something unfamiliar—it made the air feel heavy, sticky... and dirty, if one can say that about the air.		Because of this stench, our arrival in Jadame almost spiraled into a big scandal in the very first minutes we set feet on its land. We had been through a lot on the way, and many of us had taken the journey very hard. And still, the moment we were on solid ground and taking in the air of the new world, the Eeofolian refugees cried out as one that they hated the place, and demanded that we keep going. I had no idea what to say to them, so I just looked at Frederick. I could see how great a toll it took on him to be forced into the company of the villagers, who kept pestering him with their ill-placed complaints and requests. Now I saw his face growing purpler with every new shout from the crowd, and I knew that an outburst could not be avoided. 		However, the storm came in from an unexpected direction. From behind the scholar's back strutted a short, stout woman, her sleeves rolled up. She appeared to be his Jadamean colleague, Sam—he had told me a little about her on the way. On her face, I could see fatigue mingle with anger, and sadness with determination. She put her fists at her sides, looked Frederick in the eye, and shouted hoarsely:		“Frederick, old fella! I sure expected you to come sooner or later, and not just you; you were bound to go for it and come to lie low at the bottom of our hole! But whoa, if there isn't more of you here than armadillos on old Donald's ranch... Well, hulloa to you, dear guests. My grandfather's grandfather had spent forty years looking for a place to put down roots in this land. And you know what? He found the only place for hundreds of miles around that didn't stink. And then the Ogres came and took his head off—thank the gods that the old fool had fathered some sons by then, who scattered to the eight winds as soon as they grew up. My father's grandfather wasn’t one for grand ideas—the place where he settled stank just like everywhere else around here, but it was a good spot to fight off enemies. My father's father found out the source of the stench—see the old fountain over there? He dug a well to get water for it, but it spewed out earth oil instead. That's what makes this place reek. My father figured out that the oil burned well, so he learned how to smelt metal with this nasty, hot fuel. And then some Ogre lads came here from places where it doesn't stink indeed, but one can't get metal for weapons and armor either. Guess what they offered him?”		“Uh, to trade the metal for something they had a lot of?” suggested one of the halflings.		“Atta boy! You got it! And you know what ogres have a lot of? Dumb brawn. Their bigwig went and smashed my dad into a puddle with his club and then said we'd better give up all the metal, so they wouldn't kill anymore in return. Maybe. Well, at least not all of us. Perhaps. If the mood strikes. Probably not, though. Anyway, he'd done a stellar job of encouraging us. Oh, by the way, lookie there, and there, and over there,” Sam made a full circle with her hand, pointing to the outskirts of the town. "Those good ol’ Ogre boys are everywhere. And over there, in a spot where it doesn't stink, lies their main fortress, where there sits one fat, slimy toad, looks like fresh armadillo crap, goes by Zog. Yeah, and there are several hundred more of his jolly good chums there. Wanna keep going? I'm not gonna beg you not to. But I can see your bubbles won't last more than a hundred miles without repairs, with all the holes and whatnot. Where you'll have to land next time, I won't even guess. Well, I hope it won’t stink here. Good riddance.”
+
+Name:
+Burton - Part 2
+Message:
+The refugees stood there, their faces paper white. Those who had begun climbing the gangways back to the ships froze between sky and earth, clinging to the steps. I took a deep breath, making an effort not to cringe from the smell, picked at the red earth with my toe... and stepped forward.		“Hello, Sam. I realize you were expecting Frederick and his friends and never thought there would be so many of us—but we've all lost our home. If you let us stay here, we'll be grateful and try to make ourselves useful. We don’t shy away from working... or fighting.”		At my last words, the faces of the halflings around me fell, but, thank the gods, no one blurted out a peep. Surprisingly, Sam's speech somehow calmed them down and cheered them up at the same time: they all silently rushed to unload the airships.		When the hard work was done, Sam invited everyone to the hastily set tables. There was unknown, suspiciously smelling meat giving off lots of steam, and quite a few bottles of wine; oddly greenish in hue, yet still undeniably wine. Hot food finally wiped away the fatigue of the grueling flight. Some of us, who had maybe developed a bit too much of an appreciation for the local libation, even began cracking jokes along the lines of, "Sure, halfling is not a bird, but..."
+
+Name:
+Mechanics
+Message:
+The town made a strong impression, though a mixed one. There were… big houses? Small factories? Something in-between the two, all over the place. Smoke, steam, creaking wood and clanking metal... Nothing like our quiet, tidy villages, but I felt my compatriots would settle in quickly. There was no way out, and if a halfling put down roots somewhere, it would soon bound to become a cozy home, even if it had to start with a burrow under a mountain. We didn't have to dig, though—Sam had quartered the refugees in old adobes on the outskirts. 		They had been built many years ago by a small tribe of ogres who had quarreled with their kin and come begging to be hired as laborers, but in the end the giants proved incapable of doing useful work and drifted away, never to be heard from again. Their dwellings had stood decaying ever since, and they were about to be taken apart for stone, before they suddenly came in handy. The little halflings thought these structures huge and uncomfortable, but only at first. In a couple of days the walls were lined with all kinds of potted tomatoes and other plants, and Urstan, the village carpenter, was busy crafting elegant tables and chairs to fit the new dwellers.		The locals, the mechanics, turned out to be people of few words, but awe-inspiringly hardworking. Even most children here were well-accustomed to getting up early and helping the adults in their shops or forges instead of horsing around and playing. Sam turned out to have a wealth of organizational talent—the very next day each halfling had been issued a leather apron with a set of simple tools and instructed on the work to be done. 		Labor is the best remedy for sad thoughts. Before I knew it, Sam's new apprentices were up to their ears in the production of all sorts of mechanical parts: gears, bushings, shafts, cams, and things of whose purpose I had not the slightest idea; I had only ever seen them piled up in a workshop in distant Eeofol. Like, what is a nozzle valve and what is it for? I could have asked Frederick, of course, but I didn't dare to distract him now. He was busy erecting an enormous hangar, or shed, or whatever on the edge of the village, seeing as our airships were in need of a thorough overhaul. Provided, of course, just an overhaul would be enough...		The lull didn't last long; one of Sam's scouts brought word that an army led by one of Zog's lieutenants had moved out towards Burton, and that they would be here soon. The locals didn't seem to be fazed by the news, but the clanging, clanking, and scraping in the shops grew louder, and the town sank into a heavy mixture of steam and smoke.
+
+Name:
+Armadillos
+Message:
+The day came when I finally learned where this odd-tasting, tough meat came from...		Those creatures, looking like moving piles of stones with short, thick legs, served not only as a source of food but also as pack animals. Awfully stubborn, but calm and plodding, they grazed peacefully in large fenced areas—I thought them completely barren, but, apparently, there was some fodder to be found there. They were what the locals called armadillos. Each herd had a leader with a huge bony collar, and it seemed to me that those big guys demanded special treatment. However, my old acquaintance Kosta didn't even seem to be bothered by the fact that his new friends sported neither hooves nor braided manes. Within a couple of days after our arrival I saw him bumbling around the stalls, peeking into the mouths of those huge armadillo beasts, harnessing them and generally looking absolutely happy. I wish I could be like that. I haven't found me the right thing to do here yet.
+
+Name:
+First week passed
+Message:
+A week passed since we had settled in Jadame.		Burton and its outskirts were not very green at all, and there were no ponds, just black puddles of bubbling sludge; they gave off that trademark stench, to which, however, we became accustomed after a week or so. The local boys would sometimes set fire to one as a prank, for which they’d get a good slapping from their mothers—and the local women, it must be mentioned, could easily chuck a blacksmith's hammer several fathoms up with one hand. No wonder the naughty kids would lose their will to quarrel at the mere sight of their mothers frowning.		I had been hesitating to ask Sam this for a while; finally, I got myself together and inquired why there were so few men in Burton, and why the women were not doing housework but rather forging, drilling, and welding metal.		“Men always think it's all in their hands! That's why we have it like this now. When the ogres began popping up in our land, they set up a kind of militia—made themselves swords, shields, muskets and whatnot. Of course, no one knew how to fight. And so they were getting killed off—one by one, one by one, and some even ended up being taken as slaves to Zog.	Well, to speak the truth, our women didn't have much women's work to do even before that. You can see that nothing really grows here in our land. There's only earth oil, ore, and weeds, which only armadillos can stomach, so all we had to do was take care of the cattle. An armadillo is not a sheep or a cow, mind you, and it's not that easy to handle. Takes some strength and will. Doesn't really take a lot of shepherding, though, so we helped our fathers and husbands, learning how to forge, cast metal, do everything. Now it has come to the point that there are almost no men left at all... oh, well, somehow we manage. We can't give up. If we have goods, we have at least something to trade for food at the port market in Orca's Maw. But we can't get there now, on account of the dirtskins blocking the road our caravans take. They know we've got something to surprise them down here, so they don't dare take on us yet, but if we can't drive them back to their non-stinking hole in the mountains before long, they'll take us by force.”		It was still a fairly quiet life in Burton, except for the noise and rumbling of the forges that most every house here had.		The halflings, to my amazement, began exploring the wastelands and even climbing small rocks in their spare time, never straying far from Burton, though.	The locals, with the exception of the scouts, were also trying to stay close, not in the least part because of the proximity of Zog's strongholds. Most of the local ogre chieftains had sworn an oath to him. While before, as per the townsfolk, at least some of them could be dealt with, cautiously enough, now the Jackal had something that made them yearn to serve him. It was rumored that recently, instead of a club adorned with a pair of stone ram horns, a sign of belonging to the noble caste of battle mages, he began to carry a huge, obviously enchanted hammer.
+
+Name:
+Frederick - First conversation
+Message:
+I had lost track of Frederick in all the hustle and bustle. There was so much to do—I mean, we were trying to make ourselves a new home and prepare to fight off Zog's ogres at the same time. I met my mentor by accident, coming out of a local forge. He wouldn't have even noticed me—burdened with a huge pile of scrolls and papers, he was waddling almost at random, and I would have missed him too, if not for the inherent ability of halflings to recognize each other, and not only, by the feet. There was no other pair of such dapper saffian boots to be found in Burton. I remember him saying, with a sad smile, that the charm for wearproof soles was the most valuable thing his Bracadan mentor had imparted on him.		“Frederick!” I called out.		“Ah, Henrietta! Been a while. I hear the refugees have been resettled. What do you think of the ogre adobes? Nice, aren't they? As we flew on, I did my best to talk myself into accepting the necessity of letting the balloons’ sailcloth go into building a tent camp—but isn't that amazing luck! All these empty, huge buildings to fit everyone in. I always thought those stories about the halflings’ exceptional luck an exaggeration, especially seeing you wreak havoc in my lab time after time. But the last few days have made even a skeptic like me a believer.”		“Yeah... The adobes are huge, but I don't know what's worse—a stuffy hole with insufferable in-laws or a hundred residents all in one place. The others seem to like the feel of their neighbor's shoulder, though even if it pushes against their ribs. It gives them some strength.”		“What about you? Isn't that why you ran away from home and found that hideout of mine even experienced Bracadan clairvoyants couldn't track down? Well, there are plenty of prying eyes in Burton now, and you know how I prefer to work when I have space and no one nosing around. I like to be face to face with my studies. That's where we're alike, Henrietta, and that's what I found intriguing in you. A curious halfling who hates to sit around in her burrow and craves for knowledge. Alright, care to give me a hand in my workshop today?”		“Oh, can I?“		I spent the rest of the day helping Frederick. We talked about a lot of things, and for the first time since our arrival, I felt warmer.
+
+Name:
+Two weeks
+Message:
+Three weeks have passed since we left Eeofol. We got used to sleeping in awkward places and positions, and we grew accustomed to the rumble of the forge hammers and the heat of the furnaces. Life was very hard, but it felt somehow as if it was becoming orderly and calm again, a change even I appreciated now. For the first time, following another exhausting day, I didn't black out as soon as my head touched the makeshift pillow. The days began to come back to me in reverse order—the awkward and funny moments of getting in step with Burton's unfamiliar lifestyle, the morning when Sam met us. 		Every day and every night of our grueling flight. I remembered being struck by the sight of the vast ocean separating Antagarich and Jadame; meanwhile, most of the halflings were so exhausted, they couldn't even begin to appreciate the breathtaking view. Waiting out the darkness, hovering over the surface of the elven lakes to give our engines rest and water. Hiding high in the clouds over the dead lands, trying to evade the huge ghost dragons, hearing their deathly howls, our hearts frozen with fear. And casting the last gaze at the receding fields and villages of our native Eeofol, almost completely obscured by smoke and the glow of fire. 		The last thing I remembered before sleep overcame me was Tavin's steely eyes, no fear in them. Just selflessness, courage and determination to hold off the demons and buy us time to escape. Oh, how we… how I need someone as fearless by my side. Could I ever become like him?
+
+Name:
+Sam on Ogres
+Message:
+"Girl, the only thing ogres respect is strength. I mean, you can even get along with a dirtskin—provided you first break his face, then drag him through the mud in front of a crowd, so that everyone knows you are stronger than him, and that it would be no great shame for him to yield to you. Then he'll become your doormat, and only then you'll know he's no longer a danger to you... but, most likely, this will not last either. You see, there are no equals among the ogres; they only have a pecking order—like the Rocs. Whoever has a nest on the cliff higher up can crap on everyone below. And the one who is being crapped on dreams of moving to the very top and taking revenge on everyone who used to be above him."		"Well, suppose we rough up the one who nests at the very top... That place where it doesn't stink. Maybe then they'll be more cooperative—eh, Sam?"		"Well... we can try, of course, but I wouldn't have high hopes that it'd solve our problem once and for all. I think you'll find out soon enough. What did your jokester pals say? A halfling is not who?.. So: an ogre is not a bird either, heh, heh... but if you kick him hard enough, he'll grow some wings to flap and might even try to lay some eggs... Anyway, if we are to get to Zog, we'll have to put these mugs at our service—after we give them a thorough beating, of course. With any luck, we'll then sort out our troubles before they remember that an ogre is not a bird and shouldn't be living in a coop. And you certainly can't rely on them freaks when we go balls to the wall. The only ones you should trust are your lads with slings, the ones who know what they owe you and what's at stake. And you can always count on our burners, too..."
+
+Name:
+Ogre village
+Message:
+One morning, Sam barged into my place:		"It's time to go!”		“But where?”, I asked, shaking off the remnants of the dream in which I was wandering through the woods back home. Such pleasant dreams have become quite a luxury to have.		“The scouts ran into an abandoned ogre village. It seems to be the place where the dirtskins tried to set up some kind of a fair twenty years ago, before Zog became High Chieftain. Devil knows what they were going to trade in there, but whatever it was, the Jackal put a damper on it. His feel-o-sophie is, a self-respecting ogre just goes and takes what he needs when he wants it. Anyway, that's a perfect, perfect spot to set up a fortified keep! Come on, get dressed, get your boot... oh. Right. Well, just throw on some clothes, then. We move out immediately. It shouldn't take many men, but we must hurry.
+
+Name:
+Terghez
+Message:
+The scouts found out that there indeed is a way to get into Zog's stronghold... but at what cost! There is a garrison blocking the road, hordes of bloodthirsty creatures of the most hideous kind in it... Even with the most powerful artifacts and magic, we won’t be able to avoid huge losses—and frankly, we're hardly too rich in either yet. No; we had to think of something else.	At last we had luck: a drunken ogre was spotted boasting at the campfire that his commander had an "vvvery pawafffful rrroundd stonnn", which allegedly opened a passage to a network of underground caves—there the commander met with messengers from Zog himself! Being too liberal with cactus moonshine is bad for you—especially if there may be enemy scouts nearby, catching every carelessly thrown word.
+
+Name:
+Second conversation with Frederick
+Message:
+For some time the sky had been a source of anxiety rather than admiration for me, yet I couldn't help but recognize that it looked particularly beautiful tonight. The myriad of stars above the moonlit stone valleys glittered like finely cut gems, only found in the treasuries of the richest princes. I must confess: I shamelessly lifted this beautiful comparison from one of the novels Frederick had almost used as fuel, lamenting having this "ballast" in his hastily packed luggage instead of some more useful reference books. 		I hadn't ever seen any of those gems myself, of course, but I couldn't have said it better myself. Sam and I sat around the fire, roasting skewered meat and bread, and I listened avidly to her incredible stories. Sam seemed to have as many of them as the stars above us. I had a couple of amusing tales from village life to tell myself, too, and Sam enjoyed them well enough, choking back a hoarse laugh every now and then. I seemed to have made a first new friend in a very long time. Frederick didn't take part in our conversation—he was busy with some research of his own. He had brought a whole crateload of mirrors, tubes, curved rulers, and other instruments to the fire, but spent most of the evening in the darkness a ways aside, occasionally running up and grabbing new glass pieces and devices. 		Sam and I watched for a while as Frederick surveyed the sky through a long pipe, like those he said seafarers used on ships to see distant land, but it wasn't too much fun, so we went back to our chat. When all the meat had been eaten and only embers remained of the fire, Frederick returned and raised a finger. Mysteriously illuminated by the faint flicker of the campfire, he said: 		“The moon! They are from the moon!”		“Who?” I asked.		“The demons. It all adds up: they live on the moon. That’s scarcely a surprise; too many dark cults and practices are associated with this luminary. Every scientist and navigator knows: our world is shaped like a sphere, and the luminaries orbit around it, giving us sunlight by day and moonlight at night. Academic science believes that only incorporeal creatures can dwell on the Sun and the Moon. There are other hypotheses, but when choosing between the improbable and the absolutely improbable, I always end up leaning towards the more down-to-earth explanation. I have been looking at the Moon through a telescope for a very long time. I am sure now that what I have been able to make out are mountains, plains and countless craters, which means that the places I see are material. The demons probably built their own cities and castles there—and surely, they were watching our world below, perhaps through a spyglass just like mine. Full of jealousy of our blue oceans, our green forests and vast meadows, they were preparing an invasion, and that night, their stone ships rained down on Eeofol, turning the fertile land into an ash-filled desert akin to the one from which they came. Those were ships—there is no doubt about that. When I looked into the cracks, I saw something there—probably not mechanisms... or mechanisms operating on principles unknown to me, but most definitely products of the mind rather than natural formations.”		That night I slept badly—I dreamt of the devils again. They tore up trees, crushed mountains into rubble with their bare hands, and stacked the rocks up into huge, ugly towers. Is there any power that can resist this?
+
+Name:
+Third conversation
+Message:
+I watched Burton prepare to come face to face with Zog. Yesterday's plowmen and shepherds, the halflings were hastily learning the craft of war. Most of my countrymen are good shots with a sling, but we'd never had to practice on dirtskin-like dummies or fire volleys on command before. Hopefully, when the time comes, real bombs will hit real ogres with the same accuracy. I tried discussing the preparations with Frederick, only to find him completely serene. I only ever saw him so impassive during crucial experiments or the launching of a fancy new machine. 		“Frederick, do we have a chance of defeating Zog?”		“While Zog and his chums are nested up in their fortress, picking their noses with clubs, more and more batches of battle-ready automatons are coming out of our workshops. We're going to give this savage a nasty surprise. Even if he expects to meet resistance, he's probably imagining something like a bunch of barely trained women and midgets, hardly capable of giving him any trouble.” I decided to take no offense at Frederick for comparing halflings to midgets.  		“You know, that's good, but I wouldn't say it makes me feel much better. Zog doesn't see us as a threat, sure, but we too only have a vague idea of what we will be in for once we get to his lair. The scouts are doing their best, but they have little experience and even less reliable information. We need more scouts, more spyglasses. New ones, better than the ones we have.”		“You're a smart girl, Henrietta, and I'm glad I wasn't wrong in thinking you were a quick learner. Caught off guard by demons once, you're now doing your best to learn everything you can about your enemy before you meet him face to face. I have already thought about how to improve the spyglasses to make them handier for the halflings. A shorter focal length at the same magnification factor, compact size... Not too mention that your talent for silent walking and short stature will allow you to infiltrate deeper into enemy territory than Sam's scouts can. Can you find any capable halflings ready for such an endeavor?” 		“Yes," I answered calmly enough. Without ever meaning to, I'd been gaining experience in leading my brethren since the first day of the invasion, and I was really getting the hang of it.
+
+Name:
+Zog Warning
+Message:
+“Frederick, how much longer should our preparations take?” I asked.		“The enemy is a serious one, so the preparations should be just as serious, my little friend.”		“But the scouts report that Zog has already caught wind of our growing strength. He's about to leave his lair; either he’ll bring the fight to us on his own terms or may very well run away! We must pin him down in his fortress where he has no chance to retreat or escape!”
+
+===== Heroes =====
+
+===== Objects =====
+
+(44, 4, 0) ***Stronghold***
+
+Timed events:
+
+Name:
+AI - bonus gold
+Message:
+
+
+(47, 50, 0) ***Quest Gate***
+Message:
+The people of the wastelands have built fortifications here to protect themselves from Zog's ogres. They only let those coming from Burton pass.
+You've been recognized by the flag you’re flying. Do you wish to proceed?
+
+(53, 65, 0) ***Seer's Hut***
+Message:
+In the hut there is an old sorcerer, devoured by some tome. At length, he turns to you.	“It's been a long time since anyone has come to see me,” he says. “It's a wild place, what can you do? Precious few around these parts are interested in magical lore. I can teach you a spell or two if you like, but I need a scroll I can work with. Otherwise my advice will be useless to you.	I have heard that a scroll of the Bless spell has fallen into the hands of some knights who came here from the northern lands. The last time I saw them, they were camped near the witch's hut.
+Unfortunately, I can't help you without the scroll.
+This scroll is exactly what I need! Now I can teach you the Bless spell, but in exchange, I'll ask you to leave the scroll with me.	Will you accept my offer?
+Bless is a useful spell, but what good is magic that can't hurt your foe? The Lightning Bolt spell can be very useful against ogres and goblins. Unfortunately, I don't have a scroll with this spell, but perhaps you can get something from the Medusa in the western mountains. Those nasty things enjoy hoarding magical items.
+Unfortunately, I can't help you without the scroll.
+This scroll is exactly what I need! Now I can teach you the Lightning spell, but in exchange, I'll ask you to leave the scroll with me.	Will you accept my offer?
+Enemy archers can be a serious threat—but I'll tell you a secret: it's one you can avoid. The Forgetfulness spell can be extremely useful against any shooter—and from what I hear, Zog has been recruiting a lot of orc mercenaries for his army lately. Scrolls with this spell are not easy to come by, but you might be able to find something of value in a smuggler's den.
+Unfortunately, I can't help you without the scroll.
+This scroll is exactly what I need! Now I can teach you the Forgetfulness spell, but in exchange, I'll ask you to leave the scroll with me.	Will you accept my offer?
+There's one spell left that I can teach you: Counterstrike. I used to have a scroll with it, but minotaur brigands took it from me. They probably still have it. Good luck to you!
+Unfortunately, I can't help you without the scroll.
+This scroll is exactly what I need! Now I can teach you the Counterstrike spell, but in exchange, I'll ask you to leave the scroll with me.	Will you accept my offer?
+
+(55, 43, 0) ***Seer's Hut***
+Message:
+In the hut you meet an old blacksmith busy making armor.	“Hey, who goes there? Ogres? Didn’t I tell you that... Huh? You’re no ogre! Oh, great! It's been a while since I've seen any customers here—those brutes chased off everyone who lived around here, and then a bunch of knights came and began pushing me to join them on some kind of a quest. I’m way too old for that sort of thing!		Hey… listen. A hunter dropped by recently, and I bought a sack of basilisk scales off him. Fine stuff, perfect for a strong armor, but scales alone won’t do it—I need some more materials.	Bring me 15 crystals and 15 gems, and I’ll fashion you a nice set of armor from basilisk scales.”
+That's not enough. I need no less than 15 crystals and 15 gems!
+Finally! These are the crystals and gems I need!	Will you give the blacksmith the materials for the Basilisk Scale Armor?
+
+(68, 47, 0) ***Stronghold***
+
+Timed events:
+
+Name:
+131 - AI - bonus troops + citadel
+Message:
+
+
+Name:
+146 - AI - big bonus
+Message:
+
+
+(41, 41, 0) ***Quest Gate***
+Message:
+The people of the wastelands have built fortifications here to protect themselves from Zog's ogres. They only let those coming from Burton pass.
+You've been recognized by the flag you’re flying. Do you wish to proceed?
+
+(8, 27, 0) ***Sign***
+Message:
+Sometimes the key is power, and sometimes the key is just a key. Both have their price.
+
+(2, 27, 0) ***Seer's Hut***
+Message:
+A robed priest greets you by the hut. He looks you in the eye for a while, and then gestures for you to enter.	“Greetings. I have ventured into these lands on behalf of the High Priest of the Temple of the Sun. Our longtime nemesis, the Necromancer's Guild, is preparing to wage war against us. The Necromancers and their vile creations have been appearing in these wastelands in greater numbers over the recent months. There even are some black knights, or so I’ve heard! We believe that these lands have been home to cursed artifacts since the last century. Their creator was... Bah, that doesn't matter. What does, is that these artifacts must be found and destroyed before they fall into the hands of the Necromancer's Guild. Bring them to us, and I’ll give you something to make it worth your time.”
+Haven't found the artifacts yet? Hurry! You may be able to find some of them in old graves and burial grounds, but I suspect some have already fallen into the Guild's hands. You'll have to take them by force.
+The priest takes a long look at each of the artifacts, and finally speaks:	 “You have been of invaluable help to our Temple. I will hand the artifacts over to my brethren immediately. We will make sure that they never harm anyone else. As for the reward... Take this Golden Bow.”
+
+(45, 67, 0) ***Quest Guard***
+Message:
+Your troops have stopped at a cliff. Deep crevices in the ground make it impossible to pass here; you must build a bridge.
+You can't build a bridge without materials; you'll have to find wood first.
+Using 20 Wood, you can build a bridge across the rifts and proceed on your way. Do you want to build it?
+
+(32, 53, 0) ***Sign***
+Message:
+Persanal rohmeng of Zog. Dont trempl down. Ofendors wil be fed to orcs.
+
+(41, 10, 0) ***Quest Gate***
+Message:
+There is another ogre garrison here, even better fortified than the previous one. There is no way to storm it. As you are about to turn back, a barbarian calls out to you from the wall.	“Zog keeps everyone in fear, but he hasn't earned any real loyalty. There are some ogres who aren’t willing to kowtow before Zog, but no one dares to stand in his way as long as he has the Iron Fist. Now, if you brought us some very powerful artifacts, such as the Golden Bow, the Angel Feather Arrows, and the Bowstring of the Unicorn’s Mane, Zog would have a hard time duking it out with his rivals. Do this, and we'll let you into his camp, from where you may do as you wish.”
+Taking over such a powerful fortification is unthinkable. You can only get through if you bring the artifacts to the barbarians.
+Seeing the artifacts in your hands, the barbarians agree to let your troops pass. This may be your only option to enter Zog's camp.	Do you want to hand over the artifacts and pass?
+
+(42, 41, 0) ***Quest Guard***
+Message:
+On the road, you meet a man with the looks of a rogue.	“This is the local minotaurs’ war camp,” he says. “The ogres have tried to barge in a few times, but Balthazar's horned lads know their fortifications.	That said... Get me 15 gems and I'll show you the secret passage into their camp.”
+“That's not nearly enough!”, the rogue is outraged. “Got anything else?”
+“Very well,” says the rogue and reaches for the gems. “Follow me; I'll show you the secret passage. But be careful! The minotaurs aren’t keen on uninvited guests.”
+
+(2, 6, 0) ***Seer's Hut***
+Message:
+A ways from the rocks and ogrish huts, you notice a strange building, too neat and clean to be one of their dwellings. Inside you are greeted by a man, either an alchemist or a blacksmith.		“Oh, I see ogres aren’t the only company left around here! How fortunate! I am an alchemist, from Alvar. Some dark elves I know told me that I should find some valuable materials for my experiments in these wastelands. “This stuff is free for the taking,” they said. Why the hell did I believe them? Naturally, I got snatched up by the ogres, and now I'm all but a prisoner here—can't get out of here on my own, and my home’s way too far. Judging by the fact that they haven't eaten me yet, they still have some use for my skills, but I have no desire to stay in this hole and forge armor for those mugs until I keel over! 		You know, I'm touched by your story and I'd really like to help you, but I'm afraid that my 'employers' and their chieftess, Guerhaugh, might come back any minute. Make sure I won't see them ever again, and then I’ll help you and your town.”
+Guerhaugh is still around and could return any minute!
+Word has reached me of how you smashed Guerhaugh and routed her troops! Guess the ogres aren’t coming back. I want to thank you! I've spent the last few months experimenting with saltpeter and other explosives out of boredom. Here’s some gunpowder—you may need it to arm your halfling squads.		Would you like to form a squad of halfling grenadiers?	
+You've done so much for me! How else can I thank you..?
+I had a pair of old enchanted boots lying around somewhere. Oh, yes, here they are! The ogres didn't take them away… they’d never fit over their paws anyway! I have a newer pair, so I don't need them anymore. Do you want them?
+
+(11, 48, 0) ***Seer's Hut***
+Message:
+A sorcerer meets you in the hut. He seems quite frightened.	“Thank you!”, He says. “If it weren't for you, I wouldn't have been able to handle those Dendroids! Who knew that my fire magic experiments would bring the entire forest to ash?	Before coming to these wastelands, I taught elemental magic to sorcerers, earth and fire spells in particular. Bring me a capable apprentice, and I will teach him everything I know. I usually charge a hefty fee for my lessons, but since you've helped me, I'll waive the tuition fee.”
+Unfortunately, I don't feel any knack for magic in you. Perhaps there’s a sorcerer you know? 
+Do you wish to be trained in Earth Magic?
+Bring me a capable disciple and I will teach him everything I know.
+Unfortunately, I don't feel any knack for magic in you. Perhaps there’s a sorcerer you know? 
+Do you wish to be trained in Fire Magic?
+
+(11, 43, 0) ***Quest Gate***
+Message:
+The people of the wastelands have built fortifications here to protect themselves from Zog's ogres. They only let those coming from Burton pass.
+You've been recognized by the flag you’re flying. Do you wish to proceed?
+
+(38, 51, 0) ***Sign***
+Message:
+Obandon rob ye ol who enta hir. Ye no tasty in rob an we r to lazi to disrob ye.
+
+(44, 66, 0) ***Battle Mage***
+Name:
+Jerhesh
+
+(32, 18, 0) ***Quest Guard***
+Message:
+Pirates have made camp on this shore. You can hire a ship and a crew here, but only for a hefty fee. Bring 20 Crystals, 10 Gems and 4000 Gold to convince the pirates to join you.
+The pirates will not talk to you unless you bring them 20 Crystals, 10 Gems and 4000 Gold.
+Seeing gold and gems, pirates are willing to make their ship and themselves available. 20 Crystals, 10 Gems and 4000 Gold will be enough. Do you agree?
+
+(63, 5, 0) ***Barbarian***
+Name:
+Naghban
+
+(44, 5, 0) ***Battle Mage***
+Name:
+Zog
+
+(43, 66, 0) ***Event***
+Message:
+
+
+(31, 6, 0) ***Quest Guard***
+Message:
+As you start approaching the entrance to the cave, a bolt of lightning strikes the ground right in front of you, out of the clear sky! Then another one, and again, and again... Obviously, it would be deadly to continue on this path.		Without a doubt, these lightning bolts are the work of a powerful ogre sorcerer. The scouts report that Terghez's warriors frequent these caves, and he is rumored to possess a sphere that amplifies air magic. Could it be the solution to your problem?
+It is still dangerous to approach the cave. 
+Still fearing a strike of deadly magic from the heavens, you approach the entrance to the cave, but this time with the Orb of Firmament in hand—no lightning bolts this time. 	You will now be able to enter the caves beneath Zog's fortress, but the sphere is best left here at the entrance.	Do you wish to enter the caves now?
+
+(23, 67, 0) ***Ogre Mage***
+Message:
+So that's what the ogres look like. Huge, clumsy, with tarnished olive-colored skin, and poorly armed—but given their strength, that doesn't matter so much; a club in the hands of such a hulk can pose a greater danger than the sharpest sword. Zog seems to realize, though, that with good weapons and armor, his men would find few equals in battle. We can only hope he doesn't find another source of metal, and naturally, we won't let them get their hands on Burton craftsmanship while we're alive.
+
+(57, 2, 0) ***Quest Guard***
+Message:
+The only passage through the mountains appears blocked by a tall wall. There are no gates or doors. It looks like a magical barrier—but how could the Ogres have conjured it, given their woeful magical skills?
+Examining the wall closely, you find a small opening. The orb that Naghban kept fits the shape perfectly; it must be the key.
+The wall trembles when you put the orb to it. If we leave it inside, the power holding the stones together will fizzle out. Do you want to open the passage?
+
+(67, 8, 0) ***Battle Mage***
+Name:
+Terghez
+
+(68, 7, 0) ***Event***
+Message:
+
+
+(31, 67, 0) ***Event***
+Message:
+
+
+(52, 6, 0) ***Event***
+Message:
+Bonus troops for Zog
+
+(52, 36, 0) ***Sign***
+Message:
+Anyone can get rich! We guarantee a reward of 1 gem per ogre head. Contact Gierd, Balthazar's Lair.
+
+(63, 20, 0) ***Seer's Hut***
+Message:
+As you wandered through the wastelands, you found an old farm, or “ranch,” as they call these here. It was a sorry-looking ranch, however: several sections of the fence were broken, and the armadillo pen’s walls were gaping with holes. You were greeted by a waddling rancher.		“Real people? From Burton? Happy to see some are still alive. I feared the dirtskins had everyone killed... Look how they massacred my ranch!” He pointed to the fence. “I can't stand their company anymore. They come, smash everything they can, drag off the fattest armadillos... and then return. Every six months. I thought about moving closer to the town, but getting there is no small challenge; there's all sorts of monsters in the wastelands. What am I gonna do if I run into a pack of wyverns, or some of those bronze bulls?		I know the ogres that keep coming here, but what of it? They’re Terghez's gang. That vile brute has made his lair on the mountainside, just up the road,” the farmer pointed to the north. “They say he doesn't come out very often. Maybe you can help me get rid of him. I can't imagine having to face those ogres again.”
+The farmer is fixing his broken fence and watering the few armadillos he still has here. It's best not to bother him.
+You say Terghez ran for his life? Like a rat? And his gang is toast? Music to my ears! If what I've heard about you and Zog is true... who knows, maybe soon there won't be any ogres left at all.	As for the reward... I don't have any gold, of course. Here, take my best bellwethers—I can raise new ones now, and I have nothing else to thank you with anyway.
+“Oh, hah, that slipped my mind,” the farmer suddenly springs up. “I've got some magic book lying around. Bought it from a dark elf at the fair. Perhaps Henrietta will find it useful?”
+“Oh, hah, that slipped my mind,” the farmer suddenly springs up. “I've got some magic book lying around. Bought it from a dark elf at the fair. Perhaps Henrietta will find it useful?”
+Would you like to take the book?
+
+(70, 40, 0) ***Seer's Hut***
+Message:
+While investigating the captured ogre village, you noticed a huge hut, clearly the dwelling of their leader. However, the chief was nowhere to be seen, so you couldn't get inside. The entrance to the hut was not only locked, but magically sealed too; some ogre mage had obviously done some work on it. Searching the settlement, your men found a goblin slave hiding inside a furnace. He confessed that this hut was Chief Tan-Ghun's. Perhaps he holds the key to it, or something of the sort—you should look for it. 
+Tan-Ghun's hut is locked, and it’s impossible to get into.
+On closer inspection, the hut turned out to be the entrance to a huge cave where the chief's “riches” were stored. After rummaging through heaps of skulls, rusty weapons and other useless trash, you found something interesting: tools that obviously once belonged to Burtonese engineers, but apparently were captured by Tan-Ghun in some battle.
+As you are about to leave, you suddenly notice a pair of very dusty but undoubtedly enchanted boots in the corner.
+Would you like to take the boots?
+
+(22, 67, 0) ***Event***
+Message:
+
+
+(68, 48, 0) ***Barbarian***
+Name:
+Tan-Ghun
+
+(56, 39, 0) ***Quest Gate***
+Message:
+The people of the wastelands have built fortifications here to protect themselves from Zog's ogres. They only let those coming from Burton pass.
+You've been recognized by the flag you’re flying. Do you wish to proceed?
+
+(58, 2, 0) ***Event***
+Message:
+Everything indicates that you are very close to Zog's stronghold. What's more, you can smell the smoke of campfires. What if the leader of the ogres has come out of his lair to stretch his bones, hunt, collect tribute, prostrate with his backside up in front of some idol—whatever it is these scum like to do in their leisure time? No better time for a quick march and a surprise attack!
+
+(55, 39, 0) ***Quest Guard***
+Message:
+On the road, you meet a man with the looks of a rogue.	“This is the local minotaurs’ war camp,” he says. “The ogres have tried to barge in a few times, but Balthazar's horned lads know their fortifications.	That said... Get me 15 gems and I'll show you the secret passage into their camp.”
+“That's not nearly enough!”, the rogue is outraged. “Got anything else?”
+“Very well,” says the rogue and reaches for the gems. “Follow me; I'll show you the secret passage.”
+
+(13, 61, 0) ***Factory***
+Name:
+Burton
+
+Timed events:
+
+Name:
+Player - 211 - Reinforcement
+Message:
+The heroes' success has raised the spirits in Burton: new volunteers can't wait to join the fighters and rid the town of the vile ogres!
+
+(64, 67, 0) ***Quest Guard***
+Message:
+A bandit ringleader lives here—his band has blocked some of the passages. He is only willing to talk about letting you pass if you supply his men with ore, whatever reason they might want it for.
+The bandits won’t talk to you until you bring them ore.
+Do you wish to hand the ore over to the bandits?
+
+(4, 3, 0) ***Quest Gate***
+Message:
+Here towers an ancient stone portal. Who built this structure and when is unknown; however, it is said that it can help one travel to one of the neighboring towns.
+Would you like to proceed to the gate?
+
+(17, 71, 0) ***Pandora's Box***
+Message:
+
+
+(33, 26, 0) ***Battle Mage***
+Name:
+Horoagh
+
+(34, 28, 0) ***Quest Guard***
+Message:
+This road is blocked by a tall palisade with a gate—although it is not clear why; there are no ogre fortresses in this part of the Ravage Roaming.
+It seems as though you won't get through here—without the one who locked the gate, it's entirely unclear how to open it. Maybe you should come back here later?
+Someone had left the gate open. Would you like to pass through here?
+
+(16, 8, 0) ***Battle Mage***
+Name:
+Guerhaugh
+
+(18, 71, 0) ***Pandora's Box***
+Message:
+
+
+(54, 23, 0) ***Quest Guard***
+Message:
+You meet a powerful dragon, the chieftain of his kin. He declares that his flight will only allow you to walk through their lands if you share your riches with them. Their appetite is truly draconic: they demand 40 crystals, 40 gems and 20000 gold.
+The dragon is adamant. He demands 40 crystals, 40 gems and 20000 gold, and no less!
+The dragon declares that he is willing to accept gold and gems in exchange for the right to enter his lands.	WIll you agree to his offer? 
+
+(52, 3, 1) ***Seer's Hut***
+Message:
+Deep in the cave, you come across a ramshackle house, sunken almost to the roof in a deep puddle of bluish, slightly glowing liquid. 
+Would you like to take a sip from the puddle?
+
+(29, 6, 1) ***Quest Gate***
+Message:
+Today, I had a difficult conversation with Frederick and Sam. I tried my best to make it clear to them: I should be the only one to go to dangerous places. If anything happens to me, Burton and the people who live there can handle it. Just… someone else will take over the scouting. Their loss, however, would be something our town might not survive. “Our town”... Didn’t take long for me to get used to saying that.
+This place smells of blood. I can't let my friends take any risks. I'm the one who must proceed here.
+Even if there's a clash with Zog himself ahead—Burton has already done everything it can to get me prepared for it. All that's left to figure out is whether I myself am ready.
+
+(70, 2, 1) ***Spell Scroll***
+Message:
+The "relic" your errant men were talking about turned out to be a magical scroll with the Teleport spell. No idea why the horned one would have hired someone, let alone this sorry bunch, to safeguard it here; however, as per one of the halflings, the minotaur had mentioned the relic should be the key to vanquishing Zog.
+
+(40, 6, 1) ***Quest Guard***
+Message:
+A large host of minotaurs clad in dark-armor guards the passageway that leads deeper into the cave.	"Stop right there!” a hulking creature with a blackened horn warns. “This is the training ground for young warriors from Balthazar's Lair. Outsiders aren’t allowed in here. However... for a small fee of 100 gems, we wouldn't mind showing you a few defensive techniques.”
+As long as you do not have the agreed amount of gems, Minotaurs are best left undisturbed—they are not to be trifled with.
+"I see you've got some gems," the minotaur says, shaking his head and just about impaling you with his horn. "Give them over, and you can pass."
+
+(69, 1, 1) ***Halfling Grenadier***
+Message:
+“Halt! Who goes there?”, a menacing, but somewhat constrained voice came from the darkness.		“We are not your enemies—unless, of course, you are of Zog's gang!”		“But… What… No! We were hired to guard a sacred relic! Show yourself, you insolent stranger!”		“You?! I thought you'd been eaten by ogres!” I exclaimed, just to get hissed at from all sides. These men were the first squad we'd fielded after getting the mass production of Frederick's firecrackers up and running. They went out of town on a reconnaissance mission, but never came back. Since then, I'd been going out scouting personally.		“Hush! I'm not keen on getting buried under a cave-in! Yes, that's us. We were hired.”		“What? Hired?! As in to guard something?! I don't even want to ask by who or why. What the hell were you thinking?”		“Well… The guy was a big fella with horns and hooves, not red, though. He didn't really ask if we wanted to take him up on his offer or not, and he didn't seem to care who we were. Ridiculous, isn’t it: grenadiers in a dungeon where a boulder can drop on your head if you sneeze at the wrong time! And all because of this blasted chunk of moldy parchment! Damn it all, and may that bull-faced freak and his gold go to hell! I've forgotten what the sun looks like!” Something on the speaker’s mournful face glinted in the torchlight.		“All right, you miserable excuses for mercenaries. I forgive your defection, but now you're back in the ranks. Come on, let's get out of here! Better to die in battle than get your head caved in by a rock when you go to do a number two, innit?” 
+
+(48, 21, 1) ***Pandora's Box***
+Message:
+
+
+(4, 0, 1) ***Barbarian***
+Name:
+Creghol
+
+===== End of file =====

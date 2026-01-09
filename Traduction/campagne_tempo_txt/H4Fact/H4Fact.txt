@@ -1,0 +1,108 @@
+Name:
+
+
+Description:
+
+
+
+Un monde en feu - Forgé par le feu A
+
+Right-click text:
+Les Kreegans ont envahi Eeofol pendant la Nuit où les Étoiles sont Tombé du Ciel. La hobbit Henrietta doit trouver l'artificier Frederick, qui pourrait savoir quoi faire.
+
+Prologue:
+Eeofol. Le pays des géants. Pourquoi s'appelle-t-il ainsi ? Au fond de nous, chacun est persuadé qu'il s'agit de nous. Certes, cela peut paraître ridicule, mais c'est douloureux de savoir que certains vous appellent "demi-homme", comme si vous n'étiez que la moitié d'une personne. Nous avons toujours évité les étrangers ; à côté d'eux, il était trop difficile de nous convaincre du contraire. Nous détestions tout changement, car cela signifiait reconnaître que nous avions déjà fait quelque chose de mal. Nous croyions pourtant à de bonnes vieilles superstitions ; et la nuit où le ciel au-dessus de nous s'est brisé en mille morceaux de feu, beaucoup d'entre nous faisaient des vœux aux étoiles. Moi ? J'ai senti qu'il se passait quelque chose d'étrange et d'effrayant, et un seul homme pouvait m'aider à le comprendre. C'était l'étranger qui m'a appris à aimer le ciel plus que la terre.
+
+Epilogue:
+Eeofol était en train de mourir. Les pommiers fleurissaient encore et le blé poussait, mais l'odeur nauséabonde des cendres sulfureuses montait déjà des montagnes, et les eaux dévalant les pentes des volcans maintenant réveillés étaient une vision d'horreur. Bientôt, il n'y aura plus de vie ici ; seuls les hideux invités que le ciel nous envoie. Qu'il est difficile de persuader un hobbit de lever les yeux pour la première fois de sa vie et d'affronter son propre avenir ! Ils sont si peu nombreux ici, ceux qui ont choisi l'inconcevable. Peut-être seuls survivront-ils et garderont-ils le souvenir de notre terre lorsqu'elle mourra.
+
+
+Au-delà de l'horizon - Forgé par le feu B
+
+Right-click text:
+La ville de Burton est menacée d'être ravagée par des ogres. Henrietta, Frederick et Sam doivent repousser leurs attaques et vaincre leur chef, Zog le Chacal.
+
+Prologue:
+La peur et l'excitation sont les meilleurs remèdes au chagrin. Je l'ai compris lorsque la terre est apparue à l'horizon. Notre long et pénible voyage à travers l'océan touchait à sa fin, et le nouveau continent de Jadame se profilait devant nous. Les fugitifs ignoraient encore que les terres en contrebas étaient un désert stérile, et que le village de mineurs vers lequel nous nous dirigions était un trou sale et bruyant. Burton n'est pas un endroit pour les faibles ; toute colonie sur ces terres attire ceux qui ne bâtissent, qui ne labourent et qui n'ont de troupeau. Le droit à un nouveau foyer allait coûter cher ; pourtant, pour la première fois depuis notre départ, les visages de mes passagers inattendus s'illuminaient.
+
+Epilogue:
+Les premières joies et les premières peines du nouveau monde arrivèrent. Les premiers succès et les premières défaites suivirent, accompagnés de nouveaux ennemis et... de nouveaux amis. La vie avait un goût amer de sang, mais avec un soupçon exaltant de victoire. Jadame accepta nos sacrifices, nous accordant ce que nous n'avions jamais désiré, mais que nous avions accepté pour survivre. Seuls quelques-uns d'entre nous avaient maîtrisé le métier de guerrier jusqu'à présent, mais tous devinrent des héros. Une poignée d'hommes ont appris à diriger, mais chacun est prêt à se lever dès qu'on l'appelle. Les nouvelles blessures peuvent parfois saigner, mais si vous les ressentez, c'est que vous êtes toujours en vie.
+
+
+Mort ou vif - Forgé par le feu C
+
+Right-click text:
+Soudainement une nouvelle menace s'abattit sur Burton : des raids de pirates menés par Dargem. Il ne faut pas prendre les Regnans à la légère, et une aide sera nécessaire pour résoudre ce problème.
+
+Prologue:
+Je me souvenais de chez moi, à nouveau. De ces temps paisibles et rêveurs où même les rares bagarres lors des festins du village se terminaient toujours par le partage du chalice de paix... Ici, nous n'avons pas encore trouvé le moindre terrain d'entente avec les ogres ou les gobelins ; cependant ils nous causent moins de soucis ces derniers temps. Récemment, les pirates regnans ont commencé à faire leur apparition sur nos terres. La rumeur selon laquelle il y aurait désormais quelque chose à faire à Burton s'est répandue loin, semble-t-il. De plus, nos observateurs ont repéré des morts-vivants près des remparts de la ville. Simple coïncidence, ou les morts-vivants veulent-ils maintenant aussi quelque chose de notre part ?
+
+Epilogue:
+La poursuite... L'épée à la main... et le chemin à peine visible entre les collines sans vie devant moi. Je fonce, apercevant à peine la carte, ainsi que le squelette silencieux qui chevauche à mes côtés. Soudain, je me réveille, chassant le cauchemar qui m'a tourmenté pendant des jours, dans mes rêves et au-delà. Après avoir capturé ce ver, Dargem, j'ai laissé Boyd et lui régler leurs comptes seuls. Dois-je m'attendre à voir un deuxième mort agité s'inviter dans mes rêves ce soir ? Eh bien, seulement deux, ce n'est pas si terrible. Après avoir fui Eeofol, j'en voyais des milliers...
+
+
+Pilleur de tombes - Forgé par le feu D
+
+Right-click text:
+Frederick doit retrouver Henrietta, partie à la recherche du sorcier Agar. Le dernier message reçu d'elle indiquait que son équipe avait découvert un tombeau antique et s'y était rendue pour l'explorer. Des glissements de terrain causés par des vers géants bloquaient les nombreuses routes traversant les cols de montagne. Les dirigeables doivent être la seule solution...
+
+Prologue:
+Devoir se contenter de moins... le pire supplice imaginable pour quelqu'un qui connaît sa valeur. Il fut un temps où satisfaire mes passions impliquait la découverte de nouveaux mondes. Je pouvais libérer l'incroyable pouvoir caché dans un grain de matière - et maintenant, je me roule dans un tonneau puant pendant des semaines, juste pour tester une petite hypothèse ! Bref, je dois découvrir si cet artificier autoproclamé, Fenimore, Farragut, ou quel que soit son nom, a bel et bien accompli quelque chose d'inédit en ce monde, ou n'est-il qu'un charlatan de foire comme tous les autres "scientifiques" que j'ai rencontrés jusqu'ici ?
+
+Epilogue:
+Réjouis-toi, petite hobbit : Kastore lui-même prend des risques pour te sortir de ce labyrinthe. Bon, bien sûr, tu n’es pas la raison de ma présence ici, mais j’aurais bien besoin de la bonne réputation qui accompagne le fait d’être ton sauveur. Pour l’instant, cependant, il y a des choses plus importantes à faire : un savoir perdu depuis des éons et des merveilles oubliées ! Ce tombeau en regorge. Juste ce minuscule grain de poussière entre tes mains détient un pouvoir inexploré. Très bientôt, je le jure, je le mettrai à mon service, et à moi seul, tout comme le fait déjà ton ami, avec sa nouvelle compréhension de la nature des choses. Mes plans immédiats sont clairs... et Deyja peut attendre son roi un moment.
+
+
+Deus Ex Machina - Forgé par le feu E
+
+Right-click text:
+L'artéfact retrouvé dans la tombe antique a permis de développer un projet d'arme d'un nouveau type. Les artificiers Todd et Bertram sont les coureurs principaux de la recherche d'un modèle fonctionnel d'équipement de combat capable de renverser le cours d'une bataille.
+
+Prologue:
+La valeur de l'or. La jauge de tous les mécanismes. Aucun artisan n'a encore réussi à la calculer ; on ne peut que la ressentir en retirant l'excédent de métal, mouvement après mouvement, jusqu'à ce que tout son être se mette à chanter : la voilà, la perfection ! Puis, inévitablement, on découvre un défaut sur une autre partie, et ainsi de suite, jour après jour, année après année... J'ai failli perdre la tête dans ce cycle sans fin, mais alors que j'étais au bord du gouffre, quelqu'un m'a envoyé ce schéma. J'ignore totalement les imperfections qu'il recèle. Peut-être n'ai-je pas les connaissances nécessaires. En revanche, une chose est sûre : personne n'a jamais été aussi près que moi de donner vie à une telle chose.
+
+Prologue:
+Ah, si seulement les scientifiques savaient combien coûtaient leurs théories... S’ils essayaient un jour de planifier les achats, les embauches, les loyers à l’avance, s’épargnant ainsi la peine de payer le centuple en frais d’urgence. Tant de projets ambitieux ont été gaspillés sous mes yeux ! Et j’en ai sauvé bien d’autres, en prêtant main-forte à leurs créateurs sous forme d’expertise impartiale et, bien sûr, de quelques pièces. Non, je n’ose pas me proclamer le plus grand moteur du progrès ; pourtant, il n’y a qu’un seul nain, Burton, capable de mener à bien un projet aussi monumental.
+
+Epilogue:
+Vous manquez de génie ? Prenez une douzaine d'esprits talentueux, aidez-les à se débarrasser de leurs superstitions, et ils ne feront pas pire. Une fois de plus, cela a fonctionné, même dans un monde reculé comme celui-ci. Ils ignoraient à quel point leur talent et leurs connaissances étaient inférieurs à ceux des grands esprits qui avaient autrefois créé cette merveille. Ils se sont simplement convaincus que la tâche était à leur portée. Quelle insolence ! J'adore ces simplets. Jouez avec leur vanité, et vous pourrez les mener n'importe où... ou les laisser vous ouvrir la voie, même jusqu'au paradis.
+
+Epilogue:
+Vous manquez de génie ? Prenez une douzaine d'esprits talentueux, aidez-les à se débarrasser de leurs superstitions, et ils ne feront pas pire. Une fois de plus, cela a fonctionné, même dans un monde reculé comme celui-ci. Ils ignoraient à quel point leur talent et leurs connaissances étaient inférieurs à ceux des grands esprits qui avaient autrefois créé cette merveille. Ils se sont simplement convaincus que la tâche était à leur portée. Quelle insolence ! J'adore ces simplets. Jouez avec leur vanité, et vous pourrez les mener n'importe où... ou les laisser vous ouvrir la voie, même jusqu'au paradis.
+
+
+Couvert de Goudron et de Plume - Forgé par le feu F
+
+Right-click text:
+Henrietta et Wynona se dirigent vers des îles inexplorées au sud de Jadame. Elles rêvent de trouver les mystérieux couatls, mais elles ne sont guère désirées ici.
+
+Prologue:
+Tant d'endroits à Jadame où aucun naturaliste n'a encore mis les pieds, et pourtant ma soif de découverte me conduit sans cesse vers des lieux difficilement accessibles à cheval, et encore moins dans une imposante charrette tirée par des Glyptodons. Une randonnée pédestre dans les gorges de Garrote était derrière moi. Je rêvais de l'habituel : de nouvelles bottes, ou, mieux encore, une paire d'ailes, sans la moindre idée de ce que j'allais rencontrer. La dernière fois que j'étais allé à Burton, même les bottes n'y avaient pas encore été inventées ; maintenant, une immense ville bruyante et puante grouillait là où se dressaient autrefois des huttes de peaux-vertes, et survolée par de véritables dirigeables. De plus, une expédition vers l'archipel qu'aucun voyageur n'avait encore décrit était sur le point de partir. Qui habite ces îles ? Je n'avais pas envie de rater cette occasion de le découvrir.
+
+Epilogue:
+Qui aurait pu imaginer que ces îles recelaient des découvertes dignes des plus grands voyageurs de l'Empire Amberlien ? Des dizaines d'oiseaux, de bêtes et de reptiles encore inconnus, tout un peuple perdu dans le brouillard des siècles, et, eh bien, les INCROYABLES couatls ! À eux seuls, ils auraient suffi. Personne n'aurait jamais imaginé que le processus de développement dans l'oeuf puisse être contrôlé, de sorte qu'une créature magnifique et majestueuse puisse éclore au lieu d'un minuscule serpent. Même la longue vie d'un elfe n'y suffirait pas, si l'on devait décrire tout cela - et, pour ce qui est de l'exploration, je possède encore la majeure partie de Jadame. Ma sœur jurée, que j'ai trouvée ici, ne possédait qu'un petit morceau du lointain Antagarich, et même celui-ci est désormais pris par les démons. Ma place est désormais à ses côtés, mais un jour, je reviendrai sûrement.
+
+
+Nouvel Ordre - Forgé par le feu G
+
+Right-click text:
+Kastore a pris le pouvoir à Burton. Les Hobbits ont été déclarés hors-la-loi, et leur dernier espoir est désormais de retourner dans leur terre natale, Eeofol. Avant de partir à la recherche du bon moyen de transport, Henrietta devra rassembler les provisions et l'équipement nécessaires.
+
+Prologue:
+Un homme vaniteux compte ses richesses en pièces d'or. Un homme pragmatique, lui offre ses mains prêt à obéir à ses ordres. Un véritable homme puissant, son esprit s'efforce à concrétiser ses projets. Je possède désormais tout un pays composé de tels esprits. Peut-être pas immense, mais il m'appartient entièrement. Chacun de mes sujets, pour ses recherches, rêve d'acquérir ne serait-ce qu'une infime partie des merveilles que recelaient le tombeau. On pourrait croire que j'offre facilement ces merveilles, mais en réalité, je ne partage que ce qui sert mes intérêts immédiats. Ma seule récompense pour ce travail acharné est la possibilité de subvenir à mes besoins alternatifs, et pourtant, tous les participants en ressortent satisfaits. N'est-ce pas là le summum de la gestion des hommes ?
+
+Epilogue:
+La nouvelle demeure que nous avons bâtie ici ; ceux que je considérais comme mes camarades, voire mes amis - tout ce que j'ai acquis à Jadame est en train de s'évaporer. C'est comme de l'huile à lampe ; impossible de l'attraper à la main. Il faut des tuyaux de fer, des tarières et un don d'artisan. De même, il faut du courage et une volonté de fer pour soumettre le monde. J'ai passé des années à la forger, mais ma lame s'est brisée en heurtant le travail d'un meilleur artisan. Il me faut maintenant la reforger et la faire refroidir dans le sang des démons ; pour le bien de tous ceux qui m'ont accompagné sur mon chemin jusqu'ici et de ceux qui seront à mes côtés lors de mon départ. Cette terre étrangère n'était pas destinée à devenir la nôtre, mais nous pouvons désormais reconquérir celle de notre naissance.
+
+
+Retour à la maison - Forgé par le feu H
+
+Right-click text:
+Henrietta retourne dans sa patrie avec ses alliés à ses côtés. Ils sont prêts à chasser les Kreegans une fois pour toutes et à reprendre le foyer des Hobbits.
+
+Prologue:
+Terre morte. Eau sans entrain. Air empoisonné. Seul le feu règne désormais sur ces terres ; ce feu que les Hobbits avaient toujours tant craint. Il a dévoré toute la force vitale d'Eeofol et continue d'engendrer des bêtes. Le paysage que j'ai vu du ciel était sinistre, mais je savais qu'il en serait ainsi. Maintenant, j'en suis certain : c'est ma terre, même si je ne l'aime plus autant qu'autrefois. Je retrouverai ceux qui se sont battus pour elle toutes ces années, et ensemble, nous chasserons les démons jusqu'aux portes de l'enfer, ou mourrons en essayant.
+
+Epilogue:
+Un pays qui aspire simplement à la paix n'a pas de temps à perdre avec des héros. J'ai troqué mon épée contre une houe, et c'était la première fois que mon dos ressentait l'épreuve qu'un tel travail impose à ceux qui l'exercent depuis leur enfance. Les réfugiés qui ont passé une longue décennie dans des contrées lointaines reviennent maintenant à Eeofol. Ils recherchent les vestiges de leurs fermes et labourent les champs jonchés de cendres. Ils espèrent une bonne récolte, et à juste titre ; la terre est toujours généreuse après de grands incendies. Je t'aime, Eeofol. Je t'ai tout donné, tout ce que j'avais à l'intérieur, et je n'attends rien en retour, mais tu ne tarderas pas à redevenir toi-même... Une fois que mon peuple se sera remis et irrité par l'attention que je leur porte, je tenterai à nouveau de changer le monde... ailleurs.
+
