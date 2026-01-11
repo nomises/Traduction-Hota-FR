@@ -10,7 +10,7 @@
 `+3 Cerbères`
 
 - Il faut différencier l'orsqu'on parle du *level* d'un héros et le *level* d'une créature.  
-On parle d'un `niveau` pour les héros et d'un `rang` l'orsqu'on parle des crétures.
+On parle d'un `niveau` pour les héros et d'un `rang` l'orsqu'on parle des créatures.
 
 - Pour tous les textes s'adressant au joueur, il faut toujours utiliser le `vous`.  
 
