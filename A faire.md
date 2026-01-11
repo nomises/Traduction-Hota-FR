@@ -204,7 +204,7 @@
 ## HotA_lng.lod
 ### Traduire
 * artraits.txt
-* CAMPBTTN.TXT
+* ~~CAMPBTTN.TXT~~
 * CREDITS.TXT
 * EDITRCMD.TXT
 * GENRLTXT.TXT
