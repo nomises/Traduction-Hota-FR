@@ -206,7 +206,7 @@
 * ~~artraits.txt~~
 * CAMPBTTN.TXT
 * CREDITS.TXT
-* EDITRCMD.TXT
+* ~~EDITRCMD.TXT~~
 * GENRLTXT.TXT
 * ~~HCTRAITS.TXT~~
 * SeerHut.txt
