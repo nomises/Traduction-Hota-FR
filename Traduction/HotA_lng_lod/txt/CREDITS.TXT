@@ -1,8 +1,8 @@
 Credits
-"{Traducteur VF :} Hakas, Nomises, Aragox, Netheril, Steven, WinnymaruBaba
-{VF Campagnes :} Hakas, Turtle, Elrond Requin
-{VF Cartes HotA :} Hakas, lyff, 
-{VF Graphismes :} Hakas
+"{Traducteur VF :} Hakas, Nomises, WinnymaruBaba, Kazuo, Toukette,
+{Campagnes VF :} Hakas, Turtle, Elrond Requin, Nomises, 
+{Cartes HotA VF :} Hakas, lyff, 
+{Graphismes VF :} Hakas
 
 "{In memory of Docent Picolan}
 {HotA project founder,}
@@ -19,7 +19,7 @@ Credits
 2D/3D artist,
 Cove graphics
 {Balkron}
-2D/3D artist
+2D/3D artist, PR
 {baratorch}
 code, map editor, lobby,
 simultaneous turns,
@@ -29,8 +29,8 @@ code, hosting
 {deferatto}
 2D/3D artist,
 scenarios, tester
-{diavolschina}
-concept artist
+{devoider17}
+code
 {Dmitriy Gravchenko}
 3D artist,
 Factory creatures
@@ -75,13 +75,15 @@ concept artist
 cutscenes
 {Mantiss}
 tester, writer, PR
+{Marius}
+concept artist
 {Morn}
 hero portraits
 {Mugais}
 story, scenarios,
 writer
 {nosferatu}
-2D artist
+2D artist, PR
 {nik312}
 balance, translator,
 tester, PR
@@ -105,9 +107,9 @@ campaign scenarios
 tester, hosting
 {Starseeker}
 editor, translator,
-writer
+writer, balance, PR
 {tarren}
-code, video editing
+code, video editing, PR
 {Tevye}
 lead editor,
 translator,
@@ -134,16 +136,12 @@ and its Administration
 for website design
 {LivingAnarchy}
 for Facebook group handling,
-tournament and testing (2019)
+tournament and testing
 organization
 {CzileraInzyniera}
-for testing (2023, 2024)
-organization
-{Xocenk}
-for testing (2023)
-organization
+{Xocenk}, {maugli}
 {maugli}
-for testing (2024)
+for testing
 organization
 {WiZarDX_576} and {igrik}
 for code-related help
@@ -191,7 +189,8 @@ for cutscene sounds
 {Paul Anthony Romero}
 for Factory campaign main theme
 {Maigret}
-for Factory town theme
+for Factory town theme,
+Bulwark town theme
 and campaign themes
 {Alina Besanidou},
 {Василий Синичкин}
@@ -215,25 +214,23 @@ Voice actors (ru):
 {maestro}, {Machberet},
 {Szopa666}, {Ravciozo}
 
-2023 testers:
-{CzileraInzyniera},
-{DarkPepego}, {Gongwazy},
-{Flisiu}, {Йорик},
-{Machberet}, {maugli},
-{Mont}, {Niechcic},
-{Scherban Vlad}, {Spinaonic}, 
-{Voidek}, {Xocenk},
-{Zuuzel}
-
-2024 testers:
+Balance testers:
+{Begrezen},
 {CzileraInzyniera},
 {DarkPepego}, {Flisiu},
-{Green Hell}, {Йорик},
+{Green Hell}, {HellLighT},
 {Krzynsztof}, {Machberet},
-{maugli}, {Redwhait},
-{Scherban Vlad}, {Spinaonic}, 
+{maugli}, {ponshick},
+{Redwhait}, {Spinaonic}, 
 {Voidek}, {ZomberR},
-{Zuuzel}
+{Zuuzel},
+former ones:
+{Chleb}, {Ignus},
+{Йорик}, {LivingAnarchy},
+{maestro}, {Mont},
+{Niechcic}, {Scherban Vlad},
+{Szopa666}, {Ravciozo}
+{Gongwazy}, {Xocenk}
 
 
 and to the entire
