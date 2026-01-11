@@ -205,7 +205,7 @@
 ### Traduire
 * ~~artraits.txt~~
 * CAMPBTTN.TXT
-* CREDITS.TXT
+* ~~CREDITS.TXT~~
 * EDITRCMD.TXT
 * GENRLTXT.TXT
 * ~~HCTRAITS.TXT~~
