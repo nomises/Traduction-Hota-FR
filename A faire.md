@@ -210,7 +210,7 @@
 * GENRLTXT.TXT
 * HCTRAITS.TXT
 * SeerHut.txt
-* SPTRAITS.TXT
+* ~~SPTRAITS.TXT~~
 * SSTRAITS.TXT
 
 ### Crédit
