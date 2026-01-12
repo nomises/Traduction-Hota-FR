@@ -209,6 +209,6 @@
 * EDITRCMD.TXT
 * GENRLTXT.TXT
 * HCTRAITS.TXT
-* SeerHut.txt
+* ~~SeerHut.txt~~
 * SPTRAITS.TXT
 * SSTRAITS.TXT
