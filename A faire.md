@@ -199,7 +199,7 @@
 
 ## Hota.dat
 ### Traduire
-* HotA.txt
+* ~~HotA.txt~~
 
 ## HotA_lng.lod
 ### Traduire
