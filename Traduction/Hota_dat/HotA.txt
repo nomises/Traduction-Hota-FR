@@ -4245,7 +4245,7 @@ https://h3hota.com/en/download""
 #387
 Troupes à distance de rang %d
 #388
-Troupes mêlées de rang %d
+Troupes mêlées de rang %d"
 #389
 Le gardien observe votre navire à travers une longue-vue, puis fait un signe de refus. Apparemment, personne ne l'a prévenu de votre arrivée, vous ne pourrez donc pas emprunter cette route. Vous devriez essayer de trouver la tente du maître des clés.
 #390
@@ -9721,7 +9721,6 @@ Paysage.""
 ""Arche Naturelle
 Paysage.""
 
-
 140
 14
 ""Glacier
@@ -10584,8 +10583,7 @@ Text 7: "# Stay anim frame period|Fidget anim frame period|Stay&fidget anim rand
 180 110 200 1 -1 # \CC\E0\EC\EE\ED\F2
 180 110 200 1 -1 # \C1\EE\E5\E2\EE\E9 \CC\E0\EC\EE\ED\F2
 150 110 200 1 -1 # \C9\EE\F2\F3\ED
-150 130 200 1 -1 # \C9\EE\F2\F3\ED-\C2\EE\E5\E2\EE\E4\E0
-"
+150 130 200 1 -1 # \C9\EE\F2\F3\ED-\C2\EE\E5\E2\EE\E4\E0"
 Text 8: " 
  
  
@@ -10805,56 +10803,56 @@ Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
-Text 7: "1.00	1.00	0.50	1.00	44	-63	79	-55	27	-46	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	4	Cannon
-1.00	0.90	1.00	1.00	38	-93	45	-64	21	-35	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	6	Sea Dog
+Text 7: "1.00	1.00	0.50	1.00	44	-63	79	-55	27	-46	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	4	Canon
+1.00	0.90	1.00	1.00	38	-93	45	-64	21	-35	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	6	Flibustier
 1.00	1.00	1.00	1.00	38	-65	36	-59	21	-50	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	7	Electric Tower
-1.00	1.00	1.00	1.00	10	-70	10	-70	10	-70	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	0	Nymph
-1.00	1.00	1.00	1.00	10	-70	10	-70	10	-70	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	0	Oceanid
-1.00	0.87	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Crew Mate
-1.00	0.87	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Seaman
+1.00	1.00	1.00	1.00	10	-70	10	-70	10	-70	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	0	Nymphe
+1.00	1.00	1.00	1.00	10	-70	10	-70	10	-70	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	0	Oceanide
+1.00	0.87	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Matelot
+1.00	0.87	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Marin
 1.00	0.90	1.00	1.00	38	-93	45	-64	21	-35	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	6	Pirate
-1.00	0.90	1.00	1.00	38	-93	45	-64	21	-35	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	6	Corsair
-1.00	0.72	1.00	0.80	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Stormbird
-1.00	0.72	1.00	0.80	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Ayssid
-1.00	1.00	1.00	1.00	41	-72	54	-75	29	-14	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	9	Sea Witch
-1.00	1.00	1.00	1.00	41	-72	54	-75	29	-14	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	8	Sorceress
+1.00	0.90	1.00	1.00	38	-93	45	-64	21	-35	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	6	Corsaire
+1.00	0.72	1.00	0.80	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Drac
+1.00	0.72	1.00	0.80	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Drac Mordoré
+1.00	1.00	1.00	1.00	41	-72	54	-75	29	-14	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	9	Sorcière des Mers
+1.00	1.00	1.00	1.00	41	-72	54	-75	29	-14	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	8	Ensorceleuse
 1.00	1.07	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Nix
-1.00	1.07	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Nix Warrior
-1.00	0.95	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Sea Serpent
+1.00	1.07	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Soldat Nix
+1.00	0.95	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Serpent de Mer
 1.00	0.95	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Haspid
-1.50	1.00	2.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Satyr
+1.50	1.00	2.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Satyre
 1.00	1.15	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Fangarm
 1.00	1.20	2.50	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Leprechaun
-1.00	1.20	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Steel Golem
-1.00	1.40	1.50	1.00	32	-77	36	-36	18	-55	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	10	Bomber Halfling
-1.00	1.15	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Mechanic
-1.00	1.15	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Engineer
-1.00	1.30	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Armadillo
-1.00	1.30	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Bellwether Armadillo
-1.00	1.10	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Automaton
-1.00	1.10	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Sentinel Automaton
-1.00	1.00	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Sandworm
+1.00	1.20	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Golem d'Acier
+1.00	1.40	1.50	1.00	32	-77	36	-36	18	-55	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	10	Hobbit Grenadier
+1.00	1.15	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Mécanicien
+1.00	1.15	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Ingénieur
+1.00	1.30	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Glyptodon
+1.00	1.30	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Glyptodon Royal
+1.00	1.10	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Automate
+1.00	1.10	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Automate Sentinelle
+1.00	1.00	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Ver des Sables
 1.00	1.00	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Olgoi-Khorkhoi
-1.00	1.80	1.50	1.00	38	-99	60	-78	30	-58	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	6	Gunslinger
-1.00	1.80	1.50	1.00	38	-85	46	-70	21	-60	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	7	Bounty Hunter
+1.00	1.80	1.50	1.00	38	-99	60	-78	30	-58	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	6	Pistolero
+1.00	1.80	1.50	1.00	38	-85	46	-70	21	-60	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	7	Chasseur de Primes
 1.00	1.00	0.50	1.30	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Couatl
-1.00	1.00	2.50	1.30	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Crimson Couatl
-1.00	1.85	1.75	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Dreadnought
-1.00	1.85	1.75	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Juggernought
+1.00	1.00	2.50	1.30	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Couatl Écarlate
+1.00	1.85	1.75	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Démolisseur
+1.00	1.85	1.75	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Juggernaut
 1.00	1.15	1.00	1.00	10	-70	10	-70	10	-70	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	0	Kobold
-1.00	1.15	1.00	1.00	10	-70	10	-70	10	-70	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	0	Kobold Foreman
+1.00	1.15	1.00	1.00	10	-70	10	-70	10	-70	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	0	Contremaître Kobold
 1.00	1.10	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Mountain Ram
 1.00	1.10	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Argali
-1.00	1.20	1.00	1.00	30	-60	45	-50	20	-20	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	5	Snow Elf
-1.00	1.20	1.00	1.00	30	-60	45	-50	20	-20	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	5	Steel Elf
-1.00	1.80	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Yeti
+1.00	1.20	1.00	1.00	30	-60	45	-50	20	-20	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	5	Elfe des Neiges
+1.00	1.20	1.00	1.00	30	-60	45	-50	20	-20	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	5	Elfes d'Acier
+1.00	1.80	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Yéti
 1.00	1.80	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Mountain Spirit
-1.00	1.20	1.00	1.00	40	-57	45	-50	25	-20	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	6	Shaman
-1.00	1.20	1.00	1.00	40	-57	45	-50	25	-20	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	6	Great Shaman
-1.00	1.55	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Mammoths
-1.00	1.55	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	War Mammoths
+1.00	1.20	1.00	1.00	40	-57	45	-50	25	-20	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	6	Chaman
+1.00	1.20	1.00	1.00	40	-57	45	-50	25	-20	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	6	Chaman Vénérable
+1.00	1.55	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Mammouths
+1.00	1.55	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Mammouths de Guerre
 1.50	1.45	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Jotunn
-1.00	1.45	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Jotunn Warlord
+1.00	1.45	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Seigneur Jotunn
 "
 Text 8: ""
 Has FilS: "false"
@@ -10911,7 +10909,7 @@ Tirs. Attaques préventives - illimitées.
 Vol. Peut passer son tour pour obtenir une Invulnérabilité Temporaire.
 Vol. Obtient une Invulnérabilité Temporaire sans passer son tour.
 Créature mécanique. Peut attaquer avec un Rayon d'Énergie au lieu de se déplacer.
-Créature mécanique. Peut attaquer avec un Rayon d'Énergie au lieu de se déplacer."
+Créature mécanique. Peut attaquer avec un Rayon d'Énergie au lieu de se déplacer.
 Génère 1 pièce d'or chaque jour.
 Génère 1 pièce d'or chaque jour.
  
@@ -10925,7 +10923,7 @@ Tire. Lance Bouclier d'air. Tir glacial.
  
 Gagne +100 % de défense en position défensive.
 Téléporte les alliés (une fois par combat). -1 à la vitesse des unités volantes ennemies.
-Téléporte les alliés (illimité). -2 à la vitesse des unités volantes ennemies.
+Téléporte les alliés (illimité). -2 à la vitesse des unités volantes ennemies."
 Text 8: ""
 Has FilS: "false"
 Vals count: "4"
@@ -11195,12 +11193,12 @@ océan plantes
 rocher végétation morte
 rocher collines
 rocher plantes
-montagne végétation morte
-montagne collines
-montagne plantes
-terre désolée végétation morte
-terre désolée collines
-terre désolée plantes"
+plateau végétation morte
+plateau collines
+plateau plantes
+terre aride végétation morte
+terre aride collines
+terre aride plantes"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -11485,8 +11483,8 @@ Path: ""
 Texts count: "9"
 Text 0: ""
 Text 1: "en"
-Text 2: "discord.gg/mvKnkVp \97 HotA community"
-Text 3: "h3hota.com \97 official project reference website"
+Text 2: "discord.gg/mvKnkVp - HotA community"
+Text 3: "h3hota.com - official project reference website"
 Text 4: ""
 Text 5: ""
 Text 6: ""
@@ -11526,7 +11524,7 @@ Text 8: "11 # x
 0 # ""Allies"" text x shift
 
 # Campaign select dialog
-0 # ""Allies"" text x shift
+0 # ""Allies"" text x shift"
 
 # Cutscenes
 475 # Video subtitles period"
@@ -11676,7 +11674,7 @@ Voyager à travers les terres arides est éprouvant et dangereux. Heureusement l
 Les Hobbits ont trouvé leur nouveau foyer dans les terres de Jadame.
 Les Hobbits ont trouvé leur nouveau foyer dans les terres de Jadame.
 On dit que certains Warlocks d'Archibald Ironfist sont devenus des Artificiers.
-On dit que certains Warlocks d'Archibald Ironfist sont devenus des Artificiers."
+On dit que certains Warlocks d'Archibald Ironfist sont devenus des Artificiers.
 
 # Bulwark rumors
 Les Jotunns sont les créatures les plus puissantes de la Muraille.
@@ -11707,7 +11705,7 @@ On dit que les habitants de la Muraille sont particulièrement friands de foires
 La rumeur veut que l'île de Vori soit le berceau de tous les elfes.
 La rumeur veut que l'île de Vori soit le berceau de tous les elfes.
 Au plus profond des glaciers de Vori repose un puissant artefact.
-Au plus profond des glaciers de Vori repose un puissant artefact.
+Au plus profond des glaciers de Vori repose un puissant artefact."
 Text 8: ""
 Has FilS: "false"
 Vals count: "4"
@@ -13360,7 +13358,7 @@ Name: "casrndname12"
 Path: "Castles\cascoord12.str"
 Texts count: "9"
 Text 0: ""
-Text 1: "Bulwark"
+Text 1: "Muraille"
 Text 2: ""
 Text 3: ""
 Text 4: ""
@@ -18089,9 +18087,9 @@ Text 3: "horse20.wav"
 Text 4: "HIGHLANDS"
 Text 5: ""
 Text 6: ""
-Text 7: "Montagne
-&Montagne [9]	
-&Objets Montagne [O]	
+Text 7: "Plateau
+&Plateau [9]	
+&Objets Plateau [O]	
 up in the highlands"
 Text 8: "# Step costs
 100 95 90 85
@@ -18115,9 +18113,9 @@ Text 3: "horse20.wav"
 Text 4: "WASTELAND"
 Text 5: ""
 Text 6: ""
-Text 7: "Terre désolée
+Text 7: "Terres arides
 Arid&e [0]	
-Obje&ts Terre désolée [P]	
+Obje&ts Terres arides [P]	
 in acrid badlands"
 Text 8: "# Step costs
 125 100 90 85
@@ -18180,7 +18178,7 @@ Les runes de base permettent aux unités du héros d'accumuler jusqu'à 3 niveau
 
 {1} : +2 en attaque, {2} : +2 en défense, {3} : +1 en vitesse.
 
-Les bonus de tous les niveaux de runes atteints sont cumulatifs. L'unité gagne +1 niveau de rune lorsqu'elle attaque, +2 niveaux de runes lorsqu'elle subit des dégâts et +3 niveaux de runes lorsqu'elle adopte une posture défensive.
+Les bonus de tous les niveaux de runes atteints sont cumulatifs. L'unité gagne +1 niveau de rune lorsqu'elle attaque, +2 niveaux de runes lorsqu'elle subit des dégâts et +3 niveaux de runes lorsqu'elle adopte une posture défensive.""
 # 1
 ""{Disciple en Runes}
 
@@ -18189,7 +18187,7 @@ Les runes avancées permettent aux unités du héros d'accumuler jusqu'à 6 nive
 {1} : +2 en attaque, {2} : +2 en défense, {3} : +1 en vitesse ;
 {4} : +2 en attaque, {5} : +2 en défense, {6} : +1 en vitesse.
 
-Les bonus de tous les niveaux de runes atteints sont cumulatifs. L'unité gagne +1 niveau de rune lorsqu'elle attaque, +2 niveaux de runes lorsqu'elle subit des dégâts et +3 niveaux de runes lorsqu'elle adopte une posture défensive.
+Les bonus de tous les niveaux de runes atteints sont cumulatifs. L'unité gagne +1 niveau de rune lorsqu'elle attaque, +2 niveaux de runes lorsqu'elle subit des dégâts et +3 niveaux de runes lorsqu'elle adopte une posture défensive.""
 # 2
 ""{Maître en Runes}
 
@@ -18199,7 +18197,7 @@ Les runes expertes permettent aux unités du héros d'accumuler jusqu'à 9 nivea
 {4} : +2 en attaque, {5} : +2 en défense, {6} : +1 en vitesse ;
 {7} : +2 en attaque, {8} : +2 en défense, {9} : +1 en vitesse.
 
-Les bonus de tous les niveaux de runes obtenus sont cumulatifs. L'unité gagne +1 niveau de rune lorsqu'elle attaque, +2 niveaux de runes lorsqu'elle subit des dégâts et +3 niveaux de runes lorsqu'elle adopte une posture défensive.
+Les bonus de tous les niveaux de runes obtenus sont cumulatifs. L'unité gagne +1 niveau de rune lorsqu'elle attaque, +2 niveaux de runes lorsqu'elle subit des dégâts et +3 niveaux de runes lorsqu'elle adopte une posture défensive.""
 Text 8: ""
 Has FilS: "false"
 Vals count: "4"
@@ -19381,7 +19379,7 @@ Text 8: "# Campaign type (0 - region map, 1 - generated region map)
 22 17
 209 46
 # Map 1
-Horn of the Abyss A
+Frontière - Corne des Abysses A
 C3Amask.pcx
 C3Abord.pcx
 C3Aalph.pcx
@@ -19995,7 +19993,7 @@ Text 3: ""
 Text 4: "UnderTheJollyRoger_a"
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 \97 only bik)
+Text 7: "# Has bink file (3 - only bik)
 3
 # Loop fade in
 0
@@ -20028,7 +20026,7 @@ Text 3: ""
 Text 4: "UnderTheJollyRoger_b"
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 \97 only bik)
+Text 7: "# Has bink file (3 - only bik)
 3
 # Loop fade in
 0
@@ -20061,7 +20059,7 @@ Text 3: ""
 Text 4: "UnderTheJollyRoger_c"
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 \97 only bik)
+Text 7: "# Has bink file (3 - only bik)
 3
 # Loop fade in
 0
@@ -20094,7 +20092,7 @@ Text 3: ""
 Text 4: "UnderTheJollyRoger_end"
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 \97 only bik)
+Text 7: "# Has bink file (3 - only bik)
 3
 # Loop fade in
 0
@@ -20127,7 +20125,7 @@ Text 3: ""
 Text 4: "TerrorOfTheSeas_a"
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 \97 only bik)
+Text 7: "# Has bink file (3 - only bik)
 3
 # Loop fade in
 0
@@ -20160,7 +20158,7 @@ Text 3: ""
 Text 4: "TerrorOfTheSeas_b"
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 \97 only bik)
+Text 7: "# Has bink file (3 - only bik)
 3
 # Loop fade in
 0
@@ -20193,7 +20191,7 @@ Text 3: ""
 Text 4: "TerrorOfTheSeas_c"
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 \97 only bik)
+Text 7: "# Has bink file (3 - only bik)
 3
 # Loop fade in
 0
@@ -20226,7 +20224,7 @@ Text 3: ""
 Text 4: "TerrorOfTheSeas_d"
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 \97 only bik)
+Text 7: "# Has bink file (3 - only bik)
 3
 # Loop fade in
 0
@@ -20259,7 +20257,7 @@ Text 3: ""
 Text 4: "TerrorOfTheSeas_e"
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 \97 only bik)
+Text 7: "# Has bink file (3 - only bik)
 3
 # Loop fade in
 0
@@ -20292,7 +20290,7 @@ Text 3: ""
 Text 4: "TerrorOfTheSeas_f"
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 \97 only bik)
+Text 7: "# Has bink file (3 - only bik)
 3
 # Loop fade in
 0
@@ -20325,7 +20323,7 @@ Text 3: ""
 Text 4: "TerrorOfTheSeas_end"
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 \97 only bik)
+Text 7: "# Has bink file (3 - only bik)
 3
 # Loop fade in
 0
@@ -20358,7 +20356,7 @@ Text 3: ""
 Text 4: "HornOfTheAbyss_a"
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 \97 only bik)
+Text 7: "# Has bink file (3 - only bik)
 3
 # Loop fade in
 0
@@ -20391,7 +20389,7 @@ Text 3: ""
 Text 4: "HornOfTheAbyss_b"
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 \97 only bik)
+Text 7: "# Has bink file (3 - only bik)
 3
 # Loop fade in
 0
@@ -20424,7 +20422,7 @@ Text 3: ""
 Text 4: "HornOfTheAbyss_c"
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 \97 only bik)
+Text 7: "# Has bink file (3 - only bik)
 3
 # Loop fade in
 0
@@ -20457,7 +20455,7 @@ Text 3: ""
 Text 4: "HornOfTheAbyss_d"
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 \97 only bik)
+Text 7: "# Has bink file (3 - only bik)
 3
 # Loop fade in
 0
@@ -20490,7 +20488,7 @@ Text 3: ""
 Text 4: "HornOfTheAbyss_end"
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 \97 only bik)
+Text 7: "# Has bink file (3 - only bik)
 3
 # Loop fade in
 0
@@ -20523,7 +20521,7 @@ Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 \97 only bik)
+Text 7: "# Has bink file (3 - only bik)
 3
 # Loop fade in
 0
@@ -20556,7 +20554,7 @@ Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 \97 only bik)
+Text 7: "# Has bink file (3 - only bik)
 3
 # Loop fade in
 0
@@ -20589,7 +20587,7 @@ Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 \97 only bik)
+Text 7: "# Has bink file (3 - only bik)
 3
 # Loop fade in
 0
@@ -20622,7 +20620,7 @@ Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 \97 only bik)
+Text 7: "# Has bink file (3 - only bik)
 3
 # Loop fade in
 0
@@ -21249,7 +21247,7 @@ Text 3: ""
 Text 4: "AllIn_a"
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 \97 only bik)
+Text 7: "# Has bink file (3 - only bik)
 3
 # Loop fade in
 0
@@ -21282,7 +21280,7 @@ Text 3: ""
 Text 4: "AllIn_b"
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 \97 only bik)
+Text 7: "# Has bink file (3 - only bik)
 3
 # Loop fade in
 0
@@ -21315,7 +21313,7 @@ Text 3: ""
 Text 4: "AllIn_c"
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 \97 only bik)
+Text 7: "# Has bink file (3 - only bik)
 3
 # Loop fade in
 0
@@ -21348,7 +21346,7 @@ Text 3: ""
 Text 4: "AllIn_d"
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 \97 only bik)
+Text 7: "# Has bink file (3 - only bik)
 3
 # Loop fade in
 0
@@ -21381,7 +21379,7 @@ Text 3: ""
 Text 4: "AllIn_e"
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 \97 only bik)
+Text 7: "# Has bink file (3 - only bik)
 3
 # Loop fade in
 0
@@ -21414,7 +21412,7 @@ Text 3: ""
 Text 4: "AllIn_epilogue"
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 \97 only bik)
+Text 7: "# Has bink file (3 - only bik)
 3
 # Loop fade in
 0
@@ -21447,7 +21445,7 @@ Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 \97 only bik)
+Text 7: "# Has bink file (3 - only bik)
 3
 # Loop fade in
 0
@@ -21691,626 +21689,626 @@ Val 3: "0"
 Name: "event_system0"
 Path: ""
 Texts count: "9"
-Text 0: "# Action Names
-Action sequence
-Condition (If / Then / Else If...)
-Set variable based on condition
-Modify variable
-Resources
-Remove current object
-Message with reward
-Quest action
-Creatures
-Artifact
-Build town structure
-Set quest hint and log entry
+Text 0: "# Noms des Actions
+Séquence d’actions
+Condition (Si / Alors / Sinon si...)
+Définir une variable selon une condition
+Modifier une variable
+Ressources
+Supprimer l’objet actuel
+Message avec récompense
+Action de quête
+Créatures
+Artéfact
+Construire un bâtiment de ville
+Définir l’indice de quête et l’entrée de journal
 Question
-Condition (If / Then / Else)
-Add creatures to hire
-Spell
-Experience
-Spell points
-Movement points
-Primary skills
-Secondary skills
-Luck
-Morale
+Condition (Si / Alors / Sinon)
+Ajouter des créatures à recruter
+Sort
+Expérience
+Points de sort
+Points de déplacement
+Compétences primaires
+Compétences secondaires
+Chance
+Moral
 Combat
-Execute event
-War machine
-Spellbook
-Disable event
-Cycle
-Show message"
-Text 1: "# Action Descriptions
-Sequence of actions
-Condition (If / Then / Else If...)
-Save expression result to """"%s"""" variable
-%s variable """"%s""""
-Modify resources
-Remove current object
-Message with reward: """"%s""""
-Quest stage
-Give/take creatures
-Give/take artifact
-Build %s
-Set quest hint and log entry
-Question: """"%s""""
-Condition (If / Then / Else)
-Increase count of creatures in Level %d dwelling by %d
-Give %s spell
-Give %d experience
-Modify spell points
-Modify movement points
-Give %s %s
-Set %s level to %s
-%s luck by %d
-%s morale by %d
-Fight with 
-Execute event: %s
-Give/take war machine
-Give/take spellbook
-Disable event
-For each integer from %s to %s incl. (record to %s)
-Show message: """"%s""""
+Exécuter un événement
+Machine de guerre
+Grimoire
+Désactiver l’événement
+Boucle
+Afficher un message"
+Text 1: "# Descriptions des actions
+Séquence d’actions
+Condition (Si / Alors / Sinon si...)
+Enregistrer le résultat de l’expression dans la variable """"%s""""
+Variable %s """"%s""""
+Modifier les ressources
+Supprimer l’objet actuel
+Message avec récompense : """"%s""""
+Étape de quête
+Donner / retirer des créatures
+Donner / retirer un artéfact
+Construire %s
+Définir l’indice de quête et l’entrée de journal
+Question : """"%s""""
+Condition (Si / Alors / Sinon)
+Augmenter le nombre de créatures du bâtiment de niveau %d de %d
+Donner le sort %s
+Donner %d points d’expérience
+Modifier les points de sort
+Modifier les points de déplacement
+Donner %s %s
+Définir le niveau de %s à %s
+%s la chance de %d
+%s le moral de %d
+Combattre contre 
+Exécuter l’événement : %s
+Donner / retirer une machine de guerre
+Donner / retirer un grimoire
+Désactiver l’événement
+Pour chaque entier de %s à %s inclus (enregistrer dans %s)
+Afficher le message : """"%s""""
 "
-Text 2: "# Boolean Expression Names
-Boolean value
-And
-Or
-Less Than
-Greater Than
-Equal
-Not
-Hero has artifact
-Greater Than or Equal
-Less Than or Equal
-Not Equal
-Hero belongs to certain player
-Hero's affiliation
-Hero belongs to certain class
-Monster is defeated by player
-Hero is defeated by player
-Hero has secondary skill
-Player is defeated
-Town is controlled by player
-Player is human
-Player's starting town
-Town is neutral"
-Text 3: "# Boolean Expression Descriptions
-Boolean value
-(And)
-(Or)
-Less Than
-Greater Than
-Equal
-(Not)
-Hero has %s
-Greater Than or Equal
-Less Than or Equal
-Not Equal
-Current player is %s
-Current hero is %s
-Hero's class is %s
-Defeat %s
-Defeat hero %s
-%s is defeated
-%s is defeated
-%s must control %s
-%s is human
-Starting town type of %s is %s
-Current town is neutral"
-Text 4: "# Integer Expression Names
-Integer value
-Variable value
-Invert sign
-Add
-Subtract
-Resource
-Multiply
-Divide
-Remainder
-Creature count
-Current difficulty level
-Difficulty level
-Current date
-Hero's current experience
-Hero's current level
-Primary skill
-Random number
-Artifact count"
-Text 5: "# Integer Expression Descriptions
-Integer value
-Value of variable %s
-Invert sign
-(Add)
-(Subtract)
-%s's amount of %s
-(Multiply)
-(Divide)
-(Remainder)
-Count of %s in hero's army
-Current difficulty level
-Difficulty level (%s)
-Current date
-Hero's current experience
-Hero's current level
-Level of primary skill %s
-Random number (%d \97 %d)
-Count of %s artifacts"
-Text 6: "Resources (+)
-Artifact
-Spell
-Player flag
-Luck
-Morale
-Experience
-Secondary skill
-Creatures
-Primary skill
-Spell points
-Movement points
-Gold (+, small image)
-Resources (-)
-Resources (Per day)
-Spell scroll
-+1 Level
-Creatures (Simple)
-Resources (Simple)
-Primary skill (+)
-Gold (-, small image)
-Gold (Small image)
-Gold (Per day, small image)"
+Text 2: "# Noms des expressions booléennes
+Valeur booléenne
+Et
+Ou
+Inférieur à
+Supérieur à
+Égal
+Non
+Le héros possède un artéfact
+Supérieur ou égal à
+Inférieur ou égal à
+Différent
+Le héros appartient à un joueur donné
+Affiliation du héros
+Le héros appartient à une classe donnée
+La créature est vaincue par le joueur
+Le héros est vaincu par le joueur
+Le héros possède une compétence secondaire
+Le joueur est vaincu
+La ville est contrôlée par le joueur
+Le joueur est humain
+Ville de départ du joueur
+La ville est neutre"
+Text 3: "# Descriptions des expressions booléennes
+Valeur booléenne
+(Et)
+(Ou)
+Inférieur à
+Supérieur à
+Égal
+(Non)
+Le héros possède %s
+Supérieur ou égal à
+Inférieur ou égal à
+Différent
+Le joueur actuel est %s
+Le héros actuel est %s
+La classe du héros est %s
+Vaincre %s
+Vaincre le héros %s
+%s est vaincu
+%s est vaincu
+%s doit contrôler %s
+%s est humain
+Le type de ville de départ de %s est %s
+La ville actuelle est neutre"
+Text 4: "# Noms des expressions entières
+Valeur entière
+Valeur de variable
+Inverser le signe
+Addition
+Soustraction
+Ressource
+Multiplication
+Division
+Reste
+Nombre de créatures
+Niveau de difficulté actuel
+Niveau de difficulté
+Date actuelle
+Expérience actuelle du héros
+Niveau actuel du héros
+Compétence primaire
+Nombre aléatoire
+Nombre d’artéfacts"
+Text 5: "# Descriptions des expressions entières
+Valeur entière
+Valeur de la variable %s
+Inverser le signe
+(Addition)
+(Soustraction)
+Quantité de %s en %s
+(Multiplication)
+(Division)
+(Reste)
+Nombre de %s dans l’armée du héros
+Niveau de difficulté actuel
+Niveau de difficulté (%s)
+Date actuelle
+Expérience actuelle du héros
+Niveau actuel du héros
+Niveau de la compétence primaire %s
+Nombre aléatoire (%d - %d)
+Nombre d’artéfacts %s
+Text 6: "Ressources (+)
+Artéfact
+Sort
+Drapeau du joueur
+Chance
+Moral
+Expérience
+Compétence secondaire
+Créatures
+Compétence primaire
+Points de sort
+Points de déplacement
+Or (+, petite icône)
+Ressources (-)
+Ressources (par jour)
+Parchemin de sort
++1 niveau
+Créatures (simple)
+Ressources (simple)
+Compétence primaire (+)
+Or (-, petite icône)
+Or (petite icône)
+Or (par jour, petite icône)"
 Text 7: ""
 Text 8: "# 0
-Map Error: A division by zero has happened in the extended event %s. Further operation of theevent and the whole map can be incorrect.
+Erreur de carte : une division par zéro s'est produite dans l'événement étendu %s. Le fonctionnement ultérieur de l'événement et de la carte entière peut être incorrect.
 # 1
-Map error: An extended event is incorrectly configured and performs too many actions (more than %d). To avoid hanging, the event execution will be terminated. Further operation of the map can be incorrect.
+Erreur de carte : un événement étendu est mal configuré et exécute trop d'actions (plus de %d). Afin d'éviter un blocage, l'exécution de l'événement sera interrompue. Le fonctionnement ultérieur de la carte peut être incorrect.
 # 2
-%s has found a war machine.
+%s a trouvé une machine de guerre.
 # 3
-%s has found a spell book.
+%s a trouvé un grimoire.
 # 4
- nothing
+ rien
 # 5
-Complete Quest For Object
+Terminer la quête pour l'objet
 # 6
-Message with reward: ""%s...""
+Message avec récompense : ""%s...""
 # 7
-Show message: ""%s...""
+Afficher le message : ""%s...""
 # 8
-%s %d %s (garrison)
+%s %d %s (garnison)
 # 9
-%s spellbook
+%s grimoire
 # 10
-Question: ""%s...""
+Question : ""%s...""
 # 11
-movement points
+points de mouvement
 # 12
-spell points
+points de sort
 # 13
-experience
+expérience
 # 14
-Increase
+Augmenter
 # 15
-Decrease
+Diminuer
 # 16
-Increase count of creatures in Level %d dwelling
+Augmenter le nombre de créatures dans le bâtiment de niveau %d
 # 17
-Increase count of creatures in Level 7b dwelling by %d
+Augmenter le nombre de créatures dans le bâtiment de niveau 7b de %d
 # 18
-Increase count of creatures in Level 7b dwelling
+Augmenter le nombre de créatures dans le bâtiment de niveau 7b
 # 19
-Combat (disabled)
+Combat (désactivé)
 # 20
- and 
+ et 
 # 21
-Execute Event (Nothing)
+Exécuter l'événement (aucune action)
 # 22
 (Expression)
 # 23
-True
+Vrai
 # 24
-False
+Faux
 # 25
-Hero has %s scroll
+Le héros possède le parchemin %s
 # 26
-Hero %s belongs to %s
+Le héros %s appartient à %s
 # 27
-Defeat hero (no hero)
+Vaincre un héros (aucun héros)
 # 28
-Defeat monster (no monster)
+Vaincre une créature (aucune créature)
 # 29
-Defeat random hero
+Vaincre un héros aléatoire
 # 30
-Control town (no town)
+Contrôler une ville (aucune ville)
 # 31
-Count of %s in garrison
+Nombre de %s dans la garnison
 # 32
-Count of %s scrolls
+Nombre de parchemins %s
 # 33
-***Event Texts***
+***Textes des événements***
 # 34
-Extended Events
+Événements étendus
 # 35
-NewEvent
+Nouvel événement
 # 36
-NewVariable
+Nouvelle variable
 # 37
-E&vent system		Ctrl+E
+Système d'é&vénements		Ctrl+E
 # 38
-Variable Name:
+Nom de la variable :
 # 39
-Save in campaign
+Enregistrer dans la campagne
 # 40
-Initial value
+Valeur initiale
 # 41
-Import from previous maps
+Importer depuis les cartes précédentes
 # 42
-Undo
+Annuler
 # 43
-Redo
+Rétablir
 # 44
-Add
+Ajouter
 # 45
-Insert If-Then Branch
+Insérer une branche Si-Alors
 # 46
-Remove
+Supprimer
 # 47
-Remove All
+Tout supprimer
 # 48
-Up
+Monter
 # 49
-Down
+Descendre
 # 50
-Event Name:
+Nom de l'événement :
 # 51
-Event System
+Système d'événements
 # 52
-Hero Events
+Événements de héros
 # 53
-Player Events
+Événements de joueur
 # 54
-Town Events
+Événements de ville
 # 55
-Quest Events
+Événements de quête
 # 56
 Variables
 # 57
-Event Type
+Type d'événement
 # 58
-Duplicate
+Dupliquer
 # 59
-Event
+Événement
 # 60
-New Event Name
+Nom du nouvel événement
 # 61
-New Variable Name
+Nom de la nouvelle variable
 # 62
-New Image
+Nouvelle image
 # 63
 Type
 # 64
-Subtype
+Sous-type
 # 65
-Choice of images:
+Choix des images :
 # 66
-Variable:
+Variable :
 # 67
-Show with message
+Afficher avec le message
 # 68
-Add/Remove Expression
+Ajouter / retirer une expression
 # 69
-Add
+Ajouter
 # 70
-Subtract
+Soustraire
 # 71
-Set
+Définir
 # 72
-Remove
+Supprimer
 # 73
-Edit
+Modifier
 # 74
-Message:
+Message :
 # 75
-Additional Experience:
+Expérience supplémentaire :
 # 76
-Image show type:
+Type d'affichage de l'image :
 # 77
-Show """"Or"""" text between images
+Afficher le texte """"Ou"""" entre les images
 # 78
-No images in message
+Aucune image dans le message
 # 79
-Selection images (can't exit)
+Images de sélection (sortie impossible)
 # 80
-Selection images (can exit)
+Images de sélection (sortie possible)
 # 81
-Specify images
+Spécifier les images
 # 82
-New
+Nouveau
 # 83
-Edit
+Modifier
 # 84
-True:
+Vrai :
 # 85
-False:
+Faux :
 # 86
-Proposal
+Proposition
 # 87
-Progress
+Progression
 # 88
-Completion
+Achèvement
 # 89
-Set quest log entry
+Définir l'entrée du journal de quête
 # 90
-Player color:
+Couleur du joueur :
 # 91
-Class:
+Classe :
 # 92
-Personality:
+Personnalité :
 # 93
-Location:
+Emplacement :
 # 94
-Monster:
+Créature :
 # 95
-Defeating player:
+Joueur vainqueur :
 # 96
-Hero:
+Héros :
 # 97
-No hero
+Aucun héros
 # 98
-Level:
+Niveau :
 # 99
-Skill:
+Compétence :
 # 100
-Player:
+Joueur :
 # 101
-Town type:
+Type de ville :
 # 102
-Town:
+Ville :
 # 103
-First:
+Premier :
 # 104
-Second:
+Second :
 # 105
-From:
+De :
 # 106
-To (inclusively):
+À (inclus) :
 # 107
 Variable
 # 108
-Quest hint (empty string: do not change)
+Indice de quête (chaîne vide : ne pas modifier)
 # 109
-Quest object log entry
+Entrée du journal d'objet de quête
 # 110
-Secondary Skill:
+Compétence secondaire :
 # 111
-Primary Skill:
+Compétence primaire :
 # 112
-Creature Level
+Niveau de créature
 # 113
-Level %d
+Niveau %d
 # 114
-Level 7b
+Niveau 7b
 # 115
-[Variable: %s]
+[Variable : %s]
 # 116
-%s %s (small)
+%s %s (petit)
 # 117
--%s %s (small)
+-%s %s (petit)
 # 118
-%s %s per day (small)
+%s %s par jour (petit)
 # 119
-%s %s per day
+%s %s par jour
 # 120
-+1 Level
++1 niveau
 # 121
-Luck (+%d)
+Chance (+%d)
 # 122
-Luck (%d)
+Chance (%d)
 # 123
-Morale (+%d)
+Moral (+%d)
 # 124
-Morale (%d)
+Moral (%d)
 # 125
-Experience (%s)
+Expérience (%s)
 # 126
-Spellpoints (%s)
+Points de sort (%s)
 # 127
-Movement points (%s)
+Points de mouvement (%s)
 # 128
-Gold (%s) - small image
+Or (%s) - petite icône
 # 129
-Building
+Bâtiment
 # 130
-Player %d
+Joueur %d
 # 131
-Current hero
+Héros actuel
 # 132
-Anywhere for Current player
+N'importe où pour le joueur actuel
 # 133
-Anywhere for Player %d
+N'importe où pour le joueur %d
 # 134
 Expression
 # 135
-Value: %s
+Valeur : %s
 # 136
-Slot %d: %s
+Emplacement %d : %s
 # 137
-Min: %s
+Min : %s
 # 138
-Max: %s
+Max : %s
 # 139
-First: %s
+Premier : %s
 # 140
-Second: %s
+Second : %s
 # 141
-True: %s
+Vrai : %s
 # 142
-False: %s
+Faux : %s
 # 143
-Then...
+Alors...
 # 144
-Else...
+Sinon...
 # 145
-Yes/First
+Oui / Premier
 # 146
-No/Second
+Non / Second
 # 147
-Cancel
+Annuler
 # 148
-Sequence
+Séquence
 # 149
-Completion
+Achèvement
 # 150
-Rewards
+Récompenses
 # 151
-Variable is already used in event """"%s"""", can't be removed.
+La variable est déjà utilisée dans l'événement """"%s"""", suppression impossible.
 # 152
-Building - %s
+Bâtiment - %s
 # 153
-There's already an entry with such name
+Une entrée portant ce nom existe déjà
 # 154
-%s (read-only)
+%s (lecture seule)
 # 155
-No monster
+Aucune créature
 # 156
-No town
+Aucune ville
 # 157
-Give
+Donner
 # 158
-Take
+Retirer
 # 159
-Current player
+Joueur actuel
 # 160
-Any player
+N'importe quel joueur
 # 161
-War machine:
+Machine de guerre :
 # 162
-New event
+Nouvel événement
 # 163
-New variable
+Nouvelle variable
 # 164
-Artifact:
+Artéfact :
 # 165
-If...
+Si...
 # 166
-Else If...
+Sinon si...
 # 167
 Script
 # 168
-Synchronize with other objects with same event
+Synchroniser avec les autres objets ayant le même événement
 # 169
-Create New
+Créer nouveau
 # 170
-Edit...
+Modifier...
 # 171
-Create Copy...
+Créer une copie...
 # 172
-Do you really want to delete all events? You won't be able to restore them!
+Voulez-vous vraiment supprimer tous les événements ? Vous ne pourrez pas les restaurer !
 # 173
 
-Do you really want to delete this event? You won't be able to restore it!
+Voulez-vous vraiment supprimer cet événement ? Vous ne pourrez pas le restaurer !
 # 174
-Extended Event
+Événement étendu
 # 175
-Resource:
+Ressource :
 # 176
-Event is already used in event """"%s"""", can't be removed.
+L'événement est déjà utilisé dans l'événement """"%s"""", suppression impossible.
 # 177
-Some events are used in events %s, can't be removed.
+Certains événements sont utilisés dans les événements %s, suppression impossible.
 # 178
-Some events are used in variables %s, can't be removed.
+Certains événements sont utilisés dans les variables %s, suppression impossible.
 # 179
-Minimum:
+Minimum :
 # 180
-Maximum:
+Maximum :
 # 181
-Event:
+Événement :
 # 182
-Movement points:
+Points de mouvement :
 # 183
-Spell points:
+Points de sort :
 # 184
-Type:
+Type :
 # 185
-Quantity:
+Quantité :
 # 186
-Difficulty level:
+Niveau de difficulté :
 # 187
-Entry images in log
+Images d'entrée dans le journal
 # 188
 Images
 # 189
-Hero on map
+Héros sur la carte
 # 190
-Monster on map
+Créature sur la carte
 # 191
-Hero level
+Niveau du héros
 # 192
-Show quest in log
+Afficher la quête dans le journal
 # 193
-Hint
+Indice
 # 194
-Empty hint will not change the current hint
+Un indice vide ne modifie pas l'indice actuel
 # 195
-Events cannot be removed while editing an object.
+Les événements ne peuvent pas être supprimés lors de l'édition d'un objet.
 # 196
-Remove Pandora's Box or cancel event after current visit
+Supprimer la boîte de Pandore ou annuler l'événement après la visite actuelle
 # 197
-""""""Event System: in quest event %s there is no action setting object's hint""""
-Object with empty hint will not look good in game. Hint can be set us in action """"Quest stage"""" or in """"Set quest hint and log entry"""" action.
+""""""Système d'événements : dans l'événement de quête %s aucune action ne définit l'indice de l'objet""""""
+Un objet sans indice n'aura pas un bon rendu en jeu. L'indice peut être défini via l'action """"Étape de quête"""" ou """"Définir l'indice de quête et l'entrée de journal"""".
 ""
 # 198
-""""""Event System: in  quest event %s there is no Complete quest action""""
-After the player has completed the quest, the """"Complete object's quest"""" action must be called so the game correctly processes the completion of the quest.
+""""""Système d'événements : dans l'événement de quête %s aucune action de fin de quête n'est définie""""""
+Après que le joueur a terminé la quête, l'action """"Terminer la quête de l'objet"""" doit être appelée afin que le jeu traite correctement la fin de la quête.
 ""
 # 199
-Finish Quest
+Terminer la quête
 # 200
-Standard Event
+Événement standard
 # 201
-Extended Event
+Événement étendu
 # 202
-Executable Event:
+Événement exécutable :
 # 203
-Do you really want to delete this expression?
+Voulez-vous vraiment supprimer cette expression ?
 # 204
-Level:
+Niveau :
 # 205
-Value:
+Valeur :
 # 206
-(All Creatures)
+(Toutes les créatures)
 # 207
-Creature count of any type in hero's army
+Nombre de créatures de tout type dans l'armée du héros
 # 208
-Event list
+Liste des événements
 # 209
-Different types of events support different actions. After the change inappropriate actions will be removed. Do you really want to continue?
+Différents types d'événements prennent en charge différentes actions. Après le changement, les actions incompatibles seront supprimées. Voulez-vous vraiment continuer ?
 # 210
-Current hero
+Héros actuel
 # 211
-Current town
+Ville actuelle
 # 212
-Number of current player
+Numéro du joueur actuel
 # 213
-Current hero is %s
+Le héros actuel est %s
 # 214
-Current town is %s
+La ville actuelle est %s
 # 215
-Number of current player is %s
+Le numéro du joueur actuel est %s
 # 216
-Current hero belongs to certain player
+Le héros actuel appartient à un joueur donné
 # 217
-Current town belongs to certain player
+La ville actuelle appartient à un joueur donné
 # 218
-Current event is called from other events and cannot be converted
+L'événement actuel est appelé par d'autres événements et ne peut pas être converti
 # 219
-Current player has certain number
+Le joueur actuel possède un certain nombre
 # 220
-Events cannot be converted while editing an object.
+Les événements ne peuvent pas être convertis lors de l'édition d'un objet.
 # 221
-Add"
+Ajouter"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -22329,78 +22327,78 @@ Text 2: ""
 Text 3: ""
 Text 4: ""
 Text 5: ""
-Text 6: "# Long Action Name Descriptions
-Sequence
-Check condition and apply actions depending on result. Statement. More If-Then branches can be added with \Add Branch\ option
-Record one of values depending on result
-Change value of variable
-Modify player's resources
-Move through Quest Guard or Quest Gates, or complete the Seer's Hut quest
-Give player rewards and show message about this with automatically picked images
-Quest stage with completion question. Until quest is completed further actions will not be executed
-Give or take creatures
-Give or take artifact
-Construct a town building
-Hint for current quest
-Asks question with different actions for different responses
-Check condition and apply different actions depending on result
-Increase amount of creatures available for hire
-Give spell to hero
-Give experience to hero
-Modify amount of spell points
-Modify amount of movement points
-Give primary skills
-Give secondary skills
-Modify luck
-Modify morale
-Combat with specified monster stacks
-Execute different event. Can't call itself
-Give or take war machine
-Give or take spellbook
-Disable current event. Further calls of this event will not have effect
-Execute sequence for each value of variable in range. Inside of loop this variable cannot be modified
-Show message with specified images"
-Text 7: "# Long BoolExpr Name Descriptions
-Boolean constant: True or false
-Logical """"AND"""": check if all conditions are met
-Logical """"OR"""": check if at least one condition is met
-Check if first value is less than second value
-Check if first value is greater than second value
-Check if first value is equal to second value
-Logical """"NO"""": check if specified condition is not met
-Hero has certain artifact or war machine
-Check if first value is greater than or equal to second value
-Check if first value is less than or equal to second value
-Check if first value is not equal to second value
-Current player is certain player
-Search for specific hero is successful
-Current hero class is certain class
-Specific monster is defeated by certain player
-Specific hero is defeated by certain hero
-Current hero has secondary skill of specific level
-Specific player is defeated
-Specific town is controlled by certain player
-Current player is human
-Current player's starting town type is certain town type
-Current town is neutral"
-Text 8: "Integer constant
-Value of specific variable
-Invert sign of expression's value
-Sum of first and second value
-Difference of two values
-Current player's resource amount
-Multiplication of first value by second
-Division of first value by second
-Remainder of a division operation
-Creature count in current army
-Current difficulty level
-Value which can be compared with current difficulty level
-Number of current day, starting with 1
-Current hero's experience
-Current hero's level
-Value of primary skill of current hero
-Random number in range from minimum to maximum, inclusively
-Artifact count in hero's inventory"
+Text 6: "# Descriptions longues des noms d'actions
+Séquence
+Vérifier une condition et appliquer les actions selon le résultat. Des branches Si-Alors supplémentaires peuvent être ajoutées via l'option \Ajouter une branche\
+Enregistrer l'une des valeurs selon le résultat
+Modifier la valeur de la variable
+Modifier les ressources du joueur
+Passer par un Gardien de quête ou des Portails de quête, ou terminer la quête de la Cabane du Voyant
+Donner des récompenses au joueur et afficher un message avec des images automatiquement sélectionnées
+Étape de quête avec question de validation. Tant que la quête n'est pas terminée, les actions suivantes ne seront pas exécutées
+Donner ou retirer des créatures
+Donner ou retirer un artéfact
+Construire un bâtiment de ville
+Indice de la quête actuelle
+Poser une question avec différentes actions selon la réponse
+Vérifier une condition et appliquer différentes actions selon le résultat
+Augmenter le nombre de créatures disponibles au recrutement
+Donner un sort au héros
+Donner de l'expérience au héros
+Modifier le nombre de points de sort
+Modifier le nombre de points de mouvement
+Donner des compétences primaires
+Donner des compétences secondaires
+Modifier la chance
+Modifier le moral
+Combattre contre des groupes de créatures spécifiés
+Exécuter un événement différent. Ne peut pas s'appeler lui-même
+Donner ou retirer une machine de guerre
+Donner ou retirer un grimoire
+Désactiver l'événement actuel. Les appels suivants de cet événement n'auront aucun effet
+Exécuter une séquence pour chaque valeur d'une variable dans une plage donnée. À l'intérieur de la boucle, cette variable ne peut pas être modifiée
+Afficher un message avec les images spécifiées"
+Text 7: "# Descriptions longues des expressions booléennes
+Constante booléenne : vrai ou faux
+""""ET"""" logique : vérifie si toutes les conditions sont remplies
+""""OU"""" logique : vérifie si au moins une condition est remplie
+Vérifie si la première valeur est inférieure à la seconde
+Vérifie si la première valeur est supérieure à la seconde
+Vérifie si la première valeur est égale à la seconde
+""""NON"""" logique : vérifie si la condition spécifiée n'est pas remplie
+Le héros possède un artéfact ou une machine de guerre spécifique
+Vérifie si la première valeur est supérieure ou égale à la seconde
+Vérifie si la première valeur est inférieure ou égale à la seconde
+Vérifie si la première valeur est différente de la seconde
+Le joueur actuel est un joueur donné
+La recherche d’un héros spécifique a réussi
+La classe du héros actuel est une classe donnée
+Une créature spécifique est vaincue par un joueur donné
+Un héros spécifique est vaincu par un héros donné
+Le héros actuel possède une compétence secondaire d’un niveau spécifique
+Un joueur spécifique est vaincu
+Une ville spécifique est contrôlée par un joueur donné
+Le joueur actuel est humain
+Le type de ville de départ du joueur actuel est un type de ville donné
+La ville actuelle est neutre"
+Text 8: "Constante entière
+Valeur d’une variable spécifique
+Inverser le signe de la valeur de l’expression
+Somme de la première et de la seconde valeur
+Différence entre deux valeurs
+Quantité de ressources du joueur actuel
+Multiplication de la première valeur par la seconde
+Division de la première valeur par la seconde
+Reste d’une opération de division
+Nombre de créatures dans l’armée actuelle
+Niveau de difficulté actuel
+Valeur pouvant être comparée au niveau de difficulté actuel
+Numéro du jour actuel, à partir de 1
+Expérience du héros actuel
+Niveau du héros actuel
+Valeur de la compétence primaire du héros actuel
+Nombre aléatoire compris entre le minimum et le maximum, inclusivement
+Nombre d’artéfacts dans l’inventaire du héros"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -22459,37 +22457,37 @@ Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: "# 0
-Only a visiting hero can use the Sieidi of the Runes.
+Seul un héros en visite peut utiliser la Sieidi des Runes.
 # 1
-Do you want %s to master the lore of the Runes?
+Souhaitez-vous que %s maîtrise le savoir des Runes ?
 # 2
-%s has already mastered the lore of the Runes.
+%s a déjà maîtrisé le savoir des Runes.
 # 3
-%s attempts to master the lore of the Runes in vain. Already possessing many skills, %s is unable to learn anything new.
+%s tente en vain de maîtriser le savoir des Runes. Possédant déjà de nombreuses compétences, %s est incapable d'apprendre quoi que ce soit de nouveau.
 # 4
-%s attempts to master the lore of the Runes before realizing they are unable to read them. It appears as though this art is only accessible to locals and competent scholars.
+%s tente de maîtriser le savoir des Runes avant de réaliser qu'il est incapable de les lire. Il semble que cet art ne soit accessible qu'aux habitants locaux et aux érudits compétents.
 # 5
-Rune Level %d (+%d Attack)
+Niveau de rune %d (+%d Attaque)
 # 6
-Rune Level %d (+%d Attack, +%d Defense)
+Niveau de rune %d (+%d Attaque, +%d Défense)
 # 7
-Rune Level %d (+%d Attack +%d Defense, +%d Speed)
+Niveau de rune %d (+%d Attaque +%d Défense, +%d Vitesse)
 # 8
-%s achieves %d Rune Level
+%s atteint le niveau de rune %d
 # 9
-%s achieve %d Rune Level
+%s atteignent le niveau de rune %d
 # 10
-[replaced]
+[remplacé]
 # 11
-[replaced]
+[remplacé]
 # 12
-[replaced]
+[remplacé]
 # 13
-%s \E8 %s achieve new rune level
+%s \E8 %s atteignent un nouveau niveau de rune
 # 14
-Units achieve new rune level
+Les unités atteignent un nouveau niveau de rune
 # 15
-Altar of the Runes gives units starting rune level."
+L'Autel des Runes confère aux unités un niveau de rune initial."
 Text 8: ""
 Has FilS: "false"
 Vals count: "4"
