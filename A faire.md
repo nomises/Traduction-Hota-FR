@@ -212,6 +212,3 @@
 * SeerHut.txt
 * SPTRAITS.TXT
 * ~~SSTRAITS.TXT~~
-
-### Crédit
-* HotA_lng.lod/CREDITS.TXT
