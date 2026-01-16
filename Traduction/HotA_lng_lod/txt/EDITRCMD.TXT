@@ -121,3 +121,4 @@ Placer les Portails Magiques	Portails Magiques [K]
 Placer les Garnisons, Gardes Frontières-Quêtes, et Tentes	Garnisons, Gardes Frontières-Quêtes, et Tentes [L]
 Placer les Terrains Magiques	Terrains Magiques [;]
 Placer les Objets Décorations	Objets Décorations []]
+Afficher le système d'événements Ctrl+E
