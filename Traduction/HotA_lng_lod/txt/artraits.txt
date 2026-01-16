@@ -164,13 +164,13 @@ Longue-Vue	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Longue-Vue}
 Cette longue-vue accroît votre champ de vision +1"
 Amulette du Fossoyeur	2000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Amulette du Fossoyeur}
 
-Cette amulette accroît de 2,5% votre puissance en Nécromancie."
+Cette amulette accroît de 5% votre puissance en Nécromancie."
 Capuche du Vampire	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	N	"{Capuche du Vampire}
 
-Cette capuche accroît de 5% votre puissance en Nécromancie."
+Cette capuche accroît de 10% votre puissance en Nécromancie."
 Bottes du Passeur	6000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	J	"{Bottes du Passeur}
 
-Ces bottes accroissent de 7,5% votre puissance en Nécromancie."
+Ces bottes accroissent de 15% votre puissance en Nécromancie."
 Talisman de Turbulence	2000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Talisman de Turbulence}
 
 Ce talisman augmente vos chances de résister à un Sort hostile de 5% durant les combats."
@@ -281,7 +281,7 @@ Sphère d'Immanence	7500	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Sphère d'Imm
 Cette sphère immunise vos troupes contre le sort Dissipation de la magie."
 Globe de Vulnérabilité	25000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Globe de Vulnérabilité}
 
-Ce globe neutralise la résistance et l'immunité naturelle à la magie de toutes les créatures. Certains sorts, en raison de leurs particularités, annulent les effets du globe, tout comme les créatures immunisées par certains artefacts (excepté Gardien du Sommeil)."
+Durant le combat, ce globe annule la possibilité de résister aux sorts de toutes les créatures, ainsi que leur immunité naturelle à la magie. Le globe annule aussi l'immunité aux sorts de l'esprit fournie par le Gardien du Sommeil. Le globe n'affecte pas l'immunité donnée par d'autres artéfacts, ainsi que les limitations mentionnées dans la description des sorts."
 Anneau de Vitalité	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	T	"{Anneau de Vitalité}
 
 Cet anneau augmente les points de vie de toutes vos troupes de +1"
@@ -392,7 +392,7 @@ Alliance Angélique																	x				R	"{Alliance Angélique}
 L'ensemble de l'Alliance Angélique octroie un total de +21 à toutes les statistiques. Permet aux troupes des factions du bien et neutres d'être mélangées dans une armée sans perte de moral. Lance le sort Faveur Divine au niveau Maître automatiquement au début des combats pour une durée de 10 tours."
 Cape du Roi des Morts																			x		R	"{Cape du Roi des Morts}
 
-15% des créatures tuées au cours d'un combat sont ressuscitées en tant que Squelettes. Si le héros possède la compétence Nécromancie, ces 15% sont ajoutés à la compétence et le niveau de cette dernière détermine le type de créatures qui pourront être invoquées. 
+30% des créatures tuées au cours d'un combat sont ressuscitées en tant que Squelettes. Si le héros possède la compétence Nécromancie, ces 30% sont ajoutés à la compétence et le niveau de cette dernière détermine le type de créatures qui pourront être invoquées. 
 Novice : Zombies. 
 Disciple : Revenants. 
 Maître : Liches."
