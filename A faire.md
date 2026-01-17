@@ -203,8 +203,8 @@
 
 ## HotA_lng.lod
 ### Traduire
+* ~~CAMPBTTN.TXT~~
 * ~~artraits.txt~~
-* CAMPBTTN.TXT
 * CREDITS.TXT
 * ~~EDITRCMD.TXT~~
 * GENRLTXT.TXT
