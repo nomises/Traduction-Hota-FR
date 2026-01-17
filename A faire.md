@@ -207,7 +207,7 @@
 * ~~artraits.txt~~
 * CREDITS.TXT
 * ~~EDITRCMD.TXT~~
-* GENRLTXT.TXT
+* ~~GENRLTXT.TXT~~
 * ~~HCTRAITS.TXT~~
 * SeerHut.txt
 * SPTRAITS.TXT
