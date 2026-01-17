@@ -1,7 +1,7 @@
 Credits
-"{Traducteur VF :} Hakas, Nomises, WinnymaruBaba, Kazuo, Toukette,
-{Campagnes VF :} Hakas, Turtle, Elrond Requin, Nomises, 
-{Cartes HotA VF :} Hakas, lyff, 
+"{Traducteur VF :} Hakas, Nomises, WinnymaruBaba, Kazuo, Toukette
+{Campagnes VF :} Hakas, Nomises, WinnymaruBaba, Turtle, Elrond Requin
+{Cartes HotA VF :} Hakas, lyff
 {Graphismes VF :} Hakas
 
 "{In memory of Docent Picolan}
@@ -115,9 +115,7 @@ lead editor,
 translator,
 story, writer, PR
 {Vade Parvis}
-2D artist, ideas, PR
-{void_17}
-code
+2D artist, ideas
 {weakref}
 code, writer
 {Wic}
@@ -140,7 +138,6 @@ tournament and testing
 organization
 {CzileraInzyniera}
 {Xocenk}, {maugli}
-{maugli}
 for testing
 organization
 {WiZarDX_576} and {igrik}
@@ -188,7 +185,7 @@ for hero portraits and cutscenes
 for cutscene sounds
 {Paul Anthony Romero}
 for Factory campaign main theme
-{Maigret}
+{Влад ""Maigret"" Привезенцев}
 for Factory town theme,
 Bulwark town theme
 and campaign themes
@@ -208,11 +205,6 @@ Voice actors (ru):
 {Наталья Белкина},
 {Михаил Марков},
 {Наталья Рагулина}
-2019 testers:
-{Chleb}, {Ignus},
-{LivingAnarchy},
-{maestro}, {Machberet},
-{Szopa666}, {Ravciozo}
 
 Balance testers:
 {Begrezen},
@@ -221,7 +213,7 @@ Balance testers:
 {Green Hell}, {HellLighT},
 {Krzynsztof}, {Machberet},
 {maugli}, {ponshick},
-{Redwhait}, {Spinaonic}, 
+{Redwhait}, {Spinaonic},
 {Voidek}, {ZomberR},
 {Zuuzel},
 former ones:
@@ -231,7 +223,6 @@ former ones:
 {Niechcic}, {Scherban Vlad},
 {Szopa666}, {Ravciozo}
 {Gongwazy}, {Xocenk}
-
 
 and to the entire
 Heroes community
