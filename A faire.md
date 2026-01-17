@@ -212,3 +212,103 @@
 * ~~SeerHut.txt~~
 * ~~SPTRAITS.TXT~~
 * ~~SSTRAITS.TXT~~
+
+# Correction Binaire 
+## HotA_lng.lod
+* advevent.txt
+* ARRAYTXT.txt
+* artevent.txt
+* artraits.txt
+* ArtSlots.txt
+* BldgNeut.txt
+* BldgSpec.txt
+* CAMPBTTN.TXT
+* CAMPDIAG.TXT
+* CAMPHIGH.TXT
+* CampText.txt
+* CastInfo.txt
+* CmpEdCmd.txt
+* CmpEditr.txt
+* CrBanks.txt
+* ~~CREDITS.TXT~~
+* CrGen1.txt
+* CrGen4.txt
+* CrGenerc.txt
+* CRTRAITS.TXT
+* Dwelling.txt
+* EDITOR.TXT
+* EDITRCMD.TXT
+* Garrison.txt
+* GENRLTXT.TXT
+* HallInfo.txt
+* HCTRAITS.TXT
+* Help.txt
+* HeroBios.txt
+* HeroScrn.txt
+* HeroSpec.txt
+* HOTRAITS.TXT
+* JKTEXT.TXT
+* lcdesc.txt
+* MINEEVNT.TXT
+* MineName.txt
+* Monolith.txt
+* ObjNames.txt
+* Overview.txt
+* PlColors.txt
+* PriSkill.txt
+* randsign.txt
+* randtvrn.txt
+* regions.txt
+* RESTYPES.TXT
+* SeerHut.txt
+* SkillLev.txt
+* SPTRAITS.TXT
+* SSTRAITS.TXT
+* TCommand.txt
+* TentColr.txt
+* TERRNAME.txt
+* TownName.txt
+* TownType.txt
+* turndur.txt
+* TvrnInfo.txt
+* vcdesc.txt
+* Walls.txt
+* xtrainfo.txt
+
+## h3c (campagne)
+* H1Roger.h3c
+	* Mission 1
+	* Mission 2
+	* Mission 3
+* H2Terror.h3c
+	* Mission 1
+	* Mission 2
+	* mission 3
+  	* mission 4
+  	* mission 5
+  	* mission 6
+* H3Horn.h3c
+	* Mission 1
+	* Mission 2
+	* mission 3
+  	* mission 4
+* H4Fact.h3c
+	* Mission 1
+	* Mission 2
+	* mission 3
+  	* mission 4
+  	* mission 5
+  	* mission 6
+  	* mission 7
+  	* mission 8
+* H5AllIn.h3c
+	* Mission 1
+	* Mission 2
+	* mission 3
+    * mission 4
+    * mission 5
+## Hota.dat
+* HotA.txt
+
+# Bonus
+* Revoir le fichier `CREDITS.TXT` et faire la traduction.
