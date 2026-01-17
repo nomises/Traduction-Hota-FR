@@ -203,12 +203,12 @@
 
 ## HotA_lng.lod
 ### Traduire
+* ~~CAMPBTTN.TXT~~
 * ~~artraits.txt~~
-* CAMPBTTN.TXT
 * ~~CREDITS.TXT~~
-* EDITRCMD.TXT
-* GENRLTXT.TXT
+* ~~EDITRCMD.TXT~~
+* ~~GENRLTXT.TXT~~
 * ~~HCTRAITS.TXT~~
-* SeerHut.txt
-* SPTRAITS.TXT
-* SSTRAITS.TXT
+* ~~SeerHut.txt~~
+* ~~SPTRAITS.TXT~~
+* ~~SSTRAITS.TXT~~

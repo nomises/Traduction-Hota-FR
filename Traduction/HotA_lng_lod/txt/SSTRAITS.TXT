@@ -38,6 +38,7 @@ Les groupes de monstres errants moins puissants que l'armée du Héros peuvent t
 Navigation	"{Novice en Navigation}
 
 Augmente le potentiel de mouvement en mer du Héros de 50%."	"{Disciple en Navigation}
+
 Augmente le potentiel de mouvement en mer du Héros de 100%."	"{Maître en Navigation}
 
 Augmente le potentiel de mouvement en mer du Héros de 150%."
@@ -78,11 +79,11 @@ Le Héros dirige deux tirs de Catapulte par tour. La Catapulte a plus de chance 
 Le Héros dirige deux tirs de Catapulte par tour. La Catapulte touche avec précision les murs des châteaux infligeant le maximum de dommages. La Catapulte de ne peut pas perdre plus de 40% de ses points de vie en recevant une attaque."
 Mimétisme	"{Novice en Mimétisme}
 
-Permet au Héros de voir les sorts de niveau 1 à 3 d'un Héros ennemi en combat. Il donne au Héros 10% de chances d'apprendre n'importe quel sort de niveau 1-3 du Héros ennemi au début du combat et 100% de chances de l'apprendre dès que le sort est utilisé par l'ennemi en combat. Annule un niveau de Mimétisme du Héros ennemi."	"{Disciple en Mimétisme}
+Permet au Héros de voir les sorts de niveau 1 à 3 d'un Héros ennemi en combat. Il donne au Héros 30% de chances d'apprendre n'importe quel sort de niveau 1-3 du Héros ennemi au début du combat et 100% de chances de l'apprendre dès que le sort est utilisé par l'ennemi en combat. Annule un niveau de Mimétisme du Héros ennemi."	"{Disciple en Mimétisme}
 
-Permet au Héros de voir les sorts de niveau 1 à 4 d'un Héros ennemi en combat. Il donne au Héros 20% de chances d'apprendre n'importe quel sort de niveau 1-4 du Héros ennemi au début du combat et 100% de chances de l'apprendre dès que le sort est utilisé par l'ennemi en combat. Annule deux niveaux de Mimétisme du Héros ennemi."	"{Maître en Mimétisme}
+Permet au Héros de voir les sorts de niveau 1 à 4 d'un Héros ennemi en combat. Il donne au Héros 40% de chances d'apprendre n'importe quel sort de niveau 1-4 du Héros ennemi au début du combat et 100% de chances de l'apprendre dès que le sort est utilisé par l'ennemi en combat. Annule deux niveaux de Mimétisme du Héros ennemi."	"{Maître en Mimétisme}
 
-Permet au Héros de voir tous les sorts d'un Héros ennemi en combat. Il donne au Héros 30% de chances d'apprendre n'importe quel sort du Héros ennemi au début du combat et 100% de chances de l'apprendre dès que le sort est utilisé par l'ennemi en combat. Annule complètement le Mimétisme du Héros ennemi."
+Permet au Héros de voir tous les sorts d'un Héros ennemi en combat. Il donne au Héros 50% de chances d'apprendre n'importe quel sort du Héros ennemi au début du combat et 100% de chances de l'apprendre dès que le sort est utilisé par l'ennemi en combat. Annule complètement le Mimétisme du Héros ennemi."
 Nécromancie	"{Novice en Nécromancie}
 
 5% des créatures éliminées lors d'un combat rejoignent les rangs du Héros sous la forme de Squelettes."	"{Disciple en Nécromancie}
