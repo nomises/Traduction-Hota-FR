@@ -105,13 +105,15 @@ l'Armure Miraculeuse améliore de + 1 point les quatre caractéristiques de votr
 100 Diablotins sont ajoutés à l'armée de votre Héros"
 "{Souche Maudite}
 
-Une Souche Maudite est construite dans votre ville de départ (demeure des Yeux Maléfiques)"
+Une Souche Maudite est construite dans votre ville de départ 
+(demeure des Yeux Maléfiques)"
 "{Guilde des Mages Niveau 1}
 
 Une Guilde des Mages Niveau 1 est construite dans votre ville de départ"
 "{Académie Militaire}
 
-une Académie Militaire est construite dans votre ville de départ (+ 1000 points d'expérience, une fois par héros)"
+une Académie Militaire est construite dans votre ville de départ 
+(+ 1000 points d'expérience, une fois par héros)"
 "{Héros de Eeofol}
 
 Commencer avec les héros utilisés lors du scénario ""Un Plan Diabolique"""
@@ -126,16 +128,19 @@ Votre Héros reçoit un Parchemin contenant le sort Onde Mortelle"
 1 Chevalier Noir est ajouté à l'armée de votre Héros"
 "{Ossuaire}
 
-un Ossuaire est construit dans votre ville de départ (transforme des créatures en squelettes)"
+un Ossuaire est construit dans votre ville de départ 
+(transforme des créatures en squelettes)"
 "{Capuche du Vampire}
 
-La Capuche du Vampire améliore de 5% la compétence de Nécromancie"
+La Capuche du Vampire améliore de 10% la compétence de Nécromancie"
 "{Nécrolyte}
 
-Un Nécrolyte est construit dans votre ville de départ (améliore de 5% la compétence de Nécromancie de vos héros)"
+Un Nécrolyte est construit dans votre ville de départ 
+(améliore de 5% la compétence de Nécromancie de vos héros)"
 "{Catacombes}
 
-Des Catacombes sont construites dans votre ville de départ (augmente la production de Squelettes)"
+Des Catacombes sont construites dans votre ville de départ 
+(augmente la production de Squelettes)"
 "{Pendentif de Mort}
 
 Le Pendentif de Mort immunise vos troupes contre le sort Nécrophage"
@@ -150,7 +155,7 @@ Votre Héros reçoit un Parchemin contenant le sort Protection Contre la Terre"
 Votre Héros reçoit un Parchemin contenant le sort Onde Mortelle"
 "{Bottes du Passeur}
 
-Les Bottes du Passeur améliorent de 7,5% la compétence de Nécromancie"
+Les Bottes du Passeur améliorent de 15% la compétence de Nécromancie"
 "{Dragons Fantômes}
 
 3 Dragons Fantômes sont ajoutés à l'armée de votre Héros"
@@ -158,7 +163,8 @@ Les Bottes du Passeur améliorent de 7,5% la compétence de Nécromancie"
 [substitute hero right-click info here]
 "{Héros des Forteresses}
 
-Votre Héros est choisi aléatoirement parmi ceux des Forteresses (Belluaire ou Sorcière)"
+Votre Héros est choisi aléatoirement parmi ceux des Forteresses 
+(Belluaire ou Sorcière)"
 "{Rocks Foudroyants}
 
 3 Rocks Foudroyants sont ajoutés à l'armée de votre Héros"

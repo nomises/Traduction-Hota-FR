@@ -182,8 +182,8 @@ Votre besace est pleine.
 "Hélas, votre besace est bien trop petite pour contenir %s."
 "L'artéfact %s est détruit."
 "{%s}
-%s a %d en Attaque et inflige de %d à %d points de dégâts.
-Ignore la défense ennemie"
+%s a %s en Attaque et inflige {%d}-{%d} points de dégâts.
+Tire. Aucune pénalité au contact. Ignore la défense ennemie."
 Voir les informations sur les tours.
 Je peux vous offrir %d %s de %s pour %d %s de %s.
 Marché
