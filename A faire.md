@@ -211,4 +211,4 @@
 * ~~HCTRAITS.TXT~~
 * ~~SeerHut.txt~~
 * ~~SPTRAITS.TXT~~
-* SSTRAITS.TXT
+* ~~SSTRAITS.TXT~~
