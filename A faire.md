@@ -203,15 +203,12 @@
 
 ## HotA_lng.lod
 ### Traduire
-* artraits.txt
-* CAMPBTTN.TXT
+* ~~CAMPBTTN.TXT~~
+* ~~artraits.txt~~
 * ~~CREDITS.TXT~~
-* EDITRCMD.TXT
-* GENRLTXT.TXT
-* HCTRAITS.TXT
-* SeerHut.txt
-* SPTRAITS.TXT
-* SSTRAITS.TXT
-
-### Crédit
-* HotA_lng.lod/CREDITS.TXT
+* ~~EDITRCMD.TXT~~
+* ~~GENRLTXT.TXT~~
+* ~~HCTRAITS.TXT~~
+* ~~SeerHut.txt~~
+* ~~SPTRAITS.TXT~~
+* ~~SSTRAITS.TXT~~
