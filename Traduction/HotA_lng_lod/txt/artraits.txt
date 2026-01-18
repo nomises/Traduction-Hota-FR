@@ -12,7 +12,7 @@ Amenez le Graal dans l'une de vos villes et bâtissez un monument en son honneur
 Catapulte	1000	 	x	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Catapulte}
 
 Au cours d'un siège, la catapulte permet de détruire les fortifications de l'ennemi."
-Baliste	2500	 	 	 	 	x		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Baliste}
+Baliste	1500	 	 	 	 	x		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Baliste}
 
 Au cours d'un combat, cette machine de guerre soutient vos troupes contre celles de l'ennemi."
 Chariot	1000	 	 	 	x	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Chariot}
@@ -393,9 +393,9 @@ L'ensemble de l'Alliance Angélique octroie un total de +21 à toutes les statis
 Cape du Roi des Morts																			x		R	"{Cape du Roi des Morts}
 
 30% des créatures tuées au cours d'un combat sont ressuscitées en tant que Squelettes. Si le héros possède la compétence Nécromancie, ces 30% sont ajoutés à la compétence et le niveau de cette dernière détermine le type de créatures qui pourront être invoquées. 
-Novice : Zombies. 
-Disciple : Revenants. 
-Maître : Liches."
+Novice : Zombies
+Disciple : Revenants
+Maître : Liches"
 Élixir de Vie							x	x	x	x	x										R	"{Élixir de Vie}
 
 L'ensemble de l'Élixir de Vie octroie +4 points de vie à toutes les créatures vivantes du héros, leurs points de vie augmentent de 25% et elles acquièrent une capacité de régénération à hauteur de 50 points de vie par tour."
@@ -435,6 +435,7 @@ En plus des propriétés de ses composants, ce Pendentif augmente vos chances de
 Tomahawk des Ogres																	x				R	"{Tomahawk des Ogres}
 
 En plus des propriétés de ses composants le Tomahawk des Ogres donne +5 Attaque, +5 Défense, +4 Magie et +4 Savoir, les sorts Hâte, Furie Sanguinaire, Bouclier de Flammes, et Contre-Attaque, sont lancés automatiquement au niveau expert sur les armées alliées au début des combats - 50 tours. (Emplacement : Main Droite)"
+																						
 																						
 																						
 																						
