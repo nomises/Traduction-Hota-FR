@@ -213,10 +213,10 @@ Créatures d'alignement bon dans le Brouillard Maléfique -1"
 cNewTurn
 %s, il ne vous reste que %d jours pour prendre d'assaut une ville ou vous serez banni de ces terres.
 %s, emparez-vous d'une ville aujourd'hui ou vous serez banni de ces terres.
-"Les astrologues proclament le mois %s. 
+"Les astrologues proclament le mois %s.
 
 La population augmente dans toutes les demeures."
-"Les astrologues proclament le mois %s. 
+"Les astrologues proclament le mois %s.
 
 La population de %s double ! 
 
@@ -224,20 +224,20 @@ La population augmente dans toutes les demeures."
 "Les astrologues proclament le mois de la PESTE ! 
 
 Toutes les populations sont divisées par deux."
-"Les astrologues proclament la semaine %s. 
+"Les astrologues proclament la semaine %s.
 
 La population augmente dans toutes les demeures."
-"Les astrologues proclament la semaine %s. 
+"Les astrologues proclament la semaine %s.
 
 Croissance de %s de +5.
 
  La population augmente dans toutes les demeures."
-"Les astrologues proclament la semaine %s. 
+"Les astrologues proclament la semaine %s.
 
 Croissance de %s +%d. 
 Croissance de %s +%d.
 
- La population augmente dans toutes les demeures."
+La population augmente dans toutes les demeures."
 cMapSize
 Petite
 Moyenne
@@ -305,8 +305,8 @@ Une légion de (1000 et plus)
 une légion de (1000 et plus)
 const_wise_tree_price_text
  (+1 niveau)
- (+1 niveau pour 2000 pièces d'Or)
- (+1 niveau pour 10 gemmes)
+ (+1 niveau pour 2000 Pièces d'Or)
+ (+1 niveau pour 10 Gemmes)
 HumanCPU
 "Humain 
 ou ORD"

@@ -216,7 +216,7 @@
 # Correction Binaire 
 ## HotA_lng.lod
 * ~~advevent.txt~~
-* ARRAYTXT.txt
+* ~~ARRAYTXT.txt~~
 * artevent.txt
 * artraits.txt
 * ArtSlots.txt
