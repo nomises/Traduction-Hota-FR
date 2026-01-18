@@ -220,7 +220,7 @@
 * ~~artevent.txt~~
 * ~~artraits.txt~~
 * ~~ArtSlots.txt~~
-* BldgNeut.txt
+* ~~BldgNeut.txt~~
 * BldgSpec.txt
 * CAMPBTTN.TXT
 * CAMPDIAG.TXT
