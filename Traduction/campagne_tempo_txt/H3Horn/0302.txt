@@ -78,4 +78,5 @@ Vos hommes d'équipage ont aperçu une épave, des corps flottants à la dérive
 Message:
 Clef de brume
 
+===== Extended Events =====
 ===== End of file =====

@@ -115,4 +115,5 @@ Salle rituelle
 Message:
 Vous semblez être sur la bonne voie. Casmetra se cache dans les environs.
 
+===== Extended Events =====
 ===== End of file =====

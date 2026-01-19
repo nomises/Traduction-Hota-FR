@@ -2,7 +2,6 @@
 Le Tueur d'Arbres
 
 ===== Map description =====
-
 Pour gagner, Dargem doit amasser 300 unités de Bois en 3 mois. Le niveau maximum des héros est de 24. Après leur victoire, Dargem et Murdoch, ainsi que le Pendentif de Pureté et le Pendentif de Vie, accéderont au scénario suivant.
 
 ===== Rumors =====
@@ -279,4 +278,5 @@ Kreh, un Gremlin rebel, s'échappa de Bracada pour se réfugier dans les Donjons
 Message:
 "Hé, petit pirate ! Si tu veux plus de puissance magique, tu devras avoir affaire à moi. Je suis Kreh." "Quoi ? C'est quoi un Kreh ? Dégage, espèce de morveux ! "	"Regarde-moi ça, petit pirate ! " Le Gremlin sauta du champignon, claqua des mains, et une armée entière apparut autour de lui.
 
+===== Extended Events =====
 ===== End of file =====

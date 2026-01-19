@@ -546,6 +546,7 @@ Message:
 (6, 63, 0) ***Pandora's Box***
 Message:
 
+
 (64, 36, 0) ***Quest Guard***
 Message:
 Encore une sorte de barrière magique... Après l'avoir étudiée, j'en suis venu à la conclusion que je devrais pouvoir la dissiper avec un artefact tel que le Globe d'Inhibition.
@@ -620,4 +621,5 @@ Message:
 Message:
 Merci d'avoir participé à notre campagne ! Nous espérons que vous l'avez appréciée.
 
+===== Extended Events =====
 ===== End of file =====

@@ -340,4 +340,5 @@ Bonus pour le niveau de difficulté maximale
 Message:
 Bonus pour le niveau de difficulté maximale
 
+===== Extended Events =====
 ===== End of file =====

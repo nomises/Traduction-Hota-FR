@@ -50,7 +50,6 @@ Déclaré hors-la-loi, mon peuple dut quitter précipitamment ses maisons et ate
 
 Name:
 Avertissement du paratonnerre
-
 Message:
 Je sautai sur le lit ; une sensation que je croyais perdue dans les souvenirs de mon ancienne vie à Eeofol m'envahit. Tous les poils de mon corps se hérissaient. En sortant de la tente, je vis mes camarades, chacun arborant une coiffure en forme de pissenlit. L'air sentait l'orage... et autre chose. Cette odeur, d'où la connaissais-je ? Oh. Bien sûr. Ma mémoire a ouvert les vannes, et les sensations se sont déversées sur moi. Ma vue, mon ouïe, mon odorat, et même mon goût, tout était redevenu d'une netteté remarquable, comme dans mon enfance. Un long jour d'été de ma jeunesse insouciante : Frederick dans son atelier, me montrant une boule de fer brillante et me parlant de la foudre, des charges électriques, et de la façon dont il allait la maîtriser pour faire tourner des meules, éclairer l'obscurité des grottes et même chasser les bêtes sauvages. 		Après un déclic, la pièce s'était remplie de cette odeur familière, et mes poils s'étaient hérissés, comme maintenant. Je frissonnai. Je me souvins de ce qui s'était passé ensuite. Avec un sourire mystérieux, Frederick m'avait invitée à toucher la boule brillante. Je tendis la main pour toucher la jolie petite chose ronde, mais il restait encore une bonne coudée entre ma main et la boule lorsque la foudre frappa avec un claquement violent et une douleur fulgurante me traversait le corps. Je pleurai et jurai un bon moment, tandis que Frederick lançait des excuses, marmonnant des mots que je ne comprenais pas sur le moment - ​​quelque chose à propos de calibrage, de puissance calculée et d'énergie traversante. Se pouvait-il qu'il ait finalement maîtrisé la foudre, mais que les artificiers pensent maintenant que les bêtes sauvages ce soients... nous ?
 
@@ -744,4 +743,5 @@ Message:
 Message:
 
 
+===== Extended Events =====
 ===== End of file =====

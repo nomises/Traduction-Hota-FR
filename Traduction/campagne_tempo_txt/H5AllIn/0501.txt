@@ -270,4 +270,5 @@ Sorts pour les niveaux Normal et Difficile
 Message:
 Dragons bonus (pour la difficulté maximale)
 
+===== Extended Events =====
 ===== End of file =====

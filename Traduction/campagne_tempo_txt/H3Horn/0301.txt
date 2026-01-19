@@ -216,4 +216,5 @@ Gallavant était là
 Message:
 Vous entendez un gargouillement profond et répugnant, et aussitôt la tête hideuse d'un serpent surgit des flots. Pris par surprise, un membre d'équipage tombe par-dessus la rambarde du pont arrière. Tandis que le serpent savoure une collation inattendue, vous parvenez à vous ressaisir et ordonnez aux artilleurs d'ouvrir le feu.
 
+===== Extended Events =====
 ===== End of file =====

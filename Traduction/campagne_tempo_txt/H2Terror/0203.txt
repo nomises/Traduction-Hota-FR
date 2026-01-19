@@ -108,4 +108,5 @@ Vous ne pouvez pas sortir facilement de cet endroit, c'est un piège !
 Name:
 Centre
 
+===== Extended Events =====
 ===== End of file =====
