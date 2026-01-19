@@ -292,4 +292,5 @@ Vous avez accompli la tâche et le Démoniste reconnaissant est prêt à vous do
 Message:
 Cela pourrait s'avérer utile dans un combat contre Nagash !
 
+===== Extended Events =====
 ===== End of file =====

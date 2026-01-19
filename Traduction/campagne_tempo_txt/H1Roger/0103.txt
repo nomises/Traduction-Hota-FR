@@ -48,10 +48,6 @@ Un vieux gobelin vit ici. Il affirme qu'il était autrefois un puissant guerrier
 Le vieux gobelin n'aura plus rien à vous dire tant que son loup bien aimé n'aura pas été vengé.
 Les forces du mal ont été vaincues et le vieux gobelin vous transmet tout son savoir au combat dans la joie et l'exaltation.
 
-(16, 59, 0) ***Halfling***
-Message:
-"Que peuvent bien espérer de pauvres hobbits face à une attaque de pirates surmotivés ?"
-
 (61, 1, 0) ***Event***
 Message:
 Un beau et mystérieux fort se tient devant vous, décoré d'étranges statues dont l'aspect fait penser à des lézards. Voulez-vous prendre le risque de vous aventurer à l'intérieur ? Ou bien vous-y refusez-vous ?
@@ -103,5 +99,5 @@ La base semble entourée d'un champ de force infranchissable. L'énergie vitale 
 Le seul moyen de lever le champ de force est de rapporter l'énergie vitale d'un chef de guerre Kreegan.
 Nous avons capturé l'énergie vitale d'un chef de guerre Kreegan. Nous pouvons lever le champ de force.
 
+===== Extended Events =====
 ===== End of file =====
-

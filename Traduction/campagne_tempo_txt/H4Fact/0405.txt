@@ -701,7 +701,6 @@ La route est bloquée par un voile magique impénétrable. Il n'y a aucun signe 
 La route est bloquée par un voile magique impénétrable. Il n'y a aucun signe de mécanisme de désactivation : il semble conçu pour persister pendant un certain temps avant de se dissiper. Cet enchantement complexe est l'œuvre de Canopus, un Magicien renommé connu pour être un reclus. Il ne fait confiance qu'à quelques personnes et n'a pas quitté son château de Bracada depuis des années. Qui aurait pu créer cette barrière ? Peut-être Canopus s'est-il trouvé un apprenti ou un parent qui a désormais surpassé son maître ?
 Le voile de Canopus ondule et scintille. Il semble que son temps soit écoulé ; le sort qui le maintient est sur le point de se briser, et vous pourrez le dissiper d'un simple geste de la main.		Souhaitez-vous lever le voile et passer ?
 
-
 (33, 28, 1) ***Quest Guard***
 Message:
 Un commandant à la retraite réside ici. Autrefois très réputé, il a rédigé de nombreux traités influents sur la formation des nouvelles recrues. Récemment, trois de ses ordonnances de confiance ont succombé à la vieillesse l'un après l'autre, le laissant désemparé. Le commandant est toutefois encore assez alerte et cherche de nouveaux hommes pour remplir leurs fonctions. Préférant les silhouettes robustes et imposantes, il les imagine comme de redoutables hommes de droite. Si vous lui présentez des candidats appropriés, il sera disposé à former vos troupes, moyennant une rémunération équitable, bien sûr.
@@ -856,4 +855,5 @@ La route est bloquée par un voile magique impénétrable. Il n'y a aucun signe 
 La route est bloquée par un voile magique impénétrable. Il n'y a aucun signe de mécanisme de désactivation : il semble conçu pour persister pendant un certain temps avant de se dissiper. Cet enchantement complexe est l'œuvre de Canopus, un Magicien renommé connu pour être un reclus. Il ne fait confiance qu'à quelques personnes et n'a pas quitté son château de Bracada depuis des années. Qui aurait pu créer cette barrière ? Peut-être Canopus s'est-il trouvé un apprenti ou un parent qui a désormais surpassé son maître ?
 Le voile de Canopus ondule et scintille. Il semble que son temps soit écoulé ; le sort qui le maintient est sur le point de se briser, et vous pourrez le dissiper d'un simple geste de la main.		Souhaitez-vous lever le voile et passer ?
 
+===== Extended Events =====
 ===== End of file =====

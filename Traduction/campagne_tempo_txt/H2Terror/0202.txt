@@ -3,6 +3,7 @@ Evenmorn
 
 ===== Map description =====
 Jeremy et Casmetra doivent vaincre tous les ennemis qui menacent la ville de Sacredcove. La mission sera perdue si Jeremy ou Casmetra sont vaincus, ou si Sacredcove est capturée. Le niveau maximum des héros est de 12. Après la victoire, Jérémy et Casmetra passeront au scénario suivant de la campagne.
+
 ===== Rumors =====
 
 ===== Timed events =====
@@ -123,4 +124,5 @@ Un groupe de mineurs nains se plaignent de l'apparition de Dragons Squelettes pr
 Vaincre les Dragons Squelettes n'est pas chose facile, mais vous pouvez y arriver.
 Avant de poursuivre leur travail, les nains aimeraient vous offrir un magnifique heaume à cornes. Qu'en dites-vous ?
 
+===== Extended Events =====
 ===== End of file =====
