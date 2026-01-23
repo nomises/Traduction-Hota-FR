@@ -222,6 +222,9 @@
 * ~~ArtSlots.txt~~
 * ~~BldgNeut.txt~~
 * ~~BldgSpec.txt~~
+* ~~CREDITS.TXT~~
+
+### A reviser
 * CAMPBTTN.TXT
 * CAMPDIAG.TXT
 * CAMPHIGH.TXT
@@ -230,7 +233,6 @@
 * CmpEdCmd.txt
 * CmpEditr.txt
 * CrBanks.txt
-* ~~CREDITS.TXT~~
 * CrGen1.txt
 * CrGen4.txt
 * CrGenerc.txt
