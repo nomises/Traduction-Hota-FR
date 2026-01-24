@@ -114,7 +114,7 @@
 
 ## Maps
 ### Traduire
-* Air Tyrants.txt
+* ~~Air Tyrants.txt~~
 * Beltway.txt
 * Headhunting.txt
 * Heritage of the Ancients.txt
