@@ -225,18 +225,18 @@
 * ~~CREDITS.TXT~~
 
 ### A reviser
-* CAMPBTTN.TXT
-* CAMPDIAG.TXT
-* CAMPHIGH.TXT
-* CampText.txt
-* CastInfo.txt
-* CmpEdCmd.txt
-* CmpEditr.txt
-* CrBanks.txt
-* CrGen1.txt
-* CrGen4.txt
-* CrGenerc.txt
-* CRTRAITS.TXT
+* ~~CAMPBTTN.TXT~~
+* ~~CAMPDIAG.TXT~~
+* ~~CAMPHIGH.TXT~~
+* ~~CampText.txt~~
+* ~~CastInfo.txt~~
+* ~~CmpEdCmd.txt~~
+* ~~CmpEditr.txt~~
+* ~~CrBanks.txt~~
+* ~~CrGen1.txt~~
+* ~~CrGen4.txt~~
+* ~~CrGenerc.txt~~
+* ~~CRTRAITS.TXT~~
 * Dwelling.txt
 * EDITOR.TXT
 * EDITRCMD.TXT
