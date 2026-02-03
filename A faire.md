@@ -237,11 +237,11 @@
 * ~~CrGen4.txt~~
 * ~~CrGenerc.txt~~
 * ~~CRTRAITS.TXT~~
-* Dwelling.txt
-* EDITOR.TXT
-* EDITRCMD.TXT
-* Garrison.txt
-* GENRLTXT.TXT
+* ~~Dwelling.txt~~
+* ~~EDITOR.TXT~~
+* ~~EDITRCMD.TXT~~
+* ~~Garrison.txt~~
+* ~~GENRLTXT.TXT~~
 * HallInfo.txt
 * HCTRAITS.TXT
 * Help.txt
