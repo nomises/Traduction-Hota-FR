@@ -124,10 +124,8 @@
 * Sails and Propellers.txt
 * Seven Days.txt
 * Strife in the Woods.txt
-* The Cataclysm (Allied).txt
 * The Cataclysm.txt
-* The Mysterious Island - ALLIES.txt
-* The Mysterious Island.txt
+	* The Cataclysm (Allied).txt
 * Treasures of the Pyramid.txt
 
 ### Vérifier
