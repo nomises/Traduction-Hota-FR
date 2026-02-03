@@ -2,7 +2,7 @@
 Les Tyrans des Airs
 
 ===== Map description =====
-Depuis des ann�es, votre pays a �t� attaqu� par des pirates de l'air. Il n'existait aucun moyen de d�fense contres leurs attaques venues du ciel, vous forcant � vous r�fugier sous terre. Mais suffisamment de temps s'est �coul� pour rassembler vos forces et repousser ces enhaisseurs des airs.
+Depuis des années, votre pays a été attaqué par des pirates de l'air. Il n'existait aucun moyen de défense contre leurs attaques venues du ciel, vous forcant à vous réfugier sous terre. Mais suffisamment de temps s'est écoulé pour rassembler vos forces et repousser ces envahisseurs des airs.
 
 ===== Rumors =====
 
@@ -11,22 +11,22 @@ Depuis des ann�es, votre pays a �t� attaqu� par des pirates de l'air. Il
 Name:
 day1
 Message:
-Pendant des d�cennies, les pirates a�riens ont terroris� le monde de la surface. Ils descendaient au-dessus des nuages � bord de leurs vaisseaux volants, pillant et tuant tous ceux qu�ils trouvaient. Il y a des si�cles, votre peuple sans d�fense s�est enfui vers le seul endroit s�r qu�il connaissait�les cavernes souterraines que les vaisseaux ne pouvaient atteindre.. 
+Pendant des décennies, les pirates aériens ont terrorisé le monde de la surface. Ils descendaient au-dessus des nuages à bord de leurs vaisseaux volants, pillant et tuant tous ceux qu'ils trouvaient. Il y a des siècles, votre peuple sans défense s'est enfui vers le seul endroit sûr qu'il connaissait : les cavernes souterraines que les vaisseaux ne pouvaient atteindre.. 
 
 Name:
 day1.1
 Message:
-Au fil de ces longues ann�es sous terre, votre peuple n'a pas seulement surv�cue, il a aussi accumul� assez de forces pour retourner � la surface et combattre ces Tyrans de l'air. Le moment est venu de quitter les cavernes et d'affronter � nouveau le monde !
+Au fil de ces longues années sous terre, votre peuple n'a pas seulement survécu, il a aussi accumulé assez de forces pour retourner à la surface et combattre ces Tyrans de l'air. Le moment est venu de quitter les cavernes et d'affronter à nouveau le monde !
 
 Name:
 day5
 Message:
-Vous avez coll� votre oreille contre la pierre froide et entendu un fort bourdonnement m�l� � un mumure de voix. De retour au camp, apr�s avoir �tudi� les cartes des souterrains, vous �tes arriv� � la seule conclusion possible : d'autres personnes vivaient dans votre voisinage, s�par�es de vous par une terre imp�n�trable.
+Vous avez collé votre oreille contre la pierre froide et entendu un fort bourdonnement mêlé à un mumure de voix. De retour au camp, après avoir étudié les cartes des souterrains, vous êtes arrivé à la seule conclusion possible : d'autres personnes vivaient dans votre voisinage, séparées de vous par une terre impénétrable.
 
 Name:
 Day7
 Message:
-Qui sont ces myst�rieux �trangers dans les cavernes voisines ? Peut-�tre sont ils eux aussi des survivants, une partie de votre peupele qui s'est r�fugi�e sous terre sans jamais r�ussir � vous rejoindre. Cependant, leur culture et leur vison du monde ont pu �norm�ment changer au fil des si�cles. Il n'est pas encore clair s'ils deviendront vos alli�s dans la lutte contre les pirates a�riens ou s'ils tenteront de s'approprier la surface et les cavernes pour eux-m�mes.
+Qui sont ces mystérieux étrangers dans les cavernes voisines ? Peut-être sont ils eux aussi des survivants, une partie de votre peuple qui s'est réfugiée sous terre sans jamais réussir à vous rejoindre. Cependant, leur culture et leur vison du monde ont pu énormément changer au fil des siécles. Il n'est pas encore clair s'ils deviendront vos alliés dans la lutte contre les pirates aériens ou s'ils tenteront de s'approprier la surface et les cavernes pour eux-mêmes.
 
 ===== Heroes =====
 
@@ -38,10 +38,10 @@ les cavernes souterraines que les vaisseaux ne pouvaient atteindre.
 
 (6, 5, 0) ***Event***
 Message:
-C��tait donc cela, la Surface ! Vous d�couvriez enfin ce dont vous n�aviez entendu parler que dans les r�cits des anciens qui avaient autrefois v�cu sous le soleil. Pourtant, aucun signe des pirates a�riens. Il semblait qu�aucun humain n�avait foul� ces terres depuis de nombreuses ann�es ; les �paves d'a�ronefs et les squelettes rong�s par le temps avaient �t� envahis par la v�g�tation. L�ennemi que vous redoutiez avait-il donc disparu de ce monde ? Peu importait qu�ils aient succomb� � la maladie ou � des conflits. D�sormais, seule la perspective de rencontrer les habitants d�autres cavernes vous pr�occupait. S�ils cherchaient un combat digne de ce nom, comme vous, ils le trouveraient.
+C'était donc cela, la Surface ! Vous découvriez enfin ce dont vous n'aviez entendu parler que dans les récits des anciens qui avaient autrefois vécu sous le soleil. Pourtant, aucun signe des pirates aériens. Il semblait qu'aucun humain néavait foulé ces terres depuis de nombreuses années ; les épaves d'aéronefs et les squelettes rongés par le temps avaient été envahis par la végétation. L'ennemi que vous redoutiez avait-il donc disparu de ce monde ? Peu importait qu'ils aient succombé à la maladie ou à des conflits. Désormais, seule la perspective de rencontrer les habitants d'autres cavernes vous préoccupait. S'ils cherchaient un combat digne de ce nom, comme vous, ils le trouveraient.
 
 (24, 9, 1) ***Event***
 Message:
-Il semble que, dans les temps anciens, un autre groupe venu de la surface ait tent� de se r�fugier dans cette caverne pour sauver sa vie. Cependant, la caverne �tait trop petite pour leur permettre de survivre longtemps et, finalement, tous les nouveaux habitants p�rirent.
+Il semble que, dans les temps anciens, un autre groupe venu de la surface ait tenté de se réfugier dans cette caverne pour sauver sa vie. Cependant, la caverne était trop petite pour leur permettre de survivre longtemps et, finalement, tous les nouveaux habitants périrent.
 
 ===== End of file =====
