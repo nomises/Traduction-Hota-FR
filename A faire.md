@@ -242,8 +242,8 @@
 * ~~EDITRCMD.TXT~~
 * ~~Garrison.txt~~
 * ~~GENRLTXT.TXT~~
-* HallInfo.txt
-* HCTRAITS.TXT
+* ~~HallInfo.txt~~
+* ~~HCTRAITS.TXT~~
 * Help.txt
 * HeroBios.txt
 * HeroScrn.txt
