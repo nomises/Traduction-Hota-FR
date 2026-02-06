@@ -1,97 +1,102 @@
-Rollover Text	Right-Click Text																						
-Note: Do not change the headings in this file, they are used to detect problems																							
-Main Menu																							
+Rollover Text	Right-Click Text	
+Note: Do not change the headings in this file, they are used to detect problems		
+Main Menu		
 	"{Nouvelle Partie}
 
-Commencer une Nouvelle Partie."																						
+Commencer une Nouvelle Partie."	
 	"{Charger}
 
-Charger une partie enregistrée."																						
+Charger une partie enregistrée."	
 	"{Héros de Légende}
 
-Afficher une liste des Héros entrés dans la Légende."																						
+Afficher une liste des Héros entrés dans la Légende."	
 	"{Crédits}
 
-Afficher les Crédits du jeu."																						
+Afficher les Crédits du jeu."	
 	"{Exit}
 
-Retour à Windows."																						
-																							
-Nouvelle Partie	Nouvelle Partie																						
+Retour à Windows."	
+		
+Nouvelle Partie	Nouvelle Partie		
 	"{Scénario}
 
-Participer à un Scénario isolé."																						
+Participer à un Scénario isolé." 
 	"{Campagne}
 
-Commencer une Nouvelle Campagne."																						
+Commencer une Nouvelle Campagne." 
 	"{Multijoueur}
 
-Participer à une partie Multijoueur."																						
+Participer à une partie Multijoueur."	
 	"{Tutoriel}
 
-Recommandé pour les nouveaux joueurs. Apprenez à jouer à Heroes III."																						
+Recommandé pour les nouveaux joueurs. Apprenez à jouer à Heroes III."	
 	"{Retour}
 
-Revenir au Menu Principal."																						
-																							
-Single Scenario Selection	Single Scenario Selection																						
-																							
-SCENARIO_BACKGROUND 	Choisir un scénario																						
-ADVANCED_BACKGROUND 	Réglage des options avancées																						
-Background for random map menu	Personnaliser et générer une carte aléatoire																						
-SCENARIO_NAME 	Nom du Scénario																						
-Description Title	Afficher les objectifs du scénario																						
-Description text	Afficher des Informations sur le Scénario																						
+Revenir au Menu Principal."		
+		
+Single Scenario Selection	Single Scenario Selection	
+		
+SCENARIO_BACKGROUND 	Choisir un scénario		
+ADVANCED_BACKGROUND 	Réglage des options avancées	
+Background for random map menu	Personnaliser et générer une carte aléatoire	
+SCENARIO_NAME 	Nom du Scénario		
+Description Title	Afficher les objectifs du scénario	
+Description text	Afficher des Informations sur le Scénario	
 EASY 	"{Facile}
 
 Le Joueur commence la partie avec davantage de ressources et l'Ordinateur ne représente pas une grande menace.
-Multiplicateur de points de victoire : 80%."																						
+
+Multiplicateur de points de victoire : 80%."
 NORMAL 	"{Normal}
 
 Le Joueur commence la partie avec quelques ressources supplémentaires et l'Ordinateur représente une menace à prendre en compte.
-Multiplicateur de points de victoire : 100%."																						
+
+Multiplicateur de points de victoire : 100%."	
 HARD 	"{Difficile}
 
 Le Joueur et l'Ordinateur disposent des mêmes ressources en début de partie et l'Ordinateur représente une menace sérieuse.
-Multiplicateur de points de victoire : 130%."																						
+
+Multiplicateur de points de victoire : 130%."	
 EXPERT 	"{Expert}
 
 Le Joueur commence la partie avec moins de ressources et l'Ordinateur représente une menace importante.
-Multiplicateur de points de victoire : 160%."																						
+
+Multiplicateur de points de victoire : 160%."	
 IMPOSSIBLE 	"{Impossible}
 
 Le Joueur commence la partie sans aucunes ressources et l'Ordinateur représente une menace importante.
-Multiplicateur de points de victoire : 200%."																						
-ALLY_FLAG1 	La Couleur que vous défendez																						
-ALLY_FLAG2 	Cette Couleur est défendue par un Allié																						
-ALLY_FLAG3 	Cette Couleur est défendue par un Allié																						
-ALLY_FLAG4 	Cette Couleur est défendue par un Allié
-ALLY_FLAG5 	Cette Couleur est défendue par un Allié
-ALLY_FLAG6 	Cette Couleur est défendue par un Allié
-ALLY_FLAG7 	Cette Couleur est défendue par un Allié
-ALLY_FLAG8 	Cette Couleur est défendue par un Allié
-ENEMY_FLAG1 	Cette Couleur est défendue par un Ennemi
-ENEMY_FLAG2 	Cette Couleur est défendue par un Ennemi
-ENEMY_FLAG3 	Cette Couleur est défendue par un Ennemi
-ENEMY_FLAG4 	Cette Couleur est défendue par un Ennemi
-ENEMY_FLAG5 	Cette Couleur est défendue par un Ennemi
-ENEMY_FLAG6 	Cette Couleur est défendue par un Ennemi
-ENEMY_FLAG7 	Cette Couleur est défendue par un Ennemi
-ENEMY_FLAG8 	Cette Couleur est défendue par un Ennemi
-SCENARIO_OPTIONS 	Afficher / Masquer la liste des Scénarios.
-ADVANCED_OPTIONS 	Afficher / Masquer les Options Avancées.
-random map button	Jouer sur une carte créée aléatoirement.
+
+Multiplicateur de points de victoire : 200%."	
+ALLY_FLAG1 	La Couleur que vous défendez	
+ALLY_FLAG2 	Cette Couleur est défendue par un Allié	
+ALLY_FLAG3 	Cette Couleur est défendue par un Allié	
+ALLY_FLAG4 	Cette Couleur est défendue par un Allié	
+ALLY_FLAG5 	Cette Couleur est défendue par un Allié	
+ALLY_FLAG6 	Cette Couleur est défendue par un Allié	
+ALLY_FLAG7 	Cette Couleur est défendue par un Allié	
+ALLY_FLAG8 	Cette Couleur est défendue par un Allié	
+ENEMY_FLAG1 	Cette Couleur est défendue par un Ennemi	
+ENEMY_FLAG2 	Cette Couleur est défendue par un Ennemi	
+ENEMY_FLAG3 	Cette Couleur est défendue par un Ennemi	
+ENEMY_FLAG4 	Cette Couleur est défendue par un Ennemi	
+ENEMY_FLAG5 	Cette Couleur est défendue par un Ennemi	
+ENEMY_FLAG6 	Cette Couleur est défendue par un Ennemi	
+ENEMY_FLAG7 	Cette Couleur est défendue par un Ennemi	
+ENEMY_FLAG8 	Cette Couleur est défendue par un Ennemi	
+SCENARIO_OPTIONS 	Afficher / Masquer la liste des Scénarios.	
+ADVANCED_OPTIONS 	Afficher / Masquer les Options Avancées.	
+random map button	Jouer sur une carte créée aléatoirement.	
 CHAT_DESC 	Alterne entre l'affichage des Informations sur le Scénario et la Fenêtre de Messages.
-MAP_DIFFICULTY 	Cette option vous permet de modifier la difficulté du scénario.
-RATING 	Indique le niveau de difficulté général.
-MAP_SIZE 	Le niveau de difficulté d'une Carte peut être Facile, Normal, Difficile, Expert ou Impossible.
+MAP_DIFFICULTY 	Cette option vous permet de modifier la difficulté du scénario.		
+RATING 	Indique le niveau de difficulté général.	
+MAP_SIZE 	Le niveau de difficulté d'une Carte peut être Facile, Normal, Difficile, Expert ou Impossible.	
 VICTORY_CONDITION 	Les Conditions de Victoire à remplir sur ce scénario.
 LOSS_CONDITION 	Les Conditions de Défaite à éviter sur ce scénario.
-SMALL_FILTER 	Cartes de petite taille
-MEDIUM_FILTER 	Cartes de taille moyenne
-LARGE_FILTER 	Cartes de grande taille
-EXTRALARGE_FILTER 	Cartes de très grande taille
-ALL_FILTER 	Afficher toutes les Cartes
+SMALL_FILTER 	Cartes de petite taille	
+MEDIUM_FILTER 	Cartes de taille moyenne	
+LARGE_FILTER 	Cartes de grande taille	
+EXTRALARGE_FILTER 	Cartes de très grande taille	
+ALL_FILTER 	Afficher toutes les Cartes	
 SCENARIO_NAME_1 	SCENARIO_NAME_1 
 SCENARIO_NAME_2 	SCENARIO_NAME_2 
 SCENARIO_NAME_3 	SCENARIO_NAME_3 
@@ -129,24 +134,24 @@ ENTRY_SCENARIO_NAME_16 	ENTRY_SCENARIO_NAME_16
 ENTRY_SCENARIO_NAME_17 	ENTRY_SCENARIO_NAME_17 
 ENTRY_SCENARIO_NAME_18 	ENTRY_SCENARIO_NAME_18 
 TURN_DURATION 	Durée Maximale d'un Tour
-CHAT_TEXT 	Messages						
-CHAT_ENTRY 	CHAT_ENTRY 						
-CHAT_PLUG 	CHAT_PLUG 						
-CHAT_PLAYER 	Joueurs						
-CHAT_PLAYER_SLIDER,	CHAT_PLAYER_SLIDER,						
-ROLLOVER 	ROLLOVER 						
-NEXT 	Enregistrer la partie en cours						
-BEGIN 	Lancer le Scénario choisi						
-BACK 	BACK 						
+CHAT_TEXT 	Messages	
+CHAT_ENTRY 	CHAT_ENTRY 	
+CHAT_PLUG 	CHAT_PLUG 	
+CHAT_PLAYER 	Joueurs	
+CHAT_PLAYER_SLIDER,	CHAT_PLAYER_SLIDER,	
+ROLLOVER 	ROLLOVER 	
+NEXT 	Enregistrer la partie en cours	
+BEGIN 	Lancer le Scénario choisi	
+BACK 	BACK 	
 SSEXIT 	"Fermer cette fenêtre
-(rien ne se produira)"						
+(rien ne se produira)"	
 WHICHMAP 	"Taille de la Carte
-(S-Petite, M-Moyenne, L-Grande, XL-Très Grande, H-Étendue, XH-Énorme, G-Gigantesque)"						
-SORT_NUMBER 	Trier les cartes selon le nombre de joueurs.						
-SORT_SIZE 	Trier les cartes selon leur taille.						
-k_sort_version	Trier les cartes selon la version.						
-SORT_ALPHA 	Trier les cartes dans l'ordre alphabétique.						
-SORT_VICTORY 	Trier les cartes selon les conditions de victoire.						
+(S-Petite, M-Moyenne, L-Grande, XL-Très Grande, H-Étendue, XH-Énorme, G-Gigantesque)"	
+SORT_NUMBER 	Trier les cartes selon le nombre de joueurs.	
+SORT_SIZE 	Trier les cartes selon leur taille.	
+k_sort_version	Trier les cartes selon la version.	
+SORT_ALPHA 	Trier les cartes dans l'ordre alphabétique.	
+SORT_VICTORY 	Trier les cartes selon les conditions de victoire.	
 SORT_LOSS 	Trier les cartes selon les conditions de défaite.
 BRIEFING 	BRIEFING 
 SSHERO 	SSHERO 
@@ -296,151 +301,151 @@ PLAYER_HANDICAP_HEADER_ID,	"{Nom du Joueur / Handicap}
 Les emplacements autorisés pour des joueurs Humains sont signalés par un drapeau. Cliquez sur un drapeau pour choisir un autre emplacement. Pour changer le nom du joueur, cliquez sur son nom.
 
 Un 'Handicap' peut être donné à chacun des joueurs en cliquant sur le bouton 'Handicap'. Trois options sont proposées : Aucun Handicap, Léger Handicap, Sérieux Handicap. Choisir un Handicap diminue les ressources dont un joueur dispose en début de partie.
-"																						
+"	
 TURN_DURATION_HEADER_ID,	"{Durée Maximale d'un Tour}
 
 En utilisant la barre coulissante, vous pouvez définir la durée maximale dont dispose un joueur pour terminer son tour. Lorsque le joueur est engagé dans un combat, le compte à rebours s'arrête.
 
 Vous pouvez définir une Durée Maximale d'un Tour de : 1, 2, 4, 6, 8, 10, 15, 20, 25 et 30 minutes.
 Par défaut, la Durée Maximale d'un Tour est 'Illimitée'.
-"																						
+"	
 STARTING_TOWN_HEADER_ID,	"{Ville de Départ}
 
 Chacun des joueurs peut commencer la partie avec ou sans ville. Le choix d'une ville peut être Aléatoire, ou il peut s'agir d'un Château, d'une Tour, d'un Rempart, d'un Donjon, d'une Forteresse, d'un Bastion, d'une Nécropole, d'un Hadès.
 
 Si vous ne commencez pas la partie avec une ville, ce paramètre peut servir à déterminer l'alignement de votre Héros de départ.
-"																						
+"	
 STARTING_TOWN_HEADER_W_CONFLUX_ID,	"{Ville de Départ}
 
 Chacun des joueurs peut commencer la partie avec une ville ou pas. Le choix d'une ville peut être Aléatoire, ou il peut s'agir d'un Château, d'une Tour, d'un Rempart, d'un Donjon, d'une Forteresse, d'un Bastion, d'une Nécropole, d'un Hadès, d'un Conflux, d'une Crique ou d'une Manufacture.
 
 Si vous ne commencez pas la partie avec une ville, ce paramètre peut servir à déterminer l'alignement de votre Héros de départ.
-"																						
+"	
 STARTING_HERO_HEADER_ID,	"{Héros de Départ}
 
 Chacun des joueurs peut commencer la partie avec ou sans un Héros. Dans certains cas, cette option n'est pas accessible. Lorsque cette option est proposée, vous pouvez choisir votre Héros parmi les 16 classes de Héros du jeu. Si une Ville de Départ est choisie, vous pourrez choisir parmi plusieurs Héros différents.
 
 Pour afficher le nom du Héros, sa classe et sa spécialité, cliquez avec le bouton droit de la souris sur son portrait.
-"																						
+"	
 STARTING_BONUS_HEADER_ID,	"{Bonus de Départ}
 
 Si un Bonus de Départ est proposé, vous avez le choix entre un Artéfact aléatoire, 500 ou 1000 pièces d'Or, ou entre 5 et 10 unités de Bois et de Pierres.
-"																						
-																							
-Multiplayer Selection	Multiplayer Selection																						
-																							
+"	
+		
+Multiplayer Selection	Multiplayer Selection	
+		
 Services Online	"{Services Online}
 
-Choisissez un Service de jeu Online."																						
+Choisissez un Service de jeu Online."	
 Tournante	"{Tournante}
 
-Plusieurs joueurs peuvent s'affronter sur le même ordinateur."																						
+Plusieurs joueurs peuvent s'affronter sur le même ordinateur."	
 IPX	"{IPX}
 
-Plusieurs joueurs peuvent s'affronter en réseau local."																						
+Plusieurs joueurs peuvent s'affronter en réseau local."	
 TCP/IP	"{TCP/IP}
 
-Plusieurs joueurs peuvent s'affronter en réseau local ou via Internet."																						
+Plusieurs joueurs peuvent s'affronter en réseau local ou via Internet."	
 Modem	"{Modem}
 
-Deux joueurs peuvent s'affronter par modem."																						
+Deux joueurs peuvent s'affronter par modem."	
 Connexion Directe	"{Connexion Directe}
 
-Deux joueurs peuvent s'affronter en reliant leurs ordinateurs par un câble Null-Modem."																						
+Deux joueurs peuvent s'affronter en reliant leurs ordinateurs par un câble Null-Modem."	
 Créer	"{Créer}
 
-Cliquez sur ce bouton pour Créer un partie Multijoueur"																						
+Cliquez sur ce bouton pour Créer un partie Multijoueur"	
 Rejoindre	"{Rejoindre}
 
 Sélectionnez une partie Multijoueur et cliquez sur ce bouton pour y participer."
 Recherche	"{Recherche}
 
-Indiquez l'adresse IP de l'ordinateur qui héberge la partie que vous souhaitez rejoindre."
-GAMENAME 1	GAMENAME 1
-GAMENAME 2	GAMENAME 2
-GAMENAME 3	GAMENAME 3
-GAMENAME 4	GAMENAME 4
-GAMENAME 5	GAMENAME 5
-GAMENAME 6	GAMENAME 6
-GAMENAME 7	GAMENAME 7
-GAMENAME 8	GAMENAME 8
-GAMENAME 9	GAMENAME 9
-GAMENAME 10	GAMENAME 10
-GAMENAME 11	GAMENAME 11
-GAMENAME 12	GAMENAME 12
-Faire défiler liste des parties	Fait défiler la liste des parties accessibles.
+Indiquez l'adresse IP de l'ordinateur qui héberge la partie que vous souhaitez rejoindre."	
+GAMENAME 1	GAMENAME 1	
+GAMENAME 2	GAMENAME 2	
+GAMENAME 3	GAMENAME 3	
+GAMENAME 4	GAMENAME 4	
+GAMENAME 5	GAMENAME 5	
+GAMENAME 6	GAMENAME 6	
+GAMENAME 7	GAMENAME 7	
+GAMENAME 8	GAMENAME 8	
+GAMENAME 9	GAMENAME 9	
+GAMENAME 10	GAMENAME 10	
+GAMENAME 11	GAMENAME 11	
+GAMENAME 12	GAMENAME 12	
+Faire défiler liste des parties	Fait défiler la liste des parties accessibles.	
 	
-Annuler	Retour au Menu Précédent																						
-																							
-Adventure Map Window																							
-Carte du Monde	Il s'agit d'une représentation à échelle réduite de la carte du scénario. Cliquez sur un point de la Carte du Monde pour centrer l'Écran d'Aventure sur ce lieu. Vous pouvez également tirer-déplacer le rectangle rouge pour faire défiler l'Écran d'Aventure.																						
+Annuler	Retour au Menu Précédent	
+		
+Adventure Map Window		
+Carte du Monde	Il s'agit d'une représentation à échelle réduite de la carte du scénario. Cliquez sur un point de la Carte du Monde pour centrer l'Écran d'Aventure sur ce lieu. Vous pouvez également tirer-déplacer le rectangle rouge pour faire défiler l'Écran d'Aventure.	
 Fenêtre d'État	{Fenêtre d'État}
 
-Cette fenêtre vous donne des informations sur vos héros ou votre royaume et la date du jour. Cliquez sur la fenêtre pour passer d'une informations à l'autre.
+Cette fenêtre vous donne des informations sur vos héros ou votre royaume et la date du jour. Cliquez sur la fenêtre pour passer d'une informations à l'autre.	
 Royaume	"{Royaume}
 
-Afficher une liste des Villes et des Héros sous votre contrôle."																						
+Afficher une liste des Villes et des Héros sous votre contrôle."	
 Souterrain / Surface	"{Souterrain / Surface}
 
-Afficher dans la fenêtre de jeu le niveau Surface ou le niveau Souterrain."																						
+Afficher dans la fenêtre de jeu le niveau Surface ou le niveau Souterrain."		
 Livre des Quêtes	"{Livre des Quêtes}
 
-Afficher une liste des quêtes en cours"																						
+Afficher une liste des quêtes en cours"	
 Héros Actif / Inactif	"{Héros Actif / Inactif}
 
-Changer l'état du Héros sélectionné de Actif à Inactif et inversement. Lorsqu'un Héros est inactif, il est ignoré lorsque vous cliquez sur le bouton Héros Suivant."																						
+Changer l'état du Héros sélectionné de Actif à Inactif et inversement. Lorsqu'un Héros est inactif, il est ignoré lorsque vous cliquez sur le bouton Héros Suivant."	
 Déplacer Héros	"{Déplacer Héros}
 
-Donner l'ordre au Héros de poursuivre l'itinéraire actuel."																						
+Donner l'ordre au Héros de poursuivre l'itinéraire actuel."	
 Lancer un Sort	"{Lancer un Sort}
 
-Le Héros sélectionné lance un sort d'aventure."																						
+Le Héros sélectionné lance un sort d'aventure."	
 Options d'Aventure	"{Options d'Aventure}
 
-Après avoir cliqué sur ce bouton, vous pouvez Creuser à la recherche du Graal, visualiser le Puzzle, afficher la Carte du Monde ou des Informations sur le Scénario. Lors des parties en Multijoueur, vous pouvez également revoir les actions entreprises par vos adversaires lors du tour précédent."																						
+Après avoir cliqué sur ce bouton, vous pouvez Creuser à la recherche du Graal, visualiser le Puzzle, afficher la Carte du Monde ou des Informations sur le Scénario. Lors des parties en Multijoueur, vous pouvez également revoir les actions entreprises par vos adversaires lors du tour précédent."	
 Options	"{Options}
 
-Cliquez sur ce bouton pour accéder au menu des Options."																						
+Cliquez sur ce bouton pour accéder au menu des Options."	
 Héros Suivant	"{Héros Suivant}
 
-Cliquez sur ce bouton pour sélectionner automatiquement le prochain Héros qui dispose encore de points de mouvement. Les Héros inactifs sont ignorés."																						
+Cliquez sur ce bouton pour sélectionner automatiquement le prochain Héros qui dispose encore de points de mouvement. Les Héros inactifs sont ignorés."	
 Fin du Tour	"{Fin du Tour}
 
-Cliquez sur ce bouton lorsque vous n'avez plus d'ordres à donner."																						
+Cliquez sur ce bouton lorsque vous n'avez plus d'ordres à donner."	
 Liste des Héros	"{Liste des Héros}
 
-Fait défiler vers le haut la liste des Héros sous votre commandement."																						
+Fait défiler vers le haut la liste des Héros sous votre commandement."	
 Liste des Héros	"{Liste des Héros}
 
-Fait défiler vers le bas la liste des Héros sous votre commandement."																						
+Fait défiler vers le bas la liste des Héros sous votre commandement."	
 Portrait du Héros	"{Portrait du Héros}
 
-Cliquez une première fois sur le portrait du Héros pour centrer la fenêtre de jeu sur lui et le sélectionner. Cliquez une seconde fois pour afficher la page d'informations du Héros."																						
+Cliquez une première fois sur le portrait du Héros pour centrer la fenêtre de jeu sur lui et le sélectionner. Cliquez une seconde fois pour afficher la page d'informations du Héros."	
 Liste des Villes	"{Liste des Villes}
 
-Fait défiler vers le haut la liste des villes sous votre contrôle."																						
+Fait défiler vers le haut la liste des villes sous votre contrôle."	
 Liste des Villes	"{Liste des Villes}
 
-Fait défiler vers le bas la liste des villes sous votre contrôle."																						
+Fait défiler vers le bas la liste des villes sous votre contrôle."	
 Représentation de la Ville	"{Représentation de la Ville}
 
-Cliquez une première fois sur la représentation de la ville pour la sélectionner et centrer la fenêtre de jeu sur elle. Cliquez une seconde fois pour afficher les informations de la Ville."																						
-Or	Votre réserve en Or.																						
-Bois	Vos ressources en Bois.																						
-Mercure	Vos ressources en Mercure.																						
-Pierres	Vos ressources en Pierres.																						
-Soufre	Vos ressources en Soufre.																						
-Cristaux	Vos ressources en Cristaux.																						
-Gemmes	Vos ressources en Gemmes.																						
+Cliquez une première fois sur la représentation de la ville pour la sélectionner et centrer la fenêtre de jeu sur elle. Cliquez une seconde fois pour afficher les informations de la Ville."	
+Or	Votre réserve en Or.	
+Bois	Vos ressources en Bois.	
+Mercure	Vos ressources en Mercure.	
+Pierres	Vos ressources en Pierres.	
+Soufre	Vos ressources en Soufre.	
+Cristaux	Vos ressources en Cristaux.	
+Gemmes	Vos ressources en Gemmes.	
 Date	"{Date}
 
-Le Mois, la Semaine et le Jour"																						
-ROLLOVER	ROLLOVER																						
-																							
-System Options	System Options																						
+Le Mois, la Semaine et le Jour"	
+ROLLOVER	ROLLOVER	
+		
+System Options	System Options	
 Menu Principal	"{Menu Principal}
 
-Quitter la partie et retourner au Menu Principal."
+Quitter la partie et retourner au Menu Principal."	
 Charger Partie	"{Charger Partie}
 
 Cliquez sur ce bouton pour charger une partie préalablement enregistrée."
@@ -456,41 +461,38 @@ Quitter Heroes of Might and Magic III et retourner sous Windows."
 Continuer	"{Continuer}
 
 Retour au Jeu et continuer la partie."
-MUSIC_VOLUME_0_ID,	Ne pas jouer la musique.
-MUSIC_VOLUME_1_ID,	Volume de la musique 1
-MUSIC_VOLUME_2_ID,	Volume de la musique 2
-MUSIC_VOLUME_3_ID,	Volume de la musique 3
-MUSIC_VOLUME_4_ID,	Volume de la musique 4
-MUSIC_VOLUME_5_ID,	Volume de la musique 5
-MUSIC_VOLUME_6_ID,	Volume de la musique 6
-MUSIC_VOLUME_7_ID,	Volume de la musique 7
-MUSIC_VOLUME_8_ID,	Volume de la musique 8
-MUSIC_VOLUME_9_ID,	Volume de la musique 9
-EFFECTS_VOLUME_0_ID,	Ne pas jouer les effets sonores.
-EFFECTS_VOLUME_1_ID,	Volume des effets sonores 1
-EFFECTS_VOLUME_2_ID,	Volume des effets sonores 2
-EFFECTS_VOLUME_3_ID,	Volume des effets sonores 3
-EFFECTS_VOLUME_4_ID,	Volume des effets sonores 4
-EFFECTS_VOLUME_5_ID,	Volume des effets sonores 5
-EFFECTS_VOLUME_6_ID,	Volume des effets sonores 6
-EFFECTS_VOLUME_7_ID,	Volume des effets sonores 7
-EFFECTS_VOLUME_8_ID,	Volume des effets sonores 8
-EFFECTS_VOLUME_9_ID,	Volume des effets sonores 9
-MUSIC_TYPE_NONE_ID,	MUSIC_TYPE_NONE_ID,
-MUSIC_TYPE_CD_ID,	MUSIC_TYPE_CD_ID,
-MUSIC_TYPE_MIDI_ID,	MUSIC_TYPE_MIDI_ID,
+MUSIC_VOLUME_0_ID,	Ne pas jouer la musique.	
+MUSIC_VOLUME_1_ID,	Volume de la musique 1	
+MUSIC_VOLUME_2_ID,	Volume de la musique 2	
+MUSIC_VOLUME_3_ID,	Volume de la musique 3	
+MUSIC_VOLUME_4_ID,	Volume de la musique 4	
+MUSIC_VOLUME_5_ID,	Volume de la musique 5	
+MUSIC_VOLUME_6_ID,	Volume de la musique 6	
+MUSIC_VOLUME_7_ID,	Volume de la musique 7	
+MUSIC_VOLUME_8_ID,	Volume de la musique 8	
+MUSIC_VOLUME_9_ID,	Volume de la musique 9	
+EFFECTS_VOLUME_0_ID,	Ne pas jouer les effets sonores.	
+EFFECTS_VOLUME_1_ID,	Volume des effets sonores 1	
+EFFECTS_VOLUME_2_ID,	Volume des effets sonores 2	
+EFFECTS_VOLUME_3_ID,	Volume des effets sonores 3	
+EFFECTS_VOLUME_4_ID,	Volume des effets sonores 4	
+EFFECTS_VOLUME_5_ID,	Volume des effets sonores 5	
+EFFECTS_VOLUME_6_ID,	Volume des effets sonores 6	
+EFFECTS_VOLUME_7_ID,	Volume des effets sonores 7	
+EFFECTS_VOLUME_8_ID,	Volume des effets sonores 8	
+EFFECTS_VOLUME_9_ID,	Volume des effets sonores 9	
+MUSIC_TYPE_NONE_ID,	MUSIC_TYPE_NONE_ID,	
+MUSIC_TYPE_CD_ID,	MUSIC_TYPE_CD_ID,	
+MUSIC_TYPE_MIDI_ID,	MUSIC_TYPE_MIDI_ID,	
 HERO_SPEED_WALK_ID,	"Animations du Héros
-(lentes)"
-HERO_SPEED_CANTER_ID,	"Animations du Héros
-(normales)"
-HERO_SPEED_GALLOP_ID,	"Animations du Héros
-(rapides)"
+(lentes)"	
+HERO_SPEED_CANTER_ID,	"Animations du Héros	
+HERO_SPEED_GALLOP_ID,	"Animations du Héros	
 HERO_SPEED_JUMP_ID,	"Animations du Héros
 (aucunes - déplacement immédiat)"
 AI_SPEED_CANTER_ID,	"Animations des Ennemis
-(normales)"
+(slowest)"	
 AI_SPEED_GALLOP_ID,	"Animations des Ennemis
-(rapides)"
 AI_SPEED_JUMP_ID,	"Animations des Ennemis
 (aucunes - déplacement immédiat)"
 AI_SPEED_NONE_ID,	Ne pas afficher les déplacements ennemis
@@ -520,88 +522,88 @@ TOWN_OUTLINES_ID,	"{Contour des Bâtiments}
 Dans la vue de la ville, les bâtiments auxquels vous pouvez accéder sont entourés d'un contour lorsque vous placez le curseur de la souris sur eux."
 ANIMATE_SPELLBOOK_ID,	"{Animation du Livre des Sorts}
 
-Lorsque cette option est activée, les pages du livre des sorts seront animées."
-																							
-Adventure Options																							
+Lorsque cette option est activée, les pages du livre des sorts seront animées."	
+		
+Adventure Options		
 Carte	"{Carte}
 
-Afficher la carte du monde à grande échelle."																						
+Afficher la carte du monde à grande échelle."	
 Puzzle	"{Puzzle}
 
-Afficher la carte du Puzzle."																						
+Afficher la carte du Puzzle."	
 Informations sur le Scénario	"{Informations sur le Scénario}
 
-Afficher des informations sur le scénario."																						
+Afficher des informations sur le scénario."		
 Creuser	"{Creuser}
 
-Donner l'ordre au Héros sélectionné de creuser sur place à la recherche du Graal."																						
+Donner l'ordre au Héros sélectionné de creuser sur place à la recherche du Graal."	
 Revoir les Tours Adverses	"{Revoir les Tours Adverses}
 
-Cliquez sur ce bouton pour revoir les tours de vos adversaires."																						
-ROLLOVER	ROLLOVER																						
+Cliquez sur ce bouton pour revoir les tours de vos adversaires."	
+ROLLOVER	ROLLOVER	
 OK	"{OK}
 
-Retour à la carte d'aventure."																						
-																							
-Combat Window	Combat Window																						
+Retour à la carte d'aventure."	
+		
+Combat Window	Combat Window	
 Reddition	"{Reddition}
 
-Offrir votre Reddition à l'ennemi. Votre Héros doit s'acquitter d'un tribu pour quitter le combat et peut être immédiatement recruté avec l'ensemble de ses troupes et artéfacts dans une taverne."																						
+Offrir votre Reddition à l'ennemi. Votre Héros doit s'acquitter d'un tribu pour quitter le combat et peut être immédiatement recruté avec l'ensemble de ses troupes et artéfacts dans une taverne."		
 Retraite	"{Retraite}
 
-Votre Héros fuit le combat. Il peut être immédiatement recruté dans une taverne avec tous les artéfacts en sa possession. Ses troupes sont perdues."																						
+Votre Héros fuit le combat. Il peut être immédiatement recruté dans une taverne avec tous les artéfacts en sa possession. Ses troupes sont perdues."	
 Options	"{Options}
 
-Modifier les options des combats."																						
+Modifier les options des combats."	
 Combat Automatique	"{Combat Automatique}
 
-L'Ordinateur gère le combat à votre place. Cliquez n'importe où pour reprendre le contrôle de vos troupes."																						
-	Les messages de combat s'affichent dans cette fenêtre.																						
-	Fait défiler les messages affichés durant les combats.																						
+L'Ordinateur gère le combat à votre place. Cliquez n'importe où pour reprendre le contrôle de vos troupes."	
+	Les messages de combat s'affichent dans cette fenêtre.	
+	Fait défiler les messages affichés durant les combats.	
 Lancer un Sort	"{Lancer un Sort}
 
-Ouvrir le livre des sorts du Héros afin qu'il lance un sort de combat."																						
+Ouvrir le livre des sorts du Héros afin qu'il lance un sort de combat."		
 Attendre	"{Attendre}
 
-Donner l'ordre à la Troupe de ne pas agir pour l'instant et d'attendre que toutes les autres troupes aient eu l'occasion d'agir."																						
+Donner l'ordre à la Troupe de ne pas agir pour l'instant et d'attendre que toutes les autres troupes aient eu l'occasion d'agir."	
 Défendre	"{Défendre}
 
-Améliorer la caractéristique de Défense de l'unité. En contrepartie, l'unité n'effectue aucune action au cours de ce tour."																						
-Phase de Déploiement Tactique	Phase de Déploiement Tactique.																						
+Améliorer la caractéristique de Défense de l'unité. En contrepartie, l'unité n'effectue aucune action au cours de ce tour."		
+Phase de Déploiement Tactique	Phase de Déploiement Tactique.	
 Débuter le Combat	"{Débuter le Combat}
 
-Cliquez sur ce bouton lorsque vous êtes satisfait du déploiement de vos Troupes et que vous désirez engager le combat."																						
-																							
-Combat Options	Combat Options																						
+Cliquez sur ce bouton lorsque vous êtes satisfait du déploiement de vos Troupes et que vous désirez engager le combat."	
+		
+Combat Options	Combat Options	
 Retour au Jeu	"{Retour au Jeu}
 
-Quitter le menu des Options."																						
+Quitter le menu des Options."		
 Paramètres par Défaut	"{Paramètres par Défaut}
 
-Rétablir les paramètres par défaut des options de combat."																						
-MUSIC_VOLUME_0_ID,	Ne pas jouer la musique.																						
-MUSIC_VOLUME_1_ID,	Volume de la musique 1																						
-MUSIC_VOLUME_2_ID,	Volume de la musique 2																						
-MUSIC_VOLUME_3_ID,	Volume de la musique 3																						
-MUSIC_VOLUME_4_ID,	Volume de la musique 4																						
-MUSIC_VOLUME_5_ID,	Volume de la musique 5																						
-MUSIC_VOLUME_6_ID,	Volume de la musique 6
-MUSIC_VOLUME_7_ID,	Volume de la musique 7
-MUSIC_VOLUME_8_ID,	Volume de la musique 8
-MUSIC_VOLUME_9_ID,	Volume de la musique 9
-EFFECTS_VOLUME_0_ID,	Ne pas jouer les effets sonores.
-EFFECTS_VOLUME_1_ID,	Volume des effets sonores 1
-EFFECTS_VOLUME_2_ID,	Volume des effets sonores 2
-EFFECTS_VOLUME_3_ID,	Volume des effets sonores 3
-EFFECTS_VOLUME_4_ID,	Volume des effets sonores 4
-EFFECTS_VOLUME_5_ID,	Volume des effets sonores 5
-EFFECTS_VOLUME_6_ID,	Volume des effets sonores 6
-EFFECTS_VOLUME_7_ID,	Volume des effets sonores 7
-EFFECTS_VOLUME_8_ID,	Volume des effets sonores 8
-EFFECTS_VOLUME_9_ID,	Volume des effets sonores 9
-MUSIC_TYPE_NONE_ID,	MUSIC_TYPE_NONE_ID,
-MUSIC_TYPE_CD_ID,	MUSIC_TYPE_CD_ID,
-MUSIC_TYPE_MIDI_ID,	MUSIC_TYPE_MIDI_ID,
+Rétablir les paramètres par défaut des options de combat."	
+MUSIC_VOLUME_0_ID,	Ne pas jouer la musique.	
+MUSIC_VOLUME_1_ID,	Volume de la musique 1	
+MUSIC_VOLUME_2_ID,	Volume de la musique 2	
+MUSIC_VOLUME_3_ID,	Volume de la musique 3	
+MUSIC_VOLUME_4_ID,	Volume de la musique 4	
+MUSIC_VOLUME_5_ID,	Volume de la musique 5	
+MUSIC_VOLUME_6_ID,	Volume de la musique 6	
+MUSIC_VOLUME_7_ID,	Volume de la musique 7	
+MUSIC_VOLUME_8_ID,	Volume de la musique 8	
+MUSIC_VOLUME_9_ID,	Volume de la musique 9	
+EFFECTS_VOLUME_0_ID,	Ne pas jouer les effets sonores.	
+EFFECTS_VOLUME_1_ID,	Volume des effets sonores 1	
+EFFECTS_VOLUME_2_ID,	Volume des effets sonores 2	
+EFFECTS_VOLUME_3_ID,	Volume des effets sonores 3	
+EFFECTS_VOLUME_4_ID,	Volume des effets sonores 4	
+EFFECTS_VOLUME_5_ID,	Volume des effets sonores 5	
+EFFECTS_VOLUME_6_ID,	Volume des effets sonores 6	
+EFFECTS_VOLUME_7_ID,	Volume des effets sonores 7	
+EFFECTS_VOLUME_8_ID,	Volume des effets sonores 8	
+EFFECTS_VOLUME_9_ID,	Volume des effets sonores 9	
+MUSIC_TYPE_NONE_ID,	MUSIC_TYPE_NONE_ID,	
+MUSIC_TYPE_CD_ID,	MUSIC_TYPE_CD_ID,	
+MUSIC_TYPE_MIDI_ID,	MUSIC_TYPE_MIDI_ID,	
 AUTO_CREATURES_ID,	"{Créatures}
 
 Donner le contrôle de vos Troupes à l'Ordinateur en combat automatique."
@@ -617,7 +619,7 @@ AUTO_BALLISTA_ID,	"{Baliste}
 
 Lors des combats, votre baliste choisit elle-même la troupe à attaquer. Si votre Héros dispose de la compétence Artillerie, vous pouvez décider de l'unité à attaquer.
 
-Si votre Héros dispose de la compétence Artillerie, cette option donne à l'ordinateur le contrôle de la baliste en combat automatique."
+Si votre Héros dispose de la compétence Artillerie, cette option donne à l'ordinateur le contrôle de la baliste en combat automatique."	
 AUTO_FIRST_AID_TENT_ID,	"{Dispensaire}
 
 Lors des combats, le dispensaire choisit par lui-même quelle troupe requiert ses services. Si votre Héros dispose de la compétence Médecine, vous pouvez choisir l'unité qui sera soignée par le dispensaire.
@@ -645,44 +647,44 @@ ANIMATE_SPELLBOOK_ID,	"{Livre des Sorts Animé}
 
 Activer ou désactiver les animations du livre de sorts."
 	
-View Army	View Army																						
-Nom	Nom de la Créature.																						
-Effectifs	Nombre de Créatures dans la Troupe.																						
-Attaque	Caractéristique d'Attaque.																						
-Défense	Caractéristique de Défense.																						
-Munitions	Nombre de tirs restants de la troupe.																						
-Dégâts	Dégâts infligés par la troupe lors d'une attaque.																						
-Points de Vie	Points de vie de chaque créature de la troupe au début du combat.																						
-Points de Vie Restants	Points de vie encore à disposition de la 1ère créature de la troupe.																					
-Vitesse	Vitesse des créatures de la troupe.																						
-Moral	Moral des créatures de la troupe.																						
-Chance	Chance des créatures de la troupe.																					
-Sorts	Sorts agissant sur la troupe.																					
+View Army	View Army	
+Nom	Nom de la Créature.	
+Effectifs	Nombre de Créatures dans la Troupe.	
+Attaque	Caractéristique d'Attaque.	
+Défense	Caractéristique de Défense.		
+Munitions	Nombre de tirs restants de la troupe.	
+Dégâts	Dégâts infligés par la troupe lors d'une attaque.	
+Points de Vie	Points de vie de chaque créature de la troupe au début du combat.	
+Points de Vie Restants	Points de vie encore à disposition de la 1ère créature de la troupe.	
+Vitesse	Vitesse des créatures de la troupe.		
+Moral	Moral des créatures de la troupe.	
+Chance	Chance des créatures de la troupe.	
+Sorts	Sorts agissant sur la troupe.	
 Renvoyer	"{Renvoyer Troupe}
 
-Renvoyer la troupe sélectionnée."																						
+Renvoyer la troupe sélectionnée."	
 Améliorer Troupe	"{Améliorer Troupe}
 
-Améliorer la troupe sélectionnée."																						
+Améliorer la troupe sélectionnée."	
 OK	"{OK}
 
-Retour à la fenêtre précédente."																						
-																							
-Spell Book	Spell Book																						
-Page Précédente	Afficher la page précédente.																						
-Page Suivante	Afficher la page suivante.																						
-Sorts d'Aventure	Afficher les sorts d'aventure.																						
-Sorts de Combat	Afficher les sorts de combat.																						
-Air	Afficher les sorts de la magie de l'Air.																					
-Feu	Afficher les sorts de la magie du Feu.																						
-Eau	Afficher les sorts de la magie de l'Eau.																						
-Terre	Afficher les sorts de la magie de la Terre.																						
-Tous	Afficher les sorts de toutes les écoles de magie.																						
-Points de Magie	Points de Magie dont dispose le Héros.																						
-Fermer	Fermer le Livre des Sorts.																						
-																							
-CampaignBrief	CampaignBrief																						
-																							
+Retour à la fenêtre précédente."	
+		
+Spell Book	Spell Book	
+Page Précédente	Afficher la page précédente.	
+Page Suivante	Afficher la page suivante.	
+Sorts d'Aventure	Afficher les sorts d'aventure.	
+Sorts de Combat	Afficher les sorts de combat.	
+Air	Afficher les sorts de la magie de l'Air.	
+Feu	Afficher les sorts de la magie du Feu.		
+Eau	Afficher les sorts de la magie de l'Eau.	
+Terre	Afficher les sorts de la magie de la Terre.		
+Tous	Afficher les sorts de toutes les écoles de magie.	
+Points de Magie	Points de Magie dont dispose le Héros.	
+Fermer	Fermer le Livre des Sorts.		
+		
+CampaignBrief	CampaignBrief	
+		
 CAMPAIGN_NAME	CAMPAIGN_NAME
 CAMPAIGN_DESCRIPTION	CAMPAIGN_DESCRIPTION
 MAP_NAME	MAP_NAME
@@ -735,22 +737,22 @@ MAP_AREA_16	MAP_AREA_16
 MAP_AREA_17	MAP_AREA_17
 MAP_AREA_18	MAP_AREA_18
 MAP_AREA_19	MAP_AREA_19
-MAP_AREA_20	MAP_AREA_20																						
-MAP_AREA_21	MAP_AREA_21																						
-MAP_AREA_22	MAP_AREA_22																						
-MAP_AREA_23	MAP_AREA_23																						
-MAP_AREA_24	MAP_AREA_24																						
-MAP_AREA_25	MAP_AREA_25																						
-MAP_AREA_26	MAP_AREA_26																						
-MAP_AREA_27	MAP_AREA_27																						
-MAP_AREA_28	MAP_AREA_28																						
-MAP_AREA_29	MAP_AREA_29																						
-MAP_AREA_30	MAP_AREA_30																						
-MAP_AREA_31	MAP_AREA_31																						
-MAP_AREA_32	MAP_AREA_32																						
-																							
-CampaignWindow	CampaignWindow																						
-																							
+MAP_AREA_20	MAP_AREA_20	
+MAP_AREA_21	MAP_AREA_21	
+MAP_AREA_22	MAP_AREA_22	
+MAP_AREA_23	MAP_AREA_23	
+MAP_AREA_24	MAP_AREA_24	
+MAP_AREA_25	MAP_AREA_25	
+MAP_AREA_26	MAP_AREA_26	
+MAP_AREA_27	MAP_AREA_27	
+MAP_AREA_28	MAP_AREA_28	
+MAP_AREA_29	MAP_AREA_29
+MAP_AREA_30	MAP_AREA_30	
+MAP_AREA_31	MAP_AREA_31	
+MAP_AREA_32	MAP_AREA_32	
+		
+CampaignWindow	CampaignWindow	
+		
 Longue Vie à la Reine	Longue Vie à la Reine		
 Libération	Libération		
 Malheur au Vaincu	Malheur au Vaincu		
@@ -767,100 +769,100 @@ Jouer avec le Feu	Jouer avec le Feu
 Tranche et Taille	Tranche et Taille		
 La Naissance d'un Barbare	La Naissance d'un Barbare		
 Nouveau Départ	Nouveau Départ		
-Elixir de Vie	Elixir de Vie																						
-L'Ascension du Nécromancien	L'Ascension du Nécromancien																						
-Alliance Maudite	Alliance Maudite																						
-Le Spectre du Pouvoir	Le Spectre du Pouvoir																						
-																							
-																							
-ROLLOVER	ROLLOVER																						
-																							
-Recruit	Recruit																						
-Maximum																							
-Recruter																							
-Annuler																							
-																							
-Multiplayer	Multiplayer																						
-Valider	Cliquez sur ce bouton pour activer / désactiver le nom																						
-Nom du Joueur	Entrez le nom du joueur																						
-OK																							
-Retour																							
-Nom de la Partie																							
-Mot de Passe																							
-Nom de la Partie																							
-Indiquez l'adresse IP																							
-																							
-Sacrifice Window	Sacrifice Window																						
-Quitter (aucun sacrifice ne sera effectué)	Annuler le Sacrifice.	Tous les Artéfacts vous seront retournés.																						
-Artéfact Équipé																							
-Placer les artéfacts de la besace sur l'Autel	Les artéfacts contenus dans la besace du Héros sont placés sur l'Autel.																						
-Placer tous les artéfacts sur l'Autel	Tous les artéfacts du Héros sont placés sur l'Autel, qu'ils soient équipés ou dans la besace.																					
-Sacrifier des Créatures	Choisir de sacrifier des Créatures. Réservé aux Héros Neutres et Mauvais.																						
-Nombre de Créatures / Expérience																							
-Créatures Sélectionnées																							
-Nombre de Créatures / Expérience																							
-Nombre de créatures à sacrifier																							
-Déterminez le nombre de créatures à sacrifier																							
-Sacrifier autant de créatures que possible	Autant de créatures que possible sont placées sur l'Autel.																						
-Sacrifier toutes les créatures	Toutes les créatures sauf une sont placées sur l'Autel.																						
-Sacrifier des Artéfacts	Choisir de sacrifier des Artéfacts. Réservé aux Héros Neutres et Bons																						
-Nombre de Créatures / Expérience																							
-Placez ici un artéfact à sacrifier																						
-Expérience offerte pour le sacrifice																							
-Sacrifier les artéfacts	Sacrifier ce qui se trouve actuellement sur l'Autel contre des points d'expérience.																						
-Sacrifier les créatures	Sacrifier ce qui se trouve actuellement sur l'Autel contre des points d'expérience.																						
-	Chercher dans la besace.																						
-	Chercher dans la besace.																					
-																							
-Skeleton Transformer	Skeleton Transformer																						
-Placer toutes les créatures dans l'Ossuaire	Toutes les créatures du Héros sont placées dans l'Ossuaire.																						
-Transformer les créatures	Les créatures placées dans l'Ossuaire sont transformées en morts-vivants.																						
-Quitter	Quitter l'Ossuaire. Aucune créature n'est transformée.																						
-																							
-Trade Window	Trade Window																						
-Échanger																							
-Maximum																							
-Donner des Ressources à un autre Joueur																							
-Acheter des Artéfacts																							
-Vendre des Créatures																							
-Quitter																							
-																							
-Give Resource Window	Give Resource Window																						
-Échanger																							
-Maximum																							
-Échanger des Ressources																						
-Acheter des Artéfacts																							
-Quitter																							
-																							
-Buy Artifact Window	Buy Artifact Window																						
-Échanger																							
-Échanger des Ressources																							
-Donner des Ressources à un autre Joueur																							
-Vendre des Artéfacts																							
-Quitter																							
-																							
-Sell Artifact Window	Sell Artifact Window																						
-Échanger																							
-Échanger des Ressources																							
-Donner des Ressources à un autre Joueur																							
-Acheter des Artéfacts																							
-Quitter																							
-																							
-Sell Creature Window	Sell Creature Window																						
-Échanger																							
-Maximum																							
-Échanger des Ressources																							
-Donner des Ressources à un autre Joueur																							
-Quitter																							
-																							
-University Window	University Window																						
-Annuler	Revenir à la sélection d'une compétence.																						
-Quitter l'Université	Quitter l'Université.																						
-	Apprendre %s %s pour %d pièces d'or.																						
-Not used...  filthy bug.																							
-Insert all data before this line. Do not alter or delete this line.																							
-
-
-
-
-																							
+Elixir de Vie	Elixir de Vie	
+L'Ascension du Nécromancien	L'Ascension du Nécromancien		
+Alliance Maudite	Alliance Maudite	
+Le Spectre du Pouvoir	Le Spectre du Pouvoir	
+		
+		
+ROLLOVER	ROLLOVER	
+		
+Recruit	Recruit	
+Maximum		
+Recruter	
+Annuler		
+		
+Multiplayer	Multiplayer	
+Valider	Cliquez sur ce bouton pour activer / désactiver le nom		
+Nom du Joueur	Entrez le nom du joueur		
+OK		
+Retour		
+Nom de la Partie	
+Mot de Passe	
+Nom de la Partie	
+Indiquez l'adresse IP		
+		
+Sacrifice Window	Sacrifice Window	
+Quitter (aucun sacrifice ne sera effectué)	Annuler le Sacrifice.	Tous les Artéfacts vous seront retournés.	
+Artéfact Équipé		
+Placer les artéfacts de la besace sur l'Autel	Les artéfacts contenus dans la besace du Héros sont placés sur l'Autel.		
+Placer tous les artéfacts sur l'Autel	Tous les artéfacts du Héros sont placés sur l'Autel, qu'ils soient équipés ou dans la besace.	
+Sacrifier des Créatures	Choisir de sacrifier des Créatures. Réservé aux Héros Neutres et Mauvais.	
+Nombre de Créatures / Expérience	
+Créatures Sélectionnées		
+Nombre de Créatures / Expérience	
+Nombre de créatures à sacrifier		
+Déterminez le nombre de créatures à sacrifier		
+Sacrifier autant de créatures que possible	Autant de créatures que possible sont placées sur l'Autel.		
+Sacrifier toutes les créatures	Toutes les créatures sauf une sont placées sur l'Autel.		
+Sacrifier des Artéfacts	Choisir de sacrifier des Artéfacts. Réservé aux Héros Neutres et Bons	
+Nombre de Créatures / Expérience	
+Placez ici un artéfact à sacrifier	
+Expérience offerte pour le sacrifice		
+Sacrifier les artéfacts	Sacrifier ce qui se trouve actuellement sur l'Autel contre des points d'expérience.	
+Sacrifier les créatures	Sacrifier ce qui se trouve actuellement sur l'Autel contre des points d'expérience.	
+	Chercher dans la besace.		
+	Chercher dans la besace.	
+		
+Skeleton Transformer	Skeleton Transformer	
+Placer toutes les créatures dans l'Ossuaire	Toutes les créatures du Héros sont placées dans l'Ossuaire.	
+Transformer les créatures	Les créatures placées dans l'Ossuaire sont transformées en morts-vivants.	
+Quitter	Quitter l'Ossuaire. Aucune créature n'est transformée.	
+		
+Trade Window	Trade Window	
+Échanger	
+Maximum		
+Donner des Ressources à un autre Joueur		
+Acheter des Artéfacts		
+Vendre des Créatures		
+Quitter		
+		
+Give Resource Window	Give Resource Window	
+Échanger	
+Maximum		
+Échanger des Ressources		
+Acheter des Artéfacts		
+Quitter		
+		
+Buy Artifact Window	Buy Artifact Window	
+Échanger	
+Échanger des Ressources		
+Donner des Ressources à un autre Joueur		
+Vendre des Artéfacts	
+Quitter		
+		
+Sell Artifact Window	Sell Artifact Window	
+Échanger	
+Échanger des Ressources		
+Donner des Ressources à un autre Joueur		
+Acheter des Artéfacts	
+Quitter		
+		
+Sell Creature Window	Sell Creature Window	
+Échanger	
+Maximum		
+Échanger des Ressources		
+Donner des Ressources à un autre Joueur		
+Quitter		
+		
+University Window	University Window	
+Annuler	Revenir à la sélection d'une compétence.	
+Quitter l'Université	Quitter l'Université.	
+	Apprendre %s %s pour %d pièces d'or.	
+Not used...  filthy bug.		
+Insert all data before this line. Do not alter or delete this line.		
+		
+		
+		
+		
+		
