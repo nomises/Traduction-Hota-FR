@@ -38,7 +38,7 @@ Graal
 Hutte du Magicien
 Totem de Chance
 Cache
-
+	
 Bibliothèque d'Illumination
 Phare
 Portail Magique (Entrée)
@@ -215,8 +215,8 @@ Marché aux Esclaves
 Héros Crossover
 Gardien de Quête
 Demeure Aléatoire
-
-
+	
+	
 Garnison
 Mine
 Comptoir Commercial
