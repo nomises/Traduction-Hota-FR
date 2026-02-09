@@ -31,7 +31,7 @@ Vos éclaireurs rapportent que les bandes de mercenaires ne parviennent pas à s
 Name:
 Player 7-1
 Message:
-Vous avez détecté une source d'énergie magique émanant des souterrains. Cette aura doit marquer l'emplacement du site rituel dans la cité souterraine d'Eaglyre.Malheureusement, vos ennemis ont découvert le portail les premiers et l'ont scellé à l'aide de plusieurs clés. Pour les obtenir vous pouvez leur demander "poliment" de vous les céder.
+Vous avez détecté une source d'énergie magique émanant des souterrains. Cette aura doit marquer l'emplacement du site rituel dans la cité souterraine d'Eaglyre. Malheureusement, vos ennemis ont découvert le portail les premiers et l'ont scellé à l'aide de plusieurs clés. Pour les obtenir vous pouvez leur demander "poliment" de vous les céder.
 
 ===== Heroes =====
 
