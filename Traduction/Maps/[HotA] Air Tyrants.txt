@@ -21,7 +21,7 @@ Au fil de ces longues années sous terre, votre peuple n'a pas seulement survéc
 Name:
 day5
 Message:
-Vous avez collé votre oreille contre la pierre froide et entendu un fort bourdonnement mêlé à un mumure de voix. De retour au camp, après avoir étudié les cartes des souterrains, vous êtes arrivé à la seule conclusion possible : d'autres personnes vivaient dans votre voisinage, séparées de vous par une terre impénétrable.
+Vous avez collé votre oreille contre la pierre froide et entendu un fort bourdonnement mêlé à des murmures. De retour au camp, après avoir étudié les cartes des souterrains, vous êtes arrivé à la seule conclusion possible : d'autres personnes vivaient dans votre voisinage, séparées de vous par une terre impénétrable.
 
 Name:
 Day7
