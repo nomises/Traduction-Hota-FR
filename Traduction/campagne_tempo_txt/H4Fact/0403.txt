@@ -185,7 +185,6 @@ Apportez-moi un Dragon Squelette afin que je puisse le transformer en une créat
 Apportez-moi un Dragon Squelette afin que je puisse le transformer en une créature mort-vivante plus puissante.
 Remettez-vous un Dragon Squelette au Nécromancien afin qu'il le transforme en Dragon Fantôme ?
 
-
 (27, 54, 0) ***Seer's Hut***
 Message:
 Les mercenaires qui étaient auparavant au service de Dargem se sont arrêtés au camp des contrebandiers sur la rive de cette baie. Les pirates sont impatients de rejoindre votre armée, si vous leur versez 16 mercure, 16 cristaux et 15 000 pièces d'or.
@@ -200,7 +199,6 @@ Engager 15 pirates pour 32 mercure, 32 cristaux et 45 000 pièces d'or ?
 Les mercenaires qui étaient auparavant au service de Dargem se sont arrêtés au camp des contrebandiers sur le rivage de cette baie. Les pirates sont impatients de rejoindre votre armée, si vous leur versez 40 mercure, 40 cristaux et 60 000 pièces d'or.
 Les mercenaires qui étaient auparavant au service de Dargem se sont arrêtés au camp des contrebandiers sur le rivage de cette baie. Les pirates sont impatients de rejoindre votre armée, si vous leur payez 40 mercure, 40 cristaux et 60 000 pièces d'or.
 Engager 25 pirates pour 40 mercure, 40 cristaux et 60 000 pièces d'or ?
-
 
 (36, 24, 0) ***Sign***
 Message:
@@ -419,7 +417,6 @@ L'endroit a attiré votre attention de loin. Entourées d'énormes tas d'os, se 
 Il semble que les cyclopes soient toujours là, et que vous n'ayez rien qui puisse les intéresser.
 « Wyvernes ! » s'écrièrent les cyclopes avec joie. « Apportez-les nous, et nous vous donneront des Vers des Sables. »
 
-
 (56, 30, 0) ***Quest Guard***
 Message:
 Un groupe de liches garde l'entrée du canyon. Elles acceptent de vous laisser passer si vous trouvez un artefact, les Bottes du Passeur, qu'elles ont perdu lors d'une bataille contre les minotaures.
@@ -431,7 +428,6 @@ Message:
 Dans les montagnes, vous rencontrez un groupe d'elfes noirs en voyage. Ils semblent être à la recherche de quelque chose. « Je collectionne les décorations militaires rares », explique l'un d'eux. « On dit que pendant la guerre entre les ogres et les gobelins, plusieurs spécimens de grande valeur ont été perdus dans ces contrées. Si vous pouvez m'en trouver, mes amis et moi vous aiderons à gravir les montagnes. Sans guide expérimenté, vous allez y laisser votre peau. »	
  « Je vois que vous n'avez pas encore trouvé les décorations. Eh bien, nous allons rester dans les parages pendant un certain temps, vous pouvez donc prendre votre temps. »
 « Excellent ! Nous pouvons maintenant retourner à Alvar. Oh, oui, les montagnes... Suivez-moi, je vais vous montrer le chemin. Et soyez prudents, beaucoup de Dragons Fantômes ont été aperçus dans les environs. Ce doit être l'œuvre des nécromanciens exilés qui se sont installés dans ces terres. »        Voulez-vous vous rendre dans les montagnes ?
-
 
 (47, 19, 0) ***Seer's Hut***
 Message:
@@ -542,7 +538,6 @@ Il y a un camp de contrebandiers rats-garous plus loin ; ils ne vous laisseront 
 Dans le repaire des contrebandiers, vous pourriez vendre des artefacts, acheter des canons volés et même engager des mercenaires pour diverses tâches, mais les contrebandiers sont terrifiés par Dargem. Tant que le Capitaine Yzraal est là pour surveiller le repaire, il est hors de question de conclure des affaires.
 Apprenant votre victoire contre Yzraal, les contrebandiers acceptent de vous laisser passer. Souhaitez-vous passer ?	
 
-
 (32, 53, 0) ***Quest Guard***
 Message:
 Il y a un camp de contrebandiers rats-garous plus loin ; ils ne vous laisseront pas passer tant qu'Yzraal, l'un des capitaines de Dargem, sera dans les parages. Dargem exige que tous les profits de la contrebande lui reviennent exclusivement et inflige des punitions terribles à ceux qui osent lui désobéir. Yzraal est là pour servir de bras droit et d'exécuteur de ses « jugements ».
@@ -619,7 +614,6 @@ Dépenser les ressources et reconstruire la structure ?
 Message:
 Après toutes les histoires que j'avais entendues sur le sinistre vengeur mortel, je m'attendais à tout en le rencontrant, sauf à tomber sur un personnage aussi... bavard. Lorsque je suis entré dans la salle où Boyd était assis, il s'est lancé dans une tirade ponctuée de jurons, quelque chose à propos de son appréciation sans fin pour les invités indésirables. Cependant, dès qu'il m'a vu de plus près, il s'est mis à me couvrir de compliments, de plaisanteries et de blagues à la limite de la vulgarité. Même la lumière dans l'une de ses orbites s'éteignait de temps en temps, comme s'il me faisait un clin d'œil.		Mais peu de temps après, Boyd a subi une transformation soudaine, dès que j'ai mentionné Dargem. Jusqu'à ce moment-là, je pouvais fermer les yeux et m'imaginer facilement en train de parler à un homme joyeux, débordant d'énergie et d'enthousiasme pour tout ce qui l'entourait ; mais lorsque le nom de Dargem fut prononcé, les orbites de Boyd devinrent des cavités sombres, sa riche voix de baryton fit place au sifflement d'un vent froid mêlé au cliquetis des os, et ses doigts se mirent à gratter les accoudoirs de sa chaise avec un craquement écœurant.		« Ssssi tu veux descendre ce rat d'égout puant, je ferai tout pour t'aider. Il ne sssait pas ce que je suis devenu à cause de lui, quel pouvoir j'ai acquis grâce aux émanations de tourment incrusssstées dans mes os. Mais promets-moi une chose : une fois que nous aurons acculé ce misérable, tu me laissssseras m'occuper de lui ! Beaucoup de temps s'est écoulé depuis mon passsssage ssssur ssson navire, et il est devenu bien plus qu'un simple capitaine ambitieux : il possède désormais ssson propre petit royaume de brigands qu'il appelle une "principauté". Il ne mettra pas un pied hors de sssson château s'il ssssait que nous ssssommes à ses trousssssses, mais dès que nous lui marcherons sur les talons... Il va ssse mettre à couper et à changer. Et c'est là que nous passsssserons à l'action ».		Pour la première fois de ma vie, j'ai senti mes pieds se glacer. Je comprenais maintenant comment ces histoires de vengeurs morts effrayants avaient vu le jour. En effet : on ne l'avait vu que lorsqu'il était à la recherche de son meurtrier, et dans cet état, il était vraiment impressionnant. Bien sûr, personne n'avait jamais essayé de rendre visite à Boyd dans son manoir mortuaire, et personne ne savait à quel point cette âme était tourmentée et comment il mourait à nouveau chaque fois qu'il était contraint de se souvenir de ses derniers jours entre les mains de ce misérable sans pitié.
 
-
 (60, 56, 0) ***Quest Guard***
 Message:
 Il y a une forteresse pirate dans les terres orientales. Nous devons la capturer avant de pouvoir continuer à explorer ces terres.
@@ -686,4 +680,5 @@ Cet avant-poste est gardé par une importante bande de pirates. Peut-être que c
 Cet avant-poste est gardé par une importante bande de pirates. Peut-être que certains d'entre eux s'enfuiront si nous vainquons Dargem ?
 Les pirates se sont retirés dans leur forteresse. Certains d'entre eux, après avoir appris la défaite de Dargem, ont embarqué sur des navires et ont fui l'île.        Souhaitez-vous vous rendre à la forteresse ?
 
+===== Extended Events =====
 ===== End of file =====

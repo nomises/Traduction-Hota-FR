@@ -75,4 +75,5 @@ Par {F a t a l i s t}
 Message:
 Attention ! Mines toxiques à proximité. Une exposition prolongée est dangereuse.
 
+===== Extended Events =====
 ===== End of file =====

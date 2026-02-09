@@ -37,7 +37,7 @@ Message:
 Timed events:
 
 Name:
-Стройка
+РЎС‚СЂРѕР№РєР°
 Message:
 
 
@@ -64,7 +64,7 @@ It seems a treasure is buried here!
 Timed events:
 
 Name:
-Стройка
+РЎС‚СЂРѕР№РєР°
 Message:
 
 
@@ -73,7 +73,7 @@ Message:
 Timed events:
 
 Name:
-Стройка
+РЎС‚СЂРѕР№РєР°
 Message:
 
 
@@ -86,7 +86,7 @@ The lid of a chest is sticking out of the sand. It seems that someone wanted to 
 Timed events:
 
 Name:
-Стройка
+РЎС‚СЂРѕР№РєР°
 Message:
 
 

@@ -11,7 +11,7 @@ For years, your country has been attacked by air pirates. There were no means of
 Name:
 day1
 Message:
-For decades, air pirates had been terrorizing the surface world. They descended from above the clouds in their airships, robbing and killing anyone they could find. Centuries ago, your defenseless people fled to the only safe place they could find—the underground caves where the airships could not reach them. 
+For decades, air pirates had been terrorizing the surface world. They descended from above the clouds in their airships, robbing and killing anyone they could find. Centuries ago, your defenseless people fled to the only safe place they could findâ€”the underground caves where the airships could not reach them. 
 
 Name:
 day1.1
