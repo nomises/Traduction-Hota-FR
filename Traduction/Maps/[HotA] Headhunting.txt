@@ -165,7 +165,7 @@ Enchanteurs !
 
 (6, 33, 0) ***Event***
 Message:
-Enchanteurs!
+Enchanteurs !
 
 (10, 28, 0) ***Event***
 Message:
