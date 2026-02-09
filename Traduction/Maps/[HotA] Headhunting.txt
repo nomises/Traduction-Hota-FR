@@ -169,7 +169,7 @@ Enchanteurs!
 
 (10, 28, 0) ***Event***
 Message:
-Enchanteurs!
+Enchanteurs !
 
 (49, 13, 0) ***Event***
 Message:
