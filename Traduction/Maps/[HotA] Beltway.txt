@@ -57,7 +57,7 @@ Bidley ! Mon vieil ami ! Tant d'années, tant de tempêtes depuis notre dernièr
 
 (10, 66, 0) ***Event***
 Message:
-On dirait qu'il y a un trésor!
+On dirait qu'il y a un trésor enterré ici !
 
 (46, 41, 0) ***Random Town***
 
