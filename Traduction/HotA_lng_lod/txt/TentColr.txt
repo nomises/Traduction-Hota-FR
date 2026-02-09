@@ -1,8 +1,8 @@
-Bleu pâle
-Vert
-Rouge
-Bleu foncé
-Brun
-Violet
-Blanc
-Noir 
+Light blue
+Green
+Red
+Dark blue
+Brown
+Purple
+White
+Black
