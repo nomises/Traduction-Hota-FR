@@ -9,12 +9,12 @@ Once upon a time, there was a magical city in this beautiful valley. However, a 
 ===== Timed events =====
 
 Name:
-- ресы у врагов
+- СЂРµСЃС‹ Сѓ РІСЂР°РіРѕРІ
 Message:
 
 
 Name:
-+ 3к врагам
++ 3Рє РІСЂР°РіР°Рј
 Message:
 
 
@@ -27,7 +27,7 @@ Message:
 Timed events:
 
 Name:
-ИИ - бонус
+РР - Р±РѕРЅСѓСЃ
 Message:
 
 
@@ -40,7 +40,7 @@ Message:
 Timed events:
 
 Name:
-ИИ - бонус
+РР - Р±РѕРЅСѓСЃ
 Message:
 
 
@@ -57,7 +57,7 @@ Message:
 Timed events:
 
 Name:
-ИИ - бонус
+РР - Р±РѕРЅСѓСЃ
 Message:
 
 
@@ -66,7 +66,7 @@ Message:
 Timed events:
 
 Name:
-ИИ - бонус
+РР - Р±РѕРЅСѓСЃ
 Message:
 
 
@@ -80,23 +80,23 @@ Beware the quicksand!
 
 (13, 11, 0) ***Event***
 Message:
-ИИ - бонус сложности
+РР - Р±РѕРЅСѓСЃ СЃР»РѕР¶РЅРѕСЃС‚Рё
 
 (68, 9, 0) ***Event***
 Message:
-ИИ - бонус сложности
+РР - Р±РѕРЅСѓСЃ СЃР»РѕР¶РЅРѕСЃС‚Рё
 
 (65, 45, 0) ***Event***
 Message:
-ИИ - бонус сложности
+РР - Р±РѕРЅСѓСЃ СЃР»РѕР¶РЅРѕСЃС‚Рё
 
 (15, 57, 0) ***Event***
 Message:
-ИИ - бонус сложности
+РР - Р±РѕРЅСѓСЃ СЃР»РѕР¶РЅРѕСЃС‚Рё
 
 (12, 31, 0) ***Event***
 Message:
-ИИ - бонус сложности
+РР - Р±РѕРЅСѓСЃ СЃР»РѕР¶РЅРѕСЃС‚Рё
 
 (1, 17, 0) ***Pandora's Box***
 Message:
@@ -107,7 +107,7 @@ Message:
 Timed events:
 
 Name:
-ИИ - бонус
+РР - Р±РѕРЅСѓСЃ
 Message:
 
 

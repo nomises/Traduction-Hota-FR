@@ -603,12 +603,12 @@ Options Avancées
 "Choisissez un nom, un handicap et les options de départ de chaque joueur."
 "Nom du Joueur
 Handicap"
-"Départ
-Ville"
-"Départ
-Héros"
-"Départ
-Bonus"
+"Ville de
+Départ"
+"Héros de
+Départ"
+"Bonus de
+Départ"
 Durée Maximale d'un Tour
 Aléatoire
 Aucun

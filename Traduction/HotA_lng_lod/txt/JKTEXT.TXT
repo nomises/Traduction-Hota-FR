@@ -6,7 +6,8 @@ Savoir
 {Spécialité}
 {Expérience}
 {Points Magie}
-Livre des Quêtes
+Livre des 
+Quêtes
 "Renvoyer
 Héros"
 Overview Window
