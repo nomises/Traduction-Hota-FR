@@ -1,8 +1,8 @@
 ===== Map name =====
-Le maÃ®tre de l'Ã®le
+Le maître de l'île
 
 ===== Map description =====
-Pour vous assurer la victoire, vous devez vous emparer de toutes les demeures. Bien que limitÃ© au niveau 12, Jeremy sera prÃ©sent dans le prochain Ã©pisode de la campagne.
+Pour vous assurer la victoire, vous devez vous emparer de toutes les demeures. Bien que limité au niveau 12, Jeremy sera présent dans le prochain épisode de la campagne.
 
 ===== Rumors =====
 
@@ -11,37 +11,37 @@ Pour vous assurer la victoire, vous devez vous emparer de toutes les demeures. B
 Name:
 Day 1
 Message:
-Le pavillon du Jolly Roger flottait fiÃ¨rement au sommet d'Utopia. Moi et mes amis n'avions pas bougÃ© de cet endroit depuis des jours. Hum... Ã  bien y rÃ©flÃ©chir, cela avait certainement un lien avec toutes ces bouteilles de rhum de noix de coco... Mais d'un autre cÃ´tÃ©, gaspiller ce bon alcool aurait Ã©tÃ© inconvenant. Oh... et puis au diable les soucis.	"Capitaine, un dÃ©tachement de gnolls approche !" cria l'un des gardes en faction sur les murs. 	"Tirez sur ces bÃ¢tards pour en finir," grognai-je alors en brisant ma bouteille vide.	"Ils... ils viennent en brandissant un drapeau blancÂ ! prÃ©cisa le garde Ã©tonnÃ©. 	Je m'essuyai les lÃ¨vres sur la manche de mon surcot en soupirant : "Laissez entrer leur chef, nous allons voir ce qu'ils nous veulent.â€	S'agissait-il d'une diversion ? Impossible de le savoir. Moi et ma bande de gredins avions dÃ©jÃ  vu d'autres gnolls avant lui, mais quelque chose de singulier Ã©manait de celui-lÃ  alors qu'il entrait dans le fort. Il Ã©tait protÃ©gÃ© par une cotte de mailles, portait une Ã©pÃ©e Ã  la ceinture et n'exhibait pas de breloques en tout genre, une habitude pourtant chez cette espÃ¨ce. Non, celui-ci Ã©tait bien diffÃ©rent des autres. Me rappelant ma derniÃ¨re conversation avec un gnoll, je demandai sarcastiquement : 	"Parlez-vous l'Ã©rathien ?" 	"Oui, je me dÃ©brouille," rÃ©torqua la crÃ©ature. "Dans ce cas, dites-moi ce que vous voulez et repartez aussitÃ´t." 	Le gnoll, sâ€™Ã©claircit la gorge et se prÃ©sentaÂ : "Mon nom est Alkin. Je suis le chef de la plus importante tribu gnoll de cette Ã®le," dit-il en regardant la bouteille cassÃ©e que je tenais dans la main. 	"Je suis Jeremy Albatross, commandant de ce fort," rÃ©pliquai-je. Le gnoll dÃ©crocha son regard perÃ§ant de mon flacon brisÃ© puis scruta les bÃ¢timents environnants. 	"Vous appelez Ã§a des fortificationsÂ ? Allons, ne me faites pas rire," poursuivit le gnoll en Ã©tirant sa tÃªte pour lÃ©cher l'arriÃ¨re de son Ã©paule. 	"Si une de mes armÃ©es vous attaquait, vous et votre fort seriez dÃ©faits rapidement." 	"Est-ce une menace ?" rÃ©torquai-je alors, impassible.  	"Absolument pas. Je me prÃ©senteÂ Ã  vous pour deux raisons : je vous propose de faire une alliance et de vous prodiguer par la mÃªme occasion quelques bons conseils." 	Il y eut un bref moment de silence. 	â€œUne alliance," ripostai-je en riant. "Vous entendez les gars ? Les gnolls proposent une alliance !" mâ€™Ã©criai-je en me tournant vers mes flibustiers. Tous se mirent alors Ã  rire de bon cÅ“ur. Faisant de nouveau face Ã  mon interlocuteur, je repris plus sÃ¨chement : "Vous savez, j'ai beau chercher, je ne vois aucune raison de m'allier Ã  vous." 	â€œJe suis Alkin,â€ reprit le gnoll calmement. "Il y a de solides raisons pour sceller une alliance, mais pour l'instant vous ne parvenez pas encore Ã  les comprendre. Si nous n'agissons pas ensemble, cette terre si riche va se changer rapidement en une zone de guerre dÃ©vastÃ©e. Il vaudrait mieux faire face Ã  la menace en tant quâ€™alliÃ©s. Vous ne pouvez pas quitter l'Ã®le de toute faÃ§on," conclut-il. 	"Et quelle est donc cette menace qui plane sur l'Ã®le ?" sifflai-je.	"Un de nos shamans a eu des visions. Il y voyait des hordes de monstres Ã  cornes au service des Kreegans envahissant ces terres. Je suis convaincu qu'ils finiront par arriver ici tÃ´t ou tard. Eeofol est trÃ¨s proche voyez-vous, et cette Ã®le est l'endroit parfait pour mener des attaques contre les navires d'Erathia et leurs alliÃ©s."	"Comment Ãªtes-vous si bien informÃ© de ce qui se passe Ã  l'extÃ©rieur de l'Ã®le ?" demandai-je, en prenant une gorgÃ©e d'une nouvelle bouteille de rhum qu'un de mes gardes me tendit.	"Le temps des questions est rÃ©volu," Ã©courta le gnoll d'un air impatient. "Je vous suggÃ¨re d'arrÃªter de boire et de rassembler tous les habitants prÃªts Ã  combattre sous votre drapeau. Cela rendra service Ã  notre cause commune." 	"Ã‰coutez Alkin, pourquoi devrions-nous risquer nos vies Ã  travers ces dangereux marÃ©cages ? Si les Kreegans viennent, nous saurons les contrer." 	IrritÃ© par mon comportement, le gnoll me fixa un long moment avant de rÃ©pliquerÂ : "Ils seront trÃ¨s nombreux, accompagnÃ©s de sorciers et de crÃ©atures magiques. Tout ce que vous avez Ã  leur opposer est un groupe de mercenaires. RÃ©flÃ©chissez bien Ã  mon offre.â€	Sur ces derniÃ¨res paroles, Alkin prit congÃ©.
+Le pavillon du Jolly Roger flottait fièrement au sommet d'Utopia. Moi et mes amis n'avions pas bougé de cet endroit depuis des jours. Hum... à bien y réfléchir, cela avait certainement un lien avec toutes ces bouteilles de rhum de noix de coco... Mais d'un autre côté, gaspiller ce bon alcool aurait été inconvenant. Oh... et puis au diable les soucis.	"Capitaine, un détachement de gnolls approche !" cria l'un des gardes en faction sur les murs. 	"Tirez sur ces bâtards pour en finir," grognai-je alors en brisant ma bouteille vide.	"Ils... ils viennent en brandissant un drapeau blanc ! précisa le garde étonné. 	Je m'essuyai les lèvres sur la manche de mon surcot en soupirant : "Laissez entrer leur chef, nous allons voir ce qu'ils nous veulent.”	S'agissait-il d'une diversion ? Impossible de le savoir. Moi et ma bande de gredins avions déjà vu d'autres gnolls avant lui, mais quelque chose de singulier émanait de celui-là alors qu'il entrait dans le fort. Il était protégé par une cotte de mailles, portait une épée à la ceinture et n'exhibait pas de breloques en tout genre, une habitude pourtant chez cette espèce. Non, celui-ci était bien différent des autres. Me rappelant ma dernière conversation avec un gnoll, je demandai sarcastiquement : 	"Parlez-vous l'érathien ?" 	"Oui, je me débrouille," rétorqua la créature. "Dans ce cas, dites-moi ce que vous voulez et repartez aussitôt." 	Le gnoll, s’éclaircit la gorge et se présenta : "Mon nom est Alkin. Je suis le chef de la plus importante tribu gnoll de cette île," dit-il en regardant la bouteille cassée que je tenais dans la main. 	"Je suis Jeremy Albatross, commandant de ce fort," répliquai-je. Le gnoll décrocha son regard perçant de mon flacon brisé puis scruta les bâtiments environnants. 	"Vous appelez ça des fortifications ? Allons, ne me faites pas rire," poursuivit le gnoll en étirant sa tête pour lécher l'arrière de son épaule. 	"Si une de mes armées vous attaquait, vous et votre fort seriez défaits rapidement." 	"Est-ce une menace ?" rétorquai-je alors, impassible.  	"Absolument pas. Je me présente à vous pour deux raisons : je vous propose de faire une alliance et de vous prodiguer par la même occasion quelques bons conseils." 	Il y eut un bref moment de silence. 	“Une alliance," ripostai-je en riant. "Vous entendez les gars ? Les gnolls proposent une alliance !" m’écriai-je en me tournant vers mes flibustiers. Tous se mirent alors à rire de bon cœur. Faisant de nouveau face à mon interlocuteur, je repris plus sèchement : "Vous savez, j'ai beau chercher, je ne vois aucune raison de m'allier à vous." 	“Je suis Alkin,” reprit le gnoll calmement. "Il y a de solides raisons pour sceller une alliance, mais pour l'instant vous ne parvenez pas encore à les comprendre. Si nous n'agissons pas ensemble, cette terre si riche va se changer rapidement en une zone de guerre dévastée. Il vaudrait mieux faire face à la menace en tant qu’alliés. Vous ne pouvez pas quitter l'île de toute façon," conclut-il. 	"Et quelle est donc cette menace qui plane sur l'île ?" sifflai-je.	"Un de nos shamans a eu des visions. Il y voyait des hordes de monstres à cornes au service des Kreegans envahissant ces terres. Je suis convaincu qu'ils finiront par arriver ici tôt ou tard. Eeofol est très proche voyez-vous, et cette île est l'endroit parfait pour mener des attaques contre les navires d'Erathia et leurs alliés."	"Comment êtes-vous si bien informé de ce qui se passe à l'extérieur de l'île ?" demandai-je, en prenant une gorgée d'une nouvelle bouteille de rhum qu'un de mes gardes me tendit.	"Le temps des questions est révolu," écourta le gnoll d'un air impatient. "Je vous suggère d'arrêter de boire et de rassembler tous les habitants prêts à combattre sous votre drapeau. Cela rendra service à notre cause commune." 	"Écoutez Alkin, pourquoi devrions-nous risquer nos vies à travers ces dangereux marécages ? Si les Kreegans viennent, nous saurons les contrer." 	Irrité par mon comportement, le gnoll me fixa un long moment avant de répliquer : "Ils seront très nombreux, accompagnés de sorciers et de créatures magiques. Tout ce que vous avez à leur opposer est un groupe de mercenaires. Réfléchissez bien à mon offre.”	Sur ces dernières paroles, Alkin prit congé.
 
 Name:
 Day 2
 Message:
-Je pris la dÃ©cision de parler Ã  Patris de l'offre des gnolls.	Ce dernier pesa le pour et le contre avant de dÃ©clarerÂ : "Vous savez capitaine, indÃ©pendamment de ce que dit Alkin, il y a un point important Ã  prendre en considÃ©ration. Nous devons gagner la confiance des habitants. D'ailleurs les bandits et les contrebandiers de l'Ã®le songent sÃ©rieusement Ã  nous rejoindre. Il ne nous reste plus qu'Ã  leur trouver de la place dans Utopia." "Moins il y aura d'embuscades et plus nous serons sereins, j'en conviens," acquiesÃ§ai-je. "Encore une chose, Patris : Ordonne aux hommes de mettre Ã  l'abri nos rÃ©serves de rhum aussi loin que possible." 	"Tiens doncÂ ! Pourquoi Ã§a ?" demanda Patris, sous le coup de l'Ã©tonnement.	"Parce qu'il m'a dÃ©clenchÃ© un mal de tÃªte terrible."
+Je pris la décision de parler à Patris de l'offre des gnolls.	Ce dernier pesa le pour et le contre avant de déclarer : "Vous savez capitaine, indépendamment de ce que dit Alkin, il y a un point important à prendre en considération. Nous devons gagner la confiance des habitants. D'ailleurs les bandits et les contrebandiers de l'île songent sérieusement à nous rejoindre. Il ne nous reste plus qu'à leur trouver de la place dans Utopia." "Moins il y aura d'embuscades et plus nous serons sereins, j'en conviens," acquiesçai-je. "Encore une chose, Patris : Ordonne aux hommes de mettre à l'abri nos réserves de rhum aussi loin que possible." 	"Tiens donc ! Pourquoi ça ?" demanda Patris, sous le coup de l'étonnement.	"Parce qu'il m'a déclenché un mal de tête terrible."
 
 Name:
 Day 7
 Message:
-Les Ã©claireurs rapportent qu'ils ont repÃ©rÃ© prÃ¨s d'Utopia de petites crÃ©atures Ã  grandes oreilles ressemblant Ã  des lutins. Si c'est vrai, cela pourrait signifier que les Kreegans prÃ©parent une invasion.
+Les éclaireurs rapportent qu'ils ont repéré près d'Utopia de petites créatures à grandes oreilles ressemblant à des lutins. Si c'est vrai, cela pourrait signifier que les Kreegans préparent une invasion.
 
 Name:
 Day 14
 Message:
-Alkin m'a encore rendu visite aujourd'hui, mais il est venu seul cette fois. 	"Je vois que tu as suivi mon conseil. Tu as pris la bonne dÃ©cision. Des familiers, des dÃ©mons et des effrits ont Ã©tÃ© repÃ©rÃ©s non loin de notre campement. Ils ne forment pas encore ce qu'on appelle une armÃ©e : il s'agit juste de l'avant-garde chargÃ©e de faire du repÃ©rage, d'Ã©laborer une stratÃ©gie," prÃ©vient Alkin.	"Ã‰coute, dis-je hÃ©sitant, j'Ã©tais... Ã  moitiÃ© saoul la premiÃ¨re fois que nous avons parlÃ©, alors je te le demande Ã  nouveau : comment peux-tu Ãªtre sÃ»r de tout ce que tu avances ?" 	"Eh bien, je suis un ancien sergent de l'armÃ©e de Tatalian,â€ dit Alkin en souriant, l'air malicieux.	Et avant que j'ai pu lui demander autre chose, il avait dÃ©jÃ  regagnÃ© la jungle.
+Alkin m'a encore rendu visite aujourd'hui, mais il est venu seul cette fois. 	"Je vois que tu as suivi mon conseil. Tu as pris la bonne décision. Des familiers, des démons et des effrits ont été repérés non loin de notre campement. Ils ne forment pas encore ce qu'on appelle une armée : il s'agit juste de l'avant-garde chargée de faire du repérage, d'élaborer une stratégie," prévient Alkin.	"Écoute, dis-je hésitant, j'étais... à moitié saoul la première fois que nous avons parlé, alors je te le demande à nouveau : comment peux-tu être sûr de tout ce que tu avances ?" 	"Eh bien, je suis un ancien sergent de l'armée de Tatalian,” dit Alkin en souriant, l'air malicieux.	Et avant que j'ai pu lui demander autre chose, il avait déjà regagné la jungle.
 
 Name:
 Day 20
 Message:
-"Capitaine !" hÃ©la Patris en pointant du doigt le couvert des arbres. "Je viens de voir ce qui ressemblait Ã  un grand oiseau au-dessus de la jungle. Seulement, il Ã©tait recouvert d'Ã©cailles et non de plumes," ajouta-t-il les sourcils froncÃ©s.	"C'est probablement un drac," rÃ©pondis-je. 	"Vous savez capitaine, peut-Ãªtre pourrions-nous nous en servir comme les seigneurs d'Erathia utilisent les griffons." Pensif, je devais bien avouer que cette idÃ©e me plaisait. Et nous avions besoin de troupes par dessus le marchÃ©. 	"Il nous faut trouver les nids de ces oiseaux et les apprivoiser," suggÃ©rai-je. "S'ils sont de nature docile, nous pourrions mÃªme en faire l'Ã©levage plus tard."
+"Capitaine !" héla Patris en pointant du doigt le couvert des arbres. "Je viens de voir ce qui ressemblait à un grand oiseau au-dessus de la jungle. Seulement, il était recouvert d'écailles et non de plumes," ajouta-t-il les sourcils froncés.	"C'est probablement un drac," répondis-je. 	"Vous savez capitaine, peut-être pourrions-nous nous en servir comme les seigneurs d'Erathia utilisent les griffons." Pensif, je devais bien avouer que cette idée me plaisait. Et nous avions besoin de troupes par dessus le marché. 	"Il nous faut trouver les nids de ces oiseaux et les apprivoiser," suggérai-je. "S'ils sont de nature docile, nous pourrions même en faire l'élevage plus tard."
 
 Name:
 Day 28
 Message:
-Nos Ã©claireurs nous rapportent des informations inquiÃ©tantes. Au milieu de la nuit derniÃ¨re, au cÅ“ur de la jungle, des lumiÃ¨res et des sons Ã©tranges se sont manifestÃ©s. Et durant la matinÃ©e suivante, nos soldats ont trouvÃ© des corps Ã  moitiÃ© dÃ©chiquetÃ©s reposant sur des autels. Il s'agissait assurÃ©ment d'une forme de rituel inconnu. Certaines rumeurs nous laissent Ã  penser que les Kreegans Å“uvrent dÃ©jÃ  en secret afin d'ouvrir une porte sur l'enfer pour invoquer des foules de crÃ©atures dÃ©moniaques comme des familiers ou encore des cerbÃ¨res. Je dois l'avouerÂ : cela me donne la chair de poule.
+Nos éclaireurs nous rapportent des informations inquiétantes. Au milieu de la nuit dernière, au cœur de la jungle, des lumières et des sons étranges se sont manifestés. Et durant la matinée suivante, nos soldats ont trouvé des corps à moitié déchiquetés reposant sur des autels. Il s'agissait assurément d'une forme de rituel inconnu. Certaines rumeurs nous laissent à penser que les Kreegans œuvrent déjà en secret afin d'ouvrir une porte sur l'enfer pour invoquer des foules de créatures démoniaques comme des familiers ou encore des cerbères. Je dois l'avouer : cela me donne la chair de poule.
 
 Name:
 Day 42
 Message:
-Soudain je ressentis une douleur derriÃ¨re la tÃªte. Je me retournai aussitÃ´t et j'aperÃ§us alors Alkin, assis sur un rocher. Il tenait une poignÃ©e de noix dans sa main.	"L'enfer t'attend pirate !" dit-il, l'air amusÃ©, en me jetant une autre noix que j'esquivai aisÃ©ment. "Selon nos derniÃ¨res informations, les navires Kreegans seront ici dans environ un mois. Tout le monde se prÃ©pare Ã  une invasion." 	"Du calme, essayons d'agir au mieux dans cette Ã©ventualitÃ©," suggÃ©rai-je. 	"Au mieux ?" rÃ©pÃ©ta Alkin, se relevant. Il me scruta de son regard perÃ§ant avant de dÃ©clarerÂ : "Alors j'espÃ¨re qu'Ã  notre prochaine rencontre, vous et moi serons Ã  la tÃªte de deux armÃ©es alliÃ©es, dÃ©fendant la mÃªme cause."
+Soudain je ressentis une douleur derrière la tête. Je me retournai aussitôt et j'aperçus alors Alkin, assis sur un rocher. Il tenait une poignée de noix dans sa main.	"L'enfer t'attend pirate !" dit-il, l'air amusé, en me jetant une autre noix que j'esquivai aisément. "Selon nos dernières informations, les navires Kreegans seront ici dans environ un mois. Tout le monde se prépare à une invasion." 	"Du calme, essayons d'agir au mieux dans cette éventualité," suggérai-je. 	"Au mieux ?" répéta Alkin, se relevant. Il me scruta de son regard perçant avant de déclarer : "Alors j'espère qu'à notre prochaine rencontre, vous et moi serons à la tête de deux armées alliées, défendant la même cause."
 
 ===== Heroes =====
 
@@ -49,15 +49,15 @@ Soudain je ressentis une douleur derriÃ¨re la tÃªte. Je me retournai aussitÃ´t e
 
 (39, 27, 0) ***Seer's Hut***
 Message:
-Un vieil ogre fatiguÃ© vit dans cette demeure. Il vous explique qu'il aime raconter les histoires de sa jeunesse, mais qu'il n'y a malheureusement personne pour l'Ã©couter. Si vous lui offrez 4 jeunes ogres pour lui tenir compagnie et entendre ses histoires, il vous rÃ©compensera avec son Gourdin Massacreur.
-Le vieil ogre en est toujours au mÃªme point, il n'a personne Ã  qui raconter ses histoires de jeunesse. Il attend avec impatience celui qui lui offrira 4 auditeurs.
-Le vieil ogre est plein d'enthousiasme en vous voyant avec 4 jeunes ogres prÃªts Ã  Ã©couter ses exploits passÃ©s. Comme il n'a plus besoin de son Gourdin Massacreur, il vous l'offre avec plaisir.
+Un vieil ogre fatigué vit dans cette demeure. Il vous explique qu'il aime raconter les histoires de sa jeunesse, mais qu'il n'y a malheureusement personne pour l'écouter. Si vous lui offrez 4 jeunes ogres pour lui tenir compagnie et entendre ses histoires, il vous récompensera avec son Gourdin Massacreur.
+Le vieil ogre en est toujours au même point, il n'a personne à qui raconter ses histoires de jeunesse. Il attend avec impatience celui qui lui offrira 4 auditeurs.
+Le vieil ogre est plein d'enthousiasme en vous voyant avec 4 jeunes ogres prêts à écouter ses exploits passés. Comme il n'a plus besoin de son Gourdin Massacreur, il vous l'offre avec plaisir.
 
 (31, 40, 0) ***Seer's Hut***
 Message:
-Un gnoll hydromancien occupe ce lieu et a besoin d'aide pour mener Ã  bien une expÃ©rience. Il a mis au point un rituel magique qui permet d'invoquer des crÃ©atures aquatiques. Il ne lui reste plus qu'Ã  mettre la main sur le Pendentif de Vie pour mettre en Å“uvre son projet.
-L'hydromancien en est absolument certain, le Pendentif de Vie se trouve quelque part sur l'Ã®le. Et il espÃ¨re que vous lui rapporterez cet artÃ©fact.
-Heureux de constater que vous avez l'artÃ©fact avec vous, l'hydromancien place l'objet au centre d'un cercle magique, et commence son rituel. Soudain un vortex s'ouvre sur un plan d'eau, d'oÃ¹ Ã©mergent des nymphes. 
+Un gnoll hydromancien occupe ce lieu et a besoin d'aide pour mener à bien une expérience. Il a mis au point un rituel magique qui permet d'invoquer des créatures aquatiques. Il ne lui reste plus qu'à mettre la main sur le Pendentif de Vie pour mettre en œuvre son projet.
+L'hydromancien en est absolument certain, le Pendentif de Vie se trouve quelque part sur l'île. Et il espère que vous lui rapporterez cet artéfact.
+Heureux de constater que vous avez l'artéfact avec vous, l'hydromancien place l'objet au centre d'un cercle magique, et commence son rituel. Soudain un vortex s'ouvre sur un plan d'eau, d'où émergent des nymphes. 
 
 (29, 24, 0) ***Harpy Hag***
 Message:
@@ -65,31 +65,31 @@ E-e-e-e-k!
 
 (67, 3, 0) ***Black Dragon***
 Message:
-"D'oÃ¹ vient ce hurlement horrible ?" cria un des membre d'Ã©quipage, paniquÃ©. "Sauve-qui-peut, ce sont des dragons !" 	"Restez calmes et imaginez que vous Ãªtes de braves chevaliers sans peurs et sans reproches," dis-je alors en leur ordonnant de saisir leurs sabres.
+"D'où vient ce hurlement horrible ?" cria un des membre d'équipage, paniqué. "Sauve-qui-peut, ce sont des dragons !" 	"Restez calmes et imaginez que vous êtes de braves chevaliers sans peurs et sans reproches," dis-je alors en leur ordonnant de saisir leurs sabres.
 
 (17, 70, 0) ***Event***
 Message:
-Soudain, un groupe de pirates surgit de derriÃ¨re les rÃ©cifs. 	"Rendez-vous ! Vous n'Ãªtes pas de taille contre nous," cria l'un d'eux en ordonnant Ã  ses hommes de monter Ã  bord du navire.
+Soudain, un groupe de pirates surgit de derrière les récifs. 	"Rendez-vous ! Vous n'êtes pas de taille contre nous," cria l'un d'eux en ordonnant à ses hommes de monter à bord du navire.
 
 (28, 12, 0) ***Stormbird***
 Message:
-Ã€ en juger par leurs crissements continuels et leurs tentatives pour Ã©borgner notre Ã©quipage, il est Ã©vident que les dracs ne sont pas prÃªts Ã  nous suivre.
+À en juger par leurs crissements continuels et leurs tentatives pour éborgner notre équipage, il est évident que les dracs ne sont pas prêts à nous suivre.
 
 (28, 2, 0) ***Ayssid***
 Message:
-Les dracs, sÃ»rement habituÃ©s Ã  cÃ´toyer des pirates, semblent dÃ©sireux de se battre Ã  nos cÃ´tÃ©s.
+Les dracs, sûrement habitués à côtoyer des pirates, semblent désireux de se battre à nos côtés.
 
 (5, 1, 0) ***Chaos Hydra***
 Message:
-D'affreuses crÃ©atures Ã©mergent lentement des marÃ©cages, nous foudroyant du regard avec leurs multiples tÃªtes.
+D'affreuses créatures émergent lentement des marécages, nous foudroyant du regard avec leurs multiples têtes.
 
 (71, 38, 0) ***Gog***
 Message:
-Nous avons dÃ©couvert l'un des avant-postes des Kreegans et nous devons le dÃ©truire immÃ©diatement.
+Nous avons découvert l'un des avant-postes des Kreegans et nous devons le détruire immédiatement.
 
 (34, 26, 0) ***Goblin***
 Message:
-"L'homme au bÃ¢ton qui lance des Ã©clairs a tuÃ© notre chef. Nous allons tuer l'homme au bÃ¢ton et nous emparer de ce dernier."
+"L'homme au bâton qui lance des éclairs a tué notre chef. Nous allons tuer l'homme au bâton et nous emparer de ce dernier."
 
 (46, 44, 0) ***Cove***
 Name:

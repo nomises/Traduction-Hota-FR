@@ -2,7 +2,7 @@
 Lever de soleil en enfer
 
 ===== Map description =====
-Jeremy et Alkin doivent contenir les attaques kreegans sur l'Ã®le. Mais pour gagner, vous devez vous emparer de leur base secrÃ¨te. Et cela ne peut arriver qu'une fois tous les hÃ©ros ennemis Ã©liminÃ©s. Tous vos hÃ©ros seront limitÃ©s au niveau 18 d'expÃ©rience. Si Jeremy est vaincu, la partie est perdue.
+Jeremy et Alkin doivent contenir les attaques kreegans sur l'île. Mais pour gagner, vous devez vous emparer de leur base secrète. Et cela ne peut arriver qu'une fois tous les héros ennemis éliminés. Tous vos héros seront limités au niveau 18 d'expérience. Si Jeremy est vaincu, la partie est perdue.
 
 ===== Rumors =====
 
@@ -11,32 +11,32 @@ Jeremy et Alkin doivent contenir les attaques kreegans sur l'Ã®le. Mais pour gag
 Name:
 Day 1
 Message:
-C'est en compagnie des bretteurs et des habitants que l'armÃ©e s'est dirigÃ©e droit sur la cÃ´te Est de l'Ã®le. Nous avions juste ce qu'il faut de ressources et d'hommes pour Ã©riger une nouvelle forteresse par nos propres moyens.	"Vous avez bien fait, Jeremy Gull," approuva Alkin. 	"Albatross, mon nom est Albatross," corrigeai-je indignÃ©. "Qu'allons-nous faire maintenant ?" Poursuivis-je.	"Ma tribu a une plantation Ã  l'est et je peux vous confirmer que nos fortifications sont bien en place. Les vÃ´tres ne sont sÃ»rement pas aussi bonnes, mais je sais que vous avez servi dans l'armÃ©e de Tatalia," remarqua  Alkin en souriant.	"C'est trÃ¨s impressionnant, mais j'ai des armes Ã  feu Ã  la place des flÃ©aux et des arcs," raillai-je alors que je me tournai en arriÃ¨re, rÃ©vÃ©lant ostensiblement mon pistolet dans son Ã©tui. 	"D'accord, d'accord. Nous avons besoin de toutes les armes disponibles," rÃ©pondit-il quelque-peu agacÃ©. 	"Mes Ã©claireurs m'ont informÃ© que deux armÃ©es de Kreegans ont dÃ©barquÃ© sur la rive nord. Heureusement, ils auront bien du mal Ã  traverser les marais. Ce seront des cibles parfaites pour des embuscades ou des attaques Ã©clair," suggÃ©rai-je.	"Exact, mais ils auront sÃ»rement d'autres renforts venant d'ailleurs, croyez-en mon expÃ©rience. Ils doivent certainement avoir une base, un endroit stratÃ©gique oÃ¹ sont stationnÃ©es ces armÃ©es, sinon ils seraient dans l'impossibilitÃ© de poursuivre leurs opÃ©rations. Si nous voulons Ã©touffer cette menace une fois pour toute, je propose que l'on trouve cette base et qu'on l'attaque. Mais d'abord, comme vous l'avez mentionnÃ©, nous devons affronter les armÃ©es ennemies prÃ©sentes sur l'Ã®le. ÃŠtes-vous d'accord avec ce plan, associÃ© ?" conclut Alkin en me tendant la main... ou sa patte.	Je n'Ã©tais toujours pas fixÃ© sur le nom.	MalgrÃ© tout et mÃªme si c'Ã©tait trÃ¨s Ã©trange de serrer la Â«Â mainÂ Â» de quelqu'un qui n'Ã©tait pas humain, je l'empoignai vigoureusement pour sceller notre entente.	"Parfait !" s'exclama Alkin. "Je vais retourner auprÃ¨s de mes hommes et nous allons tenter de protÃ©ger au mieux les confins de la plantation. Le plus important est de ne pas laisser les Kreegans rÃ©unir assez de crÃ©atures pour prendre votre forteresse ou la mienne. Si par malheur cela arrivait, ce serait notre fin Ã  tous," annonÃ§ai-je, prÃ©occupÃ©.
+C'est en compagnie des bretteurs et des habitants que l'armée s'est dirigée droit sur la côte Est de l'île. Nous avions juste ce qu'il faut de ressources et d'hommes pour ériger une nouvelle forteresse par nos propres moyens.	"Vous avez bien fait, Jeremy Gull," approuva Alkin. 	"Albatross, mon nom est Albatross," corrigeai-je indigné. "Qu'allons-nous faire maintenant ?" Poursuivis-je.	"Ma tribu a une plantation à l'est et je peux vous confirmer que nos fortifications sont bien en place. Les vôtres ne sont sûrement pas aussi bonnes, mais je sais que vous avez servi dans l'armée de Tatalia," remarqua  Alkin en souriant.	"C'est très impressionnant, mais j'ai des armes à feu à la place des fléaux et des arcs," raillai-je alors que je me tournai en arrière, révélant ostensiblement mon pistolet dans son étui. 	"D'accord, d'accord. Nous avons besoin de toutes les armes disponibles," répondit-il quelque-peu agacé. 	"Mes éclaireurs m'ont informé que deux armées de Kreegans ont débarqué sur la rive nord. Heureusement, ils auront bien du mal à traverser les marais. Ce seront des cibles parfaites pour des embuscades ou des attaques éclair," suggérai-je.	"Exact, mais ils auront sûrement d'autres renforts venant d'ailleurs, croyez-en mon expérience. Ils doivent certainement avoir une base, un endroit stratégique où sont stationnées ces armées, sinon ils seraient dans l'impossibilité de poursuivre leurs opérations. Si nous voulons étouffer cette menace une fois pour toute, je propose que l'on trouve cette base et qu'on l'attaque. Mais d'abord, comme vous l'avez mentionné, nous devons affronter les armées ennemies présentes sur l'île. Êtes-vous d'accord avec ce plan, associé ?" conclut Alkin en me tendant la main... ou sa patte.	Je n'étais toujours pas fixé sur le nom.	Malgré tout et même si c'était très étrange de serrer la « main » de quelqu'un qui n'était pas humain, je l'empoignai vigoureusement pour sceller notre entente.	"Parfait !" s'exclama Alkin. "Je vais retourner auprès de mes hommes et nous allons tenter de protéger au mieux les confins de la plantation. Le plus important est de ne pas laisser les Kreegans réunir assez de créatures pour prendre votre forteresse ou la mienne. Si par malheur cela arrivait, ce serait notre fin à tous," annonçai-je, préoccupé.
 
 Name:
 Day 2
 Message:
-MalgrÃ© notre nouveau fort dÃ©jÃ  opÃ©rationnel, nous manquions de temps pour nous reposer. Les Kreegans Ã©taient partout sur l'Ã®le et nous devions absolument les empÃªcher d'en atteindre les points stratÃ©giques. Ceux-lÃ  mÃªmes oÃ¹ Ã©taient stockÃ©es leurs cargaisons placÃ©es en secret par leurs Ã©claireurs.	J'appelai mon compagnonÂ : "Patris !"	"Oui, capitaine." 	"Nous devons dÃ©busquer les caches des forces ennemies afin de les piller promptement. Peux-tu t'occuper de cela ?" 	"J'ai peur de ne pas savoir par oÃ¹ commencer mes recherches," dit Patris, en fronÃ§ant les sourcils. 	"TrÃ¨s bien, voici un plan : Prends quelques hommes aguerris avec toi et tÃ¢che de prendre en filature une patrouille kreegan. Si vous Ãªtes chanceux, celle-ci vous conduira tout droit Ã  une de leur cachette." 	"Ã€ vos ordres capitaine ! J'ai parfois de la rÃ©ussite pour ce genre d'opÃ©ration," dit Patris, le visage radieux. "Je m'attÃ¨le aux prÃ©paratifs tout de suite. Je vais prendre Diego et Erik avec moi... ces gars-lÃ  sont plus courageux et plus vifs d'esprit que la plupart."	"C'est ce que j'aime entendre !" RÃ©pondis-je alors, satisfait.
+Malgré notre nouveau fort déjà opérationnel, nous manquions de temps pour nous reposer. Les Kreegans étaient partout sur l'île et nous devions absolument les empêcher d'en atteindre les points stratégiques. Ceux-là mêmes où étaient stockées leurs cargaisons placées en secret par leurs éclaireurs.	J'appelai mon compagnon : "Patris !"	"Oui, capitaine." 	"Nous devons débusquer les caches des forces ennemies afin de les piller promptement. Peux-tu t'occuper de cela ?" 	"J'ai peur de ne pas savoir par où commencer mes recherches," dit Patris, en fronçant les sourcils. 	"Très bien, voici un plan : Prends quelques hommes aguerris avec toi et tâche de prendre en filature une patrouille kreegan. Si vous êtes chanceux, celle-ci vous conduira tout droit à une de leur cachette." 	"À vos ordres capitaine ! J'ai parfois de la réussite pour ce genre d'opération," dit Patris, le visage radieux. "Je m'attèle aux préparatifs tout de suite. Je vais prendre Diego et Erik avec moi... ces gars-là sont plus courageux et plus vifs d'esprit que la plupart."	"C'est ce que j'aime entendre !" Répondis-je alors, satisfait.
 
 Name:
 Day 7
 Message:
-La mission secrÃ¨te de Patris s'est avÃ©rÃ©e Ãªtre un succÃ¨s. Il a rÃ©ussi Ã  capturer quelques Kreegans et a rapportÃ© avec lui des ressources et des marchandises.
+La mission secrète de Patris s'est avérée être un succès. Il a réussi à capturer quelques Kreegans et a rapporté avec lui des ressources et des marchandises.
 
 Name:
 Day 9
 Message:
-Un message d'Alkin est arrivÃ© :	Â« Certains indices me font penser que la base des forces adverses est cachÃ©e sous terre. J'ai vu des hordes de familiers sortir Ã  plusieurs reprises par une cavitÃ© suffisamment large pour leur permettre de passer. Ils envahiront l'Ã®le si rien n'est fait. Comme convenu, nous devrons d'abord battre les armÃ©es des Kreegans Ã  proximitÃ©, pour ensuite atteindre leurs bases. Mes Ã©claireurs affirment qu'il y a plusieurs diables dans leurs rangs, l'Ã©lite de leurs forces. Vos jouets chargÃ©s de poudre ne suffiront pas Ã  les arrÃªter, alors faites bien attention mon ami. Alkin.Â»
+Un message d'Alkin est arrivé :	« Certains indices me font penser que la base des forces adverses est cachée sous terre. J'ai vu des hordes de familiers sortir à plusieurs reprises par une cavité suffisamment large pour leur permettre de passer. Ils envahiront l'île si rien n'est fait. Comme convenu, nous devrons d'abord battre les armées des Kreegans à proximité, pour ensuite atteindre leurs bases. Mes éclaireurs affirment qu'il y a plusieurs diables dans leurs rangs, l'élite de leurs forces. Vos jouets chargés de poudre ne suffiront pas à les arrêter, alors faites bien attention mon ami. Alkin.»
 
 Name:
 Day 15
 Message:
-Un message de Patris est arrivÃ©Â : Â«Â J'ai localisÃ© et pillÃ© un camp des forces ennemies, dissimulÃ© profondÃ©ment dans la jungle. Patris.Â» Excellent travail. Je me demande souvent qui il Ã©tait avant de s'engager avec nous.
+Un message de Patris est arrivé : « J'ai localisé et pillé un camp des forces ennemies, dissimulé profondément dans la jungle. Patris.» Excellent travail. Je me demande souvent qui il était avant de s'engager avec nous.
 
 Name:
 Day 32
 Message:
-Voila un mois que nous contenions les Kreegans. Ils ne devaient pas s'attendre Ã  une rÃ©sistance aussi fÃ©roce et Ã  une telle organisation de la part de ceux qu'ils considÃ©raient comme des sauvages. Quelle ironieÂ ! Mais tout cela n'avait pas d'importance car les hordes de familiers continuaient d'avancer sans montrer de signes de fatigue. Je n'arrÃªtais pas de me poser des questions au sujet d'Alkin. Qu'est-ce qu'un sergent Tatalian comme lui pouvait bien faire sur une Ã®le perdue comme celle-ci ? Peut-Ãªtre aurai-je une rÃ©ponse une fois cette guerre terminÃ©e.
+Voila un mois que nous contenions les Kreegans. Ils ne devaient pas s'attendre à une résistance aussi féroce et à une telle organisation de la part de ceux qu'ils considéraient comme des sauvages. Quelle ironie ! Mais tout cela n'avait pas d'importance car les hordes de familiers continuaient d'avancer sans montrer de signes de fatigue. Je n'arrêtais pas de me poser des questions au sujet d'Alkin. Qu'est-ce qu'un sergent Tatalian comme lui pouvait bien faire sur une île perdue comme celle-ci ? Peut-être aurai-je une réponse une fois cette guerre terminée.
 
 ===== Heroes =====
 
@@ -44,13 +44,13 @@ Voila un mois que nous contenions les Kreegans. Ils ne devaient pas s'attendre Ã
 
 (59, 54, 0) ***Seer's Hut***
 Message:
-Un vieux gobelin vit ici. Il affirme qu'il Ã©tait autrefois un puissant guerrier aux compÃ©tences d'attaque remarquables. RÃ©cemment, son loup bien aimÃ© a Ã©tÃ© tuÃ© par des crÃ©atures dÃ©moniaques, mais aujourd'hui il est trop affaibli pour penser Ã  se venger. Il promet de vous transmettre tout ce qu'il sait si vous Ã©liminez pour lui ces forces du mal.
-Le vieux gobelin n'aura plus rien Ã  vous dire tant que son loup bien aimÃ© n'aura pas Ã©tÃ© vengÃ©.
-Les forces du mal ont Ã©tÃ© vaincues et le vieux gobelin vous transmet tout son savoir au combat dans la joie et l'exaltation.
+Un vieux gobelin vit ici. Il affirme qu'il était autrefois un puissant guerrier aux compétences d'attaque remarquables. Récemment, son loup bien aimé a été tué par des créatures démoniaques, mais aujourd'hui il est trop affaibli pour penser à se venger. Il promet de vous transmettre tout ce qu'il sait si vous éliminez pour lui ces forces du mal.
+Le vieux gobelin n'aura plus rien à vous dire tant que son loup bien aimé n'aura pas été vengé.
+Les forces du mal ont été vaincues et le vieux gobelin vous transmet tout son savoir au combat dans la joie et l'exaltation.
 
 (61, 1, 0) ***Event***
 Message:
-Un beau et mystÃ©rieux fort se tient devant vous, dÃ©corÃ© d'Ã©tranges statues dont l'aspect fait penser Ã  des lÃ©zards. Voulez-vous prendre le risque de vous aventurer Ã  l'intÃ©rieur ? Ou bien vous-y refusez-vous ?
+Un beau et mystérieux fort se tient devant vous, décoré d'étranges statues dont l'aspect fait penser à des lézards. Voulez-vous prendre le risque de vous aventurer à l'intérieur ? Ou bien vous-y refusez-vous ?
 
 (47, 60, 0) ***Cove***
 Name:
@@ -61,7 +61,7 @@ Timed events:
 Name:
 units
 Message:
-Un groupe de mercenaires s'approche du fort. Ils prÃ©tendent qu'ils ont dÃ©jÃ  servi dans une garnison d'Erathia. Pour vous remercier de votre hospitalitÃ©, ils sont prÃªts Ã  servir Ã  vos cÃ´tÃ©s si vous leur fournissez des armes.
+Un groupe de mercenaires s'approche du fort. Ils prétendent qu'ils ont déjà servi dans une garnison d'Erathia. Pour vous remercier de votre hospitalité, ils sont prêts à servir à vos côtés si vous leur fournissez des armes.
 
 (2, 42, 0) ***Fortress***
 Name:
@@ -69,35 +69,35 @@ Wetmoore
 
 (26, 52, 0) ***Event***
 Message:
-Un grand troll se tient devant vous.	"OÃ¹ allez-vous ainsi ? Le passage n'est pas gratuit. Vous devez payer dix fois cent piÃ¨ces d'or," dit-il en serrant le poing. 	"Et que diriez-vous d'un seul coup de sabre entre les deux yeux ?" lui rÃ©pondez-vous. 	"HÃ© hÃ© !" grimace alors le troll avec un sourire carnassier. "Tu peux essayer petit homme, mais je suis plus grand et plus intelligent. Je me tiens ici avec mes frÃ¨res, cachÃ©s sous le pont. Si je meurs, mes frÃ¨res feront exploser un baril de poudre qui fera s'effondrer le pont et tu pÃ©riras." 	"J'ai la curieuse impression de me faire escroquer," lui avouez-vous, quelque peu vexÃ©, pour finalement remettre l'or au troll Ã  contre cÅ“ur.
+Un grand troll se tient devant vous.	"Où allez-vous ainsi ? Le passage n'est pas gratuit. Vous devez payer dix fois cent pièces d'or," dit-il en serrant le poing. 	"Et que diriez-vous d'un seul coup de sabre entre les deux yeux ?" lui répondez-vous. 	"Hé hé !" grimace alors le troll avec un sourire carnassier. "Tu peux essayer petit homme, mais je suis plus grand et plus intelligent. Je me tiens ici avec mes frères, cachés sous le pont. Si je meurs, mes frères feront exploser un baril de poudre qui fera s'effondrer le pont et tu périras." 	"J'ai la curieuse impression de me faire escroquer," lui avouez-vous, quelque peu vexé, pour finalement remettre l'or au troll à contre cœur.
 
 (15, 69, 0) ***Event***
 Message:
-Une ensorceleuse propose ses services Ã  votre Ã©quipe de pirates.
+Une ensorceleuse propose ses services à votre équipe de pirates.
 
 (23, 10, 1) ***Quest Guard***
 Message:
-La base semble entourÃ©e d'un champ de force infranchissable. L'Ã©nergie vitale d'un chef de guerre Kreegan est nÃ©cessaire pour passer.
-Le seul moyen de lever le champ de force est de rapporter l'Ã©nergie vitale d'un chef de guerre Kreegan.
-Nous avons capturÃ© l'Ã©nergie vitale d'un chef de guerre Kreegan. Nous pouvons lever le champ de force.
+La base semble entourée d'un champ de force infranchissable. L'énergie vitale d'un chef de guerre Kreegan est nécessaire pour passer.
+Le seul moyen de lever le champ de force est de rapporter l'énergie vitale d'un chef de guerre Kreegan.
+Nous avons capturé l'énergie vitale d'un chef de guerre Kreegan. Nous pouvons lever le champ de force.
 
 (23, 11, 1) ***Quest Guard***
 Message:
-La base semble entourÃ©e d'un champ de force infranchissable. L'Ã©nergie vitale d'un chef de guerre Kreegan est nÃ©cessaire pour passer.
-Le seul moyen de lever le champ de force est de rapporter l'Ã©nergie vitale d'un chef de guerre Kreegan.
-Nous avons capturÃ© l'Ã©nergie vitale d'un chef de guerre Kreegan. Nous pouvons lever le champ de force.
+La base semble entourée d'un champ de force infranchissable. L'énergie vitale d'un chef de guerre Kreegan est nécessaire pour passer.
+Le seul moyen de lever le champ de force est de rapporter l'énergie vitale d'un chef de guerre Kreegan.
+Nous avons capturé l'énergie vitale d'un chef de guerre Kreegan. Nous pouvons lever le champ de force.
 
 (23, 12, 1) ***Quest Guard***
 Message:
-La base semble entourÃ©e d'un champ de force infranchissable. L'Ã©nergie vitale d'un chef de guerre Kreegan est nÃ©cessaire pour passer.
-Le seul moyen de lever le champ de force est de rapporter l'Ã©nergie vitale d'un chef de guerre Kreegan.
-Nous avons capturÃ© l'Ã©nergie vitale d'un chef de guerre Kreegan. Nous pouvons lever le champ de force.
+La base semble entourée d'un champ de force infranchissable. L'énergie vitale d'un chef de guerre Kreegan est nécessaire pour passer.
+Le seul moyen de lever le champ de force est de rapporter l'énergie vitale d'un chef de guerre Kreegan.
+Nous avons capturé l'énergie vitale d'un chef de guerre Kreegan. Nous pouvons lever le champ de force.
 
 (23, 13, 1) ***Quest Guard***
 Message:
-La base semble entourÃ©e d'un champ de force infranchissable. L'Ã©nergie vitale d'un chef de guerre Kreegan est nÃ©cessaire pour passer.
-Le seul moyen de lever le champ de force est de rapporter l'Ã©nergie vitale d'un chef de guerre Kreegan.
-Nous avons capturÃ© l'Ã©nergie vitale d'un chef de guerre Kreegan. Nous pouvons lever le champ de force.
+La base semble entourée d'un champ de force infranchissable. L'énergie vitale d'un chef de guerre Kreegan est nécessaire pour passer.
+Le seul moyen de lever le champ de force est de rapporter l'énergie vitale d'un chef de guerre Kreegan.
+Nous avons capturé l'énergie vitale d'un chef de guerre Kreegan. Nous pouvons lever le champ de force.
 
 ===== Extended Events =====
 ===== End of file =====
