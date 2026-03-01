@@ -211,6 +211,13 @@
 * ~~SPTRAITS.TXT~~
 * ~~SSTRAITS.TXT~~
 
+### Traduire 
+* Traduction\campagne_tempo_txt\H1Roger\valeurNonImporte.md
+* Traduction\campagne_tempo_txt\H2Terror\valeurNonImporte.md
+* Traduction\campagne_tempo_txt\H3Horn\valeurNonImporte.md
+* Traduction\campagne_tempo_txt\H4Fact\valeurNonImporte.md
+* Traduction\campagne_tempo_txt\H5AllIn\valeurNonImporte.md
+
 # Correction Binaire 
 ## HotA_lng.lod
 * ~~advevent.txt~~
@@ -307,6 +314,7 @@
 	* mission 3
     * mission 4
     * mission 5
+
 ## Hota.dat
 * HotA.txt
 
