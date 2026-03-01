@@ -5,59 +5,59 @@ Description:
 
 
 
-Prisonnier du destin â€” Terreur des Mers A
+Prisonnier du destin — Terror of the Seas A
 
 Right-click text:
-Bidley s'apprÃªte Ã  libÃ©rer un mystÃ©rieux prisonnier d'une prison anti-magie Ã  Krewlod. Manquant encore de main-d'Å“uvre, il doit faire appel aux barbares locaux.
+Bidley s'apprête à libérer un mystérieux prisonnier d'une prison anti-magie à Krewlod. Manquant encore de main-d'œuvre, il doit faire appel aux barbares locaux.
 
 Prologue:
-Dans les lÃ©gendes contÃ©es par les bardes, presque tout commence par un hÃ©ros assis dans une taverne. Bidley le pirate faisait exactement Ã§a. L'endroit se situait dans un village de pÃªcheurs, sur les rives de la barbarique Krewlod. Qui aurait cru qu'une simple conversation avec un ivrogne se transformerait en une grande aventure qui changerait le monde ? Certainement pas Bidley. Il Ã©tait assis, buvant sa biÃ¨re bon marchÃ©, en Ã©coutant une vieille histoire de pirates Ã  propos d'un prisonnier qu'on disait enfermÃ© dans une prison magique. Bidley pensa qu'il s'agissait probablement d'un puissant mage, probablement de Bracada. Il pensait aussi que la gÃ©nÃ©rositÃ© d'un tel prisonnier devait Ãªtre, disons, gÃ©nÃ©reuse. Malheureusement, Bidley ignorait l'existence de Xanthor, ce cÃ©lÃ¨bre mage qui exÃ©crait tous les pirates. Le destin, cependant, envoya Bidley secourir son vieil ennemi. Et ce fut le dÃ©but de l'histoireâ€¦
+Dans les légendes contées par les bardes, presque tout commence par un héros assis dans une taverne. Bidley le pirate faisait exactement ça. L'endroit se situait dans un village de pêcheurs, sur les rives de la barbarique Krewlod. Qui aurait cru qu'une simple conversation avec un ivrogne se transformerait en une grande aventure qui changerait le monde ? Certainement pas Bidley. Il était assis, buvant sa bière bon marché, en écoutant une vieille histoire de pirates à propos d'un prisonnier qu'on disait enfermé dans une prison magique. Bidley pensa qu'il s'agissait probablement d'un puissant mage, probablement de Bracada. Il pensait aussi que la générosité d'un tel prisonnier devait être, disons, généreuse. Malheureusement, Bidley ignorait l'existence de Xanthor, ce célèbre mage qui exécrait tous les pirates. Le destin, cependant, envoya Bidley secourir son vieil ennemi. Et ce fut le début de l'histoire…
 
 
-Evenmorn â€” Terreur des Mers B
+Evenmorn — Terror of the Seas B
 
 Right-click text:
-Jeremy et Casmetra doivent protÃ©ger la bibliothÃ¨que magique de l'Ã®le d'Evenmorn des forces Ã©crasantes des nÃ©cromanciens et de leurs mercenaires.
+Jeremy et Casmetra doivent protéger la bibliothèque magique de l'île d'Evenmorn des forces écrasantes des nécromanciens et de leurs mercenaires.
 
 Prologue:
-Un regard rapide, un mot mal placÃ©, une dÃ©cision imprudenteâ€¦ Tout cela peut changer radicalement votre vie. En dÃ©cidant d'aider cette femme, Jeremy a radicalement changÃ© sa vie et celle de son frÃ¨re. Il est difficile de prÃ©dire qui seront nos amis et qui seront nos ennemis. C'est aussi difficile que de prÃ©dire les moments oÃ¹ notre vie basculera. Jeremy a marchÃ© sur cette mince ligne depuis sa guerre contre les dÃ©mons sur l'Ã®le. Jusqu'Ã  prÃ©sent, il pensait que les Ã©vÃ©nements autour de lui Ã©taient rÃ©solus grÃ¢ce Ã  sa chance lÃ©gendaire.
+Un regard rapide, un mot mal placé, une décision imprudente… Tout cela peut changer radicalement votre vie. En décidant d'aider cette femme, Jeremy a radicalement changé sa vie et celle de son frère. Il est difficile de prédire qui seront nos amis et qui seront nos ennemis. C'est aussi difficile que de prédire les moments où notre vie basculera. Jeremy a marché sur cette mince ligne depuis sa guerre contre les démons sur l'île. Jusqu'à présent, il pensait que les événements autour de lui étaient résolus grâce à sa chance légendaire.
 
 
-Les Rivages de l'Enfer â€” Terreur des Mers C
+Les Rivages de l'Enfer — Terror of the Seas C
 
 Right-click text:
-Bidley et son frÃ¨re se prÃ©parent Ã  mettre le cap sur la Corne des Abysses, mais leurs coffres ne sont pas assez remplis pour Ã©quiper une flotte digne de ce nom. La rumeur court que les Kreegans de la cÃ´te d'Eeofol possÃ¨dent les composants manquant de la Corne d'Abondance.
+Bidley et son frère se préparent à mettre le cap sur la Corne des Abysses, mais leurs coffres ne sont pas assez remplis pour équiper une flotte digne de ce nom. La rumeur court que les Kreegans de la côte d'Eeofol possèdent les composants manquant de la Corne d'Abondance.
 
 Prologue:
-Bidley apprit l'existence de la Corne des Abysses aprÃ¨s avoir sauvÃ© Xanthor. En rÃ©alitÃ©, Xanthor le lui avait rÃ©vÃ©lÃ© dans l'espoir que le pirate disparaisse en tentant de s'en emparer. Bidley ne le saura jamais ; pourtant, maintenant rÃ©unis avec son frÃ¨re, ils commencÃ¨rent Ã  planifier la conquÃªte de la Corne des Abysses. Pour ce faire, ils avaient besoin de navires, de nombreux navires, d'hommes et de provisions. Mais oÃ¹ bien pouvons nous trouver tout cela ? Casmetra proposa d'explorer les Rivages de l'Enfer et de piller toutes les terres kreegan rencontrÃ©es sur notre chemin. Une aventure pÃ©rilleuse, mais prometteuse.
+Bidley apprit l'existence de la Corne des Abysses après avoir sauvé Xanthor. En réalité, Xanthor le lui avait révélé dans l'espoir que le pirate disparaisse en tentant de s'en emparer. Bidley ne le saura jamais ; pourtant, maintenant réunis avec son frère, ils commencèrent à planifier la conquête de la Corne des Abysses. Pour ce faire, ils avaient besoin de navires, de nombreux navires, d'hommes et de provisions. Mais où bien pouvons nous trouver tout cela ? Casmetra proposa d'explorer les Rivages de l'Enfer et de piller toutes les terres kreegan rencontrées sur notre chemin. Une aventure périlleuse, mais prometteuse.
 
 
-La libertÃ© du Nix â€” Terreur des Mers D
+À la rescousse des Nix — Terror of the Seas D
 
 Right-click text:
-Tark, le prince des Nix, se dirige vers les donjons Nighon pour libÃ©rer ses frÃ¨res du joug des DÃ©monistes.
+Tark, le prince des Nix, se dirige vers les donjons Nighon pour libérer ses frères du joug des Démonistes.
 
 Prologue:
-Que faire quand le sort de toute une race dÃ©pend de vous ? Nix Tark savait quoi faire. Sans Ãªtre totalement certain que son peuple retrouverait la gloire passÃ©e de son royaume, il Ã©tait prÃªt Ã  tout pour le sauver. Son chemin passait par les profondeurs des grottes Nighon. Il atteignit les terres sinistres des DÃ©monistes, des cruels seigneurs ainsi que des monstres souterrains. Tark Ã©tait prÃªt Ã  se sacrifier pour sauver les Nix de l'esclavage et leur rendre la libertÃ©.
+Que faire quand le sort de toute une race dépend de vous ? Nix Tark savait quoi faire. Sans être totalement certain que son peuple retrouverait la gloire passée de son royaume, il était prêt à tout pour le sauver. Son chemin passait par les profondeurs des grottes Nighon. Il atteignit les terres sinistres des Démonistes, des cruels seigneurs ainsi que des monstres souterrains. Tark était prêt à se sacrifier pour sauver les Nix de l'esclavage et leur rendre la liberté.
 
 
-Ã€ la recherche de la corne â€” Terreur des Mers E
+À la recherche de la corne — Terror of the Seas E
 
 Right-click text:
-Bidley, Casmetra et Jeremy sont arrivÃ©s sur l'Ã®le du Serpent Vengeur. Les donjons sous l'Ã®le abriteraient la lÃ©gendaire Corne des Abysses.
+Bidley, Casmetra et Jeremy sont arrivés sur l'île du Serpent Vengeur. Les donjons sous l'île abriteraient la légendaire Corne des Abysses.
 
 Prologue:
-Et voilÃ , l'heure du drame ! Bidley, Casmetra et Jeremy arrivÃ¨rent Ã  l'endroit oÃ¹ Ã©tait conservÃ©e la Corne des Abysses. Parviendront-ils Ã  la rÃ©cupÃ©rer ? Savaient-ils ce qui les attendait ? Bien sÃ»r que non. Surtout Bidley, avec tous les ennuis qu'il avait dÃ» affronter. Avec son frÃ¨re Ã  ses cÃ´tÃ©s il ne craignait rien, cependant. Cependant, ils allaient devoir se mÃ©fier des choses qui pourraient ne pas se dÃ©rouler aussi bien qu'ils l'avaient prÃ©dit au dÃ©but de cette aventureâ€¦
+Et voilà, l'heure du drame ! Bidley, Casmetra et Jeremy arrivèrent à l'endroit où était conservée la Corne des Abysses. Parviendront-ils à la récupérer ? Savaient-ils ce qui les attendait ? Bien sûr que non. Surtout Bidley, avec tous les ennuis qu'il avait dû affronter. Avec son frère à ses côtés il ne craignait rien, cependant. Cependant, ils allaient devoir se méfier des choses qui pourraient ne pas se dérouler aussi bien qu'ils l'avaient prédit au début de cette aventure…
 
 
-Trahison â€” Terreur des Mers F
+Trahison — Terror of the Seas F
 
 Right-click text:
-Le mage Dargem a trahi Bidley et s'est emparÃ© de la Corne des Abysses. Tandis que Jeremy tente de retrouver le traÃ®tre, les Tataliens brÃ»lent de se venger des pirates qui leur ont causÃ© leurs rÃ©centes dÃ©faites.
+Le mage Dargem a trahi Bidley et s'est emparé de la Corne des Abysses. Tandis que Jeremy tente de retrouver le traître, les Tataliens brûlent de se venger des pirates qui leur ont causé leurs récentes défaites.
 
 Prologue:
-DÃ¨s que Bidley, aprÃ¨s toutes ses aventures dans les donjons, s'empara la Corne, une voix s'Ã©cria : "Incroyable ! Il est enfin Ã  moi ! " Sur ce, Dargem, son nouveau partenaire, lui assena un coup Ã  la tÃªte et s'empara de l'artefact. Les murs de l'antique caveau tremblÃ¨rent et l'autel se dressa, formant une Ã®le. Le traÃ®tre s'emparant de la Corne, ne comprit pas comment s'en servir. Dargem fit venir un bateau et sauta Ã  bord, emportant Bidley, inconscient, avec lui. Jeremy et Casmetra virent naÃ®tre une nouvelle Ã®le. Ils virent aussi Dargem s'Ã©loigner, et de grands serpents de mer surgir des profondeurs Ã  sa poursuite. Jeremy ignorait ce qui se passait, mais il Ã©tait certain que son frÃ¨re Ã©tait en danger.
+Dès que Bidley, après toutes ses aventures dans les donjons, s'empara la Corne, une voix s'écria : "Incroyable ! Il est enfin à moi ! " Sur ce, Dargem, son nouveau partenaire, lui assena un coup à la tête et s'empara de l'artefact. Les murs de l'antique caveau tremblèrent et l'autel se dressa, formant une île. Le traître s'emparant de la Corne, ne comprit pas comment s'en servir. Dargem fit venir un bateau et sauta à bord, emportant Bidley, inconscient, avec lui. Jeremy et Casmetra virent naître une nouvelle île. Ils virent aussi Dargem s'éloigner, et de grands serpents de mer surgir des profondeurs à sa poursuite. Jeremy ignorait ce qui se passait, mais il était certain que son frère était en danger.
 
 Epilogue:
-Les dÃ©fenseurs de la forteresse de Regnan tremblÃ¨rent, et Casmetra et Jeremy se prÃ©cipitÃ¨rent Ã  l'intÃ©rieur. Dargem laissa le captif et s'empara de la Corne. Il courut jusqu'Ã  la plus haute tour. Tandis que Jeremy aidait son frÃ¨re Ã  dÃ©nouer les cordes, Casmetra hurla d'une voix puissante : "Rends-moi la Corne ! ImmÃ©diatement ! " L'air effrayÃ©, Dargem rÃ©pondit : "Jamais ! Tu m'as trahi et laissÃ© seul ! Maintenant, je sais quoi faire ! " Prenant l'artefact Ã  deux mains, Dargem s'apprÃªtait Ã  souffler dans la Corne, lorsqu'avec un "STOP !!! " perÃ§ant, Casmetra lui lanÃ§a un sort magique. Une Ã©norme explosion s'ensuivit, et l'onde de choc dÃ©truisit la moitiÃ© de la forteresse, crÃ©ant une sorte de tourbillon en dessous. La seule chose dont Jeremy se souvenait, c'Ã©tait comment il avait dÃ©sespÃ©rÃ©ment tentÃ© de gagner les hauteurs, et comment Casmetra avait hurlÃ© : "Idiot ! Nous allons Ãªtre entraÃ®nÃ©s dans un autre Plan d'existence Ã  cause de toi ! " Des Jours, voire des semaines plus tard, Jeremy se retrouva au bord de la mer. OÃ¹ est Bidley ? Et qu'est-il arrivÃ© Ã  la Corne ? Serait-ce la fin de la lÃ©gende de la Corne des Abysses ?
+Les défenseurs de la forteresse de Regnan tremblèrent, et Casmetra et Jeremy se précipitèrent à l'intérieur. Dargem laissa le captif et s'empara de la Corne. Il courut jusqu'à la plus haute tour. Tandis que Jeremy aidait son frère à dénouer les cordes, Casmetra hurla d'une voix puissante : "Rends-moi la Corne ! Immédiatement ! " L'air effrayé, Dargem répondit : "Jamais ! Tu m'as trahi et laissé seul ! Maintenant, je sais quoi faire ! " Prenant l'artefact à deux mains, Dargem s'apprêtait à souffler dans la Corne, lorsqu'avec un "STOP !!! " perçant, Casmetra lui lança un sort magique. Une énorme explosion s'ensuivit, et l'onde de choc détruisit la moitié de la forteresse, créant une sorte de tourbillon en dessous. La seule chose dont Jeremy se souvenait, c'était comment il avait désespérément tenté de gagner les hauteurs, et comment Casmetra avait hurlé : "Idiot ! Nous allons être entraînés dans un autre Plan d'existence à cause de toi ! " Des Jours, voire des semaines plus tard, Jeremy se retrouva au bord de la mer. Où est Bidley ? Et qu'est-il arrivé à la Corne ? Serait-ce la fin de la légende de la Corne des Abysses ?
 

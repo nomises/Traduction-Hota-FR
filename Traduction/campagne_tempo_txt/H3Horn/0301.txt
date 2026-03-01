@@ -1,8 +1,8 @@
 ===== Map name =====
-FrontiÃ¨re
+Frontière
 
 ===== Map description =====
-Pour retrouver son frÃ¨re, JÃ©rÃ©my doit trouver le Graal et construire l'Ã‰toile Polaire. Si JÃ©rÃ©my est vaincu au combat, le scÃ©nario sera perdu. Le niveau maximum est de 16. JÃ©rÃ©my passera au scÃ©nario suivant aprÃ¨s sa victoire.
+Pour retrouver son frère, Jérémy doit trouver le Graal et construire l'Étoile Polaire. Si Jérémy est vaincu au combat, le scénario sera perdu. Le niveau maximum est de 16. Jérémy passera au scénario suivant après sa victoire.
 
 ===== Rumors =====
 
@@ -11,12 +11,12 @@ Pour retrouver son frÃ¨re, JÃ©rÃ©my doit trouver le Graal et construire l'Ã‰toil
 Name:
 Day 1
 Message:
-J'ai presque l'impression que tout cela m'est dÃ©jÃ  arrivÃ©. Une fois de plus, je suis Ã©chouÃ© sur une plage, une fois de plus sans bateauâ€¦ sauf que Patris n'est plus lÃ . Bref, la derniÃ¨re chose dont je me souviens, c'est d'avoir Ã©tÃ© aspirÃ© dans une sorte de cratÃ¨re, juste au moment oÃ¹ cette catin de Casmetra s'emparait de la maudite Corne. Cette vile sorciÃ¨re ! Une ancre dans son trou du cul ! Elle n'a jamais Ã©tÃ© attirÃ©e par moi, ni rien ! Elle ne voulait que la Corne des Abysses ! Mille Ã¢mes noyÃ©es ! Bon, attendez un peuâ€¦ Personne n'a encore Ã©chappÃ© Ã  la colÃ¨re de Jeremy Albatross ! J'ai aussi perdu ma botte. Encore une fois. Quelque part derriÃ¨re, traÃ®naient une poignÃ©e de gars qui s'Ã©taient fait aspirer avec moi. Les autres ont-ils eu moins de chance, je me demande ? J'espÃ¨re bien que non. On devait quand mÃªme faire quelque chose pour aider Bidleyâ€¦ "HÃ©, bande de vauriens ! " ai-je criÃ© aux hommes. "Nous devons sortir d'ici... mais nous devons d'abord dÃ©terminer oÃ¹ nous sommes... un requin dans mon gosier."
+J'ai presque l'impression que tout cela m'est déjà arrivé. Une fois de plus, je suis échoué sur une plage, une fois de plus sans bateau… sauf que Patris n'est plus là. Bref, la dernière chose dont je me souviens, c'est d'avoir été aspiré dans une sorte de cratère, juste au moment où cette catin de Casmetra s'emparait de la maudite Corne. Cette vile sorcière ! Une ancre dans son trou du cul ! Elle n'a jamais été attirée par moi, ni rien ! Elle ne voulait que la Corne des Abysses ! Mille âmes noyées ! Bon, attendez un peu… Personne n'a encore échappé à la colère de Jeremy Albatross ! J'ai aussi perdu ma botte. Encore une fois. Quelque part derrière, traînaient une poignée de gars qui s'étaient fait aspirer avec moi. Les autres ont-ils eu moins de chance, je me demande ? J'espère bien que non. On devait quand même faire quelque chose pour aider Bidley… "Hé, bande de vauriens ! " ai-je crié aux hommes. "Nous devons sortir d'ici... mais nous devons d'abord déterminer où nous sommes... un requin dans mon gosier."
 
 Name:
 Day 2
 Message:
-J'ai encore une fois l'impression de revivre des Ã©vÃ©nements passÃ©s, Ã  l'exception d'une Ã®le puante et peu profonde. Mon Utopia est probablement Ã  des milliers de kilomÃ¨tres d'ici. Franchement, j'ai l'impression que nous sommes lÃ  oÃ¹ aucun Kreegan n'a jamais posÃ© le pied. MÃªme l'air est diffÃ©rente iciâ€¦ Et il nous faut trouver un campement au plus vite pour refaire nos rÃ©serves d'eau. 		C'est le plus joyeux de la vie d'un CorsaireÂ : risquer de mourir de dÃ©shydratation au milieu de l'eau. Mais Jeremy Albatross sait qu'il ne faut pas avoir peur de ces menaces insignifiantesÂ ! Je suis plutÃ´t enclin Ã  penser que les pÃ©rils et les Ã©preuves forgent le caractÃ¨re d'un pirate. Une fois ma biographie couchÃ©e sur parchemin, elle dira certainement que j'Ã©tais le plus courageux et le plus noble de tous les piratesÂ !
+J'ai encore une fois l'impression de revivre des événements passés, à l'exception d'une île puante et peu profonde. Mon Utopia est probablement à des milliers de kilomètres d'ici. Franchement, j'ai l'impression que nous sommes là où aucun Kreegan n'a jamais posé le pied. Même l'air est différente ici… Et il nous faut trouver un campement au plus vite pour refaire nos réserves d'eau. 		C'est le plus joyeux de la vie d'un Corsaire : risquer de mourir de déshydratation au milieu de l'eau. Mais Jeremy Albatross sait qu'il ne faut pas avoir peur de ces menaces insignifiantes ! Je suis plutôt enclin à penser que les périls et les épreuves forgent le caractère d'un pirate. Une fois ma biographie couchée sur parchemin, elle dira certainement que j'étais le plus courageux et le plus noble de tous les pirates !
 
 Name:
 Red Res
@@ -26,47 +26,47 @@ Message:
 Name:
 Day 8
 Message:
-Un petit homme basanÃ©, louche, Ã  la fine moustache de rat, se tenait devant moi. Je crois avoir entendu parler de gens comme eux, menant une vie nomade quelque part dans Krewlod. J'ai devinÃ© qu'il Ã©tait probablement un chef ici.	"Et qui Ãªtes-vous ? " ai-je demandÃ© en plissant les yeux. "Je m'appelle Timur", a-t-il rÃ©pondu.	"Et qui Ãªtes-vous ? Que faites-vous ici ? " "Non, qui Ãªtes-vous ? " s'exclama Timur. "Nous vivions ici paisiblement, sans jamais causer de problÃ¨mes, avant que vous n'arriviez, tuant tout le monde et dÃ©truisant notre forteresse ! " 	"RÃ©pondez Ã  la question ! " ai-je hurlÃ©. "Nous sommes des rÃ©fugiÃ©s. Je travaillais dans les plantations", a rÃ©pondu l'indigÃ¨ne. 	"Quelles plantations ? " ai-je demandÃ©. "Il y a une grande Ã®le au nord", a rÃ©pondu ma nouvelle connaissance basanÃ©e. "C'est lÃ -bas que se trouve la ville de la nouvelle Steadwick." C'est alors que j'ai compris oÃ¹ j'Ã©tais, et cette rÃ©vÃ©lation ne m'a pas rÃ©joui.	"New Steadwick ! " Hurlai-je, faisant trembler Timur et mes hommes. "Nouvelle Steadwick ! EspÃ¨ce de ratâ€¦ Dis-moi que c'est une blague ! " Je l'attrapai par le col et lui plaquai mon sabre sous la gorge.	"Je le jure sur mon sang et mon honneur ! " gÃ©mit-il, suant Ã  grosses gouttes. "On l'appelle comme Ã§a, pour de vrai ! " 	"Vous entendez Ã§a, les gars ? " Je lÃ¢chai le pauvre Timur et me tournai vers mon Ã©quipage en gesticulant : "Coulez-moi ! Vous rÃ©alisez oÃ¹ nous sommes, pas vrai ?! "
+Un petit homme basané, louche, à la fine moustache de rat, se tenait devant moi. Je crois avoir entendu parler de gens comme eux, menant une vie nomade quelque part dans Krewlod. J'ai deviné qu'il était probablement un chef ici.	"Et qui êtes-vous ? " ai-je demandé en plissant les yeux. "Je m'appelle Timur", a-t-il répondu.	"Et qui êtes-vous ? Que faites-vous ici ? " "Non, qui êtes-vous ? " s'exclama Timur. "Nous vivions ici paisiblement, sans jamais causer de problèmes, avant que vous n'arriviez, tuant tout le monde et détruisant notre forteresse ! " 	"Répondez à la question ! " ai-je hurlé. "Nous sommes des réfugiés. Je travaillais dans les plantations", a répondu l'indigène. 	"Quelles plantations ? " ai-je demandé. "Il y a une grande île au nord", a répondu ma nouvelle connaissance basanée. "C'est là-bas que se trouve la ville de la nouvelle Steadwick." C'est alors que j'ai compris où j'étais, et cette révélation ne m'a pas réjoui.	"New Steadwick ! " Hurlai-je, faisant trembler Timur et mes hommes. "Nouvelle Steadwick ! Espèce de rat… Dis-moi que c'est une blague ! " Je l'attrapai par le col et lui plaquai mon sabre sous la gorge.	"Je le jure sur mon sang et mon honneur ! " gémit-il, suant à grosses gouttes. "On l'appelle comme ça, pour de vrai ! " 	"Vous entendez ça, les gars ? " Je lâchai le pauvre Timur et me tournai vers mon équipage en gesticulant : "Coulez-moi ! Vous réalisez où nous sommes, pas vrai ?! "
 
 Name:
 Day 9
 Message:
-TrÃ¨s loin, Ã  l'est d'Erathia, se trouve un archipel au milieu d'un ocÃ©an infini. Nous, les pirates, l'appelons les Ã®les Gilbert. Les Erathiens l'appellent Klondike. Il y a quelque temps, Ã  l'apogÃ©e d'Erathia, ils Ã©tablirent un fort sur la plus grande Ã®le, qui devint une colonie, puis une vÃ©ritable SociÃ©tÃ©.		Le climat de cet endroit permet la culture du tabac, du cafÃ©, de la canne Ã  sucre et d'une multitude de fruits et lÃ©gumes exotiques. L'acquisition de cette colonie fut un grand succÃ¨s pour les Erathiens, car auparavant, ils devaient importer tout cela de Tatalia. Cependant, aprÃ¨s la disparition du roi Gryphonheart, les liens avec la patrie furent pratiquement rompus, et pendant un temps, le vice-roi local se sentit le souverain lÃ©gitime de l'archipelâ€¦ jusqu'Ã  ce que les pirates locaux le dÃ©fiÃ¨rent et qu'une guerre Ã©clate. 		Peu importe. Le plus important, c'est que ces Ã®les sont terriblement Ã©loignÃ©es du continent ! Et je n'ai absolument aucune idÃ©e de l'endroit oÃ¹ se trouve Bidley ni de l'endroit oÃ¹ lever les voiles.
+Très loin, à l'est d'Erathia, se trouve un archipel au milieu d'un océan infini. Nous, les pirates, l'appelons les îles Gilbert. Les Erathiens l'appellent Klondike. Il y a quelque temps, à l'apogée d'Erathia, ils établirent un fort sur la plus grande île, qui devint une colonie, puis une véritable Société.		Le climat de cet endroit permet la culture du tabac, du café, de la canne à sucre et d'une multitude de fruits et légumes exotiques. L'acquisition de cette colonie fut un grand succès pour les Erathiens, car auparavant, ils devaient importer tout cela de Tatalia. Cependant, après la disparition du roi Gryphonheart, les liens avec la patrie furent pratiquement rompus, et pendant un temps, le vice-roi local se sentit le souverain légitime de l'archipel… jusqu'à ce que les pirates locaux le défièrent et qu'une guerre éclate. 		Peu importe. Le plus important, c'est que ces îles sont terriblement éloignées du continent ! Et je n'ai absolument aucune idée de l'endroit où se trouve Bidley ni de l'endroit où lever les voiles.
 
 Name:
 Day 12
 Message:
-Quand nous Ã©tions petits, maman nous racontait l'histoire de l'Ã‰toile Polaire. Bizarrement, j'ai depuis entendu la mÃªme histoire, mot pour mot, encore et encore, de la part de pirates et de je ne sais qui d'autre. 		"Jeremy-kan ? " Une voix retentit derriÃ¨re moi. "Quoi ? " Je me retournai pour voir Timur. Il Ã©tait devenu une sorte de guide pour nous, dÃ¨s qu'il eut compris que c'Ã©tait moi qui commandais.		"Je ne voulais pas vous demander. Mais pourquoi Ãªtes-vous venu ici ? Vous vous battez comme un vrai fils de la steppe. Vous Ãªtes un guerrier."		"Bien sÃ»r, un gue-gue-rrierâ€¦" bÃªlai-je. "Je suis venu ici pour fuir des choses. Mais maintenant, je ne sais plus oÃ¹ aller. Pour le savoir, il me faudrait une Ã‰toile Polaire." 		"Oh, j'aimerais bien partir aussi", sourit Timur. "Faire briller l'Ã©toile et voguer oÃ¹ ton cÅ“ur te le demande ! "		"Beurk. Ne me rends pas la vie encore plus misÃ©rable." Je me redressai et retournai vers la mer.		"Mais Jeremy-kan ! Je sais comment la faire briller ! "
+Quand nous étions petits, maman nous racontait l'histoire de l'Étoile Polaire. Bizarrement, j'ai depuis entendu la même histoire, mot pour mot, encore et encore, de la part de pirates et de je ne sais qui d'autre. 		"Jeremy-kan ? " Une voix retentit derrière moi. "Quoi ? " Je me retournai pour voir Timur. Il était devenu une sorte de guide pour nous, dès qu'il eut compris que c'était moi qui commandais.		"Je ne voulais pas vous demander. Mais pourquoi êtes-vous venu ici ? Vous vous battez comme un vrai fils de la steppe. Vous êtes un guerrier."		"Bien sûr, un gue-gue-rrier…" bêlai-je. "Je suis venu ici pour fuir des choses. Mais maintenant, je ne sais plus où aller. Pour le savoir, il me faudrait une Étoile Polaire." 		"Oh, j'aimerais bien partir aussi", sourit Timur. "Faire briller l'étoile et voguer où ton cœur te le demande ! "		"Beurk. Ne me rends pas la vie encore plus misérable." Je me redressai et retournai vers la mer.		"Mais Jeremy-kan ! Je sais comment la faire briller ! "
 
 Name:
 Day 14
 Message:
-Je savourais la purÃ©e aigre locale tout en cherchant mon Ã¢me. La purÃ©e Ã©tait faite de canne Ã  sucre. Je ne dirais pas qu'elle Ã©tait extraordinaire, ni mÃªme bonne, mais il fallait bien s'en contenter. Finalement, Timur entra dans ma cabine, suivi deâ€¦ une chose. Quelque chose. Si ce tas d'ordures sait comment nous sortir d'ici, je suis tout ouÃ¯e. Sinon, je lui tirerais dessus Ã  vue, au cas oÃ¹.				En y regardant de plus prÃ¨s, je dÃ©couvris un homme vÃªtu d'une robe ridicule ornÃ©e de plumes et coiffÃ© d'un chapeau en forme de tÃªte d'oiseau. Une tache de peau sombre, un grand nez et deux yeux ronds inexpressifs se dessinaient sous le chapeau.		"Voici Crang-Crang", prÃ©senta Timur. "Crang-Crang", rÃ©pÃ©ta l'inconnu sans raison. "J'ai compris", rÃ©pondis-je avec colÃ¨re. "Mieux que Abrrgh. Alors comment comptez-vous nous faire voir l'Ã‰toile Polaire ? "		"Graal", annonÃ§a le chaman.		"Graal ? " je clarifiais.		"Graal. Apporte Graal Ã  Crang-Crang. Ã‰toile de LumiÃ¨re ! Brille ! " 				J'attrapai Timur par l'Ã©paule et le tirai sur le cÃ´tÃ©.		"Qu'est-ce que c'est que Ã§a ? C'est la premiÃ¨re fois que je vois un nid de rats parler."		"Jeremy-kan, c'est le prÃªtre du peuple local. Un homme trÃ¨s sage ! Pas trÃ¨s Ã©loquent, en effet." 	"Tremblez ! Il est sÃ©rieux au sujet du Graal ? " soupirai-je.		"Je pense que oui. Vous pouvez probablement le trouver en regardant les obÃ©lisques. Mon peuple a plusieurs lÃ©gendesâ€¦ Les obÃ©lisques reprÃ©sentent une carte indiquant oÃ¹ le Graal est enterrÃ©", rÃ©pondit le nomade.		"TrÃ¨s bien. Allez voir votre ami. Je n'ai pas envie de savourer son odeur irrÃ©sistible plus longtemps. Je vais rÃ©flÃ©chir Ã  ce que je vais faire."
+Je savourais la purée aigre locale tout en cherchant mon âme. La purée était faite de canne à sucre. Je ne dirais pas qu'elle était extraordinaire, ni même bonne, mais il fallait bien s'en contenter. Finalement, Timur entra dans ma cabine, suivi de… une chose. Quelque chose. Si ce tas d'ordures sait comment nous sortir d'ici, je suis tout ouïe. Sinon, je lui tirerais dessus à vue, au cas où.				En y regardant de plus près, je découvris un homme vêtu d'une robe ridicule ornée de plumes et coiffé d'un chapeau en forme de tête d'oiseau. Une tache de peau sombre, un grand nez et deux yeux ronds inexpressifs se dessinaient sous le chapeau.		"Voici Crang-Crang", présenta Timur. "Crang-Crang", répéta l'inconnu sans raison. "J'ai compris", répondis-je avec colère. "Mieux que Abrrgh. Alors comment comptez-vous nous faire voir l'Étoile Polaire ? "		"Graal", annonça le chaman.		"Graal ? " je clarifiais.		"Graal. Apporte Graal à Crang-Crang. Étoile de Lumière ! Brille ! " 				J'attrapai Timur par l'épaule et le tirai sur le côté.		"Qu'est-ce que c'est que ça ? C'est la première fois que je vois un nid de rats parler."		"Jeremy-kan, c'est le prêtre du peuple local. Un homme très sage ! Pas très éloquent, en effet." 	"Tremblez ! Il est sérieux au sujet du Graal ? " soupirai-je.		"Je pense que oui. Vous pouvez probablement le trouver en regardant les obélisques. Mon peuple a plusieurs légendes… Les obélisques représentent une carte indiquant où le Graal est enterré", répondit le nomade.		"Très bien. Allez voir votre ami. Je n'ai pas envie de savourer son odeur irrésistible plus longtemps. Je vais réfléchir à ce que je vais faire."
 
 Name:
 Day 18
 Message:
-HonnÃªtement, je n'ai qu'une vague idÃ©e de ce qu'est le Graal. Je n'aime pas trop contempler des choses Ã©tranges et sans intÃ©rÃªt. Il est bien plus agrÃ©able de penser Ã  l'or, au rhum et aux femmes. Mais le destin en dÃ©cide autrement, Bref !				Pour le Graal. J'ai entendu dire que ces choses Ã©taient autrefois tombÃ©es du ciel. Personne ne sait vraiment ce que c'est, ni combien il en existe. Et pourtant, tout le monde en veut un. Eh bien, si Timur a raison et que les obÃ©lisques rÃ©vÃ¨lent vraiment une sorte de carte, alors pourquoi ne pas tenter de trouver ce Graal ? Je donnerais volontiers ma botte restante pour sortir d'ici et retrouver Bidley. Maman ne me pardonnerait jamais, si je nÃ©gligeais mon cher frÃ¨re.
+Honnêtement, je n'ai qu'une vague idée de ce qu'est le Graal. Je n'aime pas trop contempler des choses étranges et sans intérêt. Il est bien plus agréable de penser à l'or, au rhum et aux femmes. Mais le destin en décide autrement, Bref !				Pour le Graal. J'ai entendu dire que ces choses étaient autrefois tombées du ciel. Personne ne sait vraiment ce que c'est, ni combien il en existe. Et pourtant, tout le monde en veut un. Eh bien, si Timur a raison et que les obélisques révèlent vraiment une sorte de carte, alors pourquoi ne pas tenter de trouver ce Graal ? Je donnerais volontiers ma botte restante pour sortir d'ici et retrouver Bidley. Maman ne me pardonnerait jamais, si je négligeais mon cher frère.
 
 Name:
 Day 24
 Message:
-J'ai commencÃ© Ã  me souvenir des histoires que Patris me racontaitâ€¦ Maudit soit-ilÂ ! Il Ã©tait d'ici, n'est-ce pasÂ ? Il s'est Ã©chappÃ© lorsque leur groupe de guÃ©rilla a Ã©tÃ© capturÃ© et sa famille prise en otage. Quel dommage que Patris ne soit plus avec moi. Il aurait sans doute des choses Ã  faire ici.
+J'ai commencé à me souvenir des histoires que Patris me racontait… Maudit soit-il ! Il était d'ici, n'est-ce pas ? Il s'est échappé lorsque leur groupe de guérilla a été capturé et sa famille prise en otage. Quel dommage que Patris ne soit plus avec moi. Il aurait sans doute des choses à faire ici.
 
 Name:
 Day 30
 Message:
-On dirait que les pirates et le vice-roi local sont au courant de notre prÃ©sence. Ils n'apprÃ©cient visiblement pas que Jeremy Albatross rÃ´de aux alentours. Tant mieux ! J'adore faire bonne impression. Notre petite forteresse attire de plus en plus de gens qui cherchent Ã  se battre avec des pirates ou des colons. 				La seule chose qui m'effraie vraiment, c'est que nos ennemis puissent trouver le Graal avant nous.
+On dirait que les pirates et le vice-roi local sont au courant de notre présence. Ils n'apprécient visiblement pas que Jeremy Albatross rôde aux alentours. Tant mieux ! J'adore faire bonne impression. Notre petite forteresse attire de plus en plus de gens qui cherchent à se battre avec des pirates ou des colons. 				La seule chose qui m'effraie vraiment, c'est que nos ennemis puissent trouver le Graal avant nous.
 
 Name:
 Day 35
 Message:
-Les hommes de Timur signalent un vaste rÃ©seau de grottes sous les Ã®les. Des monstres et des Ãªtres intelligents y vivent. Je n'ai cependant pas grand espoir que ces Ãªtres "intelligents" surpassent de loin nos "abrrghs" habituels. Devrions-nous partir Ã  la recherche du Graal lÃ -dessousÂ ?
+Les hommes de Timur signalent un vaste réseau de grottes sous les îles. Des monstres et des êtres intelligents y vivent. Je n'ai cependant pas grand espoir que ces êtres "intelligents" surpassent de loin nos "abrrghs" habituels. Devrions-nous partir à la recherche du Graal là-dessous ?
 
 Name:
 Day 40
 Message:
-Des nouvelles alarmantes m'ont Ã©tÃ© communiquÃ©esÂ : les grottes grouillent d'abrrghs ET de dÃ©mons. Bon sang, peut-Ãªtre mÃªme de Tuunbaq lui-mÃªme, pour faire bonne mesure. Pendant la PremiÃ¨re Guerre, les Kreegans avaient envoyÃ© une expÃ©dition ici. Cependant, Catherine a rÃ©ussi Ã  vaincre les forces d'Eeofol et de Nighon avant que l'expÃ©dition n'arrive. L'alliance avec Eeofol a Ã©tÃ© rompue, et les Kreegans ont Ã©tÃ© abandonnÃ©s dans ces grottes. Je doute qu'ils soient devenus plus gentils avec le temps.		Quelle chanceÂ ! Un homme peut-il s'Ã©chouer on ne sait oÃ¹, perdre une botte et ne PAS rencontrer les Kreegans finalementÂ ?
+Des nouvelles alarmantes m'ont été communiquées : les grottes grouillent d'abrrghs ET de démons. Bon sang, peut-être même de Tuunbaq lui-même, pour faire bonne mesure. Pendant la Première Guerre, les Kreegans avaient envoyé une expédition ici. Cependant, Catherine a réussi à vaincre les forces d'Eeofol et de Nighon avant que l'expédition n'arrive. L'alliance avec Eeofol a été rompue, et les Kreegans ont été abandonnés dans ces grottes. Je doute qu'ils soient devenus plus gentils avec le temps.		Quelle chance ! Un homme peut-il s'échouer on ne sait où, perdre une botte et ne PAS rencontrer les Kreegans finalement ?
 
 ===== Heroes =====
 
@@ -98,7 +98,7 @@ Message:
 
 (8, 71, 0) ***Wayfarer's Boots***
 Message:
-Un objet dÃ©passant du sable attira mon attention. Je me penchai pour l'examinerâ€¦ On dirait des chaussures ! Perplexes, mes hommes me regardÃ¨rent dÃ©terrer l'objet avec frÃ©nÃ©sie. Quelques minutes plus tard, le sable fit apparaÃ®tre une paire de bottes chics d'un vert vif. Quoique qu'un peu sales elles sont d'une fabrication exquise. Impossible de savoir si elles Ã©taient conÃ§ues pour un homme ou une femme. Un modÃ¨le chic, plus adaptÃ© aux bals qu'aux baladesâ€¦ Cependant, j'en avais assez de marcher Ã  moitiÃ© pieds nus. AprÃ¨s avoir Ã©poussetÃ© le sable, j'en enfilai une. La pointure Ã©tait parfaite, comme si elle avait Ã©tÃ© faite sur mesure ! "Jolies bottes, Cap'taine ! " s'exclama l'un des membres de l'Ã©quipage, les autres se joignant Ã  lui en ricanant. Je ris en guise de rÃ©ponse. "Pour qui me prennent-ils". Puis je haussai les Ã©paules et poursuivis mon chemin. Dame chance m'a souri aujourd'hui.
+Un objet dépassant du sable attira mon attention. Je me penchai pour l'examiner… On dirait des chaussures ! Perplexes, mes hommes me regardèrent déterrer l'objet avec frénésie. Quelques minutes plus tard, le sable fit apparaître une paire de bottes chics d'un vert vif. Quoique qu'un peu sales elles sont d'une fabrication exquise. Impossible de savoir si elles étaient conçues pour un homme ou une femme. Un modèle chic, plus adapté aux bals qu'aux balades… Cependant, j'en avais assez de marcher à moitié pieds nus. Après avoir épousseté le sable, j'en enfilai une. La pointure était parfaite, comme si elle avait été faite sur mesure ! "Jolies bottes, Cap'taine ! " s'exclama l'un des membres de l'équipage, les autres se joignant à lui en ricanant. Je ris en guise de réponse. "Pour qui me prennent-ils". Puis je haussai les épaules et poursuivis mon chemin. Dame chance m'a souri aujourd'hui.
 
 (6, 55, 0) ***Pandora's Box***
 Message:
@@ -106,7 +106,7 @@ Message:
 
 (70, 18, 0) ***Seer's Hut***
 Message:
-Un serpent a dÃ©vorÃ© mon pendentif et s'est enfui vers l'ouest. Poursuivez-le et rapportez-moi l'objet. Je vous rÃ©compenserai.
+Un serpent a dévoré mon pendentif et s'est enfui vers l'ouest. Poursuivez-le et rapportez-moi l'objet. Je vous récompenserai.
 
 (59, 71, 0) ***Pandora's Box***
 Message:
@@ -114,19 +114,19 @@ Message:
 
 (10, 59, 0) ***Seer's Hut***
 Message:
-Tu es un Ã©tranger ici, n'est-ce pas ? Trop pratique ! Il y a une affaire personnelle dont je veux que personne que je connaisse ne soit au courant. Acceptez-vous mon offre ?
+Tu es un étranger ici, n'est-ce pas ? Trop pratique ! Il y a une affaire personnelle dont je veux que personne que je connaisse ne soit au courant. Acceptez-vous mon offre ?
 Vous ne portez pas le drapeau turquoise. Allez-vous-en !
-Je veux que vous apportiez ceci Ã  une de mes connaissances. Il habite Ã  l'est d'ici. Le ferez-vous ?
+Je veux que vous apportiez ceci à une de mes connaissances. Il habite à l'est d'ici. Le ferez-vous ?
 
 (66, 59, 0) ***Seer's Hut***
 Message:
-Mon ami allait m'envoyer un certain artefact, s'il rencontrait quelqu'un de fiable pour le transporter. Serait-ce vous, par hasardÂ ? Il s'agit d'un gros fer Ã  cheval rouillÃ©. 
-Un fer Ã  cheval dÃ©moniaqueÂ ! Exactement ce que je cherchais. Je vous suis trÃ¨s reconnaissant de me l'avoir apportÃ©. Maintenant, pouvez-vous le transmettre Ã  mon collÃ¨gueÂ ? Sa cabane est au milieu de l'archipel. Il voudra peut-Ãªtre que vous fassiez quelque chose pour lui aussi.
+Mon ami allait m'envoyer un certain artefact, s'il rencontrait quelqu'un de fiable pour le transporter. Serait-ce vous, par hasard ? Il s'agit d'un gros fer à cheval rouillé. 
+Un fer à cheval démoniaque ! Exactement ce que je cherchais. Je vous suis très reconnaissant de me l'avoir apporté. Maintenant, pouvez-vous le transmettre à mon collègue ? Sa cabane est au milieu de l'archipel. Il voudra peut-être que vous fassiez quelque chose pour lui aussi.
 
 (41, 24, 0) ***Seer's Hut***
 Message:
-J'attends un messager avec un colis de mon amiÂ ; il s'agit d'une plante vivante.
-FascinantÂ ! Ce trÃ¨fle conviendra parfaitement Ã  mes plansÂ ! Au fait, Ã§a te dirait de lui rapporter quelque choseÂ ? Ce truc est maudit. Il y a un type qui vit au nord-est d'iciÂ ; il connaÃ®t peut-Ãªtre le moyen de lever la malÃ©diction.
+J'attends un messager avec un colis de mon ami ; il s'agit d'une plante vivante.
+Fascinant ! Ce trèfle conviendra parfaitement à mes plans ! Au fait, ça te dirait de lui rapporter quelque chose ? Ce truc est maudit. Il y a un type qui vit au nord-est d'ici ; il connaît peut-être le moyen de lever la malédiction.
 
 (52, 0, 0) ***Pandora's Box***
 Message:
@@ -134,7 +134,7 @@ Message:
 
 (71, 56, 0) ***Event***
 Message:
-Votre navire naviguait tranquillement. Soudainement, une Ã©norme vague s'Ã©leva droit devant vous et s'abattit sur le pont. "Ce n'est pas la mer ! "	criez-vous en sortant votre vieux pistolet. 	"C'est une embuscade ! "
+Votre navire naviguait tranquillement. Soudainement, une énorme vague s'éleva droit devant vous et s'abattit sur le pont. "Ce n'est pas la mer ! "	criez-vous en sortant votre vieux pistolet. 	"C'est une embuscade ! "
 
 (30, 8, 0) ***Castle***
 Name:
@@ -153,20 +153,20 @@ Message:
 
 (6, 69, 0) ***Event***
 Message:
-Vous voyez un groupe de personnages particuliÃ¨rement hostiles surgir de derriÃ¨re une dune proche. Celui qui possÃ¨de la gueule la moins attrayante lÃ¨ve un objet brillant au-dessus de sa tÃªte et commence Ã  dÃ©biter n'importe quoi. AprÃ¨s avoir apparemment terminÃ©, il se met Ã  dÃ©gainer son acier, et ses compagnons le suivent.
+Vous voyez un groupe de personnages particulièrement hostiles surgir de derrière une dune proche. Celui qui possède la gueule la moins attrayante lève un objet brillant au-dessus de sa tête et commence à débiter n'importe quoi. Après avoir apparemment terminé, il se met à dégainer son acier, et ses compagnons le suivent.
 
 (65, 1, 0) ***Seer's Hut***
 Message:
-Il y a longtemps, j'ai perdu un objet prÃ©cieux. Ã‡a n'a l'air de rien, mais il me rappelle de prÃ©cieux souvenirs. Si tu le retrouvais et me le rapportais, je t'en serais trÃ¨s reconnaissant.
-Ma poupÃ©e ! Enfin ! Je peux Ã  nouveau jeter des sorts ! Oh, le bon vieux temps revient ! Et dire que j'ai dÃ» recourir Ã  des infestations de serpents pour m'en prendre Ã  mes voisins ! Ce n'est pas aussi amusant, et les serpents sont devenus trop gros et difficiles Ã  gÃ©rer ces derniers temps. Peux-tu m'en dÃ©barrasser ?
+Il y a longtemps, j'ai perdu un objet précieux. Ça n'a l'air de rien, mais il me rappelle de précieux souvenirs. Si tu le retrouvais et me le rapportais, je t'en serais très reconnaissant.
+Ma poupée ! Enfin ! Je peux à nouveau jeter des sorts ! Oh, le bon vieux temps revient ! Et dire que j'ai dû recourir à des infestations de serpents pour m'en prendre à mes voisins ! Ce n'est pas aussi amusant, et les serpents sont devenus trop gros et difficiles à gérer ces derniers temps. Peux-tu m'en débarrasser ?
 
 (70, 2, 0) ***Gold Dragon***
 Message:
-Cheval pour le dÃ®ner, pirate pour le souper !
+Cheval pour le dîner, pirate pour le souper !
 
 (30, 55, 0) ***Event***
 Message:
-Je n'ai jamais rÃ©ussi Ã  comprendre Ã  quoi servaient ces obÃ©lisques. Au toucher, ils rÃ©vÃ©laient un charabia incomprÃ©hensible.
+Je n'ai jamais réussi à comprendre à quoi servaient ces obélisques. Au toucher, ils révélaient un charabia incompréhensible.
 
 (23, 11, 0) ***Sign***
 Message:
@@ -174,7 +174,7 @@ Plantation
 
 (27, 53, 0) ***Sign***
 Message:
-Ãle de la prÃ®me
+Île de la prîme
 
 (19, 58, 0) ***Crew Mate***
 Message:
@@ -182,7 +182,7 @@ Mais qu'est-ce que cette chose ? Pars ! C'est notre bateau !
 
 (19, 59, 0) ***Event***
 Message:
-J'ai repÃ©rÃ© un bateau, je me suis retournÃ© et j'ai dÃ©clarÃ© solennellement : "J'attribue le nom de Licorne Noire Ã  ce navire ! "
+J'ai repéré un bateau, je me suis retourné et j'ai déclaré solennellement : "J'attribue le nom de Licorne Noire à ce navire ! "
 
 (66, 7, 0) ***Rampart***
 Name:
@@ -190,31 +190,31 @@ Evergreen
 
 (63, 5, 0) ***Sign***
 Message:
-Lagon d'Ã‰meraude
+Lagon d'Émeraude
 
 (46, 30, 0) ***Sign***
 Message:
-Ces Ã®les ont Ã©tÃ© dÃ©couvertes par le courageux marin Siagum et son premier compagnon Tsilataf.
+Ces îles ont été découvertes par le courageux marin Siagum et son premier compagnon Tsilataf.
 
 (64, 66, 0) ***Sign***
 Message:
-Serene est emprisonnÃ©e ici. Elle est coupable d'Ãªtre entrÃ©e dans le donjon sans autorisation.
+Serene est emprisonnée ici. Elle est coupable d'être entrée dans le donjon sans autorisation.
 
 (14, 36, 0) ***Event***
 Message:
-Ã‡a ne semble pas Ãªtre un passage facile. Vous vous souvenez que les gens disaient qu'on ne pouvait sortir qu'ici. La clÃ© de l'entrÃ©e est probablement quelque part sous terre.
+Ça ne semble pas être un passage facile. Vous vous souvenez que les gens disaient qu'on ne pouvait sortir qu'ici. La clé de l'entrée est probablement quelque part sous terre.
 
 (31, 29, 0) ***Event***
 Message:
-Vous pouvez apercevoir l'Ã®le voisine se profiler Ã  l'ouest. Elle est plus proche qu'on peut le penser, mais aucun guÃ© en vue.
+Vous pouvez apercevoir l'île voisine se profiler à l'ouest. Elle est plus proche qu'on peut le penser, mais aucun gué en vue.
 
 (36, 40, 0) ***Sign***
 Message:
-Gallavant Ã©tait lÃ 
+Gallavant était là
 
 (41, 14, 0) ***Event***
 Message:
-Vous entendez un gargouillement profond et rÃ©pugnant, et aussitÃ´t la tÃªte hideuse d'un serpent surgit des flots. Pris par surprise, un membre d'Ã©quipage tombe par-dessus la rambarde du pont arriÃ¨re. Tandis que le serpent savoure une collation inattendue, vous parvenez Ã  vous ressaisir et ordonnez aux artilleurs d'ouvrir le feu.
+Vous entendez un gargouillement profond et répugnant, et aussitôt la tête hideuse d'un serpent surgit des flots. Pris par surprise, un membre d'équipage tombe par-dessus la rambarde du pont arrière. Tandis que le serpent savoure une collation inattendue, vous parvenez à vous ressaisir et ordonnez aux artilleurs d'ouvrir le feu.
 
 ===== Extended Events =====
 ===== End of file =====
