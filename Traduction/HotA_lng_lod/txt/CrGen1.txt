@@ -1,56 +1,56 @@
 Fosse des Basilics
-Antre des BÃ©hÃ©moths
+Antre des Béhémoths
 Souche Maudite
-Antichambre des TÃ©nÃ¨bres
-CimetiÃ¨re des Dragons
+Antichambre des Ténèbres
+Cimetière des Dragons
 Lice
-Ã‰curies des Centaures
+Écuries des Centaures
 Autel de l'Air
-Arche CÃ©leste
+Arche Céleste
 Grotte des Cyclopes
-Palais FantÃ´me
-Essaim des GuÃªpes
-ChaumiÃ¨res des Nains
+Palais Fantôme
+Essaim des Guêpes
+Chaumières des Nains
 Autel de la Terre
 Lac de Feu
-GÃ®te Sylvain
+Gîte Sylvain
 Autel du Feu
 Fronton
 Autel des Souhaits
 Louveterie
 Huttes des Gnolls
 Caserne des Gobelins
-Antre des PÃ©chÃ©s
+Antre des Péchés
 Antre des Gorgones
-Falaises DentelÃ©es
+Falaises Dentelées
 Tour des Griffons
 Nid de Harpies
 Chenil
 Bourbier des Hydres
 Faille des Diablotins
-TaniÃ¨re des LÃ©zards
+Tanière des Lézards
 Tour des Mages
 Repaire des Manticores
 Chapelle des Murmures
-DÃ©dale
-MonastÃ¨re
+Dédale
+Monastère
 Pavillon d'Or
 Porte des Enfers
 Fort des Ogres
 Tour des Orcs
-AbÃ®mes
+Abîmes
 Antre des Dragons
 Falaises des Rocks
 Horlogerie
 Temple des Nuages
-DÃ´me Sylvanien
+Dôme Sylvanien
 Caverne
 Autel de l'Eau
-Puits des Ã‚mes
+Puits des Âmes
 Nid de Wyvernes
-Source EnchantÃ©e
-ClairiÃ¨re de PuretÃ©
-MausolÃ©e
+Source Enchantée
+Clairière de Pureté
+Mausolée
 Crypte
 Temple Maudit
 Tombeaux
@@ -62,18 +62,18 @@ Autel de l'Esprit
 Fournaise
 Falaises de Glace
 Caverne de Cristal
-ForÃªt EnchantÃ©e
-SoufriÃ¨re
+Forêt Enchantée
+Soufrière
 Retraite d'Enchanteurs
 Tour Arboricole
-ClairiÃ¨re de PuretÃ©
+Clairière de Pureté
 Autel de l'Air
 Autel de la Terre
 Autel du Feu
 Autel de l'Eau
-GentilhommiÃ¨re
+Gentilhommière
 Ferme
-Cloaque Ã  Sangliers
+Cloaque à Sangliers
 Pyramide Maudite
 Tente de Nomades
 Refuge de Bandits

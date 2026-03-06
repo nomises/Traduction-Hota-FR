@@ -1,10 +1,10 @@
 Terre
-DÃ©sert
+Désert
 Prairie
 Neige
 Marais
 Rocailleux
 Souterrain
 Lave
-OcÃ©an
+Océan
 Rocher
