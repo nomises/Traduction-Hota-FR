@@ -34,7 +34,7 @@ Qui sont ces mystérieux étrangers dans les cavernes voisines ? Peut-être sont
 
 (5, 34, 0) ***Event***
 Message:
-les cavernes souterraines que les vaisseaux ne pouvaient atteindre. 
+C'était donc cela, la Surface ! Vous découvriez enfin ce dont vous n'aviez entendu parler que dans les récits des anciens qui avaient autrefois vécu sous le soleil. Pourtant, aucun signe des pirates aériens. Il semblait qu'aucun humain n'avait foulé ces terres depuis de nombreuses années ; les épaves d'aéronefs et les squelettes rongés par le temps avaient été envahis par la végétation. L'ennemi que vous redoutiez avait-il donc disparu de ce monde ? Peu importait qu'ils aient succombé à la maladie ou à des conflits. Désormais, seule la perspective de rencontrer les habitants d'autres cavernes vous préoccupait.
 
 (6, 5, 0) ***Event***
 Message:
