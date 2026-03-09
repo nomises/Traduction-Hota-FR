@@ -237,10 +237,10 @@ Dégâts
 Capital Santé
 Votre temps est écoulé. Passage au tour suivant.
 Gardé par 
-“
-Votre Héros a appris %s %s."
-“
-Votre héros peut apprendre l'une des Compétences suivantes : %s %s ou %s %s."
+
+"Votre Héros a appris %s %s."
+
+"Votre héros peut apprendre l'une des Compétences suivantes : %s %s ou %s %s."
 "{Points de Magie}
 
 %s dispose actuellement de %d points de magie sur un maximum de %d. Le nombre maximal de points de magie est égal à 10 fois le Savoir du héros. Certains événements spéciaux vous permettront parfois de disposer de points de magie supplémentaires."
@@ -352,9 +352,9 @@ Lancer un sort sur les %s.
 L'ennemi vient de se rendre !
 L'ennemi s'est enfui !
 Une glorieuse victoire !
-“
 
-Pour ses hauts faits d'armes, %s reçoit %d points d'expérience."
+
+"Pour ses hauts faits d'armes, %s reçoit %d points d'expérience."
 "%s se rend à l'ennemi, et part couvert de honte."
 %s n'a pas été à la hauteur et a préféré fuir le combat.
 "Vos forces subissent une défaite importante, et %s abandonne votre cause."
@@ -392,8 +392,8 @@ Il n'y a aucun bateau à appeler.
 Les Chaînes de Gladiateur empêchent %s de fuir !
 Les Chaînes de Gladiateur empêchent %s de se rendre !
 Niveau %d, %s
-“
-Inflige %d points de dégâts."
+
+"Inflige %d points de dégâts."
 Libre
 N/A
 Coût
@@ -413,10 +413,10 @@ Tour de %s.
 %s apprécierait de recevoir quelques ressources.
 %s draine %d points de vie aux %s.
 %s drainent %d points de vie aux %s.
-“
- et l'un d'eux est réanimé."
-“
- et %d d'entre eux sont réanimés."
+
+" et l'un d'eux est réanimé."
+
+" et %d d'entre eux sont réanimés."
 %s infligent deux fois plus de dégâts.
 Les %s infligent deux fois plus de dégâts.
 Un éclair frappe les %s !
@@ -432,10 +432,10 @@ Les %s drainent des points de magie à %s.
 Les sentinelles
 %s inflige %d points de dégâts.
 Les %s infligent %d points de dégâts.
-“
-Un(e) %s meurt."
-“
-%d %s meurent."
+
+"Un(e) %s meurt."
+
+"%d %s meurent."
 Att.
 Déf.
 Magie
@@ -485,10 +485,10 @@ Soigner les %s.
 "À votre grand désarroi, l'objet : %s est gardé par %s %s.
 
 Voulez-vous affronter les gardiens ?"
-"Il n'y a aucun %s ici pour l'instant.
-“
-"%d %s rejoignent votre armée.
-“
+"Il n'y a aucun %s ici pour l'instant."
+
+"%d %s rejoignent votre armée."
+
 "Il y a bien longtemps, cette cité abritait des Dragons et leur fabuleux trésor, mais aujourd'hui le vent siffle à travers ces immenses couloirs vides."
 "Les %s apprécieraient de se joindre à votre héros, mais constatent que votre armée est au complet."
 artéfact
@@ -502,8 +502,8 @@ Rang
 Joueur
 Carte
 Jours
-“
-Tricheur! +maximum"
+
+"Tricheur! +maximum"
 "Temps 
 Total"
 "Score 
@@ -512,7 +512,7 @@ de Base"
 "Score 
 Définitif"
 +1 Niveau
-“
+
 ***Aide de la ligne de commande***
 
 /S0 - coupe le son et la musique
@@ -523,7 +523,7 @@ Exemple :
 HEROES3 /S0 /I0
 
 Démarre Heroes III sans son et sans introduction.
-“
+
 %s a gagné un niveau.
 %s a atteint le Niveau %d - (%s)
 "HOTSEAT 
@@ -679,11 +679,11 @@ Le temps passé au Valhalla vous permet d'apprendre des techniques de combat plus
 %d %s supplémentaires recrutables dans la ville de %s.
 Croissance par semaine des %s.
 Chaque semaine, le nombre total de la créature %s augmente de +%d.
-“
 
-Croissance de base +%d"
-“
-Demeures Externes %+d"
+
+"Croissance de base +%d"
+
+"Demeures Externes %+d"
 Salle du Conseil
 Sortie de la Guilde des Mages
 Garnison
@@ -761,8 +761,8 @@ Erreur de fichier son !
 "Effacer les scores fera disparaître toute trace de vos accomplissements passés. 
 
 Êtes-vous certain de vouloir effacer les Scores ?"
-“
-%s est détruit."
+
+"%s est détruit."
 Vaincre le monstre %s qui est dans la région %s des souterrains.
 %s n'ont pas réussi à terminer leur quête dans le temps imparti. Ils ont perdu.
 %s a perdu le héros %s. Votre quête est terminée.

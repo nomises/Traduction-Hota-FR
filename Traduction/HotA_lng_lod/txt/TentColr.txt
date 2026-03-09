@@ -1,8 +1,8 @@
-Light blue
-Green
-Red
-Dark blue
-Brown
-Purple
-White
-Black
+Bleu clair
+Vert
+Rouge
+Bleu sombre
+Brun
+Violet
+Blanc
+Noir
