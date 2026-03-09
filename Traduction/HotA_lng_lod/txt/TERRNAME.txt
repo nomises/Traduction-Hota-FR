@@ -3,7 +3,7 @@ Désert
 Prairie
 Neige
 Marais
-Rocailleux
+Rocaille
 Souterrain
 Lave
 Océan
