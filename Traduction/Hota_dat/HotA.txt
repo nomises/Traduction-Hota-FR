@@ -1,4 +1,4 @@
-Sections count: 370
+Sections count: 432
 ------------------------------------------------
 Name: "monst150"
 Path: "Monsters\monster150.str"
@@ -14,7 +14,7 @@ Text 7: ""
 Text 8: ""
 Has FilS: "true"
 FilS size: 116
-FilS: "ff ff ff ff 05 00 00 00 0c 55 67 00 00 55 67 00 65 04 02 00 80 da 9e 03 60 da 9e 03 30 da 9e 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 a0 0f 00 00 84 03 00 00 39 03 00 00 00 00 00 00 00 00 00 00 fa 00 00 00 00 00 00 00 14 00 00 00 0a 00 00 00 04 00 00 00 07 00 00 00 08 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
+FilS: "ff ff ff ff 05 00 00 00 0c 55 67 00 00 55 67 00 65 04 02 00 80 da 9e 03 60 da 9e 03 30 da 9e 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 b8 0b 00 00 84 03 00 00 39 03 00 00 00 00 00 00 00 00 00 00 fa 00 00 00 00 00 00 00 14 00 00 00 0a 00 00 00 04 00 00 00 07 00 00 00 08 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
 Vals count: "4"
 Val 0: "0"
 Val 1: "146"
@@ -520,7 +520,7 @@ Text 7: ""
 Text 8: ""
 Has FilS: "true"
 FilS size: 116
-FilS: "0a 00 00 00 01 00 00 00 0c 55 67 00 00 55 67 00 18 00 00 00 80 da 9e 03 60 da 9e 03 30 da 9e 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 8c 00 00 00 ba 00 00 00 ba 00 00 00 08 00 00 00 00 00 00 00 0e 00 00 00 06 00 00 00 06 00 00 00 05 00 00 00 02 00 00 00 04 00 00 00 00 00 00 00 01 00 00 00 10 00 00 00 1e 00 00 00"
+FilS: "0a 00 00 00 01 00 00 00 0c 55 67 00 00 55 67 00 18 00 00 00 80 da 9e 03 60 da 9e 03 30 da 9e 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 8c 00 00 00 c9 00 00 00 c9 00 00 00 08 00 00 00 00 00 00 00 0e 00 00 00 06 00 00 00 06 00 00 00 05 00 00 00 03 00 00 00 04 00 00 00 00 00 00 00 01 00 00 00 10 00 00 00 1e 00 00 00"
 Vals count: "4"
 Val 0: "0"
 Val 1: "7"
@@ -543,7 +543,7 @@ Text 7: ""
 Text 8: ""
 Has FilS: "true"
 FilS size: 116
-FilS: "0a 00 00 00 01 00 00 00 0c 55 67 00 00 55 67 00 18 00 00 00 80 da 9e 03 60 da 9e 03 30 da 9e 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 aa 00 00 00 e8 00 00 00 16 01 00 00 08 00 00 00 00 00 00 00 10 00 00 00 07 00 00 00 07 00 00 00 05 00 00 00 02 00 00 00 05 00 00 00 00 00 00 00 01 00 00 00 10 00 00 00 19 00 00 00"
+FilS: "0a 00 00 00 01 00 00 00 0c 55 67 00 00 55 67 00 18 00 00 00 80 da 9e 03 60 da 9e 03 30 da 9e 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 aa 00 00 00 f8 00 00 00 2a 01 00 00 08 00 00 00 00 00 00 00 10 00 00 00 07 00 00 00 07 00 00 00 05 00 00 00 03 00 00 00 05 00 00 00 00 00 00 00 01 00 00 00 10 00 00 00 19 00 00 00"
 Vals count: "4"
 Val 0: "0"
 Val 1: "7"
@@ -581,7 +581,7 @@ Texts count: "9"
 Text 0: ""
 Text 1: "arma"
 Text 2: "CBLWARM.def"
-Text 3: "Glyptodons Royal"
+Text 3: "Glyptodon Royal"
 Text 4: "Glyptodons Royaux"
 Text 5: ""
 Text 6: ""
@@ -674,7 +674,7 @@ Text 0: ""
 Text 1: "worm"
 Text 2: "COLGOI.def"
 Text 3: "Olgoi-Khorkhoi"
-Text 4: "Olgoi-Khorkhoi"
+Text 4: "Olgoi-Khorkhois"
 Text 5: ""
 Text 6: ""
 Text 7: ""
@@ -719,8 +719,8 @@ Texts count: "9"
 Text 0: ""
 Text 1: "guns"
 Text 2: "CBOUNTHT.def"
-Text 3: "Chasseur de Prime"
-Text 4: "Chasseurs de Prime"
+Text 3: "Chasseur de Primes"
+Text 4: "Chasseurs de Primes"
 Text 5: ""
 Text 6: ""
 Text 7: ""
@@ -766,7 +766,7 @@ Text 0: ""
 Text 1: "ccot"
 Text 2: "RCOUATL.def"
 Text 3: "Couatl Écarlate"
-Text 4: "Couatls Écarlate"
+Text 4: "Couatls Écarlates"
 Text 5: ""
 Text 6: ""
 Text 7: ""
@@ -796,7 +796,7 @@ Text 7: ""
 Text 8: ""
 Has FilS: "true"
 FilS size: 116
-FilS: "0a 00 00 00 06 00 00 00 0c 55 67 00 00 55 67 00 01 06 02 00 80 da 9e 03 60 da 9e 03 30 da 9e 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 c4 09 00 00 27 0f 00 00 27 0f 00 00 01 00 00 00 00 00 00 00 c8 00 00 00 06 00 00 00 12 00 00 00 14 00 00 00 28 00 00 00 32 00 00 00 00 00 00 00 00 00 00 00 04 00 00 00 0a 00 00 00"
+FilS: "0a 00 00 00 06 00 00 00 0c 55 67 00 00 55 67 00 01 06 02 00 80 da 9e 03 60 da 9e 03 30 da 9e 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 98 08 00 00 27 0f 00 00 27 0f 00 00 01 00 00 00 00 00 00 00 c8 00 00 00 06 00 00 00 12 00 00 00 14 00 00 00 28 00 00 00 32 00 00 00 00 00 00 00 00 00 00 00 04 00 00 00 0a 00 00 00"
 Vals count: "4"
 Val 0: "0"
 Val 1: "7"
@@ -819,10 +819,332 @@ Text 7: ""
 Text 8: ""
 Has FilS: "true"
 FilS size: 116
-FilS: "0a 00 00 00 06 00 00 00 0c 55 67 00 00 55 67 00 01 06 02 00 80 da 9e 03 60 da 9e 03 30 da 9e 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00 00 00 00 00 a0 0f 00 00 f1 14 00 00 21 19 00 00 01 00 00 00 00 00 00 00 2c 01 00 00 07 00 00 00 17 00 00 00 17 00 00 00 28 00 00 00 32 00 00 00 00 00 00 00 00 00 00 00 03 00 00 00 08 00 00 00"
+FilS: "0a 00 00 00 06 00 00 00 0c 55 67 00 00 55 67 00 01 06 02 00 80 da 9e 03 60 da 9e 03 30 da 9e 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00 00 00 00 00 ac 0d 00 00 f1 14 00 00 21 19 00 00 01 00 00 00 00 00 00 00 2c 01 00 00 07 00 00 00 17 00 00 00 17 00 00 00 28 00 00 00 32 00 00 00 00 00 00 00 00 00 00 00 03 00 00 00 08 00 00 00"
 Vals count: "4"
 Val 0: "0"
 Val 1: "7"
+Val 2: "16"
+Val 3: "-1"
+------------------------------------------------
+
+------------------------------------------------
+Name: "monst186"
+Path: "Monsters\monster186.str"
+Texts count: "9"
+Text 0: ""
+Text 1: "kobl"
+Text 2: "ckobold.def"
+Text 3: "Kobold"
+Text 4: "Kobolds"
+Text 5: ""
+Text 6: ""
+Text 7: ""
+Text 8: ""
+Has FilS: "true"
+FilS size: 116
+FilS: "0b 00 00 00 00 00 00 00 0c 55 67 00 00 55 67 00 10 00 00 00 80 da 9e 03 60 da 9e 03 30 da 9e 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 28 00 00 00 4a 00 00 00 36 00 00 00 0f 00 00 00 00 00 00 00 08 00 00 00 03 00 00 00 03 00 00 00 04 00 00 00 01 00 00 00 02 00 00 00 00 00 00 00 00 00 00 00 14 00 00 00 32 00 00 00"
+Vals count: "4"
+Val 0: "0"
+Val 1: "55"
+Val 2: "16"
+Val 3: "187"
+------------------------------------------------
+
+------------------------------------------------
+Name: "monst187"
+Path: "Monsters\monster187.str"
+Texts count: "9"
+Text 0: ""
+Text 1: "kobl"
+Text 2: "cfkobld.def"
+Text 3: "Contremaître Kobold"
+Text 4: "Contremaîtres Kobolds"
+Text 5: ""
+Text 6: ""
+Text 7: ""
+Text 8: ""
+Has FilS: "true"
+FilS size: 116
+FilS: "0b 00 00 00 00 00 00 00 0c 55 67 00 00 55 67 00 10 00 00 00 80 da 9e 03 60 da 9e 03 30 da 9e 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 3c 00 00 00 50 00 00 00 54 00 00 00 0f 00 00 00 00 00 00 00 08 00 00 00 05 00 00 00 05 00 00 00 06 00 00 00 01 00 00 00 02 00 00 00 00 00 00 00 00 00 00 00 14 00 00 00 1e 00 00 00"
+Vals count: "4"
+Val 0: "0"
+Val 1: "55"
+Val 2: "16"
+Val 3: "-1"
+------------------------------------------------
+
+------------------------------------------------
+Name: "monst188"
+Path: "Monsters\monster188.str"
+Texts count: "9"
+Text 0: ""
+Text 1: "mram"
+Text 2: "Cmtram.def"
+Text 3: "Mouflon des Montagnes"
+Text 4: "Mouflons des Montagnes"
+Text 5: ""
+Text 6: ""
+Text 7: ""
+Text 8: ""
+Has FilS: "true"
+FilS size: 116
+FilS: "0b 00 00 00 01 00 00 00 0c 55 67 00 00 55 67 00 11 00 00 00 80 da 9e 03 60 da 9e 03 30 da 9e 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 87 00 00 00 be 00 00 00 e4 00 00 00 09 00 00 00 00 00 00 00 12 00 00 00 07 00 00 00 07 00 00 00 06 00 00 00 03 00 00 00 04 00 00 00 00 00 00 00 00 00 00 00 10 00 00 00 1e 00 00 00"
+Vals count: "4"
+Val 0: "0"
+Val 1: "7"
+Val 2: "16"
+Val 3: "189"
+------------------------------------------------
+
+------------------------------------------------
+Name: "monst189"
+Path: "Monsters\monster189.str"
+Texts count: "9"
+Text 0: ""
+Text 1: "mram"
+Text 2: "Carhar.def"
+Text 3: "Argali"
+Text 4: "Argalis"
+Text 5: ""
+Text 6: ""
+Text 7: ""
+Text 8: ""
+Has FilS: "true"
+FilS size: 116
+FilS: "0b 00 00 00 01 00 00 00 0c 55 67 00 00 55 67 00 11 00 00 00 80 da 9e 03 60 da 9e 03 30 da 9e 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 aa 00 00 00 d0 00 00 00 fa 00 00 00 09 00 00 00 00 00 00 00 12 00 00 00 08 00 00 00 08 00 00 00 06 00 00 00 03 00 00 00 04 00 00 00 00 00 00 00 00 00 00 00 10 00 00 00 19 00 00 00"
+Vals count: "4"
+Val 0: "0"
+Val 1: "7"
+Val 2: "16"
+Val 3: "-1"
+------------------------------------------------
+
+------------------------------------------------
+Name: "monst190"
+Path: "Monsters\monster190.str"
+Texts count: "9"
+Text 0: ""
+Text 1: "vori"
+Text 2: "cself.def"
+Text 3: "Elfe des Neiges"
+Text 4: "Elfes des Neiges"
+Text 5: ""
+Text 6: ""
+Text 7: ""
+Text 8: ""
+Has FilS: "true"
+FilS size: 116
+FilS: "0b 00 00 00 02 00 00 00 0c 55 67 00 00 55 67 00 14 10 00 00 80 da 9e 03 60 da 9e 03 30 da 9e 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e6 00 00 00 08 01 00 00 72 01 00 00 07 00 00 00 00 00 00 00 15 00 00 00 06 00 00 00 09 00 00 00 08 00 00 00 04 00 00 00 06 00 00 00 04 00 00 00 00 00 00 00 0c 00 00 00 19 00 00 00"
+Vals count: "4"
+Val 0: "0"
+Val 1: "2"
+Val 2: "21"
+Val 3: "191"
+------------------------------------------------
+
+------------------------------------------------
+Name: "monst191"
+Path: "Monsters\monster191.str"
+Texts count: "9"
+Text 0: ""
+Text 1: "vors"
+Text 2: "cstlf.def"
+Text 3: "Elfe d'Acier"
+Text 4: "Elfes d'Acier"
+Text 5: ""
+Text 6: ""
+Text 7: ""
+Text 8: ""
+Has FilS: "true"
+FilS size: 116
+FilS: "0b 00 00 00 02 00 00 00 0c 55 67 00 00 55 67 00 14 10 00 00 80 da 9e 03 60 da 9e 03 30 da 9e 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 04 01 00 00 24 01 00 00 0e 02 00 00 07 00 00 00 00 00 00 00 18 00 00 00 07 00 00 00 09 00 00 00 0a 00 00 00 04 00 00 00 06 00 00 00 08 00 00 00 00 00 00 00 0c 00 00 00 14 00 00 00"
+Vals count: "4"
+Val 0: "0"
+Val 1: "2"
+Val 2: "21"
+Val 3: "-1"
+------------------------------------------------
+
+------------------------------------------------
+Name: "monst192"
+Path: "Monsters\monster192.str"
+Texts count: "9"
+Text 0: ""
+Text 1: "yeti"
+Text 2: "cyeti.def"
+Text 3: "Yéti"
+Text 4: "Yétis"
+Text 5: ""
+Text 6: ""
+Text 7: ""
+Text 8: ""
+Has FilS: "true"
+FilS size: 116
+FilS: "0b 00 00 00 03 00 00 00 0c 55 67 00 00 55 67 00 11 00 00 00 80 da 9e 03 60 da 9e 03 30 da 9e 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 45 01 00 00 f8 01 00 00 f8 01 00 00 04 00 00 00 00 00 00 00 28 00 00 00 06 00 00 00 0a 00 00 00 08 00 00 00 07 00 00 00 09 00 00 00 00 00 00 00 00 00 00 00 0a 00 00 00 14 00 00 00"
+Vals count: "4"
+Val 0: "0"
+Val 1: "92"
+Val 2: "16"
+Val 3: "193"
+------------------------------------------------
+
+------------------------------------------------
+Name: "monst193"
+Path: "Monsters\monster193.str"
+Texts count: "9"
+Text 0: ""
+Text 1: "yeti"
+Text 2: "cmspir.def"
+Text 3: "Yéti Runiste"
+Text 4: "Yétis Runistes"
+Text 5: ""
+Text 6: ""
+Text 7: ""
+Text 8: ""
+Has FilS: "true"
+FilS size: 116
+FilS: "0b 00 00 00 03 00 00 00 0c 55 67 00 00 55 67 00 11 00 00 00 80 da 9e 03 60 da 9e 03 30 da 9e 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 90 01 00 00 72 02 00 00 ef 02 00 00 04 00 00 00 00 00 00 00 2d 00 00 00 07 00 00 00 0b 00 00 00 09 00 00 00 07 00 00 00 09 00 00 00 00 00 00 00 00 00 00 00 0a 00 00 00 10 00 00 00"
+Vals count: "4"
+Val 0: "0"
+Val 1: "92"
+Val 2: "16"
+Val 3: "-1"
+------------------------------------------------
+
+------------------------------------------------
+Name: "monst194"
+Path: "Monsters\monster194.str"
+Texts count: "9"
+Text 0: ""
+Text 1: "sham"
+Text 2: "cshamn.def"
+Text 3: "Chaman"
+Text 4: "Chamans"
+Text 5: ""
+Text 6: ""
+Text 7: ""
+Text 8: ""
+Has FilS: "true"
+FilS size: 116
+FilS: "0b 00 00 00 04 00 00 00 0c 55 67 00 00 55 67 00 14 00 00 00 80 da 9e 03 60 da 9e 03 30 da 9e 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 c2 01 00 00 3b 02 00 00 ad 02 00 00 03 00 00 00 00 00 00 00 23 00 00 00 05 00 00 00 0b 00 00 00 08 00 00 00 0b 00 00 00 0d 00 00 00 0c 00 00 00 03 00 00 00 08 00 00 00 10 00 00 00"
+Vals count: "4"
+Val 0: "0"
+Val 1: "65"
+Val 2: "18"
+Val 3: "195"
+------------------------------------------------
+
+------------------------------------------------
+Name: "monst195"
+Path: "Monsters\monster195.str"
+Texts count: "9"
+Text 0: ""
+Text 1: "sham"
+Text 2: "cgshmn.def"
+Text 3: "Chaman Vénérable"
+Text 4: "Chamans Vénérables"
+Text 5: ""
+Text 6: ""
+Text 7: ""
+Text 8: ""
+Has FilS: "true"
+FilS size: 116
+FilS: "0b 00 00 00 04 00 00 00 0c 55 67 00 00 55 67 00 14 00 00 00 80 da 9e 03 60 da 9e 03 30 da 9e 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 58 02 00 00 aa 02 00 00 32 03 00 00 03 00 00 00 00 00 00 00 23 00 00 00 06 00 00 00 0c 00 00 00 0b 00 00 00 0b 00 00 00 0d 00 00 00 18 00 00 00 03 00 00 00 08 00 00 00 0c 00 00 00"
+Vals count: "4"
+Val 0: "0"
+Val 1: "65"
+Val 2: "18"
+Val 3: "-1"
+------------------------------------------------
+
+------------------------------------------------
+Name: "monst196"
+Path: "Monsters\monster196.str"
+Texts count: "9"
+Text 0: ""
+Text 1: "mamn"
+Text 2: "cmammth.DEF"
+Text 3: "Mammouth"
+Text 4: "Mammouths"
+Text 5: ""
+Text 6: ""
+Text 7: ""
+Text 8: ""
+Has FilS: "true"
+FilS size: 116
+FilS: "0b 00 00 00 05 00 00 00 0c 55 67 00 00 55 67 00 11 00 00 00 80 da 9e 03 60 da 9e 03 30 da 9e 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 52 03 00 00 4f 05 00 00 4f 05 00 00 02 00 00 00 01 00 00 00 78 00 00 00 05 00 00 00 0c 00 00 00 10 00 00 00 0e 00 00 00 14 00 00 00 00 00 00 00 00 00 00 00 05 00 00 00 0c 00 00 00"
+Vals count: "4"
+Val 0: "0"
+Val 1: "90"
+Val 2: "16"
+Val 3: "197"
+------------------------------------------------
+
+------------------------------------------------
+Name: "monst197"
+Path: "Monsters\monster197.str"
+Texts count: "9"
+Text 0: ""
+Text 1: "wmam"
+Text 2: "cwmmth.DEF"
+Text 3: "Mammouth de guerre"
+Text 4: "Mammouths de guerre"
+Text 5: ""
+Text 6: ""
+Text 7: ""
+Text 8: ""
+Has FilS: "true"
+FilS size: 116
+FilS: "0b 00 00 00 05 00 00 00 0c 55 67 00 00 55 67 00 11 00 00 00 80 da 9e 03 60 da 9e 03 30 da 9e 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 03 00 00 41 06 00 00 41 06 00 00 02 00 00 00 01 00 00 00 87 00 00 00 06 00 00 00 0e 00 00 00 12 00 00 00 0e 00 00 00 14 00 00 00 00 00 00 00 00 00 00 00 05 00 00 00 0a 00 00 00"
+Vals count: "4"
+Val 0: "0"
+Val 1: "90"
+Val 2: "16"
+Val 3: "-1"
+------------------------------------------------
+
+------------------------------------------------
+Name: "monst198"
+Path: "Monsters\monster198.str"
+Texts count: "9"
+Text 0: ""
+Text 1: "jotn"
+Text 2: "cjotun.DEF"
+Text 3: "Jotunn"
+Text 4: "Jotunns"
+Text 5: ""
+Text 6: ""
+Text 7: ""
+Text 8: ""
+Has FilS: "true"
+FilS size: 116
+FilS: "0b 00 00 00 06 00 00 00 0c 55 67 00 00 55 67 00 11 02 00 00 80 da 9e 03 60 da 9e 03 30 da 9e 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 d0 07 00 00 9b 0d 00 00 54 10 00 00 01 00 00 00 00 00 00 00 a5 00 00 00 08 00 00 00 12 00 00 00 12 00 00 00 28 00 00 00 32 00 00 00 00 00 00 00 01 00 00 00 04 00 00 00 0a 00 00 00"
+Vals count: "4"
+Val 0: "0"
+Val 1: "96"
+Val 2: "16"
+Val 3: "199"
+------------------------------------------------
+
+------------------------------------------------
+Name: "monst199"
+Path: "Monsters\monster199.str"
+Texts count: "9"
+Text 0: ""
+Text 1: "jotw"
+Text 2: "cwjotn.def"
+Text 3: "Seigneur Jotunn"
+Text 4: "Seigneurs Jotunns"
+Text 5: ""
+Text 6: ""
+Text 7: ""
+Text 8: ""
+Has FilS: "true"
+FilS size: 116
+FilS: "0b 00 00 00 06 00 00 00 0c 55 67 00 00 55 67 00 11 02 00 00 80 da 9e 03 60 da 9e 03 30 da 9e 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 ac 0d 00 00 eb 14 00 00 26 1a 00 00 01 00 00 00 00 00 00 00 2c 01 00 00 0a 00 00 00 14 00 00 00 14 00 00 00 28 00 00 00 32 00 00 00 00 00 00 00 63 00 00 00 03 00 00 00 08 00 00 00"
+Vals count: "4"
+Val 0: "0"
+Val 1: "96"
 Val 2: "16"
 Val 3: "-1"
 ------------------------------------------------
@@ -867,7 +1189,7 @@ Text 3: "Canon"
 Text 4: "Artillery Bonus: Canon"
 Text 5: "{Canon}
 
-Augmente l'Attaque et la Défense des Canons de 20% à chaque fois que 6 niveau sont atteints."
+Augmente l'Attaque et la Défense des Canons de 20% à chaque fois que 6 niveaux sont atteints."
 Text 6: "Jeremy"
 Text 7: "Frère du légendaire Bidley. Pas aussi strict ou chanceux, Jeremy aime s'amuser, l'alcool et les jolies femmes. Il est adroit avec les armes et collectionne toutes les nouvelles inventions. Le bruit des cannons est plus agréable pour lui que n'importe quelle musique. On dit qu'il est capable de toucher une mouette à 100 pieds avec un Canon."
 Text 8: ""
@@ -896,7 +1218,7 @@ Text 3: "Dracs"
 Text 4: "Creature Bonus: Dracs"
 Text 5: "{Dracs et Dracs Mordorés}
 
-Les Dracs et les Dracs Mordorés gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 4 niveau sont atteints."
+Les Dracs et les Dracs Mordorés gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 4 niveaux sont atteints."
 Text 6: "Illor"
 Text 7: "En conflit avec sa famille qui ne supportait plus ses caprices et ses airs prêtentieux, Illor quitta son pays pour se consacrer à sa passion pour le ciel et ses créatures volantes. Plus tard, il s'engagea à bord d'un vaisseau pirate, mais fût rapidement déconsidéré par l'ensemble de l'équipage. Abandonné sur une île habitée par des rapaces géants, Illor passera de longues années à tenter d'apprivoiser ces Oiseaux."
 Text 8: ""
@@ -925,7 +1247,7 @@ Text 3: "Matelots"
 Text 4: "Creature Bonus: Matelots"
 Text 5: "{Matelots et Marins}
 
-Les Matelots et les Marins gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 2 niveau sont atteints."
+Les Matelots et les Marins gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 2 niveaux sont atteints."
 Text 6: "Derek"
 Text 7: "Derek était esclave dans les galères. Il déclencha une révolte avec d'autres captifs, et après avoir éliminé ses persécuteurs il s'empara d'un navire. dès lors avec ses amis, il rejoint les rangs de la piraterie. Derek est différent des autres Capitaines car il est opposé à tout châtiment corporel, privilégiant ainsi le travail en équipe."
 Text 8: ""
@@ -983,7 +1305,7 @@ Text 3: "Pirates"
 Text 4: "Creature Bonus: Pirates"
 Text 5: "{Pirates, Corsaires et Flibustiers}
 
-Les Pirates, les Corsaires et les Flibustiers gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 3 niveau sont atteints."
+Les Pirates, les Corsaires et les Flibustiers gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 3 niveaux sont atteints."
 Text 6: "Anabel"
 Text 7: "Tous les pirates savent qu'il n'existe pas de femme plus sournoise et dangereuse qu'Anabel. Son père faisait partie de ces pirates qui aimaient la cruauté au point qu'elle en devenait un vice, et sa fille a hérité du même caractère. Les hommes sont capables de repousser leurs limites tant Anabel est un exemple mêlant grâce et bravoure."
 Text 8: ""
@@ -1041,7 +1363,7 @@ Text 3: "Reconnaissance"
 Text 4: "Secondary Skill Bonus: Reconnaissance"
 Text 5: "{Reconnaissance}
 
-Le champ de vision du Héros augmente de +1, chaque fois que 6 niveau sont atteints."
+Le champ de vision du Héros augmente de +1, chaque fois que 6 niveaux sont atteints."
 Text 6: "Miriam"
 Text 7: "Cette fille traine derrière elle un sombre passé. Pourtant, elle est capable d'apercevoir les obstacles ou d'éventuels ennemis avant tout le monde. Après plusieurs différends avec ses collègues éclaireurs, elle décide de rejoindre une bande de pirates qui la surnommeront plus tard, ""Œil de Lynx""."
 Text 8: ""
@@ -1070,7 +1392,7 @@ Text 3: "Sorcières des mers"
 Text 4: "Creature Bonus: Sorcières des mers"
 Text 5: "{Sorcières des mers et Ensorceleuses}
 
-Les Sorcières des mers et les Ensorceleuses gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 5 niveau sont atteints."
+Les Sorcières des mers et les Ensorceleuses gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 5 niveaux sont atteints."
 Text 6: "Casmetra"
 Text 7: "Elle fait partie des grandes prêtresses d'un mystérieux culte d'adoration de la mer totalement inconnu il n'y a pas si longtemps. Personne ne peut dire qui est cette femme et d'où elle vient. Néanmoins, tous ceux qui ont rencontré Casmetra ne parlent que de sa beauté et ses pouvoirs magiques. La prêtresse a d'abord écumé les mers pour assouvir ses intérêts personnels, mais le temps passant, elle est devenue très proche de ses amis Corsaires."
 Text 8: ""
@@ -1331,7 +1653,7 @@ Text 3: "Nix"
 Text 4: "Creature Bonus: Nix"
 Text 5: "{Nix et Soldats Nix}
 
-Les Nix et les Soldats Nix gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 6 niveau sont atteints."
+Les Nix et les Soldats Nix gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 6 niveaux sont atteints."
 Text 6: "Tark"
 Text 7: "Descendant d'une famille royale légendaire aujourd'hui disparue, Tark est un roi qui espère retrouver son peuple grâce à l'appui de puissants alliés. De ses frères Nix à ses amis pirates et corsaires, nombreux sont ceux qui sont prêts à le rejoindre le moment venu. Aussi puissant et adroit que le plus expérimenté des soldats Nix, Tark est de toutes les batailles sur terre comme sur mer."
 Text 8: ""
@@ -1389,13 +1711,13 @@ Text 3: "Reconnaissance"
 Text 4: "Secondary Skill Bonus: Reconnaissance"
 Text 5: "{Reconnaissance}
 
-Le champ de vision du Héros augmente de +1, chaque fois que 6 niveau sont atteints."
+Le champ de vision du Héros augmente de +1, chaque fois que 6 niveaux sont atteints."
 Text 6: "Béatrice"
 Text 7: "Béatrice fait partie de ces fameux éclaireurs qui accompagnaient les grands pionniers d'Erathia. Repérée par Catherine en personne, elle jura fidélité à la reine avant d'être promue générale quelques années plus tard. Depuis, elle continue de développer ses compétences pour servir au mieux le royaume."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
-FilS: "01 00 00 00 07 00 00 00 00 00 00 00 06 00 00 00 01 00 00 00 03 00 00 00 01 00 00 00 00 00 00 00 ff ff ff ff 00 00 00 00 02 00 00 00 04 00 00 00 00 00 00 00 00 00 00 00 01 01 01 00 00 00 00 00 00 00 00 00 0a 00 00 00 14 00 00 00 04 00 00 00 07 00 00 00 02 00 00 00 03 00 00 00"
+FilS: "01 00 00 00 07 00 00 00 00 00 00 00 06 00 00 00 01 00 00 00 03 00 00 00 01 00 00 00 00 00 00 00 ff ff ff ff 00 00 00 00 02 00 00 00 04 00 00 00 00 00 00 00 00 00 00 00 01 01 01 00 00 00 00 00 00 00 00 00 0a 00 00 00 14 00 00 00 04 00 00 00 07 00 00 00 04 00 00 00 05 00 00 00"
 Vals count: "8"
 Val 0: "182"
 Val 1: "0"
@@ -1447,7 +1769,7 @@ Text 3: "Baliste"
 Text 4: "Artillery Bonus: Baliste"
 Text 5: "{Baliste}
 
-La Baliste reçoit un bonus en Attaque-Défense de 30% tous les 5 niveau."
+La Baliste reçoit un bonus en Attaque-Défense de 30% tous les 5 niveaux."
 Text 6: "Ranloo"
 Text 7: "Poursuivant son rêve d'enfant, Ranloo est engagé comme aide armurier à Mestley. La vie d'un mort-vivant n'est pas de tout repos, mais Ranloo rendit la sienne plus agréable en devenant très adroit de ses mains. C'est ainsi qu'il prit naturellement la place du maître-forgeron, dès qu'il eut conçu et réalisé une Baliste de très haute précision munie de ses projectiles."
 Text 8: ""
@@ -1482,7 +1804,7 @@ Text 7: "C'est au cours d'une foire qui se tenait dans son village que Giselle s
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
-FilS: "01 00 00 00 07 00 00 00 02 00 00 00 1c 00 00 00 02 00 00 00 ff ff ff ff 00 00 00 00 00 00 00 00 ff ff ff ff 0e 00 00 00 10 00 00 00 12 00 00 00 00 00 00 00 00 00 00 00 01 01 00 00 00 00 00 00 00 00 00 00 0c 00 00 00 18 00 00 00 03 00 00 00 05 00 00 00 02 00 00 00 04 00 00 00"
+FilS: "01 00 00 00 07 00 00 00 02 00 00 00 1c 00 00 00 02 00 00 00 ff ff ff ff 00 00 00 00 00 00 00 00 ff ff ff ff 0e 00 00 00 10 00 00 00 12 00 00 00 00 00 00 00 00 00 00 00 01 01 00 00 00 00 00 00 00 00 00 00 0c 00 00 00 18 00 00 00 05 00 00 00 07 00 00 00 02 00 00 00 04 00 00 00"
 Vals count: "8"
 Val 0: "186"
 Val 1: "0"
@@ -1505,7 +1827,7 @@ Text 3: "Hobbits"
 Text 4: "Creature Bonus: Hobbits"
 Text 5: "{Hobbits et Grenadiers}
 
-Les Hobbits et les Grenadiers gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 10% à chaque niveau."
+Les Hobbits et les Hobbits Grenadiers gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 10% à chaque niveau."
 Text 6: "Henrietta"
 Text 7: "Même une hobbit de basse condition originaire du fin fond des forêts d'Eeofol est capable d'exploits lorsqu'une calamité pareille s'abat sur son pays. Ce nouveau monde, dépourvu de toits de chaume, de champs de carottes, ou de vieillards acariâtres, a changé Henrietta, et elle est maintenant prête à le changer elle-même. Le feu Kreegan a réduit sa patrie en cendres et a brûlé son cœur, mais il lui a servi aussi à se forger un mental d'acier."
 Text 8: ""
@@ -1534,13 +1856,13 @@ Text 3: "Mécaniciens"
 Text 4: "Creature Bonus: Mécaniciens"
 Text 5: "{Mécaniciens et Ingénieurs}
 
-Les Mécaniciens et les Ingénieurs gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% aux 2 niveau."
+Les Mécaniciens et les Ingénieurs gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 2 niveaux sont atteints."
 Text 6: "Sam"
 Text 7: "Depuis toujours, il est une huile noire qui jaillit de terre et fait des ravages chez les paysans de Jadame, créant des fontaines incontrôlables responsables de la destruction de nombreuses cultures et pâturages. Sam, fille et apprentie d'un forgeron émérite, fut la première à apprivoiser cette force de la nature en la forçant à entrer dans un tuyau relié directement au fourneau de sa forge. grâce à ses inventions, l'huile noire est devenue le sang, la nourriture et les armes de la cité de Burton."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
-FilS: "01 00 00 00 07 00 00 00 14 00 00 00 16 00 00 00 01 00 00 00 13 00 00 00 01 00 00 00 00 00 00 00 ff ff ff ff ac 00 00 00 ac 00 00 00 ac 00 00 00 00 00 00 00 00 00 00 00 01 01 00 00 00 00 00 00 00 00 00 00 06 00 00 00 08 00 00 00 06 00 00 00 08 00 00 00 06 00 00 00 08 00 00 00"
+FilS: "01 00 00 00 07 00 00 00 14 00 00 00 16 00 00 00 01 00 00 00 13 00 00 00 01 00 00 00 00 00 00 00 ff ff ff ff ac 00 00 00 ac 00 00 00 ac 00 00 00 00 00 00 00 00 00 00 00 01 01 00 00 00 00 00 00 00 00 00 00 07 00 00 00 09 00 00 00 07 00 00 00 09 00 00 00 07 00 00 00 09 00 00 00"
 Vals count: "8"
 Val 0: "188"
 Val 1: "1"
@@ -1563,13 +1885,13 @@ Text 3: "Flingueurs"
 Text 4: "Creature Bonus: Pistolero"
 Text 5: "{Pistoleros et Chasseurs de Prime}
 
-Les Pistoleros et les Chasseurs de Prime gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% aux 6 niveau."
+Les Pistoleros et les Chasseurs de Prime gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 6 niveaux sont atteints."
 Text 6: "Tancred"
 Text 7: "À l'époque où il était alchimiste, Tancred perfectionna une ancienne préparation à base de différents composés qui explosait sans l'aide de la magie. À son grand étonnement, le composant crucial, le salpêtre, était pratiquement absent d'Antagarich. Ce n'est qu'à Jadame que Tancred découvrira les vastes grottes contenant cet élément rare, grâce auquel il finira par concevoir une arme capable de projeter de minuscules balles avec une puissance impressionnante."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
-FilS: "00 00 00 00 07 00 00 00 14 00 00 00 01 00 00 00 02 00 00 00 ff ff ff ff 00 00 00 00 00 00 00 00 ff ff ff ff 8a 00 00 00 ac 00 00 00 ae 00 00 00 00 00 00 00 00 00 00 00 01 01 00 00 00 00 00 00 00 00 00 00 0f 00 00 00 19 00 00 00 06 00 00 00 08 00 00 00 04 00 00 00 06 00 00 00"
+FilS: "00 00 00 00 07 00 00 00 14 00 00 00 01 00 00 00 02 00 00 00 ff ff ff ff 00 00 00 00 00 00 00 00 ff ff ff ff 8a 00 00 00 ac 00 00 00 ae 00 00 00 00 00 00 00 00 00 00 00 01 01 00 00 00 00 00 00 00 00 00 00 0f 00 00 00 19 00 00 00 07 00 00 00 09 00 00 00 04 00 00 00 06 00 00 00"
 Vals count: "8"
 Val 0: "189"
 Val 1: "1"
@@ -1598,7 +1920,7 @@ Text 7: "Melchior est capable de ressentir les vibrations des émotions humaines
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
-FilS: "00 00 00 00 07 00 00 00 14 00 00 00 06 00 00 00 01 00 00 00 04 00 00 00 01 00 00 00 00 00 00 00 ff ff ff ff 8a 00 00 00 ac 00 00 00 ae 00 00 00 00 00 00 00 00 00 00 00 01 01 00 00 00 00 00 00 00 00 00 00 0f 00 00 00 19 00 00 00 06 00 00 00 08 00 00 00 04 00 00 00 06 00 00 00"
+FilS: "00 00 00 00 07 00 00 00 14 00 00 00 06 00 00 00 01 00 00 00 04 00 00 00 01 00 00 00 00 00 00 00 ff ff ff ff 8a 00 00 00 ac 00 00 00 ae 00 00 00 00 00 00 00 00 00 00 00 01 01 00 00 00 00 00 00 00 00 00 00 0f 00 00 00 19 00 00 00 07 00 00 00 09 00 00 00 04 00 00 00 06 00 00 00"
 Vals count: "8"
 Val 0: "190"
 Val 1: "0"
@@ -1650,13 +1972,13 @@ Text 3: "Reconnaissance"
 Text 4: "Secondary Skill Bonus: Reconnaissance"
 Text 5: "{Reconnaissance}
 
-Le champ de vision du Héros augmente de +1, chaque fois que 6 niveau sont atteints."
+Le champ de vision du Héros augmente de +1, chaque fois que 6 niveaux sont atteints."
 Text 6: "Wynona"
 Text 7: "Les elfes noirs jadaméens ont la réputation d'être de grands voyageurs, et par prolongement de grands explorateurs. À l'entrée de l'adolescence, Wynona entame l'exploration de la nature sauvage par-delà Alvar et les Murmurwoods, afin d'étudier le comportement des animaux en rapportant par écrit tout de leurs habitudes. Grâce au temps passé près de ses amis volants, rampants et sautillants, elle est devenue la plus grande autorité en matière de faune jadaméenne."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
-FilS: "01 00 00 00 14 00 00 00 14 00 00 00 01 00 00 00 01 00 00 00 03 00 00 00 01 00 00 00 00 00 00 00 ff ff ff ff 8a 00 00 00 ac 00 00 00 ae 00 00 00 00 00 00 00 00 00 00 00 01 01 00 00 00 00 00 00 00 00 00 00 0f 00 00 00 19 00 00 00 06 00 00 00 08 00 00 00 04 00 00 00 06 00 00 00"
+FilS: "01 00 00 00 14 00 00 00 14 00 00 00 01 00 00 00 01 00 00 00 03 00 00 00 01 00 00 00 00 00 00 00 ff ff ff ff 8a 00 00 00 ac 00 00 00 ae 00 00 00 00 00 00 00 00 00 00 00 01 01 00 00 00 00 00 00 00 00 00 00 0f 00 00 00 19 00 00 00 07 00 00 00 09 00 00 00 04 00 00 00 06 00 00 00"
 Vals count: "8"
 Val 0: "192"
 Val 1: "0"
@@ -1685,7 +2007,7 @@ Text 7: "Dury a longtemps cherché un magicien qui ne se contenterait pas de lui
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
-FilS: "01 00 00 00 07 00 00 00 14 00 00 00 16 00 00 00 01 00 00 00 17 00 00 00 01 00 00 00 00 00 00 00 ff ff ff ff 8a 00 00 00 ac 00 00 00 ae 00 00 00 00 00 00 00 00 00 00 00 01 01 00 00 00 00 00 00 00 00 00 00 0f 00 00 00 19 00 00 00 06 00 00 00 08 00 00 00 04 00 00 00 06 00 00 00"
+FilS: "01 00 00 00 07 00 00 00 14 00 00 00 16 00 00 00 01 00 00 00 17 00 00 00 01 00 00 00 00 00 00 00 ff ff ff ff 8a 00 00 00 ac 00 00 00 ae 00 00 00 00 00 00 00 00 00 00 00 01 01 00 00 00 00 00 00 00 00 00 00 0f 00 00 00 19 00 00 00 07 00 00 00 09 00 00 00 04 00 00 00 06 00 00 00"
 Vals count: "8"
 Val 0: "193"
 Val 1: "0"
@@ -1708,7 +2030,7 @@ Text 3: "Baliste"
 Text 4: "Artillery Bonus: Baliste"
 Text 5: "{Baliste}
 
-La Baliste reçoit un bonus en Attaque-Défense de 30% tous les 5 niveau."
+La Baliste reçoit un bonus en Attaque-Défense de 30% à chaque fois que 5 niveaux sont atteints."
 Text 6: "Morton"
 Text 7: "Vétéran des guerres entre gobelins et ogres, Morton fait parti des rares combattants à avoir survécu à la bataille du Gouffre de Gowdar, et n'a qu'un désir depuis, celui de se venger des ""peaux sales"", suite à la razzia qui a fait disparaître sa maison de la surface de Jadame. Il évalue la qualité de ses balistes au nombre d'ogres qu'elles peuvent transpercer d'un seul coup."
 Text 8: ""
@@ -1737,7 +2059,7 @@ Text 3: "Glyptodons"
 Text 4: "Creature Bonus: Glyptodons"
 Text 5: "{Glyptodons et Glyptodons Royaux}
 
-Les Glyptodons et les Glyptodons Royaux gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 3 niveau sont atteints."
+Les Glyptodons et les Glyptodons Royaux gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 3 niveaux sont atteints."
 Text 6: "Célestine"
 Text 7: "Parce qu'il avait perdu son bosquet, le druide AvLeean se mit à parcourir le monde, transmettant son savoir à qui le voulait bien. À Tatalia, il laissa derrière lui les secrets de la magie naturelle à sa fille Mirlanda, tandis qu'à Eeofol naquit son autre fille Célestine, à qui il légua une autre facette de son talent. Célestine est capable d'apprivoiser des animaux sauvages, en leur offrant douceur et amitié, plutôt que les mauvais traitements des dresseurs tataliens."
 Text 8: ""
@@ -1766,7 +2088,7 @@ Text 3: "Automates"
 Text 4: "Creature Bonus: Automates"
 Text 5: "{Automates et Automates Sentinelles}
 
-Les Automates et les Automates Sentinelles gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 4 niveau sont atteints."
+Les Automates et les Automates Sentinelles gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 4 niveaux sont atteints."
 Text 6: "Todd"
 Text 7: "Peu de scientifiques de Bracada ont vu, et encore moins manipulé, un marteau ou un grand fourneau. Incapable de faire évoluer et partager ses idées avec les forgerons et autres dinandiers, Todd a dû improviser d'autres méthodes de travail. Comme les instruments et les matériaux indispensables à ses recherches étaient introuvables à Bracada, Todd se mit en tête de parcourir le monde, jusqu'à trouver ce qui lui faisait défaut. Et c'est dans la ville de Burton que sa quête pris fin."
 Text 8: ""
@@ -1795,13 +2117,13 @@ Text 3: "Vers des Sables"
 Text 4: "Creature Bonus: Vers des Sables"
 Text 5: "{Vers des Sables et Olgoi-Khorkhoi}
 
-Les Vers des Sables et les Olgoi-Khorkhoi gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 5 niveau sont atteints."
+Les Vers des Sables et les Olgoi-Khorkhois gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 5% à chaque fois que 5 niveaux sont atteints."
 Text 6: "Agar"
 Text 7: "Certains pensaient que le sorcier Agar était un fou et on le donna même pour mort. Mais si cette dernière rumeur s'est avérée fausse, la communauté scientifique d'Enroth n'est toujours pas unanime au sujet de la première. Car si les créations d'Agar sont indéniablement viables et fonctionnelles, on peut se demander si un scientifique sain d'esprit aurait l'idée d'inculquer à un être vivant des penchants et des inclinations aussi néfastes."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
-FilS: "00 00 00 00 07 00 00 00 15 00 00 00 07 00 00 00 02 00 00 00 ff ff ff ff 00 00 00 00 01 00 00 00 03 00 00 00 8a 00 00 00 ac 00 00 00 ae 00 00 00 00 00 00 00 00 00 00 00 01 01 00 00 00 00 00 00 00 00 00 00 0f 00 00 00 19 00 00 00 06 00 00 00 08 00 00 00 04 00 00 00 06 00 00 00"
+FilS: "00 00 00 00 07 00 00 00 15 00 00 00 07 00 00 00 02 00 00 00 ff ff ff ff 00 00 00 00 01 00 00 00 03 00 00 00 8a 00 00 00 ac 00 00 00 ae 00 00 00 00 00 00 00 00 00 00 00 01 01 00 00 00 00 00 00 00 00 00 00 0f 00 00 00 19 00 00 00 07 00 00 00 09 00 00 00 04 00 00 00 06 00 00 00"
 Vals count: "8"
 Val 0: "197"
 Val 1: "1"
@@ -1830,7 +2152,7 @@ Text 7: "Rares sont les nains capables de faire fortune, et encore moins de fair
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
-FilS: "00 00 00 00 07 00 00 00 15 00 00 00 07 00 00 00 01 00 00 00 12 00 00 00 01 00 00 00 01 00 00 00 0f 00 00 00 8a 00 00 00 ac 00 00 00 ae 00 00 00 00 00 00 00 00 00 00 00 01 01 00 00 00 00 00 00 00 00 00 00 0f 00 00 00 19 00 00 00 06 00 00 00 08 00 00 00 04 00 00 00 06 00 00 00"
+FilS: "00 00 00 00 01 00 00 00 15 00 00 00 07 00 00 00 01 00 00 00 12 00 00 00 01 00 00 00 01 00 00 00 0f 00 00 00 8a 00 00 00 ac 00 00 00 ae 00 00 00 00 00 00 00 00 00 00 00 01 01 00 00 00 00 00 00 00 00 00 00 0f 00 00 00 19 00 00 00 07 00 00 00 09 00 00 00 04 00 00 00 06 00 00 00"
 Vals count: "8"
 Val 0: "198"
 Val 1: "2"
@@ -1849,17 +2171,17 @@ Texts count: "9"
 Text 0: ""
 Text 1: ""
 Text 2: ""
-Text 3: "Foudre de Guerre"
-Text 4: "Spell Bonus: Foudre de Guerre"
-Text 5: "{Foudre de Guerre}
+Text 3: "Frénésie"
+Text 4: "Spell Bonus: Frénésie"
+Text 5: "{Frénésie}
 
-Lance Foudre de Guerre avec un bonus de 10% en attaque tous les N niveau du Héros. où N est le rang de la créature ciblée."
+Lance Frénésie avec un bonus de 10% en attaque tous les N niveau du Héros. où N est le rang de la créature ciblée."
 Text 6: "Wrathmont"
 Text 7: "Le tempérament instable de Wrathmont lui aura valu d'innombrables ennuis au cours de sa vie, notamment quand il fallut partager le domaine d'Archibald Ironfist et que ses anciens collègues, lassés de ses colères, se liguèrent contre lui. Voyant ses soutiens les plus fidèles le lâcher, Wrathmont s'enfuit d'Enroth. Il passa ensuite des années à étudier d'anciennes tablettes de pierre, grâce auxquelles il finira par étouffer ses ardeurs, afin de mieux réveiller celles des autres."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
-FilS: "00 00 00 00 07 00 00 00 15 00 00 00 07 00 00 00 01 00 00 00 18 00 00 00 01 00 00 00 01 00 00 00 38 00 00 00 8a 00 00 00 ac 00 00 00 ae 00 00 00 00 00 00 00 00 00 00 00 01 01 00 00 00 00 00 00 00 00 00 00 0f 00 00 00 19 00 00 00 06 00 00 00 08 00 00 00 04 00 00 00 06 00 00 00"
+FilS: "00 00 00 00 07 00 00 00 15 00 00 00 07 00 00 00 01 00 00 00 18 00 00 00 01 00 00 00 01 00 00 00 38 00 00 00 8a 00 00 00 ac 00 00 00 ae 00 00 00 00 00 00 00 00 00 00 00 01 01 00 00 00 00 00 00 00 00 00 00 0f 00 00 00 19 00 00 00 07 00 00 00 09 00 00 00 04 00 00 00 06 00 00 00"
 Vals count: "8"
 Val 0: "199"
 Val 1: "3"
@@ -1888,7 +2210,7 @@ Text 7: "Ziph a longtemps été au service d'un vieux mage qui la méprisait, el
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
-FilS: "01 00 00 00 15 00 00 00 15 00 00 00 07 00 00 00 01 00 00 00 19 00 00 00 01 00 00 00 01 00 00 00 11 00 00 00 8a 00 00 00 ac 00 00 00 ae 00 00 00 00 00 00 00 00 00 00 00 01 01 00 00 00 00 00 00 00 00 00 00 0f 00 00 00 19 00 00 00 06 00 00 00 08 00 00 00 04 00 00 00 06 00 00 00"
+FilS: "01 00 00 00 15 00 00 00 15 00 00 00 07 00 00 00 01 00 00 00 19 00 00 00 01 00 00 00 01 00 00 00 11 00 00 00 8a 00 00 00 ac 00 00 00 ae 00 00 00 00 00 00 00 00 00 00 00 01 01 00 00 00 00 00 00 00 00 00 00 0f 00 00 00 19 00 00 00 07 00 00 00 09 00 00 00 04 00 00 00 06 00 00 00"
 Vals count: "8"
 Val 0: "200"
 Val 1: "3"
@@ -1917,7 +2239,7 @@ Text 7: "Il existe une magie qui permet de ramener un mort à la vie, mais si un
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
-FilS: "01 00 00 00 07 00 00 00 15 00 00 00 07 00 00 00 01 00 00 00 15 00 00 00 01 00 00 00 01 00 00 00 0b 00 00 00 8a 00 00 00 ac 00 00 00 ae 00 00 00 00 00 00 00 00 00 00 00 01 01 00 00 00 00 00 00 00 00 00 00 0f 00 00 00 19 00 00 00 06 00 00 00 08 00 00 00 04 00 00 00 06 00 00 00"
+FilS: "01 00 00 00 07 00 00 00 15 00 00 00 07 00 00 00 01 00 00 00 15 00 00 00 01 00 00 00 01 00 00 00 0b 00 00 00 8a 00 00 00 ac 00 00 00 ae 00 00 00 00 00 00 00 00 00 00 00 01 01 00 00 00 00 00 00 00 00 00 00 0f 00 00 00 19 00 00 00 07 00 00 00 09 00 00 00 04 00 00 00 06 00 00 00"
 Vals count: "8"
 Val 0: "201"
 Val 1: "3"
@@ -1946,7 +2268,7 @@ Text 7: "Selon certaines rumeurs, c'est Eanswythe qui aurait empoisonné le prem
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
-FilS: "01 00 00 00 07 00 00 00 15 00 00 00 07 00 00 00 01 00 00 00 0d 00 00 00 01 00 00 00 01 00 00 00 2d 00 00 00 8a 00 00 00 ac 00 00 00 ae 00 00 00 00 00 00 00 00 00 00 00 01 01 00 00 00 00 00 00 00 00 00 00 0f 00 00 00 19 00 00 00 06 00 00 00 08 00 00 00 04 00 00 00 06 00 00 00"
+FilS: "01 00 00 00 07 00 00 00 15 00 00 00 07 00 00 00 01 00 00 00 0d 00 00 00 01 00 00 00 01 00 00 00 2d 00 00 00 8a 00 00 00 ac 00 00 00 ae 00 00 00 00 00 00 00 00 00 00 00 01 01 00 00 00 00 00 00 00 00 00 00 0f 00 00 00 19 00 00 00 07 00 00 00 09 00 00 00 04 00 00 00 06 00 00 00"
 Vals count: "8"
 Val 0: "202"
 Val 1: "3"
@@ -1960,7 +2282,7 @@ Val 7: "0"
 
 ------------------------------------------------
 Name: "hero195"
-Path: "Heroes\hero194.str"
+Path: "Heroes\hero195.str"
 Texts count: "9"
 Text 0: ""
 Text 1: ""
@@ -2004,7 +2326,7 @@ Text 7: "Tavin est sûrement le seul hobbit à avoir rejoint les rangs d'Erathia
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
-FilS: "00 00 00 00 13 00 00 00 14 00 00 00 16 00 00 00 01 00 00 00 03 00 00 00 01 00 00 00 00 00 00 00 ff ff ff ff 8a 00 00 00 ac 00 00 00 ae 00 00 00 00 00 00 00 00 00 00 00 01 01 01 00 00 00 00 00 00 00 00 00 0f 00 00 00 19 00 00 00 06 00 00 00 08 00 00 00 04 00 00 00 06 00 00 00"
+FilS: "00 00 00 00 13 00 00 00 14 00 00 00 16 00 00 00 01 00 00 00 03 00 00 00 01 00 00 00 00 00 00 00 ff ff ff ff 8a 00 00 00 ac 00 00 00 ae 00 00 00 00 00 00 00 00 00 00 00 01 01 01 00 00 00 00 00 00 00 00 00 0f 00 00 00 19 00 00 00 07 00 00 00 09 00 00 00 04 00 00 00 06 00 00 00"
 Vals count: "8"
 Val 0: "207"
 Val 1: "0"
@@ -2027,17 +2349,510 @@ Text 3: "Archerie"
 Text 4: "Secondary Skill Bonus: Archerie"
 Text 5: "{Archerie}
 
-Reçoit un bonus de 5% par niveau au pourcentage d'Archerie"
+Reçoit un bonus de 5% par niveau au pourcentage d'Archerie."
 Text 6: "Murdoch"
 Text 7: "Murdoch est devenu soldat professionnel uniquement pour l'argent, et accessoirement pour la célébrité. Comme pour prolonger cette philosophie de vie, il créera par la suite une compagnie de mercenaires, avec lesquels il partira explorer les terres de Jadame. Qui sait quelle sera la prochaine étape de ce destin atypique ?"
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
-FilS: "00 00 00 00 07 00 00 00 14 00 00 00 01 00 00 00 01 00 00 00 13 00 00 00 01 00 00 00 00 00 00 00 ff ff ff ff 8a 00 00 00 ac 00 00 00 ae 00 00 00 00 00 00 00 00 00 00 00 01 01 01 00 00 00 00 00 00 00 00 00 0f 00 00 00 19 00 00 00 06 00 00 00 08 00 00 00 04 00 00 00 06 00 00 00"
+FilS: "00 00 00 00 07 00 00 00 14 00 00 00 01 00 00 00 01 00 00 00 13 00 00 00 01 00 00 00 00 00 00 00 ff ff ff ff 8a 00 00 00 ac 00 00 00 ae 00 00 00 00 00 00 00 00 00 00 00 01 01 01 00 00 00 00 00 00 00 00 00 0f 00 00 00 19 00 00 00 07 00 00 00 09 00 00 00 04 00 00 00 06 00 00 00"
 Vals count: "8"
 Val 0: "208"
 Val 1: "0"
 Val 2: "1"
+Val 3: "0"
+Val 4: "0"
+Val 5: "0"
+Val 6: "0"
+Val 7: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "hero198"
+Path: "Heroes\hero198.str"
+Texts count: "9"
+Text 0: ""
+Text 1: ""
+Text 2: ""
+Text 3: "Elfe des Neiges"
+Text 4: "Creature Bonus: Elfe des Neiges"
+Text 5: "{Elfe des Neiges et Elfe d'Acier}
+
+Les Elfe des Neiges et les Elfes d'Acier gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 3 niveaux sont atteints."
+Text 6: "Dhuin"
+Text 7: "Sur le terrain où les elfes de tout Vori se rassemblent au printemps pour rivaliser dans des épreuves militaires, une pierre commémorative portant le nom de Dhuin Main-de-Fer se dresse depuis des années : personne n'a encore réussi à lancer un javelot plus loin que lui. Dhuin est aussi droit et ferme que sa célèbre lance, et de nombreux pères lui témoignent le plus grand respect, lui confiant leurs fils aînés pour qu'il les forme."
+Text 8: ""
+Has FilS: "true"
+FilS size: 92
+FilS: "00 00 00 00 17 00 00 00 16 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 ff ff ff ff ba 00 00 00 be 00 00 00 be 00 00 00 00 00 00 00 00 00 00 00 01 01 00 00 00 00 00 00 00 00 00 00 14 00 00 00 1e 00 00 00 03 00 00 00 05 00 00 00 03 00 00 00 05 00 00 00"
+Vals count: "8"
+Val 0: "228"
+Val 1: "1"
+Val 2: "190"
+Val 3: "0"
+Val 4: "0"
+Val 5: "0"
+Val 6: "0"
+Val 7: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "hero199"
+Path: "Heroes\hero199.str"
+Texts count: "9"
+Text 0: ""
+Text 1: ""
+Text 2: ""
+Text 3: "Diplomacie"
+Text 4: "Secondary Skill Bonus: Diplomacie"
+Text 5: "{Diplomacie}
+
+Reçoit un bonus de 5% par niveau au pourcentage de Diplomatie lors d'une Reddition."
+Text 6: "Oidana"
+Text 7: "Dans chaque tribu de Vori, quelqu'un fait remonter sa lignée jusqu'à Oidana, connue comme la mère des chefs. Elle seule s'est lassée depuis longtemps des querelles incessantes entre ses descendants indisciplinés. Ayant vécu trop longtemps dans ce monde pour avoir des préférences, elle éprouve la même affection pour tous ceux qui ont le sang ancestral des Vori dans les veines."
+Text 8: ""
+Has FilS: "true"
+FilS size: 92
+FilS: "01 00 00 00 17 00 00 00 16 00 00 00 01 00 00 00 01 00 00 00 04 00 00 00 01 00 00 00 00 00 00 00 ff ff ff ff ba 00 00 00 bc 00 00 00 be 00 00 00 00 00 00 00 00 00 00 00 01 01 00 00 00 00 00 00 00 00 00 00 14 00 00 00 1e 00 00 00 06 00 00 00 08 00 00 00 03 00 00 00 05 00 00 00"
+Vals count: "8"
+Val 0: "229"
+Val 1: "0"
+Val 2: "4"
+Val 3: "0"
+Val 4: "0"
+Val 5: "0"
+Val 6: "0"
+Val 7: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "hero200"
+Path: "Heroes\hero200.str"
+Texts count: "9"
+Text 0: ""
+Text 1: ""
+Text 2: ""
+Text 3: "Archerie"
+Text 4: "Secondary Skill Bonus: Archerie"
+Text 5: "{Archerie}
+
+Reçoit un bonus de 5% par niveau au pourcentage d'Archerie."
+Text 6: "Neia"
+Text 7: "Manquer sa cible avec son seul tir signifie souvent mourir de faim. Originaire de la région la plus hostile de Vori, le glacier Volee, Neia ne le sait que trop bien ; ce sort a frappé de nombreux chasseurs de sa tribu. Elle est l'une des seules elfes de Vori encore en vie à préférer l'arc au puissant javelot, mais la précision de Neia est telle que même une flèche légère est synonyme de mort certaine."
+Text 8: ""
+Has FilS: "true"
+FilS size: 92
+FilS: "01 00 00 00 17 00 00 00 16 00 00 00 01 00 00 00 02 00 00 00 ff ff ff ff 01 00 00 00 00 00 00 00 ff ff ff ff ba 00 00 00 bc 00 00 00 be 00 00 00 00 00 00 00 00 00 00 00 01 01 00 00 00 00 00 00 00 00 00 00 14 00 00 00 1e 00 00 00 06 00 00 00 08 00 00 00 03 00 00 00 05 00 00 00"
+Vals count: "8"
+Val 0: "230"
+Val 1: "0"
+Val 2: "1"
+Val 3: "0"
+Val 4: "0"
+Val 5: "0"
+Val 6: "0"
+Val 7: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "hero201"
+Path: "Heroes\hero201.str"
+Texts count: "9"
+Text 0: ""
+Text 1: ""
+Text 2: ""
+Text 3: "Mouflons des Montagnes"
+Text 4: "Creature Bonus: Mouflons des Montagnes"
+Text 5: "{Mouflons des Montagnes et Argalis}
+
+Les Mouflons des Montagnes et les Argalis gagnent +1 en vitesse et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 2 niveaux sont atteints."
+Text 6: "Eikthurn"
+Text 7: "Les Jotunns prennent très au sérieux les présages célestes. Ceux qui sont nés à l'époque où le Grand Bélier domine la voûte étoilée savent que leur destin est à jamais lié à celui des Mouflons des Montagnes, volontaires et d'une bravoure impressionnante. Depuis qu'il a appris à marcher, Eikthurn escalade sans crainte les sommets montagneux en compagnie de ses amis aux cornes robustes, convaincu qu'ils sont les seuls à être incapables de trahir."
+Text 8: ""
+Has FilS: "true"
+FilS size: 92
+FilS: "00 00 00 00 19 00 00 00 16 00 00 00 17 00 00 00 01 00 00 00 02 00 00 00 01 00 00 00 00 00 00 00 ff ff ff ff bc 00 00 00 bc 00 00 00 bc 00 00 00 00 00 00 00 00 00 00 00 01 01 00 00 00 00 00 00 00 00 00 00 06 00 00 00 08 00 00 00 06 00 00 00 08 00 00 00 06 00 00 00 08 00 00 00"
+Vals count: "8"
+Val 0: "231"
+Val 1: "1"
+Val 2: "188"
+Val 3: "0"
+Val 4: "0"
+Val 5: "0"
+Val 6: "0"
+Val 7: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "hero202"
+Path: "Heroes\hero202.str"
+Texts count: "9"
+Text 0: ""
+Text 1: ""
+Text 2: ""
+Text 3: "Mammouths"
+Text 4: "Creature Bonus: Mammouths"
+Text 5: "{Mammouths et Mammouths de Guerre}
+
+Les Mammouths et les Mammouths de Guerre gagnent +1 en vitesse et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 6 niveaux sont atteints.
+Text 6: "Creyle"
+Text 7: "Le père de Creyle, le roi du nord, refusa de la laisser lui succéder. Sachant qu'il était inutile d'essayer de raisonner le vieux grincheux, elle décida de trouver d'autres personnes qui accepteraient ses qualités de meneuse. Creyle alla alors défier l'alpha du plus grand troupeau de Mammouths de Vori : elle le terrassa à mains nues, lui arracha une défense et en fit un cor de guerre. Elle le fait retentir lorsqu'elle mène ce qui est désormais son propre troupeau au combat."
+Text 8: ""
+Has FilS: "true"
+FilS size: 92
+FilS: "01 00 00 00 19 00 00 00 16 00 00 00 17 00 00 00 02 00 00 00 ff ff ff ff 01 00 00 00 00 00 00 00 ff ff ff ff ba 00 00 00 bc 00 00 00 be 00 00 00 00 00 00 00 00 00 00 00 01 01 00 00 00 00 00 00 00 00 00 00 14 00 00 00 1e 00 00 00 06 00 00 00 08 00 00 00 03 00 00 00 05 00 00 00"
+Vals count: "8"
+Val 0: "232"
+Val 1: "1"
+Val 2: "196"
+Val 3: "0"
+Val 4: "0"
+Val 5: "0"
+Val 6: "0"
+Val 7: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "hero203"
+Path: "Heroes\hero203.str"
+Texts count: "9"
+Text 0: ""
+Text 1: ""
+Text 2: ""
+Text 3: "Yéti"
+Text 4: "Creature Bonus: Yéti"
+Text 5: "{Yétis et Yétis Runistes}
+
+Les Yétis et les Yétis Runistes gagnent +1 en vitesse et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 4 niveaux sont atteints.
+Text 6: "Spadum"
+Text 7: "Spadum n'est pas le guerrier le plus fort ni le chasseur le plus habile parmi les Yétis, mais ses semblables le tiennent en très haute estime. La raison en est simple : il parle couramment toutes les langues des races de Vori. Cela l'aide souvent à régler les conflits concernant des terres précieuses en faveur de son peuple, sans que les parties aient recours à une violence inutile."
+Text 8: ""
+Has FilS: "true"
+FilS size: 92
+FilS: "00 00 00 00 18 00 00 00 16 00 00 00 00 00 00 00 01 00 00 00 06 00 00 00 01 00 00 00 00 00 00 00 ff ff ff ff ba 00 00 00 bc 00 00 00 be 00 00 00 00 00 00 00 00 00 00 00 01 01 00 00 00 00 00 00 00 00 00 00 14 00 00 00 1e 00 00 00 06 00 00 00 08 00 00 00 03 00 00 00 05 00 00 00"
+Vals count: "8"
+Val 0: "233"
+Val 1: "1"
+Val 2: "192"
+Val 3: "0"
+Val 4: "0"
+Val 5: "0"
+Val 6: "0"
+Val 7: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "hero204"
+Path: "Heroes\hero204.str"
+Texts count: "9"
+Text 0: ""
+Text 1: ""
+Text 2: ""
+Text 3: "Kobolds"
+Text 4: "Creature Bonus: Kobolds"
+Text 5: "{Kobolds et Contremaîtres Kobolds}
+
+Les Kobolds et les Contremaîtres Kobolds gagnent +1 en vitesse et reçoivent un bonus en Attaque-Défense de 10% à chaque niveau.
+Text 6: "Kynr"
+Beaucoup pensent que Kynr n'est pas un nom, mais plutôt un rang ou un titre, car Kynr a toujours fait partie des Kobolds. Chaque fois qu'une catastrophe frappe les mines et que les tunnels s'effondrent, c'est Kynr qui dirige les équipes de secours. À son appel, tous les Kobolds suspendent immédiatement leurs activités et obéissent sans poser de questions, sachant pertinemment que des vies sont en jeu.
+Text 8: ""
+Has FilS: "true"
+FilS size: 92
+FilS: "00 00 00 00 1a 00 00 00 16 00 00 00 0d 00 00 00 01 00 00 00 13 00 00 00 01 00 00 00 00 00 00 00 ff ff ff ff ba 00 00 00 ba 00 00 00 ba 00 00 00 00 00 00 00 00 00 00 00 01 01 00 00 00 00 00 00 00 00 00 00 14 00 00 00 1e 00 00 00 14 00 00 00 1e 00 00 00 14 00 00 00 1e 00 00 00"
+Vals count: "8"
+Val 0: "234"
+Val 1: "1"
+Val 2: "186"
+Val 3: "0"
+Val 4: "0"
+Val 5: "0"
+Val 6: "0"
+Val 7: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "hero205"
+Path: "Heroes\hero205.str"
+Texts count: "9"
+Text 0: ""
+Text 1: ""
+Text 2: ""
+Text 3: "Orientation"
+Text 4: "Secondary Skill Bonus: Orientation"
+Text 5: "{Orientation}
+
+Augmente l'effet de la compétence d'Orientation, réduisant le coût de déplacement sur les terrains difficiles de 5%."
+Text 6: "Ergon"
+Text 7: "Ergon a passé sa longue vie en mouvement constant. Il a servi dans la garde du Tueur de Seigneur à Enroth, a protégé les caravanes elfiques à Jadame et a vendu son épée à Antagarich, pour finalement réaliser, dans ses dernières années, qu'il aspirait à un endroit où le temps lui-même semblait s'être arrêté. Cela dit, son talent pour organiser des marches rapides est toujours là, chaque fois que le besoin s'en fait sentir."
+Text 8: ""
+Has FilS: "true"
+FilS size: 92
+FilS: "00 00 00 00 07 00 00 00 16 00 00 00 00 00 00 00 01 00 00 00 03 00 00 00 01 00 00 00 00 00 00 00 ff ff ff ff ba 00 00 00 bc 00 00 00 be 00 00 00 00 00 00 00 00 00 00 00 01 01 00 00 00 00 00 00 00 00 00 00 14 00 00 00 1e 00 00 00 06 00 00 00 08 00 00 00 03 00 00 00 05 00 00 00"
+Vals count: "8"
+Val 0: "235"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+Val 4: "0"
+Val 5: "0"
+Val 6: "0"
+Val 7: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "hero206"
+Path: "Heroes\hero206.str"
+Texts count: "9"
+Text 0: ""
+Text 1: ""
+Text 2: ""
+Text 3: "Chamans"
+Text 4: "Creature Bonus: Chamans"
+Text 5: "{Chamans et Chamans Vénérables}
+
+Les Chamans et les Chamans Vénérables gagnent +1 en vitesse et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 5 niveaux sont atteints.
+Text 6: "Kriv"
+Text 7: "Lorsque les Chamans comprirent que les dieux n'accorderaient jamais un nouveau printemps à leur tribu sans un grand sacrifice, le sort tomba sur Kriv. Enchaîné à une pierre runique, il attendit la mort ; celle-ci lui apparut sous la forme d'une chouette blanche, mais ne lui prit que ses yeux, lui offrant en échange le don de voir à travers le temps. Kriv revint pour prédire avec précision l'arrivée de la saison chaude, s'imposant comme un Chaman sans égal."
+Text 8: ""
+Has FilS: "true"
+FilS size: 92
+FilS: "00 00 00 00 17 00 00 00 17 00 00 00 07 00 00 00 02 00 00 00 ff ff ff ff 01 00 00 00 01 00 00 00 05 00 00 00 ba 00 00 00 bc 00 00 00 be 00 00 00 00 00 00 00 00 00 00 00 01 01 00 00 00 00 00 00 00 00 00 00 14 00 00 00 1e 00 00 00 06 00 00 00 08 00 00 00 03 00 00 00 05 00 00 00"
+Vals count: "8"
+Val 0: "236"
+Val 1: "1"
+Val 2: "194"
+Val 3: "0"
+Val 4: "0"
+Val 5: "0"
+Val 6: "0"
+Val 7: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "hero207"
+Path: "Heroes\hero207.str"
+Texts count: "9"
+Text 0: ""
+Text 1: ""
+Text 2: ""
+Text 3: "Anneau de Givre"
+Text 4: "Spell Bonus: Anneau de Givre"
+Text 5: "{Anneau de Givre}
+
+Lance Anneau de Givre avec des dégâts augmentés de 10% tous les N niveau du Héros, où N est le rang de la créature ciblée."
+Text 6: "Glacius"
+Text 7: "Les étendues de Vori, recouvertes de neige depuis des années, semblent sans vie ; ceux qui savent où chercher découvriront que les habitants désincarnés de ces terres font d'excellents interlocuteurs, voire des sources de pouvoir. Glacius a la réputation d'être le fléau des esprits : leurs enveloppes vides s'effritent en éclats de lumière magique, tandis qu'il dévore avidement leur énergie et la libère sur ses ennemis. "
+Text 8: ""
+Has FilS: "true"
+FilS size: 92
+FilS: "00 00 00 00 17 00 00 00 17 00 00 00 07 00 00 00 01 00 00 00 15 00 00 00 01 00 00 00 01 00 00 00 14 00 00 00 ba 00 00 00 bc 00 00 00 be 00 00 00 00 00 00 00 00 00 00 00 01 01 00 00 00 00 00 00 00 00 00 00 14 00 00 00 1e 00 00 00 06 00 00 00 08 00 00 00 03 00 00 00 05 00 00 00"
+Vals count: "8"
+Val 0: "237"
+Val 1: "3"
+Val 2: "20"
+Val 3: "0"
+Val 4: "0"
+Val 5: "0"
+Val 6: "0"
+Val 7: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "hero208"
+Path: "Heroes\hero208.str"
+Texts count: "9"
+Text 0: ""
+Text 1: ""
+Text 2: ""
+Text 3: "Éclair de Glace"
+Text 4: "Spell Bonus: Éclair de Glace"
+Text 5: "{Ice Bolt}
+
+Lance Éclair de Glace avec des dégâts augmentés de 10% tous les N niveau du Héros, où N est le rang de la créature ciblée."
+Text 6: "Sial"
+Text 7: "On peut toujours retrouver Sial sur le champ de bataille grâce aux éclats des statues de glace qui étaient autrefois ses ennemis. La légende raconte qu'elle est également à l'origine du tristement célèbre Lac Crystal, qui reste gelé même pendant les courts étés. Un jour, ses eaux ont englouti toute une tribu dont le chef l'avait mise en colère ; depuis, elles sont restées éternellement immobiles."
+Text 8: ""
+Has FilS: "true"
+FilS size: 92
+FilS: "01 00 00 00 17 00 00 00 17 00 00 00 07 00 00 00 01 00 00 00 18 00 00 00 01 00 00 00 01 00 00 00 10 00 00 00 ba 00 00 00 bc 00 00 00 be 00 00 00 00 00 00 00 00 00 00 00 01 01 00 00 00 00 00 00 00 00 00 00 14 00 00 00 1e 00 00 00 06 00 00 00 08 00 00 00 03 00 00 00 05 00 00 00"
+Vals count: "8"
+Val 0: "238"
+Val 1: "3"
+Val 2: "16"
+Val 3: "0"
+Val 4: "0"
+Val 5: "0"
+Val 6: "0"
+Val 7: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "hero209"
+Path: "Heroes\hero209.str"
+Texts count: "9"
+Text 0: ""
+Text 1: ""
+Text 2: ""
+Text 3: "Bouclier"
+Text 4: "Spell Bonus: Bouclier"
+Text 5: "{Bouclier}
+
+Lance Bouclier avec un effet augmenté de 10% tous les N niveau du Héros, où N est le rang de la créature ciblée."
+Text 6: "Dalton"
+Text 7: "Les armes ordinaires peinent à égratigner un Jotunn, mais croire que ces colosses négligent leur protection relève de la pure folie. Dalton est le forgeron le plus habile capable de forger un équipement d'une telle taille. Malgré la piètre qualité de la Pierre de Vori, Dalton a percé les secrets de la magie pour s'assurer que ses créations puissent résister à tout, même à la fureur d'un démon de glace."
+Text 8: ""
+Has FilS: "true"
+FilS size: 92
+FilS: "00 00 00 00 19 00 00 00 17 00 00 00 07 00 00 00 01 00 00 00 17 00 00 00 01 00 00 00 01 00 00 00 1b 00 00 00 ba 00 00 00 bc 00 00 00 be 00 00 00 00 00 00 00 00 00 00 00 01 01 00 00 00 00 00 00 00 00 00 00 14 00 00 00 1e 00 00 00 06 00 00 00 08 00 00 00 03 00 00 00 05 00 00 00"
+Vals count: "8"
+Val 0: "239"
+Val 1: "3"
+Val 2: "27"
+Val 3: "0"
+Val 4: "0"
+Val 5: "0"
+Val 6: "0"
+Val 7: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "hero210"
+Path: "Heroes\hero210.str"
+Texts count: "9"
+Text 0: ""
+Text 1: ""
+Text 2: ""
+Text 3: "Médecine"
+Text 4: "Secondary Skill Bonus: Médecine"
+Text 5: "{Médecine}
+
+Reçoit un bonus de 5% par niveau sur le bonus de santé fourni par le Dispensaire."
+Text 6: "Biarma"
+Text 7: " Tout le monde à Vori le sait : lorsque tous les remèdes ont échoué, le dernier et seul recours pour les malades est de consulter la vieille Biarma. Ceux qui osent la rencontrer ne se soucient plus des motivations de Biarma quant à savoir qui se verra accorder une nouvelle chance dans la vie et qui, au contraire, fera don de son crâne pour orner de manière sinistre la palissade de sa demeure isolée."
+Text 8: ""
+Has FilS: "true"
+FilS size: 92
+FilS: "01 00 00 00 19 00 00 00 17 00 00 00 07 00 00 00 01 00 00 00 1b 00 00 00 01 00 00 00 01 00 00 00 23 00 00 00 ba 00 00 00 93 00 00 00 be 00 00 00 00 00 00 00 00 00 00 00 01 01 00 00 00 00 00 00 00 00 00 00 14 00 00 00 1e 00 00 00 01 00 00 00 01 00 00 00 03 00 00 00 05 00 00 00"
+Vals count: "8"
+Val 0: "240"
+Val 1: "0"
+Val 2: "27"
+Val 3: "0"
+Val 4: "0"
+Val 5: "0"
+Val 6: "0"
+Val 7: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "hero211"
+Path: "Heroes\hero211.str"
+Texts count: "9"
+Text 0: ""
+Text 1: ""
+Text 2: ""
+Text 3: "Furie Sanguinaire"
+Text 4: "Spell Bonus: Furie Sanguinaire"
+Text 5: "{Furie Sanguinaire}
+
+Lance Furie Sanguinaire avec un effet augmenté de 10 pour les créatures de rang 1 et 2, de 8 pour les créatures de rang 3 et 4, de 6 pour les créatures de rang 5 et 6, et de 4 pour les créatures de rang 7."
+Text 6: "Akka"
+Text 7: "La capacité des Yétis à survivre dans le froid est souvent attribuée à leur peau épaisse et à leur fourrure dense. Cependant, leur résilience provient d'un pouvoir magique inné qui diffuse de la chaleur dans tout leur corps. Seuls quelques privilégiés peuvent le maîtriser consciemment, et Akka fait partie des plus doués. Son expertise provient de sa profonde compréhension de la fureur guerrière à laquelle ses membres de clan ont tendance à céder."
+Text 8: ""
+Has FilS: "true"
+FilS size: 92
+FilS: "01 00 00 00 18 00 00 00 17 00 00 00 07 00 00 00 01 00 00 00 08 00 00 00 01 00 00 00 01 00 00 00 2b 00 00 00 ba 00 00 00 bc 00 00 00 be 00 00 00 00 00 00 00 00 00 00 00 01 01 00 00 00 00 00 00 00 00 00 00 14 00 00 00 1e 00 00 00 06 00 00 00 08 00 00 00 03 00 00 00 05 00 00 00"
+Vals count: "8"
+Val 0: "241"
+Val 1: "3"
+Val 2: "43"
+Val 3: "0"
+Val 4: "0"
+Val 5: "0"
+Val 6: "0"
+Val 7: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "hero212"
+Path: "Heroes\hero212.str"
+Texts count: "9"
+Text 0: ""
+Text 1: ""
+Text 2: ""
+Text 3: "+350 Or"
+Text 4: "+350 Or par jour"
+Text 5: "{+350 Or par jour}
+
+Augmente les revenus du royaume de 350 pièces d'Or par jour."
+Text 6: "Vehr"
+Text 7: "Vehr a mérité son surnom, Dent-d'Or, bien avant de remplacer ses crocs usés par des crocs en métal pur. À ce jour, ses dents restent son principal outil de travail, car elle possède le talent remarquable de discerner la composition d'une roche simplement en la mordant. Dotée d'un tel don, elle ne perd pas de temps avec des futilités ; son expertise réside dans la recherche de riches filons d'or."
+Text 8: ""
+Has FilS: "true"
+FilS size: 92
+FilS: "01 00 00 00 1a 00 00 00 17 00 00 00 07 00 00 00 01 00 00 00 0b 00 00 00 01 00 00 00 01 00 00 00 03 00 00 00 ba 00 00 00 bc 00 00 00 be 00 00 00 00 00 00 00 00 00 00 00 01 01 00 00 00 00 00 00 00 00 00 00 14 00 00 00 1e 00 00 00 06 00 00 00 08 00 00 00 03 00 00 00 05 00 00 00"
+Vals count: "8"
+Val 0: "242"
+Val 1: "2"
+Val 2: "6"
+Val 3: "0"
+Val 4: "0"
+Val 5: "0"
+Val 6: "0"
+Val 7: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "hero213"
+Path: "Heroes\hero213.str"
+Texts count: "9"
+Text 0: ""
+Text 1: ""
+Text 2: ""
+Text 3: "Sorcellerie"
+Text 4: "Secondary Skill Bonus: Sorcellerie"
+Text 5: "{Sorcellerie}
+
+Reçoit un bonus de 5% par niveau au pourcentage de Sorcellerie."
+Text 6: "Allora"
+Text 7: "Cette femme mystérieuse s'est autrefois enfuie vers Vori depuis le continent, où elle aurait été condamnée à mort pour s'être immiscée dans la succession d'une baronnie. Allora nie cette accusation, mais ses excellentes compétences en magie lui permettent d'influencer le corps et l'esprit des autres êtres sensibles. C'est peut-être la seule raison pour laquelle elle a été acceptée à Vori et n'a pas encore été exilée."
+Text 8: ""
+Has FilS: "true"
+FilS size: 92
+FilS: "01 00 00 00 07 00 00 00 17 00 00 00 07 00 00 00 01 00 00 00 19 00 00 00 01 00 00 00 01 00 00 00 35 00 00 00 ba 00 00 00 bc 00 00 00 be 00 00 00 00 00 00 00 00 00 00 00 01 01 00 00 00 00 00 00 00 00 00 00 14 00 00 00 1e 00 00 00 06 00 00 00 08 00 00 00 03 00 00 00 05 00 00 00"
+Vals count: "8"
+Val 0: "243"
+Val 1: "0"
+Val 2: "25"
+Val 3: "0"
+Val 4: "0"
+Val 5: "0"
+Val 6: "0"
+Val 7: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "hero214"
+Path: "Heroes\hero214.str"
+Texts count: "9"
+Text 0: ""
+Text 1: ""
+Text 2: ""
+Text 3: "Navigation"
+Text 4: "Secondary Skill Bonus: Navigation"
+Text 5: "{Navigation}
+
+Reçoit un bonus de 5% par niveau au pourcentage de Navigation."
+Text 6: "Haugir"
+Text 7: "La mère de Haugir naviguait sur les mers, et un jour, elle revint d'un voyage vers des contrées lointaines avec un enfant dans son ventre. Le plus grand regret de son fils était que ses yeux n'avaient pas la teinte glacée des véritables Jotunns. Il jura donc de se procurer les cristaux les plus grands et les plus purs afin de se sculpter une nouvelle paire d'yeux. Jusqu'à présent, Haugir en a trouvé un qui convient, mais il cherche toujours le second qui lui ira parfaitement."
+Text 8: ""
+Has FilS: "true"
+FilS size: 92
+FilS: "00 00 00 00 07 00 00 00 17 00 00 00 07 00 00 00 01 00 00 00 05 00 00 00 01 00 00 00 01 00 00 00 23 00 00 00 ba 00 00 00 bc 00 00 00 be 00 00 00 00 00 00 00 00 00 00 00 01 01 00 00 00 00 00 00 00 00 00 00 14 00 00 00 1e 00 00 00 06 00 00 00 08 00 00 00 03 00 00 00 05 00 00 00"
+Vals count: "8"
+Val 0: "244"
+Val 1: "0"
+Val 2: "5"
 Val 3: "0"
 Val 4: "0"
 Val 5: "0"
@@ -2175,7 +2990,7 @@ Le Ranch amélioré permet de recruter des Glyptodons Royaux.
 La Fabrique améliorée permet de recruter des Automates Sentinelles.
 Les Oubliettes améliorées permettent de recruter des Olgoi-Khorkhoi.
 Le Mirador amélioré permet de recruter des Chasseurs de Prime.
-Le Serpentarium amélioré permet de recruter des Couatls Écarlate."
+Le Serpentarium amélioré permet de recruter des Couatls Écarlates."
 Has FilS: "true"
 FilS size: 392
 FilS: "05 00 00 00 00 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 90 01 00 00 05 00 00 00 00 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 03 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 03 00 00 05 00 00 00 00 00 00 00 0a 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 d0 07 00 00 05 00 00 00 00 00 00 00 05 00 00 00 00 00 00 00 02 00 00 00 02 00 00 00 b8 0b 00 00 05 00 00 00 05 00 00 00 05 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 a0 0f 00 00 0a 00 00 00 00 00 00 00 0a 00 00 00 00 00 00 00 0a 00 00 00 00 00 00 00 10 27 00 00 00 00 00 00 02 00 00 00 00 00 00 00 02 00 00 00 00 00 00 00 00 00 00 00 e8 03 00 00 05 00 00 00 00 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 03 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 03 00 00 00 00 00 00 05 00 00 00 0a 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 d0 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 05 00 00 00 d0 07 00 00 0a 00 00 00 05 00 00 00 00 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 b8 0b 00 00 0a 00 00 00 00 00 00 00 0a 00 00 00 00 00 00 00 14 00 00 00 00 00 00 00 98 3a 00 00"
@@ -2221,7 +3036,99 @@ Le Paratonnerre permet de recruter 50% de créatures en plus chaque semaine et f
 Cette amélioration du Marché fournit des ressources supplémentaires : +1 unité de Cristal par jour."
 Has FilS: "true"
 FilS size: 252
-FilS: "00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 10 27 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 f4 01 00 00 00 00 00 00 00 00 00 00 14 00 00 00 00 00 00 00 14 00 00 00 00 00 00 00 98 3a 00 00 00 00 00 00 00 00 00 00 0a 00 00 00 00 00 00 00 14 00 00 00 00 00 00 00 98 3a 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
+FilS: "00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 10 27 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 f4 01 00 00 00 00 00 00 00 00 00 00 14 00 00 00 00 00 00 00 14 00 00 00 00 00 00 00 10 27 00 00 00 00 00 00 00 00 00 00 0a 00 00 00 00 00 00 00 14 00 00 00 00 00 00 00 98 3a 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "casdwcost12"
+Path: "Castles\casdwcost12.str"
+Texts count: "9"
+Text 0: ""
+Text 1: ""
+Text 2: ""
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: "Mine
+Éperon Glacial
+Hall des Audacieux
+Ambassade des Montagnes
+Mégalithes des Chamans
+Étable des Mammouths
+Palais de Glace
+Mine sup.
+Éperon Glacial sup.
+Hall des Audacieux sup.
+Ambassade des Montagnes sup.
+Mégalithes des Chamans sup.
+Étable des Mammouths sup.
+Palais de Glace sup.
+Text 8: "La Mine permet de recruter des Kobolds.
+L'Éperon Glacial permet de recruter des Mouflons des Montagnes.
+Le Hall des Audacieux permet de recruter des Elfes des Neiges.
+L'Ambassade des Montagnes permet de recruter des Yétis.
+Les Mégalithes des Chamans permettent de recruter des Chamans.
+L'Étable des Mammouths permet de recruter des Mammouths.
+Le Palais de Glace permet de recruter des Jotunns.
+La Mine améliorée permet de recruter des Contremaîtres Kobolds.
+L'Éperon Glacial amélioré permet de recruter des Argalis.
+Le Hall des Audacieux amélioré permet de recruter des Elfes d'Acier.
+L'Ambassade des Montagnes améliorée permet de recruter des Yeti Runistes.
+Les Mégalithes des Chamans améliorées permettent de recruter des Chamans Vénérables.
+L'Étable des Mammouths amélioré permet de recruter des Mammouths de Guerre.
+Le Palais de Glace amélioré permet de recruter des Seigneurs Jotunns."
+Has FilS: "true"
+FilS size: 392
+FilS: "00 00 00 00 00 00 00 00 0a 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 90 01 00 00 00 00 00 00 00 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 03 00 00 05 00 00 00 00 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 03 00 00 00 00 00 00 00 00 00 00 0a 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 d0 07 00 00 05 00 00 00 01 00 00 00 05 00 00 00 01 00 00 00 01 00 00 00 01 00 00 00 b8 0b 00 00 0f 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 a0 0f 00 00 0a 00 00 00 00 00 00 00 0a 00 00 00 00 00 00 00 00 00 00 00 0a 00 00 00 10 27 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00 02 00 00 00 e8 03 00 00 05 00 00 00 00 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 03 00 00 00 00 00 00 00 00 00 00 05 00 00 00 00 00 00 00 05 00 00 00 00 00 00 00 d0 07 00 00 00 00 00 00 00 00 00 00 05 00 00 00 00 00 00 00 02 00 00 00 02 00 00 00 d0 07 00 00 0a 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 b8 0b 00 00 0a 00 00 00 00 00 00 00 0a 00 00 00 00 00 00 00 00 00 00 00 14 00 00 00 98 3a 00 00"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "casspcost12"
+Path: "Castles\casspcost12.str"
+Texts count: "9"
+Text 0: ""
+Text 1: ""
+Text 2: ""
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: "Totem
+Mangeoire
+Mangeoire
+Chantier Naval
+Sieidi Runique
+Autel Runique
+Unused
+Unused
+Unused
+Esprit des Ancêtres
+Entrepôt"
+Text 8: "Le Totem améliore le taux de change du marché.
+La Mangeoire permet de recruter +1 Mammouth supplémentaire chaque semaine.
+La Mangeoire permet de recruter +1 Mammouth de Guerre supplémentaire chaque semaine.
+Le Chantier Naval vous permet d'acheter des bateaux.
+La Sieidi Runique permet aux héros visiteurs d'apprendre la compétence secondaire des Runes.
+L'Autel Runique améliore le niveau des Runes des unités du joueur de 1 au début du combat.
+Unused
+Unused
+Unused
+Les Esprits des Ancêtres permettent de recruter 50% de créatures en plus chaque semaine, fournissent à votre royaume +5000 pièces d'Or supplémentaires par jour et augmentent la force de défense d'un héros de garnison de +20 lors de la défense contre un siège.
+Cette amélioration du Marché fournit des ressources supplémentaires : +1 unité de Bois et de Pierre par jour."
+Has FilS: "true"
+FilS size: 252
+FilS: "05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 d0 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 d0 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 05 00 00 00 00 00 00 00 02 00 00 00 02 00 00 00 e8 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00 02 00 00 00 e8 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
 Vals count: "4"
 Val 0: "0"
 Val 1: "0"
@@ -2314,6 +3221,52 @@ Text 8: ""
 Has FilS: "true"
 FilS size: 64
 FilS: "0a 00 00 00 00 00 00 00 00 00 80 3f 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 06 06 06 05 05 06 06 06 06 00 00 00"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "class22"
+Path: "Classes\class22.str"
+Texts count: "9"
+Text 0: ""
+Text 1: "Chef de Clan"
+Text 2: ""
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: ""
+Text 8: ""
+Has FilS: "true"
+FilS size: 64
+FilS: "0b 00 00 00 00 00 00 00 cd cc 8c 3f 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 06 06 06 05 05 06 06 05 06 00 00 00"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "class23"
+Path: "Classes\class23.str"
+Texts count: "9"
+Text 0: ""
+Text 1: "Ancien"
+Text 2: ""
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: ""
+Text 8: ""
+Has FilS: "true"
+FilS size: 64
+FilS: "0b 00 00 00 00 00 00 00 00 00 80 3f 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 06 06 06 05 05 06 06 06 06 00 00 00"
 Vals count: "4"
 Val 0: "0"
 Val 1: "0"
@@ -2953,7 +3906,7 @@ Sélectioner la campagne Horn of the Abyss
 #266
 ""
 
-Income:
+Revenus:
 ""
 #267
 Activer Explosion à la Mort
@@ -3293,6 +4246,32 @@ https://h3hota.com/en/download""
 Troupes à distance de rang %d
 #388
 Troupes mêlées de rang %d"
+#389
+Le gardien observe votre navire à travers une longue-vue, puis fait un signe de refus. Apparemment, personne ne l'a prévenu de votre arrivée, vous ne pourrez donc pas emprunter cette route. Vous devriez essayer de trouver la Tente du Maître des Clefs.
+#390
+Le gardien observe votre navire à travers une longue-vue, puis vous fait signe de passer. Apparemment, il a reçu des nouvelles du Maître des Clefs et est désormais disposé à vous laisser passer. Souhaitez-vous suivre cette route ?
+#391
+""{Mine Abandonnée}
+
+Vous prenez le contrôle d'une mine d'or abandonnée. Elle vous rapportera %s par jour.""
+#392
++1 unité de Mercure
+#393
++2 unités de Pierre
+#394
++1 unité de Souffre
+#395
++1 unité de Cristal
+#396
++1 unité de Gemmes
+#397
++1000 Pièces d'Or
+#398
+Jours restants:
+#399
+Cliquez pour afficher sur la carte
+#400
+Aucune cible valide pour le sort %s dans la zone.
 Text 8: ""
 Has FilS: "false"
 Vals count: "4"
@@ -3713,6 +4692,16 @@ La version de la carte sera mise à jour et il sera impossible de l'ouvrir dans 
 Vous ne pouvez pas placer plus de 64 500 objets sur la carte.
 # 190
 Enregistrer les modifications apportées à %s ? La version de la carte sera mise à jour et il sera impossible de l'ouvrir dans les anciennes versions de l'éditeur de cartes d'HotA."
+# 191
+Créature 7b
+# 192
+Créature 7b Amélioré
+# 193
+Aléatoire (300 à 500 Pièces d'Or, ou 3 à 5 Lutins ou Kobolds)
+# 194
+Créatures
+# 195
+Horde de créature de rang 6"
 Text 8: ""
 Has FilS: "false"
 Vals count: "4"
@@ -8084,6 +9073,41 @@ Demeure du Couatl.""
 ""Portique
 Demeure du Démolisseur.""
 
+17
+111
+""Mine
+Demeure du Kobold.""
+
+17
+112
+""Éperon Glacial
+Demeure du Mouflon des Montagnes.""
+
+17
+113
+""Hall des Audacieux
+Demeure de l'Elfe des Neiges.""
+
+17
+114
+""Ambassade des Montagnes
+Demeure du Yéti.""
+
+17
+115
+""Mégalithes des Chamans
+Demeure du Chaman.""
+
+17
+116
+""Étable des Mammouths
+Demeure du Mammouth.""
+
+17
+117
+""Palais de Glace
+Demeure du Jotunn.""
+
 34
 18
 ""Captaine
@@ -8103,6 +9127,16 @@ Héros de Combat de la Manufacture.""
 21
 ""Artificier 
 Héros de Magie de la Manufacture.""
+
+34
+22
+""Chef de Clan
+Héros de Combat de la Muraille.""
+
+34
+23
+""Ancien
+Héros de Magie de la Muraille.""
 
 35
 1
@@ -8333,6 +9367,90 @@ Quantité : 4-10.""
 créature rang 7 Sup. - Manufacture
 Quantité : 3-8.""
 
+54
+186
+""Kobold
+créature rang 1 - Muraille
+Quantité : 16-30.""
+
+54
+187
+""Contremaître Kobold
+créature rang 1 Sup. - Muraille
+Quantité : 16-25.""
+
+54
+188
+""Mouflon des Montagnes
+créature rang 2 - Muraille
+Quantité : 12-25.""
+
+54
+189
+""Argali
+créature rang 2 Sup. - Muraille
+Quantité : 12-20.""
+
+54
+190
+""Elfe des Neiges
+créature rang 3 - Muraille
+Quantité : 10-20.""
+
+54
+191
+""Elfe d'Acier
+créature rang 3 Sup. - Muraille
+Quantité : 10-26.""
+
+54
+192
+""Yéti
+créature rang 4 - Muraille
+Quantité: 8-16.""
+
+54
+193
+""Yéti Runiste
+créature rang 4 Sup. - Muraille
+Quantité: 8-12.""
+
+54
+194
+""Chaman
+créature rang 5 - Muraille
+Quantité: 5-12.""
+
+54
+195
+""Chaman Vénérable
+créature rang 5 Sup. - Muraille
+Quantité: 5-10.""
+
+54
+196
+""Mammouth
+créature rang 6 - Muraille
+Quantité: 4-10.""
+
+54
+197
+""Mammouth de Guerre
+créature rang 6 Sup. - Muraille
+Quantité: 3-8.""
+
+54
+198
+""Jotunn
+créature rang 7 - Muraille
+Quantité: 4-10.""
+
+54
+199
+""Seigneur Jotunn
+créature rang 7 Sup. - Muraille
+Quantité: 3-8.""
+
 58
 1
 ""Tour de Guet
@@ -8362,6 +9480,11 @@ Ville de la Crique.""
 10
 ""Manufacture
 Ville de la Manufacture.""
+
+98
+11
+""Muraille
+Ville de la Muraille.""
 
 106
 1
@@ -8598,6 +9721,11 @@ Paysage.""
 ""Arche Naturelle
 Paysage.""
 
+140
+14
+""Glacier
+Paysage.""
+
 141
 0
 ""Terre Gelée
@@ -8714,6 +9842,13 @@ Réapprovisionné le 1er jour de la semaine.""
 ""Pionnier
 Réduit la pénalité de mouvement sur terrain Aride de 50% jusqu'à la fin de la semaine.""
 
+144
+12
+""Camp du Trappeur
+- 50% de chances de trouver 300-500 Pièces d'Or.
+- 25% de chances de trouver 3-5 Lutins.
+- 25% de chances de trouver 3-5 Kobolds.""
+
 145
 0
 ""Lampe Orientale
@@ -8782,6 +9917,11 @@ Au début de la partie, cet objet est remplacé par une Demeure aléatoire appar
 10
 ""Demeure Aléatoire de la Manufacture
 Au début de la partie, cet objet est remplacé par une Demeure aléatoire appartenant à la Manufacture.""
+
+218
+11
+""Demeure Aléatoire de la Muraille
+Au début de la partie, cet objet est remplacé par une Demeure aléatoire appartenant à la Muraille.""
 "
 Text 8: ""
 Has FilS: "false"
@@ -8843,24 +9983,26 @@ Text 7: "# Objets supplémentaires pour le RMG
 145 2 500 600 -1 -1 # Malle
 145 3 3000 50 -1 -1 # Fiole à Mana
 
-146 0 8000 20 -1 1 # �������� ������������
-146 1 500 20 -1 1 # ������������
-146 2 100 20 -1 1 # ������ ����
+146 0 8000 20 -1 1 # \C0\EA\E0\E4\E5\EC\E8\FF \CC\EE\F0\E5\EF\EB\E0\E2\E0\ED\E8\FF
+146 1 500 20 -1 1 # \CE\E1\F1\E5\F0\E2\E0\F2\EE\F0\E8\FF
+146 2 100 20 -1 1 # \C0\EB\F2\E0\F0\FC \CC\E0\ED\FB
 
-144 2 3000 50 32 -1 # ������� �����
-144 3 500 50 -1 1 # �������
-146 3 10000 20 -1 1 # ��������� �����
+144 2 3000 50 32 -1 # \CA\EE\EB\E8\E7\E5\E9 \CC\E0\E3\EE\E2
+144 3 500 50 -1 1 # \C2\EE\E4\EE\EF\EE\E9
+146 3 10000 20 -1 1 # \C3\EE\F0\EE\E4\F1\EA\E8\E5 \C2\F0\E0\F2\E0
 
-144 4 500 50 -1 1 # ����������� ��������
-144 5 1500 80 32 1 # ������ ����������
-144 6 1500 50 32 -1 # �������
-144 7 200 40 -1 1 # ����������
+144 4 500 50 -1 1 # \CC\E8\ED\E5\F0\E0\EB\FC\ED\FB\E9 \E8\F1\F2\EE\F7\ED\E8\EA
+144 5 1500 80 32 1 # \CB\E0\F7\F3\E3\E0 \EE\F2\F8\E5\EB\FC\ED\E8\EA\E0
+144 6 1500 50 32 -1 # \C1\E5\F1\E5\E4\EA\E0
+144 7 200 40 -1 1 # \D1\F2\E0\F0\FC\B8\E2\F9\E8\EA
 
-144 8 750 30 -1 -1 # ��������
-144 9 10000 100 -1 1 # ����������� ������������� 
-144 10 500 30 -1 -1 # ���������
-144 11 200 40 -1 1 # ���������
-212 1001 500 30 -1 -1 # ������
+144 8 750 30 -1 -1 # \D1\EA\E2\E0\E6\E8\ED\E0
+144 9 10000 100 -1 1 # \CB\E0\E1\EE\F0\E0\F2\EE\F0\E8\FF \D7\E5\F0\ED\EE\EA\ED\E8\E6\ED\E8\EA\E0 
+144 10 500 30 -1 -1 # \D1\F2\E0\F0\E0\F2\E5\EB\FC
+144 11 200 40 -1 1 # \CF\F0\EE\E2\EE\E4\ED\E8\EA
+212 1001 500 30 -1 -1 # \CC\EE\E3\E8\EB\E0
+
+144 12 500 50 -1 -1 # \C7\E0\E8\EC\EA\E0
 "
 Text 8: "{Autel de Magie Mystère}
 
@@ -8886,24 +10028,24 @@ Text 5: ""
 Text 6: ""
 Text 7: "# Type Subtype Value Density Max_map Max_zone
 
-15 0 500 25 -1 1 # ����� ����
-27 0 100 50 -1 1 # ���� ����
-37 0 100 25 -1 1 # ������ ����
-80 0 100 50 -1 -1 # ���������
+15 0 500 25 -1 1 # \C2\F3\E0\EB\FC \D2\FC\EC\FB
+27 0 100 50 -1 1 # \C3\EB\E0\E7 \CC\E0\E3\E0
+37 0 100 25 -1 1 # \D5\E8\E6\E8\ED\E0 \CC\E0\E3\E0
+80 0 100 50 -1 -1 # \D1\E2\FF\F2\E8\EB\E8\F9\E5
 
-13 0 5000 20 -1 -1 # ������ ���������
-13 1 10000 20 -1 -1 # �������� ���������
-13 2 7500 20 -1 -1 # ��������� ���������
+13 0 5000 20 -1 -1 # \C2\EE\E4\ED\FB\E9 \CA\E0\F0\F2\EE\E3\F0\E0\F4
+13 1 10000 20 -1 -1 # \CD\E0\E7\E5\EC\ED\FB\E9 \CA\E0\F0\F2\EE\E3\F0\E0\F4
+13 2 7500 20 -1 -1 # \CF\EE\E4\E7\E5\EC\ED\FB\E9 \CA\E0\F0\F2\EE\E3\F0\E0\F4
 
-35 0 7000 20 -1 -1 # ���� �� �����
+35 0 7000 20 -1 -1 # \D4\EE\F0\F2 \ED\E0 \D5\EE\EB\EC\E5
 
-16 23 3500 100 -1 -1 # ��������� ������
-16 25 1500 100 -1 -1 # ������
-16 28 7000 100 -1 -1 # ����� �� �������� �����
+16 23 3500 100 -1 -1 # \CF\E8\F0\E0\F2\F1\EA\E0\FF \CF\E5\F9\E5\F0\E0
+16 25 1500 100 -1 -1 # \C2\E5\F0\F2\E5\EF
+16 28 7000 100 -1 -1 # \C1\E0\F8\ED\FF \E8\E7 \D1\EB\EE\ED\EE\E2\EE\E9 \CA\EE\F1\F2\E8
 
-145 0 5000 200 -1 -1 # ������� �����
+145 0 5000 200 -1 -1 # \C4\F0\E5\E2\ED\FF\FF \CB\E0\EC\EF\E0
 
-146 4 20000 20 -1 1 # ������� ������"
+146 4 20000 20 -1 1 # \C4\F0\E5\E2\ED\E8\E9 \C0\EB\F2\E0\F0\FC"
 Text 8: ""
 Has FilS: "false"
 Vals count: "4"
@@ -8960,37 +10102,37 @@ Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
-Text 7: "# ����� �������� ����� | ��� (-1 - ���, 0 - ������  ��������, 1 - ����, 2 - ��������) | ������������ �� �� ��������� (0 - ���, 1 - ��)
--1 -1 0 # 0 ����
--1 -1 0 # 1 �����
--1 -1 0 # 2 �����
--1 -1 0 # 3 �����
--1 -1 0 # 4 �������
--1 -1 0 # 5 �������
-83 -1 0 # 6 �������
-84 -1 0 # 7 �������
-82 -1 0 # 8 ������
-81 -1 0 # 9 �����
--1 -1 0 # 10 ������� ���������
--1 -1 0 # 11 ���������� ������
--1 -1 0 # 12 ����������� ������
-86 -1 0 # 13 ������
-85 -1 0 # 14 ������� ������
--1 -1 0 # 15 ��������� �����
--1 -1 0 # 16 �����
-99 -1 1 # 17 ��������
-98 -1 0 # 18 �����
--1 -1 0 # 19 ����� ���� ���������� ����
--1 -1 0 # 20 ������ ������
--1 -1 0 # 21 ����
--1 -1 0 # 22 �����
--1 -1 0 # 23 �����
--1 -1 0 # 24 ����
--1 -1 0 # 25 ���������
--1 -1 0 # 26 ������������� ����
--1 -1 0 # 27 �������
--1 -1 0 # 28 ��������
--1 -1 1 # 29 �������
+Text 7: "# \CD\EE\EC\E5\F0 \F4\EE\ED\EE\E2\EE\E3\EE \E7\E2\F3\EA\E0 | \D2\E8\EF (-1 - \ED\E5\F2, 0 - \EC\B8\F0\F2\E2\EE\E5  \F0\E0\F1\F2\E5\ED\E8\E5, 1 - \F5\EE\EB\EC, 2 - \F0\E0\F1\F2\E5\ED\E8\E5) | \EF\EE\EA\E0\E7\FB\E2\E0\E5\F2\F1\FF \EB\E8 \ED\E0 \EC\E8\ED\E8\EA\E0\F0\F2\E5 (0 - \ED\E5\F2, 1 - \E4\E0)
+-1 -1 0 # 0 \DF\F9\E8\EA
+-1 -1 0 # 1 \DF\F9\E8\EA\E8
+-1 -1 0 # 2 \CC\E5\F8\EE\EA
+-1 -1 0 # 3 \C1\EE\F7\EA\E8
+-1 -1 0 # 4 \D7\E5\EB\FE\F1\F2\FC
+-1 -1 0 # 5 \C2\E5\F0\E5\E2\EA\E0
+83 -1 0 # 6 \CB\FF\E3\F3\F8\EA\E0
+84 -1 0 # 7 \CB\FF\E3\F3\F8\EA\E8
+82 -1 0 # 8 \CA\F3\F0\E8\F6\E0
+81 -1 0 # 9 \CF\E5\F2\F3\F5
+-1 -1 0 # 10 \D6\E2\E5\F2\ED\FB\E5 \C2\EE\E4\EE\F0\EE\F1\EB\E8
+-1 -1 0 # 11 \D0\E0\E7\EE\F0\E5\ED\ED\FB\E9 \CB\E0\E3\E5\F0\FC
+-1 -1 0 # 12 \D0\E0\E7\F0\F3\F8\E5\ED\ED\FB\E9 \D4\EE\ED\F2\E0\ED
+86 -1 0 # 13 \D1\E2\E8\ED\FC\FF
+85 -1 0 # 14 \C4\F0\E5\E2\ED\E8\E9 \D4\EB\F2\E0\F0\FC
+-1 -1 0 # 15 \C1\F0\EE\F8\E5\ED\ED\E0\FF \CB\EE\E4\EA\E0
+-1 -1 0 # 16 \C7\E0\E1\EE\F0
+99 -1 1 # 17 \C2\EE\E4\EE\EF\E0\E4\FB
+98 -1 0 # 18 \CE\E3\EE\ED\FC
+-1 -1 0 # 19 \D0\F3\E8\ED\FB \C2\F0\E0\F2 \CF\EE\E4\E7\E5\EC\ED\EE\E3\EE \CC\E8\F0\E0
+-1 -1 0 # 20 \D5\E8\F9\ED\FB\E9 \D6\E2\E5\F2\EE\EA
+-1 -1 0 # 21 \CC\EE\F1\F2
+-1 -1 0 # 22 \CA\EE\F1\F2\E8
+-1 -1 0 # 23 \CC\E5\F8\EA\E8
+-1 -1 0 # 24 \CB\F3\E6\E8
+-1 -1 0 # 25 \D0\E0\E7\E2\E0\EB\E8\ED\FB
+-1 -1 0 # 26 \C8\E7\E2\E5\F1\F2\ED\FF\EA\EE\E2\FB\E5 \CB\F3\E6\E8
+-1 -1 0 # 27 \CA\EE\EB\EE\ED\ED\FB
+-1 -1 0 # 28 \D2\F0\EE\F1\F2\ED\E8\EA
+-1 -1 1 # 29 \D2\F0\E5\F9\E8\ED\FB
 -1 -1 0 # 30 Burnt Structure
 -1 -1 0 # 31 Stele"
 Text 8: "Caisse
@@ -9044,21 +10186,22 @@ Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
-Text 7: "# ����� �������� ����� | ��� (-1 - ���, 0 - ������  ��������, 1 - ����, 2 - ��������) | ������������ �� �� ��������� (0 - ���, 1 - ��)
--1 -1 0 # 0 �����
--1 1 0 # 1 ������
--1 2 1 # 2 ������
--1 1 1 # 3 ����� ����
--1 1 0 # 4 ����� ������
--1 1 1 # 5 ������� �����
--1 1 1 # 6 �������
--1 2 1 # 7 ���
--1 -1 1 # 8 ������������� �����
--1 -1 1 # 9 �����
--1 -1 0 # 10 ��������
--1 2 1 # 11 ������ ��������
--1 2 1 # 12 ����
--1 1 1 # 13 ��������� ����"
+Text 7: "# \CD\EE\EC\E5\F0 \F4\EE\ED\EE\E2\EE\E3\EE \E7\E2\F3\EA\E0 | \D2\E8\EF (-1 - \ED\E5\F2, 0 - \EC\B8\F0\F2\E2\EE\E5  \F0\E0\F1\F2\E5\ED\E8\E5, 1 - \F5\EE\EB\EC, 2 - \F0\E0\F1\F2\E5\ED\E8\E5) | \EF\EE\EA\E0\E7\FB\E2\E0\E5\F2\F1\FF \EB\E8 \ED\E0 \EC\E8\ED\E8\EA\E0\F0\F2\E5 (0 - \ED\E5\F2, 1 - \E4\E0)
+-1 -1 0 # 0 \C2\E0\EB\F3\ED
+-1 1 0 # 1 \CA\E0\EC\E5\ED\FC
+-1 2 1 # 2 \CF\E0\EB\FC\EC\FB
+-1 1 1 # 3 \C3\EB\FB\E1\E0 \CB\FC\E4\E0
+-1 1 0 # 4 \C3\F0\F3\E4\E0 \CA\E0\EC\ED\E5\E9
+-1 1 1 # 5 \D1\ED\E5\E6\ED\FB\E5 \D5\EE\EB\EC\FB
+-1 1 1 # 6 \C1\E0\F0\F5\E0\ED\FB
+-1 2 1 # 7 \C5\EB\E8
+-1 -1 1 # 8 \C8\E7\E2\E5\F1\F2\ED\FF\EA\EE\E2\EE\E5 \CE\E7\E5\F0\EE
+-1 -1 1 # 9 \D1\F2\E5\ED\E0
+-1 -1 0 # 10 \CB\E5\F1\F2\ED\E8\F6\E0
+-1 2 1 # 11 \D5\E8\F9\ED\FB\E5 \F0\E0\F1\F2\E5\ED\E8\FF
+-1 2 1 # 12 \CA\EB\B8\ED\FB
+-1 1 1 # 13 \CF\F0\E8\F0\EE\E4\ED\E0\FF \C0\F0\EA\E0
+-1 1 1 # 14 Glacier"
 Text 8: "Bloc de Granit
 Rocher
 Palmiers
@@ -9072,11 +10215,12 @@ Mur
 Escaliers
 Plantes Nuisibles
 Érables
-Arche Naturelle"
+Arche Naturelle
+Glacier"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
-Val 1: "14"
+Val 1: "15"
 Val 2: "0"
 Val 3: "0"
 ------------------------------------------------
@@ -9114,7 +10258,14 @@ Fabrique
 Oubliettes
 Mirador
 Serpentarium
-Portique"
+Portique
+Mine
+Éperon Glacial
+Hall des Audacieux
+Ambassade des Montagnes
+Mégalithes des Chamans
+Étable des Mammouths
+Palais de Glace"
 Text 8: "-1 -1 # 88 Not Used
 -1 -1 # 89 Not Used
 -1 -1 # 90 Not Used
@@ -9137,7 +10288,14 @@ Text 8: "-1 -1 # 88 Not Used
 178 7 # 107 Oubliettes
 180 114 # 108 Mirador
 182 113 # 109 Serpentarium
-184 12 # 110 Portique"
+184 12 # 110 Portique
+186 12 # 111 Mine
+188 46 # 112 Éperon Glacial
+190 52 # 113 Hall des Audacieux
+192 61 # 114 Ambassade des Montagnes
+194 78 # 115 Mégalithes des Chamans
+196 115 # 116 Étable des Mammouths
+198 43 # 117 Palais de Glace"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -9153,9 +10311,9 @@ Texts count: "9"
 Text 0: ""
 Text 1: "Sons d'événements"
 Text 2: ""
-Text 3: "# ID ������� ����� - 70"
-Text 4: "# ID ���������� - 114"
-Text 5: "# ID ���������� ���������� ��� ���������� - 115"
+Text 3: "# ID \EF\E5\F0\E2\EE\E3\EE \E7\E2\F3\EA\E0 - 70"
+Text 4: "# ID \EF\EE\F1\EB\E5\E4\ED\E5\E3\EE - 115"
+Text 5: "# ID \EF\EE\F1\EB\E5\E4\ED\E5\E3\EE \E2\EE\E7\EC\EE\E6\ED\EE\E3\EE \E4\EB\FF \E4\EE\E1\E0\E2\EB\E5\ED\E8\FF - 115"
 Text 6: ""
 Text 7: "LOOPPCAV.wav
 LOOPSTPL.wav
@@ -9201,7 +10359,8 @@ LOOPPROS.wav
 LOOPDRRK.wav
 LOOPHALF.wav
 LOOPCOTL.wav
-LOOPGUNS.wav"
+LOOPGUNS.wav
+LOOPMAMN.wav"
 Text 8: "{Sons d'événements}
 
 Active les musiques au début des combats, des objets d'aventure, et de l'annonce du premier jour de la semaine."
@@ -9225,192 +10384,206 @@ Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: "# Stay anim frame period|Fidget anim frame period|Stay&fidget anim random variation|Has stay anim|Missle explode anim ix
-140 100 200 1 -1 # ��������
-140 100 200 1 -1 # ����������
-145 125 200 1 -1 # ����������
-140 120 200 1 -1 # ������� ����������
-180 140 200 1 -1 # ������
-180 150 200 1 -1 # ����������� ������
-157 140 200 1 -1 # ������
-162 150 200 1 -1 # �����������
-170 150 200 1 94 # �����
-180 160 200 1 94 # �������
-160 130 200 1 -1 # ����������
-170 140 200 1 -1 # �������
-155 145 200 1 -1 # �����
-170 140 200 1 -1 # ��������
-120 110 200 1 -1 # �������
-110 100 200 1 -1 # ������� ���������
-140 120 200 1 -1 # ����
-150 130 200 1 -1 # ������ ����
-120 112 200 1 -1 # ������ ����
-125 114 200 1 -1 # ����������� ����
-110 100 200 1 -1 # �����
-110 100 200 1 -1 # ���������� �����
-200 200 200 1 -1 # �������� ��������
-200 200 200 1 -1 # �������� ������
-170 160 200 1 -1 # ��������
-180 160 200 1 -1 # ������ ��������
-130 110 200 1 -1 # ������� ������
-130 110 200 1 -1 # ������� ������
-130 120 200 1 -1 # �������
-130 124 200 1 -1 # ������-�������
-160 130 200 1 -1 # �������� ��������
-170 140 200 1 -1 # ������������ ��������
-200 190 200 1 -1 # �������� �����
-200 190 200 1 -1 # �������� �����
-170 160 200 1 -1 # ���
-180 165 200 1 -1 # ����-���
-90 90 200 1 -1 # �����
-90 90 200 1 -1 # ������-�����
-200 170 200 1 -1 # ����
-200 170 200 1 -1 # �������� ����
-160 160 200 1 -1 # ������
-160 160 200 1 92 # �����
-95 95 200 1 -1 # ���
-105 100 200 1 -1 # ׸��
-130 120 200 1 88 # ���
-130 123 200 1 -1 # �����
-100 90 200 1 -1 # ������ ������
-110 95 200 1 -1 # ������
-110 100 200 1 -1 # �����
-110 100 200 1 -1 # ������� �����
-130 120 200 1 -1 # ���������� ���
-130 110 200 1 -1 # ������ �������
-90 90 200 1 -1 # �����
-90 90 200 1 -1 # �����-������
-160 140 200 1 -1 # ������
-170 150 200 1 -1 # ����������
-100 100 200 1 -1 # ������
-110 110 200 1 -1 # ���� ������
-120 110 200 1 -1 # ����� �������
-120 110 200 1 -1 # �����
-130 124 200 1 -1 # �����
-125 120 200 1 -1 # ����������
-140 120 200 1 -1 # ������
-145 135 200 1 -1 # ������ ����
-160 133 200 1 93 # ���
-170 135 200 1 -1 # �������������� ���
-120 110 200 1 -1 # ������ ������
-130 120 200 1 -1 # ������ ������
-180 170 200 1 -1 # �������� ������
-190 180 200 1 -1 # ������-����������
-130 120 200 1 -1 # ���������
-140 130 200 1 -1 # ������ ���������
-120 110 200 1 -1 # ������
-130 115 200 1 -1 # ������-������
-120 165 200 1 91 # ��������
-130 175 200 1 91 # ���� ����
-100 90 200 1 -1 # ������
-105 95 200 1 -1 # �������� ������
-130 125 200 1 -1 # ��������
-135 125 200 1 -1 # ������ ��������
-105 100 200 1 -1 # ���������
-110 100 200 1 -1 # ����������
-160 150 200 1 -1 # ������� ������
-180 164 200 1 -1 # ������ ������
-120 100 200 1 -1 # ������
-120 100 200 1 -1 # ���������
-120 100 200 1 -1 # �������� �� ������
-120 100 200 1 -1 # ��������
-203 123 200 1 -1 # ���
-208 128 200 1 -1 # ���-�����
-110 110 200 1 -1 # ���
-130 130 200 1 -1 # ���-�����
-140 130 200 1 -1 # ����� ���
-150 135 200 1 -1 # �����-����
-200 190 200 1 -1 # ������
-210 204 200 1 -1 # ������ ��������
-120 110 200 1 -1 # ������
-130 120 200 1 -1 # ������� ������
-115 105 200 1 -1 # �����
-120 110 200 1 -1 # �����-�������
-110 105 200 1 -1 # ����
-120 110 200 1 -1 # ����-����
-120 110 200 1 -1 # �������
-120 114 200 1 -1 # ������� �������
-50 100 200 1 -1 # ����
-50 100 200 1 -1 # �������� ����
-140 130 200 1 -1 # ��������
-150 135 200 1 -1 # ������� ��������
-130 130 200 1 -1 # ������
-132 132 200 1 -1 # ������-������
-190 190 200 1 -1 # �����
-190 190 200 1 -1 # ����� �����
-90 90 200 1 -1 # ��������� ����������
-110 95 200 1 -1 # ���������� �����
-80 80 200 1 -1 # �������� ����������
-120 110 200 1 -1 # ���������� ����
-135 123 200 1 -1 # ������� �����
-145 141 200 1 -1 # �������� �����
-120 110 200 1 -1 # ��������� ���
-120 110 200 1 -1 # ���
-125 115 200 1 -1 # ����������� ����������
-130 125 200 1 -1 # ���������� ����������
-100 100 200 1 -1 # �� ������������ (1)
-120 110 200 1 46 # ������� ����������
-100 100 200 1 -1 # �� ������������ (2) 
-160 150 200 1 -1 # ���������� �����
-100 100 200 1 -1 # �� ������������ (3)
-90 90 200 1 89 # ���������� ������
-100 100 200 1 -1 # �� ������������ (4)
-105 105 200 1 -1 # �������������� ����������
-95 95 200 1 -1 # �������� �����
-93 93 200 1 -1 # ������
-140 130 200 1 -1 # �������� ������
-160 150 200 1 -1 # ����������� ������
-130 120 200 1 -1 # ��������� ������
-160 150 200 1 -1 # ������ ������
-125 115 200 1 64 # �������
-120 110 200 1 -1 # �������
-110 100 200 1 -1 # ����������
-120 100 200 1 -1 # ����������
-145 120 200 1 -1 # ��� �� ������
-180 130 200 1 -1 # �����
-160 140 200 1 -1 # ��������
-123 103 200 1 -1 # ���
-140 120 200 1 -1 # ������
-100 100 200 1 -1 # ����������
-100 100 200 1 -1 # ��������
-130 100 0 1 -1 # ������� ������ ������
-100 100 200 1 -1 # ������� à ������������
-100 100 200 1 -1 # ���������� �����
-100 100 200 1 -1 # �����
-160 130 200 1 -1 # ������� ����
-145 125 200 1 -1 # ������������� �����
-95 95 200 1 -1 # �����
-95 95 200 1 -1 # ��������
-130 120 200 1 -1 # ������
-140 130 200 1 -1 # ���������
-150 135 200 1 -1 # �����
-150 140 200 1 -1 # ������
-140 130 200 1 -1 # ��� ������
-150 135 200 1 -1 # ������
-140 130 200 1 -1 # ����� ����
-140 130 200 1 -1 # ���������������
-150 130 200 1 -1 # ����
-150 130 200 1 -1 # ����-����
-150 160 200 1 -1 # ������� ����
-150 165 200 1 -1 # �����
-115 75 100 1 -1 # �����
-140 100 200 1 -1 # �������
-180 110 200 1 -1 # ��������
-100 100 200 1 -1 # �������� �����
-110 100 200 1 95 # ����������-�������
-180 100 200 1 -1 # �������
-180 100 200 1 -1 # �������
-140 85 200 1 -1 # ����������
-140 85 200 1 -1 # ����������-�����
-120 115 200 1 -1 # ���������
-120 115 200 1 -1 # ���������-�������
-165 110 200 1 -1 # �������� �����
-165 110 200 1 -1 # �����-������
-120 100 200 1 -1 # �������
-120 100 200 1 -1 # ������� �� ��������
-125 110 200 1 -1 # ������
-125 110 200 1 -1 # �������� ������
-150 115 200 1 -1 # ��������
-150 115 200 1 -1 # �����������"
+140 100 200 1 -1 # \CA\EE\EF\E5\E9\F9\E8\EA
+140 100 200 1 -1 # \C0\EB\E5\E1\E0\F0\E4\F9\E8\EA
+145 125 200 1 -1 # \C0\F0\E1\E0\EB\E5\F2\F7\E8\EA
+140 120 200 1 -1 # \D2\FF\E6\E5\EB\FB\E9 \C0\F0\E1\E0\EB\E5\F2\F7\E8\EA
+180 140 200 1 -1 # \C3\F0\E8\F4\EE\ED
+180 150 200 1 -1 # \CA\EE\F0\EE\EB\E5\E2\F1\EA\E8\E9 \C3\F0\E8\F4\EE\ED
+157 140 200 1 -1 # \CC\E5\F7\ED\E8\EA
+162 150 200 1 -1 # \CA\F0\E5\F1\F2\EE\ED\EE\F1\E5\F6
+170 150 200 1 94 # \CC\EE\ED\E0\F5
+180 160 200 1 94 # \D4\E0\ED\E0\F2\E8\EA
+160 130 200 1 -1 # \CA\E0\E2\E0\EB\E5\F0\E8\F1\F2
+170 140 200 1 -1 # \D7\E5\EC\EF\E8\EE\ED
+155 145 200 1 -1 # \C0\ED\E3\E5\EB
+170 140 200 1 -1 # \C0\F0\F5\E0\ED\E3\E5\EB
+120 110 200 1 -1 # \CA\E5\ED\F2\E0\E2\F0
+110 100 200 1 -1 # \CA\E0\EF\E8\F2\E0\ED \CA\E5\ED\F2\E0\E2\F0\EE\E2
+140 120 200 1 -1 # \C3\ED\EE\EC
+150 130 200 1 -1 # \C1\EE\E5\E2\EE\E9 \C3\ED\EE\EC
+120 112 200 1 -1 # \CB\E5\F1\ED\EE\E9 \DD\EB\FC\F4
+125 114 200 1 -1 # \C1\EB\E0\E3\EE\F0\EE\E4\ED\FB\E9 \DD\EB\FC\F4
+110 100 200 1 -1 # \CF\E5\E3\E0\F1
+110 100 200 1 -1 # \D1\E5\F0\E5\E1\F0\FF\ED\FB\E9 \CF\E5\E3\E0\F1
+200 200 200 1 -1 # \C4\E5\ED\E4\F0\EE\E8\E4 \CE\F5\F0\E0\ED\ED\E8\EA
+200 200 200 1 -1 # \C4\E5\ED\E4\F0\EE\E8\E4 \D1\EE\EB\E4\E0\F2
+170 160 200 1 -1 # \C5\E4\E8\ED\EE\F0\EE\E3
+180 160 200 1 -1 # \C1\EE\E5\E2\EE\E9 \C5\E4\E8\ED\EE\F0\EE\E3
+130 110 200 1 -1 # \C7\E5\EB\E5\ED\FB\E9 \C4\F0\E0\EA\EE\ED
+130 110 200 1 -1 # \C7\EE\EB\EE\F2\EE\E9 \C4\F0\E0\EA\EE\ED
+130 120 200 1 -1 # \C3\F0\E5\EC\EB\E8\ED
+130 124 200 1 -1 # \CC\E0\F1\F2\E5\F0-\C3\F0\E5\EC\EB\E8\ED
+160 130 200 1 -1 # \CA\E0\EC\E5\ED\ED\E0\FF \C3\EE\F0\E3\F3\EB\FC\FF
+170 140 200 1 -1 # \CE\E1\F1\E8\E4\E8\E0\ED\EE\E2\E0\FF \C3\EE\F0\E3\F3\EB\FC\FF
+200 190 200 1 -1 # \CA\E0\EC\E5\ED\ED\FB\E9 \C3\EE\EB\E5\EC
+200 190 200 1 -1 # \D1\F2\E0\EB\FC\ED\EE\E9 \C3\EE\EB\E5\EC
+170 160 200 1 -1 # \CC\E0\E3
+180 165 200 1 -1 # \C0\F0\F5\E8-\CC\E0\E3
+90 90 200 1 -1 # \C4\E6\E8\ED\ED
+90 90 200 1 -1 # \CC\E0\F1\F2\E5\F0-\C4\E6\E8\ED\ED
+200 170 200 1 -1 # \CD\E0\E3\E0
+200 170 200 1 -1 # \CA\EE\F0\EE\EB\E5\E2\E0 \CD\E0\E3\E0
+160 160 200 1 -1 # \C3\E8\E3\E0\ED\F2
+160 160 200 1 92 # \D2\E8\F2\E0\ED
+95 95 200 1 -1 # \C1\E5\F1
+105 100 200 1 -1 # ׸\F0\F2
+130 120 200 1 88 # \C3\EE\E3
+130 123 200 1 -1 # \CC\E0\E3\EE\E3
+100 90 200 1 -1 # \C0\E4\F1\EA\E0\FF \C3\EE\ED\F7\E0\FF
+110 95 200 1 -1 # \D6\E5\F0\E1\E5\F0
+110 100 200 1 -1 # \C4\E5\EC\EE\ED
+110 100 200 1 -1 # \D0\EE\E3\E0\F2\FB\E9 \C4\E5\EC\EE\ED
+130 120 200 1 -1 # \CF\EE\F0\EE\E6\E4\E5\ED\E8\E5 \C7\EB\E0
+130 110 200 1 -1 # \C0\E4\F1\EA\EE\E5 \CE\F2\F0\EE\E4\FC\E5
+90 90 200 1 -1 # \C8\F4\F0\E8\F2
+90 90 200 1 -1 # \C8\F4\F0\E8\F2-\D1\F3\EB\F2\E0\ED
+160 140 200 1 -1 # \C4\FC\FF\E2\EE\EB
+170 150 200 1 -1 # \C0\F0\F5\E8\E4\FC\FF\E2\EE\EB
+100 100 200 1 -1 # \D1\EA\E5\EB\E5\F2
+110 110 200 1 -1 # \C2\EE\E8\ED \D1\EA\E5\EB\E5\F2
+120 110 200 1 -1 # \C6\E8\E2\EE\E9 \CC\E5\F0\F2\E2\E5\F6
+120 110 200 1 -1 # \C7\EE\EC\E1\E8
+130 124 200 1 -1 # \D1\F2\F0\E0\E6
+125 120 200 1 -1 # \CF\F0\E8\E2\E8\E4\E5\ED\E8\E5
+140 120 200 1 -1 # \C2\E0\EC\EF\E8\F0
+145 135 200 1 -1 # \C2\E0\EC\EF\E8\F0 \CB\EE\F0\E4
+160 133 200 1 93 # \CB\E8\F7
+170 135 200 1 -1 # \CC\EE\E3\F3\F9\E5\F1\F2\E2\E5\ED\ED\FB\E9 \CB\E8\F7
+120 110 200 1 -1 # \D7\E5\F0\ED\FB\E9 \D0\FB\F6\E0\F0\FC
+130 120 200 1 -1 # \D0\FB\F6\E0\F0\FC \D1\EC\E5\F0\F2\E8
+180 170 200 1 -1 # \CA\EE\F1\F2\FF\ED\EE\E9 \C4\F0\E0\EA\EE\ED
+190 180 200 1 -1 # \C4\F0\E0\EA\EE\ED-\CF\F0\E8\E2\E8\E4\E5\ED\E8\E5
+130 120 200 1 -1 # \D2\F0\EE\E3\EB\EE\E4\E8\F2
+140 130 200 1 -1 # \C0\E4\F1\EA\E8\E9 \D2\F0\EE\E3\EB\EE\E4\E8\F2
+120 110 200 1 -1 # \C3\E0\F0\EF\E8\FF
+130 115 200 1 -1 # \C3\E0\F0\EF\E8\FF-\C2\E5\E4\FC\EC\E0
+120 165 200 1 91 # \C1\E5\F5\EE\EB\E4\E5\F0
+130 175 200 1 91 # \C7\EB\EE\E9 \C3\EB\E0\E7
+100 90 200 1 -1 # \CC\E5\E4\F3\E7\E0
+105 95 200 1 -1 # \CA\EE\F0\EE\EB\E5\E2\E0 \CC\E5\E4\F3\E7\E0
+130 125 200 1 -1 # \CC\E8\ED\EE\F2\E0\E2\F0
+135 125 200 1 -1 # \CA\EE\F0\EE\EB\FC \CC\E8\ED\EE\F2\E0\E2\F0
+105 100 200 1 -1 # \CC\E0\ED\F2\E8\EA\EE\F0\E0
+110 100 200 1 -1 # \D1\EA\EE\F0\EF\E8\EA\EE\F0\E0
+160 150 200 1 -1 # \CA\F0\E0\F1\ED\FB\E9 \C4\F0\E0\EA\EE\ED
+180 164 200 1 -1 # \D7\E5\F0\ED\FB\E9 \C4\F0\E0\EA\EE\ED
+120 100 200 1 -1 # \C3\EE\E1\EB\E8\ED
+120 100 200 1 -1 # \D5\EE\E1\E3\EE\E1\EB\E8\ED
+120 100 200 1 -1 # \CD\E0\E5\E7\E4\ED\E8\EA \ED\E0 \E2\EE\EB\EA\E0\F5
+120 100 200 1 -1 # \CD\E0\EB\E5\F2\F7\E8\EA
+203 123 200 1 -1 # \CE\F0\EA
+208 128 200 1 -1 # \CE\F0\EA-\C2\EE\E6\E4\FC
+110 110 200 1 -1 # \CE\E3\F0
+130 130 200 1 -1 # \CE\E3\F0-\D8\E0\EC\E0\ED
+140 130 200 1 -1 # \CF\F2\E8\F6\E0 \D0\F3\F5
+150 135 200 1 -1 # \CF\F2\E8\F6\E0-\C3\F0\EE\EC
+200 190 200 1 -1 # \D6\E8\EA\EB\EE\EF
+210 204 200 1 -1 # \CA\EE\F0\EE\EB\FC \D6\E8\EA\EB\EE\EF\EE\E2
+120 110 200 1 -1 # \D7\F3\E4\E8\F9\E5
+130 120 200 1 -1 # \C4\F0\E5\E2\ED\E5\E5 \D7\F3\E4\E8\F9\E5
+115 105 200 1 -1 # \C3\ED\EE\EB\EB
+120 110 200 1 -1 # \C3\ED\EE\EB\EB-\CC\E0\F0\EE\E4\E5\F0
+110 105 200 1 -1 # \DF\F9\E5\F0
+120 110 200 1 -1 # \DF\F9\E5\F0-\C2\EE\E8\ED
+120 110 200 1 -1 # \C3\EE\F0\E3\EE\ED\E0
+120 114 200 1 -1 # \CC\EE\E3\F3\F7\E0\FF \C3\EE\F0\E3\EE\ED\E0
+50 100 200 1 -1 # \C7\EC\E8\E9
+50 100 200 1 -1 # \DF\E4\EE\E2\E8\F2\FB\E9 \C7\EC\E8\E9
+140 130 200 1 -1 # \C2\E0\F1\E8\EB\E8\F1\EA
+150 135 200 1 -1 # \C2\E5\EB\E8\EA\E8\E9 \C2\E0\F1\E8\EB\E8\F1\EA
+130 130 200 1 -1 # \C2\E8\E2\E5\F0\ED
+132 132 200 1 -1 # \C2\E8\E2\E5\F0\ED-\CC\EE\ED\E0\F0\F5
+190 190 200 1 -1 # \C3\E8\E4\F0\E0
+190 190 200 1 -1 # \C3\E8\E4\F0\E0 \D5\E0\EE\F1\E0
+90 90 200 1 -1 # \C2\EE\E7\E4\F3\F8\ED\FB\E9 \DD\EB\E5\EC\E5\ED\F2\E0\EB\FC
+110 95 200 1 -1 # \DD\EB\E5\EC\E5\ED\F2\E0\EB\FC \C7\E5\EC\EB\E8
+80 80 200 1 -1 # \CE\E3\ED\E5\ED\ED\FB\E9 \DD\EB\E5\EC\E5\ED\F2\E0\EB\FC
+120 110 200 1 -1 # \DD\EB\E5\EC\E5\ED\F2\E0\EB\FC \C2\EE\E4\FB
+135 123 200 1 -1 # \C7\EE\EB\EE\F2\EE\E9 \C3\EE\EB\E5\EC
+145 141 200 1 -1 # \C0\EB\EC\E0\E7\ED\FB\E9 \C3\EE\EB\E5\EC
+120 110 200 1 -1 # \CC\E0\EB\E5\ED\FC\EA\E0\FF \D4\E5\FF
+120 110 200 1 -1 # \D4\E5\FF
+125 115 200 1 -1 # \CF\F1\E8\F5\E8\F7\E5\F1\EA\E8\E9 \DD\EB\E5\EC\E5\ED\F2\E0\EB\FC
+130 125 200 1 -1 # \CC\E0\E3\E8\F7\E5\F1\EA\E8\E9 \DD\EB\E5\EC\E5\ED\F2\E0\EB\FC
+100 100 200 1 -1 # \CD\C5 \C8\D1\CF\CE\CB\DC\C7\D3\C5\D2\D1\DF (1)
+120 110 200 1 46 # \CB\E5\E4\FF\ED\EE\E9 \DD\EB\E5\EC\E5\ED\F2\E0\EB\FC
+100 100 200 1 -1 # \CD\C5 \C8\D1\CF\CE\CB\DC\C7\D3\C5\D2\D1\DF (2) 
+160 150 200 1 -1 # \DD\EB\E5\EC\E5\ED\F2\E0\EB\FC \CC\E0\E3\EC\FB
+100 100 200 1 -1 # \CD\C5 \C8\D1\CF\CE\CB\DC\C7\D3\C5\D2\D1\DF (3)
+90 90 200 1 89 # \DD\EB\E5\EC\E5\ED\F2\E0\EB\FC \D8\F2\EE\F0\EC\E0
+100 100 200 1 -1 # \CD\C5 \C8\D1\CF\CE\CB\DC\C7\D3\C5\D2\D1\DF (4)
+105 105 200 1 -1 # \DD\ED\E5\F0\E3\E5\F2\E8\F7\E5\F1\EA\E8\E9 \DD\EB\E5\EC\E5\ED\F2\E0\EB\FC
+95 95 200 1 -1 # \CE\E3\ED\E5\ED\ED\E0\FF \CF\F2\E8\F6\E0
+93 93 200 1 -1 # \D4\E5\ED\E8\EA\F1
+140 130 200 1 -1 # \CB\E0\E7\F3\F0\ED\FB\E9 \C4\F0\E0\EA\EE\ED
+160 150 200 1 -1 # \CA\F0\E8\F1\F2\E0\EB\FC\ED\FB\E9 \C4\F0\E0\EA\EE\ED
+130 120 200 1 -1 # \D1\EA\E0\E7\EE\F7\ED\FB\E9 \C4\F0\E0\EA\EE\ED
+160 150 200 1 -1 # \D0\E6\E0\E2\FB\E9 \C4\F0\E0\EA\EE\ED
+125 115 200 1 64 # \D7\E0\F0\EE\E4\E5\E9
+120 110 200 1 -1 # \D1\ED\E0\E9\EF\E5\F0
+110 100 200 1 -1 # \CF\EE\EB\F3\F0\EE\F1\EB\E8\EA
+120 100 200 1 -1 # \CA\F0\E5\F1\F2\FC\FF\ED\E8\ED
+145 120 200 1 -1 # \CE\F0\EA \ED\E0 \EA\E0\E1\E0\ED\E5
+180 130 200 1 -1 # \CC\F3\EC\E8\FF
+160 140 200 1 -1 # \CA\EE\F7\E5\E2\ED\E8\EA
+123 103 200 1 -1 # \C2\EE\F0
+140 120 200 1 -1 # \D2\F0\EE\EB\EB\FC
+100 100 200 1 -1 # \CA\E0\F2\E0\EF\F3\EB\FC\F2\E0
+100 100 200 1 -1 # \C1\E0\EB\EB\E8\F1\F2\E0
+130 100 0 1 -1 # \CF\E0\EB\E0\F2\EA\E0 \CF\E5\F0\E2\EE\E9 \CF\EE\EC\EE\F9\E8
+100 100 200 1 -1 # \D2\E5\EB\E5\E6\EA\E0 \F1 \C1\EE\E5\EF\F0\E8\EF\E0\F1\E0\EC\E8
+100 100 200 1 -1 # \D1\F2\F0\E5\EB\EA\EE\E2\E0\FF \C1\E0\F8\ED\FF
+100 100 200 1 -1 # \CF\F3\F8\EA\E0
+160 130 200 1 -1 # \CC\EE\F0\F1\EA\EE\E9 \C2\EE\EB\EA
+145 125 200 1 -1 # \DD\EB\E5\EA\F2\F0\E8\F7\E5\F1\EA\E0\FF \C1\E0\F8\ED\FF
+95 95 200 1 -1 # \CD\E8\EC\F4\E0
+95 95 200 1 -1 # \CE\EA\E5\E0\ED\E8\E4\E0
+130 120 200 1 -1 # \CC\E0\F2\F0\EE\F1
+140 130 200 1 -1 # \C3\EE\EB\EE\E2\EE\F0\E5\E7
+150 135 200 1 -1 # \CF\E8\F0\E0\F2
+150 140 200 1 -1 # \CA\EE\F0\F1\E0\F0
+140 130 200 1 -1 # \C4\F3\F5 \CE\EA\E5\E0\ED\E0
+150 135 200 1 -1 # \C0\F1\F1\E8\E4\E0
+140 130 200 1 -1 # \C6\F0\E8\F6\E0 \CC\EE\F0\FF
+140 130 200 1 -1 # \C7\E0\EA\EB\E8\ED\E0\F2\E5\EB\FC\ED\E8\F6\E0
+150 130 200 1 -1 # \CD\E8\EA\F1
+150 130 200 1 -1 # \CD\E8\EA\F1-\E2\EE\E8\ED
+150 160 200 1 -1 # \CC\EE\F0\F1\EA\EE\E9 \C7\EC\E5\E9
+150 165 200 1 -1 # \C0\F1\EF\E8\E4
+115 75 100 1 -1 # \D1\E0\F2\E8\F0
+140 100 200 1 -1 # \D4\E0\ED\E3\E0\F0\EC
+180 110 200 1 -1 # \CB\E5\EF\F0\E5\EA\EE\ED
+100 100 200 1 -1 # \D1\F2\E0\EB\FC\ED\EE\E9 \C3\EE\EB\E5\EC
+110 100 200 1 95 # \CF\EE\EB\F3\F0\EE\F1\EB\E8\EA-\C3\F0\E5\ED\E0\E4\B8\F0
+180 100 200 1 -1 # \CC\E5\F5\E0\ED\E8\EA
+180 100 200 1 -1 # \C8\ED\E6\E5\ED\E5\F0
+140 85 200 1 -1 # \C1\F0\EE\ED\E5\ED\EE\F1\E5\F6
+140 85 200 1 -1 # \C1\F0\EE\ED\E5\ED\EE\F1\E5\F6-\C2\EE\E6\E0\EA
+120 115 200 1 -1 # \C0\E2\F2\EE\EC\E0\F2\EE\ED
+120 115 200 1 -1 # \C0\E2\F2\EE\EC\E0\F2\EE\ED-\D7\E0\F1\EE\E2\EE\E9
+165 110 200 1 -1 # \CF\E5\F1\F7\E0\ED\FB\E9 \D7\E5\F0\E2\FC
+165 110 200 1 -1 # \CE\EB\E3\EE\E9-\D5\EE\F0\F5\EE\E9
+120 100 200 1 -1 # \D1\F2\F0\E5\EB\EE\EA
+120 100 200 1 -1 # \CE\F5\EE\F2\ED\E8\EA \E7\E0 \C3\EE\EB\EE\E2\E0\EC\E8
+125 110 200 1 -1 # \CA\EE\E0\F2\EB\FC
+125 110 200 1 -1 # \C1\E0\E3\F0\EE\E2\FB\E9 \CA\EE\E0\F2\EB\FC
+150 115 200 1 -1 # \C4\F0\E5\E4\ED\EE\F3\F2
+150 115 200 1 -1 # \C4\E6\E0\E3\E3\E5\F0\ED\E0\F3\F2
+120 120 200 1 -1 # \CA\EE\E1\EE\EB\FC\E4
+120 100 200 1 -1 # \CA\EE\E1\EE\EB\FC\E4-\D1\F2\E0\F0\F8\E8\ED\E0
+160 120 200 1 -1 # \C3\EE\F0\ED\FB\E9 \C1\E0\F0\E0\ED
+160 120 200 1 -1 # \C0\F0\F5\E0\F0
+150 120 200 1 -1 # \D1\ED\E5\E6\ED\FB\E9 \DD\EB\FC\F4
+150 120 200 1 -1 # \D1\F2\E0\EB\FC\ED\EE\E9 \DD\EB\FC\F4
+150 100 200 1 -1 # \C9\E5\F2\E8
+150 100 200 1 -1 # \D5\F0\E0\ED\E8\F2\E5\EB\FC \C3\EE\F0
+140 130 200 1 -1 # \D8\E0\EC\E0\ED
+140 130 200 1 -1 # \C2\E5\EB\E8\EA\E8\E9 \D8\E0\EC\E0\ED
+180 110 200 1 -1 # \CC\E0\EC\EE\ED\F2
+180 110 200 1 -1 # \C1\EE\E5\E2\EE\E9 \CC\E0\EC\EE\ED\F2
+150 110 200 1 -1 # \C9\EE\F2\F3\ED
+150 130 200 1 -1 # \C9\EE\F2\F3\ED-\C2\EE\E5\E2\EE\E4\E0"
 Text 8: " 
  
  
@@ -9596,6 +10769,21 @@ GRENEXPL.wav
  
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
 "
 Has FilS: "false"
 Vals count: "4"
@@ -9618,25 +10806,25 @@ Text 5: ""
 Text 6: ""
 Text 7: "1.00	1.00	0.50	1.00	44	-63	79	-55	27	-46	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	4	Canon
 1.00	0.90	1.00	1.00	38	-93	45	-64	21	-35	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	6	Flibustier
-1.00	1.00	1.00	1.00	38	-65	36	-59	21	-50	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	7	Tour Électrique
+1.00	1.00	1.00	1.00	38	-65	36	-59	21	-50	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	7	Electric Tower
 1.00	1.00	1.00	1.00	10	-70	10	-70	10	-70	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	0	Nymphe
-1.00	1.00	1.00	1.00	10	-70	10	-70	10	-70	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	0	Océanide
+1.00	1.00	1.00	1.00	10	-70	10	-70	10	-70	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	0	Oceanide
 1.00	0.87	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Matelot
 1.00	0.87	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Marin
 1.00	0.90	1.00	1.00	38	-93	45	-64	21	-35	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	6	Pirate
 1.00	0.90	1.00	1.00	38	-93	45	-64	21	-35	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	6	Corsaire
 1.00	0.72	1.00	0.80	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Drac
 1.00	0.72	1.00	0.80	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Drac Mordoré
-1.00	1.00	1.00	1.00	41	-72	54	-75	29	-14	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	9	Sorcière des mers
+1.00	1.00	1.00	1.00	41	-72	54	-75	29	-14	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	9	Sorcière des Mers
 1.00	1.00	1.00	1.00	41	-72	54	-75	29	-14	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	8	Ensorceleuse
 1.00	1.07	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Nix
 1.00	1.07	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Soldat Nix
 1.00	0.95	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Serpent de Mer
 1.00	0.95	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Haspid
-1.50	1.00	2.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Satyr
+1.50	1.00	2.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Satyre
 1.00	1.15	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Fangarm
 1.00	1.20	2.50	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Leprechaun
-1.00	1.20	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Golem d'acier
+1.00	1.20	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Golem d'Acier
 1.00	1.40	1.50	1.00	32	-77	36	-36	18	-55	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	10	Hobbit Grenadier
 1.00	1.15	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Mécanicien
 1.00	1.15	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Ingénieur
@@ -9647,11 +10835,25 @@ Text 7: "1.00	1.00	0.50	1.00	44	-63	79	-55	27	-46	90.0	72.0	45.0	27.0	0.0	-27.0	
 1.00	1.00	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Ver des Sables
 1.00	1.00	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Olgoi-Khorkhoi
 1.00	1.80	1.50	1.00	38	-99	60	-78	30	-58	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	6	Pistolero
-1.00	1.80	1.50	1.00	38	-85	46	-70	21	-60	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	7	Chasseur de Prime
+1.00	1.80	1.50	1.00	38	-85	46	-70	21	-60	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	7	Chasseur de Primes
 1.00	1.00	0.50	1.30	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Couatl
 1.00	1.00	2.50	1.30	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Couatl Écarlate
 1.00	1.85	1.75	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Démolisseur
 1.00	1.85	1.75	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Juggernaut
+1.00	1.15	1.00	1.00	10	-70	10	-70	10	-70	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	0	Kobold
+1.00	1.15	1.00	1.00	10	-70	10	-70	10	-70	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	0	Contremaître Kobold
+1.00	1.10	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Mountain Ram
+1.00	1.10	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Argali
+1.00	1.20	1.00	1.00	30	-60	45	-50	20	-20	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	5	Elfe des Neiges
+1.00	1.20	1.00	1.00	30	-60	45	-50	20	-20	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	5	Elfes d'Acier
+1.00	1.80	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Yéti
+1.00	1.80	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Mountain Spirit
+1.00	1.20	1.00	1.00	40	-57	45	-50	25	-20	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	6	Chaman
+1.00	1.20	1.00	1.00	40	-57	45	-50	25	-20	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	6	Chaman Vénérable
+1.00	1.55	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Mammouths
+1.00	1.55	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Mammouths de Guerre
+1.50	1.45	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Jotunn
+1.00	1.45	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Seigneur Jotunn
 "
 Text 8: ""
 Has FilS: "false"
@@ -9708,7 +10910,21 @@ Tirs. Attaques préventives - illimitées.
 Vol. Peut passer son tour pour obtenir une Invulnérabilité Temporaire.
 Vol. Obtient une Invulnérabilité Temporaire sans passer son tour.
 Créature mécanique. Peut attaquer avec un Rayon d'Énergie au lieu de se déplacer.
-Créature mécanique. Peut attaquer avec un Rayon d'Énergie au lieu de se déplacer."
+Créature mécanique. Peut attaquer avec un Rayon d'Énergie au lieu de se déplacer.
+Génère 1 Pièce d'Or chaque jour.
+Génère 1 Pièce d'Or chaque jour.
+ 
+Immunité contre la glace. Les ennemis adjacents subissent +20 % de dégâts magiques.
+Tirs. Pas de pénalités de mêlée.
+Tirs. Pas de pénalités de mêlée. Peut tirer tout en étant adjacent à une créature ennemie.
+Récupère des effets négatifs en un tour.
+Récupère des effets négatifs en un tour. Possède les Runes.
+Tirs. Lance Bouclier d'air.
+Tire. Lance Bouclier d'air. Tir glacial.
+ 
+Gagne +100 % de défense en position défensive.
+Téléporte les alliés (une fois par combat). -1 à la vitesse des unités volantes ennemies.
+Téléporte les alliés (illimité). -2 à la vitesse des unités volantes ennemies."
 Text 8: ""
 Has FilS: "false"
 Vals count: "4"
@@ -9793,7 +11009,24 @@ HPL215.pcx
 HPL216.pcx
 HPL217.pcx
 HPL218.pcx
-HPL219.pcx"
+HPL219.pcx
+HPL220.pcx
+HPL221.pcx
+HPL222.pcx
+HPL223.pcx
+HPL224.pcx
+HPL225.pcx
+HPL226.pcx
+HPL227.pcx
+HPL228.pcx
+HPL229.pcx
+HPL230.pcx
+HPL231.pcx
+HPL232.pcx
+HPL233.pcx
+HPL234.pcx
+HPL235.pcx
+HPL236.pcx"
 Text 8: "HPLP01s.pcx
 HPLP02s.pcx
 HPLP03s.pcx
@@ -9858,11 +11091,28 @@ HPS215.pcx
 HPS216.pcx
 HPS217.pcx
 HPS218.pcx
-HPS219.pcx"
+HPS219.pcx
+HPS220.pcx
+HPS221.pcx
+HPS222.pcx
+HPS223.pcx
+HPS224.pcx
+HPS225.pcx
+HPS226.pcx
+HPS227.pcx
+HPS228.pcx
+HPS229.pcx
+HPS230.pcx
+HPS231.pcx
+HPS232.pcx
+HPS233.pcx
+HPS234.pcx
+HPS235.pcx
+HPS236.pcx"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
-Val 1: "65"
+Val 1: "82"
 Val 2: "0"
 Val 3: "0"
 ------------------------------------------------
@@ -9947,9 +11197,9 @@ rocher plantes
 plateau végétation morte
 plateau collines
 plateau plantes
-aride végétation morte
-aride collines
-aride plantes"
+terre aride végétation morte
+terre aride collines
+terre aride plantes"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -10035,12 +11285,12 @@ océan plantes Souterrain
 rocher végétation morte Souterrain
 rocher collines Souterrain
 rocher plantes Souterrain
-plateau végétation morte Souterrain
-plateau collines Souterrain
-plateau plantes Souterrain
-Aride végétation morte Souterrain
-Aride collines Souterrain
-Aride plantes Souterrain"
+montagne végétation morte Souterrain
+montagne collines Souterrain
+montagne plantes Souterrain
+terre désolée végétation morte Souterrain
+terre désolée collines Souterrain
+terre désolée plantes Souterrain"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -10233,9 +11483,9 @@ Name: "mainmenutext0"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: " t%d"
-Text 2: "discord.gg/mvKnkVp à HotA community"
-Text 3: "h3hota.com à official project reference website"
+Text 1: "en"
+Text 2: "discord.gg/mvKnkVp - HotA community"
+Text 3: "h3hota.com - official project reference website"
 Text 4: ""
 Text 5: ""
 Text 6: ""
@@ -10283,8 +11533,8 @@ Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
 Val 1: "1"
-Val 2: "7"
-Val 3: "3"
+Val 2: "8"
+Val 3: "0"
 ------------------------------------------------
 
 ------------------------------------------------
@@ -10425,7 +11675,38 @@ Voyager à travers les terres arides est éprouvant et dangereux. Heureusement l
 Les Hobbits ont trouvé leur nouveau foyer dans les terres de Jadame.
 Les Hobbits ont trouvé leur nouveau foyer dans les terres de Jadame.
 On dit que certains Warlocks d'Archibald Ironfist sont devenus des Artificiers.
-On dit que certains Warlocks d'Archibald Ironfist sont devenus des Artificiers."
+On dit que certains Warlocks d'Archibald Ironfist sont devenus des Artificiers.
+
+# Bulwark rumors
+Les Jotunns sont les créatures les plus puissantes de la Muraille.
+Les Jotunns sont les créatures les plus puissantes de la Muraille.
+J'ai entendu dire que les habitants de la Muraille invoqueront les Esprits Ancestraux pour honorer celui qui leur apportera le Graal.
+J'ai entendu dire que les habitants de la Muraille invoqueront les Esprits Ancestraux pour honorer celui qui leur apportera le Graal.
+
+Les Kobolds sont des mineurs hors pair. Personne ne sait trouver l'or aussi bien qu'eux.
+Les Kobolds sont des mineurs hors pair. Personne ne sait trouver l'or aussi bien qu'eux.
+Évitez les Argalis à tout prix. On sait que toutes les formes de magie deviennent plus dangereuses lorsqu'elles sont utilisées en leur présence.
+Évitez les Argalis à tout prix. On sait que toutes les formes de magie deviennent plus dangereuses lorsqu'elles sont utilisées en leur présence.
+Les Elfes des Neiges sont des lanceurs de javelots hors pair.
+Les Elfes des Neiges sont des lanceurs de javelots hors pair.
+Beaucoup de gens ne connaissent les Yétis que comme des monstres féroces au combat, mais certains d'entre eux, les anciens et les chefs, possèdent le pouvoir des runes.
+Beaucoup de gens ne connaissent les Yétis que comme des monstres féroces au combat, mais certains d'entre eux, les anciens et les chefs, possèdent le pouvoir des runes.
+La magie des Chamans peut protéger leurs alliés des projectiles et transformer leurs ennemis en glace.
+La magie des Chamans peut protéger leurs alliés des projectiles et transformer leurs ennemis en glace.
+Peu de créatures peuvent rivaliser avec les Mammouths en termes de résilience.
+Peu de créatures peuvent rivaliser avec les Mammouths en termes de résilience.
+On dit que les Jotunns sont passés maîtres dans l'art de la magie de téléportation.
+On dit que les Jotunns sont passés maîtres dans l'art de la magie de téléportation.
+
+On sait que la Muraille est le seul endroit où l'on peut maîtriser la connaissance des Runes.
+On sait que la Muraille est le seul endroit où l'on peut maîtriser la connaissance des Runes.
+On dit que les habitants de la Muraille sont particulièrement friands de feu de joie.
+On dit que les habitants de la Muraille sont particulièrement friands de feu de joie.
+
+La rumeur veut que l'île de Vori soit le berceau de tous les elfes.
+La rumeur veut que l'île de Vori soit le berceau de tous les elfes.
+Au plus profond des glaciers de Vori repose un puissant artéfact.
+Au plus profond des glaciers de Vori repose un puissant artéfact."
 Text 8: ""
 Has FilS: "false"
 Vals count: "4"
@@ -10517,7 +11798,6 @@ Erreur de génération de Type Ville/Terrain
 
 Texte de la fenêtre en erreur:
 Des erreurs liées aux règles de la Ville/Terrain du modèle RMG se sont produites :
-
 
 Texte de la Ville neutre :
 Ville neutre %1
@@ -10636,7 +11916,8 @@ AVCstrf0.def
 AVCforf0.def
 AVChfof0.def
 AVCcovf0.def
-AVCfacF0.def"
+AVCfacF0.def
+AVCbulF0.def"
 Text 8: "AVCcasc0.def
 AVCramc0.def
 AVCtowc0.def
@@ -10647,7 +11928,8 @@ AVCstrc0.def
 AVCforc0.def
 AVChfoc0.def
 AVCcovc0.def
-AVCfacC0.def"
+AVCfacC0.def
+AVCbulC0.def"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -11155,7 +12437,7 @@ Text 7: "FactoryTown"
 Text 8: "La Forge fournit des Chariots à vos Héros."
 Has FilS: "true"
 FilS size: 352
-FilS: "00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 03 00 00 00 00 00 00 00 07 00 00 00 00 00 00 00 0f 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 80 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 20 00 00 00 00 00 00 00 21 48 01 00 00 00 00 00 a1 5b 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 40 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 40 00 00 00 00 00 00 80 00 00 40 01 00 00 00 80 00 00 40 81 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 40 01 c0 0a 00 00 00 80 c0 41 c0 0a 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 80 00 00 40 00 00 00 00 80 00 00 40 00 00 00 00 80 00 01 c0 00 00 00 00 80 00 00 40 01 00 00 00 80 00 01 c0 02 00 00 00 81 00 00 40 05 00 00 00 80 08 00 40 00 00 00 00 80 00 01 c0 00 00 00 00 80 00 00 40 01 00 00 00 80 00 01 c0 02 00 00 00 81 00 00 40 05 00 00 00 80 40 01 c0 0a 00 00 00 83 00 00 40 15 00 00 00"
+FilS: "00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 03 00 00 00 00 00 00 00 07 00 00 00 00 00 00 00 0f 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 80 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 20 00 00 00 00 00 00 00 21 48 01 00 00 00 00 00 a1 5b 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 40 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 40 00 00 00 00 00 00 80 00 00 40 01 00 00 00 80 00 00 40 81 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 01 c0 0a 00 00 00 80 40 41 c0 0a 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 80 00 00 40 00 00 00 00 80 00 00 40 00 00 00 00 80 00 01 c0 00 00 00 00 80 00 00 40 01 00 00 00 80 00 01 c0 02 00 00 00 81 00 00 40 05 00 00 00 80 00 01 40 00 00 00 00 80 00 01 c0 00 00 00 00 80 00 00 40 01 00 00 00 80 00 01 c0 02 00 00 00 81 00 00 40 05 00 00 00 80 40 01 c0 0a 00 00 00 83 00 00 40 15 00 00 00"
 Vals count: "4"
 Val 0: "0"
 Val 1: "0"
@@ -11333,7 +12615,7 @@ TBFaBlak
 TBFaMrch
 TBFaHrd1
 TBFaHrd2
-TBFaBoat
+TBFaSpc2
 TBFaSpc1
 TBFaDw_7
 TBFaUp_7
@@ -11397,7 +12679,7 @@ TOFaBlak
 TOFaMrch
 TOFaHrd1
 TOFaHrd2
-TOFaBoat
+TOFaSpc2
 TOFaSpc1
 TOFaDw_7
 TOFaUp_7
@@ -11625,6 +12907,490 @@ Val 3: "0"
 ------------------------------------------------
 
 ------------------------------------------------
+Name: "casdep12"
+Path: "Castles\casdep12.str"
+Texts count: "9"
+Text 0: ""
+Text 1: "CRBKGBUL.pcx"
+Text 2: "TPCASBUL.pcx"
+Text 3: "TpMageBu.pcx"
+Text 4: "AVCbulE0.DEF"
+Text 5: "AVCbulX0.DEF"
+Text 6: "AVCbulZ0.def"
+Text 7: "BulwarkTown"
+Text 8: "La Forge confère à votre armée un Dispensaire."
+Has FilS: "true"
+FilS size: 352
+FilS: "00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 03 00 00 00 00 00 00 00 07 00 00 00 00 00 00 00 0f 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 80 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 20 00 00 00 00 00 00 00 21 48 01 00 00 00 00 00 a1 5b 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 40 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 4c 00 00 00 00 00 00 80 00 00 c0 08 00 00 00 80 00 00 c0 08 04 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 20 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 80 00 00 40 00 00 00 00 80 00 00 c0 00 00 00 00 80 00 00 c0 01 00 00 00 81 00 00 c0 01 00 00 00 80 00 00 c0 01 00 00 00 81 00 00 c0 05 00 00 00 80 00 00 40 00 00 00 00 80 00 00 c0 00 00 00 00 80 00 00 c0 01 00 00 00 80 00 20 c0 03 00 00 00 81 00 00 c0 05 00 00 00 80 00 00 c0 09 00 00 00 81 00 20 c0 15 00 00 00"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "casbattle12"
+Path: "Castles\casbattle12.str"
+Texts count: "9"
+Text 0: ""
+Text 1: "SgBuBack.PCX"
+Text 2: "Tusks"
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: "SgBuDrw3.pcx
+SgBuDrw2.pcx
+SgBuDrw1.pcx
+SgBuDrwC.pcx
+SgBuMoat.pcx
+SgBuMlip.pcx
+SgBuTpWl.pcx
+SgBuTw22.pcx
+SgBuTw21.pcx
+SgBuTw21.pcx
+SgBuTw21.pcx
+SgBuTw21.pcx
+SgBuWa62.pcx
+SgBuWa61.pcx
+SgBuWa61.pcx
+SgBuWa61.pcx
+SgBuWa5.pcx
+SgBuWa42.pcx
+SgBuWa41.pcx
+SgBuWa41.pcx
+SgBuWa41.pcx
+SgBuArch.pcx
+SgBuArch.pcx
+SgBuArch.pcx
+SgBuArch.pcx
+SgBuArch.pcx
+SgBuWa32.pcx
+SgBuWa31.pcx
+SgBuWa31.pcx
+SgBuWa31.pcx
+SgBuWa2.pcx
+SgBuWa12.pcx
+SgBuWa11.pcx
+SgBuWa11.pcx
+SgBuWa11.pcx
+SgBuTw12.pcx
+SgBuTw11.pcx
+SgBuTw11.pcx
+SgBuTw11.pcx
+SgBuTw11.pcx
+SgBuMan2.pcx
+SgBuMan1.pcx
+SgBuMan1.pcx
+SgBuMan1.pcx
+SgBuMan1.pcx
+SgBuManC.pcx
+SgBuTw1C.pcx
+SgBuTw2C.pcx"
+Text 8: ""
+Has FilS: "true"
+FilS size: 648
+FilS: "96 01 0c 01 ff ff 00 00 d8 fd 66 00 c8 fd 66 00 b8 fd 66 00 00 00 00 00 00 00 00 00 cb 11 2a 04 00 00 00 00 96 01 0c 01 ff ff 00 00 00 00 00 00 a8 fd 66 00 00 00 00 00 00 00 00 00 00 00 00 00 de 11 2a 04 00 00 00 00 9f 01 50 00 ff ff 00 00 98 fd 66 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 f9 11 2a 04 00 00 00 00 b9 01 26 01 ff ff 00 00 88 fd 66 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 12 2a 04 00 00 00 00 75 02 3a 00 ff ff 00 00 78 fd 66 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0e 12 2a 04 00 00 00 00 40 02 1f 00 ff 00 00 00 68 fd 66 00 58 fd 66 00 58 fd 66 00 58 fd 66 00 58 fd 66 00 1f 12 2a 04 02 00 00 00 26 02 49 00 2d 00 00 00 00 00 00 00 48 fd 66 00 38 fd 66 00 38 fd 66 00 38 fd 66 00 31 12 2a 04 02 00 00 00 ed 01 5a 00 3e 00 00 00 2c fd 66 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 43 12 2a 04 00 00 00 00 e4 01 c2 00 4e 00 00 00 00 00 00 00 1c fd 66 00 0c fd 66 00 0c fd 66 00 0c fd 66 00 55 12 2a 04 02 00 00 00 c5 01 f9 00 70 00 00 00 fc fc 66 00 fc fc 66 00 fc fc 66 00 fc fc 66 00 fc fc 66 00 6f 12 2a 04 02 00 00 00 d7 01 3f 01 82 00 00 00 00 00 00 00 ec fc 66 00 dc fc 66 00 dc fc 66 00 dc fc 66 00 7a 12 2a 04 02 00 00 00 f5 01 67 01 a5 00 00 00 d0 fc 66 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 93 12 2a 04 00 00 00 00 3b 02 d9 01 b6 00 00 00 00 00 00 00 c0 fc 66 00 b0 fc 66 00 b0 fc 66 00 b0 fc 66 00 a4 12 2a 04 02 00 00 00 60 02 fe 01 fb 00 00 00 a0 fc 66 00 90 fc 66 00 90 fc 66 00 90 fc 66 00 90 fc 66 00 b5 12 2a 04 02 00 00 00 bf 02 a4 00 87 00 00 00 80 fc 66 00 70 fc 66 00 70 fc 66 00 70 fc 66 00 70 fc 66 00 c6 12 2a 04 02 00 00 00 eb 02 e8 00 87 00 00 00 00 00 00 00 60 fc 66 00 00 00 00 00 00 00 00 00 00 00 00 00 dc 12 2a 04 00 00 00 00 68 02 09 02 fb 00 00 00 00 00 00 00 50 fc 66 00 00 00 00 00 00 00 00 00 00 00 00 00 f9 12 2a 04 00 00 00 00 49 02 2b 00 ff 00 00 00 00 00 00 00 40 fc 66 00 00 00 00 00 00 00 00 00 00 00 00 00 11 13 2a 04 00 00 00 00"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "caspuzzle12"
+Path: "Castles\caspuzzle12.str"
+Texts count: "9"
+Text 0: ""
+Text 1: ""
+Text 2: ""
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: ""
+Text 8: ""
+Has FilS: "true"
+FilS size: 192
+FilS: "00 00 00 00 00 00 24 00 35 00 0f 00 27 00 2d 00 40 00 82 00 53 00 6f 00 6a 00 4a 00 8e 00 68 00 cf 00 d1 00 b1 00 b7 00 f2 00 e9 00 f3 00 e0 00 d8 00 d7 00 f2 00 fc 00 3d 01 01 01 38 01 25 01 48 01 7b 01 6c 01 59 01 77 01 6e 01 b5 01 90 01 aa 01 ba 01 e3 01 ea 01 c4 01 b0 01 e1 01 04 02 00 00 98 00 4d 01 00 00 65 00 df 00 17 01 69 01 ba 01 00 00 51 00 71 00 b8 00 e3 00 0c 01 8f 01 05 00 d5 00 3f 01 c0 01 17 00 46 00 a6 00 03 01 16 01 79 01 d1 01 00 00 8a 00 d2 00 2b 01 98 01 94 01 1e 00 85 00 c5 00 2a 01 b3 01 00 00 c5 00 57 01 c3 01 00 00 9b 00 d3 00 26 01 63 01 86 01"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "caspuzind12"
+Path: "Castles\caspuzind12.str"
+Texts count: "9"
+Text 0: ""
+Text 1: ""
+Text 2: ""
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: ""
+Text 8: ""
+Has FilS: "true"
+FilS size: 96
+FilS: "25 00 0f 00 1b 00 2c 00 1f 00 00 00 08 00 29 00 2a 00 03 00 02 00 13 00 2f 00 2b 00 09 00 01 00 1a 00 2d 00 26 00 05 00 07 00 2e 00 10 00 06 00 14 00 28 00 04 00 21 00 27 00 0a 00 20 00 22 00 0e 00 15 00 0d 00 1c 00 0b 00 19 00 0c 00 24 00 16 00 12 00 23 00 1e 00 17 00 18 00 1d 00 11 00"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "cascoords12"
+Path: "Castles\cascoord12.str"
+Texts count: "9"
+Text 0: ""
+Text 1: ""
+Text 2: ""
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: ""
+Text 8: ""
+Has FilS: "true"
+FilS size: 264
+FilS: "01 00 2e 02 70 00 01 00 2e 02 51 00 01 00 2e 02 37 00 01 00 2e 02 21 00 01 00 00 00 00 00 0f 00 30 01 f8 00 48 00 25 01 46 01 01 00 41 00 25 00 01 00 41 00 08 00 01 00 42 00 08 00 01 00 75 02 a8 00 01 00 75 02 8c 00 01 00 76 02 59 00 01 00 76 02 37 00 01 00 8d 01 f9 00 01 00 a6 01 e5 00 01 00 f6 01 c6 00 01 00 d0 01 19 01 01 00 00 00 db 00 36 00 00 00 db 00 48 00 a4 00 0d 01 01 00 e9 01 aa 00 01 00 e9 01 8c 00 01 00 ab 01 a2 00 00 00 00 00 00 00 00 00 00 00 00 00 12 00 91 00 00 00 00 00 98 00 b8 00 01 00 f3 01 27 01 01 00 ad 01 d9 00 01 00 00 00 8c 00 01 00 2d 01 4a 00 01 00 45 02 f2 00 01 00 fd 00 99 00 01 00 bf 01 a7 00 01 00 00 00 db 00 01 00 7c 01 23 00 01 00 00 00 5e 00 01 00 2d 01 2c 00 36 00 45 02 dc 00 01 00 ef 00 99 00 0c 00 bc 01 a3 00 01 00 00 00 db 00 01 00 7c 01 0d 00"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "casbldefs12"
+Path: "Castles\cascoord12.str"
+Texts count: "9"
+Text 0: ""
+Text 1: "TBBu"
+Text 2: ""
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: "TBBuMage
+TBBuMag2
+TBBuMag3
+TBBuMag4
+TBBuMag5
+TBBuTvrn
+TBBuDock
+TBBuCstl
+TBBuCas2
+TBBuCas3
+TBBuHall
+TBBuHal2
+TBBuHal3
+TBBuHal4
+TBBuMark
+TBBuSilo
+TBBuBlak
+TBBuMrch
+TBBuHrd1
+TBBuHrd2
+TBBuBoat
+TBBuSpc1
+TBBuSpc2
+TBBuSpc3
+TBBuMag2
+TBBuMag2
+TBBuHoly
+TBBuExt1
+TBBuExt2
+TBBuExt3
+TBBuDw_0
+TBBuDw_1
+TBBuDw_2
+TBBuDw_3
+TBBuDw_4
+TBBuDw_5
+TBBuDw_6
+TBBuUp_0
+TBBuUp_1
+TBBuUp_2
+TBBuUp_3
+TBBuUp_4
+TBBuUp_5
+TBBuUp_6"
+Text 8: ""
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "casbrdefs12"
+Path: "Castles\cascoord12.str"
+Texts count: "9"
+Text 0: ""
+Text 1: "TBBu"
+Text 2: ""
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: "TOBuMage
+TOBuMag2
+TOBuMag3
+TOBuMag4
+TOBuMag5
+TOBuTvrn
+TOBuDock
+TOBuCstl
+TOBuCas2
+TOBuCas3
+TOBuHall
+TOBuHal2
+TOBuHal3
+TOBuHal4
+TOBuMark
+TOBuSilo
+TOBuBlak
+TOBuMrch
+TOBuHrd1
+TOBuHrd2
+TOBuBoat
+TOBuSpc1
+TOBuSpc2
+TOBuMag2
+TOBuMag2
+TOBuMag2
+TOBuHoly
+TOCsext3
+TOCsext4
+TOCsext5
+TOBuDw_0
+TOBuDw_1
+TOBuDw_2
+TOBuDw_3
+TOBuDw_4
+TOBuDw_5
+TOBuDw_6
+TOBuUp_0
+TOBuUp_1
+TOBuUp_2
+TOBuUp_3
+TOBuUp_4
+TOBuUp_5
+TOBuUp_6"
+Text 8: ""
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "casrorder12"
+Path: "Castles\casrorder12.str"
+Texts count: "9"
+Text 0: ""
+Text 1: ""
+Text 2: ""
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: "BOBUgmg1.pcx
+BOBUgmg2.pcx
+BOBUgmg3.pcx
+BOBUgmg4.pcx
+BOBUgmg5.pcx
+BOBUtav.pcx
+BOBUdock.pcx
+BOBUcas1.pcx
+BOBUcas2.pcx
+BOBUcas3.pcx
+BOBUhal1.pcx
+BOBUhal2.pcx
+BOBUhal3.pcx
+BOBUhal4.pcx
+BOBUmrk1.pcx
+BOBUmrk2.pcx
+BOBUsmth.pcx
+BOBUfair.pcx
+BOBUrn1H.pcx
+BOBUrn2H.pcx
+BOBUboat.pcx
+BOBUseid.pcx
+BOBUaltr.pcx
+BOBUgnt2.pcx
+BOBUAS1P.pcx
+BOBUAS2P.pcx
+BOBUholy.pcx
+BoCsext3.pcx
+BoCsext4.pcx
+BoCsext5.pcx
+BOBUkbl1.pcx
+BOBUarh1.pcx
+BOBUelf1.pcx
+BOBUyet1.pcx
+BOBUstc1.pcx
+BOBUmmt1.pcx
+BOBUter1.pcx
+BOBUkbl2.pcx
+BOBUarh2.pcx
+BOBUelf2.pcx
+BOBUyet2.pcx
+BOBUstc2.pcx
+BOBUmmt2.pcx
+BOBUter2.pcx"
+Text 8: ""
+Has FilS: "true"
+FilS size: 44
+FilS: "1b 1a 1f 26 07 08 09 1e 25 21 28 24 2b 23 2a 12 13 0e 0f 10 11 05 06 14 22 29 15 16 00 01 02 03 0a 0b 0c 0d 20 27 ff ff ff ff ff ff"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "casbindex12"
+Path: "Castles\casbindex12.str"
+Texts count: "9"
+Text 0: ""
+Text 1: ""
+Text 2: ""
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: ""
+Text 8: ""
+Has FilS: "true"
+FilS size: 17
+FilS: "1e 1f 20 21 22 23 24 00 05 06 0e 07 0a 10 12 15 11"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "casdrp12"
+Path: "Castles\casrdep12.str"
+Texts count: "9"
+Text 0: ""
+Text 1: ""
+Text 2: ""
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: "Niveaux de Construction"
+Text 8: ""
+Has FilS: "true"
+FilS size: 352
+FilS: "00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 03 00 00 00 00 00 00 00 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 80 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 04 00 00 00 00 00 00 00 0c 00 00 00 00 00 00 00 1c 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 08 00 00 00 00 00 00 00 08 04 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 20 00 00 00 00 00 00 00 40 00 00 00 00 00 00 00 00 00 02 00 00 00 00 00 00 01 02 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 10 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 40 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 02 00 00 00 00 00 00 00 04 00 00 00 00 00 00 00 08 00 00 00 00 00 00 00 10 00 00 00"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "cashordes12"
+Path: "Castles\cashordes12.str"
+Texts count: "9"
+Text 0: ""
+Text 1: ""
+Text 2: ""
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: ""
+Text 8: ""
+Has FilS: "true"
+FilS size: 32
+FilS: "c4 00 00 00 01 00 05 00 c5 00 00 00 01 00 0c 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "casspells12"
+Path: "Castles\casspells12.str"
+Texts count: "9"
+Text 0: ""
+Text 1: ""
+Text 2: ""
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: ""
+Text 8: ""
+Has FilS: "true"
+FilS size: 70
+FilS: "05 06 02 03 02 03 00 0a 00 0a 04 02 08 04 08 1e 32 04 00 0a 10 02 05 0a 00 04 00 03 08 05 02 03 03 02 0c 0a 00 0a 05 00 00 0a 00 05 06 04 05 06 0a 0c 05 04 04 05 05 05 05 00 05 05 04 08 02 0a 04 0a 00 00 00 00"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "casrndname12"
+Path: "Castles\cascoord12.str"
+Texts count: "9"
+Text 0: ""
+Text 1: "Muraille"
+Text 2: ""
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: "Alfheim
+Anabar
+White Mouth
+Borea
+Varand
+Everwinter
+Windskalir
+Winterkill
+Jotunngard
+Stonefang
+Ketpall
+Meghion
+Thulekh
+Tundara
+Halsmere
+Ellesmere"
+Text 8: ""
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "16"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
 Name: "ship03"
 Path: ""
 Texts count: "9"
@@ -11673,6 +13439,27 @@ Texts count: "9"
 Text 0: ""
 Text 1: "AB06_.def"
 Text 2: "ABM06_.def"
+Text 3: "ABF02"
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: ""
+Text 8: ""
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "ship06"
+Path: ""
+Texts count: "9"
+Text 0: ""
+Text 1: "AB07_.def"
+Text 2: "ABM07_.def"
 Text 3: "ABF02"
 Text 4: ""
 Text 5: ""
@@ -12452,27 +14239,27 @@ Text 3: "Le propriétaire des lieux vous salue et dit : ""Votre Seigneurie, j'ai
 Text 4: "D'un air navré, le propriétaire des lieux s'empresse de vous dire : ""Votre Seigneurie, je n'ai pas de Bois pour vous. Revenez la semaine prochaine."""
 Text 5: ""
 Text 6: ""
-Text 7: "# �� ������ 15
-# ������ *= 500
-# �������� à ��������� ��������� ��������� �������� (���������� ��������).
-10 10 # ������
-0 0 # �����
-0 0 # ����
-0 0 # ����
-0 0 # ���������
-0 0 # ����������� �����
-0 0 # ������"
-Text 8: "# ������ ������
-# �� ������ 15
-# ������ *= 500
-# �������� à ��������� ��������� ��������� �������� (���������� ��������).
-10 10 # ������
-0 0 # �����
-0 0 # ����
-0 0 # ����
-0 0 # ���������
-0 0 # ����������� �����
-0 0 # ������"
+Text 7: "# \CD\E5 \E1\EE\EB\FC\F8\E5 15
+# \C7\EE\EB\EE\F2\EE *= 500
+# \CC\E8\ED\E8\EC\F3\EC\FB \E8 \EC\E0\EA\F1\E8\EC\F3\EC\FB \E2\FB\EF\E0\E4\E5\ED\E8\FF \F0\E0\E7\EB\E8\F7\ED\FB\F5 \F0\E5\F1\F3\F0\F1\EE\E2 (\E2\FB\E1\E8\F0\E0\E5\F2\F1\FF \F1\EB\F3\F7\E0\E9\ED\EE).
+10 10 # \C4\E5\F0\E5\E2\EE
+0 0 # \D0\F2\F3\F2\FC
+0 0 # \D0\F3\E4\E0
+0 0 # \D1\E5\F0\E0
+0 0 # \CA\F0\E8\F1\F2\E0\EB\EB\FB
+0 0 # \C4\F0\E0\E3\EE\F6\E5\ED\ED\FB\E5 \EA\E0\EC\ED\E8
+0 0 # \C7\EE\EB\EE\F2\EE"
+Text 8: "# \CF\E5\F0\E2\E0\FF \ED\E5\E4\E5\EB\FF
+# \CD\E5 \E1\EE\EB\FC\F8\E5 15
+# \C7\EE\EB\EE\F2\EE *= 500
+# \CC\E8\ED\E8\EC\F3\EC\FB \E8 \EC\E0\EA\F1\E8\EC\F3\EC\FB \E2\FB\EF\E0\E4\E5\ED\E8\FF \F0\E0\E7\EB\E8\F7\ED\FB\F5 \F0\E5\F1\F3\F0\F1\EE\E2 (\E2\FB\E1\E8\F0\E0\E5\F2\F1\FF \F1\EB\F3\F7\E0\E9\ED\EE).
+10 10 # \C4\E5\F0\E5\E2\EE
+0 0 # \D0\F2\F3\F2\FC
+0 0 # \D0\F3\E4\E0
+0 0 # \D1\E5\F0\E0
+0 0 # \CA\F0\E8\F1\F2\E0\EB\EB\FB
+0 0 # \C4\F0\E0\E3\EE\F6\E5\ED\ED\FB\E5 \EA\E0\EC\ED\E8
+0 0 # \C7\EE\EB\EE\F2\EE"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -12492,27 +14279,27 @@ Text 3: "Le propriétaire des lieux vous salue et dit : ""Votre Seigneurie, j'ai
 Text 4: "D'un air navré, le propriétaire des lieux s'empresse de vous dire : ""Votre Seigneurie, je n'ai pas de Mercure pour vous. Revenez la semaine prochaine."""
 Text 5: ""
 Text 6: ""
-Text 7: "# �� ������ 15
-# ������ *= 500
-# �������� à ��������� ��������� ��������� �������� (���������� ��������).
-0 0 # ������
-6 6 # �����
-0 0 # ����
-0 0 # ����
-0 0 # ���������
-0 0 # ����������� �����
-0 0 # ������"
-Text 8: "# ������ ������
-# �� ������ 15
-# ������ *= 500
-# �������� à ��������� ��������� ��������� �������� (���������� ��������).
-0 0 # ������
-6 6 # �����
-0 0 # ����
-0 0 # ����
-0 0 # ���������
-0 0 # ����������� �����
-0 0 # ������"
+Text 7: "# \CD\E5 \E1\EE\EB\FC\F8\E5 15
+# \C7\EE\EB\EE\F2\EE *= 500
+# \CC\E8\ED\E8\EC\F3\EC\FB \E8 \EC\E0\EA\F1\E8\EC\F3\EC\FB \E2\FB\EF\E0\E4\E5\ED\E8\FF \F0\E0\E7\EB\E8\F7\ED\FB\F5 \F0\E5\F1\F3\F0\F1\EE\E2 (\E2\FB\E1\E8\F0\E0\E5\F2\F1\FF \F1\EB\F3\F7\E0\E9\ED\EE).
+0 0 # \C4\E5\F0\E5\E2\EE
+6 6 # \D0\F2\F3\F2\FC
+0 0 # \D0\F3\E4\E0
+0 0 # \D1\E5\F0\E0
+0 0 # \CA\F0\E8\F1\F2\E0\EB\EB\FB
+0 0 # \C4\F0\E0\E3\EE\F6\E5\ED\ED\FB\E5 \EA\E0\EC\ED\E8
+0 0 # \C7\EE\EB\EE\F2\EE"
+Text 8: "# \CF\E5\F0\E2\E0\FF \ED\E5\E4\E5\EB\FF
+# \CD\E5 \E1\EE\EB\FC\F8\E5 15
+# \C7\EE\EB\EE\F2\EE *= 500
+# \CC\E8\ED\E8\EC\F3\EC\FB \E8 \EC\E0\EA\F1\E8\EC\F3\EC\FB \E2\FB\EF\E0\E4\E5\ED\E8\FF \F0\E0\E7\EB\E8\F7\ED\FB\F5 \F0\E5\F1\F3\F0\F1\EE\E2 (\E2\FB\E1\E8\F0\E0\E5\F2\F1\FF \F1\EB\F3\F7\E0\E9\ED\EE).
+0 0 # \C4\E5\F0\E5\E2\EE
+6 6 # \D0\F2\F3\F2\FC
+0 0 # \D0\F3\E4\E0
+0 0 # \D1\E5\F0\E0
+0 0 # \CA\F0\E8\F1\F2\E0\EB\EB\FB
+0 0 # \C4\F0\E0\E3\EE\F6\E5\ED\ED\FB\E5 \EA\E0\EC\ED\E8
+0 0 # \C7\EE\EB\EE\F2\EE"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -12532,27 +14319,27 @@ Text 3: "Le propriétaire des lieux vous salue et dit : ""Votre Seigneurie, j'ai
 Text 4: "D'un air navré, le propriétaire des lieux s'empresse de vous dire : ""Votre Seigneurie, je n'ai pas de Pierres pour vous. Revenez la semaine prochaine."""
 Text 5: ""
 Text 6: ""
-Text 7: "# �� ������ 15
-# ������ *= 500
-# �������� à ��������� ��������� ��������� �������� (���������� ��������).
-0 0 # ������
-0 0 # �����
-10 10 # ����
-0 0 # ����
-0 0 # ���������
-0 0 # ����������� �����
-0 0 # ������"
-Text 8: "# ������ ������
-# �� ������ 15
-# ������ *= 500
-# �������� à ��������� ��������� ��������� �������� (���������� ��������).
-0 0 # ������
-0 0 # �����
-10 10 # ����
-0 0 # ����
-0 0 # ���������
-0 0 # ����������� �����
-0 0 # ������"
+Text 7: "# \CD\E5 \E1\EE\EB\FC\F8\E5 15
+# \C7\EE\EB\EE\F2\EE *= 500
+# \CC\E8\ED\E8\EC\F3\EC\FB \E8 \EC\E0\EA\F1\E8\EC\F3\EC\FB \E2\FB\EF\E0\E4\E5\ED\E8\FF \F0\E0\E7\EB\E8\F7\ED\FB\F5 \F0\E5\F1\F3\F0\F1\EE\E2 (\E2\FB\E1\E8\F0\E0\E5\F2\F1\FF \F1\EB\F3\F7\E0\E9\ED\EE).
+0 0 # \C4\E5\F0\E5\E2\EE
+0 0 # \D0\F2\F3\F2\FC
+10 10 # \D0\F3\E4\E0
+0 0 # \D1\E5\F0\E0
+0 0 # \CA\F0\E8\F1\F2\E0\EB\EB\FB
+0 0 # \C4\F0\E0\E3\EE\F6\E5\ED\ED\FB\E5 \EA\E0\EC\ED\E8
+0 0 # \C7\EE\EB\EE\F2\EE"
+Text 8: "# \CF\E5\F0\E2\E0\FF \ED\E5\E4\E5\EB\FF
+# \CD\E5 \E1\EE\EB\FC\F8\E5 15
+# \C7\EE\EB\EE\F2\EE *= 500
+# \CC\E8\ED\E8\EC\F3\EC\FB \E8 \EC\E0\EA\F1\E8\EC\F3\EC\FB \E2\FB\EF\E0\E4\E5\ED\E8\FF \F0\E0\E7\EB\E8\F7\ED\FB\F5 \F0\E5\F1\F3\F0\F1\EE\E2 (\E2\FB\E1\E8\F0\E0\E5\F2\F1\FF \F1\EB\F3\F7\E0\E9\ED\EE).
+0 0 # \C4\E5\F0\E5\E2\EE
+0 0 # \D0\F2\F3\F2\FC
+10 10 # \D0\F3\E4\E0
+0 0 # \D1\E5\F0\E0
+0 0 # \CA\F0\E8\F1\F2\E0\EB\EB\FB
+0 0 # \C4\F0\E0\E3\EE\F6\E5\ED\ED\FB\E5 \EA\E0\EC\ED\E8
+0 0 # \C7\EE\EB\EE\F2\EE"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -12572,27 +14359,27 @@ Text 3: "Le propriétaire des lieux vous salue et dit : ""Votre Seigneurie, j'ai
 Text 4: "D'un air navré, le propriétaire des lieux s'empresse de vous dire : ""Votre Seigneurie, je n'ai pas de Soufre pour vous. Revenez la semaine prochaine."""
 Text 5: ""
 Text 6: ""
-Text 7: "# �� ������ 15
-# ������ *= 500
-# �������� à ��������� ��������� ��������� �������� (���������� ��������).
-0 0 # ������
-0 0 # �����
-0 0 # ����
-6 6 # ����
-0 0 # ���������
-0 0 # ����������� �����
-0 0 # ������"
-Text 8: "# ������ ������
-# �� ������ 15
-# ������ *= 500
-# �������� à ��������� ��������� ��������� �������� (���������� ��������).
-0 0 # ������
-0 0 # �����
-0 0 # ����
-6 6 # ����
-0 0 # ���������
-0 0 # ����������� �����
-0 0 # ������"
+Text 7: "# \CD\E5 \E1\EE\EB\FC\F8\E5 15
+# \C7\EE\EB\EE\F2\EE *= 500
+# \CC\E8\ED\E8\EC\F3\EC\FB \E8 \EC\E0\EA\F1\E8\EC\F3\EC\FB \E2\FB\EF\E0\E4\E5\ED\E8\FF \F0\E0\E7\EB\E8\F7\ED\FB\F5 \F0\E5\F1\F3\F0\F1\EE\E2 (\E2\FB\E1\E8\F0\E0\E5\F2\F1\FF \F1\EB\F3\F7\E0\E9\ED\EE).
+0 0 # \C4\E5\F0\E5\E2\EE
+0 0 # \D0\F2\F3\F2\FC
+0 0 # \D0\F3\E4\E0
+6 6 # \D1\E5\F0\E0
+0 0 # \CA\F0\E8\F1\F2\E0\EB\EB\FB
+0 0 # \C4\F0\E0\E3\EE\F6\E5\ED\ED\FB\E5 \EA\E0\EC\ED\E8
+0 0 # \C7\EE\EB\EE\F2\EE"
+Text 8: "# \CF\E5\F0\E2\E0\FF \ED\E5\E4\E5\EB\FF
+# \CD\E5 \E1\EE\EB\FC\F8\E5 15
+# \C7\EE\EB\EE\F2\EE *= 500
+# \CC\E8\ED\E8\EC\F3\EC\FB \E8 \EC\E0\EA\F1\E8\EC\F3\EC\FB \E2\FB\EF\E0\E4\E5\ED\E8\FF \F0\E0\E7\EB\E8\F7\ED\FB\F5 \F0\E5\F1\F3\F0\F1\EE\E2 (\E2\FB\E1\E8\F0\E0\E5\F2\F1\FF \F1\EB\F3\F7\E0\E9\ED\EE).
+0 0 # \C4\E5\F0\E5\E2\EE
+0 0 # \D0\F2\F3\F2\FC
+0 0 # \D0\F3\E4\E0
+6 6 # \D1\E5\F0\E0
+0 0 # \CA\F0\E8\F1\F2\E0\EB\EB\FB
+0 0 # \C4\F0\E0\E3\EE\F6\E5\ED\ED\FB\E5 \EA\E0\EC\ED\E8
+0 0 # \C7\EE\EB\EE\F2\EE"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -12612,27 +14399,27 @@ Text 3: "Le propriétaire des lieux vous salue et dit : ""Votre Seigneurie, j'ai
 Text 4: "D'un air navré, le propriétaire des lieux s'empresse de vous dire : ""Votre Seigneurie, je n'ai pas de Cristaux pour vous. Revenez la semaine prochaine."""
 Text 5: ""
 Text 6: ""
-Text 7: "# �� ������ 15
-# ������ *= 500
-# �������� à ��������� ��������� ��������� �������� (���������� ��������).
-0 0 # ������
-0 0 # �����
-0 0 # ����
-0 0 # ����
-6 6 # ���������
-0 0 # ����������� �����
-0 0 # ������"
-Text 8: "# ������ ������
-# �� ������ 15
-# ������ *= 500
-# �������� à ��������� ��������� ��������� �������� (���������� ��������).
-0 0 # ������
-0 0 # �����
-0 0 # ����
-0 0 # ����
-6 6 # ���������
-0 0 # ����������� �����
-0 0 # ������"
+Text 7: "# \CD\E5 \E1\EE\EB\FC\F8\E5 15
+# \C7\EE\EB\EE\F2\EE *= 500
+# \CC\E8\ED\E8\EC\F3\EC\FB \E8 \EC\E0\EA\F1\E8\EC\F3\EC\FB \E2\FB\EF\E0\E4\E5\ED\E8\FF \F0\E0\E7\EB\E8\F7\ED\FB\F5 \F0\E5\F1\F3\F0\F1\EE\E2 (\E2\FB\E1\E8\F0\E0\E5\F2\F1\FF \F1\EB\F3\F7\E0\E9\ED\EE).
+0 0 # \C4\E5\F0\E5\E2\EE
+0 0 # \D0\F2\F3\F2\FC
+0 0 # \D0\F3\E4\E0
+0 0 # \D1\E5\F0\E0
+6 6 # \CA\F0\E8\F1\F2\E0\EB\EB\FB
+0 0 # \C4\F0\E0\E3\EE\F6\E5\ED\ED\FB\E5 \EA\E0\EC\ED\E8
+0 0 # \C7\EE\EB\EE\F2\EE"
+Text 8: "# \CF\E5\F0\E2\E0\FF \ED\E5\E4\E5\EB\FF
+# \CD\E5 \E1\EE\EB\FC\F8\E5 15
+# \C7\EE\EB\EE\F2\EE *= 500
+# \CC\E8\ED\E8\EC\F3\EC\FB \E8 \EC\E0\EA\F1\E8\EC\F3\EC\FB \E2\FB\EF\E0\E4\E5\ED\E8\FF \F0\E0\E7\EB\E8\F7\ED\FB\F5 \F0\E5\F1\F3\F0\F1\EE\E2 (\E2\FB\E1\E8\F0\E0\E5\F2\F1\FF \F1\EB\F3\F7\E0\E9\ED\EE).
+0 0 # \C4\E5\F0\E5\E2\EE
+0 0 # \D0\F2\F3\F2\FC
+0 0 # \D0\F3\E4\E0
+0 0 # \D1\E5\F0\E0
+6 6 # \CA\F0\E8\F1\F2\E0\EB\EB\FB
+0 0 # \C4\F0\E0\E3\EE\F6\E5\ED\ED\FB\E5 \EA\E0\EC\ED\E8
+0 0 # \C7\EE\EB\EE\F2\EE"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -12652,27 +14439,27 @@ Text 3: "Le propriétaire des lieux vous salue et dit : ""Votre Seigneurie, j'ai
 Text 4: "D'un air navré, le propriétaire des lieux s'empresse de vous dire : ""Votre Seigneurie, je n'ai pas de Gemmes pour vous. Revenez la semaine prochaine."""
 Text 5: ""
 Text 6: ""
-Text 7: "# �� ������ 15
-# ������ *= 500
-# �������� à ��������� ��������� ��������� �������� (���������� ��������).
-0 0 # ������
-0 0 # �����
-0 0 # ����
-0 0 # ����
-0 0 # ���������
-6 6 # ����������� �����
-0 0 # ������"
-Text 8: "# ������ ������
-# �� ������ 15
-# ������ *= 500
-# �������� à ��������� ��������� ��������� �������� (���������� ��������).
-0 0 # ������
-0 0 # �����
-0 0 # ����
-0 0 # ����
-0 0 # ���������
-6 6 # ����������� �����
-0 0 # ������"
+Text 7: "# \CD\E5 \E1\EE\EB\FC\F8\E5 15
+# \C7\EE\EB\EE\F2\EE *= 500
+# \CC\E8\ED\E8\EC\F3\EC\FB \E8 \EC\E0\EA\F1\E8\EC\F3\EC\FB \E2\FB\EF\E0\E4\E5\ED\E8\FF \F0\E0\E7\EB\E8\F7\ED\FB\F5 \F0\E5\F1\F3\F0\F1\EE\E2 (\E2\FB\E1\E8\F0\E0\E5\F2\F1\FF \F1\EB\F3\F7\E0\E9\ED\EE).
+0 0 # \C4\E5\F0\E5\E2\EE
+0 0 # \D0\F2\F3\F2\FC
+0 0 # \D0\F3\E4\E0
+0 0 # \D1\E5\F0\E0
+0 0 # \CA\F0\E8\F1\F2\E0\EB\EB\FB
+6 6 # \C4\F0\E0\E3\EE\F6\E5\ED\ED\FB\E5 \EA\E0\EC\ED\E8
+0 0 # \C7\EE\EB\EE\F2\EE"
+Text 8: "# \CF\E5\F0\E2\E0\FF \ED\E5\E4\E5\EB\FF
+# \CD\E5 \E1\EE\EB\FC\F8\E5 15
+# \C7\EE\EB\EE\F2\EE *= 500
+# \CC\E8\ED\E8\EC\F3\EC\FB \E8 \EC\E0\EA\F1\E8\EC\F3\EC\FB \E2\FB\EF\E0\E4\E5\ED\E8\FF \F0\E0\E7\EB\E8\F7\ED\FB\F5 \F0\E5\F1\F3\F0\F1\EE\E2 (\E2\FB\E1\E8\F0\E0\E5\F2\F1\FF \F1\EB\F3\F7\E0\E9\ED\EE).
+0 0 # \C4\E5\F0\E5\E2\EE
+0 0 # \D0\F2\F3\F2\FC
+0 0 # \D0\F3\E4\E0
+0 0 # \D1\E5\F0\E0
+0 0 # \CA\F0\E8\F1\F2\E0\EB\EB\FB
+6 6 # \C4\F0\E0\E3\EE\F6\E5\ED\ED\FB\E5 \EA\E0\EC\ED\E8
+0 0 # \C7\EE\EB\EE\F2\EE"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -12692,27 +14479,27 @@ Text 3: "Le responsable des Hauts Fourneaux vous salue et dit : ""Votre Seigneur
 Text 4: "Le responsable de la Mine vous dit : ""Votre Seigneurie, je n'ai pas d'Or pour vous. Revenez la semaine prochaine."""
 Text 5: ""
 Text 6: ""
-Text 7: "# �� ������ 15
-# ������ *= 500
-# �������� à ��������� ��������� ��������� �������� (���������� ��������).
-0 0 # ������
-0 0 # �����
-0 0 # ����
-0 0 # ����
-0 0 # ���������
-0 0 # ����������� �����
-4 4 # ������"
-Text 8: "# ������ ������
-# �� ������ 15
-# ������ *= 500
-# �������� à ��������� ��������� ��������� �������� (���������� ��������).
-0 0 # ������
-0 0 # �����
-0 0 # ����
-0 0 # ����
-0 0 # ���������
-0 0 # ����������� �����
-4 4 # ������"
+Text 7: "# \CD\E5 \E1\EE\EB\FC\F8\E5 15
+# \C7\EE\EB\EE\F2\EE *= 500
+# \CC\E8\ED\E8\EC\F3\EC\FB \E8 \EC\E0\EA\F1\E8\EC\F3\EC\FB \E2\FB\EF\E0\E4\E5\ED\E8\FF \F0\E0\E7\EB\E8\F7\ED\FB\F5 \F0\E5\F1\F3\F0\F1\EE\E2 (\E2\FB\E1\E8\F0\E0\E5\F2\F1\FF \F1\EB\F3\F7\E0\E9\ED\EE).
+0 0 # \C4\E5\F0\E5\E2\EE
+0 0 # \D0\F2\F3\F2\FC
+0 0 # \D0\F3\E4\E0
+0 0 # \D1\E5\F0\E0
+0 0 # \CA\F0\E8\F1\F2\E0\EB\EB\FB
+0 0 # \C4\F0\E0\E3\EE\F6\E5\ED\ED\FB\E5 \EA\E0\EC\ED\E8
+4 4 # \C7\EE\EB\EE\F2\EE"
+Text 8: "# \CF\E5\F0\E2\E0\FF \ED\E5\E4\E5\EB\FF
+# \CD\E5 \E1\EE\EB\FC\F8\E5 15
+# \C7\EE\EB\EE\F2\EE *= 500
+# \CC\E8\ED\E8\EC\F3\EC\FB \E8 \EC\E0\EA\F1\E8\EC\F3\EC\FB \E2\FB\EF\E0\E4\E5\ED\E8\FF \F0\E0\E7\EB\E8\F7\ED\FB\F5 \F0\E5\F1\F3\F0\F1\EE\E2 (\E2\FB\E1\E8\F0\E0\E5\F2\F1\FF \F1\EB\F3\F7\E0\E9\ED\EE).
+0 0 # \C4\E5\F0\E5\E2\EE
+0 0 # \D0\F2\F3\F2\FC
+0 0 # \D0\F3\E4\E0
+0 0 # \D1\E5\F0\E0
+0 0 # \CA\F0\E8\F1\F2\E0\EB\EB\FB
+0 0 # \C4\F0\E0\E3\EE\F6\E5\ED\ED\FB\E5 \EA\E0\EC\ED\E8
+4 4 # \C7\EE\EB\EE\F2\EE"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -12841,7 +14628,7 @@ Text 7: "# AI values
 -1
 
 # Sleepkeeper
-158
+165
 7 10 #  Diff abl, 10 points
 -1
 "
@@ -13214,13 +15001,13 @@ Name: "art154"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Poupée Shamane"
+Text 1: "Poupée Chamane"
 Text 2: "Cette journée n'a pas été des plus agréable. En voulant éviter un coq vous êtes passé sous une échelle, puis vous vous êtes pris le pied dans un seau d'eau, et pour finir vous avez croisé un chat noir. Malgré tout, en tentant de rattraper un indélicat qui vous suivait de trop près, vous avez récupéré une étrange Poupée abandonnée par le fuyard."
 Text 3: "L'ennemi a Poupée Shamane -2"
 Text 4: ""
 Text 5: ""
 Text 6: ""
-Text 7: "{Poupée Shamane}
+Text 7: "{Poupée Chamane}
 
 Fait baisser la Chance de l'ennemi -2"
 Text 8: "4000 # cost
@@ -15478,6 +17265,195 @@ Val 3: "0"
 ------------------------------------------------
 
 ------------------------------------------------
+Name: "banim98"
+Path: ""
+Texts count: "9"
+Text 0: ""
+Text 1: "rune1.def"
+Text 2: "Rune1"
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: ""
+Text 8: ""
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "1"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "banim99"
+Path: ""
+Texts count: "9"
+Text 0: ""
+Text 1: "rune2.def"
+Text 2: "Rune2"
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: ""
+Text 8: ""
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "1"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "banim100"
+Path: ""
+Texts count: "9"
+Text 0: ""
+Text 1: "rune3.def"
+Text 2: "Rune3"
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: ""
+Text 8: ""
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "1"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "banim101"
+Path: ""
+Texts count: "9"
+Text 0: ""
+Text 1: "rune4.def"
+Text 2: "Rune4"
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: ""
+Text 8: ""
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "1"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "banim102"
+Path: ""
+Texts count: "9"
+Text 0: ""
+Text 1: "rune5.def"
+Text 2: "Rune5"
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: ""
+Text 8: ""
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "1"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "banim103"
+Path: ""
+Texts count: "9"
+Text 0: ""
+Text 1: "rune6.def"
+Text 2: "Rune6"
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: ""
+Text 8: ""
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "1"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "banim104"
+Path: ""
+Texts count: "9"
+Text 0: ""
+Text 1: "rune7.def"
+Text 2: "Rune7"
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: ""
+Text 8: ""
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "1"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "banim105"
+Path: ""
+Texts count: "9"
+Text 0: ""
+Text 1: "rune8.def"
+Text 2: "Rune8"
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: ""
+Text 8: ""
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "1"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "banim106"
+Path: ""
+Texts count: "9"
+Text 0: ""
+Text 1: "rune9.def"
+Text 2: "Rune9"
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: ""
+Text 8: ""
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "1"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
 Name: "actobj000"
 Path: ""
 Texts count: "9"
@@ -15488,14 +17464,14 @@ Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
-Text 7: "# ����� 1 - ����� �������� ����� (-1 - ��� �����)
-# ����� 2 - ��������� �� à ����� à ��������� ������� ������� (0 - ���, 1 - ��)
-# ����� 1 - ��� �������
-# ����� 2 - ��� ����� ����� ��������� �������
-# ����� 7 - �������� ������ �������
-# ����� 8 - ��������� ������ �������
-# 1 ������ - ��������� ��� ��������� �������
-# 2 ������ - ��������� à ��������� ������� (���� ����)
+Text 7: "# \D7\E8\F1\EB\EE 1 - \ED\EE\EC\E5\F0 \F4\EE\ED\EE\E2\EE\E3\EE \E7\E2\F3\EA\E0 (-1 - \ED\E5\F2 \E7\E2\F3\EA\E0)
+# \D7\E8\F1\EB\EE 2 - \E4\EE\E1\E0\E2\EB\FF\F2\FC \EB\E8 \E2 \EF\EE\E8\F1\EA \E2 \F0\E5\E4\E0\EA\F2\EE\F0\E5 \EE\E1\FB\F7\ED\FB\EC \EE\E1\F0\E0\E7\EE\EC (0 - \ED\E5\F2, 1 - \E4\E0)
+# \D2\E5\EA\F1\F2 1 - \E8\EC\FF \EE\E1\FA\E5\EA\F2\E0
+# \D2\E5\EA\F1\F2 2 - \E8\EC\FF \F4\E0\E9\EB\E0 \E7\E2\F3\EA\E0 \EF\EE\F1\E5\F9\E5\ED\E8\FF \EE\E1\FA\E5\EA\F2\E0
+# \D2\E5\EA\F1\F2 7 - \F7\E8\F1\EB\EE\E2\FB\E5 \E4\E0\ED\ED\FB\E5 \EE\E1\FA\E5\EA\F2\E0
+# \D2\E5\EA\F1\F2 8 - \F1\F2\F0\EE\EA\EE\E2\FB\E5 \E4\E0\ED\ED\FB\E5 \EE\E1\FA\E5\EA\F2\E0
+# 1 \F1\F2\F0\EE\EA\E0 - \F1\EE\EE\E1\F9\E5\ED\E8\E5 \EF\F0\E8 \EF\EE\F1\E5\F9\E5\ED\E8\E8 \EE\E1\FA\E5\EA\F2\E0
+# 2 \F1\F2\F0\EE\EA\E0 - \EF\EE\E4\F1\EA\E0\E7\EA\E0 \EE \F1\E2\EE\E9\F1\F2\E2\E0\F5 \EE\E1\FA\E5\EA\F2\E0 (\E5\F1\EB\E8 \E5\F1\F2\FC)
 "
 Text 8: """{Temple d'Alliance}
 
@@ -16044,6 +18020,35 @@ Val 3: "0"
 ------------------------------------------------
 
 ------------------------------------------------
+Name: "actobj012"
+Path: ""
+Texts count: "9"
+Text 0: ""
+Text 1: "Camp du Trappeur"
+Text 2: "Store.wav"
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: ""
+Text 8: """{Camp du Trappeur}
+
+En fouillant dans le camp enseveli sous la neige, vous trouvez un sac d'or que quelqu'un a caché ici..""
+""{Camp du Trappeur}
+
+Dans le refuge enseveli sous la neige, vous rencontrez plusieurs créatures qui attendent ici que la tempête passe. Souhaitez-vous les emmener avec vous ?""
+""{Camp du trappeur}
+
+Quelqu'un est déjà venu dans le camp. Il ne reste plus rien ici."""
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "-1"
+Val 2: "1"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
 Name: "captobj001"
 Path: ""
 Texts count: "9"
@@ -16054,14 +18059,14 @@ Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
-Text 7: "# ����� 1 - ����� �������� ����� (-1 - ��� �����)
-# ����� 2 - ��������� �� à ����� à ��������� ������� ������� (0 - ���, 1 - ��)
-# ����� 1 - ��� �������
-# ����� 2 - ��� ����� ����� ��������� �������
-# ����� 7 - �������� ������ �������
-# ����� 8 - ��������� ������ �������
-# 1 ������ - ��������� ��� ��������� �������
-# 2 ������ - ��������� à ��������� ������� (���� ����)
+Text 7: "# \D7\E8\F1\EB\EE 1 - \ED\EE\EC\E5\F0 \F4\EE\ED\EE\E2\EE\E3\EE \E7\E2\F3\EA\E0 (-1 - \ED\E5\F2 \E7\E2\F3\EA\E0)
+# \D7\E8\F1\EB\EE 2 - \E4\EE\E1\E0\E2\EB\FF\F2\FC \EB\E8 \E2 \EF\EE\E8\F1\EA \E2 \F0\E5\E4\E0\EA\F2\EE\F0\E5 \EE\E1\FB\F7\ED\FB\EC \EE\E1\F0\E0\E7\EE\EC (0 - \ED\E5\F2, 1 - \E4\E0)
+# \D2\E5\EA\F1\F2 1 - \E8\EC\FF \EE\E1\FA\E5\EA\F2\E0
+# \D2\E5\EA\F1\F2 2 - \E8\EC\FF \F4\E0\E9\EB\E0 \E7\E2\F3\EA\E0 \EF\EE\F1\E5\F9\E5\ED\E8\FF \EE\E1\FA\E5\EA\F2\E0
+# \D2\E5\EA\F1\F2 7 - \F7\E8\F1\EB\EE\E2\FB\E5 \E4\E0\ED\ED\FB\E5 \EE\E1\FA\E5\EA\F2\E0
+# \D2\E5\EA\F1\F2 8 - \F1\F2\F0\EE\EA\EE\E2\FB\E5 \E4\E0\ED\ED\FB\E5 \EE\E1\FA\E5\EA\F2\E0
+# 1 \F1\F2\F0\EE\EA\E0 - \F1\EE\EE\E1\F9\E5\ED\E8\E5 \EF\F0\E8 \EF\EE\F1\E5\F9\E5\ED\E8\E8 \EE\E1\FA\E5\EA\F2\E0
+# 2 \F1\F2\F0\EE\EA\E0 - \EF\EE\E4\F1\EA\E0\E7\EA\E0 \EE \F1\E2\EE\E9\F1\F2\E2\E0\F5 \EE\E1\FA\E5\EA\F2\E0 (\E5\F1\EB\E8 \E5\F1\F2\FC)
 "
 Text 8: ""
 Has FilS: "false"
@@ -16088,7 +18093,7 @@ Text 7: "Plateau
 &Objets Plateau [O]	
 up in the highlands"
 Text 8: "# Step costs
-100 100 100 100
+100 95 90 85
 "
 Has FilS: "false"
 Vals count: "4"
@@ -16109,12 +18114,12 @@ Text 3: "horse20.wav"
 Text 4: "WASTELAND"
 Text 5: ""
 Text 6: ""
-Text 7: "Aride
+Text 7: "Terres arides
 Arid&e [0]	
-Obje&ts Aride [P]	
+Obje&ts Terres arides [P]	
 in acrid badlands"
 Text 8: "# Step costs
-125 100 100 100
+125 100 90 85
 "
 Has FilS: "false"
 Vals count: "4"
@@ -16147,6 +18152,53 @@ Réduit la caractéristique Magie de l'ennemi de 20% durant les combats.""
 ""{Maître en Interférence}
 
 Réduit la caractéristique Magie de l'ennemi de 30% durant les combats."""
+Text 8: ""
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "secskill29"
+Path: ""
+Texts count: "9"
+Text 0: ""
+Text 1: "Runes"
+Text 2: ""
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: "# 0
+""{Novice en Runes}
+
+Les runes de base permettent aux unités du héros d'accumuler jusqu'à 3 niveaux de runes au combat. Chaque niveau de rune confère des bonus aux statistiques de la créature :
+
+{1} : +2 en attaque, {2} : +2 en défense, {3} : +1 en vitesse.
+
+Les bonus de tous les niveaux de runes atteints sont cumulatifs. L'unité gagne +1 niveau de rune lorsqu'elle attaque, +2 niveaux de runes lorsqu'elle subit des dégâts et +3 niveaux de runes lorsqu'elle adopte une posture défensive.""
+# 1
+""{Disciple en Runes}
+
+Les runes avancées permettent aux unités du héros d'accumuler jusqu'à 6 niveaux de runes au combat. Chaque niveau de rune confère des bonus aux statistiques de la créature :
+
+{1} : +2 en attaque, {2} : +2 en défense, {3} : +1 en vitesse ;
+{4} : +2 en attaque, {5} : +2 en défense, {6} : +1 en vitesse.
+
+Les bonus de tous les niveaux de runes atteints sont cumulatifs. L'unité gagne +1 niveau de rune lorsqu'elle attaque, +2 niveaux de runes lorsqu'elle subit des dégâts et +3 niveaux de runes lorsqu'elle adopte une posture défensive.""
+# 2
+""{Maître en Runes}
+
+Les runes expertes permettent aux unités du héros d'accumuler jusqu'à 9 niveaux de runes au combat. Chaque niveau de rune confère des bonus aux statistiques de la créature :
+
+{1} : +2 en attaque, {2} : +2 en défense, {3} : +1 en vitesse ;
+{4} : +2 en attaque, {5} : +2 en défense, {6} : +1 en vitesse ;
+{7} : +2 en attaque, {8} : +2 en défense, {9} : +1 en vitesse.
+
+Les bonus de tous les niveaux de runes obtenus sont cumulatifs. L'unité gagne +1 niveau de rune lorsqu'elle attaque, +2 niveaux de runes lorsqu'elle subit des dégâts et +3 niveaux de runes lorsqu'elle adopte une posture défensive.""
 Text 8: ""
 Has FilS: "false"
 Vals count: "4"
@@ -17921,7 +19973,8 @@ DargemIntro2
 DargemIntro3
 DargemIntro4
 DargemIntro5
-DargemOutro5"
+DargemOutro5
+BulwarkTown"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -19429,7 +21482,7 @@ Text 6: ""
 Text 7: "# Index count
 45
 # Indices
-141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 0 0 0 0 161 162 163 164 165 166 167 168 169 170 171 172 173 174 175 176 177 178"
+141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 0 0 0 0 161 162 163 164 165 166 167 168 169 170 171 172 173 174 175 176 177 178 179 180 181 182 183 184 0"
 Text 8: ""
 Has FilS: "false"
 Vals count: "4"
@@ -19637,552 +21690,626 @@ Val 3: "0"
 Name: "event_system0"
 Path: ""
 Texts count: "9"
-Text 0: "# Action Names
-Sequence of actions
-Condition (If / Then / Else If...)
-Set variable by condition
-Modify variable
-Resources
-Remove current object
-Message with reward
-Quest action
-Creatures
-Artifact
-Build town structure
-Set quest hint/quest log text
+Text 0: "# Noms des Actions
+Séquence d’actions
+Condition (Si / Alors / Sinon si...)
+Définir une variable selon une condition
+Modifier une variable
+Ressources
+Supprimer l’objet actuel
+Message avec récompense
+Action de quête
+Créatures
+Artéfact
+Construire un bâtiment de ville
+Définir l’indice de quête et l’entrée de journal
 Question
-Condition (If / Then / Else)
-Add creatures to hire
-Spell
-Experience
-Spell points
-Movement points
-Primary skills
-Secondary skills
-Luck
-Morale
+Condition (Si / Alors / Sinon)
+Ajouter des créatures à recruter
+Sort
+Expérience
+Points de sort
+Points de déplacement
+Compétences primaires
+Compétences secondaires
+Chance
+Moral
 Combat
-Execute event
-War machine
-Spellbook
-Disable event
-Cycle
-Show message"
-Text 1: "# Action Descriptions
-Sequence of actions
-Condition (If / Then / Else If...)
-Save expression result to """"%s"""" variable
-%s variable """"%s""""
-Modify resources
-Remove current object
-Message with reward: """"%s""""
-Quest action
-Give/take creatures
-Give/take artifact
-Build %s
-Set log entry / quest hint
-Question: """"%s""""
-Condition (If / Then / Else)
-Increase count of creatures in Level %d dwelling by %d
-Give %s spell
-Give %d experience
-Modify spell points
-Modify movement points
-Give %s %s
-Set %s level to %s
-%s luck by %d
-%s morale by %d
-Fight with 
-Execute event: %s
-Give/take war machine
-Give/take spellbook
-Disable event
-For each integer from %s to %s incl. (record to %s)
-Show message: """"%s""""
+Exécuter un événement
+Machine de guerre
+Grimoire
+Désactiver l’événement
+Boucle
+Afficher un message"
+Text 1: "# Descriptions des actions
+Séquence d’actions
+Condition (Si / Alors / Sinon si...)
+Enregistrer le résultat de l’expression dans la variable """"%s""""
+Variable %s """"%s""""
+Modifier les ressources
+Supprimer l’objet actuel
+Message avec récompense : """"%s""""
+Étape de quête
+Donner / retirer des créatures
+Donner / retirer un artéfact
+Construire %s
+Définir l’indice de quête et l’entrée de journal
+Question : """"%s""""
+Condition (Si / Alors / Sinon)
+Augmenter le nombre de créatures du bâtiment de niveau %d de %d
+Donner le sort %s
+Donner %d points d’expérience
+Modifier les points de sort
+Modifier les points de déplacement
+Donner %s %s
+Définir le niveau de %s à %s
+%s la chance de %d
+%s le moral de %d
+Combattre contre 
+Exécuter l’événement : %s
+Donner / retirer une machine de guerre
+Donner / retirer un grimoire
+Désactiver l’événement
+Pour chaque entier de %s à %s inclus (enregistrer dans %s)
+Afficher le message : """"%s""""
 "
-Text 2: "# Boolean Expression Names
-Boolean value
-And
-Or
-Less Than
-Greater Than
-Equal
-Not
-Hero has artifact
-Greater Than or Equal
-Less Than or Equal
-Not Equal
-Hero belongs to certain player
-Has certain hero
-Hero belongs to certain class
-Monster is defeated by player
-Hero is defeated by player
-Hero has secondary skill
-Player is defeated
-Town is controlled by player
-Player is human
-Player's alignment
-Town is neutral"
-Text 3: "# Boolean Expression Descriptions
-Boolean value
-(And)
-(Or)
-Less Than
-Greater Than
-Equal
-(Not)
-Hero has %s
-Greater Than or Equal
-Less Than or Equal
-Not Equal
-Current player is %s
-Current hero is %s
-Hero's class is %s
-Defeat %s
-Defeat hero %s
-%s is defeated
-%s is defeated
-%s must control %s
-%s is human
-Starting town type of %s is %s
-Current town is neutral"
-Text 4: "# Integer Expression Names
-Integer value
-Variable value
-Negative value
-Add
-Subtract
-Resource
-Multiply
-Divide
-Modulo
-Creature count
-Current difficulty level
-Difficulty level
-Current date
-Hero's current experience
-Hero's current level
-Primary skill
-Random number
-Artifact count"
-Text 5: "# Integer Expression Descriptions
-Integer value
-Value of variable %s
-(Negative value)
-(Add)
-(Subtract)
-%s's amount of %s
-(Multiply)
-(Divide)
-(Modulo)
-Count of %s in hero's army
-Current difficulty level
-Difficulty level (%s)
-Current date
-Hero's current experience
-Hero's current level
-Level of primary skill %s
-Random number (%d à %d)
-Count of %s artifacts"
-Text 6: "Resources (+)
-Artifact
-Spell
-Player flag
-Luck
-Morale
-Experience
-Secondary skill
-Creatures
-Primary skill
-Spell points
-Movement points
-Gold (+, small image)
-Resources (-)
-Resources (Per day)
-Spell scroll
-+1 Level
-Creatures (Simple)
-Resources (Simple)
-Primary skill (+)
-Gold (-, small image)
-Gold (Small image)
-Gold (Per day, small image)"
+Text 2: "# Noms des expressions booléennes
+Valeur booléenne
+Et
+Ou
+Inférieur à
+Supérieur à
+Égal
+Non
+Le héros possède un artéfact
+Supérieur ou égal à
+Inférieur ou égal à
+Différent
+Le héros appartient à un joueur donné
+Affiliation du héros
+Le héros appartient à une classe donnée
+La créature est vaincue par le joueur
+Le héros est vaincu par le joueur
+Le héros possède une compétence secondaire
+Le joueur est vaincu
+La ville est contrôlée par le joueur
+Le joueur est humain
+Ville de départ du joueur
+La ville est neutre"
+Text 3: "# Descriptions des expressions booléennes
+Valeur booléenne
+(Et)
+(Ou)
+Inférieur à
+Supérieur à
+Égal
+(Non)
+Le héros possède %s
+Supérieur ou égal à
+Inférieur ou égal à
+Différent
+Le joueur actuel est %s
+Le héros actuel est %s
+La classe du héros est %s
+Vaincre %s
+Vaincre le héros %s
+%s est vaincu
+%s est vaincu
+%s doit contrôler %s
+%s est humain
+Le type de ville de départ de %s est %s
+La ville actuelle est neutre"
+Text 4: "# Noms des expressions entières
+Valeur entière
+Valeur de variable
+Inverser le signe
+Addition
+Soustraction
+Ressource
+Multiplication
+Division
+Reste
+Nombre de créatures
+Niveau de difficulté actuel
+Niveau de difficulté
+Date actuelle
+Expérience actuelle du héros
+Niveau actuel du héros
+Compétence primaire
+Nombre aléatoire
+Nombre d’artéfacts"
+Text 5: "# Descriptions des expressions entières
+Valeur entière
+Valeur de la variable %s
+Inverser le signe
+(Addition)
+(Soustraction)
+Quantité de %s en %s
+(Multiplication)
+(Division)
+(Reste)
+Nombre de %s dans l’armée du héros
+Niveau de difficulté actuel
+Niveau de difficulté (%s)
+Date actuelle
+Expérience actuelle du héros
+Niveau actuel du héros
+Niveau de la compétence primaire %s
+Nombre aléatoire (%d - %d)
+Nombre d’artéfacts %s
+Text 6: "Ressources (+)
+Artéfact
+Sort
+Drapeau du joueur
+Chance
+Moral
+Expérience
+Compétence secondaire
+Créatures
+Compétence primaire
+Points de sort
+Points de déplacement
+Or (+, petite icône)
+Ressources (-)
+Ressources (par jour)
+Parchemin de sort
++1 niveau
+Créatures (simple)
+Ressources (simple)
+Compétence primaire (+)
+Or (-, petite icône)
+Or (petite icône)
+Or (par jour, petite icône)"
 Text 7: ""
 Text 8: "# 0
-Error: In event %s has happened division by zero. Further operation of event can be incorrect.
+Erreur de carte : une division par zéro s'est produite dans l'événement étendu %s. Le fonctionnement ultérieur de l'événement et de la carte entière peut être incorrect.
 # 1
-Map Error: Current event contains too many actions (maximum is %d). Sequence will not be executed further.
+Erreur de carte : un événement étendu est mal configuré et exécute trop d'actions (plus de %d). Afin d'éviter un blocage, l'exécution de l'événement sera interrompue. Le fonctionnement ultérieur de la carte peut être incorrect.
 # 2
-%s has found a war machine.
+%s a trouvé une machine de guerre.
 # 3
-%s has found a spell book.
+%s a trouvé un grimoire.
 # 4
- nothing
+ rien
 # 5
-Complete Quest For Object
+Terminer la quête pour l'objet
 # 6
-Message with reward: ""%s...""
+Message avec récompense : ""%s...""
 # 7
-Show message: ""%s...""
+Afficher le message : ""%s...""
 # 8
-%s %d %s to garrison
+%s %d %s (garnison)
 # 9
-%s spellbook
+%s grimoire
 # 10
-Question: ""%s...""
+Question : ""%s...""
 # 11
-movement points
+points de mouvement
 # 12
-spell points
+points de sort
 # 13
-experience
+expérience
 # 14
-Increase
+Augmenter
 # 15
-Decrease
+Diminuer
 # 16
-Increase count of creatures in Level %d dwelling
+Augmenter le nombre de créatures dans le bâtiment de niveau %d
 # 17
-Increase count of creatures in Level 7b dwelling by %d
+Augmenter le nombre de créatures dans le bâtiment de niveau 7b de %d
 # 18
-Increase count of creatures in Level 7b dwelling
+Augmenter le nombre de créatures dans le bâtiment de niveau 7b
 # 19
-Combat (disabled)
+Combat (désactivé)
 # 20
- and 
+ et 
 # 21
-Execute Event (Nothing)
+Exécuter l'événement (aucune action)
 # 22
 (Expression)
 # 23
-True
+Vrai
 # 24
-False
+Faux
 # 25
-Hero has %s scroll
+Le héros possède le parchemin %s
 # 26
-Hero %s belongs to %s
+Le héros %s appartient à %s
 # 27
-Defeat hero (no hero)
+Vaincre un héros (aucun héros)
 # 28
-Defeat monster (no monster)
+Vaincre une créature (aucune créature)
 # 29
-Defeat random hero
+Vaincre un héros aléatoire
 # 30
-Control town (no town)
+Contrôler une ville (aucune ville)
 # 31
-Count of %s in garrison
+Nombre de %s dans la garnison
 # 32
-Count of %s scrolls
+Nombre de parchemins %s
 # 33
-***Event Texts***
+***Textes des événements***
 # 34
-Extended Events
+Événements étendus
 # 35
-NewEvent
+Nouvel événement
 # 36
-NewVariable
+Nouvelle variable
 # 37
-E&vent system		Ctrl+E
+Système d'é&vénements		Ctrl+E
 # 38
-Variable Name:
+Nom de la variable :
 # 39
-Save in campaign
+Enregistrer dans la campagne
 # 40
-Initial value
+Valeur initiale
 # 41
-Import from previous maps
+Importer depuis les cartes précédentes
 # 42
-Undo
+Annuler
 # 43
-Redo
+Rétablir
 # 44
-Add
+Ajouter
 # 45
-Insert If-Then Branch
+Insérer une branche Si-Alors
 # 46
-Remove
+Supprimer
 # 47
-Remove All
+Tout supprimer
 # 48
-Up
+Monter
 # 49
-Down
+Descendre
 # 50
-Event Name:
+Nom de l'événement :
 # 51
-Event System
+Système d'événements
 # 52
-Hero Events
+Événements de héros
 # 53
-Player Events
+Événements de joueur
 # 54
-Town Events
+Événements de ville
 # 55
-Quest Events
+Événements de quête
 # 56
 Variables
 # 57
-Event Type
+Type d'événement
 # 58
-Duplicate
+Dupliquer
 # 59
-Event
+Événement
 # 60
-New Event Name
+Nom du nouvel événement
 # 61
-New Variable Name
+Nom de la nouvelle variable
 # 62
-New Image
+Nouvelle image
 # 63
 Type
 # 64
-Subtype
+Sous-type
 # 65
-Images:
+Choix des images :
 # 66
-Variable:
+Variable :
 # 67
-Show with message
+Afficher avec le message
 # 68
-Add/Remove Expression
+Ajouter / retirer une expression
 # 69
-Add
+Ajouter
 # 70
-Subtract
+Soustraire
 # 71
-Set
+Définir
 # 72
-Remove
+Supprimer
 # 73
-Edit
+Modifier
 # 74
-Message:
+Message :
 # 75
-Additional Experience:
+Expérience supplémentaire :
 # 76
-Image show type:
+Type d'affichage de l'image :
 # 77
-Show """"Or"""" text between images
+Afficher le texte """"Ou"""" entre les images
 # 78
-No images in message
+Aucune image dans le message
 # 79
-Selection images (can't exit)
+Images de sélection (sortie impossible)
 # 80
-Selection images (can exit)
+Images de sélection (sortie possible)
 # 81
-Specify images
+Spécifier les images
 # 82
-New
+Nouveau
 # 83
-Rename
+Modifier
 # 84
-True:
+Vrai :
 # 85
-False:
+Faux :
 # 86
-Proposal
+Proposition
 # 87
-Progress
+Progression
 # 88
-Completion
+Achèvement
 # 89
-Restart after all quest actions finished
+Définir l'entrée du journal de quête
 # 90
-Player color:
+Couleur du joueur :
 # 91
-Class:
+Classe :
 # 92
-Personality:
+Personnalité :
 # 93
-Location:
+Emplacement :
 # 94
-Monster:
+Créature :
 # 95
-Defeating player:
+Joueur vainqueur :
 # 96
-Hero:
+Héros :
 # 97
-No hero
+Aucun héros
 # 98
-Level:
+Niveau :
 # 99
-Skill:
+Compétence :
 # 100
-Player:
+Joueur :
 # 101
-Town type:
+Type de ville :
 # 102
-Town:
+Ville :
 # 103
-First:
+Premier :
 # 104
-Second:
+Second :
 # 105
-From:
+De :
 # 106
-To:
+À (inclus) :
 # 107
-Variable (read-only)
+Variable
 # 108
-Quest object hint
+Indice de quête (chaîne vide : ne pas modifier)
 # 109
-Quest object log entry
+Entrée du journal d'objet de quête
 # 110
-Secondary Skill:
+Compétence secondaire :
 # 111
-Primary Skill:
+Compétence primaire :
 # 112
-Creature Level
+Niveau de créature
 # 113
-Level %d
+Niveau %d
 # 114
-Level 7b
+Niveau 7b
 # 115
-[Variable: %s]
+[Variable : %s]
 # 116
-%s %s (small)
+%s %s (petit)
 # 117
--%s %s (small)
+-%s %s (petit)
 # 118
-%s %s per day (small)
+%s %s par jour (petit)
 # 119
-%s %s per day
+%s %s par jour
 # 120
-+1 Level
++1 niveau
 # 121
-Luck (+%d)
+Chance (+%d)
 # 122
-Luck (%d)
+Chance (%d)
 # 123
-Morale (+%d)
+Moral (+%d)
 # 124
-Morale (%d)
+Moral (%d)
 # 125
-Experience (%s)
+Expérience (%s)
 # 126
-Spellpoints (%s)
+Points de sort (%s)
 # 127
-Movement points (%s)
+Points de mouvement (%s)
 # 128
-Gold (%s) - small image
+Or (%s) - petite icône
 # 129
-Building
+Bâtiment
 # 130
-Player %d
+Joueur %d
 # 131
-Current army
+Héros actuel
 # 132
-Anywhere for Current player
+N'importe où pour le joueur actuel
 # 133
-Anywhere for Player %d
+N'importe où pour le joueur %d
 # 134
 Expression
 # 135
-Value: %s
+Valeur : %s
 # 136
-Slot %d: %s
+Emplacement %d : %s
 # 137
-Min: %s
+Min : %s
 # 138
-Max: %s
+Max : %s
 # 139
-First: %s
+Premier : %s
 # 140
-Second: %s
+Second : %s
 # 141
-True: %s
+Vrai : %s
 # 142
-False: %s
+Faux : %s
 # 143
-Then...
+Alors...
 # 144
-Else...
+Sinon...
 # 145
-Yes/First
+Oui / Premier
 # 146
-No/Second
+Non / Second
 # 147
-Cancel
+Annuler
 # 148
-Sequence
+Séquence
 # 149
-Completion
+Achèvement
 # 150
-Rewards
+Récompenses
 # 151
-Variable is already used in event """"%s"""", can't be removed.
+La variable est déjà utilisée dans l'événement """"%s"""", suppression impossible.
 # 152
-Building - %s
+Bâtiment - %s
 # 153
-There's already an entry with such name
+Une entrée portant ce nom existe déjà
 # 154
-%s (read-only)
+%s (lecture seule)
 # 155
-No monster
+Aucune créature
 # 156
-No town
+Aucune ville
 # 157
-Give
+Donner
 # 158
-Take
+Retirer
 # 159
-Current player
+Joueur actuel
 # 160
-Any player
+N'importe quel joueur
 # 161
-War machine:
+Machine de guerre :
 # 162
-New event
+Nouvel événement
 # 163
-New variable
+Nouvelle variable
 # 164
-Artifact:
+Artéfact :
 # 165
-If...
+Si...
 # 166
-Else If...
+Sinon si...
 # 167
 Script
 # 168
-Use unique copy of event
+Synchroniser avec les autres objets ayant le même événement
 # 169
-Create New
+Créer nouveau
 # 170
-Edit...
+Modifier...
 # 171
-Create Copy...
+Créer une copie...
 # 172
-Do you really want to delete all events ? You won't be able to restore them !
+Voulez-vous vraiment supprimer tous les événements ? Vous ne pourrez pas les restaurer !
 # 173
 
-Do you really want to delete this event ? You won't be able to restore it !
+Voulez-vous vraiment supprimer cet événement ? Vous ne pourrez pas le restaurer !
 # 174
-Extended Event
+Événement étendu
 # 175
-Resource:
+Ressource :
 # 176
-Event is already used in event """"%s"""", can't be removed.
+L'événement est déjà utilisé dans l'événement """"%s"""", suppression impossible.
 # 177
-Some events are used in events %s, can't be removed.
+Certains événements sont utilisés dans les événements %s, suppression impossible.
 # 178
-Some events are used in variables %s, can't be removed.
+Certains événements sont utilisés dans les variables %s, suppression impossible.
 # 179
-Minimum:
+Minimum :
 # 180
-Maximum:
+Maximum :
 # 181
-Event:
+Événement :
 # 182
-Movement points:
+Points de mouvement :
 # 183
-Spell points:
+Points de sort :
 # 184
-Type:
+Type :
 # 185
-Quantity:
+Quantité :
 # 186
-Difficulty level:"
+Niveau de difficulté :
+# 187
+Images d'entrée dans le journal
+# 188
+Images
+# 189
+Héros sur la carte
+# 190
+Créature sur la carte
+# 191
+Niveau du héros
+# 192
+Afficher la quête dans le journal
+# 193
+Indice
+# 194
+Un indice vide ne modifie pas l'indice actuel
+# 195
+Les événements ne peuvent pas être supprimés lors de l'édition d'un objet.
+# 196
+Supprimer la boîte de Pandore ou annuler l'événement après la visite actuelle
+# 197
+""""""Système d'événements : dans l'événement de quête %s aucune action ne définit l'indice de l'objet""""""
+Un objet sans indice n'aura pas un bon rendu en jeu. L'indice peut être défini via l'action """"Étape de quête"""" ou """"Définir l'indice de quête et l'entrée de journal"""".
+""
+# 198
+""""""Système d'événements : dans l'événement de quête %s aucune action de fin de quête n'est définie""""""
+Après que le joueur a terminé la quête, l'action """"Terminer la quête de l'objet"""" doit être appelée afin que le jeu traite correctement la fin de la quête.
+""
+# 199
+Terminer la quête
+# 200
+Événement standard
+# 201
+Événement étendu
+# 202
+Événement exécutable :
+# 203
+Voulez-vous vraiment supprimer cette expression ?
+# 204
+Niveau :
+# 205
+Valeur :
+# 206
+(Toutes les créatures)
+# 207
+Nombre de créatures de tout type dans l'armée du héros
+# 208
+Liste des événements
+# 209
+Différents types d'événements prennent en charge différentes actions. Après le changement, les actions incompatibles seront supprimées. Voulez-vous vraiment continuer ?
+# 210
+Héros actuel
+# 211
+Ville actuelle
+# 212
+Numéro du joueur actuel
+# 213
+Le héros actuel est %s
+# 214
+La ville actuelle est %s
+# 215
+Le numéro du joueur actuel est %s
+# 216
+Le héros actuel appartient à un joueur donné
+# 217
+La ville actuelle appartient à un joueur donné
+# 218
+L'événement actuel est appelé par d'autres événements et ne peut pas être converti
+# 219
+Le joueur actuel possède un certain nombre
+# 220
+Les événements ne peuvent pas être convertis lors de l'édition d'un objet.
+# 221
+Ajouter"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -20201,78 +22328,78 @@ Text 2: ""
 Text 3: ""
 Text 4: ""
 Text 5: ""
-Text 6: "# Long Action Name Descriptions
-Sequence
-Conditional Statement. More If-Then branches can be added with \Add Branch\ option.
-Record value of boolean expression to variable depending on result
-Change value of variable
-Modify player's resources
-Remove current object (Event Quest Guard or Pandora's Box) or complete current quest
-Message and sequence of reward actions shown as images in message
-Quest action with completion question. Until quest is completed further actions will not be executed
-Give or take creatures
-Give or take artifact
-Construct a town building
-Set quest log entry and hint of quest object for current quest
-Asks question with different actions for different responses
-Simple Conditional Statement
-Increase amount of creatures available for hire
-Give spell to hero
-Give experience to hero
-Modify amount of spell points
-Modify amount of movement points
-Give primary skills
-Give secondary skills
-Modify luck
-Modify morale
-Combat with specified monster stacks
-Execute different event. Recursion is impossible.
-Give or take war machine
-Give or take spellbook
-Disable current event and stop event execution
-Cycle of repeating sequence
-Show message with specified images"
-Text 7: "# Long BoolExpr Name Descriptions
-True or false
-Logical """"And""""
-Logical """"Or""""
-First value is less than second value
-First value is greater than second value
-First value is equal to second value
-Value of other boolean expression is false
-Hero has certain artifact or war machine
-First value is greater than or equal to second value
-First value is less than or equal to second value
-First value is not equal to second value
-Current player is certain player
-Search for specific hero is successful
-Current hero class is certain class
-Specific monster is defeated by certain player
-Specific hero is defeated by certain hero
-Current hero has secondary skill of specific level
-Specific player is defeated
-Specific town is controlled by certain player
-Current player is human
-Current player's starting town type is certain town type
-Current town is neutral"
-Text 8: "Integer value
-Numeric variable
-Negative value of expression
-Addition
-Subtraction
-Current player's resource amount
-Multiplication
-Division
-Modulo division
-Creature count in current army
-Current difficulty level
-Specific difficulty level
-Current date
-Current hero's experience
-Current hero's level
-Value of primary skill of current hero
-Random number from X to Y inclusively
-Artifact count in hero's inventory"
+Text 6: "# Descriptions longues des noms d'actions
+Séquence
+Vérifier une condition et appliquer les actions selon le résultat. Des branches Si-Alors supplémentaires peuvent être ajoutées via l'option \Ajouter une branche\
+Enregistrer l'une des valeurs selon le résultat
+Modifier la valeur de la variable
+Modifier les ressources du joueur
+Passer par un Gardien de quête ou des Portails de quête, ou terminer la quête de la Cabane du Voyant
+Donner des récompenses au joueur et afficher un message avec des images automatiquement sélectionnées
+Étape de quête avec question de validation. Tant que la quête n'est pas terminée, les actions suivantes ne seront pas exécutées
+Donner ou retirer des créatures
+Donner ou retirer un artéfact
+Construire un bâtiment de ville
+Indice de la quête actuelle
+Poser une question avec différentes actions selon la réponse
+Vérifier une condition et appliquer différentes actions selon le résultat
+Augmenter le nombre de créatures disponibles au recrutement
+Donner un sort au héros
+Donner de l'expérience au héros
+Modifier le nombre de points de sort
+Modifier le nombre de points de mouvement
+Donner des compétences primaires
+Donner des compétences secondaires
+Modifier la chance
+Modifier le moral
+Combattre contre des groupes de créatures spécifiés
+Exécuter un événement différent. Ne peut pas s'appeler lui-même
+Donner ou retirer une machine de guerre
+Donner ou retirer un grimoire
+Désactiver l'événement actuel. Les appels suivants de cet événement n'auront aucun effet
+Exécuter une séquence pour chaque valeur d'une variable dans une plage donnée. À l'intérieur de la boucle, cette variable ne peut pas être modifiée
+Afficher un message avec les images spécifiées"
+Text 7: "# Descriptions longues des expressions booléennes
+Constante booléenne : vrai ou faux
+""""ET"""" logique : vérifie si toutes les conditions sont remplies
+""""OU"""" logique : vérifie si au moins une condition est remplie
+Vérifie si la première valeur est inférieure à la seconde
+Vérifie si la première valeur est supérieure à la seconde
+Vérifie si la première valeur est égale à la seconde
+""""NON"""" logique : vérifie si la condition spécifiée n'est pas remplie
+Le héros possède un artéfact ou une machine de guerre spécifique
+Vérifie si la première valeur est supérieure ou égale à la seconde
+Vérifie si la première valeur est inférieure ou égale à la seconde
+Vérifie si la première valeur est différente de la seconde
+Le joueur actuel est un joueur donné
+La recherche d’un héros spécifique a réussi
+La classe du héros actuel est une classe donnée
+Une créature spécifique est vaincue par un joueur donné
+Un héros spécifique est vaincu par un héros donné
+Le héros actuel possède une compétence secondaire d’un niveau spécifique
+Un joueur spécifique est vaincu
+Une ville spécifique est contrôlée par un joueur donné
+Le joueur actuel est humain
+Le type de ville de départ du joueur actuel est un type de ville donné
+La ville actuelle est neutre"
+Text 8: "Constante entière
+Valeur d’une variable spécifique
+Inverser le signe de la valeur de l’expression
+Somme de la première et de la seconde valeur
+Différence entre deux valeurs
+Quantité de ressources du joueur actuel
+Multiplication de la première valeur par la seconde
+Division de la première valeur par la seconde
+Reste d’une opération de division
+Nombre de créatures dans l’armée actuelle
+Niveau de difficulté actuel
+Valeur pouvant être comparée au niveau de difficulté actuel
+Numéro du jour actuel, à partir de 1
+Expérience du héros actuel
+Niveau du héros actuel
+Valeur de la compétence primaire du héros actuel
+Nombre aléatoire compris entre le minimum et le maximum, inclusivement
+Nombre d’artéfacts dans l’inventaire du héros"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -20281,3 +22408,92 @@ Val 2: "0"
 Val 3: "0"
 ------------------------------------------------
 
+------------------------------------------------
+Name: "spell081"
+Path: ""
+Texts count: "9"
+Text 0: "Freezing"
+Text 1: "Freezing"
+Text 2: ""
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: "Freeze.wav"
+Text 7: "# 0: Description (None)
+Unused
+# 1: Description (Basic)
+Unused
+# 2: Description (Advanced)
+Unused
+# 3: Description (Expert)
+Unused
+# 4: School flags
+nothing
+# 5: Spell flags
+BUFF_DEBUFF CREATURE_SPELL CREATURE_TARGET NOT_SIEGE_WEAPON"
+Text 8: "-1 # Target stack type
+-1 # Animation ix
+4 # Level
+0 0 0 0 # Mana cost
+0 # Effect power multiplier
+0 0 0 0 # Effect school skill
+1 1 1 1 # AI Value"
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "bulwark_texts0"
+Path: ""
+Texts count: "9"
+Text 0: ""
+Text 1: ""
+Text 2: ""
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: "# 0
+Seul un héros en visite peut utiliser la Sieidi des Runes.
+# 1
+Souhaitez-vous que %s maîtrise le savoir des Runes ?
+# 2
+%s a déjà maîtrisé le savoir des Runes.
+# 3
+%s tente en vain de maîtriser le savoir des Runes. Possédant déjà de nombreuses compétences, %s est incapable d'apprendre quoi que ce soit de nouveau.
+# 4
+%s tente de maîtriser le savoir des Runes avant de réaliser qu'il est incapable de les lire. Il semble que cet art ne soit accessible qu'aux habitants locaux et aux érudits compétents.
+# 5
+Niveau de rune %d (+%d Attaque)
+# 6
+Niveau de rune %d (+%d Attaque, +%d Défense)
+# 7
+Niveau de rune %d (+%d Attaque +%d Défense, +%d Vitesse)
+# 8
+%s atteint le niveau de rune %d
+# 9
+%s atteignent le niveau de rune %d
+# 10
+[remplacé]
+# 11
+[remplacé]
+# 12
+[remplacé]
+# 13
+%s et %s atteignent un nouveau niveau de rune
+# 14
+Les créatures atteignent un nouveau niveau de rune
+# 15
+L'Autel des Runes confère aux unités un niveau de rune initial."
+Text 8: ""
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------

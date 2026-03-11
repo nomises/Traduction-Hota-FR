@@ -197,10 +197,21 @@
 
 ## Hota.dat
 ### Traduire
-* HotA.txt
+* ~~HotA.txt~~
 
 ## HotA_lng.lod
 ### Traduire
+<<<<<<< hota.txt
+* artraits.txt
+* CAMPBTTN.TXT
+* CREDITS.TXT
+* EDITRCMD.TXT
+* GENRLTXT.TXT
+* HCTRAITS.TXT
+* SeerHut.txt
+* SPTRAITS.TXT
+* SSTRAITS.TXT
+=======
 * ~~CAMPBTTN.TXT~~
 * ~~artraits.txt~~
 * ~~CREDITS.TXT~~
@@ -320,3 +331,4 @@
 
 # Bonus
 * Revoir le fichier `CREDITS.TXT` et faire la traduction.
+>>>>>>> main
