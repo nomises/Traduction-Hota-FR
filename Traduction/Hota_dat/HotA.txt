@@ -1856,7 +1856,7 @@ Text 3: "Mécaniciens"
 Text 4: "Creature Bonus: Mécaniciens"
 Text 5: "{Mécaniciens et Ingénieurs}
 
-Les Mécaniciens et les Ingénieurs gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% tous les 2 niveaux."
+Les Mécaniciens et les Ingénieurs gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 2 niveaux sont atteints."
 Text 6: "Sam"
 Text 7: "Depuis toujours, il est une huile noire qui jaillit de terre et fait des ravages chez les paysans de Jadame, créant des fontaines incontrôlables responsables de la destruction de nombreuses cultures et pâturages. Sam, fille et apprentie d'un forgeron émérite, fut la première à apprivoiser cette force de la nature en la forçant à entrer dans un tuyau relié directement au fourneau de sa forge. grâce à ses inventions, l'huile noire est devenue le sang, la nourriture et les armes de la cité de Burton."
 Text 8: ""
@@ -1885,7 +1885,7 @@ Text 3: "Flingueurs"
 Text 4: "Creature Bonus: Pistolero"
 Text 5: "{Pistoleros et Chasseurs de Prime}
 
-Les Pistoleros et les Chasseurs de Prime gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% aux 6 niveaux."
+Les Pistoleros et les Chasseurs de Prime gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 6 niveaux sont atteints."
 Text 6: "Tancred"
 Text 7: "À l'époque où il était alchimiste, Tancred perfectionna une ancienne préparation à base de différents composés qui explosait sans l'aide de la magie. À son grand étonnement, le composant crucial, le salpêtre, était pratiquement absent d'Antagarich. Ce n'est qu'à Jadame que Tancred découvrira les vastes grottes contenant cet élément rare, grâce auquel il finira par concevoir une arme capable de projeter de minuscules balles avec une puissance impressionnante."
 Text 8: ""
@@ -2030,7 +2030,7 @@ Text 3: "Baliste"
 Text 4: "Artillery Bonus: Baliste"
 Text 5: "{Baliste}
 
-La Baliste reçoit un bonus en Attaque-Défense de 30% tous les 5 niveaux."
+La Baliste reçoit un bonus en Attaque-Défense de 30% à chaque fois que 5 niveaux sont atteints."
 Text 6: "Morton"
 Text 7: "Vétéran des guerres entre gobelins et ogres, Morton fait parti des rares combattants à avoir survécu à la bataille du Gouffre de Gowdar, et n'a qu'un désir depuis, celui de se venger des ""peaux sales"", suite à la razzia qui a fait disparaître sa maison de la surface de Jadame. Il évalue la qualité de ses balistes au nombre d'ogres qu'elles peuvent transpercer d'un seul coup."
 Text 8: ""
@@ -2467,7 +2467,7 @@ Text 5: "{Mouflons des Montagnes et Argalis}
 
 Les Mouflons des Montagnes et les Argalis gagnent +1 en vitesse et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 2 niveaux sont atteints."
 Text 6: "Eikthurn"
-Text 7: "Les Jotunns prennent très au sérieux les présages célestes. Ceux qui sont nés à l'époque où le Grand Bélier domine la voûte étoilée savent que leur destin est à jamais lié à celui des mouflons des montagnes, volontaires et d'une bravoure impressionnante. Depuis qu'il a appris à marcher, Eikthurn escalade sans crainte les sommets montagneux en compagnie de ses amis aux cornes robustes, convaincu qu'ils sont les seuls à être incapables de trahir."
+Text 7: "Les Jotunns prennent très au sérieux les présages célestes. Ceux qui sont nés à l'époque où le Grand Bélier domine la voûte étoilée savent que leur destin est à jamais lié à celui des Mouflons des Montagnes, volontaires et d'une bravoure impressionnante. Depuis qu'il a appris à marcher, Eikthurn escalade sans crainte les sommets montagneux en compagnie de ses amis aux cornes robustes, convaincu qu'ils sont les seuls à être incapables de trahir."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -2496,7 +2496,7 @@ Text 5: "{Mammouths et Mammouths de Guerre}
 
 Les Mammouths et les Mammouths de Guerre gagnent +1 en vitesse et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 6 niveaux sont atteints.
 Text 6: "Creyle"
-Text 7: "Le père de Creyle, le roi du nord, refusa de la laisser lui succéder. Sachant qu'il était inutile d'essayer de raisonner le vieux grincheux, elle décida de trouver d'autres personnes qui accepteraient ses qualités de meneuse. Creyle alla alors défier l'alpha du plus grand troupeau de mammouths de Vori : elle le terrassa à mains nues, lui arracha une défense et en fit un cor de guerre. Elle le fait retentir lorsqu'elle mène ce qui est désormais son propre troupeau au combat."
+Text 7: "Le père de Creyle, le roi du nord, refusa de la laisser lui succéder. Sachant qu'il était inutile d'essayer de raisonner le vieux grincheux, elle décida de trouver d'autres personnes qui accepteraient ses qualités de meneuse. Creyle alla alors défier l'alpha du plus grand troupeau de Mammouths de Vori : elle le terrassa à mains nues, lui arracha une défense et en fit un cor de guerre. Elle le fait retentir lorsqu'elle mène ce qui est désormais son propre troupeau au combat."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -2554,7 +2554,7 @@ Text 5: "{Kobolds et Contremaîtres Kobolds}
 
 Les Kobolds et les Contremaîtres Kobolds gagnent +1 en vitesse et reçoivent un bonus en Attaque-Défense de 10% à chaque niveau.
 Text 6: "Kynr"
-Beaucoup pensent que Kynr n'est pas un nom, mais plutôt un rang ou un titre, car Kynr a toujours fait partie des kobolds. Chaque fois qu'une catastrophe frappe les mines et que les tunnels s'effondrent, c'est Kynr qui dirige les équipes de secours. À son appel, tous les kobolds suspendent immédiatement leurs activités et obéissent sans poser de questions, sachant pertinemment que des vies sont en jeu.
+Beaucoup pensent que Kynr n'est pas un nom, mais plutôt un rang ou un titre, car Kynr a toujours fait partie des Kobolds. Chaque fois qu'une catastrophe frappe les mines et que les tunnels s'effondrent, c'est Kynr qui dirige les équipes de secours. À son appel, tous les Kobolds suspendent immédiatement leurs activités et obéissent sans poser de questions, sachant pertinemment que des vies sont en jeu.
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -2581,9 +2581,9 @@ Text 3: "Orientation"
 Text 4: "Secondary Skill Bonus: Orientation"
 Text 5: "{Orientation}
 
-Augmente l'effet de la compétence d'Orientation, réduisant le coût de déplacement sur les terrains rudes de 5%."
+Augmente l'effet de la compétence d'Orientation, réduisant le coût de déplacement sur les terrains difficiles de 5%."
 Text 6: "Ergon"
-Text 7: "Ergon a passé sa longue vie en mouvement constant. Il a servi dans la garde du Lord Slayer à Enroth, a protégé les caravanes elfiques à Jadame et a vendu son épée à Antagarich, pour finalement réaliser, dans ses dernières années, qu'il aspirait à un endroit où le temps lui-même semblait s'être arrêté. Cela dit, son talent pour organiser des marches rapides est toujours là, chaque fois que le besoin s'en fait sentir."
+Text 7: "Ergon a passé sa longue vie en mouvement constant. Il a servi dans la garde du Tueur de Seigneur à Enroth, a protégé les caravanes elfiques à Jadame et a vendu son épée à Antagarich, pour finalement réaliser, dans ses dernières années, qu'il aspirait à un endroit où le temps lui-même semblait s'être arrêté. Cela dit, son talent pour organiser des marches rapides est toujours là, chaque fois que le besoin s'en fait sentir."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -2610,9 +2610,9 @@ Text 3: "Chamans"
 Text 4: "Creature Bonus: Chamans"
 Text 5: "{Chamans et Chamans Vénérables}
 
-Les Chamans et les Chamans Vénérables gagnent +1 en vitesse et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 20 niveaux sont atteints.
+Les Chamans et les Chamans Vénérables gagnent +1 en vitesse et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 5 niveaux sont atteints.
 Text 6: "Kriv"
-Text 7: "Lorsque les chamans comprirent que les dieux n'accorderaient jamais un nouveau printemps à leur tribu sans un grand sacrifice, le sort tomba sur Kriv. Enchaîné à une pierre runique, il attendit la mort ; celle-ci lui apparut sous la forme d'une chouette blanche, mais ne lui prit que ses yeux, lui offrant en échange le don de voir à travers le temps. Kriv revint pour prédire avec précision l'arrivée de la saison chaude, s'imposant comme un chaman sans égal."
+Text 7: "Lorsque les Chamans comprirent que les dieux n'accorderaient jamais un nouveau printemps à leur tribu sans un grand sacrifice, le sort tomba sur Kriv. Enchaîné à une pierre runique, il attendit la mort ; celle-ci lui apparut sous la forme d'une chouette blanche, mais ne lui prit que ses yeux, lui offrant en échange le don de voir à travers le temps. Kriv revint pour prédire avec précision l'arrivée de la saison chaude, s'imposant comme un Chaman sans égal."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -2641,7 +2641,7 @@ Text 5: "{Anneau de Givre}
 
 Lance Anneau de Givre avec des dégâts augmentés de 10% tous les N niveau du Héros, où N est le rang de la créature ciblée."
 Text 6: "Glacius"
-Text 7: "Les étendues de Vori, recouvertes de neige depuis des années, semblent sans présence de vie ; ceux qui savent où chercher découvriront que les habitants désincarnés de ces terres font d'excellents interlocuteurs, voire des sources de pouvoir. Glacius a la réputation d'être le fléau des esprits : leurs enveloppes vides s'effritent en éclats de lumière magique, tandis qu'il dévore avidement leur énergie et la libère sur ses ennemis. "
+Text 7: "Les étendues de Vori, recouvertes de neige depuis des années, semblent sans vie ; ceux qui savent où chercher découvriront que les habitants désincarnés de ces terres font d'excellents interlocuteurs, voire des sources de pouvoir. Glacius a la réputation d'être le fléau des esprits : leurs enveloppes vides s'effritent en éclats de lumière magique, tandis qu'il dévore avidement leur énergie et la libère sur ses ennemis. "
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -2699,7 +2699,7 @@ Text 5: "{Bouclier}
 
 Lance Bouclier avec un effet augmenté de 10% tous les N niveau du Héros, où N est le rang de la créature ciblée."
 Text 6: "Dalton"
-Text 7: "Plain weapons can barely scratch a Jotunn, but believing these hulks neglect protection exposes a fool. Dalton is the most adept armorer capable of forging equipment of such immense size. Lean as Vori's ores are, Dalton has penetrated the secrets of magic to ensure his creations can withstand anything, an ice demon's fury included."
+Text 7: "Les armes ordinaires peinent à égratigner un Jotunn, mais croire que ces colosses négligent leur protection relève de la pure folie. Dalton est le forgeron le plus habile capable de forger un équipement d'une telle taille. Malgré la pauvreté de la Pierre de Vori, Dalton a percé les secrets de la magie pour s'assurer que ses créations puissent résister à tout, même à la fureur d'un démon de glace."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -2726,7 +2726,7 @@ Text 3: "Médecine"
 Text 4: "Secondary Skill Bonus: Médecine"
 Text 5: "{Médecine}
 
-Reçoit un bonus de 5% par niveau sur le bonus de santé fourni par la Tente de Médecine."
+Reçoit un bonus de 5% par niveau sur le bonus de santé fourni par le Dispensaire."
 Text 6: "Biarma"
 Text 7: " Tout le monde à Vori le sait : lorsque tous les remèdes ont échoué, le dernier et seul recours pour les malades est de consulter la vieille Biarma. Ceux qui osent la rencontrer ne se soucient plus des motivations de Biarma quant à savoir qui se verra accorder une nouvelle chance dans la vie et qui, au contraire, fera don de son crâne pour orner de manière sinistre la palissade de sa demeure isolée."
 Text 8: ""
@@ -2755,9 +2755,9 @@ Text 3: "Furie Sanguinaire"
 Text 4: "Spell Bonus: Furie Sanguinaire"
 Text 5: "{Furie Sanguinaire}
 
-Lance Furie Sanguinaire avec un effet augmenté de 10 pour les créatures de tier 1 et 2, de 8 pour les créatures de tier 3 et 4, de 6 pour les créatures de tier 5 et 6, et de 4 pour les créatures de tier 7."
+Lance Furie Sanguinaire avec un effet augmenté de 10 pour les créatures de rang 1 et 2, de 8 pour les créatures de rang 3 et 4, de 6 pour les créatures de rang 5 et 6, et de 4 pour les créatures de rang 7."
 Text 6: "Akka"
-Text 7: "La capacité des yétis à survivre dans le froid est souvent attribuée à leur peau épaisse et à leur fourrure dense. Cependant, leur résilience provient d'un pouvoir magique inné qui diffuse de la chaleur dans tout leur corps. Seuls quelques privilégiés peuvent le maîtriser consciemment, et Akka fait partie des plus doués. Son expertise provient de sa profonde compréhension de la fureur guerrière à laquelle ses membres de clan ont tendance à céder."
+Text 7: "La capacité des Yétis à survivre dans le froid est souvent attribuée à leur peau épaisse et à leur fourrure dense. Cependant, leur résilience provient d'un pouvoir magique inné qui diffuse de la chaleur dans tout leur corps. Seuls quelques privilégiés peuvent le maîtriser consciemment, et Akka fait partie des plus doués. Son expertise provient de sa profonde compréhension de la fureur guerrière à laquelle ses membres de clan ont tendance à céder."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -2844,7 +2844,7 @@ Text 5: "{Navigation}
 
 Reçoit un bonus de 5% par niveau au pourcentage de Navigation."
 Text 6: "Haugir"
-Text 7: "La mère de Haugir naviguait sur les mers, et un jour, elle revint d'un voyage vers des contrées lointaines avec un enfant dans son ventre. Le plus grand regret de son fils était que ses yeux n'avaient pas la teinte glacée des véritables géants du givre. Il jura donc de se procurer les cristaux les plus grands et les plus purs afin de se sculpter une nouvelle paire d'yeux. Jusqu'à présent, Haugir en a trouvé un qui convient, mais il cherche toujours le second qui lui ira parfaitement."
+Text 7: "La mère de Haugir naviguait sur les mers, et un jour, elle revint d'un voyage vers des contrées lointaines avec un enfant dans son ventre. Le plus grand regret de son fils était que ses yeux n'avaient pas la teinte glacée des véritables Jotunns. Il jura donc de se procurer les cristaux les plus grands et les plus purs afin de se sculpter une nouvelle paire d'yeux. Jusqu'à présent, Haugir en a trouvé un qui convient, mais il cherche toujours le second qui lui ira parfaitement."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -3116,8 +3116,8 @@ Unused
 Esprit des Ancêtres
 Entrepôt"
 Text 8: "Le Totem améliore le taux de change du marché.
-La mangeoire permet de recruter +1 Mammouth supplémentaire chaque semaine.
-La mangeoire permet de recruter +1 Mammouth de Guerre supplémentaire chaque semaine.
+La Mangeoire permet de recruter +1 Mammouth supplémentaire chaque semaine.
+La Mangeoire permet de recruter +1 Mammouth de Guerre supplémentaire chaque semaine.
 Le Chantier Naval vous permet d'acheter des bateaux.
 La Sieidi Runique permet aux héros visiteurs d'apprendre la compétence secondaire des Runes.
 L'Autel Runique améliore le niveau des Runes des unités du joueur de 1 au début du combat.
@@ -3125,7 +3125,7 @@ Unused
 Unused
 Unused
 Les Esprits des Ancêtres permettent de recruter 50% de créatures en plus chaque semaine, fournissent à votre royaume +5000 pièces d'Or supplémentaires par jour et augmentent la force de défense d'un héros de garnison de +20 lors de la défense contre un siège.
-Cette amélioration du Marché fournit des ressources supplémentaires : +1 unité de bois et de Pierre par jour."
+Cette amélioration du Marché fournit des ressources supplémentaires : +1 unité de Bois et de Pierre par jour."
 Has FilS: "true"
 FilS size: 252
 FilS: "05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 d0 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 d0 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 05 00 00 00 00 00 00 00 02 00 00 00 02 00 00 00 e8 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00 02 00 00 00 e8 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
@@ -4247,25 +4247,25 @@ Troupes à distance de rang %d
 #388
 Troupes mêlées de rang %d"
 #389
-Le gardien observe votre navire à travers une longue-vue, puis fait un signe de refus. Apparemment, personne ne l'a prévenu de votre arrivée, vous ne pourrez donc pas emprunter cette route. Vous devriez essayer de trouver la tente du maître des clés.
+Le gardien observe votre navire à travers une longue-vue, puis fait un signe de refus. Apparemment, personne ne l'a prévenu de votre arrivée, vous ne pourrez donc pas emprunter cette route. Vous devriez essayer de trouver la Tente du Maître des Clefs.
 #390
-Le gardien observe votre navire à travers une longue-vue, puis vous fait signe de passer. Apparemment, il a reçu des nouvelles du maître des clés et est désormais disposé à vous laisser passer. Souhaitez-vous suivre cette route ?
+Le gardien observe votre navire à travers une longue-vue, puis vous fait signe de passer. Apparemment, il a reçu des nouvelles du Maître des Clefs et est désormais disposé à vous laisser passer. Souhaitez-vous suivre cette route ?
 #391
 ""{Mine Abandonnée}
 
 Vous prenez le contrôle d'une mine d'or abandonnée. Elle vous rapportera %s par jour.""
 #392
-une unité de mercure
++1 unité de Mercure
 #393
-deux unités de pierre
++2 unités de Pierre
 #394
-une unité de souffre
++1 unité de Souffre
 #395
-une unité de cristal
++1 unité de Cristal
 #396
-une unité de gemmes
++1 unité de Gemmes
 #397
-1000 d'or
++1000 Pièces d'Or
 #398
 Jours restants:
 #399
@@ -4693,15 +4693,15 @@ Vous ne pouvez pas placer plus de 64 500 objets sur la carte.
 # 190
 Enregistrer les modifications apportées à %s ? La version de la carte sera mise à jour et il sera impossible de l'ouvrir dans les anciennes versions de l'éditeur de cartes d'HotA."
 # 191
-Creature 7b
+Créature 7b
 # 192
-Creature 7b Upgrade
+Créature 7b Amélioré
 # 193
-Aléatoire (300 à 500 d'or, ou 3 à 5 lutins ou kobolds)
+Aléatoire (300 à 500 Pièces d'Or, ou 3 à 5 Lutins ou Kobolds)
 # 194
 Créatures
 # 195
-Level 6 Creature Horde"
+Horde de créature de rang 6"
 Text 8: ""
 Has FilS: "false"
 Vals count: "4"
@@ -9845,7 +9845,7 @@ Réduit la pénalité de mouvement sur terrain Aride de 50% jusqu'à la fin de l
 144
 12
 ""Camp du Trappeur
-- 50% de chances de trouver 300-500 d'Or.
+- 50% de chances de trouver 300-500 Pièces d'Or.
 - 25% de chances de trouver 3-5 Lutins.
 - 25% de chances de trouver 3-5 Kobolds.""
 
@@ -10782,6 +10782,7 @@ GRENEXPL.wav
  
  
  
+
  
 "
 Has FilS: "false"
@@ -10910,8 +10911,8 @@ Vol. Peut passer son tour pour obtenir une Invulnérabilité Temporaire.
 Vol. Obtient une Invulnérabilité Temporaire sans passer son tour.
 Créature mécanique. Peut attaquer avec un Rayon d'Énergie au lieu de se déplacer.
 Créature mécanique. Peut attaquer avec un Rayon d'Énergie au lieu de se déplacer.
-Génère 1 pièce d'or chaque jour.
-Génère 1 pièce d'or chaque jour.
+Génère 1 Pièce d'Or chaque jour.
+Génère 1 Pièce d'Or chaque jour.
  
 Immunité contre la glace. Les ennemis adjacents subissent +20 % de dégâts magiques.
 Tirs. Pas de pénalités de mêlée.
@@ -11679,8 +11680,8 @@ On dit que certains Warlocks d'Archibald Ironfist sont devenus des Artificiers.
 # Bulwark rumors
 Les Jotunns sont les créatures les plus puissantes de la Muraille.
 Les Jotunns sont les créatures les plus puissantes de la Muraille.
-J'ai entendu dire que les habitants de la Muraille invoqueront les esprits ancestraux pour honorer celui qui leur apportera le Graal.
-J'ai entendu dire que les habitants de la Muraille invoqueront les esprits ancestraux pour honorer celui qui leur apportera le Graal.
+J'ai entendu dire que les habitants de la Muraille invoqueront les Esprits Ancestraux pour honorer celui qui leur apportera le Graal.
+J'ai entendu dire que les habitants de la Muraille invoqueront les Esprits Ancestraux pour honorer celui qui leur apportera le Graal.
 
 Les Kobolds sont des mineurs hors pair. Personne ne sait trouver l'or aussi bien qu'eux.
 Les Kobolds sont des mineurs hors pair. Personne ne sait trouver l'or aussi bien qu'eux.
@@ -11697,15 +11698,15 @@ Peu de créatures peuvent rivaliser avec les Mammouths en termes de résilience.
 On dit que les Jotunns sont passés maîtres dans l'art de la magie de téléportation.
 On dit que les Jotunns sont passés maîtres dans l'art de la magie de téléportation.
 
-On sait que la Muraille est le seul endroit où l'on peut maîtriser la connaissance des runes.
-On sait que la Muraille est le seul endroit où l'on peut maîtriser la connaissance des runes.
-On dit que les habitants de la Muraille sont particulièrement friands de foires.
-On dit que les habitants de la Muraille sont particulièrement friands de foires.
+On sait que la Muraille est le seul endroit où l'on peut maîtriser la connaissance des Runes.
+On sait que la Muraille est le seul endroit où l'on peut maîtriser la connaissance des Runes.
+On dit que les habitants de la Muraille sont particulièrement friands de feu de joie.
+On dit que les habitants de la Muraille sont particulièrement friands de feu de joie.
 
 La rumeur veut que l'île de Vori soit le berceau de tous les elfes.
 La rumeur veut que l'île de Vori soit le berceau de tous les elfes.
-Au plus profond des glaciers de Vori repose un puissant artefact.
-Au plus profond des glaciers de Vori repose un puissant artefact."
+Au plus profond des glaciers de Vori repose un puissant artéfact.
+Au plus profond des glaciers de Vori repose un puissant artéfact."
 Text 8: ""
 Has FilS: "false"
 Vals count: "4"
@@ -12917,7 +12918,7 @@ Text 4: "AVCbulE0.DEF"
 Text 5: "AVCbulX0.DEF"
 Text 6: "AVCbulZ0.def"
 Text 7: "BulwarkTown"
-Text 8: "La forge confère à votre armée la Tente de Médecine."
+Text 8: "La Forge confère à votre armée un Dispensaire."
 Has FilS: "true"
 FilS size: 352
 FilS: "00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 03 00 00 00 00 00 00 00 07 00 00 00 00 00 00 00 0f 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 80 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 20 00 00 00 00 00 00 00 21 48 01 00 00 00 00 00 a1 5b 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 40 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 4c 00 00 00 00 00 00 80 00 00 c0 08 00 00 00 80 00 00 c0 08 04 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 20 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 80 00 00 40 00 00 00 00 80 00 00 c0 00 00 00 00 80 00 00 c0 01 00 00 00 81 00 00 c0 01 00 00 00 80 00 00 c0 01 00 00 00 81 00 00 c0 05 00 00 00 80 00 00 40 00 00 00 00 80 00 00 c0 00 00 00 00 80 00 00 c0 01 00 00 00 80 00 20 c0 03 00 00 00 81 00 00 c0 05 00 00 00 80 00 00 c0 09 00 00 00 81 00 20 c0 15 00 00 00"
@@ -22483,9 +22484,9 @@ Niveau de rune %d (+%d Attaque +%d Défense, +%d Vitesse)
 # 12
 [remplacé]
 # 13
-%s \E8 %s atteignent un nouveau niveau de rune
+%s et %s atteignent un nouveau niveau de rune
 # 14
-Les unités atteignent un nouveau niveau de rune
+Les créatures atteignent un nouveau niveau de rune
 # 15
 L'Autel des Runes confère aux unités un niveau de rune initial."
 Text 8: ""
