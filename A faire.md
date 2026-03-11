@@ -201,17 +201,6 @@
 
 ## HotA_lng.lod
 ### Traduire
-<<<<<<< hota.txt
-* artraits.txt
-* CAMPBTTN.TXT
-* CREDITS.TXT
-* EDITRCMD.TXT
-* GENRLTXT.TXT
-* HCTRAITS.TXT
-* SeerHut.txt
-* SPTRAITS.TXT
-* SSTRAITS.TXT
-=======
 * ~~CAMPBTTN.TXT~~
 * ~~artraits.txt~~
 * ~~CREDITS.TXT~~
@@ -294,41 +283,40 @@
 * ~~xtrainfo.txt~~
 
 ## h3c (campagne)
-* H1Roger.h3c
-	* Mission 1
-	* Mission 2
-	* Mission 3
-* H2Terror.h3c
-	* Mission 1
-	* Mission 2
-	* mission 3
-  	* mission 4
-  	* mission 5
-  	* mission 6
-* H3Horn.h3c
-	* Mission 1
-	* Mission 2
-	* mission 3
-  	* mission 4
-* H4Fact.h3c
-	* Mission 1
-	* Mission 2
-	* mission 3
-  	* mission 4
-  	* mission 5
-  	* mission 6
-  	* mission 7
-  	* mission 8
-* H5AllIn.h3c
-	* Mission 1
-	* Mission 2
-	* mission 3
-    * mission 4
-    * mission 5
+* ~~H1Roger.h3c~~
+	* ~~Mission 1~~
+	* ~~Mission 2~~
+	* ~~Mission 3~~
+* ~~H2Terror.h3c~~
+	* ~~Mission 1~~
+	* ~~Mission 2~~
+	* ~~mission 3~~
+  	* ~~mission 4~~
+  	* ~~mission 5~~
+  	* ~~mission 6~~
+* ~~H3Horn.h3c~~
+	* ~~Mission 1~~
+	* ~~Mission 2~~
+	* ~~mission 3~~
+  	* ~~mission 4~~
+* ~~H4Fact.h3c~~
+	* ~~Mission 1~~
+	* ~~Mission 2~~
+	* ~~mission 3~~
+  	* ~~mission 4~~
+  	* ~~mission 5~~
+  	* ~~mission 6~~
+  	* ~~mission 7~~
+  	* ~~mission 8~~
+* ~~H5AllIn.h3c~~
+	* ~~Mission 1~~
+	* ~~Mission 2~~
+	* ~~mission 3~~
+    * ~~mission 4~~
+    * ~~mission 5~~
 
 ## Hota.dat
 * HotA.txt
 
 # Bonus
 * Revoir le fichier `CREDITS.TXT` et faire la traduction.
->>>>>>> main
