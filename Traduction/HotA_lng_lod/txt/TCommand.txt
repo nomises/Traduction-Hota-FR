@@ -1,17 +1,17 @@
-SÃ©parer l'armÃ©e %s
-Vous ne pouvez combiner la derniÃ¨re armÃ©e de votre hÃ©ros
-Combiner les armÃ©es %s
-SÃ©parer l'armÃ©e
+Séparer l'armée %s
+Vous ne pouvez combiner la dernière armée de votre héros
+Combiner les armées %s
+Séparer l'armée
 Voir %s
-Vous ne pouvez dÃ©placer votre derniÃ¨re armÃ©e dans la garnison
-DÃ©placer %s
-Ã‰changer %s avec %s
+Vous ne pouvez déplacer votre dernière armée dans la garnison
+Déplacer %s
+Échanger %s avec %s
 Quitter la ville
-Vous ne pouvez dÃ©placer des hÃ©ros alliÃ©s dans la garnison.
+Vous ne pouvez déplacer des héros alliés dans la garnison.
 Vue d'ensemble du Royaume
 Vide
-SÃ©lectionner %s (en garnison)
-HÃ©ros
+Sélectionner %s (en garnison)
+Héros
 Guilde des Mages
 Guilde des Voleurs
 Taverne
@@ -21,16 +21,16 @@ Forge
 Village
 Recruter %s
 Ville
-CitÃ©
+Cité
 Capitale
 
-MarchÃ©
-EntrepÃ´t
+Marché
+Entrepôt
 Fort
 Citadelle
-Avant d'invoquer des crÃ©atures provenant d'une demeure autonome, elle doit Ãªtre contrÃ´lÃ©e.
-AchetÃ© : %s
-SÃ©lectionner %s (en visite)
-SÃ©lectionner %s (crÃ©atures)
-SÃ©lectionner %s (armÃ©e du HÃ©ros)
+Avant d'invoquer des créatures provenant d'une demeure autonome, elle doit être contrôlée.
+Acheté : %s
+Sélectionner %s (en visite)
+Sélectionner %s (créatures)
+Sélectionner %s (armée du Héros)
 %s (impossible de supprimer)

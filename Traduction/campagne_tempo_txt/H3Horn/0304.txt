@@ -2,7 +2,7 @@
 Tout le monde sur le pont !
 
 ===== Map description =====
-Bidley et ses amis doivent vaincre tous les ennemis qui se disputent la Corne. Bidley ne doit pas tomber. Pas de limite de niveau pour les hÃ©ros.
+Bidley et ses amis doivent vaincre tous les ennemis qui se disputent la Corne. Bidley ne doit pas tomber. Pas de limite de niveau pour les héros.
 
 ===== Rumors =====
 
@@ -11,17 +11,17 @@ Bidley et ses amis doivent vaincre tous les ennemis qui se disputent la Corne. B
 Name:
 1-1
 Message:
-Bidley et Jeremy furent privÃ©s de leur vengeance. Casmetra, vaincue, abandonna tout et sauta dans un portail ; celui-ci s'effondra aussitÃ´t. La sorciÃ¨re ne fut plus jamais revue Ã  Regna. Bidley prit la Corne, mais il ne dÃ©couvrit jamais ce que Casmetra cherchait Ã  accomplir avec. 		AprÃ¨s une semaine infructueuse Ã  la recherche de la sorciÃ¨re, ils abandonnÃ¨rent ; de fait, Bidley Ã©tait dÃ©sormais le Roi des Pirates. 		Ã€ cette Ã©poque, Regna n'Ã©tait plus un Ã©tat reconnu, bien qu'on l'appelait encore parfois "l'Empire de l'OcÃ©an Infini". Le fait est qu'aprÃ¨s la disparition du vieux Hareck IX, son hÃ©ritier ne se prÃ©senta jamais. Une lutte de pouvoir sensuivit entre les pirates. Dans la tourmente qui s'ensuivit, plusieurs capitaines s'Ã©taient montrÃ©s suffisamment forts pour prendre le contrÃ´le de vastes territoires, mais une fois qu'ils pÃ©rirent ou perdirent leur avantage, le chaos reprit. 		Ici et maintenant, Bidley Ã©tait le Roi, et ce mot signifiait non seulement terreur et rÃ©vÃ©rence, mais aussi, Ã©normÃ©ment de haine. PossÃ©dant un puissant artefact ancien, il pouvait se permettre d'ignorer ses anciens pairs, de simples marinsÂ ; car la peur de l'inconnu Ã©tait sa seule source de prÃ©occupation. 		Le vÃ©ritable danger qui planait se trouvait au-delÃ  des mers.
+Bidley et Jeremy furent privés de leur vengeance. Casmetra, vaincue, abandonna tout et sauta dans un portail ; celui-ci s'effondra aussitôt. La sorcière ne fut plus jamais revue à Regna. Bidley prit la Corne, mais il ne découvrit jamais ce que Casmetra cherchait à accomplir avec. 		Après une semaine infructueuse à la recherche de la sorcière, ils abandonnèrent ; de fait, Bidley était désormais le Roi des Pirates. 		À cette époque, Regna n'était plus un état reconnu, bien qu'on l'appelait encore parfois "l'Empire de l'Océan Infini". Le fait est qu'après la disparition du vieux Hareck IX, son héritier ne se présenta jamais. Une lutte de pouvoir sensuivit entre les pirates. Dans la tourmente qui s'ensuivit, plusieurs capitaines s'étaient montrés suffisamment forts pour prendre le contrôle de vastes territoires, mais une fois qu'ils périrent ou perdirent leur avantage, le chaos reprit. 		Ici et maintenant, Bidley était le Roi, et ce mot signifiait non seulement terreur et révérence, mais aussi, énormément de haine. Possédant un puissant artefact ancien, il pouvait se permettre d'ignorer ses anciens pairs, de simples marins ; car la peur de l'inconnu était sa seule source de préoccupation. 		Le véritable danger qui planait se trouvait au-delà des mers.
 
 Name:
 1-2
 Message:
-C'Ã©tait une journÃ©e sans nuages ; Bidley et son Ã©quipage Ã©taient dans une forteresse cÃ´tiÃ¨re. La Corne des Abysses Ã©tait habituellement accrochÃ©e Ã  la ceinture du Roi PirateÂ ; il ne s'en sÃ©parait jamais. Soudainement, un marin accourut. Visiblement effrayÃ©, il tenait un parchemin.	"Cap'taine, cap'taineÂ ! Je le jure par tous les diables des mersÂ ! C'Ã©tait un gÃ©nieÂ ! Un gÃ©nie est apparu et m'a dit de vous remettre ceciÂ !Â " Confus, Bidley prit le parchemin et le dÃ©plia. 	On pouvait y lireÂ : "Je vous salue, Bidley Roberts, le nouveau Roi PirateÂ ! 		Je suis Solmyr, un modeste serviteur de Gavin Magnus, le Roi Immortel de Bracada. Mon seigneur est inquiet d'apprendre que vous Ãªtes dÃ©sormais en possession de l'artefact lÃ©gendaire, la Corne des Abysses." Nous estimons que cet objet doit Ãªtre conservÃ© ici, Ã  Bracada, sous la surveillance Ã©troite des archimages les plus puissants. Vous n'Ãªtes pas un homme de scienceÂ ; vous Ãªtes plutÃ´t un bandit et un voleur. Votre utilisation de l'artefact sera sans aucun doute mal intentionnÃ©eÂ : pour acquÃ©rir pouvoir et richesses, bien sÃ»r. Nous, les mages de Bracada, ne pouvons rester les bras croisÃ©s et regarder la Corne des Abysses tomber entre les mains d'un rÃ©prouvÃ© comme vous.		Par consÃ©quent, je vous informe que nous sommes sur le point d'envoyer une force expÃ©ditionnaire armÃ©e, sous ma direction personnelle. Je ne vous demanderai pas de cÃ©der l'artefact de plein grÃ©, sachant que vous refuserez de toute faÃ§on. Je vous informe Ã©galement que les Seigneurs Ã‰lÃ©mentaires sont disposÃ©s Ã  soutenir mon seigneur. Ils sont tout aussi alarmÃ©s par la situation, et le Seigneur de l'Eau est furieux de votre destruction de la forteresse de Coralgate.     		Au Roi Pirate, de la part de Solmyr, gÃ©nie de Bracada." 		"Regardez le gÃ©nie de ce gÃ©nie, acquiesÃ§a Bidley. Bien sÃ»r que je ne cederai pas la Corne des Abysses. Il peut bien venir la chercher.
+C'était une journée sans nuages ; Bidley et son équipage étaient dans une forteresse côtière. La Corne des Abysses était habituellement accrochée à la ceinture du Roi Pirate ; il ne s'en séparait jamais. Soudainement, un marin accourut. Visiblement effrayé, il tenait un parchemin.	"Cap'taine, cap'taine ! Je le jure par tous les diables des mers ! C'était un génie ! Un génie est apparu et m'a dit de vous remettre ceci ! " Confus, Bidley prit le parchemin et le déplia. 	On pouvait y lire : "Je vous salue, Bidley Roberts, le nouveau Roi Pirate ! 		Je suis Solmyr, un modeste serviteur de Gavin Magnus, le Roi Immortel de Bracada. Mon seigneur est inquiet d'apprendre que vous êtes désormais en possession de l'artefact légendaire, la Corne des Abysses." Nous estimons que cet objet doit être conservé ici, à Bracada, sous la surveillance étroite des archimages les plus puissants. Vous n'êtes pas un homme de science ; vous êtes plutôt un bandit et un voleur. Votre utilisation de l'artefact sera sans aucun doute mal intentionnée : pour acquérir pouvoir et richesses, bien sûr. Nous, les mages de Bracada, ne pouvons rester les bras croisés et regarder la Corne des Abysses tomber entre les mains d'un réprouvé comme vous.		Par conséquent, je vous informe que nous sommes sur le point d'envoyer une force expéditionnaire armée, sous ma direction personnelle. Je ne vous demanderai pas de céder l'artefact de plein gré, sachant que vous refuserez de toute façon. Je vous informe également que les Seigneurs Élémentaires sont disposés à soutenir mon seigneur. Ils sont tout aussi alarmés par la situation, et le Seigneur de l'Eau est furieux de votre destruction de la forteresse de Coralgate.     		Au Roi Pirate, de la part de Solmyr, génie de Bracada." 		"Regardez le génie de ce génie, acquiesça Bidley. Bien sûr que je ne cederai pas la Corne des Abysses. Il peut bien venir la chercher.
 
 Name:
 1-3
 Message:
-Lorsqu'il devint clair que les mages se prÃ©paraient Ã  frapper, Bidley rassembla ses hommes, ainsi que Jeremy et Tark. "Ce satanÃ© Xanthor ! " jura le Roi Pirate en scrutant l'horizon Ã  travers sa longue-vue. "Xanthor ? " demanda Tark, surpris. "Le sorcier que j'ai fait sortir de prison. C'est lui qui m'a parlÃ© de la Corne des Abysses, en guise de "gratitude" pour sa libertÃ©." "Et maintenant, d'autres sorciers veulent se faire dÃ©capiter pour la mÃªme Corne", sourit Jeremy. "Le destin peut Ãªtre aussi douÃ© en humour que moi." 		"Et ces Seigneurs Ã‰lÃ©mentaires n'arrÃªtent pas de se mettre en travers de notre chemin", ajouta Bidley en Ã©loignant la longue-vue de son Å“il. 	"Au moins, les Ã‰rathiens sont occupÃ©s avec les Kreegans et ne viendront pas se joindre Ã  la fÃªte", conclut Jeremy. 		"Bon, les gars", le Roi Pirate se tourna vers ses amis. "Il est temps de se prÃ©parer pour une grande guerre. On dirait que Bracada a dÃ©cidÃ© de nous attaquer avec toutes ses forces. Nous n'avons jamais affrontÃ© d'ennemi aussi puissant, mais les renforts de Regna devraient arriver bientÃ´t."
+Lorsqu'il devint clair que les mages se préparaient à frapper, Bidley rassembla ses hommes, ainsi que Jeremy et Tark. "Ce satané Xanthor ! " jura le Roi Pirate en scrutant l'horizon à travers sa longue-vue. "Xanthor ? " demanda Tark, surpris. "Le sorcier que j'ai fait sortir de prison. C'est lui qui m'a parlé de la Corne des Abysses, en guise de "gratitude" pour sa liberté." "Et maintenant, d'autres sorciers veulent se faire décapiter pour la même Corne", sourit Jeremy. "Le destin peut être aussi doué en humour que moi." 		"Et ces Seigneurs Élémentaires n'arrêtent pas de se mettre en travers de notre chemin", ajouta Bidley en éloignant la longue-vue de son œil. 	"Au moins, les Érathiens sont occupés avec les Kreegans et ne viendront pas se joindre à la fête", conclut Jeremy. 		"Bon, les gars", le Roi Pirate se tourna vers ses amis. "Il est temps de se préparer pour une grande guerre. On dirait que Bracada a décidé de nous attaquer avec toutes ses forces. Nous n'avons jamais affronté d'ennemi aussi puissant, mais les renforts de Regna devraient arriver bientôt."
 
 Name:
 WhoRunBartertown
@@ -31,27 +31,27 @@ WhoRunBartertown
 Name:
 2
 Message:
-Des nouvelles troublantes viennent d'arriver. 	"Cher frÃ¨re, tu te souviens sÃ»rement de Dargem", dit Jeremy. 	"Ce ratÃ© qui m'a fait prisonnier ? Il est vivant ? "	"Il l'est. On dirait qu'il a rassemblÃ© une armÃ©e de mercenaires et de capitaines qui te dÃ©testent. Pour faire court, les renforts que nous attendions de Regna sont maintenant avec lui." 	"Quel retournement de situation", rÃ©pondit Bidley froidement. "Mais il y a plus, non ? " "Oui", dit Jeremy en secouant la tÃªte. "Pour couronner le tout, Dargem a aussi amenÃ© d'autres amateurs d'artefacts raresâ€¦ des DÃ©monistes de Nighon, bien sÃ»r. Il semble qu'il leur ait promis la Corne, alors que lui-mÃªme ne cherche qu'Ã  se venger. Quoiqueâ€¦ personne ne sait vraiment ce qu'il veut." 	"Tant de gens s'inquiÃ¨tent pour une seule Corne ! " s'esclaffa le Roi Pirate. "Je me demande comment ils comptent la partager une fois qu'ils en auront fini avec moi." 	"Je parie qu'ils vont s'entretuer", le jeune frÃ¨re leva les mains, consternÃ©. 	"J'espÃ¨re vraiment qu'ils s'en occuperont plus tÃ´t, afin que nous puissions nous faufiler et leur trancher la gorge", dit Bidley d'un ton sombre, brandissant son coutelas.
+Des nouvelles troublantes viennent d'arriver. 	"Cher frère, tu te souviens sûrement de Dargem", dit Jeremy. 	"Ce raté qui m'a fait prisonnier ? Il est vivant ? "	"Il l'est. On dirait qu'il a rassemblé une armée de mercenaires et de capitaines qui te détestent. Pour faire court, les renforts que nous attendions de Regna sont maintenant avec lui." 	"Quel retournement de situation", répondit Bidley froidement. "Mais il y a plus, non ? " "Oui", dit Jeremy en secouant la tête. "Pour couronner le tout, Dargem a aussi amené d'autres amateurs d'artefacts rares… des Démonistes de Nighon, bien sûr. Il semble qu'il leur ait promis la Corne, alors que lui-même ne cherche qu'à se venger. Quoique… personne ne sait vraiment ce qu'il veut." 	"Tant de gens s'inquiètent pour une seule Corne ! " s'esclaffa le Roi Pirate. "Je me demande comment ils comptent la partager une fois qu'ils en auront fini avec moi." 	"Je parie qu'ils vont s'entretuer", le jeune frère leva les mains, consterné. 	"J'espère vraiment qu'ils s'en occuperont plus tôt, afin que nous puissions nous faufiler et leur trancher la gorge", dit Bidley d'un ton sombre, brandissant son coutelas.
 
 Name:
 5
 Message:
-Il semble que les Seigneurs Ã‰lÃ©mentaires aient invoquÃ© leurs forteresses quelque part au nord. Cependant, le Seigneur de la Terre a rencontrÃ© quelques difficultÃ©s. Son armÃ©e est probablement apparue sous terre et s'est retrouvÃ©e aux mains des DÃ©monistes Nighon, qui ne s'attendaient pas du tout Ã  une telle rencontre.
+Il semble que les Seigneurs Élémentaires aient invoqué leurs forteresses quelque part au nord. Cependant, le Seigneur de la Terre a rencontré quelques difficultés. Son armée est probablement apparue sous terre et s'est retrouvée aux mains des Démonistes Nighon, qui ne s'attendaient pas du tout à une telle rencontre.
 
 Name:
 8
 Message:
-L'armÃ©e ennemie se renforce de jour en jour. Tark pense qu'il serait judicieux de monter les groupes ennemis les uns contre les autres et de profiter de leur affaiblissement. Jeremy estime qu'une meilleure option serait de lancer une frappe soudaine sur les positions tenues par les renÃ©gats et les mercenaires pour s'emparer de leurs armes et de leurs ressources.
+L'armée ennemie se renforce de jour en jour. Tark pense qu'il serait judicieux de monter les groupes ennemis les uns contre les autres et de profiter de leur affaiblissement. Jeremy estime qu'une meilleure option serait de lancer une frappe soudaine sur les positions tenues par les renégats et les mercenaires pour s'emparer de leurs armes et de leurs ressources.
 
 Name:
 14
 Message:
-Il reste encore Ã  Regna des gens qui ont rÃ©sistÃ© aux offres de Dargem et Ã  qui l'on peut faire confiance. Des capitaines fidÃ¨les ont promis de vous envoyer un navire chargÃ© de ravitaillement.
+Il reste encore à Regna des gens qui ont résisté aux offres de Dargem et à qui l'on peut faire confiance. Des capitaines fidèles ont promis de vous envoyer un navire chargé de ravitaillement.
 
 Name:
 Supplies
 Message:
-Le navire chargÃ© de provisions est arrivÃ©. La prochaine livraison est attendue dans un mois.
+Le navire chargé de provisions est arrivé. La prochaine livraison est attendue dans un mois.
 
 ===== Heroes =====
 
@@ -124,7 +124,7 @@ Message:
 
 (40, 9, 0) ***Sign***
 Message:
-Salute Ã  nos confrÃ¨res pirates !
+Salute à nos confrères pirates !
 
 (91, 113, 0) ***Tower***
 
@@ -162,7 +162,7 @@ Message:
 
 (76, 49, 0) ***Event***
 Message:
-Bidley frotta Ã  nouveau la Corne avec sa manche, mÃªme si l'artefact Ã©tait impeccable. C'Ã©tait donc l'objet les gens convoitaient tant. Depuis qu'il avait dÃ©couvert les capacitÃ©s de la Corne, sa confiance en lui Ã©tait au plus haut. Pourtant, l'idÃ©e que d'effrayants esprits marins obÃ©issent Ã  ses ordres le faisait frissonner de temps en temps.
+Bidley frotta à nouveau la Corne avec sa manche, même si l'artefact était impeccable. C'était donc l'objet les gens convoitaient tant. Depuis qu'il avait découvert les capacités de la Corne, sa confiance en lui était au plus haut. Pourtant, l'idée que d'effrayants esprits marins obéissent à ses ordres le faisait frissonner de temps en temps.
 
 (138, 5, 0) ***Conflux***
 
@@ -175,7 +175,7 @@ Message:
 
 (126, 14, 0) ***Sign***
 Message:
-Attention ! Ã‰boulement !
+Attention ! Éboulement !
 
 (57, 6, 0) ***Conflux***
 
@@ -197,7 +197,7 @@ Message:
 
 (76, 140, 0) ***Sign***
 Message:
-VallÃ©e des DamnÃ©s
+Vallée des Damnés
 
 (45, 75, 1) ***Dungeon***
 
@@ -219,7 +219,7 @@ Message:
 
 (126, 55, 1) ***Sign***
 Message:
-Quartier pÃ©nitentiaire
+Quartier pénitentiaire
 
 (129, 54, 1) ***Overlord***
 Name:
@@ -227,11 +227,11 @@ Guardien
 
 (128, 54, 1) ***Event***
 Message:
-Les habitants de Nighon semblent garder ici les gÃ©nÃ©raux ennemis malchanceux.
+Les habitants de Nighon semblent garder ici les généraux ennemis malchanceux.
 
 (130, 53, 1) ***Event***
 Message:
-"Sors d'ici, Ã  moins que tu ne veuilles rejoindre ceux qui sont dans mes cages ! "
+"Sors d'ici, à moins que tu ne veuilles rejoindre ceux qui sont dans mes cages ! "
 
 (111, 42, 1) ***Dungeon***
 
@@ -253,10 +253,11 @@ Message:
 
 (73, 58, 1) ***Sign***
 Message:
-Cachette secrÃ¨te
+Cachette secrète
 
 (16, 125, 1) ***Pandora's Box***
 Message:
 
 
+===== Extended Events =====
 ===== End of file =====

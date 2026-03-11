@@ -2,19 +2,19 @@ Rien
 	
 Autel du Sacrifice	
 Point d'Ancrage	
-ArÃ¨ne	
-ArtÃ©fact	
-BoÃ®te de Pandore	
-MarchÃ© Noir	
+Arène	
+Artéfact	
+Boîte de Pandore	
+Marché Noir	
 Bateau	
-Poste FrontiÃ¨re
-Tente du MaÃ®tre des Clefs	
-BouÃ©e	
+Poste Frontière
+Tente du Maître des Clefs	
+Bouée	
 Feu de Camp	
 Cartographe	
 Lac des Cygnes	
-Voile des TÃ©nÃ¨bres	
-Banque de CrÃ©atures
+Voile des Ténèbres	
+Banque de Créatures
 Demeure 1
 Demeure 2
 Demeure 3
@@ -22,110 +22,110 @@ Demeure 4
 Terre Maudite
 Squelette
 Tour de Marletto
-Bateau AbandonnÃ©
-Terres DÃ©solÃ©es
-Ã‰vÃ©nement
+Bateau Abandonné
+Terres Désolées
+Événement
 Oeil du Magicien
-Cercle des FÃ©es
-DÃ©bris
-Fontaine des EspÃ©rances
+Cercle des Fées
+Débris
+Fontaine des Espérances
 Fontaine de Jouvence
-Jardin de RÃ©vÃ©lation
+Jardin de Révélation
 Garnison
-HÃ©ros
+Héros
 Fort des Braves
 Graal
 Hutte du Magicien
 Totem de Chance
 Cache
-
-BibliothÃ¨que d'Illumination
+	
+Bibliothèque d'Illumination
 Phare
-Portail Magique (EntrÃ©e)
+Portail Magique (Entrée)
 Portail Magique (Sortie)
 Portail Magique
 Plaines Magiques
 Conservatoire de Magie
-Source EnchantÃ©e
-Puits EnchantÃ©
-MarchÃ© du Temps
+Source Enchantée
+Puits Enchanté
+Marché du Temps
 Camp de Mercenaires
-SirÃ¨ne
+Sirène
 Mine
 Monstre
 Jardin Mystique
 Oasis
-ObÃ©lisque
+Obélisque
 Arbre Observatoire
-Bouteille Ã  la mer
+Bouteille à la mer
 Pilier de Feu
 Roue de Puissance
 Prison
 Pyramide
 Drapeau de Ralliement
-ArtÃ©fact alÃ©atoire
-ArtÃ©fact alÃ©atoire Niv.1
-ArtÃ©fact alÃ©atoire Niv.2
-ArtÃ©fact alÃ©atoire Niv.3
-ArtÃ©fact alÃ©atoire Niv.4
-HÃ©ros AlÃ©atoire
-Monstre AlÃ©atoire
-Monstre AlÃ©atoire 1
-Monstre AlÃ©atoire 2
-Monstre AlÃ©atoire 3
-Monstre AlÃ©atoire 4
-Ressource AlÃ©atoire
-Ville AlÃ©atoire
-Camp de RÃ©fugiÃ©s
+Artéfact aléatoire
+Artéfact aléatoire Niv.1
+Artéfact aléatoire Niv.2
+Artéfact aléatoire Niv.3
+Artéfact aléatoire Niv.4
+Héros Aléatoire
+Monstre Aléatoire
+Monstre Aléatoire 1
+Monstre Aléatoire 2
+Monstre Aléatoire 3
+Monstre Aléatoire 4
+Ressource Aléatoire
+Ville Aléatoire
+Camp de Réfugiés
 Ressource
 Sanctuaire
-Ã‰rudit
+Érudit
 Coffre
 Hutte du Voyant
 Crypte
-Ã‰pave
-NaufragÃ©
+Épave
+Naufragé
 Chantier Naval
 Autel d'Incantation Magique
 Autel de Gestuelle Magique
-Autel de PensÃ©e Magique
+Autel de Pensée Magique
 Panneau
-SirÃ¨nes
+Sirènes
 Rouleau
-Ã‰curies
+Écuries
 Taverne
 Temple
 Repaire de Voleurs
 Ville
 Comptoir Commercial
-ObÃ©lisque de Connaissance
-Coffre au TrÃ©sor
+Obélisque de Connaissance
+Coffre au Trésor
 Arbre de la Connaissance
 Portail Souterrain
-UniversitÃ©
+Université
 Chariot
 Manufacture d'Armes
-AcadÃ©mie Militaire
+Académie Militaire
 Tombe du Guerrier
-Moulin Ã  Eau
+Moulin à Eau
 Abreuvoir
 Tourbillon
-Moulin Ã  Vent
-Cabane de la SorciÃ¨re
+Moulin à Vent
+Cabane de la Sorcière
 Broussaille
 Buisson
 Cactus
 Canyon
-CratÃ¨re
-VÃ©gÃ©tation Morte
+Cratère
+Végétation Morte
 Fleurs
-Lac GelÃ©
+Lac Gelé
 Haie
 Colline
 Trou
 Varech
 Lac
-CoulÃ©e de Lave
+Coulée de Lave
 Lac de Lave	
 Champignons	
 Tronc
@@ -133,7 +133,7 @@ Mandragore
 Mousse	
 Monticule	
 Montagne	
-ChÃªnes	
+Chênes	
 Affleurement	
 Pins	
 Plante	
@@ -141,7 +141,7 @@ Plante
 	
 	
 	
-Delta de RiviÃ¨re	
+Delta de Rivière	
 	
 	
 	
@@ -149,7 +149,7 @@ Rocher
 Dune	
 Fosse de Sable	
 Arbuste
-CrÃ¢ne	
+Crâne	
 Stalagmite	
 Souche
 Fosse de Goudron
@@ -159,24 +159,24 @@ Conduit Volcanique
 Volcan	
 Saules	
 Yucca
-RÃ©cif
-Monstre AlÃ©atoire 5
-Monstre AlÃ©atoire 6
-Monstre AlÃ©atoire 7
+Récif
+Monstre Aléatoire 5
+Monstre Aléatoire 6
+Monstre Aléatoire 7
 Broussaille
 Buisson
 Cactus
 Canyon
-CratÃ¨re
-VÃ©gÃ©tation Morte
+Cratère
+Végétation Morte
 Fleurs
-Lac GelÃ©
+Lac Gelé
 Haie
 Colline
 Trou
 Varech
 Lac
-CoulÃ©e de Lave
+Coulée de Lave
 Lac de Lave
 Champignons
 Rondin
@@ -184,16 +184,16 @@ Mandragore
 Mousse
 Monticule
 Montagne
-ChÃªnes
+Chênes
 Affleurement
 Pins
 Plante
-Delta de RiviÃ¨re
+Delta de Rivière
 Roche
 Dune de Sable
 Trou
 Arbuste
-CrÃ¢ne
+Crâne
 Stalagmite
 Souche
 Fosse de Goudron
@@ -203,30 +203,30 @@ Conduit Volcanique
 Volcan
 Saule
 Yucca
-RÃ©cif
-Colline du DÃ©sert
+Récif
+Colline du Désert
 Colline de Terre
 Colline Verte
 Colline Rocheuse
 Roche Souterraine
 Feuillage des Marais
-Poste FrontiÃ¨re
-MarchÃ© aux Esclaves
-HÃ©ros Crossover
-Gardien de QuÃªte
-Demeure AlÃ©atoire
-
-
+Poste Frontière
+Marché aux Esclaves
+Héros Crossover
+Gardien de Quête
+Demeure Aléatoire
+	
+	
 Garnison
 Mine
 Comptoir Commercial
-Champ de TrÃ¨fles
+Champ de Trèfles
 Terre Maudite
-Brouillard MalÃ©fique
+Brouillard Maléfique
 Vents Favorables
 Champ Ardent
-Terre SacrÃ©e
+Terre Sacrée
 Mare Claire
-NuÃ©es Magiques
+Nuées Magiques
 Plaines Magiques
 Terre Rocheuse

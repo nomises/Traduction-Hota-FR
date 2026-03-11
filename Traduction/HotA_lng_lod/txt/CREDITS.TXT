@@ -1,8 +1,8 @@
 Credits
-"{Traducteur VF :} Hakas, Nomises, Aragox, Netheril, Steven, WinnymaruBaba
-{VF Campagnes :} Hakas, Turtle, Elrond Requin
-{VF Cartes HotA :} Hakas, lyff, 
-{VF Graphismes :} Hakas
+"{Traducteur VF :} Hakas, Nomises, WinnymaruBaba, Kazuo, Toukette
+{Campagnes VF :} Hakas, Nomises, WinnymaruBaba, Turtle, Elrond Requin
+{Cartes HotA VF :} Hakas, lyff
+{Graphismes VF :} Hakas
 
 "{In memory of Docent Picolan}
 {HotA project founder,}
@@ -19,7 +19,7 @@ Credits
 2D/3D artist,
 Cove graphics
 {Balkron}
-2D/3D artist
+2D/3D artist, PR
 {baratorch}
 code, map editor, lobby,
 simultaneous turns,
@@ -29,8 +29,8 @@ code, hosting
 {deferatto}
 2D/3D artist,
 scenarios, tester
-{diavolschina}
-concept artist
+{devoider17}
+code
 {Dmitriy Gravchenko}
 3D artist,
 Factory creatures
@@ -59,7 +59,7 @@ translator, editor
 {Heetch}
 music, mastering,
 sound design
-{Игорь Кудра}
+{????? ?????}
 lead tester,
 task organizer
 {IQUARE}
@@ -75,13 +75,15 @@ concept artist
 cutscenes
 {Mantiss}
 tester, writer, PR
+{Marius}
+concept artist
 {Morn}
 hero portraits
 {Mugais}
 story, scenarios,
 writer
 {nosferatu}
-2D artist
+2D artist, PR
 {nik312}
 balance, translator,
 tester, PR
@@ -105,17 +107,15 @@ campaign scenarios
 tester, hosting
 {Starseeker}
 editor, translator,
-writer
+writer, balance, PR
 {tarren}
-code, video editing
+code, video editing, PR
 {Tevye}
 lead editor,
 translator,
 story, writer, PR
 {Vade Parvis}
-2D artist, ideas, PR
-{void_17}
-code
+2D artist, ideas
 {weakref}
 code, writer
 {Wic}
@@ -134,16 +134,11 @@ and its Administration
 for website design
 {LivingAnarchy}
 for Facebook group handling,
-tournament and testing (2019)
+tournament and testing
 organization
 {CzileraInzyniera}
-for testing (2023, 2024)
-organization
-{Xocenk}
-for testing (2023)
-organization
-{maugli}
-for testing (2024)
+{Xocenk}, {maugli}
+for testing
 organization
 {WiZarDX_576} and {igrik}
 for code-related help
@@ -152,7 +147,7 @@ for help with
 video playback support
 {SaintDark}
 for launcher-related help
-{Sar} и {d0s}
+{Sar} ? {d0s}
 for help in shaping
 the Cove concept
 {sergroj}
@@ -164,7 +159,7 @@ for text editing
 for hosting
 {olexn}
 for installer-related help
-{Станислав Гординский}
+{????????? ??????????}
 for translations
 {Nestor}
 for testing
@@ -179,62 +174,55 @@ for sounds
 for 3D cutscenes
 {SoVa}
 for 2D/3D art and writing
-{Алексей Палько},
-{Виталий Олейник}
+{??????? ??????},
+{??????? ???????}
 for battlefield backgrounds
-{Сергей Капустин}
+{?????? ????????}
 for writing
-{Роман Куприянов}
+{????? ?????????}
 for hero portraits and cutscenes
 {Yekaterina Dmitrova}
 for cutscene sounds
 {Paul Anthony Romero}
 for Factory campaign main theme
-{Maigret}
-for Factory town theme
+{???? ""Maigret"" ???????????}
+for Factory town theme,
+Bulwark town theme
 and campaign themes
 {Alina Besanidou},
-{Василий Синичкин}
+{??????? ????????}
 for cutscene concept art
 
 Scenario and template makers:
-{Riug74}, {Чапай}, {Manolo},
+{Riug74}, {?????}, {Manolo},
 {molski}, {koget}, {Veracruz},
 {Begrezen}, {Ignus}
 
 Voice actors (ru):
-{Наталья Мерц},
-{Андрей Богатырёв},
-{Виктор Потапешкин},
-{Наталья Белкина},
-{Михаил Марков},
-{Наталья Рагулина}
-2019 testers:
-{Chleb}, {Ignus},
-{LivingAnarchy},
-{maestro}, {Machberet},
-{Szopa666}, {Ravciozo}
+{??????? ????},
+{?????? ?????????},
+{?????? ??????????},
+{??????? ???????},
+{?????? ??????},
+{??????? ????????}
 
-2023 testers:
-{CzileraInzyniera},
-{DarkPepego}, {Gongwazy},
-{Flisiu}, {Йорик},
-{Machberet}, {maugli},
-{Mont}, {Niechcic},
-{Scherban Vlad}, {Spinaonic}, 
-{Voidek}, {Xocenk},
-{Zuuzel}
-
-2024 testers:
+Balance testers:
+{Begrezen},
 {CzileraInzyniera},
 {DarkPepego}, {Flisiu},
-{Green Hell}, {Йорик},
+{Green Hell}, {HellLighT},
 {Krzynsztof}, {Machberet},
-{maugli}, {Redwhait},
-{Scherban Vlad}, {Spinaonic}, 
+{maugli}, {ponshick},
+{Redwhait}, {Spinaonic},
 {Voidek}, {ZomberR},
-{Zuuzel}
-
+{Zuuzel},
+former ones:
+{Chleb}, {Ignus},
+{?????}, {LivingAnarchy},
+{maestro}, {Mont},
+{Niechcic}, {Scherban Vlad},
+{Szopa666}, {Ravciozo}
+{Gongwazy}, {Xocenk}
 
 and to the entire
 Heroes community
@@ -257,7 +245,7 @@ artist
 in-game resources
 {Darkmoon}
 translator
-{Д'якон}
+{?'????}
 code
 {exx}
 3D artist
@@ -278,7 +266,7 @@ PR, story
 scenarios
 {major}
 code
-{Миханик}
+{???????}
 code
 {pokrik1}
 artist
@@ -291,7 +279,7 @@ translator
 3D artist
 {SAG}
 balance
-{Серёга-JET}
+{??????-JET}
 editor, tester
 {Silver}
 story
@@ -482,7 +470,7 @@ John Slowsky
 
 
 {Webmaster:}
-Joshua “Guthwulf” Milligan
+Joshua �Guthwulf� Milligan
 
 
 {Web Artist:}

@@ -1,8 +1,8 @@
 ===== Map name =====
-Ã€ la recherche de la corne
+À la recherche de la corne
 
 ===== Map description =====
-Bidley doit trouver la Corne des Abysses dans le labyrinthe souterrain. Si Bidley, Casmetra ou Jeremy sont vaincus au combat, le scÃ©nario sera perdu. Le niveau maximum des hÃ©ros est de 24. AprÃ¨s la victoire, Jeremy et Casmetra accÃ©deront au dernier scÃ©nario de la campagne.
+Bidley doit trouver la Corne des Abysses dans le labyrinthe souterrain. Si Bidley, Casmetra ou Jeremy sont vaincus au combat, le scénario sera perdu. Le niveau maximum des héros est de 24. Après la victoire, Jeremy et Casmetra accéderont au dernier scénario de la campagne.
 
 ===== Rumors =====
 
@@ -11,32 +11,32 @@ Bidley doit trouver la Corne des Abysses dans le labyrinthe souterrain. Si Bidle
 Name:
 Day 1-1
 Message:
-Il Ã©tait judicieux de bien se prÃ©parer avant d'aller chercher la Corne. La route des pirates passait au sud de Tatalia, vers un groupe d'Ã®les inconnues. Soit c'Ã©tait une coÃ¯ncidence, soit quelqu'un les avait espionnÃ©s, mais ils se heurtÃ¨rent Ã  la flotte royale de TataliaÂ : deux frÃ©gates et une douzaine de navires plus petits. Ces derniers Ã©taient faciles Ã  couler, mais dÃ¨s l'approche des frÃ©gates, il devint Ã©vident qu'ils devaient se replier. La caravelle de Bidley lanÃ§a une derniÃ¨re salve et, poussÃ©e par un vent arriÃ¨re, commenÃ§a Ã  flanquer les eaux dangereuses. Jeremy suivait de prÃ¨s, suivi des galÃ¨res. Cependant, les frÃ©gates tataliennes les poursuivaient, tentant de dÃ©chirer leurs voiles dans l'espoir d'arrÃªter les audacieux pirates. Un navire ennemi les rattrapa et fondit sur leurs galÃ¨res. Des hommes-lÃ©zards, poignards aux dents, sautÃ¨rent Ã  l'eau et grimpÃ¨rent Ã  bord pour attaquer les voiles, transformant le pont en un bain de sang. Il ne resta finalement qu'une seule galÃ¨reÂ : celle commandÃ©e par Patris. C'Ã©tait la premiÃ¨re fois qu'il prenait le commandement d'un navire en tant que capitaine. 	"Nous devons arrÃªter les Tataliens immÃ©diatement", dit Casmetra dÃ©terminÃ©e. "Par magie." "N'allez-vous pas frapper la galÃ¨re de Patris ?" demanda Jeremy, alarmÃ©.	"Je ne sais pas. Ce qui arrive arrive", rÃ©pondit la sorciÃ¨re.	"Attendez ! Nous ne pouvons pas risquer sa vie !" s'Ã©cria Jeremy.	Casmetra n'Ã©coutait pas. D'un geste Ã©lÃ©gant, elle lanÃ§a un sort destructeur qui fit surgir des icebergs de l'eau. Ils grandirent rapidement, dÃ©truisant tout sur leur passage. Des morceaux de glace et de bois pleuvÃ¨rent sur la flotte des pirates. La frÃ©gate tatalienne subit de lourds dÃ©gÃ¢ts, et une galÃ¨re fut Ã©ventrÃ©e, empalÃ©e sur un pic de glace montant. Une fois le chaos terminÃ©, Casmetra se retira dans sa cabine. Jeremy resta figÃ© un moment, contemplant l'iceberg monstrueux qui s'Ã©loignait, lui ayant sauvÃ© la vie, emportant celle de son ami. Il avait toujours su que tÃ´t ou tard, il perdrait son second et ses autres amis proches. C'est le risque d'Ãªtre pirate. Mais il ne s'attendait pas Ã  ce que cela arrive aujourd'hui.
+Il était judicieux de bien se préparer avant d'aller chercher la Corne. La route des pirates passait au sud de Tatalia, vers un groupe d'îles inconnues. Soit c'était une coïncidence, soit quelqu'un les avait espionnés, mais ils se heurtèrent à la flotte royale de Tatalia : deux frégates et une douzaine de navires plus petits. Ces derniers étaient faciles à couler, mais dès l'approche des frégates, il devint évident qu'ils devaient se replier. La caravelle de Bidley lança une dernière salve et, poussée par un vent arrière, commença à flanquer les eaux dangereuses. Jeremy suivait de près, suivi des galères. Cependant, les frégates tataliennes les poursuivaient, tentant de déchirer leurs voiles dans l'espoir d'arrêter les audacieux pirates. Un navire ennemi les rattrapa et fondit sur leurs galères. Des hommes-lézards, poignards aux dents, sautèrent à l'eau et grimpèrent à bord pour attaquer les voiles, transformant le pont en un bain de sang. Il ne resta finalement qu'une seule galère : celle commandée par Patris. C'était la première fois qu'il prenait le commandement d'un navire en tant que capitaine. 	"Nous devons arrêter les Tataliens immédiatement", dit Casmetra déterminée. "Par magie." "N'allez-vous pas frapper la galère de Patris ?" demanda Jeremy, alarmé.	"Je ne sais pas. Ce qui arrive arrive", répondit la sorcière.	"Attendez ! Nous ne pouvons pas risquer sa vie !" s'écria Jeremy.	Casmetra n'écoutait pas. D'un geste élégant, elle lança un sort destructeur qui fit surgir des icebergs de l'eau. Ils grandirent rapidement, détruisant tout sur leur passage. Des morceaux de glace et de bois pleuvèrent sur la flotte des pirates. La frégate tatalienne subit de lourds dégâts, et une galère fut éventrée, empalée sur un pic de glace montant. Une fois le chaos terminé, Casmetra se retira dans sa cabine. Jeremy resta figé un moment, contemplant l'iceberg monstrueux qui s'éloignait, lui ayant sauvé la vie, emportant celle de son ami. Il avait toujours su que tôt ou tard, il perdrait son second et ses autres amis proches. C'est le risque d'être pirate. Mais il ne s'attendait pas à ce que cela arrive aujourd'hui.
 
 Name:
 Day 1-2
 Message:
-AprÃ¨s avoir subi de lourdes pertes, navires et Ã©quipages, la flotte en partie dÃ©truite de Bidley arriva Ã  l'endroit indiquÃ© par Xanthor. C'Ã©tait une petite Ã®le discrÃ¨te, entourÃ©e de montagnes escarpÃ©es. Les mots "Ãle du Serpent Vengeur" avaient Ã©tÃ© griffonnÃ©s par la main d'un voyageur inconnu sur l'une des pierres Ã©mergeant de l'eau.	"Je ne vois pas de Corne ici", observa Jeremy.	"Bien sÃ»r que non, mon ami ! La Corne est dans le labyrinthe du Serpent, profondÃ©ment sous terre. "Et moi seule sais comment y arriver ! " annonÃ§a Casmetra. AprÃ¨s avoir fait un pas en avant, elle Ã©carta les mains et commenÃ§a Ã  lancer un sort. Les paroles de la sorciÃ¨re se transformÃ¨rent en signes et lettres flamboyants qui volÃ¨rent vers la montagne, avant d'Ãªtre englouties par elle. Lorsqu'elle se tut enfin, les montagnes Ã©mirent un rugissement et une voix, semblable au bruit d'un marteau sur une enclume, rÃ©sonnaÂ :		"Mot de passe approuvÃ©. Ouverture du passage."	"Qu'est-ce que c'Ã©taitÂ ?" demanda Bidley, surpris.	"Je ne sais pas", rÃ©pondit Casmetra en haussant les Ã©paules. "On dit que l'Oracle d'Enroth ressemble un peu Ã  Ã§a."	"Mille diables ! C'estâ€¦ indescriptible ! " s'exclama Jeremy.		Un passage sombre et menaÃ§ant s'ouvrit entre les montagnes. Une Ã©chelle de pierre Ã©tait visible Ã  l'intÃ©rieur, son autre extrÃ©mitÃ© perdue dans l'obscuritÃ©. Bidley s'armaÂ : un pistolet dans une main et un sabre dans l'autre.	"Nous devons Ãªtre extrÃªmement prudents", avertit la sorciÃ¨re. "Il y a plein de piÃ¨ges et d'illusions en dessous."		Bidley hocha la tÃªte et, prenant la tÃªte d'une bande de fidÃ¨les flibustiers, il entama sa descente dans les tÃ©nÃ¨bres. Alors que Jeremy et Casmetra s'apprÃªtaient Ã  le suivre, la voix de fer retentit :	"DeuxiÃ¨me niveau de protection annulÃ©. AccÃ¨s bloquÃ©."		Le dernier pirate s'apprÃªtait Ã  faire demi-tour et Ã  sauter, mais les montagnes se refermÃ¨rent sous son nez. Jeremy donna des coups de poing et de pied frÃ©nÃ©tiques Ã  la paroi, mais rien ne put rouvrir le passage. Casmetra tenta Ã  nouveau son sort, mais cette fois, il Ã©choua.		"Zut ! J'ai perdu mon second et mon frÃ¨re d'un coup !" hurla Jeremy en abattant un palmier d'un coup de sabre, furieux.	"Du calme ! Ton frÃ¨re est vivant. Il est dans le labyrinthe. Qu'il en sorte ou non dÃ©pend de lui ! " dit Casmetra en posant la main sur l'Ã©paule de Jeremy. "Oh, c'est gÃ©nial. Et que comptes-tu faire maintenant ? " demanda Jeremy, vexÃ©, sans se retourner. 	"Retourne au camp et attends Bidley. Je suis sÃ»r qu'il ira bien."
+Après avoir subi de lourdes pertes, navires et équipages, la flotte en partie détruite de Bidley arriva à l'endroit indiqué par Xanthor. C'était une petite île discrète, entourée de montagnes escarpées. Les mots "Île du Serpent Vengeur" avaient été griffonnés par la main d'un voyageur inconnu sur l'une des pierres émergeant de l'eau.	"Je ne vois pas de Corne ici", observa Jeremy.	"Bien sûr que non, mon ami ! La Corne est dans le labyrinthe du Serpent, profondément sous terre. "Et moi seule sais comment y arriver ! " annonça Casmetra. Après avoir fait un pas en avant, elle écarta les mains et commença à lancer un sort. Les paroles de la sorcière se transformèrent en signes et lettres flamboyants qui volèrent vers la montagne, avant d'être englouties par elle. Lorsqu'elle se tut enfin, les montagnes émirent un rugissement et une voix, semblable au bruit d'un marteau sur une enclume, résonna :		"Mot de passe approuvé. Ouverture du passage."	"Qu'est-ce que c'était ?" demanda Bidley, surpris.	"Je ne sais pas", répondit Casmetra en haussant les épaules. "On dit que l'Oracle d'Enroth ressemble un peu à ça."	"Mille diables ! C'est… indescriptible ! " s'exclama Jeremy.		Un passage sombre et menaçant s'ouvrit entre les montagnes. Une échelle de pierre était visible à l'intérieur, son autre extrémité perdue dans l'obscurité. Bidley s'arma : un pistolet dans une main et un sabre dans l'autre.	"Nous devons être extrêmement prudents", avertit la sorcière. "Il y a plein de pièges et d'illusions en dessous."		Bidley hocha la tête et, prenant la tête d'une bande de fidèles flibustiers, il entama sa descente dans les ténèbres. Alors que Jeremy et Casmetra s'apprêtaient à le suivre, la voix de fer retentit :	"Deuxième niveau de protection annulé. Accès bloqué."		Le dernier pirate s'apprêtait à faire demi-tour et à sauter, mais les montagnes se refermèrent sous son nez. Jeremy donna des coups de poing et de pied frénétiques à la paroi, mais rien ne put rouvrir le passage. Casmetra tenta à nouveau son sort, mais cette fois, il échoua.		"Zut ! J'ai perdu mon second et mon frère d'un coup !" hurla Jeremy en abattant un palmier d'un coup de sabre, furieux.	"Du calme ! Ton frère est vivant. Il est dans le labyrinthe. Qu'il en sorte ou non dépend de lui ! " dit Casmetra en posant la main sur l'épaule de Jeremy. "Oh, c'est génial. Et que comptes-tu faire maintenant ? " demanda Jeremy, vexé, sans se retourner. 	"Retourne au camp et attends Bidley. Je suis sûr qu'il ira bien."
 
 Name:
 Day 2
 Message:
-Bidley finit dans une sÃ©rie de grottes humides avec son petit groupe d'hommes. Ã‰trangement, l'endroit n'Ã©tait pas aussi sombre qu'il paraissait au premier abordÂ ; les cavernes Ã©taient Ã©clairÃ©es par une Ã©trange lueur bleutÃ©e. "OÃ¹ allez-vous, Cap'taineÂ ?" 	demanda l'un de ses flibustiers. "En avant", rÃ©pondit Bidley. "On quitte cet endroit avec la Corne, ou personne ne sortira. J'ai confiance que le destin ne nous abandonnera pas."
+Bidley finit dans une série de grottes humides avec son petit groupe d'hommes. Étrangement, l'endroit n'était pas aussi sombre qu'il paraissait au premier abord ; les cavernes étaient éclairées par une étrange lueur bleutée. "Où allez-vous, Cap'taine ?" 	demanda l'un de ses flibustiers. "En avant", répondit Bidley. "On quitte cet endroit avec la Corne, ou personne ne sortira. J'ai confiance que le destin ne nous abandonnera pas."
 
 Name:
 Day 3
 Message:
-Casmetra contemplait un globe magique. Jeremy, voyant cela, la contourna pour essayer de l'observer. "Attention ! Vous allez vous transformer en grenouille !" dit la prÃªtresse. "SÃ©rieusement ? " s'exclama Jeremy en reculant d'un bond. 	"Non, je plaisantais. Mais les grenouilles sont toujours autour de nous."	"Quoi ? " demanda le pirate, confus.	"Les Tataliens", expliqua Casmetra. "Leur flotte a battu en retraite, mais ils rÃ©parent leurs navires. Leurs guerriers sont sur le rivage, en train de refaire leurs forces. BientÃ´t, ils trouveront le courage de nous retrouver et tenteront de nous dÃ©truire. Ils pensent probablement que Regna a dÃ©cidÃ© d'envahir Tatalia." 	"Il faut les retenir d'une faÃ§on ou d'une autre", dit Jeremy. "Sinon, Bidley s'en sortira, pour finalement se retrouver face aux grimaces narquoises de ces grenouilles. Et de ces chiens."
+Casmetra contemplait un globe magique. Jeremy, voyant cela, la contourna pour essayer de l'observer. "Attention ! Vous allez vous transformer en grenouille !" dit la prêtresse. "Sérieusement ? " s'exclama Jeremy en reculant d'un bond. 	"Non, je plaisantais. Mais les grenouilles sont toujours autour de nous."	"Quoi ? " demanda le pirate, confus.	"Les Tataliens", expliqua Casmetra. "Leur flotte a battu en retraite, mais ils réparent leurs navires. Leurs guerriers sont sur le rivage, en train de refaire leurs forces. Bientôt, ils trouveront le courage de nous retrouver et tenteront de nous détruire. Ils pensent probablement que Regna a décidé d'envahir Tatalia." 	"Il faut les retenir d'une façon ou d'une autre", dit Jeremy. "Sinon, Bidley s'en sortira, pour finalement se retrouver face aux grimaces narquoises de ces grenouilles. Et de ces chiens."
 
 Name:
 Day 17
 Message:
-J'ai rassemblÃ© mon courage pour appeler Casmetra dans ma cabine. La sorciÃ¨re est entrÃ©e, sa robe ondulait doucement, et m'a lancÃ© un regard inquisiteur. Je l'ai regardÃ©e droit dans les yeux. "Casmetra, je soupÃ§onne que tu aurais pu lancer ce sort sans toucher la galÃ¨re de Patris." "Qu'est-ce qui te fait penser Ã§a ? " demanda Casmetra, l'air surprise. "De tels sorts ne sont pas faciles Ã  contrÃ´ler. C'est comme ton canon : tu ne peux pas savoir exactement oÃ¹ tes coups atterriront, n'est-ce pas ? Mais quand il touche quelque chose, Ã§a fait des dÃ©gÃ¢ts."	"Je peux toucher un oiseau en plein vol ! " RÃ©torquai-je dans une rage folle. "Et ne me traite pas avec condescendanceâ€¦ "Patris Ã©tait lÃ  ! J'ai remarquÃ© le conflit entre vous et lui", insistai-je.	"Quoi ? Tu crois vraiment que je condamnerais mes propres apprentis et un Ã©quipage d'excellents combattants juste Ã  cause d'un vieux grincheux ? " Casmetra frappa le sol du pied, les yeux brillants. "Jeâ€¦ je suis dÃ©solÃ©, je n'y avais pas pensÃ©", murmurai-je en me laissant tomber sur ma couchette, complÃ¨tement perdu. "C'est juste queâ€¦ je n'arrÃªte pas de me le rÃ©pÃ©ter. Patris dort avec les poissons. Mon frÃ¨re est coincÃ© aux Enfers, et les dieux seuls savent s'il en sortira vivant. Je me suis bourrÃ© la gueule toutes les nuits juste pour dormir."	Casmetra sourit doucement et s'approcha de moi. "Tu es fatiguÃ©, Jeremy. Tu as besoin de faire une pause", dit-elle en me caressant de ses mains fines. Je dois admettre que son parfum Ã©tait des plus agrÃ©ables. 	"En effetâ€¦ Une pause, me ferait du bien", souris-je.
+J'ai rassemblé mon courage pour appeler Casmetra dans ma cabine. La sorcière est entrée, sa robe ondulait doucement, et m'a lancé un regard inquisiteur. Je l'ai regardée droit dans les yeux. "Casmetra, je soupçonne que tu aurais pu lancer ce sort sans toucher la galère de Patris." "Qu'est-ce qui te fait penser ça ? " demanda Casmetra, l'air surprise. "De tels sorts ne sont pas faciles à contrôler. C'est comme ton canon : tu ne peux pas savoir exactement où tes coups atterriront, n'est-ce pas ? Mais quand il touche quelque chose, ça fait des dégâts."	"Je peux toucher un oiseau en plein vol ! " Rétorquai-je dans une rage folle. "Et ne me traite pas avec condescendance… "Patris était là ! J'ai remarqué le conflit entre vous et lui", insistai-je.	"Quoi ? Tu crois vraiment que je condamnerais mes propres apprentis et un équipage d'excellents combattants juste à cause d'un vieux grincheux ? " Casmetra frappa le sol du pied, les yeux brillants. "Je… je suis désolé, je n'y avais pas pensé", murmurai-je en me laissant tomber sur ma couchette, complètement perdu. "C'est juste que… je n'arrête pas de me le répéter. Patris dort avec les poissons. Mon frère est coincé aux Enfers, et les dieux seuls savent s'il en sortira vivant. Je me suis bourré la gueule toutes les nuits juste pour dormir."	Casmetra sourit doucement et s'approcha de moi. "Tu es fatigué, Jeremy. Tu as besoin de faire une pause", dit-elle en me caressant de ses mains fines. Je dois admettre que son parfum était des plus agréables. 	"En effet… Une pause, me ferait du bien", souris-je.
 
 Name:
 Day 32
 Message:
-J'ai pensÃ© Ã  Patris et Ã  sa maison sur cette Ã®le lointaine - cette maison oÃ¹ il ne retournera jamais. Il est possible que quelqu'un ait survÃ©cu Ã  ce naufrage, mais les chances sont minces. Un jour, je visiterai cet archipel et retrouverai la femme et la fille de Patris - ou je les vengerai, si le gouverneur local est un escroc qui s'en prend aux innocents. Nous, les pirates, exauÃ§ons toujours la derniÃ¨re volontÃ© des morts.
+J'ai pensé à Patris et à sa maison sur cette île lointaine - cette maison où il ne retournera jamais. Il est possible que quelqu'un ait survécu à ce naufrage, mais les chances sont minces. Un jour, je visiterai cet archipel et retrouverai la femme et la fille de Patris - ou je les vengerai, si le gouverneur local est un escroc qui s'en prend aux innocents. Nous, les pirates, exauçons toujours la dernière volonté des morts.
 
 ===== Heroes =====
 
@@ -57,7 +57,7 @@ La Taverne des Deux Palmiers
 
 (98, 13, 0) ***Cyclops***
 Message:
-Voyons si vous mÃ©ritez d'avoir notre relique !
+Voyons si vous méritez d'avoir notre relique !
 
 (105, 6, 0) ***Mighty Gorgon***
 Message:
@@ -65,11 +65,11 @@ Mooo!
 
 (69, 72, 0) ***Ocean Bottle***
 Message:
-Le Grand Triangle est l'Alpha et l'OmÃ©ga...
+Le Grand Triangle est l'Alpha et l'Oméga...
 
 (24, 100, 0) ***Ocean Bottle***
 Message:
-Chacun s'agenouillera devant son Å“il triangulaire...
+Chacun s'agenouillera devant son œil triangulaire...
 
 (35, 63, 0) ***Ocean Bottle***
 Message:
@@ -77,11 +77,11 @@ Le triangle est triangulaire... tout comme les triangles.
 
 (82, 35, 0) ***Ocean Bottle***
 Message:
-La fin des carrÃ©s et des ovales est proche...
+La fin des carrés et des ovales est proche...
 
 (104, 32, 0) ***Sign***
 Message:
-Ãle aux cactus
+Île aux cactus
 
 (99, 106, 0) ***Swordsman***
 Message:
@@ -93,55 +93,55 @@ Donjon du Serpent Vengeur
 
 (104, 50, 0) ***Ocean Bottle***
 Message:
-Acceptez le Triangle dans votre Ã¢me et soyez pardonnÃ©...
+Acceptez le Triangle dans votre âme et soyez pardonné...
 
 (38, 102, 1) ***Event***
 Message:
-"C'est un piÃ¨ge ! "
+"C'est un piège ! "
 
 (105, 100, 1) ***Seer's Hut***
 Message:
-Une sirÃ¨ne vivant ici dit avoir vu un magnifique collier pour se parer. Il se trouve Ã  une place nommÃ©e les Portes du Tonnerre. Si vous lui apportez le collier, elle vous offrira en cadeau quelques une de ses sorciÃ¨res esclaves.
-La sirÃ¨ne laisse entendre que les Portes du Tonnerre se trouvent Ã  l'ouest du labyrinthe.
-Elle vous offre dix esclaves en Ã©change du collier. Elle vous assure que ces jeunes filles sont propres, ordonnÃ©es et expertes en magie.
+Une sirène vivant ici dit avoir vu un magnifique collier pour se parer. Il se trouve à une place nommée les Portes du Tonnerre. Si vous lui apportez le collier, elle vous offrira en cadeau quelques une de ses sorcières esclaves.
+La sirène laisse entendre que les Portes du Tonnerre se trouvent à l'ouest du labyrinthe.
+Elle vous offre dix esclaves en échange du collier. Elle vous assure que ces jeunes filles sont propres, ordonnées et expertes en magie.
 
 (104, 98, 1) ***Seer's Hut***
 Message:
-Bidley aperÃ§oit un crÃ¢ne Ã  l'intÃ©rieur du mur. Lorsqu'il s'en approche, le crÃ¢ne dit : "Nourris-moi de douze gemmes et je t'apprendrai tout ce que je sais."
+Bidley aperçoit un crâne à l'intérieur du mur. Lorsqu'il s'en approche, le crâne dit : "Nourris-moi de douze gemmes et je t'apprendrai tout ce que je sais."
 "Pas assez ! Donne-moi plus de gemmes ! "
 "Allez, donne-moi ces gemmes et je t'apprendrai quelques astuces tactiques ancestrales."
 
 (103, 88, 1) ***Seer's Hut***
 Message:
-Une nymphe des mers vit ici. Elle a perdu son talisman et vous demande de le lui rendre. Elle promet de vous donner ses animaux de compagnie en Ã©change.
-La nymphe vous suggÃ¨re de chercher le talisman Ã  l'ouest de sa demeure.
-Elle est prÃªte Ã  vous donner douze dracs mordorÃ©s bien dressÃ©s en Ã©change de son talisman.
+Une nymphe des mers vit ici. Elle a perdu son talisman et vous demande de le lui rendre. Elle promet de vous donner ses animaux de compagnie en échange.
+La nymphe vous suggère de chercher le talisman à l'ouest de sa demeure.
+Elle est prête à vous donner douze dracs mordorés bien dressés en échange de son talisman.
 
 (86, 5, 1) ***Event***
 Message:
-"VoilÃ  ta Corne, dans cette boÃ®te. Prends-la vite ! " dit Dargem avec impatience.
+"Voilà ta Corne, dans cette boîte. Prends-la vite ! " dit Dargem avec impatience.
 
 (86, 4, 1) ***Pandora's Box***
 Message:
-Est-ce vraiment la {Corne} {des} {Abysses}Â ?
+Est-ce vraiment la {Corne} {des} {Abysses} ?
 
 (77, 64, 1) ***Nix***
 Message:
-"Nous saluons lâ€™ami de notre prince ! "
+"Nous saluons l’ami de notre prince ! "
 
 (102, 89, 1) ***Crusader***
 Message:
-Il semblerait que ces soldats se soient perdus et qu'ils aient Ã©galement perdu la tÃªte aprÃ¨s avoir errÃ© aussi longtemps dans ces cavernes.
+Il semblerait que ces soldats se soient perdus et qu'ils aient également perdu la tête après avoir erré aussi longtemps dans ces cavernes.
 
 (45, 38, 1) ***Seer's Hut***
 Message:
-Le lutin qui vit ici vous assure qu'il possÃ¨de un objet qui vous sera essentiel. Un homme a refusÃ© de l'acheter et Ã  Ã©tÃ© transformÃ© en fantÃ´me. Si vous voulez survivre, vous pouvez l'acheter pour 15 mercures, 15 soufres, 5 cristaux, 5 gemmes et 5000 piÃ¨ces d'or. 15 % de rabais a Ã©tÃ© dÃ©duit, rien que pour vousÂ !
-Le lutin vous demande si vous Ãªtes prÃªt Ã  acheter son objet mystÃ¨re si prÃ©cieux.
-Le lutin se frotte les mains avec enthousiasme. Vous lui remettez votre or et vos autres ressources, et vous recevezâ€¦ des Bottes de LÃ©vitationÂ !
+Le lutin qui vit ici vous assure qu'il possède un objet qui vous sera essentiel. Un homme a refusé de l'acheter et à été transformé en fantôme. Si vous voulez survivre, vous pouvez l'acheter pour 15 mercures, 15 soufres, 5 cristaux, 5 gemmes et 5000 pièces d'or. 15 % de rabais a été déduit, rien que pour vous !
+Le lutin vous demande si vous êtes prêt à acheter son objet mystère si précieux.
+Le lutin se frotte les mains avec enthousiasme. Vous lui remettez votre or et vos autres ressources, et vous recevez… des Bottes de Lévitation !
 
 (9, 12, 1) ***Event***
 Message:
-Bidley s'approcha du tunnel effondrÃ©. Une voix faible et tremblante s'Ã©leva Ã  travers les dÃ©combres : "HÃ©, mon pote ! Je t'entends marcher, et tu n'as pas l'air d'un mort qui traÃ®ne les pieds ! Aide-moi ! Sors-moi de lÃ ."	"Je ne suis pas ton pote, mon pote", rÃ©pondit Bidley calmement. "D'abord, dis-moi qui tu es et ce que tu fais ici."	"Je m'appelle Dargem. Je ne suis qu'un mage qui Ã©tait au mauvais endroit au mauvais moment. Je ne peux pas m'occuper de ces rochers tout seul." "Ce ne sont pas tes gribouillis que j'ai trouvÃ©s Ã©parpillÃ©s jusqu'ici ? " demanda le pirate. 	"Mon journal ? Et je me demandais oÃ¹ il Ã©tait passÃ© ! Je suis tombÃ© dans un piÃ¨ge ici", rÃ©pondit le prisonnier. "Tu cherchais la Corne des Abysses ? " demanda Bidley.	"Oui. Et toi aussi, je suppose : personne ne vient ici pour prendre l'air."	"Et pourquoi laisserais-je sortir un concurrent ? " "Attends ! " supplia t-il. "Ne pars pas ! Je ne suis pas un concurrent pour toi ! Je n'ai plus besoin de la Corne, plus maintenant ! Prends-la et fais-en ce que tu veux ! Souffle dedans, bois du rhum, enfonce-la dans ton... Je m'en fiche. Mais sans moi, tu ne pourras pas surmonter ces illusions."	"Quelles illusions ? demanda Bidley, alarmÃ©, en s'approchant des dÃ©combres. 	"Certains des serpents de mer que tu verras ne sont pas rÃ©els. Mais tu ne pourras pas distinguer les vrais des faux sans le sortilÃ¨ge que je dÃ©tiens," expliqua le prisonnier. "TrÃ¨s bien. Tu m'as presque convaincu."
+Bidley s'approcha du tunnel effondré. Une voix faible et tremblante s'éleva à travers les décombres : "Hé, mon pote ! Je t'entends marcher, et tu n'as pas l'air d'un mort qui traîne les pieds ! Aide-moi ! Sors-moi de là."	"Je ne suis pas ton pote, mon pote", répondit Bidley calmement. "D'abord, dis-moi qui tu es et ce que tu fais ici."	"Je m'appelle Dargem. Je ne suis qu'un mage qui était au mauvais endroit au mauvais moment. Je ne peux pas m'occuper de ces rochers tout seul." "Ce ne sont pas tes gribouillis que j'ai trouvés éparpillés jusqu'ici ? " demanda le pirate. 	"Mon journal ? Et je me demandais où il était passé ! Je suis tombé dans un piège ici", répondit le prisonnier. "Tu cherchais la Corne des Abysses ? " demanda Bidley.	"Oui. Et toi aussi, je suppose : personne ne vient ici pour prendre l'air."	"Et pourquoi laisserais-je sortir un concurrent ? " "Attends ! " supplia t-il. "Ne pars pas ! Je ne suis pas un concurrent pour toi ! Je n'ai plus besoin de la Corne, plus maintenant ! Prends-la et fais-en ce que tu veux ! Souffle dedans, bois du rhum, enfonce-la dans ton... Je m'en fiche. Mais sans moi, tu ne pourras pas surmonter ces illusions."	"Quelles illusions ? demanda Bidley, alarmé, en s'approchant des décombres. 	"Certains des serpents de mer que tu verras ne sont pas réels. Mais tu ne pourras pas distinguer les vrais des faux sans le sortilège que je détiens," expliqua le prisonnier. "Très bien. Tu m'as presque convaincu."
 
 (6, 96, 1) ***Sign***
 Message:
@@ -149,13 +149,13 @@ Le chemin des morts
 
 (75, 55, 1) ***Skeleton***
 Message:
-Ce doit Ãªtre les restes de chercheurs malchanceux Ã  la recherche de la Corne des Abysses.
+Ce doit être les restes de chercheurs malchanceux à la recherche de la Corne des Abysses.
 
 (43, 12, 1) ***Seer's Hut***
 Message:
-Une sirÃ¨ne sorciÃ¨re dÃ©sire un collier de dents de dragon. Elle promet de vous apprendre un sort trÃ¨s utile.
-La sirÃ¨ne vous dit que l'artefact se trouve quelque part au nord de sa maison.
-En Ã©change, elle vous apprendra le sort RÃ©surrection.
+Une sirène sorcière désire un collier de dents de dragon. Elle promet de vous apprendre un sort très utile.
+La sirène vous dit que l'artefact se trouve quelque part au nord de sa maison.
+En échange, elle vous apprendra le sort Résurrection.
 
 (82, 102, 1) ***Event***
 Message:
@@ -163,35 +163,35 @@ Message:
 
 (77, 92, 1) ***Event***
 Message:
-Bidley trouva un radeau abandonnÃ© avec des restes de nourriture et des morceaux de parchemin qui semblaient Ãªtre une page du journal de quelqu'un. "â€¦de mauvaises chaussures. J'ai donc dÃ» envelopper mes jambes dans des chiffons de lin. MaÃ®tresse a dit que ce labyrinthe regorgeait de trÃ©sors, au sommet de la Corne elle-mÃªme. Alors, avec un peu de chance, je trouverai des bottes magiques. Cependant, je penche pour l'idÃ©e queâ€¦" IntÃ©ressant ! Quelqu'un Ã©tait dÃ©jÃ  venu ici, cherchant lui aussi la Corne des Abysses. A-t-il rÃ©ussi ? Bidley prit la page et continua son voyage.
+Bidley trouva un radeau abandonné avec des restes de nourriture et des morceaux de parchemin qui semblaient être une page du journal de quelqu'un. "…de mauvaises chaussures. J'ai donc dû envelopper mes jambes dans des chiffons de lin. Maîtresse a dit que ce labyrinthe regorgeait de trésors, au sommet de la Corne elle-même. Alors, avec un peu de chance, je trouverai des bottes magiques. Cependant, je penche pour l'idée que…" Intéressant ! Quelqu'un était déjà venu ici, cherchant lui aussi la Corne des Abysses. A-t-il réussi ? Bidley prit la page et continua son voyage.
 
 (85, 61, 1) ***Event***
 Message:
-Bidley trouva une autre page de parchemin flottant sur l'eau. "â€¦la derniÃ¨re ! La panique m'envahit dans ce donjon. Je n'ai pas la moindre idÃ©e de ce que je dois faire oÃ¹ aller. J'espÃ¨re que cette idÃ©e portera ses fruits. Je vaisâ€¦"
+Bidley trouva une autre page de parchemin flottant sur l'eau. "…la dernière ! La panique m'envahit dans ce donjon. Je n'ai pas la moindre idée de ce que je dois faire où aller. J'espère que cette idée portera ses fruits. Je vais…"
 
 (49, 28, 1) ***Event***
 Message:
-Une autre page du journal.	"â€¦ pas ici. Le plus effrayant, c'est que le labyrinthe est rempli de fous qui rÃ´dent ici depuis on ne sait combien de temps. Sans compter les bÃªtes aquatiques et autres crÃ©atures maudites. C'est dÃ©mentiel le nombre d'hommes courageux qui ont pÃ©ri ici. Vais-je finir parmi eux ? La tÃ¢che n'est pas facile. MaÃ®tresse m'a prÃ©venue des piÃ¨ges et des illusions qui m'attendentâ€¦"
+Une autre page du journal.	"… pas ici. Le plus effrayant, c'est que le labyrinthe est rempli de fous qui rôdent ici depuis on ne sait combien de temps. Sans compter les bêtes aquatiques et autres créatures maudites. C'est démentiel le nombre d'hommes courageux qui ont péri ici. Vais-je finir parmi eux ? La tâche n'est pas facile. Maîtresse m'a prévenue des pièges et des illusions qui m'attendent…"
 
 (100, 25, 1) ***Event***
 Message:
-Une page de journal, encore une fois.	"â€¦impossible ! Cet endroit maudit ! Sandra s'est transformÃ©e en monstre sous mes yeux. Je ne sais pas ce que c'Ã©tait - une illusion ou une vÃ©ritable malÃ©diction - mais j'ai dÃ» la tuer, ou quoi qu'elle soit devenue. J'ai perdu la plupart de mes proches. Oh mon Dieu, je n'ai jamais Ã©tÃ© aussi malheureux ni aussi dÃ©semparÃ© ! "
+Une page de journal, encore une fois.	"…impossible ! Cet endroit maudit ! Sandra s'est transformée en monstre sous mes yeux. Je ne sais pas ce que c'était - une illusion ou une véritable malédiction - mais j'ai dû la tuer, ou quoi qu'elle soit devenue. J'ai perdu la plupart de mes proches. Oh mon Dieu, je n'ai jamais été aussi malheureux ni aussi désemparé ! "
 
 (50, 103, 1) ***Event***
 Message:
-Il nâ€™y a pas de retour en arriÃ¨re !
+Il n’y a pas de retour en arrière !
 
 (69, 36, 1) ***Event***
 Message:
-Une autre page du journal : "C'est la fin. Presque tout le monde est mort. J'ai Ã©chappÃ© de justesse Ã  la mort ! Ces terribles serpents gÃ©antsâ€¦ Je n'ai jamais vu de telles crÃ©atures. Cette fois, ce n'Ã©tait pas une illusion. C'est contre cela que maÃ®tresse m'avait prÃ©venu. Quelqu'un est Ã  mes trousses, et je doute qu'il veuille me demander son chemin vers la bibliothÃ¨que locale. Je dois me prÃ©parer au combat - probablement le dernier. BientÃ´t, plus personne ne se souviendra de l'humble mage Daâ€¦"
+Une autre page du journal : "C'est la fin. Presque tout le monde est mort. J'ai échappé de justesse à la mort ! Ces terribles serpents géants… Je n'ai jamais vu de telles créatures. Cette fois, ce n'était pas une illusion. C'est contre cela que maîtresse m'avait prévenu. Quelqu'un est à mes trousses, et je doute qu'il veuille me demander son chemin vers la bibliothèque locale. Je dois me préparer au combat - probablement le dernier. Bientôt, plus personne ne se souviendra de l'humble mage Da…"
 
 (51, 106, 1) ***Crew Mate***
 Message:
-"Ã€ votre service, Capitaine ! "
+"À votre service, Capitaine ! "
 
 (52, 105, 1) ***Corsair***
 Message:
-"HÃ© ! On va trouver une issue, n'est-ce pas ? "
+"Hé ! On va trouver une issue, n'est-ce pas ? "
 
 (100, 62, 1) ***Event***
 Message:
@@ -271,40 +271,41 @@ Message:
 
 (94, 90, 1) ***Quest Guard***
 Message:
-Bidley voit quinze orifices dans le mur, chacune de forme cristalline. Si des cristaux de formes identiques y sont insÃ©rÃ©s, le mur s'ouvrira probablement.
-Vous insÃ©rez les cristaux. Et le mur commence Ã  trembler. Si on le pousse, il s'ouvrira.
+Bidley voit quinze orifices dans le mur, chacune de forme cristalline. Si des cristaux de formes identiques y sont insérés, le mur s'ouvrira probablement.
+Vous insérez les cristaux. Et le mur commence à trembler. Si on le pousse, il s'ouvrira.
 
 (99, 63, 1) ***Quest Guard***
 Message:
-Des nymphes gardent cette tour magique. Elles vous laisseront passer pour 7000 piÃ¨ces. 
-Souhaitez-vous payer les nymphes pour leur passageÂ ?
+Des nymphes gardent cette tour magique. Elles vous laisseront passer pour 7000 pièces. 
+Souhaitez-vous payer les nymphes pour leur passage ?
 
 (31, 4, 1) ***Quest Guard***
 Message:
 On dirait que seuls ceux qui connaissent les mots magiques peuvent passer ici.
-Qui pourrait bien connaÃ®tre les mots magiquesÂ ?
-Dargem marmonne quelque chose et la barriÃ¨re magique disparaÃ®t.
+Qui pourrait bien connaître les mots magiques ?
+Dargem marmonne quelque chose et la barrière magique disparaît.
 
 (103, 5, 1) ***Quest Guard***
 Message:
-Le fantÃ´me d'un capitaine pirate Ã©mergea devant Bidley. Il pointa sa tÃªte de son doigt immatÃ©riel. "Mon chapeauâ€¦ Je ne peux pas me reposer sans mon chapeau ! " gÃ©mit le fantÃ´me.
-Le fantÃ´me rÃ©apparut. "Des scÃ©lÃ©rats ont dÃ©truit ma tombe et ont pris mon chapeauâ€¦ mon chapeau ! Trouvez-le ! "
-DÃ¨s que le chapeau fut entre les mains du capitaine, il disparut avec.
+Le fantôme d'un capitaine pirate émergea devant Bidley. Il pointa sa tête de son doigt immatériel. "Mon chapeau… Je ne peux pas me reposer sans mon chapeau ! " gémit le fantôme.
+Le fantôme réapparut. "Des scélérats ont détruit ma tombe et ont pris mon chapeau… mon chapeau ! Trouvez-le ! "
+Dès que le chapeau fut entre les mains du capitaine, il disparut avec.
 
 (10, 71, 1) ***Quest Guard***
 Message:
-Une masse Ã©norme de serpents se balance et se tortille devant nousÂ ! Ce n'est peut-Ãªtre qu'une illusion, mais seul un magicien peut passer par-dessus.
-Les mots magiques doivent Ãªtre prononcÃ©s.
+Une masse énorme de serpents se balance et se tortille devant nous ! Ce n'est peut-être qu'une illusion, mais seul un magicien peut passer par-dessus.
+Les mots magiques doivent être prononcés.
 "Harrakk A'do Kallak'h Vek'tro"
 
 (87, 12, 1) ***Quest Guard***
 Message:
-Des centaines de serpents de mer agitent les eaux devant vousÂ ! Ce n'est peut-Ãªtre qu'une illusion savamment orchestrÃ©e, comme Casmetra vous avait prÃ©venu.
-Les mots magiques doivent Ãªtre prononcÃ©s.
-Dargem se prÃ©cipite impÃ©tueusement sur la masse de serpents, hurlant quelque chose dans une langue inconnue. Quelques instants plus tard, les monstres disparaissent.
+Des centaines de serpents de mer agitent les eaux devant vous ! Ce n'est peut-être qu'une illusion savamment orchestrée, comme Casmetra vous avait prévenu.
+Les mots magiques doivent être prononcés.
+Dargem se précipite impétueusement sur la masse de serpents, hurlant quelque chose dans une langue inconnue. Quelques instants plus tard, les monstres disparaissent.
 
 (3, 56, 1) ***Sign***
 Message:
 Temple des Abysses
 
+===== Extended Events =====
 ===== End of file =====

@@ -2,131 +2,131 @@
 Le Sauveteur
 
 ===== Map description =====
-Dargem doit dÃ©fendre Kilgor contre les forces d'Erathia et de Bracada pendant 3 mois. Si Kilgor tombe, la partie est terminÃ©e. Le niveau maximum des hÃ©ros est de 18. AprÃ¨s la victoire, Dargem et Murdoch accÃ©deront au scÃ©nario suivant avec le Pendentif de PuretÃ©.
+Dargem doit défendre Kilgor contre les forces d'Erathia et de Bracada pendant 3 mois. Si Kilgor tombe, la partie est terminée. Le niveau maximum des héros est de 18. Après la victoire, Dargem et Murdoch accéderont au scénario suivant avec le Pendentif de Pureté.
 
 ===== Rumors =====
 
 Name:
 Solmyr
 Text:
-Solmyr en personne est sur le point d'affronter Kilgor ! Que peuvent faire des bandes d'Orques face Ã  ses puissants Ã©clairs ?
+Solmyr en personne est sur le point d'affronter Kilgor ! Que peuvent faire des bandes d'Orques face à ses puissants éclairs ?
 
 Name:
 Adelaide
 Text:
-Adelaide serait en train de combiner une armÃ©e.
+Adelaide serait en train de combiner une armée.
 
 Name:
 Mullich
 Text:
-Sir Mullich prÃ©fÃ¨re utiliser des crÃ©atures volantes au combat. Il a Ã©galement rÃ©ussi Ã  mettre la main sur un vÃ©ritable canon !
+Sir Mullich préfère utiliser des créatures volantes au combat. Il a également réussi à mettre la main sur un véritable canon !
 
 Name:
 Astral
 Text:
-On dit qu'Astral n'a pas toujours Ã©tÃ© un Magicien ; il a mÃªme dÃ©jÃ  Ã©tÃ© considÃ©rÃ© comme un tireur correct.
+On dit qu'Astral n'a pas toujours été un Magicien ; il a même déjà été considéré comme un tireur correct.
 
 Name:
 Worms
 Text:
-D'Ã©normes vers sont apparus chez nous ! C'est sans doute la faute des Magiciens : ils jettent des dÃ©chets magiques, et les vers les ingÃ¨rent et deviennent gigantesques !
+D'énormes vers sont apparus chez nous ! C'est sans doute la faute des Magiciens : ils jettent des déchets magiques, et les vers les ingèrent et deviennent gigantesques !
 
 Name:
 Old Version
 Text:
-On raconte qu'autrefois dans ces contrÃ©es, on pouvait trouver des cabanes construites en plein milieu des lacs ! Que pensez-vous de ces histoires Ã  dormir debout ?
+On raconte qu'autrefois dans ces contrées, on pouvait trouver des cabanes construites en plein milieu des lacs ! Que pensez-vous de ces histoires à dormir debout ?
 
 Name:
 La Grotte des llusions
 Text:
-On raconte qu'autrefois, dans les montagnes de l'ouest, on pouvait trouver l'entrÃ©e d'une grotte mystÃ©rieuse. Puis, l'entrÃ©e disparut sans laisser de traces. Je me demande bien pourquoi.
+On raconte qu'autrefois, dans les montagnes de l'ouest, on pouvait trouver l'entrée d'une grotte mystérieuse. Puis, l'entrée disparut sans laisser de traces. Je me demande bien pourquoi.
 
 Name:
 Xanthor
 Text:
-On raconte que les Orques ont capturÃ© un Ã©rudit de renom Ã  la frontiÃ¨re d'Erathia.
+On raconte que les Orques ont capturé un érudit de renom à la frontière d'Erathia.
 
 ===== Timed events =====
 
 Name:
 Jour 1
 Message:
-Journal de Dargem. EntrÃ©e 250 :		"Câ€™est probablement le jour oÃ¹ jâ€™ai commencÃ© Ã  me dÃ©tester encore plus quâ€™aprÃ¨s mon vol malheureux du Casque. 		Tout a commencÃ© lorsque Stella mâ€™a rejoint au lieu convenu, mâ€™a tendu un sac de ducats et mâ€™a dit :		"Excellent travail, Messire Dargem ! Mes maÃ®tres sont ravis de votre succÃ¨s."		"EnchantÃ©, Madame", ai-je rÃ©pondu en hochant poliment la tÃªte. "Et maintenant, j'aimerais en savoir plus sur l'expÃ©dition dont vous avez parlÃ©... "		"C'est gentil Ã  vous de vous en souvenir", rÃ©pondit Stella avec un large sourire. Il me semblait que sourire Ã©tait son point fort. Elle maÃ®trisait parfaitement l'art de rÃ©pondre Ã  n'importe quelle question par un sourire. "Si vous souhaitez toujours participer Ã  l'expÃ©dition, il vous reste une derniÃ¨re tÃ¢che Ã  accomplir... "		"Attendez une minute, madameÂ ; nous n'avons jamais convenu de quoi que ce soit de ce genreÂ ! "		"C'est exact", soupira-t-elle. "Vous avez le droit de refuser. Je dois toutefois prÃ©ciser que cette mission est extrÃªmement importante pour mes maÃ®tres. Et pour vous aussi."		"Comment cela ? " demandai-je en plissant les yeux et en la regardant droit dans les yeux.  "Le jeune chef barbare Kilgor", dit Stella d'une voix douce. "Peut-Ãªtre en avez vous dÃ©jÃ  entendu parler ; un personnage peu recommandable de bout en bout... Il a rÃ©cemment fait savoir qu'il avait un besoin urgent de mercenaires. Il a tentÃ© de piller Bracada, mais il s'est retrouvÃ© piÃ©gÃ©. Il a besoin d'aide pour s'Ã©chapper. Et Kilgor est prÃªt Ã  tout payer pour obtenir de l'aide. Comprenez-vous oÃ¹ je veux en venir ? " Les yeux de la jeune femme s'illuminÃ¨rent et elle se tourna vers la mer.		"Difficile de ne pas comprendre. Vous voulez aider ce sauvage pour qu'il finance l'expÃ©dition", hasardai-je.		"Exact, comme toujours, Messire Dargem."
+Journal de Dargem. Entrée 250 :		"C’est probablement le jour où j’ai commencé à me détester encore plus qu’après mon vol malheureux du Casque. 		Tout a commencé lorsque Stella m’a rejoint au lieu convenu, m’a tendu un sac de ducats et m’a dit :		"Excellent travail, Messire Dargem ! Mes maîtres sont ravis de votre succès."		"Enchanté, Madame", ai-je répondu en hochant poliment la tête. "Et maintenant, j'aimerais en savoir plus sur l'expédition dont vous avez parlé... "		"C'est gentil à vous de vous en souvenir", répondit Stella avec un large sourire. Il me semblait que sourire était son point fort. Elle maîtrisait parfaitement l'art de répondre à n'importe quelle question par un sourire. "Si vous souhaitez toujours participer à l'expédition, il vous reste une dernière tâche à accomplir... "		"Attendez une minute, madame ; nous n'avons jamais convenu de quoi que ce soit de ce genre ! "		"C'est exact", soupira-t-elle. "Vous avez le droit de refuser. Je dois toutefois préciser que cette mission est extrêmement importante pour mes maîtres. Et pour vous aussi."		"Comment cela ? " demandai-je en plissant les yeux et en la regardant droit dans les yeux.  "Le jeune chef barbare Kilgor", dit Stella d'une voix douce. "Peut-être en avez vous déjà entendu parler ; un personnage peu recommandable de bout en bout... Il a récemment fait savoir qu'il avait un besoin urgent de mercenaires. Il a tenté de piller Bracada, mais il s'est retrouvé piégé. Il a besoin d'aide pour s'échapper. Et Kilgor est prêt à tout payer pour obtenir de l'aide. Comprenez-vous où je veux en venir ? " Les yeux de la jeune femme s'illuminèrent et elle se tourna vers la mer.		"Difficile de ne pas comprendre. Vous voulez aider ce sauvage pour qu'il finance l'expédition", hasardai-je.		"Exact, comme toujours, Messire Dargem."
 
 Name:
 1-2
 Message:
-Journal de Dargem. EntrÃ©e 251 :		"Jâ€™ai donc acceptÃ© de devenir capitaine dâ€™une unitÃ© chargÃ©e dâ€™aider Kilgor Ã  se sortir de ce mauvais pas. Eh bien ! Jâ€™espÃ©rais un meilleur accueil, mais le message oral que mâ€™a transmis le chef Ã  mon arrivÃ©e Ã©tait dâ€™une duretÃ© extrÃªme. Il s'avÃ¨re qu'il dÃ©teste les mercenaires, mais la situation ne cesse d'empirer, il n'a donc guÃ¨re le choix. Mes hommes et moi approcherons par la mer et par la terre pour soutenir les forces dÃ©fendant Fort Wildblade, le quartier gÃ©nÃ©ral du chef barbare. Il a eu la gÃ©nÃ©rositÃ© de mettre un campement auxiliaire Ã  ma disposition, et m'a mÃªme dÃ©pÃªchÃ© une sorte d'"officier de liaison" ; un imbÃ©cile Ã  la gueule de cochon et au nom ridicule qui commence par "G", je crois. Ce tas de graisse dÃ©gingandÃ© ressemble Ã  un brigand jusqu'au bout des ongles. Bon, au moins, il pourra se procurer des provisions pour sa populace, mÃªme par le vol.		Les forces combinÃ©es d'Erathia et de Bracada avancent depuis le nord. Notre mission est de les contenir, de les repousser et de les vaincre. Zut ! Je suis un voyageur, un mage et un collectionneur, pas un chef de guerre ! J'ai dÃ©jÃ  essayÃ© ce rÃ´le une fois, et je n'ai pas du tout apprÃ©ciÃ© les combats contre les troupes rÃ©guliÃ¨res.		Ã€ prÃ©sent, ma plus grande prÃ©occupation n'est pas tant la vie de cette brute immonde, Kilgor, mais plutÃ´t la perspective de dÃ©cevoir mes employeurs. Ma rÃ©putation, que je commenÃ§ais Ã  peine Ã  redresser, serait anÃ©antie Ã  jamais, et, pire encore, je n'apprendrais jamais rien de l'expÃ©dition que les maÃ®tres de Stella prÃ©parent. VoilÃ  qui est une bonne motivation pour tenter de jouer les Tarnum - ou quelque autre gÃ©nie militaire mythique. J'ai dÃ©jÃ  agi pour des raisons bien pires."
+Journal de Dargem. Entrée 251 :		"J’ai donc accepté de devenir capitaine d’une unité chargée d’aider Kilgor à se sortir de ce mauvais pas. Eh bien ! J’espérais un meilleur accueil, mais le message oral que m’a transmis le chef à mon arrivée était d’une dureté extrême. Il s'avère qu'il déteste les mercenaires, mais la situation ne cesse d'empirer, il n'a donc guère le choix. Mes hommes et moi approcherons par la mer et par la terre pour soutenir les forces défendant Fort Wildblade, le quartier général du chef barbare. Il a eu la générosité de mettre un campement auxiliaire à ma disposition, et m'a même dépêché une sorte d'"officier de liaison" ; un imbécile à la gueule de cochon et au nom ridicule qui commence par "G", je crois. Ce tas de graisse dégingandé ressemble à un brigand jusqu'au bout des ongles. Bon, au moins, il pourra se procurer des provisions pour sa populace, même par le vol.		Les forces combinées d'Erathia et de Bracada avancent depuis le nord. Notre mission est de les contenir, de les repousser et de les vaincre. Zut ! Je suis un voyageur, un mage et un collectionneur, pas un chef de guerre ! J'ai déjà essayé ce rôle une fois, et je n'ai pas du tout apprécié les combats contre les troupes régulières.		À présent, ma plus grande préoccupation n'est pas tant la vie de cette brute immonde, Kilgor, mais plutôt la perspective de décevoir mes employeurs. Ma réputation, que je commençais à peine à redresser, serait anéantie à jamais, et, pire encore, je n'apprendrais jamais rien de l'expédition que les maîtres de Stella préparent. Voilà qui est une bonne motivation pour tenter de jouer les Tarnum - ou quelque autre génie militaire mythique. J'ai déjà agi pour des raisons bien pires."
 
 Name:
 Jour 4
 Message:
-Journal de Dargem. EntrÃ©e 252 :		"J'ai reÃ§u des nouvelles inquiÃ©tantes. Les troupes de Bracada sont menÃ©es par le lÃ©gendaire Solmyr. C'est un puissant gÃ©nie et un serviteur trÃ¨s proche de Gavin Magnus en personne. Je n'aimerais pas l'affronter sur le champ de bataille !		Peut-Ãªtre que les hommes de main de Kilgor pourraient le tenir Ã  distance ? Pff. RÃªver est si agrÃ©able... dommage que les rÃªves se rÃ©alisent si rarement."
+Journal de Dargem. Entrée 252 :		"J'ai reçu des nouvelles inquiétantes. Les troupes de Bracada sont menées par le légendaire Solmyr. C'est un puissant génie et un serviteur très proche de Gavin Magnus en personne. Je n'aimerais pas l'affronter sur le champ de bataille !		Peut-être que les hommes de main de Kilgor pourraient le tenir à distance ? Pff. Rêver est si agréable... dommage que les rêves se réalisent si rarement."
 
 Name:
-ÃˆÃˆ Ã°Ã¥Ã±Ã³Ã°Ã±Ã»
+ÈÈ ğåñóğñû
 Message:
 
 
 Name:
 Jour 8
 Message:
-Extrait d'une lettre de GruezakÂ :		"Jusqu'ici, j'ai bien rÃ©ussi Ã  contrÃ´ler ce pirate. Pour le genre d'aventurier blasÃ© qu'il essaie de jouer, il est Ã©tonnamment peu observateur, ou peut-Ãªtre tout simplement trop arrogant pour prÃªter attention Ã  ce qui se passe plus loin que son nez. J'ai rÃ©ussi, par exemple, Ã  le convaincre que la baliste dÃ©montÃ©e que j'avais apportÃ©e Ã©tait en rÃ©alitÃ© des piÃ¨ces d'un mÃ©canisme conÃ§u pour faire rÃ´tir une Gorgone entiÃ¨re Ã  la broche.		Oncle Bof, je pense que le risque que Dargem dÃ©couvre ma vÃ©ritable identitÃ© est nÃ©gligeable. Je peux agir librement en sa prÃ©sence, car il est persuadÃ© que je pille le quartier Ã  la recherche de provisions et de tout ce qui n'est pas clouÃ© au sol. Et s'il s'avÃ¨re qu'il n'est pas fiable... Je me souviens bien de vos leÃ§ons, viel homme. Aucun tÃ©moin, aucun problÃ¨me."
+Extrait d'une lettre de Gruezak :		"Jusqu'ici, j'ai bien réussi à contrôler ce pirate. Pour le genre d'aventurier blasé qu'il essaie de jouer, il est étonnamment peu observateur, ou peut-être tout simplement trop arrogant pour prêter attention à ce qui se passe plus loin que son nez. J'ai réussi, par exemple, à le convaincre que la baliste démontée que j'avais apportée était en réalité des pièces d'un mécanisme conçu pour faire rôtir une Gorgone entière à la broche.		Oncle Bof, je pense que le risque que Dargem découvre ma véritable identité est négligeable. Je peux agir librement en sa présence, car il est persuadé que je pille le quartier à la recherche de provisions et de tout ce qui n'est pas cloué au sol. Et s'il s'avère qu'il n'est pas fiable... Je me souviens bien de vos leçons, viel homme. Aucun témoin, aucun problème."
 
 Name:
 Jour 9
 Message:
-Journal de Dargem. EntrÃ©e 255 :		"Aujourd'hui, Gruezak m'a transmis un message de Kilgor en personne :		"Mercenaire ! Le Seigneur de Krewlod s'adresse Ã  toi ! Les Erathiens et les tisseurs de sorts m'ont pris par surprise, tu le sais. Je suis confiant en ma puissance, mais mes ennemis sont plus nombreux et ils disposent de malÃ©fiques magies ! Je t'ordonne donc : apporte toute l'aide possible Ã  mes troupes et veille Ã  ce que les troupes de choc ennemies ne pÃ©nÃ¨trent ma forteresse !		Je connais bien ton genre ; les gens comme toi n'ont aucun honneur. Vous, mercenaires, vous n'hÃ©siterez pas Ã  poignarder votre employeur dans le dos si on vous propose un meilleur prix. Nous sommes tous deux adultes et nous le savons, n'est-ce pas ? J'enverrai une caravane d'or et de provisions - pour assurer mes arriÃ¨res, non pas parce que je t'apprÃ©cie particuliÃ¨rement. Dans d'autres circonstances, j'aimerais bien voir de quelle couleur sont tes tripes. Bonne chance ! "		Je ne suis pas surpris. Que peut-on attendre d'autre d'un chef barbare ? Une dÃ©claration d'amour ?"
+Journal de Dargem. Entrée 255 :		"Aujourd'hui, Gruezak m'a transmis un message de Kilgor en personne :		"Mercenaire ! Le Seigneur de Krewlod s'adresse à toi ! Les Erathiens et les tisseurs de sorts m'ont pris par surprise, tu le sais. Je suis confiant en ma puissance, mais mes ennemis sont plus nombreux et ils disposent de maléfiques magies ! Je t'ordonne donc : apporte toute l'aide possible à mes troupes et veille à ce que les troupes de choc ennemies ne pénètrent ma forteresse !		Je connais bien ton genre ; les gens comme toi n'ont aucun honneur. Vous, mercenaires, vous n'hésiterez pas à poignarder votre employeur dans le dos si on vous propose un meilleur prix. Nous sommes tous deux adultes et nous le savons, n'est-ce pas ? J'enverrai une caravane d'or et de provisions - pour assurer mes arrières, non pas parce que je t'apprécie particulièrement. Dans d'autres circonstances, j'aimerais bien voir de quelle couleur sont tes tripes. Bonne chance ! "		Je ne suis pas surpris. Que peut-on attendre d'autre d'un chef barbare ? Une déclaration d'amour ?"
 
 Name:
 Jour 11
 Message:
-Journal de Dargem. EntrÃ©e 256Â :		"Les espions de Kilgor ont eu la gentillesse de me confier quelques informations... aprÃ¨s les avoir transmises Ã  leur souverain, bien sÃ»r. Si seulement ce crÃ©tin de Gruezak pouvait se montrer utile de temps en tempsÂ ! Bref, plusieurs gÃ©nÃ©raux ennemis prÃ©parent une attaque contre Fort Wildblade, en plein cÅ“ur du territoire que je suis chargÃ© de dÃ©fendre. On ignore encore de quel genre de hÃ©ros il sâ€™agit, mais il y en a au moins deux. Les mages Bracadans ont commencÃ© Ã  travailler sur un rituel arcanique permettant de tÃ©lÃ©porter ces armÃ©es juste sous nos piedsÂ !		Maudits lÃ¢chesÂ ! La seule chose dont je suis sÃ»r, câ€™est quâ€™ils ne pourront pas amener tous leurs gÃ©nÃ©raux dâ€™un coupÂ ; ils les enverront un par un. AprÃ¨s le premier rituel, les mages devront recharger leur portail, et nous aurons environ un mois pour prÃ©parer une nouvelle attaque."
+Journal de Dargem. Entrée 256 :		"Les espions de Kilgor ont eu la gentillesse de me confier quelques informations... après les avoir transmises à leur souverain, bien sûr. Si seulement ce crétin de Gruezak pouvait se montrer utile de temps en temps ! Bref, plusieurs généraux ennemis préparent une attaque contre Fort Wildblade, en plein cœur du territoire que je suis chargé de défendre. On ignore encore de quel genre de héros il s’agit, mais il y en a au moins deux. Les mages Bracadans ont commencé à travailler sur un rituel arcanique permettant de téléporter ces armées juste sous nos pieds !		Maudits lâches ! La seule chose dont je suis sûr, c’est qu’ils ne pourront pas amener tous leurs généraux d’un coup ; ils les enverront un par un. Après le premier rituel, les mages devront recharger leur portail, et nous aurons environ un mois pour préparer une nouvelle attaque."
 
 Name:
 Jour 12
 Message:
-Journal de Dargem. EntrÃ©e 257 :		"Parfois, je ne peux mâ€™empÃªcher de me demander : pourquoi la chance tourne-t-elle si souvent ? Le destin est capricieux. Tout a commencÃ© avec ce rat arrogant de Boyd ; il voulait prendre ma place, et câ€™Ã©tait Ã©vident, mÃªme pour un aveugle avec la moitiÃ© d'un cerveau. Je lâ€™ai supportÃ© pendant des annÃ©es, espÃ©rant quâ€™il finirait par se ressaisir et arrÃªter ses manigances. HÃ©las ! Jâ€™ai dÃ» exÃ©cuter cet imbÃ©cile pour asseoir mon autoritÃ© et dissuader quiconque de comploter contre moi.		Et devinez quoi ? Il est revenu dâ€™entre les morts ! Je ne sais pas sâ€™il a bÃ©nÃ©ficiÃ© dâ€™un coup de pouce ; le continent de Jadame est un vÃ©ritable chaos, et tout peut arriver lÃ -bas. 		Cette immonde carcasse sâ€™est alliÃ©e Ã  des gobelins, des nains anthropophages et autres abominations des terres dÃ©solÃ©es, et ils ont rÃ©ussi Ã  nous chasser du continent. Je ne pouvais tolÃ©rer un tel affront. J'ai dÃ©cidÃ© de m'en prendre Ã  ce rÃ©cidiviste... et j'ai Ã©chouÃ© !		L'imbÃ©cile jubilait. Il m'a enterrÃ© vivant, persuadÃ© non seulement de me tuer, mais aussi de me condamner Ã  d'atroces souffrances. Ha ! EspÃ©rer effrayer un indigÃ¨ne de Nighon avec un peu de terre sur la tÃªte ! C'est incroyable ! Sachez que je ne suis pas un pirate ordinaire : je suis un sorcier de l'Ã©lÃ©ment de l'air, et d'une puissance remarquable, vous remarquerez. Extraire un peu d'air du sol pour respirer, affaiblir mes liens par de minuscules rafales de vent acÃ©rÃ©es, tout cela n'est que de la petite monnaie pour moi. Puis, de longues heures d'exercices patients et assidus pour contraindre le vent Ã  emporter le sable, jusqu'Ã  ce que, couche aprÃ¨s couche, il disparaisse et libÃ¨re mon cercueil. Tor Anwyn lui-mÃªme n'aurait pas pu me supporter, alors imaginez le cadavre encore plus stupide qu'un stupide pirate !		Il ne restait plus un brin de cervelle dans cette boÃ®te Ã  os - sinon, il aurait pu trouver une meilleure idÃ©e que celle que je lui ai moi-mÃªme imposÃ©e. Je l'ai suppliÃ© de ne pas me punir avec la mÃªme sÃ©vÃ©ritÃ© que celle dont j'avais jadis fait lors de son chÃ¢timent ; naturellement, il a fait exactement le contraire. On dit que les Bracadans ont dÃ©veloppÃ© toute une science sur les mÃ©andres de la pensÃ©e humaine - je crois qu'ils appellent Ã§a la psychologie. Peut-Ãªtre devrais-je leur Ã©crire un manuel sur le sujet.		Eh bien, cher journal, je suis littÃ©ralement ressuscitÃ©, et bientÃ´t, je recouvrerai mes forces... TrÃ¨s bientÃ´t.
+Journal de Dargem. Entrée 257 :		"Parfois, je ne peux m’empêcher de me demander : pourquoi la chance tourne-t-elle si souvent ? Le destin est capricieux. Tout a commencé avec ce rat arrogant de Boyd ; il voulait prendre ma place, et c’était évident, même pour un aveugle avec la moitié d'un cerveau. Je l’ai supporté pendant des années, espérant qu’il finirait par se ressaisir et arrêter ses manigances. Hélas ! J’ai dû exécuter cet imbécile pour asseoir mon autorité et dissuader quiconque de comploter contre moi.		Et devinez quoi ? Il est revenu d’entre les morts ! Je ne sais pas s’il a bénéficié d’un coup de pouce ; le continent de Jadame est un véritable chaos, et tout peut arriver là-bas. 		Cette immonde carcasse s’est alliée à des gobelins, des nains anthropophages et autres abominations des terres désolées, et ils ont réussi à nous chasser du continent. Je ne pouvais tolérer un tel affront. J'ai décidé de m'en prendre à ce récidiviste... et j'ai échoué !		L'imbécile jubilait. Il m'a enterré vivant, persuadé non seulement de me tuer, mais aussi de me condamner à d'atroces souffrances. Ha ! Espérer effrayer un indigène de Nighon avec un peu de terre sur la tête ! C'est incroyable ! Sachez que je ne suis pas un pirate ordinaire : je suis un sorcier de l'élément de l'air, et d'une puissance remarquable, vous remarquerez. Extraire un peu d'air du sol pour respirer, affaiblir mes liens par de minuscules rafales de vent acérées, tout cela n'est que de la petite monnaie pour moi. Puis, de longues heures d'exercices patients et assidus pour contraindre le vent à emporter le sable, jusqu'à ce que, couche après couche, il disparaisse et libère mon cercueil. Tor Anwyn lui-même n'aurait pas pu me supporter, alors imaginez le cadavre encore plus stupide qu'un stupide pirate !		Il ne restait plus un brin de cervelle dans cette boîte à os - sinon, il aurait pu trouver une meilleure idée que celle que je lui ai moi-même imposée. Je l'ai supplié de ne pas me punir avec la même sévérité que celle dont j'avais jadis fait lors de son châtiment ; naturellement, il a fait exactement le contraire. On dit que les Bracadans ont développé toute une science sur les méandres de la pensée humaine - je crois qu'ils appellent ça la psychologie. Peut-être devrais-je leur écrire un manuel sur le sujet.		Eh bien, cher journal, je suis littéralement ressuscité, et bientôt, je recouvrerai mes forces... Très bientôt.
 
 Name:
 Jour 14
 Message:
-Journal de Dargem. EntrÃ©e 258 :		"Une caravane d'or envoyÃ©e par Kilgor est arrivÃ©e. J'espÃ¨re que cela n'affaiblira pas trop son armÃ©e. Je crois que ses vaillants hommes se prÃ©parent aussi Ã  passer Ã  l'action, plutÃ´t que de regarder Dargem faire le sale boulot. Ou peut-Ãªtre pas ? "
+Journal de Dargem. Entrée 258 :		"Une caravane d'or envoyée par Kilgor est arrivée. J'espère que cela n'affaiblira pas trop son armée. Je crois que ses vaillants hommes se préparent aussi à passer à l'action, plutôt que de regarder Dargem faire le sale boulot. Ou peut-être pas ? "
 
 Name:
 Jour 15
 Message:
-Extrait d'une lettre de GruezakÂ :		"Il est Ã©tonnamment facile de passer pour un idiot aux yeux des autres quand on est un orc. Eh bien, notre ancien culte des festins est en effet trÃ¨s facile Ã  prendre pour de la gourmandise mÃªlÃ©e de nÃ©gligence, si l'on n'a jamais Ã©tÃ© invitÃ© Ã  notre table ou si l'on n'a jamais appris la signification de chaque Ã©lÃ©ment chargÃ© de tradition dans nos cÃ©rÃ©monies. Ce dandy de Dargem fait des grimaces inimaginables dÃ¨s qu'il nous aperÃ§oit, nous qui, avec tout le respect dÃ», dÃ©peÃ§ons notre proie, nous barbouillant le visage de motifs de sang chaudÂ ; les plus anciens d'entre nous ont le premier choix des morceaux les plus prÃ©cieux et des abats qui perdent irrÃ©mÃ©diablement leur saveur dÃ©licate dÃ¨s qu'ils refroidissent. Eh bien, qu'il se contente de son fromage trois fois moisi et de ses vins oubliÃ©s dans une cave poussiÃ©reuse depuis un temps avant les dieux.		Le vieux Preudhum s'en donnerait Ã  cÅ“ur joie en observant ce fin gourmet ! VoilÃ  un homme qui s'y connaissait en haute cuisine : il pouvait dÃ©couper une rate fraÃ®che en fines lamelles, la rÃ´tir et la servir encore vivante. Je me souviens, Bof, comment vous m'aviez amenÃ© le rencontrer et m'aviez dit d'apprendre tout ce qu'il savait. Je me souviens du ton sur lequel vous aviez prononcÃ© ce mot, "tout". J'ai Ã©tÃ© un Ã©lÃ¨ve assidu, oncle Bof.		Un jour, on me demandera : "Qui Ã©tiez-vous au temps de Kilgor, Gruezak ? " Et c'est probablement ce que je rÃ©pondrai : cuisinier. J'espÃ¨re seulement que je n'aurai pas Ã  rÃ©pondre Ã  ces questions pendant que je suis sur la table de torture."
+Extrait d'une lettre de Gruezak :		"Il est étonnamment facile de passer pour un idiot aux yeux des autres quand on est un orc. Eh bien, notre ancien culte des festins est en effet très facile à prendre pour de la gourmandise mêlée de négligence, si l'on n'a jamais été invité à notre table ou si l'on n'a jamais appris la signification de chaque élément chargé de tradition dans nos cérémonies. Ce dandy de Dargem fait des grimaces inimaginables dès qu'il nous aperçoit, nous qui, avec tout le respect dû, dépeçons notre proie, nous barbouillant le visage de motifs de sang chaud ; les plus anciens d'entre nous ont le premier choix des morceaux les plus précieux et des abats qui perdent irrémédiablement leur saveur délicate dès qu'ils refroidissent. Eh bien, qu'il se contente de son fromage trois fois moisi et de ses vins oubliés dans une cave poussiéreuse depuis un temps avant les dieux.		Le vieux Preudhum s'en donnerait à cœur joie en observant ce fin gourmet ! Voilà un homme qui s'y connaissait en haute cuisine : il pouvait découper une rate fraîche en fines lamelles, la rôtir et la servir encore vivante. Je me souviens, Bof, comment vous m'aviez amené le rencontrer et m'aviez dit d'apprendre tout ce qu'il savait. Je me souviens du ton sur lequel vous aviez prononcé ce mot, "tout". J'ai été un élève assidu, oncle Bof.		Un jour, on me demandera : "Qui étiez-vous au temps de Kilgor, Gruezak ? " Et c'est probablement ce que je répondrai : cuisinier. J'espère seulement que je n'aurai pas à répondre à ces questions pendant que je suis sur la table de torture."
 
 Name:
 Jour 21
 Message:
-Journal de Dargem. EntrÃ©e 260Â :		"Une femme Ã  bord, apporte les ennuisÂ ; câ€™est ce que pensent les marins Erathien. Et câ€™est bien le cas, ce qui se comprend aisÃ©ment. Lors dâ€™une longue traversÃ©e, les hommes de lâ€™Ã©quipage finissent tÃ´t ou tard par sâ€™entretuer si lâ€™un dâ€™eux a la chance d'avoir la compagnie dâ€™une femme, alors que les autres non. Câ€™est prÃ©cisÃ©ment pour cette raison que les pirates ne font jamais de prisonniÃ¨resÂ ; ils les jettent simplement par-dessus bord.		Cependant, la plupart des femmes de Regna sont loin dâ€™Ãªtre de timides mÃ©nagÃ¨res. Certaines femmes pirates sont devenues des lÃ©gendes, rivalisant avec les plus grands capitaines. Bien sÃ»r, rares sont les filles de Regna qui osent devenir matelotesÂ : câ€™est un mÃ©tier ingrat et Ã©puisant, constamment semÃ© dâ€™embÃ»ches. Il existe cependant, dans cette sociÃ©tÃ©, une strate de PrÃªtresses de la MerÂ : elles sont considÃ©rÃ©es comme des membres dâ€™Ã©quipage Ã  part entiÃ¨re, sans pour autant Ãªtre obligÃ©es de frotter le pont ou de hisser les voiles.		On ne peut guÃ¨re les qualifier de fanatiques, mÃªme si elles observent des rituels issus de la religion dâ€™un petit peuple autrefois assimilÃ© par les pirates. Ce sont plutÃ´t des mages de combat, Ã©paulent lâ€™Ã©quipage grÃ¢ce Ã  leurs sorts simples mais efficaces. Les pirates les perÃ§oivent gÃ©nÃ©ralement comme des compagnons dâ€™armes, du moins avant de dÃ©barquer. Il convient de noter, cependant, que certaines de ces prÃªtresses sont des lanceuses de sorts trÃ¨s talentueuses, dâ€™une puissance comparable Ã  celle des druides. Elles exercent une grande influence et entretiennent des liens Ã©troits avec les capitaines et amiraux les plus rÃ©putÃ©s."
+Journal de Dargem. Entrée 260 :		"Une femme à bord, apporte les ennuis ; c’est ce que pensent les marins Erathien. Et c’est bien le cas, ce qui se comprend aisément. Lors d’une longue traversée, les hommes de l’équipage finissent tôt ou tard par s’entretuer si l’un d’eux a la chance d'avoir la compagnie d’une femme, alors que les autres non. C’est précisément pour cette raison que les pirates ne font jamais de prisonnières ; ils les jettent simplement par-dessus bord.		Cependant, la plupart des femmes de Regna sont loin d’être de timides ménagères. Certaines femmes pirates sont devenues des légendes, rivalisant avec les plus grands capitaines. Bien sûr, rares sont les filles de Regna qui osent devenir matelotes : c’est un métier ingrat et épuisant, constamment semé d’embûches. Il existe cependant, dans cette société, une strate de Prêtresses de la Mer : elles sont considérées comme des membres d’équipage à part entière, sans pour autant être obligées de frotter le pont ou de hisser les voiles.		On ne peut guère les qualifier de fanatiques, même si elles observent des rituels issus de la religion d’un petit peuple autrefois assimilé par les pirates. Ce sont plutôt des mages de combat, épaulent l’équipage grâce à leurs sorts simples mais efficaces. Les pirates les perçoivent généralement comme des compagnons d’armes, du moins avant de débarquer. Il convient de noter, cependant, que certaines de ces prêtresses sont des lanceuses de sorts très talentueuses, d’une puissance comparable à celle des druides. Elles exercent une grande influence et entretiennent des liens étroits avec les capitaines et amiraux les plus réputés."
 
 Name:
 Jour 22
 Message:
-Journal de Dargem. EntrÃ©e 261Â :		"Soyons sur nos gardesÂ ! On dit quâ€™Adelaide, la prÃªtresse de glace, va bientÃ´t envahir la rÃ©gion. Eh bien, pour ma part, je nâ€™ai pas peur de ses petits tours avec les stalactites. Elle regrettera de se mettre en travers de notre cheminÂ !Â "
+Journal de Dargem. Entrée 261 :		"Soyons sur nos gardes ! On dit qu’Adelaide, la prêtresse de glace, va bientôt envahir la région. Eh bien, pour ma part, je n’ai pas peur de ses petits tours avec les stalactites. Elle regrettera de se mettre en travers de notre chemin ! "
 
 Name:
 Jour 28
 Message:
-Journal de Dargem. EntrÃ©e 263 :		"Que sait-on des Nix ?		Ce sont une ancienne race d'amphibiens humanoÃ¯des. Ils se distinguent des Hommes LÃ©zards Tataliens par leur taille plus imposante et leurs Ã©cailles couleur Ã©meraude. Autre particularitÃ© importante : ils prÃ©fÃ¨rent vivre en eau salÃ©e et passent d'ailleurs plus de temps dans les profondeurs que sur terre. Il est possible que les deux espÃ¨ces soient apparentÃ©es, mais guÃ¨re plus qu'avec les Gobelins et les Ogres. Les Nix pratiquaient autrefois la piraterie, attaquant les navires et extorquant un tribut aux villages cÃ´tiers. Ce mode de vie barbare, ainsi que des guerres intestines incessantes, ont menÃ© les Nix au bord de l'extinction.		DispersÃ©s aux quatre coins du monde, beaucoup ont fini par Ãªtre rÃ©duits en esclavage. J'ai croisÃ© ces crÃ©atures Ã  Nighon. Nous employions souvent des ouvriers Nix dans les mines inondÃ©es. RÃ©cemment, cependant, ils ont rÃ©ussi Ã  oublier leurs vieilles querelles et se sont alliÃ©s aux pirates de Regna. Ce fut une sage dÃ©cision : elle donna Ã  leur race de puissants alliÃ©s.		Un Nix adulte n'est pas plus faible qu'un Ogre ou un Troll, et armÃ© de son arme de prÃ©dilection, le trident, il devient un vÃ©ritable porteur de mort. C'est pourquoi les capitaines regnans respectent et estiment grandement ces crÃ©atures, et les guerriers Nix se trouvent souvent en premiÃ¨re ligne de leurs armÃ©es."
+Journal de Dargem. Entrée 263 :		"Que sait-on des Nix ?		Ce sont une ancienne race d'amphibiens humanoïdes. Ils se distinguent des Hommes Lézards Tataliens par leur taille plus imposante et leurs écailles couleur émeraude. Autre particularité importante : ils préfèrent vivre en eau salée et passent d'ailleurs plus de temps dans les profondeurs que sur terre. Il est possible que les deux espèces soient apparentées, mais guère plus qu'avec les Gobelins et les Ogres. Les Nix pratiquaient autrefois la piraterie, attaquant les navires et extorquant un tribut aux villages côtiers. Ce mode de vie barbare, ainsi que des guerres intestines incessantes, ont mené les Nix au bord de l'extinction.		Dispersés aux quatre coins du monde, beaucoup ont fini par être réduits en esclavage. J'ai croisé ces créatures à Nighon. Nous employions souvent des ouvriers Nix dans les mines inondées. Récemment, cependant, ils ont réussi à oublier leurs vieilles querelles et se sont alliés aux pirates de Regna. Ce fut une sage décision : elle donna à leur race de puissants alliés.		Un Nix adulte n'est pas plus faible qu'un Ogre ou un Troll, et armé de son arme de prédilection, le trident, il devient un véritable porteur de mort. C'est pourquoi les capitaines regnans respectent et estiment grandement ces créatures, et les guerriers Nix se trouvent souvent en première ligne de leurs armées."
 
 Name:
 Jour 49
 Message:
-Journal de Dargem. EntrÃ©e 264Â :		"Un rapport urgent nous parvint, annonÃ§ant lâ€™arrivÃ©e imminente du Sorcier Astral dans la rÃ©gionÂ ! Il me semble avoir dÃ©jÃ  entendu parler de ce vaurien. Son travail consiste Ã  manipuler les esprits des soldats ennemis et est sans doute capable dâ€™autres coups bas. Si les Ã©claireurs nâ€™exagÃ¨rent pas, Astral est accompagnÃ© de Titans. Apparemment, il est dÃ©terminÃ© Ã  anÃ©antir Kilgor. Je ne peux pas laisser faire celaÂ ! Aucun Titan ne lâ€™aidera Ã  vaincre nos hordes. Ce vieil imbÃ©cile sâ€™enfuira couvert de honteÂ !Â "
+Journal de Dargem. Entrée 264 :		"Un rapport urgent nous parvint, annonçant l’arrivée imminente du Sorcier Astral dans la région ! Il me semble avoir déjà entendu parler de ce vaurien. Son travail consiste à manipuler les esprits des soldats ennemis et est sans doute capable d’autres coups bas. Si les éclaireurs n’exagèrent pas, Astral est accompagné de Titans. Apparemment, il est déterminé à anéantir Kilgor. Je ne peux pas laisser faire cela ! Aucun Titan ne l’aidera à vaincre nos hordes. Ce vieil imbécile s’enfuira couvert de honte ! "
 
 Name:
 Jour 50
 Message:
-Extrait d'une lettre non envoyÃ©e de GruezakÂ :		"Bof, je vais faire comme si je n'avais jamais reÃ§u votre derniÃ¨re lettre avec des instructions. N'oublie pasÂ : j'ai plein de choses intÃ©ressantes Ã  raconter, si quelqu'un veut bien m'Ã©couter. Par exemple, une histoire fascinante sur la faÃ§on dont Kilgor a contournÃ© la loi de Boragus concernant la taille de la garde rapprochÃ©e des chefs de clan en dÃ©clarant ses hommes supplÃ©mentaires comme personnel de cuisine sur les registres remis au Duc. Je parle de celui qui lui a mis cette idÃ©e en tÃªte. Je parle de comment Bo... le cerveau mÃªme de ce plan a personnellement recrutÃ© ces "ouvriers du couteau et du brasero", et de ce qu'il leur a appris. Leurs... recettes. Quant aux mets exquis que les chefs qui abhorraient l'ascension de Kilgor recevraient de cette cuisine.		Bien sÃ»r, maintenant, juste aprÃ¨s votre... notre seigneur a prouvÃ© son droit au pouvoir de la seule maniÃ¨re digne d'un barbare â€” par la force, bien entendu, cette information est inutile. Mais que se passerait-il si, dans quelques annÃ©es, la graine tombait dans un terreau fertile, alors que les clans seraient dÃ©jÃ  las de son rÃ¨gneÂ ? Que se passerait-il s'ils dÃ©couvraient les fondations pourries du sanctuaire que vous et Kija Ã©rigez autour de la figure de notre brave souverainÂ ? RÃ©flÃ©chissez-y, Bofmog. RÃ©flÃ©chissez bien avant de me donner des ultimatums et de me mettre en danger. Je me fous de Dargem. J'en dirai plusÂ : non seulement il m'a manquÃ© de respect, mais il a mÃªme osÃ© me menacer, et je veux qu'il le paie cher. Mais vous m'avez vous-mÃªme appris que dans notre mÃ©tier, on ne peut pas cÃ©der aux sentiments.		Il me serait facile de m'assurer que le mercenaire ne survive pas au dernier combat et que la rÃ©compense que Kilgor lui a envoyÃ©e... disparaisse. Mais j'ai dÃ©couvert des signes que quelqu'un d'autre que moi le surveille Ã©galement. Cette personne compte dÃ©jÃ  sur cet argent et dÃ©sapprouverait certainement vos plans visant Ã  vous assurer une sÃ©curitÃ© financiÃ¨re par un petit dÃ©tournement de fonds, juste au cas oÃ¹ un malheur imprÃ©vu frapperait notre souverain. Et je ne suis pas prÃªt Ã  payer de ma vie pour votre cupiditÃ©."
+Extrait d'une lettre non envoyée de Gruezak :		"Bof, je vais faire comme si je n'avais jamais reçu votre dernière lettre avec des instructions. N'oublie pas : j'ai plein de choses intéressantes à raconter, si quelqu'un veut bien m'écouter. Par exemple, une histoire fascinante sur la façon dont Kilgor a contourné la loi de Boragus concernant la taille de la garde rapprochée des chefs de clan en déclarant ses hommes supplémentaires comme personnel de cuisine sur les registres remis au Duc. Je parle de celui qui lui a mis cette idée en tête. Je parle de comment Bo... le cerveau même de ce plan a personnellement recruté ces "ouvriers du couteau et du brasero", et de ce qu'il leur a appris. Leurs... recettes. Quant aux mets exquis que les chefs qui abhorraient l'ascension de Kilgor recevraient de cette cuisine.		Bien sûr, maintenant, juste après votre... notre seigneur a prouvé son droit au pouvoir de la seule manière digne d'un barbare — par la force, bien entendu, cette information est inutile. Mais que se passerait-il si, dans quelques années, la graine tombait dans un terreau fertile, alors que les clans seraient déjà las de son règne ? Que se passerait-il s'ils découvraient les fondations pourries du sanctuaire que vous et Kija érigez autour de la figure de notre brave souverain ? Réfléchissez-y, Bofmog. Réfléchissez bien avant de me donner des ultimatums et de me mettre en danger. Je me fous de Dargem. J'en dirai plus : non seulement il m'a manqué de respect, mais il a même osé me menacer, et je veux qu'il le paie cher. Mais vous m'avez vous-même appris que dans notre métier, on ne peut pas céder aux sentiments.		Il me serait facile de m'assurer que le mercenaire ne survive pas au dernier combat et que la récompense que Kilgor lui a envoyée... disparaisse. Mais j'ai découvert des signes que quelqu'un d'autre que moi le surveille également. Cette personne compte déjà sur cet argent et désapprouverait certainement vos plans visant à vous assurer une sécurité financière par un petit détournement de fonds, juste au cas où un malheur imprévu frapperait notre souverain. Et je ne suis pas prêt à payer de ma vie pour votre cupidité."
 
 Name:
 Jour 70
 Message:
-Journal de Dargem. EntrÃ©e 265Â :		"Il semble que le dernier gÃ©nÃ©ral ennemi soit sur le point dâ€™arriver ici Ã  la tÃªte de son armÃ©e. Le cÃ©lÃ¨bre Chevalier, Sir Mullich, a dÃ©cidÃ© de se lancer dans cette bataille. Il se prÃ©pare Ã  marcher jusquâ€™ici avec un groupe dâ€™Archanges. Je dois admettre que cet adversaire est notre plus grande menace Ã  ce jour. On peut juger du talent de guerrier de Sir Mullich au fait quâ€™il nâ€™est plus autorisÃ© Ã  participer aux tournois de joutes, afin que dâ€™autres puissent briller. Cependant, une guerre totale nâ€™est pas une mince affaire, et je ne suis liÃ© par aucune rÃ¨gle iciÂ ! Cela dit, nous devons nous prÃ©parer comme il se doitÂ ; il est inutile de prendre des risques alors que la victoire est si proche et que lâ€™ennemi est sur le point de flÃ©chir. Peut-Ãªtre nâ€™aurai-je mÃªme pas besoin de frapper Mullich de mes propres mainsÂ : si je parviens Ã  dÃ©tourner son attention du quartier gÃ©nÃ©ral de Kilgor, le temps ainsi gagnÃ© devrait suffire Ã  faire arriver des renforts de Krewlod. Une fois sur place, la coalition ennemie nâ€™aura dâ€™autre choix que de battre en retraite."
+Journal de Dargem. Entrée 265 :		"Il semble que le dernier général ennemi soit sur le point d’arriver ici à la tête de son armée. Le célèbre Chevalier, Sir Mullich, a décidé de se lancer dans cette bataille. Il se prépare à marcher jusqu’ici avec un groupe d’Archanges. Je dois admettre que cet adversaire est notre plus grande menace à ce jour. On peut juger du talent de guerrier de Sir Mullich au fait qu’il n’est plus autorisé à participer aux tournois de joutes, afin que d’autres puissent briller. Cependant, une guerre totale n’est pas une mince affaire, et je ne suis lié par aucune règle ici ! Cela dit, nous devons nous préparer comme il se doit ; il est inutile de prendre des risques alors que la victoire est si proche et que l’ennemi est sur le point de fléchir. Peut-être n’aurai-je même pas besoin de frapper Mullich de mes propres mains : si je parviens à détourner son attention du quartier général de Kilgor, le temps ainsi gagné devrait suffire à faire arriver des renforts de Krewlod. Une fois sur place, la coalition ennemie n’aura d’autre choix que de battre en retraite."
 
 ===== Heroes =====
 
@@ -141,11 +141,11 @@ Timed events:
 Name:
 Renforts pour le Pion
 Message:
-De nouvelles troupes sont arrivÃ©es Ã  Kraken Bay, envoyÃ©es par mes amis de Jadame.
+De nouvelles troupes sont arrivées à Kraken Bay, envoyées par mes amis de Jadame.
 
 (96, 90, 0) ***Halberdier***
 Message:
-"Que font ces satanÃ©s pirates ici ? "
+"Que font ces satanés pirates ici ? "
 
 (86, 73, 0) ***Stronghold***
 
@@ -154,12 +154,12 @@ Timed events:
 Name:
 Ravitaillement 10
 Message:
-Gruezak signale l'arrivÃ©e de ravitaillement en provenance de Kilgor.
+Gruezak signale l'arrivée de ravitaillement en provenance de Kilgor.
 
 Name:
 Ravitaillement 20
 Message:
-Gruezak signale que la derniÃ¨re caravane de ravitaillement en provenance de Kilgor est arrivÃ©e.
+Gruezak signale que la dernière caravane de ravitaillement en provenance de Kilgor est arrivée.
 
 (76, 63, 0) ***Stronghold***
 Name:
@@ -179,9 +179,9 @@ Thundertown
 
 (25, 60, 0) ***Seer's Hut***
 Message:
-"J'Ã©lÃ¨ve des BÃ©hÃ©moths ici. Ces derniers temps, des Dragons Rouges arrivent du nord de la crÃªte, volant mes petitsÂ ! Si vous Ã©liminez ces monstres, je vous rÃ©compenserai gÃ©nÃ©reusement."
-"Les dragons sont tout prÃ¨s, mais il vous faudra une armÃ©e dÃ©cente pour les tuer."
-"Merci d'avoir sauvÃ© mes prÃ©cieux bÃ©bÃ©sÂ ! Ils sont sains et saufs maintenant, et je peux vous cÃ©der quelques jeunes pour renforcer vos rangs."
+"J'élève des Béhémoths ici. Ces derniers temps, des Dragons Rouges arrivent du nord de la crête, volant mes petits ! Si vous éliminez ces monstres, je vous récompenserai généreusement."
+"Les dragons sont tout près, mais il vous faudra une armée décente pour les tuer."
+"Merci d'avoir sauvé mes précieux bébés ! Ils sont sains et saufs maintenant, et je peux vous céder quelques jeunes pour renforcer vos rangs."
 
 (30, 48, 0) ***Sign***
 Message:
@@ -189,17 +189,17 @@ Hidden Valley
 
 (70, 90, 0) ***Air Elemental***
 Message:
-Il semblerait que des Ã©lÃ©mentaires sauvages empÃªchent les PrÃªtresses de la Mer de quitter leur repaire.
+Il semblerait que des élémentaires sauvages empêchent les Prêtresses de la Mer de quitter leur repaire.
 
 (25, 105, 0) ***Enchanter***
 Message:
-"Que voulez-vous ? Allez-vous-en ! Ne vous mÃªlez pas de nos expÃ©riences ! "
+"Que voulez-vous ? Allez-vous-en ! Ne vous mêlez pas de nos expériences ! "
 
 (87, 74, 0) ***Barbarian***
 Name:
 Gruezak
 Biography:
-Dans l'armÃ©e de Kilgor, tout le monde combat, du chef au plus humble porteur, sans oublier les cuisiniers, dont la gestion s'Ã©tend bien au-delÃ  des chaudrons, jusqu'aux immenses hachoirs de boucher. Ã€ y regarder de plus prÃ¨s, Gruezak rÃ©vÃ¨le une palette de compÃ©tences martiales inattendue pour un simple cuisinierÂ ; mais qui voudrait s'intÃ©resser Ã  un cuisinier ordinaire, et qui plus est, un OrqueÂ ?
+Dans l'armée de Kilgor, tout le monde combat, du chef au plus humble porteur, sans oublier les cuisiniers, dont la gestion s'étend bien au-delà des chaudrons, jusqu'aux immenses hachoirs de boucher. À y regarder de plus près, Gruezak révèle une palette de compétences martiales inattendue pour un simple cuisinier ; mais qui voudrait s'intéresser à un cuisinier ordinaire, et qui plus est, un Orque ?
 
 (84, 95, 0) ***Mighty Gorgon***
 Message:
@@ -211,27 +211,27 @@ Il fait un froid glacial ici...
 
 (36, 48, 0) ***Seer's Hut***
 Message:
-Mon ami Murdoch s'apprÃªtait Ã  partir Ã  l'aventure sur un autre continent. Avant son dÃ©part, il dÃ©cida de chasser de mystÃ©rieux monstres. Il disait qu'ils avaient des tÃªtes similaires Ã  des calmars, ou... Dieu seul sait, je ne suis pas pÃªcheur ! Il est parti depuis un moment, et je m'inquiÃ¨te.
+Mon ami Murdoch s'apprêtait à partir à l'aventure sur un autre continent. Avant son départ, il décida de chasser de mystérieux monstres. Il disait qu'ils avaient des têtes similaires à des calmars, ou... Dieu seul sait, je ne suis pas pêcheur ! Il est parti depuis un moment, et je m'inquiète.
 Avez-vous eu des nouvelles de Murdoch ?
-Murdoch ! Quel plaisir de te voir en pleine forme, mon vieux ! Donne cette camelote Ã  tes amis pirates, je pense qu'elle leur sera utile.
+Murdoch ! Quel plaisir de te voir en pleine forme, mon vieux ! Donne cette camelote à tes amis pirates, je pense qu'elle leur sera utile.
 
 (95, 59, 0) ***Seer's Hut***
 Message:
-Une tribu de cyclopes vit ici. Ils en ont assez des prÃªcheurs qui reviennent annÃ©e aprÃ¨s annÃ©e, cherchant Ã  les dÃ©tourner de la foi de leurs ancÃªtres. Les tuer serait leur accorder une trop grande clÃ©menceÂ : les Cyclopes veulent les dÃ©vorerÂ ! Ils me demandent dâ€™amener 15 hommes saints pour le dÃ©jeunerÂ ; alors, la tribu de Cyclopes repue se joindra Ã  moiÂ !
-"Pas de dÃ©jeuner, pas dâ€™accordÂ !Â "
-"EnfinÂ ! Un festin et une juste punition pour les blasphÃ¨mes de ces prÃ©dicateurs insupportablesÂ ! Amenez-les-nous tout de suiteÂ : notre estomac grondeÂ !Â "
+Une tribu de cyclopes vit ici. Ils en ont assez des prêcheurs qui reviennent année après année, cherchant à les détourner de la foi de leurs ancêtres. Les tuer serait leur accorder une trop grande clémence : les Cyclopes veulent les dévorer ! Ils me demandent d’amener 15 hommes saints pour le déjeuner ; alors, la tribu de Cyclopes repue se joindra à moi !
+"Pas de déjeuner, pas d’accord ! "
+"Enfin ! Un festin et une juste punition pour les blasphèmes de ces prédicateurs insupportables ! Amenez-les-nous tout de suite : notre estomac gronde ! "
 
 (40, 95, 0) ***Ocean Bottle***
 Message:
-Quelle question ne peut-on pas rÃ©pondre par "non" ?
+Quelle question ne peut-on pas répondre par "non" ?
 
 (92, 91, 0) ***Monk***
 Message:
-"HÃ©rÃ©tiques impies ! "
+"Hérétiques impies ! "
 
 (62, 102, 0) ***Ocean Bottle***
 Message:
-Ã€ quelle vitesse une Hydre doit-elle courir pour ne pas entendre le cliquetis d'une Ã©pÃ©e attachÃ©e Ã  sa queue ?
+À quelle vitesse une Hydre doit-elle courir pour ne pas entendre le cliquetis d'une épée attachée à sa queue ?
 
 (3, 85, 0) ***Ocean Bottle***
 Message:
@@ -243,7 +243,7 @@ Embuscade!
 
 (107, 37, 0) ***Event***
 Message:
-"Ravi de vous voir, mercenaire ! Nous nous sommes rÃ©fugiÃ©s ici pour Ã©chapper Ã  la colÃ¨re des sorciers, mais nous vous aiderons volontiers ! "
+"Ravi de vous voir, mercenaire ! Nous nous sommes réfugiés ici pour échapper à la colère des sorciers, mais nous vous aiderons volontiers ! "
 
 (81, 4, 0) ***Sign***
 Message:
@@ -263,7 +263,7 @@ Message:
 
 (61, 30, 0) ***Event***
 Message:
-Extrait du journal de DargemÂ :		"De la fumÃ©e sâ€™Ã©levant de la colline attira mon attention. Je dÃ©cidai dâ€™aller voir. Ã€ ma grande surprise, je dÃ©couvris une ferme de HobbitsÂ ! Fou de rage, je lanÃ§ai un Ã©clair sur la hutte la plus proche. La maison sâ€™embrasa et ces misÃ©rables sâ€™enfuirent en hurlant de terreur. Je ris dâ€™un rire sinistre, leur envoyai quelques autres Ã©clairs, puis arrachai un mousquet des mains dâ€™un compagnon et tirai un coup de feu. 		Que ces sales nains se souviennent de DargemÂ ! Quâ€™ils aillent se plaindre Ã  leurs proches Ã  JadameÂ !		Je hais tellement ces Hobbits, leur horrible cheffe Henrietta et son ami, le vieux nigaud Frederick. Sâ€™ils osent encore se mettre en travers de mon chemin, je ne serai plus gentlemanÂ !		AprÃ¨s avoir Ã©tanchÃ© ma soif de vengeance, je dÃ©cidai de reconstituer un peu mes provisions. Par le vol, bien sÃ»r. On verra bien si quelquâ€™un ose dire que je n'Ã©tais pas dans mon bon droitÂ !Â "
+Extrait du journal de Dargem :		"De la fumée s’élevant de la colline attira mon attention. Je décidai d’aller voir. À ma grande surprise, je découvris une ferme de Hobbits ! Fou de rage, je lançai un éclair sur la hutte la plus proche. La maison s’embrasa et ces misérables s’enfuirent en hurlant de terreur. Je ris d’un rire sinistre, leur envoyai quelques autres éclairs, puis arrachai un mousquet des mains d’un compagnon et tirai un coup de feu. 		Que ces sales nains se souviennent de Dargem ! Qu’ils aillent se plaindre à leurs proches à Jadame !		Je hais tellement ces Hobbits, leur horrible cheffe Henrietta et son ami, le vieux nigaud Frederick. S’ils osent encore se mettre en travers de mon chemin, je ne serai plus gentleman !		Après avoir étanché ma soif de vengeance, je décidai de reconstituer un peu mes provisions. Par le vol, bien sûr. On verra bien si quelqu’un ose dire que je n'étais pas dans mon bon droit ! "
 
 (80, 63, 0) ***Event***
 Message:
@@ -271,15 +271,15 @@ Message:
 
 (10, 22, 0) ***Event***
 Message:
-"HÃ©, mon gars, merci de m'avoir sauvÃ© de ces choses ! " La voix de l'Ã©tranger coiffÃ© d'un chapeau bizarre retentit. 	"Comment as-tu pu te faire capturer ? " demandai-je.	"Ils Ã©taient trop nombreux ; je n'ai pas eu le temps de recharger." "C'est pour Ã§a que je prÃ©fÃ¨re la bonne vieille magie", dis-je d'un ton grave. "Je me dÃ©brouille bien avec le pistolet et l'arquebuse, mais rien ne vaut la sensation d'envoyer un Ã©clair foudroyer son ennemi ! " 	"Je vous dois une fiÃ¨re chandelle. Je m'appelle Murdoch, et je suis mercenaire."	"Je suis Dargem", dis-je. "Moi aussi, je suis mercenaire... enfin, en quelque sorte." 	"EnchantÃ©, Dargem ! Pour m'acquitter de ma dette, je vous accompagnerai dans vos aventures, mais pour un temps limitÃ©. Des affaires Ã  Jadame me rÃ©clament." 	"Ce serait parfait : j'aurais bien besoin de compagnons de confiance. Tiens, tiens ! Si jamais vous croisez un petit malin Ã  Jadame... " J'hÃ©sitais Ã  rÃ©vÃ©ler Ã  mes compagnons les dÃ©tails de mon expÃ©dition peu fructueuse au large de ce lointain continent, aussi continuai-je Ã  voix basse. Murdoch releva ses lunettes noires, plissa ses yeux pÃ¢les et hocha la tÃªte. Nous nous serrÃ¢mes la main.
+"Hé, mon gars, merci de m'avoir sauvé de ces choses ! " La voix de l'étranger coiffé d'un chapeau bizarre retentit. 	"Comment as-tu pu te faire capturer ? " demandai-je.	"Ils étaient trop nombreux ; je n'ai pas eu le temps de recharger." "C'est pour ça que je préfère la bonne vieille magie", dis-je d'un ton grave. "Je me débrouille bien avec le pistolet et l'arquebuse, mais rien ne vaut la sensation d'envoyer un éclair foudroyer son ennemi ! " 	"Je vous dois une fière chandelle. Je m'appelle Murdoch, et je suis mercenaire."	"Je suis Dargem", dis-je. "Moi aussi, je suis mercenaire... enfin, en quelque sorte." 	"Enchanté, Dargem ! Pour m'acquitter de ma dette, je vous accompagnerai dans vos aventures, mais pour un temps limité. Des affaires à Jadame me réclament." 	"Ce serait parfait : j'aurais bien besoin de compagnons de confiance. Tiens, tiens ! Si jamais vous croisez un petit malin à Jadame... " J'hésitais à révéler à mes compagnons les détails de mon expédition peu fructueuse au large de ce lointain continent, aussi continuai-je à voix basse. Murdoch releva ses lunettes noires, plissa ses yeux pâles et hocha la tête. Nous nous serrâmes la main.
 
 (48, 72, 0) ***Event***
 Message:
-Bonus alliÃ© de faible difficultÃ©
+Bonus allié de faible difficulté
 
 (76, 64, 0) ***Event***
 Message:
-"Dargem ? Mais qu'est-ce que c'est que Ã§a ?! " grogna Kilgor depuis le mur, surpris.
+"Dargem ? Mais qu'est-ce que c'est que ça ?! " grogna Kilgor depuis le mur, surpris.
 
 (99, 73, 0) ***Sign***
 Message:
@@ -287,37 +287,37 @@ Attention aux attaques surprises !
 
 (46, 105, 0) ***Event***
 Message:
-Extrait du journal de DargemÂ :		"Nous avons aperÃ§u un vaisseau inconnuÂ : il est apparu comme par magie. Alors que nous nous approchions, quelquâ€™un Ã  bord criaÂ : "De SpanjaardenÂ !Â ", puis le vaisseau disparutÂ ! Que signifient ces motsÂ ? Je nâ€™ai jamais rien entendu de pareil. Nous avons dÃ» croiser le lÃ©gendaire Jadamean volantÂ ; on dit quâ€™il porte malheur."
+Extrait du journal de Dargem :		"Nous avons aperçu un vaisseau inconnu : il est apparu comme par magie. Alors que nous nous approchions, quelqu’un à bord cria : "De Spanjaarden ! ", puis le vaisseau disparut ! Que signifient ces mots ? Je n’ai jamais rien entendu de pareil. Nous avons dû croiser le légendaire Jadamean volant ; on dit qu’il porte malheur."
 
 (103, 0, 0) ***Sign***
 Message:
-Ã‰coutez les voix du vide...
+Écoutez les voix du vide...
 
 (18, 38, 0) ***Event***
 Message:
-Soudain, un fantÃ´me apparut Ã  mes cÃ´tÃ©s, prenant la forme d'une femme rousse ! Je dÃ©gainai mon coutelas et prÃ©parai un Ã©clair dans ma main gauche. Mes gardes du corps dÃ©gainÃ¨rent pareillement.	"Qui Ãªtes-vous ? Identifiez-vous ! " criai-je.	"Donnez... Mograin... des... bottes... de... vitation", dit le fantÃ´me en gesticulant violemment et en semblant parfois se dÃ©former.	"De quoi parlez-vous ? Je n'ai pas d'autres bottes que les miennes... et aucune "vitation", c'est certain ! " m'exclamai-je avec colÃ¨re, perplexe. 		Je n'obtins aucune rÃ©ponse : le fantÃ´me avait disparu. Encore des anomalies spatiales, pensai-je avec mÃ©fiance en rengainant mon sabre.	"Cap'taine, regardez ! Il y a quelque chose de brillant par terre ! " s'Ã©cria un de mes hommes. "Eh bien, c'est bien ce que je pensais ! " dis-je en regardant de plus prÃ¨s. "Quelqu'un faisait des expÃ©riences avec des balises spatiales, mais mal paramÃ©trÃ©. RÃ©cupÃ©rez-les ! Ce ne sont plus que de jolis morceaux de verre maintenant."
+Soudain, un fantôme apparut à mes côtés, prenant la forme d'une femme rousse ! Je dégainai mon coutelas et préparai un éclair dans ma main gauche. Mes gardes du corps dégainèrent pareillement.	"Qui êtes-vous ? Identifiez-vous ! " criai-je.	"Donnez... Mograin... des... bottes... de... vitation", dit le fantôme en gesticulant violemment et en semblant parfois se déformer.	"De quoi parlez-vous ? Je n'ai pas d'autres bottes que les miennes... et aucune "vitation", c'est certain ! " m'exclamai-je avec colère, perplexe. 		Je n'obtins aucune réponse : le fantôme avait disparu. Encore des anomalies spatiales, pensai-je avec méfiance en rengainant mon sabre.	"Cap'taine, regardez ! Il y a quelque chose de brillant par terre ! " s'écria un de mes hommes. "Eh bien, c'est bien ce que je pensais ! " dis-je en regardant de plus près. "Quelqu'un faisait des expériences avec des balises spatiales, mais mal paramétré. Récupérez-les ! Ce ne sont plus que de jolis morceaux de verre maintenant."
 
 (75, 74, 0) ***Sign***
 Message:
-Parfois, dans un endroit qui semble complÃ¨tement vide, quelque chose d'intÃ©ressant s'y cache.
+Parfois, dans un endroit qui semble complètement vide, quelque chose d'intéressant s'y cache.
 
 (62, 12, 0) ***Event***
 Message:
-Extrait du journal de DargemÂ :		"Aujourdâ€™hui, jâ€™ai rencontrÃ© un Ã©rudit renommÃ© du nom de Lex. Nous Ã©tions assis prÃ¨s du feu de camp, Ã  Ã©changer des histoires. Lex me raconta que quelque part dans le vide entre les mondes, dâ€™Ã©normes blocs de pierre volaient, sur lesquels vivent des humains et dâ€™autres crÃ©atures - et que ces pierres semblent former de nouveaux mondes semblables au nÃ´tre. Franchement, cela mâ€™a paru Ãªtre les divagations dâ€™un fou. Des pierres volantesÂ ? Elles sont lourdes et finissent forcÃ©ment par retomberÂ ! Enfin, matiÃ¨re Ã  rÃ©flexion."
+Extrait du journal de Dargem :		"Aujourd’hui, j’ai rencontré un érudit renommé du nom de Lex. Nous étions assis près du feu de camp, à échanger des histoires. Lex me raconta que quelque part dans le vide entre les mondes, d’énormes blocs de pierre volaient, sur lesquels vivent des humains et d’autres créatures - et que ces pierres semblent former de nouveaux mondes semblables au nôtre. Franchement, cela m’a paru être les divagations d’un fou. Des pierres volantes ? Elles sont lourdes et finissent forcément par retomber ! Enfin, matière à réflexion."
 
 (23, 72, 0) ***Event***
 Message:
-Extrait du journal de DargemÂ : "Jâ€™ai aperÃ§u de loin cette tente aux couleurs vives. Jâ€™ai pensÃ© quâ€™il sâ€™agissait peut-Ãªtre de celle du gardien des clefs, qui, pour une raison inconnue, nâ€™Ã©tait pas indiquÃ©e sur ma carteÂ ; mais sa petite taille mâ€™a intriguÃ©. Soudain, un homme Ã©trange, aux cheveux gris et vÃªtu dâ€™une tenue singuliÃ¨re, est apparu. En nous voyant, il nous fit un signe de la main, et se prÃ©cipita dans la tente. Au moment oÃ¹ je lui criaisÂ : "Qui Ãªtes-vousÂ ?Â ", la tente disparut comme par magieÂ ! Nous avons fouillÃ© les environs minutieusement, mais nâ€™avons trouvÃ© aucune trace du vieil homme ni de sa tente bleue... Il y avait cependant quelque chose de prÃ©cieux par terreÂ : il a dÃ» le laisser tomber."
+Extrait du journal de Dargem : "J’ai aperçu de loin cette tente aux couleurs vives. J’ai pensé qu’il s’agissait peut-être de celle du gardien des clefs, qui, pour une raison inconnue, n’était pas indiquée sur ma carte ; mais sa petite taille m’a intrigué. Soudain, un homme étrange, aux cheveux gris et vêtu d’une tenue singulière, est apparu. En nous voyant, il nous fit un signe de la main, et se précipita dans la tente. Au moment où je lui criais : "Qui êtes-vous ? ", la tente disparut comme par magie ! Nous avons fouillé les environs minutieusement, mais n’avons trouvé aucune trace du vieil homme ni de sa tente bleue... Il y avait cependant quelque chose de précieux par terre : il a dû le laisser tomber."
 
 (103, 25, 0) ***Event***
 Message:
-Extrait du journal de DargemÂ :		"Jâ€™ai fait un cauchemar absolument Ã©pouvantable aujourdâ€™huiÂ ! Je travaillais dans un observatoire perdu dans les montagnes. Il Ã©tait Ã©quipÃ© dâ€™immenses tÃ©lescopes qui transmettaient des informations Ã  une boule de cristal. Soudainement, quelque chose a dÃ©raillÃ©Â : la transmission sâ€™est mise Ã  bÃ©gayer. Il faisait nuit noire et jâ€™Ã©tais terrifiÃ©, mais je devais absolument aller vÃ©rifier les tÃ©lescopes et comprendre ce qui s'Ã©tait passÃ©. Je tremblais Ã  lâ€™idÃ©e de sortir dans la nature sauvage en pleine nuitÂ ! Ã€ contrecÅ“ur, je me suis dirigÃ© vers lâ€™Ã©curie oÃ¹ je gardais mon poney. En essayant de monter en selle, je suis tombÃ©... et je me suis rÃ©veillÃ©. Quel soulagement de rÃ©aliser que ce nâ€™Ã©tait quâ€™un rÃªveÂ !Â "
+Extrait du journal de Dargem :		"J’ai fait un cauchemar absolument épouvantable aujourd’hui ! Je travaillais dans un observatoire perdu dans les montagnes. Il était équipé d’immenses télescopes qui transmettaient des informations à une boule de cristal. Soudainement, quelque chose a déraillé : la transmission s’est mise à bégayer. Il faisait nuit noire et j’étais terrifié, mais je devais absolument aller vérifier les télescopes et comprendre ce qui s'était passé. Je tremblais à l’idée de sortir dans la nature sauvage en pleine nuit ! À contrecœur, je me suis dirigé vers l’écurie où je gardais mon poney. En essayant de monter en selle, je suis tombé... et je me suis réveillé. Quel soulagement de réaliser que ce n’était qu’un rêve ! "
 
 (20, 45, 1) ***Seer's Hut***
 Message:
-Bien le bonjour, frÃ¨re ! Maudite BÃ©atrice, cette pirate autoproclamÃ©e et chasseuse de bandits, nous a piÃ©gÃ©s dans ce trou perdu. Si vous nous vengez de cette arrogante femme, nous nous joindrons Ã  vous.
-BÃ©atrice est toujours au service d'Erathia.
-Beau boulot, frÃ¨re ! ÃŠtes-vous prÃªt Ã  nous intÃ©grer dans votre bande ?
+Bien le bonjour, frère ! Maudite Béatrice, cette pirate autoproclamée et chasseuse de bandits, nous a piégés dans ce trou perdu. Si vous nous vengez de cette arrogante femme, nous nous joindrons à vous.
+Béatrice est toujours au service d'Erathia.
+Beau boulot, frère ! Êtes-vous prêt à nous intégrer dans votre bande ?
 
 (50, 52, 1) ***Pandora's Box***
 Message:
@@ -325,19 +325,20 @@ Message:
 
 (85, 69, 1) ***Seer's Hut***
 Message:
-Il semblerait que, rÃ©cemment, les pirates aient pris l'habitude, certes judicieuse mais agaÃ§ante, de verrouiller leurs maisons. J'imagine qu'Elmore habite iciÂ ; il faudrait que je le retrouve si je veux pouvoir visiter sa maison.
+Il semblerait que, récemment, les pirates aient pris l'habitude, certes judicieuse mais agaçante, de verrouiller leurs maisons. J'imagine qu'Elmore habite ici ; il faudrait que je le retrouve si je veux pouvoir visiter sa maison.
 Seul Elmore peut ouvrir la porte.
-"Merci de m'avoir sauvÃ©, DargemÂ !Â " s'exclama Elmore en s'inclinant thÃ©Ã¢tralement et en posant un genou Ã  terre.	"Assez de ces honneursÂ ! Allons bavarder un peu", grommelai-je, non sans un soupir silencieux. Je dois avouer que j'apprÃ©ciais ces honneurs, mais je ne voulais pas trop m'attarder en compagnie de Regnans.
-"J'ai vraiment la poisse ces derniers temps ! Je n'arrÃªte pas de me faire enfermer", dit Elmore d'un ton furieux.
-Elmore ne parlera qu'Ã  Dargem.
-"Pas de chance, hein ? " ricanais-je.	"C'est sÃ»rement Ã  cause de cette vieille histoire dans la tombe ! J'en ai pÃ©nÃ©trÃ© une par effraction... tout devait Ãªtre maudit ! Depuis, je me fais attraper par des chevaliers et des dÃ©mons... mÃªme par des homards qui parlent ! " Elmore soupira et se mit Ã  fouiller dans sa malle. "Des homards qui parlent ? OÃ¹ pouvez-vous les avoirs rencontrÃ©s ? " 	"Laissez tomber ! Ils ne doivent plus Ãªtre lÃ  ! " Le pirate me fit signe de partir. "Vous feriez mieux d'essayer Ã§a ! " "Et c'est quoi, Ã§a ? " demandai-je en lorgnant un bol contenant un pilon. Il y avait une substance verte dedans. 	"Une pÃ¢te Ã  base de baies rares des montagnes. Les Barbares en mangent pour devenir plus forts." 	"Complotez-vous avec Miriam ? Vous avez toutes les deux dÃ©veloppÃ© une envie irrÃ©pressible de mettre toutes sortes de choses dÃ©goÃ»tantes dans votre bouche...Â " grommelai-je.		Ã€ contrecÅ“ur, je pris un peu de pÃ¢te avec mon doigt. Lâ€™odeur Ã©tait infecte, comme si quelquâ€™un avait dÃ©jÃ  mangÃ© ces baies. Je retins mon souffle et lÃ©chai mon doigt. Une vague de chaleur me parcourut, ma vision sâ€™aiguisa et mes mouvements devinrent fluides et prÃ©cis. Devais-je finir cette friandiseÂ ?
+"Merci de m'avoir sauvé, Dargem ! " s'exclama Elmore en s'inclinant théâtralement et en posant un genou à terre.	"Assez de ces honneurs ! Allons bavarder un peu", grommelai-je, non sans un soupir silencieux. Je dois avouer que j'appréciais ces honneurs, mais je ne voulais pas trop m'attarder en compagnie de Regnans.
+"J'ai vraiment la poisse ces derniers temps ! Je n'arrête pas de me faire enfermer", dit Elmore d'un ton furieux.
+Elmore ne parlera qu'à Dargem.
+"Pas de chance, hein ? " ricanais-je.	"C'est sûrement à cause de cette vieille histoire dans la tombe ! J'en ai pénétré une par effraction... tout devait être maudit ! Depuis, je me fais attraper par des chevaliers et des démons... même par des homards qui parlent ! " Elmore soupira et se mit à fouiller dans sa malle. "Des homards qui parlent ? Où pouvez-vous les avoirs rencontrés ? " 	"Laissez tomber ! Ils ne doivent plus être là ! " Le pirate me fit signe de partir. "Vous feriez mieux d'essayer ça ! " "Et c'est quoi, ça ? " demandai-je en lorgnant un bol contenant un pilon. Il y avait une substance verte dedans. 	"Une pâte à base de baies rares des montagnes. Les Barbares en mangent pour devenir plus forts." 	"Complotez-vous avec Miriam ? Vous avez toutes les deux développé une envie irrépressible de mettre toutes sortes de choses dégoûtantes dans votre bouche... " grommelai-je.		À contrecœur, je pris un peu de pâte avec mon doigt. L’odeur était infecte, comme si quelqu’un avait déjà mangé ces baies. Je retins mon souffle et léchai mon doigt. Une vague de chaleur me parcourut, ma vision s’aiguisa et mes mouvements devinrent fluides et précis. Devais-je finir cette friandise ?
 
 (2, 94, 1) ***Event***
 Message:
-Bonus pour le niveau de difficultÃ© maximale
+Bonus pour le niveau de difficulté maximale
 
 (2, 102, 1) ***Event***
 Message:
-Bonus pour le niveau de difficultÃ© maximale
+Bonus pour le niveau de difficulté maximale
 
+===== Extended Events =====
 ===== End of file =====
