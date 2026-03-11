@@ -2699,7 +2699,7 @@ Text 5: "{Bouclier}
 
 Lance Bouclier avec un effet augmenté de 10% tous les N niveau du Héros, où N est le rang de la créature ciblée."
 Text 6: "Dalton"
-Text 7: "Les armes ordinaires peinent à égratigner un Jotunn, mais croire que ces colosses négligent leur protection relève de la pure folie. Dalton est le forgeron le plus habile capable de forger un équipement d'une telle taille. Malgré la pauvreté de la Pierre de Vori, Dalton a percé les secrets de la magie pour s'assurer que ses créations puissent résister à tout, même à la fureur d'un démon de glace."
+Text 7: "Les armes ordinaires peinent à égratigner un Jotunn, mais croire que ces colosses négligent leur protection relève de la pure folie. Dalton est le forgeron le plus habile capable de forger un équipement d'une telle taille. Malgré la piètre qualité de la Pierre de Vori, Dalton a percé les secrets de la magie pour s'assurer que ses créations puissent résister à tout, même à la fureur d'un démon de glace."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
