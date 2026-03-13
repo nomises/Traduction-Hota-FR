@@ -1,42 +1,43 @@
 # H1Roger
 ## 0101
 ### Regions right-click
-Caught in a shipwreck, the pirate Jeremy ended up on an island between Nighon and Eeofol. There is an abandoned Erathian fort here that must be captured and built up to a castle.
+Victime d'un naufrage, le pirate Jeremy s'est retrouvé sur une île située entre Nighon et Eeofol. On y trouve un fort Erathian abandonné qu'il lui faut conquérir et transformer en château.
 
 ### Prologue
-Licentious life of a pirate… Horizonless sea over, the creaking ship and the whishing salty wind! The young pirate Jeremy Albatross relishes it, until one day he finds himself at the death’s door. A doomed path it was or a chain of eventualities?
+La vie dépravée d'un pirate... La mer et l'horizon sans limites, le craquement du navire, le vent salé… C'était la vie que menait le jeune Jeremy Albatross et il vivait cette existence passionnément et sans aucune retenue… jusqu'au jour où sa bonne fortune se retourna contre lui. Il se demanda alors s'il était maudit ou bien s'il s'agissait là d'un simple concours de circonstances.
 
-Desperately trying to lose the chase of Erathians, Jeremy leads Black Unicorn, his caravel, right into the heart of a storm. He put his trust in the fortune, and was in complete denial of the fact that these humongous, tempestuous waves may overturn the ship and send it into the Davy Jones' locker. However, the fortune smiled on Jeremy, though, not exactly in the way he would prefer. The ship cannoned into the rocks and got a massive hole. It was impossible to repair the damage; however the crew managed to haul Black Unicorn up to the nearest land and abandon it on the in-shore riffs.
+Cherchant désespérément à semer les Erathians, Jeremy guida le Black Unicorn, son galion, droit au cœur d'une tempête. Il s'en remit alors à sa chance, ignorant les énormes vagues impétueuses qui menaçaient d'envoyer son navire par le fond. Cependant, la réussite sourit à Jeremy mais pas exactement comme il l'aurait souhaité. Le bateau se prit dans les récifs et écopa d'un énorme trou dans la coque. Il était impossible de réparer cette cavité béante, alors l'équipage s'attela à guider tant bien que mal le Black Unicorn vers la terre ferme, et l'abandonna là, sur la côte.
 
-At least, Jeremy Albatross is alive, as well as a good quarter of his crew and his faithful mate Patris. The golden beach of an unknown island, blue sky over their heads, and green sea, lasting up and beyond the horizon… A new adventure awaited them.
+Au moins, Jeremy Albatross était vivant, au même titre qu'une partie de son équipage et bien sûr son fidèle compagnon, Patris. L'île inexplorée dévoila alors des plages aux reflets dorés, un ciel bleu azur et une mer verdoyante à perte de vue. Une nouvelle aventure les attendait.
 
 ### Epilogue
 
 
 ## 0102
 ### Regions right-click
-A Kreegan force from nearby Eeofol is about to land. The island must be taken under full control before this happens, and there is no time to spare.
+Une force Kreegan venue non loin d'Eeofol est sur le point de débarquer. Il faut prendre le contrôle total de l'île avant que cela n'arrive, et il n'y a pas une seconde à perdre.
 
 ### Prologue
-Jeremy didn’t yet think of what awaits him in the future. He was simply enjoying his life now. However, somewhere far away on the continent, humongous hordes of Kreegan demons was beginning to stir. They were preparing for a final move, for an ultimate incarnation of their plan of destroying this world. Now, they were sending their scouts in all word’s corners. And as it turns out, this little island is in their way, with a fort standing in the middle, with Jolly Roger insidiously grinning from a black pirate flag.
+Jeremy ne pensait jamais à ce que lui réservait le futur. Il profitait de l'instant présent. Pourtant, quelque part, loin sur le continent, des hordes de démons Kreegan commençaient à se rassembler. Ces derniers préparaient depuis longtemps l'attaque finale, l'ultime assaut qui conduirait à la destruction du monde. Désormais, leurs éclaireurs sillonnaient les quatre coins du globe et ils ne manqueraient pas de croiser cette petite île sur leur chemin, ainsi que la forteresse s'élevant en son milieu, arborant le pavillon noir du Jolly Roger.
 
-In order to survive, Jeremy has to take over the island. Will he succeed this time?
+Pour survivre, il n'avait pas le choix : Jeremy devait reprendre l'île. Réussirait-il cette fois-ci ?
 
 ### Epilogue
 
 
 ## 0103
 ### Regions right-click
-The enemy is close, but the pirates are not on their own anymore. The locals are prepared to fend off the uninvited guests alongside them. The Kreegan attack on the island must be thwarted and their supply base captured.
+L'ennemi est tout proche, mais les pirates ne sont plus seuls. Les habitants sont prêts à se joindre à eux pour repousser ces intrus. Il faut contrecarrer l'attaque des Kreegans sur l'île et s'emparer de leur base de ravitaillement.
 
 ### Prologue
-Jeremy didn’t yet think of what awaits him in the future. He was simply enjoying his life now. However, somewhere far away on the continent, humongous hordes of Kreegan demons was beginning to stir. They were preparing for a final move, for an ultimate incarnation of their plan of destroying this world. Now, they were sending their scouts in all word’s corners. And as it turns out, this little island is in their way, with a fort standing in the middle, with Jolly Roger insidiously grinning from a black pirate flag.
+Les navires noirs accostèrent sur le rivage. Les griffes et les sabots de créatures impies avaient déjà foulé ce sol sablonneux dans le seul but d'anéantir toute forme de vie ou tout ce qui pouvait opposer une quelconque résistance. Jeremy et son nouveau camarade Alkin, se penchèrent sur leur carte, essayant de trouver un moyen de prendre l'invasion Kreegan en défaut.
 
-In order to survive, Jeremy has to take over the island. Will he succeed this time?
+La milice, constituée principalement des habitants des îles et de bandits, suffira-t-elle à leur opposer une résistance efficace, ou périront-ils les pieds dans la boue ? Jeremy avait toujours confiance en sa bonne fortune. Mais aujourd'hui, il était aux abois et n'avait pas d'autre choix que de faire face à ce nouvel ennemi. Il ne pouvait tout simplement pas se permettre d'être vaincu maintenant.
+
 
 ### Epilogue
-The remains of the demonic army were pressed back and thrown to the sea. This was a victory most excellent commanders would be proud of: a handful of militia soldiers and savages made good execution of Kreegans. Such a pity that nobody will come to know about it.
+Les restes de l'armée démoniaque furent repoussés et précipités à la mer. C'était une victoire dont la plupart des grands commandants auraient été fiers : une poignée de miliciens et de sauvages venait de mettre les Kreegans en déroute. Quel dommage que personne n'en vienne à le savoir.
 
-Jeremy was standing with his men on a sea shore, in great rejoice. However, he was even happier due to the fact that the speedy, sturdy Kreegan ships were untouched. He immediately ordered to load the ships and cast off.
+Jeremy se tenait avec ses hommes sur le rivage, débordant de joie. Cependant, il était encore plus heureux de constater que les navires Kreegans, rapides et robustes, étaient intacts. Il ordonna immédiatement d'embarquer sur les navires et de lever l'ancre.
 
-While already on board and looking at the dimming island, Jeremy remembered that he never asked Alkin about whom he really was and what he was doing on that island. However, he threw that out of his head immediately, because new adventures waited. Which, clearly, he was not aware of yet.
+Alors qu'il était à bord et qu'il regardait l'île s'éloigner, Jeremy se souvint qu'il n'avait jamais demandé à Alkin qui il était vraiment et ce qu'il faisait sur cette île. Cependant, il chassa immédiatement cette pensée de son esprit, car de nouvelles aventures l'attendaient. Des aventures dont, de toute évidence, il n'avait pas encore conscience.
