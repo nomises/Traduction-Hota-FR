@@ -1,52 +1,52 @@
 ===== Map name =====
-Prisoner of Doom
+Prisonnier du destin
 
 ===== Map description =====
-Bidley doit capturer la ville de Zargand afin de sauver le prisonnier des barbares. Si Bidley est vaincu au combat, le scÃ©nario sera perdu. Le niveau maximum des hÃ©ros est de 12. AprÃ¨s la victoire, Bidley passera au scÃ©nario suivant de la campagne.
+Bidley doit capturer la ville de Zargand afin de sauver le prisonnier des barbares. Si Bidley est vaincu au combat, le scénario sera perdu. Le niveau maximum des héros est de 12. Après la victoire, Bidley passera au scénario suivant de la campagne.
 
 ===== Rumors =====
 
 Name:
 Beer
 Text:
-On dit que les taverniers d'Erathia diluent la biÃ¨re de leurs tavernes.
+On dit que les taverniers d'Erathia diluent la bière de leurs tavernes.
 
 Name:
 Kilgor
 Text:
-Kilgor a perdu un Å“il ; il lui a Ã©tÃ© arrachÃ© par un affreux BÃ©hÃ©moth.
+Kilgor a perdu un œil ; il lui a été arraché par un affreux Béhémoth.
 
 Name:
 Demons
 Text:
-L'armÃ©e d'Eeofol se prÃ©pare Ã  attaquer Erathia !
+L'armée d'Eeofol se prépare à attaquer Erathia !
 
 ===== Timed events =====
 
 Name:
 Day 1
 Message:
-Bidley dÃ©daignait les rivages de Krewlod, avec la puanteur des corps sales des orcs et des gobelins, leur langage composÃ© de grognements et autres charabia, leur manque total de culture et leur prÃ©fÃ©rence pour la force brute comme solution Ã  tout problÃ¨me. Lui-mÃªme prÃ©fÃ©rait les chants des bardes d'Erathia, les oeuvres des maÃ®tres elfiques et les fins vins de Jadame. Il avait tout cela chez lui, Ã  Regna, contrairement au prÃ©jugÃ© courant qui considÃ©rait les pirates comme cousins des orcs. Il est vrai, qu'au sein des jeunes et des imbÃ©ciles, ils seraient nombreux Ã  Ãªtre acceptÃ©s au sein d'une compagnie de barbares krewlodiens. Cependant, on trouve aussi de nombreux gentlemen intelligents et raffinÃ©s parmi les capitaines et les amiraux. Songeur, Bidley quitta l'auberge de la ChaudrÃ©e de Requin. Si cet ivrogne avait raison et que les barbares avaient bel et bien capturÃ© un puissant sorcier, alors les sorciers de Bracada seraient ravis s'il Ã©tait secouru. Et cela signifierait qu'en plus d'une gÃ©nÃ©reuse rÃ©compense, les pirates pourraient Ã©galement obtenir le droit de piller les navires prÃ¨s des cÃ´tes de Bracada - Ã  condition, bien sÃ»r, de laisser tranquilles les cargaisons des sorciers. Le jeu en valait la chandelle. Les barbares venaient de terminer leur FÃªte de la Vie. Originaire de Regnan, Bidley n'Ã©tait jamais parvenu Ã  saisir l'essentiel de cette cÃ©lÃ©bration. De toute faÃ§on, le duc Boragus Ã©tait mort, et un jeune seigneur barbare encore plus cruel et rusÃ©, Kilgor, allait prendre sa place. Krewlod Ã©tait toujours au bord de l'anarchie, mais pour l'instant, elle Ã©tait plus proche que d'habitude. La flotte de Bidley Ã©tait loin, mais il n'en avait pas vraiment besoin. Il allait plutÃ´t rassembler quelques courageux habitants du coin, s'emparer d'un des forts krewlodiens voisins et ensuite attaquer Zargand. Les tribus hÃ©tÃ©roclites n'avaient aucun scrupule Ã  s'entretuer sans raison ; pour quelques piÃ¨ces, elles se feraient un plaisir de se jeter sur les cibles qu'ils leur donneraient.    Bidley arrÃªta un passant, visiblement un autochtone. "HÃ© toi ! Dis-moi, s'il te plaÃ®t, oÃ¹ est le fort militaire de Krewlod le plus proche ? " "Tout droit, au nord par la route", rÃ©pondit laconiquement l'Ã©tranger en continuant son chemin.
+Bidley dédaignait les rivages de Krewlod, avec la puanteur des corps sales des orcs et des gobelins, leur langage composé de grognements et autres charabia, leur manque total de culture et leur préférence pour la force brute comme solution à tout problème. Lui-même préférait les chants des bardes d'Erathia, les oeuvres des maîtres elfiques et les fins vins de Jadame. Il avait tout cela chez lui, à Regna, contrairement au préjugé courant qui considérait les pirates comme cousins des orcs. Il est vrai, qu'au sein des jeunes et des imbéciles, ils seraient nombreux à être acceptés au sein d'une compagnie de barbares krewlodiens. Cependant, on trouve aussi de nombreux gentlemen intelligents et raffinés parmi les capitaines et les amiraux. Songeur, Bidley quitta l'auberge de la Chaudrée de Requin. Si cet ivrogne avait raison et que les barbares avaient bel et bien capturé un puissant sorcier, alors les sorciers de Bracada seraient ravis s'il était secouru. Et cela signifierait qu'en plus d'une généreuse récompense, les pirates pourraient également obtenir le droit de piller les navires près des côtes de Bracada - à condition, bien sûr, de laisser tranquilles les cargaisons des sorciers. Le jeu en valait la chandelle. Les barbares venaient de terminer leur Fête de la Vie. Originaire de Regnan, Bidley n'était jamais parvenu à saisir l'essentiel de cette célébration. De toute façon, le duc Boragus était mort, et un jeune seigneur barbare encore plus cruel et rusé, Kilgor, allait prendre sa place. Krewlod était toujours au bord de l'anarchie, mais pour l'instant, elle était plus proche que d'habitude. La flotte de Bidley était loin, mais il n'en avait pas vraiment besoin. Il allait plutôt rassembler quelques courageux habitants du coin, s'emparer d'un des forts krewlodiens voisins et ensuite attaquer Zargand. Les tribus hétéroclites n'avaient aucun scrupule à s'entretuer sans raison ; pour quelques pièces, elles se feraient un plaisir de se jeter sur les cibles qu'ils leur donneraient.    Bidley arrêta un passant, visiblement un autochtone. "Hé toi ! Dis-moi, s'il te plaît, où est le fort militaire de Krewlod le plus proche ? " "Tout droit, au nord par la route", répondit laconiquement l'étranger en continuant son chemin.
 
 Name:
 Day 4
 Message:
-En fin de compte, pensa Bidley, il fallait se dÃ©pÃªcher. TÃ´t ou tard, la nouvelle de leurs agissements parviendrait aux velues oreilles des seigneurs locaux, qui tenteraient de chasser leurs hÃ´tes indÃ©sirables de la rÃ©gion. Une action rapide et dÃ©terminÃ©e forcerait dÃ©sormais ces seigneurs Ã  se rendre et Ã  l'aider Ã  assiÃ©ger Zargand. Bien sÃ»r, une fois les hommes de main de Kilgor arrivÃ©s, tous ceux qui l'auraient aidÃ© seraient exÃ©cutÃ©s - mais si ces barbares sont si peu scrupuleux, ils en paieront le prix tÃ´t ou tard de toute faÃ§on.
+En fin de compte, pensa Bidley, il fallait se dépêcher. Tôt ou tard, la nouvelle de leurs agissements parviendrait aux velues oreilles des seigneurs locaux, qui tenteraient de chasser leurs hôtes indésirables de la région. Une action rapide et déterminée forcerait désormais ces seigneurs à se rendre et à l'aider à assiéger Zargand. Bien sûr, une fois les hommes de main de Kilgor arrivés, tous ceux qui l'auraient aidé seraient exécutés - mais si ces barbares sont si peu scrupuleux, ils en paieront le prix tôt ou tard de toute façon.
 
 Name:
 Day 8
 Message:
-Les Ã©claireurs rapportent que l'armÃ©e de Krewlod dÃ©tient plusieurs forts. L'un est situÃ© au sud-ouest, l'autre au nord-est. La prison magique se trouve au nord-ouest, mais il serait imprudent de s'en approcher sans une armÃ©e puissante. Il faut Ã©galement se rappeler que dans cette prison les magiciens sont impuissants.
+Les éclaireurs rapportent que l'armée de Krewlod détient plusieurs forts. L'un est situé au sud-ouest, l'autre au nord-est. La prison magique se trouve au nord-ouest, mais il serait imprudent de s'en approcher sans une armée puissante. Il faut également se rappeler que dans cette prison les magiciens sont impuissants.
 
 Name:
 Day 11
 Message:
-La nuit derniÃ¨re, Bidley fit un Ã©trange rÃªve. Il rÃªvait qu'il nageait dans la mer et qu'il pouvait voir Ã  travers l'eau aussi clairement que s'il regardait Ã  l'horizon depuis son bateau. Il pouvait aussi respirer sous l'eau. Que cela pouvait-il bien signifier ? Ã‰tait-ce ses souvenirs nostalgiques de la mer ? Ou Ã©tait-ce simplement un rÃªve ?
+La nuit dernière, Bidley fit un étrange rêve. Il rêvait qu'il nageait dans la mer et qu'il pouvait voir à travers l'eau aussi clairement que s'il regardait à l'horizon depuis son bateau. Il pouvait aussi respirer sous l'eau. Que cela pouvait-il bien signifier ? Était-ce ses souvenirs nostalgiques de la mer ? Ou était-ce simplement un rêve ?
 
 Name:
 Day 18
 Message:
-Un membre d'Ã©quipage courrait trouver Bidley au matin, lui remettant une lettre arrivÃ©e tard la veille. Le pirate fut assez surpris : qui aurait pu songer Ã  lui envoyer une lettre ? Pourtant, aprÃ¨s avoir dÃ©ballÃ© le parchemin, il reconnut l'Ã©criture. Le message Ã©tait on ne peut plus concis : "J'ai quelques problÃ¨mes. Votre cher frÃ¨re J."
+Un membre d'équipage courrait trouver Bidley au matin, lui remettant une lettre arrivée tard la veille. Le pirate fut assez surpris : qui aurait pu songer à lui envoyer une lettre ? Pourtant, après avoir déballé le parchemin, il reconnut l'écriture. Le message était on ne peut plus concis : "J'ai quelques problèmes. Votre cher frère J."
 
 ===== Heroes =====
 
@@ -58,25 +58,25 @@ Zargand
 
 (67, 37, 0) ***Seer's Hut***
 Message:
-Un prÃªtre vit ici. Il vous parle d'une bande de momies qui l'ennuie. N'ayant pas la force de les expulser lui-mÃªme, il vous demande de dÃ©truire ces immondes crÃ©atures.
-Les momies rÃ´dent Ã  l'est de la maison du prÃªtre. Tuez-les et revenez.
-Le prÃªtre est reconnaissant d'Ãªtre dÃ©barrassÃ© des morts-vivants. Il promet de partager son savoir avec vous.
+Un prêtre vit ici. Il vous parle d'une bande de momies qui l'ennuie. N'ayant pas la force de les expulser lui-même, il vous demande de détruire ces immondes créatures.
+Les momies rôdent à l'est de la maison du prêtre. Tuez-les et revenez.
+Le prêtre est reconnaissant d'être débarrassé des morts-vivants. Il promet de partager son savoir avec vous.
 
 (45, 36, 0) ***Event***
 Message:
-Bidley remarque les traces de nombreux chariots : le fort doit Ãªtre proche. Il ne reste plus qu'Ã  surprendre les gardes.
+Bidley remarque les traces de nombreux chariots : le fort doit être proche. Il ne reste plus qu'à surprendre les gardes.
 
 (54, 14, 0) ***Seer's Hut***
 Message:
-Une bande de corsaires se cache ici. Jabarkas, fils du dÃ©funt duc Boragus a passÃ© au fil de l'Ã©pÃ©e leur chef. Depuis la mort de son pÃ¨re, Jabarkas a des crises de colÃ¨re les unes aprÃ¨s les autres. Les corsaires aimeraient rejoindre une nouvelle cause, mais seulement une fois leur ancien chef vengÃ©.
+Une bande de corsaires se cache ici. Jabarkas, fils du défunt duc Boragus a passé au fil de l'épée leur chef. Depuis la mort de son père, Jabarkas a des crises de colère les unes après les autres. Les corsaires aimeraient rejoindre une nouvelle cause, mais seulement une fois leur ancien chef vengé.
 Jabarkas est toujours en vie et erre quelque part.
-L'armÃ©e de Jabarkas a Ã©tÃ© vaincue et il est maintenant couvert de honte ; il ne reviendra pas dans les parages avant un certain temps. ÃŠtes-vous prÃªt Ã  accueillir les corsaires dans votre armÃ©e ?
+L'armée de Jabarkas a été vaincue et il est maintenant couvert de honte ; il ne reviendra pas dans les parages avant un certain temps. Êtes-vous prêt à accueillir les corsaires dans votre armée ?
 
 (40, 38, 0) ***Seer's Hut***
 Message:
-Deux sorciÃ¨res vivent ici. Elles acceptent de se joindre Ã  vous et de vous prÃªter main-forte avec des sorts - moyennant finance, bien sÃ»r.
-Les sorciÃ¨res exigent 5 gemmes et 2Â 000 piÃ¨ces d'or ; moins, ne sera pas tolÃ©rÃ©.
-ExcellentÂ ! Les sorciÃ¨res sont prÃªtes Ã  se joindre Ã  votre cause.
+Deux sorcières vivent ici. Elles acceptent de se joindre à vous et de vous prêter main-forte avec des sorts - moyennant finance, bien sûr.
+Les sorcières exigent 5 gemmes et 2 000 pièces d'or ; moins, ne sera pas toléré.
+Excellent ! Les sorcières sont prêtes à se joindre à votre cause.
 
 (42, 28, 0) ***Stronghold***
 

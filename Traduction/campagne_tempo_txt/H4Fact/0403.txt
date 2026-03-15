@@ -1,15 +1,15 @@
 ===== Map name =====
-Dead or Alive
+Mort ou vif
 
 ===== Map description =====
-Vous devez vaincre le pirate Dargem qui a dÃ©fiÃ© les habitants des Terres Arides. Si Henrietta ou Frederick sont vaincus, le scÃ©nario sera perdu. Les HÃ©ros sont limitÃ©s au niveau 18. Henrietta et Frederick conserveront les composants du Puits de Mana et l'Anneau des Mages au scÃ©nario suivant.
+Vous devez vaincre le pirate Dargem qui a défié les habitants des Terres Arides. Si Henrietta ou Frederick sont vaincus, le scénario sera perdu. Les Héros sont limités au niveau 18. Henrietta et Frederick conserveront les composants du Puits de Mana et l'Anneau des Mages au scénario suivant.
 
 ===== Rumors =====
 
 Name:
 Regnan Archmages
 Text:
-Dargem a engagÃ© toute une bande d'anciens sorciers de Regnan !
+Dargem a engagé toute une bande d'anciens sorciers de Regnan !
 
 Name:
 Western Elves
@@ -24,42 +24,42 @@ Dargem dispose d'une importante force de tireurs.
 Name:
 Portals
 Text:
-Ces derniÃ¨res semaines, les pirates ont multipliÃ© les raids dans les environs de Burton. Ils lancent mÃªme des attaques Ã  travers des portails !
+Ces dernières semaines, les pirates ont multiplié les raids dans les environs de Burton. Ils lancent même des attaques à travers des portails !
 
 Name:
 Sandworms
 Text:
-Des crÃ©atures Ã©tranges ressemblant Ã  des vers gÃ©ants ont Ã©tÃ© aperÃ§ues dans les montagnes orientales.
+Des créatures étranges ressemblant à des vers géants ont été aperçues dans les montagnes orientales.
 
 Name:
 Arion Clue
 Text:
-Des contrebandiers et des mercenaires ont Ã©tabli leur campement sur la cÃ´te maritime. J'ai entendu dire qu'ils achetaient des artefacts et vendaient de l'artillerie pirate.
+Des contrebandiers et des mercenaires ont établi leur campement sur la côte maritime. J'ai entendu dire qu'ils achetaient des artefacts et vendaient de l'artillerie pirate.
 
 Name:
 Stanley Clue
 Text:
-Avez-vous entendu parler de l'histoire d'un capitaine pirate qui a perdu la mÃ©moire ? On raconte que de nombreux Flibustiers portent dÃ©sormais des pendentifs pour se protÃ©ger.
+Avez-vous entendu parler de l'histoire d'un capitaine pirate qui a perdu la mémoire ? On raconte que de nombreux Flibustiers portent désormais des pendentifs pour se protéger.
 
 Name:
 Dark Elves
 Text:
-La guilde marchande des elfes noirs s'est implantÃ©e jusqu'Ã  cette rÃ©gion reculÃ©e de Jadame. Elle a Ã©tabli un comptoir commercial au sud de Burton.
+La guilde marchande des elfes noirs s'est implantée jusqu'à cette région reculée de Jadame. Elle a établi un comptoir commercial au sud de Burton.
 
 Name:
 Dargem's Past
 Text:
-Dargem Ã©tait autrefois un DÃ©moniste.
+Dargem était autrefois un Démoniste.
 
 Name:
 Steadwick's Fall
 Text:
-On dit que la capitale de la lointaine Erathia est rÃ©cemment tombÃ©e, pour la premiÃ¨re fois dans l'histoire.
+On dit que la capitale de la lointaine Erathia est récemment tombée, pour la première fois dans l'histoire.
 
 Name:
 Restoration of Erathia
 Text:
-Un voyageur m'a dit qu'une guerre d'une ampleur sans prÃ©cÃ©dent depuis des siÃ¨cles fait rage en Erathia.
+Un voyageur m'a dit qu'une guerre d'une ampleur sans précédent depuis des siècles fait rage en Erathia.
 
 ===== Timed events =====
 
@@ -71,92 +71,92 @@ Message:
 Name:
 Part I - Dargem
 Message:
-Comme beaucoup d'endroits fondÃ©s par des gens dÃ©sespÃ©rÃ©s prÃªts Ã  tout pour changer leur sort, Burton a connu des moments sombres. L'un d'eux Ã©tait le commerce avec les pirates, non pas les Regnans, mais des parias rejetÃ©s mÃªme par cet empire sans loi. Ils achetaient avec empressement des Ã©quipements pour leurs navires, des canons, des boulets de canon et d'autres fournitures pour leur commerce peu recommandable. Le paiement Ã©tait effectuÃ© en certaines substances rares, dont l'origine n'Ã©tait jamais demandÃ©e. Cela n'a durÃ© que peu de temps et n'Ã©tait motivÃ© que par le dÃ©sespoir, mais il Ã©tait impossible d'Ã©chapper Ã  cette partie de l'histoire. DÃ¨s que la situation s'est amÃ©liorÃ©e et que des sources lÃ©gales pour couvrir les provisions et autres nÃ©cessitÃ©s ont vu le jour, les transactions avec les pirates ont pris fin. Le mot Â« dÃ©ception Â» Ã©tait bien trop faible pour dÃ©crire la rÃ©action des corsaires face Ã  cette Ã©volution ; ils ont littÃ©ralement piquÃ© une crise.		Â« Peut-Ãªtre que nous aussi, nous voulons devenir des commerÃ§ants honnÃªtes ! Mais non, bon sang, il s'avÃ¨re que nos tÃªtes ne sont pas assez gentilles pour Ã§a ! Â», s'Ã©criait le chef d'un des groupes, un personnage particuliÃ¨rement dÃ©sagrÃ©able nommÃ© Dargem. Â« TrÃ¨s bien, attendez un peu, grogna-t-il. Il est temps de montrer Ã  ces marins d'eau douce que le manque de respect envers ses partenaires commerciaux a un prix. Â» Dargem tint parole : plusieurs bandes de pirates se liguÃ¨rent pour couper toutes les routes commerciales de Burton et commencÃ¨rent Ã  piller les chariots de ravitaillement. La situation devenait critique.
+Comme beaucoup d'endroits fondés par des gens désespérés prêts à tout pour changer leur sort, Burton a connu des moments sombres. L'un d'eux était le commerce avec les pirates, non pas les Regnans, mais des parias rejetés même par cet empire sans loi. Ils achetaient avec empressement des équipements pour leurs navires, des canons, des boulets de canon et d'autres fournitures pour leur commerce peu recommandable. Le paiement était effectué en certaines substances rares, dont l'origine n'était jamais demandée. Cela n'a duré que peu de temps et n'était motivé que par le désespoir, mais il était impossible d'échapper à cette partie de l'histoire. Dès que la situation s'est améliorée et que des sources légales pour couvrir les provisions et autres nécessités ont vu le jour, les transactions avec les pirates ont pris fin. Le mot « déception » était bien trop faible pour décrire la réaction des corsaires face à cette évolution ; ils ont littéralement piqué une crise.		« Peut-être que nous aussi, nous voulons devenir des commerçants honnêtes ! Mais non, bon sang, il s'avère que nos têtes ne sont pas assez gentilles pour ça ! », s'écriait le chef d'un des groupes, un personnage particulièrement désagréable nommé Dargem. « Très bien, attendez un peu, grogna-t-il. Il est temps de montrer à ces marins d'eau douce que le manque de respect envers ses partenaires commerciaux a un prix. » Dargem tint parole : plusieurs bandes de pirates se liguèrent pour couper toutes les routes commerciales de Burton et commencèrent à piller les chariots de ravitaillement. La situation devenait critique.
 
 Name:
 Part II - Boyd
 Message:
-Une rÃ©union d'urgence fut convoquÃ©e afin de trouver une solution. LÃ , j'entendis de nombreux rÃ©cits des habitants de la ville concernant les atrocitÃ©s commises par Dargem et ses acolytes. Certains Ã©taient vraiment effrayants, malgrÃ© le soleil brÃ»lant de Jadame ! 	Cependant, une histoire en particulier piqua ma curiositÃ© : celle d'un certain Boyd, que Dargem aurait fait tuÃ© d'une maniÃ¨re extrÃªmement cruelle, mÃªme selon les standards des pirates. Il existait plusieurs versions de cette histoire, mais toutes s'accordaient sur le fait qu'un jeune homme nommÃ© Boyd, aventurier et franc-tireur, avait un jour rejoint l'Ã©quipage d'un brick battant pavillon Jolly Roger, avide de nouvelles sensations fortes Ã  ajouter Ã  son palmarÃ¨s. DouÃ© pour raconter des histoires hilarantes et chanter des chansons grivoises, il devint rapidement l'Ã¢me de l'Ã©quipage, sauf que le capitaine du brick, Dargem, n'apprÃ©ciait guÃ¨re cela. 		Lui-mÃªme encore assez jeune pour Ãªtre un chef pirate, il n'avait jusqu'alors maÃ®trisÃ© qu'une seule faÃ§on de maintenir son Ã©quipage dans le droit chemin : la peur et les menaces. Il connaissait la magie de l'air, ses menaces n'Ã©taient donc pas vaines ; personne ne voulait le mettre en colÃ¨re et mourir soudainement d'asphyxie ou, Ã  l'inverse, d'une rupture des poumons. Cependant, il Ã©tait Ã©galement capable de faire avancer son navire plus rapidement, en utilisant des tourbillons magiques pour gonfler les voiles, et de bloquer les flÃ¨ches et les boulets de canon avec son bouclier d'air. GrÃ¢ce Ã  cela, ses hommes repartaient rarement sans un riche butin, et les candidats dÃ©sireux de rejoindre son Ã©quipage ne manquaient jamais. L'un d'entre eux Ã©tait Boyd, qui avait imprudemment empiÃ©tÃ© sur l'autoritÃ© du cruel capitaine. Ã‰tait-ce de la simple jalousie ou autre chose ? Quoi qu'il en soit, Boyd Ã©tait condamnÃ©. Il existait de nombreuses thÃ©ories sur les causes du conflit, mais un vieil aubergiste, qui avait autrefois eu le dÃ©plaisir de devoir offrir un festin Ã  l'Ã©quipage du sinistre brick, avait entendu une histoire. Selon cette histoire, un malheureux pirate avait Ã©tÃ© condamnÃ© Ã  danser la gigue de la corde sous un soleil de plomb, mais pas avant de s'Ãªtre assurÃ© que le nÅ“ud coulant ne l'Ã©tranglerait pas immÃ©diatement. Garantir cela n'Ã©tait qu'un petit dÃ©fi pour un mage expÃ©rimentÃ©. Il resta donc suspendu lÃ , servant de repas aux mouettes, et lorsque le brick fit escale sur les cÃ´tes de Jadame, Dargem Ã©changea ses os Ã  un bandit Ã  l'air sinistre contre une plume pour orner son tricorne. On ne sait pas ce que ce dernier en a fait, mais depuis lors, des rumeurs circulent selon lesquelles des voyageurs auraient rencontrÃ© le squelette d'un pirate mort-vivant criant le nom de Dargem dans la nuit. Certains tÃ©moins oculaires ont mÃªme ajoutÃ© que le squelette brandissait un sabre, que des flammes arcaniques jaillissaient de ses yeux et que la terre sur laquelle il marchait gÃ©missait et gonflait. La peur fait des montagnes d'une taupiniÃ¨re, pensai-je ; mais peut-Ãªtre devrais-je essayer de rechercher ce vengeur mort-vivant. Comme on dit, l'ennemi de mon ennemi est mon... non, pas mon ami. Je ne tiens pas Ã  Ãªtre ami avec des morts ! Disons... un alliÃ©. En quelque sorte.
+Une réunion d'urgence fut convoquée afin de trouver une solution. Là, j'entendis de nombreux récits des habitants de la ville concernant les atrocités commises par Dargem et ses acolytes. Certains étaient vraiment effrayants, malgré le soleil brûlant de Jadame ! 	Cependant, une histoire en particulier piqua ma curiosité : celle d'un certain Boyd, que Dargem aurait fait tué d'une manière extrêmement cruelle, même selon les standards des pirates. Il existait plusieurs versions de cette histoire, mais toutes s'accordaient sur le fait qu'un jeune homme nommé Boyd, aventurier et franc-tireur, avait un jour rejoint l'équipage d'un brick battant pavillon Jolly Roger, avide de nouvelles sensations fortes à ajouter à son palmarès. Doué pour raconter des histoires hilarantes et chanter des chansons grivoises, il devint rapidement l'âme de l'équipage, sauf que le capitaine du brick, Dargem, n'appréciait guère cela. 		Lui-même encore assez jeune pour être un chef pirate, il n'avait jusqu'alors maîtrisé qu'une seule façon de maintenir son équipage dans le droit chemin : la peur et les menaces. Il connaissait la magie de l'air, ses menaces n'étaient donc pas vaines ; personne ne voulait le mettre en colère et mourir soudainement d'asphyxie ou, à l'inverse, d'une rupture des poumons. Cependant, il était également capable de faire avancer son navire plus rapidement, en utilisant des tourbillons magiques pour gonfler les voiles, et de bloquer les flèches et les boulets de canon avec son bouclier d'air. Grâce à cela, ses hommes repartaient rarement sans un riche butin, et les candidats désireux de rejoindre son équipage ne manquaient jamais. L'un d'entre eux était Boyd, qui avait imprudemment empiété sur l'autorité du cruel capitaine. Était-ce de la simple jalousie ou autre chose ? Quoi qu'il en soit, Boyd était condamné. Il existait de nombreuses théories sur les causes du conflit, mais un vieil aubergiste, qui avait autrefois eu le déplaisir de devoir offrir un festin à l'équipage du sinistre brick, avait entendu une histoire. Selon cette histoire, un malheureux pirate avait été condamné à danser la gigue de la corde sous un soleil de plomb, mais pas avant de s'être assuré que le nœud coulant ne l'étranglerait pas immédiatement. Garantir cela n'était qu'un petit défi pour un mage expérimenté. Il resta donc suspendu là, servant de repas aux mouettes, et lorsque le brick fit escale sur les côtes de Jadame, Dargem échangea ses os à un bandit à l'air sinistre contre une plume pour orner son tricorne. On ne sait pas ce que ce dernier en a fait, mais depuis lors, des rumeurs circulent selon lesquelles des voyageurs auraient rencontré le squelette d'un pirate mort-vivant criant le nom de Dargem dans la nuit. Certains témoins oculaires ont même ajouté que le squelette brandissait un sabre, que des flammes arcaniques jaillissaient de ses yeux et que la terre sur laquelle il marchait gémissait et gonflait. La peur fait des montagnes d'une taupinière, pensai-je ; mais peut-être devrais-je essayer de rechercher ce vengeur mort-vivant. Comme on dit, l'ennemi de mon ennemi est mon... non, pas mon ami. Je ne tiens pas à être ami avec des morts ! Disons... un allié. En quelque sorte.
 
 Name:
 New Artificers
 Message:
-Une nouvelle Ã¨re s'ouvrait pour Burton. Le problÃ¨me des ogres Ã©tant rÃ©solu, tout comme celui de l'approvisionnement rÃ©gulier du marchÃ© du port d'Orca's Maw en produits locaux, la perspective d'une pÃ©nurie alimentaire s'Ã©tait Ã©loignÃ©e. Les habitants pouvaient dÃ©sormais faire des projets qui allaient au-delÃ  de leur travail quotidien. Frederick et Sam continuaient Ã  se rendre au port pour rencontrer d'autres associÃ©s qu'ils avaient persuadÃ©s de s'installer Ã  Burton. Certains arrivaient avec pour seuls bagages quelques livres et une boÃ®te Ã  outils, d'autres apportaient des cargaisons entiÃ¨res d'Ã©quipements alchimiques, de rÃ©actifs rares et d'instruments. C'est un nain nommÃ© Bertram qui fit le plus de bruit : la rumeur disait que les dizaines de tonneaux dÃ©chargÃ©s de sa caravelle dÃ©bordaient d'or. Que cela fÃ»t vrai ou non, peu aprÃ¨s son arrivÃ©e, la ville vit affluer des immigrants venus de tous horizons, chacun trouvant un emploi bien rÃ©munÃ©rÃ©. De nouveaux quartiers rÃ©sidentiels virent le jour ; la production fut transfÃ©rÃ©e des forges domestiques vers la nouvelle Manufacture, dont les hautes voÃ»tes Ã©taient soutenues par des poutres et des fermes en acier.
+Une nouvelle ère s'ouvrait pour Burton. Le problème des ogres étant résolu, tout comme celui de l'approvisionnement régulier du marché du port d'Orca's Maw en produits locaux, la perspective d'une pénurie alimentaire s'était éloignée. Les habitants pouvaient désormais faire des projets qui allaient au-delà de leur travail quotidien. Frederick et Sam continuaient à se rendre au port pour rencontrer d'autres associés qu'ils avaient persuadés de s'installer à Burton. Certains arrivaient avec pour seuls bagages quelques livres et une boîte à outils, d'autres apportaient des cargaisons entières d'équipements alchimiques, de réactifs rares et d'instruments. C'est un nain nommé Bertram qui fit le plus de bruit : la rumeur disait que les dizaines de tonneaux déchargés de sa caravelle débordaient d'or. Que cela fût vrai ou non, peu après son arrivée, la ville vit affluer des immigrants venus de tous horizons, chacun trouvant un emploi bien rémunéré. De nouveaux quartiers résidentiels virent le jour ; la production fut transférée des forges domestiques vers la nouvelle Manufacture, dont les hautes voûtes étaient soutenues par des poutres et des fermes en acier.
 
 Name:
 Zog
 Message:
-Eh bien... les habitants qui m'avaient dit que notre domination sur les ogres locaux ne durerait pas avaient raison.		Lorsque nous avons pris la forteresse de Zog, le grand chef lui-mÃªme Ã©tait introuvable. La bataille s'est terminÃ©e lorsque le gÃ©ant qui brandissait le Poing de fer a reÃ§u une bombe en plein entre les yeux. Nous avons ensuite examinÃ© le corps : bien qu'il ne restait rien de sa tÃªte, les commandants de nos alliÃ©s peaux-vertes Ã©taient catÃ©goriques, ce n'Ã©tait pas celle de Zog. Apparemment, le Chacal s'Ã©tait Ã©chappÃ© dans les derniÃ¨res minutes de la bataille, laissant l'un de ses sbires derriÃ¨re lui pour nous tromper.		Je pensais sincÃ¨rement que nous avions prouvÃ© notre force et notre volontÃ© aux ogres, et qu'ils accepteraient un traitÃ© de non-agression, voire une alliance pure et simple. J'avais mÃªme acceptÃ© de leur cÃ©der le Poing en gage de notre bonne volontÃ©, car je pouvais Ã  peine manier cette abomination de fer. Brum, l'ogre qui commandait l'une de nos forces alliÃ©es et qui avait ensuite Ã©tÃ© Ã©lu nouveau chef lors d'un rassemblement des anciens de toutes les tribus locales, nous avait promis la paix, mais celle-ci n'a durÃ© que quelques semaines. Puis la nouvelle est arrivÃ©e que Brum n'Ã©tait plus. Lors de son premier voyage pour collecter le tribut, le chef a Ã©tÃ© pris en embuscade par des ennemis, et les projectiles de la baliste l'ont transformÃ© en pelote Ã  Ã©pingles. Et les balistes se sont avÃ©rÃ©es Ãªtre de fabrication burtonienne...	  Nous avions confiÃ© Ã  Morton la responsabilitÃ© de nos armes de projection de missiles ; c'Ã©tait un gobelin expatriÃ© au destin mouvementÃ© et au tempÃ©rament nerveux, mais un grand maÃ®tre dans son art. Nous l'avons convoquÃ© Ã  une rÃ©union du conseil et lui avons demandÃ© s'il savait comment ces balistes avaient pu tomber entre les mains des ennemis de notre protÃ©gÃ©, mais il s'est contentÃ© de nous lancer des regards furieux, rejetant toutes les accusations. Il n'y avait aucune preuve de sa culpabilitÃ© dans ce qui s'Ã©tait passÃ©, et nous avons dÃ» battre en retraite... mais Morton semblait profondÃ©ment offensÃ©.		Juste au moment oÃ¹ nous Ã©tions sur le point de l'envoyer en mission diplomatique pour Ã©tablir un semblant de relations avec les tribus gobelines locales. Dieux, pourquoi est-il si difficile de gouverner les gens... et les non-humains aussi !
+Eh bien... les habitants qui m'avaient dit que notre domination sur les ogres locaux ne durerait pas avaient raison.		Lorsque nous avons pris la forteresse de Zog, le grand chef lui-même était introuvable. La bataille s'est terminée lorsque le géant qui brandissait le Poing de fer a reçu une bombe en plein entre les yeux. Nous avons ensuite examiné le corps : bien qu'il ne restait rien de sa tête, les commandants de nos alliés peaux-vertes étaient catégoriques, ce n'était pas celle de Zog. Apparemment, le Chacal s'était échappé dans les dernières minutes de la bataille, laissant l'un de ses sbires derrière lui pour nous tromper.		Je pensais sincèrement que nous avions prouvé notre force et notre volonté aux ogres, et qu'ils accepteraient un traité de non-agression, voire une alliance pure et simple. J'avais même accepté de leur céder le Poing en gage de notre bonne volonté, car je pouvais à peine manier cette abomination de fer. Brum, l'ogre qui commandait l'une de nos forces alliées et qui avait ensuite été élu nouveau chef lors d'un rassemblement des anciens de toutes les tribus locales, nous avait promis la paix, mais celle-ci n'a duré que quelques semaines. Puis la nouvelle est arrivée que Brum n'était plus. Lors de son premier voyage pour collecter le tribut, le chef a été pris en embuscade par des ennemis, et les projectiles de la baliste l'ont transformé en pelote à épingles. Et les balistes se sont avérées être de fabrication burtonienne...	  Nous avions confié à Morton la responsabilité de nos armes de projection de missiles ; c'était un gobelin expatrié au destin mouvementé et au tempérament nerveux, mais un grand maître dans son art. Nous l'avons convoqué à une réunion du conseil et lui avons demandé s'il savait comment ces balistes avaient pu tomber entre les mains des ennemis de notre protégé, mais il s'est contenté de nous lancer des regards furieux, rejetant toutes les accusations. Il n'y avait aucune preuve de sa culpabilité dans ce qui s'était passé, et nous avons dû battre en retraite... mais Morton semblait profondément offensé.		Juste au moment où nous étions sur le point de l'envoyer en mission diplomatique pour établir un semblant de relations avec les tribus gobelines locales. Dieux, pourquoi est-il si difficile de gouverner les gens... et les non-humains aussi !
 
 Name:
 Eeofol
 Message:
-Alors que les migrants arrivaient, les premiÃ¨res nouvelles des consÃ©quences de l'invasion dÃ©moniaque parvinrent jusqu'Ã  nos terres lointaines. Eeofol avait Ã©tÃ© dÃ©truite. RavagÃ©e. Il ne restait plus aucun jardin fleuri, aucun lac cristallin. Seulement des chaÃ®nes de montagnes sans fin, crachant des flammes et une fumÃ©e Ã¢cre, et des hordes de dÃ©mons impitoyables grouillant derriÃ¨re leur voile. J'avais vu de mes propres yeux Xarfax possÃ©dÃ© et les soldats de sa garnison : un spectacle horrible et rÃ©pugnant. Il semblait toutefois que les dÃ©mons avaient finalement Ã©tÃ© incapables de soumettre l'esprit de la plupart des autres Erathiens. Peut-Ãªtre avaient-ils appris Ã  se protÃ©ger, ou peut-Ãªtre les dÃ©mons n'Ã©taient-ils tout simplement pas aussi puissants que nous le pensions aprÃ¨s nos premiÃ¨res escarmouches avec eux ; quelle qu'en soit la raison, les hÃ´tes cÃ©lestes n'avaient pas rÃ©ussi Ã  franchir les frontiÃ¨res d'Eeofol. MÃªme la CÃ´te de Feu restait sous le contrÃ´le d'Erathia, bien que les volcans en Ã©ruption lui causaient des problÃ¨mes. 		En discutant avec ceux qui m'avaient apportÃ© la nouvelle, j'exprimai ma joie que ces troubles n'aient pas coÃ»tÃ© la vie Ã  des milliers de personnes en Erathia et en AvLee, contrairement Ã  nos sombres prÃ©dictions nÃ©es de notre ignorance, mais mon cÅ“ur criait de douleur. Il ne se posait qu'une seule question : pourquoi Eeofol et pas Erathia ?
+Alors que les migrants arrivaient, les premières nouvelles des conséquences de l'invasion démoniaque parvinrent jusqu'à nos terres lointaines. Eeofol avait été détruite. Ravagée. Il ne restait plus aucun jardin fleuri, aucun lac cristallin. Seulement des chaînes de montagnes sans fin, crachant des flammes et une fumée âcre, et des hordes de démons impitoyables grouillant derrière leur voile. J'avais vu de mes propres yeux Xarfax possédé et les soldats de sa garnison : un spectacle horrible et répugnant. Il semblait toutefois que les démons avaient finalement été incapables de soumettre l'esprit de la plupart des autres Erathiens. Peut-être avaient-ils appris à se protéger, ou peut-être les démons n'étaient-ils tout simplement pas aussi puissants que nous le pensions après nos premières escarmouches avec eux ; quelle qu'en soit la raison, les hôtes célestes n'avaient pas réussi à franchir les frontières d'Eeofol. Même la Côte de Feu restait sous le contrôle d'Erathia, bien que les volcans en éruption lui causaient des problèmes. 		En discutant avec ceux qui m'avaient apporté la nouvelle, j'exprimai ma joie que ces troubles n'aient pas coûté la vie à des milliers de personnes en Erathia et en AvLee, contrairement à nos sombres prédictions nées de notre ignorance, mais mon cœur criait de douleur. Il ne se posait qu'une seule question : pourquoi Eeofol et pas Erathia ?
 
 Name:
 Sentinel Automatons
 Message:
-Je n'aidais plus Frederick dans son atelier, car j'avais dÃ©sormais mes propres occupations. Je n'avais mÃªme pas remarquÃ© comment cela s'Ã©tait produit, mais Ã  un moment donnÃ©, tout le monde avait commencÃ© Ã  m'appeler la cheffe scout de Burton. Je continuais toutefois Ã  m'intÃ©resser aux progrÃ¨s de mon vieil ami et je savais qu'il avait conÃ§u et construit une machine Ã  vapeur amÃ©liorÃ©e. Elle Ã©tait trop encombrante et trop lourde pour Ãªtre montÃ©e sur un dirigeable, mais parfaite pour une centrale Ã©lectrique d'une Manufacture ; elle permettait de multiplier le couple sur les arbres des machines Ã  travailler les mÃ©taux. La Manufacture se construisait dÃ©sormais toute seule : des machines amÃ©liorÃ©es permettaient de crÃ©er de nouveaux Ã©lÃ©ments structurels, et les installations ne cessaient de croÃ®tre et de s'Ã©tendre.		Frederick se consacrait dÃ©sormais entiÃ¨rement au secteur de l'Ã©nergie et n'avait plus le temps de poursuivre ses autres anciens projets. Cependant, bon nombre d'entre eux virent leur dÃ©veloppement entre les mains d'artisans nouvellement arrivÃ©s. L'un d'eux, un homme aux cheveux gris Ã  l'allure quelque peu Ã©trange nommÃ© Todd, prit l'initiative de lancer la production en sÃ©rie d'automates. Il passa un bon mois enfermÃ© dans un hangar en compagnie des prototypes que Frederick avait rapportÃ©s d'Eeofol, d'une poignÃ©e d'assistants, d'une variÃ©tÃ© d'outils et d'un Ã©norme panier de viande sÃ©chÃ©e de glyptodon. Quand il est finalement sorti de son confinement volontaire, il avait l'air de ne pas avoir fermÃ© l'Å“il de la nuit depuis un mois, mais il rayonnait de joie. Ã€ ses cÃ´tÃ©s, deux modÃ¨les entiÃ¨rement assemblÃ©s prÃ©sentaient leurs cÃ´tÃ©s brillants et polis, et il s'appuyait fiÃ¨rement, le coude posÃ© sur une pile de plans et d'organigrammes. C'est drÃ´le de se rappeler qu'Ã  ce moment-lÃ , ma conclusion se rÃ©sumait au fait que la pile de papiers Ã©tait nettement plus haute que moi, mÃªme si je me mettais sur la pointe des pieds. 		J'avais bien sÃ»r dÃ©jÃ  vu les automates prÃ©parer nos dirigeables, mais les autres habitants de Burton ont Ã©tÃ© trÃ¨s impressionnÃ©s lorsque les machines ont Ã©tÃ© exposÃ©es sur la place. Imaginez un engin mÃ©tallique Ã  six pattes mÃ©caniques, presque de la taille d'un glyptodon adulte, ressemblant Ã  un mÃ©lange de crabe, que l'on voit couramment sur les rives de l'Errance dÃ©vastatrice, et d'araignÃ©e carnivore des Murmurwoods. Un gargouillis provenait de l'intÃ©rieur du mÃ©canisme, et de minces jets de vapeur s'Ã©chappaient des nombreuses valves ; son cadre en acier tremblait et ses articulations grinÃ§aient lÃ©gÃ¨rement. L'automate semblait aussi chaud qu'une chaudiÃ¨re Ã  eau - en fait, il s'agissait en grande partie d'une chaudiÃ¨re ; la puissante pince qui dÃ©passait d'une sorte de tÃªte avait un aspect trÃ¨s menaÃ§ant, et les jeunes de Burton, dÃ©sireux d'impressionner leurs copines, couraient sans cesse vers l'araignÃ©e mÃ©tallique pour y enfoncer leurs mains dans les mÃ¢choires. Ils ne se doutaient pas que son moteur Ã  vapeur surchauffÃ©e pouvait en soi reprÃ©senter un danger bien plus grand pour les autres que n'importe quelle mÃ¢choire ou extrÃ©mitÃ©... 		Frederick m'a confiÃ© que Todd n'avait pas rÃ©ussi Ã  rÃ©soudre complÃ¨tement son petit problÃ¨me de fiabilitÃ© : il avait seulement limitÃ© la puissance standard de la machine, mais avait conservÃ© la possibilitÃ© de passer en mode supercritique. Il Ã©tait toutefois impossible de l'Ã©teindre une fois enclenchÃ©. Naturellement, le dispositif responsable de cette fonctionnalitÃ© avait Ã©tÃ© retirÃ© du modÃ¨le exposÃ©, mais je prÃ©fÃ©rais tout de mÃªme garder mes distances.
+Je n'aidais plus Frederick dans son atelier, car j'avais désormais mes propres occupations. Je n'avais même pas remarqué comment cela s'était produit, mais à un moment donné, tout le monde avait commencé à m'appeler la cheffe scout de Burton. Je continuais toutefois à m'intéresser aux progrès de mon vieil ami et je savais qu'il avait conçu et construit une machine à vapeur améliorée. Elle était trop encombrante et trop lourde pour être montée sur un dirigeable, mais parfaite pour une centrale électrique d'une Manufacture ; elle permettait de multiplier le couple sur les arbres des machines à travailler les métaux. La Manufacture se construisait désormais toute seule : des machines améliorées permettaient de créer de nouveaux éléments structurels, et les installations ne cessaient de croître et de s'étendre.		Frederick se consacrait désormais entièrement au secteur de l'énergie et n'avait plus le temps de poursuivre ses autres anciens projets. Cependant, bon nombre d'entre eux virent leur développement entre les mains d'artisans nouvellement arrivés. L'un d'eux, un homme aux cheveux gris à l'allure quelque peu étrange nommé Todd, prit l'initiative de lancer la production en série d'automates. Il passa un bon mois enfermé dans un hangar en compagnie des prototypes que Frederick avait rapportés d'Eeofol, d'une poignée d'assistants, d'une variété d'outils et d'un énorme panier de viande séchée de glyptodon. Quand il est finalement sorti de son confinement volontaire, il avait l'air de ne pas avoir fermé l'œil de la nuit depuis un mois, mais il rayonnait de joie. À ses côtés, deux modèles entièrement assemblés présentaient leurs côtés brillants et polis, et il s'appuyait fièrement, le coude posé sur une pile de plans et d'organigrammes. C'est drôle de se rappeler qu'à ce moment-là, ma conclusion se résumait au fait que la pile de papiers était nettement plus haute que moi, même si je me mettais sur la pointe des pieds. 		J'avais bien sûr déjà vu les automates préparer nos dirigeables, mais les autres habitants de Burton ont été très impressionnés lorsque les machines ont été exposées sur la place. Imaginez un engin métallique à six pattes mécaniques, presque de la taille d'un glyptodon adulte, ressemblant à un mélange de crabe, que l'on voit couramment sur les rives de l'Errance dévastatrice, et d'araignée carnivore des Murmurwoods. Un gargouillis provenait de l'intérieur du mécanisme, et de minces jets de vapeur s'échappaient des nombreuses valves ; son cadre en acier tremblait et ses articulations grinçaient légèrement. L'automate semblait aussi chaud qu'une chaudière à eau - en fait, il s'agissait en grande partie d'une chaudière ; la puissante pince qui dépassait d'une sorte de tête avait un aspect très menaçant, et les jeunes de Burton, désireux d'impressionner leurs copines, couraient sans cesse vers l'araignée métallique pour y enfoncer leurs mains dans les mâchoires. Ils ne se doutaient pas que son moteur à vapeur surchauffée pouvait en soi représenter un danger bien plus grand pour les autres que n'importe quelle mâchoire ou extrémité... 		Frederick m'a confié que Todd n'avait pas réussi à résoudre complètement son petit problème de fiabilité : il avait seulement limité la puissance standard de la machine, mais avait conservé la possibilité de passer en mode supercritique. Il était toutefois impossible de l'éteindre une fois enclenché. Naturellement, le dispositif responsable de cette fonctionnalité avait été retiré du modèle exposé, mais je préférais tout de même garder mes distances.
 
 Name:
 Gunslingers
 Message:
-Burton sentait dÃ©sormais l'argent, et cette odeur avait tendance Ã  agir comme un aimant, attirant ceux qui souhaitaient s'en approprier, ainsi que ceux qui Ã©taient prÃªts, moyennant finance, Ã  dissuader les premiers. Il est intÃ©ressant de noter que la majoritÃ© des uns et des autres Ã©taient issus du mÃªme milieu : celui des pirates. Tous ceux qui avaient l'habitude de traiter avec les artisans de Burton ne succombÃ¨rent pas aux supplications de Dargem de venir prendre de force ce dont ils avaient besoin. Les plus sÃ©rieux virent l'intÃ©rÃªt de se mettre au service de cette ville en pleine expansion. De plus, on leur promit les armes les plus avancÃ©es et les plus puissantes fabriquÃ©es dans les ateliers de Burton, ce qui, bien sÃ»r, constituait une trÃ¨s bonne motivation.		Les habitants de la ville regardaient d'un mauvais Å“il ces hommes moroses ; les mercenaires, aussi efficaces sur terre que sur mer, Ã©taient principalement employÃ©s comme Chasseurs de Primes. Leurs armes de prÃ©dilection Ã©taient des arquebuses de trÃ¨s gros calibre et de conception trÃ¨s complexe. Il Ã©tait facile de voir Ã  quel point les Pistoleros prenaient soin de leurs outils de travail : leurs piÃ¨ces en laiton et en acier Ã©taient polies jusqu'Ã  briller et scintillaient au soleil comme des bijoux, et leurs crosses en bois dur Ã©taient mÃ©ticuleusement polies et vernies. Leurs capes formaient un renflement suspect au niveau du ventre ; elles cachaient non pas des pistolets rudimentaires comme ceux utilisÃ©s par les pirates, mais des objets aussi sophistiquÃ©s et coÃ»teux que leurs arquebuses. La rumeur disait que ces armes mystÃ©rieuses avaient dÃ©jÃ  envoyÃ© d'innombrables hommes de main de Dargem six pieds sous terre ; un Pistolero bien entraÃ®nÃ© et disciplinÃ© finissait toujours par Ãªtre plus rapide qu'un pirate toujours ivre et son artillerie de poche Ã  canon lisse, aussi fier que fÃ»t ce dernier.
+Burton sentait désormais l'argent, et cette odeur avait tendance à agir comme un aimant, attirant ceux qui souhaitaient s'en approprier, ainsi que ceux qui étaient prêts, moyennant finance, à dissuader les premiers. Il est intéressant de noter que la majorité des uns et des autres étaient issus du même milieu : celui des pirates. Tous ceux qui avaient l'habitude de traiter avec les artisans de Burton ne succombèrent pas aux supplications de Dargem de venir prendre de force ce dont ils avaient besoin. Les plus sérieux virent l'intérêt de se mettre au service de cette ville en pleine expansion. De plus, on leur promit les armes les plus avancées et les plus puissantes fabriquées dans les ateliers de Burton, ce qui, bien sûr, constituait une très bonne motivation.		Les habitants de la ville regardaient d'un mauvais œil ces hommes moroses ; les mercenaires, aussi efficaces sur terre que sur mer, étaient principalement employés comme Chasseurs de Primes. Leurs armes de prédilection étaient des arquebuses de très gros calibre et de conception très complexe. Il était facile de voir à quel point les Pistoleros prenaient soin de leurs outils de travail : leurs pièces en laiton et en acier étaient polies jusqu'à briller et scintillaient au soleil comme des bijoux, et leurs crosses en bois dur étaient méticuleusement polies et vernies. Leurs capes formaient un renflement suspect au niveau du ventre ; elles cachaient non pas des pistolets rudimentaires comme ceux utilisés par les pirates, mais des objets aussi sophistiqués et coûteux que leurs arquebuses. La rumeur disait que ces armes mystérieuses avaient déjà envoyé d'innombrables hommes de main de Dargem six pieds sous terre ; un Pistolero bien entraîné et discipliné finissait toujours par être plus rapide qu'un pirate toujours ivre et son artillerie de poche à canon lisse, aussi fier que fût ce dernier.
 
 Name:
 Nemerthea
 Message:
-Un vieux pÃªcheur vint trouver Burton ; il vivait sur le rivage prÃ¨s du petit port oÃ¹ les pirates avaient l'habitude de faire escale pour commercer. Ils lui laissaient des messages, proposant des dates pour les prochains Ã©changes. Il dit qu'il avait aperÃ§u plusieurs fois Ã  l'horizon des voiles noires familiÃ¨res, de plus en plus souvent ces derniers jours.		Â« La grande bleue appelle ses filles. Et je vous le dis, elles viendront en force, elles ont toutes un mari dans chaque port. Si elles les rassemblent tous, mÃªme toi, vous aurez de gros ennuis, et moi, je serai dÃ©vorÃ©, jusqu'aux os. Elles ont des visages d'anges, mais des dents de requins... Â»
+Un vieux pêcheur vint trouver Burton ; il vivait sur le rivage près du petit port où les pirates avaient l'habitude de faire escale pour commercer. Ils lui laissaient des messages, proposant des dates pour les prochains échanges. Il dit qu'il avait aperçu plusieurs fois à l'horizon des voiles noires familières, de plus en plus souvent ces derniers jours.		« La grande bleue appelle ses filles. Et je vous le dis, elles viendront en force, elles ont toutes un mari dans chaque port. Si elles les rassemblent tous, même toi, vous aurez de gros ennuis, et moi, je serai dévoré, jusqu'aux os. Elles ont des visages d'anges, mais des dents de requins... »
 
 Name:
 Melchior interrogates pirates
 Message:
-S'il y a des Ã©claireurs, il doit aussi y avoir quelqu'un pour s'occuper des Ã©claireurs travaillant pour l'adversaire. Il y avait dÃ©sormais un tel homme Ã  Burton, du nom de Melchior. DouÃ© pour la conversation et courtois, il savait mettre tout le monde Ã  l'aise, incitant les gens Ã  partager mÃªme ce qu'ils n'avaient jamais rÃ©alisÃ© Ã  leur sujet. Et maintenant, il avait dÃ©masquÃ© un espion pirate. La procÃ©dure d'entretien pour ceux qui cherchaient un emploi de pistolero, longue et dÃ©routante pour un observateur non averti, s'Ã©tait une fois de plus rÃ©vÃ©lÃ©e efficace : le candidat s'Ã©tait effondrÃ© face Ã  une question inattendue sur la meilleure faÃ§on de dÃ©penser un gros salaire, qui venait complÃ¨tement Ã  contre-courant de la conversation. 		Lors de l'interrogatoire, ce personnage arrogant et insolent a d'abord ri et profÃ©rÃ© des menaces, affirmant qu'il ne craignait ni les coups ni la mort, et qu'il serait certainement vengÃ©... Cependant, il a suffi d'une minute passÃ©e en compagnie de l'automate qui tenait soigneusement certaines parties saillantes du corps du prisonnier dans sa gueule pour que ce dernier dÃ©veloppe soudainement une Ã©loquence extraordinaire.		Extraits du rapport d'interrogatoire :		... a attirÃ© plusieurs Enchanteurs Ã  ses cÃ´tÃ©s, promettant Ã  chacun un Chapeau des Sages...		... a trompÃ© les vieux imbÃ©ciles, bien sÃ»r, mais maintenant ils semblent n'avoir plus le choix...		... Dargem se moque de vos pÃ©tards et de vos balles. Il est sÃ»r qu'il vous Ã©crasera comme une bande de cafards. De plus, il dispose de plusieurs bastions oÃ¹ ses serviteurs sont retranchÃ©s...		... Vous n'attraperez pas Dargem. Ã€ moins, bien sÃ»r, que vous ne puissiez marcher sur l'eau...
+S'il y a des éclaireurs, il doit aussi y avoir quelqu'un pour s'occuper des éclaireurs travaillant pour l'adversaire. Il y avait désormais un tel homme à Burton, du nom de Melchior. Doué pour la conversation et courtois, il savait mettre tout le monde à l'aise, incitant les gens à partager même ce qu'ils n'avaient jamais réalisé à leur sujet. Et maintenant, il avait démasqué un espion pirate. La procédure d'entretien pour ceux qui cherchaient un emploi de pistolero, longue et déroutante pour un observateur non averti, s'était une fois de plus révélée efficace : le candidat s'était effondré face à une question inattendue sur la meilleure façon de dépenser un gros salaire, qui venait complètement à contre-courant de la conversation. 		Lors de l'interrogatoire, ce personnage arrogant et insolent a d'abord ri et proféré des menaces, affirmant qu'il ne craignait ni les coups ni la mort, et qu'il serait certainement vengé... Cependant, il a suffi d'une minute passée en compagnie de l'automate qui tenait soigneusement certaines parties saillantes du corps du prisonnier dans sa gueule pour que ce dernier développe soudainement une éloquence extraordinaire.		Extraits du rapport d'interrogatoire :		... a attiré plusieurs Enchanteurs à ses côtés, promettant à chacun un Chapeau des Sages...		... a trompé les vieux imbéciles, bien sûr, mais maintenant ils semblent n'avoir plus le choix...		... Dargem se moque de vos pétards et de vos balles. Il est sûr qu'il vous écrasera comme une bande de cafards. De plus, il dispose de plusieurs bastions où ses serviteurs sont retranchés...		... Vous n'attraperez pas Dargem. À moins, bien sûr, que vous ne puissiez marcher sur l'eau...
 
 Name:
 Portal warning (141)
 Message:
-Les Ã©claireurs apportÃ¨rent des nouvelles inquiÃ©tantes. Il existait plusieurs portails anciens dans les environs de Burton, mais tout le monde les considÃ©rait comme oubliÃ©s depuis longtemps et leur pouvoir comme Ã©teint. Personne ne s'attendait Ã  ce qu'ils reprennent vie, et ils n'Ã©taient pas considÃ©rÃ©s comme une source potentielle de menace. Mais Ã  prÃ©sent, il semblait que quelqu'un essayait de les rÃ©activer : l'air dans les portails tourbillonnait et des lumiÃ¨res clignotaient Ã  l'intÃ©rieur...
+Les éclaireurs apportèrent des nouvelles inquiétantes. Il existait plusieurs portails anciens dans les environs de Burton, mais tout le monde les considérait comme oubliés depuis longtemps et leur pouvoir comme éteint. Personne ne s'attendait à ce qu'ils reprennent vie, et ils n'étaient pas considérés comme une source potentielle de menace. Mais à présent, il semblait que quelqu'un essayait de les réactiver : l'air dans les portails tourbillonnait et des lumières clignotaient à l'intérieur...
 
 Name:
 Steadwick's Fall
 Message:
-Aujourd'hui, des rÃ©fugiÃ©s venus de la lointaine Antagarich sont arrivÃ©s Ã  Burton. Non, pas des migrants, mais des rÃ©fugiÃ©s ! Ils ont apportÃ© des nouvelles qui m'ont rendu malade et m'ont fait honte, comme si c'Ã©taient mes pensÃ©es qui avaient provoquÃ© ce malheur. De l'autre cÃ´tÃ© de l'ocÃ©an, la guerre avait Ã©clatÃ© : les Seigneurs de Guerre de Nighon s'Ã©taient alliÃ©s aux dÃ©mons ! Il Ã©tait difficile de croire que les hÃ´tes cÃ©lestes avaient trouvÃ© des alliÃ©s aussi rapidement, mais les faits Ã©taient lÃ . Erathia Ã©tait encore sous le choc de la mort mystÃ©rieuse du roi Gryphonheart, et la rumeur disait que sa capitale, Steadwick, Ã©tait dÃ©jÃ  tombÃ©e aux mains des forces conjointes des dÃ©mons et des Seigneurs de Guerre.
+Aujourd'hui, des réfugiés venus de la lointaine Antagarich sont arrivés à Burton. Non, pas des migrants, mais des réfugiés ! Ils ont apporté des nouvelles qui m'ont rendu malade et m'ont fait honte, comme si c'étaient mes pensées qui avaient provoqué ce malheur. De l'autre côté de l'océan, la guerre avait éclaté : les Seigneurs de Guerre de Nighon s'étaient alliés aux démons ! Il était difficile de croire que les hôtes célestes avaient trouvé des alliés aussi rapidement, mais les faits étaient là. Erathia était encore sous le choc de la mort mystérieuse du roi Gryphonheart, et la rumeur disait que sa capitale, Steadwick, était déjà tombée aux mains des forces conjointes des démons et des Seigneurs de Guerre.
 
 Name:
 Dargem's Fortress
 Message:
-La langue bien pendue de l'espion pirate a laissÃ© entendre que la forteresse principale de Dargem se trouvait peut-Ãªtre sur une Ã®le. C'Ã©tait effectivement le cas, mais l'Ã®le Ã©tait entourÃ©e de falaises imprenables, contre lesquelles les vagues se brisaient avec une force terrible. Le point le plus proche oÃ¹ nous pouvions nous approcher pour surveiller se trouvait Ã  au moins un kilomÃ¨tre et demi du rivage. Si seulement nous pouvions trouver un moyen d'attirer Dargem hors de son complexe ! Y avait-il un moyen de communication entre les forteresses pirates ?
+La langue bien pendue de l'espion pirate a laissé entendre que la forteresse principale de Dargem se trouvait peut-être sur une île. C'était effectivement le cas, mais l'île était entourée de falaises imprenables, contre lesquelles les vagues se brisaient avec une force terrible. Le point le plus proche où nous pouvions nous approcher pour surveiller se trouvait à au moins un kilomètre et demi du rivage. Si seulement nous pouvions trouver un moyen d'attirer Dargem hors de son complexe ! Y avait-il un moyen de communication entre les forteresses pirates ?
 
 Name:
 News about Catherine
 Message:
-Aujourd'hui, nous avons rencontrÃ© un capitaine marchand originaire d'Erathia. La guerre continue, mais il semble qu'il y ait encore de l'espoir ! La reine Catherine rassemble des troupes pour reprendre la capitale, et elle a dÃ©jÃ  repoussÃ© plusieurs armÃ©es de dÃ©mons ainsi que les Seigneurs de Guerre de Nighon ! De plus, selon les rumeurs rapportÃ©es par ce mÃªme marchand, AvLee et Bracada auraient l'intention d'offrir leur aide Ã  Erathia dans sa lutte contre les dÃ©mons.
+Aujourd'hui, nous avons rencontré un capitaine marchand originaire d'Erathia. La guerre continue, mais il semble qu'il y ait encore de l'espoir ! La reine Catherine rassemble des troupes pour reprendre la capitale, et elle a déjà repoussé plusieurs armées de démons ainsi que les Seigneurs de Guerre de Nighon ! De plus, selon les rumeurs rapportées par ce même marchand, AvLee et Bracada auraient l'intention d'offrir leur aide à Erathia dans sa lutte contre les démons.
 
 Name:
 Steadwick's Liberation
 Message:
-Un marchand d'Antagarich apporta une bonne nouvelle : Steadwick avait Ã©tÃ© libÃ©rÃ©e ! Les dÃ©mons et les crÃ©atures souterraines Ã©taient chassÃ©s de tout Erathia, et selon certaines sources, le pays serait bientÃ´t dÃ©barrassÃ© de leur emprise. Le marchand partagea Ã©galement quelques informations sur le conflit avec Tatalia et Krewlod, et sur le soutien apportÃ© par les troupes de Gavin Magnus Ã  Erathia, mais je ne l'Ã©coutais plus...		Je ne considÃ©rais plus les Kreegans comme invincibles. Je me rÃ©veillais encore en hurlant la nuit lorsque les visages hideux des envahisseurs cÃ©lestes surgissaient dans mes rÃªves, mais si les humains et les elfes Ã©taient capables de les combattre, peut-Ãªtre pourrions-nous nous aussi nous venger d'eux un jour. Ce n'Ã©tait cependant ni le moment ni l'endroit pour y rÃ©flÃ©chir sÃ©rieusement. Les besoins de Burton exigeaient toute mon Ã©nergie.
+Un marchand d'Antagarich apporta une bonne nouvelle : Steadwick avait été libérée ! Les démons et les créatures souterraines étaient chassés de tout Erathia, et selon certaines sources, le pays serait bientôt débarrassé de leur emprise. Le marchand partagea également quelques informations sur le conflit avec Tatalia et Krewlod, et sur le soutien apporté par les troupes de Gavin Magnus à Erathia, mais je ne l'écoutais plus...		Je ne considérais plus les Kreegans comme invincibles. Je me réveillais encore en hurlant la nuit lorsque les visages hideux des envahisseurs célestes surgissaient dans mes rêves, mais si les humains et les elfes étaient capables de les combattre, peut-être pourrions-nous nous aussi nous venger d'eux un jour. Ce n'était cependant ni le moment ni l'endroit pour y réfléchir sérieusement. Les besoins de Burton exigeaient toute mon énergie.
 
 Name:
 Warning
 Message:
-Selon certaines rumeurs, Dargem serait en train de fortifier sa forteresse. Si nous ne parvenons pas Ã  vaincre les forces pirates dans un dÃ©lai d'un mois et Ã  atteindre sa forteresse dÃ¨s maintenant, il sera trop tard.
+Selon certaines rumeurs, Dargem serait en train de fortifier sa forteresse. Si nous ne parvenons pas à vaincre les forces pirates dans un délai d'un mois et à atteindre sa forteresse dès maintenant, il sera trop tard.
 
 Name:
 Warning 2
 Message:
-Un marin qui s'est Ã©chappÃ© de la captivitÃ© sur l'Ã®le de Dargem a dÃ©clarÃ© que les pirates y travaillaient frÃ©nÃ©tiquement pour renforcer les dÃ©fenses de leur forteresse. Il semble qu'il ne nous reste plus qu'un mois pour la prendre.
+Un marin qui s'est échappé de la captivité sur l'île de Dargem a déclaré que les pirates y travaillaient frénétiquement pour renforcer les défenses de leur forteresse. Il semble qu'il ne nous reste plus qu'un mois pour la prendre.
 
 Name:
 Warning 3
 Message:
-Ã€ en juger par les nouvelles en provenance de Burton, les hobbits sont trÃ¨s inquiets et appellent tous ceux qui peuvent porter les armes Ã  rejoindre la milice et Ã  marcher contre Dargem. Il ne nous reste que deux semaines pour capturer la forteresse des pirates.
+À en juger par les nouvelles en provenance de Burton, les hobbits sont très inquiets et appellent tous ceux qui peuvent porter les armes à rejoindre la milice et à marcher contre Dargem. Il ne nous reste que deux semaines pour capturer la forteresse des pirates.
 
 Name:
 Dead end
 Message:
-Les pirates ont rÃ©ussi Ã  rendre leur forteresse imprenable. Il n'est plus possible de la prendre d'assaut ; mÃªme le pouvoir de Boyd ne pourra rien y faire. Notre temps est Ã©coulÃ©.
+Les pirates ont réussi à rendre leur forteresse imprenable. Il n'est plus possible de la prendre d'assaut ; même le pouvoir de Boyd ne pourra rien y faire. Notre temps est écoulé.
 
 ===== Heroes =====
 
@@ -178,27 +178,27 @@ Message:
 
 (96, 1, 0) ***Seer's Hut***
 Message:
-AprÃ¨s avoir combattu les Liches, vous jetez un Å“il prudent Ã  l'intÃ©rieur de la hutte. Vous y apercevez un immense chaudron dans lequel un NÃ©cromancien est en train de prÃ©parer une potion. Â« J'ai vu comment vous avez vaincu les Liches, dit le NÃ©cromancien. Je dois avouer que je suis impressionnÃ©. Vous voyez... ces derniÃ¨res annÃ©es, j'ai Ã©tudiÃ© le processus de crÃ©ation de nouveaux types de Dragons morts-vivants, mais la guilde des NÃ©cromanciens de Jadame a interdit ces recherches, craignant que les Dragons ne deviennent incontrÃ´lables. ImbÃ©ciles ! LÃ¢ches ! Ils n'ont aucune idÃ©e du pouvoir qu'ils rejettent ! J'ai rÃ©cemment dÃ©couvert une toute nouvelle faÃ§on de crÃ©er des Dragons FantÃ´mes, mais je n'ai pas assez de matÃ©riaux alchimiques pour faire des expÃ©riences. Il est difficile de se procurer suffisamment de mercure dans ces contrÃ©es, mais je suis sÃ»r que vous pouvez m'aider. En rÃ©compense, je pourrais vous donner quelques-uns des Dragons FantÃ´mes que j'ai dÃ©jÃ  crÃ©Ã©s. Â»
-Je crois que nous parlions de Mercure. Je crains qu'aucune autre matiÃ¨re premiÃ¨re ne convienne Ã  mes expÃ©riences.
-Ce Mercure est exactement ce dont j'ai besoin ! J'ai dÃ©jÃ  crÃ©Ã© plusieurs Dragons FantÃ´mes et je suis prÃªt Ã  vous les cÃ©der. Et encore une chose. Si vous avez des Dragons Squelettes, apportez-les-moi, et je... m'occuperai d'eux.		Donnez-vous du mercure au NÃ©cromancien en Ã©change de Dragons FantÃ´mes ?
-Apportez-moi un Dragon Squelette afin que je puisse le transformer en une crÃ©ature mort-vivante plus puissante.
-Apportez-moi un Dragon Squelette afin que je puisse le transformer en une crÃ©ature mort-vivante plus puissante.
-Remettez-vous un Dragon Squelette au NÃ©cromancien afin qu'il le transforme en Dragon FantÃ´me ?
+Après avoir combattu les Liches, vous jetez un œil prudent à l'intérieur de la hutte. Vous y apercevez un immense chaudron dans lequel un Nécromancien est en train de préparer une potion. « J'ai vu comment vous avez vaincu les Liches, dit le Nécromancien. Je dois avouer que je suis impressionné. Vous voyez... ces dernières années, j'ai étudié le processus de création de nouveaux types de Dragons morts-vivants, mais la guilde des Nécromanciens de Jadame a interdit ces recherches, craignant que les Dragons ne deviennent incontrôlables. Imbéciles ! Lâches ! Ils n'ont aucune idée du pouvoir qu'ils rejettent ! J'ai récemment découvert une toute nouvelle façon de créer des Dragons Fantômes, mais je n'ai pas assez de matériaux alchimiques pour faire des expériences. Il est difficile de se procurer suffisamment de mercure dans ces contrées, mais je suis sûr que vous pouvez m'aider. En récompense, je pourrais vous donner quelques-uns des Dragons Fantômes que j'ai déjà créés. »
+Je crois que nous parlions de Mercure. Je crains qu'aucune autre matière première ne convienne à mes expériences.
+Ce Mercure est exactement ce dont j'ai besoin ! J'ai déjà créé plusieurs Dragons Fantômes et je suis prêt à vous les céder. Et encore une chose. Si vous avez des Dragons Squelettes, apportez-les-moi, et je... m'occuperai d'eux.		Donnez-vous du mercure au Nécromancien en échange de Dragons Fantômes ?
+Apportez-moi un Dragon Squelette afin que je puisse le transformer en une créature mort-vivante plus puissante.
+Apportez-moi un Dragon Squelette afin que je puisse le transformer en une créature mort-vivante plus puissante.
+Remettez-vous un Dragon Squelette au Nécromancien afin qu'il le transforme en Dragon Fantôme ?
 
 (27, 54, 0) ***Seer's Hut***
 Message:
-Les mercenaires qui Ã©taient auparavant au service de Dargem se sont arrÃªtÃ©s au camp des contrebandiers sur la rive de cette baie. Les pirates sont impatients de rejoindre votre armÃ©e, si vous leur versez 16 mercure, 16 cristaux et 15 000 piÃ¨ces d'or.
-Les mercenaires qui Ã©taient auparavant au service de Dargem se sont arrÃªtÃ©s au camp des contrebandiers sur le rivage de cette baie. Les pirates sont impatients de rejoindre votre armÃ©e, si vous leur versez 16 mercure, 16 cristaux et 15 000 piÃ¨ces d'or.
-Engager 15 pirates pour 16 mercure, 16 cristaux et 15 000 piÃ¨ces d'or ?
-Les mercenaires qui Ã©taient auparavant au service de Dargem se sont arrÃªtÃ©s au camp des contrebandiers sur les rives de cette baie. Les pirates sont impatients de rejoindre votre armÃ©e, si vous leur versez 24 mercure, 24 cristaux et 30 000 piÃ¨ces d'or.
-Les mercenaires qui Ã©taient auparavant au service de Dargem se sont arrÃªtÃ©s au camp des contrebandiers sur le rivage de cette baie. Les pirates sont impatients de rejoindre votre armÃ©e, si vous leur payez 24 mercure, 24 cristaux et 30 000 piÃ¨ces d'or.
-Engager 15 pirates pour 24 mercure, 24 cristaux et 30 000 piÃ¨ces d'or ?
-Les mercenaires qui Ã©taient auparavant au service de Dargem ont fait halte au camp des contrebandiers situÃ© sur les rives de cette baie. Les pirates sont impatients de rejoindre votre armÃ©e, si vous leur versez 32 mercure, 32 cristaux et 45 000 piÃ¨ces d'or.
-Les mercenaires qui Ã©taient auparavant au service de Dargem se sont arrÃªtÃ©s au camp des contrebandiers sur le rivage de cette baie. Les pirates sont impatients de rejoindre votre armÃ©e, si vous leur versez 32 mercure, 32 cristaux et 45 000 piÃ¨ces d'or.
-Engager 15 pirates pour 32 mercure, 32 cristaux et 45 000 piÃ¨ces d'or ?
-Les mercenaires qui Ã©taient auparavant au service de Dargem se sont arrÃªtÃ©s au camp des contrebandiers sur le rivage de cette baie. Les pirates sont impatients de rejoindre votre armÃ©e, si vous leur versez 40 mercure, 40 cristaux et 60 000 piÃ¨ces d'or.
-Les mercenaires qui Ã©taient auparavant au service de Dargem se sont arrÃªtÃ©s au camp des contrebandiers sur le rivage de cette baie. Les pirates sont impatients de rejoindre votre armÃ©e, si vous leur payez 40 mercure, 40 cristaux et 60 000 piÃ¨ces d'or.
-Engager 25 pirates pour 40 mercure, 40 cristaux et 60 000 piÃ¨ces d'or ?
+Les mercenaires qui étaient auparavant au service de Dargem se sont arrêtés au camp des contrebandiers sur la rive de cette baie. Les pirates sont impatients de rejoindre votre armée, si vous leur versez 16 mercure, 16 cristaux et 15 000 pièces d'or.
+Les mercenaires qui étaient auparavant au service de Dargem se sont arrêtés au camp des contrebandiers sur le rivage de cette baie. Les pirates sont impatients de rejoindre votre armée, si vous leur versez 16 mercure, 16 cristaux et 15 000 pièces d'or.
+Engager 15 pirates pour 16 mercure, 16 cristaux et 15 000 pièces d'or ?
+Les mercenaires qui étaient auparavant au service de Dargem se sont arrêtés au camp des contrebandiers sur les rives de cette baie. Les pirates sont impatients de rejoindre votre armée, si vous leur versez 24 mercure, 24 cristaux et 30 000 pièces d'or.
+Les mercenaires qui étaient auparavant au service de Dargem se sont arrêtés au camp des contrebandiers sur le rivage de cette baie. Les pirates sont impatients de rejoindre votre armée, si vous leur payez 24 mercure, 24 cristaux et 30 000 pièces d'or.
+Engager 15 pirates pour 24 mercure, 24 cristaux et 30 000 pièces d'or ?
+Les mercenaires qui étaient auparavant au service de Dargem ont fait halte au camp des contrebandiers situé sur les rives de cette baie. Les pirates sont impatients de rejoindre votre armée, si vous leur versez 32 mercure, 32 cristaux et 45 000 pièces d'or.
+Les mercenaires qui étaient auparavant au service de Dargem se sont arrêtés au camp des contrebandiers sur le rivage de cette baie. Les pirates sont impatients de rejoindre votre armée, si vous leur versez 32 mercure, 32 cristaux et 45 000 pièces d'or.
+Engager 15 pirates pour 32 mercure, 32 cristaux et 45 000 pièces d'or ?
+Les mercenaires qui étaient auparavant au service de Dargem se sont arrêtés au camp des contrebandiers sur le rivage de cette baie. Les pirates sont impatients de rejoindre votre armée, si vous leur versez 40 mercure, 40 cristaux et 60 000 pièces d'or.
+Les mercenaires qui étaient auparavant au service de Dargem se sont arrêtés au camp des contrebandiers sur le rivage de cette baie. Les pirates sont impatients de rejoindre votre armée, si vous leur payez 40 mercure, 40 cristaux et 60 000 pièces d'or.
+Engager 25 pirates pour 40 mercure, 40 cristaux et 60 000 pièces d'or ?
 
 (36, 24, 0) ***Sign***
 Message:
@@ -206,42 +206,42 @@ Alvar Merchant Guild Trading Post
 
 (18, 32, 0) ***Seer's Hut***
 Message:
-Les parchemins magiques peuvent Ãªtre trÃ¨s utiles, mais rien ne vaut la maÃ®trise d'un sort. Au cours des annÃ©es passÃ©es, j'ai enseignÃ© Ã  des magiciens la maÃ®trise de sorts rares, et je peux vous aider vous aussi. Apportez-moi un parchemin contenant le sort Hypnose, et je vous l'enseignerai ; cependant, en Ã©change, je vous demanderai de me donner le parchemin. Je suis au courant des raids des pirates, je ne vous facturerai donc pas mes services. Les parchemins de sort Hypnose ne sont pas faciles Ã  trouver, mais j'ai entendu dire qu'un Ogre Mage en avait perdu un dans l'Est. On raconte que les morts-vivants ont rÃ©cemment envahi ces terres.
-Malheureusement, je ne peux pas vous aider sans le parchemin de sort appropriÃ©.
+Les parchemins magiques peuvent être très utiles, mais rien ne vaut la maîtrise d'un sort. Au cours des années passées, j'ai enseigné à des magiciens la maîtrise de sorts rares, et je peux vous aider vous aussi. Apportez-moi un parchemin contenant le sort Hypnose, et je vous l'enseignerai ; cependant, en échange, je vous demanderai de me donner le parchemin. Je suis au courant des raids des pirates, je ne vous facturerai donc pas mes services. Les parchemins de sort Hypnose ne sont pas faciles à trouver, mais j'ai entendu dire qu'un Ogre Mage en avait perdu un dans l'Est. On raconte que les morts-vivants ont récemment envahi ces terres.
+Malheureusement, je ne peux pas vous aider sans le parchemin de sort approprié.
 Parfait ! Ce parchemin est exactement ce dont j'ai besoin ! Voulez-vous apprendre le sort Hypnose ?
-Les parchemins magiques peuvent Ãªtre trÃ¨s utiles, mais rien ne vaut la connaissance d'un sort. Par le passÃ©, j'ai enseignÃ© Ã  des magiciens la maÃ®trise de sorts rares, et je peux vous aider aussi. Apportez-moi un parchemin avec le sort Anti-magie, et je vous l'enseignerai ; cependant, en Ã©change, je vous demanderai de me donner le parchemin. Je suis au courant des raids des pirates, je ne vous facturerai donc pas mes services. Les parchemins de sortilÃ¨ge Anti-magie ne sont pas faciles Ã  trouver, mais j'ai entendu dire que le Lutin errant qui a rÃ©cemment visitÃ© ma hutte en avait un. Il est peut-Ãªtre encore dans les parages.
-Malheureusement, je ne peux pas vous aider sans le parchemin de sortilÃ¨ge appropriÃ©.
+Les parchemins magiques peuvent être très utiles, mais rien ne vaut la connaissance d'un sort. Par le passé, j'ai enseigné à des magiciens la maîtrise de sorts rares, et je peux vous aider aussi. Apportez-moi un parchemin avec le sort Anti-magie, et je vous l'enseignerai ; cependant, en échange, je vous demanderai de me donner le parchemin. Je suis au courant des raids des pirates, je ne vous facturerai donc pas mes services. Les parchemins de sortilège Anti-magie ne sont pas faciles à trouver, mais j'ai entendu dire que le Lutin errant qui a récemment visité ma hutte en avait un. Il est peut-être encore dans les parages.
+Malheureusement, je ne peux pas vous aider sans le parchemin de sortilège approprié.
 Parfait ! Ce parchemin est exactement ce dont j'ai besoin ! Voulez-vous apprendre le sort Anti-magie ?
-Les parchemins magiques peuvent Ãªtre trÃ¨s utiles, mais rien ne vaut la connaissance d'un sort. Par le passÃ©, j'ai enseignÃ© Ã  des magiciens la maÃ®trise de sorts rares, et je peux vous aider aussi. Apportez-moi un parchemin contenant le sort FÃ©licitÃ©, et je vous l'enseignerai ; cependant, en Ã©change, je vous demanderai de me donner le parchemin. Je suis au courant des raids des pirates, je ne vous facturerai donc pas mes services. Les parchemins de sort FÃ©licitÃ© ne sont pas faciles Ã  trouver, mais j'ai entendu dire qu'un exemplaire avait Ã©tÃ© perdu quelque part dans ces montagnes.
-Malheureusement, je ne peux pas vous aider sans le parchemin de sort appropriÃ©.
-Parfait ! Ce parchemin est exactement ce dont j'ai besoin ! Voulez-vous apprendre le sort FÃ©licitÃ© ?
-Les parchemins magiques peuvent Ãªtre trÃ¨s utiles, mais rien ne vaut la connaissance d'un sort. Par le passÃ©, j'ai enseignÃ© Ã  des magiciens la maÃ®trise de sorts rares, et je peux vous aider aussi. Apportez-moi un parchemin contenant le sort Clone, et je vous l'enseignerai ; cependant, en Ã©change, je vous demanderai de me donner le parchemin. Je suis au courant des raids des pirates, je ne vous facturerai donc pas mes services. Les parchemins de sort Clone ne sont pas faciles Ã  trouver, mais j'ai entendu dire qu'un avait Ã©tÃ© perdu sur une Ã®le de la baie.
-Malheureusement, je ne peux pas vous aider sans le parchemin de sort appropriÃ©.
+Les parchemins magiques peuvent être très utiles, mais rien ne vaut la connaissance d'un sort. Par le passé, j'ai enseigné à des magiciens la maîtrise de sorts rares, et je peux vous aider aussi. Apportez-moi un parchemin contenant le sort Félicité, et je vous l'enseignerai ; cependant, en échange, je vous demanderai de me donner le parchemin. Je suis au courant des raids des pirates, je ne vous facturerai donc pas mes services. Les parchemins de sort Félicité ne sont pas faciles à trouver, mais j'ai entendu dire qu'un exemplaire avait été perdu quelque part dans ces montagnes.
+Malheureusement, je ne peux pas vous aider sans le parchemin de sort approprié.
+Parfait ! Ce parchemin est exactement ce dont j'ai besoin ! Voulez-vous apprendre le sort Félicité ?
+Les parchemins magiques peuvent être très utiles, mais rien ne vaut la connaissance d'un sort. Par le passé, j'ai enseigné à des magiciens la maîtrise de sorts rares, et je peux vous aider aussi. Apportez-moi un parchemin contenant le sort Clone, et je vous l'enseignerai ; cependant, en échange, je vous demanderai de me donner le parchemin. Je suis au courant des raids des pirates, je ne vous facturerai donc pas mes services. Les parchemins de sort Clone ne sont pas faciles à trouver, mais j'ai entendu dire qu'un avait été perdu sur une île de la baie.
+Malheureusement, je ne peux pas vous aider sans le parchemin de sort approprié.
 Parfait ! Ce parchemin est exactement ce dont j'ai besoin ! Voulez-vous apprendre le sort Clone ?
 
 (25, 16, 0) ***Seer's Hut***
 Message:
-J'ai testÃ© toute une gamme d'armes par le passÃ©, mais ce n'est que rÃ©cemment que j'ai obtenu un rÃ©sultat dont je peux Ãªtre fier. Malheureusement, je n'ai pas assez de matiÃ¨res premiÃ¨res pour construire cette nouvelle arme que j'ai conÃ§ue, et mÃªme si j'en avais, peu de gens seraient prÃªts Ã  la tester. Pourriez-vous me trouver des matÃ©riaux adaptÃ©s ? J'ai besoin d'une quantitÃ© importante de soufre et de pierres prÃ©cieuses, ainsi que d'or pour payer mes frais de travail.
-Vous n'avez pas de matÃ©riaux ? C'est dommage. D'aprÃ¨s ce que j'ai entendu, mes nouvelles armes pourraient vraiment vous Ãªtre utiles.
-Excellent ! Je peux commencer Ã  fabriquer ces armes dÃ¨s maintenant, si vous le souhaitez.
-Mes armes sont extrÃªmement puissantes, mais je crains que peu de membres de votre groupe ne soient prÃªts Ã  les essayer. Cependant, j'ai entendu dire qu'il y avait d'excellents tireurs parmi les pirates mercenaires. Amenez-m'en quelques-uns, et je me ferai un plaisir de les former Ã  l'utilisation de ces nouvelles armes.
-Toujours pas de pirates ? J'ai entendu dire qu'il y avait un camp de mercenaires sur la cÃ´te au sud d'ici. Les personnages qui s'y trouvent sont d'anciens pirates qui ont refusÃ© de travailler aux cÃ´tÃ©s de Dargem. Peut-Ãªtre pourraient-ils vous aider ?
-Je vois que vous avez trouvÃ© les hommes qu'il vous faut pour essayer mes nouvelles armes. Souhaitez-vous les rÃ©Ã©quiper dÃ¨s maintenant ?
+J'ai testé toute une gamme d'armes par le passé, mais ce n'est que récemment que j'ai obtenu un résultat dont je peux être fier. Malheureusement, je n'ai pas assez de matières premières pour construire cette nouvelle arme que j'ai conçue, et même si j'en avais, peu de gens seraient prêts à la tester. Pourriez-vous me trouver des matériaux adaptés ? J'ai besoin d'une quantité importante de soufre et de pierres précieuses, ainsi que d'or pour payer mes frais de travail.
+Vous n'avez pas de matériaux ? C'est dommage. D'après ce que j'ai entendu, mes nouvelles armes pourraient vraiment vous être utiles.
+Excellent ! Je peux commencer à fabriquer ces armes dès maintenant, si vous le souhaitez.
+Mes armes sont extrêmement puissantes, mais je crains que peu de membres de votre groupe ne soient prêts à les essayer. Cependant, j'ai entendu dire qu'il y avait d'excellents tireurs parmi les pirates mercenaires. Amenez-m'en quelques-uns, et je me ferai un plaisir de les former à l'utilisation de ces nouvelles armes.
+Toujours pas de pirates ? J'ai entendu dire qu'il y avait un camp de mercenaires sur la côte au sud d'ici. Les personnages qui s'y trouvent sont d'anciens pirates qui ont refusé de travailler aux côtés de Dargem. Peut-être pourraient-ils vous aider ?
+Je vois que vous avez trouvé les hommes qu'il vous faut pour essayer mes nouvelles armes. Souhaitez-vous les rééquiper dès maintenant ?
 
 (1, 3, 0) ***Seer's Hut***
 Message:
-Beaucoup s'occupent d'artÃ©facts magiques, mais leur crÃ©ation est aujourd'hui un art presque perdu. Cependant, je possÃ¨de Ã  la fois les connaissances et l'expÃ©rience nÃ©cessaires pour enchanter des objets, et je suis prÃªt Ã  crÃ©er un vÃ©ritable artÃ©fact pour vous. Apportez-moi 50 mercure, 50 soufre, 50 cristaux et 50 gemmes, et j'enchanterai une cape qui augmentera la vitesse de vos troupes au combat.
+Beaucoup s'occupent d'artéfacts magiques, mais leur création est aujourd'hui un art presque perdu. Cependant, je possède à la fois les connaissances et l'expérience nécessaires pour enchanter des objets, et je suis prêt à créer un véritable artéfact pour vous. Apportez-moi 50 mercure, 50 soufre, 50 cristaux et 50 gemmes, et j'enchanterai une cape qui augmentera la vitesse de vos troupes au combat.
 Ce n'est pas suffisant. J'ai besoin de 50 mercure, 50 soufre, 50 cristaux et 50 gemmes, pas moins !
-Ah ah ! C'est exactement ce dont j'ai besoin ! Souhaitez-vous obtenir la Cape de VÃ©locitÃ© ?	
+Ah ah ! C'est exactement ce dont j'ai besoin ! Souhaitez-vous obtenir la Cape de Vélocité ?	
 
 (91, 66, 0) ***Seer's Hut***
 Message:
-Vous entrez dans une petite hutte sur pilotis et trouvez un elfe en train de fouiller dans des filets de pÃªche. Il dÃ©teste manifestement le travail de pÃªcheur et n'en a mÃªme pas l'air ; il a plutÃ´t l'air d'un mage. Â« Je pensais que les pirates Ã©taient de retour Â», dit l'elfe. Â« Les pirates et les bandits sont venus ici, mais qu'y a-t-il Ã  prendre ? Du poisson et des filets, c'est tout.	Mon seul trÃ©sor, le Globe de VulnÃ©rabilitÃ©, a Ã©tÃ© perdu lorsque les dragons ont attaquÃ© ma bibliothÃ¨que. Curieusement, ils n'ont brÃ»lÃ© que quelques objets, mais ils ont emportÃ© mon bien le plus prÃ©cieux. J'ai entendu dire que les bÃªtes ailÃ©es avaient emportÃ© l'artefact dans leur Â« utopie Â», Ã  mi-chemin entre ici et Burton, mais malgrÃ© tous mes efforts pour m'approcher du repaire des dragons, mes tentatives ont Ã©tÃ© vaines : ils Ã©taient lÃ . Je ne serais jamais capable d'affronter une seule vermine ailÃ©. Maintenant, je t'ai vu combattre les pirates. Si tu pouvais rÃ©cupÃ©rer mon orbe, je serais ravi de t'enseigner tout ce que je sais. Qu'en penses-tu ?
-Je suis dÃ©solÃ©, mais j'ai besoin de mon Globe de VulnÃ©rabilitÃ©, et rien d'autre ne fera l'affaire !
-Je pensais ne jamais revoir mon orbe ! Tu dis que les dragons s'en mÃ©fiaient ? C'est intrigant. Quoi qu'il en soit, je peux retourner Ã  ma bibliothÃ¨que maintenant.
-Tu as respectÃ© ta part du marchÃ©, je respecterai la mienne.
-Je suis dÃ©solÃ©, mais je ne peux pas t'aider. Seul un mage vraiment puissant peut bÃ©nÃ©ficier de mes leÃ§ons.
-On reconnaÃ®t tout de suite un mage talentueux ! Permets-moi de t'initier aux mystÃ¨res de la magie.
+Vous entrez dans une petite hutte sur pilotis et trouvez un elfe en train de fouiller dans des filets de pêche. Il déteste manifestement le travail de pêcheur et n'en a même pas l'air ; il a plutôt l'air d'un mage. « Je pensais que les pirates étaient de retour », dit l'elfe. « Les pirates et les bandits sont venus ici, mais qu'y a-t-il à prendre ? Du poisson et des filets, c'est tout.	Mon seul trésor, le Globe de Vulnérabilité, a été perdu lorsque les dragons ont attaqué ma bibliothèque. Curieusement, ils n'ont brûlé que quelques objets, mais ils ont emporté mon bien le plus précieux. J'ai entendu dire que les bêtes ailées avaient emporté l'artefact dans leur « utopie », à mi-chemin entre ici et Burton, mais malgré tous mes efforts pour m'approcher du repaire des dragons, mes tentatives ont été vaines : ils étaient là. Je ne serais jamais capable d'affronter une seule vermine ailé. Maintenant, je t'ai vu combattre les pirates. Si tu pouvais récupérer mon orbe, je serais ravi de t'enseigner tout ce que je sais. Qu'en penses-tu ?
+Je suis désolé, mais j'ai besoin de mon Globe de Vulnérabilité, et rien d'autre ne fera l'affaire !
+Je pensais ne jamais revoir mon orbe ! Tu dis que les dragons s'en méfiaient ? C'est intrigant. Quoi qu'il en soit, je peux retourner à ma bibliothèque maintenant.
+Tu as respecté ta part du marché, je respecterai la mienne.
+Je suis désolé, mais je ne peux pas t'aider. Seul un mage vraiment puissant peut bénéficier de mes leçons.
+On reconnaît tout de suite un mage talentueux ! Permets-moi de t'initier aux mystères de la magie.
 
 (56, 107, 0) ***Pandora's Box***
 Message:
@@ -255,7 +255,7 @@ Nemerthea
 Name:
 Boyd
 Biography:
-Toutes les histoires effrayantes mettent en scÃ¨ne un cavalier qui a Ã©tÃ© pendu, poignardÃ© ou mÃªme dÃ©capitÃ© et qui chevauche dÃ©sormais la nuit, dans le but de se venger de ses meurtriers. Absurde, dirait un NÃ©cromancien, un mort ressuscitÃ© de lui-mÃªme ne peut avoir ni mÃ©moire ni volontÃ©. C'est peut-Ãªtre vrai, mais Boyd a des comptes Ã  rÃ©gler non seulement avec le traÃ®tre qui l'a tuÃ©, mais aussi avec celui qui l'a privÃ© de repos Ã©ternel.
+Toutes les histoires effrayantes mettent en scène un cavalier qui a été pendu, poignardé ou même décapité et qui chevauche désormais la nuit, dans le but de se venger de ses meurtriers. Absurde, dirait un Nécromancien, un mort ressuscité de lui-même ne peut avoir ni mémoire ni volonté. C'est peut-être vrai, mais Boyd a des comptes à régler non seulement avec le traître qui l'a tué, mais aussi avec celui qui l'a privé de repos éternel.
 
 (15, 99, 0) ***Navigator***
 Name:
@@ -267,28 +267,28 @@ Swarn
 
 (58, 63, 0) ***Quest Guard***
 Message:
-Sans l'indice donnÃ© par votre guide, vous n'auriez rien remarquÃ© ici. Suivant son conseil, vous apercevez une bosse qui, aprÃ¨s inspection, s'avÃ¨re Ãªtre un grand coffre recouvert de boue et d'herbe. AprÃ¨s les avoir nettoyÃ©s, vous dÃ©couvrez des ornements reprÃ©sentant des dragons et des serpents. Apparemment, ce coffre est ici depuis trÃ¨s longtemps, peut-Ãªtre des siÃ¨cles, mais personne n'a rÃ©ussi Ã  l'ouvrir jusqu'Ã  prÃ©sent.		En effet, vous ne trouvez ni interstice entre le couvercle et les parois, ni serrure, mais parmi les ornements, vous remarquez deux petits trous en forme d'yeux de dragon... ou d'anneaux avec des yeux de dragon ?
-Vous ne parvenez toujours pas Ã  ouvrir le coffre. La seule chose que vous pouvez faire est de chercher les clÃ©s qui permettent de l'ouvrir.
-AprÃ¨s avoir placÃ© les anneaux Ã  leur place, vous constatez avec satisfaction que le coffre peut dÃ©sormais Ãªtre ouvert. Ã€ l'intÃ©rieur, vous trouvez un bouclier magique fait d'Ã©cailles de dragon. Souhaitez-vous le prendre ?	
+Sans l'indice donné par votre guide, vous n'auriez rien remarqué ici. Suivant son conseil, vous apercevez une bosse qui, après inspection, s'avère être un grand coffre recouvert de boue et d'herbe. Après les avoir nettoyés, vous découvrez des ornements représentant des dragons et des serpents. Apparemment, ce coffre est ici depuis très longtemps, peut-être des siècles, mais personne n'a réussi à l'ouvrir jusqu'à présent.		En effet, vous ne trouvez ni interstice entre le couvercle et les parois, ni serrure, mais parmi les ornements, vous remarquez deux petits trous en forme d'yeux de dragon... ou d'anneaux avec des yeux de dragon ?
+Vous ne parvenez toujours pas à ouvrir le coffre. La seule chose que vous pouvez faire est de chercher les clés qui permettent de l'ouvrir.
+Après avoir placé les anneaux à leur place, vous constatez avec satisfaction que le coffre peut désormais être ouvert. À l'intérieur, vous trouvez un bouclier magique fait d'écailles de dragon. Souhaitez-vous le prendre ?	
 
 (73, 10, 0) ***Seer's Hut***
 Message:
-Dans la crypte, vous rencontrez un Zombie vÃªtu d'une armure sombre, plongÃ© dans ses pensÃ©es.	Â« Il paraÃ®t que je ne suis pas le seul Ã  avoir souffert aux mains des pirates de Dargem. C'est vrai ! J'Ã©tais autrefois garde dans les caravanes de la guilde. Zeytoss, le mage favori de Dargem, nous a tendu une embuscade. Personne n'a survÃ©cu Ã  la bataille, mais peu aprÃ¨s, une Liche local m'a ramenÃ© Ã  la vie... si on peut appeler Ã§a la vie Â», rÃ©flÃ©chit le Chevalier Noir pendant un moment. Â« Maintenant, tout ce que je peux espÃ©rer, c'est me venger, mais je suis faible et je ne peux pas affronter toute une armÃ©e de pirates Ã  moi seul. Je sais que Zeytoss a rÃ©cemment sÃ©journÃ© dans ces contrÃ©es et qu'il pourrait revenir d'un jour Ã  l'autre. Ã‰liminez-le, et je vous apprendrai une chose ou deux.
-Je sais que Zeytoss est toujours lÃ -bas avec son armÃ©e. Trouvez-le !
+Dans la crypte, vous rencontrez un Zombie vêtu d'une armure sombre, plongé dans ses pensées.	« Il paraît que je ne suis pas le seul à avoir souffert aux mains des pirates de Dargem. C'est vrai ! J'étais autrefois garde dans les caravanes de la guilde. Zeytoss, le mage favori de Dargem, nous a tendu une embuscade. Personne n'a survécu à la bataille, mais peu après, une Liche local m'a ramené à la vie... si on peut appeler ça la vie », réfléchit le Chevalier Noir pendant un moment. « Maintenant, tout ce que je peux espérer, c'est me venger, mais je suis faible et je ne peux pas affronter toute une armée de pirates à moi seul. Je sais que Zeytoss a récemment séjourné dans ces contrées et qu'il pourrait revenir d'un jour à l'autre. Éliminez-le, et je vous apprendrai une chose ou deux.
+Je sais que Zeytoss est toujours là-bas avec son armée. Trouvez-le !
 Vous dites qu'il est parti ? Enfin !
-La liche qui m'a ressuscitÃ© m'a enseignÃ© le sort Â« Animation des Morts Â». Je suis sÃ»r que vous en ferez meilleur usage que moi, mais je ne l'enseignerai qu'Ã  Boyd.
-Je ne parlerai qu'Ã  Boyd ! Vous, les vivants, vous ne comprenez tout simplement pas nos malheurs.
-Ah, Boyd. C'est toujours un plaisir de rencontrer quelqu'un comme vous. Maintenant, Ã©coute ce que je vais te dire...
-Je m'apprÃªte Ã  quitter ces terres, mais je ne veux pas rentrer chez moi les mains vides. Lorsque les sbires de Zeytoss nous ont attaquÃ©s, nous transportions plusieurs artefacts sombres : Le Plastron Macabre, l'Ã‰cu des TÃ©nÃ¨bres, le Casque Noir et le Sablier Diabolique. Nos marchands allaient les vendre Ã  un nÃ©cromancien. J'ai entendu dire que les pirates qui ont pillÃ© nos chariots les ont jugÃ©s inutiles et les ont simplement jetÃ©s. Ces objets se trouvent probablement encore quelque part par ici, mais je n'ai jamais rÃ©ussi Ã  les localiser. Peut-Ãªtre aurez-vous plus de chance ?
-Vous n'avez toujours pas trouvÃ© les artefacts ? Je suis sÃ»r qu'ils sont encore dans ces contrÃ©es !
-Vous dites avoir trouvÃ© le Sablier Diabolique dans le trÃ©sor des dragons squelettes ? Ã‰trange. Quoi qu'il en soit, ces artÃ©facts sont exactement ce dont j'ai besoin ! Ã€ partir de maintenant, aucun pirate n'osera me dÃ©fier.
-Quand j'Ã©tais garde des caravanes de la Guilde, j'Ã©tais connu comme un Ã©pÃ©iste aux talents presque inÃ©galÃ©s. Je suis prÃªt Ã  vous enseigner quelque chose ; vous le mÃ©ritez plus que quiconque.
-Je ne parlerai qu'Ã  Boyd ! Vous, les vivants, vous ne comprenez tout simplement pas nos malheurs.
-Maintenant, Ã©coutez ce que je vais vous dire, Boyd.
+La liche qui m'a ressuscité m'a enseigné le sort « Animation des Morts ». Je suis sûr que vous en ferez meilleur usage que moi, mais je ne l'enseignerai qu'à Boyd.
+Je ne parlerai qu'à Boyd ! Vous, les vivants, vous ne comprenez tout simplement pas nos malheurs.
+Ah, Boyd. C'est toujours un plaisir de rencontrer quelqu'un comme vous. Maintenant, écoute ce que je vais te dire...
+Je m'apprête à quitter ces terres, mais je ne veux pas rentrer chez moi les mains vides. Lorsque les sbires de Zeytoss nous ont attaqués, nous transportions plusieurs artefacts sombres : Le Plastron Macabre, l'Écu des Ténèbres, le Casque Noir et le Sablier Diabolique. Nos marchands allaient les vendre à un nécromancien. J'ai entendu dire que les pirates qui ont pillé nos chariots les ont jugés inutiles et les ont simplement jetés. Ces objets se trouvent probablement encore quelque part par ici, mais je n'ai jamais réussi à les localiser. Peut-être aurez-vous plus de chance ?
+Vous n'avez toujours pas trouvé les artefacts ? Je suis sûr qu'ils sont encore dans ces contrées !
+Vous dites avoir trouvé le Sablier Diabolique dans le trésor des dragons squelettes ? Étrange. Quoi qu'il en soit, ces artéfacts sont exactement ce dont j'ai besoin ! À partir de maintenant, aucun pirate n'osera me défier.
+Quand j'étais garde des caravanes de la Guilde, j'étais connu comme un épéiste aux talents presque inégalés. Je suis prêt à vous enseigner quelque chose ; vous le méritez plus que quiconque.
+Je ne parlerai qu'à Boyd ! Vous, les vivants, vous ne comprenez tout simplement pas nos malheurs.
+Maintenant, écoutez ce que je vais vous dire, Boyd.
 
 (64, 102, 0) ***Sign***
 Message:
-Ãle des Trolls
+Île des Trolls
 
 (107, 75, 0) ***Navigator***
 Name:
@@ -296,25 +296,25 @@ Zeytoss
 
 (65, 63, 0) ***Seer's Hut***
 Message:
-En approchant de la cabane, vous vous arrÃªtez, indÃ©cis. Des piles d'os et de vieilles armures jonchent le sol. Que s'est-il passÃ© ici ? La rÃ©ponse vous apparaÃ®t lorsque vous trouvez les fragments d'un vieux journal intime parmi les ossements. Â« ... tout s'est passÃ© encore mieux que prÃ©vu. Nous avons rÃ©ussi Ã  crÃ©er nos premiers Dragons FantÃ´mes. Nos frÃ¨res de la guilde ne cessent de rÃ©pÃ©ter que c'est de la folie ; ils pensent que les dragons que nous avons animÃ©s pourraient se retourner contre nous. Quelle absurditÃ© ! J'aimerais voir leur tÃªte quand... Â» L'Ã©criture s'arrÃªte		 brusquement. Apparemment, les monstres crÃ©Ã©s par les liches se sont avÃ©rÃ©s trop difficiles Ã  contrÃ´ler. En regardant autour de vous, vous remarquez soudain une nuÃ©e de Dragons FantÃ´mes perchÃ©s sur les falaises, qui vous observent attentivement.		 Peut-Ãªtre que Boyd pourrait trouver un terrain d'entente avec eux ?
-Les Dragons FantÃ´mes vous observent. Ils semblent prÃªts Ã  attaquer Ã  tout moment, il serait donc sage d'Ã©viter de les provoquer.
-RÃ©alisant que Boyd a Ã©galement Ã©tÃ© ressuscitÃ© contre son grÃ©, les dragons expriment leur dÃ©sir de rejoindre vos rangs.		 Vous vous dirigez vers la hutte, car il pourrait y avoir quelque chose de valeur Ã  l'intÃ©rieur.
-Dans la hutte, vous voyez des armures enchantÃ©es, mais elles ne semblent convenir qu'aux morts-vivants.
-Dans la hutte, vous voyez des armures enchantÃ©es, mais elles ne semblent convenir qu'aux morts-vivants.
-Voulez-vous Ã©quiper Boyd et son hÃ´te d'armures ?
+En approchant de la cabane, vous vous arrêtez, indécis. Des piles d'os et de vieilles armures jonchent le sol. Que s'est-il passé ici ? La réponse vous apparaît lorsque vous trouvez les fragments d'un vieux journal intime parmi les ossements. « ... tout s'est passé encore mieux que prévu. Nous avons réussi à créer nos premiers Dragons Fantômes. Nos frères de la guilde ne cessent de répéter que c'est de la folie ; ils pensent que les dragons que nous avons animés pourraient se retourner contre nous. Quelle absurdité ! J'aimerais voir leur tête quand... » L'écriture s'arrête		 brusquement. Apparemment, les monstres créés par les liches se sont avérés trop difficiles à contrôler. En regardant autour de vous, vous remarquez soudain une nuée de Dragons Fantômes perchés sur les falaises, qui vous observent attentivement.		 Peut-être que Boyd pourrait trouver un terrain d'entente avec eux ?
+Les Dragons Fantômes vous observent. Ils semblent prêts à attaquer à tout moment, il serait donc sage d'éviter de les provoquer.
+Réalisant que Boyd a également été ressuscité contre son gré, les dragons expriment leur désir de rejoindre vos rangs.		 Vous vous dirigez vers la hutte, car il pourrait y avoir quelque chose de valeur à l'intérieur.
+Dans la hutte, vous voyez des armures enchantées, mais elles ne semblent convenir qu'aux morts-vivants.
+Dans la hutte, vous voyez des armures enchantées, mais elles ne semblent convenir qu'aux morts-vivants.
+Voulez-vous équiper Boyd et son hôte d'armures ?
 
 (95, 90, 0) ***Seer's Hut***
 Message:
-Dans la cabane, vous rencontrez de maniÃ¨re inattendue un triton. Il se plaint que les pirates et leurs navires ont rÃ©cemment fait fuir la plupart des prises intÃ©ressantes dans ces eaux. Le triton est un guerrier expÃ©rimentÃ©, et il est prÃªt Ã  vous enseigner quelques techniques dÃ©fensives si vous mettez fin Ã  la menace pirate et vainquez Dargem.
+Dans la cabane, vous rencontrez de manière inattendue un triton. Il se plaint que les pirates et leurs navires ont récemment fait fuir la plupart des prises intéressantes dans ces eaux. Le triton est un guerrier expérimenté, et il est prêt à vous enseigner quelques techniques défensives si vous mettez fin à la menace pirate et vainquez Dargem.
 Dargem est toujours dans les parages. Il est inutile de retourner voir le triton pour l'instant.
-AprÃ¨s avoir appris la dÃ©faite de Dargem, le triton est prÃªt Ã  remplir sa part du marchÃ©. 
-GuidÃ© par des motifs inconnus, le triton souhaite voir Frederick afin de l'entraÃ®ner personnellement.
-GuidÃ© par des motifs inconnus, le triton souhaite voir Frederick afin de l'entraÃ®ner personnellement.
+Après avoir appris la défaite de Dargem, le triton est prêt à remplir sa part du marché. 
+Guidé par des motifs inconnus, le triton souhaite voir Frederick afin de l'entraîner personnellement.
+Guidé par des motifs inconnus, le triton souhaite voir Frederick afin de l'entraîner personnellement.
 Acceptez-vous l'offre du triton ?
 
 (22, 9, 0) ***Pirate***
 Message:
-De nos jours, pas besoin d'aller bien loin pour croiser un vrai pirate. Certains sont devenus tellement effrontÃ©s qu'ils rÃ´dent juste Ã  l'extÃ©rieur des murs de Burton, se faisant tirer dessus de temps Ã  autre, parfois mÃªme depuis les tours de la ville. Ce groupe-lÃ  semble toutefois nouveau dans les parages, cherchant encore quoi piller avant qu'une balle ne vienne les atteindre.
+De nos jours, pas besoin d'aller bien loin pour croiser un vrai pirate. Certains sont devenus tellement effrontés qu'ils rôdent juste à l'extérieur des murs de Burton, se faisant tirer dessus de temps à autre, parfois même depuis les tours de la ville. Ce groupe-là semble toutefois nouveau dans les parages, cherchant encore quoi piller avant qu'une balle ne vienne les atteindre.
 
 (102, 56, 0) ***Cove***
 
@@ -345,31 +345,31 @@ Nemerthea's Bay
 
 (18, 5, 0) ***Quest Guard***
 Message:
-Il y a une fonderie ici, mais les pirates de Dargem l'ont dÃ©truite lors de leurs raids. Sa reconstruction nÃ©cessiterait 15 pierres, 10 cristaux, 10 Soufres et 5 000 piÃ¨ces d'or.
+Il y a une fonderie ici, mais les pirates de Dargem l'ont détruite lors de leurs raids. Sa reconstruction nécessiterait 15 pierres, 10 cristaux, 10 Soufres et 5 000 pièces d'or.
 Malheureusement, vous ne disposez pas des ressources suffisantes pour reconstruire la fonderie ici.
-DÃ©penser les ressources et reconstruire la structure ?
+Dépenser les ressources et reconstruire la structure ?
 
 (6, 10, 0) ***Quest Guard***
 Message:
-Il y a une Fabrique ici, mais les pirates de Dargem l'ont dÃ©truite lors de leurs raids. Sa reconstruction nÃ©cessiterait 30 bois, 15 de mercure, 20 pierres et 7 500 piÃ¨ces d'or.
+Il y a une Fabrique ici, mais les pirates de Dargem l'ont détruite lors de leurs raids. Sa reconstruction nécessiterait 30 bois, 15 de mercure, 20 pierres et 7 500 pièces d'or.
 Malheureusement, vous ne disposez pas de ressources suffisantes pour reconstruire la Fabrique ici.
-DÃ©pensez-vous les ressources pour reconstruire la structure ?
+Dépensez-vous les ressources pour reconstruire la structure ?
 
 (31, 12, 0) ***Seaman***
 Message:
-Ces pirates semblent complÃ¨tement fauchÃ©s et dÃ©semparÃ©s, armÃ©s uniquement de sabres rudimentaires et courts. Il semblerait que Dargem ait dÃ©cidÃ© d'adopter une tactique de harcÃ¨lement incessant afin d'Ã©puiser les dÃ©fenseurs de Burton ; mÃªme si aucun d'entre eux n'est tuÃ©, la fatigue pourrait revenir les hanter dÃ¨s qu'il enverra ses forces principales Ã  l'attaque.
+Ces pirates semblent complètement fauchés et désemparés, armés uniquement de sabres rudimentaires et courts. Il semblerait que Dargem ait décidé d'adopter une tactique de harcèlement incessant afin d'épuiser les défenseurs de Burton ; même si aucun d'entre eux n'est tué, la fatigue pourrait revenir les hanter dès qu'il enverra ses forces principales à l'attaque.
 
 (13, 18, 0) ***Quest Guard***
 Message:
-Il y a un Mirador ici, mais les pirates de Dargem l'ont dÃ©truite lors de leurs raids. Sa reconstruction nÃ©cessiterait 50 bois, 20 pierres et 12 000 piÃ¨ces d'or.
+Il y a un Mirador ici, mais les pirates de Dargem l'ont détruite lors de leurs raids. Sa reconstruction nécessiterait 50 bois, 20 pierres et 12 000 pièces d'or.
 Malheureusement, vous ne disposez pas de ressources suffisantes pour reconstruire le Mirador ici.
-DÃ©pensez-vous les ressources pour reconstruire la structure ?
+Dépensez-vous les ressources pour reconstruire la structure ?
 
 (71, 14, 0) ***Quest Guard***
 Message:
-Ce Fort a Ã©tÃ© dÃ©truit lors de la derniÃ¨re attaque des pirates. Vous avez besoin de 50 bois et 10 000 piÃ¨ces d'or pour le reconstruire.
-Ce Fort a Ã©tÃ© dÃ©truit lors de la derniÃ¨re attaque des pirates. Vous avez besoin de 50 bois et 10 000 piÃ¨ces d'or pour le reconstruire.
-Voulez-vous reconstruire le Fort dÃ©truit ?
+Ce Fort a été détruit lors de la dernière attaque des pirates. Vous avez besoin de 50 bois et 10 000 pièces d'or pour le reconstruire.
+Ce Fort a été détruit lors de la dernière attaque des pirates. Vous avez besoin de 50 bois et 10 000 pièces d'or pour le reconstruire.
+Voulez-vous reconstruire le Fort détruit ?
 
 (77, 76, 0) ***Event***
 Message:
@@ -389,18 +389,18 @@ Message:
 
 (89, 8, 0) ***Corsair***
 Message:
-Sur la route, vous rencontrez un piÃ©ton boiteux, qui semble Ãªtre un pirate, vÃªtu d'une camisole rouge, autrefois somptueuse mais dÃ©sormais en lambeaux et sale. On ne sait pas trÃ¨s bien ce qu'il fait si loin de la mer, mais il est clairement terrifiÃ©. Vous essayez de lui parler, et au dÃ©but, il se montre coopÃ©ratif, mais dÃ¨s que vous lui demandez comment il est arrivÃ© ici, il bondit et se jette sur vous. Il crie qu'il s'est Ã©chappÃ© de justesse du donjon du mort et qu'il refuse de rÃ©vÃ©ler les secrets qu'il y a appris.
+Sur la route, vous rencontrez un piéton boiteux, qui semble être un pirate, vêtu d'une camisole rouge, autrefois somptueuse mais désormais en lambeaux et sale. On ne sait pas très bien ce qu'il fait si loin de la mer, mais il est clairement terrifié. Vous essayez de lui parler, et au début, il se montre coopératif, mais dès que vous lui demandez comment il est arrivé ici, il bondit et se jette sur vous. Il crie qu'il s'est échappé de justesse du donjon du mort et qu'il refuse de révéler les secrets qu'il y a appris.
 
 (48, 27, 0) ***Quest Guard***
 Message:
-Un groupe de Chasseurs de Primes fait une pause ici. Ils ne sont pas opposÃ©s Ã  l'idÃ©e de rejoindre votre armÃ©e, mais ils exigent d'Ãªtre payÃ©s et insistent pour ne parler qu'Ã  leur commandant, Tancred, qui leur a ordonnÃ© de rester ici. L'un des Pistoleros remarque que Tancred a Ã©tÃ© vu pour la derniÃ¨re fois Ã  l'ouest d'ici, oÃ¹ il avait Ã©tabli son campement.
-Les Chasseurs de Primes ne parleront qu'Ã  Tancred !
-En voyant Tancred, les Pistoleros s'approchent de vous, prÃªts Ã  vous exposer leurs conditions.
+Un groupe de Chasseurs de Primes fait une pause ici. Ils ne sont pas opposés à l'idée de rejoindre votre armée, mais ils exigent d'être payés et insistent pour ne parler qu'à leur commandant, Tancred, qui leur a ordonné de rester ici. L'un des Pistoleros remarque que Tancred a été vu pour la dernière fois à l'ouest d'ici, où il avait établi son campement.
+Les Chasseurs de Primes ne parleront qu'à Tancred !
+En voyant Tancred, les Pistoleros s'approchent de vous, prêts à vous exposer leurs conditions.
 
 (49, 26, 0) ***Quest Guard***
 Message:
-Les pistoleros et les Chasseurs de Primes sont prÃªts Ã  rejoindre votre armÃ©e pour 20 000 piÃ¨ces d'or et 20 gemmes.
-Malheureusement, vous ne disposez pas des ressources nÃ©cessaires.
+Les pistoleros et les Chasseurs de Primes sont prêts à rejoindre votre armée pour 20 000 pièces d'or et 20 gemmes.
+Malheureusement, vous ne disposez pas des ressources nécessaires.
 Engagez-vous les pistoleros ?
 
 (78, 78, 0) ***Prison***
@@ -409,37 +409,37 @@ Yzraal
 
 (96, 7, 0) ***Pirate***
 Message:
-Ce pirate semble avoir Ã©tÃ© passÃ© au rouleau compresseur dans la salle de traitement de la Manufacture de Burton. Il peut Ã  peine bouger les pieds, mais il avance pÃ©niblement sur la route, le visage ensanglantÃ©, avec une dÃ©termination incroyable. En vous voyant, il pousse un cri : Â« Il m'a laissÃ© partir ! Il a dit que je pouvais marcher... transmettez mes amitiÃ©s Ã  Dargem... Je m'en fiche, je vais te le donner... te planter un couteau dans le ventre, comme il l'a dit ! Â»
+Ce pirate semble avoir été passé au rouleau compresseur dans la salle de traitement de la Manufacture de Burton. Il peut à peine bouger les pieds, mais il avance péniblement sur la route, le visage ensanglanté, avec une détermination incroyable. En vous voyant, il pousse un cri : « Il m'a laissé partir ! Il a dit que je pouvais marcher... transmettez mes amitiés à Dargem... Je m'en fiche, je vais te le donner... te planter un couteau dans le ventre, comme il l'a dit ! »
 
 (52, 36, 0) ***Quest Guard***
 Message:
-L'endroit a attirÃ© votre attention de loin. EntourÃ©es d'Ã©normes tas d'os, se trouvaient plusieurs cages dans lesquelles on pouvait apercevoir de gros Vers des Sables. Mais ce ne sont pas les vers qui ont attirÃ© votre regard, mais plutÃ´t les deux Cyclopes gÃ©ants qui se tenaient autour d'un feu Ã  leur mesure, faisant lentement tourner une broche sur laquelle rÃ´tissaient les restes d'une crÃ©ature indescriptible. 		Les Cyclopes jadamÃ©ens sont connus pour leur appÃ©tit vorace, et pour le satisfaire, ils s'attaquent aux humains, aux ogres, aux Trolls et parfois mÃªme aux Sylvaniens. Cependant, ces Cyclopes ne semblaient pas avoir l'intention de t'attaquer. Â« Encore une tÃªte d'aigri Â», grogna soudain l'un d'eux. Â« Les gens pensent que nous sommes mÃ©chants ! Mais pourquoi ? Les Cyclopes ne sont pas des mangeurs d'hommes. Les Cyclopes sont des trappeurs. Nous attrapons des bÃªtes rares, et les elfes noirs nous donnent de la viande en Ã©change. Pourquoi ne pas faire du commerce avec nous aussi ? Nous avons des vers. Les Cyclopes peuvent donner des vers. Â» Â« J'ai bien peur que nous n'ayons rien qui vous intÃ©resse. Â»	Â« Vous en Ãªtes sÃ»r ? Eh bien, si vous trouvez des Wyvernes, apportez-les. Les Cyclopes les Ã©changeront contre des vers. Â»
-Il semble que les cyclopes soient toujours lÃ , et que vous n'ayez rien qui puisse les intÃ©resser.
-Â« Wyvernes ! Â» s'Ã©criÃ¨rent les cyclopes avec joie. Â« Apportez-les nous, et nous vous donneront des Vers des Sables. Â»
+L'endroit a attiré votre attention de loin. Entourées d'énormes tas d'os, se trouvaient plusieurs cages dans lesquelles on pouvait apercevoir de gros Vers des Sables. Mais ce ne sont pas les vers qui ont attiré votre regard, mais plutôt les deux Cyclopes géants qui se tenaient autour d'un feu à leur mesure, faisant lentement tourner une broche sur laquelle rôtissaient les restes d'une créature indescriptible. 		Les Cyclopes jadaméens sont connus pour leur appétit vorace, et pour le satisfaire, ils s'attaquent aux humains, aux ogres, aux Trolls et parfois même aux Sylvaniens. Cependant, ces Cyclopes ne semblaient pas avoir l'intention de t'attaquer. « Encore une tête d'aigri », grogna soudain l'un d'eux. « Les gens pensent que nous sommes méchants ! Mais pourquoi ? Les Cyclopes ne sont pas des mangeurs d'hommes. Les Cyclopes sont des trappeurs. Nous attrapons des bêtes rares, et les elfes noirs nous donnent de la viande en échange. Pourquoi ne pas faire du commerce avec nous aussi ? Nous avons des vers. Les Cyclopes peuvent donner des vers. » « J'ai bien peur que nous n'ayons rien qui vous intéresse. »	« Vous en êtes sûr ? Eh bien, si vous trouvez des Wyvernes, apportez-les. Les Cyclopes les échangeront contre des vers. »
+Il semble que les cyclopes soient toujours là, et que vous n'ayez rien qui puisse les intéresser.
+« Wyvernes ! » s'écrièrent les cyclopes avec joie. « Apportez-les nous, et nous vous donneront des Vers des Sables. »
 
 (56, 30, 0) ***Quest Guard***
 Message:
-Un groupe de liches garde l'entrÃ©e du canyon. Elles acceptent de vous laisser passer si vous trouvez un artefact, les Bottes du Passeur, qu'elles ont perdu lors d'une bataille contre les minotaures.
-Les liches restent inflexibles. Elles ne vous laisseront pas passer Ã  moins que vous ne leur apportiez les Bottes du Passeur.
-Les liches remarquent les bottes et acceptent de vous laisser passer. ÃŠtes-vous prÃªt Ã  vous sÃ©parer de l'artefact ?	
+Un groupe de liches garde l'entrée du canyon. Elles acceptent de vous laisser passer si vous trouvez un artefact, les Bottes du Passeur, qu'elles ont perdu lors d'une bataille contre les minotaures.
+Les liches restent inflexibles. Elles ne vous laisseront pas passer à moins que vous ne leur apportiez les Bottes du Passeur.
+Les liches remarquent les bottes et acceptent de vous laisser passer. Êtes-vous prêt à vous séparer de l'artefact ?	
 
 (64, 3, 0) ***Quest Guard***
 Message:
-Dans les montagnes, vous rencontrez un groupe d'elfes noirs en voyage. Ils semblent Ãªtre Ã  la recherche de quelque chose. Â« Je collectionne les dÃ©corations militaires rares Â», explique l'un d'eux. Â« On dit que pendant la guerre entre les ogres et les gobelins, plusieurs spÃ©cimens de grande valeur ont Ã©tÃ© perdus dans ces contrÃ©es. Si vous pouvez m'en trouver, mes amis et moi vous aiderons Ã  gravir les montagnes. Sans guide expÃ©rimentÃ©, vous allez y laisser votre peau. Â»	
- Â« Je vois que vous n'avez pas encore trouvÃ© les dÃ©corations. Eh bien, nous allons rester dans les parages pendant un certain temps, vous pouvez donc prendre votre temps. Â»
-Â« Excellent ! Nous pouvons maintenant retourner Ã  Alvar. Oh, oui, les montagnes... Suivez-moi, je vais vous montrer le chemin. Et soyez prudents, beaucoup de Dragons FantÃ´mes ont Ã©tÃ© aperÃ§us dans les environs. Ce doit Ãªtre l'Å“uvre des nÃ©cromanciens exilÃ©s qui se sont installÃ©s dans ces terres. Â»        Voulez-vous vous rendre dans les montagnes ?
+Dans les montagnes, vous rencontrez un groupe d'elfes noirs en voyage. Ils semblent être à la recherche de quelque chose. « Je collectionne les décorations militaires rares », explique l'un d'eux. « On dit que pendant la guerre entre les ogres et les gobelins, plusieurs spécimens de grande valeur ont été perdus dans ces contrées. Si vous pouvez m'en trouver, mes amis et moi vous aiderons à gravir les montagnes. Sans guide expérimenté, vous allez y laisser votre peau. »	
+ « Je vois que vous n'avez pas encore trouvé les décorations. Eh bien, nous allons rester dans les parages pendant un certain temps, vous pouvez donc prendre votre temps. »
+« Excellent ! Nous pouvons maintenant retourner à Alvar. Oh, oui, les montagnes... Suivez-moi, je vais vous montrer le chemin. Et soyez prudents, beaucoup de Dragons Fantômes ont été aperçus dans les environs. Ce doit être l'œuvre des nécromanciens exilés qui se sont installés dans ces terres. »        Voulez-vous vous rendre dans les montagnes ?
 
 (47, 19, 0) ***Seer's Hut***
 Message:
-Dans la cabane, vous Ãªtes accueilli par un nain Ã  l'air maussade. Il saisit sa hache, mais baisse son arme aprÃ¨s vous avoir bien regardÃ©. Â« Enfin ! Je pensais que je n'allais plus voir que les visages de ces maudites bÃªtes pour le reste de ma vie, mais voilÃ  qu'un visage dÃ©cent apparaÃ®t ! Â» s'exclame le nain. Â« Je vous demande pardon. Je n'ai vu que des ogres et des minotaures ces derniers jours. Permettez-moi de vous raconter mon histoire. Notre navire naviguait entre Enroth et Jadame lorsqu'un Serpent de Mer l'a attaquÃ© ! Avant que nous ayons pu rÃ©agir, notre navire Ã©tait dÃ©jÃ  en train de couler. Par miracle, j'ai rÃ©ussi Ã  atteindre le rivage et j'ai passÃ© les derniÃ¨res semaines Ã  errer dans les terres dÃ©solÃ©es jusqu'Ã  ce que je tombe sur cette... cabane. Je ne sais pas si des membres de l'Ã©quipage ont survÃ©cu, mais mon frÃ¨re Ã©tait lÃ . Je crois qu'il est encore en vie. Il a peut-Ãªtre rÃ©ussi Ã  atteindre l'autre cÃ´tÃ© du dÃ©troit. Si vous pouviez le retrouver et le ramener ici, je vous en serais Ã©ternellement reconnaissant.
-OÃ¹ est mon frÃ¨re ? Je dois le voir !
-Enfin ! Je savais que vous le trouveriez ! Tenez, prenez cette cape magique. Je ne l'ai jamais portÃ©e. Je pensais que mon armure me suffirait. Peut-Ãªtre pourriez-vous en faire bon usage ?
+Dans la cabane, vous êtes accueilli par un nain à l'air maussade. Il saisit sa hache, mais baisse son arme après vous avoir bien regardé. « Enfin ! Je pensais que je n'allais plus voir que les visages de ces maudites bêtes pour le reste de ma vie, mais voilà qu'un visage décent apparaît ! » s'exclame le nain. « Je vous demande pardon. Je n'ai vu que des ogres et des minotaures ces derniers jours. Permettez-moi de vous raconter mon histoire. Notre navire naviguait entre Enroth et Jadame lorsqu'un Serpent de Mer l'a attaqué ! Avant que nous ayons pu réagir, notre navire était déjà en train de couler. Par miracle, j'ai réussi à atteindre le rivage et j'ai passé les dernières semaines à errer dans les terres désolées jusqu'à ce que je tombe sur cette... cabane. Je ne sais pas si des membres de l'équipage ont survécu, mais mon frère était là. Je crois qu'il est encore en vie. Il a peut-être réussi à atteindre l'autre côté du détroit. Si vous pouviez le retrouver et le ramener ici, je vous en serais éternellement reconnaissant.
+Où est mon frère ? Je dois le voir !
+Enfin ! Je savais que vous le trouveriez ! Tenez, prenez cette cape magique. Je ne l'ai jamais portée. Je pensais que mon armure me suffirait. Peut-être pourriez-vous en faire bon usage ?
 
 (67, 10, 0) ***Quest Guard***
 Message:
-En traversant une riviÃ¨re boueuse, vous remarquez un Lutin sur la rive. La crÃ©ature examine un parchemin magique, le tournant d'un cÃ´tÃ© puis de l'autre, mais semble incapable d'en distinguer les extrÃ©mitÃ©s. Les parchemins magiques peuvent avoir une grande valeur, mais le Lutin n'a aucune intention de le partager. L'un de vos MÃ©caniciens vous indique que la crÃ©ature ne parlera qu'Ã  ses semblables.
-Ã€ votre vue, le Lutin disparaÃ®t dans les buissons Ã©pineux. Il sera difficile de lui faire lÃ¢cher le parchemin.
-En voyant Ziph, le Lutin prononce quelques mots dans une langue inconnue, jette le parchemin par terre et disparaÃ®t dans les buissons.
+En traversant une rivière boueuse, vous remarquez un Lutin sur la rive. La créature examine un parchemin magique, le tournant d'un côté puis de l'autre, mais semble incapable d'en distinguer les extrémités. Les parchemins magiques peuvent avoir une grande valeur, mais le Lutin n'a aucune intention de le partager. L'un de vos Mécaniciens vous indique que la créature ne parlera qu'à ses semblables.
+À votre vue, le Lutin disparaît dans les buissons épineux. Il sera difficile de lui faire lâcher le parchemin.
+En voyant Ziph, le Lutin prononce quelques mots dans une langue inconnue, jette le parchemin par terre et disparaît dans les buissons.
 
 (27, 83, 0) ***Cove***
 
@@ -467,8 +467,8 @@ Message:
 
 (89, 12, 0) ***Quest Guard***
 Message:
-Cette route mÃ¨ne Ã  la cachette de Boyd, mais il est le seul Ã  savoir comment passer par lÃ .
-Cette route mÃ¨ne Ã  la cachette de Boyd, mais il est le seul Ã  savoir comment passer par lÃ .
+Cette route mène à la cachette de Boyd, mais il est le seul à savoir comment passer par là.
+Cette route mène à la cachette de Boyd, mais il est le seul à savoir comment passer par là.
 Souhaitez-vous passer ?
 
 (17, 78, 0) ***Event***
@@ -477,9 +477,9 @@ Message:
 
 (54, 82, 0) ***Quest Gate***
 Message:
-Ces eaux regorgent de pirates, de monstres marins et d'autres crÃ©atures malÃ©fiques. De plus, il y a toujours le risque d'Ãªtre attaquÃ© par derriÃ¨re. Avant d'aller plus loin, nous devrions capturer la forteresse des pirates Ã  l'est, oÃ¹ Malathi, l'une des capitaines de Dargem, s'est installÃ©e. 
-Nous ne pouvons pas risquer de naviguer plus loin tant que nous n'avons pas rÃ©solu le problÃ¨me avec Malathi et sa forteresse.
-La bande de Malathi est vaincue et sa forteresse pirate est prise. Nous pouvons dÃ©sormais explorer ces eaux en toute confiance.
+Ces eaux regorgent de pirates, de monstres marins et d'autres créatures maléfiques. De plus, il y a toujours le risque d'être attaqué par derrière. Avant d'aller plus loin, nous devrions capturer la forteresse des pirates à l'est, où Malathi, l'une des capitaines de Dargem, s'est installée. 
+Nous ne pouvons pas risquer de naviguer plus loin tant que nous n'avons pas résolu le problème avec Malathi et sa forteresse.
+La bande de Malathi est vaincue et sa forteresse pirate est prise. Nous pouvons désormais explorer ces eaux en toute confiance.
 
 (74, 78, 0) ***Prison***
 Name:
@@ -507,8 +507,8 @@ Ylendore
 
 (61, 66, 0) ***Quest Guard***
 Message:
-Il y a une forteresse pirate dans les terres orientales. Nous devons la capturer avant de pouvoir continuer Ã  explorer ces terres.
-Il y a une forteresse pirate dans les terres orientales. Nous devons la capturer avant de pouvoir continuer Ã  explorer ces terres.
+Il y a une forteresse pirate dans les terres orientales. Nous devons la capturer avant de pouvoir continuer à explorer ces terres.
+Il y a une forteresse pirate dans les terres orientales. Nous devons la capturer avant de pouvoir continuer à explorer ces terres.
 Voulez-vous passer ?
 
 (89, 101, 0) ***Event***
@@ -517,31 +517,31 @@ Message:
 
 (34, 106, 0) ***Quest Guard***
 Message:
-Ces eaux regorgent de pirates, de monstres marins et d'autres crÃ©atures malÃ©fiques. De plus, il y a toujours le risque d'Ãªtre attaquÃ© par derriÃ¨re. Avant d'aller plus loin, nous devrions capturer la forteresse des pirates Ã  l'est, oÃ¹ Malathi, l'une des capitaines de Dargem, s'est installÃ©e. 
-Nous ne pouvons pas risquer de naviguer plus loin tant que nous n'avons pas rÃ©solu le problÃ¨me avec Malathi et sa forteresse.
-La bande de Malathi est vaincue et sa forteresse pirate est prise. Nous pouvons dÃ©sormais explorer ces eaux en toute confiance.
+Ces eaux regorgent de pirates, de monstres marins et d'autres créatures maléfiques. De plus, il y a toujours le risque d'être attaqué par derrière. Avant d'aller plus loin, nous devrions capturer la forteresse des pirates à l'est, où Malathi, l'une des capitaines de Dargem, s'est installée. 
+Nous ne pouvons pas risquer de naviguer plus loin tant que nous n'avons pas résolu le problème avec Malathi et sa forteresse.
+La bande de Malathi est vaincue et sa forteresse pirate est prise. Nous pouvons désormais explorer ces eaux en toute confiance.
 
 (73, 47, 0) ***Quest Guard***
 Message:
-Il existe un repaire de pirates dans ces contrÃ©es. Boyd a capturÃ© l'un des brigands, et voici ce qu'il avait Ã  dire : Berhanu, capitaine de la flotte de Dargem, s'apprÃªte Ã  mettre le cap vers le nord pour rÃ©gler le Â« problÃ¨me des morts-vivants Â». Nous ne pouvons pas aller vers le sud tant que les terres du nord sont en danger.
-Il y a un repaire de pirates dans ces contrÃ©es. Boyd a capturÃ© l'un des brigands, et voici ce qu'il avait Ã  dire : Berhanu, un capitaine de la flotte de Dargem, s'apprÃªte Ã  partir vers le nord pour rÃ©soudre le Â« problÃ¨me des morts-vivants Â». Nous ne pouvons pas aller vers le sud alors que les terres du nord sont en danger.
+Il existe un repaire de pirates dans ces contrées. Boyd a capturé l'un des brigands, et voici ce qu'il avait à dire : Berhanu, capitaine de la flotte de Dargem, s'apprête à mettre le cap vers le nord pour régler le « problème des morts-vivants ». Nous ne pouvons pas aller vers le sud tant que les terres du nord sont en danger.
+Il y a un repaire de pirates dans ces contrées. Boyd a capturé l'un des brigands, et voici ce qu'il avait à dire : Berhanu, un capitaine de la flotte de Dargem, s'apprête à partir vers le nord pour résoudre le « problème des morts-vivants ». Nous ne pouvons pas aller vers le sud alors que les terres du nord sont en danger.
 Aller vers les terres du sud ?
 
 (74, 47, 0) ***Quest Guard***
 Message:
-Cette porte a Ã©tÃ© prise d'assaut par des elfes, mais ceux-ci semblent Ãªtre une sorte de bandits ou de pirates. Ils ne laissent entrer que les leurs.
-Cette porte a Ã©tÃ© prise d'assaut par des elfes, mais ceux-ci semblent Ãªtre une sorte de bandits ou de pirates. Ils ne laissent entrer que les leurs.
+Cette porte a été prise d'assaut par des elfes, mais ceux-ci semblent être une sorte de bandits ou de pirates. Ils ne laissent entrer que les leurs.
+Cette porte a été prise d'assaut par des elfes, mais ceux-ci semblent être une sorte de bandits ou de pirates. Ils ne laissent entrer que les leurs.
 
 (23, 52, 0) ***Quest Guard***
 Message:
-Il y a un camp de contrebandiers rats-garous plus loin ; ils ne vous laisseront pas passer tant qu'Yzraal, l'un des capitaines de Dargem, sera dans les parages. Dargem exige que tous les profits de la contrebande lui reviennent exclusivement et inflige des punitions terribles Ã  ceux qui osent lui dÃ©sobÃ©ir. Yzraal est lÃ  pour servir de bras droit et d'exÃ©cuteur de ses Â« jugements Â».
-Dans le repaire des contrebandiers, vous pourriez vendre des artefacts, acheter des canons volÃ©s et mÃªme engager des mercenaires pour diverses tÃ¢ches, mais les contrebandiers sont terrifiÃ©s par Dargem. Tant que le Capitaine Yzraal est lÃ  pour surveiller le repaire, il est hors de question de conclure des affaires.
+Il y a un camp de contrebandiers rats-garous plus loin ; ils ne vous laisseront pas passer tant qu'Yzraal, l'un des capitaines de Dargem, sera dans les parages. Dargem exige que tous les profits de la contrebande lui reviennent exclusivement et inflige des punitions terribles à ceux qui osent lui désobéir. Yzraal est là pour servir de bras droit et d'exécuteur de ses « jugements ».
+Dans le repaire des contrebandiers, vous pourriez vendre des artefacts, acheter des canons volés et même engager des mercenaires pour diverses tâches, mais les contrebandiers sont terrifiés par Dargem. Tant que le Capitaine Yzraal est là pour surveiller le repaire, il est hors de question de conclure des affaires.
 Apprenant votre victoire contre Yzraal, les contrebandiers acceptent de vous laisser passer. Souhaitez-vous passer ?	
 
 (32, 53, 0) ***Quest Guard***
 Message:
-Il y a un camp de contrebandiers rats-garous plus loin ; ils ne vous laisseront pas passer tant qu'Yzraal, l'un des capitaines de Dargem, sera dans les parages. Dargem exige que tous les profits de la contrebande lui reviennent exclusivement et inflige des punitions terribles Ã  ceux qui osent lui dÃ©sobÃ©ir. Yzraal est lÃ  pour servir de bras droit et d'exÃ©cuteur de ses Â« jugements Â».
-Dans le repaire des contrebandiers, vous pourriez vendre des artefacts, acheter des canons volÃ©s et mÃªme engager des mercenaires pour diverses tÃ¢ches, mais les contrebandiers sont terrifiÃ©s par Dargem. Tant que le capitaine Yzraal est lÃ  pour surveiller le repaire, il est hors de question de conclure des affaires.
+Il y a un camp de contrebandiers rats-garous plus loin ; ils ne vous laisseront pas passer tant qu'Yzraal, l'un des capitaines de Dargem, sera dans les parages. Dargem exige que tous les profits de la contrebande lui reviennent exclusivement et inflige des punitions terribles à ceux qui osent lui désobéir. Yzraal est là pour servir de bras droit et d'exécuteur de ses « jugements ».
+Dans le repaire des contrebandiers, vous pourriez vendre des artefacts, acheter des canons volés et même engager des mercenaires pour diverses tâches, mais les contrebandiers sont terrifiés par Dargem. Tant que le capitaine Yzraal est là pour surveiller le repaire, il est hors de question de conclure des affaires.
 Apprenant votre victoire contre Yzraal, les contrebandiers acceptent de vous laisser passer. Souhaitez-vous passer ?	
 
 (68, 62, 0) ***Pandora's Box***
@@ -550,15 +550,15 @@ Message:
 
 (104, 75, 0) ***Quest Guard***
 Message:
-Une petite flotte de mercenaires vous barre la route. Le capitaine d'un des navires affirme qu'ils sont venus ici Ã  la demande de la guilde des marchands pour traquer un bandit notoire, un pirate nommÃ© Berhanu, qui pille les navires de la guilde depuis des mois. Les mercenaires n'ont rien contre vous, mais ils soupÃ§onnent Berhanu d'utiliser ce portail et refusent donc de laisser passer les navires qui apparaissent au large de ces cÃ´tes. 
-Tant que Berhanu n'aura pas Ã©tÃ© capturÃ© ou tuÃ©, les mercenaires n'ont pas l'intention de quitter cette baie.    
-AprÃ¨s avoir entendu parler de la bataille contre les hommes de Berhanu et de votre victoire, les mercenaires acceptent de vous laisser passer.    Voulez-vous passer ?	
+Une petite flotte de mercenaires vous barre la route. Le capitaine d'un des navires affirme qu'ils sont venus ici à la demande de la guilde des marchands pour traquer un bandit notoire, un pirate nommé Berhanu, qui pille les navires de la guilde depuis des mois. Les mercenaires n'ont rien contre vous, mais ils soupçonnent Berhanu d'utiliser ce portail et refusent donc de laisser passer les navires qui apparaissent au large de ces côtes. 
+Tant que Berhanu n'aura pas été capturé ou tué, les mercenaires n'ont pas l'intention de quitter cette baie.    
+Après avoir entendu parler de la bataille contre les hommes de Berhanu et de votre victoire, les mercenaires acceptent de vous laisser passer.    Voulez-vous passer ?	
 
 (47, 90, 0) ***Quest Guard***
 Message:
-Ces eaux regorgent de pirates, de monstres marins et d'autres crÃ©atures malÃ©fiques. De plus, il y a toujours le risque d'Ãªtre attaquÃ© par derriÃ¨re. Avant d'aller plus loin, nous devrions capturer la forteresse des pirates Ã  l'est, oÃ¹ Malathi, l'une des capitaines de Dargem, s'est installÃ©e. 
-Nous ne pouvons pas risquer de naviguer plus loin tant que nous n'avons pas rÃ©solu le problÃ¨me avec Malathi et sa forteresse .
-La bande de Malathi est vaincue et sa forteresse pirate est prise. Nous pouvons dÃ©sormais explorer ces eaux en toute confiance.
+Ces eaux regorgent de pirates, de monstres marins et d'autres créatures maléfiques. De plus, il y a toujours le risque d'être attaqué par derrière. Avant d'aller plus loin, nous devrions capturer la forteresse des pirates à l'est, où Malathi, l'une des capitaines de Dargem, s'est installée. 
+Nous ne pouvons pas risquer de naviguer plus loin tant que nous n'avons pas résolu le problème avec Malathi et sa forteresse .
+La bande de Malathi est vaincue et sa forteresse pirate est prise. Nous pouvons désormais explorer ces eaux en toute confiance.
 
 (94, 41, 0) ***Pandora's Box***
 Message:
@@ -566,8 +566,8 @@ Message:
 
 (73, 57, 0) ***Quest Guard***
 Message:
-Il y a une forteresse pirate dans les terres orientales. Nous devons la capturer avant de pouvoir continuer Ã  explorer ces terres.
-Il y a une forteresse pirate dans les terres orientales. Nous devons la capturer avant de pouvoir continuer Ã  explorer ces terres.
+Il y a une forteresse pirate dans les terres orientales. Nous devons la capturer avant de pouvoir continuer à explorer ces terres.
+Il y a une forteresse pirate dans les terres orientales. Nous devons la capturer avant de pouvoir continuer à explorer ces terres.
 Voulez-vous passer ?
 
 (45, 67, 0) ***Pandora's Box***
@@ -580,7 +580,7 @@ Message:
 
 (98, 13, 0) ***Pirate***
 Message:
-Ce pirate a l'air encore plus mÃ©chant que les deux premiers. Il n'arrive pas Ã  prononcer un mot, mais on dirait que Boyd l'a envoyÃ© pour transmettre le mÃªme message que les autres. Il lÃ¨ve sa main tremblante, armÃ©e d'un pistolet, dans votre direction. Avec un soupir, vous ordonnez Ã  vos guerriers de s'en prendre Ã  lui.
+Ce pirate a l'air encore plus méchant que les deux premiers. Il n'arrive pas à prononcer un mot, mais on dirait que Boyd l'a envoyé pour transmettre le même message que les autres. Il lève sa main tremblante, armée d'un pistolet, dans votre direction. Avec un soupir, vous ordonnez à vos guerriers de s'en prendre à lui.
 
 (9, 48, 0) ***Event***
 Message:
@@ -600,24 +600,24 @@ Message:
 
 (80, 62, 0) ***Quest Guard***
 Message:
-Cette route mÃ¨ne vers l'ouest, le long de la cÃ´te. D'aprÃ¨s un pirate capturÃ© par Boyd, Solendore l'elfe, l'un des capitaines de Dargem, va se diriger vers le nord pour rÃ©soudre le Â« problÃ¨me des morts-vivants Â». Nous ne pouvons pas aller vers le sud tant que les terres du nord ne sont pas en danger.
-Cette route mÃ¨ne vers l'ouest, le long de la cÃ´te. D'aprÃ¨s un pirate capturÃ© par Boyd, Solendore l'elfe, l'un des capitaines de Dargem, va se diriger vers le nord pour rÃ©soudre le Â« problÃ¨me des morts-vivants Â». Nous ne pouvons pas aller vers le sud tant que les terres du nord ne sont pas en danger.
+Cette route mène vers l'ouest, le long de la côte. D'après un pirate capturé par Boyd, Solendore l'elfe, l'un des capitaines de Dargem, va se diriger vers le nord pour résoudre le « problème des morts-vivants ». Nous ne pouvons pas aller vers le sud tant que les terres du nord ne sont pas en danger.
+Cette route mène vers l'ouest, le long de la côte. D'après un pirate capturé par Boyd, Solendore l'elfe, l'un des capitaines de Dargem, va se diriger vers le nord pour résoudre le « problème des morts-vivants ». Nous ne pouvons pas aller vers le sud tant que les terres du nord ne sont pas en danger.
 Voulez-vous passer ?
 
 (32, 11, 0) ***Quest Guard***
 Message:
-Il y a ici une Demeure des Hobbits, mais les pirates de Dargem l'ont dÃ©truite lors de leurs raids. Sa reconstruction nÃ©cessiterait 15 bois, 10 pierres, 5 cristaux et 3000 piÃ¨ces d'or.
+Il y a ici une Demeure des Hobbits, mais les pirates de Dargem l'ont détruite lors de leurs raids. Sa reconstruction nécessiterait 15 bois, 10 pierres, 5 cristaux et 3000 pièces d'or.
 Malheureusement, vous ne disposez pas de ressources suffisantes pour reconstruire la Demeure des Hobbits.
-DÃ©penser les ressources et reconstruire la structure ?
+Dépenser les ressources et reconstruire la structure ?
 
 (94, 15, 0) ***Event***
 Message:
-AprÃ¨s toutes les histoires que j'avais entendues sur le sinistre vengeur mortel, je m'attendais Ã  tout en le rencontrant, sauf Ã  tomber sur un personnage aussi... bavard. Lorsque je suis entrÃ© dans la salle oÃ¹ Boyd Ã©tait assis, il s'est lancÃ© dans une tirade ponctuÃ©e de jurons, quelque chose Ã  propos de son apprÃ©ciation sans fin pour les invitÃ©s indÃ©sirables. Cependant, dÃ¨s qu'il m'a vu de plus prÃ¨s, il s'est mis Ã  me couvrir de compliments, de plaisanteries et de blagues Ã  la limite de la vulgaritÃ©. MÃªme la lumiÃ¨re dans l'une de ses orbites s'Ã©teignait de temps en temps, comme s'il me faisait un clin d'Å“il.		Mais peu de temps aprÃ¨s, Boyd a subi une transformation soudaine, dÃ¨s que j'ai mentionnÃ© Dargem. Jusqu'Ã  ce moment-lÃ , je pouvais fermer les yeux et m'imaginer facilement en train de parler Ã  un homme joyeux, dÃ©bordant d'Ã©nergie et d'enthousiasme pour tout ce qui l'entourait ; mais lorsque le nom de Dargem fut prononcÃ©, les orbites de Boyd devinrent des cavitÃ©s sombres, sa riche voix de baryton fit place au sifflement d'un vent froid mÃªlÃ© au cliquetis des os, et ses doigts se mirent Ã  gratter les accoudoirs de sa chaise avec un craquement Ã©cÅ“urant.		Â« Ssssi tu veux descendre ce rat d'Ã©gout puant, je ferai tout pour t'aider. Il ne sssait pas ce que je suis devenu Ã  cause de lui, quel pouvoir j'ai acquis grÃ¢ce aux Ã©manations de tourment incrusssstÃ©es dans mes os. Mais promets-moi une chose : une fois que nous aurons acculÃ© ce misÃ©rable, tu me laissssseras m'occuper de lui ! Beaucoup de temps s'est Ã©coulÃ© depuis mon passsssage ssssur ssson navire, et il est devenu bien plus qu'un simple capitaine ambitieux : il possÃ¨de dÃ©sormais ssson propre petit royaume de brigands qu'il appelle une "principautÃ©". Il ne mettra pas un pied hors de sssson chÃ¢teau s'il ssssait que nous ssssommes Ã  ses trousssssses, mais dÃ¨s que nous lui marcherons sur les talons... Il va ssse mettre Ã  couper et Ã  changer. Et c'est lÃ  que nous passsssserons Ã  l'action Â».		Pour la premiÃ¨re fois de ma vie, j'ai senti mes pieds se glacer. Je comprenais maintenant comment ces histoires de vengeurs morts effrayants avaient vu le jour. En effet : on ne l'avait vu que lorsqu'il Ã©tait Ã  la recherche de son meurtrier, et dans cet Ã©tat, il Ã©tait vraiment impressionnant. Bien sÃ»r, personne n'avait jamais essayÃ© de rendre visite Ã  Boyd dans son manoir mortuaire, et personne ne savait Ã  quel point cette Ã¢me Ã©tait tourmentÃ©e et comment il mourait Ã  nouveau chaque fois qu'il Ã©tait contraint de se souvenir de ses derniers jours entre les mains de ce misÃ©rable sans pitiÃ©.
+Après toutes les histoires que j'avais entendues sur le sinistre vengeur mortel, je m'attendais à tout en le rencontrant, sauf à tomber sur un personnage aussi... bavard. Lorsque je suis entré dans la salle où Boyd était assis, il s'est lancé dans une tirade ponctuée de jurons, quelque chose à propos de son appréciation sans fin pour les invités indésirables. Cependant, dès qu'il m'a vu de plus près, il s'est mis à me couvrir de compliments, de plaisanteries et de blagues à la limite de la vulgarité. Même la lumière dans l'une de ses orbites s'éteignait de temps en temps, comme s'il me faisait un clin d'œil.		Mais peu de temps après, Boyd a subi une transformation soudaine, dès que j'ai mentionné Dargem. Jusqu'à ce moment-là, je pouvais fermer les yeux et m'imaginer facilement en train de parler à un homme joyeux, débordant d'énergie et d'enthousiasme pour tout ce qui l'entourait ; mais lorsque le nom de Dargem fut prononcé, les orbites de Boyd devinrent des cavités sombres, sa riche voix de baryton fit place au sifflement d'un vent froid mêlé au cliquetis des os, et ses doigts se mirent à gratter les accoudoirs de sa chaise avec un craquement écœurant.		« Ssssi tu veux descendre ce rat d'égout puant, je ferai tout pour t'aider. Il ne sssait pas ce que je suis devenu à cause de lui, quel pouvoir j'ai acquis grâce aux émanations de tourment incrusssstées dans mes os. Mais promets-moi une chose : une fois que nous aurons acculé ce misérable, tu me laissssseras m'occuper de lui ! Beaucoup de temps s'est écoulé depuis mon passsssage ssssur ssson navire, et il est devenu bien plus qu'un simple capitaine ambitieux : il possède désormais ssson propre petit royaume de brigands qu'il appelle une "principauté". Il ne mettra pas un pied hors de sssson château s'il ssssait que nous ssssommes à ses trousssssses, mais dès que nous lui marcherons sur les talons... Il va ssse mettre à couper et à changer. Et c'est là que nous passsssserons à l'action ».		Pour la première fois de ma vie, j'ai senti mes pieds se glacer. Je comprenais maintenant comment ces histoires de vengeurs morts effrayants avaient vu le jour. En effet : on ne l'avait vu que lorsqu'il était à la recherche de son meurtrier, et dans cet état, il était vraiment impressionnant. Bien sûr, personne n'avait jamais essayé de rendre visite à Boyd dans son manoir mortuaire, et personne ne savait à quel point cette âme était tourmentée et comment il mourait à nouveau chaque fois qu'il était contraint de se souvenir de ses derniers jours entre les mains de ce misérable sans pitié.
 
 (60, 56, 0) ***Quest Guard***
 Message:
-Il y a une forteresse pirate dans les terres orientales. Nous devons la capturer avant de pouvoir continuer Ã  explorer ces terres.
-Il y a une forteresse pirate dans les terres orientales. Nous devons la capturer avant de pouvoir continuer Ã  explorer ces terres.
+Il y a une forteresse pirate dans les terres orientales. Nous devons la capturer avant de pouvoir continuer à explorer ces terres.
+Il y a une forteresse pirate dans les terres orientales. Nous devons la capturer avant de pouvoir continuer à explorer ces terres.
 Voulez-vous passer ?
 
 (56, 59, 0) ***Pandora's Box***
@@ -666,9 +666,9 @@ Bess
 
 (3, 93, 0) ***Seer's Hut***
 Message:
-Dans la cabane, vous Ãªtes accueilli par un pistolero renfrognÃ© et une poignÃ©e de ses camarades. Â« Vous chassez les pirates, hein ? Nous aussi. Nous avons Ã©tÃ© contactÃ©s par la Guilde des chasseurs de primes, qui vient tout droit de Ravenshore, vous connaissez ? Un riche marchand les a payÃ©s pour retrouver Bess, mais ils Ã©chouent lamentablement dans leur mission. La pirate Ã©chappe Ã  la capture depuis maintenant un an. Presque tout le monde Ã©tait Ã  sa recherche : trolls, minotaures, tout ce que vous voulez ! En vain. N'ayant plus rien Ã  essayer, la guilde s'est tournÃ©e vers nous. Nous savons pertinemment que Bess est quelque part par ici, mais nous n'avons pas encore rÃ©ussi Ã  la localiser. Gardez les yeux ouverts, vous aurez peut-Ãªtre la chance de croiser cette vaurienne. Â»
-Â« Tu dis que tu n'as jamais vu cette Bess, ni mÃªme entendu parler d'elle ? TrÃ¨s Ã©trange ; cette fille n'est pas du genre Ã  faire profil bas. J'ai toutefois entendu dire qu'elle s'Ã©tait dirigÃ©e vers Burton avec sa bande de voyous.
-Â« Bess est fichue, vous dites ? Ã‡a fait plaisir Ã  entendre ! C'est dommage, bien sÃ»r, que ce soit nous qui l'ayons retrouvÃ©e en premier, mais c'est vous qui lui avez donnÃ© ce qu'elle mÃ©ritait ; mais que voulez-vous y faire ! Bon, puisque nous n'allons pas toucher la rÃ©compense maintenant, et que les opportunitÃ©s ne courent pas les rues dans cette rÃ©gion, vous n'auriez pas besoin de renforts dans votre armÃ©e ? Nous pourrions nous joindre Ã  vous. Â»		Acceptez-vous l'offre des chasseurs de primes ?
+Dans la cabane, vous êtes accueilli par un pistolero renfrogné et une poignée de ses camarades. « Vous chassez les pirates, hein ? Nous aussi. Nous avons été contactés par la Guilde des chasseurs de primes, qui vient tout droit de Ravenshore, vous connaissez ? Un riche marchand les a payés pour retrouver Bess, mais ils échouent lamentablement dans leur mission. La pirate échappe à la capture depuis maintenant un an. Presque tout le monde était à sa recherche : trolls, minotaures, tout ce que vous voulez ! En vain. N'ayant plus rien à essayer, la guilde s'est tournée vers nous. Nous savons pertinemment que Bess est quelque part par ici, mais nous n'avons pas encore réussi à la localiser. Gardez les yeux ouverts, vous aurez peut-être la chance de croiser cette vaurienne. »
+« Tu dis que tu n'as jamais vu cette Bess, ni même entendu parler d'elle ? Très étrange ; cette fille n'est pas du genre à faire profil bas. J'ai toutefois entendu dire qu'elle s'était dirigée vers Burton avec sa bande de voyous.
+« Bess est fichue, vous dites ? Ça fait plaisir à entendre ! C'est dommage, bien sûr, que ce soit nous qui l'ayons retrouvée en premier, mais c'est vous qui lui avez donné ce qu'elle méritait ; mais que voulez-vous y faire ! Bon, puisque nous n'allons pas toucher la récompense maintenant, et que les opportunités ne courent pas les rues dans cette région, vous n'auriez pas besoin de renforts dans votre armée ? Nous pourrions nous joindre à vous. »		Acceptez-vous l'offre des chasseurs de primes ?
 
 (54, 104, 0) ***Pandora's Box***
 Message:
@@ -676,9 +676,9 @@ Message:
 
 (82, 99, 0) ***Quest Guard***
 Message:
-Cet avant-poste est gardÃ© par une importante bande de pirates. Peut-Ãªtre que certains d'entre eux s'enfuiront si nous vainquons Dargem ?
-Cet avant-poste est gardÃ© par une importante bande de pirates. Peut-Ãªtre que certains d'entre eux s'enfuiront si nous vainquons Dargem ?
-Les pirates se sont retirÃ©s dans leur forteresse. Certains d'entre eux, aprÃ¨s avoir appris la dÃ©faite de Dargem, ont embarquÃ© sur des navires et ont fui l'Ã®le.        Souhaitez-vous vous rendre Ã  la forteresse ?
+Cet avant-poste est gardé par une importante bande de pirates. Peut-être que certains d'entre eux s'enfuiront si nous vainquons Dargem ?
+Cet avant-poste est gardé par une importante bande de pirates. Peut-être que certains d'entre eux s'enfuiront si nous vainquons Dargem ?
+Les pirates se sont retirés dans leur forteresse. Certains d'entre eux, après avoir appris la défaite de Dargem, ont embarqué sur des navires et ont fui l'île.        Souhaitez-vous vous rendre à la forteresse ?
 
 ===== Extended Events =====
 ===== End of file =====

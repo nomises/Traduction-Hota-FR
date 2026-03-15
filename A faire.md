@@ -114,8 +114,8 @@
 
 ## Maps
 ### Traduire
-* Air Tyrants.txt
-* Beltway.txt
+* ~~Air Tyrants.txt~~
+* ~~Beltway.txt~~
 * ~~Headhunting.txt~~
 * Heritage of the Ancients.txt
 * Just Win, Or Else.txt
@@ -124,10 +124,8 @@
 * Sails and Propellers.txt
 * Seven Days.txt
 * Strife in the Woods.txt
-* The Cataclysm (Allied).txt
 * The Cataclysm.txt
-* The Mysterious Island - ALLIES.txt
-* The Mysterious Island.txt
+	* The Cataclysm (Allied).txt
 * Treasures of the Pyramid.txt
 
 ### Vérifier
@@ -199,7 +197,7 @@
 
 ## Hota.dat
 ### Traduire
-* HotA.txt
+* ~~HotA.txt~~
 
 ## HotA_lng.lod
 ### Traduire
@@ -213,6 +211,13 @@
 * ~~SPTRAITS.TXT~~
 * ~~SSTRAITS.TXT~~
 
+### Traduire 
+* Traduction\campagne_tempo_txt\H1Roger\valeurNonImporte.md
+* Traduction\campagne_tempo_txt\H2Terror\valeurNonImporte.md
+* Traduction\campagne_tempo_txt\H3Horn\valeurNonImporte.md
+* Traduction\campagne_tempo_txt\H4Fact\valeurNonImporte.md
+* Traduction\campagne_tempo_txt\H5AllIn\valeurNonImporte.md
+
 # Correction Binaire 
 ## HotA_lng.lod
 * ~~advevent.txt~~
@@ -225,90 +230,91 @@
 * ~~CREDITS.TXT~~
 
 ### A reviser
-* CAMPBTTN.TXT
-* CAMPDIAG.TXT
-* CAMPHIGH.TXT
-* CampText.txt
-* CastInfo.txt
-* CmpEdCmd.txt
-* CmpEditr.txt
-* CrBanks.txt
-* CrGen1.txt
-* CrGen4.txt
-* CrGenerc.txt
-* CRTRAITS.TXT
-* Dwelling.txt
-* EDITOR.TXT
-* EDITRCMD.TXT
-* Garrison.txt
-* GENRLTXT.TXT
-* HallInfo.txt
-* HCTRAITS.TXT
-* Help.txt
-* HeroBios.txt
-* HeroScrn.txt
-* HeroSpec.txt
-* HOTRAITS.TXT
-* JKTEXT.TXT
-* lcdesc.txt
-* MINEEVNT.TXT
-* MineName.txt
-* Monolith.txt
-* ObjNames.txt
-* Overview.txt
-* PlColors.txt
-* PriSkill.txt
-* randsign.txt
-* randtvrn.txt
-* regions.txt
-* RESTYPES.TXT
-* SeerHut.txt
-* SkillLev.txt
-* SPTRAITS.TXT
-* SSTRAITS.TXT
-* TCommand.txt
-* TentColr.txt
-* TERRNAME.txt
-* TownName.txt
-* TownType.txt
-* turndur.txt
-* TvrnInfo.txt
-* vcdesc.txt
-* Walls.txt
-* xtrainfo.txt
+* ~~CAMPBTTN.TXT~~
+* ~~CAMPDIAG.TXT~~
+* ~~CAMPHIGH.TXT~~
+* ~~CampText.txt~~
+* ~~CastInfo.txt~~
+* ~~CmpEdCmd.txt~~
+* ~~CmpEditr.txt~~
+* ~~CrBanks.txt~~
+* ~~CrGen1.txt~~
+* ~~CrGen4.txt~~
+* ~~CrGenerc.txt~~
+* ~~CRTRAITS.TXT~~
+* ~~Dwelling.txt~~
+* ~~EDITOR.TXT~~
+* ~~EDITRCMD.TXT~~
+* ~~Garrison.txt~~
+* ~~GENRLTXT.TXT~~
+* ~~HallInfo.txt~~
+* ~~HCTRAITS.TXT~~
+* ~~Help.txt~~
+* ~~HeroBios.txt~~
+* ~~HeroScrn.txt~~
+* ~~HeroSpec.txt~~
+* ~~HOTRAITS.TXT~~
+* ~~JKTEXT.TXT~~
+* ~~lcdesc.txt~~
+* ~~MINEEVNT.TXT~~
+* ~~MineName.txt~~
+* ~~Monolith.txt~~
+* ~~ObjNames.txt~~
+* ~~Overview.txt~~
+* ~~PlColors.txt~~
+* ~~PriSkill.txt~~
+* ~~randsign.txt~~
+* ~~randtvrn.txt~~
+* ~~regions.txt~~
+* ~~RESTYPES.TXT~~
+* ~~SeerHut.txt~~
+* ~~SkillLev.txt~~
+* ~~SPTRAITS.TXT~~
+* ~~SSTRAITS.TXT~~
+* ~~TCommand.txt~~
+* ~~TentColr.txt~~
+* ~~TERRNAME.txt~~
+* ~~TownName.txt~~
+* ~~TownType.txt~~
+* ~~turndur.txt~~
+* ~~TvrnInfo.txt~~
+* ~~vcdesc.txt~~
+* ~~Walls.txt~~
+* ~~xtrainfo.txt~~
 
 ## h3c (campagne)
-* H1Roger.h3c
-	* Mission 1
-	* Mission 2
-	* Mission 3
-* H2Terror.h3c
-	* Mission 1
-	* Mission 2
-	* mission 3
-  	* mission 4
-  	* mission 5
-  	* mission 6
-* H3Horn.h3c
-	* Mission 1
-	* Mission 2
-	* mission 3
-  	* mission 4
-* H4Fact.h3c
-	* Mission 1
-	* Mission 2
-	* mission 3
-  	* mission 4
-  	* mission 5
-  	* mission 6
-  	* mission 7
-  	* mission 8
-* H5AllIn.h3c
-	* Mission 1
-	* Mission 2
-	* mission 3
-    * mission 4
-    * mission 5
+* ~~H1Roger.h3c~~
+	* ~~Mission 1~~
+	* ~~Mission 2~~
+	* ~~Mission 3~~
+* ~~H2Terror.h3c~~
+	* ~~Mission 1~~
+	* ~~Mission 2~~
+	* ~~mission 3~~
+  	* ~~mission 4~~
+  	* ~~mission 5~~
+  	* ~~mission 6~~
+* ~~H3Horn.h3c~~
+	* ~~Mission 1~~
+	* ~~Mission 2~~
+	* ~~mission 3~~
+  	* ~~mission 4~~
+* ~~H4Fact.h3c~~
+	* ~~Mission 1~~
+	* ~~Mission 2~~
+	* ~~mission 3~~
+  	* ~~mission 4~~
+  	* ~~mission 5~~
+  	* ~~mission 6~~
+  	* ~~mission 7~~
+  	* ~~mission 8~~
+* ~~H5AllIn.h3c~~
+	* ~~Mission 1~~
+	* ~~Mission 2~~
+	* ~~mission 3~~
+    * ~~mission 4~~
+    * ~~mission 5~~
+
 ## Hota.dat
 * HotA.txt
 
