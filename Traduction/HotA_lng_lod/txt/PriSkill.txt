@@ -1,4 +1,4 @@
 Attaque
-DÃ©fense
+Défense
 Magie
 Savoir

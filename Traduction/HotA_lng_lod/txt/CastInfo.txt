@@ -1,7 +1,7 @@
 Attaque
-DÃ©fense
-DÃ©gÃ¢ts par Attaque
+Défense
+Dégâts par Attaque
 Points de Vie
 Vitesse
-CrÃ©atures/Sem.
+Créatures/Sem.
 Quitter %s

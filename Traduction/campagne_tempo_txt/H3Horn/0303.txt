@@ -2,7 +2,7 @@
 Corne des Abysses
 
 ===== Map description =====
-Bidley, Jeremy et Tark doivent vaincre Casmetra avant qu'elle n'active la Corne des Abysses. Si Jeremy, Bidley ou Tark sont vaincus au combat, le scÃ©nario sera perdu. Le niveau maximum des hÃ©ros est de 24. Bidley, Jeremy et Tark passeront au dernier scÃ©nario.
+Bidley, Jeremy et Tark doivent vaincre Casmetra avant qu'elle n'active la Corne des Abysses. Si Jeremy, Bidley ou Tark sont vaincus au combat, le scénario sera perdu. Le niveau maximum des héros est de 24. Bidley, Jeremy et Tark passeront au dernier scénario.
 
 ===== Rumors =====
 
@@ -11,12 +11,12 @@ Bidley, Jeremy et Tark doivent vaincre Casmetra avant qu'elle n'active la Corne 
 Name:
 Day 1-1
 Message:
-Jeremy entra dans la Marque Noire, jeta un rapide coup d'Å“il autour de lui, Ã©tendit les mains et laissa Ã©chapper un joyeux gÃ©missement : "Mon frÃ¨re ! "		Avant qu'il puisse faire quoi que ce soit, Bidley se retrouva pris dans ses bras comme un ours. 	"Jeremy ! Tonnerre ! OÃ¹ Ã©tais-tu ? J'allais justement partir Ã  ta recherche.	"L'Ã‰toile polaire m'a montrÃ© le chemin", rÃ©pondit Jeremy d'un air bÃ©at en laissant partir son frÃ¨re. 	"Quelle Ã©toile ? ", fronÃ§a les sourcils Bidley.	"Laisse tomber. Elle s'est dÃ©jÃ  Ã©teinte. Les endroits oÃ¹ je suis allÃ© ! Tribus cannibales, marchands d'esclaves, et tout ce maÃ¯sâ€¦"	"Quelle chance ! Et j'ai fait un tour sur le Plan de l'Eau." 	"Qu'est-ce que tu faisais lÃ -bas ? " demanda Jeremy d'un air soupÃ§onneux. "Surtout de la natation", rÃ©pondit Bidley froidement. 		Les pirates s'assirent Ã  table et Ã©changÃ¨rent un moment leurs rÃ©cits d'aventures, avant d'aborder le sujet de leur implication dans cette dÃ©bÃ¢cle.	"Casmetra", soupira Bidley, Â la sorciÃ¨re. Elle nous a trompÃ©s. Elle a mÃªme trahi son mercenaire. Ã‰tait-ceâ€¦ DargenÂ ?Â " 	"Ou Dagrem", haussa son frÃ¨re, "peu importe. Jeremy Albatross n'oublie jamais un affrontÂ ! Casmetra paiera pour ses actes." 	"Oh, vraimentÂ !Â ", sourit Bidley en sirotant un peu de vin, "je vous trouvais si mignons ensemble." 	"Ouiâ€¦ mais que pouvais-je faireÂ ?!Â " Jeremy en faisant un geste d'impuissance. "J'ai toujours Ã©tÃ© sensible Ã  la beautÃ© et au charme fÃ©minin ! Je ne suis pas aussi carrÃ© que mon frÃ¨re, qui ne s'intÃ©resse ni aux femmes, ni aux hommes, ni aux sirÃ¨nes. Avez-vous dÃ©jÃ  pensÃ© Ã  une carriÃ¨re au Temple du Soleil ? " "J'y rÃ©flÃ©chirai sÃ»rementâ€¦ une fois que j'aurai Ã©tranglÃ© Casmetra de mes propres mains", rÃ©pondit Bidley froidement. 	"Tu sais ce qu'il y a de plus curieux dans cette situation ? " demanda soudain Jeremy d'un ton sÃ©rieux, haussant les Ã©paules face Ã  la moquerie. "Elle ne se cache mÃªme pas. Cette sorciÃ¨re a annoncÃ© Ã  tout Regna qu'elle possÃ©dait dÃ©sormais la Corne des Abysses. Je pense que Stanley le Terrible Pirate lui-mÃªme se cache dans son manoir, faisant comme si de rien n'Ã©tait. J'ai rÃ©ussi Ã  recueillir des informationsâ€¦" 	"Ils ont peur d'elle", acquiesÃ§a Bidley. "L'entiÃ¨retÃ© de l'Empire de l'OcÃ©an Infini se terre comme une bande de rats de cale, attendant ce qui va se passer ensuite. Je ne sais pas pourquoi elle voulait tant la Corne, mais maintenant nous devons la lui voler." "Non seulement parce qu'elle est Ã  nous, mais aussi parce que je n'aime pas ce qui est entrain de se passer !
+Jeremy entra dans la Marque Noire, jeta un rapide coup d'œil autour de lui, étendit les mains et laissa échapper un joyeux gémissement : "Mon frère ! "		Avant qu'il puisse faire quoi que ce soit, Bidley se retrouva pris dans ses bras comme un ours. 	"Jeremy ! Tonnerre ! Où étais-tu ? J'allais justement partir à ta recherche.	"L'Étoile polaire m'a montré le chemin", répondit Jeremy d'un air béat en laissant partir son frère. 	"Quelle étoile ? ", fronça les sourcils Bidley.	"Laisse tomber. Elle s'est déjà éteinte. Les endroits où je suis allé ! Tribus cannibales, marchands d'esclaves, et tout ce maïs…"	"Quelle chance ! Et j'ai fait un tour sur le Plan de l'Eau." 	"Qu'est-ce que tu faisais là-bas ? " demanda Jeremy d'un air soupçonneux. "Surtout de la natation", répondit Bidley froidement. 		Les pirates s'assirent à table et échangèrent un moment leurs récits d'aventures, avant d'aborder le sujet de leur implication dans cette débâcle.	"Casmetra", soupira Bidley,  la sorcière. Elle nous a trompés. Elle a même trahi son mercenaire. Était-ce… Dargen ? " 	"Ou Dagrem", haussa son frère, "peu importe. Jeremy Albatross n'oublie jamais un affront ! Casmetra paiera pour ses actes." 	"Oh, vraiment ! ", sourit Bidley en sirotant un peu de vin, "je vous trouvais si mignons ensemble." 	"Oui… mais que pouvais-je faire ?! " Jeremy en faisant un geste d'impuissance. "J'ai toujours été sensible à la beauté et au charme féminin ! Je ne suis pas aussi carré que mon frère, qui ne s'intéresse ni aux femmes, ni aux hommes, ni aux sirènes. Avez-vous déjà pensé à une carrière au Temple du Soleil ? " "J'y réfléchirai sûrement… une fois que j'aurai étranglé Casmetra de mes propres mains", répondit Bidley froidement. 	"Tu sais ce qu'il y a de plus curieux dans cette situation ? " demanda soudain Jeremy d'un ton sérieux, haussant les épaules face à la moquerie. "Elle ne se cache même pas. Cette sorcière a annoncé à tout Regna qu'elle possédait désormais la Corne des Abysses. Je pense que Stanley le Terrible Pirate lui-même se cache dans son manoir, faisant comme si de rien n'était. J'ai réussi à recueillir des informations…" 	"Ils ont peur d'elle", acquiesça Bidley. "L'entièreté de l'Empire de l'Océan Infini se terre comme une bande de rats de cale, attendant ce qui va se passer ensuite. Je ne sais pas pourquoi elle voulait tant la Corne, mais maintenant nous devons la lui voler." "Non seulement parce qu'elle est à nous, mais aussi parce que je n'aime pas ce qui est entrain de se passer !
 
 Name:
 Day 1-2
 Message:
-En effet, Casmetra ne cherchait pas Ã  se cacher ; tous les marins ivres de Regna savaient qu'elle sÃ©journait dans sa rÃ©sidence avec la Corne des Abysses. Tark, un vieil ami de Bidley et Jeremy, l'espionnait dÃ©jÃ . DÃ¨s l'instant oÃ¹ le chÃ¢teau de Dargem s'ouvrit, le nix crut que les pirates reviendraient un jour pour se venger. Et il avait raison. 		Le problÃ¨me ? L'Ã®le de Casmetra Ã©tait gardÃ©e par des hordes de voyous Ã  son service. Il y avait au moins quatre chÃ¢teaux, mais l'emplacement exact de la sorciÃ¨re Ã©tait inconnu. Bidley, Jeremy et Tark dÃ©barquÃ¨rent Ã  diffÃ©rents endroits de l'Ã®le, Ã©tablirent leurs campements et se prÃ©parÃ¨rent Ã  attaquer les terres de la puissante sorciÃ¨re.
+En effet, Casmetra ne cherchait pas à se cacher ; tous les marins ivres de Regna savaient qu'elle séjournait dans sa résidence avec la Corne des Abysses. Tark, un vieil ami de Bidley et Jeremy, l'espionnait déjà. Dès l'instant où le château de Dargem s'ouvrit, le nix crut que les pirates reviendraient un jour pour se venger. Et il avait raison. 		Le problème ? L'île de Casmetra était gardée par des hordes de voyous à son service. Il y avait au moins quatre châteaux, mais l'emplacement exact de la sorcière était inconnu. Bidley, Jeremy et Tark débarquèrent à différents endroits de l'île, établirent leurs campements et se préparèrent à attaquer les terres de la puissante sorcière.
 
 Name:
 AI stuff
@@ -26,42 +26,42 @@ Message:
 Name:
 Day 2
 Message:
-Un des Ã©claireurs de Tark est de retour avec des informations. Une rumeur court selon laquelle Casmetra non seulement possÃ¨derait la Corne des Abysses, mais tenterait aussi de faire quelque chose avec, apparemment par le biais d'un rituel. Si cela est vrai, vous devez l'arrÃªter avant qu'elle n'y parvienneÂ ; personne ne sait ce qu'elle fait, pour quelle raison et quels effets cela pourrait causer.
+Un des éclaireurs de Tark est de retour avec des informations. Une rumeur court selon laquelle Casmetra non seulement possèderait la Corne des Abysses, mais tenterait aussi de faire quelque chose avec, apparemment par le biais d'un rituel. Si cela est vrai, vous devez l'arrêter avant qu'elle n'y parvienne ; personne ne sait ce qu'elle fait, pour quelle raison et quels effets cela pourrait causer.
 
 Name:
 Day 5
 Message:
-"HÃ©, mon frÃ¨re, lÃ¨ve la tÃªte ! BientÃ´t, on mettra la main sur cette sorciÃ¨re, et elle paiera pour tout ! " dit Jeremy d'un ton enjouÃ©.	"Seulement si on arrive Ã  la retrouver avant qu'il ne soit trop tard", rÃ©pondit Bidley en fronÃ§ant les sourcils. "J'ai un mauvais pressentiment. Elle sait quelque chose sur la Corne que nous ignorons."	"On engagera un nÃ©cromancien pour interroger son cadavre ! " s'esclaffa le jeune pirate en tirant son pistolet en l'air, histoire de canaliser un peu son Ã©nergie juvÃ©nile.
+"Hé, mon frère, lève la tête ! Bientôt, on mettra la main sur cette sorcière, et elle paiera pour tout ! " dit Jeremy d'un ton enjoué.	"Seulement si on arrive à la retrouver avant qu'il ne soit trop tard", répondit Bidley en fronçant les sourcils. "J'ai un mauvais pressentiment. Elle sait quelque chose sur la Corne que nous ignorons."	"On engagera un nécromancien pour interroger son cadavre ! " s'esclaffa le jeune pirate en tirant son pistolet en l'air, histoire de canaliser un peu son énergie juvénile.
 
 Name:
 Day 7
 Message:
-Un nouvel Ã©claireur est de retour. Il a dÃ©couvert une caverne secrÃ¨te sous l'Ã®le. Tu devrais probablement y chercher CasmetraÂ ; il vous reste juste Ã  trouver un moyen d'y accÃ©der.
+Un nouvel éclaireur est de retour. Il a découvert une caverne secrète sous l'île. Tu devrais probablement y chercher Casmetra ; il vous reste juste à trouver un moyen d'y accéder.
 
 Name:
 Day 12
 Message:
-C'Ã©tait une journÃ©e Ã©trange. La mer Ã©tait trÃ¨s agitÃ©e, avant de se calmer soudainement. Il s'agissait peut-Ãªtre d'un phÃ©nomÃ¨ne naturelÂ ; pourtant, la plupart des hommes sous le commandement de Bidley et Jeremy pensaient que la sorciÃ¨re et sa magie en Ã©taient responsables.
+C'était une journée étrange. La mer était très agitée, avant de se calmer soudainement. Il s'agissait peut-être d'un phénomène naturel ; pourtant, la plupart des hommes sous le commandement de Bidley et Jeremy pensaient que la sorcière et sa magie en étaient responsables.
 
 Name:
 Day 30
 Message:
-Il semblerait que l'intuition des hommes Ã©tait justifiÃ©e ! Des centaines de personnes regardaient la mer trembler et l'entendaient gÃ©mir, comme si elle avait dÃ©cidÃ© de sauter de son lit avant de changer d'avis.	"Maudite soit-elle ! " jura Bidley, "il vaut mieux se dÃ©pÃªcher. Je n'ai aucune idÃ©e de ce que Casmetra manigance. Peut-Ãªtre veut-elle dÃ©truire la Corne, ou sauver le monde, ou se fabriquer un nouveau balai pour volerâ€¦ mais il faut lui retirer la Corne des mains au plus vite ! Je n'aime pas du tout ces dÃ©veloppements." "Moi non plus", acquiesÃ§a un Jeremy blÃªme. "Et si elle voulait rÃ©veiller le Dormeur ? " "Qui ?" demanda le vieux pirate, surpris.	"Tout cela fait sens ! Pour le rÃ©veiller, il faut souffler dans la Corne", murmura Jeremy. Puis il regarda son frÃ¨re et continua : "Il y a une lÃ©gende Ã  propos d'un ancien dieu qui sommeille au fond de la mer..." "Oh, comme si les choses n'Ã©taient pas dÃ©jÃ  assez compliquÃ©es sans l'histoire effrayante d'un vieux marin Ã  cÃ´tÃ©", Bidley le repoussa et alla s'occuper de ses affaires.
+Il semblerait que l'intuition des hommes était justifiée ! Des centaines de personnes regardaient la mer trembler et l'entendaient gémir, comme si elle avait décidé de sauter de son lit avant de changer d'avis.	"Maudite soit-elle ! " jura Bidley, "il vaut mieux se dépêcher. Je n'ai aucune idée de ce que Casmetra manigance. Peut-être veut-elle détruire la Corne, ou sauver le monde, ou se fabriquer un nouveau balai pour voler… mais il faut lui retirer la Corne des mains au plus vite ! Je n'aime pas du tout ces développements." "Moi non plus", acquiesça un Jeremy blême. "Et si elle voulait réveiller le Dormeur ? " "Qui ?" demanda le vieux pirate, surpris.	"Tout cela fait sens ! Pour le réveiller, il faut souffler dans la Corne", murmura Jeremy. Puis il regarda son frère et continua : "Il y a une légende à propos d'un ancien dieu qui sommeille au fond de la mer..." "Oh, comme si les choses n'étaient pas déjà assez compliquées sans l'histoire effrayante d'un vieux marin à côté", Bidley le repoussa et alla s'occuper de ses affaires.
 
 Name:
 Day 56
 Message:
-Aujourd'hui, quelque chose d'Ã©trange s'est encore produit. Tout le monde a entendu un bruit provenant des profondeurs de l'ocÃ©anÂ ; cela ressemblait Ã  un gÃ©missement. Le temps presse.
+Aujourd'hui, quelque chose d'étrange s'est encore produit. Tout le monde a entendu un bruit provenant des profondeurs de l'océan ; cela ressemblait à un gémissement. Le temps presse.
 
 Name:
 Day 66
 Message:
-Jeremy semble s'Ãªtre perdu dans sa thÃ©orie d'un dieu dormant au fond de la mer. Il a exhumÃ© des traitÃ©s de l'ancien mage Joycraft, les a Ã©tudiÃ©s et est arrivÃ© Ã  la conclusion que Casmetra est membre d'un culte sinistre au service du Dormeur.
+Jeremy semble s'être perdu dans sa théorie d'un dieu dormant au fond de la mer. Il a exhumé des traités de l'ancien mage Joycraft, les a étudiés et est arrivé à la conclusion que Casmetra est membre d'un culte sinistre au service du Dormeur.
 
 Name:
 Day 84
 Message:
-Le ciel est couvert et il pleut fort depuis deux jours. Une tempÃªte souffle sur la merÂ ; elle n'est pas trop dÃ©vastatrice, mais elle ne semble pas prÃªte de s'apaiser. C'est sans aucun doute l'Å“uvre de CasmetraÂ : Ã  mesure que les jours allongent, les tempÃªtes s'intensifient.
+Le ciel est couvert et il pleut fort depuis deux jours. Une tempête souffle sur la mer ; elle n'est pas trop dévastatrice, mais elle ne semble pas prête de s'apaiser. C'est sans aucun doute l'œuvre de Casmetra : à mesure que les jours allongent, les tempêtes s'intensifient.
 
 ===== Heroes =====
 
@@ -85,27 +85,27 @@ Embuscade !
 
 (8, 19, 0) ***Event***
 Message:
-L'air ici est trÃ¨s poussiÃ©reux et sec. Il est difficile de respirer. Vos soldats se couvrent le visage avec des foulards.
+L'air ici est très poussiéreux et sec. Il est difficile de respirer. Vos soldats se couvrent le visage avec des foulards.
 
 (73, 27, 0) ***Sign***
 Message:
-Bienvenue Ã  l'abbaye d'Abon !
+Bienvenue à l'abbaye d'Abon !
 
 (38, 15, 0) ***Event***
 Message:
-Parmi d'autres troupes, un groupe de Nix gardait les murs de la garnison. Tout le monde savait dÃ©sormais qu'ils finiraient comme mercenaires, au service de divers capitaines regnans aprÃ¨s leur libÃ©ration de Nighon. Et maintenant, ils allaient combattre leurs propres frÃ¨res. 	Tark, le libÃ©rateur et dirigeant des Nix, voulait ramener tout le monde Ã  la raison et exhorta ses proches Ã  se joindre Ã  sa cause. 	"Mes frÃ¨res, faites front avec moi, comme autrefois ! Le malheur s'abattra sur celui qui se soulÃ¨ve contre son sang. Et je ne le souhaite pas." 	L'un des Nix de la garnison, apparemment leur chef, rÃ©pondit : 	"En quoi le capitaine dont tu lÃ¨ches les bottes aujourd'hui est-il meilleur que les autres ? Tu as trahi ton peuple, Tark ! Tu nous as privÃ©s de notre unitÃ© en nous forÃ§ant Ã  rejoindre les pirates. Je ne te tuerai pas pour de l'or. Je le ferai parce que tu es un ennemi ! " 	Ce furent les derniers mots de ce Nix. Ã€ ce moment-lÃ , un boulet de canon le fit tomber du mur.
+Parmi d'autres troupes, un groupe de Nix gardait les murs de la garnison. Tout le monde savait désormais qu'ils finiraient comme mercenaires, au service de divers capitaines regnans après leur libération de Nighon. Et maintenant, ils allaient combattre leurs propres frères. 	Tark, le libérateur et dirigeant des Nix, voulait ramener tout le monde à la raison et exhorta ses proches à se joindre à sa cause. 	"Mes frères, faites front avec moi, comme autrefois ! Le malheur s'abattra sur celui qui se soulève contre son sang. Et je ne le souhaite pas." 	L'un des Nix de la garnison, apparemment leur chef, répondit : 	"En quoi le capitaine dont tu lèches les bottes aujourd'hui est-il meilleur que les autres ? Tu as trahi ton peuple, Tark ! Tu nous as privés de notre unité en nous forçant à rejoindre les pirates. Je ne te tuerai pas pour de l'or. Je le ferai parce que tu es un ennemi ! " 	Ce furent les derniers mots de ce Nix. À ce moment-là, un boulet de canon le fit tomber du mur.
 
 (38, 13, 0) ***Event***
 Message:
-AprÃ¨s la bataille, l'armÃ©e pirate prit une courte pause. Jeremy prit un petit sac au cas oÃ¹ il y aurait quelque chose de valeur Ã  piller sur les morts. Une bouteille de brandy Tobersk des Ãles de la Plaie de la Dague, aussi, afin de rendre l'opÃ©ration moins pÃ©nible. 	Errant de cadavre en cadavre, il aperÃ§ut Tark Ã  proximitÃ©. Le guerrier se pencha sur chaque Nix tombÃ©, portant la main Ã  leur poitrine et prononÃ§a quelque chose d'Ã  peine audible. 	"Que fais-vous, Tark ? " gloussa Jeremy en s'approchant. 	"Je les envoie pour leur dernier voyage, selon notre vieille coutume. Comme le faisaient nos ancÃªtres, Ã  l'Ã©poque oÃ¹ l'Empire Nixaar existait encore." 	"Nixaar ? Jamais entendu parler de cela." "Quand le monde fut englouti par le chaos du Silence, nous avons plongÃ© dans l'OcÃ©an Sans Fin, et c'est lÃ  que nous avons bÃ¢ti notre Empire. Nous prospÃ©rions, jusqu'Ã  ce que des Tritons venus du Plan de l'Eau attaquent. La nation a Ã©tÃ© divisÃ©e. Certains moururent, d'autres combattirent. Et ceux qui survÃ©curent devinrent esclaves des Seigneurs de Guerre. Qui fut un jour esclave n'oublie jamais ce que c'estâ€¦ Je me suis battu pour la libertÃ© de mon peuple, pour qu'il retrouve la vie et la prospÃ©ritÃ©. Et maintenant, je les enterre, tuÃ©s dans une nouvelle guerre." 	"Nous mourrons tous un jour. Mais rien ne reste sans laisser de traces, j'en suis convaincu. Nos actes resteront Ã  jamais gravÃ©s dans les mÃ©moires ! " rÃ©pondit Jeremy en souriant. 	"Ton frÃ¨re, Bidley, aspire au pouvoir plus que tout. Et que souhaites-tu, Jeremy Albatross ? " demanda soudainement Tark. Ne trouvant pas de rÃ©ponse, Jeremy but une gorgÃ©e de brandy et poursuivit sa route, mais il laissa le sac derriÃ¨re lui.
+Après la bataille, l'armée pirate prit une courte pause. Jeremy prit un petit sac au cas où il y aurait quelque chose de valeur à piller sur les morts. Une bouteille de brandy Tobersk des Îles de la Plaie de la Dague, aussi, afin de rendre l'opération moins pénible. 	Errant de cadavre en cadavre, il aperçut Tark à proximité. Le guerrier se pencha sur chaque Nix tombé, portant la main à leur poitrine et prononça quelque chose d'à peine audible. 	"Que fais-vous, Tark ? " gloussa Jeremy en s'approchant. 	"Je les envoie pour leur dernier voyage, selon notre vieille coutume. Comme le faisaient nos ancêtres, à l'époque où l'Empire Nixaar existait encore." 	"Nixaar ? Jamais entendu parler de cela." "Quand le monde fut englouti par le chaos du Silence, nous avons plongé dans l'Océan Sans Fin, et c'est là que nous avons bâti notre Empire. Nous prospérions, jusqu'à ce que des Tritons venus du Plan de l'Eau attaquent. La nation a été divisée. Certains moururent, d'autres combattirent. Et ceux qui survécurent devinrent esclaves des Seigneurs de Guerre. Qui fut un jour esclave n'oublie jamais ce que c'est… Je me suis battu pour la liberté de mon peuple, pour qu'il retrouve la vie et la prospérité. Et maintenant, je les enterre, tués dans une nouvelle guerre." 	"Nous mourrons tous un jour. Mais rien ne reste sans laisser de traces, j'en suis convaincu. Nos actes resteront à jamais gravés dans les mémoires ! " répondit Jeremy en souriant. 	"Ton frère, Bidley, aspire au pouvoir plus que tout. Et que souhaites-tu, Jeremy Albatross ? " demanda soudainement Tark. Ne trouvant pas de réponse, Jeremy but une gorgée de brandy et poursuivit sa route, mais il laissa le sac derrière lui.
 
 (74, 15, 0) ***Event***
 Message:
-Voyant les troupes de Tark approcher, les Nix ennemis se levÃ¨rent en sifflant et en criant "Pas de pitiÃ©Â !Â ". Toute la garde cantonnÃ©e en garnison Ã©tait prÃªte Ã  lancer une attaque.
+Voyant les troupes de Tark approcher, les Nix ennemis se levèrent en sifflant et en criant "Pas de pitié ! ". Toute la garde cantonnée en garnison était prête à lancer une attaque.
 
 (74, 13, 0) ***Event***
 Message:
-"Ã€ nouveau, nous tuons nos frÃ¨res", soupira Tark Ã  la vue des morts. Il saisit une bÃªche et commenÃ§a Ã  creuser une tombe. D'autres Nix l'imitÃ¨rent.
+"À nouveau, nous tuons nos frères", soupira Tark à la vue des morts. Il saisit une bêche et commença à creuser une tombe. D'autres Nix l'imitèrent.
 
 (60, 19, 1) ***Sign***
 Message:
@@ -113,7 +113,7 @@ Salle rituelle
 
 (59, 10, 1) ***Event***
 Message:
-Vous semblez Ãªtre sur la bonne voie. Casmetra se cache dans les environs.
+Vous semblez être sur la bonne voie. Casmetra se cache dans les environs.
 
 ===== Extended Events =====
 ===== End of file =====

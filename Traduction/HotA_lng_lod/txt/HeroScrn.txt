@@ -1,33 +1,33 @@
-Ouvrir Livre des QuÃªtes
+Ouvrir Livre des Quêtes
 Afficher Infos %s
-CaractÃ©ristiques des HÃ©ros
+Caractéristiques des Héros
 Afficher Infos Moral Favorable
 Afficher Infos Moral Neutre
-Afficher Infos Moral DÃ©sastreux
+Afficher Infos Moral Désastreux
 Afficher Infos Bonne Chance
 Afficher Infos Chance Neutre
 Afficher Infos Malchance
-Afficher Infos ExpÃ©rience
-SÃ©lectionner %s
+Afficher Infos Expérience
+Sélectionner %s
 Vide
-DÃ©placer %s
-Ã‰changer %s avec %s
+Déplacer %s
+Échanger %s avec %s
 Afficher Sorts
 Afficher Infos sur %s
 Renvoyer %s, %s
-Quitter la Fiche du HÃ©ros
-Fiche du HÃ©ros
+Quitter la Fiche du Héros
+Fiche du Héros
 Combiner %s
 Diviser %s
 Voir Infos %s %s
 Afficher Infos Points de Magie
-Formation de Combat 'DispersÃ©e'
-Formation de Combat 'GroupÃ©e'
-DÃ©sactiver Formation Tactique
+Formation de Combat 'Dispersée'
+Formation de Combat 'Groupée'
+Désactiver Formation Tactique
 Activer Formation Tactique
-Afficher Infos SpÃ©cialitÃ© du HÃ©ros
-Cliquez sur ce bouton pour renvoyer le HÃ©ros
-Choisissez une formation de combat 'DispersÃ©e' pour que vos troupes soient espacÃ©es les unes des autres au dÃ©but du combat.
-Choisissez une formation de combat 'GroupÃ©e' pour que vos troupes soient regroupÃ©es les unes Ã  cÃ´tÃ© des autres au dÃ©but du combat.
-Activez Formation Tactique pour dÃ©ployer vos troupes avant un combat (si votre HÃ©ros dispose de la compÃ©tence Tactique).
-Cliquez sur ce bouton pour crÃ©er deux troupes de crÃ©atures.
+Afficher Infos Spécialité du Héros
+Cliquez sur ce bouton pour renvoyer le Héros
+Choisissez une formation de combat 'Dispersée' pour que vos troupes soient espacées les unes des autres au début du combat.
+Choisissez une formation de combat 'Groupée' pour que vos troupes soient regroupées les unes à côté des autres au début du combat.
+Activez Formation Tactique pour déployer vos troupes avant un combat (si votre Héros dispose de la compétence Tactique).
+Cliquez sur ce bouton pour créer deux troupes de créatures.
