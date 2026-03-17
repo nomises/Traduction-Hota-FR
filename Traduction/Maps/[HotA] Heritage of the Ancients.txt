@@ -274,7 +274,7 @@ Vous déposez les objets sur l'autel. Un grincement retentit, les objets dispara
 
 (7, 30, 1) ***Seer's Hut***
 Message:
-Vous entrez dans le bâtiment et découvrez ce qui ressemble à un autel. Il est orné d'images représentant un insigne, un blason et un glyphe. Une inscription sur l'autel dit : Pour accéder au coffre, apportez ce qui remplit le cœur des guerriers de courage.
+Vous entrez dans le bâtiment et découvrez ce qui ressemble à un autel. Il est orné d'images représentant un insigne, un blason et un glyphe. Une inscription sur l'autel dit : Pour accéder au coffre, apportez ce qui remplit le coeur des guerriers de courage.
 Vous posez la main sur l'autel. Une voix métallique déclare :  Clés non trouvées. Accès au coffre refusé.
 Vous déposez les objets sur l'autel. Un grincement retentit, les objets disparaissent, et une niche secrète s'ouvre dans l'autel. À l'intérieur, vous trouvez une armure.
 
