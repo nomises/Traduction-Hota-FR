@@ -56,7 +56,7 @@ Connaissance, puissance... Que réserve donc ce Tombeau ? Nous ne le savons pas,
 Name:
 Day 6 (not Tower)
 Message:
-Il semble que vous et votre ennemi ne soyez pas les seuls à connaître l'existence du Tombeau. Une gargouille est arrivé dans votre camp aujourd'hui. Bien sûr, la créature a été abattue sur-le-champ, mais elle portait un message dans ses serres. 	Un mage, se présentant comme représentant d'une certaine Université, a rapporté qu'il connaissait à la fois le Tombeau et vos plans. Il vous a mis en garde contre les dangers qui s'y cacheraient et a sous-entendu que vous n'aviez rien à y faire. 	Sans dire un mot, vous déchirez la lettre et retournez vers vos hommes pour donner de nouveaux ordres.
+Il semble que vous et votre ennemi ne soyez pas les seuls à connaître l'existence du Tombeau. Une gargouille est arrivée dans votre camp aujourd'hui. Bien sûr, la créature a été abattue sur-le-champ, mais elle portait un message dans ses serres. 	Un mage, se présentant comme représentant d'une certaine Université, a rapporté qu'il connaissait à la fois le Tombeau et vos plans. Il vous a mis en garde contre les dangers qui s'y cacheraient et a sous-entendu que vous n'aviez rien à y faire. 	Sans dire un mot, vous déchirez la lettre et retournez vers vos hommes pour donner de nouveaux ordres.
 
 Name:
 Ă�Ă� - ĂˇĂ®Ă­ĂłĂ±
@@ -87,7 +87,7 @@ Voulez-vous engager les Elfes et obtenir l'armure anti-magie ?
 (11, 2, 0) ***Quest Guard***
 Message:
 Il y a ici un nexus d'énergie magique ; vous pourriez l'utiliser pour créer un portail vers l'Autel de l'Eau et invoquer des élémentaires d'eau. Cependant, vous devrez payer 6 000 pièces d'or pour les ingrédients nécessaires au rituel.
-Vous n'avez pas les moyen de payer le rituel.
+Vous n'avez pas les moyens de payer le rituel.
 Voulez-vous conduire le rituel et créer un portail vers l'Autel de l'Eau ?
 
 (15, 11, 0) ***Pandora's Box***
@@ -101,7 +101,7 @@ Message:
 (16, 21, 0) ***Seer's Hut***
 Message:
 Je ne suis qu'un modeste marchand, mais il n'y a pas si longtemps, j'ai acquis un objet doté d'un grand pouvoir magique. Le vagabond qui me l'a apporté a dit l'avoir trouvé dans le Tombeau et avoir à peine réussi à s'en échapper, poursuivi par d'étranges monstres. Je ne sais pas si c'est vrai, mais cet objet ne me sert à rien. Je serais heureux de vous le céder pour 15 gemmes.
-Non, je ne vendrais pas cela pour moins de 15 gemmes. Dans d'autres circonstances, il pourrait valoir bien plus cher.
+Non, je ne vendrai pas cela pour moins de 15 gemmes. Dans d'autres circonstances, il pourrait valoir bien plus cher.
 Voulez-vous acheter l'armure magique au marchand ?
 
 (2, 25, 0) ***Quest Guard***
@@ -146,7 +146,7 @@ Message:
 Message:
 Je suis arrivé ici en tant que représentant du Cercle des Druides. Je souhaite étudier les créatures qui se sont installées dans le Tombeau. Qui sait comment un tel habitat a pu les influencer ? Apportez-moi assez de spécimens pour mes recherches, et je vous donnerai un parchemin magique vous permettant de voyager sur les terres comme sur les mers.
 Non, il me faut davantage de créatures pour mes recherches. Revenez quand vous en aurez assez.
-e n'aurais jamais cru devoir étudier des momies comme un nécromancien immonde ! Mais la connaissance a un prix. Je n'ai pas oublié votre récompense... Prenez-la."	Voulez-vous accepter le parchemin magique du druide ?
+Je n'aurais jamais cru devoir étudier des momies comme un nécromancien immonde ! Mais la connaissance a un prix. Je n'ai pas oublié votre récompense... Prenez-la."	Voulez-vous accepter le parchemin magique du druide ?
 
 (2, 12, 1) ***Seer's Hut***
 Message:
