@@ -61,7 +61,7 @@ Qui aurait pu imaginer que ces îles recelaient des découvertes dignes des plus
 
 ## 0407
 ### Regions right-click
-Kastore a pris le pouvoir à Burton. Les Hobbits ont été déclarés hors-la-loi, et leur dernier espoir est désormais de retourner dans leur patrie, Eeofol. Avant de partir à la recherche d'un moyen de transport adapté, Henrietta devra rassembler les provisions et l'équipement nécessaires.
+Kastore a pris le pouvoir à Burton. Les Hobbits ont été déclarés hors-la-loi, et leur dernier espoir est désormais de retourner dans leur terre natale, Eeofol. Avant de partir à la recherche du bon moyen de transport, Henrietta devra rassembler les provisions et l'équipement nécessaires.
 
 ### Prologue
 Un homme vaniteux compte ses richesses en pièces d'or. Un homme pragmatique, lui offre ses mains prêt à obéir à ses ordres. Un véritable homme puissant, son esprit s'efforce à concrétiser ses projets. Je possède désormais tout un pays composé de tels esprits. Peut-être pas immense, mais il m'appartient entièrement. Chacun de mes sujets, pour ses recherches, rêve d'acquérir ne serait-ce qu'une infime partie des merveilles que recelaient le tombeau. On pourrait croire que j'offre facilement ces merveilles, mais en réalité, je ne partage que ce qui sert mes intérêts immédiats. Ma seule récompense pour ce travail acharné est la possibilité de subvenir à mes besoins alternatifs, et pourtant, tous les participants en ressortent satisfaits. N'est-ce pas là le summum de la gestion des hommes ?
