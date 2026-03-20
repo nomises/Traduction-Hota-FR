@@ -8,7 +8,7 @@ La vie dépravée d'un pirate... La mer et l'horizon sans limites, le craquement
 
 Cherchant désespérément à semer les Erathians, Jeremy guida le Black Unicorn, son galion, droit au cœur d'une tempête. Il s'en remit alors à sa chance, ignorant les énormes vagues impétueuses qui menaçaient d'envoyer son navire par le fond. Cependant, la réussite sourit à Jeremy mais pas exactement comme il l'aurait souhaité. Le bateau se prit dans les récifs et écopa d'un énorme trou dans la coque. Il était impossible de réparer cette cavité béante, alors l'équipage s'attela à guider tant bien que mal le Black Unicorn vers la terre ferme, et l'abandonna là, sur la côte.
 
-Au moins, Jeremy Albatross était vivant, au même titre qu'une partie de son équipage et bien sûr son fidèle compagnon, Patris. L'île inexplorée dévoila alors des plages aux reflets dorés, un ciel bleu azur et une mer verdoyante à perte de vue. Une nouvelle aventure les attendait.
+Au moins, Jeremy Albatross était vivant, au même titre qu'une partie de son équipage et bien sûr son fidèle compagnon, Patris. L'île inexplorée dévoila alors des plages dorés, un ciel bleu azur et une mer verdoyante à perte de vue. Une nouvelle aventure les attendait.
 
 ### Epilogue
 
@@ -20,7 +20,7 @@ Une force Kreegan venue non loin d'Eeofol est sur le point de débarquer. Il fau
 ### Prologue
 Jeremy ne pensait jamais à ce que lui réservait le futur. Il profitait de l'instant présent. Pourtant, quelque part, loin sur le continent, des hordes de démons Kreegan commençaient à se rassembler. Ces derniers préparaient depuis longtemps l'attaque finale, l'ultime assaut qui conduirait à la destruction du monde. Désormais, leurs éclaireurs sillonnaient les quatre coins du globe et ils ne manqueraient pas de croiser cette petite île sur leur chemin, ainsi que la forteresse s'élevant en son milieu, arborant le pavillon noir du Jolly Roger.
 
-Pour survivre, il n'avait pas le choix : Jeremy devait reprendre l'île. Réussirait-il cette fois-ci ?
+Pour survivre, il n'avait pas le choix : Jeremy devait reprendre l'île. Réussira-t-il cette fois-ci ?
 
 ### Epilogue
 
@@ -36,7 +36,7 @@ La milice, constituée principalement des habitants des îles et de bandits, suf
 
 
 ### Epilogue
-Les restes de l'armée démoniaque furent repoussés et précipités à la mer. C'était une victoire dont la plupart des grands commandants auraient été fiers : une poignée de miliciens et de sauvages venait de mettre les Kreegans en déroute. Quel dommage que personne n'en vienne à le savoir.
+Les restes de l'armée démoniaque furent repoussés et précipités à la mer. C'était une victoire dont la plupart des grands commandants auraient été fiers : une poignée de miliciens et de sauvages venait de mettre les Kreegans en déroute. Quel dommage que personne n'en sache jamais rien.
 
 Jeremy se tenait avec ses hommes sur le rivage, débordant de joie. Cependant, il était encore plus heureux de constater que les navires Kreegans, rapides et robustes, étaient intacts. Il ordonna immédiatement d'embarquer sur les navires et de lever l'ancre.
 

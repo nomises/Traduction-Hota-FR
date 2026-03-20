@@ -30,10 +30,10 @@ Les pirates Bidley et Jeremy cherchent à récuperer la Corne des Abysses, déro
 
 ## 0304
 ### Regions right-click
-Bidley est désormais en possession de la Corne des Abysses, mais il n'est pas vraiment prêt à endosser le rôle de "roi des pirates". Les pirates de Dargem, les Mages, les Élémentaires et même les Magiciens : tous ont pour objectif de renverser le nouveau souverain et de récupérer l'artefact.
+Bidley est désormais en possession de la Corne des Abysses, mais il n'est pas vraiment prêt à endosser le rôle de "roi des pirates". Les pirates de Dargem, les Démonistes, les Élémentaires et même les Magiciens : tous ont pour objectif de renverser le nouveau souverain et de récupérer l'artéfact.
 
 ### Prologue
-Lorsque vous devenez puissant, vous devez garder en tête qu'il y aura toujours quelqu'un qui essaiera de s'opposer à vous et votre pouvoir. Bidley n'était pas préparé mentalement à devenir le Roi des Pirates, et il savait que c'est ce qui arriverait lorsqu'il détiendrait la Corne des Abysses. Divers ennemis ont décidé d'unir leurs forces afin de dérober la Corne à Bidley, et le faire chuter de son trône.
+Lorsque vous devenez puissant, vous devez garder en tête qu'il y aura toujours quelqu'un qui essaiera de s'opposer à vous et votre pouvoir. Bidley n'était pas préparé mentalement à devenir le Roi des Pirates, et il savait que c'est ce qui arriverait lorsqu'il détiendrait la Corne des Abysses. Divers ennemis ont décidé d'unir leurs forces afin de lui dérober la Corne et le faire chuter de son trône.
 
 Bidley sera-t-il capable de résister ? Réussira-t-il à surmonter les épreuves avec courage et autorité ? 
 
