@@ -15,9 +15,7 @@ Bidley subodora que ce prisonnier pourrait être un mage puissant, probablement 
 Jeremy et Casmetra doivent protéger la bibliothèque magique de l'île d'Evenmorn contre les forces écrasantes des Nécromanciens et de leurs mercenaires.
 
 ### Prologue
-Un bref regard, un mot mal placé, une décision prise à la hâte...
-
-Toutes ces choses peuvent changer rigoureusement une vie. En prenant la décision d'aider cette femme, Jeremy avait changé sa vie et celle de son frère de façon dramatique. Difficile de prédire qui sera notre ami, ou notre ennemi. C'est aussi dur que de comprendre quels événements ont vraiment de l'importance dans notre vie.  Jeremy marchait sur la glace, se remémorant sa guerre avec les démons de la petite île. Jusque-là, il avait toujours pu compter sur sa chance pour surmonter tous les obstacles.
+Un bref regard, un mot mal placé, une décision prise à la hâte... Toutes ces choses peuvent changer rigoureusement une vie. En prenant la décision d'aider cette femme, Jeremy avait changé sa vie et celle de son frère de façon dramatique. Difficile de prédire qui sera notre ami, ou notre ennemi. C'est aussi dur que de comprendre quels événements ont vraiment de l'importance dans notre vie.  Jeremy marchait sur la glace, se remémorant sa guerre avec les démons de la petite île. Jusque-là, il avait toujours pu compter sur sa chance pour surmonter tous les obstacles.
 
 ### Epilogue
 
@@ -37,9 +35,7 @@ C'est en compagnie de son frère retrouvé, qu'ils entreprirent sérieusement de
 Tark, le prince des Nix, se rend dans les donjons Nighon pour libérer ses frères du joug des Démonistes.
 
 ### Prologue
-Que faire, quand le sort de toute une race repose sur vos épaules ?
-
-Le Nix, Tark, n'avait pas le temps de se poser ce genre de question. Bien qu'il n'était pas certain que son peuple réussirait à rétablir le prestige de l'ancien royaume, il était quand même prêt à tout pour les sauver. Dans son parcours, il fut même contraint de s'aventurer jusque dans les profondeurs des grottes de Nighon, avant d'arriver sur les terres sinistres des Seigneurs de guerre, ces cruels monstres vivants sous terre. Tark était prêt à aller jusqu'au sacrifice de sa vie pour sortir les Nix de l'esclavage, et leur rendre leur liberté.
+Que faire, quand le sort de toute une race repose sur vos épaules ? Le Nix, Tark, n'avait pas le temps de se poser ce genre de question. Bien qu'il n'était pas certain que son peuple réussirait à rétablir le prestige de l'ancien royaume, il était quand même prêt à tout pour les sauver. Dans son parcours, il fut même contraint de s'aventurer jusque dans les profondeurs des grottes de Nighon, avant d'arriver sur les terres sinistres des Seigneurs de guerre, ces cruels monstres vivants sous terre. Tark était prêt à aller jusqu'au sacrifice de sa vie pour sortir les Nix de l'esclavage, et leur rendre leur liberté.
 
 ### Epilogue
 
@@ -48,10 +44,7 @@ Le Nix, Tark, n'avait pas le temps de se poser ce genre de question. Bien qu'il 
 Bidley, Casmetra et Jeremy sont arrivés sur l'île du Serpent vengeur. Les Donjons situés sous l'île abriteraient la légendaire Corne des Abysses.
 
 ### Prologue
-Et voilà que l'heure du Destin approche !
-
-Bidley, Casmetra et Jeremy sont parvenus jusqu'à l'endroit où la Corne des Abysses est gardée. Seront-ils capables de la récupérer ? Est-ce qu'ils savaient ce qui les attendait ? Probablement non. Et certainement pas Bidley, avec tout le mal qu'il s'était donné. Mais avec son frère à ses côtés, il n'avait peur de rien.
-
+Et voilà que l'heure du Destin approche ! Bidley, Casmetra et Jeremy sont parvenus jusqu'à l'endroit où la Corne des Abysses est gardée. Seront-ils capables de la récupérer ? Est-ce qu'ils savaient ce qui les attendait ? Probablement non. Et certainement pas Bidley, avec tout le mal qu'il s'était donné. Mais avec son frère à ses côtés, il n'avait peur de rien.
 Cependant, ils devront faire preuve de prudence car depuis le début de leur aventure, rien ne s'est vraiment passé comme prévu…
 
 ### Epilogue
