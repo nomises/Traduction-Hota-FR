@@ -118,7 +118,7 @@
 * ~~Beltway.txt~~
 * Headhunting.txt
 * Heritage of the Ancients.txt
-* Just Win, Or Else.txt
+* ~~Just Win, Or Else.txt~~
 * Key To Victory - The Second Key.txt
 * Paradise Lost.txt
 * Sails and Propellers.txt
