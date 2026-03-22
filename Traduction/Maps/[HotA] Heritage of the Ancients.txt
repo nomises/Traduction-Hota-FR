@@ -29,7 +29,7 @@ Une fois, en me rendant au Tombeau, je suis tombé sur un étrange oeil flottant
 Name:
 5
 Text:
-On dit que des basilics sont entrés dans le Tombeau grâce à des portails et s'y sont installés.
+On dit que des Basilics sont entrés dans le Tombeau grâce à des portails et s'y sont installés.
 
 ===== Timed events =====
 
