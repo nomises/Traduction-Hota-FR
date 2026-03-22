@@ -129,7 +129,7 @@ Message:
 
 (19, 47, 0) ***Event***
 Message:
-Enchanteurs!
+Enchanteurs !
 
 (37, 29, 0) ***Pandora's Box***
 Message:
@@ -145,7 +145,7 @@ Enchanteurs !
 
 (21, 41, 0) ***Event***
 Message:
-Enchanteurs!
+Enchanteurs !
 
 (4, 47, 0) ***Event***
 Message:
@@ -233,23 +233,23 @@ Message:
 
 (18, 14, 1) ***Quest Guard***
 Message:
-Ici, vous pouvez organiser un {raid}  contre l'un de vos ennemis: {orange, green or purple}, moyennant finances. Pour ce faire, ouvrez la voie vers le portail de la couleur souhaitée. Mais souvenez-vous : les mercenaires aiment l'or, et même après le raid, vous devrez peut-être les affronter au combat.
-Ici, vous pouvez organiser un {raid}  contre l'un de vos ennemis: {orange, green or purple}, moyennant finances. Pour ce faire, ouvrez la voie vers le portail de la couleur souhaitée. Mais souvenez-vous : les mercenaires aiment l'or, et même après le raid, vous devrez peut-être les affronter au combat.
+Ici, vous pouvez organiser un {raid}  contre l'un de vos ennemis: {orange, vert ou mauve}, moyennant finances. Pour ce faire, ouvrez la voie vers le portail de la couleur souhaitée. Mais souvenez-vous : les mercenaires aiment l'or, et même après le raid, vous devrez peut-être les affronter au combat.
+Ici, vous pouvez organiser un {raid}  contre l'un de vos ennemis: {orange, vert ou mauve}, moyennant finances. Pour ce faire, ouvrez la voie vers le portail de la couleur souhaitée. Mais souvenez-vous : les mercenaires aiment l'or, et même après le raid, vous devrez peut-être les affronter au combat.
 
 (18, 24, 1) ***Quest Guard***
 Message:
-Ici, vous pouvez organiser un {raid}  contre l'un de vos ennemis: {orange, green or purple}, moyennant finances. Pour ce faire, ouvrez la voie vers le portail de la couleur souhaitée. Mais souvenez-vous : les mercenaires aiment l'or, et même après le raid, vous devrez peut-être les affronter au combat.
-Ici, vous pouvez organiser un {raid}  contre l'un de vos ennemis: {orange, green or purple}, moyennant finances. Pour ce faire, ouvrez la voie vers le portail de la couleur souhaitée. Mais souvenez-vous : les mercenaires aiment l'or, et même après le raid, vous devrez peut-être les affronter au combat.
+Ici, vous pouvez organiser un {raid}  contre l'un de vos ennemis: {orange, vert ou mauve}, moyennant finances. Pour ce faire, ouvrez la voie vers le portail de la couleur souhaitée. Mais souvenez-vous : les mercenaires aiment l'or, et même après le raid, vous devrez peut-être les affronter au combat.
+Ici, vous pouvez organiser un {raid}  contre l'un de vos ennemis: {orange, vert ou mauve}, moyennant finances. Pour ce faire, ouvrez la voie vers le portail de la couleur souhaitée. Mais souvenez-vous : les mercenaires aiment l'or, et même après le raid, vous devrez peut-être les affronter au combat.
 
 (11, 24, 1) ***Quest Guard***
 Message:
-Ici, vous pouvez organiser un {raid}  contre l'un de vos ennemis: {orange, green or purple}, moyennant finances. Pour ce faire, ouvrez la voie vers le portail de la couleur souhaitée. Mais souvenez-vous : les mercenaires aiment l'or, et même après le raid, vous devrez peut-être les affronter au combat.
-Ici, vous pouvez organiser un {raid}  contre l'un de vos ennemis: {orange, green or purple}, moyennant finances. Pour ce faire, ouvrez la voie vers le portail de la couleur souhaitée. Mais souvenez-vous : les mercenaires aiment l'or, et même après le raid, vous devrez peut-être les affronter au combat.
+Ici, vous pouvez organiser un {raid}  contre l'un de vos ennemis: {orange, vert ou mauve}, moyennant finances. Pour ce faire, ouvrez la voie vers le portail de la couleur souhaitée. Mais souvenez-vous : les mercenaires aiment l'or, et même après le raid, vous devrez peut-être les affronter au combat.
+Ici, vous pouvez organiser un {raid}  contre l'un de vos ennemis: {orange, vert ou mauve}, moyennant finances. Pour ce faire, ouvrez la voie vers le portail de la couleur souhaitée. Mais souvenez-vous : les mercenaires aiment l'or, et même après le raid, vous devrez peut-être les affronter au combat.
 
 (11, 14, 1) ***Quest Guard***
 Message:
-Ici, vous pouvez organiser un {raid}  contre l'un de vos ennemis: {orange, green or purple}, moyennant finances. Pour ce faire, ouvrez la voie vers le portail de la couleur souhaitée. Mais souvenez-vous : les mercenaires aiment l'or, et même après le raid, vous devrez peut-être les affronter au combat.
-Ici, vous pouvez organiser un {raid}  contre l'un de vos ennemis: {orange, green or purple}, moyennant finances. Pour ce faire, ouvrez la voie vers le portail de la couleur souhaitée. Mais souvenez-vous : les mercenaires aiment l'or, et même après le raid, vous devrez peut-être les affronter au combat.
+Ici, vous pouvez organiser un {raid}  contre l'un de vos ennemis: {orange, vert ou mauve}, moyennant finances. Pour ce faire, ouvrez la voie vers le portail de la couleur souhaitée. Mais souvenez-vous : les mercenaires aiment l'or, et même après le raid, vous devrez peut-être les affronter au combat.
+Ici, vous pouvez organiser un {raid}  contre l'un de vos ennemis: {orange, vert ou mauve}, moyennant finances. Pour ce faire, ouvrez la voie vers le portail de la couleur souhaitée. Mais souvenez-vous : les mercenaires aiment l'or, et même après le raid, vous devrez peut-être les affronter au combat.
 
 (28, 1, 1) ***Pandora's Box***
 Message:
