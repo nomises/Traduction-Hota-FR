@@ -56,7 +56,7 @@ Connaissance, puissance... Que réserve donc ce Tombeau ? Nous ne le savons pas,
 Name:
 Day 6 (not Tower)
 Message:
-Il semble que vous et votre ennemi ne soyez pas les seuls à connaître l'existence du Tombeau. Une gargouille est arrivée dans votre camp aujourd'hui. Bien sûr, la créature a été abattue sur-le-champ, mais elle portait un message dans ses serres. 	Un mage, se présentant comme représentant d'une certaine Université, a rapporté qu'il connaissait à la fois le Tombeau et vos plans. Il vous a mis en garde contre les dangers qui s'y cacheraient et a sous-entendu que vous n'aviez rien à y faire. 	Sans dire un mot, vous déchirez la lettre et retournez vers vos hommes pour donner de nouveaux ordres.
+Il semble que vous et votre ennemi ne soyez pas les seuls à connaître l'existence du Tombeau. Une Gargouille est arrivée dans votre camp aujourd'hui. Bien sûr, la créature a été abattue sur-le-champ, mais elle portait un message dans ses serres. 	Un Magicien, se présentant comme représentant d'une certaine Université, a rapporté, que lui et son "associé" connaissaient à la fois le Tombeau et vos plans. Il mettait en garde contre les dangers qui s'y cacheraient et a sous-entendu que vous n'aviez rien à y faire. 	Sans dire un mot, vous déchirez la lettre et retournez vers vos hommes pour donner de nouveaux ordres.
 
 Name:
 Ă�Ă� - ĂˇĂ®Ă­ĂłĂ±
