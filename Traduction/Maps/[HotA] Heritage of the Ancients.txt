@@ -74,7 +74,7 @@ Les gargouilles que nous avions envoyées avec des messages ne sont jamais reven
 
 (2, 11, 0) ***Quest Guard***
 Message:
-Vous pouvez engager des Pixies ici, mais ils demandent 3 500 pièces d'or.
+Vous pouvez engager des Pixies ici, mais ils demandent 3 500 Pièces d'Or.
 Les Pixies ne sont pas prêts à rejoindre vos rangs pour moins de 3 500 Pièces d'Or.
 Voulez-vous engager les Pixies ?
 
