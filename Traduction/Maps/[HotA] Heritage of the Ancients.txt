@@ -100,7 +100,7 @@ Message:
 
 (16, 21, 0) ***Seer's Hut***
 Message:
-Je ne suis qu'un modeste marchand, mais il n'y a pas si longtemps, j'ai acquis un objet doté d'un grand pouvoir magique. Le vagabond qui me l'a apporté a dit l'avoir trouvé dans le Tombeau et avoir à peine réussi à s'en échapper, poursuivi par d'étranges monstres. Je ne sais pas si c'est vrai, mais cet objet ne me sert à rien. Je serais heureux de vous le céder pour 15 gemmes.
+Je ne suis qu'un modeste marchand, mais il n'y a pas si longtemps, j'ai acquis un objet doté d'un grand pouvoir magique. Le vagabond qui me l'a apporté a dit l'avoir trouvé dans le Tombeau et avoir à peine réussi à s'en échapper, poursuivi par d'étranges monstres. Je ne sais pas si c'est vrai, mais cet objet ne me sert à rien. Je serais heureux de vous le céder pour 15 Gemmes.
 Non, je ne vendrai pas cela pour moins de 15 gemmes. Dans d'autres circonstances, il pourrait valoir bien plus cher.
 Voulez-vous acheter l'armure magique au marchand ?
 
