@@ -41,7 +41,7 @@ Message:
 Name:
 Day 1 - Rampart
 Message:
-Il vous a fallu du temps pour établir un avant-poste si loin de vos terres. Malheureusement, cela n'est pas passé inaperçu. Le souverain d'une principauté voisine, votre vieil ennemi, est également présent. Cette fois, il a engagé un élémentaliste, tout aussi impatient de découvrir les secrets que renferme le Tombeau. Cependant, vous n'avez pas perdu de temps non plus, en obtenant le soutien de vos anciens alliés, les elfes, qui nourrissent une vieille rancoeur envers votre adversaire.
+Il vous a fallu du temps pour établir un avant-poste si loin de vos terres. Malheureusement, cela n'est pas passé inaperçu. Le souverain d'une principauté voisine, votre vieil ennemi, est également présent. Cette fois, il a engagé un Conjureur, tout aussi impatient de découvrir les secrets que renferme le Tombeau. Cependant, vous n'avez pas perdu de temps non plus, en obtenant le soutien de vos anciens alliés, les elfes, qui nourrissent une vieille rancoeur envers votre adversaire.
 
 Name:
 Day 1 - Conflux
