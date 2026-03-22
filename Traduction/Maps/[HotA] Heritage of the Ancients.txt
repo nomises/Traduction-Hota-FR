@@ -86,7 +86,7 @@ Voulez-vous engager les Elfes et obtenir l'armure anti-magie ?
 
 (11, 2, 0) ***Quest Guard***
 Message:
-Il y a ici un nexus d'énergie magique ; vous pourriez l'utiliser pour créer un portail vers l'Autel de l'Eau et invoquer des élémentaires d'eau. Cependant, vous devrez payer 6 000 pièces d'or pour les ingrédients nécessaires au rituel.
+Il y a ici un nexus d'énergie magique ; vous pourriez l'utiliser pour créer un portail vers l'Autel de l'Eau et invoquer des Élémentaires de l'Eau. Cependant, vous devrez payer 6 000 Pièces d'Or pour les ingrédients nécessaires au rituel.
 Vous n'avez pas les moyens de payer le rituel.
 Voulez-vous conduire le rituel et créer un portail vers l'Autel de l'Eau ?
 
