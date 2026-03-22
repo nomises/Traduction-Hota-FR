@@ -118,7 +118,7 @@
 * ~~Beltway.txt~~
 * ~~Headhunting.txt~~
 * Heritage of the Ancients.txt
-* Just Win, Or Else.txt
+* ~~Just Win, Or Else.txt~~
 * Key To Victory - The Second Key.txt
 * Paradise Lost.txt
 * Sails and Propellers.txt
@@ -212,11 +212,11 @@
 * ~~SSTRAITS.TXT~~
 
 ### Traduire 
-* Traduction\campagne_tempo_txt\H1Roger\valeurNonImporte.md
-* Traduction\campagne_tempo_txt\H2Terror\valeurNonImporte.md
-* Traduction\campagne_tempo_txt\H3Horn\valeurNonImporte.md
-* Traduction\campagne_tempo_txt\H4Fact\valeurNonImporte.md
-* Traduction\campagne_tempo_txt\H5AllIn\valeurNonImporte.md
+* ~~Traduction\campagne_tempo_txt\H1Roger\valeurNonImporte.md~~
+* ~~Traduction\campagne_tempo_txt\H2Terror\valeurNonImporte.md~~
+* ~~Traduction\campagne_tempo_txt\H3Horn\valeurNonImporte.md~~
+* ~~Traduction\campagne_tempo_txt\H4Fact\valeurNonImporte.md~~
+* ~~Traduction\campagne_tempo_txt\H5AllIn\valeurNonImporte.md~~
 
 # Correction Binaire 
 ## HotA_lng.lod
@@ -316,7 +316,7 @@
     * ~~mission 5~~
 
 ## Hota.dat
-* HotA.txt
+* ~~HotA.txt~~
 
 # Bonus
 * Revoir le fichier `CREDITS.TXT` et faire la traduction.
