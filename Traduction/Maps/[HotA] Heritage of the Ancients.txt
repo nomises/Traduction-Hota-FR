@@ -162,7 +162,7 @@ Message:
 Vous vous approchez de la porte d'un bâtiment. Une inscription y est gravée : 	Zone d'entraînement. Pour augmenter votre puissance magique, sacrifiez 5 soufre et 5 mercure.
 Rien ne se passera tant que vous n'aurez pas apporté les ressources nécessaires.
 Vous déposez les ressources devant la porte. Celle-ci s'ouvre, et vous entrez. En ressortant, vous ne vous souvenez de rien... mais votre maîtrise de la magie semble s'être accrue.
-Vous vous approchez de la porte d'un bâtiment. Une inscription y est gravée : 	Zone d'entraînement. Pour augmenter votre savoir, sacrifiez 5 soufre et 5 mercure. 
+Vous vous approchez de la porte d'un bâtiment. Une inscription y est gravée : 	Zone d'entraînement. Pour augmenter votre savoir, sacrifiez 5 Soufre et 5 Mercure. 
 Rien ne se passera tant que vous n'aurez pas apporté les ressources nécessaires.
 Vous déposez les ressources devant la porte. Celle-ci s'ouvre, et vous entrez. En ressortant, vous ne vous souvenez de rien... mais votre esprit semble rempli de nouvelles connaissances.
 
