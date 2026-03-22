@@ -46,7 +46,7 @@ Il vous a fallu du temps pour établir un avant-poste si loin de vos terres. Mal
 Name:
 Day 1 - Conflux
 Message:
-Il vous a fallu du temps pour établir un avant-poste si loin de vos terres. Malheureusement, cela n'est pas passé inaperçu. Le souverain d'une principauté voisine, votre vieil ennemi, est également présent. Cette fois, il a obtenu le soutien des elfes, qui vous en veulent depuis longtemps pour avoir abattu leurs forêts. Il semble que ce seigneur soit tout aussi impatient de découvrir les secrets que renferme le Tombeau. Mais vous n'avez pas perdu de temps non plus, en recrutant un élémentaliste expérimenté qui vous a proposé ses services. On dit que ces sorciers sont capables d'invoquer une armée entière !
+Il vous a fallu du temps pour établir un avant-poste si loin de vos terres. Malheureusement, cela n'est pas passé inaperçu. Le souverain d'une principauté voisine, votre vieil ennemi, est également présent. Cette fois, il a obtenu le soutien des elfes, qui vous en veulent depuis longtemps pour avoir abattu leurs forêts. Il semble que ce seigneur soit tout aussi impatient de découvrir les secrets que renferme le Tombeau. Mais vous n'avez pas perdu de temps non plus, en recrutant un Conjureur expérimenté qui vous a proposé ses services. On dit que ces sorciers sont capables d'invoquer une armée entière !
 
 Name:
 Day 1 - Tower
