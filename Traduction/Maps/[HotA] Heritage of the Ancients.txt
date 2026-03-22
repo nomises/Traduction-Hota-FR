@@ -153,7 +153,7 @@ Message:
 Vous vous approchez de la porte d'un bâtiment. Une inscription y est gravée : 	Zone d'entraînement. Pour améliorer vos compétences en attaque, sacrifiez 5 cristaux et 5 gemmes. 
 Rien ne se passera tant que vous n'aurez pas apporté les ressources nécessaires.
 Vous déposez les ressources devant la porte. Celle-ci s'ouvre, et vous entrez. En ressortant, vous ne vous souvenez de rien... mais votre maîtrise du combat semble s'être améliorée.
-Vous vous approchez de la porte d'un bâtiment. Une inscription y est gravée : Zone d'entraînement. Pour améliorer vos compétences en défense, sacrifiez 5 cristaux et 5 gemmes.
+Vous vous approchez de la porte d'un bâtiment. Une inscription y est gravée : Zone d'entraînement. Pour améliorer vos compétences en défense, sacrifiez 5 Cristaux et 5 Gemmes.
 Rien ne se passera tant que vous n'aurez pas apporté les ressources nécessaires.
 Vous déposez les ressources devant la porte. Celle-ci s'ouvre, et vous entrez. En ressortant, vous ne vous souvenez de rien... mais votre défense semble s'être renforcée.
 
