@@ -51,7 +51,7 @@ Il vous a fallu du temps pour établir un avant-poste si loin de vos terres. Mal
 Name:
 Day 1 - Tower
 Message:
-Connaissance, puissance... Que réserve donc ce Tombeau ? Nous ne le savons pas, mais qui d'autre que les mages de l'Université des Quatre Éléments pourrait en percer les secrets ? Cela fait longtemps que nous n'avons pas eu l'occasion d'étudier un héritage aussi ancien. 	Cependant, des rumeurs disent que nous ne sommes pas les seuls à avoir appris l'existence du Tombeau. Les seigneurs voisins, avides et cupides, ne laisseraient jamais passer une chance de mettre la main sur des trésors et de nouvelles connaissances magiques. Leurs troupes devraient bientôt apparaître ici, nous avons donc fait passer un message grâce aux gargouilles.
+Connaissance, puissance... Que réserve donc ce Tombeau ? Nous ne le savons pas, mais qui d'autre que les Magiciens de l'Université des Quatre Éléments pourrait en percer les secrets ? Cela fait longtemps que nous n'avons pas eu l'occasion d'étudier un héritage aussi ancien. 	Cependant, des rumeurs disent que nous ne sommes pas les seuls à avoir appris l'existence du Tombeau. Les seigneurs voisins, avides et cupides, ne laisseraient jamais passer une chance de mettre la main sur des trésors et de nouvelles connaissances magiques. Leurs troupes devraient bientôt apparaître ici, nous avons donc fait passer un message grâce aux Gargouilles.
 
 Name:
 Day 6 (not Tower)
