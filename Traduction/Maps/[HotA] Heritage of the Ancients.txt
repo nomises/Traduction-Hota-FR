@@ -9,7 +9,7 @@ Un ancien tombeau a été découvert en des terres lointaines. Qui sait quels tr
 Name:
 1
 Text:
-Le Tombeau est gardé par des djinns et des efrits. Ne les dérangez pas !
+Le Tombeau est gardé par des Djinns et des Efrits. Ne les dérangez pas !
 
 Name:
 2
