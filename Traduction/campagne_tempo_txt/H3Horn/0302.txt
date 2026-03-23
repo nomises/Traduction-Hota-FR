@@ -1,0 +1,82 @@
+===== Map name =====
+Au coeur de l'eau
+
+===== Map description =====
+Bidley doit capturer la ville de Coralgate et s'échapper du Plan de l'Eau. Si Bidley est vaincu au combat, le scénario sera perdu. Le niveau maximum du héros est de 18. Bidley passera au scénario suivant après sa victoire.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Day 1-1
+Message:
+Bidley ignorait totalement où il se trouvait. Était-il mort ? La dernière chose dont il se souvenait, c'était d'avoir été aspiré dans une sorte de tourbillon. Il se trouvait maintenant dans cet endroit étrange avec le reste de son équipage. 				Il avait l'impression de se tenir au fond de l'eau. Loin au-dessus de sa tête, il pouvait voir des poissons et d'énormes tortues. Nageaient-elles… ou volaient-elles ? La seule chose dont il pouvait être sûr, c'était que ce qui l'entourait n'était pas de l'eau. Sinon, il n'aurait pu, ni respirer ni bouger aussi librement. Il avait presque l'impression que l'air était devenu épais et humide, comme un liquide, mais suffisamment fluide pour qu'il puisse le respirer. 				Il y avait un portail à moitié effacé derrière lui. Quelque part de l'autre côté de ce portail, se trouvaient Jeremy, Tark et cette suspicieuse Casmetra possédant la Corne. Bidley réalisa brutalement : tout cela avait été orchestré par la sorcière pour s'emparer de l'artefact ! Alors qu'il était retenu captif par Dargem, Bidley entendit les divagations du mage renégat. Il découvrit que Casmetra avait engagé le lanceur de sorts pour retrouver la Corne, mais qu'après son échec, elle l'avait enfermé dans une caverne. C'est pourquoi il voulait se venger et s'emparer de l'ancienne relique. Bidley regretta de ne pas y avoir réfléchi plus tôt.
+
+Name:
+Day 1-2
+Message:
+Une créature étrange s'approchait des troupes de Bidley… Il en avait déjà vu d'autres comme ça - c'était une fée. Pourtant, il était stupéfait de la voir voler dans cet "air". 				 "Waouh ! " dit la fée d'une voix vibrante, "ce sont des primes ! "		"Où… où sommes-nous ? " demanda le pirate confus.		"Dans le Plan de l'Eau ! " répondit-elle en riant. "C'est charmant ici, n'est-ce pas ? "		"C'est vrai", acquiesça Bidley d'un air sombre, "mais j'aimerais encore plus savoir comment sortir d'ici."		"Eh bien, ce ne sera pas facile. Il vous faudra demander à Marinus.		"Où puis-je le trouver ? "		"Il y a une ville près d'ici… Saltwater. Mais les primes n'y sont pas les bienvenus." "Alors, je les forcerai à m'accepter", dit Bidley en saisissant la poignée de son coutelas.		"Oooh, un primes menaçant ! " ricana la fée. "Bonne chance, alors. Saltwater est à l'est d'ici."
+
+Name:
+Day 3
+Message:
+Bidley se sentait mal. Il avait entraîné son frère dans ce plan insensé, et maintenant il l'avait perdu. Jeremy est-il, seulement, encore en vie ? Pourtant, le pirate était sûr de pouvoir sortir de ce monde extraterrestre et retrouver son frère.
+
+Name:
+Day 8
+Message:
+Bidley entra dans un magnifique bâtiment à l'architecture inconnue. Ce devait être une sorte de bibliothèque. La pièce n'était illuminée ni par des torches ni par des bougies, mais par d'étranges orbes scintillant d'une vive lumière bleu-blanc. On y trouvait également des étagères chargées de livres et des échelles menant aux niveaux supérieurs. Une bibliothèque typique, sinon. 				"Et qui êtes-vous ? "tonna une voix dans l'obscurité. 		"Je suis le capitaine Bidley", répondit le pirate en se tournant vers l'endroit d'où venait la voix, "et je suis à la recherche de Marinus."		Une étrange créature surgit des ténèbres ; elle ressemblait à un humain, mais sans cheveux et couverte d'écailles. 		"Que voulez-vous de Marinus, primes ?		"demanda la créature. "Une fée m'a dit que vous saviez comment sortir du Plan de l'Eau."		"Eh bien, elle n'a pas menti », concéda l'être. "Je suis Marinus, la gardienne de la bibliothèque de Saltwater." 		"Pourquoi nous appelez-vous "primes" ? " demanda Bidley.		""Primes" est le terme que nous utilisons pour désigner tous ceux qui vivent dans votre monde et dans d'autres semblables. Et ne me fixez pas avec une telle admiration. Je suis un triton. Notre race n'est pas très nombreuse, mais certains de mes proches vivent aussi dans votre monde. 				Quelques minutes plus tard, Bidley congédia ses hommes ; Marinus et lui s'assirent dans des fauteuils.		"Malheureux temps pour débarquer", soupira le triton. "Présentement, les Seigneurs Élémentaires sont engagés dans une guerre contre les Kreegans dans votre monde et craignent leur vengeance. C'est pourquoi il est difficile d'entrer dans n'importe quel Plan, et tout aussi difficile d'en sortir. Vous pouvez attendre que les combats s'apaisent."		"Je n'ai pas le temps d'attendre", soupira le pirate. "Mon frère est peut-être en difficulté. J'ai été trahi et je veux ma vengeance." 	"Alors vous n'avez pas vraiment le choix", souffla Marinus. "Le chemin le plus court vers votre monde passe par le portail de Coralgate. Cependant, le Seigneur de l'Eau y a placé de puissants gardes pour empêcher une invasion kreegan. Ils ne laisseront personne entrer ni sortir." 		"Si je dois me battre, je le ferai ! " dit Bidley avec ardeur. "Non seulement vous devrez vous battre", répondit la gardienne en secouant la tête, "le Seigneur de l'Eau a également pris des dispositions pour le cas, aussi improbable soit-il, où les gardes tomberaient. C'est pourquoi la sortie de Coralgate est verrouillée avec la Clef de l'Eau, de la Brume et celle de la Glace. Ainsi que l'entrée…"
+
+Name:
+Day 10
+Message:
+Le triton nous a dit que la Clef de Glace se trouve au sud-ouest ; elle est gardée par de puissants dragons de glace. Pour couronner le tout, les ressources de Bidley sont très limitées : il doit recourir à des créatures du Plan de l'Eau. Il serait judicieux de commencer par chercher les Clefs de la Brume et de l'Eau ; elles sont gardées par les forces du Seigneur de l'Eau. Une fois vaincues, d'autres créatures pourraient être disponibles au recrutement.
+
+Name:
+Day 14
+Message:
+Bidley se souvint de son vieux rêve où il flottait dans l'eau et voyait à travers elle aussi clairement que si c'était de l'air. Était-ce un rêve prophétique qui prédisait son voyage dans le Plan de l'Eau ? Cette pensée lui donna des frissons. "N'importe quoi ! Ce n'est qu'une coïncidence", répéta Bidley pour se réconforter. Mais au fond de lui, il savait que les choses étaient plus compliquées.
+
+===== Heroes =====
+
+===== Objects =====
+
+(52, 7, 0) ***Conflux***
+Name:
+Coralgate
+
+(84, 98, 0) ***Conflux***
+Name:
+Saltwater
+
+(11, 88, 0) ***Sign***
+Message:
+Clef de glace
+
+(12, 47, 0) ***Sign***
+Message:
+Clef d'eau
+
+(52, 8, 0) ***Event***
+Message:
+Le général nommé par le Seigneur de l'Eau pour garder Coralgate s'adressa à Bidley depuis le mur. "Imbécile de primes ! Sais-tu ce que tu fais ? Tu affaiblis nos forces et, ce faisant, tu aides les Kreegans. Ils sont nos ennemis autant que les tiens. Alors, que vas-tu faire maintenant ? Tenter d'attaquer cette forteresse imprenable ? Tu vas périr à cause de ta folie ! "	"Je tenterai ma chance, si te chasser de là signifie rentrer chez toi ! " lui répondit Bidley.
+
+(50, 107, 0) ***Ocean Bottle***
+Message:
+
+
+(51, 107, 0) ***Event***
+Message:
+En observant la surface de l'eau, vous avez remarqué une bouteille flottant à proximité. Vous ordonnez aux hommes de la récupérer, espérant qu'il n'y aurait pas d'esprits maléfiques à l'intérieur. Rapidement, un matelot se précipita vers vous : 	"Eh bien, je le ferai ! C'est peut-être un message de quelqu'un qui s'est retrouvé piégé ici comme nous ?  	Vous lui avez arraché la bouteille des mains. Elle contenait un morceau de papier. En lisant le message, vous réalisez qu'il était terriblement obsolète. 	"L'auteur de cette lettre était Barsolar, cousin du Roi Immortel et l'un des plus grands Planeswalkers. Il est mort il y a quelques décennies à Enroth. Mais s'il a réussi à sortir d'ici, nous aussi ! "
+
+(5, 40, 0) ***Event***
+Message:
+Vos hommes d'équipage ont aperçu une épave, des corps flottants à la dérive. 	"Certains de ces pauvres bougres ont peut-être survécu, Capitaine… On aurait bien besoin de paires de manches supplémentaires, lança un jeune marin. 	"D'accord, matelots", acquiescez-vous. "Cap sur l'épave ! " 	En y regardant de plus près, cependant, tous les corps étaient déjà désarticulés, suppurant sous le soleil. Vous ordonnâtes de partir immédiatement, mais apparemment, les morts manigançaient.
+
+(93, 44, 0) ***Sign***
+Message:
+Clef de brume
+
+===== Extended Events =====
+===== End of file =====

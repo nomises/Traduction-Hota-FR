@@ -1,8 +1,8 @@
 ===== Map name =====
-Just Win, Or Else
+Gagnez, ou Subissez les Conséquences
 
 ===== Map description =====
-All the fortresses have already been built up, all the mercenaries lured in with coin, and legendary treasures found. All that remains to do is rear up powerful heroes who will seize the opportunity and defeat the adversary, just as well-prepared though.
+Toutes les forteresses sont déjà bâties, tous les mercenaires ont été enrôlés, et les trésors légendaires ont été découverts. Il ne reste plus qu'une chose à faire : former des héros assez puissants pour saisir leur chance et écraser l'adversaire, aussi bien préparé soit-il.
 
 ===== Rumors =====
 
@@ -11,7 +11,7 @@ All the fortresses have already been built up, all the mercenaries lured in with
 Name:
 day1
 Message:
-Onwards, to battle! There is nothing to wait for: everything is here for your victory! Just come and take it by force... or else. 
+En avant, à la bataille ! Il n'y a rien à attendre : tout est déjà là pour votre victoire ! Prenez-le par la force... ou subissez les conséquences.
 
 ===== Heroes =====
 

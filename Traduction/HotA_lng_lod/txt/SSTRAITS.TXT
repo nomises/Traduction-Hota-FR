@@ -2,196 +2,197 @@
 Name	Basic	Advanced	Expert
 Orientation	"{Novice en Orientation}
 
-La pÃ©nalitÃ© de mouvement sur terrain difficile est rÃ©duite de 25%, rÃ©duit Ã©galement le coÃ»t de dÃ©placement pour atteindre un coÃ»t minimal de 95%."	"{Disciple en Orientation}
+La pénalité de mouvement sur terrain difficile est réduite de 25%, réduit également le coût de déplacement pour atteindre un coût minimal de 95%."	"{Disciple en Orientation}
 
-La pÃ©nalitÃ© de mouvement sur terrain difficile est rÃ©duite de 50%, rÃ©duit Ã©galement le coÃ»t de dÃ©placement pour atteindre un coÃ»t minimal de 90%."	"{MaÃ®tre en Orientation}
+La pénalité de mouvement sur terrain difficile est réduite de 50%, réduit également le coût de déplacement pour atteindre un coût minimal de 90%."	"{Maître en Orientation}
 
-La pÃ©nalitÃ© de mouvement sur terrain difficile est rÃ©duite de 75%, rÃ©duit Ã©galement le coÃ»t de dÃ©placement pour atteindre un coÃ»t minimal de 85%."
+La pénalité de mouvement sur terrain difficile est réduite de 75%, réduit également le coût de déplacement pour atteindre un coût minimal de 85%."
 Archerie	"{Novice en Archerie}
 
-Les Tirs infligent 10% de dÃ©gÃ¢ts supplÃ©mentaires."	"{Disciple en Archerie}
+Les Tirs infligent 10% de dégâts supplémentaires."	"{Disciple en Archerie}
 
-Les Tirs infligent 25% de dÃ©gÃ¢ts supplÃ©mentaires."	"{MaÃ®tre en Archerie}
+Les Tirs infligent 25% de dégâts supplémentaires."	"{Maître en Archerie}
 
-Les Tirs infligent 50% de dÃ©gÃ¢ts supplÃ©mentaires."
+Les Tirs infligent 50% de dégâts supplémentaires."
 Ravitaillement	"{Novice en Ravitaillement}
 
-Augmente le potentiel de mouvement du HÃ©ros sur terre de 5%."	"{Disciple en Ravitaillement}
+Augmente le potentiel de mouvement du Héros sur terre de 5%."	"{Disciple en Ravitaillement}
 
-Augmente le potentiel de mouvement du HÃ©ros sur terre de 10%."	"{MaÃ®tre en Ravitaillement}
+Augmente le potentiel de mouvement du Héros sur terre de 10%."	"{Maître en Ravitaillement}
 
-Augmente le potentiel de mouvement du HÃ©ros sur terre de 20%."
+Augmente le potentiel de mouvement du Héros sur terre de 20%."
 Reconnaissance	"{Novice en Reconnaissance}
 
-Augmente le champ de vision du HÃ©ros de 1 case."	"{Disciple en Reconnaissance}
+Augmente le champ de vision du Héros de 1 case."	"{Disciple en Reconnaissance}
 
-Augmente le champ de vision du HÃ©ros de 3 cases."	"{MaÃ®tre en Reconnaissance}
+Augmente le champ de vision du Héros de 3 cases."	"{Maître en Reconnaissance}
 
-Augmente le champ de vision du HÃ©ros de 5 cases."
+Augmente le champ de vision du Héros de 5 cases."
 Diplomatie	"{Novice en Diplomatie}
 
-Les groupes de monstres errants moins puissants que l'armÃ©e du HÃ©ros peuvent tenter de nÃ©gocier. Le coÃ»t d'une reddition est abaissÃ© de 20%."	"{Disciple en Diplomatie}
+Les groupes de monstres errants moins puissants que l'armée du Héros peuvent tenter de négocier. Le coût d'une reddition est abaissé de 20%."	"{Disciple en Diplomatie}
 
-Les groupes de monstres errants moins puissants que l'armÃ©e du HÃ©ros peuvent tenter de nÃ©gocier. Le coÃ»t d'une reddition est abaissÃ© de 40%."	"{MaÃ®tre en Diplomatie}
+Les groupes de monstres errants moins puissants que l'armée du Héros peuvent tenter de négocier. Le coût d'une reddition est abaissé de 40%."	"{Maître en Diplomatie}
 
-Les groupes de monstres errants moins puissants que l'armÃ©e du HÃ©ros peuvent tenter de nÃ©gocier. Le coÃ»t d'une reddition est abaissÃ© de 60%."
+Les groupes de monstres errants moins puissants que l'armée du Héros peuvent tenter de négocier. Le coût d'une reddition est abaissé de 60%."
 Navigation	"{Novice en Navigation}
 
-Augmente le potentiel de mouvement en mer du HÃ©ros de 50%."	"{Disciple en Navigation}
-Augmente le potentiel de mouvement en mer du HÃ©ros de 100%."	"{MaÃ®tre en Navigation}
+Augmente le potentiel de mouvement en mer du Héros de 50%."	"{Disciple en Navigation}
 
-Augmente le potentiel de mouvement en mer du HÃ©ros de 150%."
+Augmente le potentiel de mouvement en mer du Héros de 100%."	"{Maître en Navigation}
+
+Augmente le potentiel de mouvement en mer du Héros de 150%."
 Charisme	"{Novice en Charisme}
 
-AmÃ©liore le moral de l'armÃ©e du HÃ©ros de 1 point."	"{Disciple en Charisme}
+Améliore le moral de l'armée du Héros de 1 point."	"{Disciple en Charisme}
 
-AmÃ©liore le moral de l'armÃ©e du HÃ©ros de 2 points."	"{MaÃ®tre en Charisme}
+Améliore le moral de l'armée du Héros de 2 points."	"{Maître en Charisme}
 
-AmÃ©liore le moral de l'armÃ©e du HÃ©ros de 3 points."
+Améliore le moral de l'armée du Héros de 3 points."
 Sagesse	"{Novice en Sagesse}
 
-Le HÃ©ros peut apprendre des sorts de niveau 3."	"{Disciple en Sagesse}
+Le Héros peut apprendre des sorts de niveau 3."	"{Disciple en Sagesse}
 
-Le HÃ©ros peut apprendre des sorts de niveau 4."	"{MaÃ®tre en Sagesse}
+Le Héros peut apprendre des sorts de niveau 4."	"{Maître en Sagesse}
 
-Le HÃ©ros peut apprendre des sorts de niveau 5."
+Le Héros peut apprendre des sorts de niveau 5."
 Mysticisme	"{Novice en Mysticisme}
 
-Le HÃ©ros regagne 10% du total de ses points de magie par jour, avec un minimum de 5 points par jour."	"{Disciple en Mysticisme}
+Le Héros regagne 10% du total de ses points de magie par jour, avec un minimum de 5 points par jour."	"{Disciple en Mysticisme}
 
-Le HÃ©ros regagne 20% du total de ses points de magie par jour, avec un minimum de 10 points par jour."	"{MaÃ®tre en Mysticisme}
+Le Héros regagne 20% du total de ses points de magie par jour, avec un minimum de 10 points par jour."	"{Maître en Mysticisme}
 
-Le HÃ©ros regagne 30% du total de ses points de magie par jour, avec un minimum de 15 points par jour."
+Le Héros regagne 30% du total de ses points de magie par jour, avec un minimum de 15 points par jour."
 Chance	"{Novice en Chance}
 
-La chance du HÃ©ros est augmentÃ©e de 1 point."	"{Disciple en Chance}
+La chance du Héros est augmentée de 1 point."	"{Disciple en Chance}
 
-La chance du HÃ©ros est augmentÃ©e de 2 points."	"{MaÃ®tre en Chance}
+La chance du Héros est augmentée de 2 points."	"{Maître en Chance}
 
-La chance du HÃ©ros est augmentÃ©e de 3 points."
+La chance du Héros est augmentée de 3 points."
 Ballistique	"{Novice en Balistique}
 
-Le HÃ©ros dirige le tir de la Catapulte. La Catapulte a plus de chance de toucher les murs des chÃ¢teaux. La Catapulte de ne peut pas perdre plus de 40% de ses points de vie en recevant une attaque."	"{Disciple en Balistique}
+Le Héros dirige le tir de la Catapulte. La Catapulte a plus de chance de toucher les murs des châteaux. La Catapulte de ne peut pas perdre plus de 40% de ses points de vie en recevant une attaque."	"{Disciple en Balistique}
 
-Le HÃ©ros dirige deux tirs de Catapulte par tour. La Catapulte a plus de chance de toucher les murs des chÃ¢teaux. La Catapulte de ne peut pas perdre plus de 40% de ses points de vie en recevant une attaque."	"{MaÃ®tre en Balistique}
+Le Héros dirige deux tirs de Catapulte par tour. La Catapulte a plus de chance de toucher les murs des châteaux. La Catapulte de ne peut pas perdre plus de 40% de ses points de vie en recevant une attaque."	"{Maître en Balistique}
 
-Le HÃ©ros dirige deux tirs de Catapulte par tour. La Catapulte touche avec prÃ©cision les murs des chÃ¢teaux infligeant le maximum de dommages. La Catapulte de ne peut pas perdre plus de 40% de ses points de vie en recevant une attaque."
-MimÃ©tisme	"{Novice en MimÃ©tisme}
+Le Héros dirige deux tirs de Catapulte par tour. La Catapulte touche avec précision les murs des châteaux infligeant le maximum de dommages. La Catapulte de ne peut pas perdre plus de 40% de ses points de vie en recevant une attaque."
+Mimétisme	"{Novice en Mimétisme}
 
-Permet au HÃ©ros de voir les sorts de niveau 1 Ã  3 d'un HÃ©ros ennemi en combat. Il donne au HÃ©ros 10% de chances d'apprendre n'importe quel sort de niveau 1-3 du HÃ©ros ennemi au dÃ©but du combat et 100% de chances de l'apprendre dÃ¨s que le sort est utilisÃ© par l'ennemi en combat. Annule un niveau de MimÃ©tisme du HÃ©ros ennemi."	"{Disciple en MimÃ©tisme}
+Permet au Héros de voir les sorts de niveau 1 à 3 d'un Héros ennemi en combat. Il donne au Héros 30% de chances d'apprendre n'importe quel sort de niveau 1-3 du Héros ennemi au début du combat et 100% de chances de l'apprendre dès que le sort est utilisé par l'ennemi en combat. Annule un niveau de Mimétisme du Héros ennemi."	"{Disciple en Mimétisme}
 
-Permet au HÃ©ros de voir les sorts de niveau 1 Ã  4 d'un HÃ©ros ennemi en combat. Il donne au HÃ©ros 20% de chances d'apprendre n'importe quel sort de niveau 1-4 du HÃ©ros ennemi au dÃ©but du combat et 100% de chances de l'apprendre dÃ¨s que le sort est utilisÃ© par l'ennemi en combat. Annule deux niveaux de MimÃ©tisme du HÃ©ros ennemi."	"{MaÃ®tre en MimÃ©tisme}
+Permet au Héros de voir les sorts de niveau 1 à 4 d'un Héros ennemi en combat. Il donne au Héros 40% de chances d'apprendre n'importe quel sort de niveau 1-4 du Héros ennemi au début du combat et 100% de chances de l'apprendre dès que le sort est utilisé par l'ennemi en combat. Annule deux niveaux de Mimétisme du Héros ennemi."	"{Maître en Mimétisme}
 
-Permet au HÃ©ros de voir tous les sorts d'un HÃ©ros ennemi en combat. Il donne au HÃ©ros 30% de chances d'apprendre n'importe quel sort du HÃ©ros ennemi au dÃ©but du combat et 100% de chances de l'apprendre dÃ¨s que le sort est utilisÃ© par l'ennemi en combat. Annule complÃ¨tement le MimÃ©tisme du HÃ©ros ennemi."
-NÃ©cromancie	"{Novice en NÃ©cromancie}
+Permet au Héros de voir tous les sorts d'un Héros ennemi en combat. Il donne au Héros 50% de chances d'apprendre n'importe quel sort du Héros ennemi au début du combat et 100% de chances de l'apprendre dès que le sort est utilisé par l'ennemi en combat. Annule complètement le Mimétisme du Héros ennemi."
+Nécromancie	"{Novice en Nécromancie}
 
-5% des crÃ©atures Ã©liminÃ©es lors d'un combat rejoignent les rangs du HÃ©ros sous la forme de Squelettes."	"{Disciple en NÃ©cromancie}
+5% des créatures éliminées lors d'un combat rejoignent les rangs du Héros sous la forme de Squelettes."	"{Disciple en Nécromancie}
 
-10% des crÃ©atures Ã©liminÃ©es lors d'un combat rejoignent les rangs du HÃ©ros sous la forme de Squelettes."	"{MaÃ®tre en NÃ©cromancie}
+10% des créatures éliminées lors d'un combat rejoignent les rangs du Héros sous la forme de Squelettes."	"{Maître en Nécromancie}
 
-15% des crÃ©atures Ã©liminÃ©es lors d'un combat rejoignent les rangs du HÃ©ros sous la forme de Squelettes."
+15% des créatures éliminées lors d'un combat rejoignent les rangs du Héros sous la forme de Squelettes."
 Fermage	"{Novice en Fermage}
 
-Les terres de ce HÃ©ros contribuent pour 250 piÃ¨ces d'Or par jour Ã  votre effort de guerre."	"{Disciple en Fermage}
+Les terres de ce Héros contribuent pour 250 pièces d'Or par jour à votre effort de guerre."	"{Disciple en Fermage}
 
-Les terres de ce HÃ©ros contribuent pour 500 piÃ¨ces d'Or par jour Ã  votre effort de guerre."	"{MaÃ®tre en Fermage}
+Les terres de ce Héros contribuent pour 500 pièces d'Or par jour à votre effort de guerre."	"{Maître en Fermage}
 
-Les terres de ce HÃ©ros contribuent pour 1000 piÃ¨ces d'Or par jour Ã  votre effort de guerre."
+Les terres de ce Héros contribuent pour 1000 pièces d'Or par jour à votre effort de guerre."
 Magie du Feu	"{Novice en Magie du Feu}
 
-Le HÃ©ros dÃ©pense moins de points de magie pour lancer des sorts de l'Ã©cole de la Magie du Feu."	"{Disciple en Magie du Feu}
+Le Héros dépense moins de points de magie pour lancer des sorts de l'école de la Magie du Feu."	"{Disciple en Magie du Feu}
 
-Le HÃ©ros dÃ©pense moins de points de magie pour lancer des sorts de l'Ã©cole de la Magie du Feu. Les sorts de cette Ã©cole lancÃ©s par le HÃ©ros sont plus efficaces."	"{MaÃ®tre en Magie du Feu}
+Le Héros dépense moins de points de magie pour lancer des sorts de l'école de la Magie du Feu. Les sorts de cette école lancés par le Héros sont plus efficaces."	"{Maître en Magie du Feu}
 
-Le HÃ©ros dÃ©pense moins de points de magie pour lancer des sorts de l'Ã©cole de la Magie du Feu. Les sorts de cette Ã©cole lancÃ©s par le HÃ©ros sont d'une efficacitÃ© maximale."
+Le Héros dépense moins de points de magie pour lancer des sorts de l'école de la Magie du Feu. Les sorts de cette école lancés par le Héros sont d'une efficacité maximale."
 Magie d'Air	"{Novice en Magie de l'Air}
 
-Le HÃ©ros dÃ©pense moins de points de magie pour lancer des sorts de l'Ã©cole de la Magie de l'Air."	"{Disciple en Magie de l'Air}
+Le Héros dépense moins de points de magie pour lancer des sorts de l'école de la Magie de l'Air."	"{Disciple en Magie de l'Air}
 
-Le HÃ©ros dÃ©pense moins de points de magie pour lancer des sorts de l'Ã©cole de la Magie de l'Air. Les sorts de cette Ã©cole lancÃ©s par le HÃ©ros sont plus efficaces."	"{MaÃ®tre en Magie de l'Air}
+Le Héros dépense moins de points de magie pour lancer des sorts de l'école de la Magie de l'Air. Les sorts de cette école lancés par le Héros sont plus efficaces."	"{Maître en Magie de l'Air}
 
-Le HÃ©ros dÃ©pense moins de points de magie pour lancer des sorts de l'Ã©cole de la Magie de l'Air. Les sorts de cette Ã©cole lancÃ©s par le HÃ©ros sont d'une efficacitÃ© maximale."
+Le Héros dépense moins de points de magie pour lancer des sorts de l'école de la Magie de l'Air. Les sorts de cette école lancés par le Héros sont d'une efficacité maximale."
 Magie d'Eau	"{Novice en Magie de l'Eau}
 
-Le HÃ©ros dÃ©pense moins de points de magie pour lancer des sorts de l'Ã©cole de la Magie de l'Eau."	"{Disciple en Magie de l'Eau}
+Le Héros dépense moins de points de magie pour lancer des sorts de l'école de la Magie de l'Eau."	"{Disciple en Magie de l'Eau}
 
-Le HÃ©ros dÃ©pense moins de points de magie pour lancer des sorts de l'Ã©cole de la Magie de l'Eau. Les sorts de cette Ã©cole lancÃ©s par le HÃ©ros sont plus efficaces."	"{MaÃ®tre en Magie de l'Eau}
+Le Héros dépense moins de points de magie pour lancer des sorts de l'école de la Magie de l'Eau. Les sorts de cette école lancés par le Héros sont plus efficaces."	"{Maître en Magie de l'Eau}
 
-Le HÃ©ros dÃ©pense moins de points de magie pour lancer des sorts de l'Ã©cole de la Magie de l'Eau. Les sorts de cette Ã©cole lancÃ©s par le HÃ©ros sont d'une efficacitÃ© maximale."
+Le Héros dépense moins de points de magie pour lancer des sorts de l'école de la Magie de l'Eau. Les sorts de cette école lancés par le Héros sont d'une efficacité maximale."
 Magie de Terre	"{Novice en Magie de la Terre}
 
-Le HÃ©ros dÃ©pense moins de points de magie pour lancer des sorts de l'Ã©cole de la Magie de la Terre."	"{Disciple en Magie de la Terre}
+Le Héros dépense moins de points de magie pour lancer des sorts de l'école de la Magie de la Terre."	"{Disciple en Magie de la Terre}
 
-Le HÃ©ros dÃ©pense moins de points de magie pour lancer des sorts de l'Ã©cole de la Magie de la Terre. Les sorts de cette Ã©cole lancÃ©s par le HÃ©ros sont plus efficaces."	"{MaÃ®tre en Magie de la Terre}
+Le Héros dépense moins de points de magie pour lancer des sorts de l'école de la Magie de la Terre. Les sorts de cette école lancés par le Héros sont plus efficaces."	"{Maître en Magie de la Terre}
 
-Le HÃ©ros dÃ©pense moins de points de magie pour lancer des sorts de l'Ã©cole de la Magie de la Terre. Les sorts de cette Ã©cole lancÃ©s par le HÃ©ros sont d'une efficacitÃ© maximale."
-Ã‰rudition	"{Novice en Ã‰rudition}
+Le Héros dépense moins de points de magie pour lancer des sorts de l'école de la Magie de la Terre. Les sorts de cette école lancés par le Héros sont d'une efficacité maximale."
+Érudition	"{Novice en Érudition}
 
-Lorsque le HÃ©ros rencontre un HÃ©ros alliÃ©, il apprend les sorts de niveau 1 et 2 qu'il ne connaissait pas et inversement. Le livre des sorts du HÃ©ros est mis Ã  jour."	"{Disciple en Ã‰rudition}
+Lorsque le Héros rencontre un Héros allié, il apprend les sorts de niveau 1 et 2 qu'il ne connaissait pas et inversement. Le livre des sorts du Héros est mis à jour."	"{Disciple en Érudition}
 
-Lorsque le HÃ©ros rencontre un HÃ©ros alliÃ©, il apprend les sorts de niveau 1, 2 et 3 qu'il ne connaissait pas et inversement. Le livre des sorts du HÃ©ros est mis Ã  jour."	"{MaÃ®tre en Ã‰rudition}
+Lorsque le Héros rencontre un Héros allié, il apprend les sorts de niveau 1, 2 et 3 qu'il ne connaissait pas et inversement. Le livre des sorts du Héros est mis à jour."	"{Maître en Érudition}
 
-Lorsque le HÃ©ros rencontre un HÃ©ros alliÃ©, il apprend les sorts de niveau 1, 2, 3 et 4 qu'il ne connaissait pas et inversement. Le livre des sorts du HÃ©ros est mis Ã  jour."
+Lorsque le Héros rencontre un Héros allié, il apprend les sorts de niveau 1, 2, 3 et 4 qu'il ne connaissait pas et inversement. Le livre des sorts du Héros est mis à jour."
 Tactique	"{Novice en Tactique}
 
-Le HÃ©ros peut dÃ©ployer ses troupes dans les trois premiÃ¨res colonnes d'hexagones avant un combat. Annule un niveau de Tactique du HÃ©ros ennemi."	"{Disciple en Tactique}
+Le Héros peut déployer ses troupes dans les trois premières colonnes d'hexagones avant un combat. Annule un niveau de Tactique du Héros ennemi."	"{Disciple en Tactique}
 
-Le HÃ©ros peut dÃ©ployer ses troupes dans les cinq premiÃ¨res colonnes d'hexagones avant un combat. Annule deux niveaux de Tactique du HÃ©ros ennemi."	"{MaÃ®tre en Tactique}
+Le Héros peut déployer ses troupes dans les cinq premières colonnes d'hexagones avant un combat. Annule deux niveaux de Tactique du Héros ennemi."	"{Maître en Tactique}
 
-Le HÃ©ros peut dÃ©ployer ses troupes dans les sept premiÃ¨res colonnes d'hexagones avant un combat. Annule complÃ¨tement la Tactique du HÃ©ros ennemi."
+Le Héros peut déployer ses troupes dans les sept premières colonnes d'hexagones avant un combat. Annule complètement la Tactique du Héros ennemi."
 Artillerie	"{Novice en Artillerie}
 
-Le HÃ©ros dirige les tirs de la Baliste, du Canon, et des Tours fortifiÃ©es. Chacun des tirs a 50% de chances d'infliger le double des dÃ©gÃ¢ts. Le Canon cause en plus des dommages collatÃ©raux aux fortifications. Le Canon et la Baliste ne peuvent pas perdre plus de 40% de leurs points de vie en recevant une attaque."	"{Disciple en Artillerie}
+Le Héros dirige les tirs de la Baliste, du Canon, et des Tours fortifiées. Chacun des tirs a 50% de chances d'infliger le double des dégâts. Le Canon cause en plus des dommages collatéraux aux fortifications. Le Canon et la Baliste ne peuvent pas perdre plus de 40% de leurs points de vie en recevant une attaque."	"{Disciple en Artillerie}
 
-Le HÃ©ros dirige les tirs de la Baliste, du Canon, et des Tours fortifiÃ©es. Chacun des tirs a 75% de chances d'infliger le double des dÃ©gÃ¢ts. La Baliste tire 2 fois. Le Canon inflige le double des dÃ©gÃ¢ts et cause en plus des dommages collatÃ©raux aux fortifications. Le Canon et la Baliste ne peuvent pas perdre plus de 40% de leurs points de vie en recevant une attaque."	"{MaÃ®tre en Artillerie}
+Le Héros dirige les tirs de la Baliste, du Canon, et des Tours fortifiées. Chacun des tirs a 75% de chances d'infliger le double des dégâts. La Baliste tire 2 fois. Le Canon inflige le double des dégâts et cause en plus des dommages collatéraux aux fortifications. Le Canon et la Baliste ne peuvent pas perdre plus de 40% de leurs points de vie en recevant une attaque."	"{Maître en Artillerie}
 
-Le HÃ©ros dirige les tirs de la Baliste, du Canon, et des Tours fortifiÃ©es. La Baliste tire 2 fois et inflige le double des dÃ©gÃ¢ts. Le Canon inflige le triple des dÃ©gÃ¢ts et cause un maximum de dommages collatÃ©raux aux fortifications. Le Canon et la Baliste ne peuvent pas perdre plus de 40% de leurs points de vie en recevant une attaque."
+Le Héros dirige les tirs de la Baliste, du Canon, et des Tours fortifiées. La Baliste tire 2 fois et inflige le double des dégâts. Le Canon inflige le triple des dégâts et cause un maximum de dommages collatéraux aux fortifications. Le Canon et la Baliste ne peuvent pas perdre plus de 40% de leurs points de vie en recevant une attaque."
 Apprentissage	"{Novice en Apprentissage}
 
-Le HÃ©ros gagne 5% de points d'expÃ©rience supplÃ©mentaire."	"{Disciple en Apprentissage}
+Le Héros gagne 5% de points d'expérience supplémentaire."	"{Disciple en Apprentissage}
 
-Le HÃ©ros gagne 10% de points d'expÃ©rience supplÃ©mentaire."	"{MaÃ®tre en Apprentissage}
+Le Héros gagne 10% de points d'expérience supplémentaire."	"{Maître en Apprentissage}
 
-Le HÃ©ros gagne 15% de points d'expÃ©rience supplÃ©mentaire."
+Le Héros gagne 15% de points d'expérience supplémentaire."
 Adresse	"{Novice en Adresse}
 
-Au corps-Ã -corps, les troupes du HÃ©ros infligent 10% de dÃ©gÃ¢ts supplÃ©mentaires Ã  leur adversaire."	"{Disciple en Adresse}
+Au corps-à-corps, les troupes du Héros infligent 10% de dégâts supplémentaires à leur adversaire."	"{Disciple en Adresse}
 
-Au corps-Ã -corps, les troupes du HÃ©ros infligent 20% de dÃ©gÃ¢ts supplÃ©mentaires Ã  leur adversaire."	"{MaÃ®tre en Adresse}
+Au corps-à-corps, les troupes du Héros infligent 20% de dégâts supplémentaires à leur adversaire."	"{Maître en Adresse}
 
-Au corps-Ã -corps, les troupes du HÃ©ros infligent 30% de dÃ©gÃ¢ts supplÃ©mentaires Ã  leur adversaire."
+Au corps-à-corps, les troupes du Héros infligent 30% de dégâts supplémentaires à leur adversaire."
 Armurerie	"{Novice en Armurerie}
 
-Les dÃ©gÃ¢ts infligÃ©s aux troupes du HÃ©ros sont rÃ©duits de 5%."	"{Disciple en Armurerie}
+Les dégâts infligés aux troupes du Héros sont réduits de 5%."	"{Disciple en Armurerie}
 
-Les dÃ©gÃ¢ts infligÃ©s aux troupes du HÃ©ros sont rÃ©duits de 10%."	"{MaÃ®tre en Armurerie}
+Les dégâts infligés aux troupes du Héros sont réduits de 10%."	"{Maître en Armurerie}
 
-Les dÃ©gÃ¢ts infligÃ©s aux troupes du HÃ©ros sont rÃ©duits de 15%."
+Les dégâts infligés aux troupes du Héros sont réduits de 15%."
 Intelligence	"{Novice en Intelligence}
 
-Le nombre de points de magie du HÃ©ros est augmentÃ© de 20%."	"{Disciple en Intelligence}
+Le nombre de points de magie du Héros est augmenté de 20%."	"{Disciple en Intelligence}
 
-Le nombre de points de magie du HÃ©ros est augmentÃ© de 35%."	"{MaÃ®tre en Intelligence}
+Le nombre de points de magie du Héros est augmenté de 35%."	"{Maître en Intelligence}
 
-Le nombre de points de magie du HÃ©ros est augmentÃ© de 50%."
+Le nombre de points de magie du Héros est augmenté de 50%."
 Sorcellerie	"{Novice en Sorcellerie}
 
-Les sorts du HÃ©ros infligent 10% de dÃ©gÃ¢ts supplÃ©mentaires."	"{Disciple en Sorcellerie}
+Les sorts du Héros infligent 10% de dégâts supplémentaires."	"{Disciple en Sorcellerie}
 
-Les sorts du HÃ©ros infligent 20% de dÃ©gÃ¢ts supplÃ©mentaires."	"{MaÃ®tre en Sorcellerie}
+Les sorts du Héros infligent 20% de dégâts supplémentaires."	"{Maître en Sorcellerie}
 
-Les sorts du HÃ©ros infligent 30% de dÃ©gÃ¢ts supplÃ©mentaires."
-RÃ©sistance	"{Novice en RÃ©sistance}
+Les sorts du Héros infligent 30% de dégâts supplémentaires."
+Résistance	"{Novice en Résistance}
 
-Augmente vos chances de rÃ©sister Ã  un sort lancÃ© par l'ennemi de 5%."	"{Disciple en RÃ©sistance}
+Augmente vos chances de résister à un sort lancé par l'ennemi de 5%."	"{Disciple en Résistance}
 
-Augmente vos chances de rÃ©sister Ã  un sort lancÃ© par l'ennemi de 10%."	"{MaÃ®tre en RÃ©sistance}
+Augmente vos chances de résister à un sort lancé par l'ennemi de 10%."	"{Maître en Résistance}
 
-Augmente vos chances de rÃ©sister Ã  un sort lancÃ© par l'ennemi de 20%."."
-MÃ©decine	"{Novice en MÃ©decine}
+Augmente vos chances de résister à un sort lancé par l'ennemi de 20%."."
+Médecine	"{Novice en Médecine}
 
-Le HÃ©ros contrÃ´le le Dispensaire. La premiÃ¨re crÃ©ature dans la troupe sÃ©lectionnÃ©e rÃ©cupÃ¨re entre 40 et 50 points de vie et donne +5% de points de vie maximum Ã  toutes les crÃ©atures alliÃ©es. Le Dispensaire ne peut pas perdre plus de 40% de ses points de vie en recevant une attaque."	"{Disciple en MÃ©decine}
+Le Héros contrôle le Dispensaire. La première créature dans la troupe sélectionnée récupère entre 40 et 50 points de vie et donne +5% de points de vie maximum à toutes les créatures alliées. Le Dispensaire ne peut pas perdre plus de 40% de ses points de vie en recevant une attaque."	"{Disciple en Médecine}
 
-Le HÃ©ros contrÃ´le le Dispensaire. La premiÃ¨re crÃ©ature dans la troupe sÃ©lectionnÃ©e rÃ©cupÃ¨re entre 60 et 75 points de vie et donne +10% de points de vie maximum Ã  toutes les crÃ©atures alliÃ©es. Le Dispensaire ne peut pas perdre plus de 40% de ses points de vie en recevant une attaque."	"{MaÃ®tre en MÃ©decine}
+Le Héros contrôle le Dispensaire. La première créature dans la troupe sélectionnée récupère entre 60 et 75 points de vie et donne +10% de points de vie maximum à toutes les créatures alliées. Le Dispensaire ne peut pas perdre plus de 40% de ses points de vie en recevant une attaque."	"{Maître en Médecine}
 
-Le HÃ©ros contrÃ´le le Dispensaire. La premiÃ¨re crÃ©ature dans la troupe sÃ©lectionnÃ©e rÃ©cupÃ¨re entre 80 et 100 points de vie et donne +15% de points de vie maximum Ã  toutes les crÃ©atures alliÃ©es. Le Dispensaire ne peut pas perdre plus de 40% de ses points de vie en recevant une attaque."
+Le Héros contrôle le Dispensaire. La première créature dans la troupe sélectionnée récupère entre 80 et 100 points de vie et donne +15% de points de vie maximum à toutes les créatures alliées. Le Dispensaire ne peut pas perdre plus de 40% de ses points de vie en recevant une attaque."

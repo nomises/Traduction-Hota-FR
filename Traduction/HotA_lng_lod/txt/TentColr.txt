@@ -1,8 +1,8 @@
-Bleu pâle
+Bleu clair
 Vert
 Rouge
-Bleu foncé
+Bleu sombre
 Brun
 Violet
 Blanc
-Noir 
+Noir
