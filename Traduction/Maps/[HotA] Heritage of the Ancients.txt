@@ -144,7 +144,7 @@ Message:
 
 (19, 25, 0) ***Seer's Hut***
 Message:
-Je suis arrivé ici en tant que représentant du Cercle des Druides. Je souhaite étudier les créatures qui se sont installées dans le Tombeau. Qui sait comment un tel habitat a pu les influencer ? Apportez-moi assez de spécimens pour mes recherches, et je vous donnerai un parchemin magique vous permettant de voyager sur les terres comme sur les mers.
+Je suis arrivé ici en tant que représentant du Cercle des Druides. Je souhaite étudier les créatures qui se sont installées dans le Tombeau. Qui sait comment un tel habitat a pu les influencer ? Apportez-moi assez de spécimens pour mes recherches, et je vous donnerai un parchemin magique vous permettant de voyager sur la mer comme sur la terre.
 Non, il me faut davantage de créatures pour mes recherches. Revenez quand vous en aurez assez.
 Je n'aurais jamais cru devoir étudier des Momies comme un nécromancien immonde ! Mais la connaissance a un prix. Je n'ai pas oublié votre récompense... Prenez-la.	Voulez-vous accepter le parchemin magique du druide ?
 
