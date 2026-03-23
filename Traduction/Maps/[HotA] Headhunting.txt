@@ -1,8 +1,8 @@
 ===== Map name =====
-Headhunting
+Chasse à l'homme
 
 ===== Map description =====
-You are undoubtedly in trouble if, carrying a valuable artifact, you find yourself surrounded by mercenary bands, and even more so if you have but a handful of troops to protect you. However, there is always a chance.
+Dans l'éventualité où, alors que vous transportez un artefact de grande valeur, vous vous retrouvez encerclé par des mercenaires, et que, pour ne rien arranger, vous ne disposez que d'une poignée de troupes pour vous défendre... vous êtes dans de sales draps. Malgré tout, il reste une chance.
 
 ===== Rumors =====
 
@@ -11,7 +11,7 @@ You are undoubtedly in trouble if, carrying a valuable artifact, you find yourse
 Name:
 Player - 1-1
 Message:
-   Not so long ago, you were enjoying a peaceful life in your manor, but it all changed after a risky venture. Now, following a series of unfortunate events, you have only one chance left to bring those days back. This chance lies in using a valuable artifact called the Sphere of Permanence to escape through a portal that leads to another continent. You had to steal this artifact from the imperial sorcerers. The bounty put on your head is exorbitant. Not only the imperial troops and mercenaries are yearning for it, but also the best enchanters and druids. You are within an inch of your life, as hordes of mercenaries have taken control of these lands and are preparing their assault. The portal that could save you is still far off, and precious few of your companions are still standing: some were killed, others captured. Trapped at the edge of the world, you decide to fight your chasers.
+Il y a peu, vous profitiez d'une vie tranquille dans votre manoir, mais une aventure périlleuse a tout changé. Après une série de malencontreux évènements, vous avez maintenant l'unique possibilité de retrouver votre ancienne vie. Cette opportunité vous est permise grâce à la Sphère d'Immanence, un artéfact inestimable, permettant votre fuite à travers un portail vers à un autre continent. Vous l'avez dérobé aux sorciers impériaux qui ont mis une prime exorbitante sur votre tête. Non seulement les troupes impériales et les mercenaires la convoitent, mais également les druides et les meilleurs enchanteurs. Votre vie ne tient qu'à un fil, tout ce beau monde a pris le contrôle des terres alentours et prépare son assaut. Le portail qui pourrait vous sauver est encore loin, et rares sont vos compagnons : certains ont été tués, d'autres capturés. Acculé aux confins du monde, vous décidez d'affronter vos poursuivants.
 
 Name:
 AI - Bonus gems
@@ -21,17 +21,17 @@ Message:
 Name:
 Player Altera - Start
 Message:
-You have some stocks left...
+Vous avez quelques réserves...
 
 Name:
 Player 3-1
 Message:
-Your scouts report that the mercenary bands can't agree on a truce, so they will hinder each other. Perhaps you can bribe some of them. Now you also have information about the status of all local shipyards.
+Vos éclaireurs rapportent que les bandes de mercenaires ne parviennent pas à s'entendre sur une trêve, leur désunion pourrait jouer en votre faveur... Peut-être pourriez-vous acheter certains d'entre eux ? Vous disposez également d'informations sur l'état de tous les chantiers navals locaux.
 
 Name:
 Player 7-1
 Message:
-You've found a source of magical energy emanating from underground. This aura must mark the ritual site in the underground town of Eaglyre. Unfortunately, your enemies had found the portal first and sealed it with a multi-component key. To get the key, you'll need to "politely" ask them for its parts.
+Vous avez détecté une source d'énergie magique émanant des souterrains. Cette aura doit marquer l'emplacement du site rituel dans la cité souterraine d'Eaglyre. Malheureusement, vos ennemis ont découvert le portail les premiers et l'ont scellé à l'aide de plusieurs clés. Pour les obtenir vous pouvez leur demander "poliment" de vous les céder.
 
 ===== Heroes =====
 
@@ -41,7 +41,7 @@ You've found a source of magical energy emanating from underground. This aura mu
 Name:
 Altera
 Biography:
-Altera was an up-and-coming imperial mage of fire. One day, her luck ran out. After failing to complete a mission, she was accused of working for the enemy. Now, Altera must flee from her pursuers and hope to find a place to hide, as the Empire is very harsh on traitors.
+Altera était une prometteuse mage de feu impériale. Mais un jour, sa chance a tourné. Après l'échec d'une mission, elle fut accusée de travailler pour l'ennemi. Désormais, Altera doit fuir ses poursuivants et espérer trouver une cachette, car l'Empire ne se montre pas tendre envers les traîtres.
 
 (61, 6, 0) ***Rampart***
 
@@ -129,7 +129,7 @@ Message:
 
 (19, 47, 0) ***Event***
 Message:
-Enchanters!
+Enchanteurs !
 
 (37, 29, 0) ***Pandora's Box***
 Message:
@@ -137,39 +137,39 @@ Message:
 
 (11, 43, 0) ***Event***
 Message:
-Enchanters! 
+Enchanteurs !
 
 (8, 39, 0) ***Event***
 Message:
-Enchanters!
+Enchanteurs !
 
 (21, 41, 0) ***Event***
 Message:
-Enchanters!
+Enchanteurs !
 
 (4, 47, 0) ***Event***
 Message:
-Enchanters! 
+Enchanteurs !
 
 (16, 24, 0) ***Event***
 Message:
-Enchanters!
+Enchanteurs !
 
 (12, 49, 0) ***Event***
 Message:
-Enchanters! 
+Enchanteurs !
 
 (4, 41, 0) ***Event***
 Message:
-Enchanters! 
+Enchanteurs !
 
 (6, 33, 0) ***Event***
 Message:
-Enchanters!
+Enchanteurs !
 
 (10, 28, 0) ***Event***
 Message:
-Enchanters!
+Enchanteurs !
 
 (49, 13, 0) ***Event***
 Message:
@@ -213,11 +213,11 @@ Message:
 
 (21, 38, 0) ***Event***
 Message:
-Beware! Local druids are surely just waiting for you to step beyond the anti-magic gates.
+Méfiez-vous ! Les druides locaux n'attendent qu'une chose : que vous franchissiez les portes anti-magie.
 
 (68, 0, 1) ***Seer's Hut***
 Message:
-I have something, but for Altera only, and no one else.
+J'ai quelque chose... mais seulement pour Altera. Personne d'autre. 
 
 (5, 39, 1) ***Pandora's Box***
 Message:
@@ -233,23 +233,23 @@ Message:
 
 (18, 14, 1) ***Quest Guard***
 Message:
-Here, you can set up a {raid} on one of your enemies: {orange, green or purple}, for a fee. To do this, open the way to the portal of the desired color. But remember: mercenaries want gold, and even after the raid, you may have to face them in battle.
-Here, you can set up a {raid} on one of your enemies: {orange, green or purple}, for a fee. To do this, open the way to the portal of the desired color. But remember: mercenaries want gold, and even after the raid, you may have to face them in battle.
+Ici, vous pouvez organiser un {raid}  contre l'un de vos ennemis: {orange, vert ou mauve}, moyennant finances. Pour ce faire, ouvrez la voie vers le portail de la couleur souhaitée. Mais souvenez-vous : les mercenaires aiment l'or, et même après le raid, vous devrez peut-être les affronter au combat.
+Ici, vous pouvez organiser un {raid}  contre l'un de vos ennemis: {orange, vert ou mauve}, moyennant finances. Pour ce faire, ouvrez la voie vers le portail de la couleur souhaitée. Mais souvenez-vous : les mercenaires aiment l'or, et même après le raid, vous devrez peut-être les affronter au combat.
 
 (18, 24, 1) ***Quest Guard***
 Message:
-Here, you can set up a {raid} on one of your enemies: {orange, green or purple}, for a fee. To do this, open the way to the portal of the desired color. But remember: mercenaries want gold, and even after the raid, you may have to face them in battle.
-Here, you can set up a {raid} on one of your enemies: {orange, green or purple}, for a fee. To do this, open the way to the portal of the desired color. But remember: mercenaries want gold, and even after the raid, you may have to face them in battle.
+Ici, vous pouvez organiser un {raid}  contre l'un de vos ennemis: {orange, vert ou mauve}, moyennant finances. Pour ce faire, ouvrez la voie vers le portail de la couleur souhaitée. Mais souvenez-vous : les mercenaires aiment l'or, et même après le raid, vous devrez peut-être les affronter au combat.
+Ici, vous pouvez organiser un {raid}  contre l'un de vos ennemis: {orange, vert ou mauve}, moyennant finances. Pour ce faire, ouvrez la voie vers le portail de la couleur souhaitée. Mais souvenez-vous : les mercenaires aiment l'or, et même après le raid, vous devrez peut-être les affronter au combat.
 
 (11, 24, 1) ***Quest Guard***
 Message:
-Here, you can set up a {raid} on one of your enemies: {orange, green or purple}, for a fee. To do this, open the way to the portal of the desired color. But remember: mercenaries want gold, and even after the raid, you may have to face them in battle.
-Here, you can set up a {raid} on one of your enemies: {orange, green or purple}, for a fee. To do this, open the way to the portal of the desired color. But remember: mercenaries want gold, and even after the raid, you may have to face them in battle.
+Ici, vous pouvez organiser un {raid}  contre l'un de vos ennemis: {orange, vert ou mauve}, moyennant finances. Pour ce faire, ouvrez la voie vers le portail de la couleur souhaitée. Mais souvenez-vous : les mercenaires aiment l'or, et même après le raid, vous devrez peut-être les affronter au combat.
+Ici, vous pouvez organiser un {raid}  contre l'un de vos ennemis: {orange, vert ou mauve}, moyennant finances. Pour ce faire, ouvrez la voie vers le portail de la couleur souhaitée. Mais souvenez-vous : les mercenaires aiment l'or, et même après le raid, vous devrez peut-être les affronter au combat.
 
 (11, 14, 1) ***Quest Guard***
 Message:
-Here, you can set up a {raid} on one of your enemies: {orange, green or purple}, for a fee. To do this, open the way to the portal of the desired color. But remember: mercenaries want gold, and even after the raid, you may have to face them in battle.
-Here, you can set up a {raid} on one of your enemies: {orange, green or purple}, for a fee. To do this, open the way to the portal of the desired color. But remember: mercenaries want gold, and even after the raid, you may have to face them in battle.
+Ici, vous pouvez organiser un {raid}  contre l'un de vos ennemis: {orange, vert ou mauve}, moyennant finances. Pour ce faire, ouvrez la voie vers le portail de la couleur souhaitée. Mais souvenez-vous : les mercenaires aiment l'or, et même après le raid, vous devrez peut-être les affronter au combat.
+Ici, vous pouvez organiser un {raid}  contre l'un de vos ennemis: {orange, vert ou mauve}, moyennant finances. Pour ce faire, ouvrez la voie vers le portail de la couleur souhaitée. Mais souvenez-vous : les mercenaires aiment l'or, et même après le raid, vous devrez peut-être les affronter au combat.
 
 (28, 1, 1) ***Pandora's Box***
 Message:
@@ -309,7 +309,7 @@ LetMeFly
 
 (69, 27, 1) ***Pandora's Box***
 Message:
-Fairy box
+Boîte des fées
 
 (22, 22, 1) ***Event***
 Message:
@@ -329,11 +329,11 @@ Message:
 
 (0, 3, 1) ***Spell Scroll***
 Message:
-sibasa
+Sibasa
 
 (13, 17, 1) ***Sign***
 Message:
-Raiding anywhere at any time for your money.
+Raids à tout moment, pour qui paie assez.
 
 (66, 46, 1) ***Warlock***
 Name:

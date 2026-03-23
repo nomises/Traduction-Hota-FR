@@ -1,8 +1,8 @@
 ===== Map name =====
-Beltway
+La Ceinture
 
 ===== Map description =====
-The enchanted lake and the valley it lies in were surrounded by mountains and impenetrable forests. Now, the armies of three lords who live on the lake's shores are advancing through the new clearings. If they are not stopped, they will seize the lands that are up for the taking.
+La vallée où reposait le lac enchanté était ceinturée de montagnes et de forêts impénétrables. Mais désormais, les armées de trois seigneurs établis sur ses rives progressent à travers de nouveaux dégagements. Si rien ne les arrête, ils s'empareront de ces terres.
 
 ===== Rumors =====
 
@@ -11,17 +11,17 @@ The enchanted lake and the valley it lies in were surrounded by mountains and im
 Name:
 Start
 Message:
-The path leading from the Lake Valley has become passable. Now we can conquer the surrounding lands... But things are not that simple. If the way is open for you, then it is equally open for your neighbors, the two lords. This means you'll have to fight for the right to conquer. The assistant you hired is ready to move out.
+Le passage depuis la Vallée du Lac est désormais ouvert. Nous pouvons enfin conquérir les terres alentour... mais la victoire ne sera pas facile. Si cette route nous est ouverte, elle l'est aussi pour nos voisins, les deux seigneurs. Il faudra donc en découdre pour revendiquer ces terres. Notre assistant est prêt à entrer en action.
 
 Name:
 Start - Underground
 Message:
-While the lords on the surface are busy fighting among themselves, it's time to seize the caves beneath the lake and move to the surface. These gapers will be surprised when your army appears before them...
+Tandis que les seigneurs de la surface sont occupés à se battre entre eux, le moment est venu de nous emparer des grottes sous le lac et de remonter à la surface. Ces benêts seront bien surpris lorsque notre armée apparaîtra devant eux...
 
 Name:
 Underground Lord
 Message:
-A scout has arrived. He reports that someone has activated the portals leading to the dungeons. It seems that another lord has taken up residence there, and he would not mind a piece of your fight, only to claim all the resources for himself.
+Un éclaireur est arrivé. D'après son rapport, quelqu'un a activé les portails menant aux donjons. Un autre seigneur s'y serait installé, bien décidé à se joindre à la bataille... uniquement pour rafler toutes les ressources à son profit.
 
 Name:
 Computer Help
@@ -37,34 +37,34 @@ Message:
 Timed events:
 
 Name:
-�������
+Стройка
 Message:
 
 
 (13, 71, 0) ***Ocean Bottle***
 Message:
-Beware the edge of the world!
+Gare aux confins du monde !
 
 (12, 0, 0) ***Ocean Bottle***
 Message:
-Look around!
+Jetez un oeil !
 
 (3, 18, 0) ***Seer's Hut***
 Message:
-Among the evil-doers and ruthless scoundrels who command pirate frigates, there is one upstanding fellow, Bidley by name. I am an old man, and before heading out on my last voyage, I would like to see him.
-You are not Bidley. I haven't seen that rascal in a long time, and I want to give him my last firm handshake. However, if he doesn't come here soon, I'll have to keep the gift I prepared for him and sail away.
-Bidley! My old friend! So many years, so many storms since our last meeting! Remember how our united fleet had gotten surrounded? Few survived that mess... Anyway, let's get down to business. During one of my voyages, I came across the magic-imbued Golden Bow. I won't need it where I'm going, while you'll surely find it useful. It doesn't matter that it's a bow and has nothing to do with cannons or pistols. When I held it in my hands, my crew would hit any target square from hundreds of yards away, knocking tricorns off some very highly esteemed captains. Well, now it's time to have some rum and reminisce about the old days!
+Parmi les malfrats et les coquins sans pitié qui commandent les frégates pirates, il en est un d'honnête, un certain Bidley. Je suis un vieux loup de mer, et avant de partir pour mon dernier voyage, j'aimerais le revoir.
+Vous n'êtes pas Bidley. Cela fait longtemps que je n'ai pas vu ce bougre, et j'aimerais lui serrer la main une dernière fois avant de lever l'ancre. Mais s'il ne vient pas bientôt, je garderai le cadeau que je lui destinais et partirai.
+Bidley ! Mon vieil ami ! Tant d'années, tant de tempêtes depuis notre dernière rencontre ! Te souviens-tu de cette fois où nos flottes se sont retrouvées encerclées ? Peu en sont sortis vivants... Bref, passons aux choses sérieuses. Lors d'un de mes voyages, j'ai découvert l'Arc de Midas. Il ne me servira plus là où je vais, mais toi, il te sera utile. Peu importe qu'il s'agisse d'un arc et non d'un canon ou d'un pistolet. Quand je le tenais, mon équipage atteignait n'importe quelle cible à des centaines de mètres, faisant voler les tricornes de capitaines fort respectés. Allons, trinquons et évoquons le bon vieux temps !
 
 (10, 66, 0) ***Event***
 Message:
-It seems a treasure is buried here!
+On dirait qu'il y a un trésor enterré ici !
 
 (46, 41, 0) ***Random Town***
 
 Timed events:
 
 Name:
-�������
+Стройка
 Message:
 
 
@@ -73,20 +73,20 @@ Message:
 Timed events:
 
 Name:
-�������
+Стройка
 Message:
 
 
 (7, 28, 0) ***Event***
 Message:
-The lid of a chest is sticking out of the sand. It seems that someone wanted to bury some treasure here but got stopped halfway...
+Un coffre dépasse du sable. Quelqu'un a tenté d'y enterrer un trésor, mais qu'il a été interrompu en chemin...
 
 (36, 34, 1) ***Random Town***
 
 Timed events:
 
 Name:
-�������
+Стройка
 Message:
 
 

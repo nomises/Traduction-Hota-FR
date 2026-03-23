@@ -9,27 +9,27 @@ The alliance between the lords was very unstable. The knights, barbarians, and s
 ===== Timed events =====
 
 Name:
-Старт
+РЎС‚Р°СЂС‚
 Message:
 For a while, you have been a part of an alliance between knights, elves, barbarians, artificers, pirates, and swamp dwellers. Recently, some arrogant wizards arrived, and they are already making your life muserable. Their intrigues have shattered the already fragile alliance, and now they are trying to extort money from you. You are fed up with this situation and are determined to wipe out both your former allies and the racketeering wizards.
 
 Name:
-Маги выманивают деньги - Неудача
+РњР°РіРё РІС‹РјР°РЅРёРІР°СЋС‚ РґРµРЅСЊРіРё - РќРµСѓРґР°С‡Р°
 Message:
 The wizards came to you and demanded gold, citing an alleged obligation once taken by your ancestor to pay for the use of magic. However, as soon as your guardsmen drew their swords, the wizards retreated towards the exit. Before they left, your men took everything they had on them, including the gold they had earlier coerced out of other lords. The money went into your own coffers.
 
 Name:
-Помощь компу
+РџРѕРјРѕС‰СЊ РєРѕРјРїСѓ
 Message:
 
 
 Name:
-Маги выманивают деньги
+РњР°РіРё РІС‹РјР°РЅРёРІР°СЋС‚ РґРµРЅСЊРіРё
 Message:
 The wizards returned, but this time they came protected by golems. Seems as though they are learning from their mistakes...		You had to yield some gold to them.
 
 Name:
-Золото у магов
+Р—РѕР»РѕС‚Рѕ Сѓ РјР°РіРѕРІ
 Message:
 
 
@@ -42,7 +42,7 @@ Message:
 Timed events:
 
 Name:
-Стройка компу
+РЎС‚СЂРѕР№РєР° РєРѕРјРїСѓ
 Message:
 
 
@@ -51,7 +51,7 @@ Message:
 Timed events:
 
 Name:
-Стройка компу
+РЎС‚СЂРѕР№РєР° РєРѕРјРїСѓ
 Message:
 
 
@@ -60,7 +60,7 @@ Message:
 Timed events:
 
 Name:
-Стройка компу
+РЎС‚СЂРѕР№РєР° РєРѕРјРїСѓ
 Message:
 
 
@@ -69,7 +69,7 @@ Message:
 Timed events:
 
 Name:
-Стройка компу
+РЎС‚СЂРѕР№РєР° РєРѕРјРїСѓ
 Message:
 
 
@@ -78,7 +78,7 @@ Message:
 Timed events:
 
 Name:
-Стройка компу
+РЎС‚СЂРѕР№РєР° РєРѕРјРїСѓ
 Message:
 
 
@@ -87,7 +87,7 @@ Message:
 Timed events:
 
 Name:
-Стройка компу
+РЎС‚СЂРѕР№РєР° РєРѕРјРїСѓ
 Message:
 
 
@@ -96,7 +96,7 @@ Message:
 Timed events:
 
 Name:
-Стройка компу
+РЎС‚СЂРѕР№РєР° РєРѕРјРїСѓ
 Message:
 
 

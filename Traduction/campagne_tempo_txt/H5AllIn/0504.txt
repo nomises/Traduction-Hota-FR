@@ -1,0 +1,296 @@
+===== Map name =====
+Au coeur des Morts-Vivants
+
+===== Map description =====
+Pour gagner, Dargem doit s'emparer du château de Doom. Le niveau des héros est limité à 32. Après avoir remporté la victoire, Dargem passera au scénario final de la campagne, en conservant toutes ses compétences et tous ses sorts.
+
+===== Rumors =====
+
+Name:
+Kastore
+Text:
+On dit que Kastore est tellement passionné par les mécanismes maintenant qu'il a définitivement abandonné la nécromancie !
+
+Name:
+Maximus
+Text:
+Maximus devint le chef des gobelins et des orques qui étaient restés à Deyja.
+
+Name:
+Goblin Women
+Text:
+Les gobelins de Deyja ont des femmes plus jolies que les elfes ! Le saviez-vous ?
+
+Name:
+Flying Minotaurs
+Text:
+Pouvez-vous imaginer des minotaures qui volent ? C'est complètement dingue !
+
+===== Timed events =====
+
+Name:
+ƒ??? 1
+Message:
+Journal de Dargem. Entrée 281        « Je reçois rarement des invités, mais pour Stella, j'étais heureux de faire une exception. Nous nous sommes assis dans mon salon. De l'extérieur, mon appartement passe parfaitement inaperçu, mais l'intérieur est tout autre chose. Il y a beaucoup à voir ; j'avais apporté la plupart des objets ici depuis Nighon, et les plus récents provenaient de mes voyages. Parfois, je plaisante en appelant mon salon le « musée de Dargem », ce qui impressionne généralement mes invités, en particulier les femmes, aussi rares soient-elles. Cependant, Stella ne semblait pas prêter beaucoup d'attention aux décorations de mon logement.        « Je pense qu'il est grand temps que vous rencontriez mes maîtres, Messire Dargem », dit-elle d'un ton enjoué. « Si cela ne vous dérange pas, bien sûr. »		« Pas du tout », répondis-je. Il fit plus froid pendant un instant, puis l'air frémit et une fenêtre apparut à côté de nous, suspendue en plein milieu de la pièce. Une femme plutôt séduisante me regardait de l'autre côté. Elle semblait avoir la trentaine, mais je savais qu'il ne fallait pas se fier à l'âge apparent des femmes capables d'utiliser la magie.		« Je m'appelle Casmetra. Je représente la guilde des sorcières de Noraston », annonça-t-elle.		Je me levai et m'inclinai. « Dargem Llywellyn. Vous connaissez certainement déjà mon nom. »		« En effet », acquiesça la sorcière avec bienveillance. « J'ai l'intention de discuter du sujet principal qui nous occupe, Messire Dargem. Mon assistante ne vous a pas encore mis au courant, n'est-ce pas ? »		« Hélas ! Tout ce que je sais, c'est que vous êtes à la recherche de la Corne des Abysses », répondis-je avec culpabilité.		« Je vois », dit Casmetra en s'affalant dans un fauteuil de son côté de la fenêtre magique. Je fis de même. L'enchanteresse m'étudia attentivement, comme si j'étais une curiosité. Stella, quant à elle, resta assise là, souriante, regardant tour à tour sa maîtresse et moi.		« Notre guilde recherche des artefacts rares », dit Casmetra doucement. « J'ai été chargée d'organiser une expédition pour trouver la Corne des Abysses... »		« La Cour royale d'Ironfist ne pourrait-elle pas vous aider ? Je sais que Noraston est un allié fidèle de la Couronne », dis-je.		« Malheureusement, non ! Depuis l'invasion des Kreegans, ils se soucient très peu de nos recherches, nous ne pouvons donc compter que sur nos propres ressources. Vous nous avez rendu un grand service en nous aidant à construire une flotte. Bientôt, les meilleurs artisans auront terminé leur travail sur les navires, et nous mettrons le cap vers la Corne. Il y a cependant une mise en garde, dit Casmetra d'un ton agacé. L'emplacement de la chambre forte contenant l'artefact n'est pas clair. Nous connaissons plusieurs endroits possibles et sommes presque certains que l'un d'entre eux est le bon, mais nous n'avons ni les ressources humaines ni le temps nécessaires pour vérifier chacune des options. Nous avons besoin d'une source d'informations fiable.		« Comme quoi ? » demandai-je avec méfiance.		« La bibliothèque de Gavin Magnus » répondit la sorcière avec un rictus.		« Pardon ?  » Je pâlis.		« Une plaisanterie. Cela serait certainement un expédition pour des siècles, mais nous ne sommes pas à la hauteur de la tâche. Il ne reste donc qu'une seule option : la bibliothèque d'Archibald Ironfist. Kastore, le nouveau souverain de Deyja, a ordonné qu'elle soit transportée au château de Doom, le dépôt central des livres du pays. Dites-moi, monsieur, que diriez-vous de partir en quête dans le pays des nécromanciens ? » 
+
+Name:
+ƒ??? 1.5
+Message:
+Journal de Dargem. Entrée 282        « L'idée aurait été complètement folle si la chance ne m'avait pas souri. Gunnar, le minotaure envoyé par Tor pour me tuer. La brute cornue a compris que sa mission avait échoué et a envoyé un messager avec une offre de négociation. Nous nous sommes rencontrés près d'un village elfique incendié. L'endroit semblait avoir été autrefois un grand centre de production de vin, et à en juger par l'odeur forte que dégageait le minotaure à une dizaine de pas, il était réticent à laisser le fruit de ce travail se perdre.        « Tuez-moi », dit l'énorme créature.        « Pourquoi voudrais-je vous tuer ? » Je haussai les épaules.        « J'ai failli à ma tâche, mon seigneur... Je suis déshonoré. »        « Pour autant que je sache, il ne vous a jamais demandé ma tête. Retourne lui dire que tu m'as éliminé, dis-je calmement au minotaure, et je vous donnerai un de mes effets personnels comme preuve. »		« Pourquoi feriez-vous cela ? Que mijotez-vous ? » rugit Gunnar en essayant de hausser les sourcils.        « Vous et vos sbires pouvez me rendre service. Aidons-nous mutuellement et séparons-nous en deux hommes satisfaits. »        « Rusé », dit le minotaure. « Que voulez-vous ? »        « Je dois aller à Deyja. Prendre leur dépôt de livres. Y a-t-il des tunnels praticables qui mènent là-bas ? »       « Bien sûr. Vous êtes un Nighonien, vous devriez le savoir aussi bien que moi : il y a des tunnels qui mènent partout », répondit le minotaure en esquissant un sourire, autant qu'un taureau peut en faire.       Il tendit une énorme patte velue, et nous nous serrâmes la main.
+
+Name:
+ƒ??? 2
+Message:
+Journal de Dargem. Entrée 283        « Cela faisait longtemps que je n'avais pas mené d'opérations souterraines... et cela m'était cher. J'ai installé mon campement près de chez Gunnar. Il y avait là de vieux tunnels, creusés par Dieu sait qui et quand, et très probablement infestés de créatures anciennes et dangereuses.        Nous devions nous attendre à une résistance farouche de la part des nécromanciens, mais la Corne des Abysses en valait vraiment la peine. »
+
+Name:
+ƒ??? 3
+Message:
+Journal de Dargem. Entrée 284        « Les éclaireurs rapportent que les nécromanciens connaissent l'existence de ces tunnels et ont posté des gardes. C'est une mauvaise nouvelle : ils vont essayer de nous retenir pendant qu'ils renforcent leurs forces à la surface.         En plus de cela, un troglodyte a rapporté un mot qu'il a trouvé quelque part dans le donjon. Il est fort probable que quelqu'un l'ait placée là intentionnellement, sachant que tôt ou tard, nous la trouverions.         La note disait :        « Je ne sais pas qui vous êtes ni pour qui vous travaillez, mais je peux émettre une hypothèse. Je dois admettre que c'était une idée assez astucieuse de sortir de terre en plein milieu de notre pays, mais nous ne sommes pas aussi imprudents que les Erathiens pour nous laisser surprendre par une telle ruse. Si vous ne voulez pas devenir des morts-vivants, vous allez maintenant partir d'ici de votre plein gré et emmener votre bande de voyous et de monstres avec vous. Je m'appelle Maximus, conseiller de Kastore, roi de Deyja, et chef militaire ici, et je ne vous permettrai pas de piétiner cette terre plus longtemps. Vivants. »
+
+Name:
+ƒ??? 7
+Message:
+Journal de Dargem. Entrée 285        « La Corne des Abysses... Cet artefact est considéré comme un mythe. Pour les pirates, cette Corne est l'équivalent du Saint Graal des Chevaliers. Tout le monde sait qu'elle existe et qu'elle vaut la peine d'être recherchée, mais personne ne possède d'informations précises ou confirmées sur son emplacement ou son utilité. Si Lady Casmetra a raison, j'aurai alors une occasion inestimable de toucher cette merveille... mais cela me déprime de penser à donner un objet aussi unique à un couvent... à Noraston, en l'occurrence. Je ne verrais aucun inconvénient à le garder pour moi ! Après tous les efforts que j'ai déployés, il ne serait tout simplement pas juste que Casmetra mette la main dessus. Je ne crois pas vraiment que la Corne, si elle existe bel et bien, détienne des pouvoirs mystérieux, mais beaucoup à Regna y croient... alors si je l'apporte là-bas, je pourrai organiser une vente aux enchères et remporter un jackpot plus important que Silverflint lui-même, le plus grand aventurier de Regna, n'aurait jamais osé rêver ! Bon, reprends-toi, mon vieux. La Corne n'est pas encore à notre portée, alors mieux vaut se concentrer sur des questions plus urgentes. 
+
+Name:
+ƒ??? 10
+Message:
+Journal de Dargem. Entrée 286        « À part les morts-vivants et les gobelins, il est rare de voir autre chose à la surface de Deyja. On aperçoit parfois des Harpies sauvages, mais ces rats ailés semblent abonder partout où l'on trouve des rats ordinaires. Donc, à peu près partout. Gunnar pourrait peut-être persuader certains d'entre eux de rejoindre ses rangs. »
+
+Name:
+ƒ??? 12 - v?????
+Message:
+Extrait d'une lettre de Gunnar, envoyée mais jamais reçue après avoir été jetée par une harpie ivre dans les eaux du détroit de Nighon :        Cher Maître Anwyn,        J'ai le plaisir de vous informer que votre mission est presque (barré) à 90 % (tache) 10 % (tache) 100 % terminée !        Tout s'est déroulé exactement comme vous l'aviez ordonné, jusqu'à la dernière minute de votre plan ! Je me suis juste un peu perdu dans le labyrinthe (barré) fatigué, alors excusez-moi pour mon écriture brouillonne. Je jure sur mes cornes et sur la marque que mon grand-père a apposée sur le cul (barré) la cuisse du plus grand Dragon Noir de tout Nighon : votre petit problème avec un certain Dargem est presque résolu ! Ma simple (barré si énergiquement que le papier s'est déchiré et que l'ancien texte est devenu illisible) apparition et votre nom sur mes lèvres l'ont fait s'évanouir. Et voici le problème : lorsqu'il s'est évanoui, il est tombé dans une fissure qui menait au niveau inférieur des tunnels où je l'ai rencontré. Je vais maintenant devoir le repêcher, car j'ai promis de vous apporter la preuve du travail accompli. Cela va prendre un certain temps.        Bien à vous, votre fidèle Gunnar. »
+
+Name:
+ƒ??? 14
+Message:
+Journal de Dargem. Entrée 287        « Les profondeurs de la mer abritent d'effroyables créatures carnivores qui ressemblent à des serpents géants. Les pêcheurs les appellent « anguilles », mais leur nom correct est « Haspids ».         Ces Haspids passent la plupart de leur temps au fond de la mer, cachés dans des terriers et les coques des navires coulés. Ce n'est que pendant la période de reproduction et de chasse qu'ils remontent à la surface, représentant alors une grande menace pour les marins. Un Haspid adulte peut avaler une jeune baleine entière. Comparé à cela, l'équipage d'un navire tout entier n'est qu'un simple en-cas ! La bonne nouvelle, c'est que ces colosses des mers n'ont pas besoin de se nourrir souvent. Une poignée de Mages et de Belluaires sophistiquées savent comment apprivoiser les Haspides, mais seuls les seigneurs pirates les plus riches et les plus puissants peuvent s'offrir leurs services. Cela n'a rien de surprenant en soi ; les Dragons Noirs de Nighon ne sont pas moins dangereux, mais cela n'a jamais empêché les Démonistes d'utiliser généreusement ces créatures dans leurs guerres. 
+
+Name:
+ƒ??? 17
+Message:
+Journal de Dargem. Entrée 288        « Les éclaireurs de Gunnar rapportent qu'il n'y a qu'une seule sortie des tunnels vers la surface. C'est une bonne nouvelle. Il ne faut cependant jamais sous-estimer les nécromanciens. Une résistance très sérieuse m'attend au château de Doom, menée par Maximus (quel nom stupide !) en personne, nous devons donc nous préparer en conséquence. Je pense également qu'il serait judicieux de vaincre d'abord les armées des seigneurs Deyjan locaux afin qu'ils ne nous gênent pas. Nous devrions le faire avant qu'ils ne rassemblent leurs forces et ne se dirigent vers les grottes pour nous traquer. »
+
+Name:
+ƒ??? 23
+Message:
+Journal de Dargem. Entrée 289 « Certains s'interrogent sur les différences fondamentales entre les Mages de Bracada, les Démonistes de Nighon et les Nécromanciens de Deyja. La réponse est simple : il n'y en a aucune. Nous utilisons les mêmes pouvoirs, et la seule chose qui nous distingue, ce sont certaines limites morales. Nous, les Démonistes, ne reculons devant rien pour découvrir la vérité. Certains de mes collègues pratiquent même la nécromancie. Les Bracadiens, en revanche, évitent autant que possible de nuire aux êtres vivants, ce qui explique pourquoi leur science magique est désespérément à la traîne. Ils cachent leur infériorité derrière des inventions complexes telles que les Golems et les Gargouilles... Prenez la poudre à canon, par exemple : ils l'ont inventée, mais ils ne l'utilisent que pour les feux d'artifice. Quelle blague !		Les nécromanciens, quant à eux, sont obsédés par l'étude de la mort et sont terriblement réticents à élargir leurs horizons. Certains d'entre eux croient même qu'un vrai nécromancien doit être dépourvu d'émotions et de sentiments, se rapprochant ainsi dans sa façon de penser d'un cadavre ambulant. Les fous.
+
+Name:
+ƒ??? 33
+Message:
+Journal de Dargem. Entrée 290        « Nos hommes ont trouvé un autre message aujourd'hui. Apparemment, ce Cactusis utilise des vampires pour placer ces messages sans se faire remarquer.        Dans le dernier, il a écrit :        « Je vois bien que vous êtes stupides et têtus, mais je m'y attendais. Le bon vieux Monsieur Moustache n'aurait pas envoyé quelqu'un d'autre. Vous préférez mourir plutôt que d'échouer dans votre mission. Ça, je le comprends ! Alors préparez-vous à la guerre. Plus vous traînerez, plus je recevrai de renforts. Nous avons nos propres passages secrets. Vous mourrez tous aux murs de ma forteresse. Maximus. »        Il est probablement temps de lui répondre. Je déteste être insulté tout en étant contraint de rester silencieux. Je me sens vulnérable dans des moments comme celui-ci ! Je dois toujours avoir le dernier mot. Je ne sais pas non plus de qui il parle. Monsieur Moustache ? Apparemment, notre cher Cactusis est devenu paranoïaque.
+
+Name:
+ƒ??? 40
+Message:
+Journal de Dargem. Entrée 291		« Il était enfin temps pour moi de trouver une réponse ! Je perdais le sommeil à ruminer mes dialogues imaginaires avec cet odieux Maximus.		Voici ce que j'ai écrit :		« Mon méprisé Cactusis ! Je n'ai aucune idée de ce qui se passe dans ta tête après avoir cédé à ton amour pour la teinture de cactus et la rate de zombie. Cependant, je m'en voudrais de ne pas te donner un avertissement : tu te mets en travers du chemin du meilleur mercenaire qui ait jamais honoré ce monde. Tu ferais mieux de rassembler tes os ambulants et de t'enfuir. Je te suggère Krewlod, où les amateurs de cactus verts comme toi sont bien accueillis. » Imaginant la rage de Maximus à la lecture de ces mots, j'ai remis la note à une harpie.
+
+===== Heroes =====
+
+===== Objects =====
+
+(30, 32, 0) ***Necropolis***
+Name:
+Doom Castle
+
+Visiting Death Knight:
+Name:
+Maximus
+Biography:
+Maximus est l'un des plus proches collaborateurs de Kastore, un guerrier fort et féroce. Il est chargé de la défense du pays des nécromanciens pendant l'absence de Kastore.
+
+Timed events:
+
+Name:
+???? ????? ????? ????? ??????
+Message:
+
+
+Name:
+????? ??????
+Message:
+
+
+Name:
+—????? ??????
+Message:
+
+
+(65, 65, 0) ***Necropolis***
+Name:
+Ostopolis
+
+Timed events:
+
+Name:
+?????
+Message:
+
+
+(7, 61, 0) ***Necropolis***
+Name:
+Shadetown
+
+Timed events:
+
+Name:
+????? (??????)
+Message:
+
+
+(16, 10, 0) ***Necropolis***
+Name:
+Specterwood
+
+(14, 65, 0) ***Sign***
+Message:
+Ne buvez pas ici ! Vous deviendrez un minotaure !
+
+(30, 35, 0) ***Quest Guard***
+Message:
+À mon grand regret, le chemin menant à la bibliothèque est bloqué par une barrière magique. J'ai besoin de quelque chose qui affaiblisse la magie... J'ai peut-être une idée ? Il semble qu'un Globe de Vulnérabilité devrait faire l'affaire !
+Hélas, sans le Globe de Vulnérabilité, la barrière ne bougera pas !
+J'ai approché le Globe de la barrière magique, et il s'est mis à scintiller ! Cela prouve mon hypothèse ! Après tout, j'ai appris la sorcellerie auprès de Tor Anwyn lui-même. Dois-je briser la barrière maintenant, ou revenir plus tard ?
+
+(51, 38, 0) ***Sign***
+Message:
+Lac Doom
+
+(2, 4, 0) ***Quest Guard***
+Message:
+Un puissant vampire rôde ici. Il dit avoir perdu contact avec les siens pour une raison inconnue, alors qu'un vampire ancien et respecté est censé avoir sa propre meute et sa propre suite. Il me laissera passer si je l'aide à renouer avec les autres.
+Je dois trouver cinq vampires pour pouvoir passer.
+Le vampire est heureux de revoir les siens et me laisse passer.
+
+(54, 25, 0) ***Seer's Hut***
+Message:
+Un grand groupe d'élémentaires se cache dans cette forêt morte.	« Notre chef, Thunar, est prisonnier des nécromanciens. Nous craignons de finir nous aussi entre leurs griffes, mais nous ne pouvons rien faire tant que l'Ancien n'est pas là. Libérez notre Dame, humains ! »
+Sans Thunar, nous n'oserons aller nulle part.
+« Dame Thunar, enfin ! Nous sommes heureux de voyager à nouveau avec vous. »
+
+(50, 68, 0) ***Nix Warrior***
+Message:
+« Nous ne servirons pas les nécromanciens, mais cela ne nous dérange pas de nous joindre à vous ! »
+
+(51, 67, 0) ***Sorceress***
+Message:
+« Nous apprécions votre aide ! Nous n'avions vraiment pas envie de nous transformer en cadavres ambulants ! »
+
+(43, 31, 0) ***Ayssid***
+Message:
+Les Dracs Mordorés vous sont reconnaissants de votre aide.
+
+(26, 15, 0) ***Corsair***
+Message:
+« À votre service, monseigneur ! »
+
+(43, 15, 0) ***Minotaur King***
+Message:
+« Il est temps de découper de la viande morte ! »
+
+(6, 38, 0) ***Event***
+Message:
+Extrait du journal de Dargem : « Il se passe des choses étranges ici ! Je sens une forte odeur d'huile brûlée, et devant moi se dressent des bâtiments qui ressemblent aux Machineries des Golems ; j'en ai vu à Bracada. Les nécromanciens se sont-ils eux aussi lancés dans la production en série de Golems ? Bien sûr, j'ai entendu parler de ces créatures faites d'os et de chair morte, mais il n'y en avait jamais plus d'une poignée dans le monde, principalement exposées dans des musées. Pourquoi faire cela alors qu'il suffit de faire marcher un cadavre tel quel ? Je ne sais pas ce qu'est cet endroit ni ce qui s'y passe ! »
+
+(58, 12, 0) ***Necropolis***
+Name:
+Tumulus
+
+Timed events:
+
+Name:
+?????
+Message:
+
+
+(0, 8, 0) ***Event***
+Message:
+Extrait du journal de Dargem : « Les nécromanciens ont capturé un puissant élémentaire. Ils sont probablement en train de le soumettre à des expériences. J'espère que cette créature n'est pas devenue folle à cause des tortures qu'elle a subies ; elle pourrait accepter de nous aider. À bien y réfléchir... est-ce qu'un rocher peut ressentir la douleur ? »
+
+(3, 37, 0) ***Sign***
+Message:
+Atelier expérimental    INTERDICTION ABSOLUE DE TREPASSER !
+
+(5, 3, 0) ***Event***
+Message:
+Extrait du journal de Dargem : « Nous avons enfin atteint la surface. Par habitude, j'étais sur le point d'attacher un mouchoir sur mes yeux pour ne pas être ébloui, mais le soleil de Deyja perçait à peine à travers une épaisse couche de nuages gris. Il faisait beaucoup plus clair dans les Donjons éclairés à la torche que sous ce ciel de couleur malsaine.		Est-ce ainsi qu'ils vivent ici ? Je veux dire, tous les Nécromanciens et Chevaliers de la Mort ne sont pas des morts-vivants ; certains sont encore des créatures vivantes ! Quand je vivais à Nighon, j'aimais sortir à la surface de temps en temps, toucher l'herbe, sourire au soleil. Mais ici... il semble que rester dans les grottes soit bien mieux pour la tranquillité d'esprit que de sortir à l'extérieur. C'est pareil pour Gunnar, il ne réfléchit pas beaucoup de toute façon, et il est tout le temps ivre ces jours-ci, incapable de se réconcilier avec lui-même après son échec. Mais moi ? Que puis-je faire pour mettre de l'ordre dans le désordre de mon âme ? »
+
+(58, 13, 0) ***Event***
+Message:
+Ressources pour les niveaux de difficulté élevés
+
+(9, 62, 0) ***Event***
+Message:
+Unités pour difficulté élevée
+
+(63, 67, 0) ***Event***
+Message:
+Unités pour difficulté élevée
+
+(56, 44, 0) ***Sign***
+Message:
+William Setag est enterré ici. Un misérable de la tête aux pieds !
+
+(69, 68, 1) ***Cove***
+Name:
+L'Reh
+
+(67, 51, 1) ***Dungeon***
+Name:
+Shademaze
+
+(2, 62, 1) ***Quest Guard***
+Message:
+Seul celui qui est libéré de toute corruption et en porte le symbole peut passer ici.
+Vous êtes impur ! Vous ne pourrez pas passer !
+Vous êtes pur de toute magie noire. Vous pouvez passer.
+
+(39, 67, 1) ***Event***
+Message:
+Attaque IA contre les paysans, bonus squelette
+
+(38, 64, 1) ***Event***
+Message:
+Attaque IA contre les paysans, bonus squelette
+
+(38, 61, 1) ***Event***
+Message:
+Attaque IA contre les paysans, bonus squelette
+
+(5, 68, 1) ***Crusader***
+Message:
+« Les croisades sont une entreprise coûteuse, cher monsieur ! Couvrez nos dépenses, et nous serons prêts à vous accompagner pour vaincre les mauvais esprits. »
+
+(1, 63, 1) ***Event***
+Message:
+Extrait du journal de Dargem : « Il semble que les mercenaires et les croisés se reposent dans ce coin tranquille de la grotte, à l'abri des morts-vivants. Je pourrais peut-être les persuader de se joindre à nous en échange d'une somme d'argent. »
+
+(64, 8, 1) ***Sign***
+Message:
+Grottes des contrebandiers
+
+(3, 68, 1) ***Gunslinger***
+Message:
+« Hé mec, tu aurais besoin de quelques barils fiables ? Rien de mieux pour percer des trous dans des crânes pourris ! »
+
+(33, 20, 1) ***Seer's Hut***
+Message:
+Un puissant dragon ancien recherche les quatre sphères élémentaires. Il promet de récompenser généreusement quiconque lui apportera ces artefacts.
+Le dragon est furieux : il veut l'ensemble complet des quatre sphères !
+Il semble que la créature ancienne soit désormais satisfaite. Elle vous offre les services de ses petits.
+
+(53, 36, 1) ***Seer's Hut***
+Message:
+Ce puissant Démoniste est à la recherche d'un grimoire légendaire. Il pense que les nécromanciens possèdent un exemplaire de ce recueil et est prêt à récompenser quiconque lui livrera ce précieux ouvrage.
+Le propriétaire de la maison vous conseille de chercher le livre dans les montagnes à l'ouest.
+Vous avez accompli la tâche et le Démoniste reconnaissant est prêt à vous donner quelques Dragons Noirs.
+
+(9, 10, 1) ***Event***
+Message:
+Cela pourrait s'avérer utile dans un combat contre Nagash !
+
+===== Extended Events =====
+===== End of file =====

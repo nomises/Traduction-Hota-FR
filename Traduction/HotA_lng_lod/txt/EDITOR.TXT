@@ -1,33 +1,33 @@
 Note: Do not change the headings in this file, they are used to detect problems
 General
 Heroes of Might and Magic III: Horn of the Abyss Map Editor
-Â© 2000 The 3DO Company. All Rights Reserved. 3DO, Heroes, Heroes of Might and Magic, New World Computing, The Shadow of Death, and their respective logos are trademarks and/or service marks of The 3DO Company in the U.S. and other countries. All other trademarks belong to their respective owners. New World Computing is a division of The 3DO Company."
+© 2000 The 3DO Company. All Rights Reserved. 3DO, Heroes, Heroes of Might and Magic, New World Computing, The Shadow of Death, and their respective logos are trademarks and/or service marks of The 3DO Company in the U.S. and other countries. All other trademarks belong to their respective owners. New World Computing is a division of The 3DO Company."
 Version %s
 Fichiers carte de Heroes 3 (*.h3m)
 Carte de Heroes 3
-CaractÃ©ristiques de la Carte
-PropriÃ©tÃ©s pour %s
-Ã‰vÃ©nement scriptÃ©
+Caractéristiques de la Carte
+Propriétés pour %s
+Événement scripté
 (Aucun)
-AlÃ©atoire
+Aléatoire
 Inconnu
 Besace
-ExpÃ©rience
+Expérience
 Points de Magie
 Moral
 Chance
 Ressource
 Ressources
-CaractÃ©ristique
-CaractÃ©ristiques
-ArtÃ©fact
-ArtÃ©facts
+Caractéristique
+Caractéristiques
+Artéfact
+Artéfacts
 Sort
 Sorts
-CrÃ©ature
-CrÃ©atures
-CompÃ©tence Secondaire
-CompÃ©tences Secondaires
+Créature
+Créatures
+Compétence Secondaire
+Compétences Secondaires
 Joueur %d (%s)
 Pas de Joueur
 Jamais
@@ -42,15 +42,15 @@ Tous les 14 jours
 Tous les 21 jours
 Tous les 28 jours
 "Il y a un maximum de %d objets de type ""%s"" pour cette carte !"
-Il n'y a plus aucun hÃ©ros de ce type disponible !
-"Vous devez d'abord sÃ©lectionner un joueur dans le menu ""Joueur"" avant de dÃ©placer un hÃ©ros !"
-Il y a un maximum de %d hÃ©ros par joueur !
-Un Graal est dÃ©jÃ  placÃ© sur la carte !
-Le Graal doit Ãªtre placÃ© Ã  au moins %d cases du bord de la carte !
+Il n'y a plus aucun héros de ce type disponible !
+"Vous devez d'abord sélectionner un joueur dans le menu ""Joueur"" avant de déplacer un héros !"
+Il y a un maximum de %d héros par joueur !
+Un Graal est déjà placé sur la carte !
+Le Graal doit être placé à au moins %d cases du bord de la carte !
 Impossible de coller cet objet !
 Debug Build
 Release Build
-Votre affichage doit Ãªtre en couleurs 16 bits pour lancer l'Ã©diteur de cartes !
+Votre affichage doit être en couleurs 16 bits pour lancer l'éditeur de cartes !
 "Version invalide du fichier carte. 
 
 Version du fichier = %d
@@ -80,154 +80,154 @@ Fichier carte invalide ou corrompu.
 11 mois
 12 mois
 (N'importe quelle ville)
-%s Ã  (%d, %d, %d)
+%s à (%d, %d, %d)
 %s, %s
-Monstre alÃ©atoire
-Monstres alÃ©atoires
+Monstre aléatoire
+Monstres aléatoires
 Guerrier
 Constructeur
 Explorateur
 Attention
-Tous les hÃ©ros doivent Ãªtre contrÃ´lÃ©s par un joueur.
-Le nombre maximum de hÃ©ros a Ã©tÃ© atteint pour ce joueur.
-"%s  Ceci va effacer le hÃ©ros de passage actuel. 
+Tous les héros doivent être contrôlés par un joueur.
+Le nombre maximum de héros a été atteint pour ce joueur.
+"%s  Ceci va effacer le héros de passage actuel. 
 Voulez-vous continuer ?"
-Il n'y a plus aucun hÃ©ros disponible !
+Il n'y a plus aucun héros disponible !
 Aucun joueur sur la Carte.
-Ville alÃ©atoire
-Ã‰quipe %d
+Ville aléatoire
+Équipe %d
 """Il n'y a pas de Joueur sur la carte.""
-Une Carte doit avoir au moins un hÃ©ros ou une ville rattachÃ©e Ã  un Joueur, sans quoi, le scÃ©nario sera injouable.
+Une Carte doit avoir au moins un héros ou une ville rattachée à un Joueur, sans quoi, le scénario sera injouable.
 "
 """Il n'y a pas de Ville sur la Carte.""
-Ceci ne rendra pas la carte injouable. Cependant le dernier hÃ©ros d'un joueur ne peut survivre plus de sept jours sans ville.
+Ceci ne rendra pas la carte injouable. Cependant le dernier héros d'un joueur ne peut survivre plus de sept jours sans ville.
 "
 """La carte n'a pas de nom.""
-Si la carte n'a pas de nom, elle apparaÃ®tra en haut de la liste des cartes disponibles, sous le nom ""unnamed"".
+Si la carte n'a pas de nom, elle apparaîtra en haut de la liste des cartes disponibles, sous le nom ""unnamed"".
 "
 """La carte n'a pas de description.""
-Ceci est juste un avertissement. Cependant, la plupart des cartes dÃ©crivent le scÃ©nario et les objectifs du joueur.
+Ceci est juste un avertissement. Cependant, la plupart des cartes décrivent le scénario et les objectifs du joueur.
 "
-"""Le Graal est bien prÃ©sent, mais il n'y a aucune ObÃ©lisque placÃ©e sur la Carte.""
-Si le Graal a Ã©tÃ© placÃ© sur la carte, vous devez placer des obÃ©lisques afin qu'un joueur puisse le dÃ©couvrir.
+"""Le Graal est bien présent, mais il n'y a aucune Obélisque placée sur la Carte.""
+Si le Graal a été placé sur la carte, vous devez placer des obélisques afin qu'un joueur puisse le découvrir.
 "
-"""%s possÃ¨de un ou plusieurs objets sur la carte, mais n'est pas prÃ©sent.""
-L'exemple classique de ce type de problÃ¨me est quand le concepteur attribue par erreur une mine, une garnison ou n'importe quel autre objet Ã  un joueur qui n'existe pas dans le scÃ©nario, et qui ne possÃ¨de donc ni ville, ni hÃ©ros.
+"""%s possède un ou plusieurs objets sur la carte, mais n'est pas présent.""
+L'exemple classique de ce type de problème est quand le concepteur attribue par erreur une mine, une garnison ou n'importe quel autre objet à un joueur qui n'existe pas dans le scénario, et qui ne possède donc ni ville, ni héros.
 "
-"""%s a un chantier naval, mais pas d'accÃ¨s Ã  la mer.""
-Si la ville possÃ¨de un chantier naval, mais pas d'accÃ¨s Ã  la mer, le joueur pourra acheter des bateaux, mais il ne les verra jamais apparaÃ®tre sur la carte. L'entrÃ©e de la ville doit toucher, sans l'obstruer, une case de rive Ã  sa droite ou Ã  sa gauche.
+"""%s a un chantier naval, mais pas d'accès à la mer.""
+Si la ville possède un chantier naval, mais pas d'accès à la mer, le joueur pourra acheter des bateaux, mais il ne les verra jamais apparaître sur la carte. L'entrée de la ville doit toucher, sans l'obstruer, une case de rive à sa droite ou à sa gauche.
 "
 """Il n'y a qu'un seul monolithe %s sur la carte.""
-Les monolithes sont des tÃ©lÃ©porteurs. S'il n'y en a qu'un seul sur la carte, votre hÃ©ros n'aura nulle part oÃ¹ rÃ©apparaÃ®tre.
+Les monolithes sont des téléporteurs. S'il n'y en a qu'un seul sur la carte, votre héros n'aura nulle part où réapparaître.
 "
-"""Il y a une ou plusieurs entrÃ©es de monolithe sens unique %s sur la carte mais pas de sortie.""
-Ce message d'erreur est spÃ©cifique aux monolithes sens unique. Si vous avez un monolithe d'entrÃ©e sur la carte, vous avez besoin d'au moins une sortie associÃ©e.
+"""Il y a une ou plusieurs entrées de monolithe sens unique %s sur la carte mais pas de sortie.""
+Ce message d'erreur est spécifique aux monolithes sens unique. Si vous avez un monolithe d'entrée sur la carte, vous avez besoin d'au moins une sortie associée.
 "
-"""Il y a une ou plusieurs sorties de monolithe sens unique %s sur la carte mais pas d'entrÃ©e.""
-Ce message d'erreur est spÃ©cifique aux monolithes sens unique. Si vous avez un monolithe de sortie sur la carte, vous avez besoin d'au moins une entrÃ©e associÃ©e.
+"""Il y a une ou plusieurs sorties de monolithe sens unique %s sur la carte mais pas d'entrée.""
+Ce message d'erreur est spécifique aux monolithes sens unique. Si vous avez un monolithe de sortie sur la carte, vous avez besoin d'au moins une entrée associée.
 "
-"""Il y a un ou plusieurs portail d'entrÃ©e vers les souterrains sur une carte qui n'a pas de niveau souterrain.""
-Les portails d'accÃ¨s aux souterrains sont utilisÃ©s pour passer d'un niveau Ã  l'autre de la carte. Si votre carte ne possÃ¨de pas deux niveaux, les hÃ©ros qui tenteront d'utiliser les portails seront repoussÃ©s.
+"""Il y a un ou plusieurs portail d'entrée vers les souterrains sur une carte qui n'a pas de niveau souterrain.""
+Les portails d'accès aux souterrains sont utilisés pour passer d'un niveau à l'autre de la carte. Si votre carte ne possède pas deux niveaux, les héros qui tenteront d'utiliser les portails seront repoussés.
 "
 """Il y a plus de portails souterrains en surface que dans les sous-sols.""
-Au dÃ©but du scÃ©nario, chaque portail est associÃ© Ã  son Ã©quivalent le plus proche sur l'autre niveau. S'il n'y a pas le mÃªme nombre de portails d'un cÃ´tÃ© et de l'autre, ils ne peuvent Ãªtre associÃ©s.
+Au début du scénario, chaque portail est associé à son équivalent le plus proche sur l'autre niveau. S'il n'y a pas le même nombre de portails d'un côté et de l'autre, ils ne peuvent être associés.
 "
 """Il y a plus de portails souterrains dans les sous-sols qu'en surface.""
-Au dÃ©but du scÃ©nario, chaque portail est associÃ© Ã  son Ã©quivalent le plus proche sur l'autre niveau. S'il n'y a pas le mÃªme nombre de portails d'un cÃ´tÃ© et de l'autre, ils ne peuvent Ãªtre associÃ©s.
+Au début du scénario, chaque portail est associé à son équivalent le plus proche sur l'autre niveau. S'il n'y a pas le même nombre de portails d'un côté et de l'autre, ils ne peuvent être associés.
 "
-"""L'artÃ©fact Ã  trouver pour la quÃªte %s est : %s, mais cet artÃ©fact n'est pas sur la carte.""
-Pour qu'un joueur puisse accomplir une quÃªte de la Hutte du voyant ou d'un Gardien de QuÃªte, l'artÃ©fact associÃ© doit Ãªtre prÃ©sent sur la carte, soit sur un hÃ©ros ou sur un monstre errant, soit grÃ¢ce Ã  un Ã©vÃ©nement ou une boÃ®te de Pandore, ou faire parti de l'assemblage d'un artÃ©fact majeur, ou encore comme rÃ©compense d'une autre quÃªte de la Hutte du voyant. Lorsqu'il s'agit d'un artÃ©fact qui requiert plusieurs autres artÃ©facts pour Ãªtre assemblÃ©, il n'est pas obligatoire qu'il soit lui-mÃªme prÃ©sent sur la carte.
+"""L'artéfact à trouver pour la quête %s est : %s, mais cet artéfact n'est pas sur la carte.""
+Pour qu'un joueur puisse accomplir une quête de la Hutte du voyant ou d'un Gardien de Quête, l'artéfact associé doit être présent sur la carte, soit sur un héros ou sur un monstre errant, soit grâce à un événement ou une boîte de Pandore, ou faire parti de l'assemblage d'un artéfact majeur, ou encore comme récompense d'une autre quête de la Hutte du voyant. Lorsqu'il s'agit d'un artéfact qui requiert plusieurs autres artéfacts pour être assemblé, il n'est pas obligatoire qu'il soit lui-même présent sur la carte.
 "
-"""Il n'y a qu'un joueur sur la carte, et aucune condition de victoire particuliÃ¨re n'a Ã©tÃ© dÃ©finie.""
-S'il n'y a qu'un joueur sur la carte et pas de condition de victoire particuliÃ¨re, le joueur gagnera instantanÃ©ment.
+"""Il n'y a qu'un joueur sur la carte, et aucune condition de victoire particulière n'a été définie.""
+S'il n'y a qu'un joueur sur la carte et pas de condition de victoire particulière, le joueur gagnera instantanément.
 "
-"Â«Il n'y a qu'un joueur sur la carte, mais les conditions de victoire normales n'ont pas Ã©tÃ© dÃ©sactivÃ©es.Â»
-S'il n'y a qu'un joueur sur la carte et que les conditions de victoire normales n'ont pas Ã©tÃ© dÃ©sactivÃ©es, le joueur gagnera instantanÃ©ment.
+"«Il n'y a qu'un joueur sur la carte, mais les conditions de victoire normales n'ont pas été désactivées.»
+S'il n'y a qu'un joueur sur la carte et que les conditions de victoire normales n'ont pas été désactivées, le joueur gagnera instantanément.
 "
-"""Aucun problÃ¨me dÃ©tectÃ© sur cette carte."""
-"""La condition de victoire particuliÃ¨re est d'acquÃ©rir : %s, mais l'artÃ©fact n'a pas Ã©tÃ© placÃ© sur la carte.""
-Afin de pouvoir remplir la condition de victoire ""AcquÃ©rir un artÃ©fact spÃ©cifique"", celui-ci doit exister sur la carte, soit sur un hÃ©ros ou sur un groupe de monstres errants, soit grÃ¢ce Ã  un Ã©vÃ©nement ou une boÃ®te de Pandore, ou faire parti de l'assemblage d'un artÃ©fact majeur, ou encore comme rÃ©compense d'une quÃªte de la Hutte du voyant ou d'un Gardien de QuÃªte. Lorsqu'il s'agit d'un artÃ©fact qui requiert plusieurs autres artÃ©facts pour Ãªtre assemblÃ©, il n'est pas obligatoire qu'il soit lui-mÃªme prÃ©sent sur la carte.
+"""Aucun problème détecté sur cette carte."""
+"""La condition de victoire particulière est d'acquérir : %s, mais l'artéfact n'a pas été placé sur la carte.""
+Afin de pouvoir remplir la condition de victoire ""Acquérir un artéfact spécifique"", celui-ci doit exister sur la carte, soit sur un héros ou sur un groupe de monstres errants, soit grâce à un événement ou une boîte de Pandore, ou faire parti de l'assemblage d'un artéfact majeur, ou encore comme récompense d'une quête de la Hutte du voyant ou d'un Gardien de Quête. Lorsqu'il s'agit d'un artéfact qui requiert plusieurs autres artéfacts pour être assemblé, il n'est pas obligatoire qu'il soit lui-même présent sur la carte.
 "
-"""La condition de victoire particuliÃ¨re est d'acquÃ©rir: %s, mais %s possÃ¨de dÃ©jÃ  cet artÃ©fact.""
-Si le hÃ©ros d'un joueur commence la partie avec l'artÃ©fact requis pour remplir la condition de victoire ""AcquÃ©rir un artÃ©fact spÃ©cifique"", le joueur gagnera instantanÃ©ment.
+"""La condition de victoire particulière est d'acquérir: %s, mais %s possède déjà cet artéfact.""
+Si le héros d'un joueur commence la partie avec l'artéfact requis pour remplir la condition de victoire ""Acquérir un artéfact spécifique"", le joueur gagnera instantanément.
 "
-"""La condition de victoire particuliÃ¨re est d'acquÃ©rir %d %s, mais %s possÃ¨de dÃ©jÃ  %d %s.""
-Si le hÃ©ros d'un joueur commence la partie avec le nombre de crÃ©ature requis pour remplir cette condition de victoire, le joueur gagnera instantanÃ©ment.
+"""La condition de victoire particulière est d'acquérir %d %s, mais %s possède déjà %d %s.""
+Si le héros d'un joueur commence la partie avec le nombre de créature requis pour remplir cette condition de victoire, le joueur gagnera instantanément.
 "
-"""La condition de victoire particuliÃ¨re est de construire %s et %s dans %s, mais ces deux bÃ¢timents sont dÃ©jÃ  construits.""
-Si, au dÃ©but de la partie, un joueur contrÃ´le une ville Ã©quipÃ©e d'une Salle de Conseil et de Fortifications du niveau requis pour la victoire, ce joueur gagnera instantanÃ©ment.
+"""La condition de victoire particulière est de construire %s et %s dans %s, mais ces deux bâtiments sont déjà construits.""
+Si, au début de la partie, un joueur contrôle une ville équipée d'une Salle de Conseil et de Fortifications du niveau requis pour la victoire, ce joueur gagnera instantanément.
 "
-"""La condition de victoire particuliÃ¨re est de construire %s et %s dans %s, mais un de ces deux bÃ¢timents, ou les deux, sont dÃ©sactivÃ©s.""
-Personne ne pourra remplir la condition de victoire si la Salle du Conseil ou les Fortifications sont dÃ©sactivÃ©es, car il sera alors impossible de les amÃ©liorer pour atteindre le niveau requis.
+"""La condition de victoire particulière est de construire %s et %s dans %s, mais un de ces deux bâtiments, ou les deux, sont désactivés.""
+Personne ne pourra remplir la condition de victoire si la Salle du Conseil ou les Fortifications sont désactivées, car il sera alors impossible de les améliorer pour atteindre le niveau requis.
 "
-"""La condition de victoire particuliÃ¨re est de construire le Saint Graal dans %s, mais cette structure est dÃ©jÃ  construite dans cette ville.""
-Si, au dÃ©but de la partie, le Saint Graal est dÃ©jÃ  construit dans la ville spÃ©cifiÃ©e, le joueur gagnera instantanÃ©ment.
+"""La condition de victoire particulière est de construire le Saint Graal dans %s, mais cette structure est déjà construite dans cette ville.""
+Si, au début de la partie, le Saint Graal est déjà construit dans la ville spécifiée, le joueur gagnera instantanément.
 "
-"""La condition de victoire particuliÃ¨re est de construire le Saint Graal dans %s, mais cette structure est dÃ©sactivÃ©e.""
-Personne ne pourra remplir la condition de victoire si le Saint Graal est dÃ©sactivÃ©, car il sera alors impossible de construire cette structure.
+"""La condition de victoire particulière est de construire le Saint Graal dans %s, mais cette structure est désactivée.""
+Personne ne pourra remplir la condition de victoire si le Saint Graal est désactivé, car il sera alors impossible de construire cette structure.
 "
-"""La condition de victoire particuliÃ¨re est de construire le Saint Graal, mais il n'y a pas de ville sur la carte oÃ¹ elle puisse Ãªtre construite.""
-Ce message d'erreur apparaÃ®t quand vous choisissez la condition de victoire particuliÃ¨re ""Construire le Saint Graal, mais qu'il n'y a pas de ville sur la carte, ou que toutes les villes ont la structure du Graal dÃ©sactivÃ©e.
+"""La condition de victoire particulière est de construire le Saint Graal, mais il n'y a pas de ville sur la carte où elle puisse être construite.""
+Ce message d'erreur apparaît quand vous choisissez la condition de victoire particulière ""Construire le Saint Graal, mais qu'il n'y a pas de ville sur la carte, ou que toutes les villes ont la structure du Graal désactivée.
 "
-"""La condition de victoire particuliÃ¨re est de vaincre %s qui appartient au %s qui peut Ãªtre un joueur humain ou Ãªtre dans la mÃªme Ã©quipe que des joueurs humains.""
-Si un joueur humain, ou une Ã©quipe avec un joueur humain, possÃ¨de dÃ©jÃ  le hÃ©ros spÃ©cifiÃ© au dÃ©but de la partie, le joueur gagnera instantanÃ©ment.
+"""La condition de victoire particulière est de vaincre %s qui appartient au %s qui peut être un joueur humain ou être dans la même équipe que des joueurs humains.""
+Si un joueur humain, ou une équipe avec un joueur humain, possède déjà le héros spécifié au début de la partie, le joueur gagnera instantanément.
 "
-"""La condition de victoire particuliÃ¨re est de capturer %s, mais la ville est dÃ©jÃ  contrÃ´lÃ©e par %s.""
-Si un joueur, ou une Ã©quipe, possÃ¨de dÃ©jÃ  la ville spÃ©cifiÃ©e au dÃ©but de la partie, le joueur gagnera instantanÃ©ment.
+"""La condition de victoire particulière est de capturer %s, mais la ville est déjà contrôlée par %s.""
+Si un joueur, ou une équipe, possède déjà la ville spécifiée au début de la partie, le joueur gagnera instantanément.
 "
-"""La condition de victoire est de capturer %s, mais la ville est dÃ©jÃ  contrÃ´lÃ©e par le %s qui peut Ãªtre humain ou Ãªtre dans la mÃªme Ã©quipe que des joueurs humains.""
-Si un joueur humain, ou une Ã©quipe avec un joueur humain, contrÃ´le dÃ©jÃ  la ville spÃ©cifiÃ©e au dÃ©but de la partie, le joueur gagnera instantanÃ©ment.
+"""La condition de victoire est de capturer %s, mais la ville est déjà contrôlée par le %s qui peut être humain ou être dans la même équipe que des joueurs humains.""
+Si un joueur humain, ou une équipe avec un joueur humain, contrôle déjà la ville spécifiée au début de la partie, le joueur gagnera instantanément.
 "
-"""La condition de victoire particuliÃ¨re est de contrÃ´ler tous les gÃ©nÃ©rateurs de crÃ©atures, mais il n'y en a pas sur la carte.""
+"""La condition de victoire particulière est de contrôler tous les générateurs de créatures, mais il n'y en a pas sur la carte.""
 "
-"""La condition de victoire particuliÃ¨re est de contrÃ´ler tous les gÃ©nÃ©rateurs de crÃ©atures, mais le %s les contrÃ´le dÃ©jÃ  tous.""
+"""La condition de victoire particulière est de contrôler tous les générateurs de créatures, mais le %s les contrôle déjà tous.""
 "
-"""La condition de victoire particuliÃ¨re est de contrÃ´ler toutes les mines, mais il n'y en a pas sur la carte.""
+"""La condition de victoire particulière est de contrôler toutes les mines, mais il n'y en a pas sur la carte.""
 "
-"""La condition de victoire particuliÃ¨re est de contrÃ´ler toutes les mines, mais le %s les contrÃ´le dÃ©jÃ  toutes.""
+"""La condition de victoire particulière est de contrôler toutes les mines, mais le %s les contrôle déjà toutes.""
 "
-"""La condition de victoire particuliÃ¨re est de transporter: %s, mais cet artÃ©fact n'est pas placÃ© sur la carte.""
-Pour qu'un joueur puisse transporter l'artÃ©fact spÃ©cifiÃ©, celui-ci doit exister sur la carte, soit sur un hÃ©ros ou sur un groupe de monstres errants, soit grÃ¢ce Ã  un Ã©vÃ©nement ou une boÃ®te de Pandore, ou faire parti de l'assemblage d'un artÃ©fact majeur, ou encore comme rÃ©compense d'une quÃªte de la Hutte du voyant ou d'un Gardien de QuÃªte. Lorsqu'il s'agit d'un artÃ©fact qui requiert plusieurs autres artÃ©facts pour Ãªtre assemblÃ©, il n'est pas obligatoire qu'il soit lui-mÃªme prÃ©sent sur la carte.
+"""La condition de victoire particulière est de transporter: %s, mais cet artéfact n'est pas placé sur la carte.""
+Pour qu'un joueur puisse transporter l'artéfact spécifié, celui-ci doit exister sur la carte, soit sur un héros ou sur un groupe de monstres errants, soit grâce à un événement ou une boîte de Pandore, ou faire parti de l'assemblage d'un artéfact majeur, ou encore comme récompense d'une quête de la Hutte du voyant ou d'un Gardien de Quête. Lorsqu'il s'agit d'un artéfact qui requiert plusieurs autres artéfacts pour être assemblé, il n'est pas obligatoire qu'il soit lui-même présent sur la carte.
 "
-"""La condition de dÃ©faite particuliÃ¨re est de perdre %s, mais cette ville n'est pas sous le contrÃ´le d'un joueur.""
-La condition de dÃ©faite ""Perdre une ville spÃ©cifique"" doit Ãªtre appliquÃ©e au seul joueur humain de la carte. Sinon, tout joueur humain ne contrÃ´lant pas la ville au dÃ©but de la partie perdra instantanÃ©ment.
+"""La condition de défaite particulière est de perdre %s, mais cette ville n'est pas sous le contrôle d'un joueur.""
+La condition de défaite ""Perdre une ville spécifique"" doit être appliquée au seul joueur humain de la carte. Sinon, tout joueur humain ne contrôlant pas la ville au début de la partie perdra instantanément.
 "
-"""La condition de dÃ©faite particuliÃ¨re est de perdre %s qui appartient Ã  %s, mais cette Ã©quipe ne peut avoir de joueur humain.""
-La condition de dÃ©faite ""Perdre une ville spÃ©cifique"" doit Ãªtre appliquÃ©e Ã  la seule Ã©quipe comportant des joueurs humains. Sinon, tout joueur humain ne contrÃ´lant pas la ville au dÃ©but de la partie perdra instantanÃ©ment.
+"""La condition de défaite particulière est de perdre %s qui appartient à %s, mais cette équipe ne peut avoir de joueur humain.""
+La condition de défaite ""Perdre une ville spécifique"" doit être appliquée à la seule équipe comportant des joueurs humains. Sinon, tout joueur humain ne contrôlant pas la ville au début de la partie perdra instantanément.
 "
-"""La condition de dÃ©faite particuliÃ¨re est de perdre %s, mais il y a plus d'une Ã©quipe qui peuvent avoir des joueurs humains.""
-La condition de dÃ©faite ""Perdre une ville spÃ©cifique"" doit Ãªtre appliquÃ©e Ã  la seule Ã©quipe comportant des joueurs humains. Sinon, toute Ã©quipe comportant des joueurs humains qui ne contrÃ´le pas la ville au dÃ©but de la partie perdra instantanÃ©ment.
+"""La condition de défaite particulière est de perdre %s, mais il y a plus d'une équipe qui peuvent avoir des joueurs humains.""
+La condition de défaite ""Perdre une ville spécifique"" doit être appliquée à la seule équipe comportant des joueurs humains. Sinon, toute équipe comportant des joueurs humains qui ne contrôle pas la ville au début de la partie perdra instantanément.
 "
-"""La condition de dÃ©faite particuliÃ¨re est de perdre %s qui appartient Ã  %s, mais ce joueur ne peut Ãªtre humain.""
-La condition de dÃ©faite ""Perdre une ville spÃ©cifique"" doit Ãªtre appliquÃ©e au seul joueur humain de la carte. Sinon, tout joueur humain ne contrÃ´lant pas la ville au dÃ©but de la partie perdra instantanÃ©ment.
+"""La condition de défaite particulière est de perdre %s qui appartient à %s, mais ce joueur ne peut être humain.""
+La condition de défaite ""Perdre une ville spécifique"" doit être appliquée au seul joueur humain de la carte. Sinon, tout joueur humain ne contrôlant pas la ville au début de la partie perdra instantanément.
 "
-"""La condition de dÃ©faite particuliÃ¨re est de perdre %s, mais il y a plus d'un joueur humain.""
-Tout joueur humain ne contrÃ´lant pas la ville au dÃ©but de la partie perdra instantanÃ©ment.
+"""La condition de défaite particulière est de perdre %s, mais il y a plus d'un joueur humain.""
+Tout joueur humain ne contrôlant pas la ville au début de la partie perdra instantanément.
 "
-"""La condition de dÃ©faite particuliÃ¨re est de perdre %s, mais ce hÃ©ros n'est pas sous le contrÃ´le d'un joueur.""
-Si le hÃ©ros spÃ©cifiÃ© dans la condition de dÃ©faite ""Perdre un hÃ©ros spÃ©cifique"" existe dans une prison, tous les joueurs perdent la partie instantanÃ©ment.
+"""La condition de défaite particulière est de perdre %s, mais ce héros n'est pas sous le contrôle d'un joueur.""
+Si le héros spécifié dans la condition de défaite ""Perdre un héros spécifique"" existe dans une prison, tous les joueurs perdent la partie instantanément.
 "
-"""La condition de dÃ©faite particuliÃ¨re est de perdre %s qui appartient Ã  l'%s, mais cette Ã©quipe ne peut avoir de joueur humain.""
-L'Ã©quipe qui possÃ¨de le hÃ©ros spÃ©cifiÃ© doit avoir au moins un joueur humain. Sinon, toute autre Ã©quipe possÃ©dant un joueur humain perdra instantanÃ©ment car elle ne possÃ©dera pas le hÃ©ros spÃ©cifiÃ©.
+"""La condition de défaite particulière est de perdre %s qui appartient à l'%s, mais cette équipe ne peut avoir de joueur humain.""
+L'équipe qui possède le héros spécifié doit avoir au moins un joueur humain. Sinon, toute autre équipe possédant un joueur humain perdra instantanément car elle ne possédera pas le héros spécifié.
 "
-"""La condition de dÃ©faite particuliÃ¨re est de perdre %s, mais il y a plus d'une Ã©quipe qui peut avoir des joueurs humains.""
-Quand la condition de dÃ©faite est ""Perdre un hÃ©ros spÃ©cifique"", ce hÃ©ros doit appartenir Ã  la seule Ã©quipe comportant des joueurs humains. Sinon, toute Ã©quipe comportant des joueurs humains qui ne possÃ¨de pas le hÃ©ros au dÃ©but de la partie perdra instantanÃ©ment.
+"""La condition de défaite particulière est de perdre %s, mais il y a plus d'une équipe qui peut avoir des joueurs humains.""
+Quand la condition de défaite est ""Perdre un héros spécifique"", ce héros doit appartenir à la seule équipe comportant des joueurs humains. Sinon, toute équipe comportant des joueurs humains qui ne possède pas le héros au début de la partie perdra instantanément.
 "
-"""La condition de dÃ©faite particuliÃ¨re est de perdre %s qui appartient Ã  %s, mais ce joueur ne peut Ãªtre humain.""
-Le joueur qui possÃ¨de le hÃ©ros spÃ©cifiÃ© doit Ãªtre humain. Sinon, tout autre joueur humain perdra instantanÃ©ment car il ne possÃ©dera pas le hÃ©ros spÃ©cifiÃ©.
+"""La condition de défaite particulière est de perdre %s qui appartient à %s, mais ce joueur ne peut être humain.""
+Le joueur qui possède le héros spécifié doit être humain. Sinon, tout autre joueur humain perdra instantanément car il ne possédera pas le héros spécifié.
 "
-"""La condition de dÃ©faite particuliÃ¨re est de perdre %s, mais il y a plus d'un joueur humain.""
-Tout joueur humain ne contrÃ´lant pas le hÃ©ros au dÃ©but de la partie perdra instantanÃ©ment.
+"""La condition de défaite particulière est de perdre %s, mais il y a plus d'un joueur humain.""
+Tout joueur humain ne contrôlant pas le héros au début de la partie perdra instantanément.
 "
-Charger la derniÃ¨re sauvegarde automatique ?
+Charger la dernière sauvegarde automatique ?
 "Fichiers texte (*.txt)
 .txt"
 Impossible d'importer ""%s"".
-Importation de ""%s"" terminÃ©e.
+Importation de ""%s"" terminée.
 Nom de la Carte
 Description de la Carte
 Rumeurs
-Ã‰vÃ©nements
+Événements
 Objets
 Nom
 Message
@@ -235,51 +235,51 @@ Texte
 %s de passage
 Fin du fichier
 Jour %d - %s
-L'objet dÃ©clarÃ© est introuvable sur la Carte.
+L'objet déclaré est introuvable sur la Carte.
 Standard
 Mode
 """Il n'y a qu'un seul tourbillon sur la Carte.""
-Avec un seul tourbillon, le bateau ne peut pas se tÃ©lÃ©porter sur la Carte. Le hÃ©ros risque de perdre des troupes sans se tÃ©lÃ©porter.
+Avec un seul tourbillon, le bateau ne peut pas se téléporter sur la Carte. Le héros risque de perdre des troupes sans se téléporter.
 "
-"""%s est impossible Ã  atteindre.""
-La ""case de dÃ©clenchement"" de cet objet n'est atteignable depuis aucune des cases adjacentes.
+"""%s est impossible à atteindre.""
+La ""case de déclenchement"" de cet objet n'est atteignable depuis aucune des cases adjacentes.
 "
 OK
 Annuler
 Aide
-GÃ©nÃ©ral
+Général
 Contenu
 Ressources
-BÃ¢timents
-CrÃ©atures
-CompÃ©tences Secondaires
-Conditions de DÃ©faite
+Bâtiments
+Créatures
+Compétences Secondaires
+Conditions de Défaite
 Joueurs
 Rumeurs
-Ã‰quipes
-Ã‰vÃ©nements
+Équipes
+Événements
 Conditions de Victoire
-TrÃ©sor
+Trésor
 Garnison
 Sorts
 Gardiens
-ArtÃ©facts
-Ã€ propos de l'Ã©diteur
-SÃ©lectionner un ArtÃ©fact
-SÃ©lectionner un groupe de CrÃ©atures
-CrÃ©ation d'une Rumeur
-SÃ©lectionner une CompÃ©tence Secondaire
+Artéfacts
+À propos de l'éditeur
+Sélectionner un Artéfact
+Sélectionner un groupe de Créatures
+Création d'une Rumeur
+Sélectionner une Compétence Secondaire
 Rechercher
 Validation de la Carte
 Nouvelle Carte
 Options
-SÃ©lectionner un ArtÃ©fact
-SÃ©lectionner un Type de HÃ©ros
-SÃ©lectionner un Sort
+Sélectionner un Artéfact
+Sélectionner un Type de Héros
+Sélectionner un Sort
 &Personnaliser
 Pinceau
 Type de Terrain
-Type de RiviÃ¨re
+Type de Rivière
 Type de Route
 Indiquez le rayon de &placement:
 Immobile
@@ -293,67 +293,67 @@ Rayon 7 cases
 Rayon 8 cases
 Rayon 9 cases
 Rayon 10 cases
-&ProblÃ¨mes:
-Il n'y a aucune propriÃ©tÃ© d'Ã©dition pour cet objet.
+&Problèmes:
+Il n'y a aucune propriété d'édition pour cet objet.
 "Ceci supprimera les souterrains de cette carte. Toutes les modifications que vous avez faites au niveau souterrain seront perdues.
 Voulez-vous continuer ?"
 Demeure Niveau %d
 Demeure %s 
 Biographie
-Ã‰tat de la crÃ©ation
-CrÃ©ation de la Carte...
-Impossible de crÃ©er une Carte alÃ©atoire.
-HÃ©ros
-"""Aucune quÃªte liÃ©e Ã  la %s.""
-Les Gardiens de QuÃªtes et les Huttes du Voyant sont censÃ©es donner une quÃªte au joueur. Si aucune quÃªte ne leur est attribuÃ©e, ces bÃ¢timents ne servent Ã  rien.
+État de la création
+Création de la Carte...
+Impossible de créer une Carte aléatoire.
+Héros
+"""Aucune quête liée à la %s.""
+Les Gardiens de Quêtes et les Huttes du Voyant sont censées donner une quête au joueur. Si aucune quête ne leur est attribuée, ces bâtiments ne servent à rien.
 "
-"Cet objet ne peut Ãªtre ajoutÃ© que sur des Cartes ""Armageddon's Blade"" ou ""The Shadow of Death""."
+"Cet objet ne peut être ajouté que sur des Cartes ""Armageddon's Blade"" ou ""The Shadow of Death""."
 Aucun
 Atteindre le Niveau %d
 %s d'au moins %d
 Atteindre %s
 Atteindre les buts suivants:
-DÃ©faire %s
-DÃ©faire les crÃ©atures: %s
+Défaire %s
+Défaire les créatures: %s
 Revenir avec:
 Revenir avec %s
 Revenir avec %s
 Revenir avec %s
-PrÃ©sentation de la QuÃªte
-QuÃªte non accomplie
-QuÃªte accomplie
+Présentation de la Quête
+Quête non accomplie
+Quête accomplie
 et
 souterrain
 Aucun
-%d points d'expÃ©rience
+%d points d'expérience
 %d points de Magie
 +%d au Moral
 +%d en Chance
 sort %s 
-"""Il y a une ou plusieurs tentes du maÃ®tre des clÃ©s %s sur la carte mais aucun poste frontiÃ¨re ou douanier %s.""
-Une tente de maÃ®tre des clÃ©s permet de passer par les postes frontiÃ¨res ou douaniers de la couleur correspondante. Si aucun poste n'est installÃ©, la tente est totalement inutile.
+"""Il y a une ou plusieurs tentes du maître des clés %s sur la carte mais aucun poste frontière ou douanier %s.""
+Une tente de maître des clés permet de passer par les postes frontières ou douaniers de la couleur correspondante. Si aucun poste n'est installé, la tente est totalement inutile.
 "
-"""Il y a un ou plusieurs postes frontiÃ¨res %s sur la carte mais aucune tentes du maÃ®tre des clÃ©s %s.""
-Un poste frontiÃ¨re ou douanier bloque l'accÃ¨s Ã  une certaine zone de la carte tant que le joueur n'a pas visitÃ© la tente du maÃ®tre des clÃ©s correspondante. Si la tente correspondante n'est pas placÃ©e sur la carte, le poste sera infranchissable.
+"""Il y a un ou plusieurs postes frontières %s sur la carte mais aucune tentes du maître des clés %s.""
+Un poste frontière ou douanier bloque l'accès à une certaine zone de la carte tant que le joueur n'a pas visité la tente du maître des clés correspondante. Si la tente correspondante n'est pas placée sur la carte, le poste sera infranchissable.
 "
-"""Il y a un ou plusieurs postes frontiÃ¨res ou douaniers %s sur la carte mais pas de tentes du maÃ®tre des clÃ©s %s.""
-Un poste frontiÃ¨re ou douanier bloque l'accÃ¨s Ã  une certaine zone de la carte tant que le joueur n'a pas visitÃ© la tente du maÃ®tre des clÃ©s correspondante. Si la tente correspondante n'est pas placÃ©e sur la carte, le poste sera infranchissable.
+"""Il y a un ou plusieurs postes frontières ou douaniers %s sur la carte mais pas de tentes du maître des clés %s.""
+Un poste frontière ou douanier bloque l'accès à une certaine zone de la carte tant que le joueur n'a pas visité la tente du maître des clés correspondante. Si la tente correspondante n'est pas placée sur la carte, le poste sera infranchissable.
 "
 """Il y a une ou plusieurs Huttes du Magicien sur la carte, mais pas d'Oeil du Magicien.""
-La Hutte est utilisÃ©e en conjonction avec les Yeux. Lorsqu'un joueur visite la Hutte, la carte autour des Yeux lui sera rÃ©vÃ©lÃ©e. S'il n'y a pas d'Yeux, se rendre dans la Hutte ne sert a rien.
+La Hutte est utilisée en conjonction avec les Yeux. Lorsqu'un joueur visite la Hutte, la carte autour des Yeux lui sera révélée. S'il n'y a pas d'Yeux, se rendre dans la Hutte ne sert a rien.
 "
 """Il y a un ou plusieurs Yeux du Magicien sur la carte, mais pas de Hutte du Magicien.""
-La Hutte est utilisÃ©e en conjonction avec les Yeux. Lorsqu'un joueur visite la Hutte, la carte autour des Yeux lui sera rÃ©vÃ©lÃ©e. S'il n'y a pas de Hutte, les Yeux sont inutiles.
+La Hutte est utilisée en conjonction avec les Yeux. Lorsqu'un joueur visite la Hutte, la carte autour des Yeux lui sera révélée. S'il n'y a pas de Hutte, les Yeux sont inutiles.
 "
-"""Il n'y a que %d hÃ©ros disponibles pour le scÃ©nario, mais la carte en requiÃ¨re au moins %d.""
-Le nombre minimum de hÃ©ros disponible est de dix par joueur plus un par ville. Vous devez autoriser la prÃ©sence de plus de hÃ©ros dans l'onglet 'HÃ©ros' de la fenÃªtre 'CaractÃ©ristiques de la Carte'.
+"""Il n'y a que %d héros disponibles pour le scénario, mais la carte en requière au moins %d.""
+Le nombre minimum de héros disponible est de dix par joueur plus un par ville. Vous devez autoriser la présence de plus de héros dans l'onglet 'Héros' de la fenêtre 'Caractéristiques de la Carte'.
 "
-"""Tous les artÃ©facts de cette carte sont indisponibles ou rÃ©servÃ©s.""
-Les artÃ©facts sont rÃ©servÃ©s lorsqu'ils sont donnÃ©s en rÃ©compense d'une quÃªte rÃ©ussie. Ils peuvent Ãªtre marquÃ©s comme indisponibles pour le scÃ©nario dans l'onglet 'ArtÃ©facts' de la fenÃªtre 'CaractÃ©ristiques de la Carte'. Il doit rester au moins un artÃ©fact disponible mais non rÃ©servÃ© pour chaque carte.
+"""Tous les artéfacts de cette carte sont indisponibles ou réservés.""
+Les artéfacts sont réservés lorsqu'ils sont donnés en récompense d'une quête réussie. Ils peuvent être marqués comme indisponibles pour le scénario dans l'onglet 'Artéfacts' de la fenêtre 'Caractéristiques de la Carte'. Il doit rester au moins un artéfact disponible mais non réservé pour chaque carte.
 "
-Cet objet ne peut Ãªtre placÃ© que sur des cartes ""The Shadow of Death"".
-Cet objet ne peut Ãªtre placÃ© que si ""Armageddon's Blade"" est installÃ© !
-HÃ©ros
+Cet objet ne peut être placé que sur des cartes ""The Shadow of Death"".
+Cet objet ne peut être placé que si ""Armageddon's Blade"" est installé !
+Héros
 Abandoned Mine Properties Dialog
 Ressources potentielles
 &Mercure
@@ -364,36 +364,36 @@ Ressources potentielles
 &Or
 Army Dialog
 Type
-QuantitÃ©
+Quantité
 Groupe &%d:
 Garrison Properties Dialog
-PropriÃ©taire
+Propriétaire
 &Aucun
 Joueur %d (%s)
-CrÃ©atures
+Créatures
 Troupes &amovibles
 Artifact Properties General Page
 Type :
-Message &PersonnalisÃ© :
-Note : si vous placez un gardien, rÃ©digez votre message de faÃ§on Ã  ce que l'on puisse y rÃ©pondre par Oui ou Non, Oui indiquant que le joueur est prÃªt Ã  se battre contre les gardiens.
+Message &Personnalisé :
+Note : si vous placez un gardien, rédigez votre message de façon à ce que l'on puisse y répondre par Oui ou Non, Oui indiquant que le joueur est prêt à se battre contre les gardiens.
 &Sort :
 Black Box Properties General Page
 &Message :
 Event Properties General Page
-Joueurs pouvant dÃ©clencher l'Ã©vÃ©nement
+Joueurs pouvant déclencher l'événement
 Joueur &%d
-Permettre aux hÃ©ros de l'ordinateur &de dÃ©clencher les Ã©vÃ©nements
-Annuler l'Ã©vÃ©nement &aprÃ¨s la premiÃ¨re visite
+Permettre aux héros de l'ordinateur &de déclencher les événements
+Annuler l'événement &après la première visite
 Black Box Properties Contents Page
-&CatÃ©gorie
+&Catégorie
 &Ajouter...
 &Modifier...
 &Supprimer
 To&ut Supprimer
-Ar&tÃ©facts
-&Type de CrÃ©atures
-QuantitÃ©
-&Bonus ExpÃ©rience:
+Ar&téfacts
+&Type de Créatures
+Quantité
+&Bonus Expérience:
 Bonus Chance
 &Aucun
 +1
@@ -407,10 +407,10 @@ Bonus Chance
 &Prendre
 Bonus Moral
 &Attaque:
-&DÃ©fense:
+&Défense:
 &Magie:
 &Savoir:
-&CompÃ©tences Secondaires
+&Compétences Secondaires
 Expertise
 &Sorts
 Resource Quantities Dialog
@@ -428,68 +428,68 @@ Edit Secondary Skill Dialog
 Expertise
 &Novice
 &Disciple
-&MaÃ®tre
+&Maître
 Edit Creature Stack Dialog
 &Type:
-&QuantitÃ©:
+&Quantité:
 Edit Timed Event General Page
-&Nom de l'Ã©vÃ©nement:
+&Nom de l'événement:
 &Message:
-Joueurs affectÃ©s par l'Ã©vÃ©nement
+Joueurs affectés par l'événement
 Joueur &%d
-&Appliquer les Ã©vÃ©nements aux hÃ©ros de l'ordinateur
-Date de &1Ã¨re occurrence (en jours):
-R&Ã©pÃ©ter l'Ã©vÃ©nement:
-Appliquer l'Ã©vÃ©nement aux &joueurs humains
+&Appliquer les événements aux héros de l'ordinateur
+Date de &1ère occurrence (en jours):
+R&épéter l'événement:
+Appliquer l'événement aux &joueurs humains
 Edit Town Event Buildings Page
 Arbre de &construction:
 &Construire
 Edit Town Event Creatures Page
-NÂ° de demeure
-QuantitÃ©
-Note: les crÃ©atures spÃ©cifiÃ©es seront ajoutÃ©es Ã  leurs bÃ¢timents gÃ©nÃ©rateurs respectifs en ville. Si le gÃ©nÃ©rateur nÃ©cessaire n'a pas encore Ã©tÃ© construit, les crÃ©atures ne pourront pas Ãªtre crÃ©Ã©es.
+N° de demeure
+Quantité
+Note: les créatures spécifiées seront ajoutées à leurs bâtiments générateurs respectifs en ville. Si le générateur nécessaire n'a pas encore été construit, les créatures ne pourront pas être créées.
 Edit Artifact Dialog
 &Position de l'Objet:
-&ArtÃ©fact:
+&Artéfact:
 Edit Rumor Dialog
 &Nom:
 &Texte:
 Find Dialog
 &Rechercher:
 &Suivant
-&PrÃ©cÃ©dent
+&Précédent
 Flaggable Properties Dialog
-PropriÃ©taire
+Propriétaire
 &Aucun
 Joueur &%d (%s)
 Hero Properties General Page
 Classe:
 &Joueur:
-&IdentitÃ©:
+&Identité:
 &Nom:
-&ExpÃ©rience:
+&Expérience:
 Portrait:
 Rayon de P&atrouille:
 &Personnaliser
 P&ersonnaliser
 Sexe:
-&Par dÃ©faut (%s)
-mÃ¢le
+&Par défaut (%s)
+mâle
 femelle
-&MÃ¢le
+&Mâle
 &Femelle
 Pers&onnaliser
 Hero Properties Creatures Page
 Formation
-&DispersÃ©e
-&GroupÃ©e
+&Dispersée
+&Groupée
 Secondary Skills Dialog
 Type
 Expertise
-CompÃ©tence &%d:
+Compétence &%d:
 Hero Properties Artifacts Page
-PossÃ¨de &un Livre de sorts
-Ar&tÃ©facts :
+Possède &un Livre de sorts
+Ar&téfacts :
 Nom
 Position
 &Ajouter...
@@ -497,7 +497,7 @@ Position
 &Supprimer
 Tou&t Supprimer
 Map Specs General Page
-DifficultÃ©
+Difficulté
 &Facile
 N&ormal
 &Difficile
@@ -506,36 +506,36 @@ E&xpert
 &Carte sur 2 Niveaux
 Nom de la &Carte:
 &Description:
-&Niveau d'expÃ©rience Maxi des hÃ©ros
+&Niveau d'expérience Maxi des héros
 Version de la Carte
 The &Restoration of Erathia
 &Armageddon's Blade
 The &Shadow of Death
 Map Specs Player Specs Page
 &Joueurs:
-&GÃ©nÃ©rer un hÃ©ros dans la ville principale
+&Générer un héros dans la ville principale
 Jouable par
 &Humain
 Ordinateur
 &Attitude:
 Ville &principale:
-Villes autorisÃ©es
+Villes autorisées
 &Personnaliser
-&AlÃ©atoire
-ChÃ¢te&au
+&Aléatoire
+Châte&au
 R&empart
 &Tour
-&HadÃ¨s
-&NÃ©cropole
+&Hadès
+&Nécropole
 &Donjon
 &Bastion
 &Forteresse
 C&onflux
 Map Specs Teams Page
-&Autoriser les Ã©quipes
-&Nombre d'Ã©quipes
-Formation des Ã©quipes
-NumÃ©ros des Ã©quipes:
+&Autoriser les équipes
+&Nombre d'équipes
+Formation des équipes
+Numéros des équipes:
 Joueur &%d (%s):
 Map Specs Rumors Page
 R&umeurs:
@@ -544,7 +544,7 @@ R&umeurs:
 &Effacer
 To&ut Effacer
 Map Specs Timed Events Page
-Ã‰&vÃ©nements:
+É&vénements:
 &Ajouter...
 &Modifier...
 &Effacer
@@ -552,65 +552,65 @@ Tou&t Effacer
 Mo&nter
 &Descendre
 Map Specs Special Victory Condition Page
-SÃ©lectionner une condition de victoire particuliÃ¨re :
+Sélectionner une condition de victoire particulière :
 &Aucun
-AcquÃ©rir un &ArtÃ©fact
-Recruter des &CrÃ©atures
+Acquérir un &Artéfact
+Recruter des &Créatures
 Accumuler des &Ressources
-&AmÃ©liorer une Ville
+&Améliorer une Ville
 Construire un Saint &Graal
-Vaincre un &HÃ©ros
+Vaincre un &Héros
 Capturer une &Ville
 Vaincre un &Monstre
-&ContrÃ´ler les Demeures (crÃ©atures)
-C&ontrÃ´ler toutes les Mines
-Trans&porter un ArtÃ©fact
+&Contrôler les Demeures (créatures)
+C&ontrôler toutes les Mines
+Trans&porter un Artéfact
 Autoriser &une victoire normale
-Condition spÃ©ciale de victoire valable pour l'&ordinateur
-Art&Ã©fact:
-Type de &CrÃ©ature:
-&QuantitÃ©:
+Condition spéciale de victoire valable pour l'&ordinateur
+Art&éfact:
+Type de &Créature:
+&Quantité:
 Type &Ressources:
 Vi&lle :
 Salle &du Conseil
 Ville
-CitÃ©
+Cité
 Capitale
 Niveau des fo&rtifications
 Fort
 Citadelle
 Bastille
-H&Ã©ros:
+H&éros:
 Mon&stre:
 &Destination:
 Map Specs Special Loss Condition Page
-SÃ©lectionner une condition de dÃ©faite:
+Sélectionner une condition de défaite:
 &Aucune
 Perdre une &Ville
-Perdre un &HÃ©ros
+Perdre un &Héros
 Limite de &Temps
 V&ille:
-HÃ©&ros:
+Hé&ros:
 T&emps Imparti:
 Monster Properties General Page
 Type :
-QuantitÃ©
-&AlÃ©atoire
-&PrÃ©dÃ©finie :
-&La quantitÃ© n'Ã©volue pas
-Graduation CaractÃ¨re (1-10)
+Quantité
+&Aléatoire
+&Prédéfinie :
+&La quantité n'évolue pas
+Graduation Caractère (1-10)
 "D&ocile
-(rejoint toujours le hÃ©ros : 1)"
+(rejoint toujours le héros : 1)"
 "&Amical
-(enclin Ã  rejoindre le hÃ©ros : 1-7)"
+(enclin à rejoindre le héros : 1-7)"
 "&Agressif
-(rejoint parfois le hÃ©ros : 1-10)"
+(rejoint parfois le héros : 1-10)"
 "&Hostile
-(rejoint rarement le hÃ©ros : 4-10)"
+(rejoint rarement le héros : 4-10)"
 "&Sauvage
-(ne rejoint jamais le hÃ©ros : 10)"
+(ne rejoint jamais le héros : 10)"
 Les Monstres &ne s'enfuient jamais
-Message Per&sonnalisÃ© :
+Message Per&sonnalisé :
 Monster Properties Treasure Page
 Ressources
 &Bois:
@@ -620,72 +620,72 @@ Ressources
 &Cristaux:
 G&emmes:
 &Or:
-&ArtÃ©fact:
+&Artéfact:
 New Map Dialog
 Taille de la Carte
 &36x36
 &72x72
 &108x108
 1&44x144
-&Carte Ã  deux Niveaux
+&Carte à deux Niveaux
 Version de la Carte
 The &Restoration of Erathia
 &Armageddon's Blade
-&GÃ©nÃ©rer carte alÃ©atoire
+&Générer carte aléatoire
 Nombre de Joueurs
 Humain/Ordinateur:
 Ordinateur seulement:
 Nombre d'Equipes
-Masse ocÃ©anique 
-AlÃ©atoire
+Masse océanique 
+Aléatoire
 Nulle
 Normale
-Ã‰levÃ©e
+Élevée
 Force des Monstres
-AlÃ©atoire
+Aléatoire
 Faible
 Normale
-Ã‰levÃ©e
+Élevée
 The &Shadow of Death
 Options Dialog
-FrÃ©quence des cases de terrain dÃ©coratives
+Fréquence des cases de terrain décoratives
 Aucune
 Beaucoup
-Repeindre la Carte entiÃ¨re
+Repeindre la Carte entière
 Options d'enregistrement automatique
 &Activer la sauvegarde automatique
 &Sauvegarder toutes les:
 minutes
 Resource Properties General Page
 Type :
-QuantitÃ©
-&AlÃ©atoire
-&PrÃ©dÃ©finie:
-"Note : Si la ressource est de l'Or, la quantitÃ© entrÃ©e sera multipliÃ© par 100."
-Me&ssage PersonnalisÃ© :
-"Note:  si vous placez un gardien, rÃ©digez votre message de faÃ§on Ã  ce que l'on puisse y rÃ©pondre par Oui ou Non, Oui indiquant que le joueur est prÃªt Ã  se battre contre les gardiens."
+Quantité
+&Aléatoire
+&Prédéfinie:
+"Note : Si la ressource est de l'Or, la quantité entrée sera multiplié par 100."
+Me&ssage Personnalisé :
+"Note:  si vous placez un gardien, rédigez votre message de façon à ce que l'on puisse y répondre par Oui ou Non, Oui indiquant que le joueur est prêt à se battre contre les gardiens."
 Scholar Properties Dialog
-RÃ©compense
-&AlÃ©atoire
-&CaractÃ©ristique:
-&CompÃ©tence Secondaire:
+Récompense
+&Aléatoire
+&Caractéristique:
+&Compétence Secondaire:
 S&ort:
 Seer's Hut Properties Dialog
-QuÃªte
+Quête
 &Modifier...
-&Temps LimitÃ©
+&Temps Limité
 &Mois:
 &Semaine:
 &Jour:
 &Personnaliser
-RÃ©compense
+Récompense
 Mo&difier...
-ÃŠtre %s
-Appartenir Ã  %s
+Être %s
+Appartenir à %s
 Shrine Properties Dialog
 Sort de Niveau %d
-&AlÃ©atoire
-&PrÃ©dÃ©fini :
+&Aléatoire
+&Prédéfini :
 Sign Properties Dialog
 &Message:
 Town Properties General Page
@@ -693,7 +693,7 @@ Type:
 &Joueur:
 &Nom:
 &Personnaliser
-HÃ©ros de passage
+Héros de passage
 Nom:
 Classe:
 A&jouter...
@@ -701,55 +701,55 @@ A&jouter...
 &Supprimer
 T&ype :
 Identique au %s
-Identique ou alÃ©atoire
+Identique ou aléatoire
 Town Properties Garrison Page
 Formation
-&DispersÃ©e
-&GroupÃ©e
+&Dispersée
+&Groupée
 Town Properties Buildings Page
-PrÃ©sence de &Fortifications
+Présence de &Fortifications
 Arbre de &construction :
-&AutorisÃ©
+&Autorisé
 &Construit
 T&out construire
-&Tout dÃ©truire
+&Tout détruire
 Town Properties Spells Page
 Niveau de &Sort :
-Sorts qui DOIVENT apparaÃ®tre dans la Guilde des Mages :
-Sorts qui PEUVENT apparaÃ®tre dans la Guilde des Mages :
+Sorts qui DOIVENT apparaître dans la Guilde des Mages :
+Sorts qui PEUVENT apparaître dans la Guilde des Mages :
 Town Properties Timed Events Page
-Ã‰&vÃ©nements :
+É&vénements :
 &Ajouter...
 &Modifier...
 &Supprimer
 To&ut Supprimer
 Mon&ter
-DÃ©s&cendre
+Dés&cendre
 Edit Quest Dialog
-Ã‰diter QuÃªtes
-SÃ©lectionner un type de QuÃªte :
+Éditer Quêtes
+Sélectionner un type de Quête :
 &Aucun
 Atteindre un &certain Niveau
-Atteindre certaines &CompÃ©tences
-Vaincre un &HÃ©ros spÃ©cifique
-Vaincre un &Monstre spÃ©cifique
-Rapporter un A&rtÃ©fact
-Ramener des &CrÃ©atures
+Atteindre certaines &Compétences
+Vaincre un &Héros spécifique
+Vaincre un &Monstre spécifique
+Rapporter un A&rtéfact
+Ramener des &Créatures
 Rapporter des &Ressources
 Ni&veau:
 A&ttaque:
-&DÃ©fense:
+&Défense:
 &Magie:
 &Savoir:
-HÃ©r&os:
+Hér&os:
 M&onstres:
-ArtÃ©facts
+Artéfacts
 A&jouter...
 Mo&difier...
 Su&pprimer
 Tou&t Supprimer
-Type de CrÃ©ature
-QuantitÃ©
+Type de Créature
+Quantité
 &Bois:
 Merc&ure:
 &Pierre:
@@ -757,111 +757,111 @@ Merc&ure:
 Cr&istaux:
 &Gemmes:
 O&r:
-ÃŠtre un HÃ©ros spÃ©cifique
-ÃŠtre un Joueur spÃ©cifique
+Être un Héros spécifique
+Être un Joueur spécifique
 Classe:
-IdentitÃ©:
+Identité:
 Joueur:
 Edit Reward Dialog
-Ã‰diter RÃ©compense
-Choisir un type de RÃ©compense :
+Éditer Récompense
+Choisir un type de Récompense :
 &Aucune
-&ExpÃ©rience
+&Expérience
 Points de &Magie
 &Moral
 &Chance
 &Ressources
-&CaractÃ©ristiques
-CompÃ©&tences
-&ArtÃ©facts
+&Caractéristiques
+Compé&tences
+&Artéfacts
 &Sorts
-&CrÃ©atures
-Bonus d'ExpÃ©rience:
+&Créatures
+Bonus d'Expérience:
 Bonus en Points de Magie:
 Bonus de Moral:
 Bonus de Chance:
 Type de Ressource:
-QuantitÃ©:
-CaractÃ©ristique:
+Quantité:
+Caractéristique:
 Bonus:
-CompÃ©tence Secondaire:
-MaÃ®trise:
-ArtÃ©fact:
+Compétence Secondaire:
+Maîtrise:
+Artéfact:
 Sort :
-Type de CrÃ©ature:
+Type de Créature:
 Hero Placeholder Properties Dialog
-&PropriÃ©taire:
-IdentitÃ©:
-&Tous les hÃ©ros:
-HÃ©ros &spÃ©cifique:
+&Propriétaire:
+Identité:
+&Tous les héros:
+Héros &spécifique:
 &Niveau de puissance:
 &Classe:
-&IdentitÃ©:
+&Identité:
 Hero Properties Biography Page
 Biographie
 &Personnaliser
 Map Specs Artifacts Page
-ArtÃ©facts &disponibles:
+Artéfacts &disponibles:
 Map Specs Available Heroes Page
-HÃ©ros &disponibles:
-&PropriÃ©tÃ©sâ€¦
+Héros &disponibles:
+&Propriétés…
 Random Generator Properties Dialog
-&PropriÃ©taire:
-Niveau des CrÃ©atures
+&Propriétaire:
+Niveau des Créatures
 M&inimum:
 M&aximum:
 Type
-SÃ©&lectionner une ville:
+Sé&lectionner une ville:
 Id&entique au:
-&ChÃ¢teau
+&Château
 &Rempart
 &Tour
-Had&Ã¨s
-&NÃ©cropole
+Had&ès
+&Nécropole
 &Donjon
 Basti&on
 &Forteresse
 Conflu&x
 Witch Hut Properties Dialog
-CompÃ©tences potentielles:
+Compétences potentielles:
 Hero Properties Primary Skils Page
-CaractÃ©ristiques
+Caractéristiques
 &Personnaliser
 Hero Properties Spells Page
 Sorts
 &Personnaliser
 Hero Prototype Properties Artifacts Page
-ArtÃ©facts:
+Artéfacts:
 Hero Prototype Properties Biography Page
 Biographie
 Hero Prototype Properties General Page
-GÃ©nÃ©ral
-Peut Ãªtre recrutÃ© par
+Général
+Peut être recruté par
 Joueur &%d
 Hero Prototype Properties Primary Skills Page
-CaractÃ©ristiques
+Caractéristiques
 Hero Prototype Properties Secondary Skills Page
-CompÃ©tences Secondaires
+Compétences Secondaires
 Hero Prototype Properties Sheet
-PropriÃ©tÃ©s de l'identitÃ© du hÃ©ros
+Propriétés de l'identité du héros
 Hero Prototype Properties Spells Page
 Sorts
 Primary Skills Dialog
 &Attaque:
-&DÃ©fense:
+&Défense:
 &Magie:
 &Savoir:
 Spells Dialog
 &Sorts:
 Map Specs Secondary Skills Page
-CompÃ©tences Secondaires
-CompÃ©tences di&sponibles:
+Compétences Secondaires
+Compétences di&sponibles:
 Map Specs Spells Page
 Sorts
 Sorts &disponibles :
 Main Menu
 &Fichier
-&Ã‰dition	
+&Édition	
 &Affichage	
 Ou&tils	
 &Joueur	
@@ -873,37 +873,37 @@ File Menu
 Enregistrer &sous...	
 &Exporter le texte...	
 &Importer le texte...	
-Fichier rÃ©cent	
+Fichier récent	
 Q&uitter	
 Edit Menu	
 &Annuler	[Ctrl+Z]
-&RÃ©tablir	[Shift+Ctrl+Z]
+&Rétablir	[Shift+Ctrl+Z]
 Co&uper	[Ctrl+X]
 &Copier	[Ctrl+C]
 &Coller	[Ctrl+V]
 &Supprimer	[Suppr]
 &Rechercher...	[Ctrl+F]
 S&uivant	[F3]
-PrÃ©&cÃ©dent	[Ctrl+F3]
-Pr&opriÃ©tÃ©s...	[Enter]
+Pré&cédent	[Ctrl+F3]
+Pr&opriétés...	[Enter]
 View Menu	
 Zoom &Avant
-Zoom &ArriÃ¨re	
+Zoom &Arrière	
 &Souterrain	[Ctrl+U]
 &Grille	[Ctrl+G]
-&AccessibilitÃ©	[Ctrl+P]
+&Accessibilité	[Ctrl+P]
 Animation des &Objets	[Ctrl+A]
 A&nimation du Terrain	[Ctrl+T]
 &Barre d'outils	
 &Barre de mode	
-&Barre d'Ã©tat	
+&Barre d'état	
 Tools Menu	
 &Terrain	
-&RiviÃ¨re	
+&Rivière	
 R&oute	
 &Gomme	
 O&bjets	
-CaractÃ©ristiques de la &Carte...	[Ctrl+Enter]
+Caractéristiques de la &Carte...	[Ctrl+Enter]
 &Valider la Carte	[M]
 O&ptions...	
 Obstacles	
@@ -913,25 +913,25 @@ Tools|Terrain Menu
 &4x4    [C]
 &Remplissage    [V]
 &Terre [1]
-&DÃ©sert [2]
+&Désert [2]
 &Prairie [3]
 N&eige [4]
 Mara&is [5]
 &Rocailleux [6]
 S&outerrain [7]
 &Lave [8]
-&OcÃ©an  [-]
+&Océan  [-]
 P&arois [=]
 Tools|Rivers Menu
 &Claire [Alt+1]
-&GelÃ©e  [Alt+2]
+&Gelée  [Alt+2]
 &Boueuse    [Alt+3]
 &Lave   [Alt+4]
 &Gomme  [Alt+5]
 Tools|Roads Menu
 &Terre	[Shift+1]
 &Graviers   [Shift+2]
-&PavÃ©s  [Shift+3]
+&Pavés  [Shift+3]
 &Gomme  [Shift+4]
 Tools|Erase Menu
 &1x1    [Shift+Z]
@@ -940,20 +940,20 @@ Tools|Erase Menu
 &Remplissage    [Shift+V]
 Tools|Objects Menu
 &Objets Terre [Q]
-&Objets DÃ©sert [W]
+&Objets Désert [W]
 &Objets Prairie [E]	
 O&bjets Neige [R]	
 Obje&ts Marais [T]	
 &Objets Rocailleux [Y]	
 O&bjets Souterrain [U]	
 &Objets Lave [I]	
-&Objets OcÃ©an []]	
+&Objets Océan []]	
 &Objets tous Terrains [A]	
 &Villes [S]	
 &Monstres [D]	
-&HÃ©ros [F]	
-ArtÃ©&facts [G]	
-Tr&Ã©sors [H]	
+&Héros [F]	
+Arté&facts [G]	
+Tr&ésors [H]	
 Player Menu	
 &Aucun	[Ctrl+0]
 Joueur &1 (%s)	[Ctrl+1]
@@ -966,19 +966,19 @@ Joueur &7 (%s)	[Ctrl+7]
 Joueur &8 (%s)	[Ctrl+8]
 Help Menu	
 &Fichier d'Aide	
-&Ã€ propos de l'Ã©diteur de Carte...	
+&À propos de l'éditeur de Carte...	
 Context Menu	
 &Qu'est-ce que c'est ?	
 &Annuler	
-&RÃ©tablir	
+&Rétablir	
 Co&uper	
 &Copier	
 &Coller
 &Supprimer
-&Rechercherâ€¦
+&Rechercher…
 S&uivant
-PrÃ©&cÃ©dent
-Pr&opriÃ©tÃ©s...
+Pré&cédent
+Pr&opriétés...
 Placer les O&bstacles
 Tools|Erase Menu
 1x1 Brosse Solide   [Shift+Q]

@@ -1,8 +1,8 @@
 ===== Map name =====
-Air Tyrants
+Les Tyrans des Airs
 
 ===== Map description =====
-For years, your country has been attacked by air pirates. There were no means of defense against air attacks, so you were forced to go underground. But enough time has passed to gather strength and repel the air invaders.
+Depuis des années, votre pays a été attaqué par des pirates de l'air. Il n'existait aucun moyen de défense contre leurs attaques venues du ciel, vous forcant à vous réfugier sous terre. Mais suffisamment de temps s'est écoulé pour rassembler vos forces et repousser ces envahisseurs des airs.
 
 ===== Rumors =====
 
@@ -11,22 +11,22 @@ For years, your country has been attacked by air pirates. There were no means of
 Name:
 day1
 Message:
-For decades, air pirates had been terrorizing the surface world. They descended from above the clouds in their airships, robbing and killing anyone they could find. Centuries ago, your defenseless people fled to the only safe place they could find�the underground caves where the airships could not reach them. 
+Pendant des décennies, les pirates aériens ont terrorisé le monde de la surface. Ils descendaient au-dessus des nuages à bord de leurs vaisseaux volants, pillant et tuant tous ceux qu'ils trouvaient. Il y a des siècles, votre peuple sans défense s'est enfui vers le seul endroit sûr qu'il connaissait : les cavernes souterraines que les vaisseaux ne pouvaient atteindre.. 
 
 Name:
 day1.1
 Message:
-Over the long years spent underground, your people have not only survived but also built up enough strength to return to the surface and fight the air tyrants. The time has come to leave the caves and face the world once again!
+Au fil de ces longues années sous terre, votre peuple n'a pas seulement survécu, il a aussi accumulé assez de forces pour retourner à la surface et combattre ces Tyrans de l'air. Le moment est venu de quitter les cavernes et d'affronter à nouveau le monde !
 
 Name:
 day5
 Message:
-You put your ear to the cold stone and heard loud humming and a babble of voices. After returning to the camp and studying the maps of the dungeons, you came to the only possible conclusion: there were other people in your neighborhood, separated from you by impenetrable earth.
+Vous avez collé votre oreille contre la pierre froide et entendu un fort bourdonnement mêlé à des murmures. De retour au camp, après avoir étudié les cartes des souterrains, vous êtes arrivé à la seule conclusion possible : d'autres personnes vivaient dans votre voisinage, séparées de vous par une terre impénétrable.
 
 Name:
 Day7
 Message:
-Who are those mysterious strangers in the nearby caves? Perhaps they too are survivors, a part of your people who also escaped underground but were unable to reunite with you. However, their culture and worldview may have changed a great deal over the centuries. It is not clear yet whether they will become your allies in the fight against the air pirates or try to claim the surface and the caves for themselves.
+Qui sont ces mystérieux étrangers dans les cavernes voisines ? Peut-être sont ils eux aussi des survivants, une partie de votre peuple qui s'est réfugiée sous terre sans jamais réussir à vous rejoindre. Cependant, leur culture et leur vison du monde ont pu énormément changer au fil des siécles. Il n'est pas encore clair s'ils deviendront vos alliés dans la lutte contre les pirates aériens ou s'ils tenteront de s'approprier la surface et les cavernes pour eux-mêmes.
 
 ===== Heroes =====
 
@@ -34,14 +34,14 @@ Who are those mysterious strangers in the nearby caves? Perhaps they too are sur
 
 (5, 34, 0) ***Event***
 Message:
-Here it was, the Surface! You saw what you had only heard about in the stories of old people who had once lived under the sun. There was, however, no sign of the air pirates. It seemed that no human had set foot in these parts for many years; the wrecked airships and gnawed-upon skeletons had gotten overgrown with vegetation. Had the foe you feared so disappeared from this world? It no longer mattered whether they had been struck by illness or by strife. Now, you were only worried about the prospect of encountering the inhabitants of other caves 
+C'était donc cela, la Surface ! Vous découvriez enfin ce dont vous n'aviez entendu parler que dans les récits des anciens qui avaient autrefois vécu sous le soleil. Pourtant, aucun signe des pirates aériens. Il semblait qu'aucun humain n'avait foulé ces terres depuis de nombreuses années ; les épaves d'aéronefs et les squelettes rongés par le temps avaient été envahis par la végétation. L'ennemi que vous redoutiez avait-il donc disparu de ce monde ? Peu importait qu'ils aient succombé à la maladie ou à des conflits. Désormais, seule la perspective de rencontrer les habitants d'autres cavernes vous préoccupait.
 
 (6, 5, 0) ***Event***
 Message:
-Here it was, the Surface! You saw what you had only heard about in the stories of old people who had once lived under the sun. There was, however, no sign of the air pirates. It seemed that no human had set foot in these parts for many years; the wrecked airships and gnawed-upon skeletons had gotten overgrown with vegetation. Had the foe you feared so disappeared from this world? It no longer mattered whether they had been struck by illness or by strife. Now, you were only worried about the prospect of encountering the inhabitants of other caves. If they were looking for a good fight, just like you, they would get one.
+C'était donc cela, la Surface ! Vous découvriez enfin ce dont vous n'aviez entendu parler que dans les récits des anciens qui avaient autrefois vécu sous le soleil. Pourtant, aucun signe des pirates aériens. Il semblait qu'aucun humain n'avait foulé ces terres depuis de nombreuses années ; les épaves d'aéronefs et les squelettes rongés par le temps avaient été envahis par la végétation. L'ennemi que vous redoutiez avait-il donc disparu de ce monde ? Peu importait qu'ils aient succombé à la maladie ou à des conflits. Désormais, seule la perspective de rencontrer les habitants d'autres cavernes vous préoccupait. S'ils cherchaient un combat digne de ce nom, comme vous, ils le trouveraient.
 
 (24, 9, 1) ***Event***
 Message:
-It seems that in ancient times, another group from the surface tried to flee to this cave in a bid to save their lives. However, the cave was too small for them to survive for long, and in the end, all the new dwellers died.
+Il semble que, dans les temps anciens, un autre groupe venu de la surface ait tenté de se réfugier dans cette caverne pour sauver sa vie. Cependant, la caverne était trop petite pour leur permettre de survivre longtemps et, finalement, tous les nouveaux habitants périrent.
 
 ===== End of file =====

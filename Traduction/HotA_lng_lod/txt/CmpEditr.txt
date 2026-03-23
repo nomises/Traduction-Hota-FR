@@ -1,17 +1,17 @@
 Note: Do not change the headings in this file, they are used to detect problems
 General
-Ã‰diteur de campagne de Heroes of Might and Magic(tm) III - Horn of the Abyss
-Â© 2000 The 3DO Company. Tous droits rÃ©servÃ©s. 3DO, Heroes of Might and Magic, Shadow of Death, New World Computing et leurs logos respectifs sont des marques/services dÃ©posÃ©s par The 3DO Company aux Etats-Unis et dans les autres pays. New World Computing est une filiale de The 3DO Company.
+Éditeur de campagne de Heroes of Might and Magic(tm) III - Horn of the Abyss
+© 2000 The 3DO Company. Tous droits réservés. 3DO, Heroes of Might and Magic, Shadow of Death, New World Computing et leurs logos respectifs sont des marques/services déposés par The 3DO Company aux Etats-Unis et dans les autres pays. New World Computing est une filiale de The 3DO Company.
 Version %s
 Fichiers Campagne Heroes 3 (*.h3c)
 Campagne Heroes 3
-Votre affichage doit Ãªtre configurÃ© en couleurs 16-bit pour utiliser l'Ã‰diteur de Campagne
+Votre affichage doit être configuré en couleurs 16-bit pour utiliser l'Éditeur de Campagne
 Version Debug
 Version Commerciale
 OK
-Ã€ propos de l'Ã‰diteur de Campagne
+À propos de l'Éditeur de Campagne
 Joueur %d (%s)
-Ville alÃ©atoire
+Ville aléatoire
 """%s"" est non valide ou corrompu.  Impossible de l'importer."
 """%s"" est injouable.  Impossible de l'importer."
 "La version de ""%s"" est non valide.  Impossible de l'importer."
@@ -21,28 +21,28 @@ Ville alÃ©atoire
 Version du fichier = %d
 Version actuelle = %d"
 Fichier de campagne non valide ou corrompu !
-"%s existe dÃ©jÃ .
+"%s existe déjà.
 Voulez-vous le remplacer ?"
-PropriÃ©tÃ©s...
-HÃ©ros le Plus Puissant
-HÃ©ros CrÃ©Ã©
+Propriétés...
+Héros le Plus Puissant
+Héros Créé
 et
-HÃ©ros AlÃ©atoire
+Héros Aléatoire
 (Aucun)
 Facile
 Normal
 Difficile
 Expert
 Impossible
-"Fichiers ScÃ©nario Heroes 3 (*.h3m)
+"Fichiers Scénario Heroes 3 (*.h3m)
 .h3m"
 Prologue
 a un &prologue
-Ã‰pilogue
-a un Ã©p&ilogue
-PropriÃ©tÃ©s du ScÃ©nario
+Épilogue
+a un ép&ilogue
+Propriétés du Scénario
 Sort : %s
-Donner %s Ã  %s
+Donner %s à %s
 Fabriquer : %s dans la Ville Principale
 Recevoir %d %s
 Annuler
@@ -50,53 +50,53 @@ Aide
 "Fichiers texte (*.txt)
 .txt"
 "Impossible d'importer ""%s""."
-"Importation de ""%s"" effectuÃ©."
+"Importation de ""%s"" effectué."
 Nom
 Description
 Texte bouton droit
 Prologue
-Ã‰pilogue
+Épilogue
 Campaign Properties Dialog
-PropriÃ©tÃ©s de la Campagne
+Propriétés de la Campagne
 Carte :
 &Nom :
 &Description
-DifficultÃ© du scÃ©nario dÃ©finissable par l'&utilisateur
-&ThÃ¨me musical :
+Difficulté du scénario définissable par l'&utilisateur
+&Thème musical :
 Version de la Campagne
 &Armageddon's Blade
 The &Shadow of Death
 Edit Hero Crossover Option Dialog
-Ã‰diter les Options RÃ©cupÃ©ration de HÃ©ros
-&ScÃ©nario prÃ©cÃ©dent :
+Éditer les Options Récupération de Héros
+&Scénario précédent :
 &Position du joueur :
 Edit Starting Bonus Type Dialog
-Ã‰diter le Bonus de DÃ©part
+Éditer le Bonus de Départ
 Choisir un type de bonus :
 &Sort
-&CrÃ©ature
-&BÃ¢timent
-ArtÃ©fac&t
+&Créature
+&Bâtiment
+Artéfac&t
 Parch&emin de sort
-Carac&tÃ©ristique
-C&ompÃ©tence secondaire
+Carac&téristique
+C&ompétence secondaire
 &Ressource
 Destinataire :
-ArtÃ©fact :
-Type de CrÃ©ature :
-QuantitÃ© :
-BÃ¢timent :
+Artéfact :
+Type de Créature :
+Quantité :
+Bâtiment :
 Sort :
 Attaque :
-DÃ©fense :
+Défense :
 Magie :
 Savoir :
-CompÃ©tence :
-Niveau de maÃ®trise :
+Compétence :
+Niveau de maîtrise :
 Type de ressource :
 Edit Starting Hero Option Dialog
-Editer les Options du HÃ©ros de DÃ©part
-IdentitÃ© du &hÃ©ros :
+Editer les Options du Héros de Départ
+Identité du &héros :
 &Position du Joueur :
 New Campaign Dialog
 Nouvelle Campagne
@@ -105,65 +105,65 @@ Version de la Campagne
 &Armageddon's Blade
 The &Shadow of Death
 Scenario Properties Crossover Page
-Options de RÃ©cupÃ©ration
-Les hÃ©ros rÃ©cupÃ©rÃ©s conservent :
-&ExpÃ©rience
-&CaractÃ©ristiques
-C&ompÃ©tences
+Options de Récupération
+Les héros récupérés conservent :
+&Expérience
+&Caractéristiques
+C&ompétences
 &Sorts
-ArtÃ©fact&s
-Types de &crÃ©atures :
+Artéfact&s
+Types de &créatures :
 &Toutes
 A&ucune
-ArtÃ©facts rÃ©cupÃ©rÃ©s :
+Artéfacts récupérés :
 Scenario Properties General Page
-GÃ©nÃ©ral
-Nom de la rÃ©gion :
-&Couleur de la rÃ©gion :
-Nom du scÃ©nario :
+Général
+Nom de la région :
+&Couleur de la région :
+Nom du scénario :
 Fichier de la carte
 &Importer...
 &Actualiser...
 &Exporter...
 &Retirer
-&DifficultÃ© par dÃ©faut :
-Conditions &prÃ©alables :
-Texte d'aide de la rÃ©&gion :
+&Difficulté par défaut :
+Conditions &préalables :
+Texte d'aide de la ré&gion :
 Scenario Properties Prologue Page
 &Animation :
 M&usique :
 &Message :
 Scenario Properties Starting Options Page
-Options de DÃ©part
-Les options de dÃ©part sont :
-Options du &bonus de dÃ©part
-Options de rÃ©cup&Ã©ration de hÃ©ros
-Options du &hÃ©ros de dÃ©part
+Options de Départ
+Les options de départ sont :
+Options du &bonus de départ
+Options de récup&ération de héros
+Options du &héros de départ
 &Position du joueur
-&Options du bonus de dÃ©part
+&Options du bonus de départ
 &Ajouter...
-&Ã‰diter...
+&Éditer...
 &Retirer
-ScÃ©nario prÃ©cÃ©dent
-HÃ©ros
+Scénario précédent
+Héros
 Main Menu Text
 &Fichier
 &Edition	
 &Aide	
 File Menu	
-&Nouveauâ€¦	Ctrl+N
-&Ouvrirâ€¦	Ctrl+O
+&Nouveau…	Ctrl+N
+&Ouvrir…	Ctrl+O
 &Enregistrer	Ctrl+S
-En&registrer sousâ€¦	
+En&registrer sous…	
 Ex&porter texte...	
 &Importer texte...	
-&Actualiser les cartes de scÃ©nario	Ctrl+R
-E&xporter les cartes de scÃ©nario	Ctrl+E
-Fichiers rÃ©cents	
+&Actualiser les cartes de scénario	Ctrl+R
+E&xporter les cartes de scénario	Ctrl+E
+Fichiers récents	
 &Quitter	
 Edit Menu	
-PropriÃ©tÃ©s de la &campagneâ€¦	Ctrl+EntrÃ©e
-PropriÃ©tÃ©s du &scÃ©narioâ€¦	EntrÃ©e
+Propriétés de la &campagne…	Ctrl+Entrée
+Propriétés du &scénario…	Entrée
 Help Menu
 &Sujets de l'Aide
-&Ã€ propos de l'Ã‰diteur de Campagneâ€¦
+&À propos de l'Éditeur de Campagne…
