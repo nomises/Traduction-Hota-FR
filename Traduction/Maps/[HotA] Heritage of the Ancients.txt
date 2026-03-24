@@ -1,72 +1,72 @@
 ===== Map name =====
-Heritage of the Ancients
+L'Héritage des Anciens
 
 ===== Map description =====
-An ancient tomb was found in faraway lands. Who knows what treasures and knowledge it holds? Alas, to your great dismay, your enemy has already learned about your plans to explore it…
+Un ancien tombeau a été découvert en des terres lointaines. Qui sait quels trésors et quels savoirs il renferme ? Hélas, à votre grand dam, votre ennemi a déjà eu vent de vos projets d'exploration...
 
 ===== Rumors =====
 
 Name:
 1
 Text:
-The Tomb is guarded by genies and efreet. Don’t mess with them!
+Le Tombeau est gardé par des Djinns et des Efrits. Ne les dérangez pas !
 
 Name:
 2
 Text:
-Last time I was in the Tomb, I couldn't get out the same way I got in.
+La dernière fois que je suis entré dans le Tombeau, je n'en suis pas ressorti par le même chemin.
 
 Name:
 3
 Text:
-Don’t listen to what people say! It’s pretty easy to get out of the Tomb!
+N'écoutez pas les racontars! Il est plutôt simple de sortir du Tombeau!
 
 Name:
 4
 Text:
-Once, travelling to the Tomb, I ran into a weird hovering eye. I barely escaped with my life!
+Une fois, en me rendant au Tombeau, je suis tombé sur un étrange oeil flottant. J'ai à peine réussi à m'enfuir vivant !
 
 Name:
 5
 Text:
-They say that basilisks moved to the Tomb through the portals and settled there.
+On dit que des Basilics sont entrés dans le Tombeau grâce à des portails et s'y sont installés.
 
 ===== Timed events =====
 
 Name:
-Ñèíèé - ñàìîöâåòû
+Ă‘Ă¨Ă­Ă¨Ă© - Ă±Ă Ă¬Ă®Ă¶Ă˘ĂĄĂ˛Ă»
 Message:
 
 
 Name:
 Day 1 - Rampart
 Message:
-It took you a while to set up an outpost so far from your lands. Unfortunately, your actions did not go unnoticed. Soon, the ruler of a neighboring principality, your old enemy, arrived here too. This time, he hired an elementalist, who is equally eager to find out what secrets the tomb holds. However, you did not waste time either, enlisting the support of your old allies, the elves, who have long borne a grudge against your opponent.
+Il vous a fallu du temps pour établir un avant-poste si loin de vos terres. Malheureusement, cela n'est pas passé inaperçu. Le souverain d'une principauté voisine, votre vieil ennemi, est également présent. Cette fois, il a engagé un Conjureur, tout aussi impatient de découvrir les secrets que renferme le Tombeau. Cependant, vous n'avez pas perdu de temps non plus, en obtenant le soutien de vos anciens alliés, les elfes, qui nourrissent une vieille rancoeur envers votre adversaire.
 
 Name:
 Day 1 - Conflux
 Message:
-It took you a while to set up an outpost so far from your lands. Unfortunately, your actions did not go unnoticed. Soon, the ruler of a neighboring principality, your old enemy, arrived here too. This time, he enlisted the support of the elves, who have long borne a grudge against you for cutting down their forests. It seems that this lord is equally eager to find out what secrets the tomb holds. But you did not waste time either, meeting an experienced elementalist on the way, who offered his services to you. They say these sorcerers are capable of summoning an entire army!
+Il vous a fallu du temps pour établir un avant-poste si loin de vos terres. Malheureusement, cela n'est pas passé inaperçu. Le souverain d'une principauté voisine, votre vieil ennemi, est également présent. Cette fois, il a obtenu le soutien des elfes, qui vous en veulent depuis longtemps pour avoir abattu leurs forêts. Il semble que ce seigneur soit tout aussi impatient de découvrir les secrets que renferme le Tombeau. Mais vous n'avez pas perdu de temps non plus, en recrutant un Conjureur expérimenté qui vous a proposé ses services. On dit que ces sorciers sont capables d'invoquer une armée entière !
 
 Name:
 Day 1 - Tower
 Message:
-Knowledge, power... What does this tomb have in store? We do not know, but who other than wizards from the University of the Four Elements can possibly unravel its secrets? It has been a long time since we had a chance to study the legacy of such ancient times. 	However, rumor has it that we are not the only ones who have learned of the Tomb's existence. The greedy rulers of neighboring lands woud never miss an opportunity to get their hands on treasures and new magic knowledge. Their troops will probably appear here soon, so we sent gargoyle messengers to them.
+Connaissance, puissance... Que réserve donc ce Tombeau ? Nous ne le savons pas, mais qui d'autre que les Magiciens de l'Université des Quatre Éléments pourrait en percer les secrets ? Cela fait longtemps que nous n'avons pas eu l'occasion d'étudier un héritage aussi ancien. 	Cependant, des rumeurs disent que nous ne sommes pas les seuls à avoir appris l'existence du Tombeau. Les seigneurs voisins, avides et cupides, ne laisseraient jamais passer une chance de mettre la main sur des trésors et de nouvelles connaissances magiques. Leurs troupes devraient bientôt apparaître ici, nous avons donc fait passer un message grâce aux Gargouilles.
 
 Name:
 Day 6 (not Tower)
 Message:
-It seems that you and your enemy are not the only ones who know about the Tomb. A gargoyle flew into our camp today. Of course, the creature was shot on the spot, but it carried a message in its paws. 	A wizard, who introduced himself as a representative of some University, reported that he and his “colleagues” knew about both the Tomb and your plans. He warned about the dangers allegedly lurking in the Tomb and hinted that you had no business being there. 	Without saying a word, you tear up the letter and return to your men to give new orders.
+Il semble que vous et votre ennemi ne soyez pas les seuls à connaître l'existence du Tombeau. Une Gargouille est arrivée dans votre camp aujourd'hui. Bien sûr, la créature a été abattue sur-le-champ, mais elle portait un message dans ses serres. 	Un Magicien, se présentant comme représentant d'une certaine Université, a rapporté, que lui et son "associé" connaissaient à la fois le Tombeau et vos plans. Il mettait en garde contre les dangers qui s'y cacheraient et a sous-entendu que vous n'aviez rien à y faire. 	Sans dire un mot, vous déchirez la lettre et retournez vers vos hommes pour donner de nouveaux ordres.
 
 Name:
-ÈÈ - áîíóñ
+Ă�Ă� - ĂˇĂ®Ă­ĂłĂ±
 Message:
 
 
 Name:
 Day 9 (Tower)
 Message:
-The gargoyles we sent with messages never returned, so we assume the worst; the rulers must have decided not only to settle their old scores, but also dared challenge us, ignoring our warning. So much the worse for them.
+Les Gargouilles que nous avions envoyées avec des messages ne sont jamais revenues, assumons le pire. Les différents dirigeants ont dû décider non seulement de régler de vieux comptes, mais aussi de nous défier, ignorant notre avertissement. Tant pis pour eux.
 
 ===== Heroes =====
 
@@ -74,21 +74,21 @@ The gargoyles we sent with messages never returned, so we assume the worst; the 
 
 (2, 11, 0) ***Quest Guard***
 Message:
-You can hire Pixies here, but they demand 3500 gold.
-The Pixies are not ready to join your ranks for less than 3500 gold.
-Do you want to hire the Pixies?
+Vous pouvez engager des Pixies ici, mais ils demandent 3 500 Pièces d'Or.
+Les Pixies ne sont pas prêts à rejoindre vos rangs pour moins de 3 500 Pièces d'Or.
+Voulez-vous engager les Pixies ?
 
 (27, 34, 0) ***Quest Guard***
 Message:
-Elf mercenaries take stand here. To hire them for your host, you’ll have to pay them 5000 gold. They also have a decent armor enchanted to repel magic.
-The Elves are not ready to join your ranks for less than 5000 gold.
-Do you want to hire the Elves and get the anti-magic armor?
+Des Elfes mercenaires se tiennent ici. Pour les engager, vous devrez leur payer 5 000 Pièces d'Or. Ils ont aussi une décente armure, enchantée pour repousser la magie.
+Les Elfes ne sont pas prêts à rejoindre vos rangs pour moins de 5 000 Pièces d'Or.
+Voulez-vous engager les Elfes et obtenir l'armure anti-magie ?
 
 (11, 2, 0) ***Quest Guard***
 Message:
-There is a nexus of magic energy here; you could use it to create a portal to the Plane of Water and summon water elementals. However, you’ll have to pay 6000 gold for the ingredients needed for the ritual.
-You can’t afford the ritual yet.
-Do you want to conduct the ritual and create a portal to the Plane of Water?
+Il y a ici un nexus d'énergie magique ; vous pourriez l'utiliser pour créer un portail vers l'Autel de l'Eau et invoquer des Élémentaires de l'Eau. Cependant, vous devrez payer 6 000 Pièces d'Or pour les ingrédients nécessaires au rituel.
+Vous n'avez pas les moyens de payer le rituel.
+Voulez-vous conduire le rituel et créer un portail vers l'Autel de l'Eau ?
 
 (15, 11, 0) ***Pandora's Box***
 Message:
@@ -100,15 +100,15 @@ Message:
 
 (16, 21, 0) ***Seer's Hut***
 Message:
-I’m but a lowly merchant, but not so long ago I came by a thing of great magic power. The vagabond who brought it to me said he had found it in the Tomb and had barely escaped with it, being chased by some odd monsters. I don't know if this is true, but the item is of no use to me. I would be happy to offer it to you for mere 15 gems.
-No, I wouldn’t sell this for less than 15 gems. In different conditions, it could command a much higher price.
-Great, here it is.	Do you want to buy the magic armor from the merchant?
+Je ne suis qu'un modeste marchand, mais il n'y a pas si longtemps, j'ai acquis un objet doté d'un grand pouvoir magique. Le vagabond qui me l'a apporté a dit l'avoir trouvé dans le Tombeau et avoir à peine réussi à s'en échapper, poursuivi par d'étranges monstres. Je ne sais pas si c'est vrai, mais cet objet ne me sert à rien. Je serais heureux de vous le céder pour 15 Gemmes.
+Non, je ne vendrai pas cela pour moins de 15 Gemmes. Dans d'autres circonstances, il pourrait valoir bien plus cher.
+Voulez-vous acheter l'armure magique au marchand ?
 
 (2, 25, 0) ***Quest Guard***
 Message:
-Magi mercenaries take stand here. To hire them for your army, you’ll have to pay them 5000 gold.
-The Magi are not ready to join your ranks for less than 5000 gold.
-Do you want to hire the Magi?
+Des Mages mercenaires se tiennent ici. Pour les engager, vous devrez leur payer 5 000 Pièces d'Or.
+Les Mages ne sont pas prêts à rejoindre vos rangs pour moins de 5 000 Pièces d'Or.
+Voulez-vous engager les Mages ?
 
 (24, 23, 0) ***Pandora's Box***
 Message:
@@ -124,47 +124,47 @@ Message:
 
 (0, 31, 0) ***Event***
 Message:
-ÈÈ - Ìèíóñ ñêîðîñòü
+Ă�Ă� - ĂŚĂ¨Ă­ĂłĂ± Ă±ĂŞĂ®Ă°Ă®Ă±Ă˛ĂĽ
 
 (3, 26, 0) ***Event***
 Message:
-ÈÈ - Ìèíóñ ñêîðîñòü
+Ă�Ă� - ĂŚĂ¨Ă­ĂłĂ± Ă±ĂŞĂ®Ă°Ă®Ă±Ă˛ĂĽ
 
 (15, 20, 0) ***Event***
 Message:
-ÈÈ - Ìèíóñ ñêîðîñòü
+Ă�Ă� - ĂŚĂ¨Ă­ĂłĂ± Ă±ĂŞĂ®Ă°Ă®Ă±Ă˛ĂĽ
 
 (30, 26, 0) ***Event***
 Message:
-ÈÈ - Ìèíóñ ñêîðîñòü
+Ă�Ă� - ĂŚĂ¨Ă­ĂłĂ± Ă±ĂŞĂ®Ă°Ă®Ă±Ă˛ĂĽ
 
 (5, 8, 0) ***Event***
 Message:
-ÈÈ - Ìèíóñ ñêîðîñòü
+Ă�Ă� - ĂŚĂ¨Ă­ĂłĂ± Ă±ĂŞĂ®Ă°Ă®Ă±Ă˛ĂĽ
 
 (19, 25, 0) ***Seer's Hut***
 Message:
-I arrived here as a representative of the Circle of Druids. I want to study the creatures who settled down in the Tomb; who knows how a habitat like this influenced them? Bring me enough creatures so I could do research, and I will give you a magic scroll that would allow you to travel over water as easily as over land.
-No, I need more creatures for my research. Return when you have enough of them.
-Never thought I would have to study mummies like a filthy necromancer! Well, lore carries a price. I haven’t forgotten about your reward; take it.	Do you want to take the magic scroll from a druid?
+Je suis arrivé ici en tant que représentant du Cercle des Druides. Je souhaite étudier les créatures qui se sont installées dans le Tombeau. Qui sait comment un tel habitat a pu les influencer ? Apportez-moi assez de spécimens pour mes recherches, et je vous donnerai un parchemin magique vous permettant de voyager sur la mer comme sur la terre.
+Non, il me faut davantage de créatures pour mes recherches. Revenez quand vous en aurez assez.
+Je n'aurais jamais cru devoir étudier des Momies comme un nécromancien immonde ! Mais la connaissance a un prix. Je n'ai pas oublié votre récompense... Prenez-la.	Voulez-vous accepter le parchemin magique du druide ?
 
 (2, 12, 1) ***Seer's Hut***
 Message:
-You come to the door of a building. It bears a writing: «Training area. To increase your attack skills, sacrifice 5 crystals and 5 gems».
-Nothing will happen until you bring a sufficient amount of resources.
-You place the resources in front of the door. It opens, and you enter. Leaving, you remember nothing, but it seems you became more skilled in attack.
-You come to the door of a building. It bears a writing: «Training area. To increase your defence skills, sacrifice 5 crystals and 5 gems».
-Nothing would happen until you bring a sufficient amount of resources.
-You place the resources in front of the door. It opens, and you enter. Leaving, you remember nothing, but it seems you became more skilled in defence.
+Vous vous approchez de la porte d'un bâtiment. Une inscription y est gravée : 	Zone d'entraînement. Pour améliorer vos compétences en attaque, sacrifiez 5 cristaux et 5 gemmes. 
+Rien ne se passera tant que vous n'aurez pas apporté les ressources nécessaires.
+Vous déposez les ressources devant la porte. Celle-ci s'ouvre, et vous entrez. En ressortant, vous ne vous souvenez de rien... mais votre maîtrise du combat semble s'être améliorée.
+Vous vous approchez de la porte d'un bâtiment. Une inscription y est gravée : Zone d'entraînement. Pour améliorer vos compétences en défense, sacrifiez 5 Cristaux et 5 Gemmes.
+Rien ne se passera tant que vous n'aurez pas apporté les ressources nécessaires.
+Vous déposez les ressources devant la porte. Celle-ci s'ouvre, et vous entrez. En ressortant, vous ne vous souvenez de rien... mais votre défense semble s'être renforcée.
 
 (33, 12, 1) ***Seer's Hut***
 Message:
-You come to the door of a building. It bears a writing: «Training area. To increase your spell power, sacrifice 5 sulfur and 5 mercury».
-Nothing will happen until you bring a sufficient amount of resources.
-You place the resources in front of the door. It opens, and you enter. Leaving, you remember nothing, but it seems you became more skilled in spellcasting.
-You come to the door of a building. It bears a writing: «Training area. To increase your knowledge, sacrifice 5 sulfur and 5 mercury».
-Nothing will happen until you bring a sufficient amount of resources.
-You place the resources in front of the door. It opens, and you enter. Leaving, you remember nothing, but it seems your head is filled with new knowledge.
+Vous vous approchez de la porte d'un bâtiment. Une inscription y est gravée : 	Zone d'entraînement. Pour augmenter votre puissance magique, sacrifiez 5 Soufre et 5 Mercure.
+Rien ne se passera tant que vous n'aurez pas apporté les ressources nécessaires.
+Vous déposez les ressources devant la porte. Celle-ci s'ouvre, et vous entrez. En ressortant, vous ne vous souvenez de rien... mais votre maîtrise de la magie semble s'être accrue.
+Vous vous approchez de la porte d'un bâtiment. Une inscription y est gravée : 	Zone d'entraînement. Pour augmenter votre savoir, sacrifiez 5 Soufre et 5 Mercure. 
+Rien ne se passera tant que vous n'aurez pas apporté les ressources nécessaires.
+Vous déposez les ressources devant la porte. Celle-ci s'ouvre, et vous entrez. En ressortant, vous ne vous souvenez de rien... mais votre esprit semble rempli de nouvelles connaissances.
 
 (15, 29, 1) ***Pandora's Box***
 Message:
@@ -232,7 +232,7 @@ Message:
 
 (31, 24, 1) ***Event***
 Message:
-ÈÈ - áîíóñ
+Ă�Ă� - ĂˇĂ®Ă­ĂłĂ±
 
 (20, 29, 1) ***Pandora's Box***
 Message:
@@ -268,66 +268,66 @@ Message:
 
 (28, 30, 1) ***Seer's Hut***
 Message:
-You enter the building and find something resembling an altar; it is adorned with the images of a clover, a deck of cards and a figurine of a bird. The writing on the altar says: «To gain access to the vault, bring what brings luck».
-You lay your hand upon the altar. A metallic voice says: «Keys not found. Access to vault denied».
-You lay the items upon the altar. A screech is heard, the items disappear, and a secret niche opens in the altar. Inside, you find a crown.
+Vous entrez dans le bâtiment et découvrez ce qui ressemble à un autel. Il est orné d'images représentant un trèfle, un jeu de cartes et une figurine d'oiseau. Une inscription sur l'autel dit : Pour accéder au coffre, apportez vos porte-bonheur.
+Vous posez la main sur l'autel. Une voix métallique déclare :  Clés non trouvées. Accès au coffre refusé.
+Vous déposez les objets sur l'autel. Un grincement retentit, les objets disparaissent, et une niche secrète s'ouvre dans l'autel. À l'intérieur, vous trouvez une couronne.
 
 (7, 30, 1) ***Seer's Hut***
 Message:
-You enter the building and find something resembling an altar; it is adorned with the images of a badge, a crest and a glyph. The writing on the altar says: «To gain access to the vault, bring what fills the hearts of warriors with courage».
-You lay your hand upon the altar. A metallic voice says: «Keys not found. Access to vault denied.».
-You lay the items upon the altar. A screech is heard, the items disappear, and a secret niche opens in the altar. Inside, you find a set of armor.
+Vous entrez dans le bâtiment et découvrez ce qui ressemble à un autel. Il est orné d'images représentant un insigne, un blason et un glyphe. Une inscription sur l'autel dit : Pour accéder au coffre, apportez ce qui remplit le coeur des guerriers de courage.
+Vous posez la main sur l'autel. Une voix métallique déclare :  Clés non trouvées. Accès au coffre refusé.
+Vous déposez les objets sur l'autel. Un grincement retentit, les objets disparaissent, et une niche secrète s'ouvre dans l'autel. À l'intérieur, vous trouvez une armure.
 
 (23, 31, 1) ***Event***
 Message:
-ÈÈ - áîíóñ
+Ă�Ă� - ĂˇĂ®Ă­ĂłĂ±
 
 (12, 31, 1) ***Event***
 Message:
-ÈÈ - áîíóñ
+Ă�Ă� - ĂˇĂ®Ă­ĂłĂ±
 
 (4, 24, 1) ***Event***
 Message:
-ÈÈ - áîíóñ
+Ă�Ă� - ĂˇĂ®Ă­ĂłĂ±
 
 (13, 27, 1) ***Event***
 Message:
-ÈÈ - áîíóñ
+Ă�Ă� - ĂˇĂ®Ă­ĂłĂ±
 
 (22, 27, 1) ***Event***
 Message:
-ÈÈ - áîíóñ
+Ă�Ă� - ĂˇĂ®Ă­ĂłĂ±
 
 (33, 15, 1) ***Event***
 Message:
-ÈÈ - áîíóñ
+Ă�Ă� - ĂˇĂ®Ă­ĂłĂ±
 
 (20, 20, 1) ***Event***
 Message:
-ÈÈ - áîíóñ
+Ă�Ă� - ĂˇĂ®Ă­ĂłĂ±
 
 (15, 20, 1) ***Event***
 Message:
-ÈÈ - áîíóñ
+Ă�Ă� - ĂˇĂ®Ă­ĂłĂ±
 
 (22, 11, 1) ***Event***
 Message:
-ÈÈ - áîíóñ
+Ă�Ă� - ĂˇĂ®Ă­ĂłĂ±
 
 (31, 6, 1) ***Event***
 Message:
-ÈÈ - áîíóñ
+Ă�Ă� - ĂˇĂ®Ă­ĂłĂ±
 
 (2, 15, 1) ***Event***
 Message:
-ÈÈ - áîíóñ
+Ă�Ă� - ĂˇĂ®Ă­ĂłĂ±
 
 (13, 11, 1) ***Event***
 Message:
-ÈÈ - áîíóñ
+Ă�Ă� - ĂˇĂ®Ă­ĂłĂ±
 
 (4, 6, 1) ***Event***
 Message:
-ÈÈ - áîíóñ
+Ă�Ă� - ĂˇĂ®Ă­ĂłĂ±
 
 ===== End of file =====
