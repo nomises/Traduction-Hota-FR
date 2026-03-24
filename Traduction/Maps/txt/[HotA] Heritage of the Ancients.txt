@@ -1,0 +1,334 @@
+===== Map name =====
+L'Héritage des Anciens
+
+===== Map description =====
+Un ancien tombeau a été découvert en des terres lointaines. Qui sait quels trésors et quels savoirs il renferme ? Hélas, à votre grand dam, votre ennemi a déjà eu vent de vos projets d'exploration...
+
+===== Rumors =====
+
+Name:
+1
+Text:
+Le Tombeau est gardé par des Djinns et des Efrits. Ne les dérangez pas !
+
+Name:
+2
+Text:
+La dernière fois que je suis entré dans le Tombeau, je n'en suis pas ressorti par le même chemin.
+
+Name:
+3
+Text:
+N'écoutez pas les racontars! Il est plutôt simple de sortir du Tombeau!
+
+Name:
+4
+Text:
+Une fois, en me rendant au Tombeau, je suis tombé sur un étrange oeil flottant. J'ai à peine réussi à m'enfuir vivant !
+
+Name:
+5
+Text:
+On dit que des Basilics sont entrés dans le Tombeau grâce à des portails et s'y sont installés.
+
+===== Timed events =====
+
+Name:
+A‘A¨A­A¨A© - A±A A¬A®A¶A?AAA?A»
+Message:
+
+
+Name:
+Day 1 - Rampart
+Message:
+Il vous a fallu du temps pour établir un avant-poste si loin de vos terres. Malheureusement, cela n'est pas passé inaperçu. Le souverain d'une principauté voisine, votre vieil ennemi, est également présent. Cette fois, il a engagé un Conjureur, tout aussi impatient de découvrir les secrets que renferme le Tombeau. Cependant, vous n'avez pas perdu de temps non plus, en obtenant le soutien de vos anciens alliés, les elfes, qui nourrissent une vieille rancoeur envers votre adversaire.
+
+Name:
+Day 1 - Conflux
+Message:
+Il vous a fallu du temps pour établir un avant-poste si loin de vos terres. Malheureusement, cela n'est pas passé inaperçu. Le souverain d'une principauté voisine, votre vieil ennemi, est également présent. Cette fois, il a obtenu le soutien des elfes, qui vous en veulent depuis longtemps pour avoir abattu leurs forêts. Il semble que ce seigneur soit tout aussi impatient de découvrir les secrets que renferme le Tombeau. Mais vous n'avez pas perdu de temps non plus, en recrutant un Conjureur expérimenté qui vous a proposé ses services. On dit que ces sorciers sont capables d'invoquer une armée entière !
+
+Name:
+Day 1 - Tower
+Message:
+Connaissance, puissance... Que réserve donc ce Tombeau ? Nous ne le savons pas, mais qui d'autre que les Magiciens de l'Université des Quatre Éléments pourrait en percer les secrets ? Cela fait longtemps que nous n'avons pas eu l'occasion d'étudier un héritage aussi ancien. 	Cependant, des rumeurs disent que nous ne sommes pas les seuls à avoir appris l'existence du Tombeau. Les seigneurs voisins, avides et cupides, ne laisseraient jamais passer une chance de mettre la main sur des trésors et de nouvelles connaissances magiques. Leurs troupes devraient bientôt apparaître ici, nous avons donc fait passer un message grâce aux Gargouilles.
+
+Name:
+Day 6 (not Tower)
+Message:
+Il semble que vous et votre ennemi ne soyez pas les seuls à connaître l'existence du Tombeau. Une Gargouille est arrivée dans votre camp aujourd'hui. Bien sûr, la créature a été abattue sur-le-champ, mais elle portait un message dans ses serres. 	Un Magicien, se présentant comme représentant d'une certaine Université, a rapporté, que lui et son "associé" connaissaient à la fois le Tombeau et vos plans. Il mettait en garde contre les dangers qui s'y cacheraient et a sous-entendu que vous n'aviez rien à y faire. 	Sans dire un mot, vous déchirez la lettre et retournez vers vos hommes pour donner de nouveaux ordres.
+
+Name:
+A?A? - A?A®A­AlA±
+Message:
+
+
+Name:
+Day 9 (Tower)
+Message:
+Les Gargouilles que nous avions envoyées avec des messages ne sont jamais revenues, assumons le pire. Les différents dirigeants ont dû décider non seulement de régler de vieux comptes, mais aussi de nous défier, ignorant notre avertissement. Tant pis pour eux.
+
+===== Heroes =====
+
+===== Objects =====
+
+(2, 11, 0) ***Quest Guard***
+Message:
+Vous pouvez engager des Pixies ici, mais ils demandent 3 500 Pièces d'Or.
+Les Pixies ne sont pas prêts à rejoindre vos rangs pour moins de 3 500 Pièces d'Or.
+Voulez-vous engager les Pixies ?
+
+(27, 34, 0) ***Quest Guard***
+Message:
+Des Elfes mercenaires se tiennent ici. Pour les engager, vous devrez leur payer 5 000 Pièces d'Or. Ils ont aussi une décente armure, enchantée pour repousser la magie.
+Les Elfes ne sont pas prêts à rejoindre vos rangs pour moins de 5 000 Pièces d'Or.
+Voulez-vous engager les Elfes et obtenir l'armure anti-magie ?
+
+(11, 2, 0) ***Quest Guard***
+Message:
+Il y a ici un nexus d'énergie magique ; vous pourriez l'utiliser pour créer un portail vers l'Autel de l'Eau et invoquer des Élémentaires de l'Eau. Cependant, vous devrez payer 6 000 Pièces d'Or pour les ingrédients nécessaires au rituel.
+Vous n'avez pas les moyens de payer le rituel.
+Voulez-vous conduire le rituel et créer un portail vers l'Autel de l'Eau ?
+
+(15, 11, 0) ***Pandora's Box***
+Message:
+1-30	3-10	4-5
+
+(21, 35, 0) ***Pandora's Box***
+Message:
+
+
+(16, 21, 0) ***Seer's Hut***
+Message:
+Je ne suis qu'un modeste marchand, mais il n'y a pas si longtemps, j'ai acquis un objet doté d'un grand pouvoir magique. Le vagabond qui me l'a apporté a dit l'avoir trouvé dans le Tombeau et avoir à peine réussi à s'en échapper, poursuivi par d'étranges monstres. Je ne sais pas si c'est vrai, mais cet objet ne me sert à rien. Je serais heureux de vous le céder pour 15 Gemmes.
+Non, je ne vendrai pas cela pour moins de 15 Gemmes. Dans d'autres circonstances, il pourrait valoir bien plus cher.
+Voulez-vous acheter l'armure magique au marchand ?
+
+(2, 25, 0) ***Quest Guard***
+Message:
+Des Mages mercenaires se tiennent ici. Pour les engager, vous devrez leur payer 5 000 Pièces d'Or.
+Les Mages ne sont pas prêts à rejoindre vos rangs pour moins de 5 000 Pièces d'Or.
+Voulez-vous engager les Mages ?
+
+(24, 23, 0) ***Pandora's Box***
+Message:
+1-30	3-10	4-5
+
+(14, 21, 0) ***Pandora's Box***
+Message:
+1-30	3-10	4-5
+
+(8, 24, 0) ***Pandora's Box***
+Message:
+
+
+(0, 31, 0) ***Event***
+Message:
+A?A? - ASA¨A­AlA± A±ASA®A°A®A±A?AL
+
+(3, 26, 0) ***Event***
+Message:
+A?A? - ASA¨A­AlA± A±ASA®A°A®A±A?AL
+
+(15, 20, 0) ***Event***
+Message:
+A?A? - ASA¨A­AlA± A±ASA®A°A®A±A?AL
+
+(30, 26, 0) ***Event***
+Message:
+A?A? - ASA¨A­AlA± A±ASA®A°A®A±A?AL
+
+(5, 8, 0) ***Event***
+Message:
+A?A? - ASA¨A­AlA± A±ASA®A°A®A±A?AL
+
+(19, 25, 0) ***Seer's Hut***
+Message:
+Je suis arrivé ici en tant que représentant du Cercle des Druides. Je souhaite étudier les créatures qui se sont installées dans le Tombeau. Qui sait comment un tel habitat a pu les influencer ? Apportez-moi assez de spécimens pour mes recherches, et je vous donnerai un parchemin magique vous permettant de voyager sur la mer comme sur la terre.
+Non, il me faut davantage de créatures pour mes recherches. Revenez quand vous en aurez assez.
+Je n'aurais jamais cru devoir étudier des Momies comme un nécromancien immonde ! Mais la connaissance a un prix. Je n'ai pas oublié votre récompense... Prenez-la.	Voulez-vous accepter le parchemin magique du druide ?
+
+(2, 12, 1) ***Seer's Hut***
+Message:
+Vous vous approchez de la porte d'un bâtiment. Une inscription y est gravée : 	Zone d'entraînement. Pour améliorer vos compétences en attaque, sacrifiez 5 cristaux et 5 gemmes. 
+Rien ne se passera tant que vous n'aurez pas apporté les ressources nécessaires.
+Vous déposez les ressources devant la porte. Celle-ci s'ouvre, et vous entrez. En ressortant, vous ne vous souvenez de rien... mais votre maîtrise du combat semble s'être améliorée.
+Vous vous approchez de la porte d'un bâtiment. Une inscription y est gravée : Zone d'entraînement. Pour améliorer vos compétences en défense, sacrifiez 5 Cristaux et 5 Gemmes.
+Rien ne se passera tant que vous n'aurez pas apporté les ressources nécessaires.
+Vous déposez les ressources devant la porte. Celle-ci s'ouvre, et vous entrez. En ressortant, vous ne vous souvenez de rien... mais votre défense semble s'être renforcée.
+
+(33, 12, 1) ***Seer's Hut***
+Message:
+Vous vous approchez de la porte d'un bâtiment. Une inscription y est gravée : 	Zone d'entraînement. Pour augmenter votre puissance magique, sacrifiez 5 Soufre et 5 Mercure.
+Rien ne se passera tant que vous n'aurez pas apporté les ressources nécessaires.
+Vous déposez les ressources devant la porte. Celle-ci s'ouvre, et vous entrez. En ressortant, vous ne vous souvenez de rien... mais votre maîtrise de la magie semble s'être accrue.
+Vous vous approchez de la porte d'un bâtiment. Une inscription y est gravée : 	Zone d'entraînement. Pour augmenter votre savoir, sacrifiez 5 Soufre et 5 Mercure. 
+Rien ne se passera tant que vous n'aurez pas apporté les ressources nécessaires.
+Vous déposez les ressources devant la porte. Celle-ci s'ouvre, et vous entrez. En ressortant, vous ne vous souvenez de rien... mais votre esprit semble rempli de nouvelles connaissances.
+
+(15, 29, 1) ***Pandora's Box***
+Message:
+1-70	2-40	1-70
+
+(33, 18, 1) ***Pandora's Box***
+Message:
+?-50	?-20	?-10
+
+(24, 3, 1) ***Pandora's Box***
+Message:
+3-15	4-10	3-15
+
+(28, 20, 1) ***Pandora's Box***
+Message:
+7-1	7-7	7-1
+
+(29, 31, 1) ***Pandora's Box***
+Message:
+3-20	5-5	1-35
+
+(16, 19, 1) ***Pandora's Box***
+Message:
+5-1	5-1	2-100	5-1	5-1
+
+(26, 26, 1) ***Pandora's Box***
+Message:
+4-30	4-30	4-30
+
+(9, 26, 1) ***Pandora's Box***
+Message:
+
+
+(20, 8, 1) ***Pandora's Box***
+Message:
+6-4	7-1	6-4
+
+(31, 2, 1) ***Pandora's Box***
+Message:
+2-40	2-40	2-40
+
+(4, 2, 1) ***Pandora's Box***
+Message:
+3-33	3-33	3-33
+
+(24, 12, 1) ***Pandora's Box***
+Message:
+2-50	2-50	2-30
+
+(19, 25, 1) ***Pandora's Box***
+Message:
+4-50
+
+(6, 31, 1) ***Pandora's Box***
+Message:
+3-20	5-5	1-35
+
+(30, 30, 1) ***Pandora's Box***
+Message:
+4-12	4-14	4-14	4-7
+
+(5, 30, 1) ***Pandora's Box***
+Message:
+4-12	4-15	4-15	4-10
+
+(31, 24, 1) ***Event***
+Message:
+A?A? - A?A®A­AlA±
+
+(20, 29, 1) ***Pandora's Box***
+Message:
+1-70	2-40	1-70
+
+(19, 19, 1) ***Pandora's Box***
+Message:
+5-1	5-1	1-150	5-1	5-1
+
+(11, 3, 1) ***Pandora's Box***
+Message:
+2-30	5-7	2-30
+
+(11, 12, 1) ***Pandora's Box***
+Message:
+2-30	2-50	2-50
+
+(15, 8, 1) ***Pandora's Box***
+Message:
+6-4	7-1	6-4
+
+(2, 18, 1) ***Pandora's Box***
+Message:
+?-50	?-20	?-10
+
+(7, 20, 1) ***Pandora's Box***
+Message:
+7-1	7-7	7-1
+
+(16, 25, 1) ***Pandora's Box***
+Message:
+4-50
+
+(28, 30, 1) ***Seer's Hut***
+Message:
+Vous entrez dans le bâtiment et découvrez ce qui ressemble à un autel. Il est orné d'images représentant un trèfle, un jeu de cartes et une figurine d'oiseau. Une inscription sur l'autel dit : Pour accéder au coffre, apportez vos porte-bonheur.
+Vous posez la main sur l'autel. Une voix métallique déclare :  Clés non trouvées. Accès au coffre refusé.
+Vous déposez les objets sur l'autel. Un grincement retentit, les objets disparaissent, et une niche secrète s'ouvre dans l'autel. À l'intérieur, vous trouvez une couronne.
+
+(7, 30, 1) ***Seer's Hut***
+Message:
+Vous entrez dans le bâtiment et découvrez ce qui ressemble à un autel. Il est orné d'images représentant un insigne, un blason et un glyphe. Une inscription sur l'autel dit : Pour accéder au coffre, apportez ce qui remplit le coeur des guerriers de courage.
+Vous posez la main sur l'autel. Une voix métallique déclare :  Clés non trouvées. Accès au coffre refusé.
+Vous déposez les objets sur l'autel. Un grincement retentit, les objets disparaissent, et une niche secrète s'ouvre dans l'autel. À l'intérieur, vous trouvez une armure.
+
+(23, 31, 1) ***Event***
+Message:
+A?A? - A?A®A­AlA±
+
+(12, 31, 1) ***Event***
+Message:
+A?A? - A?A®A­AlA±
+
+(4, 24, 1) ***Event***
+Message:
+A?A? - A?A®A­AlA±
+
+(13, 27, 1) ***Event***
+Message:
+A?A? - A?A®A­AlA±
+
+(22, 27, 1) ***Event***
+Message:
+A?A? - A?A®A­AlA±
+
+(33, 15, 1) ***Event***
+Message:
+A?A? - A?A®A­AlA±
+
+(20, 20, 1) ***Event***
+Message:
+A?A? - A?A®A­AlA±
+
+(15, 20, 1) ***Event***
+Message:
+A?A? - A?A®A­AlA±
+
+(22, 11, 1) ***Event***
+Message:
+A?A? - A?A®A­AlA±
+
+(31, 6, 1) ***Event***
+Message:
+A?A? - A?A®A­AlA±
+
+(2, 15, 1) ***Event***
+Message:
+A?A? - A?A®A­AlA±
+
+(13, 11, 1) ***Event***
+Message:
+A?A? - A?A®A­AlA±
+
+(4, 6, 1) ***Event***
+Message:
+A?A? - A?A®A­AlA±
+
+===== Extended Events =====
+===== End of file =====

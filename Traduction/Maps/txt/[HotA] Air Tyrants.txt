@@ -1,0 +1,48 @@
+===== Map name =====
+Les Tyrans des Airs
+
+===== Map description =====
+Depuis des années, votre pays a été attaqué par des pirates de l'air. Il n'existait aucun moyen de défense contre leurs attaques venues du ciel, vous forcant à vous réfugier sous terre. Mais suffisamment de temps s'est écoulé pour rassembler vos forces et repousser ces envahisseurs des airs.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+day1
+Message:
+Pendant des décennies, les pirates aériens ont terrorisé le monde de la surface. Ils descendaient au-dessus des nuages à bord de leurs vaisseaux volants, pillant et tuant tous ceux qu'ils trouvaient. Il y a des siècles, votre peuple sans défense s'est enfui vers le seul endroit sûr qu'il connaissait : les cavernes souterraines que les vaisseaux ne pouvaient atteindre.. 
+
+Name:
+day1.1
+Message:
+Au fil de ces longues années sous terre, votre peuple n'a pas seulement survécu, il a aussi accumulé assez de forces pour retourner à la surface et combattre ces Tyrans de l'air. Le moment est venu de quitter les cavernes et d'affronter à nouveau le monde !
+
+Name:
+day5
+Message:
+Vous avez collé votre oreille contre la pierre froide et entendu un fort bourdonnement mêlé à des murmures. De retour au camp, après avoir étudié les cartes des souterrains, vous êtes arrivé à la seule conclusion possible : d'autres personnes vivaient dans votre voisinage, séparées de vous par une terre impénétrable.
+
+Name:
+Day7
+Message:
+Qui sont ces mystérieux étrangers dans les cavernes voisines ? Peut-être sont ils eux aussi des survivants, une partie de votre peuple qui s'est réfugiée sous terre sans jamais réussir à vous rejoindre. Cependant, leur culture et leur vison du monde ont pu énormément changer au fil des siécles. Il n'est pas encore clair s'ils deviendront vos alliés dans la lutte contre les pirates aériens ou s'ils tenteront de s'approprier la surface et les cavernes pour eux-mêmes.
+
+===== Heroes =====
+
+===== Objects =====
+
+(5, 34, 0) ***Event***
+Message:
+C'était donc cela, la Surface ! Vous découvriez enfin ce dont vous n'aviez entendu parler que dans les récits des anciens qui avaient autrefois vécu sous le soleil. Pourtant, aucun signe des pirates aériens. Il semblait qu'aucun humain n'avait foulé ces terres depuis de nombreuses années ; les épaves d'aéronefs et les squelettes rongés par le temps avaient été envahis par la végétation. L'ennemi que vous redoutiez avait-il donc disparu de ce monde ? Peu importait qu'ils aient succombé à la maladie ou à des conflits. Désormais, seule la perspective de rencontrer les habitants d'autres cavernes vous préoccupait.
+
+(6, 5, 0) ***Event***
+Message:
+C'était donc cela, la Surface ! Vous découvriez enfin ce dont vous n'aviez entendu parler que dans les récits des anciens qui avaient autrefois vécu sous le soleil. Pourtant, aucun signe des pirates aériens. Il semblait qu'aucun humain n'avait foulé ces terres depuis de nombreuses années ; les épaves d'aéronefs et les squelettes rongés par le temps avaient été envahis par la végétation. L'ennemi que vous redoutiez avait-il donc disparu de ce monde ? Peu importait qu'ils aient succombé à la maladie ou à des conflits. Désormais, seule la perspective de rencontrer les habitants d'autres cavernes vous préoccupait. S'ils cherchaient un combat digne de ce nom, comme vous, ils le trouveraient.
+
+(24, 9, 1) ***Event***
+Message:
+Il semble que, dans les temps anciens, un autre groupe venu de la surface ait tenté de se réfugier dans cette caverne pour sauver sa vie. Cependant, la caverne était trop petite pour leur permettre de survivre longtemps et, finalement, tous les nouveaux habitants périrent.
+
+===== Extended Events =====
+===== End of file =====
