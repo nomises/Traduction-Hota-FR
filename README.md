@@ -3,19 +3,29 @@
 Ce projet vise à traduire en français l’extension Horn of the Abyss (HotA) pour Heroes of Might and Magic III.
 
 # Table des matières
-1. [Structure du projet](#structure-du-projet)
-2. [Contribuer](#contribuer)
-3. [Comment faire](#comment-faire)
-    1. [GitHub](#github)
-        1. [Guide sur GitHub](#comment-contribuer-en-vidéo)
-        2. [Créer une branche](#créer-une-branche)
-        3. [Comment préparer votre pull request](#comment-préparer-votre-pull-request)
-        4. [Comment vérifier une pull request](#comment-vérifier-une-pull-request)
-    1. [Traduction](#traduction)
-        1. [Maps](#maps)
-        2. [Hota_dat](#hota_dat)
-        3. [Hota_lng_lod](#hota_lng_lod)
-        4. [Fichiers Campaign Editor et Rmg Template Editor](#fichiers-campaign-editor-et-rmg-template-editor)
+- [Bienvenue sur le repository de la traduction française de HOTA](#bienvenue-sur-le-repository-de-la-traduction-française-de-hota)
+- [Table des matières](#table-des-matières)
+  - [Structure du projet](#structure-du-projet)
+  - [Contribuer](#contribuer)
+- [Comment faire](#comment-faire)
+  - [GitHub](#github)
+    - [Comment contribuer en vidéo](#comment-contribuer-en-vidéo)
+    - [Créer une branche](#créer-une-branche)
+    - [Comment préparer votre pull request](#comment-préparer-votre-pull-request)
+    - [Comment vérifier une pull request](#comment-vérifier-une-pull-request)
+  - [Traduction](#traduction)
+    - [Maps](#maps)
+    - [Hota\_dat](#hota_dat)
+    - [Hota\_lng\_lod](#hota_lng_lod)
+    - [Fichiers _**Campaign Editor**_ et _**Rmg Template Editor**_](#fichiers-campaign-editor-et-rmg-template-editor)
+  - [Erreurs connus](#erreurs-connus)
+  - [Quoi faire pour Démarré une traduction](#quoi-faire-pour-démarré-une-traduction)
+  - [Quoi faire pour setup le projet](#quoi-faire-pour-setup-le-projet)
+    - [Fichier Hota.txt](#fichier-hotatxt)
+    - [Fichiers Hota\_lng\_lod\_txt](#fichiers-hota_lng_lod_txt)
+    - [Fichiers cartes](#fichiers-cartes)
+    - [Fichiers campagnes](#fichiers-campagnes)
+    
 
 ## Structure du projet
 
@@ -92,3 +102,56 @@ Ce projet vise à traduire en français l’extension Horn of the Abyss (HotA) p
 
 ### Fichiers _**Campaign Editor**_ et _**Rmg Template Editor**_
 Consultez `RMG template editor translation guide.rtf`
+
+
+## Erreurs connus
+- Les fichiers doivent être en format **AINSI** pour pouvoir fonctionné.
+- Il est important que les retours de lignes correspondent aux fichiers d'origine (LF = LF / CRLF = CRLF).
+- Le Fichier Hota.txt utilise des `"` pour séparé ses sections, il est important de les gardés tel quel.
+
+<details>
+
+<summary>
+
+## Quoi faire pour Démarré une traduction
+
+</summary>
+
+1. Créez un dossier dans le dossier [Traduction](./Traduction) nommé selon le numéro de version `HOTA_1-X-X`.
+2. Allez récupérer le `HotA.dat` dans le dossier racine de votre instance Heroes III, habituellement `HoMM 3 Complete` et le convertir grâce au `HotA_Dat_Editor_read.bat`.
+   1. Placez le résultat dans un dossier `HotA_dat` sous votre nouveau dossier `HOTA_1-X-X`.
+   2. Faire un diff merge avec le fichier [HotA.txt](./Traduction/Hota_dat/HotA.txt) grâce à l'outil [DiffMerge](./Outils/DiffMerge_4_2_0_697_x64.zip) et collez les bouts de texte modifiés ou ajoutés dans le fichier de traduction.
+   3. Ajoutez la tâche dans le fichier [A faire](./A%20faire.md).
+3. Allez récupérer les fichiers **.txt** du `HotA_lng.lod` grâce à [MMARchive](./Outils/MMArchive.7z).
+    1. Placez les fichiers dans un dossier `txt` dans `HotA_lng_lod` sous votre nouveau dossier `HOTA_1-X-X`.
+    2. Faire un diff merge avec les fichiers contenus dans la version précédente grâce à l'outil [DiffMerge](./Outils/DiffMerge_4_2_0_697_x64.zip).
+    3. Ajoutez les fichiers modifiés dans le fichier [A faire](./A%20faire.md).
+ 4. Récupérez les fichiers de campagne (h3c) du `HotA_lng.lod` grâce à [MMARchive](./Outils/MMArchive.7z).
+    1. Placez les fichiers dans un dossier `h3c` dans `HotA_lng_lod` sous votre nouveau dossier `HOTA_1-X-X`.
+    2. Exportez les textes des campagnes et les mettres dans le dossier [campagne_tempo_txt](./Traduction/campagne_tempo_txt/) sous un dossier avec le nom de la campagne.
+    3. Ajoutez un fichier avec les valeurs non importées de l'éditeur de campagne.
+    4. Ajoutez les fichiers à traduire dans le fichier [A faire](./A%20faire.md).
+
+</details>
+
+
+<details>
+<summary>
+
+## Quoi faire pour setup le projet
+
+</summary>
+
+### Fichier Hota.txt
+- Mettre le `HotA_Dat_Editor_write.bat` et le `HotA_Dat_Editor.exe` dans le même dossier que le fichier `Hota.txt`.
+- Exécutez le fichié batch.
+- Mettre le résultat fichier `HotA.dat` dans le dossier racine de votre instance Heroes III, habituellement `HoMM 3 Complete`.
+
+### Fichiers Hota_lng_lod_txt
+- Ils faut importer les fichiers avec [MMARchive](./Outils/MMArchive.7z) dans `data/HotA_lng.lod`
+
+### Fichiers cartes
+
+### Fichiers campagnes
+
+</details>

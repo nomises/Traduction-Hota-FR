@@ -5,50 +5,50 @@ Description:
 
 
 
-Une visite amicale - Tout pour le Tout A
+Une visite amicale — All In A
 
 Right-click text:
-Dans un effort pour redorer sa rÃ©putation en morceaux, Dargem Llywellyn, pirate et aventurier, entreprend une mission pÃ©rilleuse dans son ancien pays natal de Nighon, oÃ¹ il faudrait chercher longtemps pour trouver quelqu'un le rÃ©clamant.
+Dans un effort pour redorer sa réputation en morceaux, Dargem Llywellyn, pirate et aventurier, entreprend une mission périlleuse dans son ancien pays natal de Nighon, où il faudrait chercher longtemps pour trouver quelqu'un le réclamant.
 
 Prologue:
-Tout homme digne de ce nom, doit s'efforcer sans relÃ¢che de corriger ses dÃ©fauts ; seul un Ã©lÃ©ment y parvient de lui-mÃªme : la jeunesse. Quel dommage que les erreurs commises sous son influence ne disparaissent pas avec elle ! Lorsque j'ai quittÃ© cette terre, j'ai jurÃ© de ne plus jamais remettre les pieds sur les rochers de Nighon ; je n'y ai laissÃ© derriÃ¨re moi que des ponts brÃ»lÃ©s. Et pourtant, me voici de retour sur les rivages de ma patrie. Si le jeune Dargem Llywellyn n'avait pas Ã©tÃ© aussi tÃ©mÃ©raire, peut-Ãªtre qu'Ã  prÃ©sent que mes affaires m'ont conduit ici, j'aurais mÃªme Ã©prouvÃ© une pointe de... nostalgie.
+Tout homme digne de ce nom, doit s'efforcer sans relâche de corriger ses défauts ; seul un élément y parvient de lui-même : la jeunesse. Quel dommage que les erreurs commises sous son influence ne disparaissent pas avec elle ! Lorsque j'ai quitté cette terre, j'ai juré de ne plus jamais remettre les pieds sur les rochers de Nighon ; je n'y ai laissé derrière moi que des ponts brûlés. Et pourtant, me voici de retour sur les rivages de ma patrie. Si le jeune Dargem Llywellyn n'avait pas été aussi téméraire, peut-être qu'à présent que mes affaires m'ont conduit ici, j'aurais même éprouvé une pointe de... nostalgie.
 
 
-Le Sauveteur - Tout pour le Tout B
+Le Sauveteur — All In B
 
 Right-click text:
-En acceptant une autre mission pour ses employeurs, Dargem accepte d'aider le nouveau roi barbare Kilgor Ã  se sortir du piÃ¨ge dans lequel il est tombÃ© lors de son raid sur Bracada.
+En acceptant une autre mission pour ses employeurs, Dargem accepte d'aider le nouveau roi barbare Kilgor à se sortir du piège dans lequel il est tombé lors de son raid sur Bracada.
 
 Prologue:
-SaletÃ©, dÃ©sordre et folie. Ces mÃªmes choses que j'abhorre et que je m'efforce d'Ã©radiquer partout oÃ¹ je vais, deviendront inÃ©vitablement le lot quotidien de mes prochains mois. Oh, les sacrifices qu'il faut consentir pour redevenir le choix numÃ©ro un pour des postes que seul un vÃ©ritable expert en affaires dÃ©licates peut mener Ã  bien ! Vous pourriez croire que je suis venu Ã©clairer ces barbares sur les dangers pour la santÃ© liÃ©s au fait de se curer les oreilles avec un pistolet chargÃ© - et vous vous tromperiez. Je suis venu rendre service Ã  celui qui pourrait bientÃ´t devenir le maÃ®tre d'une moitiÃ© de continent. Un service dont il se souviendra toute sa vie.
+Saleté, désordre et folie. Ces mêmes choses que j'abhorre et que je m'efforce d'éradiquer partout où je vais, deviendront inévitablement le lot quotidien de mes prochains mois. Oh, les sacrifices qu'il faut consentir pour redevenir le choix numéro un pour des postes que seul un véritable expert en affaires délicates peut mener à bien ! Vous pourriez croire que je suis venu éclairer ces barbares sur les dangers pour la santé liés au fait de se curer les oreilles avec un pistolet chargé - et vous vous tromperiez. Je suis venu rendre service à celui qui pourrait bientôt devenir le maître d'une moitié de continent. Un service dont il se souviendra toute sa vie.
 
 
-Le Tueur d'Arbres - Tout pour le Tout C
+Le Tueur d'Arbres — All In C
 
 Right-click text:
-Dargem apprend que ses employeurs ont l'intention d'organiser une expÃ©dition vers la lÃ©gendaire Corne des Abysses, et il pÃ©nÃ¨tre illÃ©galement sur le territoire d'AvLee pour y rÃ©colter du bois et construire une flotte Ã  cette fin grandiose.
+Dargem apprend que ses employeurs ont l'intention d'organiser une expédition vers la légendaire Corne des Abysses, et il pénètre illégalement sur le territoire d'AvLee pour y récolter du bois et construire une flotte à cette fin grandiose.
 
 Prologue:
-Je m'Ã©tais habituÃ© Ã  cette sensation angoissante de n'avoir rien au-dessus de ma tÃªte - que ce soient les voÃ»tes d'anciens tunnels, un toit solide, ou au moins le toit d'un pont qui tangue. Rares sont ceux qui, Ã  Nighon, peuvent supporter cela, mais je m'y suis fait ! Seules les forÃªts m'inspirent encore une terreur honteuse et indigne d'un homme. Bien sÃ»r, personne ne me le reprochera jamais - aprÃ¨s tout, garder son sang-froid est la marque d'un maÃ®tre dans mon mÃ©tier. Mon journal est le seul confident Ã  qui je confie mes vÃ©ritables sentiments. Je crois que je prÃ©fÃ©rerais de loin Ãªtre enterrÃ© vivant une fois de plus... Mais le contrat est signÃ©, ce qui signifie que Dargem Llywellyn se dirige vers les fourrÃ©s maudits. Et par tous les diables des mers, il en reviendra triomphant.
+Je m'étais habitué à cette sensation angoissante de n'avoir rien au-dessus de ma tête - que ce soient les voûtes d'anciens tunnels, un toit solide, ou au moins le toit d'un pont qui tangue. Rares sont ceux qui, à Nighon, peuvent supporter cela, mais je m'y suis fait ! Seules les forêts m'inspirent encore une terreur honteuse et indigne d'un homme. Bien sûr, personne ne me le reprochera jamais - après tout, garder son sang-froid est la marque d'un maître dans mon métier. Mon journal est le seul confident à qui je confie mes véritables sentiments. Je crois que je préférerais de loin être enterré vivant une fois de plus... Mais le contrat est signé, ce qui signifie que Dargem Llywellyn se dirige vers les fourrés maudits. Et par tous les diables des mers, il en reviendra triomphant.
 
 
-PlongÃ© jusqu'aux genoux dans les Morts-Vivants - Tout pour le Tout D
+Au coeur des Morts-Vivants — All In D
 
 Right-click text:
-Dargem se rend au cÅ“ur de Deyja, le pays des nÃ©cromanciens, pour piller la bibliothÃ¨que d'Archibald Poing-de-Fer Ã  la recherche d'indices sur l'emplacement possible de la Corne des Abysses.
+Dargem se rend au cœur de Deyja, le pays des nécromanciens, pour piller la bibliothèque d'Archibald Poing-de-Fer à la recherche d'indices sur l'emplacement possible de la Corne des Abysses.
 
 Prologue:
-J'ai vu bien des merveilles, et je ne suis pas facilement impressionnÃ©... mais la vue de cette bibliothÃ¨que monumentale m'a saisi d'admiration. On raconte qu'il y a mille ans, lorsque les nÃ©cromanciens furent bannis de Bracada et s'installÃ¨rent Ã  Deyja, elle se dressait dÃ©jÃ  ici, ses voÃ»tes recelant d'innombrables secrets. Aucune des modifications plus rÃ©centes, plutÃ´t de mauvais goÃ»t, apportÃ©es Ã  son architecture - manifestement la marque de ces amateurs de charogne - ne saurait Ã©clipser la vÃ©ritable grandeur des Anciens, encore perceptible dans ses formes. Quel honneur de pouvoir toucher quelque chose d'intemporel ! Mieux encore, d'en emporter un fragment. En souvenir.
+J'ai vu bien des merveilles, et je ne suis pas facilement impressionné... mais la vue de cette bibliothèque monumentale m'a saisi d'admiration. On raconte qu'il y a mille ans, lorsque les nécromanciens furent bannis de Bracada et s'installèrent à Deyja, elle se dressait déjà ici, ses voûtes recelant d'innombrables secrets. Aucune des modifications plus récentes, plutôt de mauvais goût, apportées à son architecture - manifestement la marque de ces amateurs de charogne - ne saurait éclipser la véritable grandeur des Anciens, encore perceptible dans ses formes. Quel honneur de pouvoir toucher quelque chose d'intemporel ! Mieux encore, d'en emporter un fragment. En souvenir.
 
 
-Ã€ la Poursuite d'un RÃªve - Tout pour le Tout E
+À la poursuite d'un rêve — All In E
 
 Right-click text:
-Le cap de Dargem se dirige vers un archipel prÃ¨s de Tatalia ; lÃ , dans les grottes sous l'Ãle du Serpent Vengeur, il cherchera la Corne des Abysses, une relique que tout pirate rÃªve de possÃ©der.
+Le cap de Dargem se dirige vers un archipel près de Tatalia ; là, dans les grottes sous l'Île du Serpent Vengeur, il cherchera la Corne des Abysses, une relique que tout pirate rêve de posséder.
 
 Prologue:
-Il arrive parfois que l'on sache pertinemment qu'on se joue de nous, et pourtant... on y prend plaisir. Ma rencontre avec cette employeuse Ã©nigmatique fut Ã  la fois dÃ©primante et exaltante. J'ai tout de suite compris que cette femme magnifique Ã©tait complÃ¨tement folle - personne de sensÃ© ne ferait tout un plat d'un simple artefact, quels que soient les pouvoirs qu'on lui prÃªtait. Et pourtant, je me suis retrouvÃ© de bonne humeur, pour la mÃªme raisonÂ : cette Corne des Abysses pourrait sans aucun doute rapporter gros. Le reste ne devrait Ãªtre qu'une formalitÃ©Â : la trouver... et rÃ©gler la question dÃ©licate des droits de propriÃ©tÃ©.
+Il arrive parfois que l'on sache pertinemment qu'on se joue de nous, et pourtant... on y prend plaisir. Ma rencontre avec cette employeuse énigmatique fut à la fois déprimante et exaltante. J'ai tout de suite compris que cette femme magnifique était complètement folle - personne de sensé ne ferait tout un plat d'un simple artefact, quels que soient les pouvoirs qu'on lui prêtait. Et pourtant, je me suis retrouvé de bonne humeur, pour la même raison : cette Corne des Abysses pourrait sans aucun doute rapporter gros. Le reste ne devrait être qu'une formalité : la trouver... et régler la question délicate des droits de propriété.
 
 Epilogue:
-Ma mÃ¨re, dont j'ai oubliÃ© le visage depuis longtemps, m'a donnÃ© la vie dans les entrailles des grottes de Nighon et a tissÃ© des sorts autour de mon berceau, dÃ©sirant ardemment m'imprÃ©gner du pouvoir de l'Ã©lÃ©ment de la terre... mais je n'ai pas acceptÃ© beaucoup des sorts qu'on avait jetÃ©s pour moi. Toute ma vie est une lutte contre le destin, un jeu sans fin oÃ¹ je joue avec la fatalitÃ© pour les plus grands gains. Et pourtant, chaque fois que je crois tenir l'avenir entre mes mains, la meilleure main est distribuÃ©e Ã  quelqu'un d'autre ! Je sais que je l'ai tuÃ© ! Ma tempÃªte magique a dÃ©chirÃ© son squelette puant en morceaux, et mes talons ont piÃ©tinÃ© ses restes dans le sol ! Pourquoi, pourquoi le mort a-t-il le dernier mot ?!
+Ma mère, dont j'ai oublié le visage depuis longtemps, m'a donné la vie dans les entrailles des grottes de Nighon et a tissé des sorts autour de mon berceau, désirant ardemment m'imprégner du pouvoir de l'élément de la terre... mais je n'ai pas accepté beaucoup des sorts qu'on avait jetés pour moi. Toute ma vie est une lutte contre le destin, un jeu sans fin où je joue avec la fatalité pour les plus grands gains. Et pourtant, chaque fois que je crois tenir l'avenir entre mes mains, la meilleure main est distribuée à quelqu'un d'autre ! Je sais que je l'ai tué ! Ma tempête magique a déchiré son squelette puant en morceaux, et mes talons ont piétiné ses restes dans le sol ! Pourquoi, pourquoi le mort a-t-il le dernier mot ?!
 

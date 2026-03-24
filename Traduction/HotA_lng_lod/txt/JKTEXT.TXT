@@ -1,45 +1,46 @@
 Hero Window
 Attaque
-DÃ©fense
+Défense
 Magie
 Savoir
-{SpÃ©cialitÃ©}
-{ExpÃ©rience}
+{Spécialité}
+{Expérience}
 {Points Magie}
-Livre des QuÃªtes
+Livre des 
+Quêtes
 "Renvoyer
-HÃ©ros"
+Héros"
 Overview Window
 Or par Jour:
 Shipyard Window
 Construire un Bateau
-CoÃ»t:
+Coût:
 Thieves Guild Window
 1er
-2Ã¨me
-3Ã¨me
-4Ã¨me
-5Ã¨me
-6Ã¨me
-7Ã¨me
-8Ã¨me
+2ème
+3ème
+4ème
+5ème
+6ème
+7ème
+8ème
 Nombre de Villes
-Nombre de HÃ©ros
+Nombre de Héros
 Or
 Bois & Pierres
 Mercure, Soufre, Cristaux & Gemmes
-ObÃ©lisques DÃ©couverts
-ArtÃ©facts
+Obélisques Découverts
+Artéfacts
 Puissance Militaire
 Revenus
-Meilleur HÃ©ros
-PersonnalitÃ©
-Meilleure CrÃ©ature
+Meilleur Héros
+Personnalité
+Meilleure Créature
 Tavern Window
 Taverne
-HÃ©ros Disponibles
+Héros Disponibles
 Town Gate Window
 Passage Funeste
 Choisissez une ville de destination
 Blacksmith Window
-CoÃ»t:
+Coût:
