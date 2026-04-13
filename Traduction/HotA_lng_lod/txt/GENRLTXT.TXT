@@ -240,7 +240,7 @@ Gardé par
 
 "Votre Héros a appris %s %s."
 
-"Votre héros peut apprendre l'une des Compétences suivantes : %s %s ou %s %s."
+Votre héros apprend l'une des compétences suivantes :
 "{Points de Magie}
 
 %s dispose actuellement de %d points de magie sur un maximum de %d. Le nombre maximal de points de magie est égal à 10 fois le Savoir du héros. Certains événements spéciaux vous permettront parfois de disposer de points de magie supplémentaires."
@@ -578,14 +578,14 @@ Difficulté de Jeu
 "%s existe. 
 
 Écraser ?"
-Difficulté Map :
+Difficulté Carte
 Nom du Scénario :
 Description du Scénario :
 Conditions de Victoire :
 Conditions de Défaite :
 Humain
-Afficher les Scénarios Disponibles
-Afficher les Options Avancées
+Scénarios Disponibles
+Options Avancées
 Lecture des fichiers de Cartes
 Fichier corrompu
 Il y a un problème avec les données de ce fichier. Il est inutilisable par Heroes III.

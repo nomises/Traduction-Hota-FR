@@ -156,7 +156,7 @@ Consultez `RMG template editor translation guide.rtf`
 
 ### Fichier HotA_lng.lod
 - Ouvrir le fichier `HotA_lng.lod` dans [MMArchive](./Outils/MMArchive.7z).
-- Mettre les fonts d'origine
+- Mettre les [fonts](./Traduction/Font/).
 - Mettre les campagnes traduite [d'HotA](./Traduction/HotA_lng_lod/h3c/) dans MMArchive.
 - Mettre les fichiers [pcx](./Traduction/HotA_lng_lod/pcx) dans MMArchive.
 - Mettre les fichiers [def](./Traduction/HotA_lng_lod/def) dans MMArchive.
