@@ -1,134 +1,135 @@
-===== Map name =====
-Key to Victory: The Second Key
+===== Nom de la Carte =====
+Clé de la Victoire Seconde Clé
 
-===== Map description =====
-The decisive battle had just died down. A fleeing enemy is trapped in the mountains, with slim chances to mount a counterattack. Your position is nigh invulnerable: you only need to go and put an end to this long war. 
+===== Description de la Carte =====
+La bataille décisive vient tout juste de s'apaiser. L'ennemi en déroute est piégé dans les montagnes, avec bien peu de chances de pouvoir lancer une contre-attaque. Votre position est quasi invulnérable : il ne vous reste plus qu'à en finir et mettre un terme à cette longue guerre.
 
-===== Rumors =====
+===== Rumeurs =====
 
-Name:
+Nom:
 Angel
-Text:
-It is said that the Angelic Alliance was destroyed during the war. Some also claim that the great artifact can yet be recreated if its lost parts are found. 
+Texte:
+On dit que l'Alliance Angélique a été détruite pendant la guerre. Certains affirment aussi que le grand artefact pourrait encore être recréé si ses parties perdues étaient retrouvées.
 
-Name:
+Nom:
 Angel 1
-Text:
-In the backyard of an Alchemist's Lab...
+Texte:
+Dans l'arrière-cour d'un laboratoire d'alchimiste...
 
-Name:
+Nom:
 Angel 2
-Text:
-Under a tall dead tree...
+Texte:
+Sous un grand arbre mort...
 
-Name:
+Nom:
 Angel 3
-Text:
-At the bottom of a pit flooded with the waters of the great lakes...
+Texte:
+Au fond d'un puits inondé par les eaux des grands lacs...
 
-Name:
+Nom:
 Angel 4
-Text:
-The leprechaun keeps a keen eye on his real treasure...
+Texte:
+Le leprechaun surveille jalousement son vrai trésor...
 
-Name:
+Nom:
 Angel 5
-Text:
-Under a cart at an old sawmill...
+Texte:
+Sous une charrette, dans une vieille scierie...
 
-Name:
+Nom:
 Angel 6
-Text:
-Unseen, it rests among the flowers planted by the students at the magic school...
+Texte:
+Invisible, il repose parmi les fleurs plantées par les élèves de l'école de magie...
 
-===== Timed events =====
+===== Événements =====
 
-Name:
+Nom:
 day1
 Message:
-Your enemy runs! Your enemy is terrified! Amid this chaos, your court's loyal sages managed to erect barriers along the entire contact line, encircling the remnants of the enemy host. Nowhere to run, nowhere to hide. 
+Votre ennemi fuit ! Votre ennemi est terrifié ! Dans ce chaos, les sages loyaux de votre cour ont réussi à ériger des barrières le long de toute la ligne de front, encerclant les derniers vestiges de l'armée ennemie. Plus nulle part où fuir, nulle part où se cacher. 
 
-Name:
+Nom:
 day12
 Message:
-Muster a powerful army and decide for yourself when to pass through the barriers for the final battle. Stand to horse!
+Rassemblez une armée puissante et décidez vous-même du moment où vous franchirez les barrières pour la bataille finale. À cheval, soldats !
 
-Name:
+Nom:
 day2
 Message:
-Your scouts report: some crucial mines with valuable resources are still held by the enemy. The scoundrel used summoning magic; the mines are now guarded by elementals. Still, you are going to need resources, and you can scarce allow the enemy's heroes, even summoned ones, to nose around your rear! While the risk of sabotage has been mitigated by the newly erected barriers, to defeat the elemental heroes remains your task to tackle. 
+Vos éclaireurs rapportent : certaines mines cruciales, riches en ressources, sont encore aux mains de l'ennemi. Ce fourbe a utilisé la magie d'invocation ; les mines sont désormais gardées par des élémentaires. Pourtant, vous aurez besoin de ces ressources, et vous ne pouvez tolérer que les héros ennemis, même invoqués, rôdent derrière vos lignes ! Bien que les barrières récemment érigées aient réduit le risque de sabotage, il vous incombe de vaincre ces héros élémentaires.
 
-Name:
+Nom:
 day5
 Message:
-Your sentries have brought unexpected news. Anticipating his imminent downfall, your enemy has built his own barriers; only his own troops can pass through them. It seems as though you are now to find a new key to victory. 
+Vos sentinelles apportent une nouvelle inattendue. Pressentant sa chute imminente, votre ennemi a construit ses propres barrières ; seules ses troupes peuvent les franchir. Il semble que vous deviez désormais trouver une nouvelle clé pour la victoire.
 
-===== Heroes =====
+===== Héros =====
 
-===== Objects =====
+===== Objets =====
 
-(67, 56, 0) ***Sign***
+(67, 56, 0) ***Panneau***
 Message:
-Unlock the gates at your own risk! Once opened, they will no longer protect you from the enemy. 
+Débloquez ces portes à vos risques et périls ! Une fois ouvertes, elles ne vous protégeront plus de l'ennemi.
 
-(25, 35, 0) ***Sign***
+(25, 35, 0) ***Panneau***
 Message:
-Beyond these gates lie lands where no one can guarantee your safety. However, as long as you are on this side, you have nothing to fear.
+Au-delà de ces portes s'étendent des terres où personne ne peut garantir votre sécurité. Tant que vous restez de ce côté, cependant, vous n'avez rien à craindre.
 
-(5, 14, 0) ***Sign***
+(5, 14, 0) ***Panneau***
 Message:
-Unlock the gates at your own risk! Once opened, they will no longer protect you from the enemy. 
+Débloquez ces portes à vos risques et périls ! Une fois ouvertes, elles ne vous protégeront plus de l'ennemi.
 
-(71, 55, 0) ***Event***
+(71, 55, 0) ***Événement***
 Message:
-Your eye catches the faint swaying of the air, distorting the outlines of grass blades on the ground. As you get closer, you realize that there is an invisible casket in front of you. With some sweat, you manage to unravel the casket's secret and find the Helm of Heavenly Enlightenment inside. 
+Votre oeil est attiré par une légère distorsion de l'air, qui déforme les contours des brins d'herbe au sol. En vous approchant, vous comprenez qu'un coffre invisible se dresse devant vous. Après quelques efforts, vous parvenez à percer son secret et y découvrez l'Heame de l'Illumination.
 
-(22, 50, 0) ***Event***
+(22, 50, 0) ***Événement***
 Message:
-You're strolling along the forest's edge, pretending to hunt for mushrooms, but the leprechaun seems to have caught on to your presence. He narrows his eyes, and his dance becomes slower: he is prepared to pounce at you at any moment. As luck would have it, the telltale glint reveals the location of the leprechaun's treasure. Before the green prankster can reach you, you snatch a Celestial Necklace of Bliss out of a small stash. 
+Vous flânez en lisière de forêt, feignant de chercher des champignons, mais le leprechaun semble avoir perçu votre présence. Il plisse les yeux, et sa danse ralentit : il est prêt à bondir sur vous à tout moment. Par chance, un éclat révélateur trahit l'emplacement de son trésor. Avant que le farceur vert ne puisse vous atteindre, vous vous emparez d'un Collier de Béatitude caché dans une petite cache.
 
-(8, 48, 0) ***Legs of Legion***
+(8, 48, 0) ***Jambes de Légion***
 Message:
-Back in the day, mercenaries from all over the world would flock to these lands to join the mighty Legion's hosts. Even after his death, the monument to him kept stirring admiration in the hearts of both young soldiers and seasoned veterans. Today, however, only the base and legs of the great monument remain. Could you can find a way to restore the Statue of Legion?
+Autrefois, des mercenaires du monde entier affluaient vers ces terres pour rejoindre les rangs de la puissante Légion. Même après sa mort, le monument érigé en son honneur continuait d'inspirer l'admiration, tant chez les jeunes soldats que chez les vétérans aguerris. Aujourd'hui, cependant, il n'en reste plus que la base et les jambes. Parviendrez-vous à restaurer la Statue de Légion ?
 
-(26, 70, 0) ***Event***
+(26, 70, 0) ***Événement***
 Message:
-The tall grass around the old cart hints at its long disuse. You carefully examine the cart: it misses one wheel, and a metal object props up its front axle. It is not without effort that you extract it: to your infinite surprise, it turns out to be the Lion's Shield of Courage. 
+La haute herbe autour de la vieille charrette témoigne de son long abandon. Vous examinez attentivement le véhicule : il lui manque une roue, et un objet métallique soutient son essieu avant. Non sans mal, vous parvenez à l'extraire et découvrez, à votre grande surprise, qu'il s'agit du Bouclier Coeur de Lion.
 
-(40, 55, 0) ***Sign***
+(40, 55, 0) ***Panneau***
 Message:
-Beyond these gates lie lands where no one can guarantee your safety. However, as long as you are on this side, you have nothing to fear.
+Au-delà de ces portes s'étendent des terres où personne ne peut garantir votre sécurité. Tant que vous restez de ce côté, cependant, vous n'avez rien à craindre.
 
-(0, 31, 0) ***Event***
+(0, 31, 0) ***Événement***
 Message:
-Under the withered roots of a dead tree, you find the Sandals of the Saint.
+Sous les racines desséchées d'un arbre mort, vous trouvez les Sandales Sacrées.
 
-(0, 9, 0) ***Event***
+(0, 9, 0) ***Événement***
 Message:
-All the stolen wealth lies behind the magic portal. Even after losing several battles in a row, your enemy is still eager to fight for this treasure. 
+Toutes les richesses volées se trouvent derrière le portail magique. Même après avoir perdu plusieurs batailles de suite, votre ennemi est toujours prêt à se battre pour ce trésor.
 
-(30, 39, 0) ***Event***
+(30, 39, 0) ***Événement***
 Message:
-You feel around the bottom of a fetid puddle and find a hilt. Grabbing it, you pull out the Sword of Judgement, untouched by either rust or reeking scum. 
+Vous fouillez le fond d'une flaque fétide et y trouvez une poignée. En la saisissant, vous en extrayez l'Épée de Justice, intacte, sans trace de rouille ni de boue malodorante.
 
-(11, 21, 0) ***Event***
+(11, 21, 0) ***Événement***
 Message:
-In the backyard of an Alchemist's Lab, you notice the Armor of Wonder. After a brief chat with the lab's bewildered owner, puzzled as to how the enchanted breastplate wound up on his property, you take it. 
+Dans l'arrière-cour d'un laboratoire d'alchimiste, vous repérez l'Armure Miraculeuse. Après une brève discussion avec le propriétaire, perplexe quant à la présence de cette cuirasse enchantée sur sa propriété, vous la prenez.
 
-(18, 71, 0) ***Event***
+(18, 71, 0) ***Événement***
 Message:
-The Oracle is ready to show you some interesting places nearby. He bows and waves you into the hut. 
+L'Oracle est prêt à vous montrer quelques lieux intéressants à proximité. Il s'incline et vous invite à entrer dans la hutte.
 
-(16, 61, 0) ***Event***
+(16, 61, 0) ***Événement***
 Message:
-Barriers protect these parts from the enemy. His troops will not be able to set foot on this sacred land! If you want to venture beyond the barriers yourself, however, you will have to find the Light Blue Keymaster's Tent first. 
+Des barrières protègent cette zone de l'ennemi. Ses troupes ne pourront pas fouler cette terre sacrée ! Si vous souhaitez vous aventurer au-delà des barrières, cependant, vous devrez d'abord trouver la Tente du Maître des Clefs: Bleu Pâle.
 
-(35, 32, 0) ***Sign***
+(35, 32, 0) ***Panneau***
 Message:
-Remember: by commanding your Border Guards to stand down, you will open the way not only for yourself, but also for your enemies!
+Rappelez-vous : en ordonnant à vos Gardes-Frontières de se retirer, vous ouvrirez la voie non seulement pour vous, mais aussi pour vos ennemis !
 
-(6, 64, 0) ***Event***
+(6, 64, 0) ***Événement***
 Message:
-There's an ambush ahead! Luckily, your scouts noticed the Sharpshooters hiding in the trees. There aren't too many of them, but forewarned means armed!
+Une embuscade vous attend plus loin ! Heureusement, vos éclaireurs ont repéré les Tireurs d'Élite cachés dans les arbres. Ils ne sont pas nombreux, mais prévenu vaut armé !
 
-===== End of file =====
+===== Événements étendus =====
+===== Fin du fichier =====
