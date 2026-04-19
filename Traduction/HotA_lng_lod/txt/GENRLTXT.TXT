@@ -140,8 +140,8 @@ Impossible de trouver les fichiers de Heroes III. Il est nécessaire de réinstall
 Notre victoire est intervenue après %d jours !"
 %d %s est réssuscité !
 %d %s sont réssuscités !
-%d %s meurent de la terreur inspirée par les %s.
 %s meurt de la terreur inspirée par les %s.
+%d %s meurent de la terreur inspirée par les %s.
 "Votre %s choisit de se défendre,
 et gagne +%d en défense."
 "Vos %s choisissent de se défendre,

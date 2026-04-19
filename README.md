@@ -24,6 +24,7 @@ Ce projet vise à traduire en français l’extension Horn of the Abyss (HotA) p
     - [Fichiers scénario](#fichiers-scénario)
     - [Fichier Hota.txt](#fichier-hotatxt)
     - [Fichier HotA\_lng.lod](#fichier-hota_lnglod)
+    - [Pour envoyer a GOG, vous pouvez suivre la documentation (ouvrir avec wordpad)](#pour-envoyer-a-gog-vous-pouvez-suivre-la-documentation-ouvrir-avec-wordpad)
     
 
 ## Structure du projet
@@ -161,5 +162,7 @@ Consultez `RMG template editor translation guide.rtf`
 - Mettre les fichiers [pcx](./Traduction/HotA_lng_lod/pcx) dans MMArchive.
 - Mettre les fichiers [def](./Traduction/HotA_lng_lod/def) dans MMArchive.
 - Mettre les fichiers [txt](./Traduction/HotA_lng_lod/txt) dans MMArchive.
+
+### Pour envoyer a GOG, vous pouvez suivre la [documentation](./rsc/How%20to%20publish%20build%20on%20GOG.rtf) (ouvrir avec wordpad)
 
 </details>
