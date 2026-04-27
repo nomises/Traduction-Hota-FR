@@ -40,8 +40,8 @@ Aucun
 Leur moral élevé permet aux %s d'agir à nouveau.
 Leur moral désastreux empêche les %s d'agir ce tour-ci.
 Faites de la place dans votre armée pour les %s.
-"Attaquer les %s (dégâts %s)"
-"Tirer sur les %s (1 tir restant, dégâts %s)"
+"Attaquer les %s (dégâts: %s, morts: %s)"
+"Tirer sur les %s (1 tir restant, dégâts %s, morts: %s)"
 Description de la Campagne :
 Action des %s.
 Nom de la partie
@@ -343,7 +343,7 @@ Le drapeau de l'ennemi flotte au-dessus de chaque mine. La victoire est à lui !
 L'ennemi a livré la précieuse cargaison intacte, et revendique la victoire !
 Déplacer les %s ici.
 Faire voler %s jusqu'ici.
-"Tirer sur les %s (%d Tirs restants, dégâts %s)"
+"Tirer sur les %s (%d Tirs restants, dégâts %s, morts: %s)"
 Voir les informations sur %s.
 Plus de Munitions !
 Ressusciter les %s.
@@ -436,8 +436,8 @@ Les %s infligent %d points de dégâts.
 "Un(e) %s meurt."
 
 "%d %s meurent."
-Att.
-Déf.
+Attaque
+Défense
 Magie
 Savoir
 Moral
@@ -485,9 +485,9 @@ Soigner les %s.
 "À votre grand désarroi, l'objet : %s est gardé par %s %s.
 
 Voulez-vous affronter les gardiens ?"
-"Il n'y a aucun %s ici pour l'instant."
+"Il n'y a aucun %s ici pour l'instant.
 
-"%d %s rejoignent votre armée."
+"%d %s rejoignent votre armée.
 
 "Il y a bien longtemps, cette cité abritait des Dragons et leur fabuleux trésor, mais aujourd'hui le vent siffle à travers ces immenses couloirs vides."
 "Les %s apprécieraient de se joindre à votre héros, mais constatent que votre armée est au complet."

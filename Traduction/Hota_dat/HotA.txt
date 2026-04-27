@@ -3410,9 +3410,9 @@ Attaquer les %s et reprendre sa position
 #53
 Attaquer les %s et rester sur place
 #54
-Attaquer les %s et reprendre sa position (dégâts: %s)
+Attaquer les %s et reprendre sa position (dégâts: %s, morts: %s)
 #55
-Attaquer les %s et rester sur place (dégâts: %s)
+Attaquer les %s et rester sur place (dégâts: %s, morts: %s)
 #56
 (+300 pts de mouvement jusqu'à la fin de la semaine et améliore les Cavaliers)
 #57
@@ -4021,13 +4021,13 @@ Roi
 
 Ce scénario a été créé en utilisant des outils qui ne sont pas accessibles dans l'éditeur de carte régulier et est supposé être joué dans certains mods. Nous recommandons de ne pas y jouer avec HOTA.""
 #316
-Tirer sur les %s (%d tirs restants, nombre d'attaques: %s, dégâts: %s, tuées: %s)
+Tirer sur les %s (%d tirs restants, nombre d'attaques: %s, dégâts: %s, morts: %s)
 #317
-Tirer sur les %s (nombre d'attaques: %s, dégâts: %s, tuées: %s)
+Tirer sur les %s (nombre d'attaques: %s, dégâts: %s, morts: %s)
 #318
-Attaque %s et retourne (nombre d'attaques: %s, dégâts: %s, tuées: %s)
+Attaque %s et retourne (nombre d'attaques: %s, dégâts: %s, morts: %s)
 #319
-Attaque %s et reste ici (nombre d'attaques: %s, dégâts: %s, tuées: %s)
+Attaque %s et reste sur place (nombre d'attaques: %s, dégâts: %s, morts: %s)
 #320
 Nombre de créatures, Nombre de créatures au début de la bataille, Nom de la créature
 #321
