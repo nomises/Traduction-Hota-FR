@@ -101,16 +101,16 @@ Vous pénétrez dans un Cercle des Fées. Votre armée sera plus chanceuse au cours 
 Vous pénétrez dans un Cercle des Fées. Mais la magie agissant en ces lieux s'est dissipée."
 "{Débris}
 
-Vous fouillez les débris, mais vous ne trouvez rien."
+Vous fouillez les débris, mais ne trouvez rien."
 "{Débris}
 
-Vous fouillez les débris et vous récupérez un peu de Bois."
+Vous fouillez les débris et récupérez un peu de Bois."
 "{Épave}
 
-Vous fouillez les débris. Vous trouvez une certaine quantité de Bois et d'Or."
+Vous fouillez les débris et trouvez une certaine quantité de Bois et d'Or."
 "{Épave}
 
-Vous fouillez les débris. Vous trouvez une certaine quantité de Bois et d'Or."
+Vous fouillez les débris et trouvez une certaine quantité de Bois et d'Or."
 "{Fontaine des Espérances}
 
 En buvant l'eau douce et amère, vous vous sentez soudain porté par la chance."
