@@ -36,7 +36,7 @@ Vous avez pris un artéfact à l'ennemi !
 Aucun
 "%s déclare :
 
-""J'accepte votre reddition et vous laisse partir, vous et vos troupes, en échange de %d pièces d'or."""
+J'accepte votre reddition et vous laisse partir, vous et vos troupes, en échange de %d pièces d'or."
 Leur moral élevé permet aux %s d'agir à nouveau.
 Leur moral désastreux empêche les %s d'agir ce tour-ci.
 Faites de la place dans votre armée pour les %s.
@@ -354,7 +354,7 @@ L'ennemi s'est enfui !
 Une glorieuse victoire !
 
 
-"Pour ses hauts faits d'armes, %s reçoit %d points d'expérience."
+Pour ses hauts faits d'armes, %s reçoit %d points d'expérience.
 "%s se rend à l'ennemi, et part couvert de honte."
 %s n'a pas été à la hauteur et a préféré fuir le combat.
 "Vos forces subissent une défaite importante, et %s abandonne votre cause."
@@ -681,9 +681,9 @@ Croissance par semaine des %s.
 Chaque semaine, le nombre total de la créature %s augmente de +%d.
 
 
-"Croissance de base +%d"
+Croissance de base +%d
 
-"Demeures Externes %+d"
+Demeures Externes %+d
 Salle du Conseil
 Sortie de la Guilde des Mages
 Garnison
