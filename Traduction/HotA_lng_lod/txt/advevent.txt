@@ -353,7 +353,7 @@ Une énorme pile de gravats vous bloque le passage. Vous partez, découragé.
 Vous découvrez un vieux chariot abandonné à la hâte par un marchand. A l'intérieur, vous découvrez une partie des marchandises encore intactes."
 "{Chariot}
 
-Vous découvrez un vieux chariot abandonné à la hâte par un marchand. A l'intérieur, vous découvrez '%s'."
+Vous découvrez un vieux chariot abandonné à la hâte par un marchand. A l'intérieur, vous découvrez {%s}."
 "{Chariot}
 
 Vous découvrez un vieux chariot abandonné à la hâte par un marchand. Malheureusement, le chariot ne contient plus rien d'intéressant."
