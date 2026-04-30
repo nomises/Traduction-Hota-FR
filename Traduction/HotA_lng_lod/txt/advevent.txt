@@ -325,7 +325,7 @@ Une pierre se met à tournoyer lorsque vous approchez de ce pilier. En la regarda
 Vous approchez du pilier espérant en apprendre un peu plus, mais les pierres alentours restent inertes."
 "{Coffre au Trésor}
 
-Après avoir exploré la région, vous découvrez un coffre caché contenant l'artéfact '%s'."
+Après avoir exploré la région, vous découvrez un coffre caché contenant l'artéfact {%s}."
 "{Coffre au Trésor}
 
 Après avoir exploré la région, vous découvrez un trésor caché. Vous pouvez garder l'Or ou le distribuer aux paysans de la région en échange d'expérience. Que choisissez-vous ?"
