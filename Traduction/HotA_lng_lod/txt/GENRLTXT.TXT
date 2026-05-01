@@ -393,7 +393,7 @@ Les Chaînes de Gladiateur empêchent %s de fuir !
 Les Chaînes de Gladiateur empêchent %s de se rendre !
 Niveau %d, %s
 
-"Inflige %d points de dégâts."
+Inflige %d points de dégâts.
 Libre
 N/A
 Coût
