@@ -64,7 +64,7 @@ Ceci est une vue générale de la carte. Cliquez dans cette fenêtre pour centrer l
 "Au moins l'un de vos héros peut encore se déplacer. Souhaitez-vous terminer votre tour ?"
 "Creuser prend une journée complète, attendez demain et recommencez."
 Votre Héros n'a plus assez de place pour transporter un autre artéfact.
-"Félicitations ! Après de longues heures de fouilles, votre héros a découvert l'artéfact :"
+"Félicitations ! Après de longues heures de fouilles, votre héros a découvert "
 "Rien ici. Il faudra creuser ailleurs.
 Où peut-il bien être?"
 Essayez plutôt sur la terre ferme !
