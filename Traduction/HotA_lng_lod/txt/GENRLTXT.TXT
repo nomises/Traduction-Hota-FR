@@ -433,9 +433,9 @@ Les sentinelles
 %s inflige %d points de dégâts.
 Les %s infligent %d points de dégâts.
 
-"Un(e) %s meurt."
+Un(e) %s meurt.
 
-"%d %s meurent."
+%d %s meurent.
 Attaque
 Défense
 Magie
