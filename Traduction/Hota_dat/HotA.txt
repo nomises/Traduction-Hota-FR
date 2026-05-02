@@ -9941,8 +9941,8 @@ Text 1: "Aucun bateau disponible dans les environs. Vous devez abandonner le pri
 Text 2: "(Améliore les créatures de rang 1-5 pour le double du prix normal)"
 Text 3: "Nombre d'unités disponibles :"
 Text 4: "Enrôler les unités :"
-Text 5: "Autel de Magie Mystère"
-Text 6: "(Enseigne un sort de rang 4)"
+Text 5: "Autel de Magie Mystère (Enseigne un sort de rang 4)"
+Text 6: ""
 Text 7: "# Objets supplémentaires pour le RMG
 # Type Subtype Value Density Max_map Max_zone
 
