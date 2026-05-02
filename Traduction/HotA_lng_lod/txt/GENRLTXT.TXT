@@ -238,7 +238,7 @@ Capital Santé
 Votre temps est écoulé. Passage au tour suivant.
 Gardé par 
 
-"Votre Héros a appris %s %s."
+Votre Héros apprend la compétence suivante.
 
 Votre héros apprend l'une des compétences suivantes :
 "{Points de Magie}
