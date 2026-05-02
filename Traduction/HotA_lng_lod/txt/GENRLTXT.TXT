@@ -264,16 +264,16 @@ Attaquer les %s
 "Grâce à la compétence Mimétisme, %s apprend %s."
 Pas assez de mémoire.
 Impossible de construire un autre bâtiment aujourd'hui.
-Perte de %s '%s'.
-Perte du héros '%s'.
+Perte de %s {%s}.
+Perte du héros {%s}.
 "Vous n'avez pas gagné avant le mois %d, semaine %d, jour %d."
 Perte de tous vos héros et toutes vos villes.
-Prise de %s '%s'.
-Mise en déroute du héros '%s'.
-Trouver le Graal.
-Trouver l'artéfact %s.
+Prise de %s {%s}.
+Mise en déroute du héros {%s}.
+Trouver le Saint Graal.
+Trouver l'artéfact {%s}.
 Accumuler %d %s.
- Vous pouvez également défaire tous les héros et prendre toutes les villes de vos ennemis.
+ Les conditions de victoire normales s'appliquent.
 Défaire tous les héros et prendre toutes les villes de vos ennemis.
 Vous et vos alliés 
 Vous et votre allié 
