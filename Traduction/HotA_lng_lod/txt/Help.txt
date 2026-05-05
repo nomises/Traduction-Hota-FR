@@ -430,7 +430,7 @@ Fait défiler vers le bas la liste des villes sous votre contrôle."
 Représentation de la Ville	"{Représentation de la Ville}
 
 Cliquez une première fois sur la représentation de la ville pour la sélectionner et centrer la fenêtre de jeu sur elle. Cliquez une seconde fois pour afficher les informations de la Ville."	
-Or	Votre réserve en Or.	
+Or	Votre réserve en Or	
 Bois	Vos ressources en Bois.	
 Mercure	Vos ressources en Mercure.	
 Pierres	Vos ressources en Pierres.	
