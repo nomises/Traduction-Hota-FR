@@ -9,7 +9,7 @@ La bataille décisive vient tout juste de s'apaiser. L'ennemi en déroute est pi
 Name:
 Angel
 Text:
-On dit que l'Alliance Angélique a été détruite pendant la guerre. Certains affirment aussi que le grand artefact pourrait encore être recréé si ses parties perdues étaient retrouvées.
+On dit que l'Alliance Angélique a été détruite pendant la guerre. Certains affirment aussi que le grand artéfact pourrait encore être recréé si ses parties perdues étaient retrouvées.
 
 Name:
 Angel 1
