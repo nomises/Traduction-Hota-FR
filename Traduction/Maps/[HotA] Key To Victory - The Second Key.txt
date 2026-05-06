@@ -129,7 +129,7 @@ Rappelez-vous : en ordonnant à vos Gardes-Frontières de se retirer, vous ouvri
 
 (6, 64, 0) ***Event***
 Message:
-Une embuscade vous attend plus loin ! Heureusement, vos éclaireurs ont repéré les Tireurs d'Élite cachés dans les arbres. Ils ne sont pas nombreux, mais prévenu vaut armé !
+Une embuscade vous attend plus loin ! Heureusement, vos éclaireurs ont repéré les Tireurs d'Élite cachés dans les arbres. Ils ne sont pas nombreux, mais un homme averti en vaut deux !
 
 ===== Extended Events =====
 ===== End of file =====
