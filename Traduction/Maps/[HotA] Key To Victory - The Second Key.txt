@@ -46,7 +46,7 @@ Invisible, il repose parmi les fleurs plantées par les élèves de l'école de 
 Name:
 day1
 Message:
-Votre ennemi fuit ! Votre ennemi est terrifié ! Dans ce chaos, les sages loyaux de votre cour ont réussi à ériger des barrières le long de toute la ligne de front, encerclant les derniers vestiges de l'armée ennemie. Plus nulle part où fuir, nulle part où se cacher. 
+Votre ennemi fuit ! Votre ennemi est terrifié ! Dans ce chaos, les sages loyaux de votre cour ont réussi à ériger des barrières le long de toute la ligne de front, encerclant les derniers vestiges de l'armée ennemie. Ils n'ont nulle part où fuir, nulle part où se cacher. 
 
 Name:
 day12
