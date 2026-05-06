@@ -97,7 +97,7 @@ La haute herbe autour de la vieille charrette témoigne de son long abandon. Vou
 
 (40, 55, 0) ***Sign***
 Message:
-Au-delà de ces portes s'étendent des terres où personne ne peut garantir votre sécurité. Tant que vous restez de ce côté, cependant, vous n'avez rien 
+Au-delà de ces portes s'étendent des terres où personne ne peut garantir votre sécurité. Tant que vous restez de ce côté, cependant, vous n'avez rien à craindre.
 
 (0, 31, 0) ***Event***
 Message:
