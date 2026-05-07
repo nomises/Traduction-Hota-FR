@@ -1,20 +1,20 @@
 ===== Map name =====
-ClÃ© de la Victoire Seconde ClÃ©
+Clé de la Victoire Seconde Clé
 
 ===== Map description =====
-La bataille dÃ©cisive vient tout juste de s'apaiser. L'ennemi en dÃ©route est piÃ©gÃ© dans les montagnes, avec bien peu de chances de pouvoir lancer une contre-attaque. Votre position est quasi invulnÃ©rable : il ne vous reste plus qu'Ã  en finir et mettre un terme Ã  cette longue guerre.
+La bataille décisive vient tout juste de s'apaiser. L'ennemi en déroute est piégé dans les montagnes, avec bien peu de chances de pouvoir lancer une contre-attaque. Votre position est quasi invulnérable : il ne vous reste plus qu'à en finir et mettre un terme à cette longue guerre.
 
 ===== Rumors =====
 
 Name:
 Angel
 Text:
-On dit que l'Alliance AngÃ©lique a Ã©tÃ© dÃ©truite pendant la guerre. Certains affirment aussi que le grand artÃ©fact pourrait encore Ãªtre recrÃ©Ã© si ses parties perdues Ã©taient retrouvÃ©es.
+On dit que l'Alliance Angélique a été détruite pendant la guerre. Certains affirment aussi que le grand artéfact pourrait encore être recréé si ses parties perdues étaient retrouvées.
 
 Name:
 Angel 1
 Text:
-Dans l'arriÃ¨re-cour d'un laboratoire d'alchimiste...
+Dans l'arrière-cour d'un laboratoire d'alchimiste...
 
 Name:
 Angel 2
@@ -24,12 +24,12 @@ Sous un grand arbre mort...
 Name:
 Angel 3
 Text:
-Au fond d'un puits inondÃ© par les eaux des grands lacs...
+Au fond d'un puits inondé par les eaux des grands lacs...
 
 Name:
 Angel 4
 Text:
-Le leprechaun surveille jalousement son vrai trÃ©sor...
+Le leprechaun surveille jalousement son vrai trésor...
 
 Name:
 Angel 5
@@ -39,29 +39,29 @@ Sous une charrette, dans une vieille scierie...
 Name:
 Angel 6
 Text:
-Invisible, il repose parmi les fleurs plantÃ©es par les Ã©lÃ¨ves de l'Ã©cole de magie...
+Invisible, il repose parmi les fleurs plantées par les élèves de l'école de magie...
 
 ===== Timed events =====
 
 Name:
 day1
 Message:
-Votre ennemi fuit ! Votre ennemi est terrifiÃ© ! Dans ce chaos, les sages loyaux de votre cour ont rÃ©ussi Ã  Ã©riger des barriÃ¨res le long de toute la ligne de front, encerclant les derniers vestiges de l'armÃ©e ennemie. Ils n'ont nulle part oÃ¹ fuir, nulle part oÃ¹ se cacher. 
+Votre ennemi fuit ! Votre ennemi est terrifié ! Dans ce chaos, les sages loyaux de votre cour ont réussi à ériger des barrières le long de toute la ligne de front, encerclant les derniers vestiges de l'armée ennemie. Ils n'ont nulle part où fuir, nulle part où se cacher. 
 
 Name:
 day12
 Message:
-Rassemblez une armÃ©e puissante et dÃ©cidez vous-mÃªme du moment oÃ¹ vous franchirez les barriÃ¨res pour la bataille finale. Ã€ cheval, soldats !
+Rassemblez une armée puissante et décidez vous-même du moment où vous franchirez les barrières pour la bataille finale. À cheval, soldats !
 
 Name:
 day2
 Message:
-Vos Ã©claireurs rapportent : certaines mines cruciales, riches en ressources, sont encore aux mains de l'ennemi. Ce fourbe a utilisÃ© la magie d'invocation ; les mines sont dÃ©sormais gardÃ©es par des Ã©lÃ©mentaires. Pourtant, vous aurez besoin de ces ressources, et vous ne pouvez tolÃ©rer que les hÃ©ros ennemis, mÃªme invoquÃ©s, rÃ´dent derriÃ¨re vos lignes ! Bien que les barriÃ¨res rÃ©cemment Ã©rigÃ©es aient rÃ©duit le risque de sabotage, il vous incombe de vaincre ces hÃ©ros Ã©lÃ©mentaires.
+Vos éclaireurs rapportent : certaines mines cruciales, riches en ressources, sont encore aux mains de l'ennemi. Ce fourbe a utilisé la magie d'invocation ; les mines sont désormais gardées par des élémentaires. Pourtant, vous aurez besoin de ces ressources, et vous ne pouvez tolérer que les héros ennemis, même invoqués, rôdent derrière vos lignes ! Bien que les barrières récemment érigées aient réduit le risque de sabotage, il vous incombe de vaincre ces héros élémentaires.
 
 Name:
 day5
 Message:
-Vos sentinelles apportent une nouvelle inattendue. Pressentant sa chute imminente, votre ennemi a construit ses propres barriÃ¨res ; seules ses troupes peuvent les franchir. Il semble que vous deviez dÃ©sormais trouver une nouvelle clÃ© pour la victoire.
+Vos sentinelles apportent une nouvelle inattendue. Pressentant sa chute imminente, votre ennemi a construit ses propres barrières ; seules ses troupes peuvent les franchir. Il semble que vous deviez désormais trouver une nouvelle clé pour la victoire.
 
 ===== Heroes =====
 
@@ -69,67 +69,67 @@ Vos sentinelles apportent une nouvelle inattendue. Pressentant sa chute imminent
 
 (67, 56, 0) ***Sign***
 Message:
-DÃ©bloquez ces portes Ã  vos risques et pÃ©rils ! Une fois ouvertes, elles ne vous protÃ©geront plus de l'ennemi.
+Débloquez ces portes à vos risques et périls ! Une fois ouvertes, elles ne vous protégeront plus de l'ennemi.
 
 (25, 35, 0) ***Sign***
 Message:
-Au-delï¿½ de ces portes s'ï¿½tendent des terres oï¿½ personne ne peut garantir votre sï¿½curitï¿½. Tant que vous restez de ce cï¿½tï¿½, cependant, vous n'avez rien Ã  craindre.
+Au-del? de ces portes s'?tendent des terres o? personne ne peut garantir votre s?curit?. Tant que vous restez de ce c?t?, cependant, vous n'avez rien à craindre.
 
 (5, 14, 0) ***Sign***
 Message:
-DÃ©bloquez ces portes Ã  vos risques et pÃ©rils ! Une fois ouvertes, elles ne vous protÃ©geront plus de l'ennemi.
+Débloquez ces portes à vos risques et périls ! Une fois ouvertes, elles ne vous protégeront plus de l'ennemi.
 
 (71, 55, 0) ***Event***
 Message:
-Votre oeil est attirÃ© par une lÃ©gÃ¨re distorsion de l'air, qui dÃ©forme les contours des brins d'herbe au sol. En vous approchant, vous comprenez qu'un coffre invisible se dresse devant vous. AprÃ¨s quelques efforts, vous parvenez Ã  percer son secret et y dÃ©couvrez l'Heame de l'Illumination.
+Votre oeil est attiré par une légère distorsion de l'air, qui déforme les contours des brins d'herbe au sol. En vous approchant, vous comprenez qu'un coffre invisible se dresse devant vous. Après quelques efforts, vous parvenez à percer son secret et y découvrez l'Heame de l'Illumination.
 
 (22, 50, 0) ***Event***
 Message:
-Vous flÃ¢nez en lisiÃ¨re de forÃªt, feignant de chercher des champignons, mais le leprechaun semble avoir perÃ§u votre prÃ©sence. Il plisse les yeux, et sa danse ralentit : il est prÃªt Ã  bondir sur vous Ã  tout moment. Par chance, un Ã©clat rÃ©vÃ©lateur trahit l'emplacement de son trÃ©sor. Avant que le farceur vert ne puisse vous atteindre, vous vous emparez d'un Collier de BÃ©atitude cachÃ© dans une petite cache.
+Vous flânez en lisière de forêt, feignant de chercher des champignons, mais le leprechaun semble avoir perçu votre présence. Il plisse les yeux, et sa danse ralentit : il est prêt à bondir sur vous à tout moment. Par chance, un éclat révélateur trahit l'emplacement de son trésor. Avant que le farceur vert ne puisse vous atteindre, vous vous emparez d'un Collier de Béatitude caché dans une petite cache.
 
 (8, 48, 0) ***Legs of Legion***
 Message:
-Autrefois, des mercenaires du monde entier affluaient vers ces terres pour rejoindre les rangs de la puissante LÃ©gion. MÃªme aprÃ¨s sa mort, le monument Ã©rigÃ© en son honneur continuait d'inspirer l'admiration, tant chez les jeunes soldats que chez les vÃ©tÃ©rans aguerris. Aujourd'hui, cependant, il n'en reste plus que la base et les jambes. Parviendrez-vous Ã  restaurer la Statue de LÃ©gion ?
+Autrefois, des mercenaires du monde entier affluaient vers ces terres pour rejoindre les rangs de la puissante Légion. Même après sa mort, le monument érigé en son honneur continuait d'inspirer l'admiration, tant chez les jeunes soldats que chez les vétérans aguerris. Aujourd'hui, cependant, il n'en reste plus que la base et les jambes. Parviendrez-vous à restaurer la Statue de Légion ?
 
 (26, 70, 0) ***Event***
 Message:
-La haute herbe autour de la vieille charrette tÃ©moigne de son long abandon. Vous examinez attentivement le vÃ©hicule : il lui manque une roue, et un objet mÃ©tallique soutient son essieu avant. Non sans mal, vous parvenez Ã  l'extraire et dÃ©couvrez, Ã  votre grande surprise, qu'il s'agit du Bouclier Coeur de Lion.
+La haute herbe autour de la vieille charrette témoigne de son long abandon. Vous examinez attentivement le véhicule : il lui manque une roue, et un objet métallique soutient son essieu avant. Non sans mal, vous parvenez à l'extraire et découvrez, à votre grande surprise, qu'il s'agit du Bouclier Coeur de Lion.
 
 (40, 55, 0) ***Sign***
 Message:
-Au-delÃ  de ces portes s'Ã©tendent des terres oÃ¹ personne ne peut garantir votre sÃ©curitÃ©. Tant que vous restez de ce cÃ´tÃ©, cependant, vous n'avez rien Ã  craindre.
+Au-delà de ces portes s'étendent des terres où personne ne peut garantir votre sécurité. Tant que vous restez de ce côté, cependant, vous n'avez rien à craindre.
 
 (0, 31, 0) ***Event***
 Message:
-Sous les racines dessÃ©chÃ©es d'un arbre mort, vous trouvez les Sandales SacrÃ©es.
+Sous les racines desséchées d'un arbre mort, vous trouvez les Sandales Sacrées.
 
 (0, 9, 0) ***Event***
 Message:
-Toutes les richesses volÃ©es se trouvent derriÃ¨re le portail magique. MÃªme aprÃ¨s avoir perdu plusieurs batailles de suite, votre ennemi est toujours prÃªt Ã  se battre pour ce trÃ©sor.
+Toutes les richesses volées se trouvent derrière le portail magique. Même après avoir perdu plusieurs batailles de suite, votre ennemi est toujours prêt à se battre pour ce trésor.
 
 (30, 39, 0) ***Event***
 Message:
-Vous fouillez le fond d'une flaque fÃ©tide et y trouvez une poignÃ©e. En la saisissant, vous en extrayez l'Ã‰pÃ©e de Justice, intacte, sans trace de rouille ni de boue malodorante.
+Vous fouillez le fond d'une flaque fétide et y trouvez une poignée. En la saisissant, vous en extrayez l'Épée de Justice, intacte, sans trace de rouille ni de boue malodorante.
 
 (11, 21, 0) ***Event***
 Message:
-Dans l'arriÃ¨re-cour d'un laboratoire d'alchimiste, vous repÃ©rez l'Armure Miraculeuse. AprÃ¨s une brÃ¨ve discussion avec le propriÃ©taire, perplexe quant Ã  la prÃ©sence de cette cuirasse enchantÃ©e sur sa propriÃ©tÃ©, vous la prenez.
+Dans l'arrière-cour d'un laboratoire d'alchimiste, vous repérez l'Armure Miraculeuse. Après une brève discussion avec le propriétaire, perplexe quant à la présence de cette cuirasse enchantée sur sa propriété, vous la prenez.
 
 (18, 71, 0) ***Event***
 Message:
-L'Oracle est prÃªt Ã  vous montrer quelques lieux intÃ©ressants Ã  proximitÃ©. Il s'incline et vous invite Ã  entrer dans la hutte.
+L'Oracle est prêt à vous montrer quelques lieux intéressants à proximité. Il s'incline et vous invite à entrer dans la hutte.
 
 (16, 61, 0) ***Event***
 Message:
-Des barriÃ¨res protÃ¨gent cette zone de l'ennemi. Ses troupes ne pourront pas fouler cette terre sacrÃ©e ! Si vous souhaitez vous aventurer au-delÃ  des barriÃ¨res, cependant, vous devrez d'abord trouver la Tente du MaÃ®tre des Clefs: Bleu PÃ¢le.
+Des barrières protègent cette zone de l'ennemi. Ses troupes ne pourront pas fouler cette terre sacrée ! Si vous souhaitez vous aventurer au-delà des barrières, cependant, vous devrez d'abord trouver la Tente du Maître des Clefs: Bleu Pâle.
 
 (35, 32, 0) ***Sign***
 Message:
-Rappelez-vous : en ordonnant Ã  vos Gardes-FrontiÃ¨res de se retirer, vous ouvrirez la voie non seulement pour vous, mais aussi pour vos ennemis !
+Rappelez-vous : en ordonnant à vos Gardes-Frontières de se retirer, vous ouvrirez la voie non seulement pour vous, mais aussi pour vos ennemis !
 
 (6, 64, 0) ***Event***
 Message:
-Une embuscade vous attend plus loin ! Heureusement, vos Ã©claireurs ont repÃ©rÃ© les Tireurs d'Ã‰lite cachÃ©s dans les arbres. Ils ne sont pas nombreux, mais un homme averti en vaut deux !
+Une embuscade vous attend plus loin ! Heureusement, vos éclaireurs ont repéré les Tireurs d'Élite cachés dans les arbres. Ils ne sont pas nombreux, mais un homme averti en vaut deux !
 
 ===== Extended Events =====
 ===== End of file =====
