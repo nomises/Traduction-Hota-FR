@@ -19,25 +19,25 @@ Ce projet vise à traduire en français l’extension Horn of the Abyss (HotA) p
     - [Hota\_lng\_lod](#hota_lng_lod)
     - [Fichiers _**Campaign Editor**_ et _**Rmg Template Editor**_](#fichiers-campaign-editor-et-rmg-template-editor)
   - [Erreurs connus](#erreurs-connus)
-  - [Quoi faire pour Démarré une traduction](#quoi-faire-pour-démarré-une-traduction)
-  - [Quoi faire pour setup le projet](#quoi-faire-pour-setup-le-projet)
+  - [Quoi faire pour démarrer une traduction](#quoi-faire-pour-démarrer-une-traduction)
+  - [Quoi faire pour setup le projet lorsque la traduction est terminée](#quoi-faire-pour-setup-le-projet-lorsque-la-traduction-est-terminée)
+    - [Fichiers scénario](#fichiers-scénario)
     - [Fichier Hota.txt](#fichier-hotatxt)
-    - [Fichiers Hota\_lng\_lod\_txt](#fichiers-hota_lng_lod_txt)
-    - [Fichiers cartes](#fichiers-cartes)
-    - [Fichiers campagnes](#fichiers-campagnes)
+    - [Fichier HotA\_lng.lod](#fichier-hota_lnglod)
+    - [Pour envoyer a GOG, vous pouvez suivre la documentation (ouvrir avec wordpad)](#pour-envoyer-a-gog-vous-pouvez-suivre-la-documentation-ouvrir-avec-wordpad)
     
 
 ## Structure du projet
 
-* Vous pourrez retrouver un glossaire pour les mots courants dans `Glossaire.csv`, n'hésitez pas à l'étoffer lors de vos traductions.
+* Vous pourrez retrouver un glossaire pour les mots courants dans [Glossaire.csv](./Glossaire.csv), n'hésitez pas à l'étoffer lors de vos traductions.
 
-* Le fichier `A faire.md` contient l'avancement des traductions.
+* Le fichier [A faire.md](./A%20faire.md) contient l'avancement des traductions.
 
-* Le dossier `Outils` contient divers outils nécessaires pour certains fichiers.
+* Le dossier [Outils](./Outils/) contient divers outils nécessaires pour certains fichiers.
 
-* Le dossier `Traduction` contient les différents dossiers à traduire, ainsi que le dossier avec la version actuelle `HOTA_X-X-X`.
+* Le dossier [Traduction](./Traduction/) contient les différents dossiers à traduire, ainsi que le dossier avec la version actuelle `HOTA_X-X-X`.
 
-* Le dossier `Font Originale` contient les polices du jeu d'origine (**Ne sera peut-être pas utilisé**).
+* Le dossier [Font Originale](./Font%20Originale/) contient les polices du jeu d'origine.
 
 ## Contribuer
 
@@ -113,7 +113,7 @@ Consultez `RMG template editor translation guide.rtf`
 
 <summary>
 
-## Quoi faire pour Démarré une traduction
+## Quoi faire pour démarrer une traduction
 
 </summary>
 
@@ -138,20 +138,31 @@ Consultez `RMG template editor translation guide.rtf`
 <details>
 <summary>
 
-## Quoi faire pour setup le projet
+## Quoi faire pour setup le projet lorsque la traduction est terminée
 
 </summary>
 
+### Fichiers scénario
+- Les textes des scénarios sont exportés selon la langue configurée avec les fichiers `txt` du `HotA_lng.lod`. S'ils sont en anglais, ils doivent être importés avant de remettre ces fichiers.
+- Ouvrir l'éditeur de carte d'HotA
+- Ouvrir le [scénario](./Traduction/Maps/h3m/)
+- Importé le [texte du scénario](./Traduction/Maps/txt/)
+- Recommencé pour les différents scénario
+- Ajouté les cartes dans le dossier `Maps` de votre instance Heroes III, habituellement `HoMM 3 Complete`.
+
 ### Fichier Hota.txt
 - Mettre le `HotA_Dat_Editor_write.bat` et le `HotA_Dat_Editor.exe` dans le même dossier que le fichier `Hota.txt`.
-- Exécutez le fichié batch.
+- Exécutez le fichier batch.
 - Mettre le résultat fichier `HotA.dat` dans le dossier racine de votre instance Heroes III, habituellement `HoMM 3 Complete`.
 
-### Fichiers Hota_lng_lod_txt
-- Ils faut importer les fichiers avec [MMARchive](./Outils/MMArchive.7z) dans `data/HotA_lng.lod`
+### Fichier HotA_lng.lod
+- Ouvrir le fichier `HotA_lng.lod` dans [MMArchive](./Outils/MMArchive.7z).
+- Mettre les [fonts](./Traduction/Font/).
+- Mettre les campagnes traduite [d'HotA](./Traduction/HotA_lng_lod/h3c/) dans MMArchive.
+- Mettre les fichiers [pcx](./Traduction/HotA_lng_lod/pcx) dans MMArchive.
+- Mettre les fichiers [def](./Traduction/HotA_lng_lod/def) dans MMArchive.
+- Mettre les fichiers [txt](./Traduction/HotA_lng_lod/txt) dans MMArchive.
 
-### Fichiers cartes
-
-### Fichiers campagnes
+### Pour envoyer a GOG, vous pouvez suivre la [documentation](./rsc/How%20to%20publish%20build%20on%20GOG.rtf) (ouvrir avec wordpad)
 
 </details>
