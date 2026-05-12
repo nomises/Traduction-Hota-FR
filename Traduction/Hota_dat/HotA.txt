@@ -3770,7 +3770,7 @@ L(e)'%s restaure %d points de vie des %s.
 #201
 %d %s sont réparés.
 #202
-Réparation des %s (tâches effectuées: %d, points de vie restaurés: %d, créatures réparées: %d)
+Réparation des %s (tâches effectuées: %d, points de vie restaurés: %s, créatures réparées: %s sur %s)
 #203
 Réparation des %s (tâches effectuées: %d, points de vie restaurés: %d)
 #204
