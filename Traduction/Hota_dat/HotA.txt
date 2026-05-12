@@ -3621,7 +3621,7 @@ Retire des pts de vie: %s, créatures: %s
 #138
 Sorts restants: %d
 #139
-Tirs: %s (dégâts: %s)
+Tirer sur les %s (dégâts %s, morts: %s)
 #140
  et 
 #141
@@ -3806,7 +3806,7 @@ L'espace prêt à accueillir un dirigeable est occupé.
 
 Les points de mouvement déterminent la distance que le Héros peut parcourir sur la carte. En général, un déplacement d'une case coûte environ 100 points de mouvement.""
 #217
-, morts: %s, nbr d'attaques: %s
+Tirez sur les %s (1 tir restant, nombre d'attaques: %s, dégâts %s, morts: %s)
 #218
 Construire un Dirigeable
 #219
