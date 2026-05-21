@@ -2,7 +2,6 @@
 Paradise Lost
 
 ===== Map description =====
-Once upon a time, there was a magical city in this beautiful valley. However, a terrible cataclysm made it disappear under the water. After the disaster, many people tried to locate it and understand what caused the calamity, but their efforts were in vain. But surely you will succeed, won't you?
 Il était une fois, dans cette magnifique vallée, une cité magique. Mais un terrible cataclysme l'engloutit sous les eaux. Après la catastrophe, nombreux furent ceux qui tentèrent de la retrouver et de comprendre la cause du désastre, mais en vain. Sûrement y parviendrez-vous, n'est-ce pas ?
 ===== Rumors =====
 
@@ -46,7 +45,6 @@ Message:
 
 (63, 33, 0) ***Ocean Bottle***
 Message:
-I keep ancient knowledge in my head, but not everyone will be able to make use of it.
 Je conserve en mémoire d'anciennes connaissances, mais ce ne sera pas tout le monde qui pourra en profiter.
 
 (65, 29, 0) ***Pandora's Box***
