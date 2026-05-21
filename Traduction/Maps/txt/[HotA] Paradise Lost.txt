@@ -3,6 +3,7 @@ Paradise Lost
 
 ===== Map description =====
 Il était une fois, dans cette magnifique vallée, une cité magique. Mais un terrible cataclysme l'engloutit sous les eaux. Après la catastrophe, nombreux furent ceux qui tentèrent de la retrouver et de comprendre la cause du désastre, mais en vain. Sûrement y parviendrez-vous, n'est-ce pas ?
+
 ===== Rumors =====
 
 ===== Timed events =====
