@@ -1,8 +1,8 @@
 ===== Map name =====
-Seven Days
+Sept jours
 
 ===== Map description =====
-While you were away from home, your neighbour, the scheming dark elf Maghera, decided to take your lands. You must act quickly to gather your troops, build fortifications, and return home to fight the villain!
+Pendant votre absence, votre voisine, la perfide elfe noire Maghera, a décidé de s'emparer de vos terres. Vous devez agir vite, rassemblez vos troupes, érigez des fortifications et rentrez chez vous pour combattre la maléfique !
 
 ===== Rumors =====
 
@@ -11,12 +11,12 @@ While you were away from home, your neighbour, the scheming dark elf Maghera, de
 Name:
 day 1
 Message:
-The couriers report: while Ziph was fighting the barbarian hordes, our neighbor Maghera started a war against us. Her troops are already attacking our borders. Our warriors will be able to hold off her offensive for a few days, but we need to hurry back to the castle before Maghera captures it!			
+Les messagers rapportent : pendant que Ziph combattait les hordes barbares, notre voisine Maghera nous a déclaré la guerre. Ses troupes attaquent déjà nos frontières. Nos guerriers pourront contenir son offensive pendant quelques jours, mais nous devons nous dépêcher de regagner le château avant que Maghera ne s'en empare !
 
 Name:
 day 7
 Message:
-The courier arrived with news: Maghera has managed to penetrate our border fortifications and is only a day's march away from our castle!
+Le messager est arrivé avec des nouvelles : Maghera a réussi à pénétrer nos fortifications frontalières et n'est plus qu'à une journée de marche de notre château !
 
 ===== Heroes =====
 
@@ -32,30 +32,30 @@ Nullification
 
 (68, 7, 0) ***Event***
 Message:
-Movement points
+Points de mouvement
 
 (67, 7, 0) ***Event***
 Message:
-Army increase on Expert and Impossible
+Augmentation des effectifs en Expert ou Impossible
 
 (2, 51, 0) ***Halfling***
 Message:
-The warriors still loyal to you want to join your army!  
+Les guerriers qui vous sont encore fidèles veulent rejoindre votre armée !
 
 (70, 44, 0) ***Mechanic***
 Message:
-The warriors still loyal to you want to join your army!  
+Les guerriers qui vous sont encore fidèles veulent rejoindre votre armée !
 
 (70, 7, 0) ***Event***
 Message:
-More money on Expert and Impossible
+Plus d'argent en Expert ou Impossible
 
 (33, 70, 0) ***Event***
 Message:
-Your warriors are encouraged and eager to move!
+Vos guerriers sont encouragés et impatients de se mettre en mouvement !
 
 (53, 6, 0) ***Event***
 Message:
-Movement points
+Points de mouvement
 
 ===== End of file =====
