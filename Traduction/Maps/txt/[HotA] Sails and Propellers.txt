@@ -1,8 +1,8 @@
 ===== Map name =====
-Sails and Propellers
+Voiles et hélices
 
 ===== Map description =====
-In search of the legendary Horn of the Abyss, you will have to conquer land, sea and air. Harder still should it prove to conquer three other lords who cherish the same dream. 
+À la recherche de la légendaire Corne des Abysses, il vous faudra conquérir la terre, la mer et les airs. Plus difficile encore sera de vaincre trois autres seigneurs qui nourrissent le même rêve.
 
 ===== Rumors =====
 
@@ -11,7 +11,7 @@ In search of the legendary Horn of the Abyss, you will have to conquer land, sea
 Name:
 day1
 Message:
-Remember: whoever owns the sea owns all. Whoever owns the Horn of the Abyss also owns the sea. Now here's a paradox: to claim the Horn of the Abyss, you will first have to conquer the elements! 
+N'oubliez pas : qui possède la mer possède tout. Qui possède la Corne des Abysses possède aussi la mer. Voici un paradoxe : pour s'emparer de la Corne des Abysses, il vous faudra d'abord vaincre les éléments !
 
 ===== Heroes =====
 

@@ -17,9 +17,9 @@
 * ~~Heritage of the Ancients.txt~~
 * ~~Just Win, Or Else.txt~~
 * ~~Key To Victory - The Second Key.txt~~
-* Paradise Lost.txt
-* Sails and Propellers.txt
-* Seven Days.txt
+* ~~Paradise Lost.txt~~
+* ~~Sails and Propellers.txt~~
+* ~~Seven Days.txt~~
 * ~~Strife in the Woods.txt~~
 * The Cataclysm.txt
 	* The Cataclysm (Allied).txt
