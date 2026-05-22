@@ -1,20 +1,20 @@
 ===== Map name =====
-Paradise Lost
+Paradis perdu
 
 ===== Map description =====
-Once upon a time, there was a magical city in this beautiful valley. However, a terrible cataclysm made it disappear under the water. After the disaster, many people tried to locate it and understand what caused the calamity, but their efforts were in vain. But surely you will succeed, won't you?
+Il �tait une fois, dans cette magnifique vall�e, une cit� magique. Mais un terrible cataclysme l'engloutit sous les eaux. Apr�s la catastrophe, nombreux furent ceux qui tent�rent de la retrouver et de comprendre la cause du d�sastre, mais en vain. S�rement y parviendrez-vous, n'est-ce pas ?
 
 ===== Rumors =====
 
 ===== Timed events =====
 
 Name:
-- ресы у врагов
+- ???? ? ??????
 Message:
 
 
 Name:
-+ 3к врагам
++ 3? ??????
 Message:
 
 
@@ -27,7 +27,7 @@ Message:
 Timed events:
 
 Name:
-ИИ - бонус
+?? - ?????
 Message:
 
 
@@ -40,13 +40,13 @@ Message:
 Timed events:
 
 Name:
-ИИ - бонус
+?? - ?????
 Message:
 
 
 (63, 33, 0) ***Ocean Bottle***
 Message:
-I keep ancient knowledge in my head, but not everyone will be able to make use of it.
+Je conserve en m�moire d'anciennes connaissances, mais tout le monde ne pourra en profiter.
 
 (65, 29, 0) ***Pandora's Box***
 Message:
@@ -57,7 +57,7 @@ Message:
 Timed events:
 
 Name:
-ИИ - бонус
+?? - ?????
 Message:
 
 
@@ -66,7 +66,7 @@ Message:
 Timed events:
 
 Name:
-ИИ - бонус
+?? - ?????
 Message:
 
 
@@ -80,23 +80,23 @@ Beware the quicksand!
 
 (13, 11, 0) ***Event***
 Message:
-ИИ - бонус сложности
+?? - ????? ?????????
 
 (68, 9, 0) ***Event***
 Message:
-ИИ - бонус сложности
+?? - ????? ?????????
 
 (65, 45, 0) ***Event***
 Message:
-ИИ - бонус сложности
+?? - ????? ?????????
 
 (15, 57, 0) ***Event***
 Message:
-ИИ - бонус сложности
+?? - ????? ?????????
 
 (12, 31, 0) ***Event***
 Message:
-ИИ - бонус сложности
+?? - ????? ?????????
 
 (1, 17, 0) ***Pandora's Box***
 Message:
@@ -107,17 +107,17 @@ Message:
 Timed events:
 
 Name:
-ИИ - бонус
+?? - ?????
 Message:
 
 
 (66, 33, 1) ***Armageddon's Blade***
 Message:
-You weren't thinking you'd just come here and take this blade, were you?
+Vous ne pensiez pas simplement venir ici et prendre cette lame, n'est-ce pas ?
 
 (49, 23, 1) ***Sign***
 Message:
-Welcome to heaven!
+Bienvenue au paradis !
 
 (3, 43, 1) ***Pandora's Box***
 Message:
