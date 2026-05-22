@@ -2,7 +2,7 @@
 Sept jours
 
 ===== Map description =====
-Pendant votre absence, votre voisine, la perfide elfe noire Maghera, a dÃ©cidÃ© de s'emparer de vos terres. Vous devez agir vite, rassemblez vos troupes, Ã©rigez des fortifications et rentrez chez vous pour combattre la malÃ©fiqueÂ !
+Pendant votre absence, votre voisine, la perfide elfe noire Maghera, a décidé de s'emparer de vos terres. Vous devez agir vite, rassemblez vos troupes, érigez des fortifications et rentrez chez vous pour combattre la maléfique !
 
 ===== Rumors =====
 
@@ -11,12 +11,12 @@ Pendant votre absence, votre voisine, la perfide elfe noire Maghera, a dÃ©cidÃ© 
 Name:
 day 1
 Message:
-Les messagers rapportentÂ : pendant que Ziph combattait les hordes barbares, notre voisine Maghera nous a dÃ©clarÃ© la guerre. Ses troupes attaquent dÃ©jÃ  nos frontiÃ¨res. Nos guerriers pourront contenir son offensive pendant quelques jours, mais nous devons nous dÃ©pÃªcher de regagner le chÃ¢teau avant que Maghera ne s'en empareÂ !
+Les messagers rapportent : pendant que Ziph combattait les hordes barbares, notre voisine Maghera nous a déclaré la guerre. Ses troupes attaquent déjà nos frontières. Nos guerriers pourront contenir son offensive pendant quelques jours, mais nous devons nous dépêcher de regagner le château avant que Maghera ne s'en empare !
 
 Name:
 day 7
 Message:
-Le messager est arrivÃ© avec des nouvelles : Maghera a rÃ©ussi Ã  pÃ©nÃ©trer nos fortifications frontaliÃ¨res et n'est plus qu'Ã  une journÃ©e de marche de notre chÃ¢teau !
+Le messager est arrivé avec des nouvelles : Maghera a réussi à pénétrer nos fortifications frontalières et n'est plus qu'à une journée de marche de notre château !
 
 ===== Heroes =====
 
@@ -40,11 +40,11 @@ Augmentation des effectifs en Expert ou Impossible
 
 (2, 51, 0) ***Halfling***
 Message:
-Les guerriers qui vous sont encore fidÃ¨les veulent rejoindre votre armÃ©e !
+Les guerriers qui vous sont encore fidèles veulent rejoindre votre armée !
 
 (70, 44, 0) ***Mechanic***
 Message:
-Les guerriers qui vous sont encore fidÃ¨les veulent rejoindre votre armÃ©e !
+Les guerriers qui vous sont encore fidèles veulent rejoindre votre armée !
 
 (70, 7, 0) ***Event***
 Message:
@@ -52,7 +52,7 @@ Plus d'argent en Expert ou Impossible
 
 (33, 70, 0) ***Event***
 Message:
-Vos guerriers sont encouragÃ©s et impatients de se mettre en mouvement !
+Vos guerriers sont encouragés et impatients de se mettre en mouvement !
 
 (53, 6, 0) ***Event***
 Message:
