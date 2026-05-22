@@ -46,7 +46,7 @@ Message:
 
 (63, 33, 0) ***Ocean Bottle***
 Message:
-Je conserve en mémoire d'anciennes connaissances, mais ce ne sera pas tout le monde qui pourra en profiter.
+Je conserve en mémoire d'anciennes connaissances, mais tout le monde ne pourra en profiter.
 
 (65, 29, 0) ***Pandora's Box***
 Message:
