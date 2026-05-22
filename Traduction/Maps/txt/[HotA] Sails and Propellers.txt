@@ -1,8 +1,8 @@
 ===== Map name =====
-Voiles et hÃ©lices
+Voiles et hélices
 
 ===== Map description =====
-Ã€ la recherche de la lÃ©gendaire Corne des Abysses, il vous faudra conquÃ©rir la terre, la mer et les airs. Plus difficile encore sera de vaincre trois autres seigneurs qui nourrissent le mÃªme rÃªve.
+À la recherche de la légendaire Corne des Abysses, il vous faudra conquérir la terre, la mer et les airs. Plus difficile encore sera de vaincre trois autres seigneurs qui nourrissent le même rêve.
 
 ===== Rumors =====
 
@@ -11,7 +11,7 @@ Voiles et hÃ©lices
 Name:
 day1
 Message:
-N'oubliez pas : qui possÃ¨de la mer possÃ¨de tout. Qui possÃ¨de la Corne des Abysses possÃ¨de aussi la mer. Voici un paradoxe : pour s'emparer de la Corne des Abysses, il vous faudra d'abord vaincre les Ã©lÃ©ments !
+N'oubliez pas : qui possède la mer possède tout. Qui possède la Corne des Abysses possède aussi la mer. Voici un paradoxe : pour s'emparer de la Corne des Abysses, il vous faudra d'abord vaincre les éléments !
 
 ===== Heroes =====
 
