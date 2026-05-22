@@ -2,19 +2,19 @@
 Paradis perdu
 
 ===== Map description =====
-Il était une fois, dans cette magnifique vallée, une cité magique. Mais un terrible cataclysme l'engloutit sous les eaux. Après la catastrophe, nombreux furent ceux qui tentèrent de la retrouver et de comprendre la cause du désastre, mais en vain. Sûrement y parviendrez-vous, n'est-ce pas ?
+Il �tait une fois, dans cette magnifique vall�e, une cit� magique. Mais un terrible cataclysme l'engloutit sous les eaux. Apr�s la catastrophe, nombreux furent ceux qui tent�rent de la retrouver et de comprendre la cause du d�sastre, mais en vain. S�rement y parviendrez-vous, n'est-ce pas ?
 
 ===== Rumors =====
 
 ===== Timed events =====
 
 Name:
-- ресы у врагов
+- ???? ? ??????
 Message:
 
 
 Name:
-+ 3к врагам
++ 3? ??????
 Message:
 
 
@@ -27,7 +27,7 @@ Message:
 Timed events:
 
 Name:
-ИИ - бонус
+?? - ?????
 Message:
 
 
@@ -40,13 +40,13 @@ Message:
 Timed events:
 
 Name:
-ИИ - бонус
+?? - ?????
 Message:
 
 
 (63, 33, 0) ***Ocean Bottle***
 Message:
-Je conserve en mémoire d'anciennes connaissances, mais ce ne sera pas tout le monde qui pourra en profiter.
+Je conserve en m�moire d'anciennes connaissances, mais ce ne sera pas tout le monde qui pourra en profiter.
 
 (65, 29, 0) ***Pandora's Box***
 Message:
@@ -57,7 +57,7 @@ Message:
 Timed events:
 
 Name:
-ИИ - бонус
+?? - ?????
 Message:
 
 
@@ -66,7 +66,7 @@ Message:
 Timed events:
 
 Name:
-ИИ - бонус
+?? - ?????
 Message:
 
 
@@ -80,23 +80,23 @@ Beware the quicksand!
 
 (13, 11, 0) ***Event***
 Message:
-ИИ - бонус сложности
+?? - ????? ?????????
 
 (68, 9, 0) ***Event***
 Message:
-ИИ - бонус сложности
+?? - ????? ?????????
 
 (65, 45, 0) ***Event***
 Message:
-ИИ - бонус сложности
+?? - ????? ?????????
 
 (15, 57, 0) ***Event***
 Message:
-ИИ - бонус сложности
+?? - ????? ?????????
 
 (12, 31, 0) ***Event***
 Message:
-ИИ - бонус сложности
+?? - ????? ?????????
 
 (1, 17, 0) ***Pandora's Box***
 Message:
@@ -107,7 +107,7 @@ Message:
 Timed events:
 
 Name:
-ИИ - бонус
+?? - ?????
 Message:
 
 
