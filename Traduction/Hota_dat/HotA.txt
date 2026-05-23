@@ -3621,7 +3621,7 @@ Retire des pts de vie: %s, créatures: %s
 #138
 Sorts restants: %d
 #139
-Tirs: %s (dégâts: %s)
+Tirer sur les %s (dégâts %s, morts: %s)
 #140
  et 
 #141
@@ -3770,7 +3770,7 @@ L(e)'%s restaure %d points de vie des %s.
 #201
 %d %s sont réparés.
 #202
-Réparation des %s (tâches effectuées: %d, points de vie restaurés: %d, créatures réparées: %d)
+Réparation des %s (tâches effectuées: %d, points de vie restaurés: %s, créatures réparées: %s sur %s)
 #203
 Réparation des %s (tâches effectuées: %d, points de vie restaurés: %d)
 #204
@@ -3806,7 +3806,7 @@ L'espace prêt à accueillir un dirigeable est occupé.
 
 Les points de mouvement déterminent la distance que le Héros peut parcourir sur la carte. En général, un déplacement d'une case coûte environ 100 points de mouvement.""
 #217
-, morts: %s, nbr d'attaques: %s
+Tirez sur les %s (1 tir restant, nombre d'attaques: %s, dégâts %s, morts: %s)
 #218
 Construire un Dirigeable
 #219
@@ -9941,8 +9941,8 @@ Text 1: "Aucun bateau disponible dans les environs. Vous devez abandonner le pri
 Text 2: "(Améliore les créatures de rang 1-5 pour le double du prix normal)"
 Text 3: "Nombre d'unités disponibles :"
 Text 4: "Enrôler les unités :"
-Text 5: "Autel de Magie Mystère"
-Text 6: "(Enseigne un sort de rang 4)"
+Text 5: "Autel de Magie Mystère (Enseigne un sort de rang 4)"
+Text 6: ""
 Text 7: "# Objets supplémentaires pour le RMG
 # Type Subtype Value Density Max_map Max_zone
 
@@ -15251,7 +15251,7 @@ Path: ""
 Texts count: "9"
 Text 0: ""
 Text 1: "Bracelet d'Angoisse"
-Text 2: "Au hasard de vos aventures, vous rencontrez un marchand de babioles avec qui vous tentez de faire quelques affaires. Il vous remet un petit Bracelet doré en échange d'un de vos objets inutiles. Vous remarquez tout de suite qu'au lieu de refléter les rayons du soleil, il les absorbe."
+Text 2: "Au hasard de vos aventures, vous rencontrez un marchand de babioles avec qui vous tentez de faire quelques affaires. Il vous remet un petit bracelet doré en échange d'un de vos objets inutiles. Vous remarquez tout de suite qu'au lieu de refléter les rayons du soleil, il les absorbe."
 Text 3: ""
 Text 4: ""
 Text 5: ""

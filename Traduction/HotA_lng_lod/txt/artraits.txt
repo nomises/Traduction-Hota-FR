@@ -6,7 +6,7 @@ Cliquez sur le Livre des Sorts pour afficher la liste des sorts que connaît votr
 Rouleau	2500	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	S	"{Rouleau}
 
 Ce parchemin décrit un sort qui est ajouté au Livre des Sorts."
-Graal	0	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Graal}
+le Graal	0	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Graal}
 
 Amenez le Graal dans l'une de vos villes et bâtissez un monument en son honneur. Vous en tirerez des avantages considérables."
 Catapulte	1000	 	x	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Catapulte}

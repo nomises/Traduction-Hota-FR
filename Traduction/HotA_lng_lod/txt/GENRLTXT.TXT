@@ -36,7 +36,7 @@ Vous avez pris un artéfact à l'ennemi !
 Aucun
 "%s déclare :
 
-""J'accepte votre reddition et vous laisse partir, vous et vos troupes, en échange de %d pièces d'or."""
+J'accepte votre reddition et vous laisse partir, vous et vos troupes, en échange de %d pièces d'or."
 Leur moral élevé permet aux %s d'agir à nouveau.
 Leur moral désastreux empêche les %s d'agir ce tour-ci.
 Faites de la place dans votre armée pour les %s.
@@ -64,7 +64,7 @@ Ceci est une vue générale de la carte. Cliquez dans cette fenêtre pour centrer l
 "Au moins l'un de vos héros peut encore se déplacer. Souhaitez-vous terminer votre tour ?"
 "Creuser prend une journée complète, attendez demain et recommencez."
 Votre Héros n'a plus assez de place pour transporter un autre artéfact.
-"Félicitations ! Après de longues heures de fouilles, votre héros a découvert l'artéfact :"
+"Félicitations ! Après de longues heures de fouilles, votre héros a découvert "
 "Rien ici. Il faudra creuser ailleurs.
 Où peut-il bien être?"
 Essayez plutôt sur la terre ferme !
@@ -182,7 +182,7 @@ Votre besace est pleine.
 "Hélas, votre besace est bien trop petite pour contenir %s."
 "L'artéfact %s est détruit."
 "{%s}
-%s a %s en Attaque et inflige {%d}-{%d} points de dégâts.
+Attaque: %s. Inflige {%d}-{%d} points de dégâts. Points de vies: {%d} / {%d}.
 Tire. Aucune pénalité au contact. Ignore la défense ennemie."
 Voir les informations sur les tours.
 Je peux vous offrir %d %s de %s pour %d %s de %s.
@@ -238,7 +238,7 @@ Capital Santé
 Votre temps est écoulé. Passage au tour suivant.
 Gardé par 
 
-"Votre Héros a appris %s %s."
+Votre Héros apprend la compétence suivante.
 
 Votre héros apprend l'une des compétences suivantes :
 "{Points de Magie}
@@ -264,16 +264,16 @@ Attaquer les %s
 "Grâce à la compétence Mimétisme, %s apprend %s."
 Pas assez de mémoire.
 Impossible de construire un autre bâtiment aujourd'hui.
-Perte de %s '%s'.
-Perte du héros '%s'.
+Perte de %s {%s}.
+Perte du héros {%s}.
 "Vous n'avez pas gagné avant le mois %d, semaine %d, jour %d."
 Perte de tous vos héros et toutes vos villes.
-Prise de %s '%s'.
-Mise en déroute du héros '%s'.
-Trouver le Graal.
-Trouver l'artéfact %s.
+Prise de %s {%s}.
+Mise en déroute du héros {%s}.
+Trouver le Saint Graal.
+Trouver l'artéfact {%s}.
 Accumuler %d %s.
- Vous pouvez également défaire tous les héros et prendre toutes les villes de vos ennemis.
+ Les conditions de victoire normales s'appliquent.
 Défaire tous les héros et prendre toutes les villes de vos ennemis.
 Vous et vos alliés 
 Vous et votre allié 
@@ -354,7 +354,7 @@ L'ennemi s'est enfui !
 Une glorieuse victoire !
 
 
-"Pour ses hauts faits d'armes, %s reçoit %d points d'expérience."
+Pour ses hauts faits d'armes, %s reçoit %d points d'expérience.
 "%s se rend à l'ennemi, et part couvert de honte."
 %s n'a pas été à la hauteur et a préféré fuir le combat.
 "Vos forces subissent une défaite importante, et %s abandonne votre cause."
@@ -393,7 +393,7 @@ Les Chaînes de Gladiateur empêchent %s de fuir !
 Les Chaînes de Gladiateur empêchent %s de se rendre !
 Niveau %d, %s
 
-"Inflige %d points de dégâts."
+Inflige %d points de dégâts.
 Libre
 N/A
 Coût
@@ -433,9 +433,9 @@ Les sentinelles
 %s inflige %d points de dégâts.
 Les %s infligent %d points de dégâts.
 
-"Un(e) %s meurt."
+Un(e) %s meurt.
 
-"%d %s meurent."
+%d %s meurent.
 Attaque
 Défense
 Magie
@@ -681,9 +681,9 @@ Croissance par semaine des %s.
 Chaque semaine, le nombre total de la créature %s augmente de +%d.
 
 
-"Croissance de base +%d"
+Croissance de base +%d
 
-"Demeures Externes %+d"
+Demeures Externes %+d
 Salle du Conseil
 Sortie de la Guilde des Mages
 Garnison

@@ -17,9 +17,9 @@
 (+1 de Chance jusqu'à la prochaine bataille)
 (+1 de Chance et Moral jusqu'à la prochaine bataille, et +400 pts de mouvement pour 1 jour)
 (+1 Niveau, contre 2000 pièces d'Or, 10 gemmes, ou pour rien)
-(Enseigne un sort de Niv.1)
-(Enseigne un sort de Niv.2)
-(Enseigne un sort de Niv.3)
+
+
+
 (+1 de Chance et/ou Moral jusqu'à la prochaine bataille)
 (+1 ou +2 de Moral jusqu'à la prochaine bataille)
 (Enseigne une compétence secondaire contre 2000 pièces d'Or)
