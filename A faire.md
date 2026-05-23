@@ -23,7 +23,7 @@
 * ~~Strife in the Woods.txt~~
 * ~~The Cataclysm.txt~~
 	* ~~The Cataclysm (Allied).txt~~
-* Treasures of the Pyramid.txt
+* ~~Treasures of the Pyramid.txt~~
 
 ### Vérifier
 * A Cold Day In Hell.txt
