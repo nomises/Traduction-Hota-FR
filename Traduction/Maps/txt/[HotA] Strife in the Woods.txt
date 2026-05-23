@@ -1,35 +1,35 @@
 ===== Map name =====
-Strife in the Woods
+Conflit dans les bois
 
 ===== Map description =====
-The alliance between the lords was very unstable. The knights, barbarians, and swamp dwellers were all waiting for the right moment to break the treaty and benefit as much as possible from this loathsome deed. When wizards settled in the hills, the balance was disrupted, and the alliance crumbled. P
+L'alliance entre les seigneurs �tait tr�s instable. Les chevaliers, les barbares et les habitants des marais attendaient tous le moment propice pour rompre le trait� et tirer le maximum de profit de cet acte odieux. Lorsque des magiciens s'install�rent dans les collines, l'�quilibre fut rompu et l'alliance s'effondra.
 
 ===== Rumors =====
 
 ===== Timed events =====
 
 Name:
-Старт
+?????
 Message:
-For a while, you have been a part of an alliance between knights, elves, barbarians, artificers, pirates, and swamp dwellers. Recently, some arrogant wizards arrived, and they are already making your life muserable. Their intrigues have shattered the already fragile alliance, and now they are trying to extort money from you. You are fed up with this situation and are determined to wipe out both your former allies and the racketeering wizards.
+Pendant longtemps, vous faisiez partie d'une alliance regroupant chevaliers, elfes, barbares, artificiers, pirates et habitants des marais. R�cemment, d'arrogants magiciens ont fait leur apparition et vous m�nent d�j� la vie dure. Leurs intrigues ont bris� cette alliance d�j� fragile et ils tentent maintenant de vous extorquer de l'argent. Exasp�r� par cette situation, vous �tes d�termin� � an�antir vos anciens alli�s et ces magiciens racketteurs.
 
 Name:
-Маги выманивают деньги - Неудача
+???? ?????????? ?????? - ???????
 Message:
-The wizards came to you and demanded gold, citing an alleged obligation once taken by your ancestor to pay for the use of magic. However, as soon as your guardsmen drew their swords, the wizards retreated towards the exit. Before they left, your men took everything they had on them, including the gold they had earlier coerced out of other lords. The money went into your own coffers.
+Les magiciens vinrent vous trouver et exig�rent de l'or, pr�textant une pr�tendue obligation contract�e jadis par votre anc�tre pour payer l'usage de la magie. Cependant, d�s que vos gardes d�gain�rent leurs �p�es, les magiciens battirent en retraite vers la sortie. Avant de partir, vos hommes emport�rent tout ce qu'ils poss�daient, y compris l'or qu'ils avaient extorqu� � d'autres seigneurs. L'argent fut vers� dans vos coffres.
 
 Name:
-Помощь компу
+?????? ?????
 Message:
 
 
 Name:
-Маги выманивают деньги
+???? ?????????? ??????
 Message:
-The wizards returned, but this time they came protected by golems. Seems as though they are learning from their mistakes...		You had to yield some gold to them.
+Les magiciens revinrent, mais cette fois-ci prot�g�s par des golems. Il semblerait qu'ils aient tir� des le�ons de leurs erreurs...		Vous avez d� leur c�der de l'or.
 
 Name:
-Золото у магов
+?????? ? ?????
 Message:
 
 
@@ -42,7 +42,7 @@ Message:
 Timed events:
 
 Name:
-Стройка компу
+??????? ?????
 Message:
 
 
@@ -51,7 +51,7 @@ Message:
 Timed events:
 
 Name:
-Стройка компу
+??????? ?????
 Message:
 
 
@@ -60,7 +60,7 @@ Message:
 Timed events:
 
 Name:
-Стройка компу
+??????? ?????
 Message:
 
 
@@ -69,7 +69,7 @@ Message:
 Timed events:
 
 Name:
-Стройка компу
+??????? ?????
 Message:
 
 
@@ -78,7 +78,7 @@ Message:
 Timed events:
 
 Name:
-Стройка компу
+??????? ?????
 Message:
 
 
@@ -87,7 +87,7 @@ Message:
 Timed events:
 
 Name:
-Стройка компу
+??????? ?????
 Message:
 
 
@@ -96,7 +96,7 @@ Message:
 Timed events:
 
 Name:
-Стройка компу
+??????? ?????
 Message:
 
 
