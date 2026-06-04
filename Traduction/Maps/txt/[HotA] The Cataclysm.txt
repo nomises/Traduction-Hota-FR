@@ -1,55 +1,55 @@
 ===== Map name =====
-The Cataclysm
+Le Cataclysme
 
 ===== Map description =====
-There have been disturbing reports from the southern swamp lands, where wizards rule, about a magical cataclysm. You are aware that this disaster could spread to your territory any moment now, so the sooner you stop the mad wizards, the better.
+Des rumeurs inquiétantes nous parviennent des marais du Sud, où règnent les magiciens, faisant état d'un cataclysme magique. Vous savez que ce désastre pourrait se répandre sur votre territoire à tout moment ; aussi, plus tôt vous arrêterez ces magiciens fous, mieux ce sera.
 
 ===== Rumors =====
 
 Name:
 Rumor 1
 Text:
-Nix tribes fight for the swamp dwellers. 
+Les tribus Nix se battent pour les habitants des marais.
 
 Name:
 Rumor 2
 Text:
-They say the current leader of the pirates has hired arquebusiers from overseas.
+On raconte que le chef actuel des pirates a engagé des arquebusiers venus d'outre-mer.
 
 Name:
 Rumor 3
 Text:
-The artificers created a vehicle able to fly underground!
+Les artificiers ont créé un véhicule capable de voler sous terre !
 
 Name:
 Rumor 4
 Text:
-They say the southern wizards practice necromancy openly. Liches were seen many times in their armies.
+On dit que les magiciens du Sud pratiquent ouvertement la nécromancie. Des liches ont souvent été aperçues dans leurs armées.
 
 Name:
 Rumor 5
 Text:
-Southern wizards have been using thunderbirds for a long time. They summon them for experiments and to guard their towers.
+Les magiciens du Sud utilisent des Rocks Foudroyants depuis longtemps. Ils sont invoqués pour leurs expériences ainsi que comme gardes de leurs tours.
 
 Name:
 Rumor 6
 Text:
-A southern wizard has hired elves to guard the mountain passages. They are said to be excellent shots.
+Un magicien du Sud a engagé des elfes pour garder les passages de la montagne. On dit qu'ils sont d'excellents tireurs.
 
 Name:
 Rumor 7
 Text:
-Faerie dragons are long-time allies of the wizards.
+Les Dragons Féeriques sont des alliés de longue date des magiciens.
 
 Name:
 Rumor 8
 Text:
-Not so long ago, the wizards found a way to make golems of pure steel.
+Il n'y a pas si longtemps, les magiciens ont trouvé le moyen de fabriquer des golems d'acier pur.
 
 Name:
 Rumor 9
 Text:
-They say that only hydras and serpent flies survived the glaciation of the swamps.
+On raconte que seules les Hydres et les Guêpes Serpents ont survécu à la glaciation des marais.
 
 ===== Timed events =====
 
@@ -71,27 +71,27 @@ Message:
 Name:
 Day 1
 Message:
-The past few years have been relatively peaceful. Occasionally, you had to fight off attacks from pirates and savages, but there was little else to worry about. However, a few days ago, alarming news started coming from the south. First, a messenger arrived, reporting odd activity of lizardmen in the swamps. Then, a whole fleet of pirates arrived from the other side of the strait. Contrary to their habit, this time the pirates weren't interested in plundering coastal villages. They seemed to be fleeing in terror from something or someone. Several sea dogs got captured, but they were so scared you couldn't coerce any information out of them. Yesterday, a traveler from the southern lands visited you. He brought frightening news: a magical cataclysm had broken out in the land of wizards in the south. Now there are icy plains interspersed with patches of surviving vegetation where swamps used to be. The wanderer doesn't know why the wizards have done this, but one thing is clear: if they are not stopped now, the cataclysm will soon devour your pirate neighbors. And then, the storm of ice will reach you.
+Ces dernières années furent relativement paisibles. Il fallait parfois repousser des attaques de pirates et de sauvages, mais rien de plus. Cependant, il y a quelques jours, des nouvelles alarmantes commencèrent à parvenir du sud. D'abord, un messager arriva, signalant une activité étrange d'Hommes Lézards dans les marais. Puis, une flotte entière de pirates débarqua de l'autre côté du détroit. Contrairement à leurs habitudes, cette fois, les pirates ne s'intéressaient pas au pillage des villages côtiers. Ils semblaient fuir, terrorisés, devant quelque chose ou quelqu'un. Plusieurs Corsaires furent capturés, mais ils étaient si effrayés qu'il fut impossible de leur soutirer la moindre information. Hier, un voyageur venu des terres du sud vous rendit visite. Il apporta des nouvelles terrifiantes : un cataclysme magique avait éclaté au pays des magiciens, au sud. À présent, là où s'étendaient les marais, on trouve maintenant, des plaines glacées parsemées de quelques touffes de végétation. Le voyageur ignore les raisons des actes des magiciens, mais une chose est sûre : s’ils ne sont pas arrêtés immédiatement, le cataclysme engloutira bientôt les pirates voisins. Et alors, la tempête de glace vous atteindra.
 
 Name:
 Day 8
 Message:
-The scouts have discovered a town of the dead deep in the caves beneath our lands, ruled by a necromancer. The undead are not aggressive (at least they haven't appeared on the surface in years), but it's good that we know about this town now. Who knows when its dwellers may come in handy!
+Des éclaireurs ont découvert une cité des morts sous nos terres, au fond des cavernes, gouvernée par un nécromancien. Les morts-vivants ne sont pas agressifs (du moins, ils ne sont pas apparus à la surface depuis des années), mais il est bien que nous connaissions l'existence de cette cité. Qui sait quand ses habitants pourraient nous être utiles !
 
 Name:
 Day 16
 Message:
-Something intriguing has come to light. It seems that in the realm of wizards, there is a portal leading to a place where magical energy is concentrated. Perhaps this is where they draw the power they need to maintain the magical anomalies.
+Une découverte intrigante a été faite. Il semblerait que dans le royaume des magiciens, un portail mène à un lieu de concentration d'énergie magique. C'est peut-être là qu'ils puisent la puissance nécessaire au maintien de ces anomalies magiques.
 
 Name:
 Day 27
 Message:
-Our scout, sent to the pirate lands a while ago, has returned with news. Some pirate sorcerers have recently returned to their fortress. It seems that they have been studying water magic in the distant lands of the hydromancers, and they have found a way to transport their troops across water without the use of ships!
+Notre éclaireur, envoyé il y a quelque temps en territoire pirate, est revenu avec des nouvelles. Des sorcières pirates sont récemment rentrées dans leur forteresse. Il semblerait qu'elles aient étudié la magie de l'eau dans les contrées lointaines des Hydromanciennes et qu'elles aient trouvé un moyen de transporter leurs troupes par voie d'eau sans utiliser de navires !
 
 Name:
 Day 83
 Message:
-For the past few months, the wizards have been closely observing our actions. Now it seems they intend to march their forces north and strike first. The question is whether we will be ready.
+Depuis quelques mois, les magiciens observent attentivement nos agissements. Il semble à présent qu'ils envisagent de faire marcher leurs troupes vers le nord et de frapper les premiers. La question est de savoir si nous serons prêts.
 
 ===== Heroes =====
 
@@ -173,9 +173,9 @@ Message:
 
 (31, 9, 0) ***Quest Guard***
 Message:
-This elven homestead was almost destroyed after an attack by creatures from the swamps. The elves intend to rebuild it, but they need 20 wood and 20 ore. 	
-This elven homestead was almost destroyed after an attack by creatures from the swamps. The elves intend to rebuild it, but they need 20 wood and 20 ore. 
-Do you want to rebuild the homestead?
+Cette ferme elfique a été presque entièrement détruite lors d'une attaque de créatures des marais. Les elfes ont l'intention de la reconstruire, mais il leur faut 20 de Bois et 20 de Pierres.
+Cette ferme elfique a été presque entièrement détruite lors d'une attaque de créatures des marais. Les elfes ont l'intention de la reconstruire, mais il leur faut 20 de bois et 20 de Pierres.
+Souhaitez-vous reconstruire le Gîte Sylvain?
 
 (57, 96, 0) ***Pandora's Box***
 Message:

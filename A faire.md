@@ -21,9 +21,9 @@
 * ~~Sails and Propellers.txt~~
 * ~~Seven Days.txt~~
 * ~~Strife in the Woods.txt~~
-* The Cataclysm.txt
-	* The Cataclysm (Allied).txt
-* Treasures of the Pyramid.txt
+* ~~The Cataclysm.txt~~
+	* ~~The Cataclysm (Allied).txt~~
+* ~~Treasures of the Pyramid.txt~~
 
 # Bonus
 * ~~Revoir le fichier `CREDITS.TXT` et faire la traduction.~~

@@ -1,8 +1,8 @@
 ===== Map name =====
-Treasures of the Pyramid
+Les trésors de la pyramide
 
 ===== Map description =====
-The secrets hidden in the Great Pyramid of the Pharaohs are waiting! Cross the desert, venture into the underground halls and retrieve the great treasure lost in the scorching sandsâ€”that is, if you are unfazed by competition and tall tales about the Pharaohs' curse. 
+Les secrets cachés dans la Grande Pyramide des Pharaons vous attendent ! Traversez le désert, aventurez-vous dans les salles souterraines et retrouvez le grand trésor perdu dans les sables brûlants - à condition, bien sûr, que la compétition et les légendes sur la malédiction des Pharaons ne vous fassent pas peur.
 
 ===== Rumors =====
 
@@ -11,32 +11,32 @@ The secrets hidden in the Great Pyramid of the Pharaohs are waiting! Cross the d
 Name:
 day1
 Message:
-You have arrived here on an archaeological expedition. Unfortunately, three of your competitors have also turned up in these parts: they also seem to want to profit from the treasures hidden in the pyramid. Whoever can not only retrieve the treasure first, but also build the Temple of the Grail, will win this race! However, there is another way: you could simply eliminate the competitors and assert your right to these lands. What will you choose?
+Vous êtes arrivés ici dans le cadre d'une expédition archéologique. Malheureusement, trois de vos concurrents sont également présents : eux aussi semblent vouloir s'emparer des trésors cachés dans la pyramide. Celui qui parviendra en premier à récupérer le trésor et à construire le Temple du Graal remportera cette compétition ! Cependant, une autre solution existe : vous pourriez tout simplement éliminer vos concurrents et revendiquer votre droit sur ces terres. Que choisirez-vous ?
 
 Name:
 day1-2
 Message:
-Scorching desert sands and gloomy tunnels of the tombs are waiting for you! 
+Les sables brûlants du désert et les tunnels lugubres des tombeaux vous attendent !
 
 Name:
 day 10
 Message:
-Additional funding for your expedition has arrived. 
+Des fonds supplémentaires pour votre expédition sont arrivés.
 
 Name:
 day 20
 Message:
-Your sponsor doesn't seem to be doing very well. Your expedition's funding was halved. 
+Votre sponsor semble rencontrer des difficultés. Le financement de votre expédition a été réduit de moitié.
 
 Name:
 day 30
 Message:
-Today you received a report: the fresh financing your company received from the employer is hardly more than pocket change. You seem to be on your own now. However, this means you won't have to share the treasure with anyone either! 
+Vous avez reçu aujourd'hui un rapport : le nouveau financement obtenu par votre employeur est dérisoire. Vous semblez désormais livré à vous-même. Mais cela signifie aussi que vous n'aurez à partager ce trésor avec personne !
 
 Name:
 day37
 Message:
-Things aren't easy without external funding: reluctantly, you allocate money to solve the problems that have piled up over the past week. 
+Sans financement extérieur, la situation n'est pas simple : à contrecœur, vous allouez des fonds pour résoudre les problèmes qui se sont accumulés au cours de la semaine écoulée.
 
 ===== Heroes =====
 
@@ -44,88 +44,88 @@ Things aren't easy without external funding: reluctantly, you allocate money to 
 
 (70, 56, 0) ***Seer's Hut***
 Message:
-The Pendants of Life... are keys. Keys to authority, power, and strength. Don't let my unsightly appearance scare you away; don't leave! Bring me a Pendant of Life so I can release the essence contained in it and share some of its hidden power with you.  
-The Pendant! Where is the Pendant of Life? You do not bear any... I can tell it by smell. Come back with the Pendant, and we will share the power it holds!
-Finally! All the power of the Pharaohs, contained in this small trifle... In mine... In our hands. Do you feel the power rushing through our bodies? Bring me as many Pendants as you can find, and we will enjoy this wonderful feeling together, again and again.  
+Les Pendentifs de Vie... sont des clefs. Des clefs d’autorité, de pouvoir et de force. Ne laissez pas mon apparence peu engageante vous effrayer ; ne partez pas ! Apportez-moi un Pendentif de Vie afin que je puisse libérer l’essence qu’il renferme et partager avec vous une part de son pouvoir caché.
+Le Pendentif ! Où est le Pendentif de Vie ? Vous n’en portez aucun... Je le sens à l’odeur. Revenez avec le Pendentif, et nous partagerons le pouvoir qu’il renferme !
+Enfin ! Toute la puissance des Pharaons, contenue dans ce petit objet... Entre mes mains... Entre les nôtres. Sentez-vous la puissance nous parcourir ? Apportez-moi autant de Pendentifs que vous pourrez en trouver, et nous savourerons ensemble cette sensation merveilleuse, encore et encore.
 
 (16, 9, 0) ***Seer's Hut***
 Message:
-The Pendants of Life... are keys. Keys to authority, power, and strength. Don't let my unsightly appearance scare you away; don't leave! Bring me a Pendant of Life so I can release the essence contained in it and share some of its hidden power with you.  
-The Pendant! Where is the Pendant of Life? You do not bear any... I can tell it by smell. Come back with the Pendant, and we will share the power it holds!
-Finally! All the power of the Pharaohs, contained in this small trifle... In mine... In our hands. Do you feel the power rushing through our bodies? Bring me as many Pendants as you can find, and we will enjoy this wonderful feeling together, again and again.  
+Les Pendentifs de Vie... sont des clefs. Des clefs d’autorité, de pouvoir et de force. Ne laissez pas mon apparence peu engageante vous effrayer ; ne partez pas ! Apportez-moi un Pendentif de Vie afin que je puisse libérer l’essence qu’il renferme et partager avec vous une part de son pouvoir caché.
+Le Pendentif ! Où est le Pendentif de Vie ? Vous n’en portez aucun... Je le sens à l’odeur. Revenez avec le Pendentif, et nous partagerons le pouvoir qu’il renferme !
+Enfin ! Toute la puissance des Pharaons, contenue dans ce petit objet... Entre mes mains... Entre les nôtres. Sentez-vous la puissance nous parcourir ? Apportez-moi autant de Pendentifs que vous pourrez en trouver, et nous savourerons ensemble cette sensation merveilleuse, encore et encore.
 
 (8, 5, 0) ***Seer's Hut***
 Message:
-I represent the Archaeologists' Guild. Our organization is very keen on the relics of bygone times. We are now looking for symbols of the power once wielded by the Pharaohs who built the Great Pyramid in this desert. If you happen to find the Ankh, or as it is called in these parts, the Pendant of Life, I will pay you handsomely. For each one you bring, that is! 
-Didn't find a single Pendant of Life? The Great Pyramid is still waiting for its explorers. 
-Finally! Priceless evidence of the Pharaonic era! Give it to me, and keep the reward. I'll pay you more if you bring me another Pendant of Life. 
+Je représente la Guilde des Archéologues. Notre organisation s'intéresse de près aux vestiges du passé. Nous recherchons les symboles du pouvoir jadis arborés par les pharaons qui ont bâti la Grande Pyramide dans ce désert. Si vous trouvez l'Ankh, ou Pendentif de Vie comme on l'appelle dans ces contrées, je vous récompenserai généreusement. Pour chaque exemplaire rapporté !
+Vous n'avez pas encore trouvé un seul Pendentif de Vie ? La Grande Pyramide attend toujours ses explorateurs.
+Enfin ! Un témoignage inestimable de l'époque pharaonique ! Apportez-le-moi et gardez la récompense. Je vous paierai davantage si vous m'apportez un autre Pendentif de Vie.
 
 (0, 64, 0) ***Seer's Hut***
 Message:
-I represent the Archaeologists' Guild. Our organization is very keen on the relics of bygone times. We are now looking for symbols of the power once wielded by the Pharaohs who built the Great Pyramid in this desert. If you happen to find the Ankh, or as it is called in these parts, the Pendant of Life, I will pay you handsomely. For each one you bring, that is! 
-Didn't find a single Pendant of Life? The Great Pyramid is still waiting for its explorers. 
-Finally! Priceless evidence of the Pharaonic era! Give it to me, and keep the reward. I'll pay you more if you bring me another Pendant of Life. 
+Je représente la Guilde des Archéologues. Notre organisation s'intéresse de près aux vestiges du passé. Nous recherchons les symboles du pouvoir jadis arborés par les pharaons qui ont bâti la Grande Pyramide dans ce désert. Si vous trouvez l'Ankh, ou Pendentif de Vie comme on l'appelle dans ces contrées, je vous récompenserai généreusement. Pour chaque exemplaire rapporté !
+Vous n'avez pas encore trouvé un seul Pendentif de Vie ? La Grande Pyramide attend toujours ses explorateurs.
+Enfin ! Un témoignage inestimable de l'époque pharaonique ! Apportez-le-moi et gardez la récompense. Je vous paierai davantage si vous m'apportez un autre Pendentif de Vie.
 
 (58, 13, 0) ***Seer's Hut***
 Message:
-I represent the Archaeologists' Guild. Our organization is very keen on the relics of bygone times. We are now looking for symbols of the power once wielded by the Pharaohs who built the Great Pyramid in this desert. If you happen to find the Ankh, or as it is called in these parts, the Pendant of Life, I will pay you handsomely. For each one you bring, that is! 
-Didn't find a single Pendant of Life? The Great Pyramid is still waiting for its explorers. 
-Finally! Priceless evidence of the Pharaonic era! Give it to me, and keep the reward. I'll pay you more if you bring me another Pendant of Life. 
+Je représente la Guilde des Archéologues. Notre organisation s'intéresse de près aux vestiges du passé. Nous recherchons les symboles du pouvoir jadis arborés par les pharaons qui ont bâti la Grande Pyramide dans ce désert. Si vous trouvez l'Ankh, ou Pendentif de Vie comme on l'appelle dans ces contrées, je vous récompenserai généreusement. Pour chaque exemplaire rapporté !
+Vous n'avez pas encore trouvé un seul Pendentif de Vie ? La Grande Pyramide attend toujours ses explorateurs.
+Enfin ! Un témoignage inestimable de l'époque pharaonique ! Apportez-le-moi et gardez la récompense. Je vous paierai davantage si vous m'apportez un autre Pendentif de Vie.
 
 (59, 71, 0) ***Seer's Hut***
 Message:
-I represent the Archaeologists' Guild. Our organization is very keen on the relics of bygone times. We are now looking for symbols of the power once wielded by the Pharaohs who built the Great Pyramid in this desert. If you happen to find the Ankh, or as it is called in these parts, the Pendant of Life, I will pay you handsomely. For each one you bring, that is! 
-Didn't find a single Pendant of Life? The Great Pyramid is still waiting for its explorers. 
-Finally! Priceless evidence of the Pharaonic era! Give it to me, and keep the reward. I'll pay you more if you bring me another Pendant of Life. 
+Je représente la Guilde des Archéologues. Notre organisation s'intéresse de près aux vestiges du passé. Nous recherchons les symboles du pouvoir jadis arborés par les pharaons qui ont bâti la Grande Pyramide dans ce désert. Si vous trouvez l'Ankh, ou Pendentif de Vie comme on l'appelle dans ces contrées, je vous récompenserai généreusement. Pour chaque exemplaire rapporté !
+Vous n'avez pas encore trouvé un seul Pendentif de Vie ? La Grande Pyramide attend toujours ses explorateurs.
+Enfin ! Un témoignage inestimable de l'époque pharaonique ! Apportez-le-moi et gardez la récompense. Je vous paierai davantage si vous m'apportez un autre Pendentif de Vie.
 
 (18, 69, 0) ***Seer's Hut***
 Message:
-The Pendants of Life... are keys. Keys to authority, power, and strength. Don't let my unsightly appearance scare you away; don't leave! Bring me a Pendant of Life so I can release the essence contained in it and share some of its hidden power with you.  
-The Pendant! Where is the Pendant of Life? You do not bear any... I can tell it by smell. Come back with the Pendant, and we will share the power it holds!
-Finally! All the power of the Pharaohs, contained in this small trifle... In mine... In our hands. Do you feel the power rushing through our bodies? Bring me as many Pendants as you can find, and we will enjoy this wonderful feeling together, again and again.  
+Les Pendentifs de Vie... sont des clefs. Des clefs d’autorité, de pouvoir et de force. Ne laissez pas mon apparence peu engageante vous effrayer ; ne partez pas ! Apportez-moi un Pendentif de Vie afin que je puisse libérer l’essence qu’il renferme et partager avec vous une part de son pouvoir caché.
+Le Pendentif ! Où est le Pendentif de Vie ? Vous n’en portez aucun... Je le sens à l’odeur. Revenez avec le Pendentif, et nous partagerons le pouvoir qu’il renferme !
+Enfin ! Toute la puissance des Pharaons, contenue dans ce petit objet... Entre mes mains... Entre les nôtres. Sentez-vous la puissance nous parcourir ? Apportez-moi autant de Pendentifs que vous pourrez en trouver, et nous savourerons ensemble cette sensation merveilleuse, encore et encore.
 
 (52, 1, 0) ***Seer's Hut***
 Message:
-The Pendants of Life... are keys. Keys to authority, power, and strength. Don't let my unsightly appearance scare you away; don't leave! Bring me a Pendant of Life so I can release the essence contained in it and share some of its hidden power with you.  
-The Pendant! Where is the Pendant of Life? You do not bear any... I can tell it by smell. Come back with the Pendant, and we will share the power it holds!
-Finally! All the power of the Pharaohs, contained in this small trifle... In mine... In our hands. Do you feel the power rushing through our bodies? Bring me as many Pendants as you can find, and we will enjoy this wonderful feeling together, again and again.  
+Les Pendentifs de Vie... sont des clefs. Des clefs d’autorité, de pouvoir et de force. Ne laissez pas mon apparence peu engageante vous effrayer ; ne partez pas ! Apportez-moi un Pendentif de Vie afin que je puisse libérer l’essence qu’il renferme et partager avec vous une part de son pouvoir caché.
+Le Pendentif ! Où est le Pendentif de Vie ? Vous n’en portez aucun... Je le sens à l’odeur. Revenez avec le Pendentif, et nous partagerons le pouvoir qu’il renferme !
+Enfin ! Toute la puissance des Pharaons, contenue dans ce petit objet... Entre mes mains... Entre les nôtres. Sentez-vous la puissance nous parcourir ? Apportez-moi autant de Pendentifs que vous pourrez en trouver, et nous savourerons ensemble cette sensation merveilleuse, encore et encore.
 
 (34, 2, 1) ***Seer's Hut***
 Message:
-Halt, you mortal! How dare you desecrate my master's tomb?.. Or maybe, you are not one of those who come to the pyramid, seeking only to destroy and plunder. Help me protect this abode of eternal afterlife. Bring me the Pendant of Life, brimming with power, and I will give you 50 exceptional mummy warriors. The more Pendants you can bring, the bigger will be the army waiting for you...
-You... just like everyone else... you're a dirty little thief! Prove me wrong: bring me the Pendant of Life! Protect the tomb! 
-A covenant is a covenant. I will now release the energy of the Pendant: watch as your new allies emerge from their sarcophagi. But remember this: I will bring an unimaginable curse upon you and your entire kin if you make my warriors plunder and destroy! 
+Halte-là, mortel ! Comment osez-vous profaner le tombeau de mon maître ?... Ou peut-être n'êtes-vous pas de ceux qui viennent à la pyramide uniquement pour détruire et piller. Aidez-moi à protéger ce lieu d'éternité. Apportez-moi le Pendentif de Vie, débordant de puissance, et je vous donnerai 50 exceptionnels guerriers Momies. Plus vous rapporterez de Pendentifs, plus grande sera l'armée qui vous attend...
+Vous... comme tous les autres... vous n'êtes qu'un misérable petit voleur ! Prouvez-moi le contraire : apportez-moi le Pendentif de Vie ! Protégez le tombeau !
+Un pacte est un pacte. Je vais maintenant libérer l'énergie du Pendentif : regardez vos nouveaux alliés émerger de leurs sarcophages. Mais souvenez-vous de ceci : je déchaînerai une malédiction inimaginable sur vous et toute votre famille si vous laissez mes guerriers piller et détruire !
 
 (8, 6, 1) ***Event***
 Message:
-You can feel the curse of the Pharaohs enveloping you from head to toe.
+Vous pouvez sentir la malédiction des pharaons vous envelopper de la tête aux pieds.
 
 (9, 6, 1) ***Event***
 Message:
-You can feel the curse of the Pharaohs enveloping you from head to toe.
+Vous pouvez sentir la malédiction des pharaons vous envelopper de la tête aux pieds.
 
 (64, 6, 1) ***Event***
 Message:
-You can feel the curse of the Pharaohs enveloping you from head to toe.
+Vous pouvez sentir la malédiction des pharaons vous envelopper de la tête aux pieds.
 
 (63, 6, 1) ***Event***
 Message:
-You can feel the curse of the Pharaohs enveloping you from head to toe.
+Vous pouvez sentir la malédiction des pharaons vous envelopper de la tête aux pieds.
 
 (63, 66, 1) ***Event***
 Message:
-You can feel the curse of the Pharaohs enveloping you from head to toe.
+Vous pouvez sentir la malédiction des pharaons vous envelopper de la tête aux pieds.
 
 (65, 66, 1) ***Event***
 Message:
-You can feel the curse of the Pharaohs enveloping you from head to toe.
+Vous pouvez sentir la malédiction des pharaons vous envelopper de la tête aux pieds.
 
 (7, 66, 1) ***Event***
 Message:
-You can feel the curse of the Pharaohs enveloping you from head to toe.
+Vous pouvez sentir la malédiction des pharaons vous envelopper de la tête aux pieds.
 
 (9, 66, 1) ***Event***
 Message:
-You can feel the curse of the Pharaohs enveloping you from head to toe.
+Vous pouvez sentir la malédiction des pharaons vous envelopper de la tête aux pieds.
 
 ===== End of file =====
