@@ -101,16 +101,16 @@ Vous pénétrez dans un Cercle des Fées. Votre armée sera plus chanceuse au cours 
 Vous pénétrez dans un Cercle des Fées. Mais la magie agissant en ces lieux s'est dissipée."
 "{Débris}
 
-Vous fouillez les débris, mais vous ne trouvez rien."
+Vous fouillez les débris, mais ne trouvez rien."
 "{Débris}
 
-Vous fouillez les débris et vous récupérez un peu de Bois."
+Vous fouillez les débris et récupérez un peu de Bois."
 "{Épave}
 
-Vous fouillez les débris. Vous trouvez une certaine quantité de Bois et d'Or."
+Vous fouillez les débris et trouvez une certaine quantité de Bois et d'Or."
 "{Épave}
 
-Vous fouillez les débris. Vous trouvez une certaine quantité de Bois et d'Or."
+Vous fouillez les débris et trouvez une certaine quantité de Bois et d'Or."
 "{Fontaine des Espérances}
 
 En buvant l'eau douce et amère, vous vous sentez soudain porté par la chance."
@@ -325,7 +325,7 @@ Une pierre se met à tournoyer lorsque vous approchez de ce pilier. En la regarda
 Vous approchez du pilier espérant en apprendre un peu plus, mais les pierres alentours restent inertes."
 "{Coffre au Trésor}
 
-Après avoir exploré la région, vous découvrez un coffre caché contenant l'artéfact '%s'."
+Après avoir exploré la région, vous découvrez un coffre caché contenant l'artéfact {%s}."
 "{Coffre au Trésor}
 
 Après avoir exploré la région, vous découvrez un trésor caché. Vous pouvez garder l'Or ou le distribuer aux paysans de la région en échange d'expérience. Que choisissez-vous ?"
@@ -353,7 +353,7 @@ Une énorme pile de gravats vous bloque le passage. Vous partez, découragé.
 Vous découvrez un vieux chariot abandonné à la hâte par un marchand. A l'intérieur, vous découvrez une partie des marchandises encore intactes."
 "{Chariot}
 
-Vous découvrez un vieux chariot abandonné à la hâte par un marchand. A l'intérieur, vous découvrez '%s'."
+Vous découvrez un vieux chariot abandonné à la hâte par un marchand. A l'intérieur, vous découvrez {%s}."
 "{Chariot}
 
 Vous découvrez un vieux chariot abandonné à la hâte par un marchand. Malheureusement, le chariot ne contient plus rien d'intéressant."

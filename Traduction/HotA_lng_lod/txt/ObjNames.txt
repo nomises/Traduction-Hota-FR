@@ -86,9 +86,9 @@ Crypte
 Épave
 Naufragé
 Chantier Naval
-Autel d'Incantation Magique
-Autel de Gestuelle Magique
-Autel de Pensée Magique
+Autel d'Incantation Magique (Enseigne un sort de rang 1)
+Autel de Gestuelle Magique (Enseigne un sort de rang 2)
+Autel de Pensée Magique (Enseigne un sort de rang 3)
 Panneau
 Sirènes
 Rouleau
