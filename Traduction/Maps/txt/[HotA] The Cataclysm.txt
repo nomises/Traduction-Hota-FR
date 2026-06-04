@@ -2,7 +2,7 @@
 Le Cataclysme
 
 ===== Map description =====
-Des rumeurs inquiÃ©tantes nous parviennent des marais du Sud, oÃ¹ rÃ¨gnent les magiciens, faisant Ã©tat d'un cataclysme magique. Vous savez que ce dÃ©sastre pourrait se rÃ©pandre sur votre territoire Ã  tout momentÂ ; aussi, plus tÃ´t vous arrÃªterez ces magiciens fous, mieux ce sera.
+Des rumeurs inquiétantes nous parviennent des marais du Sud, où règnent les magiciens, faisant état d'un cataclysme magique. Vous savez que ce désastre pourrait se répandre sur votre territoire à tout moment ; aussi, plus tôt vous arrêterez ces magiciens fous, mieux ce sera.
 
 ===== Rumors =====
 
@@ -14,42 +14,42 @@ Les tribus Nix se battent pour les habitants des marais.
 Name:
 Rumor 2
 Text:
-On raconte que le chef actuel des pirates a engagÃ© des arquebusiers venus d'outre-mer.
+On raconte que le chef actuel des pirates a engagé des arquebusiers venus d'outre-mer.
 
 Name:
 Rumor 3
 Text:
-Les artificiers ont crÃ©Ã© un vÃ©hicule capable de voler sous terre !
+Les artificiers ont créé un véhicule capable de voler sous terre !
 
 Name:
 Rumor 4
 Text:
-On dit que les magiciens du Sud pratiquent ouvertement la nÃ©cromancie. Des liches ont souvent Ã©tÃ© aperÃ§ues dans leurs armÃ©es.
+On dit que les magiciens du Sud pratiquent ouvertement la nécromancie. Des liches ont souvent été aperçues dans leurs armées.
 
 Name:
 Rumor 5
 Text:
-Les magiciens du Sud utilisent des Rocks Foudroyants depuis longtemps. Ils sont invoquÃ©s pour leurs expÃ©riences ainsi que comme gardes de leurs tours.
+Les magiciens du Sud utilisent des Rocks Foudroyants depuis longtemps. Ils sont invoqués pour leurs expériences ainsi que comme gardes de leurs tours.
 
 Name:
 Rumor 6
 Text:
-Un magicien du Sud a engagÃ© des elfes pour garder les passages de la montagne. On dit qu'ils sont d'excellents tireurs.
+Un magicien du Sud a engagé des elfes pour garder les passages de la montagne. On dit qu'ils sont d'excellents tireurs.
 
 Name:
 Rumor 7
 Text:
-Les Dragons FÃ©eriques sont des alliÃ©s de longue date des magiciens.
+Les Dragons Féeriques sont des alliés de longue date des magiciens.
 
 Name:
 Rumor 8
 Text:
-Il n'y a pas si longtemps, les magiciens ont trouvÃ© le moyen de fabriquer des golems d'acier pur.
+Il n'y a pas si longtemps, les magiciens ont trouvé le moyen de fabriquer des golems d'acier pur.
 
 Name:
 Rumor 9
 Text:
-On raconte que seules les Hydres et les GuÃªpes Serpents ont survÃ©cu Ã  la glaciation des marais.
+On raconte que seules les Hydres et les Guêpes Serpents ont survécu à la glaciation des marais.
 
 ===== Timed events =====
 
@@ -71,27 +71,27 @@ Message:
 Name:
 Day 1
 Message:
-Ces derniÃ¨res annÃ©es furent relativement paisibles. Il fallait parfois repousser des attaques de pirates et de sauvages, mais rien de plus. Cependant, il y a quelques jours, des nouvelles alarmantes commencÃ¨rent Ã  parvenir du sud. D'abord, un messager arriva, signalant une activitÃ© Ã©trange d'Hommes LÃ©zards dans les marais. Puis, une flotte entiÃ¨re de pirates dÃ©barqua de l'autre cÃ´tÃ© du dÃ©troit. Contrairement Ã  leurs habitudes, cette fois, les pirates ne s'intÃ©ressaient pas au pillage des villages cÃ´tiers. Ils semblaient fuir, terrorisÃ©s, devant quelque chose ou quelqu'un. Plusieurs Corsaires furent capturÃ©s, mais ils Ã©taient si effrayÃ©s qu'il fut impossible de leur soutirer la moindre information. Hier, un voyageur venu des terres du sud vous rendit visite. Il apporta des nouvelles terrifiantesÂ : un cataclysme magique avait Ã©clatÃ© au pays des magiciens, au sud. Ã€ prÃ©sent, lÃ  oÃ¹ s'Ã©tendaient les marais, on trouve maintenant, des plaines glacÃ©es parsemÃ©es de quelques touffes de vÃ©gÃ©tation. Le voyageur ignore les raisons des actes des magiciens, mais une chose est sÃ»reÂ : sâ€™ils ne sont pas arrÃªtÃ©s immÃ©diatement, le cataclysme engloutira bientÃ´t les pirates voisins. Et alors, la tempÃªte de glace vous atteindra.
+Ces dernières années furent relativement paisibles. Il fallait parfois repousser des attaques de pirates et de sauvages, mais rien de plus. Cependant, il y a quelques jours, des nouvelles alarmantes commencèrent à parvenir du sud. D'abord, un messager arriva, signalant une activité étrange d'Hommes Lézards dans les marais. Puis, une flotte entière de pirates débarqua de l'autre côté du détroit. Contrairement à leurs habitudes, cette fois, les pirates ne s'intéressaient pas au pillage des villages côtiers. Ils semblaient fuir, terrorisés, devant quelque chose ou quelqu'un. Plusieurs Corsaires furent capturés, mais ils étaient si effrayés qu'il fut impossible de leur soutirer la moindre information. Hier, un voyageur venu des terres du sud vous rendit visite. Il apporta des nouvelles terrifiantes : un cataclysme magique avait éclaté au pays des magiciens, au sud. À présent, là où s'étendaient les marais, on trouve maintenant, des plaines glacées parsemées de quelques touffes de végétation. Le voyageur ignore les raisons des actes des magiciens, mais une chose est sûre : s’ils ne sont pas arrêtés immédiatement, le cataclysme engloutira bientôt les pirates voisins. Et alors, la tempête de glace vous atteindra.
 
 Name:
 Day 8
 Message:
-Des Ã©claireurs ont dÃ©couvert une citÃ© des morts sous nos terres, au fond des cavernes, gouvernÃ©e par un nÃ©cromancien. Les morts-vivants ne sont pas agressifs (du moins, ils ne sont pas apparus Ã  la surface depuis des annÃ©es), mais il est bien que nous connaissions l'existence de cette citÃ©. Qui sait quand ses habitants pourraient nous Ãªtre utilesÂ !
+Des éclaireurs ont découvert une cité des morts sous nos terres, au fond des cavernes, gouvernée par un nécromancien. Les morts-vivants ne sont pas agressifs (du moins, ils ne sont pas apparus à la surface depuis des années), mais il est bien que nous connaissions l'existence de cette cité. Qui sait quand ses habitants pourraient nous être utiles !
 
 Name:
 Day 16
 Message:
-Une dÃ©couverte intrigante a Ã©tÃ© faite. Il semblerait que dans le royaume des magiciens, un portail mÃ¨ne Ã  un lieu de concentration d'Ã©nergie magique. C'est peut-Ãªtre lÃ  qu'ils puisent la puissance nÃ©cessaire au maintien de ces anomalies magiques.
+Une découverte intrigante a été faite. Il semblerait que dans le royaume des magiciens, un portail mène à un lieu de concentration d'énergie magique. C'est peut-être là qu'ils puisent la puissance nécessaire au maintien de ces anomalies magiques.
 
 Name:
 Day 27
 Message:
-Notre Ã©claireur, envoyÃ© il y a quelque temps en territoire pirate, est revenu avec des nouvelles. Des sorciÃ¨res pirates sont rÃ©cemment rentrÃ©es Ã  leur forteresse. Il semblerait qu'elles aient Ã©tudiÃ© la magie de l'eau dans les contrÃ©es lointaines des Hydromanciennes et qu'elles aient trouvÃ© un moyen de transporter leurs troupes par voie d'eau sans utiliser de navires !
+Notre éclaireur, envoyé il y a quelque temps en territoire pirate, est revenu avec des nouvelles. Des sorcières pirates sont récemment rentrées dans leur forteresse. Il semblerait qu'elles aient étudié la magie de l'eau dans les contrées lointaines des Hydromanciennes et qu'elles aient trouvé un moyen de transporter leurs troupes par voie d'eau sans utiliser de navires !
 
 Name:
 Day 83
 Message:
-Depuis quelques mois, les magiciens observent attentivement nos agissements. Il semble Ã  prÃ©sent qu'ils envisagent de faire marcher leurs troupes vers le nord et de frapper les premiers. La question est de savoir si nous serons prÃªts.
+Depuis quelques mois, les magiciens observent attentivement nos agissements. Il semble à présent qu'ils envisagent de faire marcher leurs troupes vers le nord et de frapper les premiers. La question est de savoir si nous serons prêts.
 
 ===== Heroes =====
 
@@ -173,9 +173,9 @@ Message:
 
 (31, 9, 0) ***Quest Guard***
 Message:
-Cette ferme elfique a Ã©tÃ© presque entiÃ¨rement dÃ©truite lors d'une attaque de crÃ©atures des marais. Les elfes ont l'intention de la reconstruire, mais il leur faut 20 de Bois et 20 de Pierres.
-Cette ferme elfique a Ã©tÃ© presque entiÃ¨rement dÃ©truite lors d'une attaque de crÃ©atures des marais. Les elfes ont l'intention de la reconstruire, mais il leur faut 20 de bois et 20 de Pierres.
-Souhaitez-vous reconstruire le GÃ®te Sylvain?
+Cette ferme elfique a été presque entièrement détruite lors d'une attaque de créatures des marais. Les elfes ont l'intention de la reconstruire, mais il leur faut 20 de Bois et 20 de Pierres.
+Cette ferme elfique a été presque entièrement détruite lors d'une attaque de créatures des marais. Les elfes ont l'intention de la reconstruire, mais il leur faut 20 de bois et 20 de Pierres.
+Souhaitez-vous reconstruire le Gîte Sylvain?
 
 (57, 96, 0) ***Pandora's Box***
 Message:

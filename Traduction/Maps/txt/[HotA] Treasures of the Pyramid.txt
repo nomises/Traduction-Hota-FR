@@ -1,8 +1,8 @@
 ===== Map name =====
-Les richesses de la pyramide
+Les trésors de la pyramide
 
 ===== Map description =====
-Les secrets cachÃ©s dans la Grande Pyramide des Pharaons vous attendent ! Traversez le dÃ©sert, aventurez-vous dans les salles souterraines et retrouvez le grand trÃ©sor perdu dans les sables brÃ»lants - Ã  condition, bien sÃ»r, que la compÃ©tition et les lÃ©gendes sur la malÃ©diction des Pharaons ne vous fassent pas peur.
+Les secrets cachés dans la Grande Pyramide des Pharaons vous attendent ! Traversez le désert, aventurez-vous dans les salles souterraines et retrouvez le grand trésor perdu dans les sables brûlants - à condition, bien sûr, que la compétition et les légendes sur la malédiction des Pharaons ne vous fassent pas peur.
 
 ===== Rumors =====
 
@@ -11,32 +11,32 @@ Les secrets cachÃ©s dans la Grande Pyramide des Pharaons vous attendent ! Traver
 Name:
 day1
 Message:
-Vous Ãªtes arrivÃ©s ici dans le cadre d'une expÃ©dition archÃ©ologique. Malheureusement, trois de vos concurrents sont Ã©galement prÃ©sentsÂ : eux aussi semblent vouloir s'emparer des trÃ©sors cachÃ©s dans la pyramide. Celui qui parviendra en premier Ã  rÃ©cupÃ©rer le trÃ©sor et Ã  construire le Temple du Graal remportera cette compÃ©titionÂ ! Cependant, une autre solution existeÂ : vous pourriez tout simplement Ã©liminer vos concurrents et revendiquer votre droit sur ces terres. Que choisirez-vousÂ ?
+Vous êtes arrivés ici dans le cadre d'une expédition archéologique. Malheureusement, trois de vos concurrents sont également présents : eux aussi semblent vouloir s'emparer des trésors cachés dans la pyramide. Celui qui parviendra en premier à récupérer le trésor et à construire le Temple du Graal remportera cette compétition ! Cependant, une autre solution existe : vous pourriez tout simplement éliminer vos concurrents et revendiquer votre droit sur ces terres. Que choisirez-vous ?
 
 Name:
 day1-2
 Message:
-Les sables brÃ»lants du dÃ©sert et les tunnels lugubres des tombeaux vous attendent !
+Les sables brûlants du désert et les tunnels lugubres des tombeaux vous attendent !
 
 Name:
 day 10
 Message:
-Des fonds supplÃ©mentaires pour votre expÃ©dition sont arrivÃ©s.
+Des fonds supplémentaires pour votre expédition sont arrivés.
 
 Name:
 day 20
 Message:
-Votre sponsor semble rencontrer des difficultÃ©s. Le financement de votre expÃ©dition a Ã©tÃ© rÃ©duit de moitiÃ©.
+Votre sponsor semble rencontrer des difficultés. Le financement de votre expédition a été réduit de moitié.
 
 Name:
 day 30
 Message:
-Vous avez reÃ§u aujourd'hui un rapportÂ : le nouveau financement obtenu par votre employeur est dÃ©risoire. Vous semblez dÃ©sormais livrÃ© Ã  vous-mÃªme. Mais cela signifie aussi que vous n'aurez Ã  partager ce trÃ©sor avec personneÂ !
+Vous avez reçu aujourd'hui un rapport : le nouveau financement obtenu par votre employeur est dérisoire. Vous semblez désormais livré à vous-même. Mais cela signifie aussi que vous n'aurez à partager ce trésor avec personne !
 
 Name:
 day37
 Message:
-Sans financement extÃ©rieur, la situation n'est pas simple : Ã  contrecÅ“ur, vous allouez des fonds pour rÃ©soudre les problÃ¨mes qui se sont accumulÃ©s au cours de la semaine Ã©coulÃ©e.
+Sans financement extérieur, la situation n'est pas simple : à contrecœur, vous allouez des fonds pour résoudre les problèmes qui se sont accumulés au cours de la semaine écoulée.
 
 ===== Heroes =====
 
@@ -44,88 +44,88 @@ Sans financement extÃ©rieur, la situation n'est pas simple : Ã  contrecÅ“ur, vou
 
 (70, 56, 0) ***Seer's Hut***
 Message:
-Les Pendentifs de Vie... sont des clefs. Des clefs dâ€™autoritÃ©, de pouvoir et de force. Ne laissez pas mon apparence peu engageante vous effrayerÂ ; ne partez pasÂ ! Apportez-moi un Pendentif de Vie afin que je puisse libÃ©rer lâ€™essence quâ€™il renferme et partager avec vous une part de son pouvoir cachÃ©.
-Le PendentifÂ ! OÃ¹ est le Pendentif de VieÂ ? Vous nâ€™en portez aucun... Je le sens Ã  lâ€™odeur. Revenez avec le Pendentif, et nous partagerons le pouvoir quâ€™il renfermeÂ !
-EnfinÂ ! Toute la puissance des Pharaons, contenue dans ce petit objet... Entre mes mains... Entre les nÃ´tres. Sentez-vous la puissance nous parcourirÂ ? Apportez-moi autant de Pendentifs que vous pourrez en trouver, et nous savourerons ensemble cette sensation merveilleuse, encore et encore.
+Les Pendentifs de Vie... sont des clefs. Des clefs d’autorité, de pouvoir et de force. Ne laissez pas mon apparence peu engageante vous effrayer ; ne partez pas ! Apportez-moi un Pendentif de Vie afin que je puisse libérer l’essence qu’il renferme et partager avec vous une part de son pouvoir caché.
+Le Pendentif ! Où est le Pendentif de Vie ? Vous n’en portez aucun... Je le sens à l’odeur. Revenez avec le Pendentif, et nous partagerons le pouvoir qu’il renferme !
+Enfin ! Toute la puissance des Pharaons, contenue dans ce petit objet... Entre mes mains... Entre les nôtres. Sentez-vous la puissance nous parcourir ? Apportez-moi autant de Pendentifs que vous pourrez en trouver, et nous savourerons ensemble cette sensation merveilleuse, encore et encore.
 
 (16, 9, 0) ***Seer's Hut***
 Message:
-Les Pendentifs de Vie... sont des clefs. Des clefs dâ€™autoritÃ©, de pouvoir et de force. Ne laissez pas mon apparence peu engageante vous effrayerÂ ; ne partez pasÂ ! Apportez-moi un Pendentif de Vie afin que je puisse libÃ©rer lâ€™essence quâ€™il renferme et partager avec vous une part de son pouvoir cachÃ©.
-Le PendentifÂ ! OÃ¹ est le Pendentif de VieÂ ? Vous nâ€™en portez aucun... Je le sens Ã  lâ€™odeur. Revenez avec le Pendentif, et nous partagerons le pouvoir quâ€™il renfermeÂ !
-EnfinÂ ! Toute la puissance des Pharaons, contenue dans ce petit objet... Entre mes mains... Entre les nÃ´tres. Sentez-vous la puissance nous parcourirÂ ? Apportez-moi autant de Pendentifs que vous pourrez en trouver, et nous savourerons ensemble cette sensation merveilleuse, encore et encore.
+Les Pendentifs de Vie... sont des clefs. Des clefs d’autorité, de pouvoir et de force. Ne laissez pas mon apparence peu engageante vous effrayer ; ne partez pas ! Apportez-moi un Pendentif de Vie afin que je puisse libérer l’essence qu’il renferme et partager avec vous une part de son pouvoir caché.
+Le Pendentif ! Où est le Pendentif de Vie ? Vous n’en portez aucun... Je le sens à l’odeur. Revenez avec le Pendentif, et nous partagerons le pouvoir qu’il renferme !
+Enfin ! Toute la puissance des Pharaons, contenue dans ce petit objet... Entre mes mains... Entre les nôtres. Sentez-vous la puissance nous parcourir ? Apportez-moi autant de Pendentifs que vous pourrez en trouver, et nous savourerons ensemble cette sensation merveilleuse, encore et encore.
 
 (8, 5, 0) ***Seer's Hut***
 Message:
-Je reprÃ©sente la Guilde des ArchÃ©ologues. Notre organisation s'intÃ©resse de prÃ¨s aux vestiges du passÃ©. Nous recherchons les symboles du pouvoir jadis arborÃ©s par les pharaons qui ont bÃ¢ti la Grande Pyramide dans ce dÃ©sert. Si vous trouvez l'Ankh, ou Pendentif de Vie comme on l'appelle dans ces contrÃ©es, je vous rÃ©compenserai gÃ©nÃ©reusement. Pour chaque exemplaire rapportÃ© !
-Vous n'avez pas encore trouvÃ© un seul Pendentif de Vie ? La Grande Pyramide attend toujours ses explorateurs.
-Enfin ! Un tÃ©moignage inestimable de l'Ã©poque pharaonique ! Apportez-le-moi et gardez la rÃ©compense. Je vous paierai davantage si vous m'apportez un autre Pendentif de Vie.
+Je représente la Guilde des Archéologues. Notre organisation s'intéresse de près aux vestiges du passé. Nous recherchons les symboles du pouvoir jadis arborés par les pharaons qui ont bâti la Grande Pyramide dans ce désert. Si vous trouvez l'Ankh, ou Pendentif de Vie comme on l'appelle dans ces contrées, je vous récompenserai généreusement. Pour chaque exemplaire rapporté !
+Vous n'avez pas encore trouvé un seul Pendentif de Vie ? La Grande Pyramide attend toujours ses explorateurs.
+Enfin ! Un témoignage inestimable de l'époque pharaonique ! Apportez-le-moi et gardez la récompense. Je vous paierai davantage si vous m'apportez un autre Pendentif de Vie.
 
 (0, 64, 0) ***Seer's Hut***
 Message:
-Je reprÃ©sente la Guilde des ArchÃ©ologues. Notre organisation s'intÃ©resse de prÃ¨s aux vestiges du passÃ©. Nous recherchons les symboles du pouvoir jadis arborÃ©s par les pharaons qui ont bÃ¢ti la Grande Pyramide dans ce dÃ©sert. Si vous trouvez l'Ankh, ou Pendentif de Vie comme on l'appelle dans ces contrÃ©es, je vous rÃ©compenserai gÃ©nÃ©reusement. Pour chaque exemplaire rapportÃ© !
-Vous n'avez pas encore trouvÃ© un seul Pendentif de Vie ? La Grande Pyramide attend toujours ses explorateurs.
-Enfin ! Un tÃ©moignage inestimable de l'Ã©poque pharaonique ! Apportez-le-moi et gardez la rÃ©compense. Je vous paierai davantage si vous m'apportez un autre Pendentif de Vie.
+Je représente la Guilde des Archéologues. Notre organisation s'intéresse de près aux vestiges du passé. Nous recherchons les symboles du pouvoir jadis arborés par les pharaons qui ont bâti la Grande Pyramide dans ce désert. Si vous trouvez l'Ankh, ou Pendentif de Vie comme on l'appelle dans ces contrées, je vous récompenserai généreusement. Pour chaque exemplaire rapporté !
+Vous n'avez pas encore trouvé un seul Pendentif de Vie ? La Grande Pyramide attend toujours ses explorateurs.
+Enfin ! Un témoignage inestimable de l'époque pharaonique ! Apportez-le-moi et gardez la récompense. Je vous paierai davantage si vous m'apportez un autre Pendentif de Vie.
 
 (58, 13, 0) ***Seer's Hut***
 Message:
-Je reprÃ©sente la Guilde des ArchÃ©ologues. Notre organisation s'intÃ©resse de prÃ¨s aux vestiges du passÃ©. Nous recherchons les symboles du pouvoir jadis arborÃ©s par les pharaons qui ont bÃ¢ti la Grande Pyramide dans ce dÃ©sert. Si vous trouvez l'Ankh, ou Pendentif de Vie comme on l'appelle dans ces contrÃ©es, je vous rÃ©compenserai gÃ©nÃ©reusement. Pour chaque exemplaire rapportÃ© !
-Vous n'avez pas encore trouvÃ© un seul Pendentif de Vie ? La Grande Pyramide attend toujours ses explorateurs.
-Enfin ! Un tÃ©moignage inestimable de l'Ã©poque pharaonique ! Apportez-le-moi et gardez la rÃ©compense. Je vous paierai davantage si vous m'apportez un autre Pendentif de Vie.
+Je représente la Guilde des Archéologues. Notre organisation s'intéresse de près aux vestiges du passé. Nous recherchons les symboles du pouvoir jadis arborés par les pharaons qui ont bâti la Grande Pyramide dans ce désert. Si vous trouvez l'Ankh, ou Pendentif de Vie comme on l'appelle dans ces contrées, je vous récompenserai généreusement. Pour chaque exemplaire rapporté !
+Vous n'avez pas encore trouvé un seul Pendentif de Vie ? La Grande Pyramide attend toujours ses explorateurs.
+Enfin ! Un témoignage inestimable de l'époque pharaonique ! Apportez-le-moi et gardez la récompense. Je vous paierai davantage si vous m'apportez un autre Pendentif de Vie.
 
 (59, 71, 0) ***Seer's Hut***
 Message:
-Je reprÃ©sente la Guilde des ArchÃ©ologues. Notre organisation s'intÃ©resse de prÃ¨s aux vestiges du passÃ©. Nous recherchons les symboles du pouvoir jadis arborÃ©s par les pharaons qui ont bÃ¢ti la Grande Pyramide dans ce dÃ©sert. Si vous trouvez l'Ankh, ou Pendentif de Vie comme on l'appelle dans ces contrÃ©es, je vous rÃ©compenserai gÃ©nÃ©reusement. Pour chaque exemplaire rapportÃ© !
-Vous n'avez pas encore trouvÃ© un seul Pendentif de Vie ? La Grande Pyramide attend toujours ses explorateurs.
-Enfin ! Un tÃ©moignage inestimable de l'Ã©poque pharaonique ! Apportez-le-moi et gardez la rÃ©compense. Je vous paierai davantage si vous m'apportez un autre Pendentif de Vie.
+Je représente la Guilde des Archéologues. Notre organisation s'intéresse de près aux vestiges du passé. Nous recherchons les symboles du pouvoir jadis arborés par les pharaons qui ont bâti la Grande Pyramide dans ce désert. Si vous trouvez l'Ankh, ou Pendentif de Vie comme on l'appelle dans ces contrées, je vous récompenserai généreusement. Pour chaque exemplaire rapporté !
+Vous n'avez pas encore trouvé un seul Pendentif de Vie ? La Grande Pyramide attend toujours ses explorateurs.
+Enfin ! Un témoignage inestimable de l'époque pharaonique ! Apportez-le-moi et gardez la récompense. Je vous paierai davantage si vous m'apportez un autre Pendentif de Vie.
 
 (18, 69, 0) ***Seer's Hut***
 Message:
-Les Pendentifs de Vie... sont des clefs. Des clefs dâ€™autoritÃ©, de pouvoir et de force. Ne laissez pas mon apparence peu engageante vous effrayerÂ ; ne partez pasÂ ! Apportez-moi un Pendentif de Vie afin que je puisse libÃ©rer lâ€™essence quâ€™il renferme et partager avec vous une part de son pouvoir cachÃ©.
-Le PendentifÂ ! OÃ¹ est le Pendentif de VieÂ ? Vous nâ€™en portez aucun... Je le sens Ã  lâ€™odeur. Revenez avec le Pendentif, et nous partagerons le pouvoir quâ€™il renfermeÂ !
-EnfinÂ ! Toute la puissance des Pharaons, contenue dans ce petit objet... Entre mes mains... Entre les nÃ´tres. Sentez-vous la puissance nous parcourirÂ ? Apportez-moi autant de Pendentifs que vous pourrez en trouver, et nous savourerons ensemble cette sensation merveilleuse, encore et encore.
+Les Pendentifs de Vie... sont des clefs. Des clefs d’autorité, de pouvoir et de force. Ne laissez pas mon apparence peu engageante vous effrayer ; ne partez pas ! Apportez-moi un Pendentif de Vie afin que je puisse libérer l’essence qu’il renferme et partager avec vous une part de son pouvoir caché.
+Le Pendentif ! Où est le Pendentif de Vie ? Vous n’en portez aucun... Je le sens à l’odeur. Revenez avec le Pendentif, et nous partagerons le pouvoir qu’il renferme !
+Enfin ! Toute la puissance des Pharaons, contenue dans ce petit objet... Entre mes mains... Entre les nôtres. Sentez-vous la puissance nous parcourir ? Apportez-moi autant de Pendentifs que vous pourrez en trouver, et nous savourerons ensemble cette sensation merveilleuse, encore et encore.
 
 (52, 1, 0) ***Seer's Hut***
 Message:
-Les Pendentifs de Vie... sont des clefs. Des clefs dâ€™autoritÃ©, de pouvoir et de force. Ne laissez pas mon apparence peu engageante vous effrayerÂ ; ne partez pasÂ ! Apportez-moi un Pendentif de Vie afin que je puisse libÃ©rer lâ€™essence quâ€™il renferme et partager avec vous une part de son pouvoir cachÃ©.
-Le PendentifÂ ! OÃ¹ est le Pendentif de VieÂ ? Vous nâ€™en portez aucun... Je le sens Ã  lâ€™odeur. Revenez avec le Pendentif, et nous partagerons le pouvoir quâ€™il renfermeÂ !
-EnfinÂ ! Toute la puissance des Pharaons, contenue dans ce petit objet... Entre mes mains... Entre les nÃ´tres. Sentez-vous la puissance nous parcourirÂ ? Apportez-moi autant de Pendentifs que vous pourrez en trouver, et nous savourerons ensemble cette sensation merveilleuse, encore et encore.
+Les Pendentifs de Vie... sont des clefs. Des clefs d’autorité, de pouvoir et de force. Ne laissez pas mon apparence peu engageante vous effrayer ; ne partez pas ! Apportez-moi un Pendentif de Vie afin que je puisse libérer l’essence qu’il renferme et partager avec vous une part de son pouvoir caché.
+Le Pendentif ! Où est le Pendentif de Vie ? Vous n’en portez aucun... Je le sens à l’odeur. Revenez avec le Pendentif, et nous partagerons le pouvoir qu’il renferme !
+Enfin ! Toute la puissance des Pharaons, contenue dans ce petit objet... Entre mes mains... Entre les nôtres. Sentez-vous la puissance nous parcourir ? Apportez-moi autant de Pendentifs que vous pourrez en trouver, et nous savourerons ensemble cette sensation merveilleuse, encore et encore.
 
 (34, 2, 1) ***Seer's Hut***
 Message:
-Halte-lÃ , mortel ! Comment osez-vous profaner le tombeau de mon maÃ®tre ?... Ou peut-Ãªtre n'Ãªtes-vous pas de ceux qui viennent Ã  la pyramide uniquement pour dÃ©truire et piller. Aidez-moi Ã  protÃ©ger ce lieu d'Ã©ternitÃ©. Apportez-moi le Pendentif de Vie, dÃ©bordant de puissance, et je vous donnerai 50 exceptionnels guerriers Momies. Plus vous rapporterez de Pendentifs, plus grande sera l'armÃ©e qui vous attend...
-Vous... comme tous les autres... vous n'Ãªtes qu'un misÃ©rable petit voleur ! Prouvez-moi le contraire : apportez-moi le Pendentif de Vie ! ProtÃ©gez le tombeau !
-Un pacte est un pacte. Je vais maintenant libÃ©rer l'Ã©nergie du Pendentif : regardez vos nouveaux alliÃ©s Ã©merger de leurs sarcophages. Mais souvenez-vous de ceci : je dÃ©chaÃ®nerai une malÃ©diction inimaginable sur vous et toute votre famille si vous laissez mes guerriers piller et dÃ©truire !
+Halte-là, mortel ! Comment osez-vous profaner le tombeau de mon maître ?... Ou peut-être n'êtes-vous pas de ceux qui viennent à la pyramide uniquement pour détruire et piller. Aidez-moi à protéger ce lieu d'éternité. Apportez-moi le Pendentif de Vie, débordant de puissance, et je vous donnerai 50 exceptionnels guerriers Momies. Plus vous rapporterez de Pendentifs, plus grande sera l'armée qui vous attend...
+Vous... comme tous les autres... vous n'êtes qu'un misérable petit voleur ! Prouvez-moi le contraire : apportez-moi le Pendentif de Vie ! Protégez le tombeau !
+Un pacte est un pacte. Je vais maintenant libérer l'énergie du Pendentif : regardez vos nouveaux alliés émerger de leurs sarcophages. Mais souvenez-vous de ceci : je déchaînerai une malédiction inimaginable sur vous et toute votre famille si vous laissez mes guerriers piller et détruire !
 
 (8, 6, 1) ***Event***
 Message:
-Vous pouvez sentir la malÃ©diction des pharaons vous envelopper de la tÃªte aux pieds.
+Vous pouvez sentir la malédiction des pharaons vous envelopper de la tête aux pieds.
 
 (9, 6, 1) ***Event***
 Message:
-Vous pouvez sentir la malÃ©diction des pharaons vous envelopper de la tÃªte aux pieds.
+Vous pouvez sentir la malédiction des pharaons vous envelopper de la tête aux pieds.
 
 (64, 6, 1) ***Event***
 Message:
-Vous pouvez sentir la malÃ©diction des pharaons vous envelopper de la tÃªte aux pieds.
+Vous pouvez sentir la malédiction des pharaons vous envelopper de la tête aux pieds.
 
 (63, 6, 1) ***Event***
 Message:
-Vous pouvez sentir la malÃ©diction des pharaons vous envelopper de la tÃªte aux pieds.
+Vous pouvez sentir la malédiction des pharaons vous envelopper de la tête aux pieds.
 
 (63, 66, 1) ***Event***
 Message:
-Vous pouvez sentir la malÃ©diction des pharaons vous envelopper de la tÃªte aux pieds.
+Vous pouvez sentir la malédiction des pharaons vous envelopper de la tête aux pieds.
 
 (65, 66, 1) ***Event***
 Message:
-Vous pouvez sentir la malÃ©diction des pharaons vous envelopper de la tÃªte aux pieds.
+Vous pouvez sentir la malédiction des pharaons vous envelopper de la tête aux pieds.
 
 (7, 66, 1) ***Event***
 Message:
-Vous pouvez sentir la malÃ©diction des pharaons vous envelopper de la tÃªte aux pieds.
+Vous pouvez sentir la malédiction des pharaons vous envelopper de la tête aux pieds.
 
 (9, 66, 1) ***Event***
 Message:
-Vous pouvez sentir la malÃ©diction des pharaons vous envelopper de la tÃªte aux pieds.
+Vous pouvez sentir la malédiction des pharaons vous envelopper de la tête aux pieds.
 
 ===== End of file =====
