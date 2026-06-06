@@ -128,4 +128,5 @@ Vous pouvez sentir la malédiction des pharaons vous envelopper de la tête aux pi
 Message:
 Vous pouvez sentir la malédiction des pharaons vous envelopper de la tête aux pieds.
 
+===== Extended Events =====
 ===== End of file =====

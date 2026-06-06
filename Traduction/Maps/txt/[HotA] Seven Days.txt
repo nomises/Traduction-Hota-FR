@@ -58,4 +58,5 @@ Vos guerriers sont encouragés et impatients de se mettre en mouvement !
 Message:
 Points de mouvement
 
+===== Extended Events =====
 ===== End of file =====

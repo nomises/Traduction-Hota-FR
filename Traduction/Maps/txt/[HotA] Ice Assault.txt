@@ -1,0 +1,602 @@
+===== Map name =====
+Ice Assault
+
+===== Map description =====
+For centuries, the inhabitants of the icy land have stayed within their lands, fighting off raids from their neighbors drawn by the crystals and other riches. In recent months, however, the weather has grown colder, and now our enemies' realms are suffering from frost. It's time to strike back.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Фиолетовый и Розовый ИИ - контроль ресурсов
+Message:
+
+
+Name:
+Оранжевый и синий ИИ - контроль ресурсов
+Message:
+
+
+Name:
+Day 1
+Message:
+In recent years, it's been getting colder and colder, and grazing grounds are becoming increasingly scarce. The elders are gathering to discuss an attack on our enemies' lands.	However, rumors have reached us: portals have opened near our villages. Apparently, our enemies have learned of our plans and are preparing to attack us. We must prepare for any eventuality.
+
+Name:
+Day 5
+Message:
+It is said that the lizardmen and gnolls of the eastern islands have entered into the service of demons. It is difficult to say what prompted these creatures to take such a step, but it is known that a volcano has awakened on the northeastern islands. Hordes of Gogs surrounded by Cerberi and other creatures have been seen near it.
+
+Name:
+Day 14
+Message:
+A kobold, sent to explore one of the distant portals, brought odd news. The elven sorceress who rules the northern islands has opened portals to a distant, uncharted land she calls the "world of chaos." We don't know what might await us on the other side of these portals, but it seems the elves themselves are showing great interest in them.
+
+Name:
+Day 23
+Message:
+The yeti report disturbing news. They managed to penetrate the "world of chaos" following the elf who opened a portal there. It turns out the portal leads to lands ruled by the forces of cold and death. They are gathering troops to invade our lands, and they are led by a dark sorceress who has subjugated the will of the elves. Her forces are vast, and their ranks include not only the undead, but even titans and powerful blue dragons. And it seems she is behind the quarrels among all the neighbors.
+
+===== Heroes =====
+
+===== Objects =====
+
+(92, 11, 0) ***Rampart***
+
+Visiting Druid:
+Name:
+Viveca
+
+Timed events:
+
+Name:
+ИИ - бонус
+Message:
+
+
+(57, 104, 0) ***Stronghold***
+
+Visiting Battle Mage:
+Name:
+Nell
+
+(4, 89, 0) ***Castle***
+
+Visiting Knight:
+Name:
+Rhiannon
+
+(99, 3, 0) ***Quest Guard***
+Message:
+The passage is closed by a magical barrier, maintained by an elven sorceress, protecting her current mistress.
+First defeat the elven sorceress, then you can pass.
+Viveca is defeated, and the barrier is now easily removed. Do you wish to proceed?
+
+(103, 93, 0) ***Fortress***
+
+Visiting Beastmaster:
+Name:
+Thias
+
+Timed events:
+
+Name:
+Оранжевый ИИ - минус кристаллы
+Message:
+
+
+(87, 49, 0) ***Inferno***
+
+Visiting Heretic:
+Name:
+Harro
+
+Timed events:
+
+Name:
+Оранжевый ИИ - минус самоцветы
+Message:
+
+
+(64, 2, 0) ***Event***
+Message:
+ИИ - еженедельный бонус
+
+(1, 85, 0) ***Pandora's Box***
+Message:
+
+
+(68, 7, 0) ***Quest Guard***
+Message:
+The passage is blocked by a magical barrier brimming with necrotic energy. This is clearly Ossian's doing.
+As long as Ossian is alive, it is useless to try to pass.
+Ossian is dead, and the barrier can now be easily removed. Do you wish to proceed further?
+
+(2, 92, 0) ***Quest Guard***
+Message:
+Priests who know the secret of resurrecting the dead live here. They are willing to share it with you, but in exchange, they require you to bring them the Cornucopia, so that they may have everything they need for the rest of their days. They are also willing to give you one of three keys needed to enter the magical library in the northern caves. The components of the Cornucopia can be found in the treasuries of the blue dragons: two on the islands to the north, one in the sea to the south, and one somewhere in the caves.
+No Cornucopia, no deal.
+Do you want to learn a powerful resurrection spell?
+
+(35, 67, 0) ***Quest Gate***
+Message:
+The gates here open with a password known only to representatives of the land of ice. Here, the local elders explain how to open the magical barriers with which they have sealed all key points in this area to protect their people from enemy attacks.
+The gates here open with a password known only to representatives of the land of ice. Here, the local elders explain how to open the magical barriers with which they have sealed all key points in this area to protect their people from enemy attacks.
+Would you like to pass?
+
+(37, 2, 0) ***Prison***
+Name:
+Straton
+
+(8, 6, 0) ***Conflux***
+
+Visiting Elementalist:
+Name:
+Austain
+
+Timed events:
+
+Name:
+Синий ИИ - минус кристаллы
+Message:
+
+
+(57, 77, 0) ***Sign***
+Message:
+Beware if you're not a local.
+
+(36, 73, 0) ***Seer's Hut***
+Message:
+Our elders are willing to pay for the heads of the commanders leading the enemy armies that invade our lands. Bring evidence of the death of Darla, and you will receive the money.
+The enemy commander is still alive. Kill him and return for your reward.
+Do you want to get gold?
+Our elders are willing to pay for the heads of the commanders leading the enemy armies that invade our lands. Bring evidence of the death of Moira, and you will receive the money.
+The enemy commander is still alive. Kill him and return for your reward.
+Do you want to get gold?
+Our elders are willing to pay for the heads of the commanders leading the enemy armies that invade our lands. Bring evidence of the death of Pallant, and you will receive the money.
+The enemy commander is still alive. Kill him and return for your reward.
+Do you want to get gold?
+Our elders are willing to pay for the heads of the commanders leading the enemy armies that invade our lands. Bring evidence of the death of Dux, and you will receive the money.
+The enemy commander is still alive. Kill him and return for your reward.
+Do you want to get gold? 
+Our elders are willing to pay for the heads of the commanders leading the enemy armies that invade our lands. Bring evidence of the death of Heimarmene, and you will receive the money.
+The enemy commander is still alive. Kill him and return for your reward.
+Do you want to get gold?
+Our elders are willing to pay for the heads of the commanders leading the enemy armies that invade our lands. Bring evidence of the death of Atreia, and you will receive the money.
+The enemy commander is still alive. Kill him and return for your reward.
+Do you want to get gold?
+
+(58, 17, 0) ***Pandora's Box***
+Message:
+
+
+(11, 94, 0) ***Quest Guard***
+Message:
+This road leads to a portal that the local knights call "the gates of heaven" and guard like nothing else. As long as the head of their order, Rhiannon, lives, it will be impossible to pass through.
+Rhiannon is alive, and the guards at the gates will not let you pass, and you will not be able to take it by storm.
+The guards have scattered, and the gates are now open. Do you want to go through?
+
+(5, 36, 0) ***Quest Guard***
+Message:
+The local cyclopes want more money and crystals for their services, which for some reason they value highly. 20 crystals and 10,000 gold are enough to hire them.
+You don't have the required amount, and the cyclopes won't agree to less.
+The cyclopes are ready to follow you. Do you want to hire them?
+
+(13, 32, 0) ***Seer's Hut***
+Message:
+An old barbarian lives in this house. He's willing to gift his favorite club to anyone who can demonstrate sufficient attack skill.
+Your skills are not yet sufficient, come back later.
+The barbarian is ready to gift you his club. Would you like to take it?
+
+(104, 97, 0) ***Quest Guard***
+Message:
+Here, Thias breeds gorgons. To take possession of the farm, its current owner must be eliminated. They say he keeps some kind of magical trinket there.
+As long as Thias is alive, the farm belongs to him.	
+The farm guards have scattered. Do you want to go through?
+
+(72, 99, 0) ***Pandora's Box***
+Message:
+
+
+(101, 80, 0) ***Sign***
+Message:
+Southwest: Lizardmen and Gnolls	Southwest: Lizardmen and Gnolls
+
+(28, 79, 0) ***Event***
+Message:
+- мувы для ИИ
+
+(43, 48, 0) ***Quest Guard***
+Message:
+Wild mammoths roam here. You can tame them and build stalls for them, but this will cost 15,000 gold and 40 units of ore.
+These funds are not enough to build mammoth stalls.
+Do you want to build mammoth stalls?
+
+(35, 42, 0) ***Quest Guard***
+Message:
+The elven houses have been damaged by fire and the elves are asking you to rebuild their homes. Then they will serve you. You need 40 measures of wood and 25,000 gold.
+More resources are needed to rebuild elven houses.	
+Do you want to rebuild elf houses?
+
+(63, 64, 0) ***Event***
+Message:
+- мувы для ИИ
+
+(19, 107, 0) ***Pandora's Box***
+Message:
+
+
+(75, 106, 0) ***Seer's Hut***
+Message:
+You enter the home of a hermit mage who has lived in these parts for a long time. He says he wants to found an order of magical mastery, and to do so, he needs fifty worthy apprentices. In exchange, he's willing to give you a powerful magical book. They say the best mages live in the north, in the lands of the elves who study elemental magic.
+You haven't yet gathered the required number of apprentices, and without them it's better not to bother the mage.
+Now the mage can found his own order, and he offers you a magic book. Will you take it?
+
+(56, 70, 0) ***Event***
+Message:
+- мувы для ИИ
+
+(72, 103, 0) ***Quest Guard***
+Message:
+This passage leads to the Silver Caves. The key to it has recently been kept by Nell, and now the neighbor clearly won't give it up to you.
+This passage leads to the Silver Caves. The key to it has recently been kept by Nell, and now the neighbor clearly won't give it up to you.
+You insert the key you took from Nell into the lock and the gate opens. Would you like to pass?
+
+(60, 79, 0) ***Event***
+Message:
+- мувы для ИИ
+
+(57, 81, 0) ***Event***
+Message:
+- мувы для ИИ
+
+(19, 59, 0) ***Pandora's Box***
+Message:
+
+
+(24, 52, 0) ***Quest Guard***
+Message:
+Elves languish here, trapped by demons for refusing to fight by their side. They will gladly follow you if you find the key to their prison, in the form of a strange skull amulet. It is said the demons buried it somewhere in the east of these lands.
+Without the key the elves cannot be freed.
+You insert the amulet into a special slot, and the door opens. The elves are ready to join you. Would you like to accept them into your army?
+
+(40, 46, 0) ***Quest Guard***
+Message:
+Дальше не пройти — впереди завал горной породы. Из хорошего в нём, кажется, видны остатки золотой жилы. Нужно 150 умелых горняков, чтобы всё это разобрать.
+Пока не соберёте достаточную артель, пройти здесь не получится.
+Кобольды легко разберут завал, но взамен они требуют освободить их от дальнейшей службы в вашей армии. Готовы ли вы к такой сделке?
+
+(50, 3, 0) ***Pandora's Box***
+Message:
+
+
+(100, 88, 0) ***Seer's Hut***
+Message:
+The witch tells you that after everything she's been through lately, she no longer cares about power. However, she wants to save enough money to retire and live a comfortable life. She believes 20,000 gold, 30 measures of sulfur, and the same amount of mercury will be enough. In exchange, she will give you her last herd of gorgons.
+The witch does not agree to a smaller amount, and you do not have the necessary funds at the moment.
+Would you like to give the witch gold and resources in exchange for the gorgons?
+
+(3, 63, 0) ***Witch***
+Name:
+Sveva
+
+(49, 39, 0) ***Quest Guard***
+Message:
+The local sharpshooters are eager to embark on adventures with a worthy hero. But they'll only consider someone as worthy as they are at shooting.
+You're losing the competition with sharpshooters. Apparently, someone more skilled is needed.
+Neia easily beats the sharpshooters. They are amazed by her skill and ready to join her. Do you want to welcome sharpshooters to your army?
+
+(48, 50, 0) ***Seer's Hut***
+Message:
+This mage has learned to draw power from ice creatures. He agrees to perform a ritual and share some of the resulting power with you if you bring enough of such creatures.
+Until you have brought enough creatures, the ritual cannot be performed.
+Are you ready to perform the ritual?
+
+(75, 47, 0) ***Quest Guard***
+Message:
+The local sorcerer is willing to teach you how to blind your opponents in battle. In exchange, he wants the Pendant of Reflection worn by Porphyrios.
+The sorcerer only needs the Pendant, he will not agree to anything else.
+Do you wish to give the Pendant of Reflection to the sorcerer?
+
+(79, 34, 0) ***Seer's Hut***
+Message:
+A powerful retired water mage lives here. He wants you to bring him several valuable composite artifacts for study—the components of these relics are scattered throughout these lands, and traveling on his own is becoming too difficult for him. In exchange, he promises to give you his magical helm — the mage can hardly use it for anything except brewing tea now, anyway.
+No artifacts — no helm.
+Do you wish to get the magical helm?
+
+(104, 107, 0) ***Pandora's Box***
+Message:
+
+
+(69, 84, 0) ***Quest Guard***
+Message:
+These Shamans are terrified by what's been happening in the world lately. They trust only their own kind and won't join anyone else. They say they possess some kind of a magical artifact.
+Until one of them is with you, the Shamans don't even want to listen to you.
+Would you like these Shamans to join you?
+
+(42, 66, 0) ***Event***
+Message:
+- мувы для ИИ
+
+(44, 75, 0) ***Event***
+Message:
+- мувы для ИИ
+
+(55, 46, 0) ***Pandora's Box***
+Message:
+
+
+(70, 72, 0) ***Pandora's Box***
+Message:
+
+
+(93, 56, 0) ***Pandora's Box***
+Message:
+
+
+(92, 107, 0) ***Quest Guard***
+Message:
+One of the captured lizardmen said he saw the demon lord Harro give the key to this portal to the lizardman chieftain Thias. He most likely still has it.
+Without defeating Thias, the key to the mysterious portal cannot be obtained.
+You insert the intricate key into a keyhole on one of the columns, and the portal glows with a soft light. Do you wish to enter?
+
+(39, 50, 0) ***Seer's Hut***
+Message:
+An archery competition is being held here. But representatives of the northern elves, underground dwellers, and lizardmen from the eastern lands have not shown up. Find those who agree to participate, and the organizers are willing to give you magic arrows as a reward.
+More participants are needed for the competition to start.
+The competition organizers are pleased and ready to hand you the arrows. Would you like to take them?
+
+(2, 84, 0) ***Alchemist***
+Name:
+Elanda
+
+(4, 52, 0) ***Quest Guard***
+Message:
+These jotunns are forced to pay tribute to the witch Sveva, who has settled on an island further south. If you defeat her, they are ready to join you.
+Sveva is still strong, the jotunns cannot join you.	
+Sveva is dead, and the jotunns are ready to join your forces. Do you wish to accept them?
+
+(34, 83, 0) ***Event***
+Message:
+- мувы для ИИ
+
+(99, 88, 0) ***Quest Guard***
+Message:
+A witch who ruled over the lizardmen and gnolls before the demon-worshipper Thias rose to power, lives here. She knows Thias is desperate to kill her, so she won't let anyone past the magical barrier in front of her dwelling as long as he's alive.
+— Bring me Thias's head, then we'll talk! —  the witch shouts from her dwelling..
+—  Finally this bastard is dead! — says the witch with obvious satisfaction. — Now, if you want, we can talk.
+
+(27, 83, 0) ***Quest Guard***
+Message:
+This passage leads to the lands of the knights. But first, the barbarian leader, Nell, must be defeated. It would be unwise to leave such a dangerous enemy behind.
+Nell is still alive, and her army is still strong and threatening your rear area.
+Would you like to pass?
+
+(8, 44, 0) ***Seer's Hut***
+Message:
+The jotunn explains to you that he needs eight pendants he once acquired during glorious campaigns, but then sold them to various people, and he doesn't know where they are now. If you bring them, he's ready to share his wisdom with you.
+The jotunn looks at you, not saying a word. He clearly has no intention of speaking to you until you bring him the pendants.
+The jotunn is ready to begin his tale right now. Would you like to hear his instructions?
+
+(34, 71, 0) ***Event***
+Message:
+- мувы для ИИ
+
+(40, 2, 0) ***Druid***
+Name:
+Beltina
+
+(65, 2, 0) ***Death Knight***
+Name:
+Ossian
+
+(20, 45, 0) ***Bulwark***
+
+Timed events:
+
+Name:
+Captured
+Message:
+
+
+(6, 44, 0) ***Quest Guard***
+Message:
+A hermit jotunn lives here. He wants to see one of his brothers from the island to the south. Until he hears from them, he won't communicate with you.	
+The jotunn looks at you and goes back into the hut.
+The jotunn emerges from his hut and waves his hand in greeting, inviting you into his abode. Would you like to follow him?
+
+(64, 83, 0) ***Event***
+Message:
+- мувы для ИИ
+
+(25, 96, 0) ***Quest Guard***
+Message:
+The angels here have already sworn allegiance to the northern elves, but for the right reward, they're willing to follow you. For their services, they ask for 75 gems and 50,000 gold.
+You don't have the required amount, and the angels won't settle for less.	
+Angels are ready to follow you. Do you want to hire them?
+
+(45, 70, 0) ***Pandora's Box***
+Message:
+
+
+(74, 8, 0) ***Quest Guard***
+Message:
+Austain the Elementalist have created the water barrier blocking any passage in these waters. Until he is defeated, the barrier will stand.
+Austain the Elementalist have created the water barrier blocking any passage in these waters. Until he is defeated, the barrier will stand.
+Do you want to pass?
+
+(45, 95, 0) ***Quest Guard***
+Message:
+This passage leads to the lands of the knights. But first, the barbarian leader, Nell, must be defeated. It would be unwise to leave such a dangerous enemy behind.
+Nell is still alive, and her army is still strong and threatening your rear area.
+Would you like to pass?
+
+(105, 6, 0) ***Quest Guard***
+Message:
+The passage is closed by a magical barrier, maintained by an elven sorceress, protecting her current mistress.
+First defeat the elven sorceress, then you can pass.
+Viveca is defeated, and the barrier is now easily removed. Do you wish to proceed?
+
+(78, 27, 1) ***Quest Guard***
+Message:
+Angels live here and are willing to serve you for a reasonable fee. 50,000 gold and 50 gems will do.
+Angels will not settle for less than 50,000 gold and 50 gems.
+Do you want to attract angels to your service?
+
+(82, 97, 1) ***Pandora's Box***
+Message:
+
+
+(13, 106, 1) ***Pandora's Box***
+Message:
+
+
+(97, 28, 1) ***Quest Guard***
+Message:
+The demon guards here can be bribed for 50 gems.
+The demons will not agree to less than 50 gems.	
+The demons greedily snatch up the gems and scatter. Do you want to pass?
+
+(24, 1, 1) ***Elementalist***
+Name:
+Уна
+
+(96, 24, 1) ***Quest Guard***
+Message:
+The demon guards here can be bribed for 50 gems.
+The demons will not agree to less than 50 gems.
+The demons greedily snatch up the gems and scatter. Do you want to pass?
+
+(42, 2, 1) ***Quest Guard***
+Message:
+The librarians in blue robes look at you sternly. They say that only those who take all the signs from their brothers on the surface will be allowed into the library.
+Librarians won't let you in without the right signs. 
+The librarians look at you, then at the artifacts you've brought, and finally nod. Would you like to enter the library?
+
+(104, 4, 1) ***Knight***
+Name:
+Moira
+
+(104, 2, 1) ***Barbarian***
+Name:
+Darla
+
+(104, 6, 1) ***Elementalist***
+Name:
+Pallant
+
+(104, 21, 1) ***Witch***
+Name:
+Erne
+
+(91, 11, 1) ***Quest Guard***
+Message:
+The local devils avoid Harro like the plague. As long as he's alive, they won't accept your command.
+Harro is still alive, and the devils don't want to come into your service.	
+The devils are opening the passage to their home. Do you want to go through?
+
+(19, 54, 1) ***Wizard***
+Name:
+Meonie
+
+(7, 104, 1) ***Beastmaster***
+Name:
+Sherl
+
+(86, 68, 1) ***Ranger***
+Name:
+Porphyrios
+
+(101, 103, 1) ***Seer's Hut***
+Message:
+The old shaman says he wants to create an endless source of heat, but to do so, he needs five live firebirds. In exchange, he'll give you a blue dragon he managed to tame.
+Without birds, a shaman cannot create a source of fire.
+The shaman begins a strange ritual, but it fails: both he and the birds vanish in a burst of flame. Well, at least the tame blue dragon is still here. Would you like to take it with you?
+
+(99, 4, 1) ***Event***
+Message:
+ИИ - еженедельный бонус
+
+(98, 4, 1) ***Beastmaster***
+Name:
+Dux
+
+(98, 2, 1) ***Demoniac***
+Name:
+Heimarmene
+
+(92, 3, 1) ***Ranger***
+Name:
+Atreia
+
+(99, 2, 1) ***Event***
+Message:
+ИИ - еженедельный бонус
+
+(93, 2, 1) ***Event***
+Message:
+ИИ - еженедельный бонус
+
+(18, 55, 1) ***Pandora's Box***
+Message:
+
+
+(53, 54, 1) ***Necromancer***
+Name:
+Cassandra
+
+(91, 94, 1) ***Quest Guard***
+Message:
+Harro the Efreeti have created the barrier, blocking the passage here. You need to defeat him if you want to pass.
+Harro the Efreeti have created the barrier, blocking the passage here. You need to defeat him if you want to pass.
+Harro is vanquished, and you can pass.
+
+===== Extended Events =====
+***Event Texts***
+Message:
+After a brief skirmish, we managed to convince the village elder on the northwestern islands to join our expedition.
+
+
+***Event Texts***
+Proposal Message:
+A shaman lives here who possesses the art of drawing power from artifacts, but in doing so, the artifacts themselves are destroyed. He requires four artifacts for this ritual.
+Progress Message:
+You don't have the artifacts the shaman needs.
+Completion Message:
+Хотите отдать артефакты шаману?
+Hint:
+Bring Centaur's Axe, Shield of Dwarven Lords, Breastplate of Petrified Wood and Unicorn's Helm.
+
+***Event Texts***
+Proposal Message:
+A shaman lives here who possesses the art of drawing power from artifacts, but in doing so, the artifacts themselves are destroyed. He requires four artifacts for this ritual.
+Progress Message:
+You don't have the artifacts the shaman needs.
+Completion Message:
+Do you want to give the artifacts to the shaman?
+Hint:
+Bring Greater Gnoll's Flail, Buckler of the Gnoll King, Shield of Chaos and Basilisk Scale Armor
+
+***Event Texts***
+Proposal Message:
+A shaman lives here who possesses the art of drawing power from artifacts, but in doing so, the artifacts themselves are destroyed. He requires four artifacts for this ritual.
+Progress Message:
+You don't have the artifacts the shaman needs.
+Completion Message:
+Do you want to give the artifacts to the shaman?
+Hint:
+Bring Sword of Fire, Hellstorm Helmet, Shield of the Damned and Breastplate of Brimstone
+
+***Event Texts***
+Proposal Message:
+A shaman lives here who possesses the art of drawing power from artifacts, but in doing so, the artifacts themselves are destroyed. He requires four artifacts for this ritual.
+Progress Message:
+You don't have the artifacts the shaman needs.
+Completion Message:
+Do you want to give the artifacts to the shaman?
+Hint:
+Bring Trident of Dominion, Shield of Naval Glory, Royal Armor of Nix and Crown of Five Seas
+
+===== Extended Events =====
+===== End of file =====

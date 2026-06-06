@@ -1,0 +1,168 @@
+===== Map name =====
+Invasion
+
+===== Map description =====
+For many years, no one dared to invade the northern lands, inhabited only by snow elves and other tribes, and of little value. But the necromancers weren't interested in gold or gems...
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Comp+
+Message:
+
+
+Name:
+Intro
+Message:
+The North is harsh and inhospitable. Anyone who has ever dared to set foot on our lands knows this.		For many years, hardly anyone so much as dared to set foot on our frozen soil. Only occasionally, the rulers of neighboring lands, irked with the attacks of yeti and frost giants on their pastures, would launch punitive expeditions here, but those were short-lived; they understood they would be unable to consolidate their hold, let alone capture all of the northern wastelands.		But recently, a messenger from a southern village on the other side of the Rannock river brought alarming news: a huge army of the undead had attacked one of the northern kingdoms, quickly subjugating it.		Before we could do anything, a southern village fell to the undead, and soon they crossed the river and captured another one to the east.		This must stop. If the undead manage to gain a foothold on this shore, dislodging them may prove impossible. We must retake the village and strike back.
+
+Name:
+Week Start
+Message:
+
+
+Name:
+Elves
+Message:
+A frost giant who returned from the south says he saw burning boats filled with undead, set ablaze by the elves' arrows. Interesting. It seems as though we're not the only ones fighting these creatures.
+
+Name:
+Messenger
+Message:
+A messenger representing the elves of the southern lands arrived in our village. He reported a large camp of elven archers located in the south, which had been successfully repelling attacks by the undead for some time.
+
+===== Heroes =====
+
+===== Objects =====
+
+(44, 41, 0) ***Necropolis***
+
+Timed events:
+
+Name:
+Comp+ Necro
+Message:
+
+
+(66, 19, 0) ***Necropolis***
+
+Timed events:
+
+Name:
+comp+ (village)
+Message:
+
+
+(67, 61, 0) ***Necropolis***
+
+Timed events:
+
+Name:
+Comp+
+Message:
+
+
+(52, 13, 0) ***Pandora's Box***
+Message:
+
+
+(0, 62, 0) ***Seer's Hut***
+Message:
+You've met an elven craftsman who makes custom artifacts. He's willing to craft a Golden Bow for 20,000 gold, but it will take some time.
+That's not enough! I need 20,000 gold, no less!
+Excellent. Are you ready to begin crafting the artifact?
+
+(27, 47, 0) ***Seer's Hut***
+Message:
+The jotunn living on this island complains about his sworn enemies, the minotaurs, who have captured a neighboring island and keep pestering him with uninvited visits. The giant declares he is willing to help you train your own jotunns if you take care of these horned beasts.
+The jotunn claims he still hears the roars of minotaurs at night and refuses to help you.
+Upon learning of your victory, the jotunn readily announces that he will train your own jotunns for free.
+
+(42, 4, 0) ***Bulwark***
+
+Visiting Death Knight:
+Name:
+Nepenthes
+
+(43, 64, 0) ***Bulwark***
+
+Timed events:
+
+Name:
+Comp (+army)
+Message:
+
+
+===== Extended Events =====
+
+***Event Texts***
+Quest object log entry:
+Jotunn Upgrade
+
+Message:
+Now your Jotunns have become Jotunn Warlords.
+
+Message:
+Unfortunately, you don't have Jotunns eligible for training.
+
+
+***Event Texts***
+Proposal Message:
+In the hut, you're surprised to encounter a magical elemental. It seems the undead have passed it by.	The creature says it's willing to craft an artifact that prevents the resurrection of the undead for 20,000 gold. It also requires the Talisman of Mana to create the artifact, and the elemental mentions in passing that it heard such an artifact has been seen at a Black Market on one of the islands.		You can't understand what the elemental needs gold for, let alone so much of it, but the creature stands its ground.
+Progress Message:
+The Elemental is unwavering. He wants 20,000 gold and the Mana Talisman, and nothing else!
+Completion Message:
+Would you like to exchange the Talisman of Mana and gold for the Ring of Oblivion?
+Hint:
+Bring 20000 Gold and Talisman of Mana
+
+***Event Texts***
+Quest object log entry:
+Defeat Nepenthes
+
+Message:
+An old shaman lets you know that his village in the northwest has been occupied by hordes of vile undead led by a certain Nepenthes. The shaman says his tribe is ready to help you if you rid the world of this monster.
+
+Message:
+The shaman is deep in thought. It's best not to disturb him needlessly as long as Nepenthes is still alive (as far as that word applies to the undead).
+
+Message:
+The shaman is very grateful and informs you that some of his tribesmen are willing to join your ranks, but warns that he can send either his tribe's warriors or his apprentices with you, not both.		Would you like to take Steel Elves or Great Shamans?
+
+***Event Texts***
+Quest object log entry:
+Wait until the beginning of the next week to get the artifact
+
+Message:
+So be it. Come back next week and your bow will be ready!
+
+Message:
+Here is your Golden Bow, as we agreed.
+
+Message:
+Your order hasn't been fulfilled yet. Come back next week.
+
+
+***Event Texts***
+Message:
+A seafaring elf, a seasoned sea dog, offers to practice archery with you. Would you like to challenge him? The bid is 50 gold.
+Quest object log entry:
+Bring 50 Gold
+
+Message:
+"I don't compete with beggars!" the elf cackles, reaching for the bottle.
+
+Quest object log entry:
+Have Expert Archery
+
+Message:
+You hit the target several times in a row, while the sailor misses a couple. He hands you the gold.	"Well!" he declares, "It's been a long, long time since I've run across such a sure shot. Take this Necklace. I've grown too old to sail, but you'll find it useful."
+
+Message:
+You miss your target several times in a row, while the sailor hits all three.	"You're just not a good shot, my friend!" the elf chuckles, taking his gold. "Come back when you're a truly skilled marksman."
+
+
+===== Extended Events =====
+===== End of file =====
