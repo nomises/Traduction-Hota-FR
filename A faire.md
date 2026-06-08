@@ -4,7 +4,7 @@
 ### Traduire
 * Ice Assault
 * Invasion
-* Buried Treasure
+* ~~Buried Treasure~~
 
 # Bonus
 ## Campaign editor
