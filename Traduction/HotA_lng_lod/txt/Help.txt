@@ -379,9 +379,9 @@ Annuler	Retour au Menu Précédent
 		
 Adventure Map Window		
 Carte du Monde	Il s'agit d'une représentation à échelle réduite de la carte du scénario. Cliquez sur un point de la Carte du Monde pour centrer l'Écran d'Aventure sur ce lieu. Vous pouvez également tirer-déplacer le rectangle rouge pour faire défiler l'Écran d'Aventure.	
-Fenêtre d'État	{Fenêtre d'État}
+Fenêtre d'État	"{Fenêtre d'État}
 
-Cette fenêtre vous donne des informations sur vos héros ou votre royaume et la date du jour. Cliquez sur la fenêtre pour passer d'une informations à l'autre.	
+Cette fenêtre vous donne des informations sur vos héros ou votre royaume et la date du jour. Cliquez sur la fenêtre pour passer d'une informations à l'autre."	
 Royaume	"{Royaume}
 
 Afficher une liste des Villes et des Héros sous votre contrôle."	
@@ -486,13 +486,13 @@ MUSIC_TYPE_CD_ID,	MUSIC_TYPE_CD_ID,
 MUSIC_TYPE_MIDI_ID,	MUSIC_TYPE_MIDI_ID,	
 HERO_SPEED_WALK_ID,	"Animations du Héros
 (lentes)"	
-HERO_SPEED_CANTER_ID,	"Animations du Héros	
-HERO_SPEED_GALLOP_ID,	"Animations du Héros	
+HERO_SPEED_CANTER_ID,	Animations du Héros	
+HERO_SPEED_GALLOP_ID,	Animations du Héros	
 HERO_SPEED_JUMP_ID,	"Animations du Héros
 (aucunes - déplacement immédiat)"
 AI_SPEED_CANTER_ID,	"Animations des Ennemis
 (slowest)"	
-AI_SPEED_GALLOP_ID,	"Animations des Ennemis
+AI_SPEED_GALLOP_ID,	Animations des Ennemis
 AI_SPEED_JUMP_ID,	"Animations des Ennemis
 (aucunes - déplacement immédiat)"
 AI_SPEED_NONE_ID,	Ne pas afficher les déplacements ennemis
