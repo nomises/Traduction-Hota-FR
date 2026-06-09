@@ -107,6 +107,14 @@ Consultez `RMG template editor translation guide.rtf`
 ## Erreurs connus
 - Les fichiers doivent être en format **AINSI** pour pouvoir fonctionné.
 - Il est important que les retours de lignes correspondent aux fichiers d'origine (LF = LF / CRLF = CRLF).
+  - Vous pouvez utilisé les expressions REGEX suivante pour remplacer rapidement les LF(`\n`) et CRLF(`\r\n`)
+  - `\r\n` → `\n`                       Remplace les CRLF → LF
+  - `}\r\n` → `}\n`                     Remplace les fins de lignes avec des brackets
+  - `^\r\n` → `\n`                      Remplace les lignes vides
+  - `^"\r\n` → `"\n`                    Remplace les débuts de ligne ayant des guillemets
+  - `}\r\n^\n` → `}\r\n\r\n`            Remplace la ligne après un } pour un \r\n
+- Certains fichiers comme le `help.txt` nécessitent une tabulation spécifique, sinon ils ne fonctionneront pas.
+  - Vous pouvez faire une recherche avec l'expression REGEX `\t+` pour conparer la traduction et la version originale.
 - Le Fichier Hota.txt utilise des `"` pour séparé ses sections, il est important de les gardés tel quel.
 
 <details>
