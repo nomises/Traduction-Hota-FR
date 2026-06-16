@@ -110,10 +110,7 @@ Malheureusement, vous n'avez pas de Jotunns éligibles à l'entraînement.
 
 ***Event Texts***
 Proposal Message:
-Dans la cabane, vous êtes surpris de découvrir un Élémentaire de l'Esprit. Il semblerait que les morts-vivants l'aient épargné.
-	La créature affirme être disposée à forger un artéfact empêchant la résurrection des morts-vivants pour 20 000 Pièces d'Or. Il exige également le Talisman de Mana pour sa fabrication, et mentionne au passage avoir entendu dire qu'un tel artéfact a été aperçu sur un Marché Noir d'une des îles.
-
-	Vous ne pouvez pas comprendre pourquoi l'Élémentaire a besoin d'or, et encore moins d'une telle quantité, mais la créature tient bon.
+Dans la cabane, vous êtes surpris de découvrir un Élémentaire de l'Esprit. Il semblerait que les morts-vivants l'aient épargné.	La créature affirme être disposée à forger un artéfact empêchant la résurrection des morts-vivants pour 20 000 Pièces d'Or. Il exige également le Talisman de Mana pour sa fabrication, et mentionne au passage avoir entendu dire qu'un tel artéfact a été aperçu sur un Marché Noir d'une des îles.		Vous ne pouvez pas comprendre pourquoi l'Élémentaire a besoin d'or, et encore moins d'une telle quantité, mais la créature tient bon.
 Progress Message:
 L'Élémentaire est inflexible. Il veut 20 000 Pièces d'Or et le Talisman de Mana, et rien d'autre !
 Completion Message:
@@ -132,9 +129,7 @@ Message:
 Le chaman est plongé dans ses pensées. Il vaut mieux ne pas le déranger inutilement tant que Nepenthes est encore en vie (dans la mesure où ce terme s'applique aux morts-vivants).
 
 Message:
-Le chaman est très reconnaissant et vous informe que certains membres de sa tribu sont prêts à rejoindre vos rangs, mais vous avertit qu'il ne peut vous envoyer que les guerriers de sa tribu ou ses apprentis, mais pas les deux.
-	
-	Préférez-vous amener avec vous des Elfes d'acier ou des Chamans Vénérables ?
+Le chaman est très reconnaissant et vous informe que certains membres de sa tribu sont prêts à rejoindre vos rangs, mais vous avertit qu'il ne peut vous envoyer que les guerriers de sa tribu ou ses apprentis, mais pas les deux.		Préférez-vous amener avec vous des Elfes d'acier ou des Chamans Vénérables ?
 
 ***Event Texts***
 Quest object log entry:
@@ -163,13 +158,11 @@ Quest object log entry:
 Have Expert Archery
 
 Message:
-Vous atteignez la cible plusieurs fois de suite, tandis que le marin en rate quelques-unes. Il vous remet l'or.
-	"Eh bien ! " déclare-t-il, "Cela fait bien longtemps que je n'ai pas rencontré un aussi bon tireur. Prenez ce collier. Je suis trop vieux pour naviguer, mais vous le trouverez utile."
+Vous atteignez la cible plusieurs fois de suite, tandis que le marin en rate quelques-unes. Il vous remet l'or.	"Eh bien ! " déclare-t-il, "Cela fait bien longtemps que je n'ai pas rencontré un aussi bon tireur. Prenez ce collier. Je suis trop vieux pour naviguer, mais vous le trouverez utile."
 
 Message:
 Vous ratez votre cible plusieurs fois de suite, tandis que le marin atteint les trois.
 	"Vous n'êtes tout simplement pas un bon tireur, mon ami ! " ricane l'elfe en prenant son or. "Revenez quand vous serez un meilleur tireur."
 
 
-===== Extended Events =====
 ===== End of file =====
