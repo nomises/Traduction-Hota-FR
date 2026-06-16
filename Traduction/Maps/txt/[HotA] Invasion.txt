@@ -2,7 +2,7 @@
 Invasion
 
 ===== Map description =====
-For many years, no one dared to invade the northern lands, inhabited only by snow elves and other tribes, and of little value. But the necromancers weren't interested in gold or gems...
+Pendant de longues années, nul n'osa envahir les terres du Nord, peuplées seulement d'Elfes des Neiges et d'autres tribus, et considérées comme sans grande valeur. Mais les nécromanciens ne s'intéressaient ni à l'or ni aux gemmes...
 
 ===== Rumors =====
 
@@ -16,7 +16,7 @@ Message:
 Name:
 Intro
 Message:
-The North is harsh and inhospitable. Anyone who has ever dared to set foot on our lands knows this.		For many years, hardly anyone so much as dared to set foot on our frozen soil. Only occasionally, the rulers of neighboring lands, irked with the attacks of yeti and frost giants on their pastures, would launch punitive expeditions here, but those were short-lived; they understood they would be unable to consolidate their hold, let alone capture all of the northern wastelands.		But recently, a messenger from a southern village on the other side of the Rannock river brought alarming news: a huge army of the undead had attacked one of the northern kingdoms, quickly subjugating it.		Before we could do anything, a southern village fell to the undead, and soon they crossed the river and captured another one to the east.		This must stop. If the undead manage to gain a foothold on this shore, dislodging them may prove impossible. We must retake the village and strike back.
+Le Nord est rude et inhospitalier. Quiconque a osé poser le pied sur nos terres le sait.		Pendant des années, rares étaient ceux qui osaient fouler notre sol gelé. De temps à autre, les souverains des contrées voisines, exaspérés par les attaques de Yétis et de Jotunns sur leurs pâturages, lançaient des expéditions punitives, mais celles-ci étaient éphémères ; ils savaient qu’ils ne pourraient consolider leur emprise, et encore moins conquérir toutes les terres désolées du Nord.		Mais récemment, un messager d’un village du Sud, de l’autre côté du Rannock, apporta des nouvelles alarmantes : une immense armée de morts-vivants avait attaqué l’un des royaumes du Nord et l’avait rapidement conquis.		Avant même que nous ayons pu réagir, un village du Sud était tombé aux mains des morts-vivants, peu de temps après, ils traversèrent le fleuve et s’emparèrent d’un autre village à l’est.		Cela doit cesser. Si les morts-vivants parviennent à s’implanter sur cette rive, les déloger pourrait s’avérer impossible. Nous devons reprendre notre village et riposter.
 
 Name:
 Week Start
@@ -26,12 +26,12 @@ Message:
 Name:
 Elves
 Message:
-A frost giant who returned from the south says he saw burning boats filled with undead, set ablaze by the elves' arrows. Interesting. It seems as though we're not the only ones fighting these creatures.
+Un Jotunn revenu du sud raconte avoir vu des bateaux en flammes, remplis de morts-vivants, incendiés par les flèches des elfes. Intéressant. Il semblerait que nous ne soyons pas les seuls à combattre ces créatures.
 
 Name:
 Messenger
 Message:
-A messenger representing the elves of the southern lands arrived in our village. He reported a large camp of elven archers located in the south, which had been successfully repelling attacks by the undead for some time.
+Un messager représentant les elfes des terres du Sud est arrivé dans notre village. Il a signalé un important camp d'archers elfes situé au sud, qui repousse avec succès les attaques des morts-vivants depuis quelque temps.
 
 ===== Heroes =====
 
@@ -70,15 +70,15 @@ Message:
 
 (0, 62, 0) ***Seer's Hut***
 Message:
-You've met an elven craftsman who makes custom artifacts. He's willing to craft a Golden Bow for 20,000 gold, but it will take some time.
-That's not enough! I need 20,000 gold, no less!
-Excellent. Are you ready to begin crafting the artifact?
+Vous avez rencontré un artisan elfe qui fabrique des artéfacts sur mesure. Il est prêt à forger un Arc d'Or pour 20 000 Pièces d'Or, mais cela prendra du temps.
+Ce n'est pas suffisant ! Il me faut 20 000 Pièces d'Or, pas moins !
+Parfait. Êtes-vous prêt à commencer la fabrication de l'artéfact?
 
 (27, 47, 0) ***Seer's Hut***
 Message:
-The jotunn living on this island complains about his sworn enemies, the minotaurs, who have captured a neighboring island and keep pestering him with uninvited visits. The giant declares he is willing to help you train your own jotunns if you take care of these horned beasts.
-The jotunn claims he still hears the roars of minotaurs at night and refuses to help you.
-Upon learning of your victory, the jotunn readily announces that he will train your own jotunns for free.
+Le Jotunn vivant sur cette île se plaint de ses ennemis jurés, les Minotaures, qui ont conquis une île voisine et le harcèlent sans cesse de visites impromptues. Le Jotunn déclare être prêt à vous aider à entraîner vos propres Jotunns si vous vous occupez de ces bêtes cornues.
+Le Jotunn prétend entendre encore les rugissements des Minotaures la nuit et refuse de vous aider.
+Apprenant votre victoire, le Jotunn annonce volontiers qu'il entraînera vos propres Jotunns gratuitement.
 
 (42, 4, 0) ***Bulwark***
 
@@ -102,66 +102,73 @@ Quest object log entry:
 Jotunn Upgrade
 
 Message:
-Now your Jotunns have become Jotunn Warlords.
+Vos Jotunns sont désormais devenus des Seigneurs Jotunn.
 
 Message:
-Unfortunately, you don't have Jotunns eligible for training.
+Malheureusement, vous n'avez pas de Jotunns éligibles à l'entraînement.
 
 
 ***Event Texts***
 Proposal Message:
-In the hut, you're surprised to encounter a magical elemental. It seems the undead have passed it by.	The creature says it's willing to craft an artifact that prevents the resurrection of the undead for 20,000 gold. It also requires the Talisman of Mana to create the artifact, and the elemental mentions in passing that it heard such an artifact has been seen at a Black Market on one of the islands.		You can't understand what the elemental needs gold for, let alone so much of it, but the creature stands its ground.
+Dans la cabane, vous êtes surpris de découvrir un Élémentaire de l'Esprit. Il semblerait que les morts-vivants l'aient épargné.
+	La créature affirme être disposée à forger un artéfact empêchant la résurrection des morts-vivants pour 20 000 Pièces d'Or. Il exige également le Talisman de Mana pour sa fabrication, et mentionne au passage avoir entendu dire qu'un tel artéfact a été aperçu sur un Marché Noir d'une des îles.
+
+	Vous ne pouvez pas comprendre pourquoi l'Élémentaire a besoin d'or, et encore moins d'une telle quantité, mais la créature tient bon.
 Progress Message:
-The Elemental is unwavering. He wants 20,000 gold and the Mana Talisman, and nothing else!
+L'Élémentaire est inflexible. Il veut 20 000 Pièces d'Or et le Talisman de Mana, et rien d'autre !
 Completion Message:
-Would you like to exchange the Talisman of Mana and gold for the Ring of Oblivion?
+Souhaiteriez-vous échanger le Talisman de Mana et de l'or contre l'Anneau d'Amnésie ?
 Hint:
-Bring 20000 Gold and Talisman of Mana
+Apportez 20 000 Pièces d'Or et un Talisman de Mana.
 
 ***Event Texts***
 Quest object log entry:
 Defeat Nepenthes
 
 Message:
-An old shaman lets you know that his village in the northwest has been occupied by hordes of vile undead led by a certain Nepenthes. The shaman says his tribe is ready to help you if you rid the world of this monster.
+Un vieux chaman vous confie que son village du nord-ouest est envahi par des hordes de morts-vivants maléfiques menées par un certain Nepenthes. Il vous assure que sa tribu est prête à vous aider si vous débarrassez le monde de ce monstre.
 
 Message:
-The shaman is deep in thought. It's best not to disturb him needlessly as long as Nepenthes is still alive (as far as that word applies to the undead).
+Le chaman est plongé dans ses pensées. Il vaut mieux ne pas le déranger inutilement tant que Nepenthes est encore en vie (dans la mesure où ce terme s'applique aux morts-vivants).
 
 Message:
-The shaman is very grateful and informs you that some of his tribesmen are willing to join your ranks, but warns that he can send either his tribe's warriors or his apprentices with you, not both.		Would you like to take Steel Elves or Great Shamans?
+Le chaman est très reconnaissant et vous informe que certains membres de sa tribu sont prêts à rejoindre vos rangs, mais vous avertit qu'il ne peut vous envoyer que les guerriers de sa tribu ou ses apprentis, mais pas les deux.
+	
+	Préférez-vous amener avec vous des Elfes d'acier ou des Chamans Vénérables ?
 
 ***Event Texts***
 Quest object log entry:
-Wait until the beginning of the next week to get the artifact
+Attendez le début de la semaine prochaine pour obtenir l'artéfact.
 
 Message:
-So be it. Come back next week and your bow will be ready!
+Soit. Revenez la semaine prochaine et votre arc sera prêt !
 
 Message:
-Here is your Golden Bow, as we agreed.
+Voici votre Arc de Midas, comme convenu.
 
 Message:
-Your order hasn't been fulfilled yet. Come back next week.
+Votre commande n'a pas encore été traitée. Veuillez revenir la semaine prochaine.
 
 
 ***Event Texts***
 Message:
-A seafaring elf, a seasoned sea dog, offers to practice archery with you. Would you like to challenge him? The bid is 50 gold.
+Un elfe marin, un vieux loup de mer, vous propose de vous entraîner à l'Archerie. Oserez-vous le défier ? La mise est de 50 Pièces d'Or.
 Quest object log entry:
-Bring 50 Gold
+Apportez 50 Pièces d'Or
 
 Message:
-"I don't compete with beggars!" the elf cackles, reaching for the bottle.
+"Je ne rivalise pas avec les mendiants ! " ricane l'elfe en attrapant sa bouteille.
 
 Quest object log entry:
 Have Expert Archery
 
 Message:
-You hit the target several times in a row, while the sailor misses a couple. He hands you the gold.	"Well!" he declares, "It's been a long, long time since I've run across such a sure shot. Take this Necklace. I've grown too old to sail, but you'll find it useful."
+Vous atteignez la cible plusieurs fois de suite, tandis que le marin en rate quelques-unes. Il vous remet l'or.
+	"Eh bien ! " déclare-t-il, "Cela fait bien longtemps que je n'ai pas rencontré un aussi bon tireur. Prenez ce collier. Je suis trop vieux pour naviguer, mais vous le trouverez utile."
 
 Message:
-You miss your target several times in a row, while the sailor hits all three.	"You're just not a good shot, my friend!" the elf chuckles, taking his gold. "Come back when you're a truly skilled marksman."
+Vous ratez votre cible plusieurs fois de suite, tandis que le marin atteint les trois.
+	"Vous n'êtes tout simplement pas un bon tireur, mon ami ! " ricane l'elfe en prenant son or. "Revenez quand vous serez un meilleur tireur."
 
 
 ===== Extended Events =====
