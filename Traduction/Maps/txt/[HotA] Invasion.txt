@@ -2,7 +2,7 @@
 Invasion
 
 ===== Map description =====
-Pendant de longues annÃ©es, nul n'osa envahir les terres du Nord, peuplÃ©es seulement d'Elfes des Neiges et d'autres tribus, et considÃ©rÃ©es comme sans grande valeur. Mais les nÃ©cromanciens ne s'intÃ©ressaient ni Ã  l'or ni aux gemmes...
+Pendant de longues années, nul n'osa envahir les terres du Nord, peuplées seulement d'Elfes des Neiges et d'autres tribus, et considérées comme sans grande valeur. Mais les nécromanciens ne s'intéressaient ni à l'or ni aux gemmes...
 
 ===== Rumors =====
 
@@ -16,7 +16,7 @@ Message:
 Name:
 Intro
 Message:
-Le Nord est rude et inhospitalier. Quiconque a osÃ© poser le pied sur nos terres le sait.		Pendant des annÃ©es, rares Ã©taient ceux qui osaient fouler notre sol gelÃ©. De temps Ã  autre, les souverains des contrÃ©es voisines, exaspÃ©rÃ©s par les attaques de YÃ©tis et de Jotunns sur leurs pÃ¢turages, lanÃ§aient des expÃ©ditions punitives, mais celles-ci Ã©taient Ã©phÃ©mÃ¨resÂ ; ils savaient quâ€™ils ne pourraient consolider leur emprise, et encore moins conquÃ©rir toutes les terres dÃ©solÃ©es du Nord.		Mais rÃ©cemment, un messager dâ€™un village du Sud, de lâ€™autre cÃ´tÃ© du Rannock, apporta des nouvelles alarmantesÂ : une immense armÃ©e de morts-vivants avait attaquÃ© lâ€™un des royaumes du Nord et lâ€™avait rapidement conquis.		Avant mÃªme que nous ayons pu rÃ©agir, un village du Sud Ã©tait tombÃ© aux mains des morts-vivants, peu de temps aprÃ¨s, ils traversÃ¨rent le fleuve et sâ€™emparÃ¨rent dâ€™un autre village Ã  lâ€™Est.		Cela doit cesser. Si les morts-vivants parviennent Ã  sâ€™implanter sur cette rive, les dÃ©loger pourrait sâ€™avÃ©rer impossible. Nous devons reprendre notre village et riposter.
+Le Nord est rude et inhospitalier. Quiconque a osé poser le pied sur nos terres le sait.		Pendant des années, rares étaient ceux qui osaient fouler notre sol gelé. De temps à autre, les souverains des contrées voisines, exaspérés par les attaques de Yétis et de Jotunns sur leurs pâturages, lançaient des expéditions punitives, mais celles-ci étaient éphémères ; ils savaient qu’ils ne pourraient consolider leur emprise, et encore moins conquérir toutes les terres désolées du Nord.		Mais récemment, un messager d’un village du Sud, de l’autre côté du Rannock, apporta des nouvelles alarmantes : une immense armée de morts-vivants avait attaqué l’un des royaumes du Nord et l’avait rapidement conquis.		Avant même que nous ayons pu réagir, un village du Sud était tombé aux mains des morts-vivants, peu de temps après, ils traversèrent le fleuve et s’emparèrent d’un autre village à l’Est.		Cela doit cesser. Si les morts-vivants parviennent à s’implanter sur cette rive, les déloger pourrait s’avérer impossible. Nous devons reprendre notre village et riposter.
 
 Name:
 Week Start
@@ -26,12 +26,12 @@ Message:
 Name:
 Elves
 Message:
-Un Jotunn revenu du Sud raconte avoir vu des bateaux en flammes, remplis de morts-vivants, incendiÃ©s par les flÃ¨ches des Elfes. IntÃ©ressant. Il semblerait que nous ne soyons pas les seuls Ã  combattre ces crÃ©atures.
+Un Jotunn revenu du Sud raconte avoir vu des bateaux en flammes, remplis de morts-vivants, incendiés par les flèches des Elfes. Intéressant. Il semblerait que nous ne soyons pas les seuls à combattre ces créatures.
 
 Name:
 Messenger
 Message:
-Un messager reprÃ©sentant les Elfes des terres du Sud est arrivÃ© dans notre village. Il a signalÃ© un important camp d'archers Elfes situÃ© au Sud, qui repousse avec succÃ¨s les attaques des morts-vivants depuis quelque temps.
+Un messager représentant les Elfes des terres du Sud est arrivé dans notre village. Il a signalé un important camp d'archers Elfes situé au Sud, qui repousse avec succès les attaques des morts-vivants depuis quelque temps.
 
 ===== Heroes =====
 
@@ -70,15 +70,15 @@ Message:
 
 (0, 62, 0) ***Seer's Hut***
 Message:
-Vous avez rencontrÃ© un artisan Elfe qui fabrique des artÃ©facts sur mesure. Il est prÃªt Ã  forger un Arc de Midas, pour 20Â 000 PiÃ¨ces d'Or, mais cela prendra du temps.
-Ce n'est pas suffisantÂ ! Il me faut 20Â 000 PiÃ¨ces d'Or, pas moinsÂ !
-Parfait. ÃŠtes-vous prÃªt Ã  commencer la fabrication de l'artÃ©fact ?
+Vous avez rencontré un artisan Elfe qui fabrique des artéfacts sur mesure. Il est prêt à forger un Arc de Midas, pour 20 000 Pièces d'Or, mais cela prendra du temps.
+Ce n'est pas suffisant ! Il me faut 20 000 Pièces d'Or, pas moins !
+Parfait. Êtes-vous prêt à commencer la fabrication de l'artéfact ?
 
 (27, 47, 0) ***Seer's Hut***
 Message:
-Le Jotunn vivant sur cette Ã®le se plaint de ses ennemis jurÃ©s, les Minotaures, qui ont conquis une Ã®le voisine et le harcÃ¨lent sans cesse de visites impromptues. Le Jotunn dÃ©clare Ãªtre prÃªt Ã  vous aider Ã  entraÃ®ner vos propres Jotunns si vous vous occupez de ces bÃªtes cornues.
-Le Jotunn prÃ©tend entendre encore les rugissements des Minotaures la nuit et refuse de vous aider.
-Apprenant votre victoire, le Jotunn annonce volontiers qu'il entraÃ®nera vos propres Jotunns gratuitement.
+Le Jotunn vivant sur cette île se plaint de ses ennemis jurés, les Minotaures, qui ont conquis une île voisine et le harcèlent sans cesse de visites impromptues. Le Jotunn déclare être prêt à vous aider à entraîner vos propres Jotunns si vous vous occupez de ces bêtes cornues.
+Le Jotunn prétend entendre encore les rugissements des Minotaures la nuit et refuse de vous aider.
+Apprenant votre victoire, le Jotunn annonce volontiers qu'il entraînera vos propres Jotunns gratuitement.
 
 (42, 4, 0) ***Bulwark***
 
@@ -99,69 +99,69 @@ Message:
 
 ***Event Texts***
 Quest object log entry:
-AmÃ©lioration des Jotunns
+Amélioration des Jotunns
 
 Message:
-Vos Jotunns sont dÃ©sormais devenus des Seigneurs Jotunn.
+Vos Jotunns sont désormais devenus des Seigneurs Jotunn.
 
 Message:
-Malheureusement, vous n'avez pas de Jotunns Ã©ligibles Ã  l'entraÃ®nement.
+Malheureusement, vous n'avez pas de Jotunns éligibles à l'entraînement.
 
 
 ***Event Texts***
 Proposal Message:
-Dans la cabane, vous Ãªtes surpris de dÃ©couvrir un Ã‰lÃ©mentaire de l'Esprit. Il semblerait que les morts-vivants l'aient Ã©pargnÃ©.	La crÃ©ature affirme Ãªtre disposÃ©e Ã  forger un artÃ©fact empÃªchant la rÃ©surrection des morts-vivants pour 20Â 000 PiÃ¨ces d'Or. Il exige Ã©galement le Talisman de Mana pour sa fabrication, et mentionne au passage avoir entendu dire qu'un tel artÃ©fact a Ã©tÃ© aperÃ§u sur un MarchÃ© Noir d'une des Ã®les.		Vous ne pouvez pas comprendre pourquoi l'Ã‰lÃ©mentaire a besoin d'or, et encore moins d'une telle quantitÃ©, mais la crÃ©ature tient bon.
+Dans la cabane, vous êtes surpris de découvrir un Élémentaire de l'Esprit. Il semblerait que les morts-vivants l'aient épargné.	La créature affirme être disposée à forger un artéfact empêchant la résurrection des morts-vivants pour 20 000 Pièces d'Or. Il exige également le Talisman de Mana pour sa fabrication, et mentionne au passage avoir entendu dire qu'un tel artéfact a été aperçu sur un Marché Noir d'une des îles.		Vous ne pouvez pas comprendre pourquoi l'Élémentaire a besoin d'or, et encore moins d'une telle quantité, mais la créature tient bon.
 Progress Message:
-L'Ã‰lÃ©mentaire est inflexible. Il veut 20Â 000 PiÃ¨ces d'Or et le Talisman de Mana, et rien d'autreÂ !
+L'Élémentaire est inflexible. Il veut 20 000 Pièces d'Or et le Talisman de Mana, et rien d'autre !
 Completion Message:
-Souhaiteriez-vous Ã©changer le Talisman de Mana et de l'or contre l'Anneau d'AmnÃ©sie ?
+Souhaiteriez-vous échanger le Talisman de Mana et de l'or contre l'Anneau d'Amnésie ?
 Hint:
-Apportez 20 000 PiÃ¨ces d'Or et un Talisman de Mana.
+Apportez 20 000 Pièces d'Or et un Talisman de Mana.
 
 ***Event Texts***
 Quest object log entry:
 Vaincre Nepenthes
 
 Message:
-Un vieux chaman vous confie que son village du Nord-Ouest est envahi par des hordes de morts-vivants malÃ©fiques menÃ©es par un certain Nepenthes. Il vous assure que sa tribu est prÃªte Ã  vous aider si vous dÃ©barrassez le monde de ce monstre.
+Un vieux chaman vous confie que son village du Nord-Ouest est envahi par des hordes de morts-vivants maléfiques menées par un certain Nepenthes. Il vous assure que sa tribu est prête à vous aider si vous débarrassez le monde de ce monstre.
 
 Message:
-Le chaman est plongÃ© dans ses pensÃ©es. Il vaut mieux ne pas le dÃ©ranger inutilement tant que Nepenthes est encore en vie (dans la mesure oÃ¹ ce terme s'applique aux morts-vivants).
+Le chaman est plongé dans ses pensées. Il vaut mieux ne pas le déranger inutilement tant que Nepenthes est encore en vie (dans la mesure où ce terme s'applique aux morts-vivants).
 
 Message:
-Le chaman est trÃ¨s reconnaissant et vous informe que certains membres de sa tribu sont prÃªts Ã  rejoindre vos rangs, mais vous avertit qu'il ne peut vous envoyer que les guerriers de sa tribu ou ses apprentis, mais pas les deux.		PrÃ©fÃ©rez-vous amener avec vous des Elfes d'acier ou des Chamans VÃ©nÃ©rables ?
+Le chaman est très reconnaissant et vous informe que certains membres de sa tribu sont prêts à rejoindre vos rangs, mais vous avertit qu'il ne peut vous envoyer que les guerriers de sa tribu ou ses apprentis, mais pas les deux.		Préférez-vous amener avec vous des Elfes d'acier ou des Chamans Vénérables ?
 
 ***Event Texts***
 Quest object log entry:
-Attendez le dÃ©but de la semaine prochaine pour obtenir l'artÃ©fact.
+Attendez le début de la semaine prochaine pour obtenir l'artéfact.
 
 Message:
-Soit. Revenez la semaine prochaine et votre arc sera prÃªt !
+Soit. Revenez la semaine prochaine et votre arc sera prêt !
 
 Message:
 Voici votre Arc de Midas, comme convenu.
 
 Message:
-Votre commande n'a pas encore Ã©tÃ© traitÃ©e. Veuillez revenir la semaine prochaine.
+Votre commande n'a pas encore été traitée. Veuillez revenir la semaine prochaine.
 
 
 ***Event Texts***
 Message:
-Un Elfe marin, un vieux loup de mer, vous propose de vous entraÃ®ner Ã  l'Archerie. Oserez-vous le dÃ©fierÂ ? La mise est de 50 PiÃ¨ces d'Or.
+Un Elfe marin, un vieux loup de mer, vous propose de vous entraîner à l'Archerie. Oserez-vous le défier ? La mise est de 50 Pièces d'Or.
 Quest object log entry:
-Apportez 50 PiÃ¨ces d'Or
+Apportez 50 Pièces d'Or
 
 Message:
 "Je ne rivalise pas avec les mendiants ! " ricane l'Elfe en attrapant sa bouteille.
 
 Quest object log entry:
-Avoir MaÃ®tre en Archerie
+Avoir Maître en Archerie
 
 Message:
-Vous atteignez la cible plusieurs fois de suite, tandis que le marin en rate quelques-unes. Il vous remet l'or.	"Eh bien ! " dÃ©clare-t-il, "Cela fait bien longtemps que je n'ai pas rencontrÃ© un aussi bon tireur. Prenez ce collier. Je suis trop vieux pour naviguer, mais vous le trouverez utile."
+Vous atteignez la cible plusieurs fois de suite, tandis que le marin en rate quelques-unes. Il vous remet l'or.	"Eh bien ! " déclare-t-il, "Cela fait bien longtemps que je n'ai pas rencontré un aussi bon tireur. Prenez ce collier. Je suis trop vieux pour naviguer, mais vous le trouverez utile."
 
 Message:
-Vous ratez votre cible plusieurs fois de suite, tandis que le marin atteint les trois.	"Vous n'Ãªtes tout simplement pas un bon tireur, mon ami ! " ricane l'Elfe en prenant son or. "Revenez quand vous serez un meilleur tireur."
+Vous ratez votre cible plusieurs fois de suite, tandis que le marin atteint les trois.	"Vous n'êtes tout simplement pas un bon tireur, mon ami ! " ricane l'Elfe en prenant son or. "Revenez quand vous serez un meilleur tireur."
 
 
 ===== End of file =====
