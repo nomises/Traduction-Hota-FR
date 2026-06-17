@@ -16,7 +16,7 @@ Message:
 Name:
 Intro
 Message:
-Le Nord est rude et inhospitalier. Quiconque a osé poser le pied sur nos terres le sait.		Pendant des années, rares étaient ceux qui osaient fouler notre sol gelé. De temps à autre, les souverains des contrées voisines, exaspérés par les attaques de Yétis et de Jotunns sur leurs pâturages, lançaient des expéditions punitives, mais celles-ci étaient éphémères ; ils savaient qu’ils ne pourraient consolider leur emprise, et encore moins conquérir toutes les terres désolées du Nord.		Mais récemment, un messager d’un village du Sud, de l’autre côté du Rannock, apporta des nouvelles alarmantes : une immense armée de morts-vivants avait attaqué l’un des royaumes du Nord et l’avait rapidement conquis.		Avant même que nous ayons pu réagir, un village du Sud était tombé aux mains des morts-vivants, peu de temps après, ils traversèrent le fleuve et s’emparèrent d’un autre village à l’est.		Cela doit cesser. Si les morts-vivants parviennent à s’implanter sur cette rive, les déloger pourrait s’avérer impossible. Nous devons reprendre notre village et riposter.
+Le Nord est rude et inhospitalier. Quiconque a osé poser le pied sur nos terres le sait.		Pendant des années, rares étaient ceux qui osaient fouler notre sol gelé. De temps à autre, les souverains des contrées voisines, exaspérés par les attaques de Yétis et de Jotunns sur leurs pâturages, lançaient des expéditions punitives, mais celles-ci étaient éphémères ; ils savaient qu’ils ne pourraient consolider leur emprise, et encore moins conquérir toutes les terres désolées du Nord.		Mais récemment, un messager d’un village du Sud, de l’autre côté du Rannock, apporta des nouvelles alarmantes : une immense armée de morts-vivants avait attaqué l’un des royaumes du Nord et l’avait rapidement conquis.		Avant même que nous ayons pu réagir, un village du Sud était tombé aux mains des morts-vivants, peu de temps après, ils traversèrent le fleuve et s’emparèrent d’un autre village à l’Est.		Cela doit cesser. Si les morts-vivants parviennent à s’implanter sur cette rive, les déloger pourrait s’avérer impossible. Nous devons reprendre notre village et riposter.
 
 Name:
 Week Start
@@ -26,12 +26,12 @@ Message:
 Name:
 Elves
 Message:
-Un Jotunn revenu du sud raconte avoir vu des bateaux en flammes, remplis de morts-vivants, incendiés par les flèches des elfes. Intéressant. Il semblerait que nous ne soyons pas les seuls à combattre ces créatures.
+Un Jotunn revenu du Sud raconte avoir vu des bateaux en flammes, remplis de morts-vivants, incendiés par les flèches des Elfes. Intéressant. Il semblerait que nous ne soyons pas les seuls à combattre ces créatures.
 
 Name:
 Messenger
 Message:
-Un messager représentant les elfes des terres du Sud est arrivé dans notre village. Il a signalé un important camp d'archers elfes situé au sud, qui repousse avec succès les attaques des morts-vivants depuis quelque temps.
+Un messager représentant les Elfes des terres du Sud est arrivé dans notre village. Il a signalé un important camp d'archers Elfes situé au Sud, qui repousse avec succès les attaques des morts-vivants depuis quelque temps.
 
 ===== Heroes =====
 
@@ -70,9 +70,9 @@ Message:
 
 (0, 62, 0) ***Seer's Hut***
 Message:
-Vous avez rencontré un artisan elfe qui fabrique des artéfacts sur mesure. Il est prêt à forger un Arc d'Or pour 20 000 Pièces d'Or, mais cela prendra du temps.
+Vous avez rencontré un artisan Elfe qui fabrique des artéfacts sur mesure. Il est prêt à forger un Arc de Midas, pour 20 000 Pièces d'Or, mais cela prendra du temps.
 Ce n'est pas suffisant ! Il me faut 20 000 Pièces d'Or, pas moins !
-Parfait. Êtes-vous prêt à commencer la fabrication de l'artéfact?
+Parfait. Êtes-vous prêt à commencer la fabrication de l'artéfact ?
 
 (27, 47, 0) ***Seer's Hut***
 Message:
@@ -99,7 +99,7 @@ Message:
 
 ***Event Texts***
 Quest object log entry:
-Jotunn Upgrade
+Amélioration des Jotunns
 
 Message:
 Vos Jotunns sont désormais devenus des Seigneurs Jotunn.
@@ -120,10 +120,10 @@ Apportez 20 000 Pièces d'Or et un Talisman de Mana.
 
 ***Event Texts***
 Quest object log entry:
-Defeat Nepenthes
+Vaincre Nepenthes
 
 Message:
-Un vieux chaman vous confie que son village du nord-ouest est envahi par des hordes de morts-vivants maléfiques menées par un certain Nepenthes. Il vous assure que sa tribu est prête à vous aider si vous débarrassez le monde de ce monstre.
+Un vieux chaman vous confie que son village du Nord-Ouest est envahi par des hordes de morts-vivants maléfiques menées par un certain Nepenthes. Il vous assure que sa tribu est prête à vous aider si vous débarrassez le monde de ce monstre.
 
 Message:
 Le chaman est plongé dans ses pensées. Il vaut mieux ne pas le déranger inutilement tant que Nepenthes est encore en vie (dans la mesure où ce terme s'applique aux morts-vivants).
@@ -147,22 +147,21 @@ Votre commande n'a pas encore été traitée. Veuillez revenir la semaine procha
 
 ***Event Texts***
 Message:
-Un elfe marin, un vieux loup de mer, vous propose de vous entraîner à l'Archerie. Oserez-vous le défier ? La mise est de 50 Pièces d'Or.
+Un Elfe marin, un vieux loup de mer, vous propose de vous entraîner à l'Archerie. Oserez-vous le défier ? La mise est de 50 Pièces d'Or.
 Quest object log entry:
 Apportez 50 Pièces d'Or
 
 Message:
-"Je ne rivalise pas avec les mendiants ! " ricane l'elfe en attrapant sa bouteille.
+"Je ne rivalise pas avec les mendiants ! " ricane l'Elfe en attrapant sa bouteille.
 
 Quest object log entry:
-Have Expert Archery
+Avoir Maître en Archerie
 
 Message:
 Vous atteignez la cible plusieurs fois de suite, tandis que le marin en rate quelques-unes. Il vous remet l'or.	"Eh bien ! " déclare-t-il, "Cela fait bien longtemps que je n'ai pas rencontré un aussi bon tireur. Prenez ce collier. Je suis trop vieux pour naviguer, mais vous le trouverez utile."
 
 Message:
-Vous ratez votre cible plusieurs fois de suite, tandis que le marin atteint les trois.
-	"Vous n'êtes tout simplement pas un bon tireur, mon ami ! " ricane l'elfe en prenant son or. "Revenez quand vous serez un meilleur tireur."
+Vous ratez votre cible plusieurs fois de suite, tandis que le marin atteint les trois.	"Vous n'êtes tout simplement pas un bon tireur, mon ami ! " ricane l'Elfe en prenant son or. "Revenez quand vous serez un meilleur tireur."
 
 
 ===== End of file =====
