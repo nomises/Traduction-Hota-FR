@@ -1,42 +1,42 @@
 ===== Map name =====
-Ice Assault
+Assaut de glace
 
 ===== Map description =====
-For centuries, the inhabitants of the icy land have stayed within their lands, fighting off raids from their neighbors drawn by the crystals and other riches. In recent months, however, the weather has grown colder, and now our enemies' realms are suffering from frost. It's time to strike back.
+Depuis des siecles, les habitants de ces terres glacees vivent retranches sur leurs terres, repoussant les raids de leurs voisins attires par les cristaux et autres richesses. Mais ces derniers mois, le froid s'est abattu sur les royaumes ennemis, desormais ravages par le gel. L'heure de la riposte a sonne.
 
 ===== Rumors =====
 
 ===== Timed events =====
 
 Name:
-Ôèîëåòîâûé è Ğîçîâûé ÈÈ - êîíòğîëü ğåñóğñîâ
+IA violette et rose - Controle des ressources
 Message:
 
 
 Name:
-Îğàíæåâûé è ñèíèé ÈÈ - êîíòğîëü ğåñóğñîâ
+IA orange et bleue - Controle des ressources
 Message:
 
 
 Name:
 Day 1
 Message:
-In recent years, it's been getting colder and colder, and grazing grounds are becoming increasingly scarce. The elders are gathering to discuss an attack on our enemies' lands.	However, rumors have reached us: portals have opened near our villages. Apparently, our enemies have learned of our plans and are preparing to attack us. We must prepare for any eventuality.
+Ces dernieres annees, le froid s'est intensifie et les paturages se font de plus en plus rares. Les anciens se reunissent pour discuter d'une attaque contre les terres de nos ennemis.	Cependant, des rumeurs nous sont parvenues : des portails se seraient ouverts pres de nos villages. Apparemment, nos ennemis ont eu vent de nos plans et se preparent a nous attaquer. Nous devons nous tenir prets a toute eventualite.
 
 Name:
 Day 5
 Message:
-It is said that the lizardmen and gnolls of the eastern islands have entered into the service of demons. It is difficult to say what prompted these creatures to take such a step, but it is known that a volcano has awakened on the northeastern islands. Hordes of Gogs surrounded by Cerberi and other creatures have been seen near it.
+On raconte que les Hommes Lezards et les Gnolls des iles orientales sont entres au service des demons. Difficile de dire ce qui les a pousses a un tel acte, mais on sait qu'un volcan s'est reveille sur les iles du Nord-Est. Des hordes de Gogs, entourees de Chiens de l'Enfer et d'autres creatures, ont ete apercues a proximite.
 
 Name:
 Day 14
 Message:
-A kobold, sent to explore one of the distant portals, brought odd news. The elven sorceress who rules the northern islands has opened portals to a distant, uncharted land she calls the "world of chaos." We don't know what might await us on the other side of these portals, but it seems the elves themselves are showing great interest in them.
+Un Kobold, envoye explorer l'un des portails lointains, a rapporte d'etranges nouvelles. La sorciere elfe qui regne sur les iles du Nord a ouvert des portails vers une contree lointaine et inexploree qu'elle nomme le "monde du chaos". Nous ignorons ce qui nous attend de l'autre cote de ces portails, mais il semblerait que les elfes eux-memes s'y interessent de pres.
 
 Name:
 Day 23
 Message:
-The yeti report disturbing news. They managed to penetrate the "world of chaos" following the elf who opened a portal there. It turns out the portal leads to lands ruled by the forces of cold and death. They are gathering troops to invade our lands, and they are led by a dark sorceress who has subjugated the will of the elves. Her forces are vast, and their ranks include not only the undead, but even titans and powerful blue dragons. And it seems she is behind the quarrels among all the neighbors.
+Les Yetis rapportent des nouvelles inquietantes. Ils ont reussi a penetrer dans le "monde du chaos" en suivant l'elfe qui y a ouvert un portail. Il s'avere que ce portail mene a des terres gouvernees par les forces du froid et de la mort. Ces forces rassemblent des troupes pour envahir nos terres, et elles sont menees par une sorciere malefique qui a asservi la volonte des elfes. Ses armees sont immenses et comptent non seulement des morts-vivants, mais aussi des Titans et de puissants dragons bleus. Et il semblerait qu'elle soit a l'origine des querelles entre tous nos voisins.
 
 ===== Heroes =====
 
@@ -51,7 +51,7 @@ Viveca
 Timed events:
 
 Name:
-ÈÈ - áîíóñ
+IA - bonus
 Message:
 
 
@@ -69,9 +69,9 @@ Rhiannon
 
 (99, 3, 0) ***Quest Guard***
 Message:
-The passage is closed by a magical barrier, maintained by an elven sorceress, protecting her current mistress.
-First defeat the elven sorceress, then you can pass.
-Viveca is defeated, and the barrier is now easily removed. Do you wish to proceed?
+Le passage est bloque par une barriere magique, entretenue par une sorciere elfe qui protege sa presemte maitresse.
+Vainquer la sorciere elfe, ensuite vous pourrez passer.
+Viveca est vaincue et la barriere est desormais levee sans difficulte. Voulez-vous continuer ?
 
 (103, 93, 0) ***Fortress***
 
@@ -82,7 +82,7 @@ Thias
 Timed events:
 
 Name:
-Îğàíæåâûé ÈÈ - ìèíóñ êğèñòàëëû
+Orange IA - moins de cristaux
 Message:
 
 
@@ -95,13 +95,13 @@ Harro
 Timed events:
 
 Name:
-Îğàíæåâûé ÈÈ - ìèíóñ ñàìîöâåòû
+IA orange - moins de gemmes
 Message:
 
 
 (64, 2, 0) ***Event***
 Message:
-ÈÈ - åæåíåäåëüíûé áîíóñ
+IA - Bonus hebdomadaire
 
 (1, 85, 0) ***Pandora's Box***
 Message:
@@ -109,21 +109,21 @@ Message:
 
 (68, 7, 0) ***Quest Guard***
 Message:
-The passage is blocked by a magical barrier brimming with necrotic energy. This is clearly Ossian's doing.
-As long as Ossian is alive, it is useless to try to pass.
-Ossian is dead, and the barrier can now be easily removed. Do you wish to proceed further?
+Le passage est bloque par une barriere magique impregnee d'energie necrotique. C'est sans aucun doute l'euvre d'Ossian.
+Tant qu'Ossian est en vie, il est inutile de tenter de passer.
+Ossian est mort, et la barriere peut desormais etre facilement levee. Souhaitez-vous poursuivre ?
 
 (2, 92, 0) ***Quest Guard***
 Message:
-Priests who know the secret of resurrecting the dead live here. They are willing to share it with you, but in exchange, they require you to bring them the Cornucopia, so that they may have everything they need for the rest of their days. They are also willing to give you one of three keys needed to enter the magical library in the northern caves. The components of the Cornucopia can be found in the treasuries of the blue dragons: two on the islands to the north, one in the sea to the south, and one somewhere in the caves.
-No Cornucopia, no deal.
-Do you want to learn a powerful resurrection spell?
+Des pretres qui connaissent le secret de l'Animation des Morts vivent ici. Ils sont prets a le partager avec vous, mais en echange, ils exigent que vous leur apportiez la Corne d'Abondance, afin qu'ils ne manquent de rien pour le reste de leurs jours. Ils vous confieront egalement l'une des trois clefs necessaires pour acceder a la bibliotheque magique des grottes du Nord. Les composants de la Corne d'Abondance se trouvent dans les tresors des dragons bleus : deux sur les iles du Nord, un dans la mer au Sud et le dernier quelque part dans les grottes.
+Sans la Corne d'Abondance, pas de marche.
+Souhaitez-vous apprendre un puissant sort de resurrection ?
 
 (35, 67, 0) ***Quest Gate***
 Message:
-The gates here open with a password known only to representatives of the land of ice. Here, the local elders explain how to open the magical barriers with which they have sealed all key points in this area to protect their people from enemy attacks.
-The gates here open with a password known only to representatives of the land of ice. Here, the local elders explain how to open the magical barriers with which they have sealed all key points in this area to protect their people from enemy attacks.
-Would you like to pass?
+Ici, les portes s'ouvrent grace a un mot de passe connu des seuls representants du pays de glace. Les anciens local, expliquent comment ouvrir les barrieres magiques qui scellent les points strategiques de la region afin de proteger leur peuple des attaques ennemies.
+Ici, les portes s'ouvrent grace a un mot de passe connu des seuls representants du pays de glace. Les anciens local, expliquent comment ouvrir les barrieres magiques qui scellent les points strategiques de la region afin de proteger leur peuple des attaques ennemies.
+Souhaitez-vous passer ?
 
 (37, 2, 0) ***Prison***
 Name:
@@ -138,34 +138,34 @@ Austain
 Timed events:
 
 Name:
-Ñèíèé ÈÈ - ìèíóñ êğèñòàëëû
+IA bleue - sans cristaux
 Message:
 
 
 (57, 77, 0) ***Sign***
 Message:
-Beware if you're not a local.
+Attention si vous n'etes pas du coin.
 
 (36, 73, 0) ***Seer's Hut***
 Message:
-Our elders are willing to pay for the heads of the commanders leading the enemy armies that invade our lands. Bring evidence of the death of Darla, and you will receive the money.
-The enemy commander is still alive. Kill him and return for your reward.
-Do you want to get gold?
-Our elders are willing to pay for the heads of the commanders leading the enemy armies that invade our lands. Bring evidence of the death of Moira, and you will receive the money.
-The enemy commander is still alive. Kill him and return for your reward.
-Do you want to get gold?
-Our elders are willing to pay for the heads of the commanders leading the enemy armies that invade our lands. Bring evidence of the death of Pallant, and you will receive the money.
-The enemy commander is still alive. Kill him and return for your reward.
-Do you want to get gold?
-Our elders are willing to pay for the heads of the commanders leading the enemy armies that invade our lands. Bring evidence of the death of Dux, and you will receive the money.
-The enemy commander is still alive. Kill him and return for your reward.
-Do you want to get gold? 
-Our elders are willing to pay for the heads of the commanders leading the enemy armies that invade our lands. Bring evidence of the death of Heimarmene, and you will receive the money.
-The enemy commander is still alive. Kill him and return for your reward.
-Do you want to get gold?
-Our elders are willing to pay for the heads of the commanders leading the enemy armies that invade our lands. Bring evidence of the death of Atreia, and you will receive the money.
-The enemy commander is still alive. Kill him and return for your reward.
-Do you want to get gold?
+Nos anciens sont prets a payer pour la tete des commandants des armees ennemies qui envahissent nos terres. Apportez la preuve de la mort de Darla et vous recevrez l'argent.
+Le commandant ennemi est toujours en vie. Tuez-le et revenez chercher votre recompense.
+Voulez-vous de l'or ?
+Nos anciens sont prets a payer pour la tete des commandants des armees ennemies qui envahissent nos terres. Apportez la preuve de la mort de Moira et vous recevrez l'argent.
+Le commandant ennemi est toujours en vie. Tuez-le et revenez chercher votre recompense.
+Voulez-vous de l'or ?
+Nos anciens sont prets a payer pour la tete des commandants des armees ennemies qui envahissent nos terres. Apportez la preuve de la mort de Pallant et vous recevrez l'argent.
+Le commandant ennemi est toujours en vie. Tuez-le et revenez chercher votre recompense.
+Voulez-vous de l'or ?
+Nos anciens sont prets a payer pour la tete des commandants des armees ennemies qui envahissent nos terres. Apportez la preuve de la mort de Dux et vous recevrez l'argent.
+Le commandant ennemi est toujours en vie. Tuez-le et revenez chercher votre recompense.
+Voulez-vous de l'or ?
+Nos anciens sont prets a payer pour la tete des commandants des armees ennemies qui envahissent nos terres. Apportez la preuve de la mort d'Heimarmene et vous recevrez l'argent.
+Le commandant ennemi est toujours en vie. Tuez-le et revenez chercher votre recompense.
+Voulez-vous de l'or ?
+Nos anciens sont prets a payer pour la tete des commandants des armees ennemies qui envahissent nos terres. Apportez la preuve de la mort d'Atreia et vous recevrez l'argent.
+Le commandant ennemi est toujours en vie. Tuez-le et revenez chercher votre recompense.
+Voulez-vous de l'or ?
 
 (58, 17, 0) ***Pandora's Box***
 Message:
@@ -173,27 +173,27 @@ Message:
 
 (11, 94, 0) ***Quest Guard***
 Message:
-This road leads to a portal that the local knights call "the gates of heaven" and guard like nothing else. As long as the head of their order, Rhiannon, lives, it will be impossible to pass through.
-Rhiannon is alive, and the guards at the gates will not let you pass, and you will not be able to take it by storm.
-The guards have scattered, and the gates are now open. Do you want to go through?
+Ce chemin mene a un portail que les chevaliers locaux appellent "les portes du ciel" et qu'ils protegent avec une extreme vigilance. Tant que Rhiannon, la chef de leur ordre, sera en vie, il sera impossible de le franchir.
+Rhiannon est vivante, et les gardes aux portes ne vous laisseront pas passer. Vous ne pourrez pas prendre d'assaut ce portail.
+Les gardes se sont disperses, et les portes sont maintenant ouvertes. Voulez-vous les franchir ?
 
 (5, 36, 0) ***Quest Guard***
 Message:
-The local cyclopes want more money and crystals for their services, which for some reason they value highly. 20 crystals and 10,000 gold are enough to hire them.
-You don't have the required amount, and the cyclopes won't agree to less.
-The cyclopes are ready to follow you. Do you want to hire them?
+Les Cyclopes locaux reclament plus d'argent et de Cristals pour leurs services, auxquels ils accordent une grande valeur, pour une raison qui nous echappe. Vingt Cristals et 10 000 Pieces d'Or suffisent pour les engager.
+Vous ne possedez pas la somme requise, et les Cyclopes n'accepteront rien de moins.
+Les Cyclopes sont prets a vous suivre. Souhaitez-vous les engager ?
 
 (13, 32, 0) ***Seer's Hut***
 Message:
-An old barbarian lives in this house. He's willing to gift his favorite club to anyone who can demonstrate sufficient attack skill.
-Your skills are not yet sufficient, come back later.
-The barbarian is ready to gift you his club. Would you like to take it?
+Un vieux barbare habite cette maison. Il est pret a offrir son gourdin preferee a quiconque fera preuve d'une habilete suffisante au combat.
+Vos competences ne sont pas encore suffisantes, revenez plus tard.
+Le barbare est pret a vous offrir son gourdin. Voulez-vous le prendre ?
 
 (104, 97, 0) ***Quest Guard***
 Message:
-Here, Thias breeds gorgons. To take possession of the farm, its current owner must be eliminated. They say he keeps some kind of magical trinket there.
-As long as Thias is alive, the farm belongs to him.	
-The farm guards have scattered. Do you want to go through?
+Ici, Thias eleve des gorgones. Pour prendre possession de la ferme, son proprietaire actuel doit etre elimine. Il est dit qu'il y cache un objet magique.
+Tant que Thias est en vie, la ferme lui appartient.
+Les gardes de la ferme se sont disperses. Voulez-vous continuer ?
 
 (72, 99, 0) ***Pandora's Box***
 Message:
@@ -201,27 +201,27 @@ Message:
 
 (101, 80, 0) ***Sign***
 Message:
-Southwest: Lizardmen and Gnolls	Southwest: Lizardmen and Gnolls
+Sud-Ouest : Hommes Lezards et Gnolls	Sud-Ouest : Hommes Lezards et Gnolls
 
 (28, 79, 0) ***Event***
 Message:
-- ìóâû äëÿ ÈÈ
+IA - mouvements
 
 (43, 48, 0) ***Quest Guard***
 Message:
-Wild mammoths roam here. You can tame them and build stalls for them, but this will cost 15,000 gold and 40 units of ore.
-These funds are not enough to build mammoth stalls.
-Do you want to build mammoth stalls?
+Des Mammouths sauvages errent proche. Vous pouvez les apprivoiser et leur construire des enclos, mais cela vous coutera 15 000 Pieces d'Or et 40 Pierres.
+Ces fonds sont insuffisants pour construire une Etable a Mammouths.
+Souhaitez-vous construire des Etable a Mammouths ?
 
 (35, 42, 0) ***Quest Guard***
 Message:
-The elven houses have been damaged by fire and the elves are asking you to rebuild their homes. Then they will serve you. You need 40 measures of wood and 25,000 gold.
-More resources are needed to rebuild elven houses.	
-Do you want to rebuild elf houses?
+Les maisons elfiques ont ete endommagees par le feu et les elfes vous demandent de les reconstruire. En echange, ils vous serviront. Il vous faut 40 Bois et 25 000 Pieces d'Or.
+Il faut davantage de ressources pour reconstruire les maisons elfiques.	
+Souhaitez-vous reconstruire les maisons elfiques ?
 
 (63, 64, 0) ***Event***
 Message:
-- ìóâû äëÿ ÈÈ
+IA- mouvements
 
 (19, 107, 0) ***Pandora's Box***
 Message:
@@ -229,27 +229,27 @@ Message:
 
 (75, 106, 0) ***Seer's Hut***
 Message:
-You enter the home of a hermit mage who has lived in these parts for a long time. He says he wants to found an order of magical mastery, and to do so, he needs fifty worthy apprentices. In exchange, he's willing to give you a powerful magical book. They say the best mages live in the north, in the lands of the elves who study elemental magic.
-You haven't yet gathered the required number of apprentices, and without them it's better not to bother the mage.
-Now the mage can found his own order, and he offers you a magic book. Will you take it?
+Vous entrez dans la demeure d'un mage ermite qui vit dans ces contrees depuis longtemps. Il vous confie vouloir fonder un ordre de maitrise magique et avoir besoin, pour cela, de cinquante apprentis dignes de ce nom. En echange, il est pret a vous offrir un puissant grimoire. On dit que les meilleurs Mages vivent au Nord, sur les terres des elfes qui etudient la magie elementaire.
+Vous n'avez pas encore reuni le nombre d'apprentis requis, et sans eux, il vaut mieux ne pas importuner le mage.
+Maintenant, le mage peut fonder son ordre et vous propose un grimoire. L'accepterez-vous ?
 
 (56, 70, 0) ***Event***
 Message:
-- ìóâû äëÿ ÈÈ
+IA - mouvements
 
 (72, 103, 0) ***Quest Guard***
 Message:
-This passage leads to the Silver Caves. The key to it has recently been kept by Nell, and now the neighbor clearly won't give it up to you.
-This passage leads to the Silver Caves. The key to it has recently been kept by Nell, and now the neighbor clearly won't give it up to you.
-You insert the key you took from Nell into the lock and the gate opens. Would you like to pass?
+Ce passage mene aux Grottes d'Argent. La clef etait recemment entre les mains de Nell, et le voisin refuse categoriquement de vous la rendre.
+Ce passage mene aux Grottes d'Argent. La clef etait recemment entre les mains de Nell, et le voisin refuse categoriquement de vous la rendre.
+Vous inserez la clef prise a Nell dans la serrure et la porte s'ouvre. Voulez-vous passer ?
 
 (60, 79, 0) ***Event***
 Message:
-- ìóâû äëÿ ÈÈ
+IA - mouvements
 
 (57, 81, 0) ***Event***
 Message:
-- ìóâû äëÿ ÈÈ
+IA - mouvements
 
 (19, 59, 0) ***Pandora's Box***
 Message:
@@ -257,15 +257,15 @@ Message:
 
 (24, 52, 0) ***Quest Guard***
 Message:
-Elves languish here, trapped by demons for refusing to fight by their side. They will gladly follow you if you find the key to their prison, in the form of a strange skull amulet. It is said the demons buried it somewhere in the east of these lands.
-Without the key the elves cannot be freed.
-You insert the amulet into a special slot, and the door opens. The elves are ready to join you. Would you like to accept them into your army?
+Ici, des elfes croupissent prisonniers des demons pour avoir refuse de combattre a leurs cotes. Ils vous suivront avec joie si vous trouvez la clef de leur prison, une etrange amulette en forme de crane. On raconte que les demons l'ont enterree quelque part a l'Est de ces terres.
+Sans cette clef, les elfes ne peuvent etre liberes.
+Vous inserez l'amulette dans un emplacement prevu a cet effet, et la porte s'ouvre. Les elfes sont prets a vous rejoindre. Souhaiterez-vous les accueillir dans votre armee ?
 
 (40, 46, 0) ***Quest Guard***
 Message:
-Äàëüøå íå ïğîéòè — âïåğåäè çàâàë ãîğíîé ïîğîäû. Èç õîğîøåãî â í¸ì, êàæåòñÿ, âèäíû îñòàòêè çîëîòîé æèëû. Íóæíî 150 óìåëûõ ãîğíÿêîâ, ÷òîáû âñ¸ ıòî ğàçîáğàòü.
-Ïîêà íå ñîáåğ¸òå äîñòàòî÷íóş àğòåëü, ïğîéòè çäåñü íå ïîëó÷èòñÿ.
-Êîáîëüäû ëåãêî ğàçáåğóò çàâàë, íî âçàìåí îíè òğåáóşò îñâîáîäèòü èõ îò äàëüíåéøåé ñëóæáû â âàøåé àğìèè. Ãîòîâû ëè âû ê òàêîé ñäåëêå?
+Impossible d'avancer : un eboulement se dresse devant nous. Seuls les vestiges d'un filon d'or semblent y avoir trouve un peu d'interet. Il faudra 150 mineurs experimentes pour tout degager.
+Tant que vous n'aurez pas reuni une equipe suffisante, vous ne pourrez pas progresser.
+Les Kobolds deblayeront l'eboulement sans difficulte, mais en echange, ils exigent d'etre liberes de votre armee. Etes-vous pret a accepter un tel marche ?
 
 (50, 3, 0) ***Pandora's Box***
 Message:
@@ -273,9 +273,9 @@ Message:
 
 (100, 88, 0) ***Seer's Hut***
 Message:
-The witch tells you that after everything she's been through lately, she no longer cares about power. However, she wants to save enough money to retire and live a comfortable life. She believes 20,000 gold, 30 measures of sulfur, and the same amount of mercury will be enough. In exchange, she will give you her last herd of gorgons.
-The witch does not agree to a smaller amount, and you do not have the necessary funds at the moment.
-Would you like to give the witch gold and resources in exchange for the gorgons?
+La Sorciere vous confie qu'apres tout ce qu'elle a vecu recemment, le pouvoir ne l'interesse plus. Elle souhaite cependant economiser suffisamment d'argent pour prendre sa retraite et vivre confortablement. Elle estime que 20 000 Pieces d'Or, 30 Soufres et autant de mercure suffiront. En echange, elle vous offrira son dernier troupeau de Gorgones.
+La Sorciere refuse toute somme inferieure, et vous ne disposez pas des fonds necessaires pour le moment.
+Accepteriez-vous de lui donner de l'or ainsi que des ressources en echange de ses Gorgones ?
 
 (3, 63, 0) ***Witch***
 Name:
@@ -283,27 +283,27 @@ Sveva
 
 (49, 39, 0) ***Quest Guard***
 Message:
-The local sharpshooters are eager to embark on adventures with a worthy hero. But they'll only consider someone as worthy as they are at shooting.
-You're losing the competition with sharpshooters. Apparently, someone more skilled is needed.
-Neia easily beats the sharpshooters. They are amazed by her skill and ready to join her. Do you want to welcome sharpshooters to your army?
+Les Archers d'Elite locaux sont impatients de partir a l'aventure avec un heros digne de ce nom. Mais ils ne considereront que quelqu'un d'aussi competent qu'eux au tir.
+Vous etes en train de perdre la competition face aux Archers d'Elite. Apparemment, il vous faut quelqu'un de plus talentueux.
+Neia gagne facilement. Ils sont impressionnes par son adresse et prets a la rejoindre. Souhaitez-vous accueillir des Archers d'Elite dans votre armee ?
 
 (48, 50, 0) ***Seer's Hut***
 Message:
-This mage has learned to draw power from ice creatures. He agrees to perform a ritual and share some of the resulting power with you if you bring enough of such creatures.
-Until you have brought enough creatures, the ritual cannot be performed.
-Are you ready to perform the ritual?
+Ce mage a appris a puiser son pouvoir dans les creatures de glace. Il accepte d'accomplir un rituel et de partager une partie du pouvoir qui en resulte si vous lui apportez suffisamment de ces creatures.
+Le rituel ne pourra etre accompli que si vous avez amene suffisamment de creatures.
+Etes-vous pret a accomplir le rituel ?
 
 (75, 47, 0) ***Quest Guard***
 Message:
-The local sorcerer is willing to teach you how to blind your opponents in battle. In exchange, he wants the Pendant of Reflection worn by Porphyrios.
-The sorcerer only needs the Pendant, he will not agree to anything else.
-Do you wish to give the Pendant of Reflection to the sorcerer?
+Le sorcier du village est pret a vous apprendre a aveugler vos adversaires au combat. En echange, il exige le Pendentif de Reflexion porte par Porphyrios.
+Le sorcier ne veut que le Pendentif ; il n’acceptera rien d’autre.
+Souhaitez-vous lui remettre le Pendentif de Reflexion ?
 
 (79, 34, 0) ***Seer's Hut***
 Message:
-A powerful retired water mage lives here. He wants you to bring him several valuable composite artifacts for study—the components of these relics are scattered throughout these lands, and traveling on his own is becoming too difficult for him. In exchange, he promises to give you his magical helm — the mage can hardly use it for anything except brewing tea now, anyway.
-No artifacts — no helm.
-Do you wish to get the magical helm?
+Un puissant mage de l'eau a la retraite vit ici. Il souhaite que vous lui rapportiez plusieurs precieux artéfacts composites pour les etudier ; les composants de ces reliques sont disperses a travers ces terres, et voyager seul lui devient trop difficile. En echange, il vous promet de vous donner son heaume magique – de toute facon, le mage ne peut plus guere s'en servir, si ce n'est pour preparer du the.
+Pas d'artéfacts ? Pas de heaume.
+Souhaitez-vous obtenir le heaume magique ?
 
 (104, 107, 0) ***Pandora's Box***
 Message:
@@ -311,17 +311,17 @@ Message:
 
 (69, 84, 0) ***Quest Guard***
 Message:
-These Shamans are terrified by what's been happening in the world lately. They trust only their own kind and won't join anyone else. They say they possess some kind of a magical artifact.
-Until one of them is with you, the Shamans don't even want to listen to you.
-Would you like these Shamans to join you?
+Ces Chamans sont terrifies par les evenements recents. Ils ne font confiance qu'a leurs semblables et refusent de se joindre a d'autres. Ils pretendent posseder une sorte d'artefact magique.
+Tant que l'un d'eux ne sera pas a vos cotes, les Chamans ne voudront meme pas vous ecouter.
+Souhaiteriez-vous que ces Chamans se joignent a vous ?
 
 (42, 66, 0) ***Event***
 Message:
-- ìóâû äëÿ ÈÈ
+IA - mouvements
 
 (44, 75, 0) ***Event***
 Message:
-- ìóâû äëÿ ÈÈ
+IA - mouvements
 
 (55, 46, 0) ***Pandora's Box***
 Message:
@@ -337,15 +337,15 @@ Message:
 
 (92, 107, 0) ***Quest Guard***
 Message:
-One of the captured lizardmen said he saw the demon lord Harro give the key to this portal to the lizardman chieftain Thias. He most likely still has it.
-Without defeating Thias, the key to the mysterious portal cannot be obtained.
-You insert the intricate key into a keyhole on one of the columns, and the portal glows with a soft light. Do you wish to enter?
+Un des Hommes Lezards captures a declare avoir vu le seigneur demon Harro remettre la clef de ce portail au chef des Hommes Lezards, Thias. Il la possede probablement encore.
+Sans vaincre Thias, il est impossible d'obtenir la clef de ce mysterieux portail.
+Vous Inserez la clef complexe dans une serrure sur l'une des colonnes, et le portail s'illumine d'une douce lumiere. Souhaitez-vous y entrer ?
 
 (39, 50, 0) ***Seer's Hut***
 Message:
-An archery competition is being held here. But representatives of the northern elves, underground dwellers, and lizardmen from the eastern lands have not shown up. Find those who agree to participate, and the organizers are willing to give you magic arrows as a reward.
-More participants are needed for the competition to start.
-The competition organizers are pleased and ready to hand you the arrows. Would you like to take them?
+Un concours de tir a l'arc se deroule ici. Malheureusement, les representants des elfes du Nord, des habitants des profondeurs et des Hommes Lezards des terres de l'Est sont absents. Trouvez ceux qui acceptent de participer, et les organisateurs vous offriront des fleches magiques en recompense.
+Il manque encore des participants pour que le concours puisse commencer.
+Les organisateurs sont ravis et prets a vous remettre les fleches. Souhaitez-vous les prendre ?
 
 (2, 84, 0) ***Alchemist***
 Name:
@@ -353,35 +353,35 @@ Elanda
 
 (4, 52, 0) ***Quest Guard***
 Message:
-These jotunns are forced to pay tribute to the witch Sveva, who has settled on an island further south. If you defeat her, they are ready to join you.
-Sveva is still strong, the jotunns cannot join you.	
-Sveva is dead, and the jotunns are ready to join your forces. Do you wish to accept them?
+Ces Jotunns sont contraints de payer tribut a la Sorciere Sveva, qui s'est installee sur une ile plus au Sud. Si vous la vainquez, ils seront prets a se joindre a vous.
+Sveva est encore puissante, les Jotunns ne peuvent pas se joindre a vous.
+Sveva est morte, et les Jotunns sont prets a rejoindre vos forces. Souhaitez-vous les accepter ?
 
 (34, 83, 0) ***Event***
 Message:
-- ìóâû äëÿ ÈÈ
+IA - mouvements
 
 (99, 88, 0) ***Quest Guard***
 Message:
-A witch who ruled over the lizardmen and gnolls before the demon-worshipper Thias rose to power, lives here. She knows Thias is desperate to kill her, so she won't let anyone past the magical barrier in front of her dwelling as long as he's alive.
-— Bring me Thias's head, then we'll talk! —  the witch shouts from her dwelling..
-—  Finally this bastard is dead! — says the witch with obvious satisfaction. — Now, if you want, we can talk.
+Ici vit une Sorciere qui regnait sur les Hommes Lezards et les gnolls avant que Thias, adorateur du demon, ne prenne le pouvoir. Sachant que Thias cherche desesperement a la tuer, elle ne laissera personne franchir la barriere magique qui protege sa demeure tant qu'il sera en vie.
+— Apportez-moi la tete de Thias, et nous pourrons discuter ! — hurle la sorciere depuis sa demeure.
+— Enfin, ce salaud est mort ! — dit-elle avec une satisfaction manifeste. — Maintenant, si vous le souhaitez, nous pouvons discuter.
 
 (27, 83, 0) ***Quest Guard***
 Message:
-This passage leads to the lands of the knights. But first, the barbarian leader, Nell, must be defeated. It would be unwise to leave such a dangerous enemy behind.
-Nell is still alive, and her army is still strong and threatening your rear area.
-Would you like to pass?
+Ce passage mene aux terres des Chevaliers. Mais il faut d'abord vaincre Nell, la chef Barbare. Il serait imprudent de laisser un ennemi aussi dangereux derriere soi.
+Nell est toujours en vie, et son armee est toujours puissante et menace vos arrieres.
+Souhaitez-vous passer ?
 
 (8, 44, 0) ***Seer's Hut***
 Message:
-The jotunn explains to you that he needs eight pendants he once acquired during glorious campaigns, but then sold them to various people, and he doesn't know where they are now. If you bring them, he's ready to share his wisdom with you.
-The jotunn looks at you, not saying a word. He clearly has no intention of speaking to you until you bring him the pendants.
-The jotunn is ready to begin his tale right now. Would you like to hear his instructions?
+Le Jotunn vous explique qu'il a besoin de 8 pendentifs qu'il a jadis acquis lors de glorieuses campagnes, mais qu'il a ensuite vendus a diverses personnes, et il ignore ou ils se trouvent desormais. Si vous les lui r'apportez, il est pret a partager son savoir avec vous.
+Le Jotunn vous regarde sans dire un mot. Il est clair qu'il n'a aucune intention de vous parler tant que vous ne lui aurez pas apporte les pendentifs.
+Le Jotunn est pret a commencer son recit. Souhaitez-vous entendre son histoire ?
 
 (34, 71, 0) ***Event***
 Message:
-- ìóâû äëÿ ÈÈ
+IA - mouvements
 
 (40, 2, 0) ***Druid***
 Name:
@@ -402,19 +402,19 @@ Message:
 
 (6, 44, 0) ***Quest Guard***
 Message:
-A hermit jotunn lives here. He wants to see one of his brothers from the island to the south. Until he hears from them, he won't communicate with you.	
-The jotunn looks at you and goes back into the hut.
-The jotunn emerges from his hut and waves his hand in greeting, inviting you into his abode. Would you like to follow him?
+Un Jotunn solitaire vit ici. Il souhaite revoir l'un de ses freres de l'ile du Sud. Tant qu'il n'aura pas de leurs nouvelles, il ne discutera pas avec vous.	
+Le Jotunn vous regarde et retourne dans sa hutte.
+Le Jotunn en ressort et vous salue d'un geste de la main, vous invitant a entrer. Voulez-vous le suivre ?
 
 (64, 83, 0) ***Event***
 Message:
-- ìóâû äëÿ ÈÈ
+IA - mouvements
 
 (25, 96, 0) ***Quest Guard***
 Message:
-The angels here have already sworn allegiance to the northern elves, but for the right reward, they're willing to follow you. For their services, they ask for 75 gems and 50,000 gold.
-You don't have the required amount, and the angels won't settle for less.	
-Angels are ready to follow you. Do you want to hire them?
+Les Anges presents ici ont deja prete allegeance aux elfes du Nord, mais contre une juste recompense, ils sont prets a vous suivre. Pour leurs services, ils demandent 75 Gemmes et 50 000 Pieces d'Or.
+Vous ne possedez pas la somme requise, et les Anges n'accepteront rien de moins.	
+Les Anges sont prets a vous suivre. Souhaitez-vous les recruters ?
 
 (45, 70, 0) ***Pandora's Box***
 Message:
@@ -422,27 +422,27 @@ Message:
 
 (74, 8, 0) ***Quest Guard***
 Message:
-Austain the Elementalist have created the water barrier blocking any passage in these waters. Until he is defeated, the barrier will stand.
-Austain the Elementalist have created the water barrier blocking any passage in these waters. Until he is defeated, the barrier will stand.
-Do you want to pass?
+Austain le Conjureur a cree une barriere d'eau bloquant tout passage dans ces eaux. Tant qu'il ne sera pas vaincu, la barriere restera en place.
+Austain le Conjureur a cree une barriere d'eau bloquant tout passage dans ces eaux. Tant qu'il ne sera pas vaincu, la barriere restera en place.
+Voulez-vous passer ?
 
 (45, 95, 0) ***Quest Guard***
 Message:
-This passage leads to the lands of the knights. But first, the barbarian leader, Nell, must be defeated. It would be unwise to leave such a dangerous enemy behind.
-Nell is still alive, and her army is still strong and threatening your rear area.
-Would you like to pass?
+Ce passage mene aux terres des Chevaliers. Mais il faut d'abord vaincre Nell, la chef Barbare. Il serait imprudent de laisser un ennemi aussi dangereux derriere soi.
+Nell est toujours en vie, et son armee est toujours puissante et menace vos arrieres.
+Souhaitez-vous passer ?
 
 (105, 6, 0) ***Quest Guard***
 Message:
-The passage is closed by a magical barrier, maintained by an elven sorceress, protecting her current mistress.
-First defeat the elven sorceress, then you can pass.
-Viveca is defeated, and the barrier is now easily removed. Do you wish to proceed?
+Le passage est bloque par une barriere magique, entretenue par une sorciere elfe qui protege sa presente maitresse.
+Vainquer la sorciere elfe, ensuite vous pourrez passer.
+Viveca est vaincue et la barriere est desormais levee sans difficulte. Voulez-vous continuer ?
 
 (78, 27, 1) ***Quest Guard***
 Message:
-Angels live here and are willing to serve you for a reasonable fee. 50,000 gold and 50 gems will do.
-Angels will not settle for less than 50,000 gold and 50 gems.
-Do you want to attract angels to your service?
+Des Anges resident ici et sont prets a vous servir moyennant une somme raisonnable. 50 000 Pieces d'Or et 50 Gemmes suffiront.
+Les Anges n'accepteront rien de moins que 50 000 Pieces d'Or et 50 Gemmes.
+Souhaitez-vous attirer les Anges a votre service ?
 
 (82, 97, 1) ***Pandora's Box***
 Message:
@@ -454,25 +454,25 @@ Message:
 
 (97, 28, 1) ***Quest Guard***
 Message:
-The demon guards here can be bribed for 50 gems.
-The demons will not agree to less than 50 gems.	
-The demons greedily snatch up the gems and scatter. Do you want to pass?
+Les gardes demoniaques peuvent etre soudoyes pour 50 Gemmes.
+Les demons n'accepteront pas moins de 50 Gemmes.
+Avides, ils s'emparent des Gemmes et se dispersent. Voulez-vous passer ?
 
 (24, 1, 1) ***Elementalist***
 Name:
-Óíà
+Une
 
 (96, 24, 1) ***Quest Guard***
 Message:
-The demon guards here can be bribed for 50 gems.
-The demons will not agree to less than 50 gems.
-The demons greedily snatch up the gems and scatter. Do you want to pass?
+Les gardes demoniaques peuvent etre soudoyes pour 50 Gemmes.
+Les demons n'accepteront pas moins de 50 Gemmes.
+Avides, ils s'emparent des Gemmes et se dispersent. Voulez-vous passer ?
 
 (42, 2, 1) ***Quest Guard***
 Message:
-The librarians in blue robes look at you sternly. They say that only those who take all the signs from their brothers on the surface will be allowed into the library.
-Librarians won't let you in without the right signs. 
-The librarians look at you, then at the artifacts you've brought, and finally nod. Would you like to enter the library?
+Les bibliothecaires en robes bleues vous devisagent. Ils expliquent que seuls ceux qui auront recueilli tous les signes aupres de leurs freres a la surface seront admis a la bibliotheque.
+Sans les signes requis, l'entree vous est refusee. 
+Les bibliothecaires vous observent, puis les artéfacts que vous avez apportes, et finissent par hocher la tete. Souhaitez-vous entrer dans la bibliotheque ?
 
 (104, 4, 1) ***Knight***
 Name:
@@ -492,9 +492,9 @@ Erne
 
 (91, 11, 1) ***Quest Guard***
 Message:
-The local devils avoid Harro like the plague. As long as he's alive, they won't accept your command.
-Harro is still alive, and the devils don't want to come into your service.	
-The devils are opening the passage to their home. Do you want to go through?
+Les Diables du coin fuient Harro comme la peste. Tant qu'il sera en vie, ils refuseront de vous obeir.
+Harro est toujours vivant, et les Diables ne veulent pas se mettre a votre service.	
+Les Diables ouvrent le passage vers leur demeure. Voulez-vous les emprunter ?
 
 (19, 54, 1) ***Wizard***
 Name:
@@ -510,13 +510,13 @@ Porphyrios
 
 (101, 103, 1) ***Seer's Hut***
 Message:
-The old shaman says he wants to create an endless source of heat, but to do so, he needs five live firebirds. In exchange, he'll give you a blue dragon he managed to tame.
-Without birds, a shaman cannot create a source of fire.
-The shaman begins a strange ritual, but it fails: both he and the birds vanish in a burst of flame. Well, at least the tame blue dragon is still here. Would you like to take it with you?
+Le vieux chaman pretend vouloir creer une source de chaleur inepuisable, mais pour cela, il lui faut cinq Oiseaux de Feu vivants. En echange, il vous offrira un dragon bleu qu'il a reussi a apprivoiser.
+Sans oiseaux, un chaman ne peut creer de feu.
+Le chaman entame un etrange rituel, mais il echoue : lui et les oiseaux disparaissent dans une explosion de flammes. Au moins, le dragon bleu apprivoise est toujours la. Voulez-vous l'emmener avec vous ?
 
 (99, 4, 1) ***Event***
 Message:
-ÈÈ - åæåíåäåëüíûé áîíóñ
+IA - Bonus hebdomadaire
 
 (98, 4, 1) ***Beastmaster***
 Name:
@@ -532,11 +532,11 @@ Atreia
 
 (99, 2, 1) ***Event***
 Message:
-ÈÈ - åæåíåäåëüíûé áîíóñ
+IA - Bonus hebdomadaire
 
 (93, 2, 1) ***Event***
 Message:
-ÈÈ - åæåíåäåëüíûé áîíóñ
+IA - Bonus hebdomadaire
 
 (18, 55, 1) ***Pandora's Box***
 Message:
@@ -548,55 +548,54 @@ Cassandra
 
 (91, 94, 1) ***Quest Guard***
 Message:
-Harro the Efreeti have created the barrier, blocking the passage here. You need to defeat him if you want to pass.
-Harro the Efreeti have created the barrier, blocking the passage here. You need to defeat him if you want to pass.
-Harro is vanquished, and you can pass.
+Harro l'Effrit a erige une barriere qui bloque le passage. Vous devez le vaincre pour passer.
+Harro l'Effrit a erige une barriere qui bloque le passage. Vous devez le vaincre pour passer.
+Harro est vaincu ; vous pouvez passer.
 
 ===== Extended Events =====
 ***Event Texts***
 Message:
-After a brief skirmish, we managed to convince the village elder on the northwestern islands to join our expedition.
+Apres une breve escarmouche, nous avons reussi a convaincre le chef du village des iles du Nord-Ouest de se joindre a notre expedition.
 
 
 ***Event Texts***
 Proposal Message:
-A shaman lives here who possesses the art of drawing power from artifacts, but in doing so, the artifacts themselves are destroyed. He requires four artifacts for this ritual.
+Un chaman vit ici. Il maitrise l'art de puiser le pouvoir des artéfacts, mais ce faisant, ces derniers sont detruits. Il a besoin de quatre artéfacts pour ce rituel.
 Progress Message:
-You don't have the artifacts the shaman needs.
+Vous ne possedez pas les artéfacts dont le chaman a besoin.
 Completion Message:
-Õîòèòå îòäàòü àğòåôàêòû øàìàíó?
+Souhaitez-vous offrir des artéfacts au chaman ?
 Hint:
-Bring Centaur's Axe, Shield of Dwarven Lords, Breastplate of Petrified Wood and Unicorn's Helm.
+Apportez la hache du centaure, le bouclier des seigneurs nains, la cuirasse en bois petrifie et le heaume de la licorne.
 
 ***Event Texts***
 Proposal Message:
-A shaman lives here who possesses the art of drawing power from artifacts, but in doing so, the artifacts themselves are destroyed. He requires four artifacts for this ritual.
+Un chaman vit ici. Il maitrise l'art de puiser le pouvoir des artéfacts, mais ce faisant, ces derniers sont detruits. Il a besoin de quatre artéfacts pour ce rituel.
 Progress Message:
-You don't have the artifacts the shaman needs.
+Vous ne possedez pas les artéfacts dont le chaman a besoin.
 Completion Message:
-Do you want to give the artifacts to the shaman?
+Voulez-vous donner les artéfacts au chaman ?
 Hint:
-Bring Greater Gnoll's Flail, Buckler of the Gnoll King, Shield of Chaos and Basilisk Scale Armor
+Apportez le Fléau des Gnolls, la Rondache du Roi Gnoll, l'Écu des Ténèbres et la Carapace de Basilic.
 
 ***Event Texts***
 Proposal Message:
-A shaman lives here who possesses the art of drawing power from artifacts, but in doing so, the artifacts themselves are destroyed. He requires four artifacts for this ritual.
+Un chaman vit ici. Il maitrise l'art de puiser le pouvoir des artéfacts, mais ce faisant, ces derniers sont detruits. Il a besoin de quatre artéfacts pour ce rituel.
 Progress Message:
-You don't have the artifacts the shaman needs.
+Vous ne possedez pas les artéfacts dont le chaman a besoin.
 Completion Message:
-Do you want to give the artifacts to the shaman?
+Voulez-vous donner les artéfacts au chaman ?
 Hint:
-Bring Sword of Fire, Hellstorm Helmet, Shield of the Damned and Breastplate of Brimstone
+Apportez l'Épée Flamboyante, le Casque Ouragan, le Bouclier des Damnés et le Plastron Vulcain.
 
 ***Event Texts***
 Proposal Message:
-A shaman lives here who possesses the art of drawing power from artifacts, but in doing so, the artifacts themselves are destroyed. He requires four artifacts for this ritual.
+Un chaman vit ici. Il maitrise l'art de puiser le pouvoir des artéfacts, mais ce faisant, ces derniers sont detruits. Il a besoin de quatre artéfacts pour ce rituel.
 Progress Message:
-You don't have the artifacts the shaman needs.
+Vous ne possedez pas les artéfacts dont le chaman a besoin.
 Completion Message:
-Do you want to give the artifacts to the shaman?
+Voulez-vous donner les artéfacts au chaman ?
 Hint:
-Bring Trident of Dominion, Shield of Naval Glory, Royal Armor of Nix and Crown of Five Seas
+Apportez le Trident de Poséidon, le Bouclier des Tempêtes, la Broigne Royale Nix et la Couronne des Cinq Mers.
 
-===== Extended Events =====
 ===== End of file =====
