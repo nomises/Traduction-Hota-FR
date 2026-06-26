@@ -2,7 +2,7 @@
 Assaut de glace
 
 ===== Map description =====
-Depuis des siècles, les habitants de ces terres glacées vivent retranchés sur leurs terres, repoussant les raids de leurs voisins attirés par les cristaux et autres richesses. Mais ces derniers mois, le froid s'est abattu sur les royaumes ennemis, désormais ravagés par le gel. L'heure de la riposte a sonné.
+Depuis des siÃ¨cles, les habitants de ces terres glacÃ©es vivent retranchÃ©s sur leurs terres, repoussant les raids de leurs voisins attirÃ©s par les cristaux et autres richesses. Mais ces derniers mois, le froid s'est abattu sur les royaumes ennemis, dÃ©sormais ravagÃ©s par le gel. L'heure de la riposte a sonnÃ©.
 
 ===== Rumors =====
 
@@ -21,22 +21,22 @@ Message:
 Name:
 Day 1
 Message:
-Ces dernières années, le froid s'est intensifié et les pâturages se font de plus en plus rares. Les anciens se réunissent pour discuter d'une attaque contre les terres de nos ennemis.	Cependant, des rumeurs nous sont parvenues : des portails se seraient ouverts près de nos villages. Apparemment, nos ennemis ont eu vent de nos plans et se préparent à nous attaquer. Nous devons nous tenir prêts à toute eventualité.
+Ces derniÃ¨res annÃ©es, le froid s'est intensifiÃ© et les pÃ¢turages se font de plus en plus rares. Les anciens se rÃ©unissent pour discuter d'une attaque contre les terres de nos ennemis.	Cependant, des rumeurs nous sont parvenuesÂ : des portails se seraient ouverts prÃ¨s de nos villages. Apparemment, nos ennemis ont eu vent de nos plans et se prÃ©parent Ã  nous attaquer. Nous devons nous tenir prÃªts Ã  toute eventualitÃ©.
 
 Name:
 Day 5
 Message:
-On raconte que les Hommes Lezards et les Gnolls des îles orientales sont entrés au service des démons. Difficile de dire ce qui les a poussés a un tel acte, mais on sait qu'un volcan s'est réveillé sur les îles du Nord-Est. Des hordes de Gogs, entourées de Chiens de l'Enfer et d'autres créatures, ont été aperçues à proximité.
+On raconte que les Hommes Lezards et les Gnolls des Ã®les orientales sont entrÃ©s au service des dÃ©mons. Difficile de dire ce qui les a poussÃ©s a un tel acte, mais on sait qu'un volcan s'est rÃ©veillÃ© sur les Ã®les du Nord-Est. Des hordes de Gogs, entourÃ©es de Chiens de l'Enfer et d'autres crÃ©atures, ont Ã©tÃ© aperÃ§ues Ã  proximitÃ©.
 
 Name:
 Day 14
 Message:
-Un Kobold, envoyé explorer l'un des portails lointains, a rapporté d'étranges nouvelles. La sorcière elfe qui règne sur les îles du Nord a ouvert des portails vers une contrée lointaine et inexplorée qu'elle nomme le "monde du chaos". Nous ignorons ce qui nous attend de l'autre côté de ces portails, mais il semblerait que les elfes eux-memes s'y intéressent de près.
+Un Kobold, envoyÃ© explorer l'un des portails lointains, a rapportÃ© d'Ã©tranges nouvelles. La sorciÃ¨re elfe qui rÃ¨gne sur les Ã®les du Nord a ouvert des portails vers une contrÃ©e lointaine et inexplorÃ©e qu'elle nomme le "monde du chaos". Nous ignorons ce qui nous attend de l'autre cÃ´tÃ© de ces portails, mais il semblerait que les elfes eux-memes s'y intÃ©ressent de prÃ¨s.
 
 Name:
 Day 23
 Message:
-Les Yétis rapportent des nouvelles inquiétantes. Ils ont réussi à pénétrer dans le "monde du chaos" en suivant l'elfe qui y a ouvert un portail. Il s'avere que ce portail mène à des terres gouvernées par les forces du froid et de la mort. Ces forces rassemblent des troupes pour envahir nos terres, et elles sont menées par une sorcière maléfique qui a asservi la volonté des elfes. Ses armées sont immenses et comptent non seulement des morts-vivants, mais aussi des Titans et de puissants dragons bleus. Et il semblerait qu'elle soit à l'origine des querelles entre tous nos voisins.
+Les YÃ©tis rapportent des nouvelles inquiÃ©tantes. Ils ont rÃ©ussi Ã  pÃ©nÃ©trer dans le "monde du chaos" en suivant l'elfe qui y a ouvert un portail. Il s'avere que ce portail mÃ¨ne Ã  des terres gouvernÃ©es par les forces du froid et de la mort. Ces forces rassemblent des troupes pour envahir nos terres, et elles sont menÃ©es par une sorciÃ¨re malÃ©fique qui a asservi la volontÃ© des elfes. Ses armÃ©es sont immenses et comptent non seulement des morts-vivants, mais aussi des Titans et de puissants dragons bleus. Et il semblerait qu'elle soit Ã  l'origine des querelles entre tous nos voisins.
 
 ===== Heroes =====
 
@@ -69,9 +69,9 @@ Rhiannon
 
 (99, 3, 0) ***Quest Guard***
 Message:
-Le passage est bloqué par une barrière magique, entréténue par une sorcière elfe qui protège sa présente maîtresse.
-Vainquer la sorcière elfe, ensuite vous pourrez passer.
-Viveca est vaincue et la barrière est désormais levée sans difficulté. Voulez-vous continuer ?
+Le passage est bloquÃ© par une barriÃ¨re magique, entrÃ©tÃ©nue par une sorciÃ¨re elfe qui protÃ¨ge sa prÃ©sente maÃ®tresse.
+Vainquer la sorciÃ¨re elfe, ensuite vous pourrez passer.
+Viveca est vaincue et la barriÃ¨re est dÃ©sormais levÃ©e sans difficultÃ©. Voulez-vous continuerÂ ?
 
 (103, 93, 0) ***Fortress***
 
@@ -109,21 +109,21 @@ Message:
 
 (68, 7, 0) ***Quest Guard***
 Message:
-Le passage est bloqué par une barrière magique imprégnée d'énergie nécrotique. C'est sans aucun doute l'euvre d'Ossian.
+Le passage est bloquÃ© par une barriÃ¨re magique imprÃ©gnÃ©e d'Ã©nergie nÃ©crotique. C'est sans aucun doute l'euvre d'Ossian.
 Tant qu'Ossian est en vie, il est inutile de tenter de passer.
-Ossian est mort, et la barrière peut désormais être facilement levée. Souhaitez-vous poursuivre ?
+Ossian est mort, et la barriÃ¨re peut dÃ©sormais Ãªtre facilement levÃ©e. Souhaitez-vous poursuivreÂ ?
 
 (2, 92, 0) ***Quest Guard***
 Message:
-Des prêtres qui connaissent le secret de l'Animation des Morts vivent ici. Ils sont prêts à le partager avec vous, mais en échange, ils exigent que vous leur apportiez la Corne d'Abondance, afin qu'ils ne manquent de rien pour le reste de leurs jours. Ils vous confieront egalement l'une des trois clefs nécessaires pour accéder à la bibliothèque magique des grottes du Nord. Les composants de la Corne d'Abondance se trouvent dans les trésors des dragons bleus : deux sur les îles du Nord, un dans la mer au Sud et le dernier quelque part dans les grottes.
-Sans la Corne d'Abondance, pas de marché.
-Souhaitez-vous apprendre un puissant sort de résurrection ?
+Des prÃªtres qui connaissent le secret de l'Animation des Morts vivent ici. Ils sont prÃªts Ã  le partager avec vous, mais en Ã©change, ils exigent que vous leur apportiez la Corne d'Abondance, afin qu'ils ne manquent de rien pour le reste de leurs jours. Ils vous confieront egalement l'une des trois clefs nÃ©cessaires pour accÃ©der Ã  la bibliothÃ¨que magique des grottes du Nord. Les composants de la Corne d'Abondance se trouvent dans les trÃ©sors des dragons bleusÂ : deux sur les Ã®les du Nord, un dans la mer au Sud et le dernier quelque part dans les grottes.
+Sans la Corne d'Abondance, pas de marchÃ©.
+Souhaitez-vous apprendre un puissant sort de rÃ©surrectionÂ ?
 
 (35, 67, 0) ***Quest Gate***
 Message:
-Ici, les portes s'ouvrent grâce à un mot de passe connu des seuls représentants du pays de glace. Les anciens local, expliquent comment ouvrir les barrières magiques qui scellent les points stratégiques de la région afin de protèger leur peuple des attaques ennemies.
-Ici, les portes s'ouvrent grâce à un mot de passe connu des seuls représentants du pays de glace. Les anciens local, expliquent comment ouvrir les barrières magiques qui scellent les points stratégiques de la région afin de protèger leur peuple des attaques ennemies.
-Souhaitez-vous passer ?
+Ici, les portes s'ouvrent grÃ¢ce Ã  un mot de passe connu des seuls reprÃ©sentants du pays de glace. Les anciens local, expliquent comment ouvrir les barriÃ¨res magiques qui scellent les points stratÃ©giques de la rÃ©gion afin de protÃ¨ger leur peuple des attaques ennemies.
+Ici, les portes s'ouvrent grÃ¢ce Ã  un mot de passe connu des seuls reprÃ©sentants du pays de glace. Les anciens local, expliquent comment ouvrir les barriÃ¨res magiques qui scellent les points stratÃ©giques de la rÃ©gion afin de protÃ¨ger leur peuple des attaques ennemies.
+Souhaitez-vous passerÂ ?
 
 (37, 2, 0) ***Prison***
 Name:
@@ -144,28 +144,28 @@ Message:
 
 (57, 77, 0) ***Sign***
 Message:
-Attention si vous n'étés pas du coin.
+Attention si vous n'Ã©tÃ©s pas du coin.
 
 (36, 73, 0) ***Seer's Hut***
 Message:
-Nos anciens sont prêts à payer pour la tête des commandants des armées ennemies qui envahissent nos terres. Apportez la preuve de la mort de Darla et vous recevrez l'argent.
-Le commandant ennemi est toujours en vie. Tuez-le et revenez chercher votre récompense.
-Voulez-vous de l'or ?
-Nos anciens sont prêts à payer pour la tête des commandants des armées ennemies qui envahissent nos terres. Apportez la preuve de la mort de Moira et vous recevrez l'argent.
-Le commandant ennemi est toujours en vie. Tuez-le et revenez chercher votre récompense.
-Voulez-vous de l'or ?
-Nos anciens sont prêts à payer pour la tête des commandants des armées ennemies qui envahissent nos terres. Apportez la preuve de la mort de Pallant et vous recevrez l'argent.
-Le commandant ennemi est toujours en vie. Tuez-le et revenez chercher votre récompense.
-Voulez-vous de l'or ?
-Nos anciens sont prêts à payer pour la tête des commandants des armées ennemies qui envahissent nos terres. Apportez la preuve de la mort de Dux et vous recevrez l'argent.
-Le commandant ennemi est toujours en vie. Tuez-le et revenez chercher votre récompense.
-Voulez-vous de l'or ?
-Nos anciens sont prêts à payer pour la tête des commandants des armées ennemies qui envahissent nos terres. Apportez la preuve de la mort d'Heimarmène et vous recevrez l'argent.
-Le commandant ennemi est toujours en vie. Tuez-le et revenez chercher votre récompense.
-Voulez-vous de l'or ?
-Nos anciens sont prêts à payer pour la tête des commandants des armées ennemies qui envahissent nos terres. Apportez la preuve de la mort d'Atreia et vous recevrez l'argent.
-Le commandant ennemi est toujours en vie. Tuez-le et revenez chercher votre récompense.
-Voulez-vous de l'or ?
+Nos anciens sont prÃªts Ã  payer pour la tÃªte des commandants des armÃ©es ennemies qui envahissent nos terres. Apportez la preuve de la mort de Darla et vous recevrez l'argent.
+Le commandant ennemi est toujours en vie. Tuez-le et revenez chercher votre rÃ©compense.
+Voulez-vous de l'orÂ ?
+Nos anciens sont prÃªts Ã  payer pour la tÃªte des commandants des armÃ©es ennemies qui envahissent nos terres. Apportez la preuve de la mort de Moira et vous recevrez l'argent.
+Le commandant ennemi est toujours en vie. Tuez-le et revenez chercher votre rÃ©compense.
+Voulez-vous de l'orÂ ?
+Nos anciens sont prÃªts Ã  payer pour la tÃªte des commandants des armÃ©es ennemies qui envahissent nos terres. Apportez la preuve de la mort de Pallant et vous recevrez l'argent.
+Le commandant ennemi est toujours en vie. Tuez-le et revenez chercher votre rÃ©compense.
+Voulez-vous de l'orÂ ?
+Nos anciens sont prÃªts Ã  payer pour la tÃªte des commandants des armÃ©es ennemies qui envahissent nos terres. Apportez la preuve de la mort de Dux et vous recevrez l'argent.
+Le commandant ennemi est toujours en vie. Tuez-le et revenez chercher votre rÃ©compense.
+Voulez-vous de l'orÂ ?
+Nos anciens sont prÃªts Ã  payer pour la tÃªte des commandants des armÃ©es ennemies qui envahissent nos terres. Apportez la preuve de la mort d'HeimarmÃ¨ne et vous recevrez l'argent.
+Le commandant ennemi est toujours en vie. Tuez-le et revenez chercher votre rÃ©compense.
+Voulez-vous de l'orÂ ?
+Nos anciens sont prÃªts Ã  payer pour la tÃªte des commandants des armÃ©es ennemies qui envahissent nos terres. Apportez la preuve de la mort d'Atreia et vous recevrez l'argent.
+Le commandant ennemi est toujours en vie. Tuez-le et revenez chercher votre rÃ©compense.
+Voulez-vous de l'orÂ ?
 
 (58, 17, 0) ***Pandora's Box***
 Message:
@@ -173,27 +173,27 @@ Message:
 
 (11, 94, 0) ***Quest Guard***
 Message:
-Ce chemin mène à un portail que les chevaliers locaux appellent "les portes du ciel" et qu'ils protègent avec une extrême vigilance. Tant que Rhiannon, la chef de leur ordre, sera en vie, il sera impossible de le franchir.
+Ce chemin mÃ¨ne Ã  un portail que les chevaliers locaux appellent "les portes du ciel" et qu'ils protÃ¨gent avec une extrÃªme vigilance. Tant que Rhiannon, la chef de leur ordre, sera en vie, il sera impossible de le franchir.
 Rhiannon est vivante, et les gardes aux portes ne vous laisseront pas passer. Vous ne pourrez pas prendre d'assaut ce portail.
-Les gardes se sont dispersés, et les portes sont maintenant ouvertes. Voulez-vous les franchir ?
+Les gardes se sont dispersÃ©s, et les portes sont maintenant ouvertes. Voulez-vous les franchir ?
 
 (5, 36, 0) ***Quest Guard***
 Message:
-Les Cyclopes locaux réclament plus d'argent et de Cristals pour leurs services, auxquels ils accordent une grande valeur, pour une raison qui nous échappe. Vingt Cristals et 10 000 Pièces d'Or suffisent pour les engager.
-Vous ne possédez pas la somme requise, et les Cyclopes n'accepteront rien de moins.
-Les Cyclopes sont prêts à vous suivre. Souhaitez-vous les engager ?
+Les Cyclopes locaux rÃ©clament plus d'argent et de Cristals pour leurs services, auxquels ils accordent une grande valeur, pour une raison qui nous Ã©chappe. Vingt Cristals et 10 000 PiÃ¨ces d'Or suffisent pour les engager.
+Vous ne possÃ©dez pas la somme requise, et les Cyclopes n'accepteront rien de moins.
+Les Cyclopes sont prÃªts Ã  vous suivre. Souhaitez-vous les engagerÂ ?
 
 (13, 32, 0) ***Seer's Hut***
 Message:
-Un vieux barbare habite cette maison. Il est prêt à offrir son gourdin préféré à quiconque fera preuve d'une habileté suffisante au combat.
-Vos compétences ne sont pas encore suffisantes, revenez plus tard.
-Le barbare est prêt à vous offrir son gourdin. Voulez-vous le prendre ?
+Un vieux barbare habite cette maison. Il est prÃªt Ã  offrir son gourdin prÃ©fÃ©rÃ© Ã  quiconque fera preuve d'une habiletÃ© suffisante au combat.
+Vos compÃ©tences ne sont pas encore suffisantes, revenez plus tard.
+Le barbare est prÃªt Ã  vous offrir son gourdin. Voulez-vous le prendreÂ ?
 
 (104, 97, 0) ***Quest Guard***
 Message:
-Ici, Thias élève des gorgones. Pour prendre possession de la ferme, son propriétaire actuel doit être éliminé. Il est dit qu'il y cache un objet magique.
+Ici, Thias Ã©lÃ¨ve des gorgones. Pour prendre possession de la ferme, son propriÃ©taire actuel doit Ãªtre Ã©liminÃ©. Il est dit qu'il y cache un objet magique.
 Tant que Thias est en vie, la ferme lui appartient.
-Les gardes de la ferme se sont dispersés. Voulez-vous continuer ?
+Les gardes de la ferme se sont dispersÃ©s. Voulez-vous continuerÂ ?
 
 (72, 99, 0) ***Pandora's Box***
 Message:
@@ -209,15 +209,15 @@ IA - mouvements
 
 (43, 48, 0) ***Quest Guard***
 Message:
-Des Mammouths sauvages errent proche. Vous pouvez les apprivoiser et leur construire des enclos, mais cela vous coûtera 15 000 Pièces d'Or et 40 Pierres.
-Ces fonds sont insuffisants pour construire une Étable à Mammouths.
-Souhaitez-vous construire des Étable à Mammouths ?
+Des Mammouths sauvages errent proche. Vous pouvez les apprivoiser et leur construire des enclos, mais cela vous coÃ»tera 15Â 000 PiÃ¨ces d'Or et 40 Pierres.
+Ces fonds sont insuffisants pour construire une Ã‰table Ã  Mammouths.
+Souhaitez-vous construire des Ã‰table Ã  MammouthsÂ ?
 
 (35, 42, 0) ***Quest Guard***
 Message:
-Les maisons elfiques ont été endommagées par le feu et les elfes vous demandent de les reconstruire. En échange, ils vous serviront. Il vous faut 40 Bois et 25 000 Pièces d'Or.
+Les maisons elfiques ont Ã©tÃ© endommagÃ©es par le feu et les elfes vous demandent de les reconstruire. En Ã©change, ils vous serviront. Il vous faut 40 Bois et 25Â 000 PiÃ¨ces d'Or.
 Il faut davantage de ressources pour reconstruire les maisons elfiques.	
-Souhaitez-vous reconstruire les maisons elfiques ?
+Souhaitez-vous reconstruire les maisons elfiquesÂ ?
 
 (63, 64, 0) ***Event***
 Message:
@@ -229,9 +229,9 @@ Message:
 
 (75, 106, 0) ***Seer's Hut***
 Message:
-Vous entrez dans la demeure d'un mage ermite qui vit dans ces contrées depuis longtemps. Il vous confie vouloir fonder un ordre de maîtrise magique et avoir besoin, pour cela, de cinquante apprentis dignes de ce nom. En échange, il est prêt à vous offrir un puissant grimoire. On dit que les meilleurs Mages vivent au Nord, sur les terres des elfes qui étudient la magie élémentaire.
-Vous n'avez pas encore réuni le nombre d'apprentis requis, et sans eux, il vaut mieux ne pas importuner le mage.
-Maintenant, le mage peut fonder son ordre et vous propose un grimoire. L'accepterez-vous ?
+Vous entrez dans la demeure d'un mage ermite qui vit dans ces contrÃ©es depuis longtemps. Il vous confie vouloir fonder un ordre de maÃ®trise magique et avoir besoin, pour cela, de cinquante apprentis dignes de ce nom. En Ã©change, il est prÃªt Ã  vous offrir un puissant grimoire. On dit que les meilleurs Mages vivent au Nord, sur les terres des elfes qui Ã©tudient la magie Ã©lÃ©mentaire.
+Vous n'avez pas encore rÃ©uni le nombre d'apprentis requis, et sans eux, il vaut mieux ne pas importuner le mage.
+Maintenant, le mage peut fonder son ordre et vous propose un grimoire. L'accepterez-vousÂ ?
 
 (56, 70, 0) ***Event***
 Message:
@@ -239,9 +239,9 @@ IA - mouvements
 
 (72, 103, 0) ***Quest Guard***
 Message:
-Ce passage mène aux Grottes d'Argent. La clef était récemment entre les mains de Nell, et le voisin refuse catégoriquement de vous la rendre.
-Ce passage mène aux Grottes d'Argent. La clef était récemment entre les mains de Nell, et le voisin refuse catégoriquement de vous la rendre.
-Vous insérez la clef prise à Nell dans la serrure et la porte s'ouvre. Voulez-vous passer ?
+Ce passage mÃ¨ne aux Grottes d'Argent. La clef Ã©tait rÃ©cemment entre les mains de Nell, et le voisin refuse catÃ©goriquement de vous la rendre.
+Ce passage mÃ¨ne aux Grottes d'Argent. La clef Ã©tait rÃ©cemment entre les mains de Nell, et le voisin refuse catÃ©goriquement de vous la rendre.
+Vous insÃ©rez la clef prise Ã  Nell dans la serrure et la porte s'ouvre. Voulez-vous passerÂ ?
 
 (60, 79, 0) ***Event***
 Message:
@@ -257,15 +257,15 @@ Message:
 
 (24, 52, 0) ***Quest Guard***
 Message:
-Ici, des elfes croupissent prisonniers des démons pour avoir refusé de combattre a leurs cotés. Ils vous suivront avec joie si vous trouvez la clef de leur prison, une étrange amulette en forme de crâne. On raconte que les démons l'ont enterrée quelque part à l'Est de ces terres.
-Sans cette clef, les elfes ne peuvent être libérés.
-Vous insérez l'amulette dans un emplacement prévu à cet effet, et la porte s'ouvre. Les elfes sont prêts à vous rejoindre. Souhaitez-vous les accueillir dans votre armée ?
+Ici, des elfes croupissent prisonniers des dÃ©mons pour avoir refusÃ© de combattre a leurs cotÃ©s. Ils vous suivront avec joie si vous trouvez la clef de leur prison, une Ã©trange amulette en forme de crÃ¢ne. On raconte que les dÃ©mons l'ont enterrÃ©e quelque part Ã  l'Est de ces terres.
+Sans cette clef, les elfes ne peuvent Ãªtre libÃ©rÃ©s.
+Vous insÃ©rez l'amulette dans un emplacement prÃ©vu Ã  cet effet, et la porte s'ouvre. Les elfes sont prÃªts Ã  vous rejoindre. Souhaitez-vous les accueillir dans votre armÃ©eÂ ?
 
 (40, 46, 0) ***Quest Guard***
 Message:
-Impossible d'avancer : un éboulement se dresse devant nous. Seuls les vestiges d'un filon d'or semblent y avoir trouvé un peu d'intérêt. Il faudra 150 mineurs expérimentés pour tout dégager.
-Tant que vous n'aurez pas réuni une équipe suffisante, vous ne pourrez pas progresser.
-Les Kobolds déblayeront l'éboulement sans difficulté, mais en échange, ils exigent d'être libérés de votre armée. Êtes-vous prêt à accepter un tel marché ?
+Impossible d'avancerÂ : un Ã©boulement se dresse devant nous. Seuls les vestiges d'un filon d'or semblent y avoir trouvÃ© un peu d'intÃ©rÃªt. Il faudra 150 mineurs expÃ©rimentÃ©s pour tout dÃ©gager.
+Tant que vous n'aurez pas rÃ©uni une Ã©quipe suffisante, vous ne pourrez pas progresser.
+Les Kobolds dÃ©blayeront l'Ã©boulement sans difficultÃ©, mais en Ã©change, ils exigent d'Ãªtre libÃ©rÃ©s de votre armÃ©e. ÃŠtes-vous prÃªt Ã  accepter un tel marchÃ©Â ?
 
 (50, 3, 0) ***Pandora's Box***
 Message:
@@ -273,9 +273,9 @@ Message:
 
 (100, 88, 0) ***Seer's Hut***
 Message:
-La sorcière vous confie qu'après tout ce qu'elle a vécu récemment, le pouvoir ne l'intéresse plus. Elle souhaite cependant économiser suffisamment d'argent pour prendre sa retraite et vivre confortablement. Elle estime que 20 000 Pièces d'Or, 30 Soufres et autant de mercure suffiront. En échange, elle vous offrira son dernier troupeau de Gorgones.
-La sorcière refuse toute somme inférieure, et vous ne disposez pas des fonds nécessaires pour le moment.
-Accepteriez-vous de lui donner de l'or ainsi que des ressources en échange de ses Gorgones ?
+La sorciÃ¨re vous confie qu'aprÃ¨s tout ce qu'elle a vÃ©cu rÃ©cemment, le pouvoir ne l'intÃ©resse plus. Elle souhaite cependant Ã©conomiser suffisamment d'argent pour prendre sa retraite et vivre confortablement. Elle estime que 20Â 000 PiÃ¨ces d'Or, 30 Soufres et autant de mercure suffiront. En Ã©change, elle vous offrira son dernier troupeau de Gorgones.
+La sorciÃ¨re refuse toute somme infÃ©rieure, et vous ne disposez pas des fonds nÃ©cessaires pour le moment.
+Accepteriez-vous de lui donner de l'or ainsi que des ressources en Ã©change de ses GorgonesÂ ?
 
 (3, 63, 0) ***Witch***
 Name:
@@ -283,27 +283,27 @@ Sveva
 
 (49, 39, 0) ***Quest Guard***
 Message:
-Les Archers d'Élite locaux sont impatients de partir à l'aventure avec un héros digne de ce nom. Mais ils ne considéreront que quelqu'un d'aussi compétent qu'eux au tir.
-Vous êtes en train de perdre la compétition face aux Archers d'Élite. Apparemment, il vous faut quelqu'un de plus talentueux.
-Neia gagne facilement. Ils sont impressionnés par son adresse et prêts à la rejoindre. Souhaitez-vous accueillir des Archers d'Élite dans votre armée ?
+Les Archers d'Ã‰lite locaux sont impatients de partir Ã  l'aventure avec un hÃ©ros digne de ce nom. Mais ils ne considÃ©reront que quelqu'un d'aussi compÃ©tent qu'eux au tir.
+Vous Ãªtes en train de perdre la compÃ©tition face aux Archers d'Ã‰lite. Apparemment, il vous faut quelqu'un de plus talentueux.
+Neia gagne facilement. Ils sont impressionnÃ©s par son adresse et prÃªts Ã  la rejoindre. Souhaitez-vous accueillir des Archers d'Ã‰lite dans votre armÃ©eÂ ?
 
 (48, 50, 0) ***Seer's Hut***
 Message:
-Ce mage a appris à puiser son pouvoir dans les créatures de glace. Il accepte d'accomplir un rituel et de partager une partie du pouvoir qui en résulte si vous lui apportez suffisamment de ces créatures.
-Le rituel ne pourra être accompli que si vous avez amené suffisamment de créatures.
-Êtes-vous prêt à accomplir le rituel ?
+Ce mage a appris Ã  puiser son pouvoir dans les crÃ©atures de glace. Il accepte d'accomplir un rituel et de partager une partie du pouvoir qui en rÃ©sulte si vous lui apportez suffisamment de ces crÃ©atures.
+Le rituel ne pourra Ãªtre accompli que si vous avez amenÃ© suffisamment de crÃ©atures.
+ÃŠtes-vous prÃªt Ã  accomplir le rituelÂ ?
 
 (75, 47, 0) ***Quest Guard***
 Message:
-Le sorcier du village est prêt à vous apprendre à aveugler vos adversaires au combat. En échange, il exige le Pendentif de Réflexion porte par Porphyrios.
-Le sorcier ne veut que le Pendentif ; il n’acceptera rien d’autre.
-Souhaitez-vous lui remettre le Pendentif de Réflexion ?
+Le sorcier du village est prÃªt Ã  vous apprendre Ã  aveugler vos adversaires au combat. En Ã©change, il exige le Pendentif de RÃ©flexion porte par Porphyrios.
+Le sorcier ne veut que le PendentifÂ ; il nâ€™acceptera rien dâ€™autre.
+Souhaitez-vous lui remettre le Pendentif de RÃ©flexionÂ ?
 
 (79, 34, 0) ***Seer's Hut***
 Message:
-Un puissant mage de l'eau à la retraite vit ici. Il souhaite que vous lui rapportiez plusieurs précieux artéfacts composites pour les étudier ; les composants de ces reliques sont dispersés à travers ces terres, et voyager seul lui devient trop difficile. En échange, il vous promet de vous donner son heaume magique – de toute façon, le mage ne peut plus guère s'en servir, si ce n'est pour préparer du thé.
-Pas d'artéfacts ? Pas de heaume.
-Souhaitez-vous obtenir le heaume magique ?
+Un puissant mage de l'eau Ã  la retraite vit ici. Il souhaite que vous lui rapportiez plusieurs prÃ©cieux artÃ©facts composites pour les Ã©tudierÂ ; les composants de ces reliques sont dispersÃ©s Ã  travers ces terres, et voyager seul lui devient trop difficile. En Ã©change, il vous promet de vous donner son heaume magique â€“ de toute faÃ§on, le mage ne peut plus guÃ¨re s'en servir, si ce n'est pour prÃ©parer du thÃ©.
+Pas d'artÃ©factsÂ ? Pas de heaume.
+Souhaitez-vous obtenir le heaume magiqueÂ ?
 
 (104, 107, 0) ***Pandora's Box***
 Message:
@@ -311,9 +311,9 @@ Message:
 
 (69, 84, 0) ***Quest Guard***
 Message:
-Ces Chamans sont terrifiés par les événements récents. Ils ne font confiance qu'à leurs semblables et refusent de se joindre à d'autres. Ils prétendent posséder une sorte d'artéfact magique.
-Tant que l'un d'eux ne sera pas à vos côtés, les Chamans ne voudront même pas vous écouter.
-Souhaiteriez-vous que ces Chamans se joignent à vous ?
+Ces Chamans sont terrifiÃ©s par les Ã©vÃ©nements rÃ©cents. Ils ne font confiance qu'Ã  leurs semblables et refusent de se joindre Ã  d'autres. Ils prÃ©tendent possÃ©der une sorte d'artÃ©fact magique.
+Tant que l'un d'eux ne sera pas Ã  vos cÃ´tÃ©s, les Chamans ne voudront mÃªme pas vous Ã©couter.
+Souhaiteriez-vous que ces Chamans se joignent Ã  vousÂ ?
 
 (42, 66, 0) ***Event***
 Message:
@@ -337,15 +337,15 @@ Message:
 
 (92, 107, 0) ***Quest Guard***
 Message:
-Un des Hommes Lezards capturés a déclaré avoir vu le seigneur démon Harro remettre la clef de ce portail au chef des Hommes Lezards, Thias. Il la possède probablement encore.
-Sans vaincre Thias, il est impossible d'obtenir la clef de ce mystérieux portail.
-Vous Insérez la clef complexe dans une serrure sur l'une des colonnes, et le portail s'illumine d'une douce lumière. Souhaitez-vous y entrer ?
+Un des Hommes Lezards capturÃ©s a dÃ©clarÃ© avoir vu le seigneur dÃ©mon Harro remettre la clef de ce portail au chef des Hommes Lezards, Thias. Il la possÃ¨de probablement encore.
+Sans vaincre Thias, il est impossible d'obtenir la clef de ce mystÃ©rieux portail.
+Vous InsÃ©rez la clef complexe dans une serrure sur l'une des colonnes, et le portail s'illumine d'une douce lumiÃ¨re. Souhaitez-vous y entrerÂ ?
 
 (39, 50, 0) ***Seer's Hut***
 Message:
-Un concours de tir à l'arc se déroule ici. Malheureusement, les représentants des elfes du Nord, des habitants des profondeurs et des Hommes Lezards des terres de l'Est sont absents. Trouvez ceux qui acceptent de participer, et les organisateurs vous offriront des flèches magiques en récompense.
+Un concours de tir Ã  l'arc se dÃ©roule ici. Malheureusement, les reprÃ©sentants des elfes du Nord, des habitants des profondeurs et des Hommes Lezards des terres de l'Est sont absents. Trouvez ceux qui acceptent de participer, et les organisateurs vous offriront des flÃ¨ches magiques en rÃ©compense.
 Il manque encore des participants pour que le concours puisse commencer.
-Les organisateurs sont ravis et prêts à vous remettre les flèches. Souhaitez-vous les prendre ?
+Les organisateurs sont ravis et prÃªts Ã  vous remettre les flÃ¨ches. Souhaitez-vous les prendreÂ ?
 
 (2, 84, 0) ***Alchemist***
 Name:
@@ -353,9 +353,9 @@ Elanda
 
 (4, 52, 0) ***Quest Guard***
 Message:
-Ces Jotunns sont contraints de payer tribut à la sorcière Sveva, qui s'est installée sur une île plus au sud. Si vous la vainquez, ils seront prêts à se joindre à vous.
-Sveva est encore puissante, les Jotunns ne peuvent pas se joindre à vous.
-Sveva est morte, et les Jotunns sont prêts à rejoindre vos forces. Souhaitez-vous les accepter ?
+Ces Jotunns sont contraints de payer tribut Ã  la sorciÃ¨re Sveva, qui s'est installÃ©e sur une Ã®le plus au sud. Si vous la vainquez, ils seront prÃªts Ã  se joindre Ã  vous.
+Sveva est encore puissante, les Jotunns ne peuvent pas se joindre Ã  vous.
+Sveva est morte, et les Jotunns sont prÃªts Ã  rejoindre vos forces. Souhaitez-vous les accepterÂ ?
 
 (34, 83, 0) ***Event***
 Message:
@@ -363,21 +363,21 @@ IA - mouvements
 
 (99, 88, 0) ***Quest Guard***
 Message:
-Ici vit une sorcière qui régnait sur les Hommes Lezards et les gnolls avant que Thias, adorateur du démon, ne prenne le pouvoir. Sachant que Thias cherche désespérément à la tuer, elle ne laissera personne franchir la barrière magique qui protège sa demeure tant qu'il sera en vie.
-— Apportez-moi la tête de Thias, et nous pourrons discuter ! — hurle la sorcière depuis sa demeure.
-— Enfin, ce salaud est mort ! — dit-elle avec une satisfaction manifeste. — Maintenant, si vous le souhaitez, nous pouvons discuter.
+Ici vit une sorciÃ¨re qui rÃ©gnait sur les Hommes Lezards et les gnolls avant que Thias, adorateur du dÃ©mon, ne prenne le pouvoir. Sachant que Thias cherche dÃ©sespÃ©rÃ©ment Ã  la tuer, elle ne laissera personne franchir la barriÃ¨re magique qui protÃ¨ge sa demeure tant qu'il sera en vie.
+â€” Apportez-moi la tÃªte de Thias, et nous pourrons discuter ! â€” hurle la sorciÃ¨re depuis sa demeure.
+â€” Enfin, ce salaud est mort ! â€” dit-elle avec une satisfaction manifeste. â€” Maintenant, si vous le souhaitez, nous pouvons discuter.
 
 (27, 83, 0) ***Quest Guard***
 Message:
-Ce passage mène aux terres des Chevaliers. Mais il faut d'abord vaincre Nell, la chef Barbare. Il serait imprudent de laisser un ennemi aussi dangereux derrière soi.
-Nell est toujours en vie, et son armée est toujours puissante et menace vos arrières.
-Souhaitez-vous passer ?
+Ce passage mÃ¨ne aux terres des Chevaliers. Mais il faut d'abord vaincre Nell, la chef Barbare. Il serait imprudent de laisser un ennemi aussi dangereux derriÃ¨re soi.
+Nell est toujours en vie, et son armÃ©e est toujours puissante et menace vos arriÃ¨res.
+Souhaitez-vous passerÂ ?
 
 (8, 44, 0) ***Seer's Hut***
 Message:
-Le Jotunn vous explique qu'il a besoin de 8 pendentifs qu'il a jadis acquis lors de glorieuses campagnes, mais qu'il a ensuite vendus a diverses personnes, et il ignore où ils se trouvent désormais. Si vous les lui rapportez, il est prêt à partager son savoir avec vous.
-Le Jotunn vous regarde sans dire un mot. Il est clair qu'il n'a aucune intention de vous parler tant que vous ne lui aurez pas apporté les pendentifs.
-Le Jotunn est prêt à commencer son récit. Souhaitez-vous entendre son histoire ?
+Le Jotunn vous explique qu'il a besoin de 8 pendentifs qu'il a jadis acquis lors de glorieuses campagnes, mais qu'il a ensuite vendus a diverses personnes, et il ignore oÃ¹ ils se trouvent dÃ©sormais. Si vous les lui rapportez, il est prÃªt Ã  partager son savoir avec vous.
+Le Jotunn vous regarde sans dire un mot. Il est clair qu'il n'a aucune intention de vous parler tant que vous ne lui aurez pas apportÃ© les pendentifs.
+Le Jotunn est prÃªt Ã  commencer son rÃ©cit. Souhaitez-vous entendre son histoireÂ ?
 
 (34, 71, 0) ***Event***
 Message:
@@ -402,9 +402,9 @@ Message:
 
 (6, 44, 0) ***Quest Guard***
 Message:
-Un Jotunn solitaire vit ici. Il souhaite revoir l'un de ses frères de l'île du Sud. Tant qu'il n'aura pas de leurs nouvelles, il ne discutera pas avec vous.	
+Un Jotunn solitaire vit ici. Il souhaite revoir l'un de ses frÃ¨res de l'Ã®le du Sud. Tant qu'il n'aura pas de leurs nouvelles, il ne discutera pas avec vous.	
 Le Jotunn vous regarde et retourne dans sa hutte.
-Le Jotunn en ressort et vous salue d'un geste de la main, vous invitant à entrer. Voulez-vous le suivre ?
+Le Jotunn en ressort et vous salue d'un geste de la main, vous invitant Ã  entrer. Voulez-vous le suivreÂ ?
 
 (64, 83, 0) ***Event***
 Message:
@@ -412,9 +412,9 @@ IA - mouvements
 
 (25, 96, 0) ***Quest Guard***
 Message:
-Les Anges présents ici ont déjà prêté allégeance aux elfes du Nord, mais contre une juste récompense, ils sont prêts à vous suivre. Pour leurs services, ils demandent 75 Gemmes et 50 000 Pièces d'Or.
-Vous ne possédez pas la somme requise, et les Anges n'accepteront rien de moins.	
-Les Anges sont prêts à vous suivre. Souhaitez-vous les recruter ?
+Les Anges prÃ©sents ici ont dÃ©jÃ  prÃªtÃ© allÃ©geance aux elfes du Nord, mais contre une juste rÃ©compense, ils sont prÃªts Ã  vous suivre. Pour leurs services, ils demandent 75 Gemmes et 50Â 000 PiÃ¨ces d'Or.
+Vous ne possÃ©dez pas la somme requise, et les Anges n'accepteront rien de moins.	
+Les Anges sont prÃªts Ã  vous suivre. Souhaitez-vous les recruterÂ ?
 
 (45, 70, 0) ***Pandora's Box***
 Message:
@@ -422,27 +422,27 @@ Message:
 
 (74, 8, 0) ***Quest Guard***
 Message:
-Austain le Conjureur a créé une barrière d'eau bloquant tout passage dans ces eaux. Tant qu'il ne sera pas vaincu, la barrière restera en place.
-Austain le Conjureur a créé une barrière d'eau bloquant tout passage dans ces eaux. Tant qu'il ne sera pas vaincu, la barrière restera en place.
-Voulez-vous passer ?
+Austain le Conjureur a crÃ©Ã© une barriÃ¨re d'eau bloquant tout passage dans ces eaux. Tant qu'il ne sera pas vaincu, la barriÃ¨re restera en place.
+Austain le Conjureur a crÃ©Ã© une barriÃ¨re d'eau bloquant tout passage dans ces eaux. Tant qu'il ne sera pas vaincu, la barriÃ¨re restera en place.
+Voulez-vous passerÂ ?
 
 (45, 95, 0) ***Quest Guard***
 Message:
-Ce passage mène aux terres des Chevaliers. Mais il faut d'abord vaincre Nell, la chef Barbare. Il serait imprudent de laisser un ennemi aussi dangereux derrière soi.
-Nell est toujours en vie, et son armée est toujours puissante et menace vos arrières.
-Souhaitez-vous passer ?
+Ce passage mÃ¨ne aux terres des Chevaliers. Mais il faut d'abord vaincre Nell, la chef Barbare. Il serait imprudent de laisser un ennemi aussi dangereux derriÃ¨re soi.
+Nell est toujours en vie, et son armÃ©e est toujours puissante et menace vos arriÃ¨res.
+Souhaitez-vous passerÂ ?
 
 (105, 6, 0) ***Quest Guard***
 Message:
-Le passage est bloqué par une barrière magique, entretenue par une sorcière elfe qui protège sa présente maîtresse.
-Vainquer la sorcière elfe, ensuite vous pourrez passer.
-Viveca est vaincue et la barrière est désormais levée sans difficulté. Voulez-vous continuer ?
+Le passage est bloquÃ© par une barriÃ¨re magique, entretenue par une sorciÃ¨re elfe qui protÃ¨ge sa prÃ©sente maÃ®tresse.
+Vainquer la sorciÃ¨re elfe, ensuite vous pourrez passer.
+Viveca est vaincue et la barriÃ¨re est dÃ©sormais levÃ©e sans difficultÃ©. Voulez-vous continuerÂ ?
 
 (78, 27, 1) ***Quest Guard***
 Message:
-Des Anges résident ici et sont prêts à vous servir moyennant une somme raisonnable. 50 000 Pièces d'Or et 50 Gemmes suffiront.
-Les Anges n'accepteront rien de moins que 50 000 Pièces d'Or et 50 Gemmes.
-Souhaitez-vous attirer les Anges à votre service ?
+Des Anges rÃ©sident ici et sont prÃªts Ã  vous servir moyennant une somme raisonnable. 50Â 000 PiÃ¨ces d'Or et 50 Gemmes suffiront.
+Les Anges n'accepteront rien de moins que 50Â 000 PiÃ¨ces d'Or et 50 Gemmes.
+Souhaitez-vous attirer les Anges Ã  votre serviceÂ ?
 
 (82, 97, 1) ***Pandora's Box***
 Message:
@@ -454,9 +454,9 @@ Message:
 
 (97, 28, 1) ***Quest Guard***
 Message:
-Les gardes démoniaques peuvent être soudoyés pour 50 Gemmes.
-Les démons n'accepteront pas moins de 50 Gemmes.
-Avides, ils s'emparent des Gemmes et se dispersent. Voulez-vous passer ?
+Les gardes dÃ©moniaques peuvent Ãªtre soudoyÃ©s pour 50 Gemmes.
+Les dÃ©mons n'accepteront pas moins de 50 Gemmes.
+Avides, ils s'emparent des Gemmes et se dispersent. Voulez-vous passerÂ ?
 
 (24, 1, 1) ***Elementalist***
 Name:
@@ -464,15 +464,15 @@ Une
 
 (96, 24, 1) ***Quest Guard***
 Message:
-Les gardes démoniaques peuvent être soudoyés pour 50 Gemmes.
-Les démons n'accepteront pas moins de 50 Gemmes.
-Avides, ils s'emparent des Gemmes et se dispersent. Voulez-vous passer ?
+Les gardes dÃ©moniaques peuvent Ãªtre soudoyÃ©s pour 50 Gemmes.
+Les dÃ©mons n'accepteront pas moins de 50 Gemmes.
+Avides, ils s'emparent des Gemmes et se dispersent. Voulez-vous passerÂ ?
 
 (42, 2, 1) ***Quest Guard***
 Message:
-Les bibliothécaires en robes bleues vous dévisagent. Ils expliquent que seuls ceux qui auront recueilli tous les signes aupres de leurs frères à la surface seront admis à la bibliothèque.
-Sans les signes requis, l'entrée vous est refusée. 
-Les bibliothécaires vous observent, puis les artéfacts que vous avez apportés, et finissent par hocher la tête. Souhaitez-vous entrer dans la bibliothèque ?
+Les bibliothÃ©caires en robes bleues vous dÃ©visagent. Ils expliquent que seuls ceux qui auront recueilli tous les signes aupres de leurs frÃ¨res Ã  la surface seront admis Ã  la bibliothÃ¨que.
+Sans les signes requis, l'entrÃ©e vous est refusÃ©e. 
+Les bibliothÃ©caires vous observent, puis les artÃ©facts que vous avez apportÃ©s, et finissent par hocher la tÃªte. Souhaitez-vous entrer dans la bibliothÃ¨queÂ ?
 
 (104, 4, 1) ***Knight***
 Name:
@@ -492,8 +492,8 @@ Erne
 
 (91, 11, 1) ***Quest Guard***
 Message:
-Les Diables du coin fuient Harro comme la peste. Tant qu'il sera en vie, ils refuseront de vous obéir.
-Harro est toujours vivant, et les Diables ne veulent pas se mettre à votre service.	
+Les Diables du coin fuient Harro comme la peste. Tant qu'il sera en vie, ils refuseront de vous obÃ©ir.
+Harro est toujours vivant, et les Diables ne veulent pas se mettre Ã  votre service.	
 Les Diables ouvrent le passage vers leur demeure. Voulez-vous les recruters ?
 
 (19, 54, 1) ***Wizard***
@@ -510,9 +510,9 @@ Porphyrios
 
 (101, 103, 1) ***Seer's Hut***
 Message:
-Le vieux chaman prétend vouloir créer une source de chaleur inépuisable, mais pour cela, il lui faut cinq Oiseaux de Feu vivants. En échange, il vous offrira un dragon bleu qu'il à réussi a apprivoiser.
-Sans oiseaux, un chaman ne peut créer de feu.
-Le chaman entame un étrange rituel, mais il échoue : lui et les oiseaux disparaissent dans une explosion de flammes. Au moins, le dragon bleu apprivoisé est toujours là. Voulez-vous l'emmener avec vous ?
+Le vieux chaman prÃ©tend vouloir crÃ©er une source de chaleur inÃ©puisable, mais pour cela, il lui faut cinq Oiseaux de Feu vivants. En Ã©change, il vous offrira un dragon bleu qu'il Ã  rÃ©ussi a apprivoiser.
+Sans oiseaux, un chaman ne peut crÃ©er de feu.
+Le chaman entame un Ã©trange rituel, mais il Ã©choue : lui et les oiseaux disparaissent dans une explosion de flammes. Au moins, le dragon bleu apprivoisÃ© est toujours lÃ . Voulez-vous l'emmener avec vous ?
 
 (99, 4, 1) ***Event***
 Message:
@@ -524,7 +524,7 @@ Dux
 
 (98, 2, 1) ***Demoniac***
 Name:
-Heimarmène
+HeimarmÃ¨ne
 
 (92, 3, 1) ***Ranger***
 Name:
@@ -548,54 +548,54 @@ Cassandra
 
 (91, 94, 1) ***Quest Guard***
 Message:
-Harro l'Effrit a érige une barrière qui bloque le passage. Vous devez le vaincre pour passer.
-Harro l'Effrit a érige une barrière qui bloque le passage. Vous devez le vaincre pour passer.
-Harro est vaincu ; vous pouvez passer.
+Harro l'Effrit a Ã©rige une barriÃ¨re qui bloque le passage. Vous devez le vaincre pour passer.
+Harro l'Effrit a Ã©rige une barriÃ¨re qui bloque le passage. Vous devez le vaincre pour passer.
+Harro est vaincuÂ ; vous pouvez passer.
 
 ===== Extended Events =====
 ***Event Texts***
 Message:
-Après une brève escarmouche, nous avons réussi à convaincre le chef du village des îles du Nord-Ouest de se joindre à notre expédition.
+AprÃ¨s une brÃ¨ve escarmouche, nous avons rÃ©ussi Ã  convaincre le chef du village des Ã®les du Nord-Ouest de se joindre Ã  notre expÃ©dition.
 
 
 ***Event Texts***
 Proposal Message:
-Un chaman vit ici. Il maîtrise l'art de puiser le pouvoir des artéfacts, mais ce faisant, ces derniers sont détruits. Il a besoin de quatre artéfacts pour ce rituel.
+Un chaman vit ici. Il maÃ®trise l'art de puiser le pouvoir des artÃ©facts, mais ce faisant, ces derniers sont dÃ©truits. Il a besoin de quatre artÃ©facts pour ce rituel.
 Progress Message:
-Vous ne possédez pas les artéfacts dont le chaman a besoin.
+Vous ne possÃ©dez pas les artÃ©facts dont le chaman a besoin.
 Completion Message:
-Souhaitez-vous offrir des artéfacts au chaman ?
+Souhaitez-vous offrir des artÃ©facts au chaman ?
 Hint:
-Apportez la hache du centaure, le bouclier des seigneurs nains, la cuirasse en bois pétrifié et le heaume de la licorne.
+Apportez la hache du centaure, le bouclier des seigneurs nains, la cuirasse en bois pÃ©trifiÃ© et le heaume de la licorne.
 
 ***Event Texts***
 Proposal Message:
-Un chaman vit ici. Il maîtrise l'art de puiser le pouvoir des artéfacts, mais ce faisant, ces derniers sont détruits. Il a besoin de quatre artéfacts pour ce rituel.
+Un chaman vit ici. Il maÃ®trise l'art de puiser le pouvoir des artÃ©facts, mais ce faisant, ces derniers sont dÃ©truits. Il a besoin de quatre artÃ©facts pour ce rituel.
 Progress Message:
-Vous ne possédez pas les artéfacts dont le chaman a besoin.
+Vous ne possÃ©dez pas les artÃ©facts dont le chaman a besoin.
 Completion Message:
-Voulez-vous donner les artéfacts au chaman ?
+Voulez-vous donner les artÃ©facts au chaman ?
 Hint:
-Apportez le Fléau des Gnolls, la Rondache du Roi Gnoll, l'Écu des Ténèbres et la Carapace de Basilic.
+Apportez le FlÃ©au des Gnolls, la Rondache du Roi Gnoll, l'Ã‰cu des TÃ©nÃ¨bres et la Carapace de Basilic.
 
 ***Event Texts***
 Proposal Message:
-Un chaman vit ici. Il maîtrise l'art de puiser le pouvoir des artéfacts, mais ce faisant, ces derniers sont détruits. Il a besoin de quatre artéfacts pour ce rituel.
+Un chaman vit ici. Il maÃ®trise l'art de puiser le pouvoir des artÃ©facts, mais ce faisant, ces derniers sont dÃ©truits. Il a besoin de quatre artÃ©facts pour ce rituel.
 Progress Message:
-Vous ne possédez pas les artéfacts dont le chaman a besoin.
+Vous ne possÃ©dez pas les artÃ©facts dont le chaman a besoin.
 Completion Message:
-Voulez-vous donner les artéfacts au chaman ?
+Voulez-vous donner les artÃ©facts au chaman ?
 Hint:
-Apportez l'Épée Flamboyante, le Casque Ouragan, le Bouclier des Damnés et le Plastron Vulcain.
+Apportez l'Ã‰pÃ©e Flamboyante, le Casque Ouragan, le Bouclier des DamnÃ©s et le Plastron Vulcain.
 
 ***Event Texts***
 Proposal Message:
-Un chaman vit ici. Il maîtrise l'art de puiser le pouvoir des artéfacts, mais ce faisant, ces derniers sont détruits. Il a besoin de quatre artéfacts pour ce rituel.
+Un chaman vit ici. Il maÃ®trise l'art de puiser le pouvoir des artÃ©facts, mais ce faisant, ces derniers sont dÃ©truits. Il a besoin de quatre artÃ©facts pour ce rituel.
 Progress Message:
-Vous ne possédez pas les artéfacts dont le chaman a besoin.
+Vous ne possÃ©dez pas les artÃ©facts dont le chaman a besoin.
 Completion Message:
-Voulez-vous donner les artéfacts au chaman ?
+Voulez-vous donner les artÃ©facts au chaman ?
 Hint:
-Apportez le Trident de Poséidon, le Bouclier des Tempêtes, la Broigne Royale Nix et la Couronne des Cinq Mers.
+Apportez le Trident de PosÃ©idon, le Bouclier des TempÃªtes, la Broigne Royale Nix et la Couronne des Cinq Mers.
 
 ===== End of file =====
