@@ -2,7 +2,7 @@
 Assaut de glace
 
 ===== Map description =====
-Depuis des siècles, les habitants de ces terres glacées vivent retranchés sur leurs terres, repoussant les raids de leurs voisins attirés par les cristaux et autres richesses. Mais ces derniers mois, le froid s'est abattu sur les royaumes ennemis, désormais ravagés par le gel. L'heure de la riposte a sonné.
+Depuis des siècles, les habitants de ces terres glacées vivent retranchés sur leurs terres, repoussant les raids de leurs voisins attirés par les cristaux et autres richesses. Mais ces derniers mois, le froid s'est abattu sur les royaumes ennemis, désormais ravagés par le gel.
 
 ===== Rumors =====
 
