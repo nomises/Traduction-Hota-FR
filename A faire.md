@@ -2,7 +2,7 @@
 
 ## Maps
 ### Traduire
-* Ice Assault
+* ~~Ice Assault~~
 * ~~Invasion~~
 * ~~Buried Treasure~~
 
