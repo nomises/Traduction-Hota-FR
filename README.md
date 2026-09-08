@@ -81,6 +81,13 @@ Ce projet vise à traduire en français l’extension Horn of the Abyss (HotA) p
     2. "File" -> "Export text"
     3. Ouvrez le fichier dans un éditeur de texte.
     4. Remplacez les textes par les versions traduites.
+- tut
+    1. Renommer l'extension en `.h3m`.
+    2. Vous pouvez maintenant l'ouvrir dans l'éditeur de carte de votre instance d'HOTA
+    3. "File" -> "Export text"
+    4. Ouvrez le fichier dans un éditeur de texte.
+    5. Remplacez les textes par les versions traduites.
+    6. Renommer l'extension en `.tut`.
 
 ### Hota_dat
 1. Ouvrez le fichier dans un **comparateur de fichiers** comme `DiffMerge` (dans outils).

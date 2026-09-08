@@ -1,4 +1,4 @@
-Sections count: 432
+Sections count: 433
 ------------------------------------------------
 Name: "monst150"
 Path: "Monsters\monster150.str"
@@ -1095,7 +1095,7 @@ Text 7: ""
 Text 8: ""
 Has FilS: "true"
 FilS size: 116
-FilS: "0b 00 00 00 05 00 00 00 0c 55 67 00 00 55 67 00 11 00 00 00 80 da 9e 03 60 da 9e 03 30 da 9e 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 03 00 00 41 06 00 00 41 06 00 00 02 00 00 00 01 00 00 00 87 00 00 00 06 00 00 00 0e 00 00 00 12 00 00 00 0e 00 00 00 14 00 00 00 00 00 00 00 00 00 00 00 05 00 00 00 0a 00 00 00"
+FilS: "0b 00 00 00 05 00 00 00 0c 55 67 00 00 55 67 00 11 00 00 00 80 da 9e 03 60 da 9e 03 30 da 9e 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 03 00 00 88 06 00 00 88 06 00 00 02 00 00 00 01 00 00 00 87 00 00 00 06 00 00 00 0e 00 00 00 12 00 00 00 0e 00 00 00 14 00 00 00 00 00 00 00 00 00 00 00 05 00 00 00 0a 00 00 00"
 Vals count: "4"
 Val 0: "0"
 Val 1: "90"
@@ -2581,7 +2581,7 @@ Text 3: "Orientation"
 Text 4: "Secondary Skill Bonus: Orientation"
 Text 5: "{Orientation}
 
-Augmente l'effet de la compétence d'Orientation, réduisant le coût de déplacement sur les terrains difficiles de 5%."
+Augmente l'effet de la compétence d'Orientation, réduisant le coût de déplacement sur les terrains difficiles de 10%."
 Text 6: "Ergon"
 Text 7: "Ergon a passé sa longue vie en mouvement constant. Il a servi dans la garde du Tueur de Seigneur à Enroth, a protégé les caravanes elfiques à Jadame et a vendu son épée à Antagarich, pour finalement réaliser, dans ses dernières années, qu'il aspirait à un endroit où le temps lui-même semblait s'être arrêté. Cela dit, son talent pour organiser des marches rapides est toujours là, chaque fois que le besoin s'en fait sentir."
 Text 8: ""
@@ -2697,7 +2697,7 @@ Text 3: "Bouclier"
 Text 4: "Spell Bonus: Bouclier"
 Text 5: "{Bouclier}
 
-Lance Bouclier avec un effet augmenté de 10% tous les N niveau du Héros, où N est le rang de la créature ciblée."
+Lance Bouclier avec un effet augmenté de 5% tous les N niveau du Héros, où N est le rang de la créature ciblée."
 Text 6: "Dalton"
 Text 7: "Les armes ordinaires peinent à égratigner un Jotunn, mais croire que ces colosses négligent leur protection relève de la pure folie. Dalton est le forgeron le plus habile capable de forger un équipement d'une telle taille. Malgré la piètre qualité de la Pierre de Vori, Dalton a percé les secrets de la magie pour s'assurer que ses créations puissent résister à tout, même à la fureur d'un démon de glace."
 Text 8: ""
@@ -2732,7 +2732,7 @@ Text 7: "Tout le monde à Vori le sait : lorsque tous les remèdes ont échoué, le 
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
-FilS: "01 00 00 00 19 00 00 00 17 00 00 00 07 00 00 00 01 00 00 00 1b 00 00 00 01 00 00 00 01 00 00 00 23 00 00 00 ba 00 00 00 93 00 00 00 be 00 00 00 00 00 00 00 00 00 00 00 01 01 00 00 00 00 00 00 00 00 00 00 14 00 00 00 1e 00 00 00 01 00 00 00 01 00 00 00 03 00 00 00 05 00 00 00"
+FilS: "01 00 00 00 19 00 00 00 17 00 00 00 07 00 00 00 01 00 00 00 1b 00 00 00 01 00 00 00 01 00 00 00 23 00 00 00 ba 00 00 00 93 00 00 00 be 00 00 00 00 00 00 00 00 00 00 00 01 01 01 00 00 00 00 00 00 00 00 00 14 00 00 00 1e 00 00 00 01 00 00 00 01 00 00 00 03 00 00 00 05 00 00 00"
 Vals count: "8"
 Val 0: "240"
 Val 1: "0"
@@ -3128,7 +3128,7 @@ Les Esprits des Ancêtres permettent de recruter 50% de créatures en plus chaque 
 Cette amélioration du Marché fournit des ressources supplémentaires : +1 unité de Bois et de Pierre par jour."
 Has FilS: "true"
 FilS size: 252
-FilS: "05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 d0 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 d0 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 05 00 00 00 00 00 00 00 02 00 00 00 02 00 00 00 e8 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00 02 00 00 00 e8 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
+FilS: "0a 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 d0 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 d0 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 d0 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 05 00 00 00 00 00 00 00 02 00 00 00 02 00 00 00 e8 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00 02 00 00 00 e8 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
 Vals count: "4"
 Val 0: "0"
 Val 1: "0"
@@ -4185,7 +4185,7 @@ Bonus: {+%d%%}
 ""Bonus: +%d%%
 
 {Résultat de la compétence}
-+%d points de mouvement sur une étendue d'eau""
++%d%% points de mouvement sur une étendue d'eau""
 #374
 ""Bonus: +%d%%
 
@@ -4267,11 +4267,27 @@ Vous prenez le contrôle d'une mine d'or abandonnée. Elle vous rapportera %s par 
 #397
 +1000 Pièces d'Or
 #398
-Jours restants:
+{Jours restants: %d}
 #399
 Cliquez pour afficher sur la carte
 #400
-Aucune cible valide pour le sort %s dans la zone."
+Aucune cible valide pour le sort %s dans la zone.
+#401
+It looks as though there's nothing left here that would be of use to you. You take your leave.
+#402
+Seer%s
+#403
+Time limit expired by month %d, week %d, day %d.
+#404
+(Time limit expired by month %d, week %d, day %d)
+#405
+View Tutorial Messages
+#406
+""{View Tutorial Messages}
+
+Displays received tutorial messages""
+#407
+Joining a lobby room is possible only from the Main Menu or the Online Lobby Main Screen. Return back to the Main Menu and try again."
 Text 8: ""
 Has FilS: "false"
 Vals count: "4"
@@ -4701,7 +4717,21 @@ Aléatoire (300 à 500 Pièces d'Or, ou 3 à 5 Lutins ou Kobolds)
 # 194
 Créatures
 # 195
-Horde de créature de rang 6"
+Horde de créature de rang 6
+# 196
+Specialty
+# 197
+Seer's Name
+# 198
+This structure increases weekly production of Level 6 Creatures.
+# 199
+Summar count of local events and pandora boxes must not exceed 20000.
+# 200
+(new event)
+# 201
+(new variable)
+# 202
+Timeout Message"
 Text 8: ""
 Has FilS: "false"
 Vals count: "4"
@@ -9371,67 +9401,67 @@ Quantité : 3-8.""
 186
 ""Kobold
 créature rang 1 - Muraille
-Quantité : 16-30.""
+Quantité : 20-50.""
 
 54
 187
 ""Contremaître Kobold
 créature rang 1 Sup. - Muraille
-Quantité : 16-25.""
+Quantité : 20-30.""
 
 54
 188
 ""Mouflon des Montagnes
 créature rang 2 - Muraille
-Quantité : 12-25.""
+Quantité : 16-30.""
 
 54
 189
 ""Argali
 créature rang 2 Sup. - Muraille
-Quantité : 12-20.""
+Quantité : 16-25.""
 
 54
 190
 ""Elfe des Neiges
 créature rang 3 - Muraille
-Quantité : 10-20.""
+Quantité : 12-25.""
 
 54
 191
 ""Elfe d'Acier
 créature rang 3 Sup. - Muraille
-Quantité : 10-26.""
+Quantité : 12-25.""
 
 54
 192
 ""Yéti
 créature rang 4 - Muraille
-Quantité: 8-16.""
+Quantité: 10-20.""
 
 54
 193
 ""Yéti Runiste
 créature rang 4 Sup. - Muraille
-Quantité: 8-12.""
+Quantité: 10-16.""
 
 54
 194
 ""Chaman
 créature rang 5 - Muraille
-Quantité: 5-12.""
+Quantité: 8-16.""
 
 54
 195
 ""Chaman Vénérable
 créature rang 5 Sup. - Muraille
-Quantité: 5-10.""
+Quantité: 8-12.""
 
 54
 196
 ""Mammouth
 créature rang 6 - Muraille
-Quantité: 4-10.""
+Quantité: 5-10.""
 
 54
 197
@@ -10146,7 +10176,7 @@ Grenouilles
 Poule
 Coq
 Algues
-Ancien Camp
+Ancien Fort
 Fontaine en Ruine
 Cochon
 Autel en Ruine
@@ -11026,7 +11056,8 @@ HPL232.pcx
 HPL233.pcx
 HPL234.pcx
 HPL235.pcx
-HPL236.pcx"
+HPL236.pcx
+"
 Text 8: "HPLP01s.pcx
 HPLP02s.pcx
 HPLP03s.pcx
@@ -11108,7 +11139,8 @@ HPS232.pcx
 HPS233.pcx
 HPS234.pcx
 HPS235.pcx
-HPS236.pcx"
+HPS236.pcx
+"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -11450,10 +11482,17 @@ Texts count: "9"
 Text 0: "Tente du Maître des Clefs"
 Text 1: "Poste Frontière"
 Text 2: "Garde"
-Text 3: ""
-Text 4: ""
+Text 3: "Hut of the Magi"
+Text 4: "Eye of the Magi"
 Text 5: ""
-Text 6: ""
+Text 6: "Light Blue
+Green
+Red
+Blue
+Tan
+Purple
+White
+Black"
 Text 7: "Bleu pâle
 Green
 Red
@@ -11534,7 +11573,7 @@ Vals count: "4"
 Val 0: "0"
 Val 1: "1"
 Val 2: "8"
-Val 3: "0"
+Val 3: "1"
 ------------------------------------------------
 
 ------------------------------------------------
@@ -13015,7 +13054,7 @@ Text 7: ""
 Text 8: ""
 Has FilS: "true"
 FilS size: 192
-FilS: "00 00 00 00 00 00 24 00 35 00 0f 00 27 00 2d 00 40 00 82 00 53 00 6f 00 6a 00 4a 00 8e 00 68 00 cf 00 d1 00 b1 00 b7 00 f2 00 e9 00 f3 00 e0 00 d8 00 d7 00 f2 00 fc 00 3d 01 01 01 38 01 25 01 48 01 7b 01 6c 01 59 01 77 01 6e 01 b5 01 90 01 aa 01 ba 01 e3 01 ea 01 c4 01 b0 01 e1 01 04 02 00 00 98 00 4d 01 00 00 65 00 df 00 17 01 69 01 ba 01 00 00 51 00 71 00 b8 00 e3 00 0c 01 8f 01 05 00 d5 00 3f 01 c0 01 17 00 46 00 a6 00 03 01 16 01 79 01 d1 01 00 00 8a 00 d2 00 2b 01 98 01 94 01 1e 00 85 00 c5 00 2a 01 b3 01 00 00 c5 00 57 01 c3 01 00 00 9b 00 d3 00 26 01 63 01 86 01"
+FilS: "00 00 00 00 00 00 23 00 36 00 10 00 28 00 2f 00 3f 00 81 00 54 00 6f 00 6a 00 4a 00 8e 00 69 00 d2 00 cf 00 b1 00 b8 00 f2 00 e9 00 f3 00 e1 00 d8 00 d6 00 f6 00 fd 00 3c 01 01 01 36 01 24 01 45 01 7d 01 6a 01 5b 01 77 01 6e 01 b6 01 92 01 aa 01 bb 01 e3 01 ed 01 c4 01 b2 01 e0 01 04 02 00 00 9e 00 4e 01 00 00 6b 00 df 00 19 01 6a 01 ba 01 00 00 50 00 75 00 b7 00 e1 00 0b 01 93 01 06 00 d5 00 3e 01 bf 01 18 00 46 00 a7 00 04 01 15 01 7c 01 d0 01 00 00 89 00 d2 00 2a 01 99 01 95 01 1f 00 86 00 c5 00 2b 01 b3 01 00 00 c6 00 57 01 c1 01 00 00 9c 00 d3 00 28 01 64 01 86 01"
 Vals count: "4"
 Val 0: "0"
 Val 1: "0"
@@ -13301,7 +13340,7 @@ Text 7: "Niveaux de Construction"
 Text 8: ""
 Has FilS: "true"
 FilS size: 352
-FilS: "00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 03 00 00 00 00 00 00 00 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 80 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 04 00 00 00 00 00 00 00 0c 00 00 00 00 00 00 00 1c 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 08 00 00 00 00 00 00 00 08 04 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 20 00 00 00 00 00 00 00 40 00 00 00 00 00 00 00 00 00 02 00 00 00 00 00 00 01 02 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 10 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 40 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 02 00 00 00 00 00 00 00 04 00 00 00 00 00 00 00 08 00 00 00 00 00 00 00 10 00 00 00"
+FilS: "00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 03 00 00 00 00 00 00 00 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 80 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 04 00 00 00 00 00 00 00 0c 00 00 00 00 00 00 00 1c 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 08 00 00 00 00 00 04 00 08 04 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 20 00 00 00 00 00 00 00 40 00 00 00 00 00 00 00 00 00 02 00 00 00 00 00 00 01 02 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 10 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 40 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 02 00 00 00 00 00 00 00 04 00 00 00 00 00 00 00 08 00 00 00 00 00 00 00 10 00 00 00"
 Vals count: "4"
 Val 0: "0"
 Val 1: "0"
@@ -13380,7 +13419,7 @@ Ketpall
 Meghion
 Thulekh
 Tundara
-Halsmere
+Hallmer
 Ellesmere"
 Text 8: ""
 Has FilS: "false"
@@ -21725,7 +21764,7 @@ Afficher un message"
 Text 1: "# Descriptions des actions
 Séquence d’actions
 Condition (Si / Alors / Sinon si...)
-Enregistrer le résultat de l’expression dans la variable """"%s""""
+Enregistrer le résultat de la condition dans la variable """"%s""""
 Variable %s """"%s""""
 Modifier les ressources
 Supprimer l’objet actuel
@@ -21766,7 +21805,7 @@ Le héros possède un artéfact
 Supérieur ou égal à
 Inférieur ou égal à
 Différent
-Le héros appartient à un joueur donné
+Présent joueur
 Affiliation du héros
 Le héros appartient à une classe donnée
 La créature est vaincue par le joueur
@@ -21776,7 +21815,8 @@ Le joueur est vaincu
 La ville est contrôlée par le joueur
 Le joueur est humain
 Ville de départ du joueur
-La ville est neutre"
+La ville est neutre
+ID du présent héro"
 Text 3: "# Descriptions des expressions booléennes
 Valeur booléenne
 (Et)
@@ -21794,12 +21834,13 @@ Le héros actuel est %s
 La classe du héros est %s
 Vaincre %s
 Vaincre le héros %s
-%s est vaincu
+Héro a %s %s
 %s est vaincu
 %s doit contrôler %s
 %s est humain
 Le type de ville de départ de %s est %s
-La ville actuelle est neutre"
+La ville actuelle est neutre
+Le présent héro est %s"
 Text 4: "# Noms des expressions entières
 Valeur entière
 Valeur de variable
@@ -22310,7 +22351,29 @@ Le joueur actuel possède un certain nombre
 # 220
 Les événements ne peuvent pas être convertis lors de l'édition d'un objet.
 # 221
-Ajouter"
+Ajouter
+# 222
+Variable (read-only)
+# 223
+Give
+# 224
+Take
+# 225
+Value %s: %d
+# 226
+Variable %s do not exist
+# 227
+%s = %d is set.
+# 228
+Created dump: HotA_logs\\%s
+# 229
+All events
+# 230
+Creature count of any type in town's garrison
+# 231
+Player controls %s
+# 232
+Town on map"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -22373,7 +22436,7 @@ Vérifie si la première valeur est supérieure ou égale à la seconde
 Vérifie si la première valeur est inférieure ou égale à la seconde
 Vérifie si la première valeur est différente de la seconde
 Le joueur actuel est un joueur donné
-La recherche d’un héros spécifique a réussi
+Specific hero belongs to certain player
 La classe du héros actuel est une classe donnée
 Une créature spécifique est vaincue par un joueur donné
 Un héros spécifique est vaincu par un héros donné
@@ -22382,7 +22445,8 @@ Un joueur spécifique est vaincu
 Une ville spécifique est contrôlée par un joueur donné
 Le joueur actuel est humain
 Le type de ville de départ du joueur actuel est un type de ville donné
-La ville actuelle est neutre"
+La ville actuelle est neutre
+Current hero is certain hero"
 Text 8: "Constante entière
 Valeur d’une variable spécifique
 Inverser le signe de la valeur de l’expression
@@ -22459,7 +22523,7 @@ Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: "# 0
-Seul un héros en visite peut utiliser la Sieidi des Runes.
+Seul un héros en visite peut utiliser la %s.
 # 1
 Souhaitez-vous que %s maîtrise le savoir des Runes ?
 # 2
@@ -22490,6 +22554,68 @@ Niveau de rune %d (+%d Attaque +%d Défense, +%d Vitesse)
 Les créatures atteignent un nouveau niveau de rune
 # 15
 L'Autel des Runes confère aux unités un niveau de rune initial."
+Text 8: ""
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "specialty0"
+Path: ""
+Texts count: "9"
+Text 0: ""
+Text 1: ""
+Text 2: ""
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: "# 0
+Secondary Skill
+# 1 
+Creatures
+# 2 
+Resources
+# 3
+Spell
+# 4
+Creatures (Special)
+# 5
+Speed
+# 6
+Creature Upgrade
+# 7
+Dragons
+# 8
+Automaton Explosion
+# 9
+Spell Bonus
+# 10
+""{%s}
+
+Casts %s with Damage increased by %d for every n hero levels, where n is the level of the targeted creature.""
+# 11
+""{Pikemen and Halberdiers}
+
+Increases the Speed of any Pikemen or Halberdiers by 1 and their Attack and Defense skills by 10% for every level (rounded up).""
+# 12
+""{Centaurs and Centaur Captains}
+
+Increases the Speed of any Centaurs or Centaur Captains by 1 and their Attack and Defense skills by 10% for every level (rounded up).""
+# 13
+""{Gremlins and Master Gremlins}
+
+Increases the Speed of any Gremlins or Master Gremlins by 1 and their Attack and Defense skills by 10% for every level (rounded up).""
+# 14
+""{Medusas and Medusa Queens}
+
+Increases the Speed of any Medusas or Medusa Queens by 1 and their Attack and Defense skills by 20% for every 4 levels (rounded up).""
+# 15
+Creature Bonus"
 Text 8: ""
 Has FilS: "false"
 Vals count: "4"

@@ -1,0 +1,2471 @@
+===== Map name =====
+Noble Nemesis
+
+===== Map description =====
+A cruel king reigns over the land with an iron fist. As tension builds, who will dare to challenge his rule—and at what cost?
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro Stronghold
+Message:
+The tribes of the wastelands have always fought for survival, but now they must unite to stand against a tyrant's rule. Can you bring them together to challenge the king’s iron fist?
+
+Name:
+Intro Dungeon
+Message:
+Hidden beneath the ground, the dragons are waiting. It’s time to awaken their fury and lead them to battle against the king’s reign.
+
+Name:
+Intro Factory
+Message:
+The king’s rule hasn’t reached the wastelands yet, but his influence grows. Unleash an army of machines and creatures, and tear his empire apart, screw by screw!
+
+Name:
+Intro Fortress
+Message:
+In the swamps and forests, nature holds power—but it’s up to you to command it. Can you wield the forces of nature to take down the king’s army?
+
+Name:
+Intro Necromancer
+Message:
+Imprisoned in darkness for centuries, the Necromancers awake to reclaim their power. Now, it’s time to use the forces of death to challenge the king’s reign.
+
+Name:
+Intro Inferno
+Message:
+Deep within the fiery depths, the heart of the Inferno pulses with untamed fire… With the world on the brink of chaos, will you ignite the flames of havoc and plunge it further into turmoil?
+
+Name:
+Intro Cove
+Message:
+You set sail for treasure, but you learned that the king’s reign has turned your quest into something far more exciting. Grab what you can, and maybe knock a king off his throne while you’re at it!
+
+Name:
+Ziggurat message
+Message:
+At the end of the underground river stands an ancient ziggurat, holding the most powerful artifacts and spells within. To reach it, a hero must first seek the counsel of the Green Tent Keymaster.
+
+===== Heroes =====
+
+Name:
+Valor
+Biography:
+Edric
+
+Name:
+Justice
+Biography:
+Sorsha
+
+Name:
+Judgment
+Biography:
+Christian
+
+Name:
+Dominion
+Biography:
+Tyris
+
+Name:
+Pride
+Biography:
+Rion
+
+Name:
+Honor
+Biography:
+Cuthbert
+
+Name:
+Courage
+Biography:
+Ingham
+
+Name:
+Nobleheart
+Biography:
+Ufretin
+
+Name:
+Fortitude
+Biography:
+Ryland
+
+Name:
+Ufretin
+Biography:
+Orphaned as a child, Ufretin was raised in the northernmost forests of AvLee. He became known throughout the land for his exceptional ability to resist magic of all kinds.
+
+Name:
+Oathkeeper
+Biography:
+Clancy
+
+Name:
+Grashka
+Biography:
+They say Grashka once took down a wyvern with a rusty hook and half a plan. She never speaks of her past—only sharpens her blades by the fire. When she laughs, someone usually dies.
+
+Name:
+Unbroken
+Biography:
+Uland
+
+Name:
+Karma
+Biography:
+Gem
+
+Name:
+Virtue
+Biography:
+Malcom
+
+Name:
+Purifier
+Biography:
+Melodia
+
+Name:
+Thalanar
+Biography:
+Thalanar is said to have been born from the first storm beneath the worldroot. His presence bends light, calms beasts, and silences lies. Few know if he protects the cavern—or if the cavern dreamed him into being.
+
+Name:
+Wisdom
+Biography:
+Josephine
+
+Name:
+Enigma
+Biography:
+Fafner
+
+Name:
+Grulk
+Biography:
+Grulk commands the Cyclopes not with words, but with chains and fear. He keeps them fed, focused, and facing the right direction—usually. No one’s sure who’s more dangerous: the monsters in the cage, or the one holding the key.
+
+Name:
+Gorgthak
+Biography:
+Once bred for war, Gorgthak found purpose in chains and walls. Now he guards the angelic prison with brutal pride, crushing escape and mercy alike. Rumors say he’s never slept—only growled. Even demons keep their distance.
+
+Name:
+Zsarr'khan
+Biography:
+Born in the black waters where the sun never reaches, Zsarr'khan speaks the tongue of swamp and serpent alike. Her eyes burn like drowned fireflies, and the marsh shifts at her command. Some say the swamp isn't guarded by her—it is her.
+
+Name:
+Earth
+
+Name:
+Fire
+
+Name:
+Water
+
+Name:
+Ice
+
+Name:
+Air
+
+Name:
+The King
+Biography:
+Sir Mullich
+
+Name:
+Might
+Biography:
+Catherine
+
+Name:
+Varguk
+Biography:
+Clad in scorched iron and dragonhide, Varguk calls himself King of the Bad Orcs. He feeds prisoners to wyrmlings and sings to the flames. Even dragons give him space—and that's saying something.
+
+===== Objects =====
+
+(90, 207, 0) ***Seer's Hut***
+Message:
+There are seven boar glens in this area. These gorgons won’t eat themselves, you know. Fetch me some boars from the forest—think you can handle it?
+Still wandering among the brambles? The gorgons grow hangry by the minute.
+Ah, that’ll keep them busy for a while. You’ve earned a nod from even the hungriest gorgon.
+There are seven boar glens in this area. These gorgons won’t eat themselves, you know. Fetch me some boars from the forest—think you can handle it?
+Still wandering among the brambles? The gorgons grow hangry by the minute.
+Ah, that’ll keep them busy for a while. You’ve earned a nod from even the hungriest gorgon.
+There are seven boar glens in this area. These gorgons won’t eat themselves, you know. Fetch me some boars from the forest—think you can handle it?
+Still wandering among the brambles? The gorgons grow hangry by the minute.
+Ah, that’ll keep them busy for a while. You’ve earned a nod from even the hungriest gorgon.
+There are seven boar glens in this area. These gorgons won’t eat themselves, you know. Fetch me some boars from the forest—think you can handle it?
+Still wandering among the brambles? The gorgons grow hangry by the minute.
+Ah, that’ll keep them busy for a while. You’ve earned a nod from even the hungriest gorgon.
+There are seven boar glens in this area. These gorgons won’t eat themselves, you know. Fetch me some boars from the forest—think you can handle it?
+Still wandering among the brambles? The gorgons grow hangry by the minute.
+Ah, that’ll keep them busy for a while. You’ve earned a nod from even the hungriest gorgon.
+There are seven boar glens in this area. These gorgons won’t eat themselves, you know. Fetch me some boars from the forest—think you can handle it?
+Still wandering among the brambles? The gorgons grow hangry by the minute.
+Ah, that’ll keep them busy for a while. You’ve earned a nod from even the hungriest gorgon.
+There are seven boar glens in this area. These gorgons won’t eat themselves, you know. Fetch me some boars from the forest—think you can handle it?
+Still wandering among the brambles? The gorgons grow hangry by the minute.
+Ah, that’ll keep them busy for a while. You’ve earned a nod from even the hungriest gorgon.
+These gorgons won’t eat themselves, you know. Fetch me some boars from the forest—think you can handle it?
+Still wandering among the brambles? The gorgons grow hangry by the minute.
+Ah, that’ll keep them busy for a while. You’ve earned a nod from even the hungriest gorgon.
+
+(158, 124, 0) ***Rampart***
+Name:
+Kingdom Bank
+
+(165, 197, 0) ***Sign***
+Message:
+Royal Mines - Temporarily Closed
+
+(190, 129, 0) ***Seer's Hut***
+Message:
+Our trade route runs smoother than a dwarven ale tap. Bring me 20 each of mercury, ore, sulfur, crystal, wood, and gems—think you can manage that haul?
+Still counting, are we?
+Well, that’s one profitable trip—gold never smelled so sweet.
+
+(112, 206, 0) ***Quest Guard***
+Message:
+Welcome to the slave market. 10,000 gold for these beauties.
+Welcome to the slave market. 10,000 gold for these beauties.
+Enjoy your new company.
+
+(110, 206, 0) ***Quest Guard***
+Message:
+Welcome to the slave market. 10,000 gold for these beauties.
+Welcome to the slave market. 10,000 gold for these beauties.
+Enjoy your new company.
+
+(221, 203, 0) ***Necropolis***
+Name:
+Graveshade
+
+Timed events:
+
+Name:
+Weekly units Rook Queen King
+Message:
+
+
+Name:
+Weekly units King
+Message:
+
+
+(58, 92, 0) ***Stronghold***
+Name:
+Stonefort
+
+Timed events:
+
+Name:
+Weekly units Rook Queen King
+Message:
+
+
+Name:
+Weekly units King
+Message:
+
+
+(60, 55, 0) ***Stronghold***
+Name:
+Ironhold
+
+Timed events:
+
+Name:
+Weekly units Rook Queen King
+Message:
+
+
+Name:
+Weekly units King
+Message:
+
+
+(51, 124, 0) ***Stronghold***
+Name:
+Thunderpeak
+
+Timed events:
+
+Name:
+Starting units
+Message:
+
+
+Name:
+Build + Units Rook Queen King
+Message:
+
+
+Name:
+Weekly units All Diff
+Message:
+
+
+Name:
+Weekly units King
+Message:
+
+
+(55, 131, 0) ***Seer's Hut***
+Message:
+I am Zarkul, Shaman of the Canyon. The spirits whisper of a great task—one that only the bold can face.
+The spirits’ call remains strong—are you ready to prove yourself?
+Now, prepare yourself—the true ritual is about to begin.
+The spirits whisper of a pendant stolen by goblins, hidden within their village to the west. Find it.
+The goblins’ village lies to the west—retrieve the pendant.
+You have reclaimed the pendant. The spirits stir with approval; your path grows stronger.
+The winds carry word of Boragus, held captive and broken in chains. Free him from his prison—our cause needs his strength.
+Boragus remains behind bars; time to break his bonds and bring him home.
+Boragus walks free once more. The spirits shift—now you move swifter on the path ahead.
+The shaman’s ritual calls for the strength of a Hydra’s heart. Bring one to fuel the ancient brew.
+The Hydra’s power is still needed to complete the shaman’s potion.
+The ritual grows stronger, and the spirits watch with favor.
+To harness the spirits’ wrath, the shaman needs rare elements—mercury, sulfur, and gems.
+The ritual’s power hinges on those precious elements. Gather them soon, or the spirits grow restless.
+With these gifts, the shaman’s brew is complete. The spirits whisper promises of fortune and fury.
+I need wood, mercury, ore, sulfur, crystal, and gems—rare gifts to craft a scroll that can slow even the quickest foe.
+The spirits grow restless. Bring me the materials so I may finish the scroll.
+The scroll is ready—woven with my will and nature’s power. Use it well to slow those who stand in your way.
+I require mercury, sulfur, and gems to complete a powerful ritual. I will pay you well.
+The ritual’s power hinges on these offerings. Gather them, so I may proceed.
+Excellent. Here is your reward.
+Sharpen your strike—reach an Attack value of 25. Only then can you claim the scroll that clears the path.
+Your strength grows, but you’re not there yet. Push harder—an Attack value of 25 is expected.
+You’ve reached the needed might. Take the scroll and clear the path.
+I need rare elements—mercury, sulfur, and gems. Gather thirty of each; the spirits favor those who prepare well.
+The elements are still needed—mercury, sulfur, and gems, thirty each. Don’t falter.
+With these offerings, the ritual gains power. Take your gold and ready yourself for what comes next.
+To bring life back from the grip of death, I need mercury, sulfur, crystal, and gems.
+The ritual awaits your offerings—mercury, sulfur, crystal, and gems, in the needed amounts. The spirits grow restless.
+With these sacred elements, the power to restore breath is within reach.
+The spirits demand a greater offering—forty mercury, forty sulfur, and forty gems. Gather them well; the ritual grows stronger.
+Still waiting on those forty mercury, sulfur, and gems. The spirits won’t wait forever.
+The offering is complete, and the spirits have blessed us. Take your gold and ready yourself for what’s next.
+Reach level 40—prove your strength to the spirits.
+Keep climbing toward level 40.
+You’ve reached level 40—the spirits honor your journey. Here’s the Scroll of Water Walk; carry it wisely.
+I need these materials to craft a powerful ritual—wood, mercury, ore, sulfur, crystal, and gems. Gather them for me.
+The ritual won’t wait. Bring me the wood, mercury, ore, sulfur, crystal, and gems I asked for.
+You delivered every piece. The ritual is complete—take this 90,000 gold as a token of the spirits’ favor.
+The King stands as the final obstacle. Bring him down, and you’ll earn a power that bends space itself.
+The King’s reign won’t end itself. Take him down and claim what’s waiting beyond the veil.
+The King lies defeated. The way is open—take this Dimension Door spell and step where few dare to follow.
+
+(44, 122, 0) ***Seer's Hut***
+Message:
+I’m Gromak, Slave Master of the Stronghold. Prove your worth or rot in chains—ready for your first task?
+Don’t forget—only the strong survive here. Show me you can handle what I ask.
+Hungry for work, or will you crumble?
+These Halflings keep sneaking past our borders, thinking they’re clever. Bring me 30 of ’em, and I’ll trade you 10 Orc Chieftains—real muscle for real control.
+The Halflings don’t know what’s coming. Don’t waste time—round ’em up before they vanish again.
+Good. The Halflings are caged and ready. Here’s your 10 Orc Chieftains—strong and loyal.
+Some slippery Rogues been pickin’ pockets and runnin’ wild in the northern cave. Track ’em down and bring ’em to me—there’s 5,000 gold in it for you.
+Those Rogues won’t wait forever. Find ’em in the northern cave and put an end to their thievin’ ways.
+Got ’em! Now the gold’s yours. Let’s keep the Stronghold tight—no thieves allowed.
+Kilgor’s locked up, but the Stronghold needs his firepower. Break him out.
+Don’t forget—free Kilgor from that prison.
+Kilgor’s loose. Take these 6 Ogre Magi and show them how to fight.
+There’s an old orc fort out in the wasteland, now crawling with monsters. Kill ’em.
+The Wasteland fort’s still crawling with monsters.
+The monsters are dead, and the fort is ours again. Take these 25 Orc Chieftains—make ’em count.
+I need 75 Hobgoblins, 30 Wolf Raiders, and 20 Ogres—trade ’em for 16 Rocs. Strong flyers for strong raids.
+Still waiting on those Hobgoblins, Wolf Raiders, and Ogres. Get ’em ready for the Rocs.
+The beasts are gathered. Take these 16 Rocs—your wings for the war.
+Bring me 30 Ogres, and I’ll hand over 12 Cyclopes. Bigger fists, bigger damage.
+Ogres still needed. Don’t keep those Cyclopes waiting.
+Ogres delivered. Take these 12 Cyclopes—crushers for your cause.
+Gather 200 Hobgoblins, 100 Wolf Raiders, 50 Orc Chieftains, and 25 Ogres. Bring ‘em all, and I’ll send 18 Behemoths your way. Time to stomp.
+The army’s not complete. Hobgoblins, Raiders, Chieftains, and Ogres—all still needed.
+You’ve brought the might. Take these 18 Behemoths—giants ready to crush.
+I’ve got a unique deal with my dragon keeper friend—his dragons are starving. Bring 300 Hobgoblins, 50 Ogres, 60 Thunderbirds, and 40 Earth Elementals as food.
+The dragon keeper’s waiting on that feast. Still need Hobgoblins, Ogres, Thunderbirds, and Elementals.
+The feast is served. Take these 7 Rust Dragons—fiery allies with an iron bite.
+We found an ancient behemoth cave. To wake up the Behemoths, we will need 400 Hobgoblins, 200 Wolf Raiders, 100 Orc Chieftains, 50 Ogre Magi, 10 Hydras, and 150 Halflings.
+Gather the Hobgoblins, Wolf Raiders, Orc Chieftains, Ogre Magi, Hydras, and Halflings to awaken the Behemoths.
+The ancient Behemoths have risen, thunder shaking the earth.
+Remember my old dragon friend? He’s hungry again and needs more—gather 1,000 Hobgoblins, 500 Wolf Raiders, 350 Orc Chieftains, 150 Ogre Magi, and 150 Thunderbirds to feed his Rust Dragons.
+The dragon’s hunger grows. Keep bringing Hobgoblins, Wolf Raiders, Orc Chieftains, Ogre Magi, and Thunderbirds for the Rust Dragons.
+The Rust Dragons feast once more. Take these 50 fearsome beasts—they owe their strength to your efforts.
+The King sits upon a throne of blood and fire. It’s time to bring his empire crashing down.
+The King still holds court. Steel yourself—this battle will decide everything.
+The King lies slain. The path is open now—take what’s yours and rise beyond the battle.
+
+(154, 215, 0) ***Quest Guard***
+Message:
+The path to the Ancient Library is sealed. Only an offering of 40 Gems will grant you entry.
+You have not yet delivered the full tribute of 40 Gems. The library remains closed.
+The gates of the Ancient Library open before you.
+
+(95, 39, 0) ***Sign***
+Message:
+Dwarven Mines
+
+(208, 62, 0) ***Seer's Hut***
+Message:
+Shh… I have a secret, but only for those beyond the King’s reach. If you are no Knight, Cleric, Ranger, Druid, Alchemist, or Wizard… then step closer, and I shall share it.
+This secret is not for servants of the King. Only another path may claim what I offer.
+You have chosen the right path. If you wish to break the King’s armies, you will need this—the spell of Berserk.
+Bring me 20 Archangels, 20 Gold Dragons, and 20 Titans, and I shall reward you well.
+Bring me 20 Archangels, 20 Gold Dragons, and 20 Titans, and I shall reward you well.
+You have brought the mighty ones as promised. Take this scroll—the spell of Berserk. If you truly wish to shatter the King’s armies, this is the key.
+
+(192, 167, 0) ***Necropolis***
+Name:
+Soulkeep
+
+Timed events:
+
+Name:
+Weekly units Rook Queen King
+Message:
+
+
+Name:
+Weekly units King
+Message:
+
+
+(121, 192, 0) ***Fortress***
+Name:
+Bogspire
+
+Timed events:
+
+Name:
+Extra Units Rook Queen King
+Message:
+
+
+Name:
+Extra units King
+Message:
+
+
+(133, 21, 0) ***Factory***
+Name:
+Mechforge
+
+Timed events:
+
+Name:
+Weekly units Rook Queen King
+Message:
+
+
+Name:
+Weekly units King
+Message:
+
+
+(189, 121, 0) ***Seer's Hut***
+Message:
+I’ve got a little magical experiment. Bring me 40 Master Genies and 40 Enchanters. Let’s see if we can nudge a few into becoming Titans!
+I’ve got a little magical experiment. Bring me 40 Master Genies and 40 Enchanters. Let’s see if we can nudge a few into becoming Titans!
+Ha! Look at them now: 25 very grumpy, very huge Titans. Magic never fails to amuse me.
+
+(185, 128, 0) ***Seer's Hut***
+Message:
+Bring me wood, mercury, ore, sulfur, crystal, and gems—let’s see what legendary weapons we can craft for you.
+Hmm… looks like we’re missing a few ingredients still. Keep gathering!
+Ah, all materials are here! Time to forge something that’ll turn heads on the battlefield.
+Bring me wood, mercury, ore, sulfur, crystal, and gems—let’s see what legendary weapons we can craft for you.
+Hmm… looks like we’re missing a few ingredients still. Keep gathering!
+Ah, all materials are here! Time to forge something that’ll turn heads on the battlefield.
+Bring me wood, mercury, ore, sulfur, crystal, and gems—let’s see what legendary weapons we can craft for you.
+Hmm… looks like we’re missing a few ingredients still. Keep gathering!
+Ah, all materials are here! Time to forge something that’ll turn heads on the battlefield.
+Bring me wood, mercury, ore, sulfur, crystal, and gems—let’s see what legendary weapons we can craft for you.
+Hmm… looks like we’re missing a few ingredients still. Keep gathering!
+Ah, all materials are here! Time to forge something that’ll turn heads on the battlefield.
+Bring me wood, mercury, ore, sulfur, crystal, and gems—let’s see what legendary weapons we can craft for you.
+Hmm… looks like we’re missing a few ingredients still. Keep gathering!
+Ah, all materials are here! Time to forge something that’ll turn heads on the battlefield.
+Bring me wood, mercury, ore, sulfur, crystal, and gems—let’s see what legendary weapons we can craft for you.
+Hmm… looks like we’re missing a few ingredients still. Keep gathering!
+Ah, all materials are here! Time to forge something that’ll turn heads on the battlefield.
+
+(139, 80, 0) ***Factory***
+Name:
+Ironworks
+
+Timed events:
+
+Name:
+Weekly units Rook Queen King
+Message:
+
+
+Name:
+Weekly units King
+Message:
+
+
+(196, 188, 0) ***Sign***
+Message:
+Angel Prison - watch out!
+
+(218, 47, 0) ***Rampart***
+Name:
+Evergrove Keep
+
+Timed events:
+
+Name:
+Weekly units All diff
+Message:
+
+
+Name:
+Weekly units Rook Queen King
+Message:
+
+
+Name:
+Weekly units King
+Message:
+
+
+(133, 53, 0) ***Factory***
+Name:
+Gearhold
+
+Timed events:
+
+Name:
+Starting units
+Message:
+
+
+Name:
+Build + Units Rook Queen King
+Message:
+
+
+Name:
+Weekly units All Diff
+Message:
+
+
+Name:
+Weekly units King
+Message:
+
+
+(220, 24, 0) ***Tower***
+Name:
+Glacial Crown
+
+Timed events:
+
+Name:
+Give DD/TP/Water/Fly Queen King
+Message:
+Magic emanates from the mage guild.
+
+Name:
+Give Summon Boat
+Message:
+
+
+Name:
+Build Grail
+Message:
+
+
+Name:
+Give DD/TP/Water/Fly Rook
+Message:
+Magic emanates from the mage guild.
+
+Name:
+Give DD/TP/Water/Fly Pawn Knight
+Message:
+Magic emanates from the mage guild.
+
+Name:
+Weekly units All diff
+Message:
+
+
+Name:
+Weekly units Rook Queen King
+Message:
+
+
+Name:
+Weekly units King
+Message:
+
+
+(185, 6, 0) ***Seer's Hut***
+Message:
+The ice is alive! Bring me 50 gems and I’ll see if we can warm up 50 Ice Elementals.
+Brrr… they’re stubborn and chilly, but we’re getting there. Don’t give up!
+Perfect! 50 Ice Elementals now under control—just don’t let them near my toes.
+
+(129, 57, 0) ***Seer's Hut***
+Message:
+I’m Durvan, an old druid scraping life out of this desert. Care to help me wake the soil and coax it back into prosperity?
+The sand won’t turn itself, you know… ready to lend a hand, or just let it stay barren?
+The first seeds are sown; the desert stirs, and the path to revival has begun.
+I need 15 Armadillos to break the ground and churn the soil. Think you can handle that?
+The Armadillos won’t catch themselves… are you still in, or shall I beg the sand for help?
+The Armadillos did their work; the earth is waking beneath our feet.
+My daughter wandered into the cave to the northeast. She carried her Pendant of Life. Will you find her for me?
+Have you braved the cave yet, or do the shadows scare you off?
+My daughter… she didn’t make it. The pendant remains, but the light she carried is gone.
+I need some rare ingredients for a fertilizer—mercury, sulfur, and gems. Can you fetch them for me?
+Have you gathered the mercury, sulfur, and gems yet, or are you still wandering the sands?
+Ah, the ingredients are here! With these, the soil will flourish like never before.
+The soil’s turning rich again—think you can round up 40 Armadillos? They’ll help me dig out a few surprises.
+Still collecting those Armadillos, or has the desert worn you down?
+Well done! The soil’s thriving, and look what we unearthed—12 Sandworms ready for work.
+Gather 10 mercury, 10 sulfur, and 10 gems—I’ve a little ritual. The soil will lend you the patience to slow down.
+Gather 10 mercury, 10 sulfur, and 10 gems—I’ve a little ritual. The soil will lend you the patience to slow down.
+Ah, perfect! The soil hums with energy, and now you can slow time itself.
+I need 5 wood, 5 ore, 12 mercury, 12 sulfur, 12 crystal, 12 gems, and a bit of gold to set up my little workshop—help me, and I’ll craft a scroll for you.
+Still gathering the materials?
+Brilliant! My workshop is humming, and here’s your scroll—no obstacle can stop you now.
+The soil’s shaping up nicely, but I need 100 Bellwether Armadillos to tend it—help me, and you might just see what grows next.
+Have the Armadillos arrived, or is the soil still waiting for proper tending?
+Perfect! The ground’s alive with activity, and here are 12 Couatls to show for it.
+I’ve got a plan to turn this land into something profitable, but I need 5 wood, 5 ore, 20 mercury, 20 sulfur, and 20 gems to get it started. Care to lend a hand?
+Still gathering the materials, or has my brilliant business idea scared you off?
+Excellent! With these resources, my little enterprise can finally take root.
+I need 200 Halfling Grenadiers, 100 Bellwether Armadillos, and 50 Olgoi-Khorkhoi to tame a few unruly creatures. Think you can handle that?
+Have you rounded them up yet, or are my creatures still running wild?
+Perfect! The Couatls are finally under control—your efforts didn’t go to waste.
+I need 30 mercury, 30 sulfur, 10 crystal, and 30 gems to craft a Scroll of Resurrection. Can you fetch them for me?
+Still gathering the ingredients, or shall I start chanting over thin air?
+Excellent! The Scroll of Resurrection is ready—life bends under our hands once more.
+I’ve got plans to expand my little enterprise—need 5 wood, 5 ore, 40 mercury, 40 sulfur, 40 gems, and 10 crystal to get it rolling. Care to help?
+Still hunting for the materials, or do you want me to start imagining profits instead?
+Perfect! With these resources, the workshop grows—cha-ching!
+The soil’s thriving, and it’s time to really test it—400 Halfling Grenadiers, 200 Bellwether Armadillos, and 150 Olgoi-Khorkhoi should do the trick. Think you can handle it?
+Still gathering the troops and beasts, or shall I start bragging about the soil’s future?
+Ha! Look at that—100 Crimson Couatls rising from all this chaos. Nature’s rewards, served raw!
+I’ve got a bold idea to expand the operation—10 wood, 10 ore, 50 mercury, 50 sulfur, 20 crystal, 50 gems should fuel it. Care to help?
+The plan’s still on the drawing board… or are you letting these resources gather dust?
+Brilliant! Everything’s in place, and the project’s ready to roll. Prosperity never smelled so gold!
+The Rust Dragons have been tearing through the lands, and I need reinforcements—20 Giants, 500 Halfling Grenadiers, 400 Engineers, 300 Bellwether Armadillos, 200 Sentinel Automatons, and 100 Olgoi-Khorkhoi. Ready to show them who’s boss?
+The battle rages on, and the Rust Dragons aren’t giving up… Are you still holding back?
+Well, that’s settled—what survived the fight now marches with us.
+The King still rules, but his reign ends with you. Are you ready to put him down for good?
+The King still rules, but his reign ends with you. Are you ready to put him down for good?
+The King has fallen, and the path between worlds is open. Step through and leave the old reign behind.
+
+(11, 74, 0) ***Pandora's Box***
+Message:
+
+
+(41, 158, 0) ***Pandora's Box***
+Message:
+
+
+(49, 205, 0) ***Seer's Hut***
+Message:
+I am Sylwen, guardian of these ancient woods. If you seek harmony with nature, you’ve come to the right place.
+I am Sylwen, guardian of these ancient woods. If you seek harmony with nature, you’ve come to the right place.
+The forest watches you now. Ready to prove your worth among the trees?
+The forest thrives on balance. Offer 30 Nymphs to aid the woodland.
+The Nymphs stir the trees and streams, working to restore the forest’s harmony.
+The Nymphs dance in the glade once more. Here’s some wood—may it serve you well.
+I need 8 Satyrs for an ancient ritual.
+Still waiting on those 8 Satyrs.
+The ritual's song calls forth new allies—5 Sea Witches join our cause.
+We need 3 Trolls and 90 Nymphs to channel their wild energy.
+The forest’s magic waits—gather 3 Trolls and 90 Nymphs.
+The wild energy flows strong; 5 Nix have answered the call.
+A Vampire Lord stalks the shadows, threatening our sacred woods.
+The Vampire Lord still haunts the forest—track him down and end his menace.
+The forest breathes easier now—the Vampire's reign is over, and the Boots of Speed are yours to claim.
+We need rare elements for an ancient earth ritual—12 mercury, sulfur, crystal, and gems each, plus 3,000 gold.
+The ritual awaits its components—bring the elements to proceed.
+The ancient earth ritual is complete. The Scroll of Slow is now yours—use it wisely.
+The wild demands balance. 100 Gnoll Marauders, 50 Lizard Warriors, 40 Dragon Flies, and 100 Nymphs are needed.
+Still gathering the wild forces? Bring the Gnolls, Lizard Warriors, Dragon Flies, and Nymphs.
+Sea Serpents answer the call. The forest and sea unite in harmony.
+We need 18 Trolls and 80 Satyrs to look for Wyvern nests. Let the forest skies roar with new wings.
+The Wyverns await—bring the Trolls and Satyrs to summon their fury.
+Trolls and Satyrs uncovered the Wyvern nests—50 fierce Wyverns now ride with us!
+We gather Lizard Warriors, Gorgons, Dragon Flies, Basilisks, and Nymphs to transform the swamp into mighty Hydra ponds.
+The swamp waits—gather Lizard Warriors, Gorgons, Dragon Flies, Basilisks, and Nymphs to raise the Hydra ponds.
+The swamp is alive!
+Gather Dragon Flies, Greater Basilisks, Earth and Water Elementals, Enchanters, and Leprechauns. They will work to enchant the forest.
+Gather Dragon Flies, Greater Basilisks, Earth and Water Elementals, Enchanters, and Leprechauns. They will work to enchant the forest.
+The forest hums with power—with our spell complete, Faerie Dragons now grace the enchanted woods.
+The Wyverns have called for our help. Gather Gnolls, Lizard Warriors, Mighty Gorgons, Dragon Flies, and Greater Basilisks to answer their call.
+The Wyverns have called for our help. Gather Gnolls, Lizard Warriors, Mighty Gorgons, Dragon Flies, and Greater Basilisks to answer their call.
+The Wyverns’ call was answered; 300 Wyvern Monarchs now soar under our banner.
+The forest whispers of the final challenge: The King must fall. Step forth and end his reign.
+The forest whispers of the final challenge: The King must fall. Step forth and end his reign.
+The King lies defeated, his shadow lifted from the land. The power of Dimension Door is yours—use it wisely.
+
+(215, 62, 0) ***Event***
+Message:
+
+
+(52, 206, 0) ***Fortress***
+Name:
+Swampgate
+
+Timed events:
+
+Name:
+Starting units
+Message:
+
+
+Name:
+Weekly units All Diff
+Message:
+
+
+Name:
+Build + Units Rook Queen King
+Message:
+
+
+Name:
+Weekly units King
+Message:
+
+
+Name:
+Unit spike Basilisk Queen + King
+Message:
+
+
+Name:
+Unit spike Gorgon Queen + King
+Message:
+
+
+Name:
+Unit spike Wyvern Queen + King
+Message:
+
+
+Name:
+Unit spike Hydra Queen + King
+Message:
+
+
+(150, 94, 0) ***Seer's Hut***
+Message:
+Nomads from all corners are restless, longing for a cause. Shall we rally them and see who’s brave enough to fight alongside us?
+They’re gathering slowly… some hesitate, others sharpen their weapons. Patience, the strong will come.
+Some nomads have united, and 25 of them decide to help you fight the king!
+
+(108, 155, 0) ***Seer's Hut***
+Message:
+Got any of those dusty scrolls of Remove Obstacle lying around? I’ll pay 30,000 gold for one.
+Still waiting… that scroll isn’t going to hand itself over, you know.
+Finally! That pesky scroll is mine—obstacles beware!
+
+(63, 30, 0) ***Seer's Hut***
+Message:
+The fearsome dragon keeper, Varguk, dwells in the cave to the northeast. His head carries a bounty of 30,000 gold. Defeat him to claim both gold and glory.
+Varguk still guards the icy cave. The 30,000 gold bounty waits for the brave.
+Varguk falls, and the 30,000 gold bounty is yours.
+Our scroll shop offers a rare treasure: a Scroll of Summon Boat. Bring 5 mercury, 5 sulfur, 5 crystal, 5 gems, and 2,000 gold to claim it.
+The Scroll of Summon Boat awaits, but you have not yet delivered 5 mercury, 5 sulfur, 5 crystal, 5 gems, and 2,000 gold.
+With all items and the 2,000 gold provided, the Scroll of Summon Boat is yours!
+We seek the skilled Gelu the Ranger. Bring him here, and a Scroll of Remove Obstacle will be yours.
+Gelu the Ranger has not yet arrived. Bring him to us to claim the Scroll of Remove Obstacle.
+Gelu the Ranger stands before us! The Scroll of Remove Obstacle is now yours.
+
+(56, 199, 0) ***Seer's Hut***
+Message:
+This is the Assassins’ Guild. I’m Kaelen, the one who decides who lives and who doesn’t. Prove you’re worth the shadows’ time.
+I am watching. Don’t disappoint.
+You lookin’ for work, or just scouting the shadows?
+Your first mission: eliminate the guards at Drakon’s prison. Bring him back—alive.
+Drakon’s fate hangs on you. Don’t fail.
+Take these Wayfarer’s boots, Drakon—prepare yourself for the war to come.
+One Rogue is needed for a delicate task—fail, and it’ll be your last.
+The risk is real, but the prize is worth it.
+The Assassins’ Guild moves forward on its own terms. Take these Equestrian's Gloves—ready yourself for what lies ahead.
+Mercenary leader been stirring trouble. Take him out before he causes more chaos.
+He’s still breathing. Finish the job.
+Mercenary leader’s down. Your gold awaits.
+Supplies are low—need rare crystals, mercury, and gems to craft silent poisons and sharp blades.
+Still waiting on those precious ingredients. Get moving.
+The materials arrived. Our tools just got deadlier. Here’s your share.
+Adrienne the witch holds secrets we need—find her and bring her to us.
+Time’s ticking. The Assassins’ Guild can’t afford delays.
+The price of loyalty has been paid—10,000 gold.
+For the next step in our craft, we need 10 mercury, sulfur, crystal, and gems to forge a way past any barrier.
+Gather what’s needed. No obstacle should slow us down.
+With these in hand, no door will hold against us. Take one too.
+To sharpen our edge, bring 20 mercury, crystal, and gems. We’re gearing up for what’s next.
+Keep the supplies flowing—our work demands it.
+With these, we move faster and strike harder. 25,000 gold is yours.
+The Guild needs resources to retrieve a lost ally from the brink—30 of each element to secure his way back from death itself.
+The mission’s on—keep the supplies coming.
+Mission accomplished. We secured the Resurrection Scroll along the way—consider it a gift from the Guild.
+The Guild’s network grows—40 of each resource are needed to fuel our next level of influence.
+Your haul strengthens our reach. Keep it flowing.
+Our grip tightens with your help. Take your 90,000 gold and prepare—control is within our grasp.
+The Guild’s final order: end The King’s reign. Fail, and there’ll be no next time.
+The King’s days are numbered.
+The King falls. The Guild’s shadow spreads. Take this Fly Spell—your wings to escape, or hunt anew.
+
+(80, 207, 0) ***Sign***
+Message:
+NE: Bogspire	SE: Mirehold	NW: Town Gate
+
+(24, 54, 0) ***Seer's Hut***
+Message:
+Our behemoths like good beef.
+No luck in finding the 30 Gorgons?
+CRUNCH… GURGLE… SLURP… MUNCH-MUNCH-MUNCH!
+
+(120, 72, 0) ***Seer's Hut***
+Message:
+The notorious pirate, Astra, hides in the cave to the northwest, guarding the Green Tent. Her head carries a bounty of 30,000 gold. Seek her out and claim your reward.
+The notorious pirate, Astra, hides in the cave to the northwest, guarding the Green Tent. Her head carries a bounty of 30,000 gold. Seek her out and claim your reward.
+Astra is defeated! The 30,000 gold bounty is yours.
+Our scroll shop offers a rare treasure: a Scroll of Summon Boat. Bring 5 mercury, 5 sulfur, 5 crystal, 5 gems, and 2,000 gold to claim it.
+The Scroll of Summon Boat awaits, but you have not yet delivered 5 mercury, 5 sulfur, 5 crystal, 5 gems, and 2,000 gold.
+With all items and the 2,000 gold provided, the Scroll of Summon Boat is yours!
+We seek the skilled Gelu the Ranger. Bring him here, and a Scroll of Remove Obstacle will be yours.
+Gelu the Ranger has not yet arrived. Bring him to us to claim the Scroll of Remove Obstacle.
+Gelu the Ranger stands before us! The Scroll of Remove Obstacle is now yours.
+
+(25, 234, 0) ***Seer's Hut***
+Message:
+Let the water rise and the air follow—shall we trade?
+The waves linger; the breeze hesitates.
+Water turns to air, swirling softly in its new form.
+
+(46, 20, 0) ***Seer's Hut***
+Message:
+Breathe life into all four—air, earth, fire, and water—and watch them ascend.
+Breathe life into all four—air, earth, fire, and water—and watch them ascend.
+Four become one—Master Genies now dance under your command.
+Breathe life into all four—air, earth, fire, and water—and watch them ascend.
+Breathe life into all four—air, earth, fire, and water—and watch them ascend.
+Four become one—Master Genies now dance under your command.
+Breathe life into all four—air, earth, fire, and water—and watch them ascend.
+Breathe life into all four—air, earth, fire, and water—and watch them ascend.
+Four become one—Master Genies now dance under your command.
+Breathe life into all four—air, earth, fire, and water—and watch them ascend.
+Breathe life into all four—air, earth, fire, and water—and watch them ascend.
+Four become one—Master Genies now dance under your command.
+
+(183, 247, 0) ***Pandora's Box***
+Message:
+
+
+(186, 244, 0) ***Quest Guard***
+Message:
+This ancient stone has stood here for centuries. Only magic could undo its hold on this land.
+This ancient stone has stood here for centuries. Only magic could undo its hold on this land.
+As the scroll’s magic takes hold, the ancient stone trembles, crumbles, and fades into dust.
+
+(55, 158, 0) ***Pandora's Box***
+Message:
+
+
+(190, 97, 0) ***Sign***
+Message:
+The sign is all caked in volcanic dust. It reads: "Dragon Lair—Open Mon-Sun, 9 AM-5 PM"
+
+(241, 13, 0) ***Azure Dragon***
+Message:
+Why are these dragons here…?
+
+(233, 98, 0) ***Pandora's Box***
+Message:
+
+
+(193, 134, 0) ***Pandora's Box***
+Message:
+
+
+(208, 20, 0) ***Pandora's Box***
+Message:
+
+
+(96, 122, 0) ***Pandora's Box***
+Message:
+
+
+(143, 164, 0) ***Pandora's Box***
+Message:
+
+
+(196, 79, 0) ***Pandora's Box***
+Message:
+
+
+(202, 217, 0) ***Seer's Hut***
+Message:
+Dire news, traveler. Gorgthak lurks in the cave up north, guarding an angel’s prison. His head is worth 30,000 gold. Defeat him, and both the bounty and the angels’ freedom shall be yours.
+Gorgthak still holds the northern cave. The angels remain bound, the gold unpaid.
+Gorgthak is slain! The angels walk free from the prison, and the bounty of 30,000 gold is yours.
+Our scroll shop offers a rare treasure: a Scroll of Summon Boat. Bring 5 mercury, 5 sulfur, 5 crystal, 5 gems, and 2,000 gold to claim it.
+The Scroll of Summon Boat awaits, but you have not yet delivered 5 mercury, 5 sulfur, 5 crystal, 5 gems, and 2,000 gold.
+With all items and the 2,000 gold provided, the Scroll of Summon Boat is yours!
+We seek the legendary Dracon the Wizard. Bring him here, and in return, a Scroll of Remove Obstacle shall be yours.
+Dracon the Wizard has not yet arrived. Bring him to us to claim the Scroll of Remove Obstacle.
+Dracon the Wizard stands before us! The Scroll of Remove Obstacle is now yours.
+
+(169, 216, 0) ***Seer's Hut***
+Message:
+A menace stirs in the southwest—Grulk, the master of the Cyclops cave. His head carries a bounty of 30,000 gold.
+Grulk still rules the Cyclops cave in the southwest. The bounty waits unclaimed.
+Grulk is no more! The Cyclops cave stands free, and the bounty of 30,000 gold is yours.
+Our scroll shop offers a rare treasure: a Scroll of Summon Boat. Bring 5 mercury, 5 sulfur, 5 crystal, 5 gems, and 2,000 gold to claim it.
+The Scroll of Summon Boat awaits, but you have not yet delivered 5 mercury, 5 sulfur, 5 crystal, 5 gems, and 2,000 gold.
+With all items and the 2,000 gold provided, the Scroll of Summon Boat is yours!
+We seek the legendary Dracon the Wizard. Bring him here, and in return, a Scroll of Remove Obstacle shall be yours.
+Dracon the Wizard has not yet arrived. Bring him to us to claim the Scroll of Remove Obstacle.
+Dracon the Wizard stands before us! The Scroll of Remove Obstacle is now yours.
+
+(22, 173, 0) ***Seer's Hut***
+Message:
+The dark witch stirs on the island to the east—Zsarr’khan. Her head carries a bounty of 30,000 gold. Face her, and claim the reward.
+Zsarr’khan still weaves her dark spells on the island. The 30,000 gold bounty remains unclaimed.
+Zsarr’khan is defeated! Her spells falter, and the 30,000 gold bounty is yours.
+
+(81, 185, 0) ***Pandora's Box***
+Message:
+
+
+(237, 124, 0) ***Pandora's Box***
+Message:
+
+
+(230, 89, 0) ***Pandora's Box***
+Message:
+
+
+(118, 128, 0) ***Pandora's Box***
+Message:
+
+
+(251, 61, 0) ***Pandora's Box***
+Message:
+
+
+(108, 184, 0) ***Pandora's Box***
+Message:
+
+
+(136, 49, 0) ***Seer's Hut***
+Message:
+I’m Varric, master of sparks and steel—if it moves or cuts, I can improve it. Care to see what true craftsmanship can do?
+Still dithering? A blade doesn’t sharpen itself, you know.
+Magnificent! The forge sings once more, and every strike will feel its fury.
+My forge needs hands, even tiny ones. Bring me 48 Gremlins from the outskirts.
+Still no Gremlins? The gears lie silent.
+The little workers are already at it—take these Equestrian Gloves.
+Murdoch vanished into the cave northeast. Find him, and I’ll pay 5,000 gold.
+Murdoch still missing.
+You’ve dragged him back—take your 5,000 gold before he disappears again.
+I need 96 Gremlins and 12 Stone Golems for my workshop to build machines.
+Still no Gremlins or Golems? My gears grind in disappointment.
+Perfect parts, perfect craft—take these 12 Automatons, fresh from my forge.
+Bring me 96 Gremlins and 24 Iron Golems—I need them to hammer out 4 Dreadnoughts.
+Still no metal nor Gremlin fingers on my workbench? Hopeless.
+Clang, spark, roar—your 4 Dreadnoughts stand ready.
+Seek out Frederick, trapped in the lava caves east of Mechforge. He must help me fix my gears.
+The lava caves still hold Frederick entrapped? Then my gears grind in vain.
+You’ve freed him—take your 10,000 gold; the forge works once more.
+I need raw strength and fire for my work—25 Stone Golems, 25 Iron Golems, and 15 Fire Elementals.
+Still no Golems, still no fire. My anvils stay cold.
+The forge roars, the hammers strike—take these 15 Dreadnoughts, born of stone, steel, and flame.
+Bring me 75 Stone Golems, 75 Iron Golems, 30 Fire Elementals, 40 Diamond Golems, and 50 Gold Golems. I need those to craft some real fireworks.
+No Juggernauts without stone, gold, fire, and diamonds. You know what I need.
+The anvils thundered, the sparks flew—take these 40 Juggernauts, the pinnacle of my craft.
+Bring me 30 Giants. With new weapons and forged armor, I can equip them to become 30 Titans.
+The forge still waits for your Giants.
+Behold: 30 Titans armed with the might of my craft.
+Deliver 150 Stone Golems, 150 Iron Golems, 30 Fire Elementals, 80 Diamond Golems, and 100 Gold Golems. This will be truly majestic.
+My forge shall stay silent until I see those Golems and Elementals lined up.
+The metal is done screaming—your 80 Juggernauts march out of the fire.
+Bring me 100 Giants. With new weapons and forged armor, I can equip them to become 100 Titans.
+The forge still waits for your Giants.
+Behold: 100 Titans armed with the might of my craft.
+The King still rules with iron and fire—it's time someone put an end to him.
+The King still rules with iron and fire—it's time someone put an end to him.
+The crown falls, the throne lies empty, and the winds are yours to command.
+
+(54, 168, 0) ***Event***
+Message:
++exp +sp +creature +stat
+
+(237, 250, 0) ***Pandora's Box***
+Message:
+
+
+(109, 220, 0) ***Fortress***
+Name:
+Mirehold
+
+Timed events:
+
+Name:
+Weekly units Rook Queen King
+Message:
+
+
+Name:
+Weekly units King
+Message:
+
+
+(107, 76, 0) ***Event***
+Message:
+The King’s dogs thought they had me cornered. Now they’ll learn I bite harder. You have my blades…
+
+(48, 43, 0) ***Seer's Hut***
+Message:
+The ancient library welcomes only those who value wisdom. Offer 15,000 gold, and its secrets may be yours.
+The ancient library welcomes only those who value wisdom. Offer 15,000 gold, and its secrets may be yours.
+The tomes have spoken—your mind expands, and knowledge flows like ink through parchment.
+
+(222, 29, 0) ***Event***
+Message:
+
+
+(240, 36, 0) ***Event***
+Message:
+
+
+(230, 26, 0) ***Event***
+Message:
+
+
+(179, 49, 0) ***Event***
+Message:
+
+
+(223, 29, 0) ***Event***
+Message:
+
+
+(211, 50, 0) ***Event***
+Message:
+
+
+(156, 38, 0) ***Pandora's Box***
+Message:
+
+
+(221, 74, 0) ***Pandora's Box***
+Message:
+
+
+(240, 242, 0) ***Conflux***
+
+Timed events:
+
+Name:
+Weekly units Rook Queen King
+Message:
+
+
+Name:
+Weekly units King
+Message:
+
+
+(175, 41, 0) ***Pandora's Box***
+Message:
+These are The King's items! What are you doing here?!
+
+(22, 242, 0) ***Conflux***
+
+Timed events:
+
+Name:
+Weekly units Rook Queen King
+Message:
+
+
+Name:
+Weekly units King
+Message:
+
+
+(7, 5, 0) ***Conflux***
+
+Timed events:
+
+Name:
+Weekly units Rook Queen King
+Message:
+
+
+Name:
+Weekly units King
+Message:
+
+
+(223, 111, 0) ***Pandora's Box***
+Message:
+
+
+(145, 194, 0) ***Seer's Hut***
+Message:
+A guardian watches in the northeast cave—Thalanar, druid of the Green Tent. His head carries a bounty of 30,000 gold. Defeat him to claim the key and the reward.
+Thalanar still protects the cave. The Green Tent key and the bounty remain beyond reach.
+Thalanar falls! The Green Tent key is yours, and the bounty of 30,000 gold is claimed.
+Our scroll shop offers a rare treasure: a Scroll of Summon Boat. Bring 5 mercury, 5 sulfur, 5 crystal, 5 gems, and 2,000 gold to claim it.
+The Scroll of Summon Boat awaits, but you have not yet delivered 5 mercury, 5 sulfur, 5 crystal, 5 gems, and 2,000 gold.
+With all items and the 2,000 gold provided, the Scroll of Summon Boat is yours!
+We seek the legendary Dracon the Wizard. Bring him here, and in return, a Scroll of Remove Obstacle shall be yours.
+Dracon the Wizard has not yet arrived. Bring him to us to claim the Scroll of Remove Obstacle.
+Dracon the Wizard stands before us! The Scroll of Remove Obstacle is now yours.
+
+(108, 206, 0) ***Quest Guard***
+Message:
+Welcome to the slave market. 10,000 gold for these beauties.
+Welcome to the slave market. 10,000 gold for these beauties.
+Enjoy your new company.
+
+(82, 183, 0) ***Quest Guard***
+Message:
+This ancient stone has stood here for centuries. Only magic could undo its hold on this land.
+This ancient stone has stood here for centuries. Only magic could undo its hold on this land.
+As the scroll’s magic takes hold, the ancient stone trembles, crumbles, and fades into dust.
+
+(16, 73, 0) ***Quest Guard***
+Message:
+This ancient stone has stood here for centuries. Only magic could undo its hold on this land.
+This ancient stone has stood here for centuries. Only magic could undo its hold on this land.
+As the scroll’s magic takes hold, the ancient stone trembles, crumbles, and fades into dust.
+
+(74, 147, 0) ***Quest Guard***
+Message:
+This ancient stone has stood here for centuries. Only magic could undo its hold on this land.
+This ancient stone has stood here for centuries. Only magic could undo its hold on this land.
+As the scroll’s magic takes hold, the ancient stone trembles, crumbles, and fades into dust.
+
+(72, 145, 0) ***Pandora's Box***
+Message:
+
+
+(32, 198, 0) ***Pandora's Box***
+Message:
+
+
+(225, 42, 0) ***Pandora's Box***
+Message:
+
+
+(160, 81, 0) ***Pandora's Box***
+Message:
+
+
+(159, 80, 0) ***Quest Guard***
+Message:
+This ancient stone has stood here for centuries. Only magic could undo its hold on this land.
+This ancient stone has stood here for centuries. Only magic could undo its hold on this land.
+As the scroll’s magic takes hold, the ancient stone trembles, crumbles, and fades into dust.
+
+(193, 133, 0) ***Quest Guard***
+Message:
+This ancient stone has stood here for centuries. Only magic could undo its hold on this land.
+This ancient stone has stood here for centuries. Only magic could undo its hold on this land.
+As the scroll’s magic takes hold, the ancient stone trembles, crumbles, and fades into dust.
+
+(207, 18, 0) ***Quest Guard***
+Message:
+This ancient stone has stood here for centuries. Only magic could undo its hold on this land.
+This ancient stone has stood here for centuries. Only magic could undo its hold on this land.
+As the scroll’s magic takes hold, the ancient stone trembles, crumbles, and fades into dust.
+
+(15, 134, 0) ***Quest Guard***
+Message:
+This ancient stone has stood here for centuries. Only magic could undo its hold on this land.
+This ancient stone has stood here for centuries. Only magic could undo its hold on this land.
+As the scroll’s magic takes hold, the ancient stone trembles, crumbles, and fades into dust.
+
+(14, 132, 0) ***Pandora's Box***
+Message:
+
+
+(42, 160, 0) ***Quest Guard***
+Message:
+This ancient stone has stood here for centuries. Only magic could undo its hold on this land.
+This ancient stone has stood here for centuries. Only magic could undo its hold on this land.
+As the scroll’s magic takes hold, the ancient stone trembles, crumbles, and fades into dust.
+
+(235, 124, 0) ***Quest Guard***
+Message:
+This ancient stone has stood here for centuries. Only magic could undo its hold on this land.
+This ancient stone has stood here for centuries. Only magic could undo its hold on this land.
+As the scroll’s magic takes hold, the ancient stone trembles, crumbles, and fades into dust.
+
+(229, 88, 0) ***Quest Guard***
+Message:
+This ancient stone has stood here for centuries. Only magic could undo its hold on this land.
+This ancient stone has stood here for centuries. Only magic could undo its hold on this land.
+As the scroll’s magic takes hold, the ancient stone trembles, crumbles, and fades into dust.
+
+(117, 126, 0) ***Quest Guard***
+Message:
+This ancient stone has stood here for centuries. Only magic could undo its hold on this land.
+This ancient stone has stood here for centuries. Only magic could undo its hold on this land.
+As the scroll’s magic takes hold, the ancient stone trembles, crumbles, and fades into dust.
+
+(251, 59, 0) ***Quest Guard***
+Message:
+This ancient stone has stood here for centuries. Only magic could undo its hold on this land.
+This ancient stone has stood here for centuries. Only magic could undo its hold on this land.
+As the scroll’s magic takes hold, the ancient stone trembles, crumbles, and fades into dust.
+
+(30, 180, 0) ***Pandora's Box***
+Message:
+
+
+(136, 156, 0) ***Pandora's Box***
+Message:
+
+
+(54, 185, 0) ***Pandora's Box***
+Message:
+
+
+(239, 249, 0) ***Quest Guard***
+Message:
+This ancient stone has stood here for centuries. Only magic could undo its hold on this land.
+This ancient stone has stood here for centuries. Only magic could undo its hold on this land.
+As the scroll’s magic takes hold, the ancient stone trembles, crumbles, and fades into dust.
+
+(159, 38, 0) ***Quest Guard***
+Message:
+This ancient stone has stood here for centuries. Only magic could undo its hold on this land.
+This ancient stone has stood here for centuries. Only magic could undo its hold on this land.
+As the scroll’s magic takes hold, the ancient stone trembles, crumbles, and fades into dust.
+
+(220, 73, 0) ***Quest Guard***
+Message:
+This ancient stone has stood here for centuries. Only magic could undo its hold on this land.
+This ancient stone has stood here for centuries. Only magic could undo its hold on this land.
+As the scroll’s magic takes hold, the ancient stone trembles, crumbles, and fades into dust.
+
+(224, 109, 0) ***Quest Guard***
+Message:
+This ancient stone has stood here for centuries. Only magic could undo its hold on this land.
+This ancient stone has stood here for centuries. Only magic could undo its hold on this land.
+As the scroll’s magic takes hold, the ancient stone trembles, crumbles, and fades into dust.
+
+(75, 9, 0) ***Quest Guard***
+Message:
+This ancient stone has stood here for centuries. Only magic could undo its hold on this land.
+This ancient stone has stood here for centuries. Only magic could undo its hold on this land.
+As the scroll’s magic takes hold, the ancient stone trembles, crumbles, and fades into dust.
+
+(74, 8, 0) ***Pandora's Box***
+Message:
+
+
+(198, 108, 0) ***Quest Guard***
+Message:
+This ancient stone has stood here for centuries. Only magic could undo its hold on this land.
+This ancient stone has stood here for centuries. Only magic could undo its hold on this land.
+As the scroll’s magic takes hold, the ancient stone trembles, crumbles, and fades into dust.
+
+(199, 109, 0) ***Pandora's Box***
+Message:
+
+
+(146, 176, 0) ***Quest Guard***
+Message:
+This ancient stone has stood here for centuries. Only magic could undo its hold on this land.
+This ancient stone has stood here for centuries. Only magic could undo its hold on this land.
+As the scroll’s magic takes hold, the ancient stone trembles, crumbles, and fades into dust.
+
+(147, 178, 0) ***Pandora's Box***
+Message:
+
+
+(1, 226, 0) ***Pandora's Box***
+Message:
+
+
+(3, 227, 0) ***Quest Guard***
+Message:
+This ancient stone has stood here for centuries. Only magic could undo its hold on this land.
+This ancient stone has stood here for centuries. Only magic could undo its hold on this land.
+As the scroll’s magic takes hold, the ancient stone trembles, crumbles, and fades into dust.
+
+(250, 238, 0) ***Seer's Hut***
+Message:
+Let the air blow and the water follow—shall we trade?
+Let the air blow and the water follow—shall we trade?
+Air turns into water, flowing deeply in its new form.
+
+(184, 27, 0) ***Event***
+Message:
+
+
+(228, 53, 0) ***Event***
+Message:
+
+
+(237, 33, 0) ***Event***
+Message:
+
+
+(211, 26, 0) ***Event***
+Message:
+
+
+(178, 38, 0) ***Event***
+Message:
+
+
+(181, 148, 0) ***Seer's Hut***
+Message:
+Nomads from all corners are restless, longing for a cause. Shall we rally them and see who’s brave enough to fight alongside us?
+They’re gathering slowly… some hesitate, others sharpen their weapons. Patience, the strong will come.
+Some nomads have united, and 25 of them decide to help you fight the king!
+
+(68, 180, 0) ***Seer's Hut***
+Message:
+Nomads from all corners are restless, longing for a cause. Shall we rally them and see who’s brave enough to fight alongside us?
+They’re gathering slowly… some hesitate, others sharpen their weapons. Patience, the strong will come.
+Some nomads have united, and 25 of them decide to help you fight the king!
+
+(213, 246, 0) ***Seer's Hut***
+Message:
+Breathe life into all four—air, earth, fire, and water—and watch them ascend.
+Breathe life into all four—air, earth, fire, and water—and watch them ascend.
+Four become one—Master Genies now dance under your command.
+Breathe life into all four—air, earth, fire, and water—and watch them ascend.
+Breathe life into all four—air, earth, fire, and water—and watch them ascend.
+Four become one—Master Genies now dance under your command.
+Breathe life into all four—air, earth, fire, and water—and watch them ascend.
+Breathe life into all four—air, earth, fire, and water—and watch them ascend.
+Four become one—Master Genies now dance under your command.
+Breathe life into all four—air, earth, fire, and water—and watch them ascend.
+Breathe life into all four—air, earth, fire, and water—and watch them ascend.
+Four become one—Master Genies now dance under your command.
+
+(82, 82, 0) ***Seer's Hut***
+Message:
+The dwarven mine trembles under the heel of Ufretin, its stubborn keeper. His head carries a bounty of 30,000 gold. Brave the cave and claim your reward.
+Ufretin still guards the mine in the northeast cave. The 30,000 gold bounty remains unclaimed.
+Ufretin is defeated! The dwarven mine is free, and the 30,000 gold bounty is yours.
+Our scroll shop offers a rare treasure: a Scroll of Summon Boat. Bring 5 mercury, 5 sulfur, 5 crystal, 5 gems, and 2,000 gold to claim it.
+The Scroll of Summon Boat awaits, but you have not yet delivered 5 mercury, 5 sulfur, 5 crystal, 5 gems, and 2,000 gold.
+With all items and the 2,000 gold provided, the Scroll of Summon Boat is yours!
+We seek the skilled Gelu the Ranger. Bring him here, and a Scroll of Remove Obstacle will be yours.
+Gelu the Ranger has not yet arrived. Bring him to us to claim the Scroll of Remove Obstacle.
+Gelu the Ranger stands before us! The Scroll of Remove Obstacle is now yours.
+
+(150, 197, 0) ***Quest Guard***
+Message:
+The path to the Ancient Library is sealed. Only an offering of 40 Gems will grant you entry.
+You have not yet delivered the full tribute of 40 Gems. The library remains closed.
+The gates of the Ancient Library open before you.
+
+(56, 40, 0) ***Quest Guard***
+Message:
+The path to the Ancient Library is sealed. Only an offering of 40 Gems will grant you entry.
+You have not yet delivered the full tribute of 40 Gems. The library remains closed.
+The gates of the Ancient Library open before you.
+
+(211, 51, 0) ***Event***
+Message:
+
+
+(209, 34, 0) ***Event***
+Message:
+
+
+(235, 36, 0) ***Event***
+Message:
+
+
+(145, 208, 0) ***Seer's Hut***
+Message:
+The ancient library welcomes only those who value wisdom. Offer 15,000 gold, and its secrets may be yours.
+The ancient library welcomes only those who value wisdom. Offer 15,000 gold, and its secrets may be yours.
+The tomes have spoken—your mind expands, and knowledge flows like ink through parchment.
+
+(218, 29, 0) ***Event***
+Message:
+
+
+(204, 34, 0) ***Event***
+Message:
+
+
+(225, 45, 0) ***Event***
+Message:
+
+
+(242, 45, 0) ***Quest Guard***
+Message:
+The guards here say they will not let a noble pass.
+The guards here say they will not let a noble pass.
+The guards note that you are not a noble. Do you wish to pass?
+
+(207, 30, 0) ***Event***
+Message:
+
+
+(210, 30, 0) ***Event***
+Message:
+
+
+(215, 24, 0) ***Event***
+Message:
+
+
+(208, 67, 0) ***Castle***
+Name:
+Crownhold
+
+Timed events:
+
+Name:
+Weekly units All diff
+Message:
+
+
+Name:
+Weekly units Rook Queen King
+Message:
+
+
+Name:
+Weekly units King
+Message:
+
+
+(43, 154, 0) ***Quest Guard***
+Message:
+A mysterious gate hums with ancient magic, resisting all attempts to open it. Perhaps the key lies beyond a town gate.
+A mysterious gate hums with ancient magic, resisting all attempts to open it. Perhaps the key lies beyond a town gate.
+With the Scroll of Dispel in hand, the magic fades. The gate swings open, revealing the path beyond.
+
+(251, 0, 0) ***Event***
+Message:
+What? You actually found me? I thought I’d be lost here for eternity…		Patience brought you here, as it did me. Victory required endurance, but so did the making of this very path.		Take this final gift, traveler. I salute your perseverance.		With gratitude—and my best wishes to you and your kin.		Farewell.
+
+(131, 149, 0) ***Seer's Hut***
+Message:
+Welcome, traveler! You’ve found the finest scroll shop in the world. Our knowledge is vast, our magic precise. Bring us the required resources, and we shall inscribe for you a Scroll of Remove Obstacle—the art of clearing any path.
+You have begun your offering, yet the shelves are not full. The Scroll of Remove Obstacle waits—but only when all resources are gathered shall the ink flow.
+Splendid! The resources are delivered, the quills dance, and the spell is written. Accept your Scroll of Remove Obstacle—may no barrier stand in your way.
+A whisper of life beyond death, held within a single scroll. For a proper tribute of resources, we shall craft the Scroll of Resurrection—a treasure coveted by all who fear loss.
+You are on the right path, but life cannot yet return. The Scroll of Resurrection requires more—return with the remaining resources.
+The final offering is made, and the parchment sings with power. Take this Scroll of Resurrection—the breath of life itself is now yours to command.
+Once again, the world is filled with barriers. Only those who pay the price in resources may claim the Scroll of Remove Obstacle. Will you prove worthy?
+The resources flow, but the inkpot is not yet full. The Scroll of Remove Obstacle remains unwritten—complete the offering.
+Well done. With your gifts complete, the parchment opens. The Scroll of Remove Obstacle is yours—paths clear at your command.
+The seas and rivers bow to those who bear the Scroll of Water Walk. Bring us the rarest resources, and we shall inscribe it for you to walk where others must sail.
+You are partway there, but the waters remain off-limits yet. Complete your tribute, and the Scroll of Water Walk shall be ready.
+The offering is whole! The ink ripples like a tide upon the page. Take this Scroll of Water Walk—step boldly across the waters.
+Imagine never being lost, always returning home upon saying a word. With the right resources, we shall grant you a Scroll of Town Portal—the gateway to safety and swiftness.
+You’ve started well, but the gates remain closed. Only when all resources are offered will the Scroll of Town Portal open its path to you.
+The portal shimmers upon parchment—a gift completed. Take this Scroll of Town Portal, and travel as you will, in but a breath.
+The walls rise again, the stones block your way. With the proper tribute, the Scroll of Remove Obstacle shall once more be written for you.
+Your offering is incomplete, and the obstacles remain. Return with the final resources, and the scroll shall be finished.
+The last stone falls. Take this Scroll of Remove Obstacle—no hindrance shall withstand you.
+A dangerous power, yet a glorious one—the Scroll of Berserk. For a worthy tribute of resources, we shall unleash it into your hands.
+Your offerings stir the parchment, but fury does not yet awaken. The Scroll of Berserk still waits for completion.
+The final spark ignites! Take the Scroll of Berserk—may its fire turn battle into chaos and victory.
+Yet again, traveler, the world places barriers before you. Offer the needed resources, and we shall scribe another Scroll of Remove Obstacle to clear your journey.
+The quills rest, waiting for the last of your tribute. Until the full offering is made, the Scroll of Remove Obstacle cannot be completed.
+Your resources are delivered in full. The ink flows; the spell awakens. Take this Scroll of Remove Obstacle—may every wall before you crumble.
+
+(237, 148, 1) ***Necropolis***
+Name:
+Deathspire
+
+Timed events:
+
+Name:
+Starting units
+Message:
+
+
+Name:
+Build + Units Rook Queen King
+Message:
+
+
+Name:
+Weekly units All Diff
+Message:
+
+
+Name:
+Weekly units King
+Message:
+
+
+(246, 148, 1) ***Seer's Hut***
+Message:
+Name's Fleshscrapper. Got corpses? Good. I'll turn 'em into soldiers for you.
+Name's Fleshscrapper. Got corpses? Good. I'll turn 'em into soldiers for you.
+Let's get down to business…
+12 bodies. Don’t come back with less.
+12 bodies. Don’t come back with less.
+They’re not pretty, but they’ll fight. Use them well.
+Life demands sacrifice. I require 21 bodies.
+Life demands sacrifice. I require 21 bodies.
+Another masterpiece of muscle and bone. They’ll serve you well.
+Bring me 12 bodies and 4 stones. Together, they will strengthen the magic.
+Bring me 12 bodies and some earth. Flesh and stone will strengthen the magic.
+Your offerings are worthy. Take this Giant forged from flesh and stone.
+The dead are restless… I need 40 bodies to silence them.
+The dead are restless… I need 40 bodies to silence them.
+An offering of 40 bodies… fitting for greatness. Take these Liches, bound to your command.
+Got 30 Walking Dead, 8 Earth Elementals, and 10 Mummies? You bring the rot, I bring the wrath.
+Got 30 Walking Dead, 8 Earth Elementals, and 10 Mummies? You bring the rot, I bring the wrath.
+Lovely filth you've gathered. Here are your Dread Knights—don’t let them kill you first.
+Bring me 70 Walking Dead. I’ll squeeze out the rot. Quality over quantity, darling.
+Bring me 70 Walking Dead. I’ll squeeze out the rot. Quality over quantity, darling.
+Excellent stiffs. I’ve molded them into Liches—less moan, more boom. Try not to waste them.
+Bring me corpses, bones, rocks, and rags. 50 Walking Dead, 5 Bone Dragons, 20 Earth Elementals, 15 Mummies. No questions.
+Bring me corpses, bones, rocks, and rags. 50 Walking Dead, 5 Bone Dragons, 20 Earth Elementals, 15 Mummies. No questions.
+Just the right blend of filth. I forged 2 Rust Dragons—keep them away from metal. Or don’t.
+Skeletons, rotters, floaters, dirt clumps, and wrapped-up regrets. 300, 100, 50, 30, 20. Stack them here. Quietly.
+Skeletons, rotters, floaters, dirt clumps, and wrapped-up regrets. 300, 100, 50, 30, 20. Stack them here. Quietly.
+That’s the stink I like. I've reassembled it into 50 Bone Dragons. Handle with dread.
+400 bonesacks, 200 shufflers, 50 floaters, 40 dirt hulks, 40 ancient coughers. Stack them high—I’ve got work to do.
+400 bonesacks, 200 shufflers, 50 floaters, 40 dirt hulks, 40 ancient coughers. Stack them high—I’ve got work to do.
+Now that’s a mess. I’ve hammered it into 100 Dread Knights. Sharp, angry, and very pointy.
+I’m forging something ancient. I need death in all its forms—bone, rot, shadow, blood, curse, stone, and sorrow. Bring them.
+I’m forging something ancient. I need death in all its forms—bone, rot, shadow, blood, curse, stone, and sorrow. Bring them.
+That was disgusting. I loved it. You’ve got 50 Rust Dragons now—don’t let them corrode you.
+Mortal remains and immortal pride. I need thousands of bones… and the hearts of legends. Dragons, all of them. Their glory will serve death.
+Mortal remains and immortal pride. I need thousands of bones… and the hearts of legends. Dragons, all of them. Their glory will serve death.
+Magnificent sacrifices. Their echoes now drift as 500 Ghost Dragons—silent, cold, and hungry.
+The King rules with iron and death. Bring him down—only then will the path to shadow open.
+The King rules with iron and death. Bring him down—only then will the path to shadow open.
+The King has fallen. The spell of Fly is yours. Finish the job.
+
+(220, 148, 1) ***Seer's Hut***
+Message:
+I am Soulweaver. Prove yourself, and I will teach you the greatest secrets of life and death.
+I am Soulweaver. Prove yourself, and I will teach you the greatest secrets of life and death.
+Let's see what you can do for me…
+Last time I visited the cemetery, I accidentally left behind the Emblem of Cognizance—a family heirloom. Retrieve it for me.
+Nothing, eh?  I'm sure you will find the Emblem of Cognizance soon enough.  Please keep looking.
+You have done well to recover the Emblem of Cognizance. Take these gloves. With their power, the restless spirits will hasten your journey.
+The keeper of the poisoned stream has failed in his sacred duty. Such failure cannot go unanswered. Bring him to me—I will decide his fate.
+The keeper of the poisoned stream has failed in his sacred duty. Such failure cannot go unanswered. Bring him to me—I will decide his fate.
+You have done as I asked and brought the keeper before me. His failure will be judged, but your success shall not go unrewarded.
+Hand him over to me.
+Hand him over to me.
+The Lich is no more. In his place, there's the Amulet of the Undertaker.
+Find the Pendant of Recall—crypt east of the underground passage, above ground. Buried memories pay well.
+Find the Pendant of Recall—crypt east of the underground passage, above ground. Buried memories pay well.
+You found it? Impressive. Most who go digging for the past end up part of it.
+Galthran rots in a cell—master of bones, too stubborn to die properly. Free him. Skeletons get anxious without him.
+Galthran rots in a cell—master of bones, too stubborn to die properly. Free him. Skeletons get anxious without him.
+Galthran walks free—clattering bones falling in line like he never left. Death does love routine.
+I need 10 of each essence—gem, crystal, mercury, sulfur. Research is… expensive.
+I need 10 of each essence—gem, crystal, mercury, sulfur. Research is… expensive.
+The elements are mine. In return, 10,000 gold—bloodless, but useful.
+Bring me the Scroll of Misfortune. Misery has its uses—and I reward those who can find it.
+Bring me the Scroll of Misfortune. Misery has its uses—and I reward those who can find it.
+Misfortune suits you. Here—Scroll of Remove Obstacle.
+Vidomina’s trapped. Break her out if you dare. I owe her something.
+Vidomina’s trapped. Break her out if you dare. I owe her something.
+Vidomina has returned—master of bones and death’s quiet whisper. She’s not here to make friends.
+Bring me 20 of each: mercury, sulfur, crystal, and gems. Alchemy isn’t cheap.
+Bring me 20 of each: mercury, sulfur, crystal, and gems. Alchemy isn’t cheap.
+Elements gathered. Here’s your 20,000 gold—worth every cursed coin.
+Bring me 10 Vampire Lords. Darkness demands its due.
+Bring me 10 Vampire Lords. Darkness demands its due.
+You delivered shadows bound in flesh. The Vampire’s Cowl is yours—wear it like a curse.
+I need 30 of each element—mercury, sulfur, crystal, and gems. Such power has its price.
+I need 30 of each element—mercury, sulfur, crystal, and gems. Such power has its price.
+Elements secured. Here’s 40,000 gold—don’t spend it all in one resurrection.
+Bring the four elements. Their fury fuels the death magic.
+Bring the four elements. Their fury fuels the death magic.
+The elements have answered. Here’s the Scroll of Animate Dead—because even death can be commanded anew.
+Bring me 50 of each—mercury, sulfur, crystal, gems. Power this vast demands a steep price.
+Bring me 50 of each—mercury, sulfur, crystal, gems. Power this vast demands a steep price.
+Here’s 80,000 gold—heavy enough to weigh down even the restless dead.
+Prove your mastery. Reach level 40, and the dark art of Animate Dead will be yours.
+Prove your mastery. Reach level 40, and the dark art of Animate Dead will be yours.
+You’ve grown powerful enough. The shadows obey you now—Animate Dead is within your grasp.
+The King rules with iron and death. Bring him down—only then will the path through shadow open.
+The King rules with iron and death. Bring him down—only then will the path through shadow open.
+The King has fallen. The spell of Dimension Door is yours—step through shadows, unseen and untouchable.
+
+(217, 187, 1) ***Seer's Hut***
+Message:
+Ashkhan. Flamebound. Speak your offering, and perhaps the pit will answer.
+Ashkhan. Flamebound. Speak your offering, and perhaps the pit will answer.
+The flame is ready. The ritual begins.
+Bring me 60 Imps. Weak sparks, but enough of them can stoke real flame.
+Bring me 60 Imps. Weak sparks, but enough of them can stoke real flame.
+The Imps are ash—12 Magogs rise from the smoke.
+The flame craves raw essence. Bring me 15 Fire Elementals—it must burn hotter.
+The flame craves raw essence. Bring me 15 Fire Elementals—it must burn hotter.
+The elementals burn anew—as 25 Cerberi, hungry and unchained.
+Lesser flame for greater fire. Bring 30 Fire Elementals. The pit will shape them.
+Lesser flame for greater fire. Bring 30 Fire Elementals. The pit will shape them.
+The fire is reborn—fiercer, freer, and far less obedient.
+Gather 45 Fire Elementals and the Firebird’s fury. The ritual calls for more than flame.
+Gather 45 Fire Elementals and the Firebird’s fury. The ritual calls for more than flame.
+From the consumed flames, 15 Efreet Sultans emerge—born of fire and fury, ready to burn all.
+A darker offering: 30 Beholders, 25 Medusas, and 45 Fire Elementals. The pit demands both fire and blood.
+A darker offering: 30 Beholders, 25 Medusas, and 45 Fire Elementals. The pit demands both fire and blood.
+The sacrifice is complete. From the depths, 15 Devils arise—fierce, cunning, and bound to fire.
+Offer 100 Familiars, 100 Magogs, 50 Energy Elementals, and 3 Firebirds. Only the greatest fires can summon Archdevils.
+Offer 100 Familiars, 100 Magogs, 50 Energy Elementals, and 3 Firebirds. Only the greatest fires can summon Archdevils.
+The pyre burns higher than ever. From its flames, 20 Archdevils emerge—lords of ruin and flame.
+Gather 300 Familiars, 50 Beholders, 40 Medusas, and 150 Fire Elementals. The inferno demands a feast.
+Gather 300 Familiars, 50 Beholders, 40 Medusas, and 150 Fire Elementals. The inferno demands a feast.
+From the blazing pyre, 10 Rust Dragons rise, their scales forged in fire and decay.
+Bring forth 500 Fire Elementals. Only a flood of flame can birth such power.
+Bring forth 500 Fire Elementals. Only a flood of flame can birth such power.
+The blaze swells beyond control. 125 Efreet Sultans emerge, kings of flame and fury.
+A thousandfold sacrifice: Familiars, Horned Demons, Energy Elementals. The flames demand a titanic offering.
+A thousandfold sacrifice: Familiars, Horned Demons, Energy Elementals. The flames demand a titanic offering.
+The Inferno devours the masses. From the ashes, 80 Rust Dragons claw their way into the world.
+The ritual’s paused. The flames wait—go kill The King and reignite the Inferno.
+The ritual’s paused. The flames wait—go kill The King and reignite the Inferno.
+The King falls. My part’s done. Here—now finish what you've started.
+
+(220, 175, 1) ***Seer's Hut***
+Message:
+I am Vorhazz, the mine keeper.
+I am Vorhazz, the mine keeper.
+The mine bleeds slowly… Let's help it bleed faster.
+Monsters lurk near the mine, slowing the diggers. Clear them.
+Monsters lurk near the mine, slowing the diggers. Clear them.
+Good job. Here is some gold for your work.
+Monsters lurk near the mine, slowing the diggers. Clear them.
+Monsters lurk near the mine, slowing the diggers. Clear them.
+Good job. Here is some gold for your work.
+Monsters lurk near the mine, slowing the diggers. Clear them.
+Monsters lurk near the mine, slowing the diggers. Clear them.
+Good job. Here is some gold for your work.
+Monsters lurk near the mine, slowing the diggers. Clear them.
+Monsters lurk near the mine, slowing the diggers. Clear them.
+Good job. Here is some gold for your work.
+Monsters lurk near the mine, slowing the diggers. Clear them.
+Monsters lurk near the mine, slowing the diggers. Clear them.
+All dead? Good. Speed is survival down here. Take this—move faster, or die slower.
+The mine needs guards. Send 15 Hell Hounds. No cowards.
+The mine needs guards. Send 15 Hell Hounds. No cowards.
+Good. They’ll keep the workers digging and the intruders screaming.
+Magogs surfaced in the lower shafts—too many to burn. We need Calh. He speaks their flame tongue.
+Magogs surfaced in the lower shafts—too many to burn. We need Calh. He speaks their flame tongue.
+The Magogs listen—for now. Here’s your gold. Let’s hope they don’t change their minds.
+The mine must grow. Bring 10 of each resource—we need to dig deeper.
+The mine must grow. Bring 10 of each resource—we need to dig deeper.
+Good. The earth cracks open a little more. Take your gold before the walls close again.
+I have a personal favor. This beast’s been gnawing at my family’s patience. Deal with it.
+I have a personal favor. This beast’s been gnawing at my family’s patience. Deal with it.
+You did it. I don’t forget debts. Take this scroll. Slow things down… when you need to think fast.
+To dig deeper, we need resources. The mine won’t grow on empty hands.
+To dig deeper, we need 20 of each resource. The mine won’t grow on empty hands.
+The tunnels stretch farther now. The mine expands—and so does your gold.
+We struck a rich sulfur vein. It’s unstable—bring Calid to clean it out before it burns us all.
+We struck a rich sulfur vein. It’s unstable—bring Calid to clean it out before it burns us all.
+Calid handled the mess. The sulfur’s under control—for now.
+These blasted rocks won’t break themselves. Drag me 10 Earth Elementals—or we'll stay stuck.
+These blasted rocks won’t break themselves. Drag me 10 Earth Elementals—or we'll stay stuck.
+Rocks cracked, ore spilled.
+We’re lost in the dark. Need a hero at level 30—someone who knows the depths to guide us.
+We’re lost in the dark. Need a hero at level 30—someone who knows the depths to guide us.
+You’ve got the skill we need. Here’s 15,000 gold—use it to keep your head above the madness.
+The deeper we dig, the harder the mine gets. Bring 30 of each resource to help us with work.
+The deeper we dig, the harder the mine gets. Bring 30 of each resource to help us with work.
+The tunnels grow longer, carved by your hand. We found an abandoned library underground, and in it, this scroll.
+The deeper we dig, the harder the mine gets. Bring 40 of each resource to help us with work.
+The deeper we dig, the harder the mine gets. Bring 40 of each resource to help us with work.
+We found a lot of gold… and a dead end. The mine is depleted.
+My work is done. Now, go finish it—kill The King.
+My work is done. Now, go finish it—kill The King.
+The King falls. My part’s done. Here, finish the job now.
+
+(225, 189, 1) ***Inferno***
+Name:
+Hellspire
+
+Timed events:
+
+Name:
+Starting units
+Message:
+
+
+Name:
+Build + Units Rook Queen King
+Message:
+
+
+Name:
+Weekly units All Diff
+Message:
+
+
+Name:
+Weekly units King
+Message:
+
+
+(232, 209, 1) ***Seer's Hut***
+Message:
+Wights and wraiths haunt the lava lake. Clear them out—before their cold kills the fire.
+Wights and wraiths haunt the lava lake. Clear them out—before their cold kills the fire.
+More still choke the lava’s breath.
+Wights and wraiths haunt the lava lake. Clear them out—before their cold kills the fire.
+Wights and wraiths haunt the lava lake. Clear them out—before their cold kills the fire.
+More still choke the lava’s breath.
+Wights and wraiths haunt the lava lake. Clear them out—before their cold kills the fire.
+Wights and wraiths haunt the lava lake. Clear them out—before their cold kills the fire.
+More still choke the lava’s breath.
+Wights and wraiths haunt the lava lake. Clear them out—before their cold kills the fire.
+Wights and wraiths haunt the lava lake. Clear them out—before their cold kills the fire.
+The shadows fled the flames. Take these Boots of Speed—run faster than death itself.
+
+(181, 225, 1) ***Inferno***
+Name:
+Lavahold
+
+Timed events:
+
+Name:
+Weekly units Rook Queen King
+Message:
+
+
+Name:
+Weekly units King
+Message:
+
+
+(148, 214, 1) ***Inferno***
+Name:
+Scorchpeak
+
+Timed events:
+
+Name:
+Weekly units Rook Queen King
+Message:
+
+
+Name:
+Weekly units King
+Message:
+
+
+(44, 63, 1) ***Dungeon***
+Name:
+Dragonspire
+
+Timed events:
+
+Name:
+Starting units
+Message:
+
+
+Name:
+Build + Units Rook Queen King
+Message:
+
+
+Name:
+Weekly units All Diff
+Message:
+
+
+Name:
+Weekly units King
+Message:
+
+
+(38, 60, 1) ***Seer's Hut***
+Message:
+Dragons—majestic alive, priceless dead. I take them either way. Do you like them as well?
+Dragons—majestic alive, priceless dead. I take them either way. Do you like them as well?
+Good. Let’s get down to business.
+Bring me 5,000 gold, and I’ll part with a Dragon Wing Tabard. I’m feeling generous… for now.
+Still holding onto that gold? I might start charging interest.
+Here’s your Dragon Wing Tabard. Try not to burn it… or yourself.
+Fetch me a Red Dragon—alive, dead, or smoldering. I need its flame for… personal projects.
+Still waiting for that Red Dragon. Don’t tell me it roasted you already.
+Here’s your Red Dragon Flame Tongue. Careful—it still burns.
+I need 80 Troglodytes and 25 Harpies to clean out a local labyrinth. Dragons won’t step in there—too dusty, too many cobwebs, and apparently "it smells funny."
+Still missing some Trogs and Harpies.
+Well, the labyrinth’s a mess no more—here, take 12 Minotaurs and try not to break anything… too badly.
+Mutare Drake’s been sulking in a cell—time someone reminded her what freedom feels like.
+Mutare Drake’s been sulking in a cell—time someone reminded her what freedom feels like.
+Freedom agrees with her—take your black dragon and see what trouble you can stir.
+I need some bony friends to help me with a little… personal project.
+I need some bony friends to help me with a little… personal project.
+Well, that’s a mouthful of success—take the Necklace of Dragon Teeth.
+Some Faerie Dragons have been causing mischief, stealing shiny things and ignoring their oaths. Time to teach them a lesson.
+Those cheeky little wings are still fluttering about—don’t let them slip away.
+Those naughty Faerie Dragons are finally in line—take some sulfur from my personal collection.
+I need three Green, three Bone, and three Red Dragons—don’t ask why, just collect them.
+Still short on dragons—remember, three of each color, and make it quick.
+Three of each—Green, Bone, and Red—lined up nicely. Dragon Scale Shield is ready; let’s see it in action.
+Dragons are getting peckish. Bring me 200 Infernal Troglodytes, 100 Harpy Hags, 70 Evil Eyes, and 50 Medusa Queens to sate their appetites.
+Still gathering the monsters? The dragons won’t wait forever—they’re hungry.
+Perfect feast! Twelve Black Dragons are more than satisfied—let’s see what mischief they cause next.
+I need a colorful mix of 5 Green, 5 Bone, and 5 Red Dragons—trust me, it’s for something spectacular.
+I need a colorful mix of 5 Green, 5 Bone, and 5 Red Dragons—trust me, it’s for something spectacular.
+Excellent! The dragons delivered—your Dragon Scale Armor is ready.
+I need 500 Infernal Troglodytes, 200 Harpy Hags, 140 Evil Eyes, and 70 Medusas—the dragons are starving, and we need to feed them properly.
+Still hunting those fiends? Don’t keep my dragons waiting—they’re growing impatient.
+Finally! The Black Dragons are fed.
+I need 25 Gold, 25 Ghost, 25 Black, 3 Faerie, and 3 Rust Dragons—time to brew something truly spectacular.
+Dragging your feet? These dragons won’t gather themselves, you know.
+Well, well, a rainbow of dragons all in one place—finally, some entertainment.
+I need 50 Red Dragons—let’s see if they play nice this time.
+Still chasing those fiery divas? Don’t let a single one slip away.
+Looks like the Reds finally found their cousins—cheers to a colorful reunion.
+Gather 50 Gold, 50 Ghost, 50 Black, 6 Faerie, and 6 Rust Dragons—let’s cook up a little azure magic.
+Still juggling the horde? Don’t let any of these melodramatic beasts wander off.
+This is epic. Well done.
+Time to settle old scores—The King won’t be waiting politely.
+Remember, the throne room won’t clean itself; the King still stands in your way.
+The King has fallen. Take to the skies—fly like a dragon, if you dare.
+
+(56, 64, 1) ***Seer's Hut***
+Message:
+Ah, welcome to my little hideaway. I have a delicate task that requires… a willing hand. Care to lend yours?
+Oh, I see… hesitation suits some, but the task won’t complete itself. Will you reconsider?
+Finally, someone with sense! Let’s begin with your first task—I have plans that require a steady hand.
+I need that Emblem of Cognizance from the dragon tower to the west. Think you can snatch it for me, or are you all talk?
+Still thinking it over? That Emblem won’t steal itself—time to get moving.
+Finally, someone who acts! The Emblem is ours—let’s see what mischief we can brew next.
+Mutare’s locked up, and I need her out—can you break her free, or are you scared of a little jailhouse fun?
+Hesitating? Mutare’s not going to pick the locks herself—you know what to do.
+Well, look at you—Mutare’s out and on the move. Let’s see where this little jailbreak leads us.
+I need these materials to brew a rare potion—think you can gather them for me?
+Those ingredients won’t fetch themselves.
+Perfect! Everything’s here—the brew is a success. Here is your payment.
+I need these rare components for a vial of dragon blood—help me out, or are you planning to nap instead?
+Still thinking? Dragons don’t wait for indecisive heroes.
+Brilliant, the vial is ready—time to stir up some trouble!
+I’m brewing a tricky little spell, but I’m short on ingredients—help me gather them, or do you prefer watching me fume alone?
+Tick-tock! The cauldron isn’t getting any fuller on its own.
+Perfect! The Scroll of Slow is simmered to perfection—now, let’s see who gets slowed first!
+I need these rare bits and bobs for a… delicate little experiment. Care to lend a hand, or would you rather watch me mutter to myself?
+The pile’s still pitifully small—your ingredients are missing in action.
+Ah, splendid! Everything’s in place, and the brew is complete—let’s see what this little masterpiece does.
+I’m brewing something that could make walls and barriers… politely disappear. Help me gather the bits?
+Still short on ingredients—don’t make me resort to begging dragons for help.
+Perfect! The mixture is ready—obstacles won’t know what hit them.
+I have a little project that needs a… colorful collection of materials. Care to fetch them for me?
+You’re still missing some pieces.
+Excellent! Everything’s in place—this is going to be very profitable.
+I need a few ingredients for a delicate little ritual—think you can handle it?
+Don’t tell me you’ve lost your nerve; those ingredients won’t gather themselves.
+Perfect! All set—this scroll will do wonders when the time comes.
+I’ve got a rather… expensive potion to brew. Can you fetch the ingredients?
+Still dragging your feet? Those ingredients aren’t going to appear by magic.
+Ah, splendid! Everything’s in place—let the gold flow.
+The time has come to face the King himself. Ready to dance with destiny?
+Hesitation won’t slay royalty—don’t keep me waiting.
+Finally! The King has fallen… now, step through to wherever you wish.
+
+(43, 17, 1) ***Dungeon***
+Name:
+Wyrmstone
+
+Timed events:
+
+Name:
+Weekly units Rook Queen King
+Message:
+
+
+Name:
+Weekly units King
+Message:
+
+
+(69, 34, 1) ***Pandora's Box***
+Message:
+
+
+(103, 33, 1) ***Quest Guard***
+Message:
+A mighty lock bars the way. Bring Rogues—only their hands can open it.
+The lock still holds.
+The Rogues arrive, and the lock clicks open. The path is clear.
+
+(19, 228, 1) ***Cove***
+Name:
+Blackreef
+
+Timed events:
+
+Name:
+Build shipyard AI
+Message:
+
+
+Name:
+Starting units
+Message:
+
+
+Name:
+Build + Units Rook Queen King
+Message:
+
+
+Name:
+Weekly units All Diff
+Message:
+
+
+Name:
+Weekly units King
+Message:
+
+
+(5, 247, 1) ***Seer's Hut***
+Message:
+Welcome t’ the Black Gull Tavern, matey. I be Roderick the barkeep, and this here be where every true pirate’s tale begins.
+Welcome t’ the Black Gull Tavern, matey. I be Roderick the barkeep, and this here be where every true pirate’s tale begins.
+Please take this scroll to my friend Finn by the shore. Meanwhile, are you interested in some other work?
+A storm took the Sea Vulture to the depths, just east o’ here. Fetch me the Pendant o’ Death from her wreck, and we’ll see ye get a proper welcome.
+The Sea Vulture waits on the rocks… bring me that cursed pendant if ye’ve the spine.
+A fine haul! And with that, twenty stout seamen be ready to sail under yer flag.
+A true pirate knows when to vanish. There’s a Scroll o’ Disguise on the rocky isle north o’ here—fetch it, and I’ll set ye up with a crew that knows shadows.
+That rocky isle waits for no man… bring me the scroll, and I’ll bring ye Rogues.
+Well now, ye look the part. Fifty Rogues stand ready to slip aboard in silence.
+Word is, Captain Bidley rots in a prison cell. Free him, and your name’ll spread faster than rum on shore leave.
+No captain, no glory—find Bidley.
+Bidley’s free and grateful. Here—5,000 gold. The taverns will be singin’ your name tonight.
+Tark, the Nix captain, was taken in a raid. Bring him back, and your legend will grow deeper than the sea.
+Find Tark before the fishfolk forget his name—and yours.
+Tark walks free again. Here’s 7,500 gold… and another word in your growing legend.
+The tavern’s roof leaks and the floorboards groan. Bring me fifty crew to help rebuild.
+Still need more hands before the tavern’s fit for true pirates.
+The tavern’s repaired—and we’ve already got visitors. Thirty Corsairs looking to join your crew.
+A fine tavern needs more than rum—it needs charm. Bring me a hundred Oceanids and five Sea Witches.
+Still waiting on the ladies—no crew’s complete without ‘em.
+The Oceanids and Witches have arrived. The lads came running—forty Pirates join your crew.
+The tavern’s gettin’ crowded—these Nix need a place to crash. Bring me ten of each rare resource, and we’ll make room for these strange folks.
+Gather the goods—the Nix won’t settle where they don’t feel at home.
+The tavern’s bigger and stranger now. Thirteen Nix have found their berth under your flag.
+Word is, Skullhaven’s graveyard holds the Emblem of Cognizance—a trinket those Sorceresses swear by. Snag it, and you’ll earn their respect.
+Don’t keep the ladies waitin’. That Emblem’s the key to their power, and it’s just sittin’ in the shadows.
+Emblem secured. Sixteen Sorceresses reckon you’re worthy now—seems that little trinket means a lot to ’em.
+Every true pirate needs the ultimate sea trophy. Bring me five Haspids—show you’re captain material.
+The sea’s waiting. Don’t keep the Haspids hangin’, or your claim’s just talk.
+Those Haspids are proof enough. Here’s the Sea Captain’s Hat—wear it like you own the waves.
+Got a weird shipment order for ya: 100 Gnolls, 50 Lizardmen, 150 Nymphs, 100 Seamen, and 50 Ayssids. Think of it like a pirate’s swap meet—trade ’em in for 50 Nix. Strange but profitable.
+Keep those odd recruits coming. This swap’s gonna turn heads in the tavern.
+The trade’s done—fifty Nix now dance under your flag. Weird? Sure. Effective? Absolutely.
+Got a wild bunch to deliver: 100 Lizardmen, 300 Sea Dogs, 500 Nymphs, 300 Seamen, and 100 Sorceresses. Swap ’em out for 90 Haspids—think of it as upgrading your crew’s bite.
+Keep the crew movin’. These Haspids won’t catch themselves.
+Trade’s done. Ninety Haspids ready to snap and crackle under your command.
+A wild mix this time: 50 Chaos Hydras, 100 Water Elementals, 100 Nix Warriors, and 300 Ayssids. Trade ’em for 60 Faerie Dragons—fancy little beasts to light up any fleet.
+Keep the magic flowin’. Those Faerie Dragons won’t hatch themselves.
+The deal’s done—sixty Faerie Dragons now dance to your tune. Bright, flashy, and a bit cheeky, just like a true pirate’s crew.
+The time’s come, matey—The King’s throne won’t hold for long. Sharpen yer cutlass, rally the crew, and show him the wrath of the seas.
+No turning back now. The King waits, but he won’t escape the storm you’re about to unleash.
+The King’s reign is done. You’ve earned a gift fit for a pirate king—one that’ll lift you above the tides.
+
+(45, 206, 1) ***Cove***
+Name:
+Ironwharf
+
+Timed events:
+
+Name:
+Weekly units Rook Queen King
+Message:
+
+
+Name:
+Weekly units King
+Message:
+
+
+(82, 188, 1) ***Cove***
+Name:
+Skullhaven
+
+Timed events:
+
+Name:
+Weekly units Rook Queen King
+Message:
+
+
+Name:
+Weekly units King
+Message:
+
+
+(245, 34, 1) ***Pandora's Box***
+Message:
+
+
+(234, 33, 1) ***Sign***
+Message:
+Path of Power
+
+(234, 31, 1) ***Quest Gate***
+Message:
+Three dragons. Crystal, Faerie, Rust. Power demands sacrifice—offer them, or turn away.
+Three dragons. Crystal, Faerie, Rust. Power demands sacrifice—offer them, or turn away.
+The dragons are given. Power accepts your offering—and watches closely.
+
+(198, 33, 1) ***Sign***
+Message:
+Path of Humility—bring a Goblin, Gnoll, Pixie, Halfling, Nymph, Imp, Troglodyte—and their upgraded forms, along with a Peasant, some Fangarms, and an 
+
+(216, 18, 1) ***Event***
+Message:
+The eternal flame stirs courage, luck, and magic deep within.
+
+(97, 25, 1) ***Quest Guard***
+Message:
+The gate is sealed. Only Ufretin, the mine ruler, carries the key. Defeat him, and the way shall open.
+Ufretin still guards the mine. The key is not yet yours.
+Ufretin has fallen! His key turns in the lock—the gate swings wide open.
+
+(93, 67, 1) ***Sign***
+Message:
+Secret Pirate Cavern—No Trespassing!
+
+(29, 11, 1) ***Event***
+Message:
+You are getting lost in the labyrinth.
+
+(28, 11, 1) ***Event***
+Message:
+You are getting lost in the labyrinth.
+
+(103, 113, 1) ***Pandora's Box***
+Message:
+
+
+(199, 20, 1) ***Quest Gate***
+Message:
+Even fragile things grow, but their weakness remains. Bring one of each… their scars make them worthy to pass.
+Even fragile things grow, but their weakness remains. Bring one of each… their scars make them worthy to pass.
+Strong, broken, ready to fall. Proceed—your nightmare begins.
+
+(198, 25, 1) ***Quest Gate***
+Message:
+The humble must walk with you. Bring all seven, or turn back.
+The humble must walk with you. Bring all seven, or turn back.
+Seven weaklings, pitiful and pure. Good. The darkness welcomes you.
+
+(203, 16, 1) ***Quest Gate***
+Message:
+Bring Fangarms to the Horn’s shadow. Only their sacrifice grants the passage.
+The Horn watches eagerly. Don’t disappoint it now.
+The gate grudgingly opens… but its hunger remains.
+
+(211, 10, 1) ***Quest Guard***
+Message:
+So many came with armies… pride, steel, glory. But none stayed. Only one who walks with nothing can pass. Do you bring… a friend?
+So many came with armies… pride, steel, glory. But none stayed. Only one who walks with nothing can pass. Do you bring… a friend?
+Humble to the end… Perfect. The Horn is hungry. Go claim your reward.
+
+(206, 13, 1) ***Quest Guard***
+Message:
+Strength blinds, but weakness… sees. Bring me the Scroll of Weakness. Only then will you truly understand how powerful it is to have… nothing.
+Strength blinds, but weakness… sees. Bring me the Scroll of Weakness. Only then will you truly understand how powerful it is to have… nothing.
+Ah… the Scroll of Weakness. So fragile, so small… so disappointing. And yet, you carried it with pride. Perhaps you're weaker than I hoped. Good. You're almost ready.
+
+(220, 37, 1) ***Seer's Hut***
+Message:
+Wisdom, will, memory, and fire—four keys, scattered in the shadows. The Ziggurat hides them well… but not from those who burn to know more. Bring them, and the Scroll of Sacrifice shall be yours.
+You’ve glimpsed pieces of the truth, but the whole remains out of reach. The Ziggurat waits—and it does not wait kindly.
+You’ve returned with all four. The Ziggurat remembers you now. Take the Scroll of Sacrifice… but know, something always remembers what was given.
+Within this ancient ziggurat, I guard a spell of immense power—Dimension Door. Bring me 1,000 Fangarms, and the scroll shall be yours.
+The ziggurat awaits your full tribute. Only when 1,000 Fangarms are brought will the Dimension Door scroll be revealed.
+You have delivered the 1,000 Fangarms. As promised, take the Scroll of Dimension Door—may it bend the very fabric of space to your will.
+
+(12, 184, 1) ***Ocean Bottle***
+Message:
+Ahoy! D’loot be hid ‘neath da Wasteland Shrine o’ da Magic Gesture—dig fast, ye scallywag!
+
+(213, 8, 1) ***Horn of the Abyss***
+Message:
+You didn't think it would come at no cost, did you now?
+
+(2, 222, 1) ***Pandora's Box***
+Message:
+
+
+(17, 242, 1) ***Pandora's Box***
+Message:
+
+
+(2, 250, 1) ***Pandora's Box***
+Message:
+
+
+(5, 190, 1) ***Spell Scroll***
+Message:
+Quest item.
+
+(164, 72, 1) ***Pandora's Box***
+Message:
+
+
+(121, 133, 1) ***Pandora's Box***
+Message:
+
+
+(114, 173, 1) ***Pandora's Box***
+Message:
+
+
+(174, 84, 1) ***Pandora's Box***
+Message:
+
+
+(227, 33, 1) ***Quest Guard***
+Message:
+Power is never taken—only traded. Bring the Scroll of Sacrifice. Without loss, the path remains sealed.
+Power is never taken—only traded. Bring the Scroll of Sacrifice. Without loss, the path remains sealed.
+The scroll burns, the path opens.
+
+(234, 29, 1) ***Event***
+Message:
+The heat crushes not just bodies, but spirit. Your troops march… without conviction.
+
+(234, 27, 1) ***Event***
+Message:
+You flip a coin and it melts. Luck has no place here.
+
+(234, 28, 1) ***Event***
+Message:
+The fire here feeds upon will. Your magic drains, burned away.
+
+(234, 25, 1) ***Event***
+Message:
+The heat crushes not just bodies, but spirit. Your troops march… without conviction.
+
+(233, 24, 1) ***Event***
+Message:
+The fire here feeds upon will. Your magic drains, burned away.
+
+(232, 23, 1) ***Event***
+Message:
+The heat crushes not just bodies, but spirit. Your troops march… without conviction.
+
+(231, 22, 1) ***Event***
+Message:
+The fire here feeds upon will. Your magic drains, burned away.
+
+(232, 20, 1) ***Event***
+Message:
+The fire here feeds upon will. Your magic drains, burned away.
+
+(231, 18, 1) ***Event***
+Message:
+The heat crushes not just bodies, but spirit. Your troops march… without conviction.
+
+(230, 17, 1) ***Event***
+Message:
+The heat crushes not just bodies, but spirit. Your troops march… without conviction.
+
+(228, 15, 1) ***Event***
+Message:
+The heat crushes not just bodies, but spirit. Your troops march… without conviction.
+
+(227, 14, 1) ***Event***
+Message:
+The heat crushes not just bodies, but spirit. Your troops march… without conviction.
+
+(225, 13, 1) ***Event***
+Message:
+The heat crushes not just bodies, but spirit. Your troops march… without conviction.
+
+(227, 13, 1) ***Event***
+Message:
+The fire here feeds upon will. Your magic drains, burned away.
+
+(223, 12, 1) ***Event***
+Message:
+The fire here feeds upon will. Your magic drains, burned away.
+
+(222, 11, 1) ***Event***
+Message:
+The heat crushes not just bodies, but spirit. Your troops march… without conviction.
+
+(226, 13, 1) ***Event***
+Message:
+You flip a coin and it melts. Luck has no place here.
+
+(221, 10, 1) ***Event***
+Message:
+You flip a coin and it melts. Luck has no place here.
+
+(231, 19, 1) ***Event***
+Message:
+You flip a coin and it melts. Luck has no place here.
+
+(231, 20, 1) ***Event***
+Message:
+You flip a coin and it melts. Luck has no place here.
+
+(232, 19, 1) ***Event***
+Message:
+You flip a coin and it melts. Luck has no place here.
+
+(229, 15, 1) ***Event***
+Message:
+You flip a coin and it melts. Luck has no place here.
+
+(235, 26, 1) ***Event***
+Message:
+You flip a coin and it melts. Luck has no place here.
+
+(216, 11, 1) ***Armageddon's Blade***
+Message:
+The blade burns with promise… but you are not the only one drawn to it. The guardians stir—as if chaos itself defends its own.
+
+(198, 29, 1) ***Quest Gate***
+Message:
+Only those who have suffered enough may pass.
+Only those who have endured enough to embrace their weakness may pass.
+The gate opens.
+
+(199, 32, 1) ***Quest Guard***
+Message:
+If you truly wish to walk the Path of Humility, first surrender the cursed Armageddon’s Blade. Only upon letting go of such power can your journey begin.
+If you truly wish to walk the Path of Humility, first surrender the cursed Armageddon’s Blade. Only upon letting go of such power can your journey begin.
+So you’ve let go of the mighty Armageddon’s Blade. How… noble. Don’t get too comfortable—the Path of Humility has a nasty habit of breaking the "humble."
+
+(163, 175, 1) ***Pandora's Box***
+Message:
+
+
+(136, 32, 1) ***Pandora's Box***
+Message:
+
+
+(161, 196, 1) ***Seer's Hut***
+Message:
+The Nix are wreaking havoc in the mines. Ready to clean house and get the tunnels flowing again?
+They’re slippery pests… still scuttling about. Keep at it, the mines won’t fix themselves.
+The Nix are gone, and the mines hum once more. Finally, some peace and gold to show for it.
+Your gold is delivered.
+Your gold is delivered.
+Your gold is delivered.
+Your gold is delivered.
+Your gold is delivered.
+Your gold is delivered.
+Your gold is delivered.
+Your gold is delivered.
+Your gold is delivered.
+
+(186, 32, 1) ***Pandora's Box***
+Message:
+
+
+(199, 128, 1) ***Pandora's Box***
+Message:
+
+
+(152, 102, 1) ***Pandora's Box***
+Message:
+
+
+(6, 230, 1) ***Seer's Hut***
+Message:
+Name’s Old Finn, best fisherman ’round these parts. Got a feel for finding treasures beneath the waves.
+Name’s Old Finn, best fisherman ’round these parts. Got a feel for finding treasures beneath the waves.
+Not bad, eh? Fancy castin’ a line together to see what else we can catch?
+Before you dive deep, swing by the pirate village and chat with the barkeep. He’s got a scroll to keep you dry—Protection from Water.
+Talk to the barkeep and get that scroll. It’s like a good net for rough seas.
+Good haul! With that scroll delivered, here—these Equestrian's Gloves’ll help steady your grip on deck.
+There’s a pirate raising a stir near the village docks. Take him down—he’s got a treasure worth chasing.
+That pirate won’t wait forever. Claim his prize and be quick about it.
+Well done! I fished these Boots of Speed out of the sea myself. Ready for what’s next?
+We need sturdy wood to shore up the pier—nothing worse than creaking boards when the tide’s high.
+Get that wood quick. The pier won’t fix itself.
+The pier’s looking solid now. The coffers got a little fatter too—here’s 5,000 gold. What’s next?
+The sea’s been stubborn lately. Bring me 12 water elementals to calm it down.
+Don’t keep the tides waiting—fetch those water elementals, and I’ll show you a trick.
+Nice haul! With this scroll, your boat will be at your beck and call. Fancy a sail?
+Catchin’ big fish calls for bigger bait. Bring me 50 Lizardmen. Sharp teeth, slippery scales—the perfect lure.
+No time to waste. The fish won’t bait themselves.
+Here’s 12,000 gold for your trouble. What’s next?
+A foul beast haunts the Skullhaven lighthouse, blocking safe passage. Take it down and claim the lighthouse.
+That beast won’t clear itself—show it who rules these waters.
+Ye took that beast down good—Skullhaven’s lights burn bright again. That necklace’s all yours, savvy?
+Need to upgrade me gear—bring 5 wood, 10 mercury, 5 ore, 10 crystal, and 10 gems. Only the finest for a fisherman’s best life.
+Still waiting on that treasure haul—don’t keep me castin’ in empty waters.
+With this fancy gear, I’ll catch treasures galore! Here’s 12,500 gold for your trouble—now, who’s ready to fish?
+The sea’s restless. Only 60 Water Elementals can calm her. Bring ’em to me, and we’ll make waves worth gold.
+Still waitin’ on those Elementals—don’t let the tide slip away.
+With their magic, the sea bends to our will. Take your 28,000 gold—and keep yer eyes on the horizon.
+The fisherman’s shack needs some serious sprucin’ up. Bring 5 wood, 20 mercury, 5 ore, 5 sulfur, 20 crystals, and 20 gems—let’s turn this place into a legend.
+Don’t keep me waitin’—the sea’s watchin’, and so am I.
+Now that’s what I call an upgrade! Here’s 25,000 gold for your trouble—the sea’s lookin’ better already.
+Need rare goods—30 mercury, 10 sulfur, 30 crystal, and 30 gems—to craft a fine boat fit for the fiercest seas.
+Still waitin’ on those treasures—can’t set sail without ’em.
+Took the new boat for a spin, and wouldn’t ya know it—I fished up this scroll for ye!
+The sea’s brewing a storm—I need 120 Water Elementals to keep her tamed. Fetch ’em if ye dare.
+Still waitin’ on those slippery Elementals. Don’t let ’em swim away.
+The sea’s calm once more, thanks to you. Here’s 55,000 gold for your trouble, sailor.
+Lookin’ to turn this shack into a treasure palace. Bring me 40 wood, mercury, ore, sulfur, crystal, and gems—all the shiny bits.
+No shortcuts, matey—I’m countin’ on every last shiny bit.
+Well blow me down! All that shiny junk turned into 90,000 gold—best investment this side of the seven seas!
+The King’s reign ends now—sail into his lair and send him to the depths. Glory and legend await, if ye survive.
+The crown’s heavy, but yer cutlass is heavier. Go on—finish what ye started.
+The King’s fallen! The seas whisper your name now. Take this scroll—a door to anywhere, for a pirate worthy of legends.
+
+(99, 23, 1) ***Seer's Hut***
+Message:
+The Amulet of the Undertaker lies buried deep in the King’s ore mine. Care to fetch it for me? I could help you organize the miners.
+Still poking around the tunnels? The ore mine won’t give up its secrets that easily.
+Finally! I will tell the boys to resume the mining.
+Your gold is delivered.
+Your gold is delivered.
+Your gold is delivered.
+Your gold is delivered.
+Your gold is delivered.
+Your gold is delivered.
+Your gold is delivered.
+Your gold is delivered.
+Your gold is delivered.
+Your gold is delivered.
+
+(151, 171, 1) ***Event***
+Message:
++exp +creature +stats +sp
+
+(204, 172, 1) ***Pandora's Box***
+Message:
+
+
+(199, 180, 1) ***Event***
+Message:
++exp +sp +creature
+
+(78, 13, 1) ***Event***
+Message:
++ exp + creature
+
+(88, 49, 1) ***Event***
+Message:
++exp +creatures +sp
+
+(110, 29, 1) ***Quest Guard***
+Message:
+The mine is locked. Ufretin has a key.
+Ufretin has a key.
+The pass opens.
+
+(104, 31, 1) ***Event***
+Message:
++exp +creature +sp
+
+(185, 33, 1) ***Quest Guard***
+Message:
+This ancient stone has stood here for centuries. Only magic could undo its hold on this land.
+This ancient stone has stood here for centuries. Only magic could undo its hold on this land.
+As the scroll’s magic takes hold, the ancient stone trembles, crumbles, and fades into dust.
+
+(154, 101, 1) ***Quest Guard***
+Message:
+This ancient stone has stood here for centuries. Only magic could undo its hold on this land.
+This ancient stone has stood here for centuries. Only magic could undo its hold on this land.
+As the scroll’s magic takes hold, the ancient stone trembles, crumbles, and fades into dust.
+
+(102, 113, 1) ***Quest Guard***
+Message:
+This ancient stone has stood here for centuries. Only magic could undo its hold on this land.
+This ancient stone has stood here for centuries. Only magic could undo its hold on this land.
+As the scroll’s magic takes hold, the ancient stone trembles, crumbles, and fades into dust.
+
+(198, 129, 1) ***Quest Guard***
+Message:
+This ancient stone has stood here for centuries. Only magic could undo its hold on this land.
+This ancient stone has stood here for centuries. Only magic could undo its hold on this land.
+As the scroll’s magic takes hold, the ancient stone trembles, crumbles, and fades into dust.
+
+(137, 102, 1) ***Quest Guard***
+Message:
+This ancient stone has stood here for centuries. Only magic could undo its hold on this land.
+This ancient stone has stood here for centuries. Only magic could undo its hold on this land.
+As the scroll’s magic takes hold, the ancient stone trembles, crumbles, and fades into dust.
+
+(139, 101, 1) ***Pandora's Box***
+Message:
+
+
+(132, 185, 1) ***Quest Guard***
+Message:
+This ancient stone has stood here for centuries. Only magic could undo its hold on this land.
+This ancient stone has stood here for centuries. Only magic could undo its hold on this land.
+As the scroll’s magic takes hold, the ancient stone trembles, crumbles, and fades into dust.
+
+(132, 186, 1) ***Pandora's Box***
+Message:
+
+
+(41, 97, 1) ***Dungeon***
+Name:
+Abysshold
+
+Timed events:
+
+Name:
+Weekly units Rook Queen King
+Message:
+
+
+Name:
+Weekly units King
+Message:
+
+
+(136, 236, 1) ***Event***
+Message:
++sp +exp +creature
+
+(21, 229, 1) ***Event***
+Message:
+summon boat AI
+
+(202, 178, 1) ***Event***
+Message:
+
+
+(139, 240, 1) ***Event***
+Message:
+
+
+(72, 8, 1) ***Event***
+Message:
+
+
+(193, 79, 1) ***Event***
+Message:
+The dragons in the cave look friendly… and seem to be reproducing?
+
+===== Extended Events =====
+===== End of file =====

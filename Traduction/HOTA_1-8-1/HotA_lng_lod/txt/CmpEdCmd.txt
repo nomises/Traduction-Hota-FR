@@ -1,0 +1,24 @@
+Note: Do not change the headings in this file, they are used to detect problems	
+Status Bar Message	Tool Tip
+For Help, press F1	
+Create a new campaign	New Campaign
+Open an existing campaign	Open Campaign
+Save the current campaign	Save Campaign
+Save the current campaign with a new name	Save Campaign As
+Display program information	About
+Quit the campaign editor	Exit
+List Help topics	Help Topics
+Display help for current task or command	Help
+Open this campaign	
+Change the window size	
+Change the window position	
+Reduce the window to an icon	
+Enlarge the window to full size	
+Close the window	
+Restore the window to normal size	
+Update all of the scenario maps in the current campaign	
+Export all of the scenario maps in the current campaign	
+Modify campaign properties	Campaign Properties
+Modify scenario properties	Scenario Properties
+Export the text from the current campaign to a text file	
+Import the text from a text file into the current campaign	

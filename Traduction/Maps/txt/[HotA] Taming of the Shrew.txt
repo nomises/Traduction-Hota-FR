@@ -1,0 +1,510 @@
+===== Map name =====
+Taming of the Shrew
+
+===== Map description =====
+Princess Cait is mean, foul-mouthed... and heir to a vast fortune, which is why you set your eyes on her. To win her heart, you must beat her and her pirate friends in battle.
+
+===== Rumors =====
+
+Name:
+shrew1
+Text:
+Princess Cait has many suitors. Most of them die.
+
+Name:
+shrew2
+Text:
+The night Cait vanished, a winged beast was seen circling her tower.
+
+Name:
+shrew3
+Text:
+The Nighon lords are in uproar: the Vial of Dragon Blood was stolen from their vault.
+
+Name:
+shrew4
+Text:
+Love is blind. Or so they say...
+
+Name:
+gate
+Text:
+To find the heart of Cait's forces, enter the Moon Cavern and pass the Black Gate.
+
+Name:
+shield
+Text:
+He rarely talks about it, but the owner of Sentinel Tavern used to be a famous knight.
+
+Name:
+advice
+Text:
+Ever played chess? In this map, the Rook seizes castles, while the Bishop finds relics.
+
+===== Timed events =====
+
+Name:
+AI boost 1
+Message:
+
+
+Name:
+AI boost 2
+Message:
+
+
+Name:
+intro
+Message:
+Princess Cait "the Shrew" has vanished. Hell-bent on dodging the confines of wedlock, she has forged a pact with the pirates and dragon lords and fled to their lairs of evil.		At this point, only a fool would go after her... if it weren't for her family's vast fortune.
+
+Name:
+intro cont.
+Message:
+Indeed, you're not the only suitor. Three others seek to put Cait's allies to the sword, a daring quest that will surely win her heart.		This leaves you caught between rivals, pirates and dragons. You'll have to beat them all, so you better get to it!
+
+===== Heroes =====
+
+Name:
+Sir Michael
+Biography:
+In days long past, Michael shared a deep bond with the knight Tamika. When Tamika was bitten by a Vampire, Michael devoted his life to battling the dark forces that took her from him. He has since become an accomplished Vampire hunter, although he dreads the day he will face Tamika in battle.
+
+Biography:
+Gem was one of the greatest Sorceresses that Enroth had ever seen, serving King Roland Ironfist during the Succession Wars.  Shortly after Roland had secured the throne of Enroth, Gem left for Antagarich.
+
+Biography:
+
+
+Biography:
+
+
+Biography:
+
+
+Name:
+Cait
+Biography:
+To fight off her suitors, Cait drank the Vial of Dragon Blood which turned her into a mighty dragon.
+
+Name:
+Christian
+Biography:
+Although he is the namesake of a fabled knight, this pirate is of far more ill repute. The Regnans call him "Cannonball" as wherever he goes, chaos and bedlam follow. Despite his boorish ways, he is said to be fiercely loyal to his friends.
+
+Name:
+Teej
+Biography:
+Teej is a young slaver whose thirst for blood is only matched by his hunger for gold. In return for her father's riches, he provided Cait the Shrew with the fabled Vial of Dragon Blood.
+
+Biography:
+
+
+===== Objects =====
+
+(89, 56, 0) ***Quest Guard***
+Message:
+So, you've come to claim this treasure? Let me offer you a fair trade - one artifact for another. I'll give you my relic in exchange for the Amulet of the Undertaker.
+Surely you agree that the Amulet of the Undertaker is a fair price for my relic? Return to me once you've found it. I heard it was last seen inside a Crypt far west of here.
+Is that... the Amulet of the Undertaker! I must have it. Hand it over and my relic is yours!
+
+(86, 88, 0) ***Sign***
+Message:
+: Wing Tail Valley :		North - Golden Pavillon	West - Tomb of the Pharaoh	East - Seer's Farm	South - Water Wheel
+
+(88, 107, 0) ***Sign***
+Message:
+Tower of Eclipse
+
+(106, 99, 0) ***Pandora's Box***
+Message:
+
+
+(57, 84, 0) ***Pandora's Box***
+Message:
+
+
+(48, 71, 0) ***Sign***
+Message:
+: Haven Island :		North - Maelstrom	West - Moon Cavern	East - Shipyard	South - Pirate's Run
+
+(106, 38, 0) ***Seer's Hut***
+Message:
+The benefit of living in a tree house is that you never run out of firewood. Ore, on the other hand, is hard to come by. 		Bring me 10 Ore and I'll give you a lesson in Scholar.
+You seem to be short on Ore, just like me. Come back when you have 10 Ore.
+For 10 Ore, I'll teach you Advanced Scholar. Do we have a deal?
+
+(31, 58, 0) ***Sign***
+Message:
+Hook's Fortress		No trespassing!
+
+(70, 44, 0) ***Seer's Hut***
+Message:
+Welcome to my Spell Shop! 		I sense that your spell book leaves much to be desired. If you're looking for something more... electrifying, one of my Air Spells might give your system just the shock it needs. 		It only costs 4000 Gold!
+You don't have 4000 Gold? I am shocked! 		Return to me with a full purse and I'll teach you the Chain Lightning spell.		Just don't wait too long - I'm only going to sell this spell once!
+For the shockingly low price of 4000 Gold, the Chain Lightning spell will be yours!
+
+(79, 14, 0) ***Rampart***
+Name:
+Wild Wood
+
+(94, 91, 0) ***Tower***
+Name:
+Wing Tail
+
+(101, 38, 0) ***Sign***
+Message:
+: Hexagon Heights :		North - Palm Tree Cave	West - Shipyard	East - Scholar's Hut	South - Labyrinth
+
+(11, 96, 0) ***Rampart***
+Name:
+Summer
+
+(30, 106, 0) ***Seer's Hut***
+Message:
+Oh, a visitor! I don't get those very often. 		Since you've made the effort to come all the way out here, let me make you a special offer: I'll teach you the Teleport spell for 7 Mercury.
+Hello again! I'm ready to teach you the Teleport spell as soon as you have 7 Mercury for me.
+Since I live so far from home, I've mastered the Teleport spell to visit my family. I hope you'll make good use of it too! 		Are you ready to hand over the 7 Mercury?
+
+(16, 92, 0) ***Sign***
+Message:
+: Fields of Summer :		North - Unicorn Glade	West - Saw Mill	East - Swordsman's Hut	South - Crystal Cavern
+
+(43, 38, 0) ***Seer's Hut***
+Message:
+Greetings! I'm the tavern cook. I need your help in a culinary matter.		I used to make my world-famous Sea Serpent Stew for the tavern patrons. However, I've run out of the main ingredient: Sea Serpent! 		I need at least 2 of them to get my kitchen running again. In return, I'll give you my old shield.
+A cook without his trademark dish is like a knight without his sword...!		Hopefully I'll find 2 Sea Serpents soon, or I'll have to sell my belongings in order to make ends meet, including my old shield...
+Finally, 2 Sea Serpents! I'll make you a plate of Sea Serpent Stew right away - it's on the house! 		Oh, and if that's not enough, here's the Sentinel's Shield.
+
+(1, 61, 0) ***Quest Guard***
+Message:
+So, you've come to claim this treasure? Let me offer you a fair trade - one artifact for another. I'll give you my relic in exchange for the Pendant of Death.
+Surely you agree that the Pendant of Death is a fair price for my relic? Return to me once you've found it. I heard it was last seen inside a Crypt far east of here.
+Is that... the Pendant of Death! I must have it. Hand it over and my relic is yours!
+
+(76, 82, 0) ***Seer's Hut***
+Message:
+Have you seen the Mermaid who lives in this bay? She's a beauty, isn't she? I've been meaning to speak to her, but I can't muster up the courage to do so. 		Maybe the Badge of Courage will help me...
+Talking to a Mermaid is harder than I've imagined. 		If only I had the Badge of Courage to lift my spirits...!
+The Badge of Courage! With this I'll succeed for sure! 		I'll be off to speak to the Mermaid now, but before I go, let me raise your Defense skill by 2 Points. 		Oh, and you're invited to the wedding!
+
+(78, 97, 0) ***Seer's Hut***
+Message:
+I'm a big believer in the virtue of patience. As the saying goes, "Good things come to those who wait." 		Return to me once you've progressed a fair amount into your journey and I'll bestow a gift to you.
+I'll help you at an appointed time. That time has not yet come! 		Return to me when you have more Experience.
+You've got the look of someone who's travelled far and seen a lot. Was it a good journey? I hope so!		Here's a gift to make things a bit easier: the Boots of Speed.
+
+(70, 69, 0) ***Pandora's Box***
+Message:
+
+
+(24, 89, 0) ***Seer's Hut***
+Message:
+I used to be a Gladiator at the Arena, but then monsters attacked - even I couldn't beat them! Now I sit here and sulk in my misery.		If you can do what I couldn't, come find me after the battle.
+The Arena is south of here. If you beat the monsters, I'll teach you Basic Offense. Good luck and fight well!
+At last the Arena is saved! I can't wait to return.		But before I go, let me teach you Basic Offense.
+
+(12, 9, 0) ***Tower***
+Name:
+Xanadu
+
+(39, 39, 0) ***Sign***
+Message:
+: Sentinel Tavern :		North - Frozen Shores	West - Warehouse of Crystal	East - Gold Mine	South - Shipwreck Bay
+
+(16, 35, 0) ***Seer's Hut***
+Message:
+I used to be a great warrior. But now my fighting days are over, and I'm looking for someone to bestow my Dragon Scale Shield to. 		At least 10 Defense are required to wield it.
+I'm still searching for a suitable heir to my Dragon Scale Shield, a strong and sturdy hero with no less than 10 Defense. 		One day, I might even give it to you!
+You're who I've been looking for - a hero strong enough to carry my Dragon Scale Shield. Good luck, and fight well!
+
+(97, 7, 0) ***Seer's Hut***
+Message:
+These days, heroes of true grit are a rarity. What about you? Does your Attack skill instill fear in the hearts of your enemies? 
+The heroes of the modern age are all pansies! I'm not going to waste my time with training them.
+Now here's a warrior if I've ever seen one! I'd be honored to train you.
+
+(66, 4, 0) ***Seer's Hut***
+Message:
+It's getting cold, isn't it? I should probably build a stable for my pigs so they'll make it through the winter. Would you be so kind to bring me 10 Wood?
+Hello again! I'm busy prepping my farm for the coming winter days, but it'd be much easier if I had more material - 10 Wood to be precise.
+These 10 Wood will help me a lot!		In return, I'll give you some of my livestock: 18 Boars.
+
+(107, 14, 0) ***Sign***
+Message:
+Valkyrie's Waterfall
+
+(81, 30, 0) ***Seer's Hut***
+Message:
+Through research of the arcane I found a way to infuse a person with raw mana, raising their Spell Power by 2 points. However, I still need to do some testing - on a test subject, that is. 		I seek a hero strong enough to withstand the full power of an arcane flux. They must be at least Level 8.
+Guinea pigs are hard to come by these days. I've searched far and wide for a suitable test subject for my Spell Power experiment, but I just can't find anyone...
+Ah, you're the ideal subject for my arcane experiment. If my calculations are correct then it's going to raise your Spell Power by 2 points. 		Hold still - this might sting a little...
+
+(17, 66, 0) ***Seer's Hut***
+Message:
+In this world, all things go step by step. To grow a garden, you must first plant its seeds. To build a temple, you must first lay its foundation. To be better, you must first be good. 		Come to me when you've grown strong, and I will help you grow even stronger.
+Be patient. You are not ready to learn my wisdom, but soon you will be.
+I see that you have lain the foundation of true greatness. It's time for the next step. 		Hear my wisdom, hero, and ascend...!
+
+(63, 15, 0) ***Pandora's Box***
+Message:
+
+
+(73, 106, 0) ***Seer's Hut***
+Message:
+"Knowledge is power." Many have said this, but few truly mean it. What about you?
+I'll only join someone who knows the true power of Knowledge. 		If that someone even exists...!
+I see that you're a true believer of Knowledge. I'd be honored to join you. Shall we go?
+
+(64, 87, 0) ***Ocean Bottle***
+Message:
+Hail thee, O Sea, 	thou Ancient of Days!	Like speech of my homestead 	Murmurs thy water,	Like dreams of my childhood 	Shimmers thy realm.
+
+(4, 68, 0) ***Ocean Bottle***
+Message:
+I must down to the seas again, 	to the lonely sea and the sky,	And all I ask is a tall ship	and a star to steer her by.
+
+(105, 70, 0) ***Ocean Bottle***
+Message:
+Seated all on deck, we floated	Down the Rhine's majestic stream,		On its borders, summer-laden,	Slept the peaceful evening-gleam...
+
+(58, 1, 0) ***Seer's Hut***
+Message:
+Me and my sisters have the gift of fortune telling. If you bring us the Cards of Prophecy, we can use them to read your fortune.
+Anybody's future is written in the stars. 		If you bring us the Cards of Prophecy, we tell you what the stars say about you!
+With these Cards of Prophecy, we can read your fortune. Let's see...		Hm, it appears that you're destined to win this war! In that case, we'd be honored to join you!
+
+(39, 19, 0) ***Ocean Bottle***
+Message:
+The ocean's power, heavenly sights	Cannot outweigh a lovefilled heart,	And sparkling stars or glowing pearls	Pale as love flashes, beams and darts.
+
+(18, 7, 0) ***Sign***
+Message:
+: Mount Xanadu :		North - Workshop	West - Golden Pavillon	East - Darkwater Cavern	South - Seafarer's Shrine
+
+(3, 16, 0) ***Seer's Hut***
+Message:
+I'm a doctor who seeks to restore eyesight to the blind. A lofty goal, but as the saying goes, "Shoot for the stars"!		To start things off, I'll have to study the Blindness of the Troglodytes. Bring me 14 and I'll share my findings with you.
+I've heard of a Dungeon in the southern wastes. That's where the Troglodytes live.		Bring me 14 Troglodytes so I can begin my studies on their Blind affliction.
+These 14 Troglodytes will help me get closer to a cure for Blindness. You've done a good deed today!		As a reward, I can teach you all I know about Blindness.
+
+(78, 49, 0) ***Pandora's Box***
+Message:
+
+
+(0, 22, 0) ***Pandora's Box***
+Message:
+
+
+(7, 24, 0) ***Sign***
+Message:
+Tower of Chaos
+
+(82, 22, 0) ***Sign***
+Message:
+Tower of Wonder
+
+(13, 77, 0) ***Sign***
+Message:
+Tower of Legion
+
+(60, 91, 0) ***Sign***
+Message:
+: Wing Tail Tavern :		North - Sailor's Beach	West - Derelict Ship	East - Colosseum of the Magi	South - Lighthouse
+
+(53, 94, 0) ***Pandora's Box***
+Message:
+
+
+(14, 32, 0) ***Sign***
+Message:
+: Canyon of Bulls :		North - Beholder's Lake	West - Gem Pond	East - Dragon Fly Hive	South - Shipyard
+
+(8, 82, 0) ***Pandora's Box***
+Message:
+
+
+(82, 9, 0) ***Sign***
+Message:
+: Woodland Hills :		North - Unicorn Glade	West - Hog Burrow	East - University	South - Trader's Road
+
+(54, 75, 0) ***Cove***
+Name:
+New Haven
+
+(99, 44, 0) ***Dungeon***
+Name:
+Hex
+
+(9, 38, 0) ***Dungeon***
+Name:
+Bull Creek
+
+(52, 64, 0) ***Seer's Hut***
+Message:
+I'm a collector of rare monsters. Are you interested in a trade?		In exchange for 1 Gold Dragon and 1 Titan, I'll give you 1 Azure Dragon.
+Still interested in trading with me? Bring me 1 Gold Dragon and 1 Titan, and I'll give you 1 Azure Dragon.
+As promised, here's 1 Azure Dragon for your 1 Gold Dragon and 1 Titan. Are you ready to trade?
+
+(79, 42, 0) ***Sign***
+Message:
+: For Sale :		1 Chain Lightning Spell	If you're interested, sail west!
+
+(102, 85, 0) ***Seer's Hut***
+Message:
+The harvest is bountiful this year. I could use a helping hand on the fields - many hands, in fact. 		If you bring me 15 Halfling workers, I will pay you with a fair share of my earnings: 4000 Gold.
+This year's harvest is coming along nicely, but it'd be easier with a few extra workers. 		If you meet any Halflings on your travels, 15 to be precise, send them my way and I'll pay you 4000 Gold.
+Ah, these 15 Halflings will be of great help in the harvest. 		In exchange for their service, I will pay you 4000 Gold. Do we have a deal?
+
+(50, 48, 0) ***Dungeon***
+Name:
+El Dorado
+
+(20, 68, 0) ***Pandora's Box***
+Message:
+
+
+(35, 30, 0) ***Pandora's Box***
+Message:
+
+
+(60, 54, 0) ***Pandora's Box***
+Message:
+
+
+(36, 84, 0) ***Ocean Bottle***
+Message:
+: For Sale :		1 Teleport spell	If you're interest, sail south!
+
+(39, 9, 0) ***Seer's Hut***
+Message:
+While exploring the mountains, I found a cache of 4000 Gold.		I'll only give it to someone I can trust not to waste it. Smart financing takes Experience - do you have it?
+I'll hold onto my 4000 Gold for now. You don't seem capable enough to put it to good use. Earn more Experience and come back when you're done!
+Hm, you seem like you can handle your finances. 		I'm sure you'll put this 4000 Gold to good use. Off you go then!
+
+(61, 30, 0) ***Ocean Bottle***
+Message:
+<- Watch out for Dragons!
+
+(44, 23, 0) ***Sign***
+Message:
+__	<^\()/^>	\/  \/	/  \	`''`		We gave the Heavenly Helm	to the Seer who lives below.
+
+(92, 49, 1) ***Pandora's Box***
+Message:
+
+
+(83, 55, 1) ***Sign***
+Message:
+Repent! The end is nigh.
+
+(9, 89, 1) ***Seer's Hut***
+Message:
+Below this hut lies my Crystal vault: a treasury of the rarest and most brilliant Crystals you'd ever see. A vault like that shouldn't be left unguarded, so I'm in need for strong and sturdy monsters.		Gold Golems are said to be well-suited for such a task. Bring me 3 of them and I'll reward you with 10 Crystals.
+There are two Golems Factories in the far-north and far-east tunnels. As far as I know, they're only places where one can forge Gold Golems. 		I'd offer a hefty sum of 10 Crystal for 3 of them!
+Excellent! With these 3 Gold Golems, my vault will be safe from intruders. 		As promised, I'll pay you 10 Crystal for them.
+
+(62, 97, 1) ***Seer's Hut***
+Message:
+I'm a master of Fire Magic. "The God of Inferno" is what they called me in my fighting days.		I'll teach you a powerful spell, if you're strong enough to learn it.
+My fire spell is not suited for a novice mage - you'd just set yourself on fire!
+I see that you're a talented battle mage. In that case, I'll teach you the Inferno spell. Make good use of it!
+
+(52, 98, 1) ***Sign***
+Message:
+: Mermaid Grotto : 		North - Nomad Tent	West - Saw Mill	East - Ocean Gate	South - Voy's Hut
+
+(56, 96, 1) ***Cove***
+Name:
+Ariel
+
+(53, 12, 1) ***Cove***
+Name:
+Blue Whale
+
+(45, 12, 1) ***Seer's Hut***
+Message:
+Welcome to the Dragon Shop! I trade in draconic artifacts.		If you bring me the Dragon Wing Tabard, I'll give you the Necklace of Dragonteeth. A fair trade, I'm sure!
+Still looking for the Dragon Wing Tabard? It could be anywhere... Maybe even all the way south!		If you find it, I'm willing to trade it for the Necklace of Dragonteeth.
+For the Dragon Wing Tabard, I'll give you the Necklace of Dragonteeth. Do we have a deal?
+
+(50, 14, 1) ***Sign***
+Message:
+: Whaler's Cavern :		North - Gem Pond	West - Dragon Shop	East - One-Way Gate	South - Nix Fort
+
+(31, 74, 1) ***Cove***
+Name:
+Moonlight
+
+(55, 40, 1) ***Dungeon***
+Name:
+Tempest
+
+(60, 40, 1) ***Sign***
+Message:
+: Tempest Tunnels :		North - Pillar of Eyes	West - Frost Shrine	East - One-Way Gate	South - Dragon Lair
+
+(61, 49, 1) ***Pandora's Box***
+Message:
+
+
+(4, 64, 1) ***Seer's Hut***
+Message:
+I've always dreamt of a mariner's life. To sail the Seven Seas, explore the world, and sing shanties in the night... 		I already have a ship, all I need is a crew! 9 Crew Mates should suffice.
+Life is dull. I wish I were an adventurer like you! But first I need some hearty souls to man my ship.		If you bring me 9 Crew Mates, I'll return the favor by giving you my old Necklace of Ocean Guidance.
+Wonderful! If you're willing to part with these 9 Crew Mates, I can see about setting sail - finally! 		In exchange for them, you can have my Necklace of Ocean Guidance.
+
+(100, 65, 1) ***Sign***
+Message:
+Gelu's Shrine
+
+(23, 39, 1) ***Sign***
+Message:
+: Guide to Pandora's Box :		If it floats, don't open it -	Unless you're ready to die.
+
+(35, 71, 1) ***Sign***
+Message:
+: Moon Cavern :		North - Black Gate	West - Nix Fort	East - Wineyard	South - Medusa Stores
+
+(86, 3, 1) ***Pandora's Box***
+Message:
+
+
+(5, 36, 1) ***Pandora's Box***
+Message:
+
+
+(85, 83, 1) ***Sign***
+Message:
+   ,'   Y`.	  /        \	  \ ()  () /	   `. /\ ,'	    LLLL		Keep out!
+
+(11, 6, 1) ***Pandora's Box***
+Message:
+
+
+(95, 82, 1) ***Pandora's Box***
+Message:
+
+
+(26, 92, 1) ***Sign***
+Message:
+-> Caution: dead end!
+
+(66, 76, 1) ***Seer's Hut***
+Message:
+My Crystal Cavern was taken over by monsters. I'm too weak to fight them myself, so all I can do is sit here and sulk.		Can you help me out? The Crystal Cavern lies past the northern gate. In return, I'll teach you Estates.
+Last I heard, the Crystal Cavern is still beset by monsters.		It's right past the northern gate, just in case you feel like helping me out!
+The Crystal Cavern is running again? That's great news! You have my thanks.		If my gratitude isn't enough, how about I teach you Basic Estates?
+
+(86, 11, 1) ***Ocean Bottle***
+Message:
+Ahoy, and fair winds to you!
+
+(58, 47, 1) ***Seer's Hut***
+Message:
+An Angel bestowed this Helm of Heavenly Enlightenment to me and tasked me with keeping it safe until a worthy hero arises.		Are you a master of all four Primary skills?
+Only the best of the best may have the Helm of Heavenly Enlightenment.		Return to me when you've mastered all four Primary skills.
+You must be the hero the Angel told me about. 		Here, take this Helm of Heavenly Enlightenment.
+
+===== Extended Events =====
+===== End of file =====

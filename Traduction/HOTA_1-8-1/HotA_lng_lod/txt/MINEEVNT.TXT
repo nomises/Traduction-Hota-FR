@@ -1,0 +1,24 @@
+"{Sawmill}
+
+You gain control of a Sawmill. It will provide you with two units of wood per day."
+"{Alchemist Lab}
+
+You gain control of an Alchemist Lab. It will provide you with one unit of mercury per day."
+"{Ore Pit}
+
+You gain control of an Ore Pit. It will provide you with two units of ore per day."
+"{Sulfur Dune}
+
+You gain control of a Sulfur Dune. It will provide you with one unit of sulfur per day."
+"{Crystal Cavern}
+
+You gain control of a Crystal Cavern. It will provide you with one unit of crystal per day."
+"{Gem Pond}
+
+You gain control of a Gem Pond. It will provide you with one unit of gems per day."
+"{Gold Mine}
+
+You gain control of a Gold Mine. It will provide you with 1000 gold per day."
+"{Abandoned Mine}
+
+You gain control of an Abandoned Gold Mine. It will provide you with 1000 gold per day."

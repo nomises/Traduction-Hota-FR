@@ -1,0 +1,133 @@
+COMM_HelpAndContextInfo	"{Getting Help}
+
+Clicking and holding the right mouse button on the element you’re interested in will display a tooltip explaining what it is.
+
+You can review the tutorial messages you will be sent in this scenario by clicking the “View Tutorial Messages” button in the top-right corner.
+"
+COMM_Adv_QuestLog	"{Quest Log}
+
+To view active quests on the adventure map, use the log. You can open it by clicking the button on the right-side panel.
+"
+COMM_Adv_SystemOptions	"{System Options}
+
+To change settings, save, load, and exit the game, use the “System Settings” menu by clicking the button with the computer icon on the right-side panel.
+"
+COMM_DefeatLoadGame_NoHD	"{Defeat}
+
+Load the game by going to the Main Menu and selecting “Load Game”, “Tutorial”. You can choose AUTOSAVE (the game's state before you ended the previous turn) or the latest savegame you made yourself (if any).
+"
+COMM_DefeatLoadGame_HD	"{Defeat}
+
+Load the game by going to the Main Menu and selecting “Load Game”, “Tutorial”. You can choose AUTOSAVE (the game's state before you ended the previous turn), BATTLE (the game's state before entering the battle; available if the relevant HD Mod option is enabled), or the latest savegame you made yourself (if any).
+"
+COMM_Adv_MultipleHeroes	"{Switching Between Heroes}
+
+The right-side panel displays a column with the portraits of heroes under your command on the adventure map. The green bar on the left shows the hero's remaining movement points, and the currently selected hero is highlighted with a thin golden frame.
+
+To make a switch, you can either click the target hero's portrait or use the button on the panel labeled “Next Hero”.
+"
+SCN1_Start	"{Mission Objective}
+
+You are to locate the Grail—a powerful artifact that will bring untold riches to your kingdom. According to rumors, the Grail is buried somewhere in these lands, but there are no clues as to its exact location. Lord Haart, the hero under your command, is ready to set out.
+"
+SCN1_Adv_Movement	"{Adventure Map Movement}
+
+This is the adventure map screen. You will use it to move your heroes around the game world, exploring it and interacting with objects. Your hero is already selected—his portrait in the list on the right-side panel is highlighted, and his information is displayed in the bottom-right corner.
+
+When hovering over the map, the mouse cursor appears as a horse when you point to any reachable location. Hover over the desired spot and click with the left mouse button: route arrows will appear on the map. To confirm, click again with the left mouse button on the route’s endpoint.
+"
+SCN1_Adv_Visiting	"{Interacting with Objects}
+
+Many objects on the adventure map can be interacted with by having your hero visit them. When you hover the cursor over a visitable object, it will take the form of a horse rearing up. Click the left mouse button; the hero will move and visit the object.
+
+Try capturing nearby mines and a lumber mill by visiting them, and then visit your town. Note that to have the town visited specifically by the selected hero, you should hover the cursor between the town flags at the entrance, as shown in the picture.
+"
+SCN1_Adv_Selection	"{Selecting the Active Hero}
+
+After clicking on the town outside its visitable area, you switched focus away from your hero. The panel in the bottom-right corner shows information about the game's element currently in focus, and right now it displays information about the town.
+
+To select the hero again and continue your journey, click with the left mouse button on his portrait on the right-side panel.
+"
+SCN1_Adv_HeroInGarrison	"{Hero in the Town Garrison}
+
+You’ve moved the hero into the town garrison. Garrisoned heroes are not present on the adventure map; they reside within the town. To bring the hero back onto the adventure map:
+
+1. Open the town screen by double-clicking it;
+2. Click the hero’s portrait at the bottom of the screen;
+3. Click the slot in the bottom row directly beneath his portrait.
+"
+SCN1_Adv_EndTurn	"{End of Turn}
+
+The game is played in a turn-based mode, and your heroes’ movement allowance is limited. Right now it has been used up, and you need to end the turn to advance to a new day.
+
+To do this, click the hourglass button on the right-side panel.
+"
+SCN1_Twn_Construction	"{Town Screen and Construction}
+
+You’ve moved to the town screen. The town contains various buildings that let you hire troops, learn spells, trade, etc. To perform different actions, click on the buildings you’re interested in. To exit the town screen, click the checkmark in the bottom-right corner.
+
+You must develop your town by building new structures. You’re allowed to construct one building per day in each of your towns. To construct something, go to the Prefecture building and choose one of the available buildings.
+
+To continue, you’ll need to construct a building for hiring Griffins—the Griffin Tower. However, constructing it requires a Fort, so you should start with the Fort."
+SCN1_Twn_HireCreatures	"{Troop Hiring}
+
+Buildings in the bottom two rows on the construction screen are creature dwellings and allow you to hire troops. You’ve just built the Griffin Tower—that’s the dwelling for these creatures. To hire them, click on the newly appeared building on the town screen. You can also open the Fort building and click the Griffin window there."
+SCN1_Twn_Garrison	"{Town Garrison}
+
+Newly hired troops are placed in the town garrison. Its contents are shown in the lower part of the screen, in the top row of slots. To transfer the hired Griffins—or other creatures—to your hero, you must first have the hero visit the town.
+
+Then your hero and his army will appear in the bottom row of slots. To transfer creatures, first click the “from” cell, then click the “to” cell. Identical creatures can be combined into a single stack."
+SCN1_Adv_BuildEveryday	"{Daily Construction}
+
+Mind that you should develop your town by building new structures every day. Your hero doesn't need to be in the town for this.
+
+To open the town, double-click its icon on the rightmost panel."
+SCN1_Adv_Visiting_FontainOfYouth	"{Visitable Area}
+
+Note that with some objects, the visitable area is not in the center, but in a corner (left or right). Try hovering over the object to determine whether it can be visited."
+SCN1_Adv_Visiting_GriffinTower	"{Griffin Tower}
+
+You have left behind a visitable object—the Griffin Tower. By capturing this external dwelling, you can hire the creatures living in it and thereby replenish your army."
+SCN1_Adv_Underworld	"{Underground World}
+
+By passing through the Gates, you’ve entered a dungeon. The adventure map can have 2 levels: the surface level and the underground level. Click the button on the right-side panel to switch between map levels."
+SCN1_Btl_Basics	"{Battle Screen}
+
+The attacking party's troops are always positioned on the left, and the defending party's troops, on the right. In the course of a round, troops act in turn in the order of their activation. The figure of the currently active troop is highlighted.
+
+To give a move or attack command, hover over a reachable tile or the target and click with the left mouse button. When attacking, aim at the creature’s lower part—more precisely, the tile where the target creature is located.
+
+Click and hold the right mouse button to get information."
+SCN1_Adv_Shipyard	"{Shipyards and Ships}
+
+The next path lies across a water body. To travel over water, you can use a boat—purchase one from the shipyard for a meager fee.
+
+Buy the boat and use it to cross to the opposite shore to the east.
+
+Please note: boarding and disembarking spend the hero's entire remaining movement allowance."
+SCN1_Adv_FirstGrailMap	"{Puzzle Map}
+
+By visiting the Obelisk, you’ve uncovered part of the puzzle map showing the location of the Grail. Half of the map is still hidden; to reveal the rest you will have to locate and visit a second Obelisk.
+
+To reveal the puzzle map you currently have, use the button on the right-side panel."
+SCN1_Adv_HireHero	"{Hiring a New Hero}
+
+Scouts send word that they’ve found a second Obelisk on cursed ground north of the town, but it’s guarded by undead.
+
+Lord Haart has ventured far, and returning back to the town would take him several days. You can build a Tavern in the town and hire a new hero to head straight to the second Obelisk. Don’t forget to give the hero an army, since, per the scouts' report, the Obelisk is guarded."
+SCN1_Adv_NewWeek	"{Weekly Growth}
+
+A new week has begun, and new creatures have become available for hire in towns and external dwellings. Unhired creatures don’t disappear—they accumulate instead, waiting to be purchased."
+SCN1_Adv_DiggingGrail	"{Digging for the Grail}
+
+The puzzle map's second half has been found! You now know where the Grail is—buried right outside the town. To dig it up, send your hero to the marked tile and click the button on the right-side panel.
+
+Digging takes all day and spends your hero’s full movement allowance. Therefore, after moving the hero to the tile with the Grail, you’ll need to end the turn to advance to a new day."
+SCN1_Twn_BuildingGrail	"{Constructing the Grail Building}
+
+To construct the Grail building, click the town's Prefecture as if you were opening the construction window. If the hero with the Grail is in the town, you’ll be prompted to construct this building."
+SCN1_Finish	"{What’s Next?}
+
+Congratulations on completing the tutorial scenario! We now recommend that you check out some of the less challenging maps rated as “Easy”, such as {Key to Victory} and {Key to Victory: Second Key}.
+
+After exiting to the menu, click “New Game”, “Single Player”, “Available Scenarios”, and select one from the list on the left. Don’t forget to set an appropriate difficulty level: “Pawn” or “Knight”. Additional settings, like “Starting Town”, can be accessed by clicking the “Additional Options” button at the bottom."

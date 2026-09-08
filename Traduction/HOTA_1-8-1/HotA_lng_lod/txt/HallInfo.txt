@@ -1,0 +1,10 @@
+Cannot build more than one Capitol
+This town is not near water
+This town can not build this structure
+Add another level to Mage Guild
+%s is already built
+Cannot build %s
+Cannot afford %s
+Build %s
+Exit Hall
+Hall Options

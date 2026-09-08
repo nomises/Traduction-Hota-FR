@@ -1,0 +1,8 @@
+Cannot afford a Hero
+Cannot recruit. You already have %d Heroes.
+Cannot recruit. You already have a Hero in this town.
+Recruit %s the %s
+Select %s
+Thieves' Guild
+Hiring price
+Exit tavern

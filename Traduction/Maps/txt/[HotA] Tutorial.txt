@@ -1,0 +1,112 @@
+===== Map name =====
+Tutorial
+
+===== Map description =====
+If you have never played any turn-based strategy games in the Heroes of Might and Magic series before, start with this scenario. Here you can learn the basics of the game, including the controls and the interface.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Start
+Message:
+#HINT_ID=SCN1_Start
+
+Name:
+Adv Moving
+Message:
+#HINT_ID=SCN1_Adv_Movement
+
+Name:
+Help Btn
+Message:
+#HINT_ID=COMM_HelpAndContextInfo
+
+Name:
+System Options
+Message:
+#HINT_ID=COMM_Adv_SystemOptions
+
+Name:
+New Week
+Message:
+#HINT_ID=SCN1_Adv_NewWeek
+
+===== Heroes =====
+
+===== Objects =====
+
+(3, 5, 0) ***Castle***
+Name:
+Castellatus
+
+(8, 33, 0) ***Event***
+Message:
+The lights of the Inferno town gleam above you. There is a fort here, which means there are some basic fortifications. To make things easier for you, several Archangels have agreed to back you in battle.
+
+(10, 4, 0) ***Quest Guard***
+Message:
+The cursed ground on the other side is very dangerous. The guards insist: you should first deal with the problems in the southeast, and only then move forward.
+The guards advise continuing along the road to the southeast; you shouldn't venture into the lands on the other side just yet.
+The guards welcome the news of you having vanquished the hero in the southeast. They agree to let you pass, but warn that the lands on the other side are fraught with danger.
+
+(14, 31, 0) ***Event***
+Message:
+#HINT_ID=SCN1_Adv_Shipyard
+
+(30, 32, 0) ***Event***
+Message:
+Ahead is an enemy hero guarding the ancient Obelisk. Rumor has it that the Obelisk features part of the puzzle map that should reveal the location of the Grail. We’re getting close...
+
+(16, 1, 0) ***Lich***
+Message:
+There are special types of terrain that influence the course of combat. For example, bonuses to morale and luck do not apply on cursed ground. 		Ahead, you see several Liches: per your scouts, they are guarding the second Obelisk. Defeat them to clear the way.
+
+(28, 10, 0) ***Event***
+Message:
+#HINT_ID=SCN1_Adv_Visiting_GriffinTower
+
+(27, 10, 0) ***Event***
+Message:
+#HINT_ID=SCN1_Adv_Visiting_GriffinTower
+
+(26, 11, 0) ***Event***
+Message:
+#HINT_ID=SCN1_Adv_Visiting_GriffinTower
+
+(27, 11, 0) ***Event***
+Message:
+#HINT_ID=SCN1_Adv_Visiting_GriffinTower
+
+(13, 31, 0) ***Event***
+Message:
+#HINT_ID=SCN1_Adv_Shipyard
+
+(12, 31, 0) ***Event***
+Message:
+#HINT_ID=SCN1_Adv_Shipyard
+
+(24, 17, 1) ***Greater Gnoll's Flail***
+Message:
+Well, well! As you approach, you notice several Gnolls guarding an item of no small interest. Do you wish to challenge them? (Hint: don't fret! This won't be hard!)
+
+(23, 19, 1) ***Sign***
+Message:
+Signs can also contain useful information. Ahead, you will encounter mines of 4 other types. Capture all of them and keep moving southwest.
+
+===== Extended Events =====
+***Event Texts***
+Proposal Message:
+The guards won't let you pass until you bring them several Griffins. They suggest that you should build a Griffin Tower in the nearest town to hire them.
+Progress Message:
+The guards won't yield. They advise building a Griffin Tower in the town so you can hire the creatures they demand.
+Completion Message:
+"These Griffins will serve us well! You may continue on your way."
+Hint:
+Bring 8 Griffins
+Message:
+#HINT_ID=SCN1_Adv_Visiting_FontainOfYouth
+
+
+===== End of file =====

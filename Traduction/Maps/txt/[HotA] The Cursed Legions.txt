@@ -1,0 +1,197 @@
+===== Map name =====
+The Cursed Legions
+
+===== Map description =====
+It all started suddenly. The rocky and volcanic lands were taken by necromancers, and some of the caves are overflowing with the dead. It seems there is no hope: the necromancers came in force and their skeletons are everywhere. However, armies from the main forts are eager to burn all in their path
+
+===== Rumors =====
+
+Name:
+Развал Острова
+Text:
+The island in the middle was once whole, but because of the wizards' meddling, it split apart.
+
+Name:
+Порталы
+Text:
+I heard that the necromancers can use a hidden portal to quickly move around and attack.
+
+===== Timed events =====
+
+Name:
+Старт - Темница
+Message:
+The rocky lands have served as a good home for troglodytes and harpies. Although many of your kind still remain in the caves, you've reclaimed most of the land. However, as luck would have it, a couple of problems have arisen. The first one is the necromancers. Their bony faces suddenly appeared near several dungeons, frightening many with their disgusting looks. There also hasn't been any word from the caves in a while, so it seems something has settled in there too. Fortunately, the second problem is a little easier: the demons. They are merciless and want to take your lands, aye; but it seems they have the same problems with necromancers as you do. You should try to reclaim the demon lands after taking back most of your dungeons. And, of course, drive away the necromancers. For now, it's best to dive into your stash and gather the resources you've been saving for a rainy day.
+
+Name:
+Старт - Инферно
+Message:
+You've been eyeing your neighbors' holdings for a long time. Warlocks have occupied the rocky lands, and their servants are living their best lives, even though they're more accustomed to dwelling in caves. You sense they're about to claim your necromancer-ridden territories and caves. Although, it seems the dead have pounced on them too. You need to hurry with three things: reclaim your fiery fortresses, thwart the warlocks' plans, and crush any undead that stand in your way. Fortunately, you have a small supply of resources, so you'll have fewer problems as you start.
+
+Name:
+Помощь ИИ
+Message:
+
+
+Name:
+Нежить в пещерах
+Message:
+It seems the main undead force is in the caves. Perhaps it's worth sending a second commander there to check out the situation.
+
+Name:
+Архипелаг Посередине
+Message:
+Your advisor recommends attempting to reach the sea, as rumors suggest there's an archipelago there with towns of the Erathian-Bracadian alliance. They're currently unclaimed, but a portal has appeared there, from which a necromancer scout may have already emerged. There's a chance we can claim the towns for ourselves and acquire archangels and titans... provided, of course, we have the funds.		Moreover, the threat of necromancers is causing refugees to flock to your main cities, meaning you have more recruits!
+
+Name:
+Помощь Некромантам
+Message:
+
+
+Name:
+Обоз
+Message:
+A small convoy with resources has arrived!
+
+===== Heroes =====
+
+===== Objects =====
+
+(6, 89, 0) ***Inferno***
+
+Timed events:
+
+Name:
+Существа (Игрок+Комп)
+Message:
+
+
+Name:
+Существа(Комп)
+Message:
+
+
+(78, 6, 0) ***Dungeon***
+
+Timed events:
+
+Name:
+Существа(Игрок+Комп)
+Message:
+
+
+Name:
+Существа(Комп)
+Message:
+
+
+(103, 17, 0) ***Dungeon***
+
+Timed events:
+
+Name:
+Существа(Игрок+Комп)
+Message:
+
+
+Name:
+Существа(Комп)
+Message:
+
+
+(97, 12, 0) ***Sign***
+Message:
+North — Valleys of Overlords	East, South — Residences of Warlocks	South-East — Cave Systems
+
+(8, 100, 0) ***Sign***
+Message:
+North, West — Demonic Keeps	North-West — Demon Wastelands	South — Cave Systems
+
+(35, 96, 0) ***Inferno***
+
+Timed events:
+
+Name:
+Существа(Игрок+Комп)
+Message:
+
+
+Name:
+Существа(Комп)
+Message:
+
+
+(83, 97, 0) ***Necropolis***
+
+Timed events:
+
+Name:
+Приход Нежити
+Message:
+
+
+(21, 32, 0) ***Necropolis***
+
+Timed events:
+
+Name:
+Приход Нежити
+Message:
+
+
+(20, 19, 0) ***Necropolis***
+
+Timed events:
+
+Name:
+Приход Нежити
+Message:
+
+
+(99, 57, 0) ***Necropolis***
+
+Timed events:
+
+Name:
+Приход Нежити
+Message:
+
+
+(50, 51, 1) ***Necropolis***
+
+Timed events:
+
+Name:
+Приход Нежити
+Message:
+
+
+(66, 56, 1) ***Necropolis***
+
+Timed events:
+
+Name:
+Приход Нежити
+Message:
+
+
+(34, 27, 1) ***Necropolis***
+
+Timed events:
+
+Name:
+Приход Нежити
+Message:
+
+
+(77, 70, 1) ***Necropolis***
+
+Timed events:
+
+Name:
+Приход Нежити
+Message:
+
+
+===== Extended Events =====
+===== End of file =====
