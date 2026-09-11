@@ -545,7 +545,7 @@ Mot de passe incorrect !
 Échec de l'initialisation de la connexion IPX. Réessayez.
 Mot de Passe (Optionnel) :
 Impossible de trouver cette adresse IP !
-Puzzle Map
+Carte au Trésor
 Amener %s à %s.
 Disponible
 Coût Total
