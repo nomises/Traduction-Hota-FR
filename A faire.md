@@ -13,7 +13,7 @@
 * `NEWTUT.TXT`
 * ~~`GENRLTXT.TXT`~~
 * ~~`Help.txt`~~
-* `HeroSpec.txt`
+* ~~`HeroSpec.txt`~~
 
 ## Maps
 * `[HotA] Tutorial.txt`
