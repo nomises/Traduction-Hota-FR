@@ -1,133 +1,151 @@
-COMM_HelpAndContextInfo	"{Getting Help}
+COMM_HelpAndContextInfo	"{Obtenir de l'aide}
 
-Clicking and holding the right mouse button on the element you’re interested in will display a tooltip explaining what it is.
+En cliquant sur l'élément qui vous intéresse et en maintenant le bouton droit de la souris, un info-bulle expliquant de quoi il s'agit s'affichera.
 
-You can review the tutorial messages you will be sent in this scenario by clicking the “View Tutorial Messages” button in the top-right corner.
+Vous pouvez consulter les messages du tutoriel qui vous seront envoyés dans ce scénario en cliquant sur le bouton {Voir les messages du tutoriel} situé dans le coin supérieur droit.
 "
-COMM_Adv_QuestLog	"{Quest Log}
+COMM_Adv_QuestLog	"{Livre de quêtes}
 
-To view active quests on the adventure map, use the log. You can open it by clicking the button on the right-side panel.
+Pour consulter les quêtes actives sur la carte d'aventure, utilisez le livre. Vous pouvez l'ouvrir en cliquant sur le bouton situé dans le panneau de droite.
+
+Bonus : appuyer sur Q pour ouvrir le Livre de quêtes
 "
-COMM_Adv_SystemOptions	"{System Options}
+COMM_Adv_SystemOptions	"{Options}
 
-To change settings, save, load, and exit the game, use the “System Settings” menu by clicking the button with the computer icon on the right-side panel.
+Pour modifier les paramètres, sauvegarder, charger et quitter le jeu, utilisez le menu {Options} en cliquant sur le bouton portant l'icône d'ordinateur, situé sur le panneau de droite.
+
+Bonus : appuyer sur O pour ouvrir le menu d'options
 "
-COMM_DefeatLoadGame_NoHD	"{Defeat}
+COMM_DefeatLoadGame_NoHD	"{Défaite}
 
-Load the game by going to the Main Menu and selecting “Load Game”, “Tutorial”. You can choose AUTOSAVE (the game's state before you ended the previous turn) or the latest savegame you made yourself (if any).
+Chargez la partie en accédant au menu principal et en sélectionnant {Charger}, puis {Tutoriel}. Vous pouvez choisir la sauvegarde automatique (l'état du jeu avant la fin du tour précédent) ou la dernière sauvegarde que vous avez effectuée.
 "
-COMM_DefeatLoadGame_HD	"{Defeat}
+COMM_DefeatLoadGame_HD	"{Défaite}
 
-Load the game by going to the Main Menu and selecting “Load Game”, “Tutorial”. You can choose AUTOSAVE (the game's state before you ended the previous turn), BATTLE (the game's state before entering the battle; available if the relevant HD Mod option is enabled), or the latest savegame you made yourself (if any).
+Chargez la partie en accédant au menu principal et en sélectionnant {Charger} puis {Tutoriel}. Vous pouvez choisir la sauvegarde automatique (l'état du jeu avant la fin du tour précédent), la sauvegarde de combat (l'état du jeu avant d'entamer le combat ; disponible si l'option correspondante du mod HD est activée) ou la dernière sauvegarde que vous avez effectuée.
 "
-COMM_Adv_MultipleHeroes	"{Switching Between Heroes}
+COMM_Adv_MultipleHeroes	"{Changer entre les héros}
 
-The right-side panel displays a column with the portraits of heroes under your command on the adventure map. The green bar on the left shows the hero's remaining movement points, and the currently selected hero is highlighted with a thin golden frame.
+Le panneau de droite affiche une colonne contenant les portraits des héros sous vos ordres sur la carte d'aventure. La barre verte située à gauche indique les points de mouvement restants du héros, et le héros actuellement sélectionné est mis en évidence par un fin cadre doré.
 
-To make a switch, you can either click the target hero's portrait or use the button on the panel labeled “Next Hero”.
+Pour effectuer un changement, vous pouvez soit cliquer sur le portrait du héros cible, soit utiliser le bouton du panneau intitulé {Héros suivant}.
 "
-SCN1_Start	"{Mission Objective}
+SCN1_Start	"{Objectif de la mission}
 
-You are to locate the Grail—a powerful artifact that will bring untold riches to your kingdom. According to rumors, the Grail is buried somewhere in these lands, but there are no clues as to its exact location. Lord Haart, the hero under your command, is ready to set out.
+Vous devez retrouver le Graal, un artéfact puissant qui apportera des richesses inouïes à votre royaume. Selon la rumeur, le Graal est enfoui quelque part sur ces terres, mais aucun indice ne permet d'en localiser l'emplacement exact. Lord Haart, le héros placé sous vos ordres, est prêt à se mettre en route.
 "
-SCN1_Adv_Movement	"{Adventure Map Movement}
+SCN1_Adv_Movement	"{Déplacement sur la carte d'aventure}
 
-This is the adventure map screen. You will use it to move your heroes around the game world, exploring it and interacting with objects. Your hero is already selected—his portrait in the list on the right-side panel is highlighted, and his information is displayed in the bottom-right corner.
+Voici l'écran de la carte d'aventure. Vous l'utiliserez pour déplacer vos héros dans le monde du jeu, l'explorer et interagir avec des objets. Votre héros est déjà sélectionné : son portrait dans la liste du panneau de droite est mis en surbrillance et ses informations s'affichent dans le coin inférieur droit.
 
-When hovering over the map, the mouse cursor appears as a horse when you point to any reachable location. Hover over the desired spot and click with the left mouse button: route arrows will appear on the map. To confirm, click again with the left mouse button on the route’s endpoint.
+Lorsque vous survolez la carte, le curseur de la souris prend la forme d'un cheval si vous pointez vers un emplacement accessible. Placez le curseur sur l'endroit souhaité et cliquez avec le bouton gauche de la souris : des flèches de direction apparaîtront sur la carte. Pour confirmer, cliquez à nouveau avec le bouton de la souris pour vous déplacer.
+
+Bonus : il est possible d'utiliser les flèches directionnel pour se déplacer.
 "
-SCN1_Adv_Visiting	"{Interacting with Objects}
+SCN1_Adv_Visiting	"{Interagir avec des objets}
 
-Many objects on the adventure map can be interacted with by having your hero visit them. When you hover the cursor over a visitable object, it will take the form of a horse rearing up. Click the left mouse button; the hero will move and visit the object.
+Vous pouvez interagir avec de nombreux objets sur la carte d'aventure en y envoyant votre héros. Lorsque vous survolez un objet visitable avec le curseur, celui-ci prend la forme d'un cheval cabré. Cliquez avec le bouton gauche de la souris ; le héros se déplacera alors pour visiter l'objet.
 
-Try capturing nearby mines and a lumber mill by visiting them, and then visit your town. Note that to have the town visited specifically by the selected hero, you should hover the cursor between the town flags at the entrance, as shown in the picture.
+Essayez de capturer la mine et la scierie situées à proximité en vous y rendant, puis visitez votre ville. Notez que pour que la ville soit visitée spécifiquement par le héros sélectionné, vous devez placer le curseur entre les drapeaux situés à l'entrée de la ville, comme indiqué sur l'image.
 "
-SCN1_Adv_Selection	"{Selecting the Active Hero}
+SCN1_Adv_Selection	"{Sélectionner le héros actif}
 
-After clicking on the town outside its visitable area, you switched focus away from your hero. The panel in the bottom-right corner shows information about the game's element currently in focus, and right now it displays information about the town.
+En cliquant sur la ville en dehors de sa zone de visite, vous avez déplacé le focus loin de votre héros. Le panneau situé dans le coin inférieur droit affiche des informations sur l'élément du jeu actuellement sélectionné ; il présente donc, pour l'instant, des informations concernant la ville.
 
-To select the hero again and continue your journey, click with the left mouse button on his portrait on the right-side panel.
+Pour sélectionner à nouveau le héros et poursuivre votre périple, cliquez avec le bouton gauche de la souris sur son portrait dans le panneau de droite ou directement sur lui dans la carte d'aventure.
 "
-SCN1_Adv_HeroInGarrison	"{Hero in the Town Garrison}
+SCN1_Adv_HeroInGarrison	"{Héros en garnison de la ville}
 
-You’ve moved the hero into the town garrison. Garrisoned heroes are not present on the adventure map; they reside within the town. To bring the hero back onto the adventure map:
+Vous avez déplacé le héros en garnison de la ville. Les héros en garnison ne sont pas présents sur la carte d'aventure ; ils se trouvent à l'intérieur de la ville. Pour ramener le héros sur la carte d'aventure :
 
-1. Open the town screen by double-clicking it;
-2. Click the hero’s portrait at the bottom of the screen;
-3. Click the slot in the bottom row directly beneath his portrait.
+1. Ouvrez l'écran de la ville en double-cliquant dessus ;
+2. Cliquez sur le portrait du héros en bas de l'écran ;
+3. Cliquez sur l'emplacement situé dans la rangée inférieure, juste en dessous de son portrait.
+
+Bonus : appuyer sur ESPACE pour le déplacer.
 "
-SCN1_Adv_EndTurn	"{End of Turn}
+SCN1_Adv_EndTurn	"{Fin du tour}
 
-The game is played in a turn-based mode, and your heroes’ movement allowance is limited. Right now it has been used up, and you need to end the turn to advance to a new day.
+Le jeu se déroule au tour par tour et la capacité de déplacement de vos héros est limitée. Pour l'instant, elle est épuisée ; vous devez donc terminer le tour pour passer au jour suivant.
 
-To do this, click the hourglass button on the right-side panel.
+Pour ce faire, cliquez sur le bouton en forme de sablier situé dans le panneau de droite.
+
+Bonus : appuyer sur E pour finir le tour.
 "
-SCN1_Twn_Construction	"{Town Screen and Construction}
+SCN1_Twn_Construction	"{Salle du conseil et construction}
 
-You’ve moved to the town screen. The town contains various buildings that let you hire troops, learn spells, trade, etc. To perform different actions, click on the buildings you’re interested in. To exit the town screen, click the checkmark in the bottom-right corner.
+Vous êtes dans la salle du conseil. La ville abrite divers bâtiments vous permettant de recruter des troupes, d'apprendre des sorts, de faire du commerce, etc. Pour effectuer différentes actions, cliquez sur les bâtiments qui vous intéressent. Pour quitter la salle du conseil, cliquez sur la coche située dans le coin inférieur droit.
 
-You must develop your town by building new structures. You’re allowed to construct one building per day in each of your towns. To construct something, go to the Prefecture building and choose one of the available buildings.
+Vous devez développer votre ville en construisant de nouveaux bâtiments. Vous êtes autorisé à construire un bâtiment par jour dans chacune de vos villes. Pour construire quelque chose, choisissez l'un des bâtiments disponibles.
 
-To continue, you’ll need to construct a building for hiring Griffins—the Griffin Tower. However, constructing it requires a Fort, so you should start with the Fort."
-SCN1_Twn_HireCreatures	"{Troop Hiring}
+Pour continuer, vous devrez construire un bâtiment permettant de recruter des griffons : la Tour des Griffons. Toutefois, sa construction nécessite un Fort ; vous devriez donc commencer par le Fort."
+SCN1_Twn_HireCreatures	"{Recrutement des troupes}
 
-Buildings in the bottom two rows on the construction screen are creature dwellings and allow you to hire troops. You’ve just built the Griffin Tower—that’s the dwelling for these creatures. To hire them, click on the newly appeared building on the town screen. You can also open the Fort building and click the Griffin window there."
-SCN1_Twn_Garrison	"{Town Garrison}
+Les bâtiments situés sur les deux rangées inférieures de l'écran de construction sont des habitations de créatures qui vous permettent de recruter des troupes. Vous venez de construire la Tour des Griffons ; c'est l'habitation de ces créatures. Pour les recruter, cliquez sur le bâtiment qui vient d'apparaître sur l'écran de la ville. Vous pouvez également ouvrir le bâtiment du Fort et cliquer sur la fenêtre des griffons qui s'y trouve.
 
-Newly hired troops are placed in the town garrison. Its contents are shown in the lower part of the screen, in the top row of slots. To transfer the hired Griffins—or other creatures—to your hero, you must first have the hero visit the town.
+Bonus : il est possible de recruté des troupes en cliquant sur leur icône correspondant dans la fenêtre en bas à gauche"
+SCN1_Twn_Garrison	"{Garnison de la ville}
 
-Then your hero and his army will appear in the bottom row of slots. To transfer creatures, first click the “from” cell, then click the “to” cell. Identical creatures can be combined into a single stack."
-SCN1_Adv_BuildEveryday	"{Daily Construction}
+Les troupes nouvellement recrutées sont placées dans la garnison de la ville. Leur contenu s'affiche dans la partie inférieure de l'écran, sur la rangée d'emplacements supérieure. Pour transférer les Griffons recrutés ou d'autres créatures à votre héros, vous devez d'abord faire en sorte que celui-ci visite la ville.
 
-Mind that you should develop your town by building new structures every day. Your hero doesn't need to be in the town for this.
+Votre héros et son armée apparaîtront alors dans la rangée d'emplacements inférieure. Pour transférer des créatures, cliquez d'abord sur la case de départ, puis sur la case de destination. Des créatures identiques peuvent être regroupées en une seule pile.
 
-To open the town, double-click its icon on the rightmost panel."
-SCN1_Adv_Visiting_FontainOfYouth	"{Visitable Area}
+Bonus : CTRL + ALT + SHIFT + click sur une unité, transfereras toutes les troupes."
+SCN1_Adv_BuildEveryday	"{Construction journalière}
 
-Note that with some objects, the visitable area is not in the center, but in a corner (left or right). Try hovering over the object to determine whether it can be visited."
-SCN1_Adv_Visiting_GriffinTower	"{Griffin Tower}
+N'oubliez pas de développer votre ville en construisant de nouveaux bâtiments chaque jour. Votre héros n'a pas besoin d'être présent en ville pour cela.
 
-You have left behind a visitable object—the Griffin Tower. By capturing this external dwelling, you can hire the creatures living in it and thereby replenish your army."
-SCN1_Adv_Underworld	"{Underground World}
+Pour ouvrir la ville, double-cliquez sur son icône dans le panneau situé tout à droite."
+SCN1_Adv_Visiting_FontainOfYouth	"{Zone visitable}
 
-By passing through the Gates, you’ve entered a dungeon. The adventure map can have 2 levels: the surface level and the underground level. Click the button on the right-side panel to switch between map levels."
-SCN1_Btl_Basics	"{Battle Screen}
+Notez que pour certains objets, la zone visitable ne se trouve pas au centre, mais dans un coin (à gauche ou à droite). Essayez de survoler l'objet pour déterminer s'il peut être visité."
+SCN1_Adv_Visiting_GriffinTower	"{Tour des Griffons}
 
-The attacking party's troops are always positioned on the left, and the defending party's troops, on the right. In the course of a round, troops act in turn in the order of their activation. The figure of the currently active troop is highlighted.
+Vous avez laissé derrière vous un lieu visitable : la Tour des Griffons. En prenant possession de cette demeure extérieure, vous pourrez recruter les créatures qui l'habitent et ainsi renforcer votre armée."
+SCN1_Adv_Underworld	"{Monde souterrain}
 
-To give a move or attack command, hover over a reachable tile or the target and click with the left mouse button. When attacking, aim at the creature’s lower part—more precisely, the tile where the target creature is located.
+En franchissant le portail souterrain, vous êtes entré dans un donjon. La carte d'aventure peut être composé de deux niveaux : la surface et le sous-sol, cliquez sur le bouton du panneau de droite pour basculer entre les deux."
+SCN1_Btl_Basics	"{Écran de combat}
 
-Click and hold the right mouse button to get information."
-SCN1_Adv_Shipyard	"{Shipyards and Ships}
+Les troupes de l'attaquant sont toujours placées à gauche, et celles du défenseur à droite. Au cours d'un tour, les troupes agissent à tour de rôle selon leur ordre d'activation. La troupe actuellement active est mise en évidence.
 
-The next path lies across a water body. To travel over water, you can use a boat—purchase one from the shipyard for a meager fee.
+Pour donner un ordre de déplacement ou d'attaque, survolez une case accessible ou la cible, puis cliquez avec le bouton gauche de la souris. Lors d'une attaque, visez la partie inférieure de la créature — plus précisément, la case où se trouve la créature ciblée.
 
-Buy the boat and use it to cross to the opposite shore to the east.
+Cliquez et maintenez le bouton droit de la souris pour obtenir des informations."
+SCN1_Adv_Shipyard	"{Chantier naval et bateau}
 
-Please note: boarding and disembarking spend the hero's entire remaining movement allowance."
-SCN1_Adv_FirstGrailMap	"{Puzzle Map}
+Le chemin suivant traverse une étendue d'eau. Pour la franchir, vous pouvez utiliser un bateau ; achetez-en un au chantier naval pour une somme modique.
 
-By visiting the Obelisk, you’ve uncovered part of the puzzle map showing the location of the Grail. Half of the map is still hidden; to reveal the rest you will have to locate and visit a second Obelisk.
+Achetez le bateau et utilisez-le pour traverser vers la rive opposée, à l'est.
 
-To reveal the puzzle map you currently have, use the button on the right-side panel."
-SCN1_Adv_HireHero	"{Hiring a New Hero}
+Veuillez noter : l'embarquement et le débarquement consomment toute la capacité de mouvement restante du héros."
+SCN1_Adv_FirstGrailMap	"{Carte au Trésor}
 
-Scouts send word that they’ve found a second Obelisk on cursed ground north of the town, but it’s guarded by undead.
+En visitant l'obélisque, vous avez découvert une partie de la Carte au Trésor indiquant l'emplacement du Graal. La moitié de la carte reste cachée ; pour révéler le reste, vous devrez localiser et visiter un second obélisque.
 
-Lord Haart has ventured far, and returning back to the town would take him several days. You can build a Tavern in the town and hire a new hero to head straight to the second Obelisk. Don’t forget to give the hero an army, since, per the scouts' report, the Obelisk is guarded."
-SCN1_Adv_NewWeek	"{Weekly Growth}
+Pour révéler la Carte au Trésor que vous possédez actuellement, utilisez le bouton situé sur le panneau de droite."
+SCN1_Adv_HireHero	"{Recruter un nouveau héros}
 
-A new week has begun, and new creatures have become available for hire in towns and external dwellings. Unhired creatures don’t disappear—they accumulate instead, waiting to be purchased."
-SCN1_Adv_DiggingGrail	"{Digging for the Grail}
+Des éclaireurs signalent avoir découvert un second obélisque sur un sol maudit au nord de la ville, mais celui-ci est gardé par des morts-vivants.
 
-The puzzle map's second half has been found! You now know where the Grail is—buried right outside the town. To dig it up, send your hero to the marked tile and click the button on the right-side panel.
+Lord Haart s'est aventuré très loin, et il lui faudrait plusieurs jours pour regagner la ville. Vous pouvez y construire une taverne et recruter un nouveau héros pour qu'il se rende directement au deuxième obélisque. N'oubliez pas de confier une armée à ce héros, car, selon le rapport des éclaireurs, l'obélisque est gardé."
+SCN1_Adv_NewWeek	"{Croissance hebdomadaire}
 
-Digging takes all day and spends your hero’s full movement allowance. Therefore, after moving the hero to the tile with the Grail, you’ll need to end the turn to advance to a new day."
-SCN1_Twn_BuildingGrail	"{Constructing the Grail Building}
+Une nouvelle semaine a commencé, et de nouvelles créatures sont disponibles au recrutement dans les villes et les habitations extérieures. Les créatures non recrutées ne disparaissent pas ; elles s'accumulent au contraire, en attendant d'être achetées."
+SCN1_Adv_DiggingGrail	"{À la recherche du Graal}
 
-To construct the Grail building, click the town's Prefecture as if you were opening the construction window. If the hero with the Grail is in the town, you’ll be prompted to construct this building."
-SCN1_Finish	"{What’s Next?}
+La seconde moitié de la carte au trésor a été découverte ! Vous savez désormais où se trouve le Graal : il est enfoui juste à l'extérieur de la ville. Pour le déterrer, envoyez votre héros sur la case marquée et cliquez sur le bouton situé dans le panneau de droite.
 
-Congratulations on completing the tutorial scenario! We now recommend that you check out some of the less challenging maps rated as “Easy”, such as {Key to Victory} and {Key to Victory: Second Key}.
+Creuser prend toute la journée et consomme la totalité du potentiel de déplacement de votre héros. Par conséquent, après avoir déplacé le héros sur la case contenant le Graal, vous devrez terminer le tour pour passer au jour suivant.
+
+Attention si votre héros est défait avec le Graal sur lui, l'artéfact sera perdu"
+SCN1_Twn_BuildingGrail	"{Construire l'édifice du Graal}
+
+Pour construire le bâtiment du Graal, cliquez sur la salle du conseil de la ville comme si vous vouliez ouvrir la fenêtre de construction. Si le héros transportant le Graal se trouve dans la ville, vous serez invité à construire ce bâtiment."
+SCN1_Finish	"{Et après ?}
+
+Félicitations pour avoir terminé le scénario d'introduction ! Nous vous recommandons maintenant d'essayer certaines des cartes les moins difficiles, classées comme "Faciles", telles que {La Clef du Succès} et {Clé de la Victoire Seconde Clé}.
 
 After exiting to the menu, click “New Game”, “Single Player”, “Available Scenarios”, and select one from the list on the left. Don’t forget to set an appropriate difficulty level: “Pawn” or “Knight”. Additional settings, like “Starting Town”, can be accessed by clicking the “Additional Options” button at the bottom."
+Après être revenu au menu, cliquez sur {Nouvelle partie}, {Scénario} et {Scénarios disponibles}, puis sélectionnez-en un dans la liste de gauche. N’oubliez pas de choisir un niveau de difficulté approprié : {Facile} ou {Normal}. En cliquant sur le bouton {Options supplémentaires} situé en bas, vous pouvez accéder à des paramètres supplémentaires, tels que la {Ville de départ}.
+
