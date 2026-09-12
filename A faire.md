@@ -11,7 +11,7 @@
 
 ## HotA_lng.lod
 * `NEWTUT.TXT`
-* `GENRLTXT.TXT`
+* ~~`GENRLTXT.TXT`~~
 * `Help.txt`
 * `HeroSpec.txt`
 
