@@ -10,7 +10,7 @@
     * 22566 à 22627
 
 ## HotA_lng.lod
-* `NEWTUT.TXT`
+* ~~`NEWTUT.TXT`~~
 * `GENRLTXT.TXT`
 * `Help.txt`
 * `HeroSpec.txt`
