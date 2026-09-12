@@ -12,7 +12,7 @@
 ## HotA_lng.lod
 * `NEWTUT.TXT`
 * ~~`GENRLTXT.TXT`~~
-* `Help.txt`
+* ~~`Help.txt`~~
 * `HeroSpec.txt`
 
 ## Maps
