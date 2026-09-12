@@ -22359,9 +22359,9 @@ Donner
 # 224
 Prendre
 # 225
-Valeur %s : %d
+Valeur %s: %d
 # 226
-Variable %s n'existe pas.
+Variable %s n'existe pas
 # 227
 %s = %d est défini.
 # 228
