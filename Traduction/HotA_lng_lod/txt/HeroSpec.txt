@@ -26,7 +26,7 @@ Cavaliers	Bonus de Créature : Cavaliers	{Cavaliers et Champions}
 Les Cavaliers et les Champions gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 6 niveaux sont atteints.
 Médecine	Bonus de Compétence Secondaire : Médecine	{Médecine}
 
-Reçoit un bonus de 5% par niveau au pourcentage de Médecine.
+Reçoit un bonus de 5% par niveau au point de vie ajouté par le Dispensaire.
 Bénédiction	Bonus de Sort : Bénédiction	{Bénédiction}
 
 Augmente les Dégâts de la Troupe affectée par Bénédiction de 10 % tous les N niveaux atteints par le héros, où N est le rang de la créature sélectionnée.
