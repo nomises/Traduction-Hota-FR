@@ -4285,7 +4285,7 @@ Voir les messages du tutoriel
 #406
 ""{Voir les messages du tutoriel}
 
-Affichez les messages du tutoriel reçus""
+Afficher les messages du tutoriel reçus""
 #407
 Il est seulement possible de rejoindre un salon qu'à partir du menu principal ou de l'écran principal des services online. Revenez au menu principal et réessayez."
 Text 8: ""
@@ -4731,7 +4731,7 @@ Le nombre total d'événements locaux et de boîtes de Pandore ne doit pas dépasser
 # 201
 (nouvelle variable)
 # 202
-Message de dépassement de délai"
+Message de timeout"
 Text 8: ""
 Has FilS: "false"
 Vals count: "4"
@@ -22371,7 +22371,7 @@ Tous les événements
 # 230
 Nombre de créatures de tout type dans la garnison de la ville
 # 231
-Joueur controle %s
+Joueur contrôle %s
 # 232
 Ville sur la carte"
 Has FilS: "false"
@@ -22446,7 +22446,7 @@ Une ville spécifique est contrôlée par un joueur donné
 Le joueur actuel est humain
 Le type de ville de départ du joueur actuel est un type de ville donné
 La ville actuelle est neutre
-Le héros actuel est un héros déterminé"
+Le héros actuel est ce héros"
 Text 8: "Constante entière
 Valeur d’une variable spécifique
 Inverser le signe de la valeur de l’expression
@@ -22599,19 +22599,19 @@ Bonus de sort
 
 Lance %s avec des dégâts augmentés de %d tous les N niveaux du héros, où N est le rang de la créature ciblée.""
 # 11
-""{Lancier et Hallebardier}
+""{Lanciers et Hallebardiers}
 
 Les Lanciers et Hallebardiers gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 10% à chaque niveau.""
 # 12
-""{Centaure et Capitaine Centaure}
+""{Centaures et Capitaines Centaures}
 
 Centaures et Capitaines Centaures gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 10% à chaque niveau.""
 # 13
-""{Lutin et Maître Lutin}
+""{Lutins et Maîtres Lutins}
 
 Lutins et Maîtres Lutins gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 10% à chaque niveau.""
 # 14
-""{Méduse et Reine Méduse}
+""{Méduses et Reines Méduses}
 
 Méduses et Reines Méduses gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 4 niveaux sont atteints.""
 # 15
