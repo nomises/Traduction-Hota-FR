@@ -856,7 +856,7 @@ Configuration aléatoire de la Carte
 Choisissez les options de création d'une Carte aléatoire
 Carte aléatoire
 Jouer une carte aléatoire
-"Le fichier ""tutorial.tut"" de la carte d'initiation est manquant. Vous ne pouvez pas commencer l'initiation sans ce fichier."
+"Le fichier ""[HotA] tutorial.tut"" de la carte d'initiation est manquant. Vous ne pouvez pas commencer l'initiation sans ce fichier."
 Pour jouer avec la sauvegarde choisie, tous les joueurs doivent lancer %s. Certains des joueurs connectés ne peuvent pas jouer avec cette sauvegarde.
 Pour jouer sur la carte choisie, tous les joueurs doivent lancer %s. Certains des joueurs connectés ne peuvent pas jouer sur cette carte.
 Armageddon's Blade

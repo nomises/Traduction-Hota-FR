@@ -317,7 +317,7 @@ Si vous ne commencez pas la partie avec une ville, ce paramètre peut servir à dé
 "	
 STARTING_TOWN_HEADER_W_CONFLUX_ID,	"{Ville de Départ}
 
-Chacun des joueurs peut commencer la partie avec une ville ou pas. Le choix d'une ville peut être Aléatoire, ou il peut s'agir d'un Château, d'une Tour, d'un Rempart, d'un Donjon, d'une Forteresse, d'un Bastion, d'une Nécropole, d'un Hadès, d'un Conflux, d'une Crique ou d'une Manufacture.
+Chacun des joueurs peut commencer la partie avec une ville ou pas. Le choix d'une ville peut être Aléatoire, ou il peut s'agir d'un Château, d'une Tour, d'un Rempart, d'un Donjon, d'une Forteresse, d'un Bastion, d'une Nécropole, d'un Hadès, d'un Conflux, d'une Crique, d'une Manufacture ou d'une Muraille.
 
 Si vous ne commencez pas la partie avec une ville, ce paramètre peut servir à déterminer l'alignement de votre Héros de départ.
 "	
