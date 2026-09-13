@@ -1,0 +1,141 @@
+COMM_HelpAndContextInfo	"{Obtenir de l'aide}
+
+En cliquant sur l'élément qui vous intéresse et en maintenant le bouton droit de la souris, un info-bulle expliquant de quoi il s'agit s'affichera.
+
+Vous pouvez consulter les messages du tutoriel qui vous seront envoyés dans ce scénario en cliquant sur le bouton {Voir les messages du tutoriel} situé dans le coin supérieur droit."
+COMM_Adv_QuestLog	"{Livre de quêtes}
+
+Pour consulter les quêtes actives sur la carte d'aventure, utilisez le livre. Vous pouvez l'ouvrir en cliquant sur le bouton situé dans le panneau de droite.
+
+Bonus : appuyez sur Q pour ouvrir le Livre de quêtes."
+COMM_Adv_SystemOptions	"{Options}
+
+Pour modifier les paramètres, sauvegarder, charger et quitter le jeu, utilisez le menu {Options} en cliquant sur le bouton portant l'icône d'ordinateur, situé sur le panneau de droite.
+
+Bonus : appuyez sur O pour ouvrir le menu d'options."
+COMM_DefeatLoadGame_NoHD	"{Défaite}
+
+Chargez la partie en accédant au menu principal et en sélectionnant {Charger}, puis {Tutoriel}. Vous pouvez choisir la sauvegarde automatique (l'état du jeu avant la fin du tour précédent) ou la dernière sauvegarde que vous avez effectuée."
+COMM_DefeatLoadGame_HD	"{Défaite}
+
+Chargez la partie en accédant au menu principal et en sélectionnant {Charger} puis {Tutoriel}. Vous pouvez choisir la sauvegarde automatique (l'état du jeu avant la fin du tour précédent), la sauvegarde de combat (l'état du jeu avant d'entamer le combat ; disponible si l'option correspondante du mod HD est activée) ou la dernière sauvegarde que vous avez effectuée."
+COMM_Adv_MultipleHeroes	"{Changer entre les héros}
+
+Le panneau de droite affiche une colonne contenant les portraits des héros sous vos ordres sur la carte d'aventure. La barre verte située à gauche indique les points de mouvement restants du héros, et le héros actuellement sélectionné est mis en évidence par un fin cadre doré.
+
+Pour effectuer un changement, vous pouvez soit cliquer sur le portrait du héros cible, soit utiliser le bouton du panneau intitulé {Héros suivant}."
+SCN1_Start	"{Objectif de la mission}
+
+Vous devez retrouver le Graal, un artéfact puissant qui apportera des richesses inouïes à votre royaume. Selon la rumeur, le Graal est enfoui quelque part sur ces terres, mais aucun indice ne permet d'en localiser l'emplacement exact. Lord Haart, le héros placé sous vos ordres, est prêt à se mettre en route."
+SCN1_Adv_Movement	"{Déplacement sur la carte d'aventure}
+
+Voici l'écran de la carte d'aventure. Vous l'utiliserez pour déplacer vos héros dans le monde du jeu, l'explorer et interagir avec des objets. Votre héros est déjà sélectionné : son portrait dans la liste du panneau de droite est mis en surbrillance et ses informations s'affichent dans le coin inférieur droit.
+
+Lorsque vous survolez la carte, le curseur de la souris prend la forme d'un cheval si vous pointez vers un emplacement accessible. Placez le curseur sur l'endroit souhaité et cliquez avec le bouton gauche de la souris : des flèches de direction apparaîtront sur la carte. Pour confirmer, cliquez à nouveau avec le bouton de la souris pour vous déplacer.
+
+Bonus : il est possible d'utiliser les flèches directionnelles pour se déplacer."
+SCN1_Adv_Visiting	"{Interagir avec des objets}
+
+Vous pouvez interagir avec de nombreux objets sur la carte d'aventure en y envoyant votre héros. Lorsque vous survolez un objet visitable avec le curseur, celui-ci prend la forme d'un cheval cabré. Cliquez avec le bouton gauche de la souris ; le héros se déplacera alors pour visiter l'objet.
+
+Essayez de capturer la mine et la scierie situées à proximité en vous y rendant, puis visitez votre ville. Notez que pour que la ville soit visitée spécifiquement par le héros sélectionné, vous devez placer le curseur entre les drapeaux situés à l'entrée de la ville, comme indiqué sur l'image."
+SCN1_Adv_Selection	"{Sélectionner le héros actif}
+
+En cliquant sur la ville en dehors de sa zone de visite, vous avez déplacé le focus loin de votre héros. Le panneau situé dans le coin inférieur droit affiche des informations sur l'élément du jeu actuellement sélectionné ; il présente donc, pour l'instant, des informations concernant la ville.
+
+Pour sélectionner à nouveau le héros et poursuivre votre périple, cliquez avec le bouton gauche de la souris sur son portrait dans le panneau de droite ou directement sur lui dans la carte d'aventure."
+SCN1_Adv_HeroInGarrison	"{Héros en garnison de la ville}
+
+Vous avez déplacé le héros en garnison de la ville. Les héros en garnison ne sont pas présents sur la carte d'aventure ; ils se trouvent à l'intérieur de la ville. Pour ramener le héros sur la carte d'aventure :
+
+1. Ouvrez l'écran de la ville en double-cliquant dessus ;
+2. Cliquez sur le portrait du héros en bas de l'écran ;
+3. Cliquez sur l'emplacement situé dans la rangée inférieure, juste en dessous de son portrait.
+
+Bonus : appuyez sur ESPACE pour le déplacer."
+SCN1_Adv_EndTurn	"{Fin du tour}
+
+Le jeu se déroule au tour par tour et la capacité de déplacement de vos héros est limitée. Pour l'instant, elle est épuisée ; vous devez donc terminer le tour pour passer au jour suivant.
+
+Pour ce faire, cliquez sur le bouton en forme de sablier situé dans le panneau de droite.
+
+Bonus : appuyez sur E pour finir le tour."
+SCN1_Twn_Construction	"{Salle du conseil et construction}
+
+Vous êtes dans la salle du conseil. La ville abrite divers bâtiments vous permettant de recruter des troupes, d'apprendre des sorts, de faire du commerce, etc. Pour effectuer différentes actions, cliquez sur les bâtiments qui vous intéressent. Pour quitter la salle du conseil, cliquez sur la coche située dans le coin inférieur droit.
+
+Vous devez développer votre ville en construisant de nouveaux bâtiments. Vous êtes autorisé à construire un bâtiment par jour dans chacune de vos villes. Pour construire quelque chose, choisissez l'un des bâtiments disponibles.
+
+Pour continuer, vous devrez construire un bâtiment permettant de recruter des griffons : la Tour des Griffons. Toutefois, sa construction nécessite un Fort ; vous devriez donc commencer par le Fort.
+"
+SCN1_Twn_HireCreatures	"{Recrutement des troupes}
+
+Les bâtiments situés sur les deux rangées inférieures de l'écran de construction sont des habitations de créatures qui vous permettent de recruter des troupes. Vous venez de construire la Tour des Griffons ; c'est la demeure de ces créatures. Pour les recruter, cliquez sur le bâtiment qui vient d'apparaître sur l'écran de la ville. Vous pouvez également ouvrir le bâtiment du Fort et cliquer sur la fenêtre des griffons qui s'y trouve.
+
+Bonus : il est possible de recruté des troupes en cliquant sur leur icône correspondant dans la fenêtre en bas à gauche"
+SCN1_Twn_Garrison	"{Garnison de la ville}
+
+Les troupes nouvellement recrutées sont placées dans la garnison de la ville. Leur contenu s'affiche dans la partie inférieure de l'écran, sur la rangée d'emplacements supérieure. Pour transférer les Griffons recrutés ou d'autres créatures à votre héros, vous devez d'abord faire en sorte que celui-ci visite la ville.
+
+Votre héros et son armée apparaîtront alors dans la rangée d'emplacements inférieure. Pour transférer des créatures, cliquez d'abord sur la case de départ, puis sur la case de destination. Des créatures identiques peuvent être regroupées en une seule pile.
+
+Bonus : CTRL + ALT + SHIFT + clic sur une unité, transférera toutes les troupes."
+SCN1_Adv_BuildEveryday	"{Construction journalière}
+
+N'oubliez pas de développer votre ville en construisant de nouveaux bâtiments chaque jour. Votre héros n'a pas besoin d'être présent en ville pour cela.
+
+Pour ouvrir la ville, double-cliquez sur son icône dans le panneau situé tout à droite.
+"
+SCN1_Adv_Visiting_FontainOfYouth	"{Zone visitable}
+
+Notez que pour certains objets, la zone visitable ne se trouve pas au centre, mais dans un coin (à gauche ou à droite). Essayez de survoler l'objet pour déterminer s'il peut être visité."
+SCN1_Adv_Visiting_GriffinTower	"{Tour des Griffons}
+
+Vous avez laissé derrière vous un lieu visitable : la Tour des Griffons. En prenant possession de cette demeure extérieure, vous pourrez recruter les créatures qui l'habitent et ainsi renforcer votre armée.
+"
+SCN1_Adv_Underworld	"{Monde souterrain}
+
+En franchissant le portail souterrain, vous êtes entré dans un donjon. La carte d'aventure peut être composée de deux niveaux : la surface et le sous-sol, cliquez sur le bouton du panneau de droite pour basculer entre les deux."
+SCN1_Btl_Basics	"{Écran de combat}
+
+Les troupes de l'attaquant sont toujours placées à gauche, et celles du défenseur à droite. Au cours d'un tour, les troupes agissent à tour de rôle selon leur ordre d'activation. La troupe actuellement active est mise en évidence.
+
+Pour donner un ordre de déplacement ou d'attaque, survolez une case accessible ou une cible, puis cliquez avec le bouton gauche de la souris. Lors d'une attaque, visez la partie inférieure de la créature — plus précisément, la case où se trouve la créature ciblée.
+
+Cliquez et maintenez le bouton droit de la souris pour obtenir des informations."
+SCN1_Adv_Shipyard	"{Chantier naval et bateau}
+
+Le chemin suivant traverse une étendue d'eau. Pour la franchir, vous pouvez utiliser un bateau ; achetez-en un au chantier naval pour une somme modique.
+
+Achetez le bateau et utilisez-le pour traverser vers la rive opposée, à l'est.
+
+Veuillez noter : l'embarquement et le débarquement consomment toute la capacité de mouvement restante du héros."
+SCN1_Adv_FirstGrailMap	"{Carte au Trésor}
+
+En visitant l'obélisque, vous avez découvert une partie de la Carte au Trésor indiquant l'emplacement du Graal. La moitié de la carte reste cachée ; pour révéler le reste, vous devrez localiser et visiter un second obélisque.
+
+Pour révéler la Carte au Trésor que vous possédez actuellement, utilisez le bouton situé sur le panneau de droite."
+SCN1_Adv_HireHero	"{Recruter un nouveau héros}
+
+Des éclaireurs signalent avoir découvert un second obélisque sur un sol maudit au nord de la ville, mais celui-ci est gardé par des morts-vivants.
+
+Lord Haart s'est aventuré très loin, et il lui faudrait plusieurs jours pour regagner la ville. Vous pouvez y construire une taverne et recruter un nouveau héros pour qu'il se rende directement au deuxième obélisque. N'oubliez pas de confier une armée à ce héros, car, selon le rapport des éclaireurs, l'obélisque est gardé."
+SCN1_Adv_NewWeek	"{Croissance hebdomadaire}
+
+Une nouvelle semaine a commencé, et de nouvelles créatures sont disponibles au recrutement dans les villes et les demeures extérieures. Les créatures non recrutées ne disparaissent pas ; elles s'accumulent au contraire, en attendant d'être achetées."
+SCN1_Adv_DiggingGrail	"{À la recherche du Graal}
+
+La seconde moitié de la carte au trésor a été découverte ! Vous savez désormais où se trouve le Graal : il est enfoui juste à l'extérieur de la ville. Pour le déterrer, envoyez votre héros sur la case marquée et cliquez sur le bouton situé dans le panneau de droite.
+
+Creuser prend toute la journée et consomme la totalité du potentiel de déplacement de votre héros. Par conséquent, après avoir déplacé le héros sur la case contenant le Graal, vous devrez terminer le tour pour passer au jour suivant.
+
+Attention, si votre héros est défait avec le Graal sur lui, l'artéfact sera perdu"
+SCN1_Twn_BuildingGrail	"{Construire le Graal}
+
+Pour construire le bâtiment du Graal, cliquez sur la salle du conseil de la ville comme si vous vouliez ouvrir la fenêtre de construction. Si le héros transportant le Graal se trouve dans la ville, vous serez invité à construire ce bâtiment."
+SCN1_Finish	"{Et après ?}
+
+Félicitations pour avoir terminé le scénario d'introduction ! Nous vous recommandons maintenant d'essayer certaines des cartes les moins difficiles, classées comme "Faciles", telles que {La Clef du Succès} et {Clé de la Victoire Seconde Clé}.
+
+Après être revenu au menu, cliquez sur {Nouvelle partie}, {Scénario} et {Scénarios disponibles}, puis sélectionnez-en un dans la liste de gauche. N’oubliez pas de choisir un niveau de difficulté approprié : {Facile} ou {Normal}. En cliquant sur le bouton {Options supplémentaires} situé en bas, vous pouvez accéder à des paramètres supplémentaires, tels que la {Ville de départ}.
+
