@@ -70,7 +70,7 @@ Pour continuer, vous devrez construire un bâtiment permettant de recruter des gr
 "
 SCN1_Twn_HireCreatures	"{Recrutement des troupes}
 
-Les bâtiments situés sur les deux rangées inférieures de l'écran de construction sont des habitations de créatures qui vous permettent de recruter des troupes. Vous venez de construire la Tour des Griffons ; c'est l'habitation de ces créatures. Pour les recruter, cliquez sur le bâtiment qui vient d'apparaître sur l'écran de la ville. Vous pouvez également ouvrir le bâtiment du Fort et cliquer sur la fenêtre des griffons qui s'y trouve.
+Les bâtiments situés sur les deux rangées inférieures de l'écran de construction sont des habitations de créatures qui vous permettent de recruter des troupes. Vous venez de construire la Tour des Griffons ; c'est la demeure de ces créatures. Pour les recruter, cliquez sur le bâtiment qui vient d'apparaître sur l'écran de la ville. Vous pouvez également ouvrir le bâtiment du Fort et cliquer sur la fenêtre des griffons qui s'y trouve.
 
 Bonus : il est possible de recruté des troupes en cliquant sur leur icône correspondant dans la fenêtre en bas à gauche"
 SCN1_Twn_Garrison	"{Garnison de la ville}
@@ -100,7 +100,7 @@ SCN1_Btl_Basics	"{Écran de combat}
 
 Les troupes de l'attaquant sont toujours placées à gauche, et celles du défenseur à droite. Au cours d'un tour, les troupes agissent à tour de rôle selon leur ordre d'activation. La troupe actuellement active est mise en évidence.
 
-Pour donner un ordre de déplacement ou d'attaque, survolez une case accessible ou la cible, puis cliquez avec le bouton gauche de la souris. Lors d'une attaque, visez la partie inférieure de la créature — plus précisément, la case où se trouve la créature ciblée.
+Pour donner un ordre de déplacement ou d'attaque, survolez une case accessible ou une cible, puis cliquez avec le bouton gauche de la souris. Lors d'une attaque, visez la partie inférieure de la créature — plus précisément, la case où se trouve la créature ciblée.
 
 Cliquez et maintenez le bouton droit de la souris pour obtenir des informations."
 SCN1_Adv_Shipyard	"{Chantier naval et bateau}
@@ -122,7 +122,7 @@ Des éclaireurs signalent avoir découvert un second obélisque sur un sol maudit a
 Lord Haart s'est aventuré très loin, et il lui faudrait plusieurs jours pour regagner la ville. Vous pouvez y construire une taverne et recruter un nouveau héros pour qu'il se rende directement au deuxième obélisque. N'oubliez pas de confier une armée à ce héros, car, selon le rapport des éclaireurs, l'obélisque est gardé."
 SCN1_Adv_NewWeek	"{Croissance hebdomadaire}
 
-Une nouvelle semaine a commencé, et de nouvelles créatures sont disponibles au recrutement dans les villes et les habitations extérieures. Les créatures non recrutées ne disparaissent pas ; elles s'accumulent au contraire, en attendant d'être achetées."
+Une nouvelle semaine a commencé, et de nouvelles créatures sont disponibles au recrutement dans les villes et les demeures extérieures. Les créatures non recrutées ne disparaissent pas ; elles s'accumulent au contraire, en attendant d'être achetées."
 SCN1_Adv_DiggingGrail	"{À la recherche du Graal}
 
 La seconde moitié de la carte au trésor a été découverte ! Vous savez désormais où se trouve le Graal : il est enfoui juste à l'extérieur de la ville. Pour le déterrer, envoyez votre héros sur la case marquée et cliquez sur le bouton situé dans le panneau de droite.
@@ -130,7 +130,7 @@ La seconde moitié de la carte au trésor a été découverte ! Vous savez désormais 
 Creuser prend toute la journée et consomme la totalité du potentiel de déplacement de votre héros. Par conséquent, après avoir déplacé le héros sur la case contenant le Graal, vous devrez terminer le tour pour passer au jour suivant.
 
 Attention, si votre héros est défait avec le Graal sur lui, l'artéfact sera perdu"
-SCN1_Twn_BuildingGrail	"{Construire l'édifice du Graal}
+SCN1_Twn_BuildingGrail	"{Construire le Graal}
 
 Pour construire le bâtiment du Graal, cliquez sur la salle du conseil de la ville comme si vous vouliez ouvrir la fenêtre de construction. Si le héros transportant le Graal se trouve dans la ville, vous serez invité à construire ce bâtiment."
 SCN1_Finish	"{Et après ?}
