@@ -4273,21 +4273,21 @@ Cliquez pour afficher sur la carte
 #400
 Aucune cible valide pour le sort %s dans la zone.
 #401
-It looks as though there's nothing left here that would be of use to you. You take your leave.
+Il semble qu'il ne reste plus rien ici qui puisse vous être utile. Vous prenez congé.
 #402
 Seer%s
 #403
-Time limit expired by month %d, week %d, day %d.
+Délai atteint au mois %d, de la semaine %d, du jour %d.
 #404
-(Time limit expired by month %d, week %d, day %d)
+(Délai atteint au mois %d, de la semaine %d, du jour %d)
 #405
-View Tutorial Messages
+Voir les messages du tutoriel
 #406
-""{View Tutorial Messages}
+""{Voir les messages du tutoriel}
 
-Displays received tutorial messages""
+Afficher les messages du tutoriel reçus""
 #407
-Joining a lobby room is possible only from the Main Menu or the Online Lobby Main Screen. Return back to the Main Menu and try again."
+Il est seulement possible de rejoindre un salon qu'à partir du menu principal ou de l'écran principal des services online. Revenez au menu principal et réessayez."
 Text 8: ""
 Has FilS: "false"
 Vals count: "4"
@@ -4719,19 +4719,19 @@ Créatures
 # 195
 Horde de créature de rang 6
 # 196
-Specialty
+Spécialité
 # 197
-Seer's Name
+Nom du voyant
 # 198
-This structure increases weekly production of Level 6 Creatures.
+Cette structure augmente la production hebdomadaire des créatures de niveau 6.
 # 199
-Summar count of local events and pandora boxes must not exceed 20000.
+Le nombre total d'événements locaux et de boîtes de Pandore ne doit pas dépasser 20 000.
 # 200
-(new event)
+(nouvel événement)
 # 201
-(new variable)
+(nouvelle variable)
 # 202
-Timeout Message"
+Message de timeout"
 Text 8: ""
 Has FilS: "false"
 Vals count: "4"
@@ -6721,7 +6721,7 @@ Artéfacts requis pour créer la Manne Céleste :
 
 9
 0
-""Garde: Bleu pâle
+""Garde: Bleu clair
 Généralement placés aux points d'étranglement, un Héros doit visiter la Tente du Maître des Clefs de la couleur associée pour obtenir le mot de passe.""
 
 9
@@ -6761,7 +6761,7 @@ Généralement placés aux points d'étranglement, un Héros doit visiter la Tente du
 
 10
 0
-""Tente du Maître des Clefs: Bleu pâle
+""Tente du Maître des Clefs: Bleu clair
 Un Héros ne peut passer le Garde tant que la Tente du Maître des Clefs de la couleur associée n'a pas été précédemment visitée.""
 
 10
@@ -8584,7 +8584,7 @@ Permet d'acheter les Machines de Guerre : Baliste, Dispensaire et Chariot.""
 
 212
 0
-""Poste Frontière: Bleu pâle
+""Poste Frontière: Bleu clair
 Généralement placé aux points d'étranglement, un Héros doit rendre visite au Maître des Clefs de la couleur correspondante pour obtenir le mot de passe. Chaque joueur doit rendre visite au Maître des Clefs, car le Poste Frontière ne disparaîtra pas après la visite du premier joueur.""
 
 212
@@ -11482,33 +11482,33 @@ Texts count: "9"
 Text 0: "Tente du Maître des Clefs"
 Text 1: "Poste Frontière"
 Text 2: "Garde"
-Text 3: "Hut of the Magi"
-Text 4: "Eye of the Magi"
+Text 3: "Hutte du Magicien"
+Text 4: "Oeil du Magicien"
 Text 5: ""
-Text 6: "Light Blue
+Text 6: "Bleu clair
+Vert
+Rouge
+Bleu
+Brun
+Violet
+Blanc
+Noir"
+Text 7: "Bleu clair
 Green
-Red
-Blue
-Tan
-Purple
-White
-Black"
-Text 7: "Bleu pâle
+Rouge
+Bleu
+Brun
+Violet
+Blanc
+Noir"
+Text 8: "Bleu clair
 Green
-Red
-Blue
-Tan
-Purple
-White
-Black"
-Text 8: "Bleu pâle
-Green
-Red
-Blue
-Tan
-Purple
-White
-Black"
+Rouge
+Bleu
+Brun
+Violet
+Blanc
+Noir"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -22353,27 +22353,27 @@ Les événements ne peuvent pas être convertis lors de l'édition d'un objet.
 # 221
 Ajouter
 # 222
-Variable (read-only)
+Variable (lecture seule)
 # 223
-Give
+Donner
 # 224
-Take
+Prendre
 # 225
-Value %s: %d
+Valeur %s: %d
 # 226
-Variable %s do not exist
+Variable %s n'existe pas
 # 227
-%s = %d is set.
+%s = %d est défini.
 # 228
-Created dump: HotA_logs\\%s
+Dump créé: HotA_logs\\%s
 # 229
-All events
+Tous les événements
 # 230
-Creature count of any type in town's garrison
+Nombre de créatures de tout type dans la garnison de la ville
 # 231
-Player controls %s
+Joueur contrôle %s
 # 232
-Town on map"
+Ville sur la carte"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -22436,7 +22436,7 @@ Vérifie si la première valeur est supérieure ou égale à la seconde
 Vérifie si la première valeur est inférieure ou égale à la seconde
 Vérifie si la première valeur est différente de la seconde
 Le joueur actuel est un joueur donné
-Specific hero belongs to certain player
+Ce héros spécifique appartient à un joueur spécifique
 La classe du héros actuel est une classe donnée
 Une créature spécifique est vaincue par un joueur donné
 Un héros spécifique est vaincu par un héros donné
@@ -22446,7 +22446,7 @@ Une ville spécifique est contrôlée par un joueur donné
 Le joueur actuel est humain
 Le type de ville de départ du joueur actuel est un type de ville donné
 La ville actuelle est neutre
-Current hero is certain hero"
+Le héros actuel est ce héros"
 Text 8: "Constante entière
 Valeur d’une variable spécifique
 Inverser le signe de la valeur de l’expression
@@ -22575,47 +22575,47 @@ Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: "# 0
-Secondary Skill
+Compétence secondaire
 # 1 
-Creatures
+Créatures
 # 2 
-Resources
+Ressources
 # 3
-Spell
+Sort
 # 4
-Creatures (Special)
+Créatures (Spécial)
 # 5
-Speed
+Vitesse
 # 6
-Creature Upgrade
+Amélioration de créature
 # 7
 Dragons
 # 8
-Automaton Explosion
+Explosion d'Automate
 # 9
-Spell Bonus
+Bonus de sort
 # 10
 ""{%s}
 
-Casts %s with Damage increased by %d for every n hero levels, where n is the level of the targeted creature.""
+Lance %s avec des dégâts augmentés de %d tous les N niveaux du héros, où N est le rang de la créature ciblée.""
 # 11
-""{Pikemen and Halberdiers}
+""{Lanciers et Hallebardiers}
 
-Increases the Speed of any Pikemen or Halberdiers by 1 and their Attack and Defense skills by 10% for every level (rounded up).""
+Les Lanciers et Hallebardiers gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 10% à chaque niveau.""
 # 12
-""{Centaurs and Centaur Captains}
+""{Centaures et Capitaines Centaures}
 
-Increases the Speed of any Centaurs or Centaur Captains by 1 and their Attack and Defense skills by 10% for every level (rounded up).""
+Centaures et Capitaines Centaures gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 10% à chaque niveau.""
 # 13
-""{Gremlins and Master Gremlins}
+""{Lutins et Maîtres Lutins}
 
-Increases the Speed of any Gremlins or Master Gremlins by 1 and their Attack and Defense skills by 10% for every level (rounded up).""
+Lutins et Maîtres Lutins gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 10% à chaque niveau.""
 # 14
-""{Medusas and Medusa Queens}
+""{Méduses et Reines Méduses}
 
-Increases the Speed of any Medusas or Medusa Queens by 1 and their Attack and Defense skills by 20% for every 4 levels (rounded up).""
+Méduses et Reines Méduses gagnent +1 en vitesse, et reçoivent un bonus en Attaque-Défense de 20% à chaque fois que 4 niveaux sont atteints.""
 # 15
-Creature Bonus"
+Bonus de créature"
 Text 8: ""
 Has FilS: "false"
 Vals count: "4"
