@@ -16,7 +16,7 @@
 * ~~`HeroSpec.txt`~~
 
 ## Maps
-* `[HotA] Tutorial.txt`
+* ~~`[HotA] Tutorial.txt`~~
 * `[HotA] Noble Nemesis.txt`
 * `[HotA] Help!.txt`
 * `[HotA] The Cursed Legions.txt`

@@ -2,7 +2,7 @@
 Tutorial
 
 ===== Map description =====
-If you have never played any turn-based strategy games in the Heroes of Might and Magic series before, start with this scenario. Here you can learn the basics of the game, including the controls and the interface.
+Si vous n'avez jamais joué à aucun jeu de stratégie au tour par tour de la série Heroes of Might and Magic, commencez par ce scénario. Vous pourrez ainsi vous familiariser avec les bases du jeu, notamment les commandes et l'interface.
 
 ===== Rumors =====
 
@@ -43,13 +43,13 @@ Castellatus
 
 (8, 33, 0) ***Event***
 Message:
-The lights of the Inferno town gleam above you. There is a fort here, which means there are some basic fortifications. To make things easier for you, several Archangels have agreed to back you in battle.
+Les lumières de la ville Hadès brillent au-dessus de vous. Il y a ici un fort, ce qui signifie qu'il y a des fortifications rudimentaires. Pour vous faciliter la tâche, plusieurs archanges ont accepté de vous soutenir au combat.
 
 (10, 4, 0) ***Quest Guard***
 Message:
-The cursed ground on the other side is very dangerous. The guards insist: you should first deal with the problems in the southeast, and only then move forward.
-The guards advise continuing along the road to the southeast; you shouldn't venture into the lands on the other side just yet.
-The guards welcome the news of you having vanquished the hero in the southeast. They agree to let you pass, but warn that the lands on the other side are fraught with danger.
+Le territoire maudit de l'autre côté est très dangereux. Les gardes insistent : vous devez d'abord régler les problèmes dans le sud-est, puis seulement ensuite avancer.
+Les gardes vous conseillent de continuer sur la route en direction du sud-est ; vous ne devriez pas vous aventurer de l'autre côté pour l'instant.
+Les gardes se réjouissent d'apprendre que vous avez vaincu le héros dans le sud-est. Ils acceptent de vous laisser passer, mais vous avertissent que les terres de l'autre côté sont semées d'embûches.
 
 (14, 31, 0) ***Event***
 Message:
@@ -57,11 +57,11 @@ Message:
 
 (30, 32, 0) ***Event***
 Message:
-Ahead is an enemy hero guarding the ancient Obelisk. Rumor has it that the Obelisk features part of the puzzle map that should reveal the location of the Grail. We’re getting close...
+Devant nous se trouve un héros ennemi qui garde l'obélisque antique. La rumeur veut que cet obélisque recèle une partie de la Carte au Trésor censée révéler l'emplacement du Graal. On se rapproche…
 
 (16, 1, 0) ***Lich***
 Message:
-There are special types of terrain that influence the course of combat. For example, bonuses to morale and luck do not apply on cursed ground. 		Ahead, you see several Liches: per your scouts, they are guarding the second Obelisk. Defeat them to clear the way.
+Certains types de terrain ont une influence sur le déroulement des combats. Par exemple, les bonus de moral et de chance ne s'appliquent pas sur un terrain maudit.		Devant vous, vous apercevez plusieurs liches : d'après vos éclaireurs, elles gardent le deuxième obélisque. Éliminez-les pour vous frayer un chemin.
 
 (28, 10, 0) ***Event***
 Message:
@@ -89,22 +89,22 @@ Message:
 
 (24, 17, 1) ***Greater Gnoll's Flail***
 Message:
-Well, well! As you approach, you notice several Gnolls guarding an item of no small interest. Do you wish to challenge them? (Hint: don't fret! This won't be hard!)
+Bien, bien ! En vous approchant, vous remarquez plusieurs gnolls qui montent la garde devant un objet qui présente un intérêt non négligeable. Souhaitez-vous les affronter ? (Indice : ne vous inquiétez pas ! Ce ne sera pas difficile !)
 
 (23, 19, 1) ***Sign***
 Message:
-Signs can also contain useful information. Ahead, you will encounter mines of 4 other types. Capture all of them and keep moving southwest.
+Les panneaux peuvent également contenir des informations utiles. Plus loin, vous rencontrerez quatre autres types de mines. Capturez-les toutes et continuez à avancer vers le sud-ouest.
 
 ===== Extended Events =====
 ***Event Texts***
 Proposal Message:
-The guards won't let you pass until you bring them several Griffins. They suggest that you should build a Griffin Tower in the nearest town to hire them.
+Les gardes ne vous laisseront pas passer tant que vous ne leur aurez pas apporté plusieurs Griffons. Ils vous conseillent de construire une Tour aux Griffons dans la ville la plus proche afin de pouvoir en recruter.
 Progress Message:
-The guards won't yield. They advise building a Griffin Tower in the town so you can hire the creatures they demand.
+Les gardes ne céderont pas. Ils vous conseillent de construire une Tour aux Griffons dans la ville afin que vous puissiez recruter les créatures qu'ils exigent.
 Completion Message:
-"These Griffins will serve us well! You may continue on your way."
+"Ces griffons nous seront d'une grande utilité ! Vous pouvez poursuivre votre chemin."
 Hint:
-Bring 8 Griffins
+Apportez 8 Griffons
 Message:
 #HINT_ID=SCN1_Adv_Visiting_FontainOfYouth
 
