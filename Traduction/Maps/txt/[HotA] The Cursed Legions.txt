@@ -1,32 +1,32 @@
 ===== Map name =====
-The Cursed Legions
+Les legions maudites
 
 ===== Map description =====
-It all started suddenly. The rocky and volcanic lands were taken by necromancers, and some of the caves are overflowing with the dead. It seems there is no hope: the necromancers came in force and their skeletons are everywhere. However, armies from the main forts are eager to burn all in their path
+Tout a commence d'un coup. Les terres rocheuses et volcaniques ont ete envahies par des Necromanciens, et certaines grottes regorgent de morts. Il semble qu'il n'y ait plus d'espoir : les Necromanciens sont arrives en force et leurs squelettes sont partout. Cependant, les armees des principaux forts sont determinees a tout bruler sur leur passage.
 
 ===== Rumors =====
 
 Name:
 Ğàçâàë Îñòğîâà
 Text:
-The island in the middle was once whole, but because of the wizards' meddling, it split apart.
+L'ile du milieu formait autrefois un tout, mais elle s'est scindee en deux a cause de l'ingerence des Sorciers.
 
 Name:
 Ïîğòàëû
 Text:
-I heard that the necromancers can use a hidden portal to quickly move around and attack.
+J'ai entendu dire que les Necromanciens pouvaient utiliser un portail cache pour se deplacer rapidement et attaquer.
 
 ===== Timed events =====
 
 Name:
 Ñòàğò - Òåìíèöà
 Message:
-The rocky lands have served as a good home for troglodytes and harpies. Although many of your kind still remain in the caves, you've reclaimed most of the land. However, as luck would have it, a couple of problems have arisen. The first one is the necromancers. Their bony faces suddenly appeared near several dungeons, frightening many with their disgusting looks. There also hasn't been any word from the caves in a while, so it seems something has settled in there too. Fortunately, the second problem is a little easier: the demons. They are merciless and want to take your lands, aye; but it seems they have the same problems with necromancers as you do. You should try to reclaim the demon lands after taking back most of your dungeons. And, of course, drive away the necromancers. For now, it's best to dive into your stash and gather the resources you've been saving for a rainy day.
+Ces terres rocheuses ont longtemps servi de refuge aux Troglodytes et aux Harpies. Bien que bon nombre des votres vivent encore dans les grottes, vous avez reconquis la majeure partie du territoire. Cependant, comme par malchance, quelques problemes sont apparus. Le premier concerne les Necromanciens. Leurs visages osseux ont soudainement fait leur apparition pres de plusieurs donjons, effrayant beaucoup de monde par leur apparence repugnante. De plus, on est sans nouvelles des grottes depuis un certain temps ; il semble donc que quelque chose s’y soit egalement installe. Heureusement, le deuxieme probleme est un peu plus facile a resoudre : les Demons. Ils sont impitoyables et veulent s’emparer de vos terres, certes ; mais il semble qu’ils aient les memes problemes avec les Necromanciens que vous. Vous devriez essayer de reconquerir les terres des Demons apres avoir repris la plupart de vos donjons. Et, bien sur, chassez les Necromanciens ! Pour l’instant, le mieux est de puiser dans vos reserves et de rassembler les ressources que vous avez mises de cote pour les mauvais jours.
 
 Name:
 Ñòàğò - Èíôåğíî
 Message:
-You've been eyeing your neighbors' holdings for a long time. Warlocks have occupied the rocky lands, and their servants are living their best lives, even though they're more accustomed to dwelling in caves. You sense they're about to claim your necromancer-ridden territories and caves. Although, it seems the dead have pounced on them too. You need to hurry with three things: reclaim your fiery fortresses, thwart the warlocks' plans, and crush any undead that stand in your way. Fortunately, you have a small supply of resources, so you'll have fewer problems as you start.
+Cela fait longtemps que vous lorgnez sur les possessions de vos voisins. Les Sorciers Noirs ont envahi les terres rocheuses, et leurs serviteurs y menent la grande vie, meme s’ils ont davantage l’habitude de vivre dans des grottes. Vous sentez qu’ils s’appretent a s’emparer de vos territoires et de vos grottes infestes de Necromanciens. Il semble toutefois que les morts se soient egalement jetes sur eux. Vous devez vous depecher de faire trois choses : reprendre vos forteresses enflammees, contrecarrer les plans des sorciers et aneantir tous les Morts-Vivants qui se dressent sur votre chemin. Heureusement, vous disposez d'une petite reserve de ressources, ce qui vous facilitera la tache au debut.
 
 Name:
 Ïîìîùü ÈÈ
@@ -36,12 +36,12 @@ Message:
 Name:
 Íåæèòü â ïåùåğàõ
 Message:
-It seems the main undead force is in the caves. Perhaps it's worth sending a second commander there to check out the situation.
+Il semblerait que la principale force de Morts-vivants se trouve dans les grottes. Il vaudrait peut-etre la peine d'y envoyer un second commandant pour evaluer la situation.
 
 Name:
 Àğõèïåëàã Ïîñåğåäèíå
 Message:
-Your advisor recommends attempting to reach the sea, as rumors suggest there's an archipelago there with towns of the Erathian-Bracadian alliance. They're currently unclaimed, but a portal has appeared there, from which a necromancer scout may have already emerged. There's a chance we can claim the towns for ourselves and acquire archangels and titans... provided, of course, we have the funds.		Moreover, the threat of necromancers is causing refugees to flock to your main cities, meaning you have more recruits!
+Votre conseiller vous recommande de rejoindre la mer, car selon certaines rumeurs, il existerait la-bas un archipel abritant des villes de l'alliance entre Erathia et Bracadia. Ces villes ne sont pour l'instant revendiquees par personne, mais un portail y est apparu, d'ou un eclaireur Necromancien aurait deja emerge. Il est possible que nous puissions nous approprier ces villes et acquerir des Archanges et des Titans... a condition, bien sur, de disposer des fonds necessaires.		De plus, la menace des Necromanciens pousse les refugies a affluer vers vos principales villes, ce qui signifie que vous disposez de davantage de recrues !
 
 Name:
 Ïîìîùü Íåêğîìàíòàì
@@ -51,7 +51,7 @@ Message:
 Name:
 Îáîç
 Message:
-A small convoy with resources has arrived!
+Un petit convoi transportant des ressources vient d'arriver !
 
 ===== Heroes =====
 
@@ -101,11 +101,11 @@ Message:
 
 (97, 12, 0) ***Sign***
 Message:
-North — Valleys of Overlords	East, South — Residences of Warlocks	South-East — Cave Systems
+Nord — Vallees des Seigneurs	Est, Sud - Demeures des Sorciers	Sud-Est — Reseau de grottes
 
 (8, 100, 0) ***Sign***
 Message:
-North, West — Demonic Keeps	North-West — Demon Wastelands	South — Cave Systems
+Nord, Ouest - Forteresses Demoniaques - Terres desolees des Demons	Sud — Reseau de grottes
 
 (35, 96, 0) ***Inferno***
 
