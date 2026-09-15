@@ -43,13 +43,13 @@ Castellatus
 
 (8, 33, 0) ***Event***
 Message:
-Les lumières de la ville Hadès brillent au-dessus de vous. Il y a ici un fort, ce qui signifie qu'il y a des fortifications rudimentaires. Pour vous faciliter la tâche, plusieurs archanges ont accepté de vous soutenir au combat.
+Les lumières de la ville Hadès brillent au-dessus de vous. Il y a ici un fort, ce qui signifie qu'il y a des fortifications rudimentaires. Pour vous faciliter la tâche, plusieurs Archanges ont accepté de vous soutenir au combat.
 
 (10, 4, 0) ***Quest Guard***
 Message:
 Le territoire maudit de l'autre côté est très dangereux. Les gardes insistent : vous devez d'abord régler les problèmes dans le sud-est, puis seulement ensuite avancer.
 Les gardes vous conseillent de continuer sur la route en direction du sud-est ; vous ne devriez pas vous aventurer de l'autre côté pour l'instant.
-Les gardes se réjouissent d'apprendre que vous avez vaincu le héros dans le sud-est. Ils acceptent de vous laisser passer, mais vous avertissent que les terres de l'autre côté sont semées d'embûches.
+Les gardes se réjouissent d'apprendre que vous avez vaincu le héros au sud-est. Ils acceptent de vous laisser passer, mais vous avertissent que les terres de l'autre côté sont semées d'embûches.
 
 (14, 31, 0) ***Event***
 Message:
@@ -57,11 +57,11 @@ Message:
 
 (30, 32, 0) ***Event***
 Message:
-Devant nous se trouve un héros ennemi qui garde l'obélisque antique. La rumeur veut que cet obélisque recèle une partie de la Carte au Trésor censée révéler l'emplacement du Graal. On se rapproche…
+Devant nous se trouve un héros ennemi qui garde l'obélisque antique. La rumeur veut que cet obélisque recèle une partie de la Carte au Trésor censée révéler l'emplacement du Graal. Vous vous rapprochez...
 
 (16, 1, 0) ***Lich***
 Message:
-Certains types de terrain ont une influence sur le déroulement des combats. Par exemple, les bonus de moral et de chance ne s'appliquent pas sur un terrain maudit.		Devant vous, vous apercevez plusieurs liches : d'après vos éclaireurs, elles gardent le deuxième obélisque. Éliminez-les pour vous frayer un chemin.
+Certains types de terrain ont une influence sur le déroulement des combats. Par exemple, les bonus de moral et de chance ne s'appliquent pas sur un terrain maudit.		Devant vous, vous apercevez plusieurs Liches : d'après vos éclaireurs, elles gardent le deuxième obélisque. Éliminez-les pour vous frayer un chemin.
 
 (28, 10, 0) ***Event***
 Message:
@@ -89,7 +89,7 @@ Message:
 
 (24, 17, 1) ***Greater Gnoll's Flail***
 Message:
-Bien, bien ! En vous approchant, vous remarquez plusieurs gnolls qui montent la garde devant un objet qui présente un intérêt non négligeable. Souhaitez-vous les affronter ? (Indice : ne vous inquiétez pas ! Ce ne sera pas difficile !)
+Bien, bien ! En vous approchant, vous remarquez plusieurs Gnolls qui montent la garde devant un objet qui présente un intérêt non négligeable. Souhaitez-vous les affronter ? (Indice : ne vous inquiétez pas ! Ce ne sera pas difficile !)
 
 (23, 19, 1) ***Sign***
 Message:
@@ -98,11 +98,11 @@ Les panneaux peuvent également contenir des informations utiles. Plus loin, vous
 ===== Extended Events =====
 ***Event Texts***
 Proposal Message:
-Les gardes ne vous laisseront pas passer tant que vous ne leur aurez pas apporté plusieurs Griffons. Ils vous conseillent de construire une Tour aux Griffons dans la ville la plus proche afin de pouvoir en recruter.
+Les gardes ne vous laisseront pas passer tant que vous ne leur aurez pas apporté plusieurs Griffons. Ils vous conseillent de construire une Tour des Griffons dans la ville la plus proche afin de pouvoir en recruter.
 Progress Message:
-Les gardes ne céderont pas. Ils vous conseillent de construire une Tour aux Griffons dans la ville afin que vous puissiez recruter les créatures qu'ils exigent.
+Les gardes ne céderont pas. Ils vous conseillent de construire une Tour des Griffons dans la ville afin que vous puissiez recruter les créatures qu'ils exigent.
 Completion Message:
-"Ces griffons nous seront d'une grande utilité ! Vous pouvez poursuivre votre chemin."
+"Ces Griffons nous seront d'une grande utilité ! Vous pouvez poursuivre votre chemin."
 Hint:
 Apportez 8 Griffons
 Message:
