@@ -1,198 +1,198 @@
 ===== Map name =====
-Help!
+Au secours !
 
 ===== Map description =====
-You're searching far-off lands for the Grail when your steward sends you an urgent letter. The treasury is empty, your neighbors are at war, and there are monsters everywhere! You need to get back and set things right.
+Vous parcourez des contrées lointaines à la recherche du Graal lorsque votre intendant vous envoie une lettre urgente. Les coffres sont vides, vos voisins sont en guerre et les monstres pullulent partout ! Vous devez rentrer au plus vite pour remettre les choses en ordre.
 
 ===== Rumors =====
 
 Name:
 sandro
 Text:
-Sandro the Necromancer has mastered the art of masquerade. Quite a few heroes have been in his employ without ever realizing it.
+Sandro le Nécromancien maîtrise l'art du déguisement. De nombreux héros ont été à son service sans s'en rendre compte.
 
 Name:
 jamison
 Text:
-Jamison the Seer is an authority in all matters of treasure hunting. Over the years he aided many heroes in their search for the Grail.
+Jamison le Voyant fait autorité en matière de chasse au trésor. Au fil des années, il a aidé de nombreux héros dans leur quête du Graal.
 
 Name:
 hare
 Text:
-If you see a golden hare, leave it be! It brings luck.
+Si vous apercevez un lièvre doré, ne le dérangez pas ! Il porte chance.
 
 Name:
 owl
 Text:
-The owls are not what they seem.
+Les chouettes ne sont pas ce qu'elles semblent être.
 
 Name:
 tomb
 Text:
-Long ago this land was watched over by four Elemental warriors. If you happen upon their tombs, make sure to pay your respects.
+Il y a bien longtemps, cette terre était protégée par quatre guerriers Élémentaires. Si vous tombez par hasard sur leurs tombes, n'oubliez pas de leur rendre hommage.
 
 Name:
 island
 Text:
-In the north-east sea, a volcano birthed a new island. Wild Devils dwell there now.
+Dans la mer du Nord-Est, un volcan a donné naissance à une nouvelle île. Des Démons sauvages y vivent désormais.
 
 Name:
 vampire
 Text:
-Vampires hate sunlight. Keep that mind if you're looking for their hiding spots.
+Les vampires détestent la lumière du soleil. Gardez cela à l'esprit si vous cherchez leurs cachettes.
 
 ===== Timed events =====
 
 Name:
 intro
 Message:
-All your life you'd dreamt of being the one to find the Grail, but a lord's duties left little time for dreams. Then one night a stranger in a dark alley told you that the Grail was buried in a secluded forest a month's ride away. 		He must'd weaved some spellwork into his words, because you left that same night. Your trusty old steward was to manage things in your absence.
+Toute votre vie, vous aviez rêvé d’être celui qui trouverait le Graal, mais les devoirs d’un seigneur ne vous laissaient guère de temps pour rêver. Puis, une nuit, un inconnu dans une ruelle sombre vous a dit que le Graal était enterré dans une forêt isolée, à un mois de cheval de là. 		Il avait sans doute mêlé un sortilège à ses paroles, car vous êtes parti cette même nuit. Votre fidèle et vieux intendant devait s’occuper de tout en votre absence.
 
 Name:
 intro - cont.
 Message:
-As you return to your land in deep trouble you feel as if a curse struck the moment you left. Your steward, half-buried in frantic missives and letters entailing cries for help, is glad to have you back.		Curiously, you learn that not only did your rival lords vanish on the same night as you did; their territories are no better off than yours right now.
+En regagnant vos terres, plongées dans une situation désastreuse, vous avez l’impression qu’une malédiction s’est abattue dès votre départ. Votre intendant, submergé par un déluge de missives et de lettres désespérées appelant à l’aide, est heureux de vous revoir.		Curieusement, vous apprenez que non seulement vos rivaux ont disparu la même nuit que vous, mais que leurs territoires ne sont pas en meilleur état que le vôtre à l’heure actuelle.
 
 Name:
 intro - fin.
 Message:
-What if it's actually a curse? You never saw the stranger's face... Could the four of you have fallen for one man's nefarious scheme? If so, why did he lure you away and impose misfortune upon your lands?		Maybe in time you'll find answers to these questions. Until then you have your work cut out for you. Restoring the flow of resources should be your top priority.
+Et si c'était en réalité une malédiction ? Vous n'avez jamais vu le visage de cet inconnu… Se pourrait-il que vous ayez tous les quatre été victimes du plan diabolique d'un seul homme ? Si tel est le cas, pourquoi vous a-t-il attirés loin de chez vous et a-t-il fait s'abattre le malheur sur vos terres ?		Peut-être trouverez-vous, avec le temps, des réponses à ces questions. D'ici là, vous avez du pain sur la planche. Rétablir l'approvisionnement en ressources devrait être votre priorité absolue.
 
 Name:
 letter
 Message:
-Nestled between angry letters and dire tax reports you spot a clear-white envelope adorned with the sigil of a golden hare. It's a letter from the seer Jamison, who lives near the lands of the Necromancers.		Hastily written, it says that he will visit soon with important news. Until then he advises you to beware of a man named Sandro and seek out the Obelisks strewn across your lands.
+Au milieu des lettres de réclamation et des rapports fiscaux alarmants, vous apercevez une enveloppe d'un blanc immaculé ornée du blason d'un lièvre doré. Il s'agit d'une lettre du devin Jamison, qui vit près des terres des Nécromanciens.		Rédigée à la hâte, elle indique qu'il viendra bientôt vous rendre visite avec des nouvelles importantes. D'ici là, il vous conseille de vous méfier d'un homme nommé Sandro et de partir à la recherche des obélisques disséminés à travers vos terres.
 
 Name:
 visit
 Message:
-The seer Jamison arrives with a heap of answers. That Necromancer Sandro is behind it all. He lured you away and sowed chaos as a distraction so he could freely scour the lands.		What for? As it turns out, the Grail was buried here all along! Solving the riddle of the Obelisks will reveal its precise spot. Maybe your old dream will come true after all.
+Le devin Jamison arrive avec une foule de réponses. C'est ce Nécromancien, Sandro, qui est derrière tout ça. Il vous a attiré loin d'ici et a semé le chaos pour faire diversion, afin de pouvoir écumer librement les terres.		 Dans quel but ? Il s'avère que le Graal était enterré ici depuis le début ! Résoudre l'énigme des obélisques vous révélera son emplacement exact. Peut-être que votre vieux rêve finira par se réaliser, après tout.
 
 Name:
 visit - cont.
 Message:
-As he turns to leave the seer Jamison tells you that fairness compels him to inform your rivals too. That makes it a five-way race for the Grail, including Sandro who the seer suspects is still out there, searching.		You welcome the challenge. And who knows? Maybe somewhere along the road you may even run into Sandro and have your chance to get back at him.
+Alors qu'il s'apprête à partir, le devin Jamison vous dit que l'équité l'oblige à en informer également vos rivaux. La course au Graal se joue donc désormais à cinq, y compris Sandro, dont le devin soupçonne qu'il est toujours en liberté, à la recherche du Graal.		Vous relevez le défi avec plaisir. Et qui sait ? Peut-être croiserez-vous même Sandro en chemin et aurez-vous ainsi l'occasion de vous venger de lui.
 
 ===== Heroes =====
 
 Name:
 Young Haart
 Biography:
-In the wake of Lord Haart's betrayal his younger brother has made the voyage from Enroth to restore the family name. The two's striking resemblance, however, has only sparked rumors of old Haart's return from the dead.
+À la suite de la trahison de Lord Haart, son frère cadet a fait le voyage depuis Enroth pour redorer le blason de la famille. La ressemblance frappante entre les deux hommes n'a toutefois fait qu'alimenter les rumeurs selon lesquelles le vieux Haart serait revenu d'entre les morts.
 
 Name:
 George
 Biography:
-Restoring Temple Stone in Freehaven turned George from a savvy stonecutter into a man of quiet, but rock-solid faith. He came to Erathia to rebuild what the Devils had destroyed, and likewise to rekindle the faith in others.
+La restauration de la Pierre du Temple à Freehaven a transformé George, autrefois un tailleur de pierre chevronné, en un homme doté d’une foi discrète mais inébranlable. Il est venu en Erathia pour reconstruire ce que les Diables avaient détruit, mais aussi pour raviver la foi chez les autres.
 
 Biography:
-Before she was granted command, Caitlin was considered by some to be possessed by evil spirits. Despite these claims, donations to her church were unsurpassed when she was still in the church's ranks.
+Avant qu'on ne lui confie le commandement, certains considéraient Caitlin comme possédée par des esprits maléfiques. Malgré ces allégations, les dons versés à son église atteignaient des sommets lorsqu'elle faisait encore partie de ses rangs.
 
 Biography:
-Ryland was the first (and to date, the only) human ever fully accepted by the Circle of Elder Dendroids as a Ranger of AvLee. Some joke that he was once an Elf, but that he was killed and accidentally reincarnated into a human's body.
+Ryland fut le premier (et, à ce jour, le seul) humain à avoir été pleinement accepté par le Cercle des Sylvaniens Anciens en tant que Ranger d'AvLee. Certains plaisantent en disant qu'il était autrefois un Elfe, mais qu'il a été tué et s'est réincarné par accident dans un corps humain.
 
 Biography:
-Gem was one of the greatest sorceresses that Enroth had ever seen, serving King Roland Ironfist during the Succession Wars. Shortly after Roland had secured the throne of Enroth, Gem left for Erathia, finding a new home in AvLee.
+Gem comptait parmi les plus grandes sorcières qu'Enroth ait jamais connues ; elle avait servi le roi Roland Ironfist pendant les Guerres de Succession. Peu après que Roland eut consolidé son emprise sur le trône d'Enroth, Gem partit pour Erathia, où elle trouva un nouveau foyer à AvLee.
 
 Name:
 Ilmo
 Biography:
-Ilmo had always longed for the far horizon. When his native AvLee's infighting and power plays hit a boiling point, he had one more reason to follow his heart's desire and chose to finally act on it.
+Ilmo avait toujours rêvé de l'horizon lointain. Lorsque les luttes internes et les jeux de pouvoir dans son AvLee natal ont atteint leur paroxysme, il a trouvé une raison supplémentaire de suivre les élans de son coeur et a décidé de passer enfin à l'action.
 
 Biography:
-In theory any hard material can be golemized. As legend tells it, the first Golems were even made of clay. Josephine, however, prefers praxis over theory and facts over legend, sticking to cold, hard iron in spite of her colleagues' experiments.
+En théorie, n'importe quel matériau dur peut être transformé en Golem. Selon la légende, les premiers Golems auraient même été façonnés à partir d'argile. Joséphine, cependant, privilégie la pratique à la théorie et les faits à la légende, s'en tenant au fer froid et dur malgré les expériences menées par ses collègues.
 
 Name:
 Ringo
 Biography:
-Ringo was a circus ringmaster in eastern Erathia before the Devils invaded. His affinity for whips and chains makes him well-liked among the equally cruel Pit Fiends.
+Avant l'invasion des Diables, Ringo était maître de piste dans un cirque de l'est d'Erathia. Son penchant pour les fouets et les chaînes lui vaut d'être très apprécié des Servant des Abîmes, tout aussi cruels que lui.
 
 Name:
 Redda
 Biography:
-After the war, Redda set out for new shores. Her talent for sniffing out Sulfur deposits made her well-liked in Nighon, but an envious warlock eventually saw to her betrayal and downfall.
+Après la guerre, Redda partit vers de nouveaux horizons. Son don pour dénicher les gisements de soufre lui valut d'être très appréciée à Nighon, mais un sorcier envieux finit par provoquer sa trahison et sa chute.
 
 Biography:
-Even though he has been a Zombie for years, Straker refuses to fully accept his new nature, insisting on being human still. Those closest to him know this to be a matter of simple vanity: he has always been obsessed with his looks.
+Même s'il est un zombie depuis des années, Straker refuse d'accepter pleinement sa nouvelle nature et s'obstine à se considérer toujours comme un humain. Ses proches savent bien qu'il s'agit là d'une simple question de vanité : il a toujours été obsédé par son apparence.
 
 Biography:
-Nearly four centuries ago, Vokial ruled his own kingdom, but as time passed he grew increasingly bored with day-to-day responsibilities. He eventually gave up everything to return to the life of adventuring he much preferred. He is an elder even among other Vampires.
+Il y a près de quatre siècles, Vokial régnait sur son propre royaume, mais au fil du temps, les responsabilités quotidiennes lui pesaient de plus en plus. Il finit par tout abandonner pour retrouver la vie d'aventurier qu'il préférait de loin. C'est un ancien, même parmi les autres Vampires.
 
 Biography:
-Moandor's charismatic style somehow stayed with him after he was transformed into a Lich. Strangely enough, this provides him with the ability to lead and recruit new Liches more effectively than any other hero.
+Le charisme de Moandor lui est resté, d'une manière ou d'une autre, même après sa transformation en Liche. Curieusement, cela lui confère la capacité de diriger et de recruter de nouvelles liches plus efficacement que n'importe quel autre héros.
 
 Biography:
-All his life and beyond Sandro has dreamt to rule the world. Chasing this dream, he set his eyes on the Grail, hoping that its untold powers will finally prove his supremacy.
+Toute sa vie, et même au-delà, Sandro a rêvé de régner sur le monde. Poursuivant ce rêve, il a jeté son dévolu sur le Graal, espérant que ses pouvoirs insondables lui permettraient enfin d'affirmer sa suprématie.
 
 Biography:
-Thant joined Sandro's hunt for the Grail in hopes of using its powers to restore the Nightshade Brazier. However, their alliance quickly fell apart, leaving Thant to languish in prison.
+Thant s'est joint à Sandro dans sa quête du Graal, dans l'espoir d'utiliser ses pouvoirs pour restaurer le brasier de la nuit. Cependant, leur alliance s'est rapidement effondrée, laissant Thant croupir en prison.
 
 Biography:
-It is strange to see a troglodyte Overlord, and stranger still to see a troglodyte Warlock, yet Jaegar has proven to be a skilled mage. He claims that daily meditation is the secret to his success.
+Il est étrange de voir un Seigneur Troglodyte, et encore plus étrange de voir un Sorcier Troglodyte, mais Jaegar s'est révélé être un mage talentueux. Il affirme que la méditation quotidienne est le secret de sa réussite.
 
 Biography:
-Studies into the Ancients helped Geon greatly refine his telepathic skill. Eyeless yet all-seeing, he is given a wide berth by other Warlocks for fear of having their secrets revealed.
+Ses études sur les Anciens ont permis à Geon d'affiner considérablement ses capacités télépathiques. Bien qu'aveugle, il voit tout, et les autres Sorciers se tiennent à l'écart de lui, craignant que leurs secrets ne soient dévoilés.
 
 Biography:
-Deemer nearly had to be killed as a young adult, as his magical abilities were so out of control that he was a threat to himself and those around him. He has since learned to control his powers, and is more than a formidable foe in combat.
+Deemer a failli être tué à l'âge adulte, car ses pouvoirs magiques étaient tellement incontrôlables qu'il représentait un danger pour lui-même et pour son entourage. Depuis, il a appris à maîtriser ses pouvoirs et est devenu un adversaire redoutable au combat.
 
 Biography:
-Sephinroth claims to be the illegitimate child of King Gryphonheart. His refusal to acknowledge her has served to fuel her hatred against the Throne of Erathia, which she one day hopes to claim for herself. Having joined the ranks of the Warlocks, she is the only known woman ever to bear that title.
+Sephinroth prétend être la fille illégitime du roi Gryphonheart. Le refus de ce dernier de la reconnaître n'a fait qu'attiser sa haine envers le trône d'Erathia, qu'elle espère un jour revendiquer pour elle-même. Ayant rejoint les rangs des Sorciers, elle est la seule femme connue à avoir jamais porté ce titre.
 
 Biography:
-Long ago Terek fell victim to one of Sandro's plots, which led to his capture and eventual ransom. Yet to live down the shame, he is all too eager to acquaint Sandro with prison life or, better yet, his blade.
+Il y a bien longtemps, Terek a été victime d'un des complots de Sandro, ce qui a conduit à sa capture et, finalement, au paiement d'une rançon. N'ayant toujours pas réussi à effacer cette honte, il n'attend qu'une chose : faire découvrir à Sandro la vie en prison ou, mieux encore, sa lame.
 
 Biography:
-King Tralossk never really liked Alkin, but gave him his own command in the hopes that he would one day get himself killed. That never happened, and Alkin has led a long and glorious career, much to the displeasure of the King.
+Le roi Tralossk n'a jamais vraiment apprécié Alkin, mais il lui a confié le commandement de ses propres troupes dans l'espoir qu'il se fasse un jour tuer. Cela ne s'est jamais produit, et Alkin a mené une longue et glorieuse carrière, au grand dam du roi.
 
 Name:
 Tyrzic
 Biography:
-Years of travel gave Tyrzic a firm grasp on how to make it in the outer wilds. He has since become a guiding star for Tatalian exilants, helping them settle in places Kilgor can't reach.
+Ses années de voyage ont permis à Tyrzic d'acquérir une solide maîtrise des techniques de survie dans les contrées sauvages reculées. Il est depuis devenu un guide de référence pour les exilés Tataliens, qu'il aide à s'installer dans des endroits inaccessibles à Kilgor.
 
 Name:
 Voleia
 Biography:
-After the fall of Kreelah most of the Confluxes vanished, and so did their generals. Whether Voleia stayed behind as a safeguard or because she has grown fond of this world is for her to say.
+Après la chute de Kreelah, la plupart des Conflux ont disparu, tout comme leurs généraux. Quant à savoir si Voleia est restée sur place pour assurer la sécurité ou parce qu’elle s’est attachée à ce monde, c’est à elle de le dire.
 
 Name:
 Creber
 Biography:
-Among his fellow Elementalists, Creber is the subject of a heated debate over nature versus nurture. He has served the Conflux faithfully, however.
+Au sein de la communauté des Élémentalistes, Creber fait l'objet d'un débat animé sur la question de l'inné et de l'acquis. Il a toutefois servi fidèlement le Conflux.
 
 Name:
 Paul
 Biography:
-Paul spent several years in a troupe of bards before he traded his fiddle for a blade. He now captains the Zephyr, named after a star-nymph whose realm he once toured. His worldly outlook makes him a fine sailor.
+Paul a passé plusieurs années au sein d'une troupe de bardes avant de troquer son violon contre une épée. Il est aujourd'hui capitaine du Zephyr, qui tire son nom d'une nymphe stellaire dont il a autrefois sillonné le royaume. Sa vision du monde fait de lui un excellent marin.
 
 Name:
 Droom
 Biography:
-Droom was a raider off the coast of Krewlod until Kilgor came to power. When the Barbarian King's new armada sunk his ship, Droom duly went down with it and was presumed dead - until now.
+Droom était un corsaire au large des côtes de Krewlod jusqu'à l'arrivée au pouvoir de Kilgor. Lorsque la nouvelle armada du roi Barbare a coulé son navire, Droom a péri avec lui et a été présumé mort... jusqu'à aujourd'hui.
 
 Biography:
-Zilare was a library keeper in Erathia, having dedicated his life to browsing through old archives. However, he couldn't always keep things together in his head. Fired over the supposed theft of a rare book, he became a cook on a pirate ship. Later life led Zilare to developing arcane powers. He learned to control the memory of allies and enemies alike.
+Zilare était gardien de bibliothèque en Erathia et avait consacré sa vie à fouiller dans de vieilles archives. Cependant, il n'arrivait pas toujours à garder ses idées claires. Licencié pour le vol présumé d'un livre rare, il devint cuisinier sur un bateau pirate. Plus tard, Zilare développa des pouvoirs occultes. Il apprit à contrôler la mémoire de ses alliés comme de ses ennemis.
 
 Name:
 John
 Biography:
-Few in Silver Cove knew of John's dark past until a trio of sinister cyborgs came to enlist him in their master's cause, threatening to otherwise burn down the town. Three shots rang out, and John rode off, never to return.
+Peu de gens à Silver Cove connaissaient le sombre passé de John jusqu'à ce qu'un trio de Cyborgs sinistres vienne le recruter pour la cause de leur maître, menaçant sinon de réduire la ville en cendres. Trois coups de feu retentirent, puis John s'éloigna à cheval pour ne plus jamais revenir.
 
 Name:
 Loyt
 Biography:
-From Loyt's brilliant mind sprung the blueprints for the Lightning Rod, a miracle weapon that can strike from any distance. In search for a fusion core strong enough to power it, she set her eyes on the Grail.
+C'est de l'esprit brillant de Loyt que sont nés les plans du Paratonnerre, une arme miraculeuse capable de frapper à n'importe quelle distance. À la recherche d'un cœur de fusion suffisamment puissant pour l'alimenter, elle a jeté son dévolu sur le Graal.
 
 Name:
 Madma
 Biography:
-Madma's inner fire led her tribe through many dark nights of the soul. Over time, however, it grew into a flamestorm. Branded a war hawk and firebrand by the other tribes, she was forced on a mainland sabbatical.
+La flamme intérieure de Madma a guidé sa tribu à travers de nombreuses nuits sombres de l'âme. Au fil du temps, cependant, cette flamme s'est transformée en une véritable tempête de feu. Qualifiée de belliciste et d'agitatrice par les autres tribus, elle a été contrainte de s'exiler sur le continent.
 
 ===== Objects =====
 
 (12, 17, 0) ***Sign***
 Message:
-: Escanor Forest :		North -> Ore Mine	South -> Shipyard
+: Forêt d'Escanor :		Nord -> Mine de minerai	Sud -> Chantier naval
 
 (5, 12, 0) ***Castle***
 Name:
@@ -200,7 +200,7 @@ D'Artus
 
 (42, 40, 0) ***Sign***
 Message:
-: Southern Compass :		North -> Magic Lantern	South -> Observatory
+: Boussole du Sud :		Nord -> Lanterne magique	Sud -> Observatoire
 
 (37, 75, 0) ***Tower***
 Name:
@@ -248,21 +248,21 @@ Message:
 
 (1, 41, 0) ***Seer's Hut***
 Message:
-While tending to a sickly golden canary, the Seer tells you that the bird’s soul is linked to the foundation stone of a university the Seer helped build. As such, the canary’s illness may spell a bad omen for the university.
-The Seer’s old university lies on a forlorn isle in the far south-west. As the canary is still unwell, there may be trouble brewing there.
-Once told of the university’s siege and liberation, the Seer gifts you one of the golden canary’s feathers. It’s bright as flames and likely worth a fortune.
+Alors qu’il s’occupe d’un canari doré maladif, le Voyant vous confie que l’âme de l’oiseau est liée à la première pierre d’une université qu’il a contribué à fonder. La maladie du canari pourrait donc être de mauvais augure pour l’université.
+L'ancienne université du Voyant se trouve sur une île isolée, tout au sud-ouest. Comme le canari est toujours malade, des ennuis pourraient bien se profiler là-bas.
+Une fois que vous lui avez raconté le siège et la libération de l'université, le Voyant vous offre une des plumes du canari doré. Elle brille comme une flamme et vaut sans doute une fortune.
 
 (89, 5, 0) ***Sign***
 Message:
-: Vagrant's Crossing :		West -> Shipyard	East -> Troll Bridge
+: Le Passage des Vagabonds :		Ouest -> Chantier naval	Est -> Pont des Trolls
 
 (82, 33, 0) ***Sign***
 Message:
-: Isoldan Weald :		North -> Windmill	South -> Unicorn Glade
+: Isoldan Weald :		Nord -> Moulin à vent	Sud -> Clairière des Licornes
 
 (83, 72, 0) ***Sign***
 Message:
-: Cape Calx :		West -> Arena	East -> Ivory Tower
+: Cape Calx :		Ouest -> Arène	Est -> Tour d'Ivoire
 
 (99, 97, 0) ***Factory***
 Name:
@@ -270,207 +270,207 @@ Tyech-hain
 
 (66, 15, 0) ***Seer's Hut***
 Message:
-The Seer tells you that the future is written in the stars and thus wishes to study comets and meteors, believing them intrepid rogues of fate. In order to do so, however, the Seer requires a Speculum.
-There’s a big difference between simple stargazing and the deep study of stars. For the latter, the Seer is in need of a Speculum.
-Before leaving for the mountains with the Speculum, the Seer can teach you the secrets of the stars, most of all how to invoke their wrath.
+Le Voyant vous dit que l’avenir est écrit dans les étoiles et souhaite donc étudier les comètes et les météores, qu’il considère comme d’intrépides rebelles du destin. Pour ce faire, cependant, le Voyant a besoin d’une Lunette.
+Il y a une grande différence entre la simple observation des étoiles et leur étude approfondie. Pour cette dernière, le Voyant a besoin d’une Lunette.
+Avant de partir pour les montagnes avec la Lunette, le Voyant peut vous enseigner les secrets des étoiles, et surtout comment invoquer leur colère.
 
 (44, 75, 0) ***Sign***
 Message:
-: Far Horizon :		West -> Cloud Temple	East -> Treetop Tower
+: Horizon lointain :		Ouest -> Temple des Nuages	Est -> Tour des Cimes
 
 (96, 89, 0) ***Sign***
 Message:
-: Gold Star Mountains :		North -> Shipyard	South -> Gem Pond
+: Montagnes de l'Étoile d'Or :		Nord -> Shipyard	Sud -> Gisement de Gemmes
 
 (35, 103, 0) ***Sign***
 Message:
-: New Solitune :		West -> Shipyard	East -> School of Magic
+: New Solitune :		Ouest -> Chantier naval	Est -> École de magie
 
 (74, 32, 0) ***Seer's Hut***
 Message:
-Foretelling an age of no gods and masters but nature, the Seer wishes to confer with the forest spirits of the deep woods, but requires a squad of the Forest Guard to ensure a safe voyage.
-The Seer tells you that an outpost of the Forest Guard lies on a secluded islet in the central sea. A squad of their soldiers can be recruited at a week’s notice.
-Not only the Seer, but also the four Forest Guards are grateful for your aid. Once relieved of duty, they will leave to you a quill of their finest arrows.
+Prédisant une ère où il n’y aura ni dieux ni maîtres, mais seulement la nature, le Voyant souhaite s’entretenir avec les esprits des bois profonds, mais a besoin d’une escouade de la Garde forestière pour garantir la sécurité de son voyage.
+Le Voyant vous indique qu’un avant-poste de la Garde forestière se trouve sur un îlot isolé de la mer centrale. Une escouade de leurs soldats peut être recrutée dans un délai d’une semaine.
+Non seulement le Voyant, mais aussi les quatre Gardes forestiers vous sont reconnaissants de votre aide. Une fois leur mission accomplie, ils vous laisseront une plume de leurs meilleures flèches.
 
 (24, 13, 0) ***Event***
 Message:
-Whispers in the wind speak of a secret shrine to Cloud Nedlon, patron saint of voyagers, hidden somewhere in these wind-swept hills. After some time, you wonder if the wind itself embodies the shrine – no matter which way you turn, it’s always in your back, gently pushing you forward.
+Des murmures portés par le vent évoquent un sanctuaire secret dédié à Cloud Nedlon, saint patron des voyageurs, caché quelque part dans ces collines balayées par le vent. Au bout d’un certain temps, vous vous demandez si le vent lui-même n’incarne pas ce sanctuaire : quelle que soit la direction dans laquelle vous vous tournez, il souffle toujours dans votre dos, vous poussant doucement vers l’avant.
 
 (35, 70, 0) ***Event***
 Message:
-Worn down by heavy snowfall, your troops strike up an old marching song about a princess who became a dragon to scare off her suitors, only for one brave fool to pursue her anyway. While predictably ending on a grisly note, the song rekindles your army’s will to push on.
+Épuisées par les fortes chutes de neige, vos troupes entonnent un vieux chant de marche qui raconte l’histoire d’une princesse qui s’est transformée en Dragon pour faire fuir ses prétendants, mais qu’un brave fou a tout de même poursuivie. Bien que l’histoire se termine, comme on pouvait s’y attendre, sur une note macabre, cette chanson ravive la volonté de votre armée d’aller de l’avant.
 
 (54, 92, 0) ***Event***
 Message:
-Inspired by an old folktale of Lord Tell the Sharp, your soldiers have taken to trying to shoot apples off each other’s heads. The challenge grows popular, as do visits to the healer’s tent. You’re about to chastise those involved when a scholar in your employ draws from old books a far better solution.
+Inspirés par un vieux conte populaire mettant en scène le Seigneur Tell le Rusé, vos soldats se sont mis à essayer de tirer sur des pommes posées sur la tête de leurs camarades. Ce défi connaît un succès grandissant, tout comme les visites à la tente du Guérisseur. Vous vous apprêtez à réprimander les participants lorsqu'un érudit à votre service trouve, dans de vieux livres, une bien meilleure solution.
 
 (95, 29, 0) ***Event***
 Message:
-Legend says that all forest birds used to sing one and the same song before creating their varied melodies. A travelling piper who claims to have learned this ancient ur-song accompanies you for a while, and whether or not the story is true, his music makes your trek light as feathers.
+La légende raconte que tous les oiseaux de la forêt chantaient autrefois la même chanson avant de créer leurs mélodies variées. Un flûtiste itinérant, qui prétend avoir appris cet ancien chant originel, vous accompagne pendant un moment, et que cette histoire soit vraie ou non, sa musique rend votre randonnée aussi légère qu'une plume.
 
 (67, 103, 0) ***Event***
 Message:
-By a depleted ore mine you meet a trio of quarrymen who, freshly out of work, built from chisels, pans and mattocks a clever set of pipes, drums and cymbals, and while they barely hit a right note, their ingenuity shines through. Moving on, your soldiers still hum their tunes to themselves.
+Près d'une mine de minerai épuisée, vous rencontrez un trio de carriers qui, tout juste au chômage, ont fabriqué à partir de ciseaux, de batées et de pioches un ingénieux ensemble de tuyaux, de tambours et de cymbales ; et même s'ils parviennent à peine à jouer juste, leur ingéniosité est évidente. En poursuivant votre chemin, vos soldats continuent de fredonner leurs airs entre eux.
 
 (48, 2, 0) ***Event***
 Message:
-There once was a lord who was good-hearted but a weak ruler, so his men overthrew him and destroyed his statues, save for the torsos so as not to punish his good heart within. A wayside shrine holds one such relic doused in thyme smell and candlelight – history must’ve been kinder on him than his kin.
+Il était une fois un seigneur au grand coeur, mais qui se révéla être un souverain impuissant ; ses hommes le renversèrent et détruisirent ses statues, à l’exception des torses, afin de ne pas punir la bonté qui l’habitait. Un sanctuaire au bord de la route abrite l’une de ces reliques, baignée dans un parfum de thym et la lueur des bougies : l’histoire a sans doute été plus clémente avec lui qu’avec ses proches.
 
 (53, 105, 0) ***Event***
 Message:
-It is midday when you come upon a tall sun dial whose shadow mysteriously points to the hour of sunset as if it were transfixed in time. After studying the dial for a while – wherein its shadow never moves – you identify and remove the seal that had stifled it, restoring it to time’s true rhythm.
+Il est midi lorsque vous tombez sur un grand cadran solaire dont l'ombre indique mystérieusement l'heure du coucher du soleil, comme s'il était figé dans le temps. Après avoir observé le cadran pendant un moment, où son ombre ne bouge pas d'un pouce, vous identifiez et retirez le sceau qui l'étouffait, lui redonnant ainsi son véritable rythme.
 
 (16, 36, 0) ***Ocean Bottle***
 Message:
-One day we'll have our revenge, but first we must tend to our wounded. Chiqtli knows of a cavern of wild verdant growth - almost like home, I reckon.
+Un jour, nous prendrons notre revanche, mais nous devons d'abord nous occuper de nos blessés. Chiqtli connaît une caverne où la végétation pousse à l'état sauvage : ça ressemble presque à chez nous, je crois.
 
 (9, 74, 0) ***Ocean Bottle***
 Message:
-Heed my advice, sailor: Beware of the chasm in the heart of the sea. Underwater, treasures abound - but so do its wardens, monsters most foul.
+Écoute mon conseil, marin : méfie-toi du gouffre au coeur de la mer. Sous l'eau, les trésors abondent... mais ses gardiens aussi, des monstres des plus répugnants.
 
 (0, 67, 0) ***Pandora's Box***
 Message:
-Richly adorned, the box displays the sigil of a golden rabbit, encircled by silvery words. They read: "All the world will be your enemy, Prince with a Thousand Enemies, and whenever they catch you, they will kill you. But first they must catch you."
+Richement décorée, la boîte arbore le blason d’un lapin doré, entouré d’une inscription argentée. On peut y lire : "Le monde entier sera votre ennemi, Prince aux mille ennemis, et dès qu’ils vous attraperont, ils vous tueront. Mais pour cela, il faut d’abord qu’ils vous attrapent."
 
 (107, 57, 0) ***Pandora's Box***
 Message:
-Richly adorned, the box displays the sigil of a golden whale, encircled by silvery words. They read: "In this world, sin that pays its way can travel freely and without a passport; whereas Virtue, if a pauper, is stopped at all frontiers."
+Richement décorée, la boîte arbore le blason d'une baleine dorée, entouré d'une inscription argentée. On peut y lire : "Dans ce monde, le péché qui a les moyens de payer peut voyager librement et sans passeport ; tandis que la Vertu, si elle est pauvre, est arrêtée à toutes les frontières."
 
 (47, 56, 0) ***Event***
 Message:
-A sparring tourney is held amongst the many suitors of a nobleman’s daughter. Rather than facing the masked mystery knight who so far stays unbeaten, you approach him in private and compliment the girl on her disguise as well as her skill. Grateful for your silence, she gifts you a bag of her father’s coin.
+Un tournoi d'escrime est organisé entre les nombreux prétendants de la fille d'un noble. Plutôt que d'affronter le chevalier mystérieux masqué qui reste jusqu'à présent invaincu, vous vous approchez de lui en privé et félicitez la jeune fille pour son déguisement ainsi que pour son talent. Reconnaissante de votre discrétion, elle vous offre une bourse remplie des pièces de son père.
 
 (58, 35, 0) ***Event***
 Message:
-In their nightly leisure your soldiers have started to organize makeshift theatre plays based on old fairytales as well as, to your pride, your own exploits and battles. Last night you attended one such play which gave you no small delight, but also a new point of view on your past.
+Pendant leurs moments de loisirs en soirée, vos soldats ont commencé à monter des pièces de théâtre improvisées inspirées d’anciens contes de fées, mais aussi, à votre grande fierté, de vos propres exploits et batailles. Hier soir, vous avez assisté à l’une de ces représentations, qui vous a procuré un immense plaisir, mais vous a également fait découvrir votre passé sous un nouvel angle.
 
 (98, 65, 0) ***Event***
 Message:
-A young and aspiring bard on tour offers your soldiers a showcase of his talents, debuting a song he wrote himself. Unfortunately, he is abysmal, and your dispirited troops crossly chase him off. In his haste he drops his music sheet, which may still be of use – in a roundabout way.
+Un jeune barde en tournée, plein d'ambition, propose à vos soldats de leur faire la démonstration de ses talents en interprétant pour la première fois une chanson qu'il a composée lui-même. Malheureusement, il chante très mal, et vos troupes, découragées, le chassent avec agacement. Dans sa précipitation, il laisse tomber sa partition, qui pourrait toutefois s'avérer utile... de manière détournée.
 
 (25, 104, 0) ***Event***
 Message:
-In the skies you spy a gold-feathered magpie and, recalling their habit of stealing coin, trail its flight to a cliffside nest. Making your way up, you find a hoard fit for a master thief, from which you take the gold but leave the golden eggs – courtesy from one thief to another.
+Dans le ciel, vous apercevez une pie aux plumes dorées et, vous souvenant de son habitude de voler de la monnaie, vous suivez son vol jusqu’à un nid perché à flanc de falaise. En grimpant jusqu’au nid, vous découvrez un trésor digne d’un maître voleur, dont vous prenez l’or mais laissez les oeufs d’or, un geste de courtoisie d’un voleur à un autre.
 
 (20, 93, 0) ***Event***
 Message:
-Pausing to rest under a haggard old oak, you dream of a knight in black armor who without saying a word draws his blade and waits for your opening strike. Your victory is hard-fought, but you feel stronger for it. When you finally strike him down you jolt awake and see that the oak has returned to full bloom.
+En faisant une pause pour vous reposer sous un vieux chêne au feuillage clairsemé, vous rêvez d’un chevalier en armure noire qui, sans dire un mot, dégaine son épée et attend que vous passiez à l’attaque. Votre victoire est durement acquise, mais vous vous sentez plus fort grâce à elle. Lorsque vous finissez par le terrasser, vous vous réveillez en sursaut et constatez que le chêne a retrouvé toute sa verdure.
 
 (22, 55, 0) ***Event***
 Message:
-You’re approached by a Dread Knight who asks you to join his hunt for his killer – a golden scorpion. Together, you track down the tiny, yet deadly fiend and slay it, whereupon the Dread Knight departs for the afterlife, leaving you his blade. While no match for the scorpion’s sting, it still has a formidable bite.
+Un Chevalier de l'Effroi vient vous aborder et vous demande de vous joindre à lui pour traquer son assassin : un scorpion doré. Ensemble, vous traquez cette créature minuscule mais redoutable et vous la tuez. Le Chevalier de l'Effroi part alors pour l'au-delà, vous laissant son épée. Bien qu'elle ne puisse rivaliser avec le dard du scorpion, elle n'en reste pas moins redoutable.
 
 (2, 51, 0) ***Event***
 Message:
-Atop the dunes a desert nomad plays the flute, evoking beautiful harmonies. Around him the sand takes shape – spirals, waves, even faces – as if it were alive and entranced by the music. You’ve heard rumors of these so-called sand charmers and seize the chance to learn their technique.
+Au sommet des dunes, un Nomade du désert joue de la flûte, faisant naître de magnifiques harmonies. Autour de lui, le sable prend forme, spirales, vagues, voire des visages, comme s’il était vivant et envoûté par la musique. Vous avez entendu parler de ces soi-disants charmeurs de sable et saisissez l’occasion d’apprendre leur technique.
 
 (94, 39, 0) ***Ocean Bottle***
 Message:
-We lost Cass and Vera to the Sirens. It pains me, but had we kept west, those Devils would've skewered us all. Where did they come from, I wonder?
+Nous avons perdu Cass et Vera aux mains des Sirènes. Ça me fait mal au coeur, mais si nous avions continué vers l'ouest, ces Démons nous auraient tous transpercés. Je me demande d'où ils venaient ?
 
 (15, 5, 0) ***Event***
 Message:
-After the wide-scale exodus of the Conflux many Pixies began to scour the wilds for traces of their lost masters. You run into one such searching party from the southern Elemental keep of Llacielo, and by pledging to join the search attain their allegiance.
+Après l'exode massif des Conflux, de nombreuses Pixies se sont mises à parcourir les contrées sauvages à la recherche de traces de leurs maîtres disparus. Vous tombez sur l'un de ces groupes de recherche, venu du Donjon Élémentaire de Llacielo, situé au sud, et, en vous engageant à participer aux recherches, vous gagnez leur allégeance.
 
 (99, 88, 0) ***Event***
 Message:
-You encounter several Goblins of the upper wilds hacking away at a large dark boulder. They tell you that tavern buzz about priceless Black Gold drove them south, and while they‘re crushed to learn of their misunderstanding, they surmise that their best chance at finding the real deal lies in joining you.
+Vous tombez sur plusieurs Gobelins des contrées sauvages du nord qui s'acharnent à tailler un gros rocher sombre. Ils vous expliquent que les rumeurs circulant dans les tavernes au sujet d'un "or noir" d'une valeur inestimable les ont poussés à se diriger vers le sud. Bien qu'ils soient anéantis d'apprendre qu'il s'agissait d'un malentendu, ils en déduisent que leur meilleure chance de mettre la main sur le véritable trésor est de se joindre à vous.
 
 (89, 51, 0) ***Event***
 Message:
-You meet a free-spirited Elf maiden who, upon a prophecy that a knight in shining armor would sweep her off her feet, fashioned a set of sturdy greaves so that may never happen. You explain the prophecy’s true meaning to her, whereupon she unburdens herself from the greaves and gives them to you.
+Vous rencontrez une jeune elfe à l'esprit libre qui, suite à une prophétie selon laquelle un chevalier en armure étincelante viendrait la séduire, s'est fabriqué une paire de jambières robustes pour que cela n'arrive jamais. Vous lui expliquez la véritable signification de la prophétie, après quoi elle se débarrasse de ses jambières et vous les offre.
 
 (67, 56, 0) ***Event***
 Message:
-Rather than settling for hardtack and dried jerky, your soldiers go hunting in the woods and jubilantly return with a slain golden boar. While listening to the tale of their adventure, you try a bite of the cooked meat – it’s oddly pungent, as if infused with the beast’s raw fury.
+Plutôt que de se contenter de biscuits de mer et de viande séchée, vos soldats partent chasser dans les bois et reviennent, ravis, avec un sanglier doré fraîchement tué. Tout en écoutant le récit de leur aventure, vous goûtez un morceau de viande cuite : elle a un goût étrangement âcre, comme imprégnée de la fureur brute de la bête.
 
 (42, 31, 0) ***Seer's Hut***
 Message:
-The lake's frogs and water striders have told the Seer that once here also lived Dragon Flies, but overhunting wiped them out. Wishing to restore the lake's fauna in full, the Seer asks for two such creatures.
-Hinting at a treasure found in the lake's depths, the Seer suggests you make haste to gather a pair of Dragon Flies.
-In return for the two Dragon Flies, the Seer offers you a batch of colorful gemstones that were found at the lake's bottom.
+Les grenouilles et les araignées d'eau du lac ont raconté au Voyant qu'autrefois, des Guêpes-Dragons vivaient également ici, mais que la chasse excessive les avait fait disparaître. Souhaitant rétablir pleinement la faune du lac, le Voyant vous demande de lui apporter deux de ces créatures.
+Faisant allusion à un trésor enfoui dans les profondeurs du lac, le Voyant vous suggère de vous dépêcher d'aller chercher un couple de Guêpes-Dragons.
+En échange de ces deux Guêpes-Dragons, le Voyant vous offre un lot de pierres précieuses colorées qui ont été trouvées au fond du lac.
 
 (105, 10, 0) ***Event***
 Message:
-By a stone circle several astrologers have gathered to argue over the infinitesimal flux in the lengths of day and night that occurs through a year. Most deem it trivial, while one firebrand proposes eight days a week rather than seven. You move on none the wiser, though wisened in time’s endless mystery.
+Autour d’un cercle de pierres, plusieurs astrologues se sont rassemblés pour débattre de la variation infime de la durée du jour et de la nuit qui se produit au fil de l’année. La plupart la jugent insignifiante, tandis qu’un agitateur propose de passer à huit jours par semaine au lieu de sept. Vous poursuivez votre chemin sans en savoir davantage, mais plus sages face au mystère infini du temps.
 
 (70, 74, 0) ***Event***
 Message:
-A passing-by carnival acquaints you with a mysterious songstress whose alluring voice evokes wind-swept seas and the crash of the surf, from which you snap out of just as she goes for your purse. Put at sword-point, the Siren drops her act and offers her skillset in return for your mercy.
+Une fête foraine de passage vous fait découvrir une mystérieuse chanteuse dont la voix envoûtante évoque une mer balayée par le vent et le fracas des vagues, une image dont vous sortez brusquement au moment même où elle tente de s'emparer de votre sac à main. Menacée de l'épée, la sirène cesse de jouer la comédie et vous propose ses talents en échange de votre clémence.
 
 (72, 10, 0) ***Event***
 Message:
-When your scouts report a dragon down the trail you scramble to mount a defense, but the foe quickly turns out to be a sheep in wolf's clothing, or rather a harmless scholar whose disguise was only meant to deter bandits. Grateful to you for staying your hand, he shares his spellcraft with you.
+Lorsque vos éclaireurs vous signalent la présence d'un Dragon sur le sentier, vous vous empressez de mettre en place une défense, mais l'ennemi s'avère rapidement être un mouton déguisé en loup, ou plutôt un érudit inoffensif dont le déguisement n'avait pour but que de dissuader les bandits. Reconnaissant que vous ayez retenu votre main, il partage avec vous ses connaissances en magie.
 
 (34, 32, 0) ***Event***
 Message:
-A stir in the tall grass draws you to a gold-spined hedgehog entrapped in a hunter’s snare. Once you’ve lent the odd critter a hand, it claws off one of its spines and drops it at your feet before scuttling off. You pick it up and find it blessed with the hedgehog’s hardy spirit.
+Un remous dans les hautes herbes attire votre attention vers un hérisson aux épines dorées, pris au piège d’un chasseur. Après avoir aidé cette drôle de petite bête, celle-ci arrache l’une de ses épines et la laisse tomber à vos pieds avant de s’enfuir en trottinant. Vous la ramassez et découvrez qu’elle est imprégnée de l’esprit tenace du hérisson.
 
 (55, 21, 0) ***Event***
 Message:
-You run into a postman who, sensing your competitive spirit, challenges you to a footrace. He beats you handily, for which he credits his magic amulet that he pawned off a peddler, who in turn found it in an eagle’s nest. Just like its carriers, it seems destined to travel a lot, so you’re up next.
+Vous croisez un facteur qui, sentant votre esprit de compétition, vous défie à une course à pied. Il vous bat haut la main, ce qu’il attribue à son amulette magique qu’il a achetée à un colporteur, lequel l’avait lui-même trouvée dans un nid d’aigle. Tout comme ceux qui la portent, elle semble destinée à beaucoup voyager ; c’est donc à votre tour.
 
 (103, 44, 0) ***Event***
 Message:
-A local fisherman who supports your cause gifts you a golden hermit crab shell. As all shells do, it evokes the sea waves when you hold it to your ear, but beyond that also emits a mysterious murmur. Written down, it turns out to be a magic formula for a spell of the high seas.
+Un pêcheur du coin, qui soutient votre cause, vous offre une coquille dorée de bernard-l'ermite. Comme toutes les coquilles, elle vous rappelle le bruit des vagues lorsque vous la portez à votre oreille, mais elle émet également un murmure mystérieux. Une fois transcrite, cette phrase s'avère être la formule magique d'un sortilège des hautes mers.
 
 (51, 8, 0) ***Ocean Bottle***
 Message:
-Beloved Dy, I hope this letter finds you one day. We shall soon assail Sandro's harbor, but I fear it'll be our end. Hug the youngins for me, dearest.
+Ma chère Dy, j'espère que cette lettre te parviendra un jour. Nous allons bientôt prendre d'assaut le port de Sandro, mais je crains que cela ne signe notre fin. Embrasse les petits pour moi, très chère.
 
 (43, 89, 0) ***Ocean Bottle***
 Message:
-They keep us locked in the tower - luckily, this gold-hawk found its way in to carry forth our cry for help. Look for us in the desert sunrise.
+Ils nous retiennent enfermés dans la tour. Heureusement, ce faucon doré a réussi à s'y faufiler pour transmettre notre appel à l'aide. Cherchez-nous dans le lever de soleil du désert.
 
 (65, 64, 0) ***Ocean Bottle***
 Message:
-Dream Journal, 5th of Spring: A festive dinner of undead nobility. They raise their glasses to a shield above the hearth. It's blackened, as if burnt.
+Journal des rêves, 5e jour du printemps : un dîner festif réunissant la noblesse des Morts-Vivants. Ils lèvent leurs verres en direction d'un bouclier suspendu au-dessus de l'âtre. Il est noirci, comme s'il avait brûlé.
 
 (14, 106, 0) ***Seer's Hut***
 Message:
-A ghostly shade hovers above the Seer's slain body. You learn that the attackers, long gone, have moved on to the north-west Library of Enlightenment to further extinguish the realm's bright minds.
-Languishing, the Seer's shade implores you to sail to the Library of Enlightenment and drive off its attackers.
-You inform the Seer's shade that the Library of Enlightenment is safe again. Relieved, the shade bestows you with a blessing of wisdom before moving on to the afterlife.
+Une ombre fantomatique plane au-dessus du corps sans vie du Voyant. Vous apprenez que les assaillants, partis depuis longtemps, se sont dirigés vers la Bibliothèque d'Illumination, au nord-ouest, afin d’anéantir davantage les esprits brillants du royaume.
+À l'agonie, l'ombre du Voyant vous supplie de vous rendre à la Bibliothèque d'Illumination pour en chasser ses assaillants.
+Vous informez l'ombre du Voyant que la Bibliothèque d'Illumination est à nouveau en sécurité. Soulagée, l'ombre vous accorde une bénédiction de sagesse avant de rejoindre l'au-delà.
 
 (32, 50, 0) ***Seer's Hut***
 Message:
-Drawing from old past, the Seer speaks of Melusine, a winged serpent who protected her kin with her golden shield. This relic was later lost and corrupted, but there is still hope for its restoration.
-The golden shield of the winged serpent is now corrupted by evil. If you find it, the Seer may try to restore it.
-The Seer admits to being Melusine’s last descendant. A drop of the Seer’s blood can purify the cursed shield and reveal the winged serpent’s sigil below.
+S'inspirant d'un passé lointain, le Voyant évoque Mélusine, un serpent ailé qui protégeait les siens grâce à son bouclier d'or. Cette relique a ensuite été perdue et corrompue, mais l'espoir de la restaurer subsiste.
+Le bouclier d'or du serpent ailé est désormais corrompu par le mal. Si vous le trouvez, le Voyant pourra tenter de le restaurer.
+Le Voyant reconnaît être le dernier descendant de Mélusine. Une goutte de son sang peut purifier le bouclier maudit et révéler le sigil du serpent ailé qui se cache en dessous.
 
 (103, 16, 0) ***Seer's Hut***
 Message:
-Enticing dreams of a golden octopus in an undersea garden drove the Seer to build a submarine. It's nearly done, but an additional thirty Ore are needed to serve as sinking weights.
-Hunched over maps and charts of ocean currents, the Seer asks you to deliver thirty Ore so the undersea voyage can begin.
-As your soldiers tie the thirty Ore to the submarine's hull, you're offered the Seer's pair of enchanted sandals - made for walking, they'll be of little use in the impending voyage.
+Les rêves envoûtants d'une pieuvre dorée dans un jardin sous-marin ont poussé le Voyant à construire un sous-marin. Il est presque terminé, mais il manque encore trente de minerai pour servir de contrepoids.
+Penché sur des cartes et des graphiques représentant les courants océaniques, le Voyant vous demande de lui apporter trente de minerai afin que le voyage sous-marin puisse commencer.
+Tandis que vos soldats attachent les trente morceaux de minerai à la coque du sous-marin, on vous offre la paire de sandales enchantées du Voyant : conçues pour la marche, elles vous seront utiles lors du voyage qui s'annonce.
 
 (27, 93, 0) ***Seer's Hut***
 Message:
-The Seer tells you that this ruin is what's left of a temple of Lady Sylph, the Warden of Tides, but much of it was swept away in a storm. In order to rebuild it the Seer needs twenty Wood, for which you are promised Lady Sylph's teachings.
-You find the Seer in deep prayer to Lady Sylph, the Warden of Tides, and recall the request of twenty Wood to restore the temple proper.
-Equipped with twenty Wood, the Seer plans to depart for the temple's bowels to reinforce its shaken foundation, but before doing so offers you to teach you Lady Sylph's primordial Water Magic.
+Le Voyant vous explique que ces ruines sont ce qui reste d’un temple dédié à Dame Sylph, la Gardienne des Marées, mais qu’une grande partie a été emportée par une tempête. Pour le reconstruire, le Voyant a besoin de vingt unités de bois, en échange desquels il vous promet les enseignements de Dame Sylph.
+Vous trouvez le Voyant en pleine prière adressée à Dame Sylph, la Gardienne des Marées, et vous vous souvenez de sa demande de vingt unités de bois pour restaurer le temple comme il se doit.
+Muni de vingt morceaux de bois, le Voyant prévoit de se rendre dans les entrailles du temple pour consolider ses fondations ébranlées, mais avant cela, il vous propose de vous enseigner la magie de l'eau primordiale de Dame Sylph.
 
 (105, 77, 0) ***Seer's Hut***
 Message:
-Reading the future from shellfish innards, the Seer envisions you gathering thirty Gem stones and bringing them to a nearby coral reef, whereupon you will receive a powerful artifact.
-Since you do not have the thirty Gem stones needed to fulfil the Seer's mysterious vision, you depart after a brief rest.
-As foretold, you bring thirty Gems to the nearby coral reef where a giant golden crab emerges to adorn its shell with them. Also lodged in its shell is a great trident which you can try to pull out once the crab draws closer.
+En déchiffrant l'avenir dans les entrailles de crustacés, le Voyant vous voit rassembler trente gemmes et les apporter à un récif de corail voisin, où vous recevrez alors un puissant artefact.
+Comme vous ne disposez pas des trente gemmes nécessaires pour réaliser la mystérieuse vision du Voyant, vous reprenez la route après un bref repos.
+Comme prédit, vous apportez trente gemmes au récif de corail voisin, où un crabe doré géant émerge pour orner sa carapace de ces pierres. Un grand trident est également enfoncé dans sa carapace ; vous pouvez essayer de l'extraire une fois que le crabe se sera approché.
 
 (45, 7, 0) ***Seer's Hut***
 Message:
-The Seer speaks of mermaids whose charm brought down entire kingdoms, and of their Fangarm brothers who did the same by more practical means. Offering to summon the latter, the Seer cautions that only the strongest of minds can resist their magic.
-At your current state, the summoned Fangarms would overwhelm your senses. The Seer suggests you continue your arcane training and return at a later time.
-Sensing that your mind is strong enough to subdue the Fangarms, the Seer offers to summon twenty such beasts at your command.
+Le Voyant évoque des Sirènes dont le charme a causé la chute de royaumes entiers, ainsi que leurs frères les Fangarms, qui ont accompli la même chose par des moyens plus concrets. Tout en proposant d’invoquer ces derniers, le Voyant vous avertit que seuls les esprits les plus forts peuvent résister à leur magie.
+Dans votre état actuel, les Fangarms invoqués submergeraient vos sens. Le Voyant vous suggère de poursuivre votre formation dans les arts occultes et de revenir plus tard.
+Sentant que votre esprit est suffisamment fort pour dompter les Fangarms, le Voyant vous propose d’invoquer vingt de ces créatures sous vos ordres.
 
 (55, 82, 0) ***Seer's Hut***
 Message:
-The Seer reminisces of a golden dolphin who kept watch over the ocean until slain by greedy whalers. A talisman in the dolphin’s image will be granted to those who share the animal’s protective spirit.
-Bluntly telling you that you’re not fit to protect, the Seer holds onto the golden dolphin’s talisman for now.
-The golden dolphin duly patrolled all four corners of the sea. By bestowing you with the talisman, the Seer hopes that you follow in its example.
+Le Voyant évoque le souvenir d’un dauphin doré qui veillait sur l’océan jusqu’à ce qu’il soit tué par des baleiniers avides. Un talisman à l’effigie de ce dauphin sera offert à ceux qui partagent l’esprit protecteur de cet animal.
+Te disant sans détour que tu n’es pas digne de protéger, le Voyant conserve pour l’instant le talisman du dauphin doré.
+Le dauphin doré patrouillait assidûment aux quatre coins des mers. En vous offrant ce talisman, le Voyant espère que vous suivrez son exemple.
 
 (55, 71, 0) ***Event***
 Message:
-Wrecked ashore lies a bright-yellow dhow which, judging by the many maps, drawings and journals that you find below deck, must have sailed a great share of the Five Seas before its unceremonious end. As its crew is nowhere to be found, you plunder the wreck for its scholarly worth.
+Un boutre d'un jaune éclatant gît échoué sur le rivage. À en juger par les nombreuses cartes, dessins et journaux de bord que vous trouvez sous le pont, il a dû sillonner une grande partie des Cinq Mers avant de connaître une fin peu glorieuse. Son équipage ayant disparu sans laisser de traces, vous pillez l'épave pour en tirer tout ce qu'elle peut vous apporter sur le plan scientifique.
 
 (49, 86, 1) ***Cove***
 Name:
@@ -489,17 +489,17 @@ Message:
 
 (17, 80, 1) ***Sign***
 Message:
-: Last Light :		North -> Sulfur Dunes	South -> Warren
+: Last Light :		Nord -> Dunes de soufre	Sud -> Warren
 
 (56, 85, 1) ***Sign***
 Message:
-: Rum Runner Grotto :		West -> Nymph Waterfall	East -> Tree of Knowledge
+: Grotte du Rhum :		Ouest -> Cascade des Nymphes	Est -> Arbre de la Connaissance
 
 (42, 96, 1) ***Seer's Hut***
 Message:
-The Seer tells you of a golden rattlesnake whose tail, upon its killing, was cut off and runes carved into each segment, thus creating a dark talisman. In the deep abyss, the snake’s kin still mourns for their defiled sister.
-The Seer reaffirms the snakes‘ plea for the rattle of their slain sister, which likely fell into the hands of evil shamans or death cults.
-Beneath the runes and paint, the golden snake’s rattle still holds great power, attracting one of its eldest kin.
+Le Voyant vous parle d’un serpent à sonnettes doré dont la queue, après sa mort, fut coupée et sur laquelle des runes furent gravées dans chaque segment, créant ainsi un talisman maléfique. Dans les profondeurs de l’abîme, la famille du serpent pleure encore sa soeur profanée.
+Le Voyant réitère la supplique des serpents concernant le hochet de leur soeur assassinée, qui est probablement tombé entre les mains de chamans maléfiques ou de cultes de la mort.
+Sous les runes et la peinture, le hochet du serpent doré recèle toujours un grand pouvoir, attirant l’un de ses plus anciens congénères.
 
 (53, 58, 1) ***Fortress***
 Name:
@@ -514,7 +514,7 @@ Message:
 
 (49, 61, 1) ***Sign***
 Message:
-: Scalen Flume :		West -> Arena	East -> Wyvern Nest
+: Canal de Scalen :		Ouest -> Arène	Est -> Nid de wyvernes
 
 (55, 37, 1) ***Necropolis***
 Name:
@@ -539,69 +539,69 @@ Message:
 
 (70, 79, 1) ***Event***
 Message:
-In the damp and dark cavern air fireflies glow all around you like stars at night – one as brilliant as golden Polaris, the North Star. Your soldiers go about catching it, but you tell them off, a kindness the golden bug returns by guiding your trek for a while, lighting the trail ahead.
+Dans l'air humide et sombre de la caverne, les lucioles brillent tout autour de vous comme des étoiles dans la nuit, l'une d'elles est aussi éclatante que l'étoile polaire dorée. Vos soldats s'empressent de l'attraper, mais vous les réprimandez ; cet insecte doré vous rend la pareille en guidant votre marche pendant un moment, éclairant le chemin devant vous.
 
 (90, 74, 1) ***Event***
 Message:
-A winged desert sphinx lands before you, curious what brought you to her domain. What you call Grail, she knows as Ark of the Everserpent, said to hold the bones of the first dragon-pharaoh. Still, she deems your quest a noble one, and by flapping her great wings bestows to you favorable winds.
+Une Sphinx du désert ailée se pose devant vous, curieuse de savoir ce qui vous a conduit dans son royaume. Ce que vous appelez le Graal, elle le connaît sous le nom d’Arche du Serpent Éternel, qui, dit-on, renferme les ossements du premier Pharaon-Dragon. Elle juge néanmoins votre quête noble et, en battant de ses grandes ailes, vous offre des vents favorables.
 
 (6, 8, 1) ***Event***
 Message:
-In the dark you come upon a lost and feeble maiden who, as your healers tend to her, recalls being kidnapped by a Vampire before the fiend was in turn struck by a golden flurry. Whoever it was who saved her, you did your part as well, so she gifts you all her rings and jewelry.
+Dans l'obscurité, vous tombez sur une jeune fille perdue et affaiblie qui, tandis que vos guérisseurs s'occupent d'elle, se souvient avoir été enlevée par un vampire avant que ce monstre ne soit à son tour frappé par une rafale dorée. Quel que soit celui qui l'ait sauvée, vous avez vous aussi apporté votre contribution ; elle vous offre donc toutes ses bagues et tous ses bijoux.
 
 (16, 33, 1) ***Event***
 Message:
-Your scouts tip you off about a golden lion who's been stalking the rearguard for some hours. To turn the tables, you lie in wait and ambush what turns out to be a fiendish mugger masquerading as the imposing beast. You relieve him of his golden fur hide as well as his ill-earned coin.
+Vos éclaireurs vous signalent la présence d'un lion doré qui traque l'arrière-garde depuis plusieurs heures. Pour renverser la situation, vous vous mettez en embuscade et surprenez celui qui s'avère être un voleur diabolique se faisant passer pour cette imposante bête. Vous lui confisquez sa fourrure dorée ainsi que son argent mal acquis.
 
 (41, 23, 1) ***Event***
 Message:
-You meet a travelling She-Demon who appears thoroughly unfazed by the freezing cold, for which she credits her years under Sir Hammer of Silver Cove, a master of Body Magic. Upon your curiosity she gifts you her notes on how to steel one's body against ills – be it weather or warfare.
+Vous rencontrez une démone voyageuse qui semble totalement insensible au froid glacial, ce qu’elle attribue à ses années passées aux côtés de Sire Hammer de Silver Cove, un maître de la magie corporelle. Voyant votre curiosité, elle vous offre ses notes sur la manière d’endurcir son corps contre les maux, qu’il s’agisse des intempéries ou de la guerre.
 
 (33, 91, 1) ***Event***
 Message:
-A frenzied horse races past you, its rider holding on for dear life. Once you’ve helped him rein it in, he blames the magic horseshoe that he spent a fortune on, believing himself swindled. You pry it off the poor mare’s hoof and tell the man he’s half-right – it’s enchanted, just not as he thought.
+Un cheval déchaîné passe à toute allure devant vous, son cavalier s'accrochant de toutes ses forces. Une fois que vous l'avez aidé à le maîtriser, il jette la faute sur le fer à cheval magique pour lequel il a dépensé une fortune, se croyant victime d'une arnaque. Vous l'arrachez du sabot de la pauvre jument et dites à l'homme qu'il a en partie raison : il est bien enchanté, mais pas comme il le pensait.
 
 (28, 45, 1) ***Pandora's Box***
 Message:
-Richly adorned, the box displays the sigil of a golden beetle, encircled by silvery words. They read: "Heaven is for Thee too high to know what passes there; be lowly wise. Think only what concerns Thee and Thy being. Dream not of other worlds."
+Richement décorée, la boîte arbore le blason d’un scarabée doré, entouré d’une inscription argentée. On peut y lire : "Le ciel est trop haut pour que vous sachiez ce qui s’y passe ; soyez humble et sage. Ne pensez qu’à ce qui vous concerne, vous et votre être. Ne rêvez pas d’autres mondes."
 
 (70, 34, 1) ***Pandora's Box***
 Message:
-Richly adorned, the box displays the sigil of a golden wolf, encircled by silvery words. They read: "The Jackal may follow the Tiger, but, Cub, when thy whiskers are grown, remember the Wolf is a Hunter — go forth and get food of thine own."
+Richement décorée, la boîte arbore le blason d’un loup doré, entouré d’une inscription argentée. On peut y lire : "Le chacal peut bien suivre le tigre, mais, petit, quand tes moustaches auront poussé, souvenez-vous que le loup est un chasseur, partez et trouvez votre propre nourriture."
 
 (77, 40, 1) ***Event***
 Message:
-Under the skeletal trees a ghostly figure beckons you towards the remains of an adventurer. The ghost pleads with you to gather his bones and bury them where the sun shines, offering his armor in return. It's dented where the killing blow struck, but otherwise in good condition.
+Sous les arbres décharnés, une silhouette fantomatique vous fait signe de vous approcher des restes d'un aventurier. Le fantôme vous supplie de rassembler ses os et de les enterrer là où brille le soleil, vous offrant son armure en échange. Elle est cabossée à l'endroit où le coup fatal l'a touchée, mais sinon, elle est en bon état.
 
 (33, 39, 1) ***Event***
 Message:
-A quartet of undead bards who wouldn't let death get in the way of their love for performing invites your army to their roadside show. Despite their constitution, they're infectiously lively – even the nearby deadwoods start to sprout new buds as if revived by their rousing vigor.
+Un quatuor de bardes Morts-Vivants, pour qui la mort n'a pas suffi à éteindre leur passion pour la scène, invite votre armée à assister à leur spectacle au bord de la route. Malgré leur condition, ils débordent d'une énergie contagieuse : même les arbres morts des environs se mettent à bourgeonner, comme ravivés par leur vigueur entraînante.
 
 (14, 57, 1) ***Event***
 Message:
-There once was a thief named Silverclaw who, always on the run, scattered his wealth across dozens of hidden caches all over the world. He then put a mind spell on these caches, making them invisible for those who are searching for them – and as it so happens, you weren't just then.
+Il était une fois un voleur nommé Silverclaw qui, toujours en fuite, dispersa sa fortune dans des dizaines de cachettes dissimulées aux quatre coins du monde. Il jeta ensuite un sortilège sur ces cachettes, les rendant invisibles aux yeux de ceux qui les cherchaient, et il se trouve que vous n’en faisiez justement pas partie.
 
 (37, 59, 1) ***Event***
 Message:
-You meet a crew of old spelunkers on a quest for a legendary golden owl. Their hunt has led them to all four corners of the world and shown them many great wonders, if not the one desired. Sympathetic to your own quest, they share their tales with you before moving on.
+Vous rencontrez une équipe de spéléologues chevronnés partis à la recherche d'un hibou d'or légendaire. Leur quête les a menés aux quatre coins du monde et leur a fait découvrir de nombreuses merveilles, même s'ils n'ont pas trouvé celle qu'ils recherchaient. Sensibles à votre propre quête, ils partagent leurs récits avec vous avant de poursuivre leur chemin.
 
 (68, 56, 1) ***Event***
 Message:
-A travelling actor presents to you his brand new play based on a script which he found in a pyramid. You're still trying to get the gist of the plot when the actor suddenly explodes in a fiery blaze. In the ashes you find miraculously unscathed what he mistook for a script and realize his error.
+Un comédien itinérant vous présente sa toute nouvelle pièce, inspirée d'un manuscrit qu'il a trouvé dans une pyramide. Vous essayez encore de saisir l'essentiel de l'intrigue lorsque le comédien explose soudain dans un brasier. Dans les cendres, vous retrouvez, miraculeusement intact, ce qu'il avait pris pour un manuscrit et vous comprenez alors son erreur.
 
 (37, 78, 1) ***Event***
 Message:
-You're alerted to several Troglodytes hungrily rifling through your supply wagon. Ultimately, they turn out to be not bandits but ill-mannered emissaries sent by the western Warlocks to ask for your help in defending their territory. To keep the Troglodytes from raiding yours, your supply master insists they tag along.
+On vous signale que plusieurs Troglodytes sont en train de fouiller avidement votre chariot de ravitaillement. Il s'avère finalement qu'il ne s'agit pas de bandits, mais d'émissaires mal élevés envoyés par les Sorciers de l'Ouest pour solliciter votre aide afin de défendre leur territoire. Afin d'empêcher les Troglodytes de piller le vôtre, votre responsable du ravitaillement insiste pour qu'ils vous accompagnent.
 
 (87, 102, 1) ***Event***
 Message:
-A martial arts tourney is held in honor of Vim, the Rock-Axe. You try your luck at splitting a stone in two with your bare hands but quickly learn that you’re better off sticking to traditional weaponry. The wise old tourney master, however, commends your attempt – after all, failure is the best teacher.
+Un tournoi d'arts martiaux est organisé en l'honneur de Vim, la Hache de pierre. Vous tentez votre chance en essayant de fendre une pierre en deux à mains nues, mais vous vous rendez vite compte qu'il vaut mieux vous en tenir aux armes traditionnelles. Le vieux maître du tournoi, plein de sagesse, salue toutefois votre tentative : après tout, l'échec est le meilleur des enseignements.
 
 (34, 11, 1) ***Quest Guard***
 Message:
-The garrison is manned by a warrior who wants to contain the necromantic curse which Lord Sandro has cast upon his ancestral crypt. Likewise, he is wary to let anyone in, lest they add to the undeads‘ numbers.
-The warrior judges you too inexperienced to face the might of his ancestors.
-Convinced that you can put his risen ancestors to rest, the warrior lets you through. However, he declines to join you, as it’s bad luck to fight one‘s own kin.
+La garnison est tenue par un guerrier qui cherche à contenir la malédiction nécromantique que le seigneur Sandro a jetée sur la crypte de ses ancêtres. De même, il se méfie de laisser quiconque entrer, de peur que cela ne vienne grossir les rangs des Morts-Vivants.
+Le guerrier vous juge trop inexpérimenté pour affronter la puissance de ses ancêtres.
+Convaincu que vous pouvez rendre le repos éternel à ses ancêtres ressuscités, le guerrier vous laisse passer. Il refuse toutefois de se joindre à vous, car il porte malheur de combattre ses propres proches.
 
 (70, 8, 1) ***Bulwark***
 Name:
@@ -616,7 +616,7 @@ Message:
 
 (69, 12, 1) ***Sign***
 Message:
-: Timbre Gulch :		West -> Sawmill	East -> Tree of Knowledge
+: Gouffre du Timbre :		Ouest -> Scierie	East -> Arbre de la Connaissance
 
 (91, 24, 1) ***Inferno***
 Name:
@@ -624,190 +624,190 @@ Zom's Folly
 
 (99, 37, 1) ***Seer's Hut***
 Message:
-The Seer tells you of the magic of numerals, such as the unitary One, jinxed Thirteen, and Seven, the number of sorcery. Those whose journey has met its seventh stage shall receive a boon reflective of this symbolic power.
-The Seer affirms that only those whose journey has met its seventh stage may receive the blessing of the mystic Seven.
-Seven is the number of spellcraft, magicka and mystic secrets. As such, you are granted a lesson in a school of the arcane.
+Le Voyant vous parle de la magie des chiffres, tels que le Un, chiffre unitaire, le Treize, chiffre maudit, et le Sept, chiffre de la sorcellerie. Ceux dont le parcours aura atteint sa septième étape recevront une bénédiction reflétant ce pouvoir symbolique.
+Le Voyant affirme que seuls ceux dont le parcours a atteint sa septième étape peuvent recevoir la bénédiction du Sept mystique.
+Le Sept est le nombre de la magie, de la magicka et des secrets mystiques. À ce titre, il vous est accordé de suivre un cours dans une école des arcanes.
 
 (89, 18, 1) ***Sign***
 Message:
-: Veins of Fire :		West -> Cannon Yard	East -> Alchemist's Lab
+: Veines de feu :		Ouest -> Fonderie	Est -> Laboratoire d'Alchimie
 
 (57, 8, 1) ***Event***
 Message:
-A golden ermine darts past you, chased by a frenzied warrior. You decide to aid not the hunter but the prey which, after catching its breath, transforms into a young waif who admits to having nabbed the warrior’s coin. Since you’re partners in crime now, you get your fair share.
+Une hermine dorée passe en trombe devant vous, poursuivie par un guerrier déchaîné. Vous décidez de venir en aide non pas au chasseur, mais à la proie qui, après avoir repris son souffle, se transforme en une jeune vagabonde qui avoue avoir chipé la pièce du guerrier. Puisque vous êtes désormais complices, vous récupérez votre part du butin.
 
 (102, 15, 1) ***Event***
 Message:
-Cries in the dark draw you to a camp of Kobold miners encircled by fire-breathing salamanders. While prepared for this cavern's heat, they didn't account for its wildlife, and upon their rescue elect to enter your ranks. You learn that they're from the eastern ice tunnels, where Vori exilants live.
+Des cris dans l'obscurité vous mènent jusqu'à un campement de mineurs Kobolds encerclé par des salamandres cracheuses de feu. Bien qu'ils fussent préparés à la chaleur de cette caverne, ils n'avaient pas prévu la présence de cette faune, et, une fois secourus, ils décident de rejoindre vos rangs. Vous apprenez qu'ils viennent des tunnels de glace à l'est, où vivent les exilés de Vori.
 
 (75, 22, 1) ***Event***
 Message:
-You halt by a statue of Temper, Lady of Fire, and ask for a swift and sound passage through her domain. Soon after, you're rattled by closeby earthquakes and volcanic rumblings – Temper's scornful rebuff or, as it drives your troops to make haste, her backhanded way of answering your prayer.
+Vous vous arrêtez devant une statue de Temper, la Dame du Feu, et lui demandez de vous permettre de traverser son domaine rapidement et en toute sécurité. Peu après, vous êtes secoués par des tremblements de terre et des grondements volcaniques tout proches : s’agit-il d’un rejet méprisant de la part de Temper ou, alors que cela pousse vos troupes à se dépêcher, de sa manière détournée de répondre à votre prière ?
 
 (88, 51, 1) ***Event***
 Message:
-A man is thrown to your feet, still clutching the Spyglass he had on him when caught nearby. He denies being a spy and instead speaks of a vision commanding him to find among all grail-seekers the chosen one. Telling him to look no further, you relieve him of his device.
+Un homme est jeté à vos pieds, serrant toujours dans sa main la Longue-Vue qu’il portait sur lui lorsqu’il a été appréhendé non loin de là. Il nie être un espion et parle plutôt d’une vision qui lui aurait ordonné de trouver, parmi tous ceux qui recherchent le Graal, l’élu. Lui disant de ne pas chercher plus loin, vous lui confisquez son instrument.
 
 (16, 92, 1) ***Event***
 Message:
-A troupe of mimes entertains your troops with their play of being helplessly trapped behind invisible walls. Sensing their magical skill, you invite them to a round of ale and eventually charm them into betraying the secret behind their illusion – which, as it turns out, was no illusion at all.
+Une troupe de mimes divertit vos soldats en leur faisant croire qu’ils sont pris au piège, impuissants, derrière des murs invisibles. Percevant leur talent magique, vous les invitez à boire une chope de bière et finissez par les amener à vous révéler le secret de leur illusion, qui, en réalité, n’en était pas une.
 
 (6, 45, 1) ***Event***
 Message:
-A travelling circus dubbed the Magical Mystery Tour shows off various purported relics of the Ancients that turn out to be neither magical nor mysterious but fakes, safe for one – a broken blaster. While it no longer functions, you manage to extract its battery, a crystal of arcane power.
+Un cirque itinérant baptisé "Le Voyage Magique et Mystérieux" expose diverses reliques prétendument issues des Anciens, qui s'avèrent n'être ni magiques ni mystérieuses, mais des faux, à l'exception d'un seul objet : un blaster cassé. Bien qu'il ne fonctionne plus, vous parvenez à en extraire la batterie, un cristal doté d'un pouvoir arcanique.
 
 (67, 101, 1) ***Event***
 Message:
-Out of nowhere colorful tents and stalls materialize before you – it’s the Market of Time, which shows only once in a blue moon. While your soldiers shop for otherworldly baubles and souvenirs, you strike up a deal with a merchant, telling him all that transpired since their last visit in trade for a rare tome of wisdom.
+Tout à coup, des tentes et des étals colorés surgissent devant vous : c’est le Marché du Temps, qui n’apparaît qu’une fois tous les 36 du mois. Pendant que vos soldats font leurs achats de bibelots et de souvenirs d’un autre monde, vous concluez un marché avec un marchand, en lui racontant tout ce qui s’est passé depuis leur dernière visite, en échange d’un rare ouvrage de sagesse.
 
 (95, 100, 1) ***Seer's Hut***
 Message:
-The Seer speaks at length of the line between life and undeath. Gargoyles are neither, but rather within a gray zone dubbed Bloodless. To study their state of being, the Seer asks for two Obsidian Gargoyles.
-Wizards have made an old chateau in the south-western sea their base of research. The Seer advises you to gather Obsidian Gargoyles there, though they may also be found roaming the wilds.
-While not alive, Obsidian Gargoyles are still affected by magic of the mind. A scroll of one such spell is offered to you in trade for the two beasts.
+Le Voyant s'étend longuement sur la frontière entre la vie et la non-mort. Les Gargouilles n'appartiennent ni à l'une ni à l'autre, mais se situent plutôt dans une zone grise appelée "Sans-Sang". Afin d'étudier leur état d'existence, le Voyant demande deux Gargouilles d'Obsidienne.
+Les Sorciers ont fait d’un vieux château situé au sud-ouest de la mer leur base de recherche. Le Voyant vous conseille d’y rassembler des Gargouilles d’Obsidienne, bien qu’on puisse également en trouver errant dans la nature.
+Bien qu’elles ne soient pas vivantes, les Gargouilles d’Obsidienne sont tout de même sensibles à la magie mentale. Un parchemin contenant un sort de ce type vous est offert en échange des deux créatures.
 
 (8, 106, 1) ***Spell Scroll***
 Message:
-Scribbled in the scroll's corner is a handwritten note from Sandro: apparently he was planning to use the Water Walk spell to hasten his eventual return to Deyja. No matter how the scroll found its way here, it's now yours.
+Dans un coin du parchemin, on peut lire une note manuscrite de Sandro : il semblerait qu'il ait eu l'intention d'utiliser le sort "Pont Céleste" pour hâter son retour à Deyja. Peu importe comment ce parchemin est arrivé ici, il est désormais à vous.
 
 (28, 57, 1) ***Seer's Hut***
 Message:
-Dreams led the Seer to an old desert tomb holding a golden stone tablet. Though it's difficult to decrypt, the Seer points out that the number Twelve is mentioned throughout.
-Studying the mysterious tablet, the Seer wonders what role the frequently-mentioned number Twelve plays in it.
-Acting on a hunch, you ask to hold the Seer's tablet yourself, whereupon the cryptic glyphs miraculously change shape into readable words - it's a summoning formula for warriors from the age of the pyramids.
+Des rêves ont conduit le Voyant jusqu'à une ancienne tombe située dans le désert, où se trouvait une tablette de pierre dorée. Bien qu'elle soit difficile à déchiffrer, le Voyant souligne que le chiffre douze y est mentionné à plusieurs reprises.
+En étudiant cette mystérieuse tablette, le Voyant se demande quel rôle joue ce chiffre douze, si souvent mentionné.
+Suivant votre intuition, vous demandez à tenir vous-même la tablette du Voyant, et aussitôt, les glyphes énigmatiques se transforment miraculeusement en mots lisibles : il s'agit d'une formule d'invocation destinée à faire apparaître des guerriers de l'époque des pyramides.
 
 (26, 19, 1) ***Seer's Hut***
 Message:
-The Seer's scrying orb - a giant, mammoth-sized crystal ball that takes up most of the tiny house - has been shattered by evil raiders. To repair it the Seer requires thirty shards of Crystal.
-Tending to the shattered crystal scrying orb, the Seer reminds you that no less than thirty Crystals are required for its restoration.
-With thirty Crystals, the scrying orb can be pieced back together. The Seer offers to then gaze through it into your future, bestowing to you in advance what you'd else learn in the battles to come.
+L'orbe divinatoire du Voyant, une boule de cristal géante, de la taille d'un mammouth, qui occupe la majeure partie de la minuscule maison, a été brisée par de malfaisants pillards. Pour la réparer, le Voyant a besoin de trente éclats de cristal.
+Tout en s'occupant de l'orbe divinatoire brisée, le Voyant vous rappelle qu'il faut pas moins de trente cristaux pour la restaurer.
+Avec trente cristaux, l’orbe de divination pourra être reconstituée. Le Voyant vous propose alors de scruter votre avenir à travers elle, vous révélant ainsi à l’avance ce que vous n’apprendriez autrement qu’au cours des combats à venir.
 
 ===== Extended Events =====
 ***Event Texts***
 Message:
-You turn castle Nosferatu upside down in search for Sandro, but in the chaos he appears to have fled. The surviving Undead, hurt by his betrayal, pledge to henceforth fight for you instead.		Although your soldiers grumble over rubbing shoulders with Zombies or worse, they could prove to be vital allies. Most of all the Graveyard is ripe with fresh recruits after today's battle.
+Vous mettez le château de Nosferatu sens dessus dessous à la recherche de Sandro, mais dans la confusion, celui-ci semble s'être enfui. Les Morts-Vivants survivants, blessés par sa trahison, s'engagent désormais à se battre à vos côtés.		Même si vos soldats râlent à l'idée de côtoyer des Zombies, voire pire, ceux-ci pourraient s'avérer être des alliés indispensables. Et surtout, le cimetière regorge de nouvelles recrues après la bataille d'aujourd'hui.
 
 
 ***Event Texts***
 Message:
-The witches of Vu'Du know little of undead plots and grail-hunts. Far off from the overworld, they instead focus on the mysteries of the abyss and the nearby ruins of the pyramid age.		Though they seldom accept strangers such as you, you're not the first. Over the past weeks they've also let in refugees from war-torn Tatalia and Jadame.
+Les sorcières de Vu'Du ne savent pas grand-chose des complots des Morts-Vivants ni de la quête du Graal. Loin du monde de la surface, elles se consacrent plutôt aux mystères de l'abîme et aux ruines voisines de l'ère des pyramides.		Bien qu'elles n'accueillent que rarement des étrangers comme vous, vous n'êtes pas le premier. Au cours des dernières semaines, elles ont également accueilli des réfugiés venus de Tatalia et de Jadame, deux pays déchirés par la guerre.
 
 Message:
-While the witches keep to their studies, scrying and divination, you find worldlier minds - and battle-tried warriors - in the makeshift refugee camps.		To celebrate your arrival, they hold a festival in the name of the Holy Firefly, lighting a swath of colorful paper lanterns whose glow attracts several wild Serpent Flies like moths to the flame.
+Alors que les sorcières se consacrent à leurs études, à la voyance et à la divination, vous rencontrez dans les camps de réfugiés de fortune des esprits plus terre-à-terre, et des guerriers aguerris.		Pour célébrer votre arrivée, ils organisent une fête en l’honneur de la Luciole Sacrée, allumant une multitude de lanternes en papier colorées dont la lueur attire plusieurs Guêpes-Serpents, telles des papillons de nuit attirés par la flamme.
 
 
 ***Event Texts***
 Message:
-From the highest point of castle Quaysar one can see far and wide across the deep blue sea. But the wizards who built these towers had their eyes fixated upwards, to the stars.		Legend says that they searched for an astral gate to the realm of the star-nymphs. The entire keep was designed with this quest in mind and thus functions like a giant observatory.
+Du point culminant du château de Quaysar, on peut admirer à perte de vue la mer d'un bleu profond. Mais les sorciers qui ont érigé ces tours avaient les yeux rivés vers le ciel, vers les étoiles.		La légende raconte qu'ils cherchaient une porte astrale menant au royaume des Nymphes des étoiles. L'ensemble du donjon a été conçu dans cette optique et fonctionne ainsi comme un observatoire géant.
 
 Message:
-In fact, you've found various rooms where engines, gears and levers are tirelessly maintained by old, but orderly Golem workers. Very little is known about them since they seldom communicate.		A handful, however, went to the factories to patch themselves up and then join the garrison. Perhaps they decided that fighting by your side is also a way to maintain order.
+Au final, vous avez découvert plusieurs salles où des moteurs, des engrenages et des leviers sont entretenus sans relâche par de vieux ouvriers Golems, très ordonnés. On sait très peu de choses à leur sujet, car ils communiquent rarement.		Une poignée d’entre eux s’est toutefois rendue dans les usines pour se réparer, avant de rejoindre la garnison. Peut-être ont-ils décidé que se battre à vos côtés était aussi une façon de maintenir l’ordre
 
 
 ***Event Texts***
 Message:
-When volcanoes fall dormant, their ash-infused soil gives birth to lush greenery and teeming wild forests. The Elven keep of Eshe was built atop one such slumbering beast.		Below the earth its fires rage on, which at times can be felt in Eshe in form of momentary soft rumblings in the ground. The peasants pay them no mind - like sea-sickness, one gets used to it eventually.
+Lorsque les volcans entrent en sommeil, leur sol enrichi de cendres donne naissance à une végétation luxuriante et à des forêts sauvages grouillantes de vie. Le Donjon Elfique d’Eshe a été construit au sommet d’un de ces géants endormis.		Sous la terre, ses feux continuent de faire rage, ce qui se ressent parfois à Eshe sous la forme de légers grondements passagers dans le sol. Les Paysans n’y prêtent pas attention : comme le mal de mer, on finit par s’y habituer.
 
 Message:
-The Elven archers have turned it into a challenge of steady aim. Those who can hit their mark during one of Eshe's tremors are regarded as grand champions of their skill.		Still, the true test of one's mettle lies in combat. After word of your quest reaches the outer woodlands, several hawk-eyed Elves are quick to leave their training grounds and enter the draft.
+Les archers Elfiques en ont fait un défi de précision. Ceux qui parviennent à atteindre leur cible pendant l'une des secousses d'Eshe sont considérés comme les grands champions de leur discipline.		Mais c’est au combat que l’on mesure véritablement le courage de chacun. Lorsque la nouvelle de votre quête parvient jusqu’aux forêts périphériques, plusieurs elfes à l’oeil de faucon n’hésitent pas à quitter leurs terrains d’entraînement pour s’engager dans la campagne de recrutement.
 
 
 ***Event Texts***
 Message:
-You've had run-ins with the warlocks of Undearth in the past; an odd lot, albeit wise in the ways of magic. Over a round of ale you agree to an uneasy but promising alliance.		As a gesture of good faith - what little there is -, the Undearth council dispatches its personal Troglodyte servants to the garrison to be outfitted with spears and trained for battle.
+Vous avez déjà eu affaire aux sorciers d’Undearth par le passé ; une bande hétéroclite, mais versée dans les arts de la magie. Autour d’une chope de bière, vous concluez une alliance fragile mais prometteuse.		En gage de bonne foi, aussi mince soit-elle, le conseil d’Undearth envoie ses serviteurs Troglodytes à la garnison afin qu’ils soient équipés de lances et entraînés au combat.
 
 
 ***Event Texts***
 Message:
-You've found Castle Llacielo mostly vacant, save for the Pixies who hold festivals of music every night to lure back their old masters, or perhaps to dance away their sorrows.		When you make plans to rebuild the altars and summoning gates - a more practical approach -, Pixies from far and wide draw to the town in hopes that you succeed.
+Vous avez découvert que le château de Llacielo était pratiquement désert, à l'exception des Pixies qui organisent chaque soir des festivals de musique pour attirer leurs anciens maîtres, ou peut-être pour danser et oublier leurs chagrins.		Lorsque vous décidez de reconstruire les autels et les portails d'invocation, une approche plus pragmatique, des Pixies venus de tous les horizons affluent vers la ville dans l'espoir que vous réussissiez.
 
 
 ***Event Texts***
 Message:
-Fort Guthwulf is an enclave of sorts, sheltering all who wish to take no part in Kilgor's conquest. As far as Barbarians go, they're modest and diplomatic which hastens your peace talks.		Still, they're Barbarians, and thus celebrate your joining with a great festival of tourneys, games and wrestling matches. Come morning, the barracks are bustling with hungover, but eager new recruits.
+Le fort de Guthwulf est en quelque sorte une enclave qui accueille tous ceux qui ne souhaitent pas prendre part à la conquête de Kilgor. Pour des Barbares, ils sont plutôt modestes et diplomates, ce qui facilite vos négociations de paix.		Mais ce sont tout de même des Barbares, et ils célèbrent donc votre arrivée par une grande fête ponctuée de tournois, de jeux et de combats de lutte. Au lever du jour, les casernes fourmillent de nouvelles recrues, encore un peu ivres mais pleines d’enthousiasme.
 
 
 ***Event Texts***
 Message:
-Within castle Nosferatu you find Sandro's former study where he left behind a swath of journals, maps and notes. After securing the Grail, he was going to invade the overworld via the southern sea-gate.		His evil plans are stopped for now, and you don't expect to see him again, but you can't help but wonder whereto he fled - and when and where he'll meet his end, if ever.
+Au sein du château de Nosferatu, vous découvrez l'ancien bureau de Sandro, où il a laissé derrière lui une multitude de journaux, de cartes et de notes. Après s'être emparé du Graal, il comptait envahir le monde de la surface par la porte maritime sud.		Ses plans maléfiques sont pour l'instant contrecarrés, et vous ne vous attendez pas à le revoir, mais vous ne pouvez vous empêcher de vous demander où il s'est enfui , et quand et où il trouvera la mort, si tant est qu'il la trouve un jour.
 
 Message:
-Late at night a guard on duty spies a golden hare entering a burrow in Nosferatu's castle moat. When he goes to investigate, he discovers a secret cavern vault of coin, trinkets and jewelry.		The Undead tell you that these items had one by one inexplicably vanished from Sandro's chambers over the past weeks, driving him furious. Meanwhile, the golden hare is nowhere to be found.
+Tard dans la nuit, un garde en service aperçoit un lièvre doré s'engouffrer dans un terrier situé dans les douves du château de Nosferatu. Lorsqu'il s'approche pour voir de quoi il s'agit, il découvre une caverne secrète remplie de pièces de monnaie, de bibelots et de bijoux.		Les Morts-Vivants vous expliquent que ces objets avaient disparu un à un, de manière inexplicable, des appartements de Sandro au cours des dernières semaines, ce qui l'avait mis dans une rage folle. Quant au lièvre doré, il est introuvable.
 
 
 ***Event Texts***
 Message:
-Fort Blizzra was built by a tribe of Vori exilants. Like you, they sought for the cavernous dark to hide from prying eyes, and thus see in you an unlikely kindred spirit.		Most of all the Kobolds, curious by nature, welcome this joining of ice and fire. They send word to their hunters and trappers in the outer wilds that greater endeavors lie ahead.
+Le fort de Blizzra a été construit par une tribu de Vori exilés. Tout comme vous, ils ont cherché refuge dans l’obscurité des cavernes pour échapper aux regards indiscrets, et voient donc en vous un allié inattendu.		Mais ce sont surtout les Kobolds, curieux de nature, qui se réjouissent de cette alliance entre la glace et le feu. Ils font savoir à leurs chasseurs et trappeurs, dans les contrées sauvages lointaines, que de grandes aventures les attendent.
 
 
 ***Event Texts***
 Proposal Message:
-A luminous force field envelops the black market, maintained by a pair of snow-folk Shamans who refuse to reason with you. In order to disable it you would have to match their deep understanding of rune magic.
+Un champ de force lumineux enveloppe le marché noir, maintenu par deux Chamans des neiges qui refusent toute discussion. Pour le désactiver, il vous faudrait égaler leur profonde maîtrise de la magie runique.
 Progress Message:
-You strike at the Shamans' force field, but it's for naught. Only an expert of rune magic can disable it.
+Vous frappez le champ de force des Chamans, mais en vain. Seul un expert en magie runique peut le désactiver.
 Completion Message:
-Drawing from your knowledge of the Vori arcane, you successfully disable the force field and capture the Shaman duo before they can flee. They explain that they only meant to protect the black market, and to make amends offer to join your ranks.
+Grâce à votre connaissance de la magie Vori, vous parvenez à désactiver le champ de force et à capturer les deux Chamans avant qu'ils ne puissent s'enfuir. Ils vous expliquent qu'ils ne cherchaient qu'à protéger le marché noir et, pour se racheter, vous proposent de rejoindre vos rangs.
 Hint:
-requires Expert Runes
+Nécessite Expert Runes 
 
 ***Event Texts***
 Proposal Message:
-A pair of Minotaurs guards this drawbridge. They were hired by the warehouse owner to fend off raiders, although they admit that they yearn for a job more befitting of their prowess.
+Deux Minotaures montent la garde devant ce pont-levis. Ils ont été engagés par le propriétaire de l'entrepôt pour repousser les Pillards, même s'ils avouent rêver d'un travail plus à la hauteur de leurs prouesses.
 Progress Message:
-Deeming you unworthy of their attention, the Minotaurs tell you to get lost.
+Vous jugeant indigne de leur attention, les Minotaures vous ordonnent de dégager.
 Completion Message:
-A military exercise near the drawbridge sees it swiftly opened. With you around, the Minotaurs see no reason to guard the warehouse any longer and, thus relieved of duty, ask to serve under you instead.
+Un exercice militaire près du pont-levis entraîne son ouverture immédiate. Avec vous dans les parages, les Minotaures ne voient plus aucune raison de continuer à monter la garde devant l'entrepôt et, ainsi déchargés de leur mission, demandent à servir sous vos ordres.
 Hint:
-requires Expert Leadership
+Nécessite Expert Charisme
 
 ***Event Texts***
 Proposal Message:
-Four Swordsman brothers hold this garrison. They wish to contain the necromantic curse that befell their family crypt, and likewise are wary to let just about anyone in, lest they end up adding to the Undeads' numbers.
+Cette garnison est tenue par quatre frères Épéistes. Ils souhaitent contenir la malédiction nécromantique qui s'est abattue sur le caveau familial et se méfient donc de laisser entrer n'importe qui, de peur que cela ne vienne grossir les rangs des Morts-Vivants.
 Progress Message:
-Deeming you unsuited to face their risen ancestors, the four Swordsmen refuse to let you pass.
+Jugeant que vous n'êtes pas à la hauteur pour affronter leurs ancêtres ressuscités, les quatre Épéistes refusent de vous laisser passer.
 Completion Message:
-Hopeful that you'll put their risen ancestors to rest, the Swordsmen lower the drawbridge and, given their personal stakes in this quest, ask to fight by your side.
+Convaincus que vous parviendrez à apaiser les âmes de leurs ancêtres ressuscités, les Épéistes abaissent le pont-levis et, compte tenu de l'enjeu personnel que représente cette quête pour eux, vous demandent de se battre à vos côtés.
 Hint:
-requires Expert Leadership
+Nécessite Expert Charisme
 
 ***Event Texts***
 Proposal Message:
-A spider’s web of wires and steel cables covers the gateway. In the corners you spy spindle-legged Automatons lying in wait for trespassers. Rather than spring this deadly trap, you can defuse it from afar with a well-placed shot.
+Une toile d'araignée composée de fils et de câbles d'acier recouvre la porte d'entrée. Dans les coins, on aperçoit des Automates aux pattes fuselées qui guettent les intrus. Plutôt que de déclencher ce piège mortel, vous pouvez le désamorcer à distance grâce à un tir bien placé.
 Progress Message:
-Without hawk-eyed precision, trying to defuse the trap would go fatally awry.
+Sans une précision d'aigle, toute tentative de désamorcer le piège tournerait fatalement au désastre.
 Completion Message:
-Aiming down your iron sights, you strike the steel trap's weak spots and send it crashing down. From the wreckage you retrieve several Automatons which are swiftly reprogrammed, patched up and drafted into your ranks.
+En visant avec vos viseurs métalliques, vous touchez les points faibles du piège d'acier et le faites s'effondrer. Parmi les décombres, vous récupérez plusieurs Automates que vous reprogrammez rapidement, réparez tant bien que mal et intégrez à vos rangs.
 Hint:
-requires Expert Archery
+Nécessite Expert Archerie
 
 ***Event Texts***
 Proposal Message:
-From atop the tower several Elves train their bows at you. With raiders and thieves running wild, they were paid by the shrine's scholars to only let those pass who come with an open and - more importantly - well-studied mind.
+Du haut de la tour, plusieurs Elfes pointent leurs arcs dans votre direction. Face à la recrudescence des pillards et des voleurs, les érudits du sanctuaire les ont engagés pour ne laisser passer que ceux qui viennent l'esprit ouvert et, surtout, bien préparé.
 Progress Message:
-The Elves fire a warning shot above your head - their way of telling you that you're unworthy of entering.
+Les elfes tirent un coup de semonce au-dessus de votre tête : c'est leur façon de vous faire comprendre que tu vous n'êtes pas digne d'entrer.
 Completion Message:
-You reason with the Elves to pass the shrine's care - and access - on to you as you're better suited to protect it. Grateful for the relief, the Elves also leave you the payment given to them by the scholars.
+Vous persuadez les Elfes de vous confier la garde du sanctuaire, ainsi que l'accès à celui-ci, car vous êtes mieux à même de le protéger. Reconnaissants de ce soulagement, les Elfes vous laissent également la somme que leur avaient versée les érudits.
 Hint:
-requires Expert Wisdom
+Nécessite Expert Sagesse
 
 ***Event Texts***
 Proposal Message:
-With the workshop's subjects running loose, four Magi are guarding the bridge towards it. To kill time, they're playing games of chess and invite you to join.
+Les ateliers sont en pleine effervescence, quatre Mages montent la garde sur le pont qui y mène. Pour passer le temps, ils jouent aux échecs et vous invitent à vous joindre à eux.
 Progress Message:
-You join the Magi guardians in their games of chess, but quickly find yourself outmatched and beaten. A more tactical mind might prevail here.
+Vous vous joignez aux gardiens mages pour une partie d'échecs, mais vous vous rendez vite compte que vous n'êtes pas de taille face à eux et que vous êtes battu. Il faudrait sans doute un esprit plus tactique pour l'emporter ici.
 Completion Message:
-Applying your tactical expertise, you beat each of the four Magi in chess through a clever mix of the Queen's Gambit and Wrong-Rook Pawn, whereupon they yield and request to join your ranks.
+Grâce à votre expertise tactique, vous avez battu chacun des quatre Rois mages aux échecs en combinant habilement le "gambit de la reine" et la "stratégie du mauvais pion de tour", après quoi ils se sont rendus et ont demandé à rejoindre vos rangs.
 Hint:
-requires Expert Tactics
+Nécessite Expert Tactique
 
 ***Event Texts***
 Proposal Message:
-A thicket of poisonous thorns looms before you. To proceed, you must have a deep understanding of how to withstand dangers such as this.
+Un fourré d'épines venimeuses se dresse devant vous. Pour avancer, vous devez parfaitement savoir comment faire face à ce genre de dangers.
 Progress Message:
-Wary of the thorny thicket's dangers, you choose to turn around and perhaps return once you've grown a thicker skin.
+Conscient des dangers que recèle ce fourré épineux, vous préférez faire demi-tour et y revenir peut-être lorsque vous aurez acquis une plus grande résistance.
 Completion Message:
-Adept in enduring pain, you make your way through the thorny thicket and in its midst find the artifact whose powers sparked its rapid growth. When you remove it the thicket recedes, clearing the path ahead.
+Habitué à endurer la douleur, vous vous frayez un chemin à travers le fourré épineux et, au milieu de celui-ci, vous découvrez l'artefact dont les pouvoirs ont provoqué sa croissance rapide. Lorsque vous le retirez, le fourré s'écarte, libérant le chemin devant vous.
 Hint:
-requires Expert Armorer
+Nécessite Expert Armurerie
 
 ===== End of file =====
