@@ -2,24 +2,24 @@
 Apprivoiser la Musaraigne
 
 ===== Map description =====
-La princesse Cait est mÃ©chante, grossiÃ¨re... et hÃ©ritiÃ¨re d'une immense fortune, ce qui explique pourquoi vous avez jetÃ© votre dÃ©volu sur elle. Pour conquÃ©rir son corur, vous devez la vaincre, elle et ses amis Pirates, au combat.
+La princesse Cait est méchante, grossière... et héritière d'une immense fortune, ce qui explique pourquoi vous avez jeté votre dévolu sur elle. Pour conquérir son coeur, vous devez la vaincre, elle et ses amis Pirates, au combat.
 
 ===== Rumors =====
 
 Name:
 shrew1
 Text:
-La princesse Cait a de nombreux prÃ©tendants. La plupart d'entre eux meurent.
+La princesse Cait a de nombreux prétendants. La plupart d'entre eux meurent.
 
 Name:
 shrew2
 Text:
-La nuit oÃ¹ Cait a disparu, une crÃ©ature ailÃ©e a Ã©tÃ© aperÃ§ue tournoyant autour de sa tour.
+La nuit où Cait a disparu, une créature ailée a été aperçue tournoyant autour de sa tour.
 
 Name:
 shrew3
 Text:
-Les Seigneurs de Nighon sont en Ã©moi : la Fiole de Sang de Dragon a Ã©tÃ© volÃ©e dans leur coffre-fort.
+Les Seigneurs de Nighon sont en émoi : la Fiole de Sang de Dragon a été volée dans leur coffre-fort.
 
 Name:
 shrew4
@@ -34,12 +34,12 @@ Pour atteindre le coeur des forces de Cait, entrez dans la Caverne de la Lune et
 Name:
 shield
 Text:
-Il en parle rarement, mais le propriÃ©taire de la Taverne de la Sentinelle Ã©tait autrefois un chevalier cÃ©lÃ¨bre.
+Il en parle rarement, mais le propriétaire de la Taverne de la Sentinelle était autrefois un chevalier célèbre.
 
 Name:
 advice
 Text:
-Avez-vous dÃ©jÃ  jouÃ© aux Ã©checs ? Sur cette carte, la tour s'empare des chÃ¢teaux, tandis que le fou part Ã  la recherche de reliques.
+Avez-vous déjà joué aux échecs ? Sur cette carte, la tour s'empare des châteaux, tandis que le fou part à la recherche de reliques.
 
 ===== Timed events =====
 
@@ -56,22 +56,22 @@ Message:
 Name:
 intro
 Message:
-La princesse Cait dit "La Musaraigne" a disparu. Bien dÃ©cidÃ©e Ã  Ã©chapper aux contraintes du mariage, elle a conclu un pacte avec les Pirates et les Seigneurs des Dragons et s'est enfuie dans leurs repaires malÃ©fiques.		Ã€ ce stade, seul un fou se lancerait Ã  sa poursuite... sâ€™il nâ€™y avait pas lâ€™immense fortune de sa famille.
+La princesse Cait dit "La Musaraigne" a disparu. Bien décidée à échapper aux contraintes du mariage, elle a conclu un pacte avec les Pirates et les Seigneurs des Dragons et s'est enfuie dans leurs repaires maléfiques.		À ce stade, seul un fou se lancerait à sa poursuite... s’il n’y avait pas l’immense fortune de sa famille.
 
 Name:
 intro cont.
 Message:
-En effet, vous n'Ãªtes pas le seul prÃ©tendant. Trois autres cherchent Ã  passer au fil de l'Ã©pÃ©e les alliÃ©s de Cait, une quÃªte audacieuse qui ne manquera pas de lui faire gagner son coeur.		Vous vous retrouvez ainsi pris entre des rivaux, des Pirates et des Dragons. Vous devrez tous les vaincre, alors vous feraiez mieux de vous y mettre !
+En effet, vous n'êtes pas le seul prétendant. Trois autres cherchent à passer au fil de l'épée les alliés de Cait, une quête audacieuse qui ne manquera pas de lui faire gagner son coeur.		Vous vous retrouvez ainsi pris entre des rivaux, des Pirates et des Dragons. Vous devrez tous les vaincre, alors vous feraiez mieux de vous y mettre !
 
 ===== Heroes =====
 
 Name:
 Sir Michael
 Biography:
-Il y a bien longtemps, Michael Ã©tait liÃ© par un lien profond Ã  la chevaliÃ¨re Tamika. Lorsque Tamika fut mordue par un vampire, Michael consacra sa vie Ã  combattre les forces des tÃ©nÃ¨bres qui la lui avaient enlevÃ©e. Il est depuis devenu un chasseur de vampires chevronnÃ©, mÃªme s'il redoute le jour oÃ¹ il devra affronter Tamika au combat.
+Il y a bien longtemps, Michael était lié par un lien profond à la chevalière Tamika. Lorsque Tamika fut mordue par un vampire, Michael consacra sa vie à combattre les forces des ténèbres qui la lui avaient enlevée. Il est depuis devenu un chasseur de vampires chevronné, même s'il redoute le jour où il devra affronter Tamika au combat.
 
 Biography:
-Gem comptait parmi les plus grandes SorciÃ¨res qu'Enroth ait jamais connues ; elle avait servi le Roi Roland Ironfist pendant les Guerres de Succession. Peu aprÃ¨s que Roland eut consolidÃ© son emprise sur le trÃ´ne d'Enroth, Gem partit pour Antagarich.
+Gem comptait parmi les plus grandes Sorcières qu'Enroth ait jamais connues ; elle avait servi le Roi Roland Ironfist pendant les Guerres de Succession. Peu après que Roland eut consolidé son emprise sur le trône d'Enroth, Gem partit pour Antagarich.
 
 Biography:
 
@@ -85,17 +85,17 @@ Biography:
 Name:
 Cait
 Biography:
-Pour repousser ses prÃ©tendants, Cait but la Fiole de Sang de Dragon, ce qui la transforma en un puissant Dragon.
+Pour repousser ses prétendants, Cait but la Fiole de Sang de Dragon, ce qui la transforma en un puissant Dragon.
 
 Name:
 Christian
 Biography:
-Bien qu'il porte le mÃªme nom qu'un chevalier lÃ©gendaire, ce Pirate a une bien plus mauvaise rÃ©putation. Les Regnans le surnomment "Boule de Canon", car partout oÃ¹ il passe, le chaos et la pagaille rÃ¨gnent. MalgrÃ© ses maniÃ¨res grossiÃ¨res, on dit de lui qu'il est farouchement loyal envers ses amis.
+Bien qu'il porte le même nom qu'un chevalier légendaire, ce Pirate a une bien plus mauvaise réputation. Les Regnans le surnomment "Boule de Canon", car partout où il passe, le chaos et la pagaille règnent. Malgré ses manières grossières, on dit de lui qu'il est farouchement loyal envers ses amis.
 
 Name:
 Teej
 Biography:
-Teej est un jeune marchand d'esclaves dont la soif de sang n'a d'Ã©gale que sa soif d'or. En Ã©change des richesses de son pÃ¨re, il a remis Ã  Cait la Musaraigne la lÃ©gendaire Fiole de Sang de Dragon.
+Teej est un jeune marchand d'esclaves dont la soif de sang n'a d'égale que sa soif d'or. En échange des richesses de son père, il a remis à Cait la Musaraigne la légendaire Fiole de Sang de Dragon.
 
 Biography:
 
@@ -104,17 +104,17 @@ Biography:
 
 (89, 56, 0) ***Quest Guard***
 Message:
-Alors, Vous Ãªtes venu rÃ©clamer ce trÃ©sor ? Laissez-moi vous proposer un Ã©change Ã©quitable : un artefact contre un autre. Je vous donnerai ma relique en Ã©change de lâ€™Amulette du Fossoyeur.
-Vous conviendrez sÃ»rement que lâ€™Amulette du Fossoyeur est un prix raisonnable pour ma relique ? Revenez me la rapporter une fois que vous lâ€™aurez trouvÃ©e. Jâ€™ai entendu dire quâ€™elle avait Ã©tÃ© aperÃ§ue pour la derniÃ¨re fois dans une crypte situÃ©e bien Ã  lâ€™ouest dâ€™ici.
-Mais câ€™est... lâ€™Amulette du Fossoyeur ! Il me la faut. Donnez-la-moi et ma relique sera Ã  vous !
+Alors, Vous êtes venu réclamer ce trésor ? Laissez-moi vous proposer un échange équitable : un artefact contre un autre. Je vous donnerai ma relique en échange de l’Amulette du Fossoyeur.
+Vous conviendrez sûrement que l’Amulette du Fossoyeur est un prix raisonnable pour ma relique ? Revenez me la rapporter une fois que vous l’aurez trouvée. J’ai entendu dire qu’elle avait été aperçue pour la dernière fois dans une crypte située bien à l’ouest d’ici.
+Mais c’est... l’Amulette du Fossoyeur ! Il me la faut. Donnez-la-moi et ma relique sera à vous !
 
 (86, 88, 0) ***Sign***
 Message:
-: VallÃ©e de Wing Tail :		Nord - Pavillon d'Or	Ouest - Tombe du Pharaon	Est - Ferme du devin	Sud - Moulin Ã  eau
+: Vallée de Wing Tail :		Nord - Pavillon d'Or	Ouest - Tombe du Pharaon	Est - Ferme du devin	Sud - Moulin à eau
 
 (88, 107, 0) ***Sign***
 Message:
-La Tour de l'Ã‰clipse
+La Tour de l'Éclipse
 
 (106, 99, 0) ***Pandora's Box***
 Message:
@@ -126,23 +126,23 @@ Message:
 
 (48, 71, 0) ***Sign***
 Message:
-: Ãle de Haven :		Nord - MaelstrÃ¶m	Ouest - Grotte de la Lune	Est - Chantier naval	Sud - Route des Pirates
+: Île de Haven :		Nord - Maelström	Ouest - Grotte de la Lune	Est - Chantier naval	Sud - Route des Pirates
 
 (106, 38, 0) ***Seer's Hut***
 Message:
-L'avantage de vivre dans une cabane dans les arbres, c'est qu'on n'est jamais Ã  court de bois de chauffage. Le minerai, en revanche, est difficile Ã  trouver. 		Apportez-moi 10 minerais et je vous donnerai une leÃ§on d'Ã‰rudition.
+L'avantage de vivre dans une cabane dans les arbres, c'est qu'on n'est jamais à court de bois de chauffage. Le minerai, en revanche, est difficile à trouver. 		Apportez-moi 10 minerais et je vous donnerai une leçon d'Érudition.
 Vous semblez manquer de minerai, tout comme moi. Revenez quand vous aurez 10.
-En Ã©change de 10 minerais, je vous enseignerai Disciple Ã‰rudition. MarchÃ© conclu ?
+En échange de 10 minerais, je vous enseignerai Disciple Érudition. Marché conclu ?
 
 (31, 58, 0) ***Sign***
 Message:
-Forteresse de Hook		EntrÃ©e interdite !
+Forteresse de Hook		Entrée interdite !
 
 (70, 44, 0) ***Seer's Hut***
 Message:
-Bienvenue dans ma boutique de sorts ! 		J'ai l'impression que votre grimoire laisse Ã  dÃ©sirer. Si vous cherchez quelque chose de plus... Ã©lectrisant, l'un de mes sorts d'air pourrait bien donner Ã  votre magie le coup de fouet dont elle a besoin. 		Ã‡a ne coÃ»te que 4 000 piÃ¨ces d'or !
-Vous n'avez pas 4 000 piÃ¨ces d'or ? Je suis sous le choc ! 		Revenez me voir avec une bourse bien remplie et je vous apprendrai le sort Foudre Terrible.		Mais n'attendez pas trop longtemps : je ne vendrai ce sort qu'une seule fois !
-Pour le prix incroyablement bas de 4 000 piÃ¨ces d'or, le sort Foudre Terrible est Ã  vous !
+Bienvenue dans ma boutique de sorts ! 		J'ai l'impression que votre grimoire laisse à désirer. Si vous cherchez quelque chose de plus... électrisant, l'un de mes sorts d'air pourrait bien donner à votre magie le coup de fouet dont elle a besoin. 		Ça ne coûte que 4 000 pièces d'or !
+Vous n'avez pas 4 000 pièces d'or ? Je suis sous le choc ! 		Revenez me voir avec une bourse bien remplie et je vous apprendrai le sort Foudre Terrible.		Mais n'attendez pas trop longtemps : je ne vendrai ce sort qu'une seule fois !
+Pour le prix incroyablement bas de 4 000 pièces d'or, le sort Foudre Terrible est à vous !
 
 (79, 14, 0) ***Rampart***
 Name:
@@ -162,37 +162,37 @@ Summer
 
 (30, 106, 0) ***Seer's Hut***
 Message:
-Oh, un visiteur ! J'en reÃ§ois rarement. 		Puisque vous avez fait l'effort de venir jusqu'ici, laissez-moi vous faire une offre spÃ©ciale : je vous apprendrai le sort de TÃ©lÃ©portation pour 7 unitÃ©s de mercure.
-Bonjour Ã  nouveau ! Je suis prÃªt Ã  vous enseigner le sort de TÃ©lÃ©portation dÃ¨s que vous m'aurez donnÃ© 7 unitÃ©s de Mercure.
-Comme j'habite loin de chez moi, j'ai maÃ®trisÃ© le sort de TÃ©lÃ©portation pour rendre visite Ã  ma famille. J'espÃ¨re que vous en ferez bon usage vous aussi ! 		Etes-vous prÃªt Ã  me remettre les 7 unitÃ©s de mercure ?
+Oh, un visiteur ! J'en reçois rarement. 		Puisque vous avez fait l'effort de venir jusqu'ici, laissez-moi vous faire une offre spéciale : je vous apprendrai le sort de Téléportation pour 7 unités de mercure.
+Bonjour à nouveau ! Je suis prêt à vous enseigner le sort de Téléportation dès que vous m'aurez donné 7 unités de Mercure.
+Comme j'habite loin de chez moi, j'ai maîtrisé le sort de Téléportation pour rendre visite à ma famille. J'espère que vous en ferez bon usage vous aussi ! 		Etes-vous prêt à me remettre les 7 unités de mercure ?
 
 (16, 92, 0) ***Sign***
 Message:
-: Champs de l'Ã©tÃ© :		Nord - ClairiÃ¨re des Licornes	Ouest - Scierie	Est - Cabane d'Ã©pÃ©iste 	Sud - Caverne de cristal
+: Champs de l'été :		Nord - Clairière des Licornes	Ouest - Scierie	Est - Cabane d'épéiste 	Sud - Caverne de cristal
 
 (43, 38, 0) ***Seer's Hut***
 Message:
-Bonjour ! Je suis le cuisinier de la taverne. J'ai besoin de votre aide pour un problÃ¨me culinaire.		J'avais l'habitude de prÃ©parer mon cÃ©lÃ¨bre ragoÃ»t de Serpent de Mer pour les clients de la taverne. Mais je suis Ã  court de l'ingrÃ©dient principal : le Serpent de Mer ! 		J'ai besoin d'au moins deux d'entre eux pour remettre ma cuisine en marche. En Ã©change, je vous donnerai mon vieux bouclier.
-Un cuisinier sans son plat signature, câ€™est comme un chevalier sans son Ã©pÃ©e... !		Jâ€™espÃ¨re trouver bientÃ´t 2 Serpents de Mer, sinon je devrai vendre mes affaires pour joindre les deux bouts, y compris mon vieux bouclier...
-Enfin, deux Serpents de Mer ! Je vais vous prÃ©parer tout de suite une assiette de ragoÃ»t de Serpent de Mer, c'est offert par la maison !		Oh, et si cela ne suffit pas, voici le Bouclier Sentinelle.
+Bonjour ! Je suis le cuisinier de la taverne. J'ai besoin de votre aide pour un problème culinaire.		J'avais l'habitude de préparer mon célèbre ragoût de Serpent de Mer pour les clients de la taverne. Mais je suis à court de l'ingrédient principal : le Serpent de Mer ! 		J'ai besoin d'au moins deux d'entre eux pour remettre ma cuisine en marche. En échange, je vous donnerai mon vieux bouclier.
+Un cuisinier sans son plat signature, c’est comme un chevalier sans son épée... !		J’espère trouver bientôt 2 Serpents de Mer, sinon je devrai vendre mes affaires pour joindre les deux bouts, y compris mon vieux bouclier...
+Enfin, deux Serpents de Mer ! Je vais vous préparer tout de suite une assiette de ragoût de Serpent de Mer, c'est offert par la maison !		Oh, et si cela ne suffit pas, voici le Bouclier Sentinelle.
 
 (1, 61, 0) ***Quest Guard***
 Message:
-Alors, vous Ãªtes venu rÃ©clamer ce trÃ©sor ? Laissez-moi vous proposer un Ã©change Ã©quitable : un artefact contre un autre. Je vous donnerai ma relique en Ã©change du Pendentif de Mort.
-Vous conviendrez sÃ»rement que le Pendentif de Mort est un prix raisonnable pour ma relique ? Revenez me le rapporter une fois que vous l'aurez trouvÃ©. J'ai entendu dire qu'il avait Ã©tÃ© aperÃ§u pour la derniÃ¨re fois dans une crypte situÃ©e bien Ã  l'est d'ici.
-Est-ce que c'est... le Pendentif de Mort ! Il me le faut absolument. Donnez-le-moi et ma relique sera Ã  vous !
+Alors, vous êtes venu réclamer ce trésor ? Laissez-moi vous proposer un échange équitable : un artefact contre un autre. Je vous donnerai ma relique en échange du Pendentif de Mort.
+Vous conviendrez sûrement que le Pendentif de Mort est un prix raisonnable pour ma relique ? Revenez me le rapporter une fois que vous l'aurez trouvé. J'ai entendu dire qu'il avait été aperçu pour la dernière fois dans une crypte située bien à l'est d'ici.
+Est-ce que c'est... le Pendentif de Mort ! Il me le faut absolument. Donnez-le-moi et ma relique sera à vous !
 
 (76, 82, 0) ***Seer's Hut***
 Message:
-Avez-vous dÃ©jÃ  vu la sirÃ¨ne qui vit dans cette baie ? Elle est magnifique, n'est-ce pas ? J'ai trÃ¨s envie de lui parler, mais je n'arrive pas Ã  trouver le courage de le faire. 		Peut-Ãªtre que la MÃ©daille du Courage m'aidera...
-Parler Ã  une sirÃ¨ne est plus difficile que je ne l'imaginais. 		Si seulement j'avais la MÃ©daille du Courage pour me remonter le moral...
-La MÃ©daille du Courage ! Avec Ã§a, je vais sÃ»rement y arriver ! 		Je pars tout de suite parler Ã  la sirÃ¨ne, mais avant de partir, laissez-moi augmenter votre compÃ©tence dÃ©fense de 2 points. 		Oh, et vous Ãªtes invitÃ© au mariage !
+Avez-vous déjà vu la sirène qui vit dans cette baie ? Elle est magnifique, n'est-ce pas ? J'ai très envie de lui parler, mais je n'arrive pas à trouver le courage de le faire. 		Peut-être que la Médaille du Courage m'aidera...
+Parler à une sirène est plus difficile que je ne l'imaginais. 		Si seulement j'avais la Médaille du Courage pour me remonter le moral...
+La Médaille du Courage ! Avec ça, je vais sûrement y arriver ! 		Je pars tout de suite parler à la sirène, mais avant de partir, laissez-moi augmenter votre compétence défense de 2 points. 		Oh, et vous êtes invité au mariage !
 
 (78, 97, 0) ***Seer's Hut***
 Message:
-Je crois fermement aux vertus de la patience. Comme le dit le proverbe : "Tout vient Ã  point Ã  qui sait attendre." 		Revenez me voir lorsque vous aurez bien avancÃ© dans votre pÃ©riple et je vous offrirai un cadeau.
-Je vous aiderai le moment venu. Ce moment n'est pas encore arrivÃ© ! 		Revenez me voir lorsque vous aurez acquis davantage d'expÃ©rience.
-Vous avez l'air de quelqu'un qui a beaucoup voyagÃ© et vu beaucoup de choses. Ce voyage s'est-il bien passÃ© ? Je l'espÃ¨re !		Voici un cadeau pour vous faciliter un peu la tÃ¢che : les Bottes de Vitesse.
+Je crois fermement aux vertus de la patience. Comme le dit le proverbe : "Tout vient à point à qui sait attendre." 		Revenez me voir lorsque vous aurez bien avancé dans votre périple et je vous offrirai un cadeau.
+Je vous aiderai le moment venu. Ce moment n'est pas encore arrivé ! 		Revenez me voir lorsque vous aurez acquis davantage d'expérience.
+Vous avez l'air de quelqu'un qui a beaucoup voyagé et vu beaucoup de choses. Ce voyage s'est-il bien passé ? Je l'espère !		Voici un cadeau pour vous faciliter un peu la tâche : les Bottes de Vitesse.
 
 (70, 69, 0) ***Pandora's Box***
 Message:
@@ -200,9 +200,9 @@ Message:
 
 (24, 89, 0) ***Seer's Hut***
 Message:
-J'Ã©tais Gladiateur Ã  l'ArÃ¨ne, mais des monstres ont attaquÃ©... MÃªme moi, je n'ai pas pu les vaincre ! Maintenant, je reste assis ici Ã  broyer du noir.		Si vous parvenez Ã  faire ce que je n'ai pas pu faire, venez me voir aprÃ¨s le combat.
-L'ArÃ¨ne se trouve au sud d'ici. Si vous battez les monstres, je vous apprendrai les techniques d'attaque de base. Bonne chance et bon combat !
-Enfin, l'ArÃ¨ne est sauvÃ©e ! J'ai hÃ¢te d'y retourner.		Mais avant de partir, laissez-moi vous enseigner les techniques d'attaque de base.
+J'étais Gladiateur à l'Arène, mais des monstres ont attaqué... Même moi, je n'ai pas pu les vaincre ! Maintenant, je reste assis ici à broyer du noir.		Si vous parvenez à faire ce que je n'ai pas pu faire, venez me voir après le combat.
+L'Arène se trouve au sud d'ici. Si vous battez les monstres, je vous apprendrai les techniques d'attaque de base. Bonne chance et bon combat !
+Enfin, l'Arène est sauvée ! J'ai hâte d'y retourner.		Mais avant de partir, laissez-moi vous enseigner les techniques d'attaque de base.
 
 (12, 9, 0) ***Tower***
 Name:
@@ -210,25 +210,25 @@ Xanadu
 
 (39, 39, 0) ***Sign***
 Message:
-: Taverne de la Sentinelle :		Nord - CÃ´tes gelÃ©es	Ouest - EntrepÃ´t de cristal	Est - Mine d'or	Sud - Baie des Ã©paves
+: Taverne de la Sentinelle :		Nord - Côtes gelées	Ouest - Entrepôt de cristal	Est - Mine d'or	Sud - Baie des épaves
 
 (16, 35, 0) ***Seer's Hut***
 Message:
-J'Ã©tais autrefois un grand guerrier. Mais aujourd'hui, mes jours de combat sont rÃ©volus, et je cherche quelqu'un Ã  qui lÃ©guer mon Bouclier Dragon. 		Il faut au moins 10 en dÃ©fense pour le manier.
-Je suis toujours Ã  la recherche d'un hÃ©ritier digne de mon Bouclier Dragon, un hÃ©ros fort et robuste possÃ©dant au moins 10 en dÃ©fense. 		Un jour, je vous le donnerai peut-Ãªtre mÃªme !
-Vous Ãªtes celui que je cherchais : un hÃ©ros assez fort pour porter mon Bouclier Dragon. Bonne chance, et bon combat !
+J'étais autrefois un grand guerrier. Mais aujourd'hui, mes jours de combat sont révolus, et je cherche quelqu'un à qui léguer mon Bouclier Dragon. 		Il faut au moins 10 en défense pour le manier.
+Je suis toujours à la recherche d'un héritier digne de mon Bouclier Dragon, un héros fort et robuste possédant au moins 10 en défense. 		Un jour, je vous le donnerai peut-être même !
+Vous êtes celui que je cherchais : un héros assez fort pour porter mon Bouclier Dragon. Bonne chance, et bon combat !
 
 (97, 7, 0) ***Seer's Hut***
 Message:
-De nos jours, les hÃ©ros au courage Ã  toute Ã©preuve se font rares. Et vous ? Votre compÃ©tence Attaque sÃ¨me-t-elle la terreur dans le coeur de vos ennemis ?
-Les hÃ©ros d'aujourd'hui ne sont que des mauviettes ! Je ne vais pas perdre mon temps Ã  les entraÃ®ner.
-VoilÃ  enfin un vrai guerrier ! Ce serait un honneur pour moi de vous entraÃ®ner.
+De nos jours, les héros au courage à toute épreuve se font rares. Et vous ? Votre compétence Attaque sème-t-elle la terreur dans le coeur de vos ennemis ?
+Les héros d'aujourd'hui ne sont que des mauviettes ! Je ne vais pas perdre mon temps à les entraîner.
+Voilà enfin un vrai guerrier ! Ce serait un honneur pour moi de vous entraîner.
 
 (66, 4, 0) ***Seer's Hut***
 Message:
-Il commence Ã  faire froid, n'est-ce pas ? Je devrais sans doute construire une Ã©table pour mes cochons afin qu'ils puissent passer l'hiver. Auriez-vous la gentillesse de m'apporter 10 unitÃ©s de bois ?
-Bonjour Ã  nouveau ! Je suis en train de prÃ©parer ma ferme pour les jours d'hiver Ã  venir, mais ce serait beaucoup plus facile si j'avais plus de matÃ©riaux, 10 morceaux de bois, pour Ãªtre prÃ©cis.
-Ces 10 unitÃ©s de bois me seront d'une grande aide ! En Ã©change, je vous donnerai une partie de mon cheptel : 18 Sangliers.
+Il commence à faire froid, n'est-ce pas ? Je devrais sans doute construire une étable pour mes cochons afin qu'ils puissent passer l'hiver. Auriez-vous la gentillesse de m'apporter 10 unités de bois ?
+Bonjour à nouveau ! Je suis en train de préparer ma ferme pour les jours d'hiver à venir, mais ce serait beaucoup plus facile si j'avais plus de matériaux, 10 morceaux de bois, pour être précis.
+Ces 10 unités de bois me seront d'une grande aide ! En échange, je vous donnerai une partie de mon cheptel : 18 Sangliers.
 
 (107, 14, 0) ***Sign***
 Message:
@@ -236,15 +236,15 @@ Cascade des Valkyries
 
 (81, 30, 0) ***Seer's Hut***
 Message:
-GrÃ¢ce Ã  mes recherches sur l'arcane, j'ai dÃ©couvert un moyen d'imprÃ©gner une personne de mana brut, ce qui augmente sa puissance magique de 2 points. Cependant, je dois encore effectuer quelques tests... sur un cobaye, bien sÃ»r. 		Je recherche un hÃ©ros suffisamment puissant pour rÃ©sister Ã  toute la puissance d'un flux arcanique. Il doit Ãªtre au moins de niveau 8.
-Les cobayes se font rares ces temps-ci. Jâ€™ai cherchÃ© partout un sujet dâ€™expÃ©rience adaptÃ© Ã  mon expÃ©rience sur la puissance des sorts, mais je nâ€™arrive pas Ã  trouver qui que ce soit...
-Ah, vous Ãªtes le sujet idÃ©al pour mon expÃ©rience arcanique. Si mes calculs sont exacts, cela devrait augmenter votre puissance des sorts de 2 points. Ne bougez pas, Ã§a risque de piquer un peu...
+Grâce à mes recherches sur l'arcane, j'ai découvert un moyen d'imprégner une personne de mana brut, ce qui augmente sa puissance magique de 2 points. Cependant, je dois encore effectuer quelques tests... sur un cobaye, bien sûr. 		Je recherche un héros suffisamment puissant pour résister à toute la puissance d'un flux arcanique. Il doit être au moins de niveau 8.
+Les cobayes se font rares ces temps-ci. J’ai cherché partout un sujet d’expérience adapté à mon expérience sur la puissance des sorts, mais je n’arrive pas à trouver qui que ce soit...
+Ah, vous êtes le sujet idéal pour mon expérience arcanique. Si mes calculs sont exacts, cela devrait augmenter votre puissance des sorts de 2 points. Ne bougez pas, ça risque de piquer un peu...
 
 (17, 66, 0) ***Seer's Hut***
 Message:
-Dans ce monde, tout se fait Ã©tape par Ã©tape. Pour cultiver un jardin, il faut dâ€™abord en semer les graines. Pour construire un temple, il faut dâ€™abord en poser les fondations. Pour devenir meilleur, il faut dâ€™abord Ãªtre bon. 		Venez me voir quand vous aurez pris de la force, et je vous aiderai Ã  devenir encore plus fort.
-Soyez patient. Vous nâ€™Ãªtes pas encore prÃªt Ã  recevoir ma sagesse, mais vous le serez bientÃ´t.
-Je vois que vous avez posÃ© les fondations dâ€™une vÃ©ritable grandeur. Il est temps de passer Ã  lâ€™Ã©tape suivante. 		Ã‰coutez ma sagesse, hÃ©ros, et Ã©lÃ¨vez-vous !
+Dans ce monde, tout se fait étape par étape. Pour cultiver un jardin, il faut d’abord en semer les graines. Pour construire un temple, il faut d’abord en poser les fondations. Pour devenir meilleur, il faut d’abord être bon. 		Venez me voir quand vous aurez pris de la force, et je vous aiderai à devenir encore plus fort.
+Soyez patient. Vous n’êtes pas encore prêt à recevoir ma sagesse, mais vous le serez bientôt.
+Je vois que vous avez posé les fondations d’une véritable grandeur. Il est temps de passer à l’étape suivante. 		Écoutez ma sagesse, héros, et élèvez-vous !
 
 (63, 15, 0) ***Pandora's Box***
 Message:
@@ -253,30 +253,30 @@ Message:
 (73, 106, 0) ***Seer's Hut***
 Message:
 "La connaissance, c'est le pouvoir." Beaucoup l'ont dit, mais rares sont ceux qui le pensent vraiment. Et vous ?
-Je ne m'associerai qu'Ã  quelqu'un qui connaÃ®t le vÃ©ritable pouvoir de la connaissance. 		Si tant est que cette personne existe...
-Je vois que vous Ãªtes un vÃ©ritable adepte de la connaissance. Je serais honorÃ© de me joindre Ã  vous. On y va ?
+Je ne m'associerai qu'à quelqu'un qui connaît le véritable pouvoir de la connaissance. 		Si tant est que cette personne existe...
+Je vois que vous êtes un véritable adepte de la connaissance. Je serais honoré de me joindre à vous. On y va ?
 
 (64, 87, 0) ***Ocean Bottle***
 Message:
-Salut Ã  toi, Ã´ Mer, 	toi, lâ€™Ancien des Jours !	Comme les paroles de mon foyer 	Tes eaux murmurent, 	Comme les rÃªves de mon enfance, 	Ton royaume scintille.
+Salut à toi, ô Mer, 	toi, l’Ancien des Jours !	Comme les paroles de mon foyer 	Tes eaux murmurent, 	Comme les rêves de mon enfance, 	Ton royaume scintille.
 
 (4, 68, 0) ***Ocean Bottle***
 Message:
-Je dois repartir vers la mer, 	vers cette mer solitaire et ce ciel,	Et tout ce que je demande, c'est un grand voilier	et une Ã©toile pour le guider.
+Je dois repartir vers la mer, 	vers cette mer solitaire et ce ciel,	Et tout ce que je demande, c'est un grand voilier	et une étoile pour le guider.
 
 (105, 70, 0) ***Ocean Bottle***
 Message:
-Assis tous sur le pont, nous glissions	sur les eaux majestueuses du Rhin,		et sur ses rives, baignÃ©es par lâ€™Ã©tÃ©,	reposait la paisible lueur du soir...
+Assis tous sur le pont, nous glissions	sur les eaux majestueuses du Rhin,		et sur ses rives, baignées par l’été,	reposait la paisible lueur du soir...
 
 (58, 1, 0) ***Seer's Hut***
 Message:
-Mes soeurs et moi avons le don de prÃ©dire l'avenir. Si vous nous apportez les Cartes du Destin, nous pourrons les utiliser pour vous prÃ©dire l'avenir.
-L'avenir de chacun est Ã©crit dans les Ã©toiles. 		Si vous nous apportez les Cartes du Destin, nous vous dirons ce que les Ã©toiles rÃ©vÃ¨lent Ã  votre sujet !
-GrÃ¢ce Ã  ces Cartes du Destin, nous pouvons vous prÃ©dire l'avenir. Voyons voir...		Hum, il semblerait que vous soyez destinÃ© Ã  remporter cette guerre ! Dans ce cas, ce serait un honneur pour nous de nous joindre Ã  vous !
+Mes soeurs et moi avons le don de prédire l'avenir. Si vous nous apportez les Cartes du Destin, nous pourrons les utiliser pour vous prédire l'avenir.
+L'avenir de chacun est écrit dans les étoiles. 		Si vous nous apportez les Cartes du Destin, nous vous dirons ce que les étoiles révèlent à votre sujet !
+Grâce à ces Cartes du Destin, nous pouvons vous prédire l'avenir. Voyons voir...		Hum, il semblerait que vous soyez destiné à remporter cette guerre ! Dans ce cas, ce serait un honneur pour nous de nous joindre à vous !
 
 (39, 19, 0) ***Ocean Bottle***
 Message:
-La puissance de l'ocÃ©an, les spectacles cÃ©lestes	Ne peuvent rivaliser avec un coeur rempli d'amour,	Et les Ã©toiles scintillantes ou les perles Ã©clatantes	PÃ¢lit face aux Ã©clats, aux rayons et aux flÃ¨ches de l'amour.
+La puissance de l'océan, les spectacles célestes	Ne peuvent rivaliser avec un coeur rempli d'amour,	Et les étoiles scintillantes ou les perles éclatantes	Pâlit face aux éclats, aux rayons et aux flèches de l'amour.
 
 (18, 7, 0) ***Sign***
 Message:
@@ -284,9 +284,9 @@ Message:
 
 (3, 16, 0) ***Seer's Hut***
 Message:
-Je suis un mÃ©decin qui cherche Ã  redonner la vue aux aveugles. C'est un objectif ambitieux, mais comme le dit le proverbe : "Visez les Ã©toiles" !		Pour commencer, je vais devoir Ã©tudier la cÃ©citÃ© des Troglodytes. Apportez-m'en 14 et je vous ferai part de mes dÃ©couvertes.
-J'ai entendu parler d'un donjon situÃ© dans les terres dÃ©solÃ©es du sud. C'est lÃ  que vivent les Troglodytes.		Apportez-moi 14 Troglodytes afin que je puisse commencer mes recherches sur leur cÃ©citÃ©.
-Ces 14 Troglodytes m'aideront Ã  me rapprocher d'un remÃ¨de contre la cÃ©citÃ©. Vous avez accompli une bonne action aujourd'hui !		En rÃ©compense, je peux vous enseigner tout ce que je sais sur la cÃ©citÃ©.
+Je suis un médecin qui cherche à redonner la vue aux aveugles. C'est un objectif ambitieux, mais comme le dit le proverbe : "Visez les étoiles" !		Pour commencer, je vais devoir étudier la cécité des Troglodytes. Apportez-m'en 14 et je vous ferai part de mes découvertes.
+J'ai entendu parler d'un donjon situé dans les terres désolées du sud. C'est là que vivent les Troglodytes.		Apportez-moi 14 Troglodytes afin que je puisse commencer mes recherches sur leur cécité.
+Ces 14 Troglodytes m'aideront à me rapprocher d'un remède contre la cécité. Vous avez accompli une bonne action aujourd'hui !		En récompense, je peux vous enseigner tout ce que je sais sur la cécité.
 
 (78, 49, 0) ***Pandora's Box***
 Message:
@@ -306,11 +306,11 @@ La Tour des Merveilles
 
 (13, 77, 0) ***Sign***
 Message:
-Tour de la LÃ©gion
+Tour de la Légion
 
 (60, 91, 0) ***Sign***
 Message:
-: Auberge de Wing Tail :		Nord - Plage des Marins	Ouest - Ã‰pave	Est - ColisÃ©e des Mages	Sud - Phare
+: Auberge de Wing Tail :		Nord - Plage des Marins	Ouest - Épave	Est - Colisée des Mages	Sud - Phare
 
 (53, 94, 0) ***Pandora's Box***
 Message:
@@ -318,7 +318,7 @@ Message:
 
 (14, 32, 0) ***Sign***
 Message:
-: Le Canyon des Taureaux :		Nord - Le Lac des Yeux MalÃ©fiques	Ouest - Ã‰tang aux gemmes	Est - Ruche des GuÃªpes-Dragons	Sud - Chantier naval
+: Le Canyon des Taureaux :		Nord - Le Lac des Yeux Maléfiques	Ouest - Étang aux gemmes	Est - Ruche des Guêpes-Dragons	Sud - Chantier naval
 
 (8, 82, 0) ***Pandora's Box***
 Message:
@@ -326,7 +326,7 @@ Message:
 
 (82, 9, 0) ***Sign***
 Message:
-:  Les Collines BoisÃ©es :		Nord - ClairiÃ¨re des Licornes	Ouest - Terreau des Sangliers	Est - UniversitÃ©	Sud - Route des CommerÃ§ants
+:  Les Collines Boisées :		Nord - Clairière des Licornes	Ouest - Terreau des Sangliers	Est - Université	Sud - Route des Commerçants
 
 (54, 75, 0) ***Cove***
 Name:
@@ -342,19 +342,19 @@ Bull Creek
 
 (52, 64, 0) ***Seer's Hut***
 Message:
-Je collectionne les monstres rares. Ã‡a vous intÃ©resse de faire un Ã©change ?		En Ã©change dâ€™un Dragon dâ€™Or et dâ€™un Titan, je vous donnerai un Dragon Azur.
-Ã‡a vous intÃ©resse toujours de faire un Ã©change avec moi ? Apportez-moi un Dragon dâ€™Or et un Titan, et je vous donnerai un Dragon Azur.
-Comme promis, voici un Dragon Azur en Ã©change de votre Dragon dâ€™Or et de votre Titan. ÃŠtes-vous prÃªt Ã  faire lâ€™Ã©change ?
+Je collectionne les monstres rares. Ça vous intéresse de faire un échange ?		En échange d’un Dragon d’Or et d’un Titan, je vous donnerai un Dragon Azur.
+Ça vous intéresse toujours de faire un échange avec moi ? Apportez-moi un Dragon d’Or et un Titan, et je vous donnerai un Dragon Azur.
+Comme promis, voici un Dragon Azur en échange de votre Dragon d’Or et de votre Titan. Êtes-vous prêt à faire l’échange ?
 
 (79, 42, 0) ***Sign***
 Message:
-: Ã€ vendre :		1 sort Foudre Terrible	Si Ã§a vous intÃ©resse, mettez le cap vers l'ouest !
+: À vendre :		1 sort Foudre Terrible	Si ça vous intéresse, mettez le cap vers l'ouest !
 
 (102, 85, 0) ***Seer's Hut***
 Message:
-La rÃ©colte est abondante cette annÃ©e. J'aurais bien besoin d'un coup de main dans les champs... voire de plusieurs paires de mains, en fait. 		Si vous m'amenez 15 ouvriers Hobbits, je vous paierai une part Ã©quitable de mes gains : 4 000 piÃ¨ces d'or.
-La rÃ©colte de cette annÃ©e s'annonce bien, mais ce serait plus facile avec quelques ouvriers supplÃ©mentaires. 		Si vous rencontrez des Hobbits au cours de vos voyages, 15 pour Ãªtre prÃ©cis, envoyez-les-moi et je vous paierai 4 000 piÃ¨ces d'or.
-Ah, ces 15 Hobbits seront d'une grande aide pour la rÃ©colte. En Ã©change de leurs services, je vous paierai 4 000 piÃ¨ces d'or. MarchÃ© conclu ?
+La récolte est abondante cette année. J'aurais bien besoin d'un coup de main dans les champs... voire de plusieurs paires de mains, en fait. 		Si vous m'amenez 15 ouvriers Hobbits, je vous paierai une part équitable de mes gains : 4 000 pièces d'or.
+La récolte de cette année s'annonce bien, mais ce serait plus facile avec quelques ouvriers supplémentaires. 		Si vous rencontrez des Hobbits au cours de vos voyages, 15 pour être précis, envoyez-les-moi et je vous paierai 4 000 pièces d'or.
+Ah, ces 15 Hobbits seront d'une grande aide pour la récolte. En échange de leurs services, je vous paierai 4 000 pièces d'or. Marché conclu ?
 
 (50, 48, 0) ***Dungeon***
 Name:
@@ -374,13 +374,13 @@ Message:
 
 (36, 84, 0) ***Ocean Bottle***
 Message:
-: Ã€ vendre :		1 sort de TÃ©lÃ©portation	Si Ã§a t'intÃ©resse, mets le cap vers le sud !
+: À vendre :		1 sort de Téléportation	Si ça t'intéresse, mets le cap vers le sud !
 
 (39, 9, 0) ***Seer's Hut***
 Message:
-En explorant les montagnes, j'ai trouvÃ© un trÃ©sor de 4 000 piÃ¨ces d'or.		Je ne le donnerai qu'Ã  quelqu'un en qui j'ai confiance et qui ne le gaspillera pas. Une bonne gestion financiÃ¨re demande de l'expÃ©rience : en avez-vous assez ?
-Je vais garder mes 4 000 piÃ¨ces d'or pour l'instant. Vous ne semblez pas assez compÃ©tent pour en faire bon usage. Gagnez plus d'expÃ©rience et revenez quand vous aurez terminÃ© !
-Hum, vous avez l'air de savoir gÃ©rer vos finances. 		Je suis sÃ»r que vous ferez bon usage de ces 4 000 piÃ¨ces d'or. Allez, filez !
+En explorant les montagnes, j'ai trouvé un trésor de 4 000 pièces d'or.		Je ne le donnerai qu'à quelqu'un en qui j'ai confiance et qui ne le gaspillera pas. Une bonne gestion financière demande de l'expérience : en avez-vous assez ?
+Je vais garder mes 4 000 pièces d'or pour l'instant. Vous ne semblez pas assez compétent pour en faire bon usage. Gagnez plus d'expérience et revenez quand vous aurez terminé !
+Hum, vous avez l'air de savoir gérer vos finances. 		Je suis sûr que vous ferez bon usage de ces 4 000 pièces d'or. Allez, filez !
 
 (61, 30, 0) ***Ocean Bottle***
 Message:
@@ -388,7 +388,7 @@ Message:
 
 (44, 23, 0) ***Sign***
 Message:
-__	<^\()/^>	\/  \/	/  \	`''`		Nous avons remis le Heaume de l'Illumination	au Voyant qui vit lÃ -bas.
+__	<^\()/^>	\/  \/	/  \	`''`		Nous avons remis le Heaume de l'Illumination	au Voyant qui vit là-bas.
 
 (92, 49, 1) ***Pandora's Box***
 Message:
@@ -400,19 +400,19 @@ Repentez-vous ! La fin est proche.
 
 (9, 89, 1) ***Seer's Hut***
 Message:
-Au pied de cette cabane se trouve ma chambre forte Ã  cristaux : un vÃ©ritable trÃ©sor abritant les cristaux les plus rares et les plus brillants que vous ayez jamais vus. Une telle chambre forte ne doit pas rester sans surveillance, câ€™est pourquoi jâ€™ai besoin de monstres puissants et robustes.		On dit que les Golems dâ€™Or sont parfaitement adaptÃ©s Ã  cette tÃ¢che. Apportez-mâ€™en 3 et je vous rÃ©compenserai avec 10 cristaux.
-Il existe deux usines de Golems dans les tunnels de lâ€™extrÃªme Nord et de lâ€™extrÃªme Est. Ã€ ma connaissance, ce sont les seuls endroits oÃ¹ lâ€™on peut forger des Golems dâ€™Or. 		Je vous offre la somme considÃ©rable de 10 cristaux pour les trois !
-Parfait ! Avec ces trois Golems dâ€™Or, mon coffre-fort sera Ã  lâ€™abri des intrus. 		Comme promis, je vous paierai 10 cristaux pour eux.
+Au pied de cette cabane se trouve ma chambre forte à cristaux : un véritable trésor abritant les cristaux les plus rares et les plus brillants que vous ayez jamais vus. Une telle chambre forte ne doit pas rester sans surveillance, c’est pourquoi j’ai besoin de monstres puissants et robustes.		On dit que les Golems d’Or sont parfaitement adaptés à cette tâche. Apportez-m’en 3 et je vous récompenserai avec 10 cristaux.
+Il existe deux usines de Golems dans les tunnels de l’extrême Nord et de l’extrême Est. À ma connaissance, ce sont les seuls endroits où l’on peut forger des Golems d’Or. 		Je vous offre la somme considérable de 10 cristaux pour les trois !
+Parfait ! Avec ces trois Golems d’Or, mon coffre-fort sera à l’abri des intrus. 		Comme promis, je vous paierai 10 cristaux pour eux.
 
 (62, 97, 1) ***Seer's Hut***
 Message:
-Je suis un maÃ®tre de la magie du feu. On m'appelait "le Dieu des Enfers" Ã  l'Ã©poque oÃ¹ je combattais.		Je vous enseignerai un sort puissant, si vous Ãªtes assez fort pour l'apprendre.
-Mon sort de feu n'est pas adaptÃ© Ã  un mage novice : vous ne feriez que vous mettre le feu !
-Je vois que vous Ãªtes un mage de combat talentueux. Dans ce cas, je vais vous enseigner le sort "Inferno". Faites-en bon usage !
+Je suis un maître de la magie du feu. On m'appelait "le Dieu des Enfers" à l'époque où je combattais.		Je vous enseignerai un sort puissant, si vous êtes assez fort pour l'apprendre.
+Mon sort de feu n'est pas adapté à un mage novice : vous ne feriez que vous mettre le feu !
+Je vois que vous êtes un mage de combat talentueux. Dans ce cas, je vais vous enseigner le sort "Inferno". Faites-en bon usage !
 
 (52, 98, 1) ***Sign***
 Message:
-: Grotte de la sirÃ¨ne : 		Nord - Tente des Nomades	Ouest - Scierie	Est - Porte de l'OcÃ©an	Sud - Hutte de Voy
+: Grotte de la sirène : 		Nord - Tente des Nomades	Ouest - Scierie	Est - Porte de l'Océan	Sud - Hutte de Voy
 
 (56, 96, 1) ***Cove***
 Name:
@@ -424,13 +424,13 @@ Blue Whale
 
 (45, 12, 1) ***Seer's Hut***
 Message:
-Bienvenue Ã  la Boutique du Dragon ! Je fais le commerce dâ€™artefacts draconiques.		Si vous mâ€™apportez le Tabard Dragon, je vous donnerai le Collier Dents de Dragon. Un Ã©change Ã©quitable, jâ€™en suis sÃ»r !
-Vous cherchez toujours le Tabard Dragon ? Il pourrait Ãªtre n'importe oÃ¹... Peut-Ãªtre mÃªme tout au sud !		Si vous le trouvez, je suis prÃªt Ã  vous l'Ã©changer contre le Collier Dents de Dragon.
-En Ã©change du Tabard Dragon, je vous donnerai le Collier Dents de Dragon. MarchÃ© conclu ?
+Bienvenue à la Boutique du Dragon ! Je fais le commerce d’artefacts draconiques.		Si vous m’apportez le Tabard Dragon, je vous donnerai le Collier Dents de Dragon. Un échange équitable, j’en suis sûr !
+Vous cherchez toujours le Tabard Dragon ? Il pourrait être n'importe où... Peut-être même tout au sud !		Si vous le trouvez, je suis prêt à vous l'échanger contre le Collier Dents de Dragon.
+En échange du Tabard Dragon, je vous donnerai le Collier Dents de Dragon. Marché conclu ?
 
 (50, 14, 1) ***Sign***
 Message:
-: Grotte des Baleiniers :		Nord - Ã‰tang aux gemmes	Ouest - Boutique du Dragon	Est - Portail Ã  sens unique	Sud - Fort de Nix
+: Grotte des Baleiniers :		Nord - Étang aux gemmes	Ouest - Boutique du Dragon	Est - Portail à sens unique	Sud - Fort de Nix
 
 (31, 74, 1) ***Cove***
 Name:
@@ -442,7 +442,7 @@ Tempest
 
 (60, 40, 1) ***Sign***
 Message:
-: Tunnels des TempÃªtes :		Nord - Pilier des Yeux	Ouest - Sanctuaire du Gel	Est - Portail Ã  sens unique	Sud - Repaire du Dragon
+: Tunnels des Tempêtes :		Nord - Pilier des Yeux	Ouest - Sanctuaire du Gel	Est - Portail à sens unique	Sud - Repaire du Dragon
 
 (61, 49, 1) ***Pandora's Box***
 Message:
@@ -450,9 +450,9 @@ Message:
 
 (4, 64, 1) ***Seer's Hut***
 Message:
-J'ai toujours rÃªvÃ© d'une vie de marin. Sillonner les sept mers, explorer le monde et chanter des chants de marins la nuit... 		J'ai dÃ©jÃ  un bateau, il ne me manque plus qu'un Ã©quipage ! 9 Matelots devraient suffire.
-La vie est ennuyeuse. J'aimerais Ãªtre un aventurier comme vous ! Mais j'ai d'abord besoin de quelques Ã¢mes courageuses pour manoeuvrer mon navire.		Si vous m'amÃ¨nez 9 Matelots, je vous rendrai la pareille en vous donnant mon vieux Collier des Dauphins.
-Merveilleux ! Si vous Ãªtes prÃªt Ã  vous sÃ©parer de ces 9 Matelots, je pourrai enfin lever l'ancre ! 		En Ã©change, vous aurez mon Collier des Dauphins
+J'ai toujours rêvé d'une vie de marin. Sillonner les sept mers, explorer le monde et chanter des chants de marins la nuit... 		J'ai déjà un bateau, il ne me manque plus qu'un équipage ! 9 Matelots devraient suffire.
+La vie est ennuyeuse. J'aimerais être un aventurier comme vous ! Mais j'ai d'abord besoin de quelques âmes courageuses pour manoeuvrer mon navire.		Si vous m'amènez 9 Matelots, je vous rendrai la pareille en vous donnant mon vieux Collier des Dauphins.
+Merveilleux ! Si vous êtes prêt à v séparer de ces 9 Matelots, je pourrai enfin lever l'ancre ! 		En échange, vous aurez mon Collier des Dauphins
 
 (100, 65, 1) ***Sign***
 Message:
@@ -460,11 +460,11 @@ Le sanctuaire de Gelu
 
 (23, 39, 1) ***Sign***
 Message:
-: Guide de la boÃ®te de Pandore :		Si Ã§a flotte, ne l'ouvrez pas,	Ã  moins d'Ãªtre prÃªt Ã  mourir.
+: Guide de la boîte de Pandore :		Si ça flotte, ne l'ouvrez pas,	à moins d'être prêt à mourir.
 
 (35, 71, 1) ***Sign***
 Message:
-: Grotte de la Lune :		Nord - Porte Noire	Ouest - Fort des Nix	Est - Vignoble	Sud - Antre de MÃ©duses
+: Grotte de la Lune :		Nord - Porte Noire	Ouest - Fort des Nix	Est - Vignoble	Sud - Antre de Méduses
 
 (86, 3, 1) ***Pandora's Box***
 Message:
@@ -492,19 +492,19 @@ Message:
 
 (66, 76, 1) ***Seer's Hut***
 Message:
-Ma Caverne de Cristal a Ã©tÃ© envahie par des monstres. Je suis trop faible pour les combattre moi-mÃªme, alors je ne peux rien faire dâ€™autre que rester assis ici Ã  broyer du noir.		Vous pouvez mâ€™aider ? La Caverne de Cristal se trouve juste aprÃ¨s la porte nord. En Ã©change, je vous apprendrai Finances.
-Dâ€™aprÃ¨s ce que jâ€™ai entendu, la Caverne de Cristal est toujours envahie par des monstres.		Elle se trouve juste aprÃ¨s la porte nord, au cas oÃ¹ vous auriez envie de mâ€™aider !
-La Caverne de Cristal fonctionne Ã  nouveau ? C'est une excellente nouvelle ! Je vous en remercie.		Si ma gratitude ne suffit pas, que diriez-vous que je vous enseigne les bases de Finances ?
+Ma Caverne de Cristal a été envahie par des monstres. Je suis trop faible pour les combattre moi-même, alors je ne peux rien faire d’autre que rester assis ici à broyer du noir.		Vous pouvez m’aider ? La Caverne de Cristal se trouve juste après la porte nord. En échange, je vous apprendrai Finances.
+D’après ce que j’ai entendu, la Caverne de Cristal est toujours envahie par des monstres.		Elle se trouve juste après la porte nord, au cas où vous auriez envie de m’aider !
+La Caverne de Cristal fonctionne à nouveau ? C'est une excellente nouvelle ! Je vous en remercie.		Si ma gratitude ne suffit pas, que diriez-vous que je vous enseigne les bases de Finances ?
 
 (86, 11, 1) ***Ocean Bottle***
 Message:
-Bonjour, et bon vent Ã  vous !
+Bonjour, et bon vent à vous !
 
 (58, 47, 1) ***Seer's Hut***
 Message:
-Un ange m'a remis ce Heaume de l'Illumination et m'a chargÃ© de le garder en sÃ©curitÃ© jusqu'Ã  ce qu'un hÃ©ros digne de ce nom se prÃ©sente.		MaÃ®trisez-vous les quatre compÃ©tences principales ?
-Seuls les meilleurs parmi les meilleurs peuvent porter le Heaume de l'Illumination.		Revenez me voir lorsque vous maÃ®triserez les quatre compÃ©tences principales.
-Vous devez Ãªtre le hÃ©ros dont m'a parlÃ© l'ange. 		Tenez, prenez ce Heaume de l'Illumination.
+Un ange m'a remis ce Heaume de l'Illumination et m'a chargé de le garder en sécurité jusqu'à ce qu'un héros digne de ce nom se présente.		Maîtrisez-vous les quatre compétences principales ?
+Seuls les meilleurs parmi les meilleurs peuvent porter le Heaume de l'Illumination.		Revenez me voir lorsque vous maîtriserez les quatre compétences principales.
+Vous devez être le héros dont m'a parlé l'ange. 		Tenez, prenez ce Heaume de l'Illumination.
 
 ===== Extended Events =====
 ===== End of file =====
