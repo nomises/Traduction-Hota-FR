@@ -1,35 +1,35 @@
 ===== Map name =====
-Paradise of the Mind
+Paradis de l'esprit
 
 ===== Map description =====
-This world is lush and bountiful, but all who tread its ground suffer from vivid dreams that fester in the mind. As time passes, the line between waking and sleeping blurs. You must find a cure for this strange affliction, and destroy all who stand in your way.
+Ce monde est luxuriant et généreux, mais tous ceux qui y mettent les pieds sont en proie à des rêves saisissants qui rongent leur esprit. Au fil du temps, la frontière entre la veille et le sommeil s'estompe. Vous devez trouver un remède à cet étrange mal et éliminer tous ceux qui se dressent sur votre chemin.
 
 ===== Rumors =====
 
 Name:
 dream1
 Text:
-We live inside a dream, but who is the dreamer?
+Nous vivons dans un rêve, qui est le rêveur ?
 
 Name:
 dream2
 Text:
-All that we see or seem is but a dream within a dream.
+Tout ce que nous voyons et semblons voir n'est qu'un rêve dans un rêve.
 
 Name:
 ships
 Text:
-To gain the Summon Ship spell, sail to the heart of the sea.
+Pour obtenir le sort "Corne de Brume", naviguez jusqu'au coeur de la mer.
 
 Name:
 alcyon
 Text:
-In the Demon Wars many heroes left to join the Conflux. I wonder, did they ever return?
+Lors de Guerres des Démons, de nombreux héros sont partis rejoindre le Conflux. Je me demande s'ils en sont revenus.
 
 Name:
 zilare
 Text:
-It is said that Zilare left on a journey in search for an old friend.
+On raconte que Zilare serait parti en voyage à la recherche d'un vieil ami.
 
 ===== Timed events =====
 
@@ -41,57 +41,57 @@ Message:
 Name:
 intro
 Message:
-This realm is shrouded in mystery. It is said that all who try to claim it their own are slowly befallen by a curse that warps their sense of dream and reality, leaving them to wonder if they are awake or yet asleep.		You, too, have fallen victim to this strange affliction. Even now you are not sure if you are truly conscious or caught inside a lifelike dream.
+Ce royaume est enveloppé de mystère. On raconte que tous ceux qui tentent de s’en emparer sont peu à peu victimes d’une malédiction qui brouille la frontière entre rêve et réalité, les laissant se demander s’ils sont éveillés ou encore endormis.		Vous aussi, vous êtes victime de cet étrange fléau. Même à l’instant présent, vous ne savez pas avec certitude si vous êtes réellement conscient ou pris au piège dans un rêve plus vrai que nature.
 
 Name:
 intro cont.
 Message:
-You task your two best scouts with finding the seers and scholars who dwell within these hills and caves. Perhaps they know more about the curse's dark design and, ideally, a way to break it.		In the meantime you should resume your conquest. Adventure awaits!
+Vous chargez vos deux meilleurs éclaireurs de retrouver les devins et les érudits qui vivent dans ces collines et ces grottes. Peut-être en savent-ils davantage sur les sombres desseins de la malédiction et, dans l'idéal, sur un moyen de la briser.		En attendant, vous devriez reprendre votre conquête. L'aventure vous attend !
 
 Name:
 bard
 Message:
-Your first scout returns, having met a travelling bard with a penchant for gossip.		If the bard's tales are to be trusted, then you are not the first to explore this realm's secrets. Months past, two Erathian knights sought to to break the dream-curse at Her Majesty's request. However, they vanished soon after. What became of them is a mystery.
+Votre premier éclaireur revient après avoir rencontré un barde itinérant qui adore colporter des ragots.		Si l'on en croit les récits du barde, vous n'êtes pas les premiers à explorer les secrets de ce royaume. Il y a quelques mois, deux chevaliers d'Erathia ont tenté de briser la malédiction des rêves à la demande de Sa Majesté. Cependant, ils ont disparu peu après. On ignore ce qu'ils sont devenus.
 
 Name:
 bard cont.
 Message:
-More recently, the Wizard King sent forth his cronies to study the dream-curse. It is not known if he seeks to destroy it or gain control over its powers. In any case, you should prepare to face these wizards in battle as they don't take kindly to strangers.		Lastly, various warlords have set up camp nearby. You will have to fight them too, lest you intend to share the spoils of war.
+Plus récemment, le Roi Sorcier a envoyé ses sbires étudier la malédiction des rêves. On ignore s’il cherche à la détruire ou à s’emparer de ses pouvoirs. Quoi qu’il en soit, préparez-vous à affronter ces sorciers au combat, car ils ne voient pas d’un bon oeil les étrangers.		Enfin, divers seigneurs de guerre ont établi leur campement dans les environs. Vous devrez également les combattre, à moins que vous n’ayez l’intention de partager le butin de guerre.
 
 Name:
 scholar
 Message:
-At nightfall your second scout returns, having found an old scholar who lives in a nearby cave. Once he heard of your plan to break the curse, the scholar was eager to share his findings.		According to him, the dream-curse first took hold roughly two years ago. Its origin is a matter of dispute, though many suspect foul magic.
+À la tombée de la nuit, votre deuxième éclaireur revient, après avoir trouvé un vieux savant qui vit dans une grotte voisine. Dès qu’il a eu vent de votre projet de briser la malédiction, le savant s’est empressé de faire part de ses découvertes.		Selon lui, la malédiction des rêves s’est installée il y a environ deux ans. Son origine fait l’objet de débats, même si beaucoup soupçonnent une magie noire.
 
 Name:
 scholar cont.
 Message:
-The scholar theorized that the curse's dark power is fueled by the chaos, spite and bloodshed which have reigned supreme ever since the first warlords had lain claim to the realm. 		Thus ending the war yields the key to breaking the curse: when the realm is at peace, your mind will be too.
+Le savant a émis l'hypothèse que le pouvoir obscur de la malédiction se nourrit du chaos, de la rancoeur et des effusions de sang qui règnent en maîtres depuis que les premiers seigneurs de guerre ont pris possession du royaume. 		Mettre fin à la guerre est donc la clé pour briser la malédiction : lorsque le royaume sera en paix, votre esprit le sera aussi.
 
 Name:
 scholar fin.
 Message:
-If this is true, then your path is clear: unite the realm under your banner and the dividing line between dream and reality will manifest again. Until then you must remain vigilant.		At daybreak you return to your war council with renewed vigor. Much is at stake, and the battle is far from over...
+Si cela est vrai, alors la voie à suivre est toute tracée : unifiez le royaume sous votre bannière et la frontière entre le rêve et la réalité réapparaîtra. D’ici là, vous devez rester vigilant.		À l’aube, vous rejoignez votre conseil de guerre avec une vigueur renouvelée. L’enjeu est de taille, et la bataille est loin d’être terminée...
 
 ===== Heroes =====
 
 Name:
 Trystan
 Biography:
-Trystan is well-known for his courage, ardor and tactical naivete. Eager to break this realm's curse, he marched forth with high confidence only to be captured in a roadside ambush.
+Trystan est réputé pour son courage, son ardeur et sa naïveté tactique. Désireux de briser la malédiction qui pèse sur ce royaume, il s'est lancé dans la bataille avec une grande assurance, mais il a fini par être capturé lors d'une embuscade au bord de la route.
 
 Biography:
-Tyris favors an all-or-nothing approach to warfare, taking high risks in order to soar to victory. Usually this strategy pays off well for her, however, her latest maneuver ended in her defeat and capture.
+Tyris privilégie une approche "tout ou rien" en matière de guerre, prenant des risques considérables pour remporter la victoire. Si cette stratégie s'avère généralement payante pour elle, sa dernière manoeuvre s'est toutefois soldée par sa défaite et sa capture.
 
 Name:
 Cimbule
 Biography:
-Struck by a curse of mania, Cimbule forsake magic in favor of craftwork. He is often found in the workshops, puzzling the Gremlins with sketches of winged boats and fire-spitting staffs.
+Rongé par une obsession dévorante, Cimbule a délaissé la magie au profit de l'artisanat. On le trouve souvent dans les ateliers, où il intrigue les Lutins avec ses croquis de bateaux ailés et de bâtons cracheurs de feu.
 
 Name:
 Corrodus
 Biography:
-A Genie of modest power, Corrodus is eager to rise above his station. For this purpose he pledged himself to the Genie he deemed the most powerful: Lord Cimbule of Bracada. Cimbule agreed to train Corrodus - out of goodwill, and a quiet sense of pride in his reputation.
+Génie aux pouvoirs modestes, Corrodus aspire ardemment à s'élever au-dessus de son rang. À cette fin, il s'est mis au service du génie qu'il considérait comme le plus puissant : le seigneur Cimbule de Bracada. Cimbule a accepté de former Corrodus, par bienveillance, mais aussi par une fierté discrète liée à sa réputation.
 
 Biography:
 
@@ -99,12 +99,12 @@ Biography:
 Name:
 Adran
 Biography:
-With Kreelah lain to waste, Adran returned to his slumber in the mountains near Eofol. However, the chaos of war had left him feeling restless. He soon rose up once more in search for new battles.
+Kreelah étant désormais en ruines, Adran retourna se reposer dans les montagnes près d’Eofol. Cependant, le chaos de la guerre l’avait rendu agité. Il se remit bientôt en route, à la recherche de nouvelles batailles.
 
 Name:
 Alcyon
 Biography:
-Alcyon's love for the aerial realm drew the eye of the Conflux, who called for him at the height of the Demon War. Alcyon left his old life behind, never to return.
+La passion d'Alcyon pour le monde aérien attira l'attention du Conflux, qui fit appel à lui au plus fort de la Guerre des Démons. Alcyon abandonna alors son ancienne vie, pour ne plus jamais y revenir.
 
 Biography:
 
@@ -113,15 +113,15 @@ Biography:
 
 
 Biography:
-The duke's return is shrouded in mystery. Some say that he had simply faked his death in order to evade Kilgor's wrath, while others whisper of foul magic, perhaps even Necromancy. Wheresoever the truth lies, Boragus is back and eager to prove his worth.
+Le retour du duc est entouré de mystère. Certains affirment qu'il a simplement simulé sa mort pour échapper à la colère de Kilgor, tandis que d'autres murmurent qu'il s'agirait de magie noire, voire de Nécromancie. Quelle que soit la vérité, Boragus est de retour et impatient de faire ses preuves.
 
 Name:
 Robert
 Biography:
-Robert "the Solitaire" is a lone wolf at heart, preferring the calm of the sea over the bustle of the pirate covens. A lifelong bachelor, he has dozens of nieces and nephews through his ten brothers.
+Robert "le Solitaire" est un loup solitaire dans l'âme, qui préfère le calme de la mer à l'agitation des repaires de pirates. Célibataire endurci, il compte des dizaines de nièces et de neveux grâce à ses dix frères.
 
 Biography:
-Zilare had long sought a way to revert the effects of mind-altering spellcraft. However, his latest attempt backfired, putting the entire realm under a curse instead.
+Zilare cherchait depuis longtemps un moyen d'annuler les effets des sorts altérant l'esprit. Cependant, sa dernière tentative s'est retournée contre lui, jetant au contraire tout le royaume sous le coup d'une malédiction.
 
 ===== Objects =====
 
@@ -135,13 +135,13 @@ Guild
 
 (56, 52, 0) ***Sign***
 Message:
-Sound trumpets,	Let our bloody colours wave!	And either victory,	Or else a grave.
+Sonnez les trompettes,	Que nos drapeaux ensanglantés flottent au vent !	Et soit la victoire,	Soit la tombe.
 
 (69, 48, 0) ***Seer's Hut***
 Message:
-Others may speak of the sanctity of the mind. However, the mind is no more sacred than the body, and true power requires a balance of skill: the mind's connection to the hand which wields the sword. Understand this and greater power is yours to unlock.
-To align body and mind is but the first of many steps. Return to me when you are ready, and I will show you the way to great power.
-I see that you have achieved true balance of body and mind. Allow me to aid you in your quest for ultimate power.
+D’autres parlent peut-être du caractère sacré de l’esprit. Cependant, l’esprit n’est pas plus sacré que le corps, et le véritable pouvoir exige un équilibre entre les compétences : le lien entre l’esprit et la main qui manie l’épée. Comprenez cela, et vous pourrez accéder à un pouvoir plus grand.
+Aligner le corps et l’esprit n’est que la première étape d’un long parcours. Revenez me voir lorsque vous serez prêt, et je vous montrerai le chemin vers un immense pouvoir.
+Je vois que vous avez atteint le véritable équilibre entre le corps et l’esprit. Permets-moi de vous aider dans votre quête du pouvoir ultime.
 
 (94, 50, 0) ***Random Town***
 Name:
@@ -149,9 +149,9 @@ Bonaventure
 
 (86, 44, 0) ***Seer's Hut***
 Message:
-Turmoil has engulfed the eastern woodlands. In the shadows of the trees, muggers and miscreants lie in wait to profit from lone wanderers. I offer the Armor of Wonder for any brave soul that can best these brigands.
-Sadly, our woods are still plagued by bandits. I offer the Armor of Wonder for any who brings me their heads.
-Tales have been told of the bandit camp lying in ruin. At last our woods are safe once more! Here is the promised reward: the Armor of Wonder.
+Le chaos s'est abattu sur les forêts à l'Est. Dans l'ombre des arbres, des agresseurs et des malfaiteurs guettent les voyageurs solitaires pour s'en emparer. J'offre l'Armure Miraculeuse à toute âme courageuse capable de venir à bout de ces brigands.
+Malheureusement, nos forêts sont toujours en proie aux bandits. J'offre l'Armure Miraculeuse à quiconque m'apportera leurs têtes.
+Des rumeurs circulent selon lesquelles le camp des bandits serait en ruines. Enfin, nos forêts sont à nouveau sûres ! Voici la récompense promise : l’Armure Miraculeuse.
 
 (15, 40, 0) ***Random Town***
 Name:
@@ -159,9 +159,9 @@ Maidstone
 
 (16, 56, 0) ***Seer's Hut***
 Message:
-Tales have been told of a strange triangular crypt that has sprung up where nothing but sand lay before. It is the fabled Tomb of Curses, wherein dwell the Mummies. I want you to capture 7 of these Mummies and bring them to me. I have great interest in their powers.
-Are you here to bring me the 7 Mummies I had asked you about? If not, then there is nothing I can do for you.
-These 7 Mummies will help me greatly in my necromantic pursuits. In exchange for them, I will give you a powerful artifact: the Pendant of Downfall.
+On raconte l’histoire d’une étrange crypte triangulaire qui a surgi là où il n’y avait auparavant que du sable. Il s’agit de la légendaire Tombe des Malédictions, où résident les Momies. Je veux que vous capturiez 7 de ces Momies et que vous me les apportiez. Leurs pouvoirs m’intéressent au plus haut point.
+Etes-vous venu m'apporter les 7 Momies que je vous avais demandées ? Si ce n'est pas le cas, je ne peux rien faire pour vous.
+Ces 7 Momies m'aideront énormément dans mes recherches nécromantiques. En échange, je vous donnerai un artefact puissant : le Pendentif d'Ardeur.
 
 (22, 87, 0) ***Tower***
 Name:
@@ -169,7 +169,7 @@ Storm Wind
 
 (93, 70, 0) ***Ocean Bottle***
 Message:
-Shiver me timbers!
+Par tous les saints !
 
 (64, 96, 0) ***Random Town***
 Name:
@@ -177,11 +177,11 @@ Goldhawk
 
 (58, 87, 0) ***Sign***
 Message:
-The earth, and every common sight,	To me did seem	Apparelled in celestial light,	The glory and the freshness of a dream.
+La terre, et tout ce que l'on voit au quotidien,	Me semblaient	Baignés d'une lumière céleste,	Dans la splendeur et la fraîcheur d'un rêve.
 
 (90, 105, 0) ***Sign***
 Message:
-Praise the sun!
+Gloire au soleil !
 
 (74, 81, 0) ***Random Town***
 Name:
@@ -189,11 +189,11 @@ Wippet
 
 (107, 84, 0) ***Sign***
 Message:
-Clovergreen Outpost
+Avant-poste de Clovergreen
 
 (62, 26, 0) ***Sign***
 Message:
-Wing Tail Tavern		:: Today's menu ::	Crunchy critters in fungus soup	Lizard on a stick	Mysterious pie (eat at own risk)
+Taverne de Wing		:: Menu du jour ::    Petites bestioles croustillantes à la soupe aux champignons	Lézard en brochette	Tarte mystérieuse (à consommer à vos risques et périls)
 
 (66, 9, 0) ***Stronghold***
 Name:
@@ -201,39 +201,39 @@ Tyvarex
 
 (68, 14, 0) ***Seer's Hut***
 Message:
-Many generations ago this land was the battleground of warring Cyclops tribes. Their history has been lost to time, but what little is left of their smithwork is highly sought after amongst the Barbarians, who deem it enchanted by ancient magic. I wish to study this enchantment myself. Bring me the Tunic of the Cyclops King and I will reward you handsomely.
-The Tunic of the Cyclops King is still out there, waiting to be found. If you do find it, bring it to me and I will teach you in the ways of Earth Magic.
-Ah, this Tunic of the Cyclops is exactly what I have been looking for. If you were so kind to give it to me, I will return the favor by teaching you Expert Earth Magic.
+Il y a de nombreuses générations, ces terres étaient le théâtre de guerres entre tribus de Cyclopes rivales. Leur histoire s’est perdue dans les méandres du temps, mais le peu qui reste de leur travail de forgeron est très recherché par les Barbares, qui le considèrent comme imprégné d’une magie ancestrale. Je souhaite étudier moi-même cet enchantement. Apportez-moi la Vareuse du Roi Cyclope et je vous récompenserai généreusement.
+La Vareuse du Roi Cyclope est toujours là, quelque part, attendant d’être découverte. Si vous la trouvez, apportez-la-moi et je vous enseignerai les secrets de la Magie de la Terre.
+Ah, cette Vareuse du Roi Cyclope est exactement ce que je cherchais. Si vous avez la gentillesse de me la donner, je vous rendrai la pareille en vous enseignant la Magie de la Terre de niveau expert.
 
 (103, 32, 0) ***Sign***
 Message:
-And as imagination bodies forth,	The forms of things unknown,	The poet's pen turns them to shapes.
+Et tandis que l'imagination donne vie	Aux formes de choses inconnues,	La plume du poète leur donne corps.
 
 (95, 29, 0) ***Sign***
 Message:
--> to the National Library
+-> Vers la Bibliothèque Nationale
 
 (36, 7, 0) ***Sign***
 Message:
-Shamrock Tavern		"May your troubles be less,	And your blessings be more.!"
+Taverne Shamrock		"Que vos soucis s'allègent,	Et que vos joies grandissent !"
 
 (71, 74, 0) ***Sign***
 Message:
-Initiate Guild of Fire
+Fondation de la Guilde du Feu
 
 (21, 75, 0) ***Sign***
 Message:
-Greetings and salutations!
+Salutations et amitiés !
 
 (52, 15, 0) ***Pandora's Box***
 Message:
-This Pandora's Box has no markings, no filigree, no gems or fancy metalwork. It appears well made, but at the same time so quaint that it is a challenge to judge.
+Cette boîte de Pandore ne présente ni marquage, ni filigrane, ni pierre précieuse, ni ornementation métallique sophistiquée. Elle semble de bonne facture, mais elle a en même temps un aspect si désuet qu’il est difficile de se faire une opinion.
 
 (22, 12, 0) ***Seer's Hut***
 Message:
-So consumed have I been in my personal projects that I have neglected to collect vital ingredients for the potion I use to sharpen my mind. Without it, I will soon grow forgetful and my wisdom will be for nought. I will humbly reward any who bring me 5 vials of Mercury.
-Be swift! Bring me 5 vials of Mercury, lest my wisdom fades from my mind...
-Excellent! With the potion brewn from these 5 vials of Mercury I can continue on my quest for enlightenment with a sharp and healthy mind. In return I will teach you Advanced Wisdom.
+J'ai été tellement absorbé par mes projets personnels que j'ai négligé de rassembler les ingrédients essentiels à la potion qui me permet d'aiguiser mon esprit. Sans elle, je deviendrai bientôt distrait et ma sagesse ne servira plus à rien. Je récompenserai humblement quiconque m'apportera 5 fioles de mercure.
+Dépêchez-vous ! Apportez-moi 5 fioles de mercure, de peur que ma sagesse ne s'efface de mon esprit...
+Excellent ! Grâce à la potion concoctée à partir de ces 5 fioles de mercure, je peux poursuivre ma quête d'illumination avec un esprit vif et sain. En échange, je vous enseignerai la Sagesse avancée.
 
 (100, 100, 0) ***Conflux***
 Name:
@@ -245,61 +245,61 @@ Nova's Heart
 
 (19, 35, 0) ***Sign***
 Message:
-Temple of Water		Caution: Wet floor
+Temple de l'Eau		Attention : sol mouillé
 
 (11, 95, 0) ***Sign***
 Message:
-I do not love the sword for its sharpness,	Nor the arrow for its swiftness,	Nor the warrior for his glory.	I love only what they defend.
+Je n'aime pas l'épée pour son tranchant,	Ni la flèche pour sa rapidité,	Ni le guerrier pour sa gloire.	J'aime seulement ce qu'ils défendent.
 
 (15, 3, 0) ***Sign***
 Message:
-Blithe dreams arise to greet us, 	and life feels clean and new, 	For the old love comes to meet us 	in the dawning and the dew. 
+Des rêves joyeux surgissent pour nous accueillir, 	Et la vie nous semble pure et nouvelle, 	Car l’amour d’autrefois vient à notre rencontre 	Dans l’aube naissante et la rosée.
 
 (49, 5, 0) ***Sign***
 Message:
-Initiate Guild of Dark
+Fondation de la Guilde des Ténèbres
 
 (17, 51, 0) ***Pandora's Box***
 Message:
-Merely holding this Pandora's Box fills you with a sense of dread. When you run your thumb over its lid, your pulse quickens like the beating of a drum. A near unfathomable evil dwells within.
+Le simple fait de tenir cette boîte de Pandore vous remplit d'un sentiment d'angoisse. Lorsque vous passez votre pouce sur son couvercle, votre pouls s'accélère comme le battement d'un tambour. Un mal presque insondable y réside.
 
 (5, 76, 0) ***Ocean Bottle***
 Message:
-May the winds of fortune sail you,	May you sail a gentle sea.	May it always be the other guy	who says, "this drink's on me!"
+Que les vents de la chance vous poussent,	Que vous naviguiez sur une mer calme.	Et que ce soit toujours les autres	Qui disent : "C'est ma tournée !"
 
 (73, 44, 0) ***Ocean Bottle***
 Message:
-Hold fast to dreams, 	for if dreams die, 	life is a broken-winged bird 	that cannot fly. 
+Accrochez-vous à vos rêves, 	Car si les rêves meurent, 	La vie est comme un oiseau aux ailes brisées 	Qui ne peut plus voler.
 
 (106, 33, 0) ***Pandora's Box***
 Message:
-Thorned, jagged and speckled with dried blood, it is not difficult to tell that this Pandora's Box harbors a deadly menace. Your crewmates, fearing the worst, urge you to cast the box back into the sea.
+Épineuse, dentelée et maculée de sang séché, cette boîte de Pandore recèle manifestement une menace mortelle. Tvos compagnons d'équipage, craignant le pire, vous pressent de la rejeter à la mer.
 
 (105, 75, 0) ***Pandora's Box***
 Message:
-Wrought of fine steel and engraved with gilded Bracadan runes that read "Ignis Aeterna", this Pandora's Box appears to be of great arcane value.
+Fabriquée en acier raffiné et gravée de runes dorées de Bracada formant l'inscription "Ignis Aeterna", cette boîte de Pandore semble receler une grande valeur occulte.
 
 (67, 84, 0) ***Seer's Hut***
 Message:
-Many years ago I fell into wickedness and was swept up in the mad ambitions of the vampire lord Velour. But I found heaven's grace in my deepest despair, and now I seek absolution. Velour must be destroyed, lest others follow his dark path.
-Lord Velour was last seen on an island off the western coast. I wish I could to come with you, but even now I fear the vampire's dark power. I can only pray for you.
-I have heard of Velour's defeat. If this is true, then you have freed the world from a great evil. Let me reward you by summoning 3 Magic Elementals.
+Il y a de nombreuses années, je suis tombé dans le mal et j’ai été emporté par les ambitions démesurées du Seigneur Vampire Velour. Mais j’ai trouvé la grâce divine au plus profond de mon désespoir, et je cherche désormais l’absolution. Velour doit être anéanti, de peur que d’autres ne suivent sa voie obscure.
+Le seigneur Velour a été aperçu pour la dernière fois sur une île au large de la côte ouest. J’aimerais pouvoir vous accompagner, mais même aujourd’hui, je crains encore le pouvoir obscur de ce vampire. Je ne peux que prier pour vous.
+J'ai entendu parler de la défaite de Velour. Si cela est vrai, alors vous avez libéré le monde d'un grand mal. Laissez-moi vous récompenser en invoquant trois Élémentaires Magiques.
 
 (38, 91, 0) ***Seer's Hut***
 Message:
-Lately I have been studying the plethora of lifeforms which inhabit these waters. My work is almost complete, however, I still need to conduct various tests on the local Sea Serpents. If you were to find and capture one Sea Serpent, I will pay you its weight in gemstones.
-It is said that Sea Serpents are descended from Azure Dragons and, like their ancestors, they are hostile to outsiders and near impossible to tame. Beware of their venomous bite!
-Most excellent! This Sea Serpent is an ideal specimen for my research. In exchange for it, I will pay you 15 Gems.
+Ces derniers temps, j'étudie la multitude d'espèces qui peuplent ces eaux. Mon travail est presque terminé, mais je dois encore effectuer divers tests sur les Serpents de Mer de la région. Si vous parveniez à en trouver et à en capturer un, je vous paierais son poids en gemmes.
+On dit que les Serpents de Mer descendent des Dragons d'Azur et, à l'instar de leurs ancêtres, ils sont hostiles envers les étrangers et pratiquement impossibles à apprivoiser. Méfiez-vous de leur morsure venimeuse !
+Parfait ! Ce Serpent de Mer est un spécimen idéal pour mes recherches. En échange, je vous verserai 15 gemmes.
 
 (42, 106, 0) ***Pandora's Box***
 Message:
-This Pandora's Box bears the shamanic runes of a bygone ocean tribe. Although you fail to decipher them, you surmise that the box may be a reliquary of sorts.
+Cette boîte de Pandore porte les runes chamaniques d'une tribu maritime disparue. Bien que vous ne parveniez pas à les déchiffrer, vous supposez que cette boîte pourrait être une sorte de reliquaire.
 
 (19, 10, 1) ***Seer's Hut***
 Message:
-I am a collector of bird statues searching for two rare masterworks, the Bird of Perception and Ladybird of Luck. If the tavern hearsay is to be trusted then both of these statues have fallen into the hands of bandits. If you were to encounter these fiends on your travels, put them to the sword and return the birds to me for a handsome reward.
-According to my sources, both statues must be somewhere nearby, albeit guarded by monsters. Be swift to recover them!
-Ah, the Bird of Perception and Ladybird of Luck! These statues will make a fine addition to my collection. In return for them, I will put a blessing of Attack upon you.
+Je suis un collectionneur de statues d’oiseaux à la recherche de deux chefs-d’oeuvre rares : l’Oiseau Moqueur et la Oiseau Porte-Bonheur. Si l’on en croit les rumeurs qui circulent à la taverne, ces deux statues seraient tombées entre les mains de bandits. Si vous veniez à croiser ces scélérats au cours de vos voyages, passez-les au fil de l’épée et rapportez-moi ces oiseaux en échange d’une généreuse récompense.
+D’après mes sources, les deux statues doivent se trouver quelque part dans les environs, bien qu’elles soient gardées par des monstres. Dépêchez-vous de les récupérer !
+Ah, l’Oiseau Moqueur et la Oiseau Porte-Bonheur ! Ces statues viendront magnifiquement compléter ma collection. En échange, je vous accorderai une bénédiction d’Attaque.
 
 (71, 60, 1) ***Random Town***
 Name:
@@ -307,13 +307,13 @@ Silver Bolt
 
 (57, 33, 1) ***Sign***
 Message:
-Xeron lives!
+Xeron est bien vivant !
 
 (85, 12, 1) ***Seer's Hut***
 Message:
-Unfortunate news has arrived that the local Warehouse of Gold is besieged by vile fiends who hunger for the contents of its vaults. I urge you to slay these would-be thieves before they get away.
-Any with the ability to save the Warehouse of Gold from its attackers will be rewarded with a boon of Spell Points. Be swift and bring me their heads!
-At last, the fiends lie slain and the Warehouse of Gold is safe again. For your bravery, I will grant you 36 Spell Points.
+Une triste nouvelle vient de nous parvenir : l'Entrepôt d'Or local est assiégé par d'ignobles monstres avides du contenu de ses coffres. Je vous exhorte à terrasser ces voleurs en herbe avant qu'ils ne s'enfuient.
+Quiconque parviendra à sauver l'Entrepôt d'Or de ses assaillants sera récompensé par des points de sort. Faites vite et rapportez-moi leurs têtes !
+Enfin, les monstres gisent morts et l’Entrepôt d’Or est à nouveau en sécurité. En récompense de votre bravoure, je vous accorde 36 points de magie.
 
 (30, 14, 1) ***Conflux***
 Name:
@@ -325,41 +325,41 @@ Manx
 
 (12, 28, 1) ***Sign***
 Message:
-Nightshade Outpost
+Avant-poste de Nightshade
 
 (62, 17, 1) ***Sign***
 Message:
-Wilfrey's Workshop		Caution: Golem guards on duty
+L'atelier de Wilfrey		Attention : des gardes Golems sont en service
 
 (98, 81, 1) ***Seer's Hut***
 Message:
-I charge all those with knowledge of arms and armor to brave the dangers of the underworld to find the monster that killed my colleague, the Watermage Tobren Rainshield. Avenge Tobren's death by putting the monster and all its familiars to the sword. Justice must be served!
-I must once again urge you to confront the monster that killed and mauled my friend. Until justice is served, I shall help you no further.
-With the beast slain, Tobren's soul shall find peace at last. You have done me a great service. Allow me to return the favor by imparting my wisdom to you.
+Je charge tous ceux qui s'y connaissent en armes et en armures de braver les dangers des enfers pour retrouver le monstre qui a tué mon collègue, le Mage de l'Eau Tobren Rainshield. Vengez la mort de Tobren en passant au fil de l'épée ce monstre et tous ses familiers. Justice doit être faite !
+Je dois une nouvelle fois vous exhorter à affronter le monstre qui a tué et mutilé mon ami. Tant que justice n’aura pas été rendue, je ne vous aiderai pas.
+Une fois la bête terrassée, l’âme de Tobren trouvera enfin la paix. Vous m’avez rendu un grand service. Permettez-moi de vous rendre la pareille en vous transmettant ma sagesse.
 
 (46, 50, 1) ***Sign***
 Message:
-Cave of the Aquamancer
+Grotte de l'Aquamancien
 
 (17, 88, 1) ***Sign***
 Message:
-Bloodsucker Gulch		Beware of Vampires!
+Ravin des suceurs de sang		Méfiez-vous des vampires !
 
 (24, 46, 1) ***Seer's Hut***
 Message:
-I speak on behalf of the Nighthawks, a mercenary group of highest repute. While they are aware of the ongoing battle, they will not join a side just yet. In order to gain their support you must first prove your worth.
-Unlike most sellswords, the Nighthawks can not be bought but rather follow a strict code of honor: they only fight alongside those they deem worthy. Perhaps one day they will join you, but not yet.
-The Nighthawks have indeed heard of your many victories and would be honored to fight alongside you. They are ready to depart as soon as you give the word.
+Je m’exprime au nom des Nighthawks, un groupe de mercenaires jouissant d’une excellente réputation. Bien qu’ils soient au courant de la bataille en cours, ils ne se rangeront pas pour l’instant du côté de l’un ou l’autre camp. Pour obtenir leur soutien, vous devrez d’abord faire vos preuves.
+Contrairement à la plupart des mercenaires, les Nighthawks ne se laissent pas acheter ; ils suivent au contraire un code d’honneur strict : ils ne combattent qu’aux côtés de ceux qu’ils jugent dignes. Peut-être se joindront-ils à vous un jour, mais pas encore.
+Les Nighthawks ont en effet entendu parler de vos nombreuses victoires et seraient honorés de combattre à vos côtés. Ils sont prêts à partir dès que vous leur en donnerez l'ordre.
 
 (92, 98, 1) ***Sign***
 Message:
-If we shadows have offended,	Think but this, and all is mended,	That you have but slumbered here	While these visions did appear.
+Si nous, simples ombres, vous avons offensés,	Pensez simplement à ceci, et tout sera réparé :	Que vous n’avez fait que somnoler ici	Pendant que ces visions vous apparaissaient.
 
 (71, 68, 1) ***Seer's Hut***
 Message:
-While traversing the lands I was waylaid by bandits via guile and other chicanery. I lost many riches, the Stoic Watchman being the most valuable of them. I am offering a hefty sum of coin for its return.
-The Stoic Watchman is of great historic value, as it once belonged to the Order of the Avian Sight. If you were to find it, please return it to me.
-At last the Stoic Watchman returns to its rightful place! In exchange for it, I am willing to pay you a finder's fee of 3000 Gold. Do we have a deal?
+Alors que je parcourais ces contrées, j’ai été pris en embuscade par des bandits qui ont eu recours à la ruse et à toutes sortes de manigances. J’ai perdu de nombreuses richesses, dont la plus précieuse est le Guetteur. J’offre une somme considérable en pièces de monnaie pour le récupérer.
+Le Guetteur revêt une grande valeur historique, car il a autrefois appartenu à l’Ordre de la Vision Avian. Si vous veniez à le retrouver, je vous prie de me le rendre.
+Enfin, le Guetteur retrouve la place qui lui revient ! En échange, je suis prêt à vous verser une récompense de 3 000 pièces d’or. Marché conclu ?
 
 ===== Extended Events =====
 ===== End of file =====
