@@ -1,45 +1,45 @@
 ===== Map name =====
-Taming of the Shrew
+Apprivoiser la Musaraigne
 
 ===== Map description =====
-Princess Cait is mean, foul-mouthed... and heir to a vast fortune, which is why you set your eyes on her. To win her heart, you must beat her and her pirate friends in battle.
+La princesse Cait est méchante, grossière... et héritière d'une immense fortune, ce qui explique pourquoi vous avez jeté votre dévolu sur elle. Pour conquérir son coeur, vous devez la vaincre, elle et ses amis Pirates, au combat.
 
 ===== Rumors =====
 
 Name:
 shrew1
 Text:
-Princess Cait has many suitors. Most of them die.
+La princesse Cait a de nombreux prétendants. La plupart d'entre eux meurent.
 
 Name:
 shrew2
 Text:
-The night Cait vanished, a winged beast was seen circling her tower.
+La nuit où Cait a disparu, une créature ailée a été aperçue tournoyant autour de sa tour.
 
 Name:
 shrew3
 Text:
-The Nighon lords are in uproar: the Vial of Dragon Blood was stolen from their vault.
+Les Seigneurs de Nighon sont en émoi : la Fiole de Sang de Dragon a été volée dans leur coffre-fort.
 
 Name:
 shrew4
 Text:
-Love is blind. Or so they say...
+L'amour rend aveugle. C'est du moins ce qu'on dit...
 
 Name:
 gate
 Text:
-To find the heart of Cait's forces, enter the Moon Cavern and pass the Black Gate.
+Pour atteindre le coeur des forces de Cait, entrez dans la Caverne de la Lune et franchissez la Porte Noire.
 
 Name:
 shield
 Text:
-He rarely talks about it, but the owner of Sentinel Tavern used to be a famous knight.
+Il en parle rarement, mais le propriétaire de la Taverne de la Sentinelle était autrefois un chevalier célèbre.
 
 Name:
 advice
 Text:
-Ever played chess? In this map, the Rook seizes castles, while the Bishop finds relics.
+Avez-vous déjà joué aux échecs ? Sur cette carte, la tour s'empare des châteaux, tandis que le fou part à la recherche de reliques.
 
 ===== Timed events =====
 
@@ -56,22 +56,22 @@ Message:
 Name:
 intro
 Message:
-Princess Cait "the Shrew" has vanished. Hell-bent on dodging the confines of wedlock, she has forged a pact with the pirates and dragon lords and fled to their lairs of evil.		At this point, only a fool would go after her... if it weren't for her family's vast fortune.
+La princesse Cait dit "La Musaraigne" a disparu. Bien décidée à échapper aux contraintes du mariage, elle a conclu un pacte avec les Pirates et les Seigneurs des Dragons et s'est enfuie dans leurs repaires maléfiques.		À ce stade, seul un fou se lancerait à sa poursuite... s’il n’y avait pas l’immense fortune de sa famille.
 
 Name:
 intro cont.
 Message:
-Indeed, you're not the only suitor. Three others seek to put Cait's allies to the sword, a daring quest that will surely win her heart.		This leaves you caught between rivals, pirates and dragons. You'll have to beat them all, so you better get to it!
+En effet, vous n'êtes pas le seul prétendant. Trois autres cherchent à passer au fil de l'épée les alliés de Cait, une quête audacieuse qui ne manquera pas de lui faire gagner son coeur.		Vous vous retrouvez ainsi pris entre des rivaux, des Pirates et des Dragons. Vous devrez tous les vaincre, alors vous feraiez mieux de vous y mettre !
 
 ===== Heroes =====
 
 Name:
 Sir Michael
 Biography:
-In days long past, Michael shared a deep bond with the knight Tamika. When Tamika was bitten by a Vampire, Michael devoted his life to battling the dark forces that took her from him. He has since become an accomplished Vampire hunter, although he dreads the day he will face Tamika in battle.
+Il y a bien longtemps, Michael était lié par un lien profond à la chevalière Tamika. Lorsque Tamika fut mordue par un vampire, Michael consacra sa vie à combattre les forces des ténèbres qui la lui avaient enlevée. Il est depuis devenu un chasseur de vampires chevronné, même s'il redoute le jour où il devra affronter Tamika au combat.
 
 Biography:
-Gem was one of the greatest Sorceresses that Enroth had ever seen, serving King Roland Ironfist during the Succession Wars.  Shortly after Roland had secured the throne of Enroth, Gem left for Antagarich.
+Gem comptait parmi les plus grandes Sorcières qu'Enroth ait jamais connues ; elle avait servi le Roi Roland Ironfist pendant les Guerres de Succession. Peu après que Roland eut consolidé son emprise sur le trône d'Enroth, Gem partit pour Antagarich.
 
 Biography:
 
@@ -85,17 +85,17 @@ Biography:
 Name:
 Cait
 Biography:
-To fight off her suitors, Cait drank the Vial of Dragon Blood which turned her into a mighty dragon.
+Pour repousser ses prétendants, Cait but la Fiole de Sang de Dragon, ce qui la transforma en un puissant Dragon.
 
 Name:
 Christian
 Biography:
-Although he is the namesake of a fabled knight, this pirate is of far more ill repute. The Regnans call him "Cannonball" as wherever he goes, chaos and bedlam follow. Despite his boorish ways, he is said to be fiercely loyal to his friends.
+Bien qu'il porte le même nom qu'un chevalier légendaire, ce Pirate a une bien plus mauvaise réputation. Les Regnans le surnomment "Boule de Canon", car partout où il passe, le chaos et la pagaille règnent. Malgré ses manières grossières, on dit de lui qu'il est farouchement loyal envers ses amis.
 
 Name:
 Teej
 Biography:
-Teej is a young slaver whose thirst for blood is only matched by his hunger for gold. In return for her father's riches, he provided Cait the Shrew with the fabled Vial of Dragon Blood.
+Teej est un jeune marchand d'esclaves dont la soif de sang n'a d'égale que sa soif d'or. En échange des richesses de son père, il a remis à Cait la Musaraigne la légendaire Fiole de Sang de Dragon.
 
 Biography:
 
@@ -104,17 +104,17 @@ Biography:
 
 (89, 56, 0) ***Quest Guard***
 Message:
-So, you've come to claim this treasure? Let me offer you a fair trade - one artifact for another. I'll give you my relic in exchange for the Amulet of the Undertaker.
-Surely you agree that the Amulet of the Undertaker is a fair price for my relic? Return to me once you've found it. I heard it was last seen inside a Crypt far west of here.
-Is that... the Amulet of the Undertaker! I must have it. Hand it over and my relic is yours!
+Alors, Vous êtes venu réclamer ce trésor ? Laissez-moi vous proposer un échange équitable : un artefact contre un autre. Je vous donnerai ma relique en échange de l’Amulette du Fossoyeur.
+Vous conviendrez sûrement que l’Amulette du Fossoyeur est un prix raisonnable pour ma relique ? Revenez me la rapporter une fois que vous l’aurez trouvée. J’ai entendu dire qu’elle avait été aperçue pour la dernière fois dans une crypte située bien à l’ouest d’ici.
+Mais c’est... l’Amulette du Fossoyeur ! Il me la faut. Donnez-la-moi et ma relique sera à vous !
 
 (86, 88, 0) ***Sign***
 Message:
-: Wing Tail Valley :		North - Golden Pavillon	West - Tomb of the Pharaoh	East - Seer's Farm	South - Water Wheel
+: Vallée de Wing Tail :		Nord - Pavillon d'Or	Ouest - Tombe du Pharaon	Est - Ferme du devin	Sud - Moulin à eau
 
 (88, 107, 0) ***Sign***
 Message:
-Tower of Eclipse
+La Tour de l'Éclipse
 
 (106, 99, 0) ***Pandora's Box***
 Message:
@@ -126,23 +126,23 @@ Message:
 
 (48, 71, 0) ***Sign***
 Message:
-: Haven Island :		North - Maelstrom	West - Moon Cavern	East - Shipyard	South - Pirate's Run
+: Île de Haven :		Nord - Maelström	Ouest - Grotte de la Lune	Est - Chantier naval	Sud - Route des Pirates
 
 (106, 38, 0) ***Seer's Hut***
 Message:
-The benefit of living in a tree house is that you never run out of firewood. Ore, on the other hand, is hard to come by. 		Bring me 10 Ore and I'll give you a lesson in Scholar.
-You seem to be short on Ore, just like me. Come back when you have 10 Ore.
-For 10 Ore, I'll teach you Advanced Scholar. Do we have a deal?
+L'avantage de vivre dans une cabane dans les arbres, c'est qu'on n'est jamais à court de bois de chauffage. Le minerai, en revanche, est difficile à trouver. 		Apportez-moi 10 minerais et je vous donnerai une leçon d'Érudition.
+Vous semblez manquer de minerai, tout comme moi. Revenez quand vous aurez 10.
+En échange de 10 minerais, je vous enseignerai Disciple Érudition. Marché conclu ?
 
 (31, 58, 0) ***Sign***
 Message:
-Hook's Fortress		No trespassing!
+Forteresse de Hook		Entrée interdite !
 
 (70, 44, 0) ***Seer's Hut***
 Message:
-Welcome to my Spell Shop! 		I sense that your spell book leaves much to be desired. If you're looking for something more... electrifying, one of my Air Spells might give your system just the shock it needs. 		It only costs 4000 Gold!
-You don't have 4000 Gold? I am shocked! 		Return to me with a full purse and I'll teach you the Chain Lightning spell.		Just don't wait too long - I'm only going to sell this spell once!
-For the shockingly low price of 4000 Gold, the Chain Lightning spell will be yours!
+Bienvenue dans ma boutique de sorts ! 		J'ai l'impression que votre grimoire laisse à désirer. Si vous cherchez quelque chose de plus... électrisant, l'un de mes sorts d'air pourrait bien donner à votre magie le coup de fouet dont elle a besoin. 		Ça ne coûte que 4 000 pièces d'or !
+Vous n'avez pas 4 000 pièces d'or ? Je suis sous le choc ! 		Revenez me voir avec une bourse bien remplie et je vous apprendrai le sort Foudre Terrible.		Mais n'attendez pas trop longtemps : je ne vendrai ce sort qu'une seule fois !
+Pour le prix incroyablement bas de 4 000 pièces d'or, le sort Foudre Terrible est à vous !
 
 (79, 14, 0) ***Rampart***
 Name:
@@ -154,7 +154,7 @@ Wing Tail
 
 (101, 38, 0) ***Sign***
 Message:
-: Hexagon Heights :		North - Palm Tree Cave	West - Shipyard	East - Scholar's Hut	South - Labyrinth
+: Altitudes hexagonales :		Nord - Grotte des palmiers 	Ouest - Chantier naval	Est - Cabane du savant	Sud - Labyrinthe
 
 (11, 96, 0) ***Rampart***
 Name:
@@ -162,37 +162,37 @@ Summer
 
 (30, 106, 0) ***Seer's Hut***
 Message:
-Oh, a visitor! I don't get those very often. 		Since you've made the effort to come all the way out here, let me make you a special offer: I'll teach you the Teleport spell for 7 Mercury.
-Hello again! I'm ready to teach you the Teleport spell as soon as you have 7 Mercury for me.
-Since I live so far from home, I've mastered the Teleport spell to visit my family. I hope you'll make good use of it too! 		Are you ready to hand over the 7 Mercury?
+Oh, un visiteur ! J'en reçois rarement. 		Puisque vous avez fait l'effort de venir jusqu'ici, laissez-moi vous faire une offre spéciale : je vous apprendrai le sort de Téléportation pour 7 unités de mercure.
+Bonjour à nouveau ! Je suis prêt à vous enseigner le sort de Téléportation dès que vous m'aurez donné 7 unités de Mercure.
+Comme j'habite loin de chez moi, j'ai maîtrisé le sort de Téléportation pour rendre visite à ma famille. J'espère que vous en ferez bon usage vous aussi ! 		Etes-vous prêt à me remettre les 7 unités de mercure ?
 
 (16, 92, 0) ***Sign***
 Message:
-: Fields of Summer :		North - Unicorn Glade	West - Saw Mill	East - Swordsman's Hut	South - Crystal Cavern
+: Champs de l'été :		Nord - Clairière des Licornes	Ouest - Scierie	Est - Cabane d'épéiste 	Sud - Caverne de cristal
 
 (43, 38, 0) ***Seer's Hut***
 Message:
-Greetings! I'm the tavern cook. I need your help in a culinary matter.		I used to make my world-famous Sea Serpent Stew for the tavern patrons. However, I've run out of the main ingredient: Sea Serpent! 		I need at least 2 of them to get my kitchen running again. In return, I'll give you my old shield.
-A cook without his trademark dish is like a knight without his sword...!		Hopefully I'll find 2 Sea Serpents soon, or I'll have to sell my belongings in order to make ends meet, including my old shield...
-Finally, 2 Sea Serpents! I'll make you a plate of Sea Serpent Stew right away - it's on the house! 		Oh, and if that's not enough, here's the Sentinel's Shield.
+Bonjour ! Je suis le cuisinier de la taverne. J'ai besoin de votre aide pour un problème culinaire.		J'avais l'habitude de préparer mon célèbre ragoût de Serpent de Mer pour les clients de la taverne. Mais je suis à court de l'ingrédient principal : le Serpent de Mer ! 		J'ai besoin d'au moins deux d'entre eux pour remettre ma cuisine en marche. En échange, je vous donnerai mon vieux bouclier.
+Un cuisinier sans son plat signature, c’est comme un chevalier sans son épée... !		J’espère trouver bientôt 2 Serpents de Mer, sinon je devrai vendre mes affaires pour joindre les deux bouts, y compris mon vieux bouclier...
+Enfin, deux Serpents de Mer ! Je vais vous préparer tout de suite une assiette de ragoût de Serpent de Mer, c'est offert par la maison !		Oh, et si cela ne suffit pas, voici le Bouclier Sentinelle.
 
 (1, 61, 0) ***Quest Guard***
 Message:
-So, you've come to claim this treasure? Let me offer you a fair trade - one artifact for another. I'll give you my relic in exchange for the Pendant of Death.
-Surely you agree that the Pendant of Death is a fair price for my relic? Return to me once you've found it. I heard it was last seen inside a Crypt far east of here.
-Is that... the Pendant of Death! I must have it. Hand it over and my relic is yours!
+Alors, vous êtes venu réclamer ce trésor ? Laissez-moi vous proposer un échange équitable : un artefact contre un autre. Je vous donnerai ma relique en échange du Pendentif de Mort.
+Vous conviendrez sûrement que le Pendentif de Mort est un prix raisonnable pour ma relique ? Revenez me le rapporter une fois que vous l'aurez trouvé. J'ai entendu dire qu'il avait été aperçu pour la dernière fois dans une crypte située bien à l'est d'ici.
+Est-ce que c'est... le Pendentif de Mort ! Il me le faut absolument. Donnez-le-moi et ma relique sera à vous !
 
 (76, 82, 0) ***Seer's Hut***
 Message:
-Have you seen the Mermaid who lives in this bay? She's a beauty, isn't she? I've been meaning to speak to her, but I can't muster up the courage to do so. 		Maybe the Badge of Courage will help me...
-Talking to a Mermaid is harder than I've imagined. 		If only I had the Badge of Courage to lift my spirits...!
-The Badge of Courage! With this I'll succeed for sure! 		I'll be off to speak to the Mermaid now, but before I go, let me raise your Defense skill by 2 Points. 		Oh, and you're invited to the wedding!
+Avez-vous déjà vu la sirène qui vit dans cette baie ? Elle est magnifique, n'est-ce pas ? J'ai très envie de lui parler, mais je n'arrive pas à trouver le courage de le faire. 		Peut-être que la Médaille du Courage m'aidera...
+Parler à une sirène est plus difficile que je ne l'imaginais. 		Si seulement j'avais la Médaille du Courage pour me remonter le moral...
+La Médaille du Courage ! Avec ça, je vais sûrement y arriver ! 		Je pars tout de suite parler à la sirène, mais avant de partir, laissez-moi augmenter votre compétence défense de 2 points. 		Oh, et vous êtes invité au mariage !
 
 (78, 97, 0) ***Seer's Hut***
 Message:
-I'm a big believer in the virtue of patience. As the saying goes, "Good things come to those who wait." 		Return to me once you've progressed a fair amount into your journey and I'll bestow a gift to you.
-I'll help you at an appointed time. That time has not yet come! 		Return to me when you have more Experience.
-You've got the look of someone who's travelled far and seen a lot. Was it a good journey? I hope so!		Here's a gift to make things a bit easier: the Boots of Speed.
+Je crois fermement aux vertus de la patience. Comme le dit le proverbe : "Tout vient à point à qui sait attendre." 		Revenez me voir lorsque vous aurez bien avancé dans votre périple et je vous offrirai un cadeau.
+Je vous aiderai le moment venu. Ce moment n'est pas encore arrivé ! 		Revenez me voir lorsque vous aurez acquis davantage d'expérience.
+Vous avez l'air de quelqu'un qui a beaucoup voyagé et vu beaucoup de choses. Ce voyage s'est-il bien passé ? Je l'espère !		Voici un cadeau pour vous faciliter un peu la tâche : les Bottes de Vitesse.
 
 (70, 69, 0) ***Pandora's Box***
 Message:
@@ -200,9 +200,9 @@ Message:
 
 (24, 89, 0) ***Seer's Hut***
 Message:
-I used to be a Gladiator at the Arena, but then monsters attacked - even I couldn't beat them! Now I sit here and sulk in my misery.		If you can do what I couldn't, come find me after the battle.
-The Arena is south of here. If you beat the monsters, I'll teach you Basic Offense. Good luck and fight well!
-At last the Arena is saved! I can't wait to return.		But before I go, let me teach you Basic Offense.
+J'étais Gladiateur à l'Arène, mais des monstres ont attaqué... Même moi, je n'ai pas pu les vaincre ! Maintenant, je reste assis ici à broyer du noir.		Si vous parvenez à faire ce que je n'ai pas pu faire, venez me voir après le combat.
+L'Arène se trouve au sud d'ici. Si vous battez les monstres, je vous apprendrai les techniques d'attaque de base. Bonne chance et bon combat !
+Enfin, l'Arène est sauvée ! J'ai hâte d'y retourner.		Mais avant de partir, laissez-moi vous enseigner les techniques d'attaque de base.
 
 (12, 9, 0) ***Tower***
 Name:
@@ -210,41 +210,41 @@ Xanadu
 
 (39, 39, 0) ***Sign***
 Message:
-: Sentinel Tavern :		North - Frozen Shores	West - Warehouse of Crystal	East - Gold Mine	South - Shipwreck Bay
+: Taverne de la Sentinelle :		Nord - Côtes gelées	Ouest - Entrepôt de cristal	Est - Mine d'or	Sud - Baie des épaves
 
 (16, 35, 0) ***Seer's Hut***
 Message:
-I used to be a great warrior. But now my fighting days are over, and I'm looking for someone to bestow my Dragon Scale Shield to. 		At least 10 Defense are required to wield it.
-I'm still searching for a suitable heir to my Dragon Scale Shield, a strong and sturdy hero with no less than 10 Defense. 		One day, I might even give it to you!
-You're who I've been looking for - a hero strong enough to carry my Dragon Scale Shield. Good luck, and fight well!
+J'étais autrefois un grand guerrier. Mais aujourd'hui, mes jours de combat sont révolus, et je cherche quelqu'un à qui léguer mon Bouclier Dragon. 		Il faut au moins 10 en défense pour le manier.
+Je suis toujours à la recherche d'un héritier digne de mon Bouclier Dragon, un héros fort et robuste possédant au moins 10 en défense. 		Un jour, je vous le donnerai peut-être même !
+Vous êtes celui que je cherchais : un héros assez fort pour porter mon Bouclier Dragon. Bonne chance, et bon combat !
 
 (97, 7, 0) ***Seer's Hut***
 Message:
-These days, heroes of true grit are a rarity. What about you? Does your Attack skill instill fear in the hearts of your enemies? 
-The heroes of the modern age are all pansies! I'm not going to waste my time with training them.
-Now here's a warrior if I've ever seen one! I'd be honored to train you.
+De nos jours, les héros au courage à toute épreuve se font rares. Et vous ? Votre compétence Attaque sème-t-elle la terreur dans le coeur de vos ennemis ?
+Les héros d'aujourd'hui ne sont que des mauviettes ! Je ne vais pas perdre mon temps à les entraîner.
+Voilà enfin un vrai guerrier ! Ce serait un honneur pour moi de vous entraîner.
 
 (66, 4, 0) ***Seer's Hut***
 Message:
-It's getting cold, isn't it? I should probably build a stable for my pigs so they'll make it through the winter. Would you be so kind to bring me 10 Wood?
-Hello again! I'm busy prepping my farm for the coming winter days, but it'd be much easier if I had more material - 10 Wood to be precise.
-These 10 Wood will help me a lot!		In return, I'll give you some of my livestock: 18 Boars.
+Il commence à faire froid, n'est-ce pas ? Je devrais sans doute construire une étable pour mes cochons afin qu'ils puissent passer l'hiver. Auriez-vous la gentillesse de m'apporter 10 unités de bois ?
+Bonjour à nouveau ! Je suis en train de préparer ma ferme pour les jours d'hiver à venir, mais ce serait beaucoup plus facile si j'avais plus de matériaux, 10 morceaux de bois, pour être précis.
+Ces 10 unités de bois me seront d'une grande aide ! En échange, je vous donnerai une partie de mon cheptel : 18 Sangliers.
 
 (107, 14, 0) ***Sign***
 Message:
-Valkyrie's Waterfall
+Cascade des Valkyries
 
 (81, 30, 0) ***Seer's Hut***
 Message:
-Through research of the arcane I found a way to infuse a person with raw mana, raising their Spell Power by 2 points. However, I still need to do some testing - on a test subject, that is. 		I seek a hero strong enough to withstand the full power of an arcane flux. They must be at least Level 8.
-Guinea pigs are hard to come by these days. I've searched far and wide for a suitable test subject for my Spell Power experiment, but I just can't find anyone...
-Ah, you're the ideal subject for my arcane experiment. If my calculations are correct then it's going to raise your Spell Power by 2 points. 		Hold still - this might sting a little...
+Grâce à mes recherches sur l'arcane, j'ai découvert un moyen d'imprégner une personne de mana brut, ce qui augmente sa puissance magique de 2 points. Cependant, je dois encore effectuer quelques tests... sur un cobaye, bien sûr. 		Je recherche un héros suffisamment puissant pour résister à toute la puissance d'un flux arcanique. Il doit être au moins de niveau 8.
+Les cobayes se font rares ces temps-ci. J’ai cherché partout un sujet d’expérience adapté à mon expérience sur la puissance des sorts, mais je n’arrive pas à trouver qui que ce soit...
+Ah, vous êtes le sujet idéal pour mon expérience arcanique. Si mes calculs sont exacts, cela devrait augmenter votre puissance des sorts de 2 points. Ne bougez pas, ça risque de piquer un peu...
 
 (17, 66, 0) ***Seer's Hut***
 Message:
-In this world, all things go step by step. To grow a garden, you must first plant its seeds. To build a temple, you must first lay its foundation. To be better, you must first be good. 		Come to me when you've grown strong, and I will help you grow even stronger.
-Be patient. You are not ready to learn my wisdom, but soon you will be.
-I see that you have lain the foundation of true greatness. It's time for the next step. 		Hear my wisdom, hero, and ascend...!
+Dans ce monde, tout se fait étape par étape. Pour cultiver un jardin, il faut d’abord en semer les graines. Pour construire un temple, il faut d’abord en poser les fondations. Pour devenir meilleur, il faut d’abord être bon. 		Venez me voir quand vous aurez pris de la force, et je vous aiderai à devenir encore plus fort.
+Soyez patient. Vous n’êtes pas encore prêt à recevoir ma sagesse, mais vous le serez bientôt.
+Je vois que vous avez posé les fondations d’une véritable grandeur. Il est temps de passer à l’étape suivante. 		Écoutez ma sagesse, héros, et élèvez-vous !
 
 (63, 15, 0) ***Pandora's Box***
 Message:
@@ -252,41 +252,41 @@ Message:
 
 (73, 106, 0) ***Seer's Hut***
 Message:
-"Knowledge is power." Many have said this, but few truly mean it. What about you?
-I'll only join someone who knows the true power of Knowledge. 		If that someone even exists...!
-I see that you're a true believer of Knowledge. I'd be honored to join you. Shall we go?
+"La connaissance, c'est le pouvoir." Beaucoup l'ont dit, mais rares sont ceux qui le pensent vraiment. Et vous ?
+Je ne m'associerai qu'à quelqu'un qui connaît le véritable pouvoir de la connaissance. 		Si tant est que cette personne existe...
+Je vois que vous êtes un véritable adepte de la connaissance. Je serais honoré de me joindre à vous. On y va ?
 
 (64, 87, 0) ***Ocean Bottle***
 Message:
-Hail thee, O Sea, 	thou Ancient of Days!	Like speech of my homestead 	Murmurs thy water,	Like dreams of my childhood 	Shimmers thy realm.
+Salut à toi, ô Mer, 	toi, l’Ancien des Jours !	Comme les paroles de mon foyer 	Tes eaux murmurent, 	Comme les rêves de mon enfance, 	Ton royaume scintille.
 
 (4, 68, 0) ***Ocean Bottle***
 Message:
-I must down to the seas again, 	to the lonely sea and the sky,	And all I ask is a tall ship	and a star to steer her by.
+Je dois repartir vers la mer, 	vers cette mer solitaire et ce ciel,	Et tout ce que je demande, c'est un grand voilier	et une étoile pour le guider.
 
 (105, 70, 0) ***Ocean Bottle***
 Message:
-Seated all on deck, we floated	Down the Rhine's majestic stream,		On its borders, summer-laden,	Slept the peaceful evening-gleam...
+Assis tous sur le pont, nous glissions	sur les eaux majestueuses du Rhin,		et sur ses rives, baignées par l’été,	reposait la paisible lueur du soir...
 
 (58, 1, 0) ***Seer's Hut***
 Message:
-Me and my sisters have the gift of fortune telling. If you bring us the Cards of Prophecy, we can use them to read your fortune.
-Anybody's future is written in the stars. 		If you bring us the Cards of Prophecy, we tell you what the stars say about you!
-With these Cards of Prophecy, we can read your fortune. Let's see...		Hm, it appears that you're destined to win this war! In that case, we'd be honored to join you!
+Mes soeurs et moi avons le don de prédire l'avenir. Si vous nous apportez les Cartes du Destin, nous pourrons les utiliser pour vous prédire l'avenir.
+L'avenir de chacun est écrit dans les étoiles. 		Si vous nous apportez les Cartes du Destin, nous vous dirons ce que les étoiles révèlent à votre sujet !
+Grâce à ces Cartes du Destin, nous pouvons vous prédire l'avenir. Voyons voir...		Hum, il semblerait que vous soyez destiné à remporter cette guerre ! Dans ce cas, ce serait un honneur pour nous de nous joindre à vous !
 
 (39, 19, 0) ***Ocean Bottle***
 Message:
-The ocean's power, heavenly sights	Cannot outweigh a lovefilled heart,	And sparkling stars or glowing pearls	Pale as love flashes, beams and darts.
+La puissance de l'océan, les spectacles célestes	Ne peuvent rivaliser avec un coeur rempli d'amour,	Et les étoiles scintillantes ou les perles éclatantes	Pâlit face aux éclats, aux rayons et aux flèches de l'amour.
 
 (18, 7, 0) ***Sign***
 Message:
-: Mount Xanadu :		North - Workshop	West - Golden Pavillon	East - Darkwater Cavern	South - Seafarer's Shrine
+: Mont Xanadu :		Nord - Atelier	Ouest - Pavillon d'Or	Est - Caverne aux Eaux-Noires	Sud - Sanctuaire des Marins
 
 (3, 16, 0) ***Seer's Hut***
 Message:
-I'm a doctor who seeks to restore eyesight to the blind. A lofty goal, but as the saying goes, "Shoot for the stars"!		To start things off, I'll have to study the Blindness of the Troglodytes. Bring me 14 and I'll share my findings with you.
-I've heard of a Dungeon in the southern wastes. That's where the Troglodytes live.		Bring me 14 Troglodytes so I can begin my studies on their Blind affliction.
-These 14 Troglodytes will help me get closer to a cure for Blindness. You've done a good deed today!		As a reward, I can teach you all I know about Blindness.
+Je suis un médecin qui cherche à redonner la vue aux aveugles. C'est un objectif ambitieux, mais comme le dit le proverbe : "Visez les étoiles" !		Pour commencer, je vais devoir étudier la cécité des Troglodytes. Apportez-m'en 14 et je vous ferai part de mes découvertes.
+J'ai entendu parler d'un donjon situé dans les terres désolées du sud. C'est là que vivent les Troglodytes.		Apportez-moi 14 Troglodytes afin que je puisse commencer mes recherches sur leur cécité.
+Ces 14 Troglodytes m'aideront à me rapprocher d'un remède contre la cécité. Vous avez accompli une bonne action aujourd'hui !		En récompense, je peux vous enseigner tout ce que je sais sur la cécité.
 
 (78, 49, 0) ***Pandora's Box***
 Message:
@@ -298,19 +298,19 @@ Message:
 
 (7, 24, 0) ***Sign***
 Message:
-Tower of Chaos
+Tour du Chaos
 
 (82, 22, 0) ***Sign***
 Message:
-Tower of Wonder
+La Tour des Merveilles
 
 (13, 77, 0) ***Sign***
 Message:
-Tower of Legion
+Tour de la Légion
 
 (60, 91, 0) ***Sign***
 Message:
-: Wing Tail Tavern :		North - Sailor's Beach	West - Derelict Ship	East - Colosseum of the Magi	South - Lighthouse
+: Auberge de Wing Tail :		Nord - Plage des Marins	Ouest - Épave	Est - Colisée des Mages	Sud - Phare
 
 (53, 94, 0) ***Pandora's Box***
 Message:
@@ -318,7 +318,7 @@ Message:
 
 (14, 32, 0) ***Sign***
 Message:
-: Canyon of Bulls :		North - Beholder's Lake	West - Gem Pond	East - Dragon Fly Hive	South - Shipyard
+: Le Canyon des Taureaux :		Nord - Le Lac des Yeux Maléfiques	Ouest - Étang aux gemmes	Est - Ruche des Guêpes-Dragons	Sud - Chantier naval
 
 (8, 82, 0) ***Pandora's Box***
 Message:
@@ -326,7 +326,7 @@ Message:
 
 (82, 9, 0) ***Sign***
 Message:
-: Woodland Hills :		North - Unicorn Glade	West - Hog Burrow	East - University	South - Trader's Road
+:  Les Collines Boisées :		Nord - Clairière des Licornes	Ouest - Terreau des Sangliers	Est - Université	Sud - Route des Commerçants
 
 (54, 75, 0) ***Cove***
 Name:
@@ -342,19 +342,19 @@ Bull Creek
 
 (52, 64, 0) ***Seer's Hut***
 Message:
-I'm a collector of rare monsters. Are you interested in a trade?		In exchange for 1 Gold Dragon and 1 Titan, I'll give you 1 Azure Dragon.
-Still interested in trading with me? Bring me 1 Gold Dragon and 1 Titan, and I'll give you 1 Azure Dragon.
-As promised, here's 1 Azure Dragon for your 1 Gold Dragon and 1 Titan. Are you ready to trade?
+Je collectionne les monstres rares. Ça vous intéresse de faire un échange ?		En échange d’un Dragon d’Or et d’un Titan, je vous donnerai un Dragon Azur.
+Ça vous intéresse toujours de faire un échange avec moi ? Apportez-moi un Dragon d’Or et un Titan, et je vous donnerai un Dragon Azur.
+Comme promis, voici un Dragon Azur en échange de votre Dragon d’Or et de votre Titan. Êtes-vous prêt à faire l’échange ?
 
 (79, 42, 0) ***Sign***
 Message:
-: For Sale :		1 Chain Lightning Spell	If you're interested, sail west!
+: À vendre :		1 sort Foudre Terrible	Si ça vous intéresse, mettez le cap vers l'ouest !
 
 (102, 85, 0) ***Seer's Hut***
 Message:
-The harvest is bountiful this year. I could use a helping hand on the fields - many hands, in fact. 		If you bring me 15 Halfling workers, I will pay you with a fair share of my earnings: 4000 Gold.
-This year's harvest is coming along nicely, but it'd be easier with a few extra workers. 		If you meet any Halflings on your travels, 15 to be precise, send them my way and I'll pay you 4000 Gold.
-Ah, these 15 Halflings will be of great help in the harvest. 		In exchange for their service, I will pay you 4000 Gold. Do we have a deal?
+La récolte est abondante cette année. J'aurais bien besoin d'un coup de main dans les champs... voire de plusieurs paires de mains, en fait. 		Si vous m'amenez 15 ouvriers Hobbits, je vous paierai une part équitable de mes gains : 4 000 pièces d'or.
+La récolte de cette année s'annonce bien, mais ce serait plus facile avec quelques ouvriers supplémentaires. 		Si vous rencontrez des Hobbits au cours de vos voyages, 15 pour être précis, envoyez-les-moi et je vous paierai 4 000 pièces d'or.
+Ah, ces 15 Hobbits seront d'une grande aide pour la récolte. En échange de leurs services, je vous paierai 4 000 pièces d'or. Marché conclu ?
 
 (50, 48, 0) ***Dungeon***
 Name:
@@ -374,21 +374,21 @@ Message:
 
 (36, 84, 0) ***Ocean Bottle***
 Message:
-: For Sale :		1 Teleport spell	If you're interest, sail south!
+: À vendre :		1 sort de Téléportation	Si ça t'intéresse, mets le cap vers le sud !
 
 (39, 9, 0) ***Seer's Hut***
 Message:
-While exploring the mountains, I found a cache of 4000 Gold.		I'll only give it to someone I can trust not to waste it. Smart financing takes Experience - do you have it?
-I'll hold onto my 4000 Gold for now. You don't seem capable enough to put it to good use. Earn more Experience and come back when you're done!
-Hm, you seem like you can handle your finances. 		I'm sure you'll put this 4000 Gold to good use. Off you go then!
+En explorant les montagnes, j'ai trouvé un trésor de 4 000 pièces d'or.		Je ne le donnerai qu'à quelqu'un en qui j'ai confiance et qui ne le gaspillera pas. Une bonne gestion financière demande de l'expérience : en avez-vous assez ?
+Je vais garder mes 4 000 pièces d'or pour l'instant. Vous ne semblez pas assez compétent pour en faire bon usage. Gagnez plus d'expérience et revenez quand vous aurez terminé !
+Hum, vous avez l'air de savoir gérer vos finances. 		Je suis sûr que vous ferez bon usage de ces 4 000 pièces d'or. Allez, filez !
 
 (61, 30, 0) ***Ocean Bottle***
 Message:
-<- Watch out for Dragons!
+<- Attention aux Dragons!
 
 (44, 23, 0) ***Sign***
 Message:
-__	<^\()/^>	\/  \/	/  \	`''`		We gave the Heavenly Helm	to the Seer who lives below.
+__	<^\()/^>	\/  \/	/  \	`''`		Nous avons remis le Heaume de l'Illumination	au Voyant qui vit là-bas.
 
 (92, 49, 1) ***Pandora's Box***
 Message:
@@ -396,23 +396,23 @@ Message:
 
 (83, 55, 1) ***Sign***
 Message:
-Repent! The end is nigh.
+Repentez-vous ! La fin est proche.
 
 (9, 89, 1) ***Seer's Hut***
 Message:
-Below this hut lies my Crystal vault: a treasury of the rarest and most brilliant Crystals you'd ever see. A vault like that shouldn't be left unguarded, so I'm in need for strong and sturdy monsters.		Gold Golems are said to be well-suited for such a task. Bring me 3 of them and I'll reward you with 10 Crystals.
-There are two Golems Factories in the far-north and far-east tunnels. As far as I know, they're only places where one can forge Gold Golems. 		I'd offer a hefty sum of 10 Crystal for 3 of them!
-Excellent! With these 3 Gold Golems, my vault will be safe from intruders. 		As promised, I'll pay you 10 Crystal for them.
+Au pied de cette cabane se trouve ma chambre forte à cristaux : un véritable trésor abritant les cristaux les plus rares et les plus brillants que vous ayez jamais vus. Une telle chambre forte ne doit pas rester sans surveillance, c’est pourquoi j’ai besoin de monstres puissants et robustes.		On dit que les Golems d’Or sont parfaitement adaptés à cette tâche. Apportez-m’en 3 et je vous récompenserai avec 10 cristaux.
+Il existe deux usines de Golems dans les tunnels de l’extrême Nord et de l’extrême Est. À ma connaissance, ce sont les seuls endroits où l’on peut forger des Golems d’Or. 		Je vous offre la somme considérable de 10 cristaux pour les trois !
+Parfait ! Avec ces trois Golems d’Or, mon coffre-fort sera à l’abri des intrus. 		Comme promis, je vous paierai 10 cristaux pour eux.
 
 (62, 97, 1) ***Seer's Hut***
 Message:
-I'm a master of Fire Magic. "The God of Inferno" is what they called me in my fighting days.		I'll teach you a powerful spell, if you're strong enough to learn it.
-My fire spell is not suited for a novice mage - you'd just set yourself on fire!
-I see that you're a talented battle mage. In that case, I'll teach you the Inferno spell. Make good use of it!
+Je suis un maître de la magie du feu. On m'appelait "le Dieu des Enfers" à l'époque où je combattais.		Je vous enseignerai un sort puissant, si vous êtes assez fort pour l'apprendre.
+Mon sort de feu n'est pas adapté à un mage novice : vous ne feriez que vous mettre le feu !
+Je vois que vous êtes un mage de combat talentueux. Dans ce cas, je vais vous enseigner le sort "Inferno". Faites-en bon usage !
 
 (52, 98, 1) ***Sign***
 Message:
-: Mermaid Grotto : 		North - Nomad Tent	West - Saw Mill	East - Ocean Gate	South - Voy's Hut
+: Grotte de la sirène : 		Nord - Tente des Nomades	Ouest - Scierie	Est - Porte de l'Océan	Sud - Hutte de Voy
 
 (56, 96, 1) ***Cove***
 Name:
@@ -424,13 +424,13 @@ Blue Whale
 
 (45, 12, 1) ***Seer's Hut***
 Message:
-Welcome to the Dragon Shop! I trade in draconic artifacts.		If you bring me the Dragon Wing Tabard, I'll give you the Necklace of Dragonteeth. A fair trade, I'm sure!
-Still looking for the Dragon Wing Tabard? It could be anywhere... Maybe even all the way south!		If you find it, I'm willing to trade it for the Necklace of Dragonteeth.
-For the Dragon Wing Tabard, I'll give you the Necklace of Dragonteeth. Do we have a deal?
+Bienvenue à la Boutique du Dragon ! Je fais le commerce d’artefacts draconiques.		Si vous m’apportez le Tabard Dragon, je vous donnerai le Collier Dents de Dragon. Un échange équitable, j’en suis sûr !
+Vous cherchez toujours le Tabard Dragon ? Il pourrait être n'importe où... Peut-être même tout au sud !		Si vous le trouvez, je suis prêt à vous l'échanger contre le Collier Dents de Dragon.
+En échange du Tabard Dragon, je vous donnerai le Collier Dents de Dragon. Marché conclu ?
 
 (50, 14, 1) ***Sign***
 Message:
-: Whaler's Cavern :		North - Gem Pond	West - Dragon Shop	East - One-Way Gate	South - Nix Fort
+: Grotte des Baleiniers :		Nord - Étang aux gemmes	Ouest - Boutique du Dragon	Est - Portail à sens unique	Sud - Fort de Nix
 
 (31, 74, 1) ***Cove***
 Name:
@@ -442,7 +442,7 @@ Tempest
 
 (60, 40, 1) ***Sign***
 Message:
-: Tempest Tunnels :		North - Pillar of Eyes	West - Frost Shrine	East - One-Way Gate	South - Dragon Lair
+: Tunnels des Tempêtes :		Nord - Pilier des Yeux	Ouest - Sanctuaire du Gel	Est - Portail à sens unique	Sud - Repaire du Dragon
 
 (61, 49, 1) ***Pandora's Box***
 Message:
@@ -450,21 +450,21 @@ Message:
 
 (4, 64, 1) ***Seer's Hut***
 Message:
-I've always dreamt of a mariner's life. To sail the Seven Seas, explore the world, and sing shanties in the night... 		I already have a ship, all I need is a crew! 9 Crew Mates should suffice.
-Life is dull. I wish I were an adventurer like you! But first I need some hearty souls to man my ship.		If you bring me 9 Crew Mates, I'll return the favor by giving you my old Necklace of Ocean Guidance.
-Wonderful! If you're willing to part with these 9 Crew Mates, I can see about setting sail - finally! 		In exchange for them, you can have my Necklace of Ocean Guidance.
+J'ai toujours rêvé d'une vie de marin. Sillonner les sept mers, explorer le monde et chanter des chants de marins la nuit... 		J'ai déjà un bateau, il ne me manque plus qu'un équipage ! 9 Matelots devraient suffire.
+La vie est ennuyeuse. J'aimerais être un aventurier comme vous ! Mais j'ai d'abord besoin de quelques âmes courageuses pour manoeuvrer mon navire.		Si vous m'amènez 9 Matelots, je vous rendrai la pareille en vous donnant mon vieux Collier des Dauphins.
+Merveilleux ! Si vous êtes prêt à v séparer de ces 9 Matelots, je pourrai enfin lever l'ancre ! 		En échange, vous aurez mon Collier des Dauphins
 
 (100, 65, 1) ***Sign***
 Message:
-Gelu's Shrine
+Le sanctuaire de Gelu
 
 (23, 39, 1) ***Sign***
 Message:
-: Guide to Pandora's Box :		If it floats, don't open it -	Unless you're ready to die.
+: Guide de la boîte de Pandore :		Si ça flotte, ne l'ouvrez pas,	à moins d'être prêt à mourir.
 
 (35, 71, 1) ***Sign***
 Message:
-: Moon Cavern :		North - Black Gate	West - Nix Fort	East - Wineyard	South - Medusa Stores
+: Grotte de la Lune :		Nord - Porte Noire	Ouest - Fort des Nix	Est - Vignoble	Sud - Antre de Méduses
 
 (86, 3, 1) ***Pandora's Box***
 Message:
@@ -476,7 +476,7 @@ Message:
 
 (85, 83, 1) ***Sign***
 Message:
-   ,'   Y`.	  /        \	  \ ()  () /	   `. /\ ,'	    LLLL		Keep out!
+   ,'   Y`.	  /        \	  \ ()  () /	   `. /\ ,'	    LLLL		Ne pas entrer !
 
 (11, 6, 1) ***Pandora's Box***
 Message:
@@ -492,19 +492,19 @@ Message:
 
 (66, 76, 1) ***Seer's Hut***
 Message:
-My Crystal Cavern was taken over by monsters. I'm too weak to fight them myself, so all I can do is sit here and sulk.		Can you help me out? The Crystal Cavern lies past the northern gate. In return, I'll teach you Estates.
-Last I heard, the Crystal Cavern is still beset by monsters.		It's right past the northern gate, just in case you feel like helping me out!
-The Crystal Cavern is running again? That's great news! You have my thanks.		If my gratitude isn't enough, how about I teach you Basic Estates?
+Ma Caverne de Cristal a été envahie par des monstres. Je suis trop faible pour les combattre moi-même, alors je ne peux rien faire d’autre que rester assis ici à broyer du noir.		Vous pouvez m’aider ? La Caverne de Cristal se trouve juste après la porte nord. En échange, je vous apprendrai Finances.
+D’après ce que j’ai entendu, la Caverne de Cristal est toujours envahie par des monstres.		Elle se trouve juste après la porte nord, au cas où vous auriez envie de m’aider !
+La Caverne de Cristal fonctionne à nouveau ? C'est une excellente nouvelle ! Je vous en remercie.		Si ma gratitude ne suffit pas, que diriez-vous que je vous enseigne les bases de Finances ?
 
 (86, 11, 1) ***Ocean Bottle***
 Message:
-Ahoy, and fair winds to you!
+Bonjour, et bon vent à vous !
 
 (58, 47, 1) ***Seer's Hut***
 Message:
-An Angel bestowed this Helm of Heavenly Enlightenment to me and tasked me with keeping it safe until a worthy hero arises.		Are you a master of all four Primary skills?
-Only the best of the best may have the Helm of Heavenly Enlightenment.		Return to me when you've mastered all four Primary skills.
-You must be the hero the Angel told me about. 		Here, take this Helm of Heavenly Enlightenment.
+Un ange m'a remis ce Heaume de l'Illumination et m'a chargé de le garder en sécurité jusqu'à ce qu'un héros digne de ce nom se présente.		Maîtrisez-vous les quatre compétences principales ?
+Seuls les meilleurs parmi les meilleurs peuvent porter le Heaume de l'Illumination.		Revenez me voir lorsque vous maîtriserez les quatre compétences principales.
+Vous devez être le héros dont m'a parlé l'ange. 		Tenez, prenez ce Heaume de l'Illumination.
 
 ===== Extended Events =====
 ===== End of file =====
