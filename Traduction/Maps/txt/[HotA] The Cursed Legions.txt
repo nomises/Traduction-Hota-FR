@@ -9,7 +9,7 @@ Tout a commence d'un coup. Les terres rocheuses et volcaniques ont ete envahies 
 Name:
 Ğàçâàë Îñòğîâà
 Text:
-L'ile du milieu formait autrefois un tout, mais elle s'est scindee en deux a cause de l'ingerence des Sorciers.
+L'ile du milieu formait autrefois un tout, mais elle s'est scindee en deux a cause de l'ingerence des Magiciens.
 
 Name:
 Ïîğòàëû
@@ -21,12 +21,12 @@ J'ai entendu dire que les Necromanciens pouvaient utiliser un portail cache pour
 Name:
 Ñòàğò - Òåìíèöà
 Message:
-Ces terres rocheuses ont longtemps servi de refuge aux Troglodytes et aux Harpies. Bien que bon nombre des votres vivent encore dans les grottes, vous avez reconquis la majeure partie du territoire. Cependant, comme par malchance, quelques problemes sont apparus. Le premier concerne les Necromanciens. Leurs visages osseux ont soudainement fait leur apparition pres de plusieurs donjons, effrayant beaucoup de monde par leur apparence repugnante. De plus, on est sans nouvelles des grottes depuis un certain temps ; il semble donc que quelque chose s’y soit egalement installe. Heureusement, le deuxieme probleme est un peu plus facile a resoudre : les Demons. Ils sont impitoyables et veulent s’emparer de vos terres, certes ; mais il semble qu’ils aient les memes problemes avec les Necromanciens que vous. Vous devriez essayer de reconquerir les terres des Demons apres avoir repris la plupart de vos donjons. Et, bien sur, chassez les Necromanciens ! Pour l’instant, le mieux est de puiser dans vos reserves et de rassembler les ressources que vous avez mises de cote pour les mauvais jours.
+Ces terres rocheuses ont longtemps servi de refuge aux Troglodytes et aux Harpies. Bien que bon nombre des votres vivent encore dans les grottes, vous avez reconquis la majeure partie du territoire. Cependant, comme par malchance, quelques problemes sont apparus. Le premier concerne les Necromanciens. Leurs visages osseux ont soudainement fait leur apparition pres de plusieurs donjons, effrayant beaucoup de monde par leur apparence repugnante. De plus, on est sans nouvelles des grottes depuis un certain temps ; il semble donc que quelque chose s'y soit egalement installe. Heureusement, le deuxieme probleme est un peu plus facile a resoudre : les Demons. Ils sont impitoyables et veulent s'emparer de vos terres, certes ; mais il semble qu'ils aient les memes problemes avec les Necromanciens que vous. Vous devriez essayer de reconquerir les terres des Demons apres avoir repris la plupart de vos donjons. Et, bien sur, chassez les Necromanciens ! Pour l'instant, le mieux est de puiser dans vos reserves et de rassembler les ressources que vous avez mis de cote pour les mauvais jours.
 
 Name:
 Ñòàğò - Èíôåğíî
 Message:
-Cela fait longtemps que vous lorgnez sur les possessions de vos voisins. Les Sorciers Noirs ont envahi les terres rocheuses, et leurs serviteurs y menent la grande vie, meme s’ils ont davantage l’habitude de vivre dans des grottes. Vous sentez qu’ils s’appretent a s’emparer de vos territoires et de vos grottes infestes de Necromanciens. Il semble toutefois que les morts se soient egalement jetes sur eux. Vous devez vous depecher de faire trois choses : reprendre vos forteresses enflammees, contrecarrer les plans des sorciers et aneantir tous les Morts-Vivants qui se dressent sur votre chemin. Heureusement, vous disposez d'une petite reserve de ressources, ce qui vous facilitera la tache au debut.
+Cela fait longtemps que vous lorgnez sur les possessions de vos voisins. Les Sorciers ont envahi les terres rocheuses, et leurs serviteurs y menent la grande vie, meme s’ils ont davantage l’habitude de vivre dans des grottes. Vous sentez qu’ils s’appretent a s’emparer de vos terres et de vos grottes que vous aviez purge des Necromanciens. Il semble toutefois que les morts se soient egalement jetes sur eux. Vous devez vous depecher de faire trois choses : reprendre vos forteresses enflammees, contrecarrer les plans des Sorciers et aneantir tous les Morts-Vivants qui se dressent sur votre chemin. Heureusement, vous disposez d'une petite reserve de ressources, ce qui vous facilitera la tache au debut.
 
 Name:
 Ïîìîùü ÈÈ
@@ -101,7 +101,7 @@ Message:
 
 (97, 12, 0) ***Sign***
 Message:
-Nord — Vallees des Seigneurs	Est, Sud - Demeures des Sorciers	Sud-Est — Reseau de grottes
+Nord - Vallees des Seigneurs de Guerre	Est, Sud - Demeures des Sorciers	Sud-Est — Reseau de grottes
 
 (8, 100, 0) ***Sign***
 Message:
