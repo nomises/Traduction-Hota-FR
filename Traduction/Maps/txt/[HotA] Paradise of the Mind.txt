@@ -24,7 +24,7 @@ Pour obtenir le sort "Corne de Brume", naviguez jusqu'au coeur de la mer.
 Name:
 alcyon
 Text:
-Lors de Guerres des Démons, de nombreux héros sont partis rejoindre le Conflux. Je me demande s'ils en sont revenus.
+Lors des Guerres des Démons, de nombreux héros sont partis rejoindre le Conflux. Je me demande s'ils en sont revenus.
 
 Name:
 zilare
@@ -46,7 +46,7 @@ Ce royaume est enveloppé de mystère. On raconte que tous ceux qui tentent de s’e
 Name:
 intro cont.
 Message:
-Vous chargez vos deux meilleurs éclaireurs de retrouver les devins et les érudits qui vivent dans ces collines et ces grottes. Peut-être en savent-ils davantage sur les sombres desseins de la malédiction et, dans l'idéal, sur un moyen de la briser.		En attendant, vous devriez reprendre votre conquête. L'aventure vous attend !
+Vous chargez vos deux meilleurs éclaireurs de retrouver les prophètes et les érudits qui vivent dans ces collines et ces grottes. Peut-être en savent-ils davantage sur les sombres desseins de la malédiction et, dans l'idéal, sur un moyen de la briser.		En attendant, vous devriez reprendre votre conquête. L'aventure vous attend !
 
 Name:
 bard
@@ -56,7 +56,7 @@ Votre premier éclaireur revient après avoir rencontré un barde itinérant qui ado
 Name:
 bard cont.
 Message:
-Plus récemment, le Roi Sorcier a envoyé ses sbires étudier la malédiction des rêves. On ignore s’il cherche à la détruire ou à s’emparer de ses pouvoirs. Quoi qu’il en soit, préparez-vous à affronter ces sorciers au combat, car ils ne voient pas d’un bon oeil les étrangers.		Enfin, divers seigneurs de guerre ont établi leur campement dans les environs. Vous devrez également les combattre, à moins que vous n’ayez l’intention de partager le butin de guerre.
+Plus récemment, le Roi Magicien a envoyé ses sbires étudier la malédiction des rêves. On ignore s’il cherche à la détruire ou à s’emparer de ses pouvoirs. Quoi qu’il en soit, préparez-vous à affronter ces magiciens au combat, car ils ne voient pas d’un bon oeil les étrangers.		Enfin, divers seigneurs de guerre ont établi leur campement dans les environs. Vous devrez également les combattre, à moins que vous n’ayez l’intention de partager le butin de guerre.
 
 Name:
 scholar
@@ -141,7 +141,7 @@ Sonnez les trompettes,	Que nos drapeaux ensanglantés flottent au vent !	Et soit 
 Message:
 D’autres parlent peut-être du caractère sacré de l’esprit. Cependant, l’esprit n’est pas plus sacré que le corps, et le véritable pouvoir exige un équilibre entre les compétences : le lien entre l’esprit et la main qui manie l’épée. Comprenez cela, et vous pourrez accéder à un pouvoir plus grand.
 Aligner le corps et l’esprit n’est que la première étape d’un long parcours. Revenez me voir lorsque vous serez prêt, et je vous montrerai le chemin vers un immense pouvoir.
-Je vois que vous avez atteint le véritable équilibre entre le corps et l’esprit. Permets-moi de vous aider dans votre quête du pouvoir ultime.
+Je vois que vous avez atteint le véritable équilibre entre le corps et l’esprit. Permettez-moi de vous aider dans votre quête du pouvoir ultime.
 
 (94, 50, 0) ***Random Town***
 Name:
@@ -159,7 +159,7 @@ Maidstone
 
 (16, 56, 0) ***Seer's Hut***
 Message:
-On raconte l’histoire d’une étrange crypte triangulaire qui a surgi là où il n’y avait auparavant que du sable. Il s’agit de la légendaire Tombe des Malédictions, où résident les Momies. Je veux que vous capturiez 7 de ces Momies et que vous me les apportiez. Leurs pouvoirs m’intéressent au plus haut point.
+On raconte l’histoire d’une étrange crypte triangulaire qui a surgi là où il n’y avait auparavant que du sable. Il s’agit de la légendaire Pyramide Maudite, où résident les Momies. Je veux que vous capturiez 7 de ces Momies et que vous me les apportiez. Leurs pouvoirs m’intéressent au plus haut point.
 Etes-vous venu m'apporter les 7 Momies que je vous avais demandées ? Si ce n'est pas le cas, je ne peux rien faire pour vous.
 Ces 7 Momies m'aideront énormément dans mes recherches nécromantiques. En échange, je vous donnerai un artefact puissant : le Pendentif d'Ardeur.
 
@@ -273,7 +273,7 @@ Accrochez-vous à vos rêves, 	Car si les rêves meurent, 	La vie est comme un oise
 
 (106, 33, 0) ***Pandora's Box***
 Message:
-Épineuse, dentelée et maculée de sang séché, cette boîte de Pandore recèle manifestement une menace mortelle. Tvos compagnons d'équipage, craignant le pire, vous pressent de la rejeter à la mer.
+Épineuse, dentelée et maculée de sang séché, cette boîte de Pandore recèle manifestement une menace mortelle. Vos compagnons d'équipage, craignant le pire, vous pressent de la rejeter à la mer.
 
 (105, 75, 0) ***Pandora's Box***
 Message:
@@ -282,14 +282,14 @@ Fabriquée en acier raffiné et gravée de runes dorées de Bracada formant l'inscri
 (67, 84, 0) ***Seer's Hut***
 Message:
 Il y a de nombreuses années, je suis tombé dans le mal et j’ai été emporté par les ambitions démesurées du Seigneur Vampire Velour. Mais j’ai trouvé la grâce divine au plus profond de mon désespoir, et je cherche désormais l’absolution. Velour doit être anéanti, de peur que d’autres ne suivent sa voie obscure.
-Le seigneur Velour a été aperçu pour la dernière fois sur une île au large de la côte ouest. J’aimerais pouvoir vous accompagner, mais même aujourd’hui, je crains encore le pouvoir obscur de ce vampire. Je ne peux que prier pour vous.
-J'ai entendu parler de la défaite de Velour. Si cela est vrai, alors vous avez libéré le monde d'un grand mal. Laissez-moi vous récompenser en invoquant trois Élémentaires Magiques.
+Le seigneur Velour a été aperçu pour la dernière fois sur une île au large de la côte ouest. J’aimerais pouvoir vous accompagner, mais même aujourd’hui, je crains encore le pouvoir obscur de ce Vampire. Je ne peux que prier pour vous.
+J'ai entendu parler de la défaite de Velour. Si cela est vrai, alors vous avez libéré le monde d'un grand mal. Laissez-moi vous récompenser en invoquant 3 Élémentaires Magiques.
 
 (38, 91, 0) ***Seer's Hut***
 Message:
-Ces derniers temps, j'étudie la multitude d'espèces qui peuplent ces eaux. Mon travail est presque terminé, mais je dois encore effectuer divers tests sur les Serpents de Mer de la région. Si vous parveniez à en trouver et à en capturer un, je vous paierais son poids en gemmes.
+Ces derniers temps, j'étudie la multitude d'espèces qui peuplent ces eaux. Mon travail est presque terminé, mais je dois encore effectuer divers tests sur les Serpents de Mer de la région. Si vous parveniez à en trouver et à en capturer un, je vous paierais son poids en Gemmes.
 On dit que les Serpents de Mer descendent des Dragons d'Azur et, à l'instar de leurs ancêtres, ils sont hostiles envers les étrangers et pratiquement impossibles à apprivoiser. Méfiez-vous de leur morsure venimeuse !
-Parfait ! Ce Serpent de Mer est un spécimen idéal pour mes recherches. En échange, je vous verserai 15 gemmes.
+Parfait ! Ce Serpent de Mer est un spécimen idéal pour mes recherches. En échange, je vous verserai 15 Gemmes.
 
 (42, 106, 0) ***Pandora's Box***
 Message:
@@ -297,9 +297,9 @@ Cette boîte de Pandore porte les runes chamaniques d'une tribu maritime disparue
 
 (19, 10, 1) ***Seer's Hut***
 Message:
-Je suis un collectionneur de statues d’oiseaux à la recherche de deux chefs-d’oeuvre rares : l’Oiseau Moqueur et la Oiseau Porte-Bonheur. Si l’on en croit les rumeurs qui circulent à la taverne, ces deux statues seraient tombées entre les mains de bandits. Si vous veniez à croiser ces scélérats au cours de vos voyages, passez-les au fil de l’épée et rapportez-moi ces oiseaux en échange d’une généreuse récompense.
+Je suis un collectionneur de statues d’oiseaux à la recherche de deux chefs-d’oeuvre rares : l’Oiseau Moqueur et l'Oiseau Porte-Bonheur. Si l’on en croit les rumeurs qui circulent à la taverne, ces deux statues seraient tombées entre les mains de bandits. Si vous veniez à croiser ces scélérats au cours de vos voyages, passez-les au fil de l’épée et rapportez-moi ces oiseaux en échange d’une généreuse récompense.
 D’après mes sources, les deux statues doivent se trouver quelque part dans les environs, bien qu’elles soient gardées par des monstres. Dépêchez-vous de les récupérer !
-Ah, l’Oiseau Moqueur et la Oiseau Porte-Bonheur ! Ces statues viendront magnifiquement compléter ma collection. En échange, je vous accorderai une bénédiction d’Attaque.
+Ah, l’Oiseau Moqueur et l'Oiseau Porte-Bonheur ! Ces statues viendront magnifiquement compléter ma collection. En échange, je vous accorderai une bénédiction d’Attaque.
 
 (71, 60, 1) ***Random Town***
 Name:
@@ -312,8 +312,8 @@ Xeron est bien vivant !
 (85, 12, 1) ***Seer's Hut***
 Message:
 Une triste nouvelle vient de nous parvenir : l'Entrepôt d'Or local est assiégé par d'ignobles monstres avides du contenu de ses coffres. Je vous exhorte à terrasser ces voleurs en herbe avant qu'ils ne s'enfuient.
-Quiconque parviendra à sauver l'Entrepôt d'Or de ses assaillants sera récompensé par des points de sort. Faites vite et rapportez-moi leurs têtes !
-Enfin, les monstres gisent morts et l’Entrepôt d’Or est à nouveau en sécurité. En récompense de votre bravoure, je vous accorde 36 points de magie.
+Quiconque parviendra à sauver l'Entrepôt d'Or de ses assaillants sera récompensé par des Points de Magie. Faites vite et rapportez-moi leurs têtes !
+Enfin, les monstres gisent morts et l’Entrepôt d’Or est à nouveau en sécurité. En récompense de votre bravoure, je vous accorde 36 Points de Magie.
 
 (30, 14, 1) ***Conflux***
 Name:
@@ -359,7 +359,7 @@ Si nous, simples ombres, vous avons offensés,	Pensez simplement à ceci, et tout 
 Message:
 Alors que je parcourais ces contrées, j’ai été pris en embuscade par des bandits qui ont eu recours à la ruse et à toutes sortes de manigances. J’ai perdu de nombreuses richesses, dont la plus précieuse est le Guetteur. J’offre une somme considérable en pièces de monnaie pour le récupérer.
 Le Guetteur revêt une grande valeur historique, car il a autrefois appartenu à l’Ordre de la Vision Avian. Si vous veniez à le retrouver, je vous prie de me le rendre.
-Enfin, le Guetteur retrouve la place qui lui revient ! En échange, je suis prêt à vous verser une récompense de 3 000 pièces d’or. Marché conclu ?
+Enfin, le Guetteur retrouve la place qui lui revient ! En échange, je suis prêt à vous verser une récompense de 3 000 Pièces d’Or. Marché conclu ?
 
 ===== Extended Events =====
 ===== End of file =====
