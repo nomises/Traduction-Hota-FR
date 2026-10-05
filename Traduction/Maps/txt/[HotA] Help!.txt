@@ -2,7 +2,7 @@
 Au secours !
 
 ===== Map description =====
-Vous parcourez des contrées lointaines à la recherche du Graal lorsque votre intendant vous envoie une lettre urgente. Les coffres sont vides, vos voisins sont en guerre et les monstres pullulent partout ! Vous devez rentrer au plus vite pour remettre les choses en ordre.
+Vous parcourez des contrées lointaines à la recherche du Graal lorsque votre intendant vous envoie une lettre urgente. Les coffres sont vides, vos voisins sont en guerre et les monstres pullulent ! Vous devez rentrer au plus vite pour remettre les choses en ordre.
 
 ===== Rumors =====
 
@@ -14,7 +14,7 @@ Sandro le Nécromancien maîtrise l'art du déguisement. De nombreux héros ont été 
 Name:
 jamison
 Text:
-Jamison le Voyant fait autorité en matière de chasse au trésor. Au fil des années, il a aidé de nombreux héros dans leur quête du Graal.
+Jamison le Prophète fait autorité en matière de chasse au trésor. Au fil des années, il a aidé de nombreux héros dans leur quête du Graal.
 
 Name:
 hare
@@ -39,19 +39,19 @@ Dans la mer du Nord-Est, un volcan a donné naissance à une nouvelle île. Des Dém
 Name:
 vampire
 Text:
-Les vampires détestent la lumière du soleil. Gardez cela à l'esprit si vous cherchez leurs cachettes.
+Les Vampires détestent la lumière du soleil. Gardez cela à l'esprit si vous cherchez leurs cachettes.
 
 ===== Timed events =====
 
 Name:
 intro
 Message:
-Toute votre vie, vous aviez rêvé d’être celui qui trouverait le Graal, mais les devoirs d’un seigneur ne vous laissaient guère de temps pour rêver. Puis, une nuit, un inconnu dans une ruelle sombre vous a dit que le Graal était enterré dans une forêt isolée, à un mois de cheval de là. 		Il avait sans doute mêlé un sortilège à ses paroles, car vous êtes parti cette même nuit. Votre fidèle et vieux intendant devait s’occuper de tout en votre absence.
+Toute votre vie, vous aviez rêvé d’être celui qui trouverait le Graal, mais les devoirs d’un seigneur ne vous laissaient guère de temps pour rêver. Puis, une nuit, un inconnu dans une ruelle sombre vous a dit que le Graal était enterré dans une forêt isolée, à un mois de cheval de là. 		Il avait sans doute mêlé un sortilège à ses paroles, car vous êtes parti cette même nuit. Votre fidèle et vieux intendant a dû s’occuper de tout en votre absence.
 
 Name:
 intro - cont.
 Message:
-En regagnant vos terres, plongées dans une situation désastreuse, vous avez l’impression qu’une malédiction s’est abattue dès votre départ. Votre intendant, submergé par un déluge de missives et de lettres désespérées appelant à l’aide, est heureux de vous revoir.		Curieusement, vous apprenez que non seulement vos rivaux ont disparu la même nuit que vous, mais que leurs territoires ne sont pas en meilleur état que le vôtre à l’heure actuelle.
+En regagnant vos terres, plongées dans une situation désastreuse, vous avez l’impression qu’une malédiction s’est abattue dès votre départ. Votre intendant, submergé par un déluge de missives et de lettres désespérées, appelant à l’aide, est heureux de vous revoir.		Curieusement, vous apprenez que non seulement vos rivaux ont disparu la même nuit que vous, mais que leurs territoires ne sont pas en meilleur état que le vôtre à l’heure actuelle.
 
 Name:
 intro - fin.
@@ -61,17 +61,17 @@ Et si c'était en réalité une malédiction ? Vous n'avez jamais vu le visage de ce
 Name:
 letter
 Message:
-Au milieu des lettres de réclamation et des rapports fiscaux alarmants, vous apercevez une enveloppe d'un blanc immaculé ornée du blason d'un lièvre doré. Il s'agit d'une lettre du devin Jamison, qui vit près des terres des Nécromanciens.		Rédigée à la hâte, elle indique qu'il viendra bientôt vous rendre visite avec des nouvelles importantes. D'ici là, il vous conseille de vous méfier d'un homme nommé Sandro et de partir à la recherche des obélisques disséminés à travers vos terres.
+Au milieu des lettres de réclamation et des rapports fiscaux alarmants, vous apercevez une enveloppe d'un blanc immaculé ornée du blason d'un lièvre doré. Il s'agit d'une lettre du Prophète Jamison, qui vit près des terres des Nécromanciens.		Rédigée à la hâte, elle indique qu'il viendra bientôt vous rendre visite avec des nouvelles importantes. D'ici là, il vous conseille de vous méfier d'un homme nommé Sandro et de partir à la recherche des obélisques disséminés à travers vos terres.
 
 Name:
 visit
 Message:
-Le devin Jamison arrive avec une foule de réponses. C'est ce Nécromancien, Sandro, qui est derrière tout ça. Il vous a attiré loin d'ici et a semé le chaos pour faire diversion, afin de pouvoir écumer librement les terres.		 Dans quel but ? Il s'avère que le Graal était enterré ici depuis le début ! Résoudre l'énigme des obélisques vous révélera son emplacement exact. Peut-être que votre vieux rêve finira par se réaliser, après tout.
+Le Prophète Jamison arrive avec une foule de réponses. C'est ce Nécromancien, Sandro, qui est derrière tout ça. Il vous a attiré loin d'ici et a semé le chaos pour faire diversion, afin de pouvoir écumer librement les terres.		 Dans quel but ? Il s'avère que le Graal était enterré ici depuis le début ! Résoudre l'énigme des obélisques vous révélera son emplacement exact. Peut-être que votre vieux rêve finira par se réaliser, après tout.
 
 Name:
 visit - cont.
 Message:
-Alors qu'il s'apprête à partir, le devin Jamison vous dit que l'équité l'oblige à en informer également vos rivaux. La course au Graal se joue donc désormais à cinq, y compris Sandro, dont le devin soupçonne qu'il est toujours en liberté, à la recherche du Graal.		Vous relevez le défi avec plaisir. Et qui sait ? Peut-être croiserez-vous même Sandro en chemin et aurez-vous ainsi l'occasion de vous venger de lui.
+Alors qu'il s'apprête à partir, le Prophète Jamison vous dit que l'équité l'oblige à en informer également vos rivaux. La course au Graal se joue donc désormais à cinq, y compris Sandro, dont le devin soupçonne qu'il est toujours en liberté, à la recherche du Graal.		Vous relevez le défi avec plaisir. Et qui sait ? Peut-être croiserez-vous même Sandro en chemin et aurez-vous ainsi l'occasion de vous venger de lui.
 
 ===== Heroes =====
 
@@ -83,7 +83,7 @@ Biography:
 Name:
 George
 Biography:
-La restauration de la Pierre du Temple à Freehaven a transformé George, autrefois un tailleur de pierre chevronné, en un homme doté d’une foi discrète mais inébranlable. Il est venu en Erathia pour reconstruire ce que les Diables avaient détruit, mais aussi pour raviver la foi chez les autres.
+La restauration de la Pierre du Temple à Freehaven a transformé George, autrefois un tailleur de pierre chevronné, en un homme doté d’une foi discrète mais inébranlable. Il est venu en Erathia pour reconstruire ce que les Démons avaient détruit, mais aussi pour raviver la foi chez les autres.
 
 Biography:
 Avant qu'on ne lui confie le commandement, certains considéraient Caitlin comme possédée par des esprits maléfiques. Malgré ces allégations, les dons versés à son église atteignaient des sommets lorsqu'elle faisait encore partie de ses rangs.
@@ -105,12 +105,12 @@ En théorie, n'importe quel matériau dur peut être transformé en Golem. Selon la 
 Name:
 Ringo
 Biography:
-Avant l'invasion des Diables, Ringo était maître de piste dans un cirque de l'est d'Erathia. Son penchant pour les fouets et les chaînes lui vaut d'être très apprécié des Servant des Abîmes, tout aussi cruels que lui.
+Avant l'invasion des Démons, Ringo était maître de piste dans un cirque de l'est d'Erathia. Son penchant pour les fouets et les chaînes lui vaut d'être très apprécié des Servant des Abîmes, tout aussi cruels que lui.
 
 Name:
 Redda
 Biography:
-Après la guerre, Redda partit vers de nouveaux horizons. Son don pour dénicher les gisements de soufre lui valut d'être très appréciée à Nighon, mais un sorcier envieux finit par provoquer sa trahison et sa chute.
+Après la guerre, Redda partit vers de nouveaux horizons. Son don pour dénicher les gisements de soufre lui valut d'être très appréciée à Nighon, mais un Sorcier envieux finit par provoquer sa trahison et sa chute.
 
 Biography:
 Même s'il est un zombie depuis des années, Straker refuse d'accepter pleinement sa nouvelle nature et s'obstine à se considérer toujours comme un humain. Ses proches savent bien qu'il s'agit là d'une simple question de vanité : il a toujours été obsédé par son apparence.
@@ -119,22 +119,22 @@ Biography:
 Il y a près de quatre siècles, Vokial régnait sur son propre royaume, mais au fil du temps, les responsabilités quotidiennes lui pesaient de plus en plus. Il finit par tout abandonner pour retrouver la vie d'aventurier qu'il préférait de loin. C'est un ancien, même parmi les autres Vampires.
 
 Biography:
-Le charisme de Moandor lui est resté, d'une manière ou d'une autre, même après sa transformation en Liche. Curieusement, cela lui confère la capacité de diriger et de recruter de nouvelles liches plus efficacement que n'importe quel autre héros.
+Le charisme de Moandor lui est resté, d'une manière ou d'une autre, même après sa transformation en Liche. Curieusement, cela lui confère la capacité de diriger et de recruter de nouvelles Liches plus efficacement que n'importe quel autre héros.
 
 Biography:
-Toute sa vie, et même au-delà, Sandro a rêvé de régner sur le monde. Poursuivant ce rêve, il a jeté son dévolu sur le Graal, espérant que ses pouvoirs insondables lui permettraient enfin d'affirmer sa suprématie.
+Toute sa vie, et même au-delà, Sandro a rêvé de régner sur le monde. Poursuivant ce rêve, il a jeté son dévolu sur le Graal, espérant que ses pouvoirs mysterieux lui permettraient enfin d'affirmer sa suprématie.
 
 Biography:
 Thant s'est joint à Sandro dans sa quête du Graal, dans l'espoir d'utiliser ses pouvoirs pour restaurer le brasier de la nuit. Cependant, leur alliance s'est rapidement effondrée, laissant Thant croupir en prison.
 
 Biography:
-Il est étrange de voir un Seigneur Troglodyte, et encore plus étrange de voir un Sorcier Troglodyte, mais Jaegar s'est révélé être un mage talentueux. Il affirme que la méditation quotidienne est le secret de sa réussite.
+Il est étrange de voir un Seigneur de guerre Troglodyte, et encore plus étrange de voir un Sorcier Troglodyte, mais Jaegar s'est révélé être un mage talentueux. Il affirme que la méditation quotidienne est le secret de sa réussite.
 
 Biography:
 Ses études sur les Anciens ont permis à Geon d'affiner considérablement ses capacités télépathiques. Bien qu'aveugle, il voit tout, et les autres Sorciers se tiennent à l'écart de lui, craignant que leurs secrets ne soient dévoilés.
 
 Biography:
-Deemer a failli être tué à l'âge adulte, car ses pouvoirs magiques étaient tellement incontrôlables qu'il représentait un danger pour lui-même et pour son entourage. Depuis, il a appris à maîtriser ses pouvoirs et est devenu un adversaire redoutable au combat.
+Deemer a failli être tué lors de son passage à l'âge adulte, car ses pouvoirs magiques étaient tellement incontrôlables qu'il représentait un danger pour lui-même et pour son entourage. Depuis, il a appris à maîtriser ses pouvoirs et est devenu un adversaire redoutable au combat.
 
 Biography:
 Sephinroth prétend être la fille illégitime du roi Gryphonheart. Le refus de ce dernier de la reconnaître n'a fait qu'attiser sa haine envers le trône d'Erathia, qu'elle espère un jour revendiquer pour elle-même. Ayant rejoint les rangs des Sorciers, elle est la seule femme connue à avoir jamais porté ce titre.
@@ -148,7 +148,7 @@ Le roi Tralossk n'a jamais vraiment apprécié Alkin, mais il lui a confié le comm
 Name:
 Tyrzic
 Biography:
-Ses années de voyage ont permis à Tyrzic d'acquérir une solide maîtrise des techniques de survie dans les contrées sauvages reculées. Il est depuis devenu un guide de référence pour les exilés Tataliens, qu'il aide à s'installer dans des endroits inaccessibles à Kilgor.
+Ses années de voyage ont permis à Tyrzic d'acquérir une solide maîtrise des techniques de survie dans les contrées sauvages reculées. Il est depuis devenu un guide de référence pour les exilés Tataliens, qu'il aide à s'installer dans des endroits inaccessibles de Kilgor.
 
 Name:
 Voleia
@@ -181,7 +181,7 @@ Peu de gens à Silver Cove connaissaient le sombre passé de John jusqu'à ce qu'un
 Name:
 Loyt
 Biography:
-C'est de l'esprit brillant de Loyt que sont nés les plans du Paratonnerre, une arme miraculeuse capable de frapper à n'importe quelle distance. À la recherche d'un cœur de fusion suffisamment puissant pour l'alimenter, elle a jeté son dévolu sur le Graal.
+C'est de l'esprit brillant de Loyt que sont nés les plans du Paratonnerre, une arme miraculeuse capable de frapper à n'importe quelle distance. À la recherche d'un coeur en fusion suffisamment puissant pour l'alimenter, elle a jeté son dévolu sur le Graal.
 
 Name:
 Madma
@@ -192,7 +192,7 @@ La flamme intérieure de Madma a guidé sa tribu à travers de nombreuses nuits som
 
 (12, 17, 0) ***Sign***
 Message:
-: Forêt d'Escanor :		Nord -> Mine de minerai	Sud -> Chantier naval
+: Forêt d'Escanor :		Nord -> Mine de Pierre	Sud -> Chantier naval
 
 (5, 12, 0) ***Castle***
 Name:
@@ -248,9 +248,9 @@ Message:
 
 (1, 41, 0) ***Seer's Hut***
 Message:
-Alors qu’il s’occupe d’un canari doré maladif, le Voyant vous confie que l’âme de l’oiseau est liée à la première pierre d’une université qu’il a contribué à fonder. La maladie du canari pourrait donc être de mauvais augure pour l’université.
-L'ancienne université du Voyant se trouve sur une île isolée, tout au sud-ouest. Comme le canari est toujours malade, des ennuis pourraient bien se profiler là-bas.
-Une fois que vous lui avez raconté le siège et la libération de l'université, le Voyant vous offre une des plumes du canari doré. Elle brille comme une flamme et vaut sans doute une fortune.
+Alors qu’il s’occupe d’un canari doré maladif, le Prophète vous confie que l’âme de l’oiseau est liée à la première pierre d’une université qu’il a contribué à fonder. La maladie du canari pourrait donc être de mauvais augure pour l’université.
+L'ancienne université du Prophète se trouve sur une île isolée, tout au sud-ouest. Comme le canari est toujours malade, des ennuis pourraient bien se profiler là-bas.
+Une fois que vous lui avez raconté le siège et la libération de l'université, le Prophète vous offre une des plumes du canari doré. Elle brille comme une flamme et vaut sans doute une fortune.
 
 (89, 5, 0) ***Sign***
 Message:
@@ -270,9 +270,9 @@ Tyech-hain
 
 (66, 15, 0) ***Seer's Hut***
 Message:
-Le Voyant vous dit que l’avenir est écrit dans les étoiles et souhaite donc étudier les comètes et les météores, qu’il considère comme d’intrépides rebelles du destin. Pour ce faire, cependant, le Voyant a besoin d’une Lunette.
-Il y a une grande différence entre la simple observation des étoiles et leur étude approfondie. Pour cette dernière, le Voyant a besoin d’une Lunette.
-Avant de partir pour les montagnes avec la Lunette, le Voyant peut vous enseigner les secrets des étoiles, et surtout comment invoquer leur colère.
+Le Prophète vous dit que l’avenir est écrit dans les étoiles et souhaite donc étudier les comètes et les météores, qu’il considère comme d’intrépides rebelles du destin. Pour ce faire, cependant, le Prophète a besoin d’une Lunette.
+Il y a une grande différence entre la simple observation des étoiles et leur étude approfondie. Pour cette dernière, le Prophète a besoin d’un Télescope.
+Avant de partir pour les montagnes avec la Lunette, le Prophète peut vous enseigner les secrets des étoiles, et surtout comment invoquer leur colère.
 
 (44, 75, 0) ***Sign***
 Message:
@@ -280,7 +280,7 @@ Message:
 
 (96, 89, 0) ***Sign***
 Message:
-: Montagnes de l'Étoile d'Or :		Nord -> Shipyard	Sud -> Gisement de Gemmes
+: Montagnes de l'Étoile d'Or :		Nord -> Chantier Naval	Sud -> Gisement de Gemmes
 
 (35, 103, 0) ***Sign***
 Message:
@@ -288,9 +288,9 @@ Message:
 
 (74, 32, 0) ***Seer's Hut***
 Message:
-Prédisant une ère où il n’y aura ni dieux ni maîtres, mais seulement la nature, le Voyant souhaite s’entretenir avec les esprits des bois profonds, mais a besoin d’une escouade de la Garde forestière pour garantir la sécurité de son voyage.
-Le Voyant vous indique qu’un avant-poste de la Garde forestière se trouve sur un îlot isolé de la mer centrale. Une escouade de leurs soldats peut être recrutée dans un délai d’une semaine.
-Non seulement le Voyant, mais aussi les quatre Gardes forestiers vous sont reconnaissants de votre aide. Une fois leur mission accomplie, ils vous laisseront une plume de leurs meilleures flèches.
+Prédisant une ère où il n’y aura ni dieux ni maîtres, mais seulement la nature, le Prophète souhaite s’entretenir avec les esprits des bois profonds, mais a besoin d’une escouade de la Garde forestière pour garantir la sécurité de son voyage.
+Le Prophète vous indique qu’un avant-poste de la Garde forestière se trouve sur un îlot isolé de la mer centrale. Une escouade de leurs soldats peut être recrutée dans un délai d’une semaine.
+Non seulement le Prophète, mais aussi les quatre Gardes forestiers vous sont reconnaissants de votre aide. Une fois leur mission accomplie, ils vous laisseront une plume de leurs meilleures flèches.
 
 (24, 13, 0) ***Event***
 Message:
@@ -302,7 +302,7 @@ Message:
 
 (54, 92, 0) ***Event***
 Message:
-Inspirés par un vieux conte populaire mettant en scène le Seigneur Tell le Rusé, vos soldats se sont mis à essayer de tirer sur des pommes posées sur la tête de leurs camarades. Ce défi connaît un succès grandissant, tout comme les visites à la tente du Guérisseur. Vous vous apprêtez à réprimander les participants lorsqu'un érudit à votre service trouve, dans de vieux livres, une bien meilleure solution.
+Inspirés par un vieux conte populaire mettant en scène le Seigneur Tell le Rusé, vos soldats se sont mis à essayer de tirer sur des pommes posées sur la tête de leurs camarades. Ce défi connaît un succès grandissant, tout comme les visites au Dispensaire. Vous vous apprêtez à réprimander les participants lorsqu'un érudit à votre service trouve, dans de vieux livres, une bien meilleure solution.
 
 (95, 29, 0) ***Event***
 Message:
@@ -370,7 +370,7 @@ Nous avons perdu Cass et Vera aux mains des Sirènes. Ça me fait mal au coeur, ma
 
 (15, 5, 0) ***Event***
 Message:
-Après l'exode massif des Conflux, de nombreuses Pixies se sont mises à parcourir les contrées sauvages à la recherche de traces de leurs maîtres disparus. Vous tombez sur l'un de ces groupes de recherche, venu du Donjon Élémentaire de Llacielo, situé au sud, et, en vous engageant à participer aux recherches, vous gagnez leur allégeance.
+Après l'exode massif des Conflux, de nombreuses Pixies se sont mises à parcourir les contrées sauvages à la recherche de traces de leurs maîtres disparus. Vous tombez sur l'un de ces groupes de recherche, venu du château Élémentaire de Llacielo, situé au sud, et, en vous engageant à participer aux recherches, vous gagnez leur allégeance.
 
 (99, 88, 0) ***Event***
 Message:
@@ -386,9 +386,9 @@ Plutôt que de se contenter de biscuits de mer et de viande séchée, vos soldats p
 
 (42, 31, 0) ***Seer's Hut***
 Message:
-Les grenouilles et les araignées d'eau du lac ont raconté au Voyant qu'autrefois, des Guêpes-Dragons vivaient également ici, mais que la chasse excessive les avait fait disparaître. Souhaitant rétablir pleinement la faune du lac, le Voyant vous demande de lui apporter deux de ces créatures.
-Faisant allusion à un trésor enfoui dans les profondeurs du lac, le Voyant vous suggère de vous dépêcher d'aller chercher un couple de Guêpes-Dragons.
-En échange de ces deux Guêpes-Dragons, le Voyant vous offre un lot de pierres précieuses colorées qui ont été trouvées au fond du lac.
+Les grenouilles et les araignées d'eau du lac ont raconté au Prophète qu'autrefois, des Guêpes-Dragons vivaient également ici, mais que la chasse excessive les avait fait disparaître. Souhaitant rétablir pleinement la faune du lac, le Prophète vous demande de lui apporter deux de ces créatures.
+Faisant allusion à un trésor enfoui dans les profondeurs du lac, le Prophète vous suggère de vous dépêcher d'aller chercher un couple de Guêpes-Dragons.
+En échange de ces deux Guêpes-Dragons, le Prophète vous offre un lot de pierres précieuses colorées qui ont été trouvées au fond du lac.
 
 (105, 10, 0) ***Event***
 Message:
@@ -428,45 +428,45 @@ Journal des rêves, 5e jour du printemps : un dîner festif réunissant la noblesse
 
 (14, 106, 0) ***Seer's Hut***
 Message:
-Une ombre fantomatique plane au-dessus du corps sans vie du Voyant. Vous apprenez que les assaillants, partis depuis longtemps, se sont dirigés vers la Bibliothèque d'Illumination, au nord-ouest, afin d’anéantir davantage les esprits brillants du royaume.
-À l'agonie, l'ombre du Voyant vous supplie de vous rendre à la Bibliothèque d'Illumination pour en chasser ses assaillants.
-Vous informez l'ombre du Voyant que la Bibliothèque d'Illumination est à nouveau en sécurité. Soulagée, l'ombre vous accorde une bénédiction de sagesse avant de rejoindre l'au-delà.
+Une ombre fantomatique plane au-dessus du corps sans vie du Prophète. Vous apprenez que les assaillants, partis depuis longtemps, se sont dirigés vers la Bibliothèque d'Illumination, au nord-ouest, afin d’anéantir davantage les esprits brillants du royaume.
+À l'agonie, l'ombre du Prophète vous supplie de vous rendre à la Bibliothèque d'Illumination pour en chasser ses assaillants.
+Vous informez l'ombre du Prophète que la Bibliothèque d'Illumination est à nouveau en sécurité. Soulagée, l'ombre vous accorde une bénédiction de sagesse avant de rejoindre l'au-delà.
 
 (32, 50, 0) ***Seer's Hut***
 Message:
-S'inspirant d'un passé lointain, le Voyant évoque Mélusine, un serpent ailé qui protégeait les siens grâce à son bouclier d'or. Cette relique a ensuite été perdue et corrompue, mais l'espoir de la restaurer subsiste.
-Le bouclier d'or du serpent ailé est désormais corrompu par le mal. Si vous le trouvez, le Voyant pourra tenter de le restaurer.
-Le Voyant reconnaît être le dernier descendant de Mélusine. Une goutte de son sang peut purifier le bouclier maudit et révéler le sigil du serpent ailé qui se cache en dessous.
+S'inspirant d'un passé lointain, le Prophète évoque Mélusine, un serpent ailé qui protégeait les siens grâce à son bouclier d'or. Cette relique a ensuite été perdue et corrompue, mais l'espoir de la restaurer subsiste.
+Le bouclier d'or du serpent ailé est désormais corrompu par le mal. Si vous le trouvez, le Prophète pourra tenter de le restaurer.
+Le Prophète reconnaît être le dernier descendant de Mélusine. Une goutte de son sang peut purifier le bouclier maudit et révéler le sigil du serpent ailé qui se cache en dessous.
 
 (103, 16, 0) ***Seer's Hut***
 Message:
-Les rêves envoûtants d'une pieuvre dorée dans un jardin sous-marin ont poussé le Voyant à construire un sous-marin. Il est presque terminé, mais il manque encore trente de minerai pour servir de contrepoids.
-Penché sur des cartes et des graphiques représentant les courants océaniques, le Voyant vous demande de lui apporter trente de minerai afin que le voyage sous-marin puisse commencer.
-Tandis que vos soldats attachent les trente morceaux de minerai à la coque du sous-marin, on vous offre la paire de sandales enchantées du Voyant : conçues pour la marche, elles vous seront utiles lors du voyage qui s'annonce.
+Les rêves envoûtants d'une pieuvre dorée dans un jardin sous-marin ont poussé le Prophète à construire un sous-marin. Il est presque terminé, mais il manque encore 30 Pierres pour servir de contrepoids.
+Penché sur des cartes et des graphiques représentant les courants océaniques, le Prophète vous demande de lui apporter 30 Pierres afin que le voyage sous-marin puisse commencer.
+Tandis que vos soldats attachent les 30 Pierres à la coque du sous-marin, le Prophète vous offre sa paire de sandales enchantées : conçues pour la marche, elles vous seront utiles lors du voyage qui s'annonce.
 
 (27, 93, 0) ***Seer's Hut***
 Message:
-Le Voyant vous explique que ces ruines sont ce qui reste d’un temple dédié à Dame Sylph, la Gardienne des Marées, mais qu’une grande partie a été emportée par une tempête. Pour le reconstruire, le Voyant a besoin de vingt unités de bois, en échange desquels il vous promet les enseignements de Dame Sylph.
-Vous trouvez le Voyant en pleine prière adressée à Dame Sylph, la Gardienne des Marées, et vous vous souvenez de sa demande de vingt unités de bois pour restaurer le temple comme il se doit.
-Muni de vingt morceaux de bois, le Voyant prévoit de se rendre dans les entrailles du temple pour consolider ses fondations ébranlées, mais avant cela, il vous propose de vous enseigner la magie de l'eau primordiale de Dame Sylph.
+Le Prophète vous explique que ces ruines sont ce qui reste d’un temple dédié à Dame Sylph, la Gardienne des Marées, mais qu’une grande partie a été emportée par une tempête. Pour le reconstruire, le Prophète a besoin de 20 Bois, en échange desquels il vous promet les enseignements de Dame Sylph.
+Vous trouvez le Prophète en pleine prière adressée à Dame Sylph, la Gardienne des Marées, et vous vous souvenez de sa demande de 20 Bois pour restaurer le temple comme il se doit.
+Muni de 20 Bois, le Prophète prévoit de se rendre dans les entrailles du temple pour consolider ses fondations ébranlées, mais avant cela, il vous propose de vous enseigner la magie de l'eau primordiale de Dame Sylph.
 
 (105, 77, 0) ***Seer's Hut***
 Message:
-En déchiffrant l'avenir dans les entrailles de crustacés, le Voyant vous voit rassembler trente gemmes et les apporter à un récif de corail voisin, où vous recevrez alors un puissant artefact.
-Comme vous ne disposez pas des trente gemmes nécessaires pour réaliser la mystérieuse vision du Voyant, vous reprenez la route après un bref repos.
-Comme prédit, vous apportez trente gemmes au récif de corail voisin, où un crabe doré géant émerge pour orner sa carapace de ces pierres. Un grand trident est également enfoncé dans sa carapace ; vous pouvez essayer de l'extraire une fois que le crabe se sera approché.
+En déchiffrant l'avenir dans les entrailles de crustacés, le Prophète vous voit rassembler 30 Gemmes et les apporter à un récif de corail voisin, où vous recevrez alors un puissant artefact.
+Comme vous ne disposez pas des 30 Gemmes nécessaires pour réaliser la mystérieuse vision du Prophète, vous reprenez la route après un bref repos.
+Comme prédit, vous apportez 30 Gemmes au récif de corail voisin, où un crabe doré géant émerge pour orner sa carapace de ces pierres. Un grand trident est également enfoncé dans sa carapace ; vous pouvez essayer de l'extraire une fois que le crabe se sera approché.
 
 (45, 7, 0) ***Seer's Hut***
 Message:
-Le Voyant évoque des Sirènes dont le charme a causé la chute de royaumes entiers, ainsi que leurs frères les Fangarms, qui ont accompli la même chose par des moyens plus concrets. Tout en proposant d’invoquer ces derniers, le Voyant vous avertit que seuls les esprits les plus forts peuvent résister à leur magie.
-Dans votre état actuel, les Fangarms invoqués submergeraient vos sens. Le Voyant vous suggère de poursuivre votre formation dans les arts occultes et de revenir plus tard.
-Sentant que votre esprit est suffisamment fort pour dompter les Fangarms, le Voyant vous propose d’invoquer vingt de ces créatures sous vos ordres.
+Le Prophète évoque des Sirènes dont le charme a causé la chute de royaumes entiers, ainsi que leurs frères les Fangarms, qui ont accompli la même chose par des moyens plus concrets. Tout en proposant d’invoquer ces derniers, le Prophète vous avertit que seuls les esprits les plus forts peuvent résister à leur magie.
+Dans votre état actuel, les Fangarms invoqués submergeraient vos sens. Le Prophète vous suggère de poursuivre votre formation dans les arts occultes et de revenir plus tard.
+Sentant que votre esprit est suffisamment fort pour dompter les Fangarms, le Prophète vous propose d’invoquer 20 de ces créatures sous vos ordres.
 
 (55, 82, 0) ***Seer's Hut***
 Message:
-Le Voyant évoque le souvenir d’un dauphin doré qui veillait sur l’océan jusqu’à ce qu’il soit tué par des baleiniers avides. Un talisman à l’effigie de ce dauphin sera offert à ceux qui partagent l’esprit protecteur de cet animal.
-Te disant sans détour que tu n’es pas digne de protéger, le Voyant conserve pour l’instant le talisman du dauphin doré.
-Le dauphin doré patrouillait assidûment aux quatre coins des mers. En vous offrant ce talisman, le Voyant espère que vous suivrez son exemple.
+Le Prophète évoque le souvenir d’un dauphin doré qui veillait sur l’océan jusqu’à ce qu’il soit tué par des baleiniers avides. Un talisman à l’effigie de ce dauphin sera offert à ceux qui partagent l’esprit protecteur de cet animal.
+Te disant sans détour que tu n’es pas digne de protéger, le Prophète conserve pour l’instant le talisman du dauphin doré.
+Le dauphin doré patrouillait assidûment aux quatre coins des mers. En vous offrant ce talisman, le Prophète espère que vous suivrez son exemple.
 
 (55, 71, 0) ***Event***
 Message:
@@ -497,8 +497,8 @@ Message:
 
 (42, 96, 1) ***Seer's Hut***
 Message:
-Le Voyant vous parle d’un serpent à sonnettes doré dont la queue, après sa mort, fut coupée et sur laquelle des runes furent gravées dans chaque segment, créant ainsi un talisman maléfique. Dans les profondeurs de l’abîme, la famille du serpent pleure encore sa soeur profanée.
-Le Voyant réitère la supplique des serpents concernant le hochet de leur soeur assassinée, qui est probablement tombé entre les mains de chamans maléfiques ou de cultes de la mort.
+Le Prophète vous parle d’un serpent à sonnettes doré dont la queue, après sa mort, fut coupée et sur laquelle des runes furent gravées dans chaque segment, créant ainsi un talisman maléfique. Dans les profondeurs de l’abîme, la famille du serpent pleure encore sa soeur profanée.
+Le Prophète réitère la supplique des serpents concernant le hochet de leur soeur assassinée, qui est probablement tombé entre les mains de chamans maléfiques ou de cultes de la mort.
 Sous les runes et la peinture, le hochet du serpent doré recèle toujours un grand pouvoir, attirant l’un de ses plus anciens congénères.
 
 (53, 58, 1) ***Fortress***
@@ -555,7 +555,7 @@ Vos éclaireurs vous signalent la présence d'un lion doré qui traque l'arrière-ga
 
 (41, 23, 1) ***Event***
 Message:
-Vous rencontrez une démone voyageuse qui semble totalement insensible au froid glacial, ce qu’elle attribue à ses années passées aux côtés de Sire Hammer de Silver Cove, un maître de la magie corporelle. Voyant votre curiosité, elle vous offre ses notes sur la manière d’endurcir son corps contre les maux, qu’il s’agisse des intempéries ou de la guerre.
+Vous rencontrez une démone voyageuse qui semble totalement insensible au froid glacial, ce qu’elle attribue à ses années passées aux côtés de Sire Hammer de Silver Cove, un maître de la magie corporelle. Prophète votre curiosité, elle vous offre ses notes sur la manière d’endurcir son corps contre les maux, qu’il s’agisse des intempéries ou de la guerre.
 
 (33, 91, 1) ***Event***
 Message:
@@ -624,8 +624,8 @@ Zom's Folly
 
 (99, 37, 1) ***Seer's Hut***
 Message:
-Le Voyant vous parle de la magie des chiffres, tels que le Un, chiffre unitaire, le Treize, chiffre maudit, et le Sept, chiffre de la sorcellerie. Ceux dont le parcours aura atteint sa septième étape recevront une bénédiction reflétant ce pouvoir symbolique.
-Le Voyant affirme que seuls ceux dont le parcours a atteint sa septième étape peuvent recevoir la bénédiction du Sept mystique.
+Le Prophète vous parle de la magie des chiffres, tels que le Un, chiffre unitaire, le Treize, chiffre maudit, et le Sept, chiffre de la sorcellerie. Ceux dont le parcours aura atteint sa septième étape recevront une bénédiction reflétant ce pouvoir symbolique.
+Le Prophète affirme que seuls ceux dont le parcours a atteint sa septième étape peuvent recevoir la bénédiction du Sept mystique.
 Le Sept est le nombre de la magie, de la magicka et des secrets mystiques. À ce titre, il vous est accordé de suivre un cours dans une école des arcanes.
 
 (89, 18, 1) ***Sign***
@@ -662,9 +662,9 @@ Tout à coup, des tentes et des étals colorés surgissent devant vous : c’est le M
 
 (95, 100, 1) ***Seer's Hut***
 Message:
-Le Voyant s'étend longuement sur la frontière entre la vie et la non-mort. Les Gargouilles n'appartiennent ni à l'une ni à l'autre, mais se situent plutôt dans une zone grise appelée "Sans-Sang". Afin d'étudier leur état d'existence, le Voyant demande deux Gargouilles d'Obsidienne.
-Les Sorciers ont fait d’un vieux château situé au sud-ouest de la mer leur base de recherche. Le Voyant vous conseille d’y rassembler des Gargouilles d’Obsidienne, bien qu’on puisse également en trouver errant dans la nature.
-Bien qu’elles ne soient pas vivantes, les Gargouilles d’Obsidienne sont tout de même sensibles à la magie mentale. Un parchemin contenant un sort de ce type vous est offert en échange des deux créatures.
+Le Prophète s'étend longuement sur la frontière entre la vie et la non-mort. Les Gargouilles n'appartiennent ni à l'une ni à l'autre, mais se situent plutôt dans une zone grise appelée "Sans-Sang". Afin d'étudier leur état d'existence, le Prophète demande 2 Gargouilles d'Obsidienne.
+Les Magiciens ont fait d’un vieux château situé au sud-ouest de la mer leur base de recherche. Le Prophète vous conseille d’y recruter des Gargouilles d’Obsidienne, bien qu’on puisse également en trouver errant dans la nature.
+Bien qu’elles ne soient pas vivantes, les Gargouilles d’Obsidienne sont tout de même sensibles à la magie mentale. Un parchemin contenant un sort de ce type vous est offert en échange des 2 créatures.
 
 (8, 106, 1) ***Spell Scroll***
 Message:
@@ -672,15 +672,15 @@ Dans un coin du parchemin, on peut lire une note manuscrite de Sandro : il sembl
 
 (28, 57, 1) ***Seer's Hut***
 Message:
-Des rêves ont conduit le Voyant jusqu'à une ancienne tombe située dans le désert, où se trouvait une tablette de pierre dorée. Bien qu'elle soit difficile à déchiffrer, le Voyant souligne que le chiffre douze y est mentionné à plusieurs reprises.
-En étudiant cette mystérieuse tablette, le Voyant se demande quel rôle joue ce chiffre douze, si souvent mentionné.
-Suivant votre intuition, vous demandez à tenir vous-même la tablette du Voyant, et aussitôt, les glyphes énigmatiques se transforment miraculeusement en mots lisibles : il s'agit d'une formule d'invocation destinée à faire apparaître des guerriers de l'époque des pyramides.
+Des rêves ont conduit le Prophète jusqu'à une ancienne tombe située dans le désert, où se trouvait une tablette de pierre dorée. Bien qu'elle soit difficile à déchiffrer, le Prophète souligne que le chiffre douze y est mentionné à plusieurs reprises.
+En étudiant cette mystérieuse tablette, le Prophète se demande quel rôle joue ce chiffre douze, si souvent mentionné.
+Suivant votre intuition, vous demandez à tenir vous-même la tablette du Prophète, et aussitôt, les glyphes énigmatiques se transforment miraculeusement en mots lisibles : il s'agit d'une formule d'invocation destinée à faire apparaître des guerriers de l'époque des pyramides.
 
 (26, 19, 1) ***Seer's Hut***
 Message:
-L'orbe divinatoire du Voyant, une boule de cristal géante, de la taille d'un mammouth, qui occupe la majeure partie de la minuscule maison, a été brisée par de malfaisants pillards. Pour la réparer, le Voyant a besoin de trente éclats de cristal.
-Tout en s'occupant de l'orbe divinatoire brisée, le Voyant vous rappelle qu'il faut pas moins de trente cristaux pour la restaurer.
-Avec trente cristaux, l’orbe de divination pourra être reconstituée. Le Voyant vous propose alors de scruter votre avenir à travers elle, vous révélant ainsi à l’avance ce que vous n’apprendriez autrement qu’au cours des combats à venir.
+L'orbe divinatoire du Prophète, une boule de cristal géante, de la taille d'un mammouth, qui occupe la majeure partie de la minuscule maison, a été brisée par de malfaisants pillards. Pour la réparer, le Prophète a besoin de 30 Cristaux.
+Tout en s'occupant de l'orbe divinatoire brisée, le Prophète vous rappelle qu'il faut pas moins de 30 Cristaux pour la restaurer.
+Avec 30 Cristaux, l’orbe de divination pourra être reconstituée. Le Prophète vous propose alors de scruter votre avenir à travers elle, vous révélant ainsi à l’avance ce que vous n’apprendriez autrement qu’au cours des combats à venir.
 
 ===== Extended Events =====
 ***Event Texts***
@@ -698,7 +698,7 @@ Alors que les sorcières se consacrent à leurs études, à la voyance et à la divin
 
 ***Event Texts***
 Message:
-Du point culminant du château de Quaysar, on peut admirer à perte de vue la mer d'un bleu profond. Mais les sorciers qui ont érigé ces tours avaient les yeux rivés vers le ciel, vers les étoiles.		La légende raconte qu'ils cherchaient une porte astrale menant au royaume des Nymphes des étoiles. L'ensemble du donjon a été conçu dans cette optique et fonctionne ainsi comme un observatoire géant.
+Du point culminant du château de Quaysar, on peut admirer à perte de vue la mer d'un bleu profond. Mais les sorciers qui ont érigé ces tours avaient les yeux rivés vers le ciel, vers les étoiles.		La légende raconte qu'ils cherchaient une porte astrale menant au royaume des Nymphes des étoiles. L'ensemble du château a été conçu dans cette optique et fonctionne ainsi comme un observatoire géant.
 
 Message:
 Au final, vous avez découvert plusieurs salles où des moteurs, des engrenages et des leviers sont entretenus sans relâche par de vieux ouvriers Golems, très ordonnés. On sait très peu de choses à leur sujet, car ils communiquent rarement.		Une poignée d’entre eux s’est toutefois rendue dans les usines pour se réparer, avant de rejoindre la garnison. Peut-être ont-ils décidé que se battre à vos côtés était aussi une façon de maintenir l’ordre
@@ -706,7 +706,7 @@ Au final, vous avez découvert plusieurs salles où des moteurs, des engrenages et
 
 ***Event Texts***
 Message:
-Lorsque les volcans entrent en sommeil, leur sol enrichi de cendres donne naissance à une végétation luxuriante et à des forêts sauvages grouillantes de vie. Le Donjon Elfique d’Eshe a été construit au sommet d’un de ces géants endormis.		Sous la terre, ses feux continuent de faire rage, ce qui se ressent parfois à Eshe sous la forme de légers grondements passagers dans le sol. Les Paysans n’y prêtent pas attention : comme le mal de mer, on finit par s’y habituer.
+Lorsque les volcans entrent en sommeil, leur sol enrichi de cendres donne naissance à une végétation luxuriante et à des forêts sauvages grouillantes de vie. Le Rempart Elfique d’Eshe a été construit au sommet d’un de ces géants endormis.		Sous la terre, ses feux continuent de faire rage, ce qui se ressent parfois à Eshe sous la forme de légers grondements passagers dans le sol. Les Paysans n’y prêtent pas attention : comme le mal de mer, on finit par s’y habituer.
 
 Message:
 Les archers Elfiques en ont fait un défi de précision. Ceux qui parviennent à atteindre leur cible pendant l'une des secousses d'Eshe sont considérés comme les grands champions de leur discipline.		Mais c’est au combat que l’on mesure véritablement le courage de chacun. Lorsque la nouvelle de votre quête parvient jusqu’aux forêts périphériques, plusieurs elfes à l’oeil de faucon n’hésitent pas à quitter leurs terrains d’entraînement pour s’engager dans la campagne de recrutement.
@@ -714,7 +714,7 @@ Les archers Elfiques en ont fait un défi de précision. Ceux qui parviennent à at
 
 ***Event Texts***
 Message:
-Vous avez déjà eu affaire aux sorciers d’Undearth par le passé ; une bande hétéroclite, mais versée dans les arts de la magie. Autour d’une chope de bière, vous concluez une alliance fragile mais prometteuse.		En gage de bonne foi, aussi mince soit-elle, le conseil d’Undearth envoie ses serviteurs Troglodytes à la garnison afin qu’ils soient équipés de lances et entraînés au combat.
+Vous avez déjà eu affaire aux Démonistes d’Undearth par le passé ; une bande hétéroclite, mais versée dans les arts de la magie. Autour d’une chope de bière, vous concluez une alliance fragile mais prometteuse.		En gage de bonne foi, aussi mince soit-elle, le conseil d’Undearth envoie ses serviteurs Troglodytes à la garnison afin qu’ils soient équipés de lances et entraînés au combat.
 
 
 ***Event Texts***
@@ -724,7 +724,7 @@ Vous avez découvert que le château de Llacielo était pratiquement désert, à l'ex
 
 ***Event Texts***
 Message:
-Le fort de Guthwulf est en quelque sorte une enclave qui accueille tous ceux qui ne souhaitent pas prendre part à la conquête de Kilgor. Pour des Barbares, ils sont plutôt modestes et diplomates, ce qui facilite vos négociations de paix.		Mais ce sont tout de même des Barbares, et ils célèbrent donc votre arrivée par une grande fête ponctuée de tournois, de jeux et de combats de lutte. Au lever du jour, les casernes fourmillent de nouvelles recrues, encore un peu ivres mais pleines d’enthousiasme.
+Le Bastion de Guthwulf est en quelque sorte une enclave qui accueille tous ceux qui ne souhaitent pas prendre part à la conquête de Kilgor. Pour des Barbares, ils sont plutôt modestes et diplomates, ce qui facilite vos négociations de paix.		Mais ce sont tout de même des Barbares, et ils célèbrent donc votre arrivée par une grande fête ponctuée de tournois, de jeux et de combats de lutte. Au lever du jour, les casernes fourmillent de nouvelles recrues, encore un peu ivres mais pleines d’enthousiasme.
 
 
 ***Event Texts***
@@ -737,7 +737,7 @@ Tard dans la nuit, un garde en service aperçoit un lièvre doré s'engouffrer dans
 
 ***Event Texts***
 Message:
-Le fort de Blizzra a été construit par une tribu de Vori exilés. Tout comme vous, ils ont cherché refuge dans l’obscurité des cavernes pour échapper aux regards indiscrets, et voient donc en vous un allié inattendu.		Mais ce sont surtout les Kobolds, curieux de nature, qui se réjouissent de cette alliance entre la glace et le feu. Ils font savoir à leurs chasseurs et trappeurs, dans les contrées sauvages lointaines, que de grandes aventures les attendent.
+La Muraille de Blizzra a été construit par une tribu de Vori exilés. Tout comme vous, ils ont cherché refuge dans l’obscurité des cavernes pour échapper aux regards indiscrets, et voient donc en vous un allié inattendu.		Mais ce sont surtout les Kobolds, curieux de nature, qui se réjouissent de cette alliance entre la glace et le feu. Ils font savoir à leurs chasseurs et trappeurs, dans les contrées sauvages lointaines, que de grandes aventures les attendent.
 
 
 ***Event Texts***
@@ -762,11 +762,11 @@ Nécessite Expert Charisme
 
 ***Event Texts***
 Proposal Message:
-Cette garnison est tenue par quatre frères Épéistes. Ils souhaitent contenir la malédiction nécromantique qui s'est abattue sur le caveau familial et se méfient donc de laisser entrer n'importe qui, de peur que cela ne vienne grossir les rangs des Morts-Vivants.
+Cette garnison est tenue par quatre frères Spadassins. Ils souhaitent contenir la malédiction nécromantique qui s'est abattue sur le caveau familial et se méfient donc de laisser entrer n'importe qui, de peur que cela ne vienne grossir les rangs des Morts-Vivants.
 Progress Message:
-Jugeant que vous n'êtes pas à la hauteur pour affronter leurs ancêtres ressuscités, les quatre Épéistes refusent de vous laisser passer.
+Jugeant que vous n'êtes pas à la hauteur pour affronter leurs ancêtres ressuscités, les quatre Spadassins refusent de vous laisser passer.
 Completion Message:
-Convaincus que vous parviendrez à apaiser les âmes de leurs ancêtres ressuscités, les Épéistes abaissent le pont-levis et, compte tenu de l'enjeu personnel que représente cette quête pour eux, vous demandent de se battre à vos côtés.
+Convaincus que vous parviendrez à apaiser les âmes de leurs ancêtres ressuscités, les Spadassins abaissent le pont-levis et, compte tenu de l'enjeu personnel que représente cette quête pour eux, vous demandent de se battre à vos côtés.
 Hint:
 Nécessite Expert Charisme
 
@@ -796,7 +796,7 @@ Les ateliers sont en pleine effervescence, quatre Mages montent la garde sur le 
 Progress Message:
 Vous vous joignez aux gardiens mages pour une partie d'échecs, mais vous vous rendez vite compte que vous n'êtes pas de taille face à eux et que vous êtes battu. Il faudrait sans doute un esprit plus tactique pour l'emporter ici.
 Completion Message:
-Grâce à votre expertise tactique, vous avez battu chacun des quatre Rois mages aux échecs en combinant habilement le "gambit de la reine" et la "stratégie du mauvais pion de tour", après quoi ils se sont rendus et ont demandé à rejoindre vos rangs.
+Grâce à votre expertise tactique, vous avez battu chacun des quatre Rois mages aux échecs en combinant habilement le "gambit de la reine" et la "défense française", après quoi ils se sont rendus et ont demandé à rejoindre vos rangs.
 Hint:
 Nécessite Expert Tactique
 
@@ -806,7 +806,7 @@ Un fourré d'épines venimeuses se dresse devant vous. Pour avancer, vous devez pa
 Progress Message:
 Conscient des dangers que recèle ce fourré épineux, vous préférez faire demi-tour et y revenir peut-être lorsque vous aurez acquis une plus grande résistance.
 Completion Message:
-Habitué à endurer la douleur, vous vous frayez un chemin à travers le fourré épineux et, au milieu de celui-ci, vous découvrez l'artefact dont les pouvoirs ont provoqué sa croissance rapide. Lorsque vous le retirez, le fourré s'écarte, libérant le chemin devant vous.
+Habitué à endurer la douleur, vous vous frayez un chemin à travers le fourré épineux et, au milieu de celui-ci, vous découvrez l'artéfact dont les pouvoirs ont provoqué sa croissance rapide. Lorsque vous le retirez, le fourré s'écarte, libérant le chemin devant vous.
 Hint:
 Nécessite Expert Armurerie
 
