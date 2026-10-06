@@ -19,7 +19,7 @@ Tout ce que nous voyons et semblons voir n'est qu'un rêve dans un rêve.
 Name:
 ships
 Text:
-Pour obtenir le sort "Corne de Brume", naviguez jusqu'au coeur de la mer.
+Pour obtenir le sort Corne de Brume, naviguez jusqu'au coeur de la mer.
 
 Name:
 alcyon
