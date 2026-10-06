@@ -1,55 +1,55 @@
 ===== Map name =====
-Les legions maudites
+Les légions maudites
 
 ===== Map description =====
-Tout a commence d'un coup. Les terres rocheuses et volcaniques ont ete envahies par des Necromanciens, et certaines grottes regorgent de morts. Il semble qu'il n'y ait plus d'espoir : les Necromanciens sont arrives en force et leurs squelettes sont partout. Cependant, les armees des principaux forts sont determinees a tout bruler sur leur passage.
+Tout à commencé d'un coup. Les terres rocheuses et volcaniques ont été envahies par des Nécromanciens, et certaines grottes regorgent de morts. Il semble qu'il n'y ait plus d'espoir : les Nécromanciens sont arrivés en force et leurs squelettes sont partout. Cependant, les armées des principaux forts sont déterminées à tout brûler sur leur passage.
 
 ===== Rumors =====
 
 Name:
-Ğàçâàë Îñòğîâà
+The Fall of the Island
 Text:
-L'ile du milieu formait autrefois un tout, mais elle s'est scindee en deux a cause de l'ingerence des Magiciens.
+L'île du milieu formait autrefois un tout, mais elle s'est scindée en deux à cause de l'ingérence des Magiciens.
 
 Name:
-Ïîğòàëû
+Portals
 Text:
-J'ai entendu dire que les Necromanciens pouvaient utiliser un portail cache pour se deplacer rapidement et attaquer.
+J'ai entendu dire que les Nécromanciens pouvaient utiliser un portail cache pour se déplacer rapidement et attaquer.
 
 ===== Timed events =====
 
 Name:
-Ñòàğò - Òåìíèöà
+Start - Dungeon
 Message:
-Ces terres rocheuses ont longtemps servi de refuge aux Troglodytes et aux Harpies. Bien que bon nombre des votres vivent encore dans les grottes, vous avez reconquis la majeure partie du territoire. Cependant, comme par malchance, quelques problemes sont apparus. Le premier concerne les Necromanciens. Leurs visages osseux ont soudainement fait leur apparition pres de plusieurs donjons, effrayant beaucoup de monde par leur apparence repugnante. De plus, on est sans nouvelles des grottes depuis un certain temps ; il semble donc que quelque chose s'y soit egalement installe. Heureusement, le deuxieme probleme est un peu plus facile a resoudre : les Demons. Ils sont impitoyables et veulent s'emparer de vos terres, certes ; mais il semble qu'ils aient les memes problemes avec les Necromanciens que vous. Vous devriez essayer de reconquerir les terres des Demons apres avoir repris la plupart de vos donjons. Et, bien sur, chassez les Necromanciens ! Pour l'instant, le mieux est de puiser dans vos reserves et de rassembler les ressources que vous avez mis de cote pour les mauvais jours.
+Ces terres rocheuses ont longtemps servi de refuge aux Troglodytes et aux Harpies. Bien que bon nombre des votres vivent encore dans les grottes, vous avez reconquis la majeure partie du territoire. Cependant, comme par malchance, quelques problèmes sont apparus. Le premier concerne les Nécromanciens. Leurs visages osseux ont soudainement fait leur apparition près de plusieurs donjons, effrayant beaucoup de monde par leur apparence répugnante. De plus, on est sans nouvelles des grottes depuis un certain temps ; il semble donc que quelque chose s'y soit également installé. Heureusement, le deuxième problème est un peu plus facile à résoudre : les Démons. Ils sont impitoyables et veulent s'emparer de vos terres, certes ; mais il semble qu'ils aient les mêmes problèmes avec les Nécromanciens que vous. Vous devriez essayer de reconquérir les terres des Démons après avoir repris la plupart de vos donjons. Et, bien sûr, chassez les Nécromanciens ! Pour l'instant, le mieux est de puiser dans vos réserves et de rassembler les ressources que vous avez mis de côté pour les mauvais jours.
 
 Name:
-Ñòàğò - Èíôåğíî
+Start – Inferno
 Message:
-Cela fait longtemps que vous lorgnez sur les possessions de vos voisins. Les Sorciers ont envahi les terres rocheuses, et leurs serviteurs y menent la grande vie, meme s’ils ont davantage l’habitude de vivre dans des grottes. Vous sentez qu’ils s’appretent a s’emparer de vos terres et de vos grottes que vous aviez purge des Necromanciens. Il semble toutefois que les morts se soient egalement jetes sur eux. Vous devez vous depecher de faire trois choses : reprendre vos forteresses enflammees, contrecarrer les plans des Sorciers et aneantir tous les Morts-Vivants qui se dressent sur votre chemin. Heureusement, vous disposez d'une petite reserve de ressources, ce qui vous facilitera la tache au debut.
+Cela fait longtemps que vous lorgnez sur les possessions de vos voisins. Les Sorciers ont envahi les terres rocheuses, et leurs serviteurs y mènent la grande vie, même s’ils ont davantage l’habitude de vivre dans des grottes. Vous sentez qu’ils s’apprêtent à s’emparer de vos terres et de vos grottes que vous aviez purgé des Nécromanciens. Il semble toutefois que les morts se soient également jetés sur eux. Vous devez vous dépêcher de faire trois choses : reprendre vos forteresses enflammées, contrecarrer les plans des Sorciers et anéantir tous les Morts-Vivants qui se dressent sur votre chemin. Heureusement, vous disposez d'une petite réserve de ressources, ce qui vous facilitera la tâche au début.
 
 Name:
-Ïîìîùü ÈÈ
-Message:
-
-
-Name:
-Íåæèòü â ïåùåğàõ
-Message:
-Il semblerait que la principale force de Morts-vivants se trouve dans les grottes. Il vaudrait peut-etre la peine d'y envoyer un second commandant pour evaluer la situation.
-
-Name:
-Àğõèïåëàã Ïîñåğåäèíå
-Message:
-Votre conseiller vous recommande de rejoindre la mer, car selon certaines rumeurs, il existerait la-bas un archipel abritant des villes de l'alliance entre Erathia et Bracadia. Ces villes ne sont pour l'instant revendiquees par personne, mais un portail y est apparu, d'ou un eclaireur Necromancien aurait deja emerge. Il est possible que nous puissions nous approprier ces villes et acquerir des Archanges et des Titans... a condition, bien sur, de disposer des fonds necessaires.		De plus, la menace des Necromanciens pousse les refugies a affluer vers vos principales villes, ce qui signifie que vous disposez de davantage de recrues !
-
-Name:
-Ïîìîùü Íåêğîìàíòàì
+AI Support
 Message:
 
 
 Name:
-Îáîç
+Undead in the caves
+Message:
+Il semblerait que la principale force de Morts-vivants se trouve dans les grottes. Il vaudrait peut-être la peine d'y envoyer un second commandant pour évaluer la situation.
+
+Name:
+The Archipelago in the Middle
+Message:
+Votre conseiller vous recommande de rejoindre la mer, car selon certaines rumeurs, il existerait la-bas un archipel abritant des villes de l'alliance entre Erathia et Bracadia. Ces villes ne sont pour l'instant revendiquées par personne, mais un portail y est apparu, d'où un éclaireur Nécromancien aurait deja émergé. Il est possible que nous puissions nous approprier ces villes et acquérir des Archanges et des Titans... à condition, bien sûr, de disposer des fonds nécessaires.		De plus, la menace des Nécromanciens pousse les refugiés à affluer vers vos principales villes, ce qui signifie que vous disposez de davantage de recrues !
+
+Name:
+Help for Necromancers
+Message:
+
+
+Name:
+Caravan
 Message:
 Un petit convoi transportant des ressources vient d'arriver !
 
@@ -62,12 +62,12 @@ Un petit convoi transportant des ressources vient d'arriver !
 Timed events:
 
 Name:
-Ñóùåñòâà (Èãğîê+Êîìï)
+Creatures (Player + Computer)
 Message:
 
 
 Name:
-Ñóùåñòâà(Êîìï)
+Creatures (Computer)
 Message:
 
 
@@ -76,12 +76,12 @@ Message:
 Timed events:
 
 Name:
-Ñóùåñòâà(Èãğîê+Êîìï)
+Creatures (Player + Computer)
 Message:
 
 
 Name:
-Ñóùåñòâà(Êîìï)
+Creatures (Comp)
 Message:
 
 
@@ -90,34 +90,34 @@ Message:
 Timed events:
 
 Name:
-Ñóùåñòâà(Èãğîê+Êîìï)
+Creatures (Player + Computer)
 Message:
 
 
 Name:
-Ñóùåñòâà(Êîìï)
+Creatures (Computer)
 Message:
 
 
 (97, 12, 0) ***Sign***
 Message:
-Nord - Vallees des Seigneurs de Guerre	Est, Sud - Demeures des Sorciers	Sud-Est — Reseau de grottes
+Nord - Vallées des Seigneurs de Guerre	Est, Sud - Demeures des Sorciers	Sud-Est - Réseau de grottes
 
 (8, 100, 0) ***Sign***
 Message:
-Nord, Ouest - Forteresses Demoniaques - Terres desolees des Demons	Sud — Reseau de grottes
+Nord, Ouest - Forteresses Démoniaques - Terres désolées des Démons	Sud - Réseau de grottes
 
 (35, 96, 0) ***Inferno***
 
 Timed events:
 
 Name:
-Ñóùåñòâà(Èãğîê+Êîìï)
+Creatures (Player + Computer)
 Message:
 
 
 Name:
-Ñóùåñòâà(Êîìï)
+Creatures (Computer)
 Message:
 
 
@@ -126,7 +126,7 @@ Message:
 Timed events:
 
 Name:
-Ïğèõîä Íåæèòè
+The Coming of the Undead
 Message:
 
 
@@ -135,7 +135,7 @@ Message:
 Timed events:
 
 Name:
-Ïğèõîä Íåæèòè
+The Coming of the Undead
 Message:
 
 
@@ -144,7 +144,7 @@ Message:
 Timed events:
 
 Name:
-Ïğèõîä Íåæèòè
+The Coming of the Undead
 Message:
 
 
@@ -153,7 +153,7 @@ Message:
 Timed events:
 
 Name:
-Ïğèõîä Íåæèòè
+The Coming of the Undead
 Message:
 
 
@@ -162,7 +162,7 @@ Message:
 Timed events:
 
 Name:
-Ïğèõîä Íåæèòè
+The Coming of the Undead
 Message:
 
 
@@ -171,7 +171,7 @@ Message:
 Timed events:
 
 Name:
-Ïğèõîä Íåæèòè
+The Coming of the Undead
 Message:
 
 
@@ -180,7 +180,7 @@ Message:
 Timed events:
 
 Name:
-Ïğèõîä Íåæèòè
+The Coming of the Undead
 Message:
 
 
@@ -189,7 +189,7 @@ Message:
 Timed events:
 
 Name:
-Ïğèõîä Íåæèòè
+The Coming of the Undead
 Message:
 
 
