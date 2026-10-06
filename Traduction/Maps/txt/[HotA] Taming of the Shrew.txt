@@ -61,7 +61,7 @@ La princesse Cait dit "La Musaraigne" a disparu. Bien décidée à échapper aux con
 Name:
 intro cont.
 Message:
-En effet, vous n'êtes pas le seul prétendant. Trois autres cherchent à passer au fil de l'épée les alliés de Cait, une quête audacieuse qui ne manquera pas de lui faire gagner son coeur.		Vous vous retrouvez ainsi pris entre des rivaux, des Pirates et des Dragons. Vous devrez tous les vaincre, alors vous feraiez mieux de vous y mettre !
+En effet, vous n'êtes pas le seul prétendant. Trois autres cherchent à passer au fil de l'épée les alliés de Cait, une quête audacieuse qui ne manquera pas de lui faire gagner son coeur.		Vous vous retrouvez ainsi pris entre des rivaux, des Pirates et des Dragons. Vous devrez tous les vaincre, alors vous feriez mieux de vous y mettre !
 
 ===== Heroes =====
 
@@ -90,7 +90,7 @@ Pour repousser ses prétendants, Cait but la Fiole de Sang de Dragon, ce qui la t
 Name:
 Christian
 Biography:
-Bien qu'il porte le même nom qu'un chevalier légendaire, ce Pirate a une bien plus mauvaise réputation. Les Regnans le surnomment "Boule de Canon", car partout où il passe, le chaos et la pagaille règnent. Malgré ses manières grossières, on dit de lui qu'il est farouchement loyal envers ses amis.
+Bien qu'il porte le même nom qu'un chevalier légendaire, ce Pirate a une bien plus mauvaise réputation. Les Regnans le surnomment "Boulet de Canon", car partout où il passe, le chaos et la pagaille règnent. Malgré ses manières grossières, on dit de lui qu'il est farouchement loyal envers ses amis.
 
 Name:
 Teej
@@ -104,9 +104,9 @@ Biography:
 
 (89, 56, 0) ***Quest Guard***
 Message:
-Alors, Vous êtes venu réclamer ce trésor ? Laissez-moi vous proposer un échange équitable : un artefact contre un autre. Je vous donnerai ma relique en échange de l’Amulette du Fossoyeur.
-Vous conviendrez sûrement que l’Amulette du Fossoyeur est un prix raisonnable pour ma relique ? Revenez me la rapporter une fois que vous l’aurez trouvée. J’ai entendu dire qu’elle avait été aperçue pour la dernière fois dans une crypte située bien à l’ouest d’ici.
-Mais c’est... l’Amulette du Fossoyeur ! Il me la faut. Donnez-la-moi et ma relique sera à vous !
+Alors, Vous êtes venu réclamer ce trésor ? Laissez-moi vous proposer un échange équitable : un artefact contre un autre. Je vous donnerai ma Relique en échange de l’Amulette du Fossoyeur.
+Vous conviendrez sûrement que l’Amulette du Fossoyeur est un prix raisonnable pour ma Relique ? Revenez me la rapporter une fois que vous l’aurez trouvée. J’ai entendu dire qu’elle avait été aperçue pour la dernière fois dans une crypte située bien à l’ouest d’ici.
+Mais c’est... l’Amulette du Fossoyeur ! Il me la faut. Donnez-la-moi et ma Relique sera à vous !
 
 (86, 88, 0) ***Sign***
 Message:
@@ -130,9 +130,9 @@ Message:
 
 (106, 38, 0) ***Seer's Hut***
 Message:
-L'avantage de vivre dans une cabane dans les arbres, c'est qu'on n'est jamais à court de bois de chauffage. Le minerai, en revanche, est difficile à trouver. 		Apportez-moi 10 minerais et je vous donnerai une leçon d'Érudition.
-Vous semblez manquer de minerai, tout comme moi. Revenez quand vous aurez 10.
-En échange de 10 minerais, je vous enseignerai Disciple Érudition. Marché conclu ?
+L'avantage de vivre dans une cabane dans les arbres, c'est qu'on n'est jamais à court de Bois de chauffage. La Pierre, en revanche, est difficile à trouver. 		Apportez-moi 10 Pierres et je vous donnerai une leçon d'Érudition.
+Vous semblez manquer de Pierres, tout comme moi. Revenez quand vous en aurez 10.
+En échange de 10 Pierres, je vous enseignerai Disciple Érudition. Marché conclu ?
 
 (31, 58, 0) ***Sign***
 Message:
@@ -140,9 +140,9 @@ Forteresse de Hook		Entrée interdite !
 
 (70, 44, 0) ***Seer's Hut***
 Message:
-Bienvenue dans ma boutique de sorts ! 		J'ai l'impression que votre grimoire laisse à désirer. Si vous cherchez quelque chose de plus... électrisant, l'un de mes sorts d'air pourrait bien donner à votre magie le coup de fouet dont elle a besoin. 		Ça ne coûte que 4 000 pièces d'or !
-Vous n'avez pas 4 000 pièces d'or ? Je suis sous le choc ! 		Revenez me voir avec une bourse bien remplie et je vous apprendrai le sort Foudre Terrible.		Mais n'attendez pas trop longtemps : je ne vendrai ce sort qu'une seule fois !
-Pour le prix incroyablement bas de 4 000 pièces d'or, le sort Foudre Terrible est à vous !
+Bienvenue dans ma boutique de sorts ! 		J'ai l'impression que votre grimoire laisse à désirer. Si vous cherchez quelque chose de plus... électrisant, l'un de mes sorts d'air pourrait bien donner à votre magie le coup de fouet dont elle a besoin. 		Ça ne coûte que 4 000 Pièces d'Or !
+Vous n'avez pas 4 000 Pièces d'Or ? Je suis sous le choc ! 		Revenez me voir avec une bourse bien remplie et je vous apprendrai le sort Foudre Terrible.		Mais n'attendez pas trop longtemps : je ne vendrai ce sort qu'une seule fois !
+Pour le prix incroyablement bas de 4 000 Pièces d'Or, le sort Foudre Terrible est à vous !
 
 (79, 14, 0) ***Rampart***
 Name:
@@ -162,9 +162,9 @@ Summer
 
 (30, 106, 0) ***Seer's Hut***
 Message:
-Oh, un visiteur ! J'en reçois rarement. 		Puisque vous avez fait l'effort de venir jusqu'ici, laissez-moi vous faire une offre spéciale : je vous apprendrai le sort de Téléportation pour 7 unités de mercure.
+Oh, un visiteur ! J'en reçois rarement. 		Puisque vous avez fait l'effort de venir jusqu'ici, laissez-moi vous faire une offre spéciale : je vous apprendrai le sort de Téléportation pour 7 unités de Mercure.
 Bonjour à nouveau ! Je suis prêt à vous enseigner le sort de Téléportation dès que vous m'aurez donné 7 unités de Mercure.
-Comme j'habite loin de chez moi, j'ai maîtrisé le sort de Téléportation pour rendre visite à ma famille. J'espère que vous en ferez bon usage vous aussi ! 		Etes-vous prêt à me remettre les 7 unités de mercure ?
+Comme j'habite loin de chez moi, j'ai maîtrisé le sort de Téléportation pour rendre visite à ma famille. J'espère que vous en ferez bon usage vous aussi ! 		Etes-vous prêt à me remettre les 7 unités de Mercure ?
 
 (16, 92, 0) ***Sign***
 Message:
@@ -172,27 +172,27 @@ Message:
 
 (43, 38, 0) ***Seer's Hut***
 Message:
-Bonjour ! Je suis le cuisinier de la taverne. J'ai besoin de votre aide pour un problème culinaire.		J'avais l'habitude de préparer mon célèbre ragoût de Serpent de Mer pour les clients de la taverne. Mais je suis à court de l'ingrédient principal : le Serpent de Mer ! 		J'ai besoin d'au moins deux d'entre eux pour remettre ma cuisine en marche. En échange, je vous donnerai mon vieux bouclier.
+Bonjour ! Je suis le cuisinier de la taverne. J'ai besoin de votre aide pour un problème culinaire.		J'avais l'habitude de préparer mon célèbre ragoût de Serpent de Mer pour les clients de la taverne. Mais je suis à court de l'ingrédient principal : le Serpent de Mer ! 		J'ai besoin d'au moins 2 d'entre eux pour remettre ma cuisine en marche. En échange, je vous donnerai mon vieux bouclier.
 Un cuisinier sans son plat signature, c’est comme un chevalier sans son épée... !		J’espère trouver bientôt 2 Serpents de Mer, sinon je devrai vendre mes affaires pour joindre les deux bouts, y compris mon vieux bouclier...
-Enfin, deux Serpents de Mer ! Je vais vous préparer tout de suite une assiette de ragoût de Serpent de Mer, c'est offert par la maison !		Oh, et si cela ne suffit pas, voici le Bouclier Sentinelle.
+Enfin, 2 Serpents de Mer ! Je vais vous préparer tout de suite une assiette de ragoût de Serpent de Mer, c'est offert par la maison !		Oh, et si cela ne suffit pas, voici le Bouclier Sentinelle.
 
 (1, 61, 0) ***Quest Guard***
 Message:
-Alors, vous êtes venu réclamer ce trésor ? Laissez-moi vous proposer un échange équitable : un artefact contre un autre. Je vous donnerai ma relique en échange du Pendentif de Mort.
-Vous conviendrez sûrement que le Pendentif de Mort est un prix raisonnable pour ma relique ? Revenez me le rapporter une fois que vous l'aurez trouvé. J'ai entendu dire qu'il avait été aperçu pour la dernière fois dans une crypte située bien à l'est d'ici.
-Est-ce que c'est... le Pendentif de Mort ! Il me le faut absolument. Donnez-le-moi et ma relique sera à vous !
+Alors, vous êtes venu réclamer ce trésor ? Laissez-moi vous proposer un échange équitable : un artefact contre un autre. Je vous donnerai ma Relique en échange du Pendentif de Mort.
+Vous conviendrez sûrement que le Pendentif de Mort est un prix raisonnable pour ma Relique ? Revenez me le rapporter une fois que vous l'aurez trouvé. J'ai entendu dire qu'il avait été aperçu pour la dernière fois dans une crypte située bien à l'est d'ici.
+Est-ce que c'est... le Pendentif de Mort ! Il me le faut absolument. Donnez-le-moi et ma Relique sera à vous !
 
 (76, 82, 0) ***Seer's Hut***
 Message:
-Avez-vous déjà vu la sirène qui vit dans cette baie ? Elle est magnifique, n'est-ce pas ? J'ai très envie de lui parler, mais je n'arrive pas à trouver le courage de le faire. 		Peut-être que la Médaille du Courage m'aidera...
-Parler à une sirène est plus difficile que je ne l'imaginais. 		Si seulement j'avais la Médaille du Courage pour me remonter le moral...
-La Médaille du Courage ! Avec ça, je vais sûrement y arriver ! 		Je pars tout de suite parler à la sirène, mais avant de partir, laissez-moi augmenter votre compétence défense de 2 points. 		Oh, et vous êtes invité au mariage !
+Avez-vous déjà vu la Sirène qui vit dans cette baie ? Elle est magnifique, n'est-ce pas ? J'ai très envie de lui parler, mais je n'arrive pas à trouver le courage de le faire. 		Peut-être que la Médaille du Courage m'aidera...
+Parler à une Sirène est plus difficile que je ne l'imaginais. 		Si seulement j'avais la Médaille du Courage pour me remonter le moral...
+La Médaille du Courage ! Avec ça, je vais sûrement y arriver ! 		Je pars tout de suite parler à la Sirène, mais avant de partir, laissez-moi augmenter votre compétence de Défense de 2 points. 		Oh, et vous êtes invité au mariage !
 
 (78, 97, 0) ***Seer's Hut***
 Message:
 Je crois fermement aux vertus de la patience. Comme le dit le proverbe : "Tout vient à point à qui sait attendre." 		Revenez me voir lorsque vous aurez bien avancé dans votre périple et je vous offrirai un cadeau.
 Je vous aiderai le moment venu. Ce moment n'est pas encore arrivé ! 		Revenez me voir lorsque vous aurez acquis davantage d'expérience.
-Vous avez l'air de quelqu'un qui a beaucoup voyagé et vu beaucoup de choses. Ce voyage s'est-il bien passé ? Je l'espère !		Voici un cadeau pour vous faciliter un peu la tâche : les Bottes de Vitesse.
+Vous avez l'air de quelqu'un qui a beaucoup voyagé et vu beaucoup de choses. Ce voyage s'est-il bien passé ? Je l'espère !		Voici un cadeau pour vous faciliter un peu la tâche : les Bottes de Sept Lieues.
 
 (70, 69, 0) ***Pandora's Box***
 Message:
@@ -201,8 +201,8 @@ Message:
 (24, 89, 0) ***Seer's Hut***
 Message:
 J'étais Gladiateur à l'Arène, mais des monstres ont attaqué... Même moi, je n'ai pas pu les vaincre ! Maintenant, je reste assis ici à broyer du noir.		Si vous parvenez à faire ce que je n'ai pas pu faire, venez me voir après le combat.
-L'Arène se trouve au sud d'ici. Si vous battez les monstres, je vous apprendrai les techniques d'attaque de base. Bonne chance et bon combat !
-Enfin, l'Arène est sauvée ! J'ai hâte d'y retourner.		Mais avant de partir, laissez-moi vous enseigner les techniques d'attaque de base.
+L'Arène se trouve au sud d'ici. Si vous battez les monstres, je vous apprendrai Novice en Adresse. Bonne chance et bon combat !
+Enfin, l'Arène est sauvée ! J'ai hâte d'y retourner.		Mais avant de partir, laissez-moi vous enseigner Novice en Adresse.
 
 (12, 9, 0) ***Tower***
 Name:
@@ -214,8 +214,8 @@ Message:
 
 (16, 35, 0) ***Seer's Hut***
 Message:
-J'étais autrefois un grand guerrier. Mais aujourd'hui, mes jours de combat sont révolus, et je cherche quelqu'un à qui léguer mon Bouclier Dragon. 		Il faut au moins 10 en défense pour le manier.
-Je suis toujours à la recherche d'un héritier digne de mon Bouclier Dragon, un héros fort et robuste possédant au moins 10 en défense. 		Un jour, je vous le donnerai peut-être même !
+J'étais autrefois un grand guerrier. Mais aujourd'hui, mes jours de combat sont révolus, et je cherche quelqu'un à qui léguer mon Bouclier Dragon. 		Il faut au moins 10 en Défense pour le manier.
+Je suis toujours à la recherche d'un héritier digne de mon Bouclier Dragon, un héros fort et robuste possédant au moins 10 en Défense. 		Un jour, je vous le donnerai peut-être même !
 Vous êtes celui que je cherchais : un héros assez fort pour porter mon Bouclier Dragon. Bonne chance, et bon combat !
 
 (97, 7, 0) ***Seer's Hut***
@@ -226,9 +226,9 @@ Voilà enfin un vrai guerrier ! Ce serait un honneur pour moi de vous entraîner.
 
 (66, 4, 0) ***Seer's Hut***
 Message:
-Il commence à faire froid, n'est-ce pas ? Je devrais sans doute construire une étable pour mes cochons afin qu'ils puissent passer l'hiver. Auriez-vous la gentillesse de m'apporter 10 unités de bois ?
-Bonjour à nouveau ! Je suis en train de préparer ma ferme pour les jours d'hiver à venir, mais ce serait beaucoup plus facile si j'avais plus de matériaux, 10 morceaux de bois, pour être précis.
-Ces 10 unités de bois me seront d'une grande aide ! En échange, je vous donnerai une partie de mon cheptel : 18 Sangliers.
+Il commence à faire froid, n'est-ce pas ? Je devrais sans doute construire une étable pour mes cochons afin qu'ils puissent passer l'hiver. Auriez-vous la gentillesse de m'apporter 10 unités de Bois ?
+Bonjour à nouveau ! Je suis en train de préparer ma ferme pour les jours d'hiver à venir, mais ce serait beaucoup plus facile si j'avais plus de matériaux, 10 unités de Bois, pour être précis.
+Ces 10 unités de Bois me seront d'une grande aide ! En échange, je vous donnerai une partie de mon cheptel : 18 Sangliers.
 
 (107, 14, 0) ***Sign***
 Message:
@@ -236,9 +236,9 @@ Cascade des Valkyries
 
 (81, 30, 0) ***Seer's Hut***
 Message:
-Grâce à mes recherches sur l'arcane, j'ai découvert un moyen d'imprégner une personne de mana brut, ce qui augmente sa puissance magique de 2 points. Cependant, je dois encore effectuer quelques tests... sur un cobaye, bien sûr. 		Je recherche un héros suffisamment puissant pour résister à toute la puissance d'un flux arcanique. Il doit être au moins de niveau 8.
-Les cobayes se font rares ces temps-ci. J’ai cherché partout un sujet d’expérience adapté à mon expérience sur la puissance des sorts, mais je n’arrive pas à trouver qui que ce soit...
-Ah, vous êtes le sujet idéal pour mon expérience arcanique. Si mes calculs sont exacts, cela devrait augmenter votre puissance des sorts de 2 points. Ne bougez pas, ça risque de piquer un peu...
+Grâce à mes recherches sur l'arcane, j'ai découvert un moyen d'imprégner une personne de mana brut, ce qui augmente sa Magie de 2 points. Cependant, je dois encore effectuer quelques tests... sur un cobaye, bien sûr. 		Je recherche un héros suffisamment puissant pour résister à toute la puissance d'un flux arcanique. Il doit être au moins de niveau 8.
+Les cobayes se font rares ces temps-ci. J’ai cherché partout un sujet d’expérience adapté à mon expérience sur la Magie, mais je n’arrive pas à trouver qui que ce soit...
+Ah, vous êtes le sujet idéal pour mon expérience arcanique. Si mes calculs sont exacts, cela devrait augmenter votre Magie de 2 points. Ne bougez pas, ça risque de piquer un peu...
 
 (17, 66, 0) ***Seer's Hut***
 Message:
@@ -252,9 +252,9 @@ Message:
 
 (73, 106, 0) ***Seer's Hut***
 Message:
-"La connaissance, c'est le pouvoir." Beaucoup l'ont dit, mais rares sont ceux qui le pensent vraiment. Et vous ?
-Je ne m'associerai qu'à quelqu'un qui connaît le véritable pouvoir de la connaissance. 		Si tant est que cette personne existe...
-Je vois que vous êtes un véritable adepte de la connaissance. Je serais honoré de me joindre à vous. On y va ?
+"Le Savoir, c'est le pouvoir." Beaucoup l'ont dit, mais rares sont ceux qui le pensent vraiment. Et vous ?
+Je ne m'associerai qu'à quelqu'un qui connaît le véritable pouvoir du Savoir. 		Si tant est que cette personne existe...
+Je vois que vous êtes un véritable adepte du Savoir. Je serais honoré de me joindre à vous. On y va ?
 
 (64, 87, 0) ***Ocean Bottle***
 Message:
@@ -285,7 +285,7 @@ Message:
 (3, 16, 0) ***Seer's Hut***
 Message:
 Je suis un médecin qui cherche à redonner la vue aux aveugles. C'est un objectif ambitieux, mais comme le dit le proverbe : "Visez les étoiles" !		Pour commencer, je vais devoir étudier la cécité des Troglodytes. Apportez-m'en 14 et je vous ferai part de mes découvertes.
-J'ai entendu parler d'un donjon situé dans les terres désolées du sud. C'est là que vivent les Troglodytes.		Apportez-moi 14 Troglodytes afin que je puisse commencer mes recherches sur leur cécité.
+J'ai entendu parler d'un Donjon situé dans les terres désolées du sud. C'est là que vivent les Troglodytes.		Apportez-moi 14 Troglodytes afin que je puisse commencer mes recherches sur leur cécité.
 Ces 14 Troglodytes m'aideront à me rapprocher d'un remède contre la cécité. Vous avez accompli une bonne action aujourd'hui !		En récompense, je peux vous enseigner tout ce que je sais sur la cécité.
 
 (78, 49, 0) ***Pandora's Box***
@@ -318,7 +318,7 @@ Message:
 
 (14, 32, 0) ***Sign***
 Message:
-: Le Canyon des Taureaux :		Nord - Le Lac des Yeux Maléfiques	Ouest - Étang aux gemmes	Est - Ruche des Guêpes-Dragons	Sud - Chantier naval
+: Le Canyon des Taureaux :		Nord - Le Lac des Yeux Maléfiques	Ouest - Gisement de Gemmes	Est - Essaim	Sud - Chantier naval
 
 (8, 82, 0) ***Pandora's Box***
 Message:
@@ -342,7 +342,7 @@ Bull Creek
 
 (52, 64, 0) ***Seer's Hut***
 Message:
-Je collectionne les monstres rares. Ça vous intéresse de faire un échange ?		En échange d’un Dragon d’Or et d’un Titan, je vous donnerai un Dragon Azur.
+Je collectionne les monstres rares. Êtes-vous intéressé par un échange ?		En échange d’un Dragon d’Or et d’un Titan, je vous donnerai un Dragon Azur.
 Ça vous intéresse toujours de faire un échange avec moi ? Apportez-moi un Dragon d’Or et un Titan, et je vous donnerai un Dragon Azur.
 Comme promis, voici un Dragon Azur en échange de votre Dragon d’Or et de votre Titan. Êtes-vous prêt à faire l’échange ?
 
@@ -352,9 +352,9 @@ Message:
 
 (102, 85, 0) ***Seer's Hut***
 Message:
-La récolte est abondante cette année. J'aurais bien besoin d'un coup de main dans les champs... voire de plusieurs paires de mains, en fait. 		Si vous m'amenez 15 ouvriers Hobbits, je vous paierai une part équitable de mes gains : 4 000 pièces d'or.
-La récolte de cette année s'annonce bien, mais ce serait plus facile avec quelques ouvriers supplémentaires. 		Si vous rencontrez des Hobbits au cours de vos voyages, 15 pour être précis, envoyez-les-moi et je vous paierai 4 000 pièces d'or.
-Ah, ces 15 Hobbits seront d'une grande aide pour la récolte. En échange de leurs services, je vous paierai 4 000 pièces d'or. Marché conclu ?
+La récolte est abondante cette année. J'aurais bien besoin d'un coup de main dans les champs... voire de plusieurs paires de mains, en fait. 		Si vous m'amenez 15 ouvriers Hobbits, je vous paierai une part équitable de mes gains : 4 000 Pièces d'Or.
+La récolte de cette année s'annonce bien, mais ce serait plus facile avec quelques ouvriers supplémentaires. 		Si vous rencontrez des Hobbits au cours de vos voyages, 15 pour être précis, envoyez-les-moi et je vous paierai 4 000 Pièces d'Or.
+Ah, ces 15 Hobbits seront d'une grande aide pour la récolte. En échange de leurs services, je vous paierai 4 000 Pièces d'Or. Marché conclu ?
 
 (50, 48, 0) ***Dungeon***
 Name:
@@ -374,13 +374,13 @@ Message:
 
 (36, 84, 0) ***Ocean Bottle***
 Message:
-: À vendre :		1 sort de Téléportation	Si ça t'intéresse, mets le cap vers le sud !
+: À vendre :		1 sort de Téléportation	Si ça vous intéresse, mettez le cap vers le sud !
 
 (39, 9, 0) ***Seer's Hut***
 Message:
-En explorant les montagnes, j'ai trouvé un trésor de 4 000 pièces d'or.		Je ne le donnerai qu'à quelqu'un en qui j'ai confiance et qui ne le gaspillera pas. Une bonne gestion financière demande de l'expérience : en avez-vous assez ?
-Je vais garder mes 4 000 pièces d'or pour l'instant. Vous ne semblez pas assez compétent pour en faire bon usage. Gagnez plus d'expérience et revenez quand vous aurez terminé !
-Hum, vous avez l'air de savoir gérer vos finances. 		Je suis sûr que vous ferez bon usage de ces 4 000 pièces d'or. Allez, filez !
+En explorant les montagnes, j'ai trouvé un trésor de 4 000 Pièces d'Or.		Je ne le donnerai qu'à quelqu'un en qui j'ai confiance et qui ne le gaspillera pas. Une bonne gestion financière demande de l'expérience : en avez-vous assez ?
+Je vais garder mes 4 000 Pièces d'Or pour l'instant. Vous ne semblez pas assez compétent pour en faire bon usage. Gagnez plus d'expérience et revenez quand vous aurez terminé !
+Hum, vous avez l'air de savoir gérer vos finances. 		Je suis sûr que vous ferez bon usage de ces 4 000 Pièces d'Or. Allez, filez !
 
 (61, 30, 0) ***Ocean Bottle***
 Message:
@@ -400,9 +400,9 @@ Repentez-vous ! La fin est proche.
 
 (9, 89, 1) ***Seer's Hut***
 Message:
-Au pied de cette cabane se trouve ma chambre forte à cristaux : un véritable trésor abritant les cristaux les plus rares et les plus brillants que vous ayez jamais vus. Une telle chambre forte ne doit pas rester sans surveillance, c’est pourquoi j’ai besoin de monstres puissants et robustes.		On dit que les Golems d’Or sont parfaitement adaptés à cette tâche. Apportez-m’en 3 et je vous récompenserai avec 10 cristaux.
-Il existe deux usines de Golems dans les tunnels de l’extrême Nord et de l’extrême Est. À ma connaissance, ce sont les seuls endroits où l’on peut forger des Golems d’Or. 		Je vous offre la somme considérable de 10 cristaux pour les trois !
-Parfait ! Avec ces trois Golems d’Or, mon coffre-fort sera à l’abri des intrus. 		Comme promis, je vous paierai 10 cristaux pour eux.
+Au pied de cette cabane se trouve ma chambre forte à Cristaux : un véritable trésor abritant les Cristaux les plus rares et les plus brillants que vous ayez jamais vus. Une telle chambre forte ne doit pas rester sans surveillance, c’est pourquoi j’ai besoin de monstres puissants et robustes.		On dit que les Golems d’Or sont parfaitement adaptés à cette tâche. Apportez-m’en 3 et je vous récompenserai avec 10 Cristaux.
+Il existe deux Machineries de Golems dans les tunnels de l’extrême Nord et de l’extrême Est. À ma connaissance, ce sont les seuls endroits où l’on peut forger des Golems d’Or. 		Je vous offre la somme considérable de 10 Cristaux pour les 3 !
+Parfait ! Avec ces 3 Golems d’Or, mon coffre-fort sera à l’abri des intrus. 		Comme promis, je vous paierai 10 Cristaux pour eux.
 
 (62, 97, 1) ***Seer's Hut***
 Message:
@@ -424,13 +424,13 @@ Blue Whale
 
 (45, 12, 1) ***Seer's Hut***
 Message:
-Bienvenue à la Boutique du Dragon ! Je fais le commerce d’artefacts draconiques.		Si vous m’apportez le Tabard Dragon, je vous donnerai le Collier Dents de Dragon. Un échange équitable, j’en suis sûr !
-Vous cherchez toujours le Tabard Dragon ? Il pourrait être n'importe où... Peut-être même tout au sud !		Si vous le trouvez, je suis prêt à vous l'échanger contre le Collier Dents de Dragon.
-En échange du Tabard Dragon, je vous donnerai le Collier Dents de Dragon. Marché conclu ?
+Bienvenue à la Boutique du Dragon ! Je fais le commerce d’artefacts draconiques.		Si vous m’apportez le Tabard Dragon, je vous donnerai le Collier Dent de Dragon. Un échange équitable, j’en suis sûr !
+Vous cherchez toujours le Tabard Dragon ? Il pourrait être n'importe où... Peut-être même tout au sud !		Si vous le trouvez, je suis prêt à vous l'échanger contre le Collier Dent de Dragon.
+En échange du Tabard Dragon, je vous donnerai le Collier Dent de Dragon. Marché conclu ?
 
 (50, 14, 1) ***Sign***
 Message:
-: Grotte des Baleiniers :		Nord - Étang aux gemmes	Ouest - Boutique du Dragon	Est - Portail à sens unique	Sud - Fort de Nix
+: Grotte des Baleiniers :		Nord - Gisement de Gemmes	Ouest - Boutique du Dragon	Est - Portail à sens unique	Sud - Fort de Nix
 
 (31, 74, 1) ***Cove***
 Name:
@@ -442,7 +442,7 @@ Tempest
 
 (60, 40, 1) ***Sign***
 Message:
-: Tunnels des Tempêtes :		Nord - Pilier des Yeux	Ouest - Sanctuaire du Gel	Est - Portail à sens unique	Sud - Repaire du Dragon
+: Tunnels des Tempêtes :		Nord - Souche Maudite	Ouest - Sanctuaire du Gel	Est - Portail à sens unique	Sud - Repaire du Dragon
 
 (61, 49, 1) ***Pandora's Box***
 Message:
