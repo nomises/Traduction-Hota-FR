@@ -21,7 +21,7 @@
 * `[HotA] Help!.txt`
 * `[HotA] The Cursed Legions.txt`
 * `[HotA] Taming of the Shrew.txt`
-* `[HotA] Paradise of the Mind.txt`
+* ~~`[HotA] Paradise of the Mind.txt`~~
 
 ## Problème
 * corriger l'erreur de traduction avec le [mode tactique](https://github.com/nomises/Traduction-Hota-FR/issues/120)
