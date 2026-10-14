@@ -17,9 +17,9 @@
 
 ## Maps
 * ~~`[HotA] Tutorial.txt`~~
-* `[HotA] Noble Nemesis.txt`
-* `[HotA] Help!.txt`
-* `[HotA] The Cursed Legions.txt`
+* ~~`[HotA] Noble Nemesis.txt`~~
+* ~~`[HotA] Help!.txt`~~
+* ~~`[HotA] The Cursed Legions.txt`~~
 * ~~`[HotA] Taming of the Shrew.txt`~~
 * `[HotA] Paradise of the Mind.txt`
 
