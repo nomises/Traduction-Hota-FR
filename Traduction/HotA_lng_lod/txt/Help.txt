@@ -528,9 +528,9 @@ Adventure Options
 Carte	"{Carte}
 
 Afficher la carte du monde à grande échelle."	
-Puzzle	"{Puzzle}
+Carte au Trésor	"{Carte au Trésor}
 
-Afficher la carte du Puzzle."	
+Affiche la Carte au Trésor."	
 Informations sur le Scénario	"{Informations sur le Scénario}
 
 Afficher des informations sur le scénario."	
