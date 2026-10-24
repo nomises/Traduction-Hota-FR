@@ -1,0 +1,163 @@
+Time: 2026-10-23 15:55:54 (23.10.2026 19:55:54 UTC)
+Windows Version 6.2 
+
+Exception EOSError in module H3DefTool.exe at 00091A8A.
+A call to an OS function failed.
+
+Function Calls:
+
+00491A8A | F:\Téléchargement\H3DefTool\H3DefTool.exe + 91A8A
+00491A8A | F:\Téléchargement\H3DefTool\H3DefTool.exe + 91A8A
+0043C638 ? F:\Téléchargement\H3DefTool\H3DefTool.exe + 3C638
+004CF0DD | F:\Téléchargement\H3DefTool\H3DefTool.exe + CF0DD
+00453268 | F:\Téléchargement\H3DefTool\H3DefTool.exe + 53268
+0043CB50 ? F:\Téléchargement\H3DefTool\H3DefTool.exe + 3CB50
+0043CBD4 ? F:\Téléchargement\H3DefTool\H3DefTool.exe + 3CBD4
+0043CB2C ? F:\Téléchargement\H3DefTool\H3DefTool.exe + 3CB2C
+0043CD21 ? F:\Téléchargement\H3DefTool\H3DefTool.exe + 3CD21
+00452D63 ? F:\Téléchargement\H3DefTool\H3DefTool.exe + 52D63
+75798509 ? C:\WINDOWS\System32\user32.dll + 38509
+75798307 ? C:\WINDOWS\System32\user32.dll + 38307
+7763823F ? C:\WINDOWS\SYSTEM32\ntdll.dll + 8823F
+775F60B9 ? C:\WINDOWS\SYSTEM32\ntdll.dll + 460B9
+757980D8 ? C:\WINDOWS\System32\user32.dll + 380D8
+775F3EF1 ? C:\WINDOWS\SYSTEM32\ntdll.dll + 43EF1
+775DBB33 ? C:\WINDOWS\SYSTEM32\ntdll.dll + 2BB33
+775F3E92 ? C:\WINDOWS\SYSTEM32\ntdll.dll + 43E92
+7562BDBC ? C:\WINDOWS\System32\KERNEL32.DLL + 1BDBC
+00456A7C | F:\Téléchargement\H3DefTool\H3DefTool.exe + 56A7C
+0043C638 | F:\Téléchargement\H3DefTool\H3DefTool.exe + 3C638
+004529F0 ? F:\Téléchargement\H3DefTool\H3DefTool.exe + 529F0
+00456BB3 | F:\Téléchargement\H3DefTool\H3DefTool.exe + 56BB3
+00457327 ? F:\Téléchargement\H3DefTool\H3DefTool.exe + 57327
+00452D63 ? F:\Téléchargement\H3DefTool\H3DefTool.exe + 52D63
+733E55CB ? C:\WINDOWS\system32\uxtheme.dll + 255CB
+733E345F ? C:\WINDOWS\system32\uxtheme.dll + 2345F
+733E3344 ? C:\WINDOWS\system32\uxtheme.dll + 23344
+733E3305 ? C:\WINDOWS\system32\uxtheme.dll + 23305
+733E3D51 ? C:\WINDOWS\system32\uxtheme.dll + 23D51
+733E3D19 ? C:\WINDOWS\system32\uxtheme.dll + 23D19
+73B10119 ? C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.6456_none_a865dda286726b5c\comctl32.dll + 20119
+73B101BB ? C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.6456_none_a865dda286726b5c\comctl32.dll + 201BB
+75796250 ? C:\WINDOWS\System32\user32.dll + 36250
+00456A7C ? F:\Téléchargement\H3DefTool\H3DefTool.exe + 56A7C
+73B65E6D ? C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.6456_none_a865dda286726b5c\comctl32.dll + 75E6D
+0041A9D8 ? F:\Téléchargement\H3DefTool\H3DefTool.exe + 1A9D8
+0042F3EC ? F:\Téléchargement\H3DefTool\H3DefTool.exe + 2F3EC
+00456A7C | F:\Téléchargement\H3DefTool\H3DefTool.exe + 56A7C
+00456249 ? F:\Téléchargement\H3DefTool\H3DefTool.exe + 56249
+775FCA87 ? C:\WINDOWS\SYSTEM32\ntdll.dll + 4CA87
+00456234 | F:\Téléchargement\H3DefTool\H3DefTool.exe + 56234
+004248F4 | F:\Téléchargement\H3DefTool\H3DefTool.exe + 248F4
+757A1C09 | C:\WINDOWS\System32\user32.dll + 41C09
+757982C5 | C:\WINDOWS\System32\user32.dll + 382C5
+757980D8 ? C:\WINDOWS\System32\user32.dll + 380D8
+75798509 ? C:\WINDOWS\System32\user32.dll + 38509
+757980D8 ? C:\WINDOWS\System32\user32.dll + 380D8
+757991F4 | C:\WINDOWS\System32\user32.dll + 391F4
+7579653A | C:\WINDOWS\System32\user32.dll + 3653A
+73B26602 | C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.6456_none_a865dda286726b5c\comctl32.dll + 36602
+73B265C8 ? C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.6456_none_a865dda286726b5c\comctl32.dll + 365C8
+73B6633E | C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.6456_none_a865dda286726b5c\comctl32.dll + 7633E
+757982C5 ? C:\WINDOWS\System32\user32.dll + 382C5
+75798509 ? C:\WINDOWS\System32\user32.dll + 38509
+775FDF9F ? C:\WINDOWS\SYSTEM32\ntdll.dll + 4DF9F
+757A1C09 | C:\WINDOWS\System32\user32.dll + 41C09
+757982C5 | C:\WINDOWS\System32\user32.dll + 382C5
+757979F1 ? C:\WINDOWS\System32\user32.dll + 379F1
+757980D8 ? C:\WINDOWS\System32\user32.dll + 380D8
+757979F1 | C:\WINDOWS\System32\user32.dll + 379F1
+75784BC6 | C:\WINDOWS\System32\user32.dll + 24BC6
+00456B5F | F:\Téléchargement\H3DefTool\H3DefTool.exe + 56B5F
+00453688 ? F:\Téléchargement\H3DefTool\H3DefTool.exe + 53688
+75798509 ? C:\WINDOWS\System32\user32.dll + 38509
+75798307 ? C:\WINDOWS\System32\user32.dll + 38307
+00452D63 ? F:\Téléchargement\H3DefTool\H3DefTool.exe + 52D63
+75BD65F5 ? C:\WINDOWS\System32\combase.dll + 1165F5
+76BAECF5 ? C:\WINDOWS\System32\oleaut32.dll + 1ECF5
+76BAEC73 ? C:\WINDOWS\System32\oleaut32.dll + 1EC73
+76C65ACC ? C:\WINDOWS\System32\MSCTF.dll + 35ACC
+7760B0B4 ? C:\WINDOWS\SYSTEM32\ntdll.dll + 5B0B4
+75BD65F5 ? C:\WINDOWS\System32\combase.dll + 1165F5
+76BAECF5 ? C:\WINDOWS\System32\oleaut32.dll + 1ECF5
+76BAEC73 ? C:\WINDOWS\System32\oleaut32.dll + 1EC73
+75AA100A ? C:\WINDOWS\System32\win32u.dll + 100A
+7579FE30 ? C:\WINDOWS\System32\user32.dll + 3FE30
+0045656F ? F:\Téléchargement\H3DefTool\H3DefTool.exe + 5656F
+76C65933 ? C:\WINDOWS\System32\MSCTF.dll + 35933
+00456A7C | F:\Téléchargement\H3DefTool\H3DefTool.exe + 56A7C
+76C662A3 ? C:\WINDOWS\System32\MSCTF.dll + 362A3
+0043C638 | F:\Téléchargement\H3DefTool\H3DefTool.exe + 3C638
+00456234 ? F:\Téléchargement\H3DefTool\H3DefTool.exe + 56234
+004248F4 | F:\Téléchargement\H3DefTool\H3DefTool.exe + 248F4
+757A1C09 | C:\WINDOWS\System32\user32.dll + 41C09
+757982C5 | C:\WINDOWS\System32\user32.dll + 382C5
+7762321A ? C:\WINDOWS\SYSTEM32\ntdll.dll + 7321A
+7578A605 ? C:\WINDOWS\System32\user32.dll + 2A605
+757980D8 ? C:\WINDOWS\System32\user32.dll + 380D8
+7579C674 ? C:\WINDOWS\System32\user32.dll + 3C674
+75796B6B | C:\WINDOWS\System32\user32.dll + 36B6B
+757809E0 ? C:\WINDOWS\System32\user32.dll + 209E0
+004BAB03 ? F:\Téléchargement\H3DefTool\H3DefTool.exe + BAB03
+757888EB | C:\WINDOWS\System32\user32.dll + 288EB
+0046E510 | F:\Téléchargement\H3DefTool\H3DefTool.exe + 6E510
+0046E54A ? F:\Téléchargement\H3DefTool\H3DefTool.exe + 6E54A
+0046E76A ? F:\Téléchargement\H3DefTool\H3DefTool.exe + 6E76A
+004D2BA0 | F:\Téléchargement\H3DefTool\H3DefTool.exe + D2BA0
+7562FCC7 | C:\WINDOWS\System32\KERNEL32.DLL + 1FCC7
+776182AC | C:\WINDOWS\SYSTEM32\ntdll.dll + 682AC
+...
+
+Registers:
+
+EAX = C0000022
+EBX = 00000000
+ECX = 00000000
+EDX = 00000000
+ESI = 00491A8A
+EDI = 0019F584
+EBP = 0019F35C
+ESP = 0019F334
+
+Stack Trace:
+
+0019F334: 0019F364 | TExcFrame.next
+0019F338: 00471944 | F:\Téléchargement\H3DefTool\H3DefTool.exe + 71944
+0019F33C: 0019F35C | TExcFrame.hEBP
+0019F340: 02510110
+0019F344: 024DCD01
+0019F348: 00000000
+0019F34C: 02510110
+0019F350: 00000000
+0019F354: 01001A79
+0019F358: 00000000
+0019F35C: 0019F3C0 | Last EBP
+0019F360: 00491A8F | F:\Téléchargement\H3DefTool\H3DefTool.exe + 91A8F
+0019F364: 0019F370 | TExcFrame.next
+0019F368: 00491C34 | F:\Téléchargement\H3DefTool\H3DefTool.exe + 91C34
+0019F36C: 0019F3C0 | TExcFrame.hEBP
+0019F370: 0019F3C8 | TExcFrame.next
+0019F374: 00491C5E | F:\Téléchargement\H3DefTool\H3DefTool.exe + 91C5E
+0019F378: 0019F3C0 | TExcFrame.hEBP
+0019F37C: 0043CB44
+0019F380: 024DCD40
+0019F384: 00000000
+0019F388: 00000000
+0019F38C: 00000000
+0019F390: 00000000
+0019F394: 00000000
+0019F398: 02516338
+0019F39C: 00000000
+0019F3A0: 00000000
+0019F3A4: 0019F3C8
+0019F3A8: 024DCD40
+0019F3AC: 0019F3D8
+0019F3B0: 0043C63D ? F:\Téléchargement\H3DefTool\H3DefTool.exe + 3C63D
+0019F3B4: 0019F584
+0019F3B8: 0250BC50
+0019F3BC: 00000000
+0019F3C0: 0019F3D8 | Last EBP
+0019F3C4: 004CF0E2 | F:\Téléchargement\H3DefTool\H3DefTool.exe + CF0E2
+
+================================================================================
+

@@ -1,0 +1,94 @@
+Time: 2026-10-24 06:27:42 (24.10.2026 10:27:42 UTC)
+Windows Version 6.2 
+
+Exception EOSError in module DefPreview.exe at 000614F9.
+System Error.  Code: 2.
+Le fichier spécifié est introuvable.
+
+Function Calls:
+
+004614F9 | F:\Téléchargement\DefPreview\DefPreview.exe + 614F9
+08000007 ? (07700000) + 900007
+004614F9 | F:\Téléchargement\DefPreview\DefPreview.exe + 614F9
+0047BCAB | F:\Téléchargement\DefPreview\DefPreview.exe + 7BCAB
+0047D7C2 | F:\Téléchargement\DefPreview\DefPreview.exe + 7D7C2
+0046C229 | F:\Téléchargement\DefPreview\DefPreview.exe + 6C229
+00438747 ? F:\Téléchargement\DefPreview\DefPreview.exe + 38747
+0043994B ? F:\Téléchargement\DefPreview\DefPreview.exe + 3994B
+00459A7B ? F:\Téléchargement\DefPreview\DefPreview.exe + 59A7B
+00442DBB ? F:\Téléchargement\DefPreview\DefPreview.exe + 42DBB
+00403990 ? F:\Téléchargement\DefPreview\DefPreview.exe + 3990
+75799708 ? C:\WINDOWS\System32\user32.dll + 39708
+00446BE4 ? F:\Téléchargement\DefPreview\DefPreview.exe + 46BE4
+00456E3F ? F:\Téléchargement\DefPreview\DefPreview.exe + 56E3F
+00456FED ? F:\Téléchargement\DefPreview\DefPreview.exe + 56FED
+75799681 ? C:\WINDOWS\System32\user32.dll + 39681
+00456FED ? F:\Téléchargement\DefPreview\DefPreview.exe + 56FED
+00415734 ? F:\Téléchargement\DefPreview\DefPreview.exe + 15734
+00425060 ? F:\Téléchargement\DefPreview\DefPreview.exe + 25060
+0044639C ? F:\Téléchargement\DefPreview\DefPreview.exe + 4639C
+004463B1 ? F:\Téléchargement\DefPreview\DefPreview.exe + 463B1
+775FCA87 ? C:\WINDOWS\SYSTEM32\ntdll.dll + 4CA87
+0041CA64 ? F:\Téléchargement\DefPreview\DefPreview.exe + 1CA64
+757A1C09 ? C:\WINDOWS\System32\user32.dll + 41C09
+757982C5 ? C:\WINDOWS\System32\user32.dll + 382C5
+75798509 ? C:\WINDOWS\System32\user32.dll + 38509
+00446BE4 | F:\Téléchargement\DefPreview\DefPreview.exe + 46BE4
+00456FED | F:\Téléchargement\DefPreview\DefPreview.exe + 56FED
+00415734 ? F:\Téléchargement\DefPreview\DefPreview.exe + 15734
+00425060 ? F:\Téléchargement\DefPreview\DefPreview.exe + 25060
+0044639C | F:\Téléchargement\DefPreview\DefPreview.exe + 4639C
+0041CA64 | F:\Téléchargement\DefPreview\DefPreview.exe + 1CA64
+757A1C09 | C:\WINDOWS\System32\user32.dll + 41C09
+757982C5 | C:\WINDOWS\System32\user32.dll + 382C5
+7763823F ? C:\WINDOWS\SYSTEM32\ntdll.dll + 8823F
+775F60B9 ? C:\WINDOWS\SYSTEM32\ntdll.dll + 460B9
+757980D8 ? C:\WINDOWS\System32\user32.dll + 380D8
+75796B6B | C:\WINDOWS\System32\user32.dll + 36B6B
+75AA10EA ? C:\WINDOWS\System32\win32u.dll + 10EA
+757888EB | C:\WINDOWS\System32\user32.dll + 288EB
+0045E59C | F:\Téléchargement\DefPreview\DefPreview.exe + 5E59C
+0045E5D6 ? F:\Téléchargement\DefPreview\DefPreview.exe + 5E5D6
+0045E7F6 ? F:\Téléchargement\DefPreview\DefPreview.exe + 5E7F6
+0047F920 | F:\Téléchargement\DefPreview\DefPreview.exe + 7F920
+7562FCC7 | C:\WINDOWS\System32\KERNEL32.DLL + 1FCC7
+776182AC | C:\WINDOWS\SYSTEM32\ntdll.dll + 682AC
+77618279 | C:\WINDOWS\SYSTEM32\ntdll.dll + 68279
+
+Registers:
+
+EAX = 00000000
+EBX = 00000002
+ECX = 00000000
+EDX = 00000000
+ESI = 004614F9
+EDI = 00000111
+EBP = 0019FAB0
+ESP = 0019FA88
+
+Stack Trace:
+
+0019FA88: 0019FAB8 | TExcFrame.next
+0019FA8C: 004610F0 | F:\Téléchargement\DefPreview\DefPreview.exe + 610F0
+0019FA90: 0019FAB0 | TExcFrame.hEBP
+0019FA94: 0019FB2C
+0019FA98: 02350220
+0019FA9C: 023C8FF8
+0019FAA0: 00000002
+0019FAA4: 00461400
+0019FAA8: 023C8FF8
+0019FAAC: 0800000B ? (07700000) + 90000B
+0019FAB0: 0019FAD4 | Last EBP
+0019FAB4: 004614FE | F:\Téléchargement\DefPreview\DefPreview.exe + 614FE
+0019FAB8: 0019FADC | TExcFrame.next
+0019FABC: 00461585 | F:\Téléchargement\DefPreview\DefPreview.exe + 61585
+0019FAC0: 0019FAD4 | TExcFrame.hEBP
+0019FAC4: 00000000
+0019FAC8: 02350220
+0019FACC: FFFFFFFF
+0019FAD0: 023C8ED8
+0019FAD4: 0019FB30 | Last EBP
+0019FAD8: 0047BCB0 | F:\Téléchargement\DefPreview\DefPreview.exe + 7BCB0
+
+================================================================================
+
